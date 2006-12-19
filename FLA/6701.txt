@@ -1,0 +1,26 @@
+2006.11.25 01:30
+
+Victim: Rdired drida
+Alliance: None
+Corp: Ggame Online Corp
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Smutt (laid the final blow)
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: avelution
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Harpy
+Weapon: Harpy
+
+

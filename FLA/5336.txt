@@ -1,0 +1,156 @@
+2007.04.25 23:20
+
+Victim: Bobby Atlas
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Hyperion
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Longrin
+Security: 3.2
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Tempest
+Weapon: Scourge Heavy Missile
+
+Name: Eteoneus (laid the final blow)
+Security: 0.8
+Alliance: Mercenary Coalition
+Corp: Seraphin Technologies
+Ship: Tempest
+Weapon: 1200mm Artillery Cannon II
+
+Name: Esaka
+Security: 4.4
+Alliance: Firmus Ixion
+Corp: Hunters Agency
+Ship: Rokh
+Weapon: Rokh
+
+Name: Sukur
+Security: 4.4
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Tempest
+Weapon: Tempest
+
+Name: Taschenflak
+Security: 4.8
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Raptor
+Weapon: Raptor
+
+Name: Br127
+Security: 5.0
+Alliance: Lotka Volterra
+Corp: FinFleet
+Ship: Scorpion
+Weapon: Hobgoblin II
+
+Name: Trooper B99
+Security: 1.1
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Drake
+Weapon: Bloodclaw Light Missile
+
+Name: Max Overpower
+Security: 5.0
+Alliance: Lotka Volterra
+Corp: FinFleet
+Ship: Raptor
+Weapon: Raptor
+
+Name: IsmaelYU5 Iluvatar
+Security: 5.0
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Myrmidon
+Weapon: 250mm Railgun II
+
+Name: Steve Dave
+Security: 4.1
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Hawk
+Weapon: TE-2100 Standard Missile Bay
+
+Name: Exitao
+Security: 5.0
+Alliance: YouWhat
+Corp: Cosmic Odyssey
+Ship: Celestis
+Weapon: Thunderbolt Heavy Missile
+
+Name: Rukaz
+Security: 3.1
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Crow
+Weapon: 'Arbalest' Standard Missile Launcher
+
+Name: Rarnac Brak
+Security: 0.0
+Alliance: YouWhat
+Corp: Cosmic Odyssey
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery I
+
+Name: L3dZ3P
+Security: 5.0
+Alliance: YouWhat
+Corp: Cosmic Odyssey
+Ship: Rokh
+Weapon: 'Limos' Cruise Launcher I
+
+Name: Possi
+Security: 4.8
+Alliance: Mercenary Coalition
+Corp: Seraphin Technologies
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Crovan
+Security: 2.8
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: albert camus
+Security: -8.0
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Ship: Claw
+Weapon: Claw
+
+Name: Kastmina
+Security: 2.0
+Alliance: Lotka Volterra
+Corp: FinFleet
+Ship: Rook
+Weapon: ECM - Ion Field Projector II
+
+
+Destroyed items:
+
+Heavy 'Knave' I Energy Drain
+Modal Mega Neutron Particle Accelerator I
+Modal Mega Neutron Particle Accelerator I
+Modal Mega Neutron Particle Accelerator I
+Antimatter Charge L, Qty: 320
+F-b10 Nominal Capacitor Regenerator
+F-b10 Nominal Capacitor Regenerator
+Large Armor Repairer II
+Energized Adaptive Nano Membrane II
+Armor Explosive Hardener II
+Armor Kinetic Hardener II
+Medium Standard Container (Cargo)
+Antimatter Charge L, Qty: 2073 (Cargo)
+Cap Booster 800, Qty: 10 (Cargo)
+Valkyrie II, Qty: 2 (Drone Bay)
+

@@ -1,0 +1,43 @@
+2007.02.28 23:15
+
+Victim: Praetorian Mardou
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Destroyed: Crow
+System: YZ-LQL
+Security: 0.0
+
+Involved parties:
+
+Name: Farjung
+Security: 0.1
+Alliance: Band of Brothers
+Corp: TAOSP
+Ship: Dominix
+Weapon: Valkyrie II
+
+Name: Aschera (laid the final blow)
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Reikoku
+Ship: Sabre
+Weapon: 200mm AutoCannon II
+
+Name: Crohnx
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Reikoku
+Ship: Thanatos
+Weapon: Templar
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 21
+'Arbalest' Standard Missile Launcher
+Gistii A-Type 1MN MicroWarpdrive
+Warp Disruptor II
+Local Hull Conversion Inertial Stabilizers I
+Local Hull Conversion Inertial Stabilizers I
+Beta Reactor Control: Diagnostic System I
+

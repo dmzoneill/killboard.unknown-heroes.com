@@ -1,0 +1,75 @@
+2007.03.23 21:52
+
+Victim: mr passie
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Destroyed: Jaguar
+System: O-ZXUV
+Security: 0.0
+
+Involved parties:
+
+Name: Major Digger (laid the final blow)
+Security: 5.0
+Alliance: Eternal Rapture
+Corp: Exotic Dancers Club
+Ship: Harbinger
+Weapon: Heavy Beam Laser II
+
+Name: Lazaroth
+Security: -0.2
+Alliance: Eternal Rapture
+Corp: Quantum Synergies
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: GodWin cadela
+Security: -1.7
+Alliance: Eternal Rapture
+Corp: Exotic Dancers Club
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: hezitationkillz
+Security: -1.4
+Alliance: Eternal Rapture
+Corp: Temptation inc.
+Ship: Retribution
+Weapon: Retribution
+
+Name: Smith9001
+Security: 0.1
+Alliance: Eternal Rapture
+Corp: Quantum Synergies
+Ship: Malediction
+Weapon: Dual Light Pulse Laser II
+
+Name: Jack Archer
+Security: -1.7
+Alliance: Eternal Rapture
+Corp: Quantum Synergies
+Ship: Myrmidon
+Weapon: Heavy Ion Blaster II
+
+Name: Evil Ted
+Security: -4.4
+Alliance: Eternal Rapture
+Corp: Exotic Dancers Club
+Ship: Raven
+Weapon: Hobgoblin I
+
+
+Destroyed items:
+
+150mm Light AutoCannon II
+Barrage S, Qty: 136
+Medium Shield Extender II
+1MN MicroWarpdrive II
+Fleeting Warp Scrambler I
+Local Hull Conversion Inertial Stabilizers I
+Inertia Stabilizers I
+E50 Prototype Energy Vampire (Cargo)
+Invulnerability Field II (Cargo)
+Barrage S, Qty: 2525 (Cargo)
+'Arbalest' Siege Missile Launcher (Cargo)
+

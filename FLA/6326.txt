@@ -1,0 +1,33 @@
+2006.11.12 14:23
+
+Victim: LE Hurrikan
+Alliance: None
+Corp: State War Academy
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Soldroz (laid the final blow)
+Security: 4.2
+Alliance: Freelancer Alliance
+Corp: Thors Hammers
+Ship: Raptor
+Weapon: 125mm Railgun II
+
+Name: Kristinne
+Security: 0.3
+Alliance: O X I D E
+Corp: W33D Corp.
+Ship: Ares
+Weapon: Light Ion Blaster II
+
+Name: D2O HeavyWater
+Security: 4.6
+Alliance: None
+Corp: Synergy.
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+

@@ -1,0 +1,64 @@
+2007.01.31 07:49
+
+Victim: Craxors
+Alliance: None
+Corp: Tarnak inc.
+Destroyed: Kestrel
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Weeble Wooble
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Catalyst
+Weapon: Catalyst
+
+Name: Alezra (laid the final blow)
+Security: 1.6
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Myrmidon
+Weapon: Warrior I
+
+Name: Teck7
+Security: 0.8
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ishtar
+Weapon: Valkyrie II
+
+Name: Feke
+Security: 4.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Moa
+Weapon: 250mm 'Scout' I Accelerator Cannon
+
+Name: truefranco
+Security: -0.3
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+Name: MrMaggot
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Hawk
+Weapon: TE-2100 Standard Missile Bay
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 111
+Standard Missile Launcher I
+Warp Disruptor I
+Ballistic Control System I
+Bloodclaw Light Missile, Qty: 1772 (Cargo)
+Sabretooth Light Missile, Qty: 500 (Cargo)
+Piranha Light Missile, Qty: 500 (Cargo)
+

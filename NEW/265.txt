@@ -1,0 +1,59 @@
+2007.02.27 22:50
+
+Victim: Bashar Miles
+Alliance: Band of Brothers
+Corp: Reikoku
+Destroyed: Eris
+System: YZ-LQL
+Security: 0.0
+
+Involved parties:
+
+Name: Porti (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Jaguar
+Weapon: 150mm Light AutoCannon II
+
+Name: coldkill
+Security: 1.8
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: Jorax
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Vexor
+Weapon: Hammerhead I
+
+Name: Tregaron
+Security: 1.7
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Cyclone
+Weapon: Vespa II
+
+Name: Ocara Nezus
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Hawk
+Weapon: Standard Missile Launcher II
+
+
+Destroyed items:
+
+125mm Railgun II, Qty: 3
+Improved Cloaking Device II
+Spike S, Qty: 128
+Warp Disrupt Probe, Qty: 10
+1MN MicroWarpdrive I
+Small Armor Repairer II
+Co-Processor II
+Inertia Stabilizers I, Qty: 2
+Javelin S, Qty: 2746 (Cargo)
+Warp Disrupt Probe, Qty: 4 (Cargo)

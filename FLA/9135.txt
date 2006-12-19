@@ -1,0 +1,31 @@
+2006.12.31 04:48
+
+Victim: Shenlung
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Covetor
+System: E-FIC0
+Security: 0.0
+
+Involved parties:
+
+Name: WarGod (laid the final blow)
+Security: 1.2
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Hurricane
+Weapon: Dual 180mm AutoCannon II
+
+
+Destroyed items:
+
+Spodumain Mining Crystal I
+Modulated Strip Miner II
+Modulated Strip Miner II
+Modulated Strip Miner II
+Spodumain, Qty: 70 (Cargo)
+Hemorphite Mining Crystal I, Qty: 3 (Cargo)
+Jaspet Mining Crystal I, Qty: 3 (Cargo)
+Veldspar Mining Crystal I, Qty: 2 (Cargo)
+Scordite Mining Crystal I, Qty: 3 (Cargo)
+

@@ -1,0 +1,43 @@
+2007.03.22 19:12
+
+Victim: Darc Kaahar
+Alliance: Freelancer Alliance
+Corp: Feel Good Inc.
+Destroyed: Vexor
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Snuggles theTerrible (laid the final blow)
+Security: 5.0
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Vulture
+Weapon: 250mm Railgun II
+
+Name: XxAngelxX
+Security: -1.8
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Curse
+Weapon: Valkyrie II
+
+Name: WarGod
+Security: 1.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Curse
+Weapon: Medium Beam Laser II
+
+
+Destroyed items:
+
+Light Neutron Blaster I
+Light Neutron Blaster I
+Antimatter Charge S, Qty: 139
+Damage Control I
+Energized Adaptive Nano Membrane I
+Antimatter Charge S, Qty: 2760 (Cargo)
+Hobgoblin II, Qty: 5 (Drone Bay)
+

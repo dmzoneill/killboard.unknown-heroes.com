@@ -1,0 +1,46 @@
+2006.12.09 16:25
+
+Victim: Dureth
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Tristan
+System: Isanamo
+Security: 0.6
+
+Involved parties:
+
+Name: starius3 (laid the final blow)
+Security: 1.2
+Alliance: None
+Corp: omen.
+Ship: Arazu
+Weapon: Hammerhead II
+
+
+Destroyed items:
+
+Small Nosferatu I
+Thorn Rocket, Qty: 12
+Rocket Launcher I
+Invulnerability Field I
+Damage Control I
+Small Armor Repairer I
+Isogen, Qty: 2 (Cargo)
+Nocxium, Qty: 5 (Cargo)
+Civilian Shield Booster I (Cargo)
+Small Armor Repairer I, Qty: 2 (Cargo)
+Small Energy Neutralizer I (Cargo)
+150mm Railgun I (Cargo)
+125mm Railgun I, Qty: 2 (Cargo)
+75mm Prototype I Gauss Gun (Cargo)
+Anode Light Electron Particle Cannon I (Cargo)
+Antimatter Charge S, Qty: 168 (Cargo)
+Iron Charge S, Qty: 100 (Cargo)
+Triple-sheathed Thermic Plating I (Cargo)
+Induced Multispectral ECM I (Cargo)
+F-293 Nutation Target Coupling (Cargo)
+Tracking Link I (Cargo)
+ECCM Projector I (Cargo)
+Warp Core Stabilizer I, Qty: 2 (Cargo)
+Basic Expanded Cargohold, Qty: 2 (Cargo)
+

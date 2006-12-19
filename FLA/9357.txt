@@ -1,0 +1,81 @@
+2007.05.07 22:47
+
+Victim: KaKaShI
+Alliance: YouWhat
+Corp: Princeps Corp
+Destroyed: Apocalypse
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Xpod85 (laid the final blow)
+Security: 0.3
+Alliance: The Foundation.
+Corp: NorCorp Security
+Ship: Abaddon
+Weapon: Mega Pulse Laser II
+
+Name: duece duece
+Security: 5.0
+Alliance: The Foundation.
+Corp: NorCorp Security
+Ship: Dominix
+Weapon: Ogre II
+
+Name: Stitcher
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Raven
+Weapon: Infiltrator I
+
+Name: Mocuker
+Security: 0.2
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Raven
+Weapon: Mjolnir Torpedo
+
+Name: haz zard
+Security: -2.3
+Alliance: The Foundation.
+Corp: Cornerstone Unlimited
+Ship: Ishkur
+Weapon: Hobgoblin II
+
+Name: coldkill
+Security: 1.9
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Nemesis
+Weapon: Nemesis
+
+Name: Argentus Orsus
+Security: 2.4
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Malediction
+Weapon: Warp Disruptor I
+
+
+Destroyed items:
+
+Mega Modulated Pulse Energy Beam I
+Mega Modulated Pulse Energy Beam I
+Mega Modulated Pulse Energy Beam I
+Mega Modulated Pulse Energy Beam I
+Multifrequency L
+Multifrequency L
+Multifrequency L
+100MN MicroWarpdrive I
+X5 Prototype I Engine Enervator
+Heat Sink II
+1600mm Reinforced Rolled Tungsten Plates I
+1600mm Reinforced Rolled Tungsten Plates I
+V-M15 Braced Multispectral Shield Matrix (Cargo)
+Radio L (Cargo)
+Standard L, Qty: 2 (Cargo)
+Ballistic Control System II (Cargo)
+'Arbalest' Siege Missile Launcher, Qty: 2 (Cargo)
+

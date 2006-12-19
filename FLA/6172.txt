@@ -1,0 +1,33 @@
+2006.11.09 21:38
+
+Victim: Tranklukator
+Alliance: R.I.S.K
+Corp: ReD eYe Inc.
+Destroyed: Capsule
+System: L-TS8S
+Security: 0.0
+
+Involved parties:
+
+Name: kermitfrog
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Puke (laid the final blow)
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: kone on
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Stiletto
+Weapon: 150mm Light AutoCannon II
+
+

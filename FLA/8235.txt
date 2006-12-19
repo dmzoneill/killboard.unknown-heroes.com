@@ -1,0 +1,44 @@
+2006.11.05 22:18
+
+Victim: Jet Sulu
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Ferox
+System: Haajinen
+Security: 0.8
+
+Involved parties:
+
+Name: KRULLEN Binazeski
+Security: 4.9
+Alliance: None
+Corp: The Initiative
+Ship: Apocalypse
+Weapon: Apocalypse
+
+Name: spirea (laid the final blow)
+Security: 4.9
+Alliance: None
+Corp: The Initiative
+Ship: Apocalypse
+Weapon: Tachyon Beam Laser II
+
+
+Destroyed items:
+
+200mm Carbide Railgun I
+Tungsten Charge M, Qty: 80
+Scourge Heavy Missile, Qty: 38
+Hellhound F.O.F. Heavy Missile I, Qty: 16
+Advanced 'Limos' Heavy Missile Bay I
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+Small Tractor Beam I
+Large Supplemental Barrier Emitter I
+Ballistic Deflection Field I
+Shield Power Relay I
+Local Power Plant Manager: Reaction Shield Power Relay I
+Electronics Upgrades (Cargo)
+Havoc Heavy Missile, Qty: 100 (Cargo)
+

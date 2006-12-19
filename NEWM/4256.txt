@@ -1,0 +1,30 @@
+2007.04.05 14:16
+
+Victim: FlobbMkII
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Taranis
+System: ZOYW-O
+Security: 0.0
+
+Involved parties:
+
+Name: stainage (laid the final blow)
+Security: -1.2
+Alliance: None
+Corp: Final-Vendetta
+Ship: Eos
+Weapon: Valkyrie II
+
+
+Destroyed items:
+
+Small Nosferatu I
+Light Neutron Blaster II
+Light Neutron Blaster II
+1MN MicroWarpdrive II
+J5 Prototype Warp Inhibitor I
+Micro Auxiliary Power Core I
+Overdrive Injector System I
+Warrior I (Drone Bay)
+

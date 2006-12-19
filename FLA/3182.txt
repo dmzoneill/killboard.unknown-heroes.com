@@ -1,0 +1,28 @@
+2007.03.19 15:12
+
+Victim: Laerana
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Incursus
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: DarkAlpha (laid the final blow)
+Security: -0.2
+Alliance: YouWhat
+Corp: Pringles Inc.
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+
+Destroyed items:
+
+75mm Compressed Coil Gun I
+Lead Charge S, Qty: 400
+Warp Scrambler I
+X5 Prototype I Engine Enervator
+Nanofiber Internal Structure I
+Lead Charge S, Qty: 1118 (Cargo)
+

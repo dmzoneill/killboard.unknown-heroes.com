@@ -1,0 +1,26 @@
+2007.01.01 16:00
+
+Victim: Black Tear
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Destroyed: Rifter
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Calishere
+Security: 0.1
+Alliance: None
+Corp: Caldari Provisions
+Ship: Flycatcher
+Weapon: Bloodclaw Light Missile
+
+Name: Kru5ty (laid the final blow)
+Security: -1.8
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Vagabond
+Weapon: 220mm Medium 'Scout' Autocannon I
+
+

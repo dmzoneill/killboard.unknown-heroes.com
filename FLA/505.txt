@@ -1,0 +1,42 @@
+2007.02.07 20:59
+
+Victim: awhiplash
+Alliance: Privateer Alliance
+Corp: Drones of Annihilation
+Destroyed: Rupture
+System: Jita
+Security: 0.9
+
+Involved parties:
+
+Name: Nova Paradise (laid the final blow)
+Security: 1.5
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Drake
+Weapon: Scourge Fury Heavy Missile
+
+Name: Ocara Nezus
+Security: 2.3
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Hawk
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+220mm Vulcan AutoCannon I
+220mm Vulcan AutoCannon I
+Fusion M, Qty: 212
+Bloodclaw Light Missile, Qty: 132
+SV-2000 Assault Missile Bay
+10MN MicroWarpdrive I
+Stasis Webifier I
+Medium I-a Polarized Armor Regenerator
+'Mendicant' Signal Booster I
+Radioisotope Explosive Hardener I
+Radioisotope Thermic Hardener I
+Titanium Sabot M, Qty: 1500 (Cargo)
+Bloodclaw Light Missile, Qty: 1876 (Cargo)
+

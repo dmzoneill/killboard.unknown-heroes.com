@@ -1,0 +1,33 @@
+2006.09.29 21:48
+
+Victim: Klaas Bruinsma
+Alliance: None
+Corp: The High Assen's Social Joint Venture
+Destroyed: Slasher
+System: F7C-H0
+Security: 0.0
+
+Involved parties:
+
+Name: W4RR10R (laid the final blow)
+Security: -1.5
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+Name: Bolinar
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Enyo
+Weapon: Enyo
+
+
+Destroyed items:
+
+Phalanx Rocket, Qty: 30
+'Malkuth' Rocket Launcher I
+1MN Afterburner I
+Phalanx Rocket, Qty: 65 (Cargo)
+

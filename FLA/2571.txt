@@ -1,0 +1,26 @@
+2007.02.22 22:24
+
+Victim: Ghu'ru Talozan
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Ishkur
+System: Aubenall
+Security: 0.4
+
+Involved parties:
+
+Name: GATLER (laid the final blow)
+Security: -5.2
+Alliance: None
+Corp: Die Ritter der Kokosnuss
+Ship: Hurricane
+Weapon: 220mm Vulcan AutoCannon II
+
+
+Destroyed items:
+
+75mm Gatling Rail II
+1MN MicroWarpdrive I
+Hammerhead II (Drone Bay)
+Warrior II, Qty: 3 (Drone Bay)
+

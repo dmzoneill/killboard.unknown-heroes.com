@@ -1,0 +1,49 @@
+2007.04.14 21:50
+
+Victim: Teck7
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Lachesis
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Gunship (laid the final blow)
+Security: 4.7
+Alliance: FATAL Alliance
+Corp: FATAL REVELATIONS
+Ship: Abaddon
+Weapon: Valkyrie I
+
+Name: Daimos Bellurdan
+Security: 5.0
+Alliance: FATAL Alliance
+Corp: Black Reign
+Ship: Lachesis
+Weapon: Warrior II
+
+Name: Raznek2
+Security: 5.0
+Alliance: FATAL Alliance
+Corp: FATAL REVELATIONS
+Ship: Myrmidon
+Weapon: Kapteyn Sensor Array Inhibitor I
+
+
+Destroyed items:
+
+Cynosural Field Generator I
+10MN MicroWarpdrive I
+Fleeting Warp Scrambler I
+Kapteyn Sensor Array Inhibitor I
+Kapteyn Sensor Array Inhibitor I
+Remote Sensor Dampener II
+Remote Sensor Dampener II
+F85 Peripheral Damage System I
+Medium Armor Repairer II
+Thorium Charge S, Qty: 100 (Cargo)
+Widowmaker Heavy Missile, Qty: 80 (Cargo)
+Thunderbolt Heavy Missile, Qty: 85 (Cargo)
+Havoc Heavy Missile, Qty: 85 (Cargo)
+

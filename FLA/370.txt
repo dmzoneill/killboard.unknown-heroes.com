@@ -1,0 +1,157 @@
+2007.01.28 22:32
+
+Victim: Lazydog
+Alliance: Firmus Ixion
+Corp: Band of Builders Inc.
+Destroyed: Megathron
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: vladdy2
+Security: 3.8
+Alliance: Imperial Republic Of the North
+Corp: VentureCorp
+Ship: Sleipnir
+Weapon: Sleipnir
+
+Name: TekkyHead
+Security: 0.7
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Tempest
+Weapon: Tempest
+
+Name: Kcyx
+Security: 4.9
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Deimos
+Weapon: Deimos
+
+Name: FotoFlame
+Security: 3.8
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Rokh
+Weapon: Rokh
+
+Name: Karnovsky (laid the final blow)
+Security: 4.7
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Eddmite
+Security: 5.0
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Enyo
+Weapon: Enyo
+
+Name: Ceapio
+Security: 1.6
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Malediction
+Weapon: Malediction
+
+Name: ElricUK
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Cerberus
+Weapon: Scourge Heavy Missile
+
+Name: AceMace
+Security: 4.9
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Cerberus
+Weapon: Scourge Heavy Missile
+
+Name: McGin
+Security: -3.5
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Akathrielah
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Echo147
+Security: 4.4
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Maller
+Weapon: Maller
+
+Name: Misha Mosqito
+Security: 2.4
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Taranis
+Weapon: 125mm Railgun II
+
+Name: Abandon
+Security: 1.4
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Muninn
+Weapon: Assault Missile Launcher II
+
+Name: WarGod
+Security: 0.8
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Assassin 2
+Security: 5.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+Name: Gogul
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Moa
+Weapon: 250mm Carbide Railgun I
+
+Name: TasmanianX
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Falcon
+Weapon: 'Hypnos' Ion Field ECM I
+
+
+Destroyed items:
+
+Heavy Diminishing Power System Drain I
+Ion Blaster Cannon I
+Ion Blaster Cannon I
+Ion Blaster Cannon I
+Ion Blaster Cannon I
+Ion Blaster Cannon I
+Quad LiF Fueled I Booster Rockets
+Heavy Electrochemical Capacitor Booster I
+Prototype I Sensor Booster
+F85 Peripheral Damage System I
+Magnetic Field Stabilizer II
+Magnetic Field Stabilizer II
+1600mm Reinforced Rolled Tungsten Plates I
+Iron Charge L, Qty: 2000 (Cargo)
+Cap Booster 800, Qty: 10 (Cargo)
+Warrior II, Qty: 20 (Drone Bay)
+

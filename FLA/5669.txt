@@ -1,0 +1,54 @@
+2006.10.09 21:56
+
+Victim: Elonaya Witch
+Alliance: None
+Corp: Federal Navy Academy
+Destroyed: Minmatar Shuttle
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Hosanna (laid the final blow)
+Security: -0.7
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Wolf
+Weapon: 280mm Howitzer Artillery II
+
+Name: Nil Desperandum
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Omen
+Weapon: Heavy Anode Pulse Particle Stream I
+
+Name: Lady Vanquish
+Security: -0.2
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Stabber
+Weapon: 280mm Howitzer Artillery II
+
+Name: Wodan NL
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Enyo
+Weapon: Enyo
+
+Name: Jack Phox
+Security: 2.8
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Crow
+Weapon: 'Arbalest' Standard Missile Launcher
+
+Name: DanyD
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Ship: Crow
+Weapon: TE-2100 Standard Missile Bay
+
+

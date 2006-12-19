@@ -1,0 +1,70 @@
+2007.03.26 04:44
+
+Victim: xargis
+Alliance: YouWhat
+Corp: Pringles Inc.
+Destroyed: Raven
+System: XZH-4X
+Security: 0.0
+
+Involved parties:
+
+Name: Guardian Agent / Serpentis Corporation
+
+Name: Jaig Maldara
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Rokh
+Weapon: Hornet II
+
+Name: Skull Fire (laid the final blow)
+Security: 0.8
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Raven
+Weapon: Mjolnir Torpedo
+
+Name: Matrixcvd
+Security: 5.0
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Caracal
+Weapon: Thunderbolt Heavy Missile
+
+Name: Ahramaine
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Taranis
+Weapon: Taranis
+
+Name: BladeMos
+Security: 3.4
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Falcon
+Weapon: Scourge Heavy Missile
+
+Name: Darquies Shade
+Security: 5.0
+Alliance: The Sundering
+Corp: ironwood ink
+Ship: Celestis
+Weapon: Upgraded 'Limos' Standard Missile Bay I
+
+
+Destroyed items:
+
+Juggernaut Torpedo, Qty: 13
+XT-9000 Cruise Launcher
+ZW-4100 Siege Missile Bay
+X-Large C5-L Emergency Shield Overload I
+Eutectic I Capacitor Charge Array
+Heat Dissipation Field II, Qty: 2
+Alumel-Wired I Sensor Augmentation
+Ballistic Control System I
+Type-D Power Core Modification: Diagnostic System
+Type-D Power Core Modification: Reaction Control
+Wrath Cruise Missile, Qty: 1701 (Cargo)
+Hornet I (Drone Bay)

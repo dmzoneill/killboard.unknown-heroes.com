@@ -1,0 +1,80 @@
+2006.05.07 21:45
+
+Victim: Lady LeJean
+Alliance: Sparta Alliance
+Corp: ATROX.
+Destroyed: Armageddon
+System: 3T7-M8
+Security: 0.0
+
+Involved parties:
+
+Name: TheBelgarion
+Security: 2.7
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Raven
+Weapon: Wrath Cruise Missile
+
+Name: Akiman
+Security: 2.1
+Alliance: Freelancer Alliance
+Corp: Lords Of Guile
+Ship: Taranis
+Weapon: Small 'Knave' I Energy Drain
+
+Name: bidman (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Raven
+Weapon: Bane Torpedo
+
+Name: haq aan
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Lords Of Guile
+Ship: Wolf
+Weapon: Wolf
+
+Name: Cockroach
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Apocalypse
+Weapon: Apocalypse
+
+Name: Rytak
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Kestrel
+Weapon: Remote Sensor Dampener I
+
+Name: CelticWarrior
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Lords Of Guile
+Ship: Cheetah
+Weapon: Cheetah
+
+
+Destroyed items:
+
+Mega Modulated Pulse Energy Beam I
+Mega Modulated Pulse Energy Beam I
+Mega Modulated Pulse Energy Beam I
+Mega Modulated Pulse Energy Beam I
+E500 Prototype Energy Vampire
+Multifrequency L
+Multifrequency L
+Multifrequency L
+Sensor Booster II
+Sensor Booster II
+Large Armor Repairer II
+Warp Core Stabilizer I
+Warp Core Stabilizer I
+Armor Kinetic Hardener II
+Armor Thermic Hardener II
+Hammerhead II (Drone Bay)
+

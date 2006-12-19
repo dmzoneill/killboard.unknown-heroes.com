@@ -1,0 +1,38 @@
+2006.10.01 23:02
+
+Victim: Drakin Korin
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Destroyed: Deimos
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Noobjuice (laid the final blow)
+Security: -0.9
+Alliance: None
+Corp: Omniscient Order
+Ship: Raven
+Weapon: Mjolnir Javelin Torpedo
+
+Name: Termy
+Security: 2.9
+Alliance: None
+Corp: Omniscient Order
+Ship: Raven
+Weapon: Valkyrie II
+
+
+Destroyed items:
+
+Heavy Neutron Blaster II
+Heavy Neutron Blaster II
+Heavy Neutron Blaster II
+Antimatter Charge M, Qty: 132
+Fleeting Warp Scrambler I
+Dark Blood Energized Adaptive Nano Membrane
+Dark Blood Energized Adaptive Nano Membrane
+E5 Prototype Energy Vampire (Cargo)
+Hammerhead II (Drone Bay)
+

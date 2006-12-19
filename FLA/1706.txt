@@ -1,0 +1,65 @@
+2007.01.01 16:45
+
+Victim: Tetrahagel
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Destroyed: Thorax
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: boo3916
+Security: 4.4
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Dominix
+Weapon: Dominix
+
+Name: Darknesss (laid the final blow)
+Security: -0.5
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Dominix
+Weapon: Ogre II
+
+Name: xlop
+Security: -1.0
+Alliance: None
+Corp: omen.
+Ship: Typhoon
+Weapon: Ogre I
+
+Name: Pistonbroke
+Security: -0.2
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Dominix
+Weapon: 250mm Railgun II
+
+Name: Murdoch Morf
+Security: 1.5
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Jaguar
+Weapon: X5 Prototype I Engine Enervator
+
+Name: Dr Wahoos
+Security: -3.3
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Raven
+Weapon: Medium 'Knave' I Energy Drain
+
+
+Destroyed items:
+
+250mm Carbide Railgun I
+Dread Guristas Tungsten Charge M, Qty: 80
+10MN Afterburner I
+Supplemental Scanning CPU I
+Type-D Power Core Modification: Capacitor Power Relay
+Type-D Power Core Modification: Capacitor Power Relay
+Type-D Power Core Modification: Reaction Control
+Antimatter Charge M, Qty: 1300 (Cargo)
+

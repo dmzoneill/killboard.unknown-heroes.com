@@ -1,0 +1,36 @@
+2006.10.18 14:59
+
+Victim: Rennard
+Alliance: None
+Corp: Deniz Mahsulleri Ofisi
+Destroyed: Malediction
+System: VRH-H7
+Security: 0.0
+
+Involved parties:
+
+Name: Noitaakka (laid the final blow)
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+Name: Guardian Chief Patroller / Serpentis Corporation
+
+
+Destroyed items:
+
+Dual Light Pulse Laser II
+Conflagration S
+Conflagration S
+'Arbalest' Rocket Launcher I
+Catalyzed Cold-Gas I Arcjet Thrusters
+Fleeting Progressive Warp Scrambler I
+Fleeting Progressive Warp Scrambler I
+Basic Co-Processor
+Barton Reactor Capacitor Recharger I (Cargo)
+Medium Nosferatu I (Cargo)
+Scorch S, Qty: 2 (Cargo)
+Gremlin Rocket, Qty: 884 (Cargo)
+

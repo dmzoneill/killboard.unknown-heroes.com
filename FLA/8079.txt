@@ -1,0 +1,19 @@
+2006.10.09 02:50
+
+Victim: Etera
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Destroyed: Capsule
+System: Litiura
+Security: 0.5
+
+Involved parties:
+
+Name: Admiral Black (laid the final blow)
+Security: -1.6
+Alliance: None
+Corp: Privateers
+Ship: Rupture
+Weapon: 650mm Artillery Cannon I
+
+

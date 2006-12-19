@@ -1,0 +1,26 @@
+2006.10.08 19:29
+
+Victim: Empire Phoenix2
+Alliance: Ghosts of Retribution
+Corp: Polytope
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Hosanna (laid the final blow)
+Security: -0.7
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Wolf
+Weapon: 280mm Howitzer Artillery II
+
+Name: TasKu
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Taranis
+Weapon: 125mm Railgun II
+
+

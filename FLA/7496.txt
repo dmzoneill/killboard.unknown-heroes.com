@@ -1,0 +1,123 @@
+2006.09.10 16:30
+
+Victim: Gornyak
+Alliance: R.I.S.K
+Corp: Silver Spike Corporation
+Destroyed: Raven
+System: X-7OMU
+Security: 0.0
+
+Involved parties:
+
+Name: Mad Mackem
+Security: -1.2
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: DDaisy
+Security: 4.6
+Alliance: CORE.
+Corp: VentureCorp
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Shiri elAzarinres
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+Name: Munch (laid the final blow)
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Armageddon
+Weapon: Tachyon Beam Laser II
+
+Name: MentalM
+Security: 5.2
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Sacrilege
+Weapon: Sacrilege
+
+Name: Eskiban Vlasic
+Security: 5.0
+Alliance: EVE Animal Control
+Corp: F.R.E.E. Explorer
+Ship: Megathron
+Weapon: 425mm Railgun I
+
+Name: Tarrant Arrlock
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Caracal
+Weapon: Thunderbolt Heavy Missile
+
+Name: copicus
+Security: 5.2
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Scorpion
+Weapon: Paradise Cruise Missile
+
+Name: Cordial Ripper
+Security: 3.7
+Alliance: None
+Corp: g guild
+Ship: Muninn
+Weapon: Fleeting Warp Scrambler I
+
+Name: Laboratus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Vexor
+Weapon: Vexor
+
+Name: Oldin Relic
+Security: 1.3
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Moa
+Weapon: 250mm Carbide Railgun I
+
+Name: Puke
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Raven
+Weapon: Vespa EC-600
+
+Name: Nende
+Security: 5.0
+Alliance: None
+Corp: Ashen Lion Mining and Production Consortium
+Ship: Scorpion
+Weapon: XT-9000 Cruise Launcher
+
+Name: GrumpyBear
+Security: 1.6
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Rook
+Weapon: Heavy Missile Launcher II
+
+
+Destroyed items:
+
+Mjolnir Torpedo, Qty: 30
+Siege Missile Launcher I
+Invulnerability Field I
+'Anointed' I EM Ward Reinforcement
+Alumel-Wired I Sensor Augmentation
+Alumel-Wired I Sensor Augmentation
+5a Prototype Shield Support I
+Ballistic Control System I
+Mjolnir Torpedo, Qty: 455 (Cargo)
+Juggernaut Torpedo, Qty: 780 (Cargo)
+

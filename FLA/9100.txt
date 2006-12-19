@@ -1,0 +1,40 @@
+2006.12.30 15:45
+
+Victim: digital oxygen
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Destroyed: Taranis
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Murdoch Morf (laid the final blow)
+Security: 1.4
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Rupture
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: WarGod
+Security: 1.2
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Hurricane
+Weapon: 425mm AutoCannon II
+
+Name: taylor04
+Security: -0.5
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Curse
+Weapon: Medium Diminishing Power System Drain I
+
+
+Destroyed items:
+
+Light Ion Blaster II
+Null S, Qty: 104
+X5 Prototype I Engine Enervator
+F-89 Synchronized Signal Amplifier
+

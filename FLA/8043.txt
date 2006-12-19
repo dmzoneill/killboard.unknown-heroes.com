@@ -1,0 +1,51 @@
+2006.10.06 23:39
+
+Victim: dastommy79
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Destroyed: Caracal
+System: Inaro
+Security: 0.8
+
+Involved parties:
+
+Name: Sorted (laid the final blow)
+Security: -1.4
+Alliance: None
+Corp: Privateers
+Ship: Caracal
+Weapon: Bloodclaw Light Missile
+
+Name: 1337pwner
+Security: -1.3
+Alliance: None
+Corp: Privateers
+Ship: Brutix
+Weapon: Brutix
+
+Name: Harmon Illuminati
+Security: 0.0
+Alliance: None
+Corp: Privateers
+Ship: Caracal
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+Piranha Light Missile, Qty: 96
+Sabretooth Light Missile, Qty: 96
+Assault Missile Launcher I
+Assault Missile Launcher I
+Assault Missile Launcher I
+Large Clarity Ward Booster I
+Warp Disruptor I
+'Langour' Drive Disruptor I
+Medium Capacitor Booster II
+Invulnerability Field I
+Cap Booster 400
+Cap Booster 400
+Ballistic Control System I
+Cap Booster 400, Qty: 3 (Cargo)
+Sensor Booster I (Cargo)
+

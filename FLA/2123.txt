@@ -1,0 +1,28 @@
+2007.01.22 18:09
+
+Victim: demotar
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Republic Fleet Firetail
+System: JU-OWQ
+Security: 0.0
+
+Involved parties:
+
+Name: WarGod (laid the final blow)
+Security: 1.4
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Curse
+Weapon: Infiltrator II
+
+
+Destroyed items:
+
+Standard Missile Launcher I
+'Malkuth' Standard Missile Launcher I
+'Deluge' ECM Burst I
+Local Hull Conversion Overdrive Injector I
+Local Hull Conversion Overdrive Injector I
+Local Hull Conversion Overdrive Injector I
+

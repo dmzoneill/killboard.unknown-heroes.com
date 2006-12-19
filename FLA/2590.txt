@@ -1,0 +1,26 @@
+2007.02.25 18:54
+
+Victim: TsukiWolf
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Retriever
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Atomic Mayhem (laid the final blow)
+Security: -0.8
+Alliance: None
+Corp: Bottomfeeders Inc
+Ship: Pilgrim
+Weapon: Vespa II
+
+
+Destroyed items:
+
+Strip Miner I
+Inertia Stabilizers I
+Inertia Stabilizers I
+Jaspet, Qty: 479 (Cargo)
+

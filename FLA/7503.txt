@@ -1,0 +1,108 @@
+2006.09.10 16:33
+
+Victim: AHAPXUCT
+Alliance: R.I.S.K
+Corp: SolaR KillerS
+Destroyed: Prophecy
+System: X-7OMU
+Security: 0.0
+
+Involved parties:
+
+Name: Mad Mackem
+Security: -1.2
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: DDaisy
+Security: 4.6
+Alliance: CORE.
+Corp: VentureCorp
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: d4ve
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Armageddon
+Weapon: Tachyon Beam Laser II
+
+Name: Terrorv1z (laid the final blow)
+Security: 5.1
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Scorpion
+Weapon: Wrath Cruise Missile
+
+Name: GrumpyBear
+Security: 1.6
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Rook
+Weapon: Scourge Heavy Missile
+
+Name: copicus
+Security: 5.2
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Scorpion
+Weapon: Paradise Cruise Missile
+
+Name: betabob
+Security: 3.9
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Armageddon
+Weapon: Tachyon Modal Laser I
+
+Name: Cordial Ripper
+Security: 3.7
+Alliance: None
+Corp: g guild
+Ship: Muninn
+Weapon: 425mm AutoCannon II
+
+Name: XxAngelxX
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Curse
+Weapon: Medium Diminishing Power System Drain I
+
+Name: Shiri elAzarinres
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Raven
+Weapon: XT-9000 Cruise Launcher
+
+Name: Matt Stoner
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Caracal
+Weapon: XR-3200 Heavy Missile Bay
+
+
+Destroyed items:
+
+Heavy Pulse Laser II
+Heavy Pulse Laser II
+Heavy Pulse Laser II
+Heavy Pulse Laser II
+Heavy Pulse Laser II
+Scorch M
+Scorch M
+Scorch M
+Havoc Heavy Missile, Qty: 30
+Supplemental Scanning CPU I
+Medium Armor Repairer II
+Tracking Enhancer II
+Tracking Enhancer II
+Conflagration M, Qty: 4 (Cargo)
+Havoc Heavy Missile, Qty: 130 (Cargo)
+Warrior I, Qty: 2 (Drone Bay)
+

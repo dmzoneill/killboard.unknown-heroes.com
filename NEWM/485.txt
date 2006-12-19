@@ -1,0 +1,51 @@
+2007.02.05 19:52
+
+Victim: Isabel Sweet
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Destroyed: Malediction
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: GrandMastaXP
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Rokh
+Weapon: Rokh
+
+Name: mr passie
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery I
+
+Name: Odinegras (laid the final blow)
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Taranis
+Weapon: Hobgoblin II
+
+Name: Dark Carnage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Crow
+Weapon: Sabretooth Light Missile
+
+
+Destroyed items:
+
+Dual Light Pulse Laser II
+Dual Light Pulse Laser II
+Dual Light Pulse Laser II
+Scorch S
+J5 Prototype Warp Inhibitor I
+Small Armor Repairer II
+Micro Auxiliary Power Core I
+Scorch S (Cargo)
+

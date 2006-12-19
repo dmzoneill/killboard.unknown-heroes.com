@@ -1,0 +1,73 @@
+2007.01.31 07:49
+
+Victim: DONJUAN v
+Alliance: None
+Corp: Tarnak inc.
+Destroyed: Thrasher
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Weeble Wooble
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Catalyst
+Weapon: Catalyst
+
+Name: truefranco (laid the final blow)
+Security: -0.3
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Feke
+Security: 4.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Moa
+Weapon: Moa
+
+Name: MrMaggot
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Hawk
+Weapon: Piranha Light Missile
+
+Name: Alezra
+Security: 1.6
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Myrmidon
+Weapon: Warrior I
+
+Name: Barkel
+Security: 0.4
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Scythe
+Weapon: Scythe
+
+Name: Teck7
+Security: 0.8
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ishtar
+Weapon: Ishtar
+
+
+Destroyed items:
+
+200mm AutoCannon I
+200mm AutoCannon I
+200mm AutoCannon I
+1MN MicroWarpdrive I
+Warp Disruptor I
+'Langour' Drive Disruptor I
+400mm Reinforced Titanium Plates I
+EMP S, Qty: 2533 (Cargo)
+Sabretooth Light Missile, Qty: 448 (Cargo)
+

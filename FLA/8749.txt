@@ -1,0 +1,29 @@
+2006.12.10 05:54
+
+Victim: Solis Khan
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Destroyed: Kestrel
+System: Isanamo
+Security: 0.6
+
+Involved parties:
+
+Name: Fjerkenstad (laid the final blow)
+Security: 1.0
+Alliance: None
+Corp: omen.
+Ship: Taranis
+Weapon: Light Neutron Blaster II
+
+
+Destroyed items:
+
+Sabretooth Light Missile
+Sabretooth Light Missile
+Sabretooth Light Missile
+Sabretooth Light Missile
+'Malkuth' Standard Missile Launcher I
+'Malkuth' Standard Missile Launcher I
+Caldari Shuttle Blueprint (Cargo)
+

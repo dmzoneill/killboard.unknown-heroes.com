@@ -1,0 +1,75 @@
+2007.04.28 18:15
+
+Victim: Damfoose
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Caracal
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Reverend Revelator
+Security: 1.5
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Brutix
+Weapon: Brutix
+
+Name: Konson
+Security: 3.7
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Retribution
+Weapon: Retribution
+
+Name: nyricia (laid the final blow)
+Security: 1.7
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Caracal
+Weapon: Widowmaker Heavy Missile
+
+Name: Ralin Bek
+Security: 1.4
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Rifter
+Weapon: Rifter
+
+Name: privateer32
+Security: 5.1
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Vexor
+Weapon: Vexor
+
+Name: Hojou
+Security: 0.4
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Incursus
+Weapon: Incursus
+
+Name: Indiano Arko
+Security: 0.6
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Hurricane
+Weapon: 650mm Medium Prototype I Siege Cannon
+
+
+Destroyed items:
+
+Thunderbolt Heavy Missile, Qty: 29
+Havoc Heavy Missile, Qty: 29
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+Invulnerability Field I
+Explosion Dampening Field I
+Ballistic Deflection Field I
+Ballistic Control System I
+Havoc Heavy Missile, Qty: 500 (Cargo)
+Widowmaker Heavy Missile, Qty: 500 (Cargo)
+

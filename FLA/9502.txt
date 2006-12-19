@@ -1,0 +1,102 @@
+2007.05.16 18:28
+
+Victim: Argentus Orsus
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Armageddon
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Karga Uga
+Security: 2.6
+Alliance: Ev0ke
+Corp: Asgard Schiffswerften
+Ship: Raven
+Weapon: Bane Javelin Torpedo
+
+Name: Tushani
+Security: 1.1
+Alliance: None
+Corp: Kamikaze Inc.
+Ship: Sabre
+Weapon: 250mm Light Artillery Cannon II
+
+Name: DrRockIT (laid the final blow)
+Security: -0.4
+Alliance: Ev0ke
+Corp: Asgard Schiffswerften
+Ship: Sacrilege
+Weapon: Heavy Beam Laser II
+
+Name: Caldari Citizen20020
+Security: 1.7
+Alliance: Ev0ke
+Corp: Asgard Schiffswerften
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Lord vanHelsing
+Security: 5.0
+Alliance: Ev0ke
+Corp: Asgard Schiffswerften
+Ship: Crow
+Weapon: Sabretooth Light Missile
+
+Name: Analogue Brain
+Security: -1.2
+Alliance: Ev0ke
+Corp: Asgard Schiffswerften
+Ship: Curse
+Weapon: Medium Nosferatu II
+
+Name: RheinKraft10
+Security: 2.5
+Alliance: Ev0ke
+Corp: Asgard Schiffswerften
+Ship: Arazu
+Weapon: Valkyrie I
+
+
+Destroyed items:
+
+Mega Pulse Laser I
+Mega Pulse Laser I
+Mega Pulse Laser I
+Radio L
+Radio L
+Radio L
+Barton Reactor Capacitor Recharger I
+Barton Reactor Capacitor Recharger I
+100MN MicroWarpdrive I
+Large 'Accommodation' Vestment Reconstructer I
+N-Type Kinetic Hardener I
+1600mm Reinforced Nanofiber Plates I
+Reactor Control Unit I
+Infrared S (Cargo)
+Standard L, Qty: 6 (Cargo)
+Wasp I, Qty: 3 (Cargo)
+Ogre I (Cargo)
+Nanoelectrical Co-Processor I, Qty: 2 (Cargo)
+Guristas Ship Log 573652885 (Cargo)
+Guristas Crystal Tag (Cargo)
+Guristas Gold Tag (Cargo)
+Salvager I, Qty: 2 (Cargo)
+Medium Shield Maintenance Bot I, Qty: 5 (Cargo)
+Small Tractor Beam I, Qty: 2 (Cargo)
+Ward Console, Qty: 31 (Cargo)
+Broken Drone Transceiver, Qty: 3 (Cargo)
+Burned Logic Circuit, Qty: 25 (Cargo)
+Damaged Artificial Neural Network, Qty: 11 (Cargo)
+Malfunctioning Shield Emitter, Qty: 27 (Cargo)
+Scorched Telemetry Processor, Qty: 35 (Cargo)
+Local Power Plant Manager: Diagnostic System I (Cargo)
+Mark I Generator Refitting: Diagnostic System (Cargo)
+Power Diagnostic System I, Qty: 2 (Cargo)
+Type-D Power Core Modification: Diagnostic System (Cargo)
+Local Power Plant Manager: Capacity Power Relay I (Cargo)
+Type-D Power Core Modification: Reaction Control (Cargo)
+Vespa I, Qty: 2 (Drone Bay)
+Medium Armor Maintenance Bot I (Drone Bay)
+

@@ -1,0 +1,19 @@
+2007.04.16 00:20
+
+Victim: Dahn Hott
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Destroyed: Capsule
+System: Hatakani
+Security: 0.9
+
+Involved parties:
+
+Name: Audemed (laid the final blow)
+Security: -1.9
+Alliance: Privateer Alliance
+Corp: Wraiths Reborn
+Ship: Stabber Fleet Issue
+Weapon: 220mm Medium 'Scout' Autocannon I
+
+

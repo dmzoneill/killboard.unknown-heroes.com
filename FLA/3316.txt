@@ -1,0 +1,37 @@
+2007.03.23 07:22
+
+Victim: Llondon Hilton
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Enyo
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Xordus (laid the final blow)
+Security: 1.6
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Harbinger
+Weapon: Focused Medium Pulse Laser II
+
+Name: Sexorella hotz
+Security: 5.0
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Raven
+Weapon: Hobgoblin II
+
+
+Destroyed items:
+
+E5 Prototype Energy Vampire
+Light Neutron Blaster I
+Light Neutron Blaster I
+Light Neutron Blaster I
+Antimatter Charge S, Qty: 106
+1MN MicroWarpdrive I
+Damage Control II
+Inertia Stabilizers I
+

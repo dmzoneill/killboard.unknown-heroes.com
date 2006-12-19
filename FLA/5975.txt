@@ -1,0 +1,26 @@
+2006.11.04 10:29
+
+Victim: cceiber
+Alliance: None
+Corp: Perkone
+Destroyed: Capsule
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Scorpio63
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Vengeance
+Weapon: Vengeance
+
+Name: nXus (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Raven
+Weapon: Bane Torpedo
+
+

@@ -1,0 +1,119 @@
+2007.04.10 14:50
+
+Victim: CUBANFOREVER
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Destroyed: Megathron
+System: 3QE-9Q
+Security: 0.0
+
+Involved parties:
+
+Name: Phoenus
+Security: 0.4
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Vindicator
+Weapon: Vindicator
+
+Name: Sivona (laid the final blow)
+Security: -1.1
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Eos
+Weapon: Ogre II
+
+Name: Ant5010
+Security: 1.7
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Megathron
+Weapon: Megathron
+
+Name: Nubiam
+Security: 4.9
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Crusader
+Weapon: Fleeting Progressive Warp Scrambler I
+
+Name: Frantico
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Crusader
+Weapon: Crusader
+
+Name: Dire Guristas Eraser / Guristas
+
+Name: kapten sortebil
+Security: 4.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Raptor
+Weapon: Raptor
+
+Name: Spacebar
+Security: 2.1
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Typhoon
+Weapon: Typhoon
+
+Name: 4SG GillHead
+Security: 5.0
+Alliance: S.E.R.A
+Corp: Seraphin Technologies
+Ship: Malediction
+Weapon: Malediction
+
+Name: abzzo
+Security: 1.7
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Malediction
+Weapon: Warp Disruptor I
+
+Name: Loomina
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Eris
+Weapon: TE-2100 Standard Missile Bay
+
+Name: Warriona Boom
+Security: 4.9
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Damnation
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: Ka'lorn Font'a
+Security: 4.1
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Anathema
+Weapon: J5b Phased Prototype Warp Inhibitor I
+
+
+Destroyed items:
+
+Modal Mega Electron Particle Accelerator I
+Modal Mega Electron Particle Accelerator I
+Modal Mega Electron Particle Accelerator I
+Antimatter Charge L, Qty: 600
+Prototype Cloaking Device I
+'Malkuth' Siege Missile Launcher I
+100MN MicroWarpdrive I
+Heavy F-RX Prototype I Capacitor Boost
+Cap Booster 800
+Cap Booster 800
+Cap Booster 800
+Cap Booster 800
+Pseudoelectron Containment Field I
+Insulated Stabilizer Array I
+Armor Kinetic Hardener I
+Antimatter Charge L, Qty: 2660 (Cargo)
+Juggernaut Torpedo, Qty: 268 (Cargo)
+Ogre I, Qty: 5 (Drone Bay)
+

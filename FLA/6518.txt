@@ -1,0 +1,26 @@
+2006.11.16 09:27
+
+Victim: capt robn0id2
+Alliance: United Connection's
+Corp: Igneus Auctorita
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Formosus Funus (laid the final blow)
+Security: 3.8
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Wolf
+Weapon: 150mm Light AutoCannon II
+
+Name: Micheal Ross
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Flycatcher
+Weapon: Standard Missile Launcher II
+
+

@@ -1,0 +1,84 @@
+2007.02.10 23:48
+
+Victim: Harlequinn
+Alliance: Red Moon Federation
+Corp: Confederation of Red Moon
+Destroyed: Falcon
+System: J-CIJV
+Security: 0.0
+
+Involved parties:
+
+Name: Drako Invictus (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Absolution
+Weapon: Heavy Pulse Laser II
+
+Name: Zephyrante
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Hyperion
+Weapon: Regulated Mega Ion Phase Cannon I
+
+Name: dctero
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: truefranco
+Security: 0.7
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Kerdrak
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Curse
+Weapon: Fleeting Warp Scrambler I
+
+Name: Hamos
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Caracal
+Weapon: Remote Sensor Dampener I
+
+Name: Elena Morkovka
+Security: 1.4
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Flycatcher
+Weapon: Rocket Launcher II
+
+Name: Arvo Henderson
+Security: 2.9
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Taranis
+Weapon: J5 Prototype Warp Inhibitor I
+
+
+Destroyed items:
+
+Covert Ops Cloaking Device II
+Bloodclaw Light Missile, Qty: 70
+Recon Probe Launcher I
+Assault Missile Launcher II
+Assault Missile Launcher II
+'Penumbra' I White Noise ECM
+BZ-5 Neutralizing Spatial Destabilizer ECM
+Dread Guristas ECM Multispectral Jammer
+'Hypnos' Ion Field ECM I
+'Hypnos' Ion Field ECM I
+Co-Processor II
+Signal Distortion Amplifier II
+Snoop Scanner Probe I, Qty: 34 (Cargo)
+

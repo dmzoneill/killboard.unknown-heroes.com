@@ -1,0 +1,46 @@
+2007.04.11 09:57
+
+Victim: Cockroach
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Malediction
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Minmatar Control Tower Medium / Eternity INC. (laid the final blow)
+
+Name: kapten sortebil
+Security: 4.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Raptor
+Weapon: Standard Missile Launcher I
+
+Name: Eleese
+Security: -0.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Dominix
+Weapon: Heavy Diminishing Power System Drain I
+
+Name: AIRB
+Security: 3.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Curse
+Weapon: Balmer Series Targeting Inhibitor I
+
+
+Destroyed items:
+
+Medium Modulated Pulse Energy Beam I
+'Limos' Rocket Launcher I
+Initiated Warp Jammer I
+X5 Prototype I Engine Enervator
+Beta Reactor Control: Capacitor Power Relay I
+Standard S (Cargo)
+Multifrequency S, Qty: 2 (Cargo)
+Phalanx Rocket, Qty: 815 (Cargo)
+

@@ -1,0 +1,34 @@
+2007.04.07 15:02
+
+Victim: misscoda
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Crow
+System: 3T7-M8
+Security: 0.0
+
+Involved parties:
+
+Name: Waywatcher
+Security: -1.8
+Alliance: Cruel Intentions
+Corp: Spartan Industries
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: MrIc3 (laid the final blow)
+Security: -0.1
+Alliance: Cruel Intentions
+Corp: Spartan Industries
+Ship: Sabre
+Weapon: 200mm AutoCannon II
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 129
+Upgraded 'Limos' Standard Missile Bay I
+Fleeting Progressive Warp Scrambler I
+Overdrive Injector System I
+Bloodclaw Light Missile, Qty: 1746 (Cargo)
+

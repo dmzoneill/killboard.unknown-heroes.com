@@ -1,0 +1,41 @@
+2007.04.17 01:55
+
+Victim: truefranco
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Destroyed: Kestrel
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: FA Avenger (laid the final blow)
+Security: 2.9
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Nidhoggur
+Weapon: Einherji
+
+Name: Ehxo
+Security: 4.9
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+Name: Stradivarious
+Security: 3.8
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Nidhoggur
+Weapon: Einherji
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 112
+Standard Missile Launcher I
+Upgraded 'Limos' Standard Missile Bay I
+Fleeting Warp Scrambler I
+Bloodclaw Light Missile, Qty: 336 (Cargo)
+

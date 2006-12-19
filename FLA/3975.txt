@@ -1,0 +1,54 @@
+2007.04.08 15:31
+
+Victim: Mescia
+Alliance: None
+Corp: Trutek
+Destroyed: Caldari Shuttle
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Elena Morkovka (laid the final blow)
+Security: 1.7
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: suddenshock
+Security: 4.0
+Alliance: Darklite inc Alliance
+Corp: Darklite inc
+Ship: Hawk
+Weapon: Bloodclaw Light Missile
+
+Name: gabla
+Security: 3.7
+Alliance: Darklite inc Alliance
+Corp: Darklite inc
+Ship: Incursus
+Weapon: Acolyte I
+
+Name: kakakarrr
+Security: -1.2
+Alliance: DeStInY.
+Corp: The Knights Of Camelot
+Ship: Rifter
+Weapon: Warp Disruptor I
+
+Name: Wallyx
+Security: 4.5
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Armageddon
+Weapon: Regulated Mega Electron Phase Cannon I
+
+Name: Porky
+Security: 1.9
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Crow
+Weapon: Warp Disruptor II
+
+

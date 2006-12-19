@@ -1,0 +1,125 @@
+2007.01.28 06:25
+
+Victim: jnliansun
+Alliance: None
+Corp: Brutor tribe
+Destroyed: Raven
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Nya
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Nidhoggur
+Weapon: Dragonfly
+
+Name: Sanal Gi (laid the final blow)
+Security: -0.6
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Scorpion
+Weapon: Ogre I
+
+Name: DrElJefeMD
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Tempest
+Weapon: Tempest
+
+Name: Zattron
+Security: 3.7
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Drake
+Weapon: Terror Assault Missile
+
+Name: Weeble Wooble
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Catalyst
+Weapon: Catalyst
+
+Name: Teck7
+Security: 0.8
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Lachesis
+Weapon: Hammerhead I
+
+Name: TroNaaR
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Celestis
+Weapon: Celestis
+
+Name: Nukuquqa Hestase
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Cormorant
+Weapon: Cormorant
+
+Name: darkviron
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Blackbird
+Weapon: Widowmaker Heavy Missile
+
+Name: silvrhawk
+Security: 4.4
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Crow
+Weapon: Gremlin Rocket
+
+Name: Mr Kilgore
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Huginn
+Weapon: XR-3200 Heavy Missile Bay
+
+Name: Jorax
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Enyo
+Weapon: Enyo
+
+Name: Alski
+Security: 2.7
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Maulus
+Weapon: Stasis Webifier I
+
+
+Destroyed items:
+
+Juggernaut Torpedo, Qty: 72
+ZW-4100 Siege Missile Bay
+ZW-4100 Siege Missile Bay
+ZW-4100 Siege Missile Bay
+ZW-4100 Siege Missile Bay
+ZW-4100 Siege Missile Bay
+Small Tractor Beam I
+F-b10 Nominal Capacitor Regenerator
+Co-Processor I
+Ballistic Control System I
+Ballistic Control System I
+250mm Railgun I, Qty: 2 (Cargo)
+Dread Guristas Iron Charge M, Qty: 1000 (Cargo)
+Juggernaut Torpedo, Qty: 783 (Cargo)
+Compulsive Multispectral ECM I (Cargo)
+ECCM - Omni I (Cargo)
+Kapteyn Sensor Array Inhibitor I (Cargo)
+Guristas Gold Tag (Cargo)
+Advanced 'Limos' Heavy Missile Bay I (Cargo)
+

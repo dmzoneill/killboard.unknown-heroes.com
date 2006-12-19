@@ -1,0 +1,19 @@
+2006.10.01 16:17
+
+Victim: Metalurgico
+Alliance: None
+Corp: Shillelagh Corp.
+Destroyed: Capsule
+System: GY5-26
+Security: 0.0
+
+Involved parties:
+
+Name: Kiztent (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Taranis
+Weapon: Light Ion Blaster I
+
+

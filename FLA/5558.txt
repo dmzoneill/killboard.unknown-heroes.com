@@ -1,0 +1,89 @@
+2006.10.08 00:06
+
+Victim: Reythe
+Alliance: United Confederation of Corporations
+Corp: The Valour
+Destroyed: Executioner
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Nil Desperandum
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Omen
+Weapon: Heavy Modulated Pulse Energy Beam I
+
+Name: Needa3
+Security: 5.0
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Rupture
+Weapon: Compact 'Limos' Assault Missile Bay I
+
+Name: TasKu
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Taranis
+Weapon: 125mm Railgun II
+
+Name: Paltar (laid the final blow)
+Security: 0.4
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Barukor
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Wolf
+Weapon: 200mm AutoCannon II
+
+Name: geewiz
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Enyo
+Weapon: 150mm Compressed Coil Gun I
+
+Name: avelution
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Caracal
+Weapon: Advanced 'Limos' Heavy Missile Bay I
+
+Name: Valadeya uthanaras
+Security: 3.7
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Armageddon
+Weapon: Tachyon Afocal Maser I
+
+Name: Traxex
+Security: 1.5
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Slinktress
+Security: 1.7
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Ishkur
+Weapon: Light Neutron Blaster I
+
+Name: Hojo Norem
+Security: 2.6
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Caracal
+Weapon: Heavy Missile Launcher I
+
+

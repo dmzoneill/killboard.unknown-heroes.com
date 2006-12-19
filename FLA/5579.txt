@@ -1,0 +1,33 @@
+2006.10.08 07:04
+
+Victim: Jaybird
+Alliance: None
+Corp: The Scope
+Destroyed: Capsule
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Danielson1012 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Crow
+Weapon: Gremlin Rocket
+
+Name: Swanny231
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Raptor
+Weapon: Thorn Rocket
+
+Name: Jaig Maldara
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Raptor
+Weapon: OE-5200 Rocket Launcher
+
+

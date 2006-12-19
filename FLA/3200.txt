@@ -1,0 +1,126 @@
+2007.03.20 22:06
+
+Victim: MohamedLoftie
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Destroyed: Curse
+System: L-C3O7
+Security: 0.0
+
+Involved parties:
+
+Name: Breed Love
+Security: -0.3
+Alliance: FATAL Alliance
+Corp: FATAL REVELATIONS
+Ship: Megathron
+Weapon: Megathron
+
+Name: USS OMAHA (laid the final blow)
+Security: 4.3
+Alliance: FATAL Alliance
+Corp: FATAL REVELATIONS
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Badboy K
+Security: 4.2
+Alliance: FATAL Alliance
+Corp: FATAL REVELATIONS
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: Maasu
+Security: -1.5
+Alliance: FATAL Alliance
+Corp: FATAL REVELATIONS
+Ship: Sabre
+Weapon: Sabre
+
+Name: mech2001
+Security: 3.6
+Alliance: FATAL Alliance
+Corp: FATAL REVELATIONS
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Enchantres
+Security: 5.0
+Alliance: FATAL Alliance
+Corp: FATAL REVELATIONS
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: tony1
+Security: 5.1
+Alliance: FATAL Alliance
+Corp: FATAL REVELATIONS
+Ship: Lachesis
+Weapon: Lachesis
+
+Name: Lewis Freeman
+Security: -0.4
+Alliance: FATAL Alliance
+Corp: Subach-Tech
+Ship: Raptor
+Weapon: Bloodclaw Light Missile
+
+Name: TinmanSAC
+Security: 2.8
+Alliance: FATAL Alliance
+Corp: FATAL REVELATIONS
+Ship: Myrmidon
+Weapon: 250mm Railgun II
+
+Name: Tarsig
+Security: 0.5
+Alliance: FATAL Alliance
+Corp: FATAL REVELATIONS
+Ship: Harbinger
+Weapon: Heavy Beam Laser II
+
+Name: Butch Johnson
+Security: 5.0
+Alliance: FATAL Alliance
+Corp: Black Reign
+Ship: Stabber
+Weapon: Medium Energy Neutralizer I
+
+Name: Tamryre
+Security: 5.0
+Alliance: FATAL Alliance
+Corp: FATAL REVELATIONS
+Ship: Cyclone
+Weapon: Cyclone
+
+Name: Kyar
+Security: 4.1
+Alliance: FATAL Alliance
+Corp: FATAL REVELATIONS
+Ship: Drake
+Weapon: Heavy Missile Launcher I
+
+Name: Dyden Nemor
+Security: -1.6
+Alliance: FATAL Alliance
+Corp: Black Reign
+Ship: Capsule
+Weapon: Fleeting Warp Scrambler I
+
+
+Destroyed items:
+
+Medium Nosferatu II
+Medium Nosferatu II
+E50 Prototype Energy Vampire
+Large F-S9 Regolith Shield Induction
+Medium C5-L Emergency Shield Overload I
+10MN MicroWarpdrive II
+Dread Guristas Warp Disruptor
+'Abandon' Targeting Disruptor I
+Inertia Stabilizers I
+Inertia Stabilizers I
+Local Hull Conversion Nanofiber Structure I
+Hammerhead II, Qty: 2 (Drone Bay)
+Valkyrie II (Drone Bay)
+

@@ -1,0 +1,44 @@
+2007.03.10 22:33
+
+Victim: Blaze Forerunner
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Destroyed: Raven
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: eXtas (laid the final blow)
+Security: 1.6
+Alliance: Privateer Alliance
+Corp: Kemono.
+Ship: Typhoon
+Weapon: Paradise Fury Cruise Missile
+
+Name: iggy6662k2
+Security: -1.8
+Alliance: Privateer Alliance
+Corp: Kemono.
+Ship: Sleipnir
+Weapon: Sleipnir
+
+Name: Ryysa
+Security: -1.9
+Alliance: Privateer Alliance
+Corp: North Face Force
+Ship: Huginn
+Weapon: Huginn
+
+
+Destroyed items:
+
+Mjolnir Torpedo, Qty: 14
+Siege Missile Launcher I
+Explosion Dampening Field II
+Photon Scattering Field I
+Sensor Booster I
+Co-Processor I
+Power Diagnostic System I
+Bane Torpedo, Qty: 1033 (Cargo)
+

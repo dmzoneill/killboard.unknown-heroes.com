@@ -1,0 +1,64 @@
+2007.04.21 14:52
+
+Victim: Mysteriosome
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Catalyst
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Kayron Brennan (laid the final blow)
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Shassandra
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Dominix
+Weapon: Warrior II
+
+Name: Nukuquqa Hestase
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Crow
+Weapon: Sabretooth Light Missile
+
+Name: Marie Veedor
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Raven
+Weapon: Cataclysm Cruise Missile
+
+Name: Dana Foxworth
+Security: 3.7
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Stabber
+Weapon: Stabber
+
+Name: Jet Sulu
+Security: 3.3
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Condor
+Weapon: Sabretooth Light Missile
+
+
+Destroyed items:
+
+150mm Railgun I
+150mm Railgun I
+150mm Railgun I
+150mm Railgun I
+Lead Charge S, Qty: 80
+Warp Disruptor I
+Inertia Stabilizers I
+

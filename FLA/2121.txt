@@ -1,0 +1,49 @@
+2007.01.22 16:25
+
+Victim: Kateryne
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Destroyed: Purifier
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: WarGod (laid the final blow)
+Security: 1.4
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Curse
+Weapon: Valkyrie II
+
+Name: K Shara
+Security: 4.8
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Cerberus
+Weapon: Thunderbolt Precision Heavy Missile
+
+Name: McGin
+Security: -3.5
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Myrmidon
+Weapon: Myrmidon
+
+
+Destroyed items:
+
+200mm AutoCannon II
+Barrage S, Qty: 59
+Paradise Cruise Missile, Qty: 46
+'Arbalest' Cruise Launcher I
+'Arbalest' Cruise Launcher I
+Low Frequency Sensor Suppressor I
+Alumel-Wired I Sensor Augmentation
+F-90 Positional Sensor Subroutines
+Ballistic Control System I
+Corpse (Cargo)
+Barrage S, Qty: 858 (Cargo)
+Devastator Cruise Missile, Qty: 1228 (Cargo)
+Obliterator F.O.F. Cruise Missile I, Qty: 200 (Cargo)
+

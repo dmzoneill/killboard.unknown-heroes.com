@@ -1,0 +1,89 @@
+2007.03.10 03:08
+
+Victim: Mannheim Wolf
+Alliance: Chorus of Dawn
+Corp: Independent Frontiers
+Destroyed: Tempest
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Fugnut
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Drake
+Weapon: Thunderbolt Heavy Missile
+
+Name: Inter Fectum (laid the final blow)
+Security: 2.0
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery I
+
+Name: white kight
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Drake
+Weapon: Heavy Missile Launcher I
+
+Name: scutterballturkey
+Security: 3.9
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Ishkur
+Weapon: 125mm Railgun II
+
+Name: Lane A'lusin
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Megathron
+Weapon: Megathron
+
+Name: Scotticus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: MrMaggot
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Hawk
+Weapon: Sabretooth Light Missile
+
+Name: RythemAndStealth
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Ferox
+Weapon: Heavy Missile Launcher I
+
+Name: Altanzar
+Security: 4.5
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Ship: Taranis
+Weapon: Fleeting Progressive Warp Scrambler I
+
+Name: Almagar Phog
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Blackbird
+Weapon: Induced Ion Field ECM I
+
+
+Destroyed items:
+
+Phased Plasma L, Qty: 1186 (Cargo)
+Juggernaut Torpedo, Qty: 282 (Cargo)
+Hammerhead I, Qty: 3 (Drone Bay)
+Infiltrator I (Drone Bay)
+

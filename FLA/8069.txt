@@ -1,0 +1,19 @@
+2006.10.08 19:31
+
+Victim: garoeda
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Destroyed: Capsule
+System: Sivala
+Security: 0.6
+
+Involved parties:
+
+Name: Morfane (laid the final blow)
+Security: -0.2
+Alliance: None
+Corp: Privateers
+Ship: Taranis
+Weapon: Light Neutron Blaster II
+
+

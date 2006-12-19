@@ -1,0 +1,34 @@
+2007.03.07 09:06
+
+Victim: Agricola Augusta
+Alliance: Privateer Alliance
+Corp: Multiversal Enterprise Inc.
+Destroyed: Harbinger
+System: Amarr
+Security: 1.0
+
+Involved parties:
+
+Name: avelon serenity (laid the final blow)
+Security: -0.9
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Myrmidon
+Weapon: Heavy Ion Blaster II
+
+
+Destroyed items:
+
+Heavy Modal Pulse Laser I
+Multifrequency M
+Multifrequency M
+Multifrequency M
+Multifrequency M
+X5 Prototype I Engine Enervator
+Sensor Booster II
+Damage Control II
+Medium Armor Repairer II
+Energized Magnetic Membrane II
+Energized Thermic Membrane II
+Armor Explosive Hardener II
+

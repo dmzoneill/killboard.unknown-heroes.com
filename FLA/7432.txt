@@ -1,0 +1,32 @@
+2006.09.04 20:24
+
+Victim: Mir0n Cosma
+Alliance: None
+Corp: NEXT LEVEL
+Destroyed: Crusader
+System: HHK-VL
+Security: 0.0
+
+Involved parties:
+
+Name: Digioso (laid the final blow)
+Security: 1.2
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Megathron
+Weapon: Large Rudimentary Concussion Bomb I
+
+
+Destroyed items:
+
+Dual Light Pulse Laser II
+Dual Light Pulse Laser II
+Scorch S
+Scorch S
+Scorch S
+Catalyzed Cold-Gas I Arcjet Thrusters
+J5 Prototype Warp Inhibitor I
+Micro Auxiliary Power Core I
+Scorch S, Qty: 4 (Cargo)
+Conflagration S, Qty: 3 (Cargo)
+

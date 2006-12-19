@@ -1,0 +1,19 @@
+2006.09.29 15:34
+
+Victim: LiBraga
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Destroyed: Buzzard
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Kuentai (laid the final blow)
+Security: -4.5
+Alliance: None
+Corp: Beagle Corp
+Ship: Claw
+Weapon: 150mm Light AutoCannon II
+
+

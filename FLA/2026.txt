@@ -1,0 +1,44 @@
+2007.01.18 09:18
+
+Victim: Deathbringer III
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Destroyed: Probe
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Cpt Pugwash (laid the final blow)
+Security: -0.8
+Alliance: Privateer Alliance
+Corp: Afterlife inc
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+Small Tractor Beam I
+Inertia Stabilizers I
+Inertia Stabilizers I
+Large Shield Extender I (Cargo)
+Large Shield Booster I (Cargo)
+X-Large Shield Booster I (Cargo)
+Ship Scanner I (Cargo)
+Small Capacitor Battery I, Qty: 2 (Cargo)
+Small Armor Repairer I (Cargo)
+Small Nosferatu I (Cargo)
+Small Proton Smartbomb I (Cargo)
+150mm Railgun I (Cargo)
+Small Tapered Capacitor Infusion I (Cargo)
+Small Capacitor Booster I (Cargo)
+Medium Capacitor Booster I (Cargo)
+Tungsten Charge S, Qty: 100 (Cargo)
+Defender I, Qty: 100 (Cargo)
+Bane Torpedo, Qty: 100 (Cargo)
+Cataclysm Cruise Missile, Qty: 100 (Cargo)
+Cruise Missile Launcher I (Cargo)
+'Malkuth' Cruise Launcher I (Cargo)
+Capacitor Power Relay I (Cargo)
+

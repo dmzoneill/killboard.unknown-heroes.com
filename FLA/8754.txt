@@ -1,0 +1,42 @@
+2006.12.10 15:35
+
+Victim: SleepyOSU
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Arbitrator
+System: Isanamo
+Security: 0.6
+
+Involved parties:
+
+Name: Captain Alcatraz (laid the final blow)
+Security: -2.1
+Alliance: None
+Corp: omen.
+Ship: Zealot
+Weapon: Heavy Pulse Laser II
+
+Name: Stylaz
+Security: 5.0
+Alliance: None
+Corp: omen.
+Ship: Dominix
+Weapon: Warrior II
+
+Name: Fjerkenstad
+Security: 1.0
+Alliance: None
+Corp: omen.
+Ship: Capsule
+Weapon: Light Neutron Blaster II
+
+
+Destroyed items:
+
+Small Energy Neutralizer II
+Small Energy Neutralizer II
+J5b Phased Prototype Warp Inhibitor I
+X5 Prototype I Engine Enervator
+Cap Booster 800
+N-Type Explosive Hardener I
+

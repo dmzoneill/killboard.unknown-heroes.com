@@ -1,0 +1,75 @@
+2007.02.12 06:25
+
+Victim: Grayco
+Alliance: Kith of Venal
+Corp: Spectrum Solutions INC
+Destroyed: Wolf
+System: X47L-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Thafesko
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Nighthawk
+Weapon: Acolyte I
+
+Name: Tekeran
+Security: -0.9
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Ship: Astarte
+Weapon: Astarte
+
+Name: MrMaggot (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Cormorant
+Weapon: 125mm Prototype I Gauss Gun
+
+Name: Xantheris
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Taranis
+Weapon: Warp Disruptor I
+
+Name: Weeble Wooble
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Slinktress
+Security: 2.6
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Megathron
+Weapon: Megathron
+
+Name: Danielson1012
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Rook
+Weapon: Heavy Missile Launcher I
+
+
+Destroyed items:
+
+200mm AutoCannon II
+200mm AutoCannon II
+200mm AutoCannon II
+Barrage S, Qty: 180
+1MN MicroWarpdrive I
+Warp Core Stabilizer I
+Nanofiber Internal Structure I
+Gyrostabilizer II (Cargo)
+Proton S, Qty: 62 (Cargo)
+200mm Reinforced Steel Plates II (Cargo)
+Nanofiber Internal Structure I, Qty: 2 (Cargo)
+

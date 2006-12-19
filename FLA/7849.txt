@@ -1,0 +1,59 @@
+2006.09.12 16:58
+
+Victim: Formosus Funus
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Destroyed: Ashimmu
+System: Aurohunen
+Security: 0.4
+
+Involved parties:
+
+Name: LaCoHa (laid the final blow)
+Security: -0.8
+Alliance: None
+Corp: Acerbus Vindictum
+Ship: Dominix
+Weapon: Vespa II
+
+Name: Htrag
+Security: -6.6
+Alliance: Caldari Deep Space Industral
+Corp: Caldari Deep Space Navy
+Ship: Thorax
+Weapon: Light Neutron Blaster II
+
+Name: Willkthx
+Security: -0.7
+Alliance: None
+Corp: Center for Advanced Studies
+Ship: Vexor
+Weapon: Induced Multispectral ECM I
+
+Name: Zynos
+Security: -0.8
+Alliance: None
+Corp: Acerbus Vindictum
+Ship: Brutix
+Weapon: Valkyrie II
+
+Name: Guristas Anarchist / Guristas
+
+
+Destroyed items:
+
+Focused Modal Medium Laser I
+Focused Modal Medium Laser I
+Dark Blood Medium Nosferatu
+True Sansha Medium Nosferatu
+Small YF-12a Smartbomb
+Ultraviolet M
+Ultraviolet M
+J5 Prototype Warp Inhibitor I
+Shadow Serpentis Small Armor Repairer
+True Sansha Small Armor Repairer
+True Sansha Armor Kinetic Hardener
+Shadow Serpentis Armor Explosive Hardener
+Nocxium, Qty: 9 (Cargo)
+Survey Scanner I (Cargo)
+

@@ -1,0 +1,84 @@
+2007.04.21 02:53
+
+Victim: The Cade
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Destroyed: Tristan
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Athanasios Anastasiou (laid the final blow)
+Security: 5.0
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Hurricane
+Weapon: 720mm Howitzer Artillery II
+
+Name: Fitz Farseer
+Security: 0.5
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Hound
+Weapon: 'Arbalest' Cruise Launcher I
+
+Name: Nubiam
+Security: 4.9
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Malediction
+Weapon: Malediction
+
+Name: sgtdark
+Security: 5.0
+Alliance: Storm Armada
+Corp: stone grave haulage
+Ship: Helios
+Weapon: Helios
+
+Name: Screamer
+Security: 0.7
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Manticore
+Weapon: Cruise Missile Launcher II
+
+Name: Lyra Sy
+Security: 5.0
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Raven
+Weapon: 350mm Prototype I Gauss Gun
+
+Name: Hughwasit
+Security: 1.2
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Griffin
+Weapon: Standard Missile Launcher I
+
+Name: Ghost Hughdidit
+Security: 3.1
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Thanatos
+Weapon: Dragonfly
+
+Name: Arikas Talendar
+Security: 5.0
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Armageddon
+Weapon: Tachyon Beam Laser I
+
+
+Destroyed items:
+
+Light Ion Blaster I
+Tungsten Charge S, Qty: 100
+Phalanx Rocket, Qty: 15
+Rocket Launcher I
+Uranium Charge S, Qty: 320 (Cargo)
+Phalanx Rocket, Qty: 258 (Cargo)
+

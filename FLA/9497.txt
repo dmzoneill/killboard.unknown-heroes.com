@@ -1,0 +1,51 @@
+2007.05.14 20:02
+
+Victim: Corovus
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Destroyed: Lachesis
+System: Tartoken
+Security: 0.1
+
+Involved parties:
+
+Name: Reggie Kray (laid the final blow)
+Security: -1.7
+Alliance: None
+Corp: Mentally Unstable Enterprises
+Ship: Arazu
+Weapon: Valkyrie II
+
+Name: Serj Darek
+Security: -1.8
+Alliance: None
+Corp: Mentally Unstable Enterprises
+Ship: Huginn
+Weapon: Valkyrie II
+
+Name: Madboy
+Security: 2.8
+Alliance: None
+Corp: Mentally Unstable Enterprises
+Ship: Vagabond
+Weapon: Vagabond
+
+
+Destroyed items:
+
+200mm Compressed Coil Gun I
+200mm Compressed Coil Gun I
+Iridium Charge M, Qty: 70
+Thunderbolt Heavy Missile, Qty: 60
+XR-3200 Heavy Missile Bay
+XR-3200 Heavy Missile Bay
+Warp Disruptor II
+Remote Sensor Dampener II
+Remote Sensor Dampener II
+Remote Sensor Dampener II
+Remote Sensor Dampener II
+Medium Armor Repairer II
+Armor Explosive Hardener II
+Iridium Charge M, Qty: 1432 (Cargo)
+Thunderbolt Heavy Missile, Qty: 1889 (Cargo)
+

@@ -1,0 +1,30 @@
+2006.12.05 06:26
+
+Victim: Simon Monkoto
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Badger Mark II
+System: F-NMX6
+Security: 0.0
+
+Involved parties:
+
+Name: Khandrish (laid the final blow)
+Security: 4.0
+Alliance: None
+Corp: Dominatus Sidereus
+Ship: Jaguar
+Weapon: Light Neutron Blaster II
+
+
+Destroyed items:
+
+Small Subordinate Screen Stabilizer I
+Small Subordinate Screen Stabilizer I
+10MN Afterburner I
+Photon Scattering Field I
+Kinetic Deflection Amplifier I
+'Arbalest' Cruise Launcher I (Cargo)
+XT-9000 Cruise Launcher (Cargo)
+'Arbalest' Siege Missile Launcher (Cargo)
+

@@ -1,0 +1,39 @@
+2007.03.25 20:08
+
+Victim: Solid Wilko
+Alliance: Eternal Rapture
+Corp: Quantum Synergies
+Destroyed: Hurricane
+System: F7C-H0
+Security: 0.0
+
+Involved parties:
+
+Name: Vesspasiano (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Dominix
+Weapon: Ogre II
+
+
+Destroyed items:
+
+425mm AutoCannon II
+425mm AutoCannon II
+425mm AutoCannon II
+EMP M, Qty: 33
+Bloodclaw Light Missile, Qty: 33
+Upgraded 'Limos' Standard Missile Bay I
+Upgraded 'Limos' Standard Missile Bay I
+10MN MicroWarpdrive II
+J5 Prototype Warp Inhibitor I
+Medium Capacitor Booster II
+Gyrostabilizer II
+Medium Armor Repairer II
+Armor Kinetic Hardener II
+Armor Explosive Hardener II
+X5 Prototype I Engine Enervator (Cargo)
+Cap Booster 800, Qty: 6 (Cargo)
+Valkyrie II, Qty: 3 (Drone Bay)
+

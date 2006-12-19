@@ -1,0 +1,26 @@
+2006.10.13 13:50
+
+Victim: bENNIJEZZERAT pRIEST
+Alliance: None
+Corp: MisFunk Inc.
+Destroyed: Capsule
+System: A4L-A2
+Security: 0.0
+
+Involved parties:
+
+Name: Hosanna (laid the final blow)
+Security: -0.2
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Stiletto
+Weapon: 150mm Light AutoCannon II
+
+Name: Wousr
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Stiletto
+Weapon: Stiletto
+
+

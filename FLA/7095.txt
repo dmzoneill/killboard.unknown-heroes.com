@@ -1,0 +1,38 @@
+2006.12.26 01:38
+
+Victim: Death's Harbinger
+Alliance: None
+Corp: Caldari Provisions
+Destroyed: Cormorant
+System: Tannolen
+Security: 0.3
+
+Involved parties:
+
+Name: Compos Mentis (laid the final blow)
+Security: -7.4
+Alliance: Freelancer Alliance
+Corp: X.T.R
+Ship: Cerberus
+Weapon: Scourge Heavy Missile
+
+
+Destroyed items:
+
+125mm Railgun I
+Medium Supplemental Barrier Emitter I
+Warp Core Stabilizer I
+Civilian Shield Booster I (Cargo)
+1MN Afterburner I (Cargo)
+Dual Light Beam Laser I (Cargo)
+Small Energy Transfer Array I (Cargo)
+Small Nosferatu I (Cargo)
+Anode Light Electron Particle Cannon I (Cargo)
+Light Ion Blaster I (Cargo)
+125mm Carbide Railgun I (Cargo)
+150mm Railgun I (Cargo)
+ECM - Multispectral Jammer I (Cargo)
+Small Remote Armor Repair System I (Cargo)
+50mm Reinforced Steel Plates I (Cargo)
+5th Tier Overseer's Personal Effects (Cargo)
+

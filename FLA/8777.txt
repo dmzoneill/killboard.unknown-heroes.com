@@ -1,0 +1,109 @@
+2006.12.11 20:59
+
+Victim: Thafesko
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Destroyed: Ferox
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Darknesss
+Security: -0.4
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Megathron
+Weapon: Ogre II
+
+Name: Zap Zaberdine (laid the final blow)
+Security: 3.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Tempest
+Weapon: Dual 650mm Repeating Artillery II
+
+Name: WarGod
+Security: -2.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Tempest
+Weapon: Warrior II
+
+Name: simcor
+Security: -1.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Megathron
+Weapon: Megathron
+
+Name: taylor04
+Security: -1.9
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Tempest
+Weapon: Bane Rage Torpedo
+
+Name: Jimmycs83
+Security: -2.3
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Dominix
+Weapon: Dominix
+
+Name: Teani
+Security: 1.6
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Astarte
+Weapon: Hammerhead II
+
+Name: boo3916
+Security: 4.1
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Dominix
+Weapon: Berserker II
+
+Name: henryshead
+Security: 5.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Apocalypse
+Weapon: Apocalypse
+
+Name: Sir Toadalot
+Security: 0.0
+Alliance: None
+Corp: Deep Core Mining Inc.
+Ship: Enyo
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: K Shara
+Security: 3.1
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Rook
+Weapon: BZ-5 Neutralizing Spatial Destabilizer ECM
+
+
+Destroyed items:
+
+250mm Prototype I Gauss Gun
+Dread Guristas Tungsten Charge M, Qty: 40
+Heavy Missile Launcher II
+Heavy Missile Launcher II
+Heavy Missile Launcher II
+Widowmaker Precision Heavy Missile, Qty: 37
+Havoc Precision Heavy Missile, Qty: 37
+Scourge Precision Heavy Missile, Qty: 37
+Large Shield Extender II
+Large Shield Extender II
+V-M15 Braced Multispectral Shield Matrix
+V-M15 Braced Multispectral Shield Matrix
+'Pandemonium' I Ballistic Enhancement
+Ballistic Control System I
+Havoc Precision Heavy Missile, Qty: 258 (Cargo)
+Scourge Precision Heavy Missile, Qty: 216 (Cargo)
+Hornet I, Qty: 4 (Drone Bay)
+

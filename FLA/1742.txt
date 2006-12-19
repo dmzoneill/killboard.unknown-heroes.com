@@ -1,0 +1,47 @@
+2007.01.02 06:19
+
+Victim: pROMp
+Alliance: Freelancer Alliance
+Corp: Feel Good Inc.
+Destroyed: Celestis
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: WarGod (laid the final blow)
+Security: 1.2
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Hurricane
+Weapon: Dual 180mm AutoCannon II
+
+Name: K Shara
+Security: 4.7
+Alliance: None
+Corp: Deep Core Mining Inc.
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+Name: Anna Neura
+Security: -0.2
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Arazu
+Weapon: Arazu
+
+
+Destroyed items:
+
+250mm 'Scout' I Accelerator Cannon
+250mm 'Scout' I Accelerator Cannon
+Plutonium Charge M, Qty: 22
+Remote Sensor Dampener I
+Indirect Scanning Dampening Unit I
+Kapteyn Sensor Array Inhibitor I
+F-90 Positional Sensor Subroutines
+Power Diagnostic System I
+Dread Guristas Iridium Charge M, Qty: 400 (Cargo)
+Thunderbolt Heavy Missile, Qty: 194 (Cargo)
+Hobgoblin I (Drone Bay)
+

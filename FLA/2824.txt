@@ -1,0 +1,47 @@
+2007.03.10 20:14
+
+Victim: TsukiWolf
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Capsule
+System: O-CNPR
+Security: 0.0
+
+Involved parties:
+
+Name: Marla Durden
+Security: 0.0
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Claw
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+Name: Donis (laid the final blow)
+Security: -1.4
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Zealot
+Weapon: Heavy Pulse Laser II
+
+Name: Lady64bits
+Security: 5.0
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Incursus
+Weapon: 75mm Gatling Rail II
+
+Name: Utlaen
+Security: 5.0
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Flycatcher
+Weapon: Upgraded 'Limos' Standard Missile Bay I
+
+Name: Kaulu
+Security: 3.1
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Caracal
+Weapon: Assault Missile Launcher I
+
+

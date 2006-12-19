@@ -1,0 +1,19 @@
+2006.10.09 14:09
+
+Victim: rockerguy
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Destroyed: Capsule
+System: Oipo
+Security: 0.8
+
+Involved parties:
+
+Name: Danno (laid the final blow)
+Security: -1.4
+Alliance: None
+Corp: Privateers
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+

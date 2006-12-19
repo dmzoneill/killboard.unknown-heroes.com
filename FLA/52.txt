@@ -1,0 +1,107 @@
+2007.01.02 19:02
+
+Victim: Noh Chek'na
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Destroyed: Raven
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Merkord Mikula
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Tempest
+Weapon: Tempest
+
+Name: Mocuker (laid the final blow)
+Security: 0.8
+Alliance: Freelancer Alliance
+Corp: X.T.R
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+Name: wrecker300
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Scorpion
+Weapon: Inferno Torpedo
+
+Name: Soldroz
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Korudon
+Security: 4.7
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Capsule
+Weapon: Upgraded 'Limos' Standard Missile Bay I
+
+Name: SniperMcBob
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Blackbird
+Weapon: Heavy Missile Launcher I
+
+Name: Ilvarin Brui
+Security: 2.0
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Rifter
+Weapon: Warp Disruptor I
+
+Name: mr passie
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Hurricane
+Weapon: 425mm AutoCannon I
+
+Name: Vertigel Symorain
+Security: 0.6
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Vexor
+Weapon: Vexor
+
+Name: malkey
+Security: 3.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Thorax
+Weapon: Thorax
+
+
+Destroyed items:
+
+Cruise Missile Launcher II
+Cruise Missile Launcher II
+Cataclysm Precision Cruise Missile, Qty: 20
+Phased Muon Sensor Disruptor I
+Phased Muon Sensor Disruptor I
+Sensor Booster II
+Local Hull Conversion Inertial Stabilizers I
+Local Hull Conversion Inertial Stabilizers I
+125mm Gatling AutoCannon II, Qty: 2 (Cargo)
+Ballistic Deflection Field II (Cargo)
+Hammerhead I (Cargo)
+Vespa II (Cargo)
+1600mm Reinforced Rolled Tungsten Plates I (Cargo)
+Ballistic Control System II, Qty: 3 (Cargo)
+Thunderbolt Heavy Missile, Qty: 734 (Cargo)
+Interdiction Sphere Launcher I (Cargo)
+Wrath Precision Cruise Missile, Qty: 894 (Cargo)
+Paradise Fury Cruise Missile, Qty: 905 (Cargo)
+Cataclysm Precision Cruise Missile, Qty: 893 (Cargo)
+Tripped Power Circuit, Qty: 4 (Cargo)
+Infiltrator II (Drone Bay)
+Hornet II, Qty: 3 (Drone Bay)
+

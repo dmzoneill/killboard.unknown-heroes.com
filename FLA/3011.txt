@@ -1,0 +1,40 @@
+2007.03.22 00:08
+
+Victim: Lord Revent
+Alliance: YouWhat
+Corp: Beasts of Burden
+Destroyed: Capsule
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Keshein
+Security: 3.3
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Ship: Cormorant
+Weapon: Cormorant
+
+Name: Swanny231
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Crow
+Weapon: Sabretooth Light Missile
+
+Name: HYT gangster (laid the final blow)
+Security: 1.4
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Stabber
+Weapon: Havoc Heavy Missile
+
+Name: Wicked Pissah
+Security: 1.1
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Harbinger
+Weapon: Harbinger
+
+

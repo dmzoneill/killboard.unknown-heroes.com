@@ -1,0 +1,26 @@
+2007.04.05 18:19
+
+Victim: negoman
+Alliance: None
+Corp: Science and Trade Institute
+Destroyed: Capsule
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Daressek (laid the final blow)
+Security: 4.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Flycatcher
+Weapon: Gremlin Rocket
+
+Name: demotar
+Security: 4.1
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Cheetah
+Weapon: Stasis Webifier I
+
+

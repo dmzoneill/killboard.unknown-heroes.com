@@ -1,0 +1,49 @@
+2007.02.27 14:21
+
+Victim: Kiara Diepp
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Destroyed: Blackbird
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Chode Rizoum (laid the final blow)
+Security: -1.9
+Alliance: None
+Corp: Temptation inc.
+Ship: Typhoon
+Weapon: Mjolnir Torpedo
+
+Name: Donald Trump
+Security: -1.8
+Alliance: None
+Corp: Temptation inc.
+Ship: Tempest
+Weapon: Dual 425mm AutoCannon II
+
+Name: hezitationkillz
+Security: -1.6
+Alliance: None
+Corp: Temptation inc.
+Ship: Tempest
+Weapon: Tempest
+
+Name: VirkMaN
+Security: 0.1
+Alliance: None
+Corp: Temptation inc.
+Ship: Vagabond
+Weapon: Vagabond
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Widowmaker Heavy Missile, Qty: 56
+Heavy Missile Launcher I
+ECM - Multispectral Jammer I
+Remote Sensor Dampener I
+Scourge Heavy Missile, Qty: 880 (Cargo)
+

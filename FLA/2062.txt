@@ -1,0 +1,31 @@
+2007.01.19 22:28
+
+Victim: Burn Lump
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Destroyed: Caracal
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Unfortunate Accident (laid the final blow)
+Security: -1.9
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 26
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Warp Disruptor I
+Remote Sensor Dampener I
+Target Painter I
+Target Painter I
+Widowmaker Heavy Missile, Qty: 18 (Cargo)
+

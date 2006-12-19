@@ -1,0 +1,153 @@
+2007.04.01 16:33
+
+Victim: eRogue
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Destroyed: Thorax
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: StrikerOneSevern
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Huginn
+Weapon: Hornet I
+
+Name: Daressek
+Security: 3.7
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Cormorant
+Weapon: Cormorant
+
+Name: Prodigal IV
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Ship: Myrmidon
+Weapon: Myrmidon
+
+Name: Epro
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Cyclone
+Weapon: Cyclone
+
+Name: Deathratt
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Ship: Caracal
+Weapon: Warrior I
+
+Name: Logand Delta
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Ship: Drake
+Weapon: Hornet I
+
+Name: Kerdrak
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Vengeance
+Weapon: Vengeance
+
+Name: Mikal Drey
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Claw
+Weapon: Claw
+
+Name: Cho Solo
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Deimos
+Weapon: Deimos
+
+Name: DarkAvenger DK
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Harpy
+Weapon: Harpy
+
+Name: Rick A
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Cormorant
+Weapon: 125mm Railgun I
+
+Name: Sethiol
+Security: 4.0
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Ship: Caracal
+Weapon: Bloodclaw Light Missile
+
+Name: Darkspin
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Hawk
+Weapon: Sabretooth Light Missile
+
+Name: Seryius (laid the final blow)
+Security: 3.3
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Scorpion
+Weapon: Paradise Cruise Missile
+
+Name: Jonkai
+Security: -3.8
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Hyperion
+Weapon: 425mm Railgun I
+
+Name: LTSmash
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Ship: Taranis
+Weapon: 150mm Railgun II
+
+Name: RazzTak
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Raven
+Weapon: 'Limos' Cruise Launcher I
+
+Name: Hakashi
+Security: 2.9
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Scorpion
+Weapon: 'Hypnos' Ion Field ECM I
+
+
+Destroyed items:
+
+Heavy Ion Blaster II, Qty: 2
+Void M, Qty: 240
+Y-T8 Overcharged Hydrocarbon I Microwarpdrive
+X5 Prototype I Engine Enervator
+Damage Control II
+Small Armor Repairer II
+Damage Control II (Cargo)
+Remote Sensor Dampener II (Cargo)
+Energized Adaptive Nano Membrane II (Cargo)
+Armor Thermic Hardener II (Cargo)
+Null M, Qty: 997 (Cargo)
+Void M, Qty: 662 (Cargo)
+Valkyrie II, Qty: 3 (Drone Bay)

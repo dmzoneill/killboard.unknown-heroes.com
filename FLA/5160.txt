@@ -1,0 +1,44 @@
+2007.01.26 06:30
+
+Victim: Alski
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Dominix
+System: OWXT-5
+Security: 0.0
+
+Involved parties:
+
+Name: P1rate Dave (laid the final blow)
+Security: 0.9
+Alliance: None
+Corp: 0utbreak
+Ship: Typhoon
+Weapon: Bane Torpedo
+
+Name: Vyndicator
+Security: -2.5
+Alliance: None
+Corp: 0utbreak
+Ship: Typhoon
+Weapon: 'Arbalest' Cruise Launcher I
+
+
+Destroyed items:
+
+Heavy Nosferatu I
+Barton Reactor Capacitor Recharger I
+Barton Reactor Capacitor Recharger I
+Large Armor Repairer II
+Medium Armor Repairer II
+Armor Kinetic Hardener I
+Armor Thermic Hardener I
+Beta Reactor Control: Capacitor Power Relay I
+10MN Afterburner I (Cargo)
+Large F-4a Ld-Sulfate I Capacitor Charge Unit (Cargo)
+800mm Reinforced Titanium Plates I (Cargo)
+Bouncer I, Qty: 3 (Drone Bay)
+Hornet I (Drone Bay)
+Light Armor Maintenance Bot I, Qty: 3 (Drone Bay)
+Light Shield Maintenance Bot I, Qty: 5 (Drone Bay)
+

@@ -1,0 +1,31 @@
+2006.12.30 21:52
+
+Victim: Axileas
+Alliance: None
+Corp: State War Academy
+Destroyed: Ibis
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Bobby Atlas (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Hyperion
+Weapon: Valkyrie II
+
+Name: Zxcyyhs
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Blackbird
+Weapon: Warp Disruptor I
+
+
+Destroyed items:
+
+Civilian Gatling Railgun
+Tritanium (Cargo)
+

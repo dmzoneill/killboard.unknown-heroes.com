@@ -1,0 +1,108 @@
+2007.04.21 16:17
+
+Victim: Eclipsis Rebellatrix
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Destroyed: Rupture
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Pokerizer
+Security: 1.7
+Alliance: Aftermath Alliance
+Corp: Pyrrhus Sicarii
+Ship: Muninn
+Weapon: 'Arbalest' Assault Missile Launcher
+
+Name: Proxay
+Security: 5.0
+Alliance: Xelas Alliance
+Corp: Fallen Angel's
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Kelishnikov
+Security: -3.5
+Alliance: FATAL Alliance
+Corp: Equilibrium LLC
+Ship: Caracal
+Weapon: Warp Disruptor I
+
+Name: XXJackXX
+Security: 4.9
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Eagle
+Weapon: Eagle
+
+Name: Bin Matar
+Security: 1.5
+Alliance: Xelas Alliance
+Corp: Fallen Angel's
+Ship: Tempest
+Weapon: 1200mm Artillery Cannon II
+
+Name: Strelook (laid the final blow)
+Security: -0.8
+Alliance: Xelas Alliance
+Corp: Requiem of Hades
+Ship: Maelstrom
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Arhes Branwin
+Security: 2.7
+Alliance: Xelas Alliance
+Corp: Industrial Warlords
+Ship: Condor
+Weapon: Upgraded 'Limos' Standard Missile Bay I
+
+Name: MaxNet
+Security: 4.9
+Alliance: Xelas Alliance
+Corp: Requiem of Hades
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: storm666
+Security: 5.0
+Alliance: FATAL Alliance
+Corp: The JORG Corporation
+Ship: Caracal
+Weapon: Heavy Missile Launcher I
+
+Name: nray
+Security: 3.4
+Alliance: Xelas Alliance
+Corp: Requiem of Hades
+Ship: Caracal
+Weapon: Heavy Missile Launcher I
+
+Name: JerryManhunt
+Security: 5.0
+Alliance: Xelas Alliance
+Corp: Bombshell Cartel
+Ship: Falcon
+Weapon: BZ-5 Neutralizing Spatial Destabilizer ECM
+
+Name: Frist
+Security: 1.3
+Alliance: FATAL Alliance
+Corp: Equilibrium LLC
+Ship: Caracal
+Weapon: Heavy Missile Launcher I
+
+
+Destroyed items:
+
+425mm AutoCannon I
+425mm AutoCannon I
+425mm AutoCannon I
+Medium Nosferatu I
+Fusion M, Qty: 284
+Small Armor Repairer I
+Small Armor Repairer I
+Small Armor Repairer I
+Fusion M, Qty: 2867 (Cargo)
+

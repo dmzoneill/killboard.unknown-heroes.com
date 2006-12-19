@@ -1,0 +1,53 @@
+2006.12.10 05:53
+
+Victim: Kirby Khariton
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Destroyed: Dominix
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: BechirMDK (laid the final blow)
+Security: 5.0
+Alliance: Kith of Venal
+Corp: Solidline Enterprise
+Ship: Ishtar
+Weapon: Berserker II
+
+Name: WETRAIN
+Security: 5.0
+Alliance: Kith of Venal
+Corp: Solidline Enterprise
+Ship: Vagabond
+Weapon: Vagabond
+
+
+Destroyed items:
+
+Heavy Nosferatu I
+Heavy Nosferatu I
+Armor Kinetic Hardener I
+Armor Kinetic Hardener I
+N-Type Kinetic Hardener I
+1600mm Reinforced Rolled Tungsten Plates I
+X-Large Neutron Saturation Injector I (Cargo)
+350mm 'Scout' I Accelerator Cannon (Cargo)
+350mm Railgun I, Qty: 2 (Cargo)
+Plutonium Charge L, Qty: 100 (Cargo)
+Thorium Charge L, Qty: 100 (Cargo)
+Mjolnir Torpedo, Qty: 200 (Cargo)
+Guristas Crystal Tag (Cargo)
+Devastator Cruise Missile, Qty: 200 (Cargo)
+Paradise Cruise Missile, Qty: 100 (Cargo)
+XT-9000 Cruise Launcher (Cargo)
+'Limos' Cruise Launcher I (Cargo)
+Cruise Missile Launcher I, Qty: 7 (Cargo)
+Beta Reactor Control: Diagnostic System I (Cargo)
+Mark I Generator Refitting: Capacitor Power Relay (Cargo)
+Capacitor Flux Coil I (Cargo)
+Local Power Plant Manager: Capacitor Flux I (Cargo)
+Hornet I, Qty: 4 (Drone Bay)
+Wasp I, Qty: 7 (Drone Bay)
+

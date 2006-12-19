@@ -1,0 +1,26 @@
+2007.01.09 07:10
+
+Victim: Radica
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Vexor
+System: Erme
+Security: 0.8
+
+Involved parties:
+
+Name: Phazer (laid the final blow)
+Security: -1.2
+Alliance: Privateer Alliance
+Corp: Disturbance Inc.
+Ship: Brutix
+Weapon: Heavy Ion Blaster I
+
+
+Destroyed items:
+
+150mm Railgun II, Qty: 2
+Y-T8 Overcharged Hydrocarbon I Microwarpdrive
+Medium Armor Repairer II
+400mm Reinforced Rolled Tungsten Plates I
+Vespa II (Drone Bay)

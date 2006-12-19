@@ -1,0 +1,35 @@
+2007.01.12 17:51
+
+Victim: Satal Sonshi
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Destroyed: Stabber
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Crucifier (laid the final blow)
+Security: 0.3
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: ETS4ME
+Security: 0.7
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Cruise Missile Launcher II
+
+
+Destroyed items:
+
+Dual 180mm Carbine Repeating Cannon I
+EMP M, Qty: 188
+Flameburst Light Missile, Qty: 84
+Upgraded 'Limos' Standard Missile Bay I
+'Langour' Drive Disruptor I
+EMP M, Qty: 1880 (Cargo)
+

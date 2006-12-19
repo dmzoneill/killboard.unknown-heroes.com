@@ -1,0 +1,19 @@
+2006.11.27 20:49
+
+Victim: Smutt
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Destroyed: Capsule
+System: P-ZMZV
+Security: 0.0
+
+Involved parties:
+
+Name: Johanzzon (laid the final blow)
+Security: 5.0
+Alliance: Firmus Ixion
+Corp: Swedish Aerospace Inc
+Ship: Armageddon
+Weapon: Large YF-12a Smartbomb
+
+

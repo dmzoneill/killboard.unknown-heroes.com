@@ -1,0 +1,33 @@
+2006.11.07 21:51
+
+Victim: mtitus
+Alliance: Interstellar Starbase Syndicate
+Corp: terra firma team
+Destroyed: Capsule
+System: P-2TTL
+Security: 0.0
+
+Involved parties:
+
+Name: Rede (laid the final blow)
+Security: -1.6
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Enyo
+Weapon: Light Neutron Blaster II
+
+Name: Scorpio63
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Vengeance
+Weapon: Vengeance
+
+Name: Hosanna
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Stiletto
+Weapon: Stiletto
+
+

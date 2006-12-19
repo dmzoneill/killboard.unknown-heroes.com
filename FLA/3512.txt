@@ -1,0 +1,47 @@
+2007.04.01 03:19
+
+Victim: Mr Moldy
+Alliance: Federation Of united Corps
+Corp: check mate Corp
+Destroyed: Capsule
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Epro
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Cyclone
+Weapon: Target Painter I
+
+Name: toonsterpw (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Vagabond
+Weapon: 425mm AutoCannon II
+
+Name: hydro2900
+Security: 2.9
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Ship: Thorax
+Weapon: 250mm Railgun I
+
+Name: Logand Delta
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Ship: Drake
+Weapon: 'Arbalest' Heavy Missile Launcher
+
+Name: Fugnut
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Drake
+Weapon: Advanced 'Limos' Heavy Missile Bay I
+
+

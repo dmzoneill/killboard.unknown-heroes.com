@@ -1,0 +1,37 @@
+2007.01.03 22:41
+
+Victim: ElronMcBong
+Alliance: None
+Corp: Assimilationskammer
+Destroyed: Caracal
+System: Tama
+Security: 0.3
+
+Involved parties:
+
+Name: Sorlac Aurora (laid the final blow)
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Caracal
+Weapon: Terror Assault Missile
+
+
+Destroyed items:
+
+Flameburst Light Missile, Qty: 111
+Sabretooth Light Missile, Qty: 55
+Piranha Light Missile, Qty: 55
+SV-2000 Assault Missile Bay
+SV-2000 Assault Missile Bay
+SV-2000 Assault Missile Bay
+Small Shield Booster II
+Speculative Ship Identifier I
+Fleeting Warp Scrambler I
+Small Capacitor Booster I
+Emergency Damage Control I
+Local Power Plant Manager: Diagnostic System I
+Shield Recharger I (Cargo)
+Flameburst Light Missile, Qty: 1544 (Cargo)
+Piranha Light Missile, Qty: 1781 (Cargo)
+

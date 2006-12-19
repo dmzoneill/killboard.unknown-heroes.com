@@ -1,0 +1,31 @@
+2007.01.20 22:31
+
+Victim: Delakruaa
+Alliance: None
+Corp: State War Academy
+Destroyed: Ibis
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Chuck Dawg (laid the final blow)
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Blackbird
+Weapon: Thunderbolt Heavy Missile
+
+Name: dastommy79
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Thorax
+Weapon: Thorax
+
+
+Destroyed items:
+
+150mm Carbide Railgun I
+Miner I (Cargo)
+

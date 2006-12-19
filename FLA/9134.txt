@@ -1,0 +1,57 @@
+2006.12.31 03:58
+
+Victim: Solis Ragyogas
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Destroyed: Megathron
+System: VFK-IV
+Security: 0.0
+
+Involved parties:
+
+Name: Feyd Mantis
+Security: 2.5
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Tempest
+Weapon: Tempest
+
+Name: Evil Pookie (laid the final blow)
+Security: 4.2
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+Name: Kusarigama
+Security: 3.8
+Alliance: None
+Corp: Brutor tribe
+Ship: Sabre
+Weapon: 'Langour' Drive Disruptor I
+
+Name: MeanStreak
+Security: -0.2
+Alliance: None
+Corp: Caldari Provisions
+Ship: Sabre
+Weapon: 'Langour' Drive Disruptor I
+
+
+Destroyed items:
+
+350mm Prototype I Gauss Gun
+350mm Prototype I Gauss Gun
+Antimatter Charge L, Qty: 75
+Plutonium Charge L, Qty: 150
+Wrath Cruise Missile, Qty: 22
+XT-9000 Cruise Launcher
+Additional Thermal Barrier Emitter I
+Damage Control I
+Large 'Accommodation' Vestment Reconstructer I
+Armor Kinetic Hardener I
+Armor Explosive Hardener I
+1600mm Reinforced Rolled Tungsten Plates I
+Antimatter Charge L, Qty: 2000 (Cargo)
+Plutonium Charge L, Qty: 1000 (Cargo)
+

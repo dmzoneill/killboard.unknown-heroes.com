@@ -1,0 +1,34 @@
+2007.02.26 01:05
+
+Victim: tzar1024
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Destroyed: Stabber
+System: Torrinos
+Security: 0.5
+
+Involved parties:
+
+Name: SoulScourge (laid the final blow)
+Security: -1.6
+Alliance: Privateer Alliance
+Corp: Privateers
+Ship: Machariel
+Weapon: 1400mm Howitzer Artillery II
+
+
+Destroyed items:
+
+220mm Vulcan AutoCannon I
+220mm Vulcan AutoCannon I
+Medium Nosferatu I
+Phased Plasma M, Qty: 94
+Widowmaker Heavy Missile, Qty: 30
+Medium Shield Booster I
+10MN MicroWarpdrive I
+Fleeting Warp Scrambler I
+Small Armor Repairer I
+Power Diagnostic System I
+Phased Plasma M, Qty: 5662 (Cargo)
+Widowmaker Heavy Missile, Qty: 1590 (Cargo)
+

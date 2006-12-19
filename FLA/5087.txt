@@ -1,0 +1,37 @@
+2007.04.22 01:25
+
+Victim: Ghu'ru Talozan
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Megathron
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Orange Species (laid the final blow)
+Security: -2.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Ragnarok
+Weapon: Gjallarhorn
+
+
+Destroyed items:
+
+425mm 'Scout' I Accelerator Cannon
+425mm 'Scout' I Accelerator Cannon
+425mm 'Scout' I Accelerator Cannon
+Antimatter Charge M, Qty: 39
+Antimatter Charge L, Qty: 117
+Heavy Tapered Capacitor Infusion I
+Conjunctive Magnetometric ECCM Scanning Array I
+Sensor Booster I
+Sensor Booster I
+Armor Explosive Hardener I
+Armor Thermic Hardener I
+Antimatter Charge M, Qty: 500 (Cargo)
+Hobgoblin II (Drone Bay)
+Warrior I, Qty: 2 (Drone Bay)
+Medium Armor Maintenance Bot I, Qty: 5 (Drone Bay)
+

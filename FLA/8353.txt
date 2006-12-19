@@ -1,0 +1,29 @@
+2006.11.11 06:46
+
+Victim: Simon Monkoto
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Manticore
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: DONJUAN v (laid the final blow)
+Security: -1.9
+Alliance: Eternal Empire
+Corp: Tarnak inc.
+Ship: Vexor
+Weapon: Valkyrie I
+
+
+Destroyed items:
+
+41F Veiled Targeting Unit
+Cruise Missile Launcher I
+Cruise Missile Launcher I
+Sensor Booster I
+Sensor Booster I
+Micro Auxiliary Power Core I
+Wrath Cruise Missile, Qty: 296 (Cargo)
+

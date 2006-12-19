@@ -1,0 +1,65 @@
+2007.03.27 02:50
+
+Victim: ConXtionS
+Alliance: Freelancer Alliance
+Corp: The Night Crew
+Destroyed: Iteron Mark IV
+System: E-Z2ZX
+Security: 0.0
+
+Involved parties:
+
+Name: DeathGrip
+Security: 3.2
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Flycatcher
+Weapon: Thorn Javelin Rocket
+
+Name: Bedrock (laid the final blow)
+Security: 0.0
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Muninn
+Weapon: 720mm Howitzer Artillery II
+
+Name: Korran Delan
+Security: 4.7
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Raptor
+Weapon: Raptor
+
+Name: Rif
+Security: 5.0
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Malediction
+Weapon: Dual Light Beam Laser II
+
+Name: Natheniel
+Security: 5.0
+Alliance: Xelas Alliance
+Corp: Fallen Angel's
+Ship: Ares
+Weapon: Standard Missile Launcher I
+
+Name: El Coyote
+Security: 3.5
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Raptor
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+
+Destroyed items:
+
+Gallente Shuttle (Cargo)
+650mm Medium Gallium I Cannon, Qty: 5 (Cargo)
+Stasis Webifier I (Cargo)
+Invulnerability Field I (Cargo)
+Projectile Weapon Rigging (Cargo)
+Plush Compound, Qty: 49 (Cargo)
+Lustering Alloy, Qty: 81 (Cargo)
+Tremor L, Qty: 1915 (Cargo)
+

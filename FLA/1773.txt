@@ -1,0 +1,24 @@
+2007.01.03 04:12
+
+Victim: kitely het
+Alliance: Freelancer Alliance
+Corp: Sin-X Inc.
+Destroyed: Ibis
+System: Torrinos
+Security: 0.5
+
+Involved parties:
+
+Name: Gesthar Malvani (laid the final blow)
+Security: 4.5
+Alliance: Privateer Alliance
+Corp: Evil Bandit Organisation
+Ship: Omen
+Weapon: Focused Medium Beam Laser II
+
+
+Destroyed items:
+
+Civilian Gatling Railgun
+Basic Miner
+

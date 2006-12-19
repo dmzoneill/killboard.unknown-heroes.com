@@ -1,0 +1,33 @@
+2007.04.08 14:19
+
+Victim: CharAznabel
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Destroyed: Viator
+System: F7C-H0
+Security: 0.0
+
+Involved parties:
+
+Name: evilempire3 (laid the final blow)
+Security: -1.2
+Alliance: YouWhat
+Corp: Cosmic Odyssey
+Ship: Armageddon
+Weapon: Dual Heavy Modulated Pulse Energy Beam I
+
+Name: sliver 0xD
+Security: -2.6
+Alliance: YouWhat
+Corp: Infinite Style Incorporated
+Ship: Flycatcher
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+Barton Reactor Capacitor Recharger I
+Barton Reactor Capacitor Recharger I
+10MN MicroWarpdrive II
+Reactor Control Unit I
+

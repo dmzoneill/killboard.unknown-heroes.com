@@ -1,0 +1,136 @@
+2007.03.04 18:09
+
+Victim: Tridik
+Alliance: Xelas Alliance
+Corp: Bombshell Cartel
+Destroyed: Drake
+System: PNQY-Y
+Security: 0.0
+
+Involved parties:
+
+Name: Recon One
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Infinite Improbability Inc
+Ship: Harbinger
+Weapon: Harbinger
+
+Name: DeadDuck
+Security: 4.9
+Alliance: Dusk and Dawn
+Corp: Omega Enterprises
+Ship: Harbinger
+Weapon: Focused Medium Pulse Laser II
+
+Name: DANGEROUS (laid the final blow)
+Security: 3.6
+Alliance: Dusk and Dawn
+Corp: Omega Enterprises
+Ship: Hurricane
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: NOObbody
+Security: 3.3
+Alliance: Dusk and Dawn
+Corp: The X-Trading Company
+Ship: Rupture
+Weapon: Rupture
+
+Name: Dana Foxworth
+Security: 3.2
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Rupture
+Weapon: Hornet I
+
+Name: Silberstein
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Konstrukteure der Zukunft
+Ship: Capsule
+Weapon: Warp Disruptor I
+
+Name: Nafri
+Security: -1.9
+Alliance: Dusk and Dawn
+Corp: Cataclysm Enterprises
+Ship: Jaguar
+Weapon: 200mm AutoCannon II
+
+Name: john corey
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Infinite Improbability Inc
+Ship: Capsule
+Weapon: Heavy Electron Blaster II
+
+Name: Cartman Lee
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Cataclysm Enterprises
+Ship: Unknown
+Weapon: Warrior I
+
+Name: Takeshi Nuwen
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: The X-Trading Company
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: haq aan
+Security: -0.1
+Alliance: Dusk and Dawn
+Corp: Omega Enterprises
+Ship: Claw
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: Flinx Evenstar
+Security: -1.3
+Alliance: Dusk and Dawn
+Corp: Momentum.
+Ship: Hurricane
+Weapon: Hammerhead I
+
+Name: Sinder Ohm
+Security: 5.1
+Alliance: Dusk and Dawn
+Corp: Infinite Improbability Inc
+Ship: Enyo
+Weapon: Upgraded 'Limos' Standard Missile Bay I
+
+Name: Kerdrak
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Retribution
+Weapon: Medium Pulse Laser II
+
+
+Destroyed items:
+
+Havoc Heavy Missile
+Havoc Heavy Missile
+Havoc Heavy Missile
+Havoc Heavy Missile
+Havoc Heavy Missile
+Widowmaker Heavy Missile
+Widowmaker Heavy Missile
+Widowmaker Heavy Missile
+Widowmaker Heavy Missile
+Widowmaker Heavy Missile
+Widowmaker Heavy Missile
+XR-3200 Heavy Missile Bay
+XR-3200 Heavy Missile Bay
+XR-3200 Heavy Missile Bay
+XR-3200 Heavy Missile Bay
+Large Azeotropic Ward Salubrity I
+'Anointed' I EM Ward Reinforcement
+Ballistic Control System I
+Power Diagnostic System II
+Power Diagnostic System II
+Tremor M, Qty: 17 (Cargo)
+Scourge Heavy Missile, Qty: 1766 (Cargo)
+Havoc Heavy Missile, Qty: 859 (Cargo)
+

@@ -1,0 +1,50 @@
+2007.02.11 16:55
+
+Victim: tzar1024
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Destroyed: Rifter
+System: M2-CF1
+Security: 0.0
+
+Involved parties:
+
+Name: Spooky69 (laid the final blow)
+Security: 1.9
+Alliance: None
+Corp: The Forsakened Companions
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Blade69
+Security: 3.1
+Alliance: None
+Corp: The Forsakened Companions
+Ship: Heretic
+Weapon: Dual Light Beam Laser II
+
+Name: TheDuKe69
+Security: 2.6
+Alliance: None
+Corp: The Forsakened Companions
+Ship: Raven
+Weapon: Wrath Fury Cruise Missile
+
+Name: Deadboots69
+Security: 2.9
+Alliance: None
+Corp: The Forsakened Companions
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+
+Destroyed items:
+
+150mm Light AutoCannon I
+150mm Light AutoCannon I
+Phased Plasma S, Qty: 282
+Foxfire Rocket, Qty: 30
+Medium Shield Extender I
+1MN Afterburner I
+Foxfire Rocket, Qty: 600 (Cargo)
+

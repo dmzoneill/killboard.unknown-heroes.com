@@ -1,0 +1,180 @@
+2007.03.27 21:43
+
+Victim: Timboru
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Destroyed: Drake
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Electreus
+Security: 0.5
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Ship: Astarte
+Weapon: Astarte
+
+Name: Lv STEIN
+Security: 4.7
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Zealot
+Weapon: Zealot
+
+Name: Tanya Kovacs
+Security: 5.1
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Eagle
+Weapon: Eagle
+
+Name: Sholle
+Security: 3.0
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Sabre
+Weapon: Sabre
+
+Name: Juha85
+Security: 0.0
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Don Promillo (laid the final blow)
+Security: 2.8
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Thorax
+Weapon: 150mm Railgun I
+
+Name: Kurai Amaro
+Security: 3.9
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Sabre
+Weapon: Sabre
+
+Name: Diego Barbera
+Security: -0.4
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Claw
+Weapon: Claw
+
+Name: Dival
+Security: 4.9
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Claw
+Weapon: Claw
+
+Name: Taschenflak
+Security: 4.7
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Raptor
+Weapon: Piranha Light Missile
+
+Name: Keflin Geard
+Security: 5.0
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Caracal
+Weapon: Sabretooth Precision Light Missile
+
+Name: triusad
+Security: 5.0
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Stabber
+Weapon: Stabber
+
+Name: Space Fear
+Security: 5.0
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Crow
+Weapon: Crow
+
+Name: mr ioso
+Security: 4.8
+Alliance: Chorus of Dawn
+Corp: Cosmic Odyssey
+Ship: Myrmidon
+Weapon: Ogre I
+
+Name: Rubens22
+Security: 2.3
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Celestis
+Weapon: Celestis
+
+Name: albert camus
+Security: -8.3
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Ship: Malediction
+Weapon: Malediction
+
+Name: Longrin
+Security: 2.9
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: Bejuka
+Security: 1.4
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Blackbird
+Weapon: Scourge Heavy Missile
+
+Name: Utlaen
+Security: 5.0
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Flycatcher
+Weapon: Bloodclaw Light Missile
+
+Name: Friki
+Security: 0.0
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Rifter
+Weapon: Sabretooth Light Missile
+
+Name: Rocsee M'afross
+Security: 4.9
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Scorpion
+Weapon: Cruise Missile Launcher II
+
+
+Destroyed items:
+
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Scourge Heavy Missile, Qty: 56
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Medium Shield Extender I
+Heat Dissipation Amplifier I
+Kinetic Deflection Amplifier I
+Co-Processor I
+50mm Reinforced Nanofiber Plates I
+200mm Reinforced Nanofiber Plates I
+200mm Reinforced Nanofiber Plates I
+Wasp I (Drone Bay)
+

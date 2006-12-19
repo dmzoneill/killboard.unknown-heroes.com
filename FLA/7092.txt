@@ -1,0 +1,28 @@
+2006.12.26 00:59
+
+Victim: Steihl Lianul
+Alliance: None
+Corp: State War Academy
+Destroyed: Cormorant
+System: Onatoh
+Security: 0.3
+
+Involved parties:
+
+Name: Compos Mentis (laid the final blow)
+Security: -6.9
+Alliance: Freelancer Alliance
+Corp: X.T.R
+Ship: Cerberus
+Weapon: Scourge Heavy Missile
+
+
+Destroyed items:
+
+125mm Railgun I
+150mm Carbide Railgun I
+Uranium Charge S, Qty: 80
+Flameburst Light Missile, Qty: 40
+Small Shield Extender I
+Sabretooth Light Missile, Qty: 8 (Cargo)
+

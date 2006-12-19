@@ -1,0 +1,28 @@
+2007.03.25 04:12
+
+Victim: DEFF DSP
+Alliance: Xelas Alliance
+Corp: Bravehearts
+Destroyed: Blackbird
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Grape Juice (laid the final blow)
+Security: -5.9
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Raven
+Weapon: Juggernaut Torpedo
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Medium Nosferatu I
+Piranha Light Missile, Qty: 55
+ECM - Ion Field Projector I
+ECM - Phase Inverter I
+Piranha Light Missile, Qty: 925 (Cargo)
+

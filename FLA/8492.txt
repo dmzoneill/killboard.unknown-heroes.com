@@ -1,0 +1,48 @@
+2006.11.22 17:46
+
+Victim: Sidrat Flush
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Destroyed: Raven
+System: Jita
+Security: 0.9
+
+Involved parties:
+
+Name: Goonies (laid the final blow)
+Security: 4.7
+Alliance: None
+Corp: omen.
+Ship: Raven
+Weapon: Mjolnir Javelin Torpedo
+
+
+Destroyed items:
+
+Anode Ion Particle Cannon I
+250mm 'Scout' I Accelerator Cannon
+Depleted Uranium L, Qty: 193
+Iridium Charge M, Qty: 32
+Piranha Light Missile, Qty: 62
+Sabretooth Light Missile, Qty: 62
+Compact 'Limos' Assault Missile Bay I
+100MN Afterburner I
+Stasis Webifier I
+Tracking Computer I
+Warp Core Stabilizer I
+Iridium Charge M, Qty: 708 (Cargo)
+Iridium Charge L, Qty: 597 (Cargo)
+Depleted Uranium L Blueprint (Cargo)
+Havoc Heavy Missile Blueprint (Cargo)
+Thunderbolt Heavy Missile Blueprint (Cargo)
+Sabretooth Light Missile Blueprint (Cargo)
+Iridium Charge L Blueprint (Cargo)
+Iridium Charge M Blueprint (Cargo)
+Piranha Light Missile, Qty: 429 (Cargo)
+Sabretooth Light Missile, Qty: 595 (Cargo)
+Havoc Heavy Missile, Qty: 689 (Cargo)
+Hornet I (Drone Bay)
+Hobgoblin I, Qty: 2 (Drone Bay)
+Infiltrator I (Drone Bay)
+Civilian Mining Drone (Drone Bay)
+

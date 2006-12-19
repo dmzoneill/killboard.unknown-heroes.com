@@ -1,0 +1,29 @@
+2007.03.23 02:40
+
+Victim: DeathGrip
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Destroyed: Crow
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Quiomi (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+
+Destroyed items:
+
+Rocket Launcher II
+Thorn Javelin Rocket, Qty: 60
+Sensor Booster II
+Emergency Damage Control I
+Type-D Altered SS Nanofiber Structure
+Power Diagnostic System II
+Thorn Javelin Rocket, Qty: 5209 (Cargo)
+

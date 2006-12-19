@@ -1,0 +1,50 @@
+2007.03.10 21:46
+
+Victim: TNT 1
+Alliance: Freelancer Alliance
+Corp: The Night Crew
+Destroyed: Raven
+System: K4YZ-Y
+Security: 0.0
+
+Involved parties:
+
+Name: eXtas
+Security: 1.6
+Alliance: Privateer Alliance
+Corp: Kemono.
+Ship: Typhoon
+Weapon: Paradise Cruise Missile
+
+Name: iggy6662k2
+Security: -1.8
+Alliance: Privateer Alliance
+Corp: Kemono.
+Ship: Sleipnir
+Weapon: Sleipnir
+
+Name: Ryysa (laid the final blow)
+Security: -1.9
+Alliance: Privateer Alliance
+Corp: North Face Force
+Ship: Huginn
+Weapon: Dual 180mm AutoCannon II
+
+
+Destroyed items:
+
+Heavy Diminishing Power System Drain I
+Wrath Cruise Missile, Qty: 80
+Heat Dissipation Field II
+Heat Dissipation Field II
+Ballistic Deflection Field II
+Ballistic Deflection Field II
+Shield Boost Amplifier II
+Damage Control II
+Co-Processor II
+Ballistic Control System II
+Hammerhead I, Qty: 17 (Cargo)
+Mobile Medium Warp Disruptor I (Cargo)
+Vespa II, Qty: 2 (Drone Bay)
+Hammerhead I, Qty: 3 (Drone Bay)
+

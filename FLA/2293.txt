@@ -1,0 +1,108 @@
+2007.02.04 19:57
+
+Victim: Selena 001
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Destroyed: Megathron
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: EL TITAN
+Security: 1.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Drift Spec (laid the final blow)
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Muninn
+Weapon: 720mm Howitzer Artillery II
+
+Name: Seldarine
+Security: 0.1
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Puls4r
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Muninn
+Weapon: Muninn
+
+Name: Letum Omnis
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: Maule
+Security: 4.7
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Claw
+Weapon: Foxfire Rocket
+
+Name: Sir JoJo
+Security: 2.1
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Rapier
+Weapon: Rapier
+
+Name: Marschall
+Security: 2.2
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Angela Dray
+Security: 3.1
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Taranis
+Weapon: 125mm Railgun II
+
+Name: Kraust
+Security: 4.8
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Stiletto
+Weapon: J5b Phased Prototype Warp Inhibitor I
+
+Name: LUKEC
+Security: 0.8
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Dominix
+Weapon: Heavy Diminishing Power System Drain I
+
+
+Destroyed items:
+
+Large EMP Smartbomb I
+425mm Railgun II
+425mm Railgun II
+425mm Railgun II
+425mm Railgun II
+Antimatter Charge L, Qty: 111
+Prototype I Sensor Booster
+F-90 Positional Sensor Subroutines
+'Orion' Tracking CPU I
+'Orion' Tracking CPU I
+Damage Control I
+Tracking Enhancer II
+Shadow Serpentis Magnetic Field Stabilizer
+Beta Reactor Control: Capacitor Power Relay I
+Antimatter Charge L, Qty: 1518 (Cargo)
+Wasp I, Qty: 3 (Drone Bay)
+

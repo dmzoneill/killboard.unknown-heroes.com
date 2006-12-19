@@ -1,0 +1,26 @@
+2006.10.08 14:57
+
+Victim: Nyte Train
+Alliance: None
+Corp: Imperial Academy
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Larkonis Trassler (laid the final blow)
+Security: -1.9
+Alliance: None
+Corp: g guild
+Ship: Crow
+Weapon: Bloodclaw Precision Light Missile
+
+Name: Nil Desperandum
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Omen
+Weapon: Omen
+
+

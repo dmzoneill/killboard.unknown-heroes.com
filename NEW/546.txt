@@ -1,0 +1,45 @@
+2007.04.16 12:57
+
+Victim: Gythar
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Destroyed: Drake
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Debian Executer (laid the final blow)
+Security: 3.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Sleipnir
+Weapon: 425mm AutoCannon II
+
+Name: Steve Dave
+Security: 4.1
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Hawk
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: Kuang
+Security: 4.3
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Archon
+Weapon: Templar
+
+
+Destroyed items:
+
+Thunderbolt Heavy Missile, Qty: 26
+Havoc Heavy Missile, Qty: 26
+Heavy Missile Launcher I, Qty: 5
+Large Shield Booster II
+Warp Scrambler I
+Shield Boost Amplifier I
+Ballistic Control System I, Qty: 2
+Widowmaker Heavy Missile, Qty: 752 (Cargo)
+Thunderbolt Heavy Missile, Qty: 606 (Cargo)
+Hornet I, Qty: 2 (Drone Bay)

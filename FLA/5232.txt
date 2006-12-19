@@ -1,0 +1,47 @@
+2007.04.27 14:38
+
+Victim: Bellon
+Alliance: Band of Brothers
+Corp: Reikoku
+Destroyed: Capsule
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Nukuquqa Hestase
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Crow
+Weapon: Upgraded 'Limos' Standard Missile Bay I
+
+Name: white kight (laid the final blow)
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Samiloth Justinian
+Security: 5.0
+Alliance: Dark Matter Coalition
+Corp: Ascent of Ages
+Ship: Manticore
+Weapon: 'Arbalest' Cruise Launcher I
+
+Name: Radica
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Deimos
+Weapon: Deimos
+
+Name: MrMaggot
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Manticore
+Weapon: 'Arbalest' Cruise Launcher I
+
+

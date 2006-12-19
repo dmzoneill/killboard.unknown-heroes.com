@@ -1,0 +1,51 @@
+2007.04.12 20:40
+
+Victim: other mickey
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Destroyed: Thorax
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: FowlPlayChiken
+Security: 1.2
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Thanatos
+Weapon: Berserker II
+
+Name: Vily (laid the final blow)
+Security: 0.3
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Maller
+Weapon: Focused Medium Pulse Laser II
+
+Name: Wladomir Jed
+Security: 3.7
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Eagle
+Weapon: Eagle
+
+Name: Nubiam
+Security: 4.9
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Crusader
+Weapon: Dual Light Pulse Laser II
+
+
+Destroyed items:
+
+Medium Proton Smartbomb I
+F-b10 Nominal Capacitor Regenerator
+F-b10 Nominal Capacitor Regenerator
+F-b10 Nominal Capacitor Regenerator
+'Stoic' Core Equalizer I
+Warp Core Stabilizer I
+Iridium Charge M, Qty: 1404 (Cargo)
+Infiltrator I, Qty: 3 (Drone Bay)
+

@@ -1,0 +1,42 @@
+2006.10.09 02:54
+
+Victim: FindemAndKillEm
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Destroyed: Thorax
+System: Ikao
+Security: 0.6
+
+Involved parties:
+
+Name: Surreptitious (laid the final blow)
+Security: 0.0
+Alliance: None
+Corp: Privateers
+Ship: Curse
+Weapon: Hammerhead II
+
+
+Destroyed items:
+
+Modal Neutron Particle Accelerator I
+250mm Prototype I Gauss Gun
+250mm Prototype I Gauss Gun
+Iridium Charge M, Qty: 22
+Antimatter Charge M, Qty: 59
+Auto Targeting System I
+Large F-S9 Regolith Shield Induction
+Large F-S9 Regolith Shield Induction
+Fourier Transform I Tracking Program
+Magnetic Vortex Stabilizer I
+Shield Recharger I (Cargo)
+Dual Light Pulse Laser I (Cargo)
+Small Peroxide I Capacitor Power Cell (Cargo)
+Small Energy Transfer Array I (Cargo)
+Small Nosferatu I (Cargo)
+Small Energy Neutralizer I (Cargo)
+Small Graviton Smartbomb I (Cargo)
+Radio S (Cargo)
+Limited Cybernetic Subprocessor (Cargo)
+Hornet I, Qty: 8 (Drone Bay)
+

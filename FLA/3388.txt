@@ -1,0 +1,33 @@
+2007.03.25 02:32
+
+Victim: Narsus
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Unit 1 (laid the final blow)
+Security: 2.8
+Alliance: Agony Empire
+Corp: Agony Unleashed
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+Name: mullenc
+Security: 1.4
+Alliance: Agony Empire
+Corp: Agony Unleashed
+Ship: Myrmidon
+Weapon: Dual 150mm Compressed Coil Gun I
+
+Name: Yorick Downe
+Security: 2.8
+Alliance: Agony Empire
+Corp: Agony Unleashed
+Ship: Drake
+Weapon: Advanced 'Limos' Heavy Missile Bay I
+
+

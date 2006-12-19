@@ -1,0 +1,75 @@
+2007.04.01 21:03
+
+Victim: TroNaaR
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Megathron
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Morgena
+Security: -0.9
+Alliance: S.E.R.A
+Corp: Seraphin Technologies
+Ship: Thanatos
+Weapon: Firbolg
+
+Name: tomlinsonland
+Security: -1.8
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Crow
+Weapon: Crow
+
+Name: Wotan I (laid the final blow)
+Security: 4.7
+Alliance: S.E.R.A
+Corp: Seraphin Technologies
+Ship: Thanatos
+Weapon: Firbolg
+
+Name: Xi Dioxyde
+Security: 2.4
+Alliance: S.E.R.A
+Corp: Seraphin Technologies
+Ship: Executioner
+Weapon: Executioner
+
+Name: c0rn1
+Security: -2.2
+Alliance: S.E.R.A
+Corp: Seraphin Technologies
+Ship: Nidhoggur
+Weapon: Einherji
+
+Name: Captain Black
+Security: 1.7
+Alliance: S.E.R.A
+Corp: Seraphin Technologies
+Ship: Archon
+Weapon: Dragonfly
+
+
+Destroyed items:
+
+425mm 'Scout' I Accelerator Cannon
+425mm 'Scout' I Accelerator Cannon
+425mm 'Scout' I Accelerator Cannon
+425mm 'Scout' I Accelerator Cannon
+Antimatter Charge L, Qty: 40
+Alumel-Wired I Sensor Augmentation
+Alumel-Wired I Sensor Augmentation
+Tracking Computer I
+Tracking Enhancer II
+Magnetic Field Stabilizer II
+1600mm Reinforced Rolled Tungsten Plates I
+Medium Rudimentary Concussion Bomb I (Cargo)
+Dread Guristas Tungsten Charge M, Qty: 1000 (Cargo)
+Shadow Tungsten Charge L, Qty: 872 (Cargo)
+Guristas Tungsten Charge L, Qty: 368 (Cargo)
+Iron Charge L, Qty: 2299 (Cargo)
+Mobile Small Warp Disruptor I, Qty: 2 (Cargo)
+'Arbalest' Assault Missile Launcher (Cargo)
+

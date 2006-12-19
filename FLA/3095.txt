@@ -1,0 +1,118 @@
+2007.03.24 22:22
+
+Victim: Flax Nemo
+Alliance: None
+Corp: MotorSaikol LadrUNZ
+Destroyed: Megathron
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Drist
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Tempest
+Weapon: Tempest
+
+Name: Slim Jim (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Gargh Ahhwell
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Rokh
+Weapon: Rokh
+
+Name: Lynndia
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Drake
+Weapon: Widowmaker Heavy Missile
+
+Name: Alianore
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Arazu
+Weapon: Arazu
+
+Name: Baja Bently
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Manticore
+Weapon: Paradise Precision Cruise Missile
+
+Name: AlexeiShtukov
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Ship: Caracal
+Weapon: Havoc Heavy Missile
+
+Name: Mazuel
+Security: 3.2
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Sabre
+Weapon: Sabre
+
+Name: SoF Reaperman
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Capsule
+Weapon: Heavy Neutron Blaster I
+
+Name: lewy313
+Security: 5.0
+Alliance: DeStInY.
+Corp: Sacred Templars
+Ship: Raptor
+Weapon: Patterned Stasis Web I
+
+Name: Maker7
+Security: 3.8
+Alliance: DeStInY.
+Corp: Sacred Templars
+Ship: Taranis
+Weapon: Taranis
+
+Name: Death Reactor
+Security: -1.8
+Alliance: DeStInY.
+Corp: The Knights Of Camelot
+Ship: Malediction
+Weapon: Sabretooth Light Missile
+
+Name: CounterfeitThe
+Security: 1.7
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Raptor
+Weapon: Piranha Fury Light Missile
+
+
+Destroyed items:
+
+Anode Mega Neutron Particle Cannon I
+Anode Mega Neutron Particle Cannon I
+Lead Charge L, Qty: 129
+Defender I, Qty: 50
+Scourge Heavy Missile, Qty: 21
+'Malkuth' Heavy Missile Launcher I
+100MN MicroWarpdrive I
+Magnetic Field Stabilizer II
+1600mm Reinforced Rolled Tungsten Plates I
+Lead Charge L, Qty: 487 (Cargo)
+Tungsten Charge L, Qty: 390 (Cargo)
+Scourge Heavy Missile, Qty: 413 (Cargo)
+

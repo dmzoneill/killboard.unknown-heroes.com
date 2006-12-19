@@ -1,0 +1,36 @@
+2006.08.26 22:09
+
+Victim: Bill Blade
+Alliance: Thundering Mantis
+Corp: Gen'ei Ryodan
+Destroyed: Stabber
+System: Z0-TJW
+Security: 0.0
+
+Involved parties:
+
+Name: Fr0zt (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Ferox
+Weapon: Thunderbolt Heavy Missile
+
+Name: hired goon
+Security: 3.0
+Alliance: Dusk and Dawn
+Corp: Fate.
+Ship: Omen
+Weapon: Warrior I
+
+
+Destroyed items:
+
+Dual 180mm AutoCannon I
+Dual 180mm AutoCannon I
+Medium Nosferatu I
+Medium Nosferatu I
+EMP M, Qty: 181
+10MN Afterburner I
+Warp Disruptor I
+

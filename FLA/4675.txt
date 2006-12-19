@@ -1,0 +1,82 @@
+2007.04.18 00:31
+
+Victim: MIGHTYDWC
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Destroyed: Capsule
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: coldkill
+Security: 1.9
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Brutix
+Weapon: Heavy Neutron Blaster II
+
+Name: Magic Mazuma
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Rifter
+Weapon: Rifter
+
+Name: General Xenophon
+Security: 4.6
+Alliance: Dusk and Dawn
+Corp: Infinite Improbability Inc
+Ship: Vigil
+Weapon: Vigil
+
+Name: arthell (laid the final blow)
+Security: 2.9
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Celestis
+Weapon: Hornet I
+
+Name: Kayron Brennan
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Merlin
+Weapon: Sabretooth Light Missile
+
+Name: truefranco
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Kestrel
+Weapon: Standard Missile Launcher II
+
+Name: sparkvolt
+Security: -0.7
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Rifter
+Weapon: Small Nosferatu I
+
+Name: dastommy79
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Executioner
+Weapon: Executioner
+
+Name: Rhaall
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Crucifier
+Weapon: J5b Phased Prototype Warp Inhibitor I
+
+Name: Alski
+Security: 3.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Kestrel
+Weapon: Warp Disruptor I
+
+

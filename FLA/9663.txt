@@ -1,0 +1,46 @@
+2007.05.21 22:04
+
+Victim: Pistonbroke
+Alliance: Triumvirate.
+Corp: D00M.
+Destroyed: Raptor
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Ocara Nezus (laid the final blow)
+Security: 1.5
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Lucy Fire1
+Security: -2.1
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Rifter
+Weapon: Rifter
+
+Name: coldkill
+Security: 2.1
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Arazu
+Weapon: 200mm Railgun II
+
+
+Destroyed items:
+
+125mm Railgun II
+Javelin S, Qty: 37
+'Malkuth' Rocket Launcher I
+1MN MicroWarpdrive I
+Fleeting Progressive Warp Scrambler I
+Antimatter Charge S, Qty: 54 (Cargo)
+Iridium Charge S, Qty: 66 (Cargo)
+Cap Booster 800, Qty: 2 (Cargo)
+Warrior II (Cargo)
+Bloodclaw Light Missile, Qty: 1920 (Cargo)
+

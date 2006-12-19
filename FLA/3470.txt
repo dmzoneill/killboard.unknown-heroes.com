@@ -1,0 +1,134 @@
+2007.03.29 03:11
+
+Victim: Kol Skywalker
+Alliance: None
+Corp: Le Moulin Rouge
+Destroyed: Dominix
+System: RQH-MY
+Security: 0.0
+
+Involved parties:
+
+Name: Bobby Atlas
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Hyperion
+Weapon: Valkyrie II
+
+Name: Osyc
+Security: 2.7
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Hurricane
+Weapon: 220mm Medium Prototype I Automatic Cannon
+
+Name: toonsterpw
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Vagabond
+Weapon: Hammerhead I
+
+Name: Frau Formaggio (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ishkur
+Weapon: Hobgoblin II
+
+Name: Amon Fire
+Security: 0.7
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Omen
+Weapon: Omen
+
+Name: coldkill
+Security: 1.9
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Ishkur
+Weapon: Hobgoblin II
+
+Name: Darc Kaahar
+Security: -0.1
+Alliance: Freelancer Alliance
+Corp: Feel Good Inc.
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: Jorax
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Myrmidon
+Weapon: Warrior II
+
+Name: a51 duke1406
+Security: 1.1
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Thorax
+Weapon: Thorax
+
+Name: PowerGimp
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Flycatcher
+Weapon: Foxfire Rocket
+
+Name: Llondon Hilton
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Ishkur
+Weapon: Warrior I
+
+Name: Marie Veedor
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Merlin
+Weapon: Merlin
+
+Name: Darthirishguy
+Security: 1.8
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Merlin
+Weapon: Upgraded 'Limos' Standard Missile Bay I
+
+Name: Kayron Brennan
+Security: 0.4
+Alliance: Galactic-Federation
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Condor
+Weapon: 'Malkuth' Rocket Launcher I
+
+
+Destroyed items:
+
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Heavy Nosferatu I
+Heavy Nosferatu I
+Cap Recharger I
+100MN Afterburner I
+Stasis Webifier I
+Damage Control I
+Large 'Accommodation' Vestment Reconstructer I
+Adaptive Nano Plating I
+Energized Adaptive Nano Membrane I
+Armor Kinetic Hardener I
+Hammerhead I, Qty: 2 (Drone Bay)
+Hobgoblin II (Drone Bay)
+Garde I, Qty: 2 (Drone Bay)
+Ogre I, Qty: 4 (Drone Bay)
+Warrior II, Qty: 2 (Drone Bay)
+

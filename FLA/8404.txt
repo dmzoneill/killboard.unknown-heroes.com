@@ -1,0 +1,51 @@
+2006.11.16 21:40
+
+Victim: Skornik
+Alliance: Freelancer Alliance
+Corp: BGG
+Destroyed: Dominix
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Elric TheWhite
+Security: -0.1
+Alliance: The Sani Sabik
+Corp: Omniscient Order
+Ship: Typhoon
+Weapon: Ogre I
+
+Name: panman
+Security: 2.7
+Alliance: None
+Corp: Deep Core Mining Inc.
+Ship: Megathron
+Weapon: Ogre I
+
+Name: Noobjuice (laid the final blow)
+Security: -1.8
+Alliance: The Sani Sabik
+Corp: Omniscient Order
+Ship: Typhoon
+Weapon: Devastator Cruise Missile
+
+Name: H Zub
+Security: 0.0
+Alliance: The Sani Sabik
+Corp: Omniscient Order
+Ship: Dominix
+Weapon: Dominix
+
+
+Destroyed items:
+
+Heavy Diminishing Power System Drain I
+Heavy Diminishing Power System Drain I
+Drone Link Augmentor I
+Drone Link Augmentor I
+Drone Link Augmentor I
+Quad LiF Fueled I Booster Rockets
+Energized Adaptive Nano Membrane II
+Armor Explosive Hardener II
+

@@ -1,0 +1,66 @@
+2007.01.19 01:41
+
+Victim: Hemo Roid
+Alliance: None
+Corp: Imperial Academy
+Destroyed: Impairor
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Fugnut (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Swanny231
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Crow
+Weapon: Gremlin Rocket
+
+Name: digital oxygen
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Taranis
+Weapon: Light Electron Blaster II
+
+Name: ventura5
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Raven
+Weapon: 'Arbalest' Siege Missile Launcher
+
+Name: TiMeZeRo225
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: J.I.T. Enterprises
+Ship: Crow
+Weapon: Fleeting Warp Scrambler I
+
+Name: Hermithoth
+Security: 0.2
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Vexor
+Weapon: 150mm 'Scout' I Accelerator Cannon
+
+Name: Goca
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Raven
+Weapon: Siege Missile Launcher II
+
+
+Destroyed items:
+
+Civilian Gatling Pulse Laser
+Tritanium (Cargo)
+

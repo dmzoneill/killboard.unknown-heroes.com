@@ -1,0 +1,19 @@
+2006.11.09 21:24
+
+Victim: Learyth
+Alliance: Lotka Volterra
+Corp: FATAL REVELATIONS
+Destroyed: Capsule
+System: CR2-PQ
+Security: 0.0
+
+Involved parties:
+
+Name: W4RR10R (laid the final blow)
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+

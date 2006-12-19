@@ -1,0 +1,61 @@
+2006.10.04 05:29
+
+Victim: Ioi Jejc
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Destroyed: Capsule
+System: 5S-KXA
+Security: 0.0
+
+Involved parties:
+
+Name: Zatharas
+Security: -4.8
+Alliance: None
+Corp: Beagle Corp
+Ship: Crow
+Weapon: TE-2100 Standard Missile Bay
+
+Name: UnSiViLiZeD (laid the final blow)
+Security: -1.6
+Alliance: None
+Corp: Beagle Corp
+Ship: Enyo
+Weapon: Regulated Light Neutron Phase Cannon I
+
+Name: Vily
+Security: -1.6
+Alliance: None
+Corp: Lilium Venture Initiative
+Ship: Heretic
+Weapon: Dual Light Beam Laser II
+
+Name: War chylde
+Security: 0.4
+Alliance: None
+Corp: Beagle Corp
+Ship: Rifter
+Weapon: J5b Phased Prototype Warp Inhibitor I
+
+Name: Roule
+Security: -5.1
+Alliance: None
+Corp: Beagle Corp
+Ship: Jaguar
+Weapon: Faint Warp Prohibitor I
+
+Name: Ezal
+Security: -1.7
+Alliance: None
+Corp: Beagle Corp
+Ship: Taranis
+Weapon: Faint Epsilon Warp Prohibitor I
+
+Name: Dearwin
+Security: -2.4
+Alliance: None
+Corp: Beagle Corp
+Ship: Ishkur
+Weapon: J5b Phased Prototype Warp Inhibitor I
+
+

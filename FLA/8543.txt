@@ -1,0 +1,31 @@
+2006.11.26 15:45
+
+Victim: Aeryn Calbert
+Alliance: Freelancer Alliance
+Corp: BGG
+Destroyed: Scorpion
+System: YZ-LQL
+Security: 0.0
+
+Involved parties:
+
+Name: Ign0raMus (laid the final blow)
+Security: 0.1
+Alliance: Establishment
+Corp: The Establishment
+Ship: Nyx
+Weapon: Firbolg
+
+
+Destroyed items:
+
+Heavy Nosferatu I
+Heavy Energy Neutralizer I
+Heavy Energy Neutralizer I
+Large EMP Smartbomb I
+'Hypnos' Multispectral ECM I
+'Hypnos' Multispectral ECM I
+'Hypnos' Multispectral ECM I
+Type-D Attenuation Signal Augmentation
+'Accord' I Core Compensation
+

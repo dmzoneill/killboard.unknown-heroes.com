@@ -1,0 +1,47 @@
+2006.11.16 15:59
+
+Victim: Whisky
+Alliance: Interstellar Starbase Syndicate
+Corp: ISS Logistics
+Destroyed: Amarr Shuttle
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Karas Rabus (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Huginn
+Weapon: 720mm Howitzer Artillery II
+
+Name: Scorpio63
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Vengeance
+Weapon: Vengeance
+
+Name: Formosus Funus
+Security: 3.8
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Wolf
+Weapon: Sabretooth Light Missile
+
+Name: brian crainie
+Security: 2.7
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Dominix
+Weapon: 425mm Railgun I
+
+Name: Courtney Brown
+Security: 2.6
+Alliance: Freelancer Alliance
+Corp: X.T.R
+Ship: Rifter
+Weapon: 125mm Prototype I Gauss Gun
+
+

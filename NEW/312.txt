@@ -1,0 +1,156 @@
+2007.03.07 21:33
+
+Victim: XxAngelxX
+Alliance: Triumvirate.
+Corp: D00M.
+Destroyed: Curse
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Cockroach
+Security: 4.7
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Apocalypse
+Weapon: Tachyon Beam Laser II
+
+Name: Mss anderson
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Thorax
+Weapon: Heavy Neutron Blaster I
+
+Name: MohamedLoftie
+Security: -1.0
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Absolution
+Weapon: Heavy Pulse Laser II
+
+Name: Hedeon Mishenka (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Harbinger
+Weapon: Heavy Beam Laser II
+
+Name: Jesnen
+Security: -1.5
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Coercer
+Weapon: Coercer
+
+Name: Sils wife
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Satal Sonshi
+Security: 3.8
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Rupture
+Weapon: 650mm Medium Gallium I Cannon
+
+Name: ClogMan
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery I
+
+Name: ekkertnafnlaust
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Tempest
+Weapon: 1200mm Artillery Cannon II
+
+Name: Tiberius Drake
+Security: 4.1
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Thorax
+Weapon: Thorax
+
+Name: sakana
+Security: -0.9
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Eris
+Weapon: Eris
+
+Name: Admiral Hunter
+Security: 4.1
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: EM00
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Caracal
+Weapon: Warrior I
+
+Name: Swanny231
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Thorax
+Weapon: Thorax
+
+Name: LT AndrewA
+Security: 2.6
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Ship: Hawk
+Weapon: Bloodclaw Light Missile
+
+Name: Vito Korlan
+Security: 1.0
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Eris
+Weapon: Flameburst Light Missile
+
+Name: Pressman1966
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Denaris1
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Harpy
+Weapon: Harpy
+
+Name: IDesert FoxI
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+
+Destroyed items:
+
+Medium Nosferatu II, Qty: 4
+Aurora S
+Large F-S9 Regolith Shield Induction
+Warp Disruptor II
+Heat Dissipation Field II
+Local Hull Conversion Inertial Stabilizers I
+Local Hull Conversion Nanofiber Structure I
+Valkyrie II, Qty: 3 (Drone Bay)
+Warrior II, Qty: 2 (Drone Bay)

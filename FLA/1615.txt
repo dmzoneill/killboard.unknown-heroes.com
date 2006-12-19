@@ -1,0 +1,31 @@
+2007.03.18 12:43
+
+Victim: R777
+Alliance: Phoenix Supremacy
+Corp: XxTiggerxX Corp
+Destroyed: Cerberus
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Tregaron (laid the final blow)
+Security: 2.3
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Cyclone
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Nafri
+Security: -1.9
+Alliance: Dusk and Dawn
+Corp: Cataclysm Enterprises
+Ship: Tempest
+Weapon: 800mm Repeating Artillery II
+
+
+Destroyed items:
+
+Medium Electrochemical Capacitor Booster I
+Ballistic Control System II
+

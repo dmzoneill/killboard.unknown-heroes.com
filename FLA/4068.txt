@@ -1,0 +1,37 @@
+2007.04.13 16:25
+
+Victim: Crypt Layer
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Destroyed: Crow
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Spartan dax (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Dark Carnage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Scorpion
+Weapon: Scorpion
+
+
+Destroyed items:
+
+Iridium Charge S, Qty: 40
+Bloodclaw Light Missile, Qty: 29
+TE-2100 Standard Missile Bay
+TE-2100 Standard Missile Bay
+TE-2100 Standard Missile Bay
+Type-D Altered SS Inertial Stabilizers
+Type-D Altered SS Nanofiber Structure
+Bloodclaw Light Missile, Qty: 1957 (Cargo)
+

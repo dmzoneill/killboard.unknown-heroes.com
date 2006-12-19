@@ -1,0 +1,51 @@
+2006.09.26 02:41
+
+Victim: Lkin Kce
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Destroyed: Caracal
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Arch Apples (laid the final blow)
+Security: 2.2
+Alliance: Ascendant Frontier
+Corp: Sha Kharn Corp
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+Name: Jasmine Dupre
+Security: 5.0
+Alliance: Ascendant Frontier
+Corp: Sha Kharn Corp
+Ship: Scorpion
+Weapon: Paradise Cruise Missile
+
+Name: Stain Protector
+Security: 0.1
+Alliance: Ascendant Frontier
+Corp: Sha Kharn Corp
+Ship: Ares
+Weapon: Ares
+
+Name: Poll
+Security: 5.0
+Alliance: Ascendant Frontier
+Corp: Sha Kharn Corp
+Ship: Blackbird
+Weapon: XR-3200 Heavy Missile Bay
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 32
+Thunderbolt Heavy Missile, Qty: 65
+Advanced 'Limos' Heavy Missile Bay I
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+'Anointed' I EM Ward Reinforcement
+Thunderbolt Heavy Missile, Qty: 857 (Cargo)
+Valkyrie I (Drone Bay)
+

@@ -1,0 +1,102 @@
+2007.05.20 22:23
+
+Victim: Kvarium Ki
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Destroyed: Bellicose
+System: JK-Q77
+Security: 0.0
+
+Involved parties:
+
+Name: Aves
+Security: 0.0
+Alliance: R i s e
+Corp: Jazz Associates
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Asam
+Security: 2.3
+Alliance: R i s e
+Corp: Teeth Of The Hydra
+Ship: Huginn
+Weapon: Stasis Webifier II
+
+Name: GeMiPaT
+Security: 5.0
+Alliance: R i s e
+Corp: Res Publica
+Ship: Prophecy
+Weapon: Prophecy
+
+Name: koraif
+Security: 5.0
+Alliance: R i s e
+Corp: Teeth Of The Hydra
+Ship: Wolf
+Weapon: 250mm Light Artillery Cannon II
+
+Name: JohnTrap
+Security: 5.0
+Alliance: R i s e
+Corp: Sturmgrenadier Inc
+Ship: Ferox
+Weapon: Ferox
+
+Name: skini
+Security: 5.0
+Alliance: R i s e
+Corp: Sturmgrenadier Inc
+Ship: Dominix
+Weapon: Heavy Nosferatu I
+
+Name: DeathBunny (laid the final blow)
+Security: 5.0
+Alliance: R i s e
+Corp: Sturmgrenadier Inc
+Ship: Stabber
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Vuudu
+Security: 4.7
+Alliance: R i s e
+Corp: Teeth Of The Hydra
+Ship: Stabber
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Squatche
+Security: 1.2
+Alliance: R i s e
+Corp: Sturmgrenadier Inc
+Ship: Cormorant
+Weapon: 150mm Railgun I
+
+Name: Hoap
+Security: 5.0
+Alliance: R i s e
+Corp: Shadow Gypsies
+Ship: Purifier
+Weapon: XT-9000 Cruise Launcher
+
+Name: Faydhe
+Security: 4.3
+Alliance: R i s e
+Corp: Sturmgrenadier Inc
+Ship: Stiletto
+Weapon: Warp Disruptor I
+
+
+Destroyed items:
+
+280mm Howitzer Artillery II
+Havoc Heavy Missile, Qty: 31
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+10MN MicroWarpdrive I
+Tracking Disruptor I
+Type-D Altered SS Inertial Stabilizers
+Type-D Altered SS Overdrive Injector
+Corpse, Qty: 2 (Cargo)
+Fusion S, Qty: 913 (Cargo)
+

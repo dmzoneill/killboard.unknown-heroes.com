@@ -1,0 +1,54 @@
+2007.03.19 03:02
+
+Victim: syace
+Alliance: United Confederation of Corporations
+Corp: Mindstar Technology
+Destroyed: Minmatar Shuttle
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: death1023 (laid the final blow)
+Security: 2.9
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Hyperion
+Weapon: 425mm 'Scout' I Accelerator Cannon
+
+Name: Logand Delta
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Ship: Drake
+Weapon: Thunderbolt Heavy Missile
+
+Name: Fzoul
+Security: 2.7
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Rupture
+Weapon: Flameburst Light Missile
+
+Name: ventura5
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Drake
+Weapon: Advanced 'Limos' Heavy Missile Bay I
+
+Name: Ma'kal
+Security: 4.6
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Raptor
+Weapon: Raptor
+
+Name: Ahramaine
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Taranis
+Weapon: Taranis
+
+

@@ -1,0 +1,47 @@
+2006.10.03 18:08
+
+Victim: sanjar
+Alliance: R.I.S.K
+Corp: SAHRMAT tech. Corp
+Destroyed: Gallente Shuttle
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Terrorv1z
+Security: 5.1
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Harpy
+Weapon: Harpy
+
+Name: Ione79
+Security: 3.4
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Celestis
+Weapon: XR-3200 Heavy Missile Bay
+
+Name: James Potkukelkka (laid the final blow)
+Security: 0.1
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Flycatcher
+Weapon: Bloodclaw Light Missile
+
+Name: W4RR10R
+Security: -0.8
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Taranis
+Weapon: Faint Epsilon Warp Prohibitor I
+
+Name: Jack Phox
+Security: 2.8
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Harpy
+Weapon: 150mm Railgun I
+
+

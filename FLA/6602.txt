@@ -1,0 +1,26 @@
+2006.11.19 07:03
+
+Victim: rockerguy
+Alliance: Lotka Volterra
+Corp: FATAL REVELATIONS
+Destroyed: Capsule
+System: E-Z2ZX
+Security: 0.0
+
+Involved parties:
+
+Name: SleepyOSU
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: Sin-X Inc.
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: Danielson1012 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+

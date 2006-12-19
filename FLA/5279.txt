@@ -1,0 +1,78 @@
+2007.04.23 17:22
+
+Victim: Ghu'ru Talozan
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Catalyst
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: sgtdark
+Security: 5.0
+Alliance: Storm Armada
+Corp: stone grave haulage
+Ship: Taranis
+Weapon: Taranis
+
+Name: Hojou
+Security: 0.3
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Incursus
+Weapon: Incursus
+
+Name: RuLuVdArR
+Security: 0.0
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Tristan
+Weapon: Phalanx Rocket
+
+Name: Aut Nihil
+Security: 0.1
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Kestrel
+Weapon: Sabretooth Light Missile
+
+Name: Fitz Farseer (laid the final blow)
+Security: 0.5
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Rupture
+Weapon: Havoc Heavy Missile
+
+Name: Savak
+Security: 0.2
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Armageddon
+Weapon: Dual Modal Heavy Laser I
+
+Name: Screamer
+Security: 0.8
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Chimera
+Weapon: Templar
+
+Name: Evil Bunnies
+Security: 0.2
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Blackbird
+Weapon: ECM - Multispectral Jammer I
+
+
+Destroyed items:
+
+150mm Railgun I
+Antimatter Charge S, Qty: 59
+1MN MicroWarpdrive I
+Magnetic Field Stabilizer I
+Energized Adaptive Nano Membrane I
+Nanofiber Internal Structure I
+Antimatter Charge S, Qty: 700 (Cargo)
+

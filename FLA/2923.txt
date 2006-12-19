@@ -1,0 +1,39 @@
+2007.03.16 17:34
+
+Victim: Pressman1966
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Destroyed: Eagle
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: stich626 (laid the final blow)
+Security: -1.9
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Brutix
+Weapon: Heavy Electron Blaster II
+
+Name: Vrivona
+Security: 1.2
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Claw
+Weapon: Claw
+
+
+Destroyed items:
+
+250mm Railgun II
+250mm Railgun II
+Prototype Cloaking Device I
+Javelin M, Qty: 14
+'Anointed' I EM Ward Reinforcement
+Invulnerability Field I
+Sensor Booster II
+Damage Control II
+Magnetic Field Stabilizer II
+Magnetic Field Stabilizer II
+

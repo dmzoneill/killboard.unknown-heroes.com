@@ -1,0 +1,32 @@
+2007.04.22 01:24
+
+Victim: Daline Dark
+Alliance: Freelancer Alliance
+Corp: Terminal Velocity Inc.
+Destroyed: Tristan
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Orange Species (laid the final blow)
+Security: -2.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Ragnarok
+Weapon: Gjallarhorn
+
+
+Destroyed items:
+
+150mm Carbide Railgun I
+Iron Charge S, Qty: 80
+Thorn Rocket, Qty: 30
+OE-5200 Rocket Launcher
+Rocket Launcher I
+Nanofiber Internal Structure I
+Nanofiber Internal Structure I
+Iron Charge S, Qty: 622 (Cargo)
+Thorn Rocket, Qty: 382 (Cargo)
+Hobgoblin I (Drone Bay)
+

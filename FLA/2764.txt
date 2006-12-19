@@ -1,0 +1,28 @@
+2007.03.05 20:05
+
+Victim: Osyc
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Destroyed: Manticore
+System: Pator
+Security: 1.0
+
+Involved parties:
+
+Name: iggy6662k2 (laid the final blow)
+Security: -1.8
+Alliance: Privateer Alliance
+Corp: Kemono.
+Ship: Hurricane
+Weapon: 220mm Vulcan AutoCannon II
+
+
+Destroyed items:
+
+Prototype Cloaking Device I
+XT-9000 Cruise Launcher
+XT-9000 Cruise Launcher
+Small Capacitor Battery II
+Micro Auxiliary Power Core I
+Ballistic Control System II
+

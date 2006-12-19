@@ -1,0 +1,36 @@
+2006.06.26 14:44
+
+Victim: Trigearion
+Alliance: Freelancer Alliance
+Corp: KHM Corporation
+Destroyed: Dominix
+System: Aubenall
+Security: 0.4
+
+Involved parties:
+
+Name: Gareitonis (laid the final blow)
+Security: 2.6
+Alliance: None
+Corp: Auriga inc
+Ship: Megathron
+Weapon: Electron Blaster Cannon II
+
+
+Destroyed items:
+
+Small Tractor Beam I
+100MN MicroWarpdrive I
+Initiated Warp Jammer I
+Large 'Accommodation' Vestment Reconstructer I
+Warp Core Stabilizer I
+Warp Core Stabilizer I
+Radioisotope Thermic Membrane I
+Radioisotope Magnetic Membrane I
+1600mm Reinforced Nanofiber Plates I
+Heavy Nosferatu I, Qty: 2 (Cargo)
+Alumel-Wired I Sensor Augmentation (Cargo)
+Sensor Booster I (Cargo)
+Tracking Computer I, Qty: 2 (Cargo)
+F-12 Nonlinear Tracking Processor (Cargo)
+

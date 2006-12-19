@@ -1,0 +1,19 @@
+2007.02.23 05:06
+
+Victim: Zungen
+Alliance: Red Moon Federation
+Corp: Confederation of Red Moon
+Destroyed: Capsule
+System: U-TJ7Y
+Security: 0.0
+
+Involved parties:
+
+Name: zentroty (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Ship: Cerberus
+Weapon: Scourge Precision Heavy Missile
+
+

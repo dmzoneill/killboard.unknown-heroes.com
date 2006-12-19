@@ -1,0 +1,19 @@
+2007.03.23 05:51
+
+Victim: truefranco
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Destroyed: Capsule
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: One Percent (laid the final blow)
+Security: -4.0
+Alliance: None
+Corp: Developmental Neogenics Amalgamated
+Ship: Flycatcher
+Weapon: Thorn Rocket
+
+

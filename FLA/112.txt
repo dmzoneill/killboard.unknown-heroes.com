@@ -1,0 +1,52 @@
+2007.01.11 05:46
+
+Victim: Kalathmir
+Alliance: Triumvirate.
+Corp: omen.
+Destroyed: Crusader
+System: X-7OMU
+Security: 0.0
+
+Involved parties:
+
+Name: KriegDrachen (laid the final blow)
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Sabre
+Weapon: 150mm Light AutoCannon II
+
+Name: PowerGimp
+Security: 4.8
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Hawk
+Weapon: Sabretooth Light Missile
+
+Name: TroNaaR
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ishkur
+Weapon: 125mm Railgun II
+
+Name: Weeble Wooble
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Myrmidon
+Weapon: Myrmidon
+
+
+Destroyed items:
+
+Dual Light Pulse Laser II
+Dual Light Pulse Laser II
+Scorch S
+Scorch S
+Scorch S
+1MN MicroWarpdrive I
+Warp Disruptor I
+Small Armor Repairer II
+Capacitor Power Relay I
+

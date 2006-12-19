@@ -1,0 +1,39 @@
+2007.04.03 03:06
+
+Victim: Giannided
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Iteron Mark V
+System: K4YZ-Y
+Security: 0.0
+
+Involved parties:
+
+Name: Vily (laid the final blow)
+Security: 0.3
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Ehxo
+Security: 4.9
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Mynas Atoch
+Security: 0.8
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Buzzard
+Weapon: Fleeting Warp Scrambler I
+
+
+Destroyed items:
+
+Expanded Cargohold I
+Expanded Cargohold I
+Expanded Cargohold I
+

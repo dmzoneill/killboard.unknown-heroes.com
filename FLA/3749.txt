@@ -1,0 +1,26 @@
+2007.03.31 05:49
+
+Victim: Ireiw wocad
+Alliance: Freelancer Alliance
+Corp: Feel Good Inc.
+Destroyed: Minmatar Shuttle
+System: P-2TTL
+Security: 0.0
+
+Involved parties:
+
+Name: Wladomir Jed (laid the final blow)
+Security: 3.7
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Rook
+Weapon: Scourge Heavy Missile
+
+Name: Dekein
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Rapier
+Weapon: Rapier
+
+

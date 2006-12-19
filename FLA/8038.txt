@@ -1,0 +1,24 @@
+2006.10.06 22:08
+
+Victim: Quninella
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Destroyed: Velator
+System: Isanamo
+Security: 0.6
+
+Involved parties:
+
+Name: Onin Ra (laid the final blow)
+Security: 1.1
+Alliance: None
+Corp: Privateers
+Ship: Megathron
+Weapon: 425mm 'Scout' I Accelerator Cannon
+
+
+Destroyed items:
+
+Basic Miner
+Tritanium (Cargo)
+

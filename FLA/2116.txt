@@ -1,0 +1,47 @@
+2007.01.21 21:52
+
+Victim: reched
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Destroyed: Capsule
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: siliconix (laid the final blow)
+Security: 2.2
+Alliance: None
+Corp: 0utbreak
+Ship: Vagabond
+Weapon: Dual 180mm AutoCannon II
+
+Name: Saal Iverson
+Security: 4.8
+Alliance: None
+Corp: 0utbreak
+Ship: Taranis
+Weapon: Taranis
+
+Name: FraXy
+Security: -4.2
+Alliance: None
+Corp: 0utbreak
+Ship: Guardian
+Weapon: Guardian
+
+Name: ScoRpS
+Security: 2.8
+Alliance: None
+Corp: 0utbreak
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+Name: Quarantine
+Security: 4.3
+Alliance: None
+Corp: 0utbreak
+Ship: Huginn
+Weapon: Fleeting Warp Scrambler I
+
+

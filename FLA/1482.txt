@@ -1,0 +1,31 @@
+2007.03.14 01:26
+
+Victim: Twicks
+Alliance: None
+Corp: Oblivion Knights
+Destroyed: Cormorant
+System: Polaris
+Security: 0.0
+
+Involved parties:
+
+Name: Minmatar Control Tower Small / Di-Tron Heavy Industries (laid the final blow)
+
+
+Destroyed items:
+
+125mm Railgun I
+125mm Railgun I
+125mm Railgun I
+Iridium Charge S, Qty: 320
+Standard Missile Launcher I
+Small Shield Extender I
+Small Shield Booster I
+ECM - Spatial Destabilizer I
+Small Energy Transfer Array I (Cargo)
+150mm Compressed Coil Gun I (Cargo)
+150mm Railgun I (Cargo)
+EMP S, Qty: 62 (Cargo)
+Bloodclaw Light Missile, Qty: 40 (Cargo)
+Foxfire Rocket, Qty: 100 (Cargo)
+

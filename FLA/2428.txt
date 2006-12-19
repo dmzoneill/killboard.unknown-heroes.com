@@ -1,0 +1,26 @@
+2007.02.09 23:05
+
+Victim: tzar1024
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Destroyed: Capsule
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: aadom
+Security: 3.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Tempest
+Weapon: 1400mm Gallium I Cannon
+
+Name: ArchenTheGreat (laid the final blow)
+Security: -0.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Rokh
+Weapon: 425mm Carbide Railgun I
+
+

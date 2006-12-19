@@ -1,0 +1,59 @@
+2006.07.25 12:52
+
+Victim: Jimmycs83
+Alliance: None
+Corp: The Exiles
+Destroyed: Megathron
+System: JU-OWQ
+Security: 0.0
+
+Involved parties:
+
+Name: Rytir (laid the final blow)
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Zealot
+Weapon: Heavy Pulse Laser II
+
+Name: Draca Longen
+Security: 1.4
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Scorpion
+Weapon: ECM - Multispectral Jammer II
+
+Name: Cazziel
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Celestis
+Weapon: Celestis
+
+Name: ApollyN
+Security: 4.5
+Alliance: CORE.
+Corp: VentureCorp
+Ship: Stiletto
+Weapon: ZW-4100 Siege Missile Bay
+
+
+Destroyed items:
+
+E500 Prototype Energy Vampire
+Electron Blaster Cannon II
+Electron Blaster Cannon II
+Electron Blaster Cannon II
+Electron Blaster Cannon II
+Void L, Qty: 490
+Quad LiF Fueled I Booster Rockets
+Faint Epsilon Warp Prohibitor I
+Fleeting Propulsion Inhibitor I
+Heavy Electrochemical Capacitor Booster I
+Pseudoelectron Containment Field I
+Large Armor Repairer II
+Energized Adaptive Nano Membrane II
+Hornet I, Qty: 2 (Cargo)
+Null L, Qty: 1600 (Cargo)
+Warrior II, Qty: 4 (Drone Bay)
+

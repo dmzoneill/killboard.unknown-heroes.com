@@ -1,0 +1,131 @@
+2007.04.27 22:18
+
+Victim: alpha lead
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Drake
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Savak
+Security: 0.2
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: ZeroGrav (laid the final blow)
+Security: 3.2
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Terdlinger
+Security: 5.0
+Alliance: Storm Armada
+Corp: stone grave haulage
+Ship: Raven
+Weapon: Inferno Javelin Torpedo
+
+Name: Screamer
+Security: 0.9
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Raven
+Weapon: Juggernaut Torpedo
+
+Name: Konson
+Security: 3.7
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Retribution
+Weapon: Retribution
+
+Name: Wraithstorm
+Security: 3.1
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Dominix
+Weapon: Ogre II
+
+Name: lethario desrtuction
+Security: 2.1
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Hawk
+Weapon: Bloodclaw Precision Light Missile
+
+Name: Bothius
+Security: 0.4
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Catalyst
+Weapon: Catalyst
+
+Name: Vlad Cetes
+Security: 5.0
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Blackbird
+Weapon: Sabretooth Light Missile
+
+Name: tomuch
+Security: 2.9
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Celestis
+Weapon: Widowmaker Heavy Missile
+
+Name: Aut Nihil
+Security: 0.1
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Thorax
+Weapon: Thorax
+
+Name: Elrid Barnes
+Security: 1.8
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Moa
+Weapon: Moa
+
+Name: Vendetta X
+Security: 0.6
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Blackbird
+Weapon: ECM - Phase Inverter II
+
+Name: Fitz Farseer
+Security: 0.5
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Bestower
+Weapon: Indirect Scanning Dampening Unit I
+
+Name: Bic Drax
+Security: 3.6
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Celestis
+Weapon: Remote Sensor Dampener I
+
+
+Destroyed items:
+
+Passive Targeter I
+Scourge Heavy Missile, Qty: 69
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Large Azeotropic Ward Salubrity I
+Heat Dissipation Field I
+V-M15 Braced Multispectral Shield Matrix
+Multi Sensor Backup Array I
+Beta Reactor Control: Diagnostic System I
+Hammerhead I (Drone Bay)
+

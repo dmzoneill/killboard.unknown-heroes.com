@@ -1,0 +1,142 @@
+2007.04.16 02:19
+
+Victim: Fitz Farseer
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Typhoon
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Bullv3rsat
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Terminal Velocity Inc.
+Ship: Claw
+Weapon: Claw
+
+Name: Kvarium Ki
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Ship: Arbitrator
+Weapon: Vespa I
+
+Name: Recon Alpha
+Security: 3.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Caracal
+Weapon: Widowmaker Heavy Missile
+
+Name: Skull Fire
+Security: 0.8
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Capsule
+Weapon: 250mm 'Scout' I Accelerator Cannon
+
+Name: alon blackhelm
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Thorax
+Weapon: Thorax
+
+Name: Primaxin
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Harbingers of Sarrow
+Ship: Ferox
+Weapon: Havoc Heavy Missile
+
+Name: Korudon
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Thorax
+Weapon: Hammerhead I
+
+Name: Kayron Brennan
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Caracal
+Weapon: Thunderbolt Heavy Missile
+
+Name: dastommy79 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Thorax
+Weapon: Heavy Ion Blaster I
+
+Name: Frau Formaggio
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ishkur
+Weapon: Hobgoblin II
+
+Name: Tran Whistler
+Security: 5.3
+Alliance: Freelancer Alliance
+Corp: Harbingers of Sarrow
+Ship: Caracal
+Weapon: Bloodclaw Light Missile
+
+Name: shadowxp99
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: Harbingers of Sarrow
+Ship: Caracal
+Weapon: Havoc Heavy Missile
+
+Name: Aridante Lemure
+Security: 1.2
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: Magic Mazuma
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Rifter
+Weapon: Rifter
+
+
+Destroyed items:
+
+Dual 650mm Repeating Artillery II
+Dual 650mm Repeating Artillery II
+Dual 650mm Repeating Artillery II
+EMP L, Qty: 281
+Juggernaut Torpedo, Qty: 30
+'Arbalest' Siege Missile Launcher
+'Arbalest' Siege Missile Launcher
+100MN Afterburner I
+Warp Disruptor I
+Damage Control I
+Armor Thermic Hardener I
+Armor Kinetic Hardener I
+Armor Kinetic Hardener I
+Corpse (Cargo)
+Cap Recharger I, Qty: 2 (Cargo)
+Gyrostabilizer II (Cargo)
+Damage Control I (Cargo)
+Small Brief Capacitor Overcharge I (Cargo)
+Proton S, Qty: 11 (Cargo)
+Multifrequency M (Cargo)
+Cap Booster 200 (Cargo)
+Juggernaut Torpedo, Qty: 556 (Cargo)
+Acolyte I, Qty: 3 (Cargo)
+Energized Adaptive Nano Membrane I (Cargo)
+Ballistic Control System II (Cargo)
+Scourge Heavy Missile, Qty: 858 (Cargo)
+Thunderbolt Heavy Missile, Qty: 893 (Cargo)
+Heavy Missile Launcher I, Qty: 2 (Cargo)
+Nanofiber Internal Structure I (Cargo)
+

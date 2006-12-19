@@ -1,0 +1,48 @@
+2006.09.11 17:11
+
+Victim: BloodySkull
+Alliance: R.I.S.K
+Corp: Brotherhood of Musketeers
+Destroyed: Hawk
+System: ROIR-Y
+Security: 0.0
+
+Involved parties:
+
+Name: Cazziel (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Taranis
+Weapon: Hobgoblin II
+
+Name: ForceAttuned Krogoth
+Security: 0.5
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Curse
+Weapon: Warrior II
+
+Name: Death Merchant
+Security: 2.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Capsule
+Weapon: 125mm Railgun II
+
+Name: Luthien Firefoot
+Security: 2.6
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Taranis
+Weapon: Taranis
+
+
+Destroyed items:
+
+Standard Missile Launcher II
+Bloodclaw Precision Light Missile, Qty: 82
+1MN MicroWarpdrive I
+Warp Core Stabilizer I
+Bloodclaw Light Missile, Qty: 899 (Cargo)
+

@@ -1,0 +1,25 @@
+2007.01.21 18:36
+
+Victim: El Primus
+Alliance: None
+Corp: Northshore Enterprises
+Destroyed: Iteron Mark III
+System: 5ZXX-K
+Security: 0.0
+
+Involved parties:
+
+Name: Jester87 (laid the final blow)
+Security: 1.3
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+
+Destroyed items:
+
+Inertia Stabilizers I
+Expanded Cargohold I
+Giant Secure Container (Cargo)
+

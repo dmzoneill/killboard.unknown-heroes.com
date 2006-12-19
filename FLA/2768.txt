@@ -1,0 +1,19 @@
+2007.03.05 20:50
+
+Victim: Toxic Traveller
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Destroyed: Capsule
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: nmwone (laid the final blow)
+Security: -1.6
+Alliance: None
+Corp: Finite Horizon
+Ship: Claymore
+Weapon: 220mm Vulcan AutoCannon II
+
+

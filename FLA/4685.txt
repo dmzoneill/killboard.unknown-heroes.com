@@ -1,0 +1,47 @@
+2007.04.18 03:15
+
+Victim: Fitz Farseer
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Capsule
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Kvarium Ki (laid the final blow)
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Stabber
+Weapon: 425mm AutoCannon I
+
+Name: Tran Whistler
+Security: 5.3
+Alliance: Freelancer Alliance
+Corp: Harbingers of Sarrow
+Ship: Raptor
+Weapon: Raptor
+
+Name: arthell
+Security: 2.9
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Ishkur
+Weapon: 150mm Carbide Railgun I
+
+Name: Magic Mazuma
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Rifter
+Weapon: Rifter
+
+Name: Kayron Brennan
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Merlin
+Weapon: TE-2100 Standard Missile Bay
+
+

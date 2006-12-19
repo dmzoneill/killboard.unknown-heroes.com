@@ -1,0 +1,133 @@
+2007.03.10 03:24
+
+Victim: Nylund Akarry
+Alliance: YouWhat
+Corp: Pringles Inc.
+Destroyed: Prophecy
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Sils wife (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Jaig Maldara
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Rokh
+Weapon: Rokh
+
+Name: Johanen
+Security: 2.7
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Myrmidon
+Weapon: Myrmidon
+
+Name: Jonas123
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Ferox
+Weapon: Ferox
+
+Name: Skull Fire
+Security: 0.8
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Scorpion
+Weapon: 'Arbalest' Cruise Launcher I
+
+Name: kruuug
+Security: -0.7
+Alliance: None
+Corp: Emerald Empire
+Ship: Tempest
+Weapon: Tempest
+
+Name: Muad' Dib
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: Beshari
+Security: -3.6
+Alliance: None
+Corp: Emerald Empire
+Ship: Maelstrom
+Weapon: 1200mm Heavy Prototype I Siege Cannon
+
+Name: Cyrila Wolf
+Security: -2.2
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: Rose Petal
+Security: -0.6
+Alliance: None
+Corp: Emerald Empire
+Ship: Rifter
+Weapon: Rifter
+
+Name: Tarphon
+Security: 2.8
+Alliance: Imperial Republic Of the North
+Corp: VentureCorp
+Ship: Raptor
+Weapon: 75mm Gatling Rail I
+
+Name: Slinktress
+Security: 2.8
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Megathron
+Weapon: Megathron
+
+Name: Simon Monkoto
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Scorpion
+Weapon: Induced Multispectral ECM I
+
+
+Destroyed items:
+
+Y-S8 Hydrocarbon I Afterburners
+Inertia Stabilizers I
+Inertia Stabilizers I
+Inertia Stabilizers I
+Inertia Stabilizers I
+Barton Reactor Capacitor Recharger I (Cargo)
+Heavy Afocal Maser I (Cargo)
+Large Automated I Carapace Restoration (Cargo)
+Small Automated I Carapace Restoration (Cargo)
+Small F-RX Prototype I Capacitor Boost (Cargo)
+Sanshas Radio M (Cargo)
+Alumel-Wired I Sensor Augmentation (Cargo)
+Radioisotope Reflective Membrane I (Cargo)
+Energized Reactive Membrane I (Cargo)
+Microcell Nanite Regenerative Membrane I (Cargo)
+Energized Thermic Membrane I (Cargo)
+N-Type Reactive Membrane I (Cargo)
+N-Type Thermic Membrane I, Qty: 2 (Cargo)
+N-Type Explosive Hardener I (Cargo)
+Microcell Nanite Explosive Hardener I (Cargo)
+100mm Reinforced Steel Plates I (Cargo)
+Scan Probe Launcher I, Qty: 9 (Cargo)
+Conductive Polymer (Cargo)
+Broken Drone Transceiver (Cargo)
+Beta Hull Mod Overdrive Injector (Cargo)
+Type-D Power Core Modification: Diagnostic System, Qty: 4 (Cargo)
+Type-D Power Core Modification: Reaction Control, Qty: 2 (Cargo)
+

@@ -1,0 +1,124 @@
+2007.02.06 03:36
+
+Victim: Nil Desperandum
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Apocalypse
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: EL TITAN
+Security: 1.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Okuden
+Security: 1.6
+Alliance: Band of Brothers
+Corp: Black Eclipse Corp
+Ship: Deimos
+Weapon: Deimos
+
+Name: Dark1
+Security: 3.3
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Muninn
+Weapon: Muninn
+
+Name: Seldarine
+Security: 0.1
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Sexual Chocolate (laid the final blow)
+Security: 2.5
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+Name: Flavius Renatus
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Stiletto
+Weapon: 200mm AutoCannon II
+
+Name: Nick Curso
+Security: -0.3
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Crusader
+Weapon: Dual Light Pulse Laser II
+
+Name: Leyalor Esperence
+Security: 2.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Sabre
+Weapon: 200mm AutoCannon II
+
+Name: Gazmus
+Security: 0.8
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Taranis
+Weapon: 125mm Railgun II
+
+Name: LadyScarlet
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Cerberus
+Weapon: Scourge Heavy Missile
+
+Name: Polydectes
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Heretic
+Weapon: Dual Light Beam Laser II
+
+Name: Funky Feeling
+Security: 4.6
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Myrmidon
+Weapon: 75mm Gatling Rail II
+
+Name: Gilad Pellaeon
+Security: 4.7
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Pilgrim
+Weapon: Tracking Disruptor II
+
+
+Destroyed items:
+
+Mega Beam Laser II
+Mega Beam Laser II
+Mega Beam Laser II
+Multifrequency L
+Multifrequency L
+Multifrequency L
+Multifrequency L
+Prototype I Sensor Booster
+C4S Coiled Circuit Thermal Radiator
+C4S Coiled Circuit Thermal Radiator
+Tracking Enhancer II
+Reactor Control Unit I
+Radio L, Qty: 8 (Cargo)
+Ultraviolet L, Qty: 8 (Cargo)
+Infrared L, Qty: 5 (Cargo)
+Standard L, Qty: 2 (Cargo)
+Acolyte I, Qty: 2 (Drone Bay)
+Medium Armor Maintenance Bot I, Qty: 5 (Drone Bay)
+

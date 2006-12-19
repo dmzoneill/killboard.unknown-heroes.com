@@ -1,0 +1,54 @@
+2007.04.14 22:28
+
+Victim: StrikerOneSevern
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Destroyed: Capsule
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Exekias (laid the final blow)
+Security: 2.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Hurricane
+Weapon: 650mm Artillery Cannon II
+
+Name: Karille
+Security: -1.6
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Taranis
+Weapon: Taranis
+
+Name: Steve Dave
+Security: 4.1
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Hawk
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+Name: Larsson7
+Security: 4.4
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Wolf
+Weapon: 200mm AutoCannon II
+
+Name: FA Avenger
+Security: 2.9
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+Name: 4SG GillHead
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Seraphin Technologies
+Ship: Malediction
+Weapon: Malediction
+
+

@@ -1,0 +1,114 @@
+2007.02.13 21:24
+
+Victim: SKYTTE
+Alliance: Triumvirate.
+Corp: omen.
+Destroyed: Raven
+System: O-N8XZ
+Security: 0.0
+
+Involved parties:
+
+Name: Seventh Star
+Security: 5.0
+Alliance: None
+Corp: BGG
+Ship: Drake
+Weapon: Hornet II
+
+Name: jacass66
+Security: 5.0
+Alliance: None
+Corp: BGG
+Ship: Drake
+Weapon: Hobgoblin II
+
+Name: Valea Silpha
+Security: 2.6
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Rapier
+Weapon: Hobgoblin I
+
+Name: MohamedLoftie (laid the final blow)
+Security: -1.2
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Curse
+Weapon: Hammerhead II
+
+Name: WolfRavage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Ishkur
+Weapon: Warrior I
+
+Name: Velithe
+Security: 3.1
+Alliance: None
+Corp: BGG
+Ship: Caracal
+Weapon: Heavy Missile Launcher I
+
+Name: Ridgy
+Security: 0.7
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Ship: Scorpion
+Weapon: Wrath Cruise Missile
+
+Name: Kyoshisan
+Security: 0.7
+Alliance: None
+Corp: BGG
+Ship: Eris
+Weapon: 75mm Gatling Rail II
+
+Name: Wousr
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Hound
+Weapon: 280mm Howitzer Artillery II
+
+Name: Ocara Nezus
+Security: 2.8
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Hawk
+Weapon: Bloodclaw Light Missile
+
+Name: Dark Carnage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Crow
+Weapon: Sabretooth Light Missile
+
+Name: bjugis
+Security: 0.7
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Incursus
+Weapon: Small Nosferatu I
+
+
+Destroyed items:
+
+Juggernaut Torpedo, Qty: 9
+Siege Missile Launcher I
+Siege Missile Launcher I
+Siege Missile Launcher I
+Siege Missile Launcher I
+Siege Missile Launcher I
+Large Shield Booster II
+Type-D Altered SS Inertial Stabilizers
+Inertia Stabilizers I
+Inertia Stabilizers I
+Inertia Stabilizers I
+Ballistic Control System II, Qty: 2 (Cargo)
+Power Diagnostic System II, Qty: 2 (Cargo)
+Hammerhead I, Qty: 5 (Drone Bay)
+Wasp I (Drone Bay)
+

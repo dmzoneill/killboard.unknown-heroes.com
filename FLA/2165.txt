@@ -1,0 +1,80 @@
+2007.01.27 12:44
+
+Victim: Venkat Tulari
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Badger Mark II
+System: O-N8XZ
+Security: 0.0
+
+Involved parties:
+
+Name: eyesu (laid the final blow)
+Security: 3.5
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Muninn
+Weapon: 720mm Howitzer Artillery II
+
+Name: Seth Quantix
+Security: -0.3
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Zealot
+Weapon: Zealot
+
+Name: Eskriloth
+Security: 2.8
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: Broghir
+Security: 0.2
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Eris
+Weapon: Flameburst Light Missile
+
+Name: donVito Corleone
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Curse
+Weapon: Valkyrie II
+
+Name: fire 59
+Security: 4.9
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Stabber
+Weapon: Stabber
+
+Name: PhantomLord
+Security: 4.6
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Pilgrim
+Weapon: ECM - Spatial Destabilizer II
+
+Name: Beast Hun
+Security: 4.7
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Crusader
+Weapon: Crusader
+
+
+Destroyed items:
+
+Small Tractor Beam I
+Medium C5-L Emergency Shield Overload I
+1MN MicroWarpdrive I
+Tracking Disruptor I
+Caldari Shuttle, Qty: 2 (Cargo)
+Emergency Damage Control I (Cargo)
+Hobgoblin I (Cargo)
+Infiltrator I, Qty: 2 (Cargo)
+Ballistic Control System I, Qty: 2 (Cargo)
+

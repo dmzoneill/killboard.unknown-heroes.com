@@ -1,0 +1,35 @@
+2006.10.28 15:49
+
+Victim: Soliloquil
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Destroyed: Caracal
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Murdoch Morf (laid the final blow)
+Security: 0.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+Name: Ceapio
+Security: 5.0
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Malediction
+Weapon: Malediction
+
+
+Destroyed items:
+
+Thunderbolt Heavy Missile, Qty: 108
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Large Shield Extender I
+Thunderbolt Heavy Missile, Qty: 2818 (Cargo)
+

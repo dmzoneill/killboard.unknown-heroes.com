@@ -1,0 +1,33 @@
+2007.03.17 05:26
+
+Victim: Atormentado
+Alliance: Axiom Empire
+Corp: Fenix Reloaded
+Destroyed: Capsule
+System: MJYW-3
+Security: 0.0
+
+Involved parties:
+
+Name: Weeble Wooble (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Khelia
+Security: 0.5
+Alliance: Dusk and Dawn
+Corp: Stardust Heavy Industries
+Ship: Myrmidon
+Weapon: 250mm 'Scout' I Accelerator Cannon
+
+Name: Sovo
+Security: -0.6
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Stabber
+Weapon: Heavy Missile Launcher I
+
+

@@ -1,0 +1,133 @@
+2006.11.12 02:00
+
+Victim: Krasnij Okjabre
+Alliance: Blood Raiders Alliance
+Corp: Murder-Death-Kill
+Destroyed: Ferox
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Barsak Kressel (laid the final blow)
+Security: 3.0
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Ship: Raven
+Weapon: Juggernaut Torpedo
+
+Name: Angel Vengen
+Security: 4.4
+Alliance: Freelancer Alliance
+Corp: Caldar Mercenary Syndicate
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: digital oxygen
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Deimos
+Weapon: Deimos
+
+Name: Zachariah Barnette
+Security: 0.8
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Ship: Caracal
+Weapon: Havoc Heavy Missile
+
+Name: Bad Borris
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Hosanna
+Security: 1.7
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Thrasher
+Weapon: Thrasher
+
+Name: MAD D0G
+Security: -0.6
+Alliance: None
+Corp: Ganksters Paradise
+Ship: Caracal
+Weapon: Widowmaker Heavy Missile
+
+Name: Elfaen Ethenwe
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Damhtman
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Hawk
+Weapon: Bloodclaw Precision Light Missile
+
+Name: Rustiko
+Security: 3.8
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Thorax
+Weapon: Thorax
+
+Name: Velithe
+Security: 2.1
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Orar Ironfist
+Security: 0.1
+Alliance: Freelancer Alliance
+Corp: Caldar Mercenary Syndicate
+Ship: Vexor
+Weapon: Vexor
+
+Name: Scorpio63
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Vengeance
+Weapon: Vengeance
+
+Name: Orcadian
+Security: 1.2
+Alliance: None
+Corp: Blackguard Brigade
+Ship: Jaguar
+Weapon: 200mm AutoCannon II
+
+Name: Supernaut 20k
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Flycatcher
+Weapon: Target Painter I
+
+
+Destroyed items:
+
+Thunderbolt Heavy Missile, Qty: 32
+Scourge Heavy Missile, Qty: 32
+Large F-S9 Regolith Shield Induction
+Invulnerability Field I
+Invulnerability Field I
+Type-D Power Core Modification: Shield Power Relay
+Ballistic Control System I
+J5b Phased Prototype Warp Inhibitor I (Cargo)
+Damage Control I (Cargo)
+Medium I-a Polarized Armor Regenerator (Cargo)
+Scourge Heavy Missile, Qty: 1842 (Cargo)
+Havoc Heavy Missile, Qty: 958 (Cargo)
+Thunderbolt Heavy Missile, Qty: 1099 (Cargo)
+

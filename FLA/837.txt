@@ -1,0 +1,61 @@
+2007.02.24 00:56
+
+Victim: Ninon Lanclos
+Alliance: Privateer Alliance
+Corp: Tempt Fate
+Destroyed: Maulus
+System: K4YZ-Y
+Security: 0.0
+
+Involved parties:
+
+Name: Steinkalt (laid the final blow)
+Security: 5.0
+Alliance: Guardian Federation
+Corp: KULT Production
+Ship: Cerberus
+Weapon: Scourge Fury Heavy Missile
+
+Name: Spikey
+Security: 5.0
+Alliance: Phoenix Allianz
+Corp: Jagdkommando
+Ship: Crow
+Weapon: Sabretooth Light Missile
+
+Name: Kolute
+Security: 4.6
+Alliance: Freelancer Coalition
+Corp: BINFORD
+Ship: Cyclone
+Weapon: Warp Disruptor I
+
+Name: Kerdrak
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Retribution
+Weapon: Retribution
+
+Name: Hidalgo Numbri
+Security: 3.1
+Alliance: Freelancer Coalition
+Corp: Lunar Association
+Ship: Eos
+Weapon: Eos
+
+Name: Goofer Child
+Security: 3.0
+Alliance: Freelancer Coalition
+Corp: Lunar Association
+Ship: Kestrel
+Weapon: 'Malkuth' Rocket Launcher I
+
+
+Destroyed items:
+
+125mm Railgun II
+Drone Link Augmentor I
+Local Hull Conversion Nanofiber Structure I
+Hobgoblin II (Drone Bay)
+

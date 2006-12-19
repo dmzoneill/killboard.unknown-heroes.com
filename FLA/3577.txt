@@ -1,0 +1,33 @@
+2007.03.27 10:57
+
+Victim: Ezeikiel
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Destroyed: Malediction
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Messmint (laid the final blow)
+Security: 5.0
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Marla Durden
+Security: -1.2
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Claw
+Weapon: Claw
+
+
+Destroyed items:
+
+Dual Light Pulse Laser II
+Dual Light Pulse Laser II
+Conflagration S
+'Arbalest' Rocket Launcher I
+

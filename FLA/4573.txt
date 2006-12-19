@@ -1,0 +1,107 @@
+2007.04.14 19:40
+
+Victim: Falke
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Destroyed: Raven
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Warp Disruption Battery / Eternity INC.
+
+Name: Xeliya
+Security: 4.7
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Chimera
+Weapon: Dragonfly
+
+Name: Griffinator
+Security: -2.6
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Thanatos
+Weapon: Einherji
+
+Name: Olli
+Security: -0.1
+Alliance: Mercenary Coalition
+Corp: Seraphin Technologies
+Ship: Chimera
+Weapon: Firbolg
+
+Name: FowlPlayChiken
+Security: 1.2
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Thanatos
+Weapon: Einherji
+
+Name: Queldonus
+Security: 3.3
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Nidhoggur
+Weapon: Einherji
+
+Name: ZaKma
+Security: -0.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Wolf
+Weapon: Wolf
+
+Name: Ateneiha
+Security: 4.8
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Chimera
+Weapon: Templar
+
+Name: Stradivarious (laid the final blow)
+Security: 3.7
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Nidhoggur
+Weapon: Einherji
+
+Name: Odda
+Security: 4.4
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Thanatos
+Weapon: Warp Disruptor I
+
+Name: Gilagos
+Security: 1.5
+Alliance: Mercenary Coalition
+Corp: Seraphin Technologies
+Ship: Archon
+Weapon: Gotan's Modified Stasis Webifier
+
+Name: Eleese
+Security: -0.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Dominix
+Weapon: Heavy Diminishing Power System Drain I
+
+
+Destroyed items:
+
+Heavy Nosferatu I
+'Arbalest' Cruise Launcher I
+ZW-4100 Siege Missile Bay
+Large Shield Extender I
+Large F-S9 Regolith Shield Induction
+Ballistic Control System I
+Power Diagnostic System I
+Heavy Nosferatu I (Cargo)
+Mjolnir Torpedo, Qty: 92 (Cargo)
+Devastator Cruise Missile, Qty: 192 (Cargo)
+Cataclysm Cruise Missile, Qty: 10 (Cargo)
+Power Diagnostic System I (Cargo)
+Hammerhead I (Drone Bay)
+

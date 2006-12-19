@@ -1,0 +1,82 @@
+2007.04.02 20:47
+
+Victim: Loograsch
+Alliance: Freelancer Alliance
+Corp: United Forces
+Destroyed: Dominix
+System: J1AU-9
+Security: 0.0
+
+Involved parties:
+
+Name: Guristas Eradicator / Guristas
+
+Name: The Ali
+Security: -3.2
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Vagabond
+Weapon: Dual 180mm AutoCannon II
+
+Name: Drak d'Amral (laid the final blow)
+Security: -1.0
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Muninn
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Amok'Trueborn' Pryde
+Security: -1.5
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Huginn
+Weapon: Huginn
+
+Name: volly
+Security: 3.5
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Curse
+Weapon: Hammerhead II
+
+Name: Eelim Garak
+Security: 1.3
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Curse
+Weapon: Valkyrie II
+
+Name: Tarr Mahoud
+Security: 5.0
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Curse
+Weapon: Hammerhead II
+
+Name: Gordon Red
+Security: 2.1
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Heretic
+Weapon: Heretic
+
+Name: DeDreiIx
+Security: 3.4
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Merlin
+Weapon: 125mm Prototype I Gauss Gun
+
+
+Destroyed items:
+
+350mm 'Scout' I Accelerator Cannon
+Uranium Charge L, Qty: 74
+Prototype Cloaking Device I
+Fixed Parallel Link-Capacitor I
+Large 'Accommodation' Vestment Reconstructer I
+Medium Armor Repairer II
+Warrior I, Qty: 5 (Drone Bay)
+Wasp I, Qty: 2 (Drone Bay)
+Valkyrie I, Qty: 3 (Drone Bay)
+

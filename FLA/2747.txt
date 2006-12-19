@@ -1,0 +1,29 @@
+2007.03.04 23:08
+
+Victim: Erros
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Destroyed: Manticore
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: taylor04 (laid the final blow)
+Security: 2.7
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Sleipnir
+Weapon: Infiltrator II
+
+
+Destroyed items:
+
+Prototype Cloaking Device I
+Paradise Cruise Missile, Qty: 44
+'Limos' Cruise Launcher I
+'Limos' Cruise Launcher I
+'Limos' Cruise Launcher I
+Warp Core Stabilizer I
+Wrath Cruise Missile, Qty: 78 (Cargo)
+

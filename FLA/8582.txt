@@ -1,0 +1,30 @@
+2006.11.30 18:33
+
+Victim: Sagami Ayase
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Iteron Mark V
+System: Torrinos
+Security: 0.5
+
+Involved parties:
+
+Name: Elliott Manchild (laid the final blow)
+Security: -1.6
+Alliance: None
+Corp: omen.
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Garath Dirk
+Security: -0.9
+Alliance: None
+Corp: omen.
+Ship: Raptor
+Weapon: Thorn Rocket
+
+
+Destroyed items:
+
+Gallente Shuttle (Cargo)
+

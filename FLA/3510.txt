@@ -1,0 +1,47 @@
+2007.04.01 02:07
+
+Victim: MIGHTYDWC
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Destroyed: Capsule
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: iNFoRMaLiTY
+Security: -7.9
+Alliance: Freelancer Alliance
+Corp: Blackwater Squadron
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: coldkill (laid the final blow)
+Security: 1.9
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Logand Delta
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Ship: Drake
+Weapon: 'Arbalest' Heavy Missile Launcher
+
+Name: Fugnut
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Drake
+Weapon: Advanced 'Limos' Heavy Missile Bay I
+
+Name: Cockroach
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Zealot
+Weapon: Zealot
+
+

@@ -1,0 +1,68 @@
+2006.11.12 02:34
+
+Victim: Jalan'Rook
+Alliance: None
+Corp: Entropy Tech.
+Destroyed: Caldari Shuttle
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Damhtman
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Hawk
+Weapon: Bloodclaw Precision Light Missile
+
+Name: MAD D0G
+Security: -0.6
+Alliance: None
+Corp: Ganksters Paradise
+Ship: Caracal
+Weapon: Havoc Heavy Missile
+
+Name: Hosanna (laid the final blow)
+Security: 1.7
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Tempest
+Weapon: 1400mm Prototype I Siege Cannon
+
+Name: Rustiko
+Security: 3.8
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Thorax
+Weapon: 150mm Railgun I
+
+Name: Zachariah Barnette
+Security: 0.8
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Ship: Caracal
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+Name: Supernaut 20k
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Flycatcher
+Weapon: Target Painter I
+
+Name: Scorpio63
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Vengeance
+Weapon: Vengeance
+
+Name: Elfaen Ethenwe
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+

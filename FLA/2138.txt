@@ -1,0 +1,29 @@
+2007.01.24 12:09
+
+Victim: Praetorian Mardou
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Destroyed: Bustard
+System: LT-DRO
+Security: 0.0
+
+Involved parties:
+
+Name: Ahrnyarrr (laid the final blow)
+Security: -10.0
+Alliance: None
+Corp: Swashbucklers
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+
+Destroyed items:
+
+Prototype Cloaking Device I
+Invulnerability Field II
+Warp Core Stabilizer I
+Warp Core Stabilizer I
+Expanded Cargohold II
+Expanded Cargohold II
+Mjolnir Torpedo, Qty: 5000 (Cargo)
+

@@ -1,0 +1,82 @@
+2006.07.10 23:49
+
+Victim: Elvin Wefer
+Alliance: None
+Corp: Warped Mining
+Destroyed: Dominix
+System: JU-OWQ
+Security: 0.0
+
+Involved parties:
+
+Name: GrandMastaXP
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Raven
+Weapon: Hobgoblin I
+
+Name: Shiri elAzarinres
+Security: 4.1
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Capsule
+Weapon: Kapteyn Sensor Array Inhibitor I
+
+Name: Kadmiel
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Crusader
+Weapon: Crusader
+
+Name: Megan Ryder
+Security: 5.0
+Alliance: CORE.
+Corp: VentureCorp
+Ship: Raptor
+Weapon: Raptor
+
+Name: Luthien Firefoot (laid the final blow)
+Security: 1.1
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Raptor
+Weapon: Bloodclaw Light Missile
+
+Name: betabob
+Security: 3.7
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Malediction
+Weapon: Dual Light Pulse Laser II
+
+Name: Scylla V
+Security: 5.0
+Alliance: CORE.
+Corp: VentureCorp
+Ship: Ares
+Weapon: 125mm Railgun I
+
+Name: Kev Lar
+Security: -0.2
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Stiletto
+Weapon: 200mm AutoCannon I
+
+
+Destroyed items:
+
+Small Nosferatu I
+Iron Charge L, Qty: 72
+LiF Fueled I Booster Rockets
+J5 Prototype Warp Inhibitor I
+Large Armor Repairer II
+Radioisotope Explosive Hardener I
+Radioisotope Explosive Hardener I
+Armor Thermic Hardener I
+Antimatter Charge L, Qty: 1240 (Cargo)
+Iron Charge L, Qty: 280 (Cargo)
+Wasp II, Qty: 2 (Drone Bay)
+

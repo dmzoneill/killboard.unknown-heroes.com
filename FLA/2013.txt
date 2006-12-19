@@ -1,0 +1,26 @@
+2007.01.17 07:57
+
+Victim: Jorax
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Capsule
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: ZUDD (laid the final blow)
+Security: 4.0
+Alliance: None
+Corp: Omniscient Order
+Ship: Ishtar
+Weapon: Light Neutron Blaster II
+
+Name: Cpt Pugwash
+Security: -0.8
+Alliance: Privateer Alliance
+Corp: Afterlife inc
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+

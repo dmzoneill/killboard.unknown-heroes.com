@@ -1,0 +1,19 @@
+2006.10.24 02:40
+
+Victim: Jandeera
+Alliance: Ascendant Frontier
+Corp: Lynx Frontier Inc.
+Destroyed: Caldari Shuttle
+System: GY5-26
+Security: 0.0
+
+Involved parties:
+
+Name: Angel Vengen (laid the final blow)
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: Caldar Mercenary Syndicate
+Ship: Raven
+Weapon: Juggernaut Torpedo
+
+

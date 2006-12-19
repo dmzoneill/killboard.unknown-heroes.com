@@ -1,0 +1,87 @@
+2006.11.12 18:47
+
+Victim: Spumpkin
+Alliance: None
+Corp: Viziam
+Destroyed: Catalyst
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Barukor (laid the final blow)
+Security: 2.6
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery I
+
+Name: LizzyD
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: Wousr
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: Elfaen Ethenwe
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Daredevil
+Weapon: Standard Missile Launcher II
+
+Name: freestrike
+Security: 5.9
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Crow
+Weapon: True Sansha Warp Disruptor
+
+Name: forator2
+Security: 3.9
+Alliance: O X I D E
+Corp: W33D Corp.
+Ship: Ishkur
+Weapon: Faint Warp Prohibitor I
+
+Name: Zachariah Barnette
+Security: 0.8
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Ship: Caracal
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+Name: W4RR10R
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Crow
+Weapon: TE-2100 Standard Missile Bay
+
+Name: Bad Borris
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Ship: Caracal
+Weapon: Advanced 'Limos' Heavy Missile Bay I
+
+
+Destroyed items:
+
+150mm Railgun I
+Light Ion Blaster I
+Regulated Light Electron Phase Cannon I
+Regulated Light Ion Phase Cannon I
+125mm Railgun I
+125mm Railgun I
+Iridium Charge S, Qty: 249
+Small Neutron Saturation Injector I
+Iridium Charge S, Qty: 15334 (Cargo)
+

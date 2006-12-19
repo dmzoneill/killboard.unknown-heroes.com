@@ -1,0 +1,41 @@
+2007.03.14 03:39
+
+Victim: Pressman1966
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Destroyed: Rokh
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: eXtas (laid the final blow)
+Security: 1.6
+Alliance: Privateer Alliance
+Corp: Kemono.
+Ship: Typhoon
+Weapon: Paradise Cruise Missile
+
+Name: Hamatitio
+Security: 3.1
+Alliance: None
+Corp: Fate.
+Ship: Vagabond
+Weapon: 'Arbalest' Heavy Missile Launcher
+
+
+Destroyed items:
+
+Plutonium Charge L, Qty: 119
+Siege Missile Launcher II
+Siege Missile Launcher II
+Invulnerability Field I
+F-S8 Relativistic Deflection Shield Induction
+Additional Thermal Barrier Emitter I
+Damage Control II
+Magnetic Field Stabilizer II
+Dread Guristas Ballistic Control System
+Plutonium Charge L, Qty: 815 (Cargo)
+Inferno Javelin Torpedo, Qty: 570 (Cargo)
+Bane Javelin Torpedo, Qty: 568 (Cargo)
+

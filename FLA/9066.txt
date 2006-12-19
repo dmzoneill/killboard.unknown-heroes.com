@@ -1,0 +1,61 @@
+2006.12.29 20:51
+
+Victim: Larvfot
+Alliance: Freelancer Alliance
+Corp: X.T.R
+Destroyed: Stabber
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Badtrance
+Security: 5.0
+Alliance: None
+Corp: Nexus Legion
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+Name: yagamurth (laid the final blow)
+Security: 3.2
+Alliance: None
+Corp: Nexus Legion
+Ship: Purifier
+Weapon: Paradise Cruise Missile
+
+Name: Preying Mantis
+Security: 5.0
+Alliance: None
+Corp: Nexus Legion
+Ship: Rapier
+Weapon: Rapier
+
+Name: Narny
+Security: 5.0
+Alliance: None
+Corp: Nexus Legion
+Ship: Manticore
+Weapon: Phased Muon Sensor Disruptor I
+
+Name: LizzyD
+Security: 5.0
+Alliance: None
+Corp: Nexus Legion
+Ship: Nemesis
+Weapon: 'Arbalest' Cruise Launcher I
+
+
+Destroyed items:
+
+Fulmination Assault Missile, Qty: 7500
+Terror Assault Missile, Qty: 7500
+425mm AutoCannon I
+220mm Vulcan AutoCannon I
+Heavy Assault Missile Launcher I
+Heavy Assault Missile Launcher I
+Heavy Assault Missile Launcher I
+Heavy Assault Missile Launcher I
+Heavy Assault Missile Launcher I
+10MN MicroWarpdrive I
+Fulmination Assault Missile, Qty: 70 (Cargo)
+

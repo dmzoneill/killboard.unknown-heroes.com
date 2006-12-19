@@ -1,0 +1,43 @@
+2007.02.25 13:26
+
+Victim: GordonB
+Alliance: Privateer Alliance
+Corp: Beyond Divinity Inc
+Destroyed: Hurricane
+System: Amarr
+Security: 1.0
+
+Involved parties:
+
+Name: WiseMagic
+Security: 2.5
+Alliance: Morsus Mihi
+Corp: Shiva
+Ship: Eos
+Weapon: Ogre I
+
+Name: 4queens (laid the final blow)
+Security: 0.6
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Absolution
+Weapon: Heavy Pulse Laser II
+
+Name: Jezzalah
+Security: 0.8
+Alliance: Morsus Mihi
+Corp: Shiva
+Ship: Harpy
+Weapon: Harpy
+
+
+Destroyed items:
+
+220mm Vulcan AutoCannon II
+220mm Vulcan AutoCannon II
+E50 Prototype Energy Vampire
+Barrage M, Qty: 163
+Medium Electrochemical Capacitor Booster I
+Energized Adaptive Nano Membrane II
+Armor Kinetic Hardener II
+

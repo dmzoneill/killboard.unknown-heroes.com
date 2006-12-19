@@ -1,0 +1,77 @@
+2007.03.05 00:20
+
+Victim: ZAX0236
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Destroyed: Flycatcher
+System: 3WE-KY
+Security: 0.0
+
+Involved parties:
+
+Name: TheSizzler (laid the final blow)
+Security: 3.6
+Alliance: Dusk and Dawn
+Corp: Tri Optimum
+Ship: Zealot
+Weapon: Heavy Pulse Laser II
+
+Name: Easterwood
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Infinite Improbability Inc
+Ship: Taranis
+Weapon: Taranis
+
+Name: Selina VanHool
+Security: 0.8
+Alliance: Dusk and Dawn
+Corp: Cataclysm Enterprises
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Takeshi Nuwen
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: The X-Trading Company
+Ship: Crow
+Weapon: Bloodclaw Precision Light Missile
+
+Name: Xantheris
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: Torquemanda Corteaz
+Security: 3.9
+Alliance: Dusk and Dawn
+Corp: Infinite Improbability Inc
+Ship: Taranis
+Weapon: Fleeting Warp Scrambler I
+
+Name: Cecilia Walsh
+Security: 3.6
+Alliance: Dusk and Dawn
+Corp: Cataclysm Enterprises
+Ship: Curse
+Weapon: Medium 'Knave' I Energy Drain
+
+
+Destroyed items:
+
+Standard Missile Launcher II
+Standard Missile Launcher II
+Standard Missile Launcher II
+Standard Missile Launcher II
+Standard Missile Launcher II
+Warp Disrupt Probe, Qty: 9
+Interdiction Sphere Launcher I
+Sabretooth Precision Light Missile, Qty: 44
+Warp Disruptor I
+Stasis Webifier I
+Co-Processor II
+Warp Disrupt Probe, Qty: 9 (Cargo)
+Sabretooth Precision Light Missile, Qty: 61 (Cargo)
+

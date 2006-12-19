@@ -1,0 +1,29 @@
+2007.03.22 23:38
+
+Victim: Andraxx
+Alliance: YouWhat
+Corp: SteelVipers
+Destroyed: Rapier
+System: XZH-4X
+Security: 0.0
+
+Involved parties:
+
+Name: Caldari Control Tower Small / Di-Tron Heavy Industries (laid the final blow)
+
+
+Destroyed items:
+
+650mm Artillery Cannon II
+Tremor M, Qty: 20
+10MN MicroWarpdrive I
+Low Frequency Sensor Suppressor I
+Low Frequency Sensor Suppressor I
+Mark I Modified SS Inertial Stabilizers
+Nanofiber Internal Structure I
+Nanofiber Internal Structure I
+Type-D Altered SS Nanofiber Structure
+Tremor M, Qty: 363 (Cargo)
+Liquid Ozone, Qty: 463 (Cargo)
+Hornet EC-300, Qty: 6 (Drone Bay)
+

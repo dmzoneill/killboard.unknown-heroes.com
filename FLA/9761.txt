@@ -1,0 +1,40 @@
+2007.05.12 09:22
+
+Victim: Karai Kamasu
+Alliance: Freelancer Alliance
+Corp: The Collective of Ascended Beings
+Destroyed: Capsule
+System: ROIR-Y
+Security: 0.0
+
+Involved parties:
+
+Name: Nipplator
+Security: -0.4
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Malediction
+Weapon: Warp Disruptor II
+
+Name: DarkNeo
+Security: 5.2
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Pilgrim
+Weapon: Hammerhead II
+
+Name: Exitao
+Security: 5.0
+Alliance: YouWhat
+Corp: Cosmic Odyssey
+Ship: Ares
+Weapon: Ares
+
+Name: Juha85 (laid the final blow)
+Security: 1.0
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+

@@ -1,0 +1,36 @@
+2007.05.30 03:15
+
+Victim: Dimitri Pather
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Destroyed: Ferox
+System: Ishomilken
+Security: 0.4
+
+Involved parties:
+
+Name: Dreyona Dranor (laid the final blow)
+Security: -8.8
+Alliance: None
+Corp: Cruel and unusual
+Ship: Megathron
+Weapon: Modal Mega Electron Particle Accelerator I
+
+
+Destroyed items:
+
+Antimatter Charge M, Qty: 62
+Mining Foreman Link - Laser Optimization
+Sabretooth Light Missile, Qty: 54
+Thunderbolt Heavy Missile, Qty: 25
+'Malkuth' Heavy Missile Launcher I
+Large Shield Extender I
+Magnetic Scattering Amplifier I
+Shield Power Relay I
+Shield Power Relay I
+Shield Power Relay I
+Ballistic Control System I
+Iron Charge M, Qty: 1499 (Cargo)
+Bloodclaw Light Missile, Qty: 300 (Cargo)
+'Malkuth' Assault Missile Launcher I (Cargo)
+

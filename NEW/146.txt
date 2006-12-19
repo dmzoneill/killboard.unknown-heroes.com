@@ -1,0 +1,83 @@
+2007.01.26 21:49
+
+Victim: C0wgirl
+Alliance: None
+Corp: Beagle Corp
+Destroyed: Taranis
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Hojo Norem
+Security: 3.2
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Ferox
+Weapon: Scourge Heavy Missile
+
+Name: Sils wife (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Brutix
+Weapon: 200mm Railgun II
+
+Name: Prodigal IV
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Ship: Incursus
+Weapon: Light Electron Blaster II
+
+Name: Minisoza
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Enyo
+Weapon: 125mm Railgun II
+
+Name: ventura5
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Drake
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+Name: Tiberius Drake
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Thorax
+Weapon: Dual 150mm Railgun I
+
+Name: Thiet
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Kestrel
+Weapon: Rocket Launcher I
+
+Name: Nukuquqa Hestase
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Caracal
+Weapon: Heavy Missile Launcher I
+
+Name: Dr Andy
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Celestis
+Weapon: Remote Sensor Dampener I
+
+
+Destroyed items:
+
+Light Neutron Blaster II, Qty: 2
+Fleeting Warp Scrambler I
+X5 Prototype I Engine Enervator
+Micro Auxiliary Power Core I
+Type-D Power Core Modification: Capacitor Power Relay
+Hammerhead I, Qty: 3 (Cargo)

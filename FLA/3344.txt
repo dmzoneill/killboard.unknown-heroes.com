@@ -1,0 +1,48 @@
+2007.03.23 21:55
+
+Victim: Almagar Phog
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Destroyed: Blackbird
+System: O-ZXUV
+Security: 0.0
+
+Involved parties:
+
+Name: VirkMaN (laid the final blow)
+Security: -1.1
+Alliance: Eternal Rapture
+Corp: Temptation inc.
+Ship: Absolution
+Weapon: Heavy Pulse Laser II
+
+Name: Smith9001
+Security: 0.1
+Alliance: Eternal Rapture
+Corp: Quantum Synergies
+Ship: Malediction
+Weapon: Malediction
+
+Name: GodWin cadela
+Security: -1.7
+Alliance: Eternal Rapture
+Corp: Exotic Dancers Club
+Ship: Hurricane
+Weapon: Dual 180mm AutoCannon II
+
+Name: C Duggan
+Security: -4.4
+Alliance: Eternal Rapture
+Corp: Exotic Dancers Club
+Ship: Lachesis
+Weapon: Indirect Scanning Dampening Unit I
+
+
+Destroyed items:
+
+Advanced 'Limos' Heavy Missile Bay I
+Faint Phase Inversion ECM I
+BZ-5 Neutralizing Spatial Destabilizer ECM
+Widowmaker Heavy Missile, Qty: 467 (Cargo)
+Havoc Heavy Missile, Qty: 467 (Cargo)
+

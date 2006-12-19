@@ -1,0 +1,26 @@
+2007.03.03 20:35
+
+Victim: bildo
+Alliance: None
+Corp: Helix Ltd.
+Destroyed: Caldari Shuttle
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: toonsterpw (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Vagabond
+Weapon: 425mm AutoCannon II
+
+Name: Burn Lump
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Enyo
+Weapon: Enyo
+
+

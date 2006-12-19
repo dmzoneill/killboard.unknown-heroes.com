@@ -1,0 +1,40 @@
+2007.02.17 01:18
+
+Victim: Tokalis
+Alliance: None
+Corp: State War Academy
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: bidman (laid the final blow)
+Security: 4.7
+Alliance: None
+Corp: BGG
+Ship: Drake
+Weapon: Havoc Heavy Missile
+
+Name: Dark Carnage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Crow
+Weapon: Sabretooth Light Missile
+
+Name: Yseult Atreus
+Security: 1.4
+Alliance: None
+Corp: BGG
+Ship: Lachesis
+Weapon: Heavy Missile Launcher II
+
+Name: Kolombus
+Security: 5.1
+Alliance: None
+Corp: BGG
+Ship: Dominix
+Weapon: Parallel Weapon Navigation Transmitter
+
+

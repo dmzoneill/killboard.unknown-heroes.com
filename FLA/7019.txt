@@ -1,0 +1,23 @@
+2006.12.20 08:37
+
+Victim: makwa kabera
+Alliance: None
+Corp: Imperial Academy
+Destroyed: Impairor
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Lady Ailan (laid the final blow)
+Security: -0.6
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Rifter
+Weapon: 125mm Light Prototype I Automatic Cannon
+
+
+Destroyed items:
+
+Basic Miner
+

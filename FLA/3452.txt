@@ -1,0 +1,26 @@
+2007.03.27 19:39
+
+Victim: War Maiden
+Alliance: Aftermath Alliance
+Corp: Master Miners
+Destroyed: Stiletto
+System: Z9PP-H
+Security: 0.0
+
+Involved parties:
+
+Name: Skull Fire (laid the final blow)
+Security: 0.8
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Rokh
+Weapon: Large 'Vehemence' I Shockwave Charge
+
+
+Destroyed items:
+
+Barton Reactor Capacitor Recharger I
+1MN MicroWarpdrive II
+J5 Prototype Warp Inhibitor I
+Power Diagnostic System I
+

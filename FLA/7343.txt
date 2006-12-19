@@ -1,0 +1,19 @@
+2006.08.13 20:26
+
+Victim: OwnWay
+Alliance: None
+Corp: Red Monkey Faction
+Destroyed: Gallente Shuttle
+System: J1AU-9
+Security: 0.0
+
+Involved parties:
+
+Name: LiBraga (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Cerberus
+Weapon: Scourge Heavy Missile
+
+

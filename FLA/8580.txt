@@ -1,0 +1,37 @@
+2006.11.30 01:44
+
+Victim: Zachariah Barnette
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Destroyed: Harpy
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: XxAngelxX (laid the final blow)
+Security: 5.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Zealot
+Weapon: Heavy Pulse Laser II
+
+Name: Darknesss
+Security: 0.4
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Taranis
+Weapon: Taranis
+
+
+Destroyed items:
+
+Small 'Knave' I Energy Drain
+125mm Railgun II
+125mm Railgun II
+Spike S, Qty: 198
+Small Shield Booster II
+Initiated Harmonic Warp Jammer I
+Alumel-Wired I Sensor Augmentation
+Magnetic Scattering Amplifier II
+

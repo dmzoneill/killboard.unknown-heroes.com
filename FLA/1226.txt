@@ -1,0 +1,134 @@
+2007.03.09 01:43
+
+Victim: SteVewojo
+Alliance: YouWhat
+Corp: Pringles Inc.
+Destroyed: Abaddon
+System: XZH-4X
+Security: 0.0
+
+Involved parties:
+
+Name: Jonas123
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Ferox
+Weapon: Piranha Light Missile
+
+Name: Richter Etrenank
+Security: 2.6
+Alliance: GoonSwarm
+Corp: Visual I.D
+Ship: Thorax
+Weapon: Thorax
+
+Name: Nobu Yori (laid the final blow)
+Security: 5.0
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Rupture
+Weapon: 650mm Artillery Cannon II
+
+Name: Darsi
+Security: 5.0
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Vexor
+Weapon: Hammerhead I
+
+Name: Nadisa
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Thorax
+Weapon: Ogre II
+
+Name: Nikos Iscariot
+Security: -1.3
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Arbitrator
+Weapon: Hammerhead I
+
+Name: Unexpected
+Security: -0.1
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Rifter
+Weapon: Rifter
+
+Name: Von Rinn
+Security: 5.0
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Hawk
+Weapon: Bloodclaw Light Missile
+
+Name: Biggest Disaster
+Security: 0.1
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Kestrel
+Weapon: Sabretooth Light Missile
+
+Name: Kerules Yor
+Security: 2.4
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: Dom MD
+Security: 4.7
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Rifter
+Weapon: Foxfire Rocket
+
+Name: duckmonster
+Security: 1.2
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Falcon
+Weapon: Havoc Precision Heavy Missile
+
+Name: Traverse Moonstalker
+Security: 0.2
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Blackbird
+Weapon: Sabretooth Light Missile
+
+Name: ControlledBurn
+Security: 0.0
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Griffin
+Weapon: Griffin
+
+Name: Thanos Ramal
+Security: 2.5
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Punisher
+Weapon: Punisher
+
+
+Destroyed items:
+
+Large Graviton Smartbomb I
+Large Proton Smartbomb I
+Large Proton Smartbomb I
+Large EMP Smartbomb I
+Large YF-12a Smartbomb
+Large YF-12a Smartbomb
+Eutectic I Capacitor Charge Array
+Cap Recharger I
+100MN MicroWarpdrive I
+1600mm Reinforced Crystalline Carbonide Plates I
+1600mm Reinforced Crystalline Carbonide Plates I
+1600mm Reinforced Steel Plates I
+1600mm Reinforced Steel Plates I
+1600mm Reinforced Steel Plates I
+

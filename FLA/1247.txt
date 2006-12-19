@@ -1,0 +1,31 @@
+2007.03.09 15:22
+
+Victim: L3golas
+Alliance: None
+Corp: R.H. Umbrella Corporation
+Destroyed: Imicus
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Weeble Wooble (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Ocara Nezus
+Security: 2.3
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Crow
+Weapon: X5 Prototype I Engine Enervator
+
+
+Destroyed items:
+
+Cold-Gas I Arcjet Thrusters
+Power Diagnostic System I
+

@@ -1,0 +1,41 @@
+2006.12.28 19:27
+
+Victim: Rania Serlia
+Alliance: The Imperial Order
+Corp: World Order
+Destroyed: Curse
+System: Amamake
+Security: 0.4
+
+Involved parties:
+
+Name: W0LFMAN (laid the final blow)
+Security: 3.3
+Alliance: Freelancer Alliance
+Corp: Caldar Mercenary Syndicate
+Ship: Typhoon
+Weapon: Berserker I
+
+Name: Dr Hazman
+Security: 0.0
+Alliance: None
+Corp: Hammersmith Hard Men
+Ship: Typhoon
+Weapon: Mjolnir Torpedo
+
+
+Destroyed items:
+
+E50 Prototype Energy Vampire
+E50 Prototype Energy Vampire
+Dark Blood Small Energy Neutralizer
+5W Infectious Power System Malfunction
+10MN Afterburner II
+Fleeting Propulsion Inhibitor I
+Tracking Disruptor II
+Tracking Disruptor II
+Medium Armor Repairer II
+Energized Adaptive Nano Membrane II
+800mm Reinforced Steel Plates II
+Warrior II, Qty: 2 (Drone Bay)
+

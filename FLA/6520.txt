@@ -1,0 +1,38 @@
+2006.11.16 09:55
+
+Victim: Daniel Sylveste
+Alliance: Ratel Alliance
+Corp: Point-Zero
+Destroyed: Velator
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Micheal Ross (laid the final blow)
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Flycatcher
+Weapon: Bloodclaw Precision Light Missile
+
+Name: hejjbazeg
+Security: 2.7
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: Simon Monkoto
+Security: -0.9
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Caracal
+Weapon: Heavy Missile Launcher I
+
+
+Destroyed items:
+
+Civilian Light Electron Blaster
+Basic Miner
+

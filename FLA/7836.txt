@@ -1,0 +1,92 @@
+2006.09.07 20:14
+
+Victim: Karas Rabus
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Destroyed: Rupture
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: AHAPXUCT
+Security: -0.5
+Alliance: R.I.S.K
+Corp: SolaR KillerS
+Ship: Prophecy
+Weapon: Prophecy
+
+Name: ThormozOK
+Security: -2.0
+Alliance: R.I.S.K
+Corp: FIGHTER'S WITHOUT RULES
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Kythong (laid the final blow)
+Security: 4.3
+Alliance: R.I.S.K
+Corp: Russian Specnaz
+Ship: Hawk
+Weapon: Bloodclaw Light Missile
+
+Name: Sergejus Clegg
+Security: 2.0
+Alliance: R.I.S.K
+Corp: The First Foundation
+Ship: Taranis
+Weapon: Taranis
+
+Name: Dred Cartman
+Security: 1.4
+Alliance: R.I.S.K
+Corp: FIGHTER'S WITHOUT RULES
+Ship: Taranis
+Weapon: Taranis
+
+Name: Tranklukator
+Security: 3.9
+Alliance: R.I.S.K
+Corp: ReD eYe Inc.
+Ship: Rupture
+Weapon: Standard Missile Launcher I
+
+Name: Dark Lachla'an
+Security: 0.4
+Alliance: R.I.S.K
+Corp: SolaR KillerS
+Ship: Taranis
+Weapon: E5 Prototype Energy Vampire
+
+Name: dr SHAMAN
+Security: 3.6
+Alliance: R.I.S.K
+Corp: ReD eYe Inc.
+Ship: Caracal
+Weapon: XR-3200 Heavy Missile Bay
+
+Name: Romanuld
+Security: 0.9
+Alliance: R.I.S.K
+Corp: NODEX Game Group
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: NoOne Seeko
+Security: 3.2
+Alliance: R.I.S.K
+Corp: ReD eYe Inc.
+Ship: Thorax
+Weapon: Thorax
+
+
+Destroyed items:
+
+720mm Howitzer Artillery II
+720mm Howitzer Artillery II
+Tremor M, Qty: 9
+Gyrostabilizer II
+Tracking Enhancer II
+Tracking Enhancer II
+Hammerhead I (Drone Bay)
+

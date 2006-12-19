@@ -1,0 +1,39 @@
+2006.11.09 13:40
+
+Victim: SiriusCrow
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Destroyed: Brutix
+System: Uemisaisen
+Security: 0.6
+
+Involved parties:
+
+Name: Dazzio (laid the final blow)
+Security: -2.0
+Alliance: None
+Corp: The Initiative
+Ship: Brutix
+Weapon: Heavy Ion Blaster II
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Modal Ion Particle Accelerator I
+Modal Ion Particle Accelerator I
+Antimatter Charge M, Qty: 204
+Y-T8 Overcharged Hydrocarbon I Microwarpdrive
+Medium Armor Repairer II
+Energized Reactive Membrane I
+Energized Magnetic Membrane I
+Warp Scrambler I (Cargo)
+Medium Armor Repairer I (Cargo)
+Light Electron Blaster II, Qty: 2 (Cargo)
+Valkyrie I (Cargo)
+Warp Core Stabilizer I (Cargo)
+Energized Adaptive Nano Membrane I (Cargo)
+N-Type Explosive Hardener I (Cargo)
+Null S, Qty: 900 (Cargo)
+Reactor Control Unit I (Cargo)
+

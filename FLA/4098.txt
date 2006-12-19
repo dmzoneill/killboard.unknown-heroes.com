@@ -1,0 +1,28 @@
+2007.04.14 16:19
+
+Victim: Fitz Farseer
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Wolf
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Aleric Vikyz (laid the final blow)
+Security: -5.6
+Alliance: Freelancer Alliance
+Corp: Devious - Special Forces G.H.O.S.T Fleet Delta
+Ship: Thorax
+Weapon: Warrior II
+
+
+Destroyed items:
+
+280mm Howitzer Artillery II
+EMP S, Qty: 12
+X5 Prototype I Engine Enervator
+Overdrive Injector System I
+Corpse (Cargo)
+EMP S, Qty: 1902 (Cargo)
+

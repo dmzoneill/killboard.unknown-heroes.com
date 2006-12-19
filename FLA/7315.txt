@@ -1,0 +1,33 @@
+2006.08.10 13:37
+
+Victim: BartLefou
+Alliance: None
+Corp: Warped Mining
+Destroyed: Capsule
+System: VFK-IV
+Security: 0.0
+
+Involved parties:
+
+Name: Cazziel (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Ishkur
+Weapon: 125mm Railgun II
+
+Name: DrMod
+Security: 4.2
+Alliance: Chorus of Dawn
+Corp: Black Knight Buccaneers
+Ship: Taranis
+Weapon: X5 Prototype I Engine Enervator
+
+Name: Caleb Defiance
+Security: 5.0
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Raptor
+Weapon: Patterned Stasis Web I
+
+

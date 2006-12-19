@@ -1,0 +1,26 @@
+2006.11.21 07:07
+
+Victim: Azrealsan
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Capsule
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: GoLdeN BoY (laid the final blow)
+Security: 1.8
+Alliance: None
+Corp: Beer Guzzling Clowns With Blasters
+Ship: Crusader
+Weapon: Medium Pulse Laser II
+
+Name: Evelyn Mulwray
+Security: 0.4
+Alliance: None
+Corp: Beer Guzzling Clowns With Blasters
+Ship: Taranis
+Weapon: Small 'Knave' I Energy Drain
+
+

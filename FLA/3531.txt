@@ -1,0 +1,38 @@
+2007.04.01 23:57
+
+Victim: khazid
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Destroyed: Crusader
+System: J1AU-9
+Security: 0.0
+
+Involved parties:
+
+Name: Soliloquil
+Security: 4.7
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Ferox
+Weapon: Medium 'Ghoul' Energy Siphon I
+
+Name: Sabe (laid the final blow)
+Security: 5.0
+Alliance: Red Horizon
+Corp: Red Horizon Inc
+Ship: Moa
+Weapon: Hornet II
+
+
+Destroyed items:
+
+Dual Light Pulse Laser II
+Dual Light Pulse Laser II
+Dual Light Pulse Laser II
+Scorch S
+Catalyzed Cold-Gas I Arcjet Thrusters
+Fleeting Warp Scrambler I
+Type-D Power Core Modification: Capacitor Power Relay
+Scorch S, Qty: 4 (Cargo)
+Type-D Power Core Modification: Capacitor Power Relay (Cargo)
+

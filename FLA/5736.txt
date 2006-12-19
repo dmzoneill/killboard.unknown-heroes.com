@@ -1,0 +1,61 @@
+2006.10.13 23:59
+
+Victim: Arria Periclee
+Alliance: None
+Corp: Aristotle Enterprises
+Destroyed: Caldari Shuttle
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Preying Mantis (laid the final blow)
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: Mystical Angel
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Harpy
+Weapon: 125mm Prototype I Gauss Gun
+
+Name: Kismeteer
+Security: 3.4
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Incursus
+Weapon: Light Electron Blaster I
+
+Name: Rustiko
+Security: 2.1
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Ishkur
+Weapon: 125mm Prototype I Gauss Gun
+
+Name: Paltar
+Security: 0.4
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Nil Desperandum
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Omen
+Weapon: Omen
+
+Name: Caress Magee
+Security: -0.2
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Malediction
+Weapon: 'Langour' Drive Disruptor I
+
+

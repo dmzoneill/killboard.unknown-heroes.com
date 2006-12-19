@@ -1,0 +1,45 @@
+2007.01.25 17:52
+
+Victim: arthell
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Destroyed: Vexor
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: XxAngelxX
+Security: -3.5
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Curse
+Weapon: Valkyrie II
+
+Name: WarGod
+Security: 1.4
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Curse
+Weapon: Valkyrie II
+
+Name: oneevil mother (laid the final blow)
+Security: -1.2
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Zealot
+Weapon: Heavy Pulse Laser II
+
+
+Destroyed items:
+
+Small 'Ghoul' Energy Siphon I
+125mm Compressed Coil Gun I
+Dread Guristas Iron Charge M, Qty: 275
+Iron Charge S, Qty: 58
+Eutectic I Capacitor Charge Array
+Indirect Scanning Dampening Unit I
+Energized Adaptive Nano Membrane I
+Armor Kinetic Hardener I
+Infiltrator I, Qty: 5 (Drone Bay)
+

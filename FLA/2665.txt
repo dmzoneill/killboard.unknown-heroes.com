@@ -1,0 +1,72 @@
+2007.03.02 00:05
+
+Victim: NesheresH
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Destroyed: Sabre
+System: YZ-LQL
+Security: 0.0
+
+Involved parties:
+
+Name: Mankind mkII
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Reikoku
+Ship: Manticore
+Weapon: Indirect Scanning Dampening Unit I
+
+Name: LaughingClown
+Security: 1.2
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Rapier
+Weapon: Rapier
+
+Name: Asquiro
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Crusader
+Weapon: Crusader
+
+Name: Dark1
+Security: 3.3
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Claw
+Weapon: Claw
+
+Name: Celador Nane (laid the final blow)
+Security: -2.2
+Alliance: Band of Brothers
+Corp: Reikoku
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+Name: Leyalor Esperence
+Security: 2.1
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Sabre
+Weapon: 200mm AutoCannon II
+
+Name: Aschera
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Reikoku
+Ship: Sabre
+Weapon: J5 Prototype Warp Inhibitor I
+
+
+Destroyed items:
+
+280mm Howitzer Artillery II
+280mm Howitzer Artillery II
+280mm Howitzer Artillery II
+Nuclear S, Qty: 28
+Initiated Warp Jammer I
+F-90 Positional Sensor Subroutines
+Nanofiber Internal Structure I
+Nanofiber Internal Structure I
+

@@ -1,0 +1,53 @@
+2006.11.02 21:51
+
+Victim: Vahearun
+Alliance: Freelancer Alliance
+Corp: Veturi
+Destroyed: Tempest
+System: KQK1-2
+Security: 0.0
+
+Involved parties:
+
+Name: DONJUAN v (laid the final blow)
+Security: -1.5
+Alliance: Eternal Empire
+Corp: Tarnak inc.
+Ship: Dominix
+Weapon: Wasp I
+
+Name: RustyShackleford
+Security: 3.9
+Alliance: Eternal Empire
+Corp: Spectral Armada
+Ship: Ferox
+Weapon: Hornet I
+
+
+Destroyed items:
+
+1400mm 'Scout' Artillery I
+1400mm 'Scout' Artillery I
+1400mm 'Scout' Artillery I
+1400mm 'Scout' Artillery I
+1400mm 'Scout' Artillery I
+Nuclear L, Qty: 27
+Phased Plasma L
+Phased Plasma L
+Phased Plasma L
+Phased Plasma L
+Phased Plasma L
+Phased Plasma L
+'Arbalest' Heavy Missile Launcher
+Non-Inertial Ballistic Screen Augmentation I
+F-90 Positional Sensor Subroutines
+Optical Tracking Computer I
+Gyrostabilizer II
+Gyrostabilizer II
+Emergency Damage Control I
+Tracking Enhancer II
+Nuclear L, Qty: 252 (Cargo)
+Phased Plasma L, Qty: 2000 (Cargo)
+Widowmaker Heavy Missile, Qty: 638 (Cargo)
+Vespa I, Qty: 3 (Drone Bay)
+

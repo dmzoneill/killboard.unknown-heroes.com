@@ -1,0 +1,40 @@
+2006.12.12 20:12
+
+Victim: Quarantine
+Alliance: None
+Corp: 0utbreak
+Destroyed: Capsule
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Preying Mantis (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Moa
+Weapon: 250mm 'Scout' I Accelerator Cannon
+
+Name: Kalibrana
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Thors Hammers
+Ship: Brutix
+Weapon: Heavy Neutron Blaster II
+
+Name: Xantheris
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Harpy
+Weapon: Harpy
+
+Name: Super Homer
+Security: 1.1
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Manticore
+Weapon: 'Arbalest' Cruise Launcher I
+
+

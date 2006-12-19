@@ -1,0 +1,74 @@
+2007.03.03 23:54
+
+Victim: DrElJefeMD
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Destroyed: Tempest
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Eamz
+Security: -1.2
+Alliance: None
+Corp: Finite Horizon
+Ship: Deimos
+Weapon: Deimos
+
+Name: Die Well
+Security: 2.3
+Alliance: None
+Corp: Finite Horizon
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: Neb Nimja
+Security: 0.9
+Alliance: None
+Corp: Developmental Neogenics Amalgamated
+Ship: Zealot
+Weapon: Medium Nosferatu I
+
+Name: Euthanasia
+Security: 0.6
+Alliance: None
+Corp: Borderline Industries
+Ship: Typhoon
+Weapon: Warp Disruptor II
+
+Name: Arthur Guinness
+Security: -1.8
+Alliance: None
+Corp: Finite Horizon
+Ship: Sleipnir
+Weapon: Sleipnir
+
+Name: Infra Nitzu (laid the final blow)
+Security: 1.9
+Alliance: None
+Corp: Finite Horizon
+Ship: Hurricane
+Weapon: 425mm AutoCannon II
+
+Name: Cyther
+Security: -0.3
+Alliance: None
+Corp: Finite Horizon
+Ship: Malediction
+Weapon: Malediction
+
+
+Destroyed items:
+
+1400mm Howitzer Artillery II
+1400mm Howitzer Artillery II
+1400mm Howitzer Artillery II
+Large 'Solace' I Remote Bulwark Reconstruction
+Tremor L, Qty: 25
+Sensor Booster II
+Gyrostabilizer II
+Pseudoelectron Containment Field I
+Local Power Plant Manager: Reaction Control I
+Tremor L, Qty: 1940 (Cargo)
+

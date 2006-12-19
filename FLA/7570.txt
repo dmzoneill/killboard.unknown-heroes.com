@@ -1,0 +1,47 @@
+2006.09.19 22:10
+
+Victim: FORCERECON
+Alliance: None
+Corp: State War Academy
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Mad Axe
+Security: 2.3
+Alliance: Forces of Freedom
+Corp: The Knights of the New Republic
+Ship: Caracal
+Weapon: Widowmaker Heavy Missile
+
+Name: JorzoR
+Security: 5.0
+Alliance: Ekliptika
+Corp: New Millineon
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Lady Vanquish (laid the final blow)
+Security: 0.8
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Caracal
+Weapon: Havoc Heavy Missile
+
+Name: Valtaer
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: Terminal Velocity Inc.
+Ship: Blackbird
+Weapon: Initiated Multispectral ECM I
+
+Name: Mr Harmonica
+Security: 5.0
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Armageddon
+Weapon: Mega Pulse Laser I
+
+

@@ -1,0 +1,33 @@
+2007.01.28 13:32
+
+Victim: Illesa
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Destroyed: Capsule
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Kafei (laid the final blow)
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Claw
+Weapon: 150mm Light AutoCannon II
+
+Name: Puls4r
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Jaguar
+Weapon: Fleeting Warp Scrambler I
+
+Name: Kleintje
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Crow
+Weapon: Dread Guristas Warp Disruptor
+
+

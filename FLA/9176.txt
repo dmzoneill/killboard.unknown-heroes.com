@@ -1,0 +1,45 @@
+2007.05.02 20:05
+
+Victim: sammual
+Alliance: Vigilance.
+Corp: The Phoenix Rising
+Destroyed: Merlin
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Corovus (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Nemesis
+Weapon: Cataclysm Cruise Missile
+
+Name: haz zard
+Security: -3.1
+Alliance: The Foundation.
+Corp: Cornerstone Unlimited
+Ship: Impairor
+Weapon: Small 'Knave' I Energy Drain
+
+Name: Demoser
+Security: 5.0
+Alliance: The Foundation.
+Corp: Cornerstone Unlimited
+Ship: Unknown
+Weapon: Standard Missile Launcher I
+
+
+Destroyed items:
+
+Light Neutron Blaster I
+Standard Missile Launcher I
+Small Neutron Saturation Injector I
+1MN Afterburner I
+Power Diagnostic System I
+Reactor Control Unit I
+Antimatter Charge S, Qty: 408 (Cargo)
+Bloodclaw Light Missile, Qty: 600 (Cargo)
+Sabretooth Light Missile, Qty: 518 (Cargo)
+

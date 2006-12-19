@@ -1,0 +1,46 @@
+2006.11.27 21:07
+
+Victim: mergblue
+Alliance: Firmus Ixion
+Corp: Hunters Agency
+Destroyed: Crow
+System: K-L690
+Security: 0.0
+
+Involved parties:
+
+Name: Wthor (laid the final blow)
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Flycatcher
+Weapon: Piranha Light Missile
+
+Name: Scorpio63
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Vengeance
+Weapon: Vengeance
+
+Name: Narny
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Hawk
+Weapon: Piranha Fury Light Missile
+
+Name: TasKu
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Taranis
+Weapon: Taranis
+
+
+Destroyed items:
+
+1MN MicroWarpdrive I
+J5 Prototype Warp Inhibitor I
+Bloodclaw Light Missile, Qty: 1500 (Cargo)
+

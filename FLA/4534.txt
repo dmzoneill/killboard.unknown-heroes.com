@@ -1,0 +1,44 @@
+2007.04.13 06:48
+
+Victim: Aridante Lemure
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Destroyed: Celestis
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Tomas Ysidro
+Security: 1.5
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Eos
+Weapon: Berserker II
+
+Name: Ferocious FeAr (laid the final blow)
+Security: 1.5
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Nighthawk
+Weapon: Scourge Heavy Missile
+
+
+Destroyed items:
+
+280mm Howitzer Artillery II
+Carbonized Lead M
+Carbonized Lead M
+Carbonized Lead M
+Carbonized Lead M
+Carbonized Lead M
+Carbonized Lead M
+Thunderbolt Heavy Missile, Qty: 22
+Standard Missile Launcher I
+Remote Sensor Dampener II
+Medium Armor Repairer I
+800mm Reinforced Crystalline Carbonide Plates I
+Carbonized Lead M, Qty: 486 (Cargo)
+Sabretooth Light Missile, Qty: 186 (Cargo)
+Thunderbolt Heavy Missile, Qty: 100 (Cargo)
+

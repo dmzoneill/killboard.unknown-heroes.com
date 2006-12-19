@@ -1,0 +1,19 @@
+2006.09.17 04:12
+
+Victim: IPOD U2
+Alliance: None
+Corp: Royal Amarr Institute
+Destroyed: Capsule
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: DeSantis (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Manticore
+Weapon: Wrath Precision Cruise Missile
+
+

@@ -1,0 +1,54 @@
+2007.02.24 02:23
+
+Victim: TheBunnyHunter
+Alliance: Aftermath Alliance
+Corp: Dark Nebula Gallente Division
+Destroyed: Reaper
+System: YZ-LQL
+Security: 0.0
+
+Involved parties:
+
+Name: Jaig Maldara (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Flycatcher
+Weapon: Thorn Javelin Rocket
+
+Name: digital oxygen
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Taranis
+Weapon: Taranis
+
+Name: Tregaron
+Security: 1.5
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Manticore
+Weapon: 'Arbalest' Cruise Launcher I
+
+Name: Skull Fire
+Security: 0.7
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Raven
+Weapon: 'Arbalest' Cruise Launcher I
+
+Name: MohamedLoftie
+Security: -0.9
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Curse
+Weapon: Medium Nosferatu II
+
+Name: DarkAvenger DK
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Merlin
+Weapon: Fleeting Warp Scrambler I
+
+

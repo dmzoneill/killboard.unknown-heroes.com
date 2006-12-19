@@ -1,0 +1,29 @@
+2006.10.28 00:16
+
+Victim: Aeryn Calbert
+Alliance: Freelancer Alliance
+Corp: BGG
+Destroyed: Covetor
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Scourge Heavy Missile / Guristas
+
+Name: jacass66 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Thanatos
+Weapon: Templar
+
+
+Destroyed items:
+
+Modulated Strip Miner II
+Modulated Strip Miner II
+Modulated Strip Miner II
+Mining Laser Upgrade I
+Dark Ochre Mining Crystal II (Cargo)
+

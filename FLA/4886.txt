@@ -1,0 +1,28 @@
+2007.04.18 14:20
+
+Victim: Stitcher
+Alliance: Freelancer Alliance
+Corp: J.I.T. Enterprises
+Destroyed: Vigil
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Fitz Farseer (laid the final blow)
+Security: 0.5
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Hound
+Weapon: Paradise Cruise Missile
+
+
+Destroyed items:
+
+250mm Light Artillery Cannon I
+Phased Plasma S, Qty: 23
+1MN MicroWarpdrive I
+Peripheral Weapon Navigation Diameter
+Local Power Plant Manager: Diagnostic System I
+Phased Plasma S, Qty: 454 (Cargo)
+

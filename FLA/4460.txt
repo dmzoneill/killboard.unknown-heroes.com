@@ -1,0 +1,28 @@
+2007.04.10 21:48
+
+Victim: Ska Inni
+Alliance: Freelancer Alliance
+Corp: ORIGIN SYSTEMS
+Destroyed: Rifter
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Rukaz (laid the final blow)
+Security: 3.1
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+150mm Light AutoCannon I
+150mm Light AutoCannon I
+150mm Light AutoCannon I
+EMP S, Qty: 59
+Warp Disruptor I
+Small Capacitor Booster I
+

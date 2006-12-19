@@ -1,0 +1,35 @@
+2007.02.23 00:48
+
+Victim: DarkAvenger DK
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Myrmidon
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Greg Sanders (laid the final blow)
+Security: -1.6
+Alliance: None
+Corp: Finite Horizon
+Ship: Typhoon
+Weapon: Devastator Cruise Missile
+
+
+Destroyed items:
+
+50W Infectious Power System Malfunction
+Light Electron Blaster II
+Anode Ion Particle Cannon I
+Plutonium Charge M, Qty: 116
+Stasis Webifier I
+Medium F-RX Prototype I Capacitor Boost
+Target Painter I
+Emergency Damage Control I
+Medium Armor Repairer II
+Plutonium Charge M, Qty: 4112 (Cargo)
+Cap Booster 800, Qty: 9 (Cargo)
+Null S, Qty: 1836 (Cargo)
+Warrior I, Qty: 20 (Drone Bay)
+

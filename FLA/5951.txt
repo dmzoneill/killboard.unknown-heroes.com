@@ -1,0 +1,19 @@
+2006.11.02 13:23
+
+Victim: cceiber
+Alliance: None
+Corp: Perkone
+Destroyed: Capsule
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Hosanna (laid the final blow)
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Typhoon
+Weapon: Large Plasma Smartbomb I
+
+

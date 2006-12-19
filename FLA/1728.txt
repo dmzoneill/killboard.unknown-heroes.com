@@ -1,0 +1,81 @@
+2007.01.02 01:49
+
+Victim: Ro' LoPok
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Destroyed: Typhoon
+System: 2O9G-D
+Security: 0.0
+
+Involved parties:
+
+Name: Scythus Aratan
+Security: 4.3
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Heinky
+Security: 2.4
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Abaddon
+Weapon: Tachyon Beam Laser II
+
+Name: Captain Rickdick
+Security: -0.2
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Devastator Fury Cruise Missile
+
+Name: Masta Killa
+Security: -1.9
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Devastator Fury Cruise Missile
+
+Name: DHB WildCat (laid the final blow)
+Security: -1.7
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+Name: Arnold Swartzenegger
+Security: -0.6
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+Name: MeanStreak
+Security: -0.2
+Alliance: None
+Corp: Caldari Provisions
+Ship: Sabre
+Weapon: X5 Prototype I Engine Enervator
+
+
+Destroyed items:
+
+Dual 650mm Repeating Artillery I
+Carbonized Lead L, Qty: 300
+Juggernaut Torpedo, Qty: 54
+'Arbalest' Siege Missile Launcher
+'Arbalest' Siege Missile Launcher
+'Arbalest' Siege Missile Launcher
+'Arbalest' Siege Missile Launcher
+F-b10 Nominal Capacitor Regenerator
+LiF Fueled I Booster Rockets
+N-Type Kinetic Hardener I
+N-Type Kinetic Hardener I
+Reactor Control Unit I
+Carbonized Lead L, Qty: 539 (Cargo)
+Titanium Sabot L, Qty: 130 (Cargo)
+Juggernaut Torpedo, Qty: 470 (Cargo)
+Kinetic Deflection Amplifier I, Qty: 3 (Cargo)
+Vespa I, Qty: 5 (Drone Bay)
+

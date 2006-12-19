@@ -1,0 +1,26 @@
+2007.03.21 05:46
+
+Victim: Ullrich Rudel
+Alliance: SynchronizerZ
+Corp: Stellar-Tec Network Systems
+Destroyed: Crow
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Tregaron (laid the final blow)
+Security: 2.3
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Thrasher
+Weapon: 200mm AutoCannon II
+
+
+Destroyed items:
+
+Light Electron Blaster II
+Null S, Qty: 188
+J5b Phased Prototype Warp Inhibitor I
+Overdrive Injector System I
+

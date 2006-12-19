@@ -1,0 +1,88 @@
+2007.04.06 00:16
+
+Victim: Darknesss
+Alliance: Triumvirate.
+Corp: D00M.
+Destroyed: Hyperion
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Reven Boruch
+Security: 5.0
+Alliance: Darklite inc Alliance
+Corp: Darklite inc
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+Name: alon blackhelm
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Myrmidon
+Weapon: Myrmidon
+
+Name: Beshari (laid the final blow)
+Security: -3.1
+Alliance: None
+Corp: Emerald Empire
+Ship: Typhoon
+Weapon: Paradise Cruise Missile
+
+Name: OrbiteronAir
+Security: 5.0
+Alliance: SECUWAY.
+Corp: SecuWay Industrial inc.
+Ship: Manticore
+Weapon: 'Arbalest' Cruise Launcher I
+
+Name: lehim
+Security: 0.1
+Alliance: CORE.
+Corp: Red 42
+Ship: Capsule
+Weapon: 150mm Carbide Railgun I
+
+Name: Varalonia
+Security: 2.3
+Alliance: Darklite inc Alliance
+Corp: Darklite inc
+Ship: Stabber
+Weapon: Stabber
+
+Name: BR0k3n5w0rD
+Security: 3.3
+Alliance: DeStInY.
+Corp: House Of Aaron
+Ship: Arbitrator
+Weapon: Hammerhead II
+
+Name: dastommy79
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Thorax
+Weapon: Valkyrie I
+
+Name: Syrian Gothia
+Security: 2.5
+Alliance: Forces of Freedom
+Corp: The Patriot Society
+Ship: Bellicose
+Weapon: Bellicose
+
+
+Destroyed items:
+
+Heavy Diminishing Power System Drain I
+Heavy Diminishing Power System Drain I
+Ion Blaster Cannon II
+Ion Blaster Cannon II
+Null L, Qty: 467
+Warp Disruptor II
+Damage Control II
+Energized Adaptive Nano Membrane II
+N-Type Explosive Hardener I
+Void L, Qty: 2500 (Cargo)
+

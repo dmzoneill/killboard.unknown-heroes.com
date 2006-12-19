@@ -1,0 +1,73 @@
+2007.04.10 16:40
+
+Victim: ming good
+Alliance: None
+Corp: Federal Navy Academy
+Destroyed: Brutix
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Commander XXX (laid the final blow)
+Security: 5.0
+Alliance: DeStInY.
+Corp: The Knights Of Camelot
+Ship: Dominix
+Weapon: Ogre II
+
+Name: Sir Pip
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Cataclysm Enterprises
+Ship: Sabre
+Weapon: Sabre
+
+Name: kakakarr
+Security: 2.9
+Alliance: DeStInY.
+Corp: The Knights Of Camelot
+Ship: Dominix
+Weapon: Ogre I
+
+Name: Wallyx
+Security: 4.5
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Abaddon
+Weapon: Abaddon
+
+Name: FuzzBuzz
+Security: 2.5
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Marianne Usko
+Security: 0.2
+Alliance: DeStInY.
+Corp: The Knights Of Camelot
+Ship: Celestis
+Weapon: Celestis
+
+Name: kakakarrr
+Security: -1.2
+Alliance: DeStInY.
+Corp: The Knights Of Camelot
+Ship: Rifter
+Weapon: Rifter
+
+Name: A Soporific
+Security: 0.2
+Alliance: DeStInY.
+Corp: The Knights Of Camelot
+Ship: Caracal
+Weapon: SV-2000 Assault Missile Bay
+
+
+Destroyed items:
+
+Acolyte I, Qty: 2 (Drone Bay)
+Warrior I (Drone Bay)
+

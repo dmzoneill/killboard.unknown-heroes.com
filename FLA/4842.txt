@@ -1,0 +1,60 @@
+2007.04.17 02:47
+
+Victim: Kvarium Ki
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Destroyed: Arbitrator
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: DrunkenOne
+Security: -0.5
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Rupture
+Weapon: Rupture
+
+Name: 50 Isk (laid the final blow)
+Security: 1.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Dominix
+Weapon: Ogre I
+
+Name: Green Leaner
+Security: 2.1
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Sleipnir
+Weapon: Valkyrie II
+
+Name: MIGHTYDWC
+Security: 4.7
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Myrmidon
+Weapon: Ogre II
+
+Name: Stradivarious
+Security: 3.8
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Nidhoggur
+Weapon: Templar
+
+
+Destroyed items:
+
+250mm Light Artillery Cannon I
+Titanium Sabot S, Qty: 21
+Sensor Booster I
+Sensor Booster I
+'Abandon' Targeting Disruptor I
+800mm Reinforced Titanium Plates I
+Titanium Sabot S, Qty: 732 (Cargo)
+Piranha Light Missile, Qty: 433 (Cargo)
+Valkyrie I, Qty: 3 (Drone Bay)
+Infiltrator I (Drone Bay)
+

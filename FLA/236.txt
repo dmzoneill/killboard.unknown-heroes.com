@@ -1,0 +1,33 @@
+2007.01.19 20:08
+
+Victim: Spudnipper
+Alliance: None
+Corp: Science and Trade Institute
+Destroyed: Capsule
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Sil330 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Hawk
+Weapon: Phalanx Rocket
+
+Name: reched
+Security: 0.4
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Rifter
+Weapon: Rifter
+
+Name: alon blackhelm
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Myrmidon
+Weapon: 250mm Railgun II
+
+

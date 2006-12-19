@@ -1,0 +1,31 @@
+2007.01.07 01:11
+
+Victim: Odinegras
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Vexor
+System: Aunenen
+Security: 0.4
+
+Involved parties:
+
+Name: taylor04 (laid the final blow)
+Security: 0.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Armageddon
+Weapon: Dual Heavy Pulse Laser II
+
+
+Destroyed items:
+
+Small Nosferatu I
+Small Nosferatu I
+10MN MicroWarpdrive I
+Warp Disruptor I
+Medium Armor Repairer I
+Energized Adaptive Nano Membrane I
+Hammerhead II, Qty: 2 (Drone Bay)
+Ogre I, Qty: 2 (Drone Bay)
+Hobgoblin II (Drone Bay)
+

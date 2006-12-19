@@ -1,0 +1,107 @@
+2006.10.23 20:13
+
+Victim: Pistonbroke
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Destroyed: Scorpion
+System: MI6O-6
+Security: 0.0
+
+Involved parties:
+
+Name: Ageha
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Apocalypse
+Weapon: Apocalypse
+
+Name: Megan Ryder
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: VentureCorp
+Ship: Megathron
+Weapon: Megathron
+
+Name: MentalM
+Security: 5.2
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: GrandMastaXP
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Raven
+Weapon: Wrath Cruise Missile
+
+Name: freestrike
+Security: 5.9
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+Name: Scylla V
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: VentureCorp
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: LizzyD
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Capsule
+Weapon: Wasp I
+
+Name: sulky
+Security: 0.5
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Skornik
+Security: 3.5
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Megathron
+Weapon: Megathron
+
+Name: Moominer (laid the final blow)
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Armageddon
+Weapon: Tachyon Beam Laser II
+
+Name: jacass66
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Thanatos
+Weapon: Einherji
+
+
+Destroyed items:
+
+Cataclysm Cruise Missile, Qty: 13
+ECM - Multispectral Jammer II
+ECM - Multispectral Jammer II
+ECM - Ion Field Projector II
+Gravimetric Positional ECCM Sensor System I
+F85 Peripheral Damage System I
+Dark Blood Energized Adaptive Nano Membrane
+Energized Adaptive Nano Membrane II
+Bookmark, Qty: 5 (Cargo)
+Large Azeotropic Ward Salubrity I (Cargo)
+Small Nosferatu I (Cargo)
+Standard M, Qty: 3 (Cargo)
+Infiltrator II, Qty: 2 (Drone Bay)
+Vespa II (Drone Bay)
+Acolyte II (Drone Bay)
+

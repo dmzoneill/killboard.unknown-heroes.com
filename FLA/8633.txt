@@ -1,0 +1,25 @@
+2006.12.03 23:41
+
+Victim: Giannided
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Iteron Mark IV
+System: Oursulaert
+Security: 0.9
+
+Involved parties:
+
+Name: Tim Asamar (laid the final blow)
+Security: -0.7
+Alliance: None
+Corp: omen.
+Ship: Brutix
+Weapon: Hobgoblin II
+
+
+Destroyed items:
+
+Miner II
+10MN Afterburner I
+Micro Auxiliary Power Core I
+

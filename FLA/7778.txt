@@ -1,0 +1,71 @@
+2006.08.24 20:37
+
+Victim: Vahearun
+Alliance: Freelancer Alliance
+Corp: Veturi
+Destroyed: Hoarder
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: NerVee (laid the final blow)
+Security: -0.4
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Raptor
+Weapon: Light Neutron Blaster II
+
+Name: Murdoch Morf
+Security: 2.7
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: Greyshadow
+Security: -0.9
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Thorax
+Weapon: Hornet I
+
+Name: bobby buddha
+Security: 3.0
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Vexor
+Weapon: Warrior II
+
+Name: the willyb
+Security: -1.4
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Daredevil
+Weapon: Daredevil
+
+Name: Ballistikspark
+Security: -0.4
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Thorax
+Weapon: Initiated Warp Jammer I
+
+
+Destroyed items:
+
+10MN Afterburner I
+1Z-3 Subversive ECM Eruption
+Warp Core Stabilizer I
+Warp Core Stabilizer I
+Warp Core Stabilizer I
+Cold-Gas I Arcjet Thrusters (Cargo)
+1MN MicroWarpdrive I (Cargo)
+Robotics, Qty: 8 (Cargo)
+Quantum Co-Processor I (Cargo)
+F-S8 Relativistic Deflection Shield Induction (Cargo)
+Warp Core Stabilizer I, Qty: 4 (Cargo)
+200mm Reinforced Rolled Tungsten Plates I (Cargo)
+Hail S, Qty: 4961 (Cargo)
+Nitrogen Isotopes, Qty: 13200 (Cargo)
+

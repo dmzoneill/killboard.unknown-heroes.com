@@ -1,0 +1,38 @@
+2007.01.10 10:46
+
+Victim: Andan
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Rokh
+System: Uemisaisen
+Security: 0.6
+
+Involved parties:
+
+Name: Elliott Manchild (laid the final blow)
+Security: -1.9
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Dominix
+Weapon: Ogre II
+
+
+Destroyed items:
+
+425mm Railgun I
+Antimatter Charge L, Qty: 29
+Inferno Torpedo, Qty: 44
+'Arbalest' Siege Missile Launcher
+'Arbalest' Siege Missile Launcher
+'Arbalest' Siege Missile Launcher
+Large Shield Extender I
+X-Large Shield Booster I
+10MN Afterburner I
+Invulnerability Field I
+Invulnerability Field I
+Counterbalanced Weapon Mounts I
+Photonic CPU Enhancer I
+Basic Damage Control (Cargo)
+Antimatter Charge L, Qty: 4000 (Cargo)
+Inferno Torpedo, Qty: 4000 (Cargo)
+

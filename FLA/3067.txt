@@ -1,0 +1,26 @@
+2007.03.23 21:20
+
+Victim: Solid Wilko
+Alliance: Eternal Rapture
+Corp: Quantum Synergies
+Destroyed: Capsule
+System: F7C-H0
+Security: 0.0
+
+Involved parties:
+
+Name: KriegDrachen (laid the final blow)
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Sabre
+Weapon: 200mm AutoCannon II
+
+Name: mr passie
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Jaguar
+Weapon: Jaguar
+
+

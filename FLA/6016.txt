@@ -1,0 +1,19 @@
+2006.11.05 23:37
+
+Victim: Bvzhnwe
+Alliance: Interstellar Starbase Syndicate
+Corp: Old Galactic Earth Regiment
+Destroyed: Capsule
+System: J-CIJV
+Security: 0.0
+
+Involved parties:
+
+Name: Formosus Funus (laid the final blow)
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Thrasher
+Weapon: 250mm Light Artillery Cannon I
+
+

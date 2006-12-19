@@ -1,0 +1,26 @@
+2007.03.03 14:03
+
+Victim: Anarchy Core
+Alliance: Aftermath Alliance
+Corp: Dark Nebula Gallente Division
+Destroyed: Capsule
+System: YZ-LQL
+Security: 0.0
+
+Involved parties:
+
+Name: Ocara Nezus (laid the final blow)
+Security: 2.3
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Hawk
+Weapon: Bloodclaw Fury Light Missile
+
+Name: Sanakan Soryu
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Konstrukteure der Zukunft
+Ship: Myrmidon
+Weapon: 220mm Vulcan AutoCannon I
+
+

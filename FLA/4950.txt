@@ -1,0 +1,19 @@
+2007.04.20 12:48
+
+Victim: DeSantis
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Capsule
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Indiano Arko (laid the final blow)
+Security: 0.6
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Hurricane
+Weapon: 650mm Medium 'Scout' Artillery I
+
+

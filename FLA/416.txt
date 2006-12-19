@@ -1,0 +1,53 @@
+2007.02.01 01:09
+
+Victim: Recarttas
+Alliance: None
+Corp: Caldari Provisions
+Destroyed: Bestower
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: digital oxygen
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: wrecker300 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Scorpion
+Weapon: Wrath Cruise Missile
+
+Name: Aspi Rene
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Megathron
+Weapon: 425mm 'Scout' I Accelerator Cannon
+
+Name: Teck7
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ishtar
+Weapon: Ishtar
+
+Name: Marie Veedor
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Drake
+Weapon: 'Arbalest' Heavy Missile Launcher
+
+
+Destroyed items:
+
+Cap Recharger I
+Expanded Cargohold I
+Corpse (Cargo)
+

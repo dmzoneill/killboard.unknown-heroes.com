@@ -1,0 +1,30 @@
+2007.04.29 02:12
+
+Victim: Stone757
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Destroyed: Caracal
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Fitz Farseer (laid the final blow)
+Security: 0.5
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Rupture
+Weapon: 220mm Vulcan AutoCannon I
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 96
+Scourge Heavy Missile, Qty: 18
+'Malkuth' Assault Missile Launcher I
+'Malkuth' Assault Missile Launcher I
+Large Subordinate Screen Stabilizer I
+Large Shield Booster I
+Warp Disruptor I
+Type-D Power Core Modification: Reaction Control
+

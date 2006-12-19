@@ -1,0 +1,54 @@
+2007.05.20 21:19
+
+Victim: Eledh
+Alliance: Stain Empire
+Corp: Xenobytes
+Destroyed: Capsule
+System: 3-YX2D
+Security: 0.0
+
+Involved parties:
+
+Name: Kvarium Ki (laid the final blow)
+Security: 2.3
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Bellicose
+Weapon: 280mm Howitzer Artillery II
+
+Name: Rev Darkwing
+Security: 2.6
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Flycatcher
+Weapon: 'Malkuth' Rocket Launcher I
+
+Name: LTSmash
+Security: 5.0
+Alliance: None
+Corp: SPARTAN Peacekeeping Force
+Ship: Eris
+Weapon: 75mm Prototype I Gauss Gun
+
+Name: Kayron Brennan
+Security: 1.7
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Caracal
+Weapon: 'Malkuth' Assault Missile Launcher I
+
+Name: CrazyDoctor
+Security: 4.1
+Alliance: None
+Corp: United Forces
+Ship: Drake
+Weapon: Heavy Missile Launcher I
+
+Name: AlexeiShtukov
+Security: 1.1
+Alliance: None
+Corp: SPARTAN Peacekeeping Force
+Ship: Harpy
+Weapon: Harpy
+
+

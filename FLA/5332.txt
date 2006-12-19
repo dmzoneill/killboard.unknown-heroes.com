@@ -1,0 +1,39 @@
+2007.04.25 04:06
+
+Victim: Korudon
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Thorax
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Wrath Cruise Missile / Guristas (laid the final blow)
+
+Name: Matrix Aran
+Security: -0.6
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Unknown
+Weapon: Ogre II
+
+
+Destroyed items:
+
+Heavy Neutron Blaster I
+Heavy Neutron Blaster I
+200mm Compressed Coil Gun I
+Antimatter Charge M, Qty: 80
+Lead Charge M, Qty: 80
+Indirect Scanning Dampening Unit I
+Damage Control I
+Medium Armor Repairer I
+Magnetic Field Stabilizer I
+Eutectic I Capacitor Charge Array (Cargo)
+Antimatter Charge M, Qty: 634 (Cargo)
+Bloodclaw Light Missile, Qty: 78 (Cargo)
+Standard Missile Launcher I (Cargo)
+Nanofiber Internal Structure I (Cargo)
+Hammerhead I (Drone Bay)
+

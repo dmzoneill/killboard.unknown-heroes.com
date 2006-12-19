@@ -1,0 +1,49 @@
+2007.04.04 09:11
+
+Victim: Marie Veedor
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Drake
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Xordus
+Security: 0.5
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Lorn Zolog
+Security: -1.3
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Nipplator (laid the final blow)
+Security: -0.5
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Armageddon
+Weapon: Mega Modulated Pulse Energy Beam I
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Scourge Heavy Missile, Qty: 56
+Thunderbolt Heavy Missile, Qty: 28
+Widowmaker Heavy Missile, Qty: 30
+Advanced 'Limos' Heavy Missile Bay I
+Advanced 'Limos' Heavy Missile Bay I
+XR-3200 Heavy Missile Bay
+Ballistic Control System II
+Power Diagnostic System II
+Power Diagnostic System II
+Power Diagnostic System II
+Widowmaker Heavy Missile, Qty: 510 (Cargo)
+Hornet I (Drone Bay)
+

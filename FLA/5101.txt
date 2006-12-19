@@ -1,0 +1,44 @@
+2007.04.22 20:00
+
+Victim: Aridante Lemure
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Destroyed: Celestis
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Olli
+Security: -0.1
+Alliance: Mercenary Coalition
+Corp: Seraphin Technologies
+Ship: Phoenix
+Weapon: Doom Torpedo I
+
+Name: Serge (laid the final blow)
+Security: 4.5
+Alliance: Mercenary Coalition
+Corp: Seraphin Technologies
+Ship: Abaddon
+Weapon: Mega Beam Laser II
+
+Name: ZAPPEL
+Security: 2.5
+Alliance: Mercenary Coalition
+Corp: Seraphin Technologies
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+
+Destroyed items:
+
+250mm Light Artillery Cannon I
+Piranha Light Missile, Qty: 17
+Heavy Missile Launcher I
+10MN MicroWarpdrive I
+Alumel-Wired I Sensor Augmentation
+Energized Adaptive Nano Membrane I
+800mm Reinforced Steel Plates I
+Thunderbolt Heavy Missile, Qty: 50 (Cargo)
+

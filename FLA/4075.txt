@@ -1,0 +1,53 @@
+2007.04.14 01:16
+
+Victim: ori16
+Alliance: 5th Column
+Corp: Minmatar Undergroun Freedom Force
+Destroyed: Ibis
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Vel'Kethor (laid the final blow)
+Security: 0.0
+Alliance: DeStInY.
+Corp: House Of Aaron
+Ship: Harbinger
+Weapon: Heavy Anode Particle Stream I
+
+Name: Mrs Black
+Security: 4.0
+Alliance: 3asy Company
+Corp: Eth3real
+Ship: Blackbird
+Weapon: Scourge Heavy Missile
+
+Name: articz
+Security: 2.9
+Alliance: DeStInY.
+Corp: House Of Aaron
+Ship: Stabber
+Weapon: 200mm AutoCannon II
+
+Name: Prodigal IV
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Ship: Dominix
+Weapon: Compulsive Multispectral ECM I
+
+Name: Commander XXX
+Security: 3.7
+Alliance: DeStInY.
+Corp: The Knights Of Camelot
+Ship: Dominix
+Weapon: E500 Prototype Energy Vampire
+
+
+Destroyed items:
+
+Civilian Gatling Railgun
+Basic Miner
+Hardwiring - Inherent Implants 'Noble' ZET300 (Cargo)
+

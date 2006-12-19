@@ -1,0 +1,97 @@
+2007.04.06 04:30
+
+Victim: alpha lead
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Drake
+System: Y-C3EQ
+Security: 0.0
+
+Involved parties:
+
+Name: Xordus (laid the final blow)
+Security: 0.5
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Harbinger
+Weapon: Focused Medium Pulse Laser II
+
+Name: Nipplator
+Security: -0.5
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Xoduse
+Security: 0.6
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: Anomaly21
+Security: -1.0
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Slaqr
+Security: 1.7
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Heretic
+Weapon: Heretic
+
+Name: Azekial
+Security: 2.7
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Taranis
+Weapon: Hobgoblin II
+
+Name: Exitao
+Security: 5.0
+Alliance: YouWhat
+Corp: Cosmic Odyssey
+Ship: Taranis
+Weapon: Taranis
+
+Name: geomatica
+Security: 5.0
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Ship: Myrmidon
+Weapon: Myrmidon
+
+Name: Sexorella hotz
+Security: 2.8
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Cheetah
+Weapon: Warp Disruptor I
+
+Name: Capt Crazee
+Security: 4.0
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Megathron
+Weapon: Faint Warp Prohibitor I
+
+Name: Bishata
+Security: 1.0
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Malediction
+Weapon: Malediction
+
+
+Destroyed items:
+
+Medium YF-12a Smartbomb
+Small YF-12a Smartbomb
+Heavy Missile Launcher I
+Cap Recharger I
+Kinetic Deflection Amplifier I
+Local Power Plant Manager: Reaction Shield Flux I

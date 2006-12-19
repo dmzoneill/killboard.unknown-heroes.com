@@ -1,0 +1,38 @@
+2006.12.19 21:06
+
+Victim: Almagar Phog
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Destroyed: Blackbird
+System: X-7OMU
+Security: 0.0
+
+Involved parties:
+
+Name: WarGod (laid the final blow)
+Security: -1.8
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Jimmycs83
+Security: -2.1
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Dominix
+Weapon: Dual 250mm Railgun II
+
+
+Destroyed items:
+
+Widowmaker Heavy Missile, Qty: 34
+Scourge Heavy Missile, Qty: 34
+Havoc Heavy Missile, Qty: 34
+XR-3200 Heavy Missile Bay
+FZ-3 Subversive Spatial Destabilizer ECM
+ECM - White Noise Generator I
+ECM - Phase Inverter I
+Energized Adaptive Nano Membrane I
+Scourge Heavy Missile, Qty: 453 (Cargo)
+

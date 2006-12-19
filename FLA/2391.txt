@@ -1,0 +1,33 @@
+2007.02.09 19:56
+
+Victim: Dark Carnage
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Capsule
+System: X-7OMU
+Security: 0.0
+
+Involved parties:
+
+Name: Anna Neura (laid the final blow)
+Security: -0.8
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Taranis
+Weapon: Warrior II
+
+Name: j3bus
+Security: 3.1
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+Name: Phrixus Zephyr
+Security: 1.2
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Arazu
+Weapon: 250mm Railgun II
+
+

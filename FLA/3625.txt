@@ -1,0 +1,65 @@
+2007.03.28 02:31
+
+Victim: Maximo Brutalis
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Destroyed: Vulture
+System: O-CNPR
+Security: 0.0
+
+Involved parties:
+
+Name: Ka'lorn Font'a (laid the final blow)
+Security: 4.1
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Abaddon
+Weapon: Tachyon Beam Laser II
+
+Name: Mon Palae
+Security: 2.1
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Curse
+Weapon: Scourge Fury Heavy Missile
+
+Name: angelena
+Security: 4.5
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Claw
+Weapon: Claw
+
+Name: Myndpyre Ryche
+Security: 4.2
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Crow
+Weapon: Thorn Javelin Rocket
+
+Name: Phoenus
+Security: 0.4
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+Cynosural Field Generator I
+Snoop Scanner Probe I, Qty: 28
+Standard Missile Launcher II
+Standard Missile Launcher II
+Standard Missile Launcher II
+Bloodclaw Precision Light Missile, Qty: 94
+Magnetic Scattering Amplifier II
+Magnetic Scattering Amplifier II
+Beta Reactor Control: Shield Power Relay I
+Power Diagnostic System II
+'Langour' Drive Disruptor I (Cargo)
+CZ-4 Concussive Spatial Destabilizer ECM (Cargo)
+Standard Missile Launcher I, Qty: 4 (Cargo)
+Inertia Stabilizers I, Qty: 2 (Cargo)
+Hornet II, Qty: 2 (Drone Bay)
+

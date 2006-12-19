@@ -1,0 +1,19 @@
+2006.08.06 19:10
+
+Victim: WATCH3R
+Alliance: Freelancer Alliance
+Corp: CYBERNET SPACE EXPLORATION INC
+Destroyed: Minmatar Shuttle
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: LiBraga (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+

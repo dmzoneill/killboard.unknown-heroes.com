@@ -1,0 +1,29 @@
+2007.03.13 08:07
+
+Victim: xargis
+Alliance: YouWhat
+Corp: Pringles Inc.
+Destroyed: Caracal
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Splinter5150 (laid the final blow)
+Security: 4.4
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Ship: Drake
+Weapon: Thunderbolt Heavy Missile
+
+
+Destroyed items:
+
+Thunderbolt Heavy Missile, Qty: 19
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+10MN MicroWarpdrive I
+Heat Dissipation Field I
+Ballistic Deflection Field I
+Energized Basic Reflective Plating
+

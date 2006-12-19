@@ -1,0 +1,26 @@
+2006.11.09 13:09
+
+Victim: Bvzhnwe
+Alliance: Interstellar Starbase Syndicate
+Corp: Old Galactic Earth Regiment
+Destroyed: Condor
+System: J-CIJV
+Security: 0.0
+
+Involved parties:
+
+Name: Noitaakka (laid the final blow)
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Ishtar
+Weapon: Light Ion Blaster II
+
+
+Destroyed items:
+
+1MN MicroWarpdrive I
+Large Shield Booster II (Cargo)
+Ballistic Control System I (Cargo)
+Mark I Generator Refitting: Diagnostic System, Qty: 2 (Cargo)
+

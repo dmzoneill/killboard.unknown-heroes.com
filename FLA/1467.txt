@@ -1,0 +1,60 @@
+2007.03.13 22:20
+
+Victim: Galaxor
+Alliance: YouWhat
+Corp: Beasts of Burden
+Destroyed: Punisher
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Terapie
+Security: 4.7
+Alliance: The Insomniacs
+Corp: Mucho Dolor
+Ship: Eris
+Weapon: E5 Prototype Energy Vampire
+
+Name: RythemAndStealth
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Caracal
+Weapon: Havoc Heavy Missile
+
+Name: ninev0lts
+Security: -1.2
+Alliance: None
+Corp: Corehounds
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Khelia (laid the final blow)
+Security: 0.5
+Alliance: Dusk and Dawn
+Corp: Stardust Heavy Industries
+Ship: Myrmidon
+Weapon: Infiltrator I
+
+Name: ifeelit2
+Security: 5.0
+Alliance: Forces of Freedom
+Corp: Just Cloned Again
+Ship: Hyperion
+Weapon: Hyperion
+
+Name: Sophie Malaster
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Armageddon
+Weapon: Mega Pulse Laser II
+
+
+Destroyed items:
+
+Inertia Stabilizers I
+Nanofiber Internal Structure I
+Thorium Charge L, Qty: 200 (Cargo)
+

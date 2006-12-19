@@ -1,0 +1,65 @@
+2007.02.16 15:23
+
+Victim: IBIRIETT
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Destroyed: Raven
+System: 2TH-3F
+Security: 0.0
+
+Involved parties:
+
+Name: Bloodclaw Light Missile / Guristas
+
+Name: Kathi (laid the final blow)
+Security: 3.9
+Alliance: Dusk and Dawn
+Corp: moon7empler
+Ship: Thanatos
+Weapon: Einherji
+
+
+Destroyed items:
+
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Juggernaut Torpedo, Qty: 34
+Cruise Missile Launcher II
+Cruise Missile Launcher II
+'Arbalest' Siege Missile Launcher
+Siege Missile Launcher II
+X-Large C5-L Emergency Shield Overload I
+X-Large C5-L Emergency Shield Overload I
+X-Large C5-L Emergency Shield Overload I
+X-Large C5-L Emergency Shield Overload I
+X-Large C5-L Emergency Shield Overload I
+Non-Inertial Ballistic Screen Augmentation I
+'Stalwart' I Particle Field Magnifier
+Muon Coil Bolt Array I
+Muon Coil Bolt Array I
+Beta Reactor Control: Diagnostic System I
+Beta Reactor Control: Diagnostic System I
+Cap Recharger I (Cargo)
+Eutectic I Capacitor Charge Array (Cargo)
+Medium Energy Transfer Array I (Cargo)
+Medium Rudimentary Concussion Bomb I (Cargo)
+V-M15 Braced Multispectral Shield Matrix (Cargo)
+Juggernaut Torpedo, Qty: 531 (Cargo)
+Wrath Cruise Missile, Qty: 1463 (Cargo)
+Cruise Missile Launcher I, Qty: 5 (Cargo)
+'Limos' Cruise Launcher I (Cargo)
+Conductive Polymer, Qty: 9 (Cargo)
+Malfunctioning Shield Emitter, Qty: 15 (Cargo)
+Burned Logic Circuit, Qty: 20 (Cargo)
+Telemetry Processor (Cargo)
+Scorched Telemetry Processor, Qty: 7 (Cargo)
+Type-D Power Core Modification: Diagnostic System, Qty: 2 (Cargo)
+Mark I Generator Refitting: Capacitor Power Relay (Cargo)
+Beta Reactor Control: Capacitor Flux I (Cargo)
+Capacitor Flux Coil I, Qty: 2 (Cargo)
+Reactor Control Unit I (Cargo)
+

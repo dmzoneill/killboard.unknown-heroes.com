@@ -1,0 +1,30 @@
+2006.12.26 02:08
+
+Victim: Valtrinor
+Alliance: None
+Corp: e X i l e
+Destroyed: Rifter
+System: Litiura
+Security: 0.5
+
+Involved parties:
+
+Name: SiriusCrow (laid the final blow)
+Security: 0.2
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Thrasher
+Weapon: 250mm Light 'Scout' Artillery I
+
+
+Destroyed items:
+
+EMP S, Qty: 159
+Flameburst Light Missile, Qty: 38
+Standard Missile Launcher I
+Stasis Webifier I
+Small Armor Repairer I
+Nanofiber Internal Structure I
+EMP S, Qty: 900 (Cargo)
+Flameburst Light Missile, Qty: 200 (Cargo)
+

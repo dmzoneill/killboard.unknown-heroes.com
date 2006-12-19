@@ -1,0 +1,33 @@
+2006.11.13 15:58
+
+Victim: Delta Hammer
+Alliance: Interstellar Starbase Syndicate
+Corp: Gallente Venture Inc
+Destroyed: Gallente Shuttle
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Karas Rabus (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Rapier
+Weapon: 720mm Howitzer Artillery II
+
+Name: Darth Hound
+Security: 1.7
+Alliance: Schism.
+Corp: Fatalix Inc.
+Ship: Thrasher
+Weapon: 280mm Howitzer Artillery I
+
+Name: dinj
+Security: 4.7
+Alliance: Freelancer Alliance
+Corp: London Transport
+Ship: Crow
+Weapon: Fleeting Propulsion Inhibitor I
+
+

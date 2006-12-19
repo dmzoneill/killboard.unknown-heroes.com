@@ -1,0 +1,31 @@
+2007.04.04 15:35
+
+Victim: Jack Greyson
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Destroyed: Blackbird
+System: 5ZXX-K
+Security: 0.0
+
+Involved parties:
+
+Name: LiBraga (laid the final blow)
+Security: 1.1
+Alliance: None
+Corp: Project Gemini
+Ship: Cerberus
+Weapon: Terror Javelin Assault Missile
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Piranha Light Missile, Qty: 122
+Compulsive Multispectral ECM I
+Remote Sensor Dampener II
+Sensor Booster II
+Sensor Booster II
+Small Armor Repairer II
+Piranha Light Missile, Qty: 928 (Cargo)
+Flameburst Light Missile, Qty: 500 (Cargo)
+

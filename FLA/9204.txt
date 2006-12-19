@@ -1,0 +1,27 @@
+2007.05.01 23:06
+
+Victim: Corovus
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Destroyed: Incursus
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: ZeroGrav (laid the final blow)
+Security: 3.2
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+
+Destroyed items:
+
+150mm Railgun I
+Tungsten Charge S, Qty: 70
+Warp Disruptor I
+Stasis Webifier I
+Tungsten Charge S, Qty: 793 (Cargo)
+

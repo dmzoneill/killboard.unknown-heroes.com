@@ -1,0 +1,43 @@
+2006.09.09 21:02
+
+Victim: Sixty Ever4
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Maller
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Robet Katrix (laid the final blow)
+Security: -0.8
+Alliance: None
+Corp: Beagle Corp
+Ship: Raven
+Weapon: Bane Javelin Torpedo
+
+Name: Chewan Mesa
+Security: -2.1
+Alliance: None
+Corp: Beagle Corp
+Ship: Falcon
+Weapon: ECM - Multispectral Jammer II
+
+
+Destroyed items:
+
+Heavy Beam Laser I
+Heavy Beam Laser I
+Radio M
+Radio M
+Radio M
+Target Painter I
+Medium I-a Polarized Armor Regenerator
+Heat Sink I
+Warp Core Stabilizer I
+Xray M, Qty: 5 (Cargo)
+Multifrequency M, Qty: 2 (Cargo)
+Infrared M, Qty: 2 (Cargo)
+Microwave M, Qty: 3 (Cargo)
+Ultraviolet M, Qty: 4 (Cargo)
+

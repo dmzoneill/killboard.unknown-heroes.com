@@ -1,0 +1,66 @@
+2006.01.21 00:08
+
+Victim: Cockroach
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Armageddon
+System: P3EN-E
+Security: 0.0
+
+Involved parties:
+
+Name: StonedBoy
+Security: 2.1
+Alliance: Origin Alliance
+Corp: Out Of Exile
+Ship: Megathron
+Weapon: Megathron
+
+Name: vaniz
+Security: 5.0
+Alliance: Origin Alliance
+Corp: Out Of Exile
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Doctor Octagon (laid the final blow)
+Security: 4.9
+Alliance: Origin Alliance
+Corp: Out Of Exile
+Ship: Apocalypse
+Weapon: Mega Pulse Laser I
+
+Name: Hollocaust
+Security: 0.0
+Alliance: None
+Corp: Federal Navy Academy
+Ship: Helios
+Weapon: Warp Scrambler I
+
+Name: Friendly
+Security: 2.2
+Alliance: Origin Alliance
+Corp: Out Of Exile
+Ship: Megathron
+Weapon: ECM - Multispectral Jammer II
+
+
+Destroyed items:
+
+Mega Beam Laser II
+Mega Beam Laser II
+Small Proton Smartbomb I
+Gleam L
+Gleam L
+Gleam L
+Prototype I Sensor Booster
+Prototype I Sensor Booster
+Tracking Computer II
+Heat Sink II
+Heat Sink II
+Radio L, Qty: 3 (Cargo)
+Microwave L, Qty: 7 (Cargo)
+Multifrequency L, Qty: 7 (Cargo)
+Vespa I, Qty: 2 (Drone Bay)
+Hornet I, Qty: 10 (Drone Bay)
+

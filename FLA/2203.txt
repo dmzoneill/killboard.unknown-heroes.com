@@ -1,0 +1,31 @@
+2007.01.28 18:05
+
+Victim: Elena Morkovka
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Destroyed: Raptor
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Repiv (laid the final blow)
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+Thorium Charge S, Qty: 120
+Thorn Rocket, Qty: 23
+1MN MicroWarpdrive I
+Fleeting Warp Scrambler I
+Patterned Stasis Web I
+Type-D Altered SS Nanofiber Structure
+Type-D Altered SS Nanofiber Structure
+Thorium Charge S, Qty: 675 (Cargo)
+Thorn Rocket, Qty: 2920 (Cargo)
+

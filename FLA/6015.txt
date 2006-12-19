@@ -1,0 +1,30 @@
+2006.11.05 23:36
+
+Victim: Bvzhnwe
+Alliance: Interstellar Starbase Syndicate
+Corp: Old Galactic Earth Regiment
+Destroyed: Ibis
+System: J-CIJV
+Security: 0.0
+
+Involved parties:
+
+Name: DarkJester (laid the final blow)
+Security: 0.8
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery I
+
+Name: Elfaen Ethenwe
+Security: -0.1
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Rook
+Weapon: Heavy Missile Launcher II
+
+
+Destroyed items:
+
+Civilian Gatling Railgun
+

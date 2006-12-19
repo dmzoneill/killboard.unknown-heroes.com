@@ -1,0 +1,140 @@
+2007.05.21 18:59
+
+Victim: hojo warrior
+Alliance: M. PIRE
+Corp: M. Corp Academy
+Destroyed: Cyclone
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: silent uk
+Security: 2.5
+Alliance: DeStInY.
+Corp: Sacred Templars
+Ship: Heretic
+Weapon: Heretic
+
+Name: Lee Thrace (laid the final blow)
+Security: 3.1
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Eris
+Weapon: Light Neutron Blaster II
+
+Name: Kotori
+Security: -0.2
+Alliance: DeStInY.
+Corp: Sacred Templars
+Ship: Heretic
+Weapon: Phalanx Rocket
+
+Name: Serzath
+Security: 5.0
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Ocara Nezus
+Security: 1.5
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Corovus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+Name: brotula
+Security: 2.7
+Alliance: Event-Horizon
+Corp: Panta-Rhei
+Ship: Hyperion
+Weapon: Hyperion
+
+Name: Teham Edori
+Security: 4.7
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Prophecy
+Weapon: Hellhound F.O.F. Heavy Missile I
+
+Name: Goofer Child
+Security: 5.0
+Alliance: Event-Horizon
+Corp: Lunar Association
+Ship: Caracal
+Weapon: Havoc Heavy Missile
+
+Name: articz
+Security: -0.3
+Alliance: DeStInY.
+Corp: House Of Aaron
+Ship: Rifter
+Weapon: Rifter
+
+Name: Maizoon
+Security: 1.8
+Alliance: DeStInY.
+Corp: House Of Aaron
+Ship: Malediction
+Weapon: Malediction
+
+Name: Shir Akeena
+Security: 5.0
+Alliance: Event-Horizon
+Corp: Panta-Rhei
+Ship: Lachesis
+Weapon: Thunderbolt Heavy Missile
+
+Name: marakudi
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Dibbes
+Security: 0.1
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Taranis
+Weapon: Taranis
+
+Name: Marijoann
+Security: 5.0
+Alliance: 3asy Company
+Corp: International Space Corp
+Ship: Enyo
+Weapon: Enyo
+
+Name: lumpf67
+Security: 5.1
+Alliance: Event-Horizon
+Corp: Parental Advisory
+Ship: Sacrilege
+Weapon: Sacrilege
+
+
+Destroyed items:
+
+425mm AutoCannon I
+425mm Medium Carbine Repeating Cannon I
+720mm Gallium I Cannon
+Carbonized Lead M, Qty: 75
+Depleted Uranium M, Qty: 20
+Thunderbolt Heavy Missile, Qty: 29
+Havoc Heavy Missile, Qty: 29
+Small Armor Repairer I
+Type-D Altered SS Overdrive Injector
+Fusion M, Qty: 585 (Cargo)
+Depleted Uranium M, Qty: 980 (Cargo)
+Proton M, Qty: 265 (Cargo)
+Thunderbolt Heavy Missile, Qty: 1014 (Cargo)
+

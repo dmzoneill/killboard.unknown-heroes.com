@@ -1,0 +1,46 @@
+2007.03.17 14:12
+
+Victim: Cyrila Wolf
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Stiletto
+System: XZH-4X
+Security: 0.0
+
+Involved parties:
+
+Name: GodWin cadela
+Security: -1.8
+Alliance: Eternal Rapture
+Corp: Exotic Dancers Club
+Ship: Absolution
+Weapon: Hobgoblin I
+
+Name: Jiviva
+Security: -4.4
+Alliance: Eternal Rapture
+Corp: Exotic Dancers Club
+Ship: Ferox
+Weapon: Acolyte II
+
+Name: ArmyOfMe (laid the final blow)
+Security: -1.5
+Alliance: Eternal Rapture
+Corp: Exotic Dancers Club
+Ship: Astarte
+Weapon: Valkyrie II
+
+
+Destroyed items:
+
+200mm AutoCannon II
+Small Nosferatu I
+EMP S, Qty: 40
+Initiated Warp Jammer I
+Tracking Disruptor I
+Type-D Altered SS Inertial Stabilizers
+Nanofiber Internal Structure I
+Medium Nosferatu I (Cargo)
+EMP S, Qty: 1923 (Cargo)
+Hammerhead I (Cargo)
+

@@ -1,0 +1,28 @@
+2006.07.12 20:16
+
+Victim: Strilath Vanukar
+Alliance: Sparta Alliance
+Corp: GalacTECH Unlimited
+Destroyed: Condor
+System: N2IS-B
+Security: 0.0
+
+Involved parties:
+
+Name: Jumar Coldgin (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+
+Destroyed items:
+
+Foxfire Rocket, Qty: 60
+'Malkuth' Rocket Launcher I
+'Limos' Rocket Launcher I
+1MN MicroWarpdrive I
+Warp Scrambler I
+Foxfire Rocket, Qty: 1940 (Cargo)
+

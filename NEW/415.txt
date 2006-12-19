@@ -1,0 +1,66 @@
+2007.03.22 08:16
+
+Victim: Galaxor
+Alliance: YouWhat
+Corp: Beasts of Burden
+Destroyed: Armageddon
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Tassill
+Security: 5.0
+Alliance: Zenith Affinity
+Corp: GREY COUNCIL
+Ship: Scimitar
+Weapon: Firbolg
+
+Name: Nyack (laid the final blow)
+Security: 5.0
+Alliance: Zenith Affinity
+Corp: GREY COUNCIL
+Ship: Thanatos
+Weapon: Firbolg
+
+Name: Shuttlemaster
+Security: 5.0
+Alliance: Zenith Affinity
+Corp: GREY COUNCIL
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+Name: FlobbMkII
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Celestis
+Weapon: Indirect Scanning Dampening Unit I
+
+Name: Iss Hogai
+Security: 5.0
+Alliance: Zenith Affinity
+Corp: GREY COUNCIL
+Ship: Falcon
+Weapon: 'Umbra' I White Noise ECM
+
+Name: Dr Milyardo
+Security: 1.2
+Alliance: Zenith Affinity
+Corp: GREY COUNCIL
+Ship: Thanatos
+Weapon: Firbolg
+
+
+Destroyed items:
+
+Mega Pulse Laser I, Qty: 2
+Multifrequency L, Qty: 2
+100MN Afterburner I
+Initiated Warp Jammer I
+Heavy Capacitor Booster I
+Damage Control II
+Armor Explosive Hardener I
+Voltaic Nanite Explosive Hardener I
+Multifrequency L (Cargo)
+Ogre II, Qty: 3 (Drone Bay)

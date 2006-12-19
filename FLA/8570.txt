@@ -1,0 +1,37 @@
+2006.11.29 03:17
+
+Victim: Rangercameron2
+Alliance: Freelancer Alliance
+Corp: BGG
+Destroyed: Harpy
+System: Isanamo
+Security: 0.6
+
+Involved parties:
+
+Name: Elliott Manchild (laid the final blow)
+Security: -1.6
+Alliance: None
+Corp: omen.
+Ship: Taranis
+Weapon: Light Neutron Blaster II
+
+Name: starius3
+Security: 1.2
+Alliance: None
+Corp: omen.
+Ship: Taranis
+Weapon: Taranis
+
+
+Destroyed items:
+
+125mm Railgun II
+125mm Railgun II
+125mm Railgun II
+Spike S, Qty: 80
+Tracking Computer II
+Magnetic Scattering Amplifier I
+Magnetic Field Stabilizer II
+Photon Scattering Field II, Qty: 2 (Cargo)
+

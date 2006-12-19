@@ -1,0 +1,19 @@
+2006.12.12 21:38
+
+Victim: bidman
+Alliance: Freelancer Alliance
+Corp: BGG
+Destroyed: Capsule
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: whisk (laid the final blow)
+Security: -0.5
+Alliance: None
+Corp: 0utbreak
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+

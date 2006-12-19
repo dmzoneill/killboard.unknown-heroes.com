@@ -1,0 +1,51 @@
+2007.04.30 20:11
+
+Victim: Ralin Bek
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Rifter
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Auroraman
+Security: 4.4
+Alliance: None
+Corp: Satan's Armed Soldiers
+Ship: Sacrilege
+Weapon: Widowmaker Fury Heavy Missile
+
+Name: Stitcher (laid the final blow)
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Hawk
+Weapon: Bloodclaw Precision Light Missile
+
+Name: Zizz
+Security: 4.1
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Incursus
+Weapon: Incursus
+
+Name: Archon Tenshi
+Security: 0.4
+Alliance: Freelancer Alliance
+Corp: Harbingers of Sarrow
+Ship: Merlin
+Weapon: Merlin
+
+
+Destroyed items:
+
+150mm Light AutoCannon I
+Small 'Ghoul' Energy Siphon I
+Phased Plasma S, Qty: 38
+1MN MicroWarpdrive I
+Warp Disruptor I
+Stasis Webifier I
+Inertia Stabilizers I
+Capacitor Power Relay I
+

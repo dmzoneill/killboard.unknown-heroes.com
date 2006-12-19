@@ -1,0 +1,26 @@
+2007.03.05 18:03
+
+Victim: Nil Desperandum
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Iteron Mark V
+System: Orvolle
+Security: 0.7
+
+Involved parties:
+
+Name: Alexie Stukov (laid the final blow)
+Security: 1.9
+Alliance: Privateer Alliance
+Corp: Yakuza Corp
+Ship: Armageddon
+Weapon: Dual Heavy Pulse Laser II
+
+Name: Rugs
+Security: 3.8
+Alliance: Privateer Alliance
+Corp: Yakuza Corp
+Ship: Absolution
+Weapon: Absolution
+
+

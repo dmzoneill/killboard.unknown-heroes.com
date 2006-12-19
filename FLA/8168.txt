@@ -1,0 +1,101 @@
+2006.10.24 20:13
+
+Victim: Skornik
+Alliance: Freelancer Alliance
+Corp: BGG
+Destroyed: Megathron
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Darknesss
+Security: -1.2
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Megathron
+Weapon: Ogre II
+
+Name: Ipaq
+Security: 1.7
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Apocalypse
+Weapon: Apocalypse
+
+Name: Anominity
+Security: 4.7
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: aadom
+Security: 2.7
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Tempest
+Weapon: Tempest
+
+Name: simcor
+Security: -1.9
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Megathron
+Weapon: Megathron
+
+Name: NightWolfe
+Security: 5.0
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Megathron
+Weapon: Megathron
+
+Name: boo3916
+Security: 4.1
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Raven
+Weapon: Raven
+
+Name: WarGod (laid the final blow)
+Security: -1.5
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Kakanur
+Security: 2.4
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Apocalypse
+Weapon: Mega Beam Laser II
+
+Name: Ceapio
+Security: 0.0
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Tempest
+Weapon: Dual 425mm AutoCannon II
+
+
+Destroyed items:
+
+425mm Prototype I Gauss Gun
+425mm Compressed Coil Gun I
+425mm Compressed Coil Gun I
+425mm Compressed Coil Gun I
+425mm Compressed Coil Gun I
+Guristas Iron Charge L, Qty: 40
+Tungsten Charge L, Qty: 157
+Large 'Solace' I Remote Bulwark Reconstruction
+Eutectic I Capacitor Charge Array
+Alumel-Wired I Sensor Augmentation
+Pseudoelectron Containment Field I
+Medium Armor Repairer II
+Magnetic Field Stabilizer II
+1600mm Reinforced Rolled Tungsten Plates I
+Tungsten Charge L, Qty: 3480 (Cargo)
+Ogre I, Qty: 2 (Drone Bay)
+

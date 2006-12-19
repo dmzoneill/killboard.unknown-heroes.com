@@ -1,0 +1,31 @@
+2007.05.23 09:16
+
+Victim: kazhkaz
+Alliance: Ultima Rati0
+Corp: LDK
+Destroyed: Ibis
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: MrMajIc
+Security: 0.8
+Alliance: Imperial Republic Of the North
+Corp: VentureCorp
+Ship: Rapier
+Weapon: Hobgoblin II
+
+Name: Corovus (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+
+Destroyed items:
+
+Civilian Gatling Railgun
+Basic Miner
+

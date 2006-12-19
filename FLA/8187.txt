@@ -1,0 +1,73 @@
+2006.10.28 03:57
+
+Victim: Swanny231
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Destroyed: Vigilant
+System: J-CIJV
+Security: 0.0
+
+Involved parties:
+
+Name: rs spyder
+Security: -1.5
+Alliance: Eternal Empire
+Corp: Tarnak inc.
+Ship: Dominix
+Weapon: Valkyrie I
+
+Name: DONJUAN v (laid the final blow)
+Security: -1.8
+Alliance: Eternal Empire
+Corp: Tarnak inc.
+Ship: Stabber
+Weapon: Piranha Light Missile
+
+Name: Commander Thrawn
+Security: -0.6
+Alliance: Eternal Empire
+Corp: Tarnak inc.
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Anne Firepants
+Security: 2.2
+Alliance: Eternal Empire
+Corp: Spectral Armada
+Ship: Thorax
+Weapon: Regulated Ion Phase Cannon I
+
+Name: Aernihs
+Security: 0.0
+Alliance: Eternal Empire
+Corp: Tarnak inc.
+Ship: Merlin
+Weapon: Bloodclaw Light Missile
+
+Name: blade190
+Security: 0.4
+Alliance: Eternal Empire
+Corp: Spectral Armada
+Ship: Thorax
+Weapon: 150mm Railgun I
+
+Name: RustyShackleford
+Security: 3.4
+Alliance: Eternal Empire
+Corp: Spectral Armada
+Ship: Raven
+Weapon: Target Painter I
+
+
+Destroyed items:
+
+250mm Railgun II
+Spike M, Qty: 48
+10MN Afterburner II
+Initiated Warp Jammer I
+Sensor Booster II
+Triple-sheathed Regenerative Plating I
+Vespa II, Qty: 4 (Cargo)
+Spike M, Qty: 4118 (Cargo)
+Vespa II (Drone Bay)
+

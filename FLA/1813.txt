@@ -1,0 +1,33 @@
+2007.01.05 22:43
+
+Victim: mrrabit
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Rifter
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Heinky (laid the final blow)
+Security: 2.5
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Abaddon
+Weapon: Hammerhead II
+
+Name: Masta Killa
+Security: -1.7
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Warrior II
+
+
+Destroyed items:
+
+'Malkuth' Standard Missile Launcher I
+1MN Afterburner I
+Nanofiber Internal Structure I
+Sabretooth Light Missile, Qty: 118 (Cargo)
+

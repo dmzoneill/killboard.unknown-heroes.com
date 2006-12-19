@@ -1,0 +1,50 @@
+2006.11.01 05:28
+
+Victim: Tull
+Alliance: None
+Corp: GalacTECH Unlimited
+Destroyed: Pilgrim
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Angel Vengen
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: Caldar Mercenary Syndicate
+Ship: Omen
+Weapon: Hobgoblin I
+
+Name: Swanny231
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Thorax
+Weapon: Infiltrator I
+
+Name: SleepyOSU (laid the final blow)
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: Sin-X Inc.
+Ship: Vexor
+Weapon: Valkyrie I
+
+Name: Drin
+Security: 0.1
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Rifter
+Weapon: Rifter
+
+
+Destroyed items:
+
+Covert Ops Cloaking Device II
+Drone Link Augmentor I
+Tracking Disruptor II
+Medium Armor Repairer II
+Co-Processor II
+Energized Adaptive Nano Membrane II
+Warrior II, Qty: 5 (Drone Bay)
+

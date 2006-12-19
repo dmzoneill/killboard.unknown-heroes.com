@@ -1,0 +1,88 @@
+2006.11.27 02:18
+
+Victim: Barqs
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Thanatos
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Crusari
+Security: 5.0
+Alliance: The Sani Sabik
+Corp: Omniscient Order
+Ship: Dominix
+Weapon: Ogre II
+
+Name: jamesw (laid the final blow)
+Security: 1.7
+Alliance: The Sani Sabik
+Corp: Omniscient Order
+Ship: Dominix
+Weapon: Ogre II
+
+Name: H Zub
+Security: -1.0
+Alliance: The Sani Sabik
+Corp: Omniscient Order
+Ship: Dominix
+Weapon: Ogre II
+
+Name: mier
+Security: 2.3
+Alliance: None
+Corp: 7...
+Ship: Dominix
+Weapon: Ogre I
+
+Name: Typhoid Mary
+Security: -0.5
+Alliance: The Red Skull
+Corp: Finite Horizon
+Ship: Raven
+Weapon: 'Limos' Cruise Launcher I
+
+Name: Ifni
+Security: -1.2
+Alliance: None
+Corp: Developmental Neogenics Amalgamated
+Ship: Crusader
+Weapon: Dual Light Beam Laser II
+
+Name: Noobjuice
+Security: -1.5
+Alliance: The Sani Sabik
+Corp: Omniscient Order
+Ship: Stiletto
+Weapon: Small 'Knave' I Energy Drain
+
+Name: Levin Cavil
+Security: -2.0
+Alliance: The Sani Sabik
+Corp: Omniscient Order
+Ship: Crow
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+Name: Sergio Ling
+Security: 3.3
+Alliance: Maelstrom Alliance
+Corp: Standard Operations Building Services
+Ship: Raptor
+Weapon: 'Arbalest' Rocket Launcher I
+
+
+Destroyed items:
+
+E500 Prototype Energy Vampire
+E500 Prototype Energy Vampire
+Drone Control Unit I
+J5 Prototype Warp Inhibitor I
+Dread Guristas Invulnerability Field
+Cap Booster 800
+Prototype I Sensor Booster
+Capital Armor Repairer I
+Energized Regenerative Membrane II
+Armor Explosive Hardener II
+

@@ -1,0 +1,75 @@
+2006.11.10 19:29
+
+Victim: Gidzoo Whoosch
+Alliance: None
+Corp: Marquie-X Corp
+Destroyed: Reaper
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Karas Rabus (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Huginn
+Weapon: Flameburst Precision Light Missile
+
+Name: LiBraga
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Eagle
+Weapon: Eagle
+
+Name: Minesweeper
+Security: 3.7
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Jaguar
+Weapon: 250mm Light 'Scout' Artillery I
+
+Name: H3llfire
+Security: 2.6
+Alliance: O X I D E
+Corp: W33D Corp.
+Ship: Moa
+Weapon: 250mm Compressed Coil Gun I
+
+Name: Verild
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Rook
+Weapon: ECM - Multispectral Jammer II
+
+Name: Jumar Coldgin
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+Name: Elfaen Ethenwe
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+Name: Dingus Rx
+Security: 2.5
+Alliance: Imperial Republic Of the North
+Corp: Port Royal Independent Kontractors
+Ship: Thorax
+Weapon: Phased Weapon Navigation Array Generation Extron
+
+Name: Almagar Phog
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Blackbird
+Weapon: Compact 'Limos' Assault Missile Bay I
+
+

@@ -1,0 +1,40 @@
+2006.10.03 20:11
+
+Victim: Nikiita
+Alliance: Freelancer Alliance
+Corp: Thors Hammers
+Destroyed: Helios
+System: F7C-H0
+Security: 0.0
+
+Involved parties:
+
+Name: Shortx (laid the final blow)
+Security: 1.5
+Alliance: None
+Corp: 0utbreak
+Ship: Sleipnir
+Weapon: 425mm AutoCannon II
+
+Name: Diacon
+Security: 1.6
+Alliance: None
+Corp: 0utbreak
+Ship: Curse
+Weapon: Hobgoblin II
+
+Name: MASTER SARDELLI
+Security: 3.7
+Alliance: None
+Corp: Falcon Advanced Industries
+Ship: Malediction
+Weapon: OE-5200 Rocket Launcher
+
+
+Destroyed items:
+
+'Hypnos' Multispectral ECM I
+Warp Core Stabilizer I
+Medium Armor Repairer II, Qty: 3 (Cargo)
+150mm Railgun II, Qty: 3 (Cargo)
+

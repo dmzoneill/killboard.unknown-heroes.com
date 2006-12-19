@@ -1,0 +1,77 @@
+2007.01.12 23:51
+
+Victim: Korudon
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Caracal
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Scythus Aratan (laid the final blow)
+Security: 4.4
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Armageddon
+Weapon: Tachyon Beam Laser II
+
+Name: Heinky
+Security: 2.7
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Abaddon
+Weapon: Tachyon Beam Laser II
+
+Name: SATAN
+Security: -0.8
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Warrior II
+
+Name: Arnold Swartzenegger
+Security: 0.0
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+Name: Evil Pookie
+Security: 4.6
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Cruise Missile Launcher II
+
+Name: ETS4ME
+Security: 0.7
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Cruise Missile Launcher II
+
+Name: Captain Rickdick
+Security: 0.1
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Remote Sensor Dampener II
+
+
+Destroyed items:
+
+Widowmaker Heavy Missile, Qty: 30
+Scourge Heavy Missile, Qty: 30
+Thunderbolt Heavy Missile, Qty: 30
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Large Shield Extender I
+Sensor Booster I
+Target Painter I
+Damage Control I
+Widowmaker Heavy Missile, Qty: 188 (Cargo)
+Thunderbolt Heavy Missile, Qty: 114 (Cargo)
+

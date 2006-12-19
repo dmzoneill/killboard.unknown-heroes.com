@@ -1,0 +1,66 @@
+2006.09.16 19:52
+
+Victim: Fletcher Vardy
+Alliance: None
+Corp: T.E.C II
+Destroyed: Cerberus
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Karas Rabus
+Security: 4.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Huginn
+Weapon: Hobgoblin I
+
+Name: Ione79
+Security: 2.9
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Celestis
+Weapon: 250mm Compressed Coil Gun I
+
+Name: Minesweeper
+Security: 2.8
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Raven
+Weapon: 'Hypnos' Multispectral ECM I
+
+Name: Zalamus
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Ishkur
+Weapon: Hobgoblin II
+
+Name: Hosanna (laid the final blow)
+Security: -1.5
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Jaguar
+Weapon: 200mm AutoCannon II
+
+
+Destroyed items:
+
+Heavy Missile Launcher II
+Scourge Fury Heavy Missile, Qty: 80
+Large C5-L Emergency Shield Overload I
+10MN Afterburner II
+Warp Disruptor I
+Photon Scattering Field II
+Alumel-Wired I Sensor Augmentation
+Interior Force Field Array
+Ballistic Control System II
+'Langour' Drive Disruptor I (Cargo)
+Regulated Ion Phase Cannon I (Cargo)
+Heavy Brief Capacitor Overcharge I (Cargo)
+Heavy Capacitor Booster I (Cargo)
+Supplemental Scanning CPU I (Cargo)
+Scourge Fury Heavy Missile, Qty: 563 (Cargo)
+Expanded Cargohold I (Cargo)
+

@@ -1,0 +1,50 @@
+2007.05.05 19:21
+
+Victim: Kvarium Ki
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Destroyed: Rupture
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Screamer (laid the final blow)
+Security: 1.2
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Chimera
+Weapon: Praetor I
+
+Name: Vendetta X
+Security: 0.8
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Crusader
+Weapon: Warp Disruptor II
+
+Name: Wraithstorm
+Security: 3.1
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Thanatos
+Weapon: Hobgoblin I
+
+
+Destroyed items:
+
+720mm Howitzer Artillery I
+Titanium Sabot M
+Titanium Sabot M
+Titanium Sabot M
+Titanium Sabot M
+Titanium Sabot M
+Titanium Sabot M
+Titanium Sabot M
+Piranha Light Missile, Qty: 54
+Assault Missile Launcher I
+Tracking Computer I
+Gyrostabilizer I
+Damage Control I
+Wrath Cruise Missile (Cargo)
+

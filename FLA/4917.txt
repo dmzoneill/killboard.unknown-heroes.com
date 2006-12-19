@@ -1,0 +1,19 @@
+2007.04.19 21:50
+
+Victim: Darkspin
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Manticore
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Kurai Amaro (laid the final blow)
+Security: 4.4
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Hurricane
+Weapon: 220mm Vulcan AutoCannon II
+
+

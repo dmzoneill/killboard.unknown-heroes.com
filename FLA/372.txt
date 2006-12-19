@@ -1,0 +1,30 @@
+2007.01.28 23:47
+
+Victim: Matrixie
+Alliance: None
+Corp: Unified Refining Federation
+Destroyed: Ibis
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Goca (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Ferox
+Weapon: Widowmaker Heavy Missile
+
+Name: Sanal Gi
+Security: -0.6
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Scorpion
+Weapon: Paradise Cruise Missile
+
+
+Destroyed items:
+
+Civilian Gatling Railgun
+

@@ -1,0 +1,32 @@
+2006.09.25 05:56
+
+Victim: Sith Bandon
+Alliance: Ascendant Frontier
+Corp: Celestial Fleet
+Destroyed: Daredevil
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Digioso (laid the final blow)
+Security: 1.2
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Megathron
+Weapon: Large 'Notos' Explosive Charge I
+
+
+Destroyed items:
+
+Fleeting Warp Scrambler I
+J5b Phased Prototype Warp Inhibitor I
+'Hypnos' Multispectral ECM I
+Small Armor Repairer II
+Gyrostabilizer II (Cargo)
+Damage Control I (Cargo)
+ECM - Phase Inverter II, Qty: 2 (Cargo)
+Mobile Small Warp Disruptor I (Cargo)
+Standard Missile Launcher II (Cargo)
+Power Diagnostic System II (Cargo)
+

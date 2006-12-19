@@ -1,0 +1,31 @@
+2006.10.05 17:40
+
+Victim: Enigma08
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Destroyed: Cormorant
+System: Jita
+Security: 0.9
+
+Involved parties:
+
+Name: Coldurn (laid the final blow)
+Security: 0.0
+Alliance: None
+Corp: Privateers
+Ship: Rifter
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+150mm Prototype I Gauss Gun
+150mm Prototype I Gauss Gun
+Antimatter Charge S, Qty: 40
+Auto Targeting System I
+Small C5-L Emergency Shield Overload I
+125mm Prototype I Gauss Gun (Cargo)
+Antimatter Charge M, Qty: 1000 (Cargo)
+Bloodclaw Light Missile, Qty: 3954 (Cargo)
+TE-2100 Standard Missile Bay (Cargo)
+

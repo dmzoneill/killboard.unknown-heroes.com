@@ -1,0 +1,28 @@
+2006.12.24 03:20
+
+Victim: Sanguine Poodle
+Alliance: None
+Corp: Poodlewaffe
+Destroyed: Kestrel
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Jaig Maldara (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Flycatcher
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 76
+Standard Missile Launcher I
+Standard Missile Launcher I
+Standard Missile Launcher I
+Standard Missile Launcher I
+Heat Dissipation Amplifier I
+

@@ -1,0 +1,29 @@
+2006.10.05 02:04
+
+Victim: Marie Veedor
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Osprey
+System: Litiura
+Security: 0.5
+
+Involved parties:
+
+Name: Soul Wolf (laid the final blow)
+Security: 2.9
+Alliance: None
+Corp: Privateers
+Ship: Absolution
+Weapon: Heavy Pulse Laser II
+
+Name: Guristas Despoiler / Guristas
+
+
+Destroyed items:
+
+Dual Diode Mining Laser I
+Bloodclaw Light Missile, Qty: 56
+'Malkuth' Assault Missile Launcher I
+Small Shield Extender I
+10MN Afterburner I
+

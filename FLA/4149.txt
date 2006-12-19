@@ -1,0 +1,61 @@
+2007.04.03 00:12
+
+Victim: Bluuudwing
+Alliance: Freelancer Alliance
+Corp: ACCORD Industries
+Destroyed: Minmatar Shuttle
+System: F7C-H0
+Security: 0.0
+
+Involved parties:
+
+Name: isca (laid the final blow)
+Security: 5.0
+Alliance: YouWhat
+Corp: Cosmic Odyssey
+Ship: Thorax
+Weapon: Heavy Electron Blaster II
+
+Name: Thyago
+Security: 5.0
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Ishkur
+Weapon: Hobgoblin II
+
+Name: Erikel
+Security: 4.5
+Alliance: YouWhat
+Corp: Cosmic Odyssey
+Ship: Myrmidon
+Weapon: 150mm Railgun II
+
+Name: Neily
+Security: 4.7
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Rook
+Weapon: ECM - Multispectral Jammer II
+
+Name: Lakastre
+Security: 0.6
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Curse
+Weapon: Medium Nosferatu II
+
+Name: Cole Steel
+Security: 5.0
+Alliance: YouWhat
+Corp: Cosmic Odyssey
+Ship: Rupture
+Weapon: 425mm AutoCannon I
+
+Name: Magnelien
+Security: 4.3
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Crow
+Weapon: Warp Disruptor I
+
+

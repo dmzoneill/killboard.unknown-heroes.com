@@ -1,0 +1,104 @@
+2007.03.04 03:09
+
+Victim: Hit mebitch
+Alliance: Xelas Alliance
+Corp: Setenta Corp
+Destroyed: Huginn
+System: DBRN-Z
+Security: 0.0
+
+Involved parties:
+
+Name: UP LATE
+Security: 4.7
+Alliance: Dusk and Dawn
+Corp: Omega Enterprises
+Ship: Eagle
+Weapon: Thunderbolt Heavy Missile
+
+Name: Sephron Kintaka
+Security: 2.5
+Alliance: Sparta Alliance
+Corp: Lynx Frontier Inc.
+Ship: Megathron
+Weapon: Megathron
+
+Name: Lucututerian (laid the final blow)
+Security: 1.0
+Alliance: Dusk and Dawn
+Corp: Cataclysm Enterprises
+Ship: Rapier
+Weapon: 720mm Howitzer Artillery II
+
+Name: Joe Blow
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Omega Enterprises
+Ship: Damnation
+Weapon: 'Arbalest' Heavy Missile Launcher
+
+Name: GS Armada
+Security: 3.4
+Alliance: Dusk and Dawn
+Corp: ECP Rogues
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: KateLice
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: Lynx Frontier Inc.
+Ship: Rapier
+Weapon: Warrior I
+
+Name: prathe
+Security: 4.8
+Alliance: Dusk and Dawn
+Corp: Omega Enterprises
+Ship: Rapier
+Weapon: Warrior II
+
+Name: probablecause
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Infinite Improbability Inc
+Ship: Enyo
+Weapon: Enyo
+
+Name: Xantheris
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Enyo
+Weapon: Light Neutron Blaster II
+
+Name: Thea Arsoniztik
+Security: 0.6
+Alliance: Dusk and Dawn
+Corp: Omega Enterprises
+Ship: Raven
+Weapon: Remote Sensor Dampener II
+
+Name: Dark Carnage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Crow
+Weapon: X5 Prototype I Engine Enervator
+
+Name: Caarnji
+Security: -1.9
+Alliance: Dusk and Dawn
+Corp: ECP Rogues
+Ship: Drake
+Weapon: Heavy Missile Launcher II
+
+
+Destroyed items:
+
+Salvager I, Qty: 12
+10MN Afterburner I
+Sensor Booster I
+Sensor Booster I
+Energized Adaptive Nano Membrane I
+

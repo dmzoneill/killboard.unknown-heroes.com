@@ -1,0 +1,91 @@
+2006.11.25 18:37
+
+Victim: Elliott Manchild
+Alliance: None
+Corp: omen.
+Destroyed: Megathron
+System: Torrinos
+Security: 0.5
+
+Involved parties:
+
+Name: Zalamus
+Security: 4.4
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Dominix
+Weapon: Ogre II
+
+Name: Hosanna
+Security: 3.1
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Bolinar
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Dominix
+Weapon: Ogre I
+
+Name: keilapuukko
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Megathron
+Weapon: Megathron
+
+Name: Karas Rabus (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Stabber
+Weapon: Dual 180mm AutoCannon II
+
+Name: W4RR10R
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Ishtar
+Weapon: Berserker I
+
+Name: Noitaakka
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Vexor
+Weapon: Valkyrie II
+
+Name: Tri Ounou
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: Jumar Coldgin
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Rook
+Weapon: 'Hypnos' Multispectral ECM I
+
+
+Destroyed items:
+
+Electron Blaster Cannon II
+Electron Blaster Cannon II
+Void L, Qty: 1178
+100MN MicroWarpdrive II
+Fleeting Propulsion Inhibitor I
+Heavy Electrochemical Capacitor Booster I
+Cap Booster 800
+Internal Force Field Array I
+Large Armor Repairer II
+Magnetic Field Stabilizer II
+Magnetic Field Stabilizer II
+Energized Adaptive Nano Membrane II
+Cap Booster 800, Qty: 16 (Cargo)
+

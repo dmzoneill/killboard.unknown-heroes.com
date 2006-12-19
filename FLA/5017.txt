@@ -1,0 +1,34 @@
+2007.04.21 02:48
+
+Victim: Ghu'ru Talozan
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Celestis
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Wraithstorm (laid the final blow)
+Security: 3.1
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Rokh
+Weapon: 425mm Railgun II
+
+Name: Savak
+Security: -0.2
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Apocalypse
+Weapon: Tachyon Afocal Maser I
+
+
+Destroyed items:
+
+Antimatter Charge M, Qty: 40
+Remote Sensor Dampener I
+Sensor Booster I
+Antimatter Charge M, Qty: 452 (Cargo)
+Infiltrator I, Qty: 2 (Drone Bay)
+

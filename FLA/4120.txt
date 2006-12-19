@@ -1,0 +1,35 @@
+2007.04.02 01:34
+
+Victim: DeathCoInc
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Destroyed: Raptor
+System: Tolle
+Security: 0.7
+
+Involved parties:
+
+Name: Surreptitious (laid the final blow)
+Security: 0.1
+Alliance: Privateer Alliance
+Corp: Privateers
+Ship: Myrmidon
+Weapon: Modal Electron Particle Accelerator I
+
+
+Destroyed items:
+
+75mm Prototype I Gauss Gun
+75mm Prototype I Gauss Gun
+Antimatter Charge S, Qty: 196
+Bloodclaw Light Missile, Qty: 79
+Standard Missile Launcher I
+Standard Missile Launcher I
+1MN MicroWarpdrive I
+Stasis Webifier I
+Sensor Booster I
+Power Diagnostic System I
+Power Diagnostic System I
+Antimatter Charge S, Qty: 538 (Cargo)
+Bloodclaw Light Missile, Qty: 706 (Cargo)
+

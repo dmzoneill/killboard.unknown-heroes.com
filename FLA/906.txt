@@ -1,0 +1,73 @@
+2007.02.26 04:48
+
+Victim: DeathGrip
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Destroyed: Raven
+System: E-BWUU
+Security: 0.0
+
+Involved parties:
+
+Name: Skull Fire (laid the final blow)
+Security: 0.7
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+Name: Satal Sonshi
+Security: 3.8
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Hurricane
+Weapon: 720mm Howitzer Artillery II
+
+Name: Elfaen Ethenwe
+Security: 0.3
+Alliance: None
+Corp: Eternal Rising
+Ship: Cyclone
+Weapon: 425mm Medium Prototype I Automatic Cannon
+
+Name: Xantheris
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Taranis
+Weapon: Acolyte I
+
+Name: Simon Monkoto
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Hawk
+Weapon: Flameburst Fury Light Missile
+
+Name: ventura5
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Flycatcher
+Weapon: Sabretooth Light Missile
+
+Name: Llondon Hilton
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Enyo
+Weapon: Enyo
+
+
+Destroyed items:
+
+Juggernaut Torpedo, Qty: 27
+Siege Missile Launcher II
+Large Shield Extender II
+Heat Dissipation Field II
+Invulnerability Field II
+Ballistic Control System II
+Power Diagnostic System II
+Inferno Torpedo, Qty: 1706 (Cargo)
+Juggernaut Torpedo (Cargo)
+

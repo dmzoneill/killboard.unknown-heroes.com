@@ -1,0 +1,29 @@
+2006.12.09 18:05
+
+Victim: wardey
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Punisher
+System: Piak
+Security: 0.7
+
+Involved parties:
+
+Name: ziTza (laid the final blow)
+Security: 0.0
+Alliance: None
+Corp: omen.
+Ship: Wolf
+Weapon: 150mm Light AutoCannon II
+
+
+Destroyed items:
+
+Dual Light Pulse Laser I
+Small Nosferatu I
+Small Nosferatu I
+Cold-Gas I Arcjet Thrusters
+'Langour' Drive Disruptor I
+Multifrequency S (Cargo)
+Expanded Cargohold I, Qty: 5 (Cargo)
+

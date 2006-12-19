@@ -1,0 +1,39 @@
+2007.01.11 01:22
+
+Victim: THX 1138
+Alliance: Triumvirate.
+Corp: D00M.
+Destroyed: Eagle
+System: Oursulaert
+Security: 0.9
+
+Involved parties:
+
+Name: drullir (laid the final blow)
+Security: 3.5
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Brutix
+Weapon: Heavy Ion Blaster II
+
+Name: Iulian1977
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Zealot
+Weapon: Zealot
+
+
+Destroyed items:
+
+Anode Neutron Particle Cannon I
+Lead Charge M, Qty: 160
+Scourge Heavy Missile, Qty: 36
+'Arbalest' Heavy Missile Launcher
+Medium Shield Booster II
+J5 Prototype Warp Inhibitor I
+Photon Scattering Field II
+Invulnerability Field II
+Magnetic Field Stabilizer II
+Power Diagnostic System II
+Lead Charge M, Qty: 4047 (Cargo)

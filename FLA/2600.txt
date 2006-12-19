@@ -1,0 +1,36 @@
+2007.02.26 04:51
+
+Victim: HempHog
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Destroyed: Maller
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Atomic Mayhem
+Security: -0.8
+Alliance: None
+Corp: Bottomfeeders Inc
+Ship: Pilgrim
+Weapon: Medium Nosferatu II
+
+Name: Maefly (laid the final blow)
+Security: 0.2
+Alliance: None
+Corp: Bottomfeeders Inc
+Ship: Megathron
+Weapon: 425mm 'Scout' I Accelerator Cannon
+
+Name: Guristas Supremacist / Guristas
+
+
+Destroyed items:
+
+Miner II
+Miner II
+Quantum Co-Processor I
+Quantum Co-Processor I
+Photonic CPU Enhancer I
+

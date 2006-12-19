@@ -1,0 +1,38 @@
+2006.09.10 00:36
+
+Victim: Deathzone Alcor
+Alliance: None
+Corp: Republic Military School
+Destroyed: Reaper
+System: O-BDXB
+Security: 0.0
+
+Involved parties:
+
+Name: MiA Greasy
+Security: -1.0
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Malediction
+Weapon: Malediction
+
+Name: Drakin Korin (laid the final blow)
+Security: -1.4
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Ishtar
+Weapon: Warrior II
+
+Name: TasKu
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Taranis
+Weapon: 125mm Railgun II
+
+
+Destroyed items:
+
+Basic Miner
+Tritanium (Cargo)
+

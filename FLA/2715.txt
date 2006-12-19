@@ -1,0 +1,26 @@
+2007.03.03 21:02
+
+Victim: Mizerik
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Destroyed: Capsule
+System: Torrinos
+Security: 0.5
+
+Involved parties:
+
+Name: Kai page (laid the final blow)
+Security: -1.0
+Alliance: None
+Corp: coracao ardente
+Ship: Enyo
+Weapon: Light Ion Blaster II
+
+Name: MassonA
+Security: -0.2
+Alliance: None
+Corp: coracao ardente
+Ship: Claw
+Weapon: J5 Prototype Warp Inhibitor I
+
+

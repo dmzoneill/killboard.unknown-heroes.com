@@ -1,0 +1,37 @@
+2007.02.16 05:11
+
+Victim: Stone Burner
+Alliance: Privateer Alliance
+Corp: Privateers
+Destroyed: Vexor
+System: Jita
+Security: 0.9
+
+Involved parties:
+
+Name: Sorlac Aurora (laid the final blow)
+Security: 2.1
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Drake
+Weapon: Hellfire Assault Missile
+
+
+Destroyed items:
+
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Thorium Charge M, Qty: 71
+Warp Scrambler I
+Armor Explosive Hardener I
+Armor EM Hardener I
+Regulated Light Ion Phase Cannon I (Cargo)
+Antimatter Charge L, Qty: 169 (Cargo)
+Thorium Charge S, Qty: 162 (Cargo)
+Thorium Charge M, Qty: 860 (Cargo)
+Hammerhead I, Qty: 2 (Drone Bay)
+

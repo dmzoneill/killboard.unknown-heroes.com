@@ -1,0 +1,107 @@
+2007.01.18 03:46
+
+Victim: Noobjuice
+Alliance: None
+Corp: Omniscient Order
+Destroyed: Typhoon
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: ventura5 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Raven
+Weapon: Inferno Torpedo
+
+Name: Xantheris
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Harpy
+Weapon: Harpy
+
+Name: dastommy79
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Thorax
+Weapon: Hammerhead I
+
+Name: Goca
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Drake
+Weapon: Havoc Heavy Missile
+
+Name: KriegDrachen
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Sabre
+Weapon: Sabre
+
+Name: Fugnut
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Marie Veedor
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Ferox
+Weapon: Scourge Heavy Missile
+
+Name: TiMeZeRo225
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: J.I.T. Enterprises
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Jaig Maldara
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Raptor
+Weapon: Raptor
+
+Name: Swanny231
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Crow
+Weapon: 'Arbalest' Rocket Launcher I
+
+
+Destroyed items:
+
+Heavy 'Knave' I Energy Drain
+Heavy 'Knave' I Energy Drain
+Snoop Scanner Probe I, Qty: 10
+Recon Probe Launcher I
+ZW-4100 Siege Missile Bay
+100MN MicroWarpdrive II
+J5 Prototype Warp Inhibitor I
+Heavy Electrochemical Capacitor Booster I
+Cap Booster 800
+Cap Booster 800
+Cap Booster 800
+Cap Booster 800
+Beta Hull Mod Inertial Stabilizers
+Beta Hull Mod Nanofiber Structure
+Beta Hull Mod Nanofiber Structure
+Cap Booster 800, Qty: 16 (Cargo)
+Mjolnir Torpedo, Qty: 197 (Cargo)
+Bane Torpedo, Qty: 150 (Cargo)
+Cataclysm Cruise Missile, Qty: 65 (Cargo)
+Devastator Cruise Missile, Qty: 262 (Cargo)
+Paradise Cruise Missile, Qty: 224 (Cargo)
+Wasp II (Drone Bay)
+

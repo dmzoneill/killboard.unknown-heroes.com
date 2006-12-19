@@ -1,0 +1,61 @@
+2006.09.10 15:11
+
+Victim: Morel
+Alliance: R.I.S.K
+Corp: Russian Specnaz
+Destroyed: Capsule
+System: CXN1-Z
+Security: 0.0
+
+Involved parties:
+
+Name: Capt Cali
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: London Transport
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: MentalM (laid the final blow)
+Security: 5.2
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Malediction
+Weapon: Dual Light Beam Laser II
+
+Name: XxAngelxX
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Curse
+Weapon: Medium Diminishing Power System Drain I
+
+Name: Shiri elAzarinres
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Raven
+Weapon: ECM - White Noise Generator I
+
+Name: Oldin Relic
+Security: 1.3
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Moa
+Weapon: 250mm Carbide Railgun I
+
+Name: DDaisy
+Security: 4.6
+Alliance: CORE.
+Corp: VentureCorp
+Ship: Lachesis
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+Name: DARKLING
+Security: 5.1
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Rook
+Weapon: Heavy Missile Launcher II
+
+

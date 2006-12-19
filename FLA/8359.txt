@@ -1,0 +1,26 @@
+2006.11.12 05:05
+
+Victim: MonwrathDisortium
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: magiktoolbag13 (laid the final blow)
+Security: 4.7
+Alliance: Blood Raiders Alliance
+Corp: Murder-Death-Kill
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+Name: Rexxar Civire
+Security: -10.0
+Alliance: Blood Raiders Alliance
+Corp: Murder-Death-Kill
+Ship: Flycatcher
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+

@@ -1,0 +1,50 @@
+2007.02.17 07:03
+
+Victim: General StarScream
+Alliance: Fate Weavers
+Corp: MercenaryZ
+Destroyed: Vexor
+System: PF-346
+Security: 0.0
+
+Involved parties:
+
+Name: ivan rumanov
+Security: 0.3
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Cerberus
+Weapon: Havoc Heavy Missile
+
+Name: KingRizen
+Security: -2.0
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Ship: Raven
+Weapon: Wrath Cruise Missile
+
+Name: Jesnen (laid the final blow)
+Security: 0.3
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Sacrilege
+Weapon: Quad Light Beam Laser II
+
+Name: skitz blitz
+Security: -0.9
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Dominix
+Weapon: Ogre II
+
+
+Destroyed items:
+
+Modal Light Ion Particle Accelerator I
+Anode Light Neutron Particle Cannon I
+Antimatter Charge S, Qty: 47
+X5 Prototype I Engine Enervator
+400mm Reinforced Steel Plates I
+Valkyrie I, Qty: 2 (Drone Bay)
+Hammerhead I, Qty: 2 (Drone Bay)
+

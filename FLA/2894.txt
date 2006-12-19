@@ -1,0 +1,89 @@
+2007.03.15 01:44
+
+Victim: Daedal Virtu
+Alliance: Freelancer Alliance
+Corp: Blackwater Squadron
+Destroyed: Capsule
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Omar Shakti
+Security: 5.0
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Taranis
+Weapon: 150mm Railgun II
+
+Name: Monticore D'Muertos (laid the final blow)
+Security: 5.0
+Alliance: Axiom Empire
+Corp: United Society Starfleet
+Ship: Raptor
+Weapon: Thorn Javelin Rocket
+
+Name: kIM JONGELL
+Security: 4.8
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: Zyta Eke
+Security: 3.3
+Alliance: Xelas Alliance
+Corp: Bombshell Cartel
+Ship: Crusader
+Weapon: Crusader
+
+Name: doc627
+Security: 5.0
+Alliance: Axiom Empire
+Corp: United Society Starfleet
+Ship: Crow
+Weapon: Standard Missile Launcher I
+
+Name: SN 1121666
+Security: 0.7
+Alliance: Axiom Empire
+Corp: Regalis Industria Scientia Entreprendre
+Ship: Rifter
+Weapon: Standard Missile Launcher I
+
+Name: Mongo Peck
+Security: 4.9
+Alliance: Xelas Alliance
+Corp: Requiem of Hades
+Ship: Taranis
+Weapon: 125mm Railgun II
+
+Name: Fat Bloke
+Security: 1.8
+Alliance: Xelas Alliance
+Corp: Catalyst Reaction
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+Name: Duncan Hines
+Security: 5.0
+Alliance: Xelas Alliance
+Corp: Bombshell Cartel
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+Name: DeathGrip
+Security: 2.3
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Flycatcher
+Weapon: Rocket Launcher II
+
+Name: Callistus
+Security: -2.8
+Alliance: Corelum Syndicate
+Corp: Coreli Corporation
+Ship: Taranis
+Weapon: Light Neutron Blaster II
+
+

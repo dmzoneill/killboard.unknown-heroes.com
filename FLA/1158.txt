@@ -1,0 +1,183 @@
+2007.03.07 20:04
+
+Victim: Xarax Sparow
+Alliance: YouWhat
+Corp: SteelVipers
+Destroyed: Typhoon
+System: XZH-4X
+Security: 0.0
+
+Involved parties:
+
+Name: Kwegibo
+Security: 3.7
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Thorax
+Weapon: Hammerhead I
+
+Name: Pyrosquee
+Security: -1.1
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Raivin
+Security: 3.0
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Harbinger
+Weapon: Harbinger
+
+Name: Krun VanHalen
+Security: 1.2
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Claw
+Weapon: 250mm Light Artillery Cannon II
+
+Name: Nurge Genergy
+Security: 2.2
+Alliance: We Are Nice Guys
+Corp: Merch Industrial
+Ship: Arbitrator
+Weapon: Berserker I
+
+Name: Jesnen
+Security: -1.5
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Coercer
+Weapon: Coercer
+
+Name: Kiledan Darkmoon
+Security: 5.0
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Celestis
+Weapon: Celestis
+
+Name: VoYvod
+Security: -1.3
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Coercer
+Weapon: Medium Beam Laser I
+
+Name: Von Kleist
+Security: -2.6
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Incursus
+Weapon: Initiated Warp Jammer I
+
+Name: Larry Wong (laid the final blow)
+Security: 2.3
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Celestis
+Weapon: Warrior I
+
+Name: Asura Siddartha
+Security: 5.0
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Myrmidon
+Weapon: Regulated Ion Phase Cannon I
+
+Name: Quurst
+Security: 3.8
+Alliance: GoonSwarm
+Corp: Duragon Pioneer Group
+Ship: Harpy
+Weapon: Harpy
+
+Name: Len Jahad
+Security: 1.8
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Hurricane
+Weapon: 720mm Howitzer Artillery II
+
+Name: Stalax
+Security: 0.2
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Rifter
+Weapon: Rifter
+
+Name: Spanky Fizzlewop
+Security: 0.8
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Rupture
+Weapon: Heavy Missile Launcher I
+
+Name: Doan Eidos
+Security: 1.1
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Celestis
+Weapon: Celestis
+
+Name: Silistria
+Security: 0.6
+Alliance: GoonSwarm
+Corp: Black Omega Security
+Ship: Raptor
+Weapon: Raptor
+
+Name: Vio Geraci
+Security: 3.6
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Blackbird
+Weapon: ECM - Ion Field Projector I
+
+Name: Pyrosquee
+Security: -1.1
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Krun VanHalen
+Security: 1.2
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Claw
+Weapon: 250mm Light Artillery Cannon II
+
+Name: Kiledan Darkmoon
+Security: 5.0
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Celestis
+Weapon: Celestis
+
+Name: Von Kleist
+Security: -2.6
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Incursus
+Weapon: Initiated Warp Jammer I
+
+
+Destroyed items:
+
+Terror Assault Missile, Qty: 516
+Dual 180mm AutoCannon I
+Dual 180mm AutoCannon I
+Carbonized Lead M, Qty: 348
+'Malkuth' Heavy Assault Missile Launcher I
+'Malkuth' Heavy Assault Missile Launcher I
+Large Shield Extender I
+Fleeting Warp Scrambler I
+Sensor Booster I
+Large 'Accommodation' Vestment Reconstructer I
+1600mm Reinforced Rolled Tungsten Plates I
+Inferno Torpedo, Qty: 229 (Cargo)
+Juggernaut Torpedo, Qty: 264 (Cargo)
+Berserker I, Qty: 3 (Drone Bay)
+

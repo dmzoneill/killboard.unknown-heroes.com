@@ -1,0 +1,33 @@
+2006.09.30 05:58
+
+Victim: ThaSpot
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Destroyed: Capsule
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Altai Saker (laid the final blow)
+Security: -0.8
+Alliance: None
+Corp: Omniscient Order
+Ship: Armageddon
+Weapon: Mega Pulse Laser II
+
+Name: Riotoverkill
+Security: 1.6
+Alliance: None
+Corp: Omniscient Order
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+Name: Noobjuice
+Security: -1.0
+Alliance: None
+Corp: Omniscient Order
+Ship: Claw
+Weapon: J5b Phased Prototype Warp Inhibitor I
+
+

@@ -1,0 +1,66 @@
+2007.04.02 09:37
+
+Victim: Splinter5150
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Destroyed: Drake
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Rhayvn (laid the final blow)
+Security: 4.5
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Armageddon
+Weapon: Dual Heavy Pulse Laser II
+
+Name: Tomas Ysidro
+Security: 1.3
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Myrmidon
+Weapon: Ogre II
+
+Name: Spacebar
+Security: 2.1
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Hurricane
+Weapon: Hobgoblin I
+
+Name: NightHawk VenGarden
+Security: 0.2
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Crusader
+Weapon: Dual Light Beam Laser II
+
+Name: Dol Amroth
+Security: 0.2
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Irishwrath
+Security: 3.9
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Arazu
+Weapon: Valkyrie II
+
+
+Destroyed items:
+
+Thunderbolt Heavy Missile, Qty: 93
+'Arbalest' Heavy Missile Launcher
+Large Shield Booster II
+Invulnerability Field II
+Magnetic Scattering Amplifier II
+Damage Control II
+Widowmaker Heavy Missile, Qty: 981 (Cargo)
+Havoc Heavy Missile, Qty: 901 (Cargo)
+Scourge Heavy Missile, Qty: 3499 (Cargo)
+

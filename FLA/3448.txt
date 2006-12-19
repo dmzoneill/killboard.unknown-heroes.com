@@ -1,0 +1,19 @@
+2007.03.27 09:03
+
+Victim: Madame Kowalsky
+Alliance: None
+Corp: Science and Trade Institute
+Destroyed: Capsule
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Kateryne (laid the final blow)
+Security: 0.3
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Maelstrom
+Weapon: 1400mm Howitzer Artillery I
+
+

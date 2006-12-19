@@ -1,0 +1,86 @@
+2007.03.27 06:28
+
+Victim: White Thatch
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Destroyed: Myrmidon
+System: 3T7-M8
+Security: 0.0
+
+Involved parties:
+
+Name: Lorn Zolog (laid the final blow)
+Security: -0.8
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Harbinger
+Weapon: Heavy Pulse Laser II
+
+Name: Erikel
+Security: 4.7
+Alliance: Chorus of Dawn
+Corp: Cosmic Odyssey
+Ship: Megathron
+Weapon: Wasp I
+
+Name: Xordus
+Security: 1.7
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: mr ioso
+Security: 4.8
+Alliance: Chorus of Dawn
+Corp: Cosmic Odyssey
+Ship: Myrmidon
+Weapon: Ogre I
+
+Name: Galaxor
+Security: 5.1
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Harbinger
+Weapon: Harbinger
+
+Name: xargis
+Security: 5.0
+Alliance: YouWhat
+Corp: Pringles Inc.
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Mr MA
+Security: 3.5
+Alliance: Chorus of Dawn
+Corp: Cosmic Odyssey
+Ship: Myrmidon
+Weapon: Medium Nosferatu I
+
+Name: Vasili Z
+Security: 0.3
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Stiletto
+Weapon: Warp Disruptor I
+
+
+Destroyed items:
+
+200mm Railgun I
+200mm Railgun I
+Antimatter Charge M, Qty: 106
+Prototype Cloaking Device I
+F-b10 Nominal Capacitor Regenerator
+10MN Afterburner I
+Prototype I Sensor Booster
+Medium Armor Repairer II
+N-Type Kinetic Hardener I
+Microcell Nanite Thermic Hardener I
+Capacitor Power Relay I
+X-Large Shield Booster I (Cargo)
+Antimatter Charge M, Qty: 4619 (Cargo)
+Siege Missile Launcher I (Cargo)
+Vespa II, Qty: 2 (Drone Bay)
+

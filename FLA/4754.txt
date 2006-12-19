@@ -1,0 +1,32 @@
+2007.04.21 02:49
+
+Victim: Evil Bunnies
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Kestrel
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Thiet (laid the final blow)
+Security: 4.1
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Caracal
+Weapon: Thunderbolt Heavy Missile
+
+
+Destroyed items:
+
+Sabretooth Light Missile, Qty: 42
+TE-2100 Standard Missile Bay
+'Malkuth' Standard Missile Launcher I
+Cold-Gas I Arcjet Thrusters
+Stasis Webifier I
+Signal Amplifier I
+Kinetic Deflection Amplifier I (Cargo)
+F-S8 Relativistic Deflection Shield Induction (Cargo)
+Bloodclaw Light Missile, Qty: 600 (Cargo)
+Piranha Light Missile, Qty: 469 (Cargo)
+

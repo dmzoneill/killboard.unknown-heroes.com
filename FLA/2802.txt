@@ -1,0 +1,29 @@
+2007.03.09 19:38
+
+Victim: Spartan dax
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Destroyed: Blackbird
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Distun (laid the final blow)
+Security: 0.1
+Alliance: Guinea Pigs
+Corp: La Stere
+Ship: Typhoon
+Weapon: Paradise Cruise Missile
+
+
+Destroyed items:
+
+Thunderbolt Heavy Missile, Qty: 87
+'Malkuth' Heavy Missile Launcher I
+XR-3200 Heavy Missile Bay
+Large F-S9 Regolith Shield Induction
+ECM - Phase Inverter II
+Supplemental Scanning CPU I
+Compulsive Signal Distortion Amplifier I
+

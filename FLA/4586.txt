@@ -1,0 +1,57 @@
+2007.04.14 21:14
+
+Victim: TheZwo
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Destroyed: Raven
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Stradivarious (laid the final blow)
+Security: 3.7
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Nidhoggur
+Weapon: Firbolg
+
+Name: Warp Scrambling Battery / Elite Storm Enterprises
+
+Name: Max Teranous
+Security: -1.2
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Sabre
+Weapon: 200mm AutoCannon II
+
+
+Destroyed items:
+
+Juggernaut Torpedo
+Juggernaut Torpedo
+Juggernaut Torpedo
+Juggernaut Torpedo
+Juggernaut Torpedo
+Juggernaut Torpedo
+Juggernaut Torpedo
+Wrath Cruise Missile
+Wrath Cruise Missile
+Wrath Cruise Missile
+Wrath Cruise Missile
+Wrath Cruise Missile
+Wrath Cruise Missile
+Hunter F.O.F. Cruise Missile I, Qty: 11
+Cruise Missile Launcher I
+Siege Missile Launcher I
+Large Azeotropic Ward Salubrity I
+X-Large C5-L Emergency Shield Overload I
+'Anointed' I EM Ward Reinforcement
+Kinetic Deflection Amplifier I
+'Mendicant' Signal Booster I
+Warp Core Stabilizer I
+Warp Core Stabilizer I
+Inertia Stabilizers I
+Widowmaker Heavy Missile, Qty: 300 (Cargo)
+Hammerhead I, Qty: 4 (Drone Bay)
+

@@ -1,0 +1,66 @@
+2006.10.11 23:35
+
+Victim: FearMEiDEA
+Alliance: The Fonz Presidium
+Corp: YA SQUAD
+Destroyed: Sacrilege
+System: J1AU-9
+Security: 0.0
+
+Involved parties:
+
+Name: Wthor (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Nidhoggur
+Weapon: Dragonfly
+
+Name: Grissom
+Security: 3.1
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Chimera
+Weapon: Einherji
+
+Name: Sixty Ever4
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Maller
+Weapon: Heavy Pulse Laser I
+
+
+Destroyed items:
+
+E50 Prototype Energy Vampire
+Conflagration M
+Conflagration M
+10MN Afterburner II
+Fleeting Warp Scrambler I
+'Hypnos' Multispectral ECM I
+Medium Armor Repairer II
+Large Shield Booster I (Cargo)
+Eutectic I Capacitor Charge Array, Qty: 2 (Cargo)
+Mega Pulse Laser I, Qty: 2 (Cargo)
+Large Automated I Carapace Restoration (Cargo)
+Medium 'Regard' I Power Projector (Cargo)
+Dual 250mm Prototype I Gauss Gun (Cargo)
+Dual 250mm Railgun I (Cargo)
+Iridium Charge S, Qty: 100 (Cargo)
+Plutonium Charge L, Qty: 100 (Cargo)
+Tungsten Charge S, Qty: 100 (Cargo)
+Multifrequency M, Qty: 3 (Cargo)
+Multifrequency L, Qty: 3 (Cargo)
+Standard L, Qty: 3 (Cargo)
+'Skadi' Coolant System I (Cargo)
+Tracking Computer I (Cargo)
+Additional Thermal Barrier Emitter I (Cargo)
+Warp Core Stabilizer I (Cargo)
+Scorch M, Qty: 3 (Cargo)
+'Arbalest' Siege Missile Launcher, Qty: 4 (Cargo)
+Power Diagnostic System I (Cargo)
+Capacitor Power Relay I (Cargo)
+Capacitor Flux Coil I (Cargo)
+Warrior I, Qty: 2 (Drone Bay)
+

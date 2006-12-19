@@ -1,0 +1,39 @@
+2007.06.02 10:59
+
+Victim: rastapip
+Alliance: Triumvirate.
+Corp: D00M.
+Destroyed: Crow
+System: Tartoken
+Security: 0.1
+
+Involved parties:
+
+Name: RebelFighter (laid the final blow)
+Security: -2.0
+Alliance: Freelancer Alliance
+Corp: Criminal DNA
+Ship: Typhoon
+Weapon: Berserker I
+
+Name: Lil Ewok
+Security: -0.2
+Alliance: Freelancer Alliance
+Corp: Criminal DNA
+Ship: Brutix
+Weapon: Berserker I
+
+Name: Dire Guristas Invader / Guristas
+
+
+Destroyed items:
+
+Standard Missile Launcher II
+Standard Missile Launcher II
+Bloodclaw Precision Light Missile, Qty: 38
+Small Shield Extender II
+Warp Scrambler II
+Micro Auxiliary Power Core I
+Local Hull Conversion Overdrive Injector I
+Bloodclaw Precision Light Missile, Qty: 350 (Cargo)
+

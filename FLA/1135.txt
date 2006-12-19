@@ -1,0 +1,29 @@
+2007.03.05 22:41
+
+Victim: Shadojuan
+Alliance: None
+Corp: The Scope
+Destroyed: Thorax
+System: Z30S-A
+Security: 0.0
+
+Involved parties:
+
+Name: Tregaron (laid the final blow)
+Security: 1.8
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Cyclone
+Weapon: 220mm Vulcan AutoCannon I
+
+
+Destroyed items:
+
+Heavy Neutron Blaster I
+Plutonium Charge M, Qty: 40
+Iridium Charge M, Qty: 1672
+Large Shield Booster I
+Power Diagnostic System I
+Antimatter Charge M, Qty: 80 (Cargo)
+Plutonium Charge M, Qty: 40 (Cargo)
+

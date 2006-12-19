@@ -1,0 +1,45 @@
+2006.11.26 15:41
+
+Victim: Kitambi
+Alliance: Establishment
+Corp: The Establishment
+Destroyed: Condor
+System: YZ-LQL
+Security: 0.0
+
+Involved parties:
+
+Name: Elfaen Ethenwe (laid the final blow)
+Security: -1.9
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Rook
+Weapon: Thunderbolt Precision Heavy Missile
+
+Name: jacass8496
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: Wthor
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Narny
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Raven
+Weapon: Cruise Missile Launcher II
+
+
+Destroyed items:
+
+Cynosural Field Generator I
+J5b Phased Prototype Warp Inhibitor I
+

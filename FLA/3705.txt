@@ -1,0 +1,37 @@
+2007.03.30 02:28
+
+Victim: Hroller McKnutt
+Alliance: Freelancer Alliance
+Corp: ACCORD Industries
+Destroyed: Brutix
+System: F7C-H0
+Security: 0.0
+
+Involved parties:
+
+Name: Keflin Geard
+Security: 5.0
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Ishkur
+Weapon: Valkyrie II
+
+Name: mr ioso (laid the final blow)
+Security: 4.4
+Alliance: Chorus of Dawn
+Corp: Cosmic Odyssey
+Ship: Myrmidon
+Weapon: Wasp I
+
+
+Destroyed items:
+
+250mm Railgun I
+250mm Railgun I
+Antimatter Charge M, Qty: 29
+10MN Afterburner II
+Stasis Webifier I
+Damage Control II
+Medium Armor Repairer II
+Energized Adaptive Nano Membrane I
+

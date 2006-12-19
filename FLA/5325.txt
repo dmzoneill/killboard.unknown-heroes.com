@@ -1,0 +1,43 @@
+2007.04.25 01:15
+
+Victim: Draconian Arcane
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Destroyed: Rupture
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Robet Katrix
+Security: 2.2
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Scorpion
+Weapon: Vespa II
+
+Name: OutKast669 (laid the final blow)
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+
+Destroyed items:
+
+650mm Artillery Cannon I
+Depleted Uranium M, Qty: 25
+Flameburst Light Missile, Qty: 55
+Bloodclaw Light Missile, Qty: 52
+'Malkuth' Assault Missile Launcher I
+Warp Scrambler I
+Stasis Webifier I
+Stasis Webifier I
+Gyrostabilizer I
+Damage Control I
+Ballistic Control System I
+Depleted Uranium M, Qty: 880 (Cargo)
+Bloodclaw Light Missile, Qty: 165 (Cargo)
+Flameburst Light Missile, Qty: 118 (Cargo)
+

@@ -1,0 +1,26 @@
+2006.10.09 22:20
+
+Victim: Arti2006
+Alliance: None
+Corp: The Scope
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Kev Lar (laid the final blow)
+Security: 0.0
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Ares
+Weapon: Foxfire Rocket
+
+Name: jarson
+Security: -0.3
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Claw
+Weapon: Claw
+
+

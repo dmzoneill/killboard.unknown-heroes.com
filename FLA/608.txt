@@ -1,0 +1,77 @@
+2007.02.12 22:53
+
+Victim: Huitz Quiling
+Alliance: None
+Corp: HOMELESS PWNERS
+Destroyed: Crusader
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: jacass66 (laid the final blow)
+Security: 5.0
+Alliance: None
+Corp: BGG
+Ship: Drake
+Weapon: Scourge Precision Heavy Missile
+
+Name: bidman
+Security: 4.7
+Alliance: None
+Corp: BGG
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Kyoshisan
+Security: 0.7
+Alliance: None
+Corp: BGG
+Ship: Eris
+Weapon: Eris
+
+Name: Dark Carnage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Crow
+Weapon: Sabretooth Light Missile
+
+Name: Xantheris
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Taranis
+Weapon: Warp Disruptor I
+
+Name: WolfRavage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: Tnam
+Security: 1.8
+Alliance: None
+Corp: BGG
+Ship: Jaguar
+Weapon: Fleeting Warp Scrambler I
+
+Name: Kishan Tor
+Security: 1.7
+Alliance: None
+Corp: BGG
+Ship: Rook
+Weapon: Heavy Missile Launcher II
+
+
+Destroyed items:
+
+Dual Light Pulse Laser II
+Scorch S
+Fleeting Warp Scrambler I
+Small Armor Repairer II
+F-90 Positional Signal Amplifier
+Inertia Stabilizers I
+

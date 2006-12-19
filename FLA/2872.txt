@@ -1,0 +1,43 @@
+2007.03.13 17:35
+
+Victim: SoF Reaperman
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Destroyed: Blackbird
+System: G8AD-C
+Security: 0.0
+
+Involved parties:
+
+Name: Nkalv
+Security: -2.8
+Alliance: Chorus of Dawn
+Corp: Free Lapland
+Ship: Sabre
+Weapon: Sabre
+
+Name: wph0r (laid the final blow)
+Security: 4.4
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Buzzard
+Weapon: Sabretooth Light Missile
+
+Name: Apoc77
+Security: 5.0
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Buzzard
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+Cap Recharger I
+ECM - Multispectral Jammer I
+Signal Distortion Amplifier I
+Bloodclaw Light Missile, Qty: 1014 (Cargo)
+Thunderbolt Heavy Missile, Qty: 1097 (Cargo)
+Widowmaker Heavy Missile, Qty: 1200 (Cargo)
+Hellhound F.O.F. Heavy Missile I, Qty: 200 (Cargo)
+

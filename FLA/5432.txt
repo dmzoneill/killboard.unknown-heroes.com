@@ -1,0 +1,26 @@
+2006.10.02 19:23
+
+Victim: Narusegawa Naru
+Alliance: None
+Corp: Spectrum Solutions INC
+Destroyed: Capsule
+System: EWOK-K
+Security: 0.0
+
+Involved parties:
+
+Name: Jumar Coldgin (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+Name: keilapuukko
+Security: 2.9
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Eagle
+Weapon: Heavy Neutron Blaster II
+
+

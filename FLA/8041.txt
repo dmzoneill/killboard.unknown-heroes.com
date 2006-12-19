@@ -1,0 +1,54 @@
+2006.10.06 22:52
+
+Victim: Atlantan
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Destroyed: Megathron
+System: Kaaputenen
+Security: 0.8
+
+Involved parties:
+
+Name: birty
+Security: -0.5
+Alliance: None
+Corp: Privateers
+Ship: Thorax
+Weapon: Hammerhead I
+
+Name: Sorted
+Security: -1.4
+Alliance: None
+Corp: Privateers
+Ship: Scorpion
+Weapon: Hammerhead II
+
+Name: 1337pwner
+Security: -1.3
+Alliance: None
+Corp: Privateers
+Ship: Brutix
+Weapon: Hammerhead I
+
+Name: Harmon Illuminati (laid the final blow)
+Security: 0.0
+Alliance: None
+Corp: Privateers
+Ship: Caracal
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+Lead Charge L, Qty: 26
+Iron Charge L, Qty: 33
+Paradise Cruise Missile, Qty: 10
+Eutectic I Capacitor Charge Array
+Large I-a Polarized Armor Regenerator
+Magnetic Field Stabilizer I
+Antimatter Charge L, Qty: 438 (Cargo)
+Iron Charge L, Qty: 504 (Cargo)
+Paradise Cruise Missile, Qty: 16 (Cargo)
+Cataclysm Cruise Missile, Qty: 40 (Cargo)
+Berserker I, Qty: 3 (Drone Bay)
+

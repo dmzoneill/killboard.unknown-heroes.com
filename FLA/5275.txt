@@ -1,0 +1,61 @@
+2007.04.23 17:07
+
+Victim: Iguanoid
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Griffin
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Screamer (laid the final blow)
+Security: 0.8
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Chimera
+Weapon: Dragonfly
+
+Name: sgtdark
+Security: 5.0
+Alliance: Storm Armada
+Corp: stone grave haulage
+Ship: Taranis
+Weapon: 75mm Gatling Rail II
+
+Name: nyricia
+Security: 1.5
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Erik Morkai
+Security: -1.3
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Malediction
+Weapon: Gatling Pulse Laser II
+
+Name: Hojou
+Security: 0.3
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Incursus
+Weapon: X5 Prototype I Engine Enervator
+
+Name: Georgenator
+Security: -0.4
+Alliance: Lotka Volterra
+Corp: CRICE Corporation
+Ship: Kestrel
+Weapon: Standard Missile Launcher I
+
+Name: Fitz Farseer
+Security: 0.5
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Rupture
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+

@@ -1,0 +1,116 @@
+2007.01.29 23:28
+
+Victim: Camaxtli
+Alliance: None
+Corp: MEDIAPRO HOLDING
+Destroyed: Harpy
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Hedeon Mishenka
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Coercer
+Weapon: Coercer
+
+Name: xinndo jagged (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Drake
+Weapon: Havoc Heavy Missile
+
+Name: Xantheris
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: Aspi Rene
+Security: 2.4
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Megathron
+Weapon: 425mm 'Scout' I Accelerator Cannon
+
+Name: WolfRavage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Hyperion
+Weapon: 425mm Railgun I
+
+Name: Feke
+Security: 4.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Moa
+Weapon: Target Painter I
+
+Name: Thafesko
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Cormorant
+Weapon: Cormorant
+
+Name: Shassandra
+Security: 4.5
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Taranis
+Weapon: Taranis
+
+Name: arthell
+Security: 2.8
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Celestis
+Weapon: Indirect Scanning Dampening Unit I
+
+Name: Wicked Pissah
+Security: 0.1
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Blackbird
+Weapon: Advanced 'Limos' Heavy Missile Bay I
+
+Name: Teck7
+Security: 0.8
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ishtar
+Weapon: Ishtar
+
+Name: Illesa
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Wolf
+Weapon: Wolf
+
+Name: Dark Carnage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Drake
+Weapon: Compact 'Limos' Assault Missile Bay I
+
+
+Destroyed items:
+
+150mm Railgun II
+150mm Railgun II
+Spike S, Qty: 74
+Medium Shield Extender II
+Small Shield Booster II
+Invulnerability Field II
+Partial Weapon Navigation
+Iridium Charge S, Qty: 1551 (Cargo)
+Antimatter Charge S, Qty: 4003 (Cargo)
+Spike S, Qty: 2264 (Cargo)
+

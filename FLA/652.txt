@@ -1,0 +1,32 @@
+2007.02.14 15:54
+
+Victim: Joglot
+Alliance: None
+Corp: Igneus Auctorita
+Destroyed: Harbinger
+System: Aunenen
+Security: 0.4
+
+Involved parties:
+
+Name: Sanal Gi (laid the final blow)
+Security: 0.7
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ferox
+Weapon: Widowmaker Heavy Missile
+
+Name: Guristas Murderer / Guristas
+
+
+Destroyed items:
+
+Heavy Afocal Maser I
+Heavy Afocal Maser I
+Medium Nosferatu I
+Standard M
+Standard M
+Monopulse Tracking Mechanism I
+Overdrive Injector System I
+Capacitor Power Relay I
+

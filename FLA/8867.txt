@@ -1,0 +1,40 @@
+2006.12.12 22:10
+
+Victim: Don Marcus
+Alliance: Freelancer Alliance
+Corp: Sin-X Inc.
+Destroyed: Capsule
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Krugerrand
+Security: -0.2
+Alliance: None
+Corp: 0utbreak
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: James Damar (laid the final blow)
+Security: 1.8
+Alliance: None
+Corp: 0utbreak
+Ship: Rokh
+Weapon: 350mm Railgun II
+
+Name: kbullet
+Security: -2.3
+Alliance: None
+Corp: 0utbreak
+Ship: Malediction
+Weapon: Faint Epsilon Warp Prohibitor I
+
+Name: magic don
+Security: 0.1
+Alliance: None
+Corp: 0utbreak
+Ship: Claw
+Weapon: Faint Warp Prohibitor I
+
+

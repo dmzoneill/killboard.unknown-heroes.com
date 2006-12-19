@@ -1,0 +1,33 @@
+2007.03.03 00:00
+
+Victim: Calda Ach
+Alliance: Xelas Alliance
+Corp: 7th Space Cavalry
+Destroyed: Caldari Shuttle
+System: PNQY-Y
+Security: 0.0
+
+Involved parties:
+
+Name: DeathGrip
+Security: 2.3
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Archon
+Weapon: Archon
+
+Name: Ashlore (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Raptor
+Weapon: Thorn Rage Rocket
+
+Name: NesheresH
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Reaper
+Weapon: Civilian Gatling Autocannon
+
+

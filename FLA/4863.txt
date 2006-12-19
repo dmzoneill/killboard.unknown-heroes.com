@@ -1,0 +1,48 @@
+2007.04.18 00:13
+
+Victim: Teck7
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Ares
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Karmi
+Security: 1.6
+Alliance: Storm Armada
+Corp: stone grave haulage
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: sgtdark (laid the final blow)
+Security: 5.0
+Alliance: Storm Armada
+Corp: stone grave haulage
+Ship: Taranis
+Weapon: 75mm Gatling Rail II
+
+Name: ZeroGrav
+Security: 3.1
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Flycatcher
+Weapon: Bloodclaw Precision Light Missile
+
+Name: Terdlinger
+Security: 4.8
+Alliance: Storm Armada
+Corp: stone grave haulage
+Ship: Manticore
+Weapon: 'Arbalest' Cruise Launcher I
+
+
+Destroyed items:
+
+'Limos' Rocket Launcher I
+Initiated Warp Jammer I
+Overdrive Injector System I
+Type-D Power Core Modification: Capacitor Power Relay
+Null S, Qty: 224 (Cargo)
+

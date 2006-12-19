@@ -1,0 +1,19 @@
+2006.10.26 10:06
+
+Victim: Taragocia
+Alliance: None
+Corp: The White Star Consortium
+Destroyed: Ibis
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Formosus Funus (laid the final blow)
+Security: 3.1
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Wolf
+Weapon: 150mm Light AutoCannon II
+
+

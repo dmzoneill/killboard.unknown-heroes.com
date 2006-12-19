@@ -1,0 +1,26 @@
+2007.03.18 17:06
+
+Victim: Natalie Cunningham
+Alliance: None
+Corp: Doomcraft
+Destroyed: Caldari Shuttle
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Gargh Ahhwell (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: Muad al'Haqim
+Security: -0.1
+Alliance: O X I D E
+Corp: W33D Corp.
+Ship: Malediction
+Weapon: J5 Prototype Warp Inhibitor I
+
+

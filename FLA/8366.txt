@@ -1,0 +1,83 @@
+2006.11.12 21:34
+
+Victim: Angel Vengen
+Alliance: Freelancer Alliance
+Corp: Caldar Mercenary Syndicate
+Destroyed: Armageddon
+System: P-2TTL
+Security: 0.0
+
+Involved parties:
+
+Name: Raith Dresden (laid the final blow)
+Security: 2.0
+Alliance: Interstellar Starbase Syndicate
+Corp: terra firma team
+Ship: Raven
+Weapon: Mjolnir Javelin Torpedo
+
+Name: Roaden
+Security: 5.0
+Alliance: Interstellar Starbase Syndicate
+Corp: terra firma team
+Ship: Tempest
+Weapon: Tempest
+
+Name: Spoony Brook
+Security: 3.2
+Alliance: Interstellar Starbase Syndicate
+Corp: terra firma team
+Ship: Brutix
+Weapon: Brutix
+
+Name: PsychoUK
+Security: 1.9
+Alliance: Interstellar Starbase Syndicate
+Corp: angels of darkness LTD
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: AnarchistUK
+Security: 5.0
+Alliance: None
+Corp: A New Inspiration
+Ship: Harpy
+Weapon: 150mm 'Scout' I Accelerator Cannon
+
+Name: nye 2k
+Security: 5.0
+Alliance: Interstellar Starbase Syndicate
+Corp: terra firma team
+Ship: Capsule
+Weapon: Standard Missile Launcher I
+
+Name: Dan1898
+Security: -4.8
+Alliance: None
+Corp: Dynamic Lunar Production Syndicate
+Ship: Griffin
+Weapon: 125mm 'Scout' I Accelerator Cannon
+
+
+Destroyed items:
+
+Mega Modulated Pulse Energy Beam I
+Mega Modulated Pulse Energy Beam I
+Mega Modulated Pulse Energy Beam I
+Multifrequency L
+Multifrequency L
+Multifrequency L
+100MN Afterburner II
+X5 Prototype I Engine Enervator
+Heavy Electrochemical Capacitor Booster I
+Cap Booster 800
+Cap Booster 800
+Cap Booster 800
+Cap Booster 800
+Large Armor Repairer II
+Heat Sink II
+Energized Adaptive Nano Membrane II
+Energized Thermic Membrane II
+1600mm Reinforced Rolled Tungsten Plates I
+Cap Booster 800, Qty: 11 (Cargo)
+

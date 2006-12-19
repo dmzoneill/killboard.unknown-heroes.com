@@ -1,0 +1,81 @@
+2007.02.06 05:42
+
+Victim: Simon Monkoto
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Raven
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: EL TITAN (laid the final blow)
+Security: 1.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Vagabond
+Weapon: Hobgoblin II
+
+Name: Sexual Chocolate
+Security: 2.5
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Muninn
+Weapon: Muninn
+
+Name: Bloodclaw Light Missile / Guristas
+
+Name: Dark1
+Security: 3.3
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Capsule
+Weapon: 720mm Howitzer Artillery II
+
+Name: sageO
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+Name: CLEISTHENES2
+Security: -0.9
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Claw
+Weapon: 'Arbalest' Rocket Launcher I
+
+Name: Issabella
+Security: 2.6
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Drake
+Weapon: 'Arbalest' Heavy Missile Launcher
+
+Name: Johnny cruz
+Security: 2.8
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Taranis
+Weapon: J5 Prototype Warp Inhibitor I
+
+
+Destroyed items:
+
+Juggernaut Torpedo, Qty: 52
+ZW-4100 Siege Missile Bay
+ZW-4100 Siege Missile Bay
+ZW-4100 Siege Missile Bay
+X-Large C5-L Emergency Shield Overload I
+Heavy Capacitor Booster I
+Cap Booster 800
+Cap Booster 800
+Cap Booster 800
+Cap Booster 800
+Shield Boost Amplifier I
+Ballistic Control System I
+Local Power Plant Manager: Diagnostic System I
+Beta Reactor Control: Diagnostic System I
+Hammerhead I, Qty: 3 (Drone Bay)
+

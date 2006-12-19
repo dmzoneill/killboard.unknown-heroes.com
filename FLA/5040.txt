@@ -1,0 +1,37 @@
+2007.04.21 04:09
+
+Victim: Aridante Lemure
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Destroyed: Celestis
+System: 2R-CRW
+Security: 0.0
+
+Involved parties:
+
+Name: Crovan (laid the final blow)
+Security: 2.8
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Ishtar
+Weapon: Berserker II
+
+Name: Soldur
+Security: 5.0
+Alliance: Exuro Mortis
+Corp: Slacker Industries
+Ship: Astarte
+Weapon: Heavy Neutron Blaster II
+
+
+Destroyed items:
+
+425mm AutoCannon I
+250mm 'Scout' I Accelerator Cannon
+Sabretooth Light Missile, Qty: 68
+Kapteyn Sensor Array Inhibitor I
+Kapteyn Sensor Array Inhibitor I
+Energized Adaptive Nano Membrane I
+Carbonized Lead M, Qty: 196 (Cargo)
+Sabretooth Light Missile, Qty: 196 (Cargo)
+

@@ -1,0 +1,53 @@
+2007.03.03 21:00
+
+Victim: Mizerik
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Destroyed: Manticore
+System: Torrinos
+Security: 0.5
+
+Involved parties:
+
+Name: Puffer (laid the final blow)
+Security: -1.9
+Alliance: None
+Corp: coracao ardente
+Ship: Huginn
+Weapon: Thunderbolt Heavy Missile
+
+Name: Kai page
+Security: -1.0
+Alliance: None
+Corp: coracao ardente
+Ship: Enyo
+Weapon: Warrior II
+
+Name: MassonA
+Security: -0.2
+Alliance: None
+Corp: coracao ardente
+Ship: Claw
+Weapon: 'Malkuth' Rocket Launcher I
+
+Name: Jimmycs83
+Security: -1.8
+Alliance: None
+Corp: coracao ardente
+Ship: Myrmidon
+Weapon: Myrmidon
+
+
+Destroyed items:
+
+Prototype Cloaking Device I
+Wrath Cruise Missile, Qty: 19
+Cataclysm Cruise Missile, Qty: 21
+Paradise Cruise Missile, Qty: 21
+'Arbalest' Cruise Launcher I
+'Arbalest' Cruise Launcher I
+J5 Prototype Warp Inhibitor I
+'Langour' Drive Disruptor I
+Co-Processor I
+Devastator Cruise Missile, Qty: 100 (Cargo)
+

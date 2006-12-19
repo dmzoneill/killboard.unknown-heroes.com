@@ -1,0 +1,35 @@
+2006.09.27 21:30
+
+Victim: Zander Voraus
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Destroyed: Armageddon
+System: Alsavoinon
+Security: 0.3
+
+Involved parties:
+
+Name: Dave Tehsulei (laid the final blow)
+Security: 0.9
+Alliance: None
+Corp: 0utbreak
+Ship: Vindicator
+Weapon: Ion Blaster Cannon II
+
+
+Destroyed items:
+
+Dual Heavy Pulse Laser I
+Dual Heavy Pulse Laser I
+Dual Heavy Pulse Laser I
+Multifrequency L
+100MN MicroWarpdrive I
+Damage Control I
+Energized Adaptive Nano Membrane I
+Small Nosferatu I (Cargo)
+Heat Sink I (Cargo)
+Sensor Booster I (Cargo)
+Conflagration S, Qty: 2 (Cargo)
+Capacitor Power Relay I, Qty: 2 (Cargo)
+Vespa I, Qty: 9 (Drone Bay)
+

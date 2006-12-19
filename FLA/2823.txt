@@ -1,0 +1,76 @@
+2007.03.10 20:12
+
+Victim: TsukiWolf
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Incursus
+System: O-CNPR
+Security: 0.0
+
+Involved parties:
+
+Name: Donis
+Security: -1.4
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Zealot
+Weapon: Zealot
+
+Name: Kaulu (laid the final blow)
+Security: 3.1
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Caracal
+Weapon: Bloodclaw Light Missile
+
+Name: Lady64bits
+Security: 5.0
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Incursus
+Weapon: 75mm Gatling Rail II
+
+Name: Utlaen
+Security: 5.0
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Flycatcher
+Weapon: Upgraded 'Limos' Standard Missile Bay I
+
+Name: Topasio
+Security: 2.3
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Stabber
+Weapon: Assault Missile Launcher I
+
+Name: SaNoSuKeJavi
+Security: -1.9
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Thorax
+Weapon: Thorax
+
+Name: Marla Durden
+Security: 0.0
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Claw
+Weapon: Faint Warp Prohibitor I
+
+Name: Ashurian
+Security: 2.6
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Arbitrator
+Weapon: Standard Missile Launcher I
+
+
+Destroyed items:
+
+Small Nosferatu I
+1MN MicroWarpdrive I
+Warp Scrambler I
+Nanofiber Internal Structure I
+Nanofiber Internal Structure I
+

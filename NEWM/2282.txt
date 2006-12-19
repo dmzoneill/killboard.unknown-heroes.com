@@ -1,0 +1,34 @@
+2007.02.04 19:19
+
+Victim: Epro
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Vigil
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Maule (laid the final blow)
+Security: 4.7
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Claw
+Weapon: 150mm Light AutoCannon II
+
+Name: Seldarine
+Security: 0.1
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Vagabond
+Weapon: Warrior II
+
+
+Destroyed items:
+
+Prototype Cloaking Device I
+1MN Afterburner I
+Warp Disruptor I
+Stasis Webifier I
+Nanofiber Internal Structure I
+

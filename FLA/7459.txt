@@ -1,0 +1,37 @@
+2006.09.07 01:00
+
+Victim: Resources
+Alliance: None
+Corp: Independent Frontiers
+Destroyed: Slasher
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Weeble Wooble (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Megathron
+Weapon: 350mm Railgun II
+
+Name: TasKu
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Thorax
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: MiA Greasy
+Security: -1.0
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Crusader
+Weapon: Faint Epsilon Warp Prohibitor I
+
+
+Destroyed items:
+
+1MN MicroWarpdrive I
+

@@ -1,0 +1,22 @@
+2007.04.20 22:22
+
+Victim: Kee Ris
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Destroyed: Impairor
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Savak (laid the final blow)
+Security: -0.2
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Apocalypse
+Weapon: Hammerhead I
+
+
+Destroyed items:
+
+Tritanium (Cargo)

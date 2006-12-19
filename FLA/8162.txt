@@ -1,0 +1,19 @@
+2006.10.23 20:15
+
+Victim: Damfoose
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Capsule
+System: MI6O-6
+Security: 0.0
+
+Involved parties:
+
+Name: ANDOON II (laid the final blow)
+Security: 5.1
+Alliance: R.I.S.K
+Corp: Russian Specnaz
+Ship: Raven
+Weapon: Cataclysm Cruise Missile
+
+

@@ -1,0 +1,42 @@
+2007.03.09 20:55
+
+Victim: korialstrasz66
+Alliance: None
+Corp: KHAOS-BLADE
+Destroyed: Incursus
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Weeble Wooble (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: other mickey
+Security: 2.9
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Ares
+Weapon: TE-2100 Standard Missile Bay
+
+Name: Illesa
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Caracal
+Weapon: Heavy Missile Launcher I
+
+
+Destroyed items:
+
+150mm 'Scout' I Accelerator Cannon
+150mm 'Scout' I Accelerator Cannon
+'Langour' Drive Disruptor I
+Sensor Booster I
+Beta Reactor Control: Capacitor Power Relay I
+Metal Scraps (Cargo)
+

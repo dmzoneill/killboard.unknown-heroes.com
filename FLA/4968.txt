@@ -1,0 +1,33 @@
+2007.04.20 23:13
+
+Victim: Bobby Atlas
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Megathron
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Minmatar Control Tower Medium / Eternity INC. (laid the final blow)
+
+
+Destroyed items:
+
+425mm Carbide Railgun I
+425mm Carbide Railgun I
+Plutonium Charge L, Qty: 160
+Barton Reactor Capacitor Recharger I
+Medium Brief Capacitor Overcharge I
+Cap Booster 800
+Damage Control I
+Large Automated I Carapace Restoration
+Energized Adaptive Nano Membrane II
+Energized Adaptive Nano Membrane I
+Armor Thermic Hardener I
+Antimatter Charge L, Qty: 1448 (Cargo)
+Paradise Cruise Missile, Qty: 246 (Cargo)
+Warrior I, Qty: 5 (Drone Bay)
+Valkyrie I, Qty: 5 (Drone Bay)
+Berserker I, Qty: 2 (Drone Bay)
+

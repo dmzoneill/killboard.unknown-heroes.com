@@ -1,0 +1,38 @@
+2007.03.22 22:09
+
+Victim: more 9888
+Alliance: None
+Corp: Republic Military School
+Destroyed: Reaper
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Jarath Abyss (laid the final blow)
+Security: 4.2
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Ship: Enyo
+Weapon: 125mm Railgun II
+
+Name: Caterpillar
+Security: 5.1
+Alliance: CORE.
+Corp: AUS Corporation
+Ship: Jaguar
+Weapon: 280mm Howitzer Artillery II
+
+Name: Pharago
+Security: -1.7
+Alliance: CORE.
+Corp: Red 42
+Ship: Caracal
+Weapon: Heavy Missile Launcher I
+
+
+Destroyed items:
+
+Civilian Gatling Autocannon
+Tritanium (Cargo)
+

@@ -1,0 +1,40 @@
+2006.09.02 16:23
+
+Victim: Vahearun
+Alliance: Freelancer Alliance
+Corp: Veturi
+Destroyed: Capsule
+System: R-2R0G
+Security: 0.0
+
+Involved parties:
+
+Name: jamesw (laid the final blow)
+Security: 1.7
+Alliance: None
+Corp: Omniscient Order
+Ship: Dominix
+Weapon: Electron Blaster Cannon II
+
+Name: Crusari
+Security: 5.0
+Alliance: None
+Corp: Omniscient Order
+Ship: Ishtar
+Weapon: Fleeting Warp Scrambler I
+
+Name: Cpt Pugwash
+Security: -1.9
+Alliance: None
+Corp: Omniscient Order
+Ship: Jaguar
+Weapon: X5 Prototype I Engine Enervator
+
+Name: Altai Saker
+Security: -0.9
+Alliance: None
+Corp: Omniscient Order
+Ship: Taranis
+Weapon: X5 Prototype I Engine Enervator
+
+

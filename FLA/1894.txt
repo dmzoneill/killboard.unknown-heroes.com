@@ -1,0 +1,19 @@
+2007.01.08 07:01
+
+Victim: Howard199
+Alliance: Freelancer Alliance
+Corp: Feel Good Inc.
+Destroyed: Ibis
+System: Torrinos
+Security: 0.5
+
+Involved parties:
+
+Name: Fjerkenstad (laid the final blow)
+Security: -1.9
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Enyo
+Weapon: Light Neutron Blaster II
+
+

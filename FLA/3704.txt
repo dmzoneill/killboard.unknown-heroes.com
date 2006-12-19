@@ -1,0 +1,19 @@
+2007.03.29 23:51
+
+Victim: Fibua
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Capsule
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Pheole (laid the final blow)
+Security: 1.1
+Alliance: None
+Corp: Eterne
+Ship: Stiletto
+Weapon: Gremlin Rocket
+
+

@@ -1,0 +1,37 @@
+2007.05.15 20:11
+
+Victim: Tsubakii
+Alliance: Pax Familia
+Corp: EnTech
+Destroyed: Ibis
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: marakudi
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Ocara Nezus (laid the final blow)
+Security: 1.5
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Crow
+Weapon: Bloodclaw Precision Light Missile
+
+Name: wardey
+Security: 0.6
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Punisher
+Weapon: Punisher
+
+
+Destroyed items:
+
+Tritanium (Cargo)
+

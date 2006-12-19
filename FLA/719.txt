@@ -1,0 +1,27 @@
+2007.02.18 05:12
+
+Victim: Pallain
+Alliance: None
+Corp: O.E.C
+Destroyed: Executioner
+System: YVBE-E
+Security: 0.0
+
+Involved parties:
+
+Name: Jack Greyson (laid the final blow)
+Security: 4.8
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Flycatcher
+Weapon: Flameburst Light Missile
+
+
+Destroyed items:
+
+Medium Pulse Laser I
+Microwave S
+Civilian Shield Booster I
+Acolyte I, Qty: 3 (Cargo)
+Acolyte II, Qty: 3 (Cargo)
+

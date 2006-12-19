@@ -1,0 +1,40 @@
+2006.12.09 05:52
+
+Victim: Laughing Stock
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Destroyed: Kestrel
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Razor Jaxx
+Security: 0.1
+Alliance: None
+Corp: Fate.
+Ship: Typhoon
+Weapon: Devastator Cruise Missile
+
+Name: Phonix (laid the final blow)
+Security: -0.2
+Alliance: None
+Corp: Fate.
+Ship: Typhoon
+Weapon: Paradise Cruise Missile
+
+Name: DeasGuCath
+Security: 2.4
+Alliance: None
+Corp: Fate.
+Ship: Malediction
+Weapon: Dual Light Pulse Laser II
+
+
+Destroyed items:
+
+Thorn Rocket, Qty: 26
+Small Shield Booster I
+1MN Afterburner I
+Thorn Rocket, Qty: 3629 (Cargo)
+

@@ -1,0 +1,51 @@
+2007.01.24 23:08
+
+Victim: Tiberius Drake
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Destroyed: Thorax
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Valora
+Security: 2.3
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Pramas (laid the final blow)
+Security: 4.4
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Sleipnir
+Weapon: 720mm Howitzer Artillery II
+
+Name: Blooded Heromy
+Security: -0.2
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Vagabond
+Weapon: Hobgoblin II
+
+Name: Miss Dominatrix
+Security: 2.1
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Crow
+Weapon: J5 Prototype Warp Inhibitor I
+
+
+Destroyed items:
+
+Dual 150mm Railgun I
+Dual 150mm Railgun I
+Antimatter Charge M, Qty: 441
+10MN MicroWarpdrive I
+Energized Adaptive Nano Membrane I
+Iridium Charge M, Qty: 171 (Cargo)
+Lead Charge M, Qty: 901 (Cargo)
+Antimatter Charge M, Qty: 165 (Cargo)
+

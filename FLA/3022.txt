@@ -1,0 +1,48 @@
+2007.03.22 10:33
+
+Victim: Amlina
+Alliance: None
+Corp: GYR corp
+Destroyed: Punisher
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: sir spacemonkey
+Security: -5.8
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Drake
+Weapon: Advanced 'Limos' Heavy Missile Bay I
+
+Name: Corovus (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Nemesis
+Weapon: Cataclysm Cruise Missile
+
+Name: DarkAvenger DK
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Punisher
+Weapon: Small 'Ghoul' Energy Siphon I
+
+Name: Solomon XI
+Security: -0.8
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Drake
+Weapon: Heavy Missile Launcher I
+
+
+Destroyed items:
+
+Civilian Gatling Pulse Laser
+Civilian Gatling Pulse Laser
+1MN Afterburner I
+Local Power Plant Manager: Diagnostic System I
+Local Power Plant Manager: Diagnostic System I
+

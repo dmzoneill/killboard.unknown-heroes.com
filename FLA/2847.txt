@@ -1,0 +1,74 @@
+2007.03.11 15:03
+
+Victim: Muad' Dib
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Destroyed: Stiletto
+System: O-CNPR
+Security: 0.0
+
+Involved parties:
+
+Name: simcor (laid the final blow)
+Security: 0.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Nighthawk
+Weapon: Thunderbolt Fury Heavy Missile
+
+Name: xVx Skillgannon
+Security: 0.8
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: starius3
+Security: -0.3
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Ares
+Weapon: Ares
+
+Name: Jenessa
+Security: 1.2
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Huginn
+Weapon: 720mm Howitzer Artillery II
+
+Name: Noh Chek'na
+Security: 5.0
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Myrmidon
+Weapon: 150mm Prototype I Gauss Gun
+
+Name: Zap Zaberdine
+Security: 3.1
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Flycatcher
+Weapon: Kapteyn Sensor Array Inhibitor I
+
+Name: Liquid General
+Security: 3.3
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Zealot
+Weapon: Zealot
+
+
+Destroyed items:
+
+250mm Light Artillery Cannon II
+Nuclear S, Qty: 28
+Bloodclaw Light Missile, Qty: 46
+TE-2100 Standard Missile Bay
+Eutectic I Capacitor Charge Array
+Balmer Series Targeting Inhibitor I
+Inertia Stabilizers I
+Local Hull Conversion Overdrive Injector I
+Nuclear S, Qty: 407 (Cargo)
+Bloodclaw Light Missile, Qty: 274 (Cargo)
+

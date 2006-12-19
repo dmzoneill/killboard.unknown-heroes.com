@@ -1,0 +1,125 @@
+2007.03.04 04:41
+
+Victim: Zanadar84
+Alliance: FATAL Alliance
+Corp: FATAL REVELATIONS
+Destroyed: Hurricane
+System: RE-C26
+Security: 0.0
+
+Involved parties:
+
+Name: Caarnji
+Security: -1.9
+Alliance: Dusk and Dawn
+Corp: ECP Rogues
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: UP LATE
+Security: 4.7
+Alliance: Dusk and Dawn
+Corp: Omega Enterprises
+Ship: Eagle
+Weapon: Eagle
+
+Name: Thea Arsoniztik
+Security: 0.6
+Alliance: Dusk and Dawn
+Corp: Omega Enterprises
+Ship: Raven
+Weapon: Wrath Cruise Missile
+
+Name: Demolition Gunit (laid the final blow)
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: Lacedaemon.
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Joe Blow
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Omega Enterprises
+Ship: Damnation
+Weapon: Damnation
+
+Name: Desas
+Security: 4.0
+Alliance: Sparta Alliance
+Corp: Black Knight Buccaneers
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: probablecause
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Infinite Improbability Inc
+Ship: Enyo
+Weapon: Enyo
+
+Name: jondow
+Security: 4.0
+Alliance: Sparta Alliance
+Corp: Lynx Frontier Inc.
+Ship: Kestrel
+Weapon: Flameburst Light Missile
+
+Name: Nukuquqa Hestase
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Catalyst
+Weapon: Catalyst
+
+Name: KateLice
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: Lynx Frontier Inc.
+Ship: Rapier
+Weapon: Rapier
+
+Name: GS Armada
+Security: 3.4
+Alliance: Dusk and Dawn
+Corp: ECP Rogues
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Dark Carnage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Crow
+Weapon: Sabretooth Light Missile
+
+Name: Teck7
+Security: 1.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ares
+Weapon: Ares
+
+Name: Renax
+Security: 2.9
+Alliance: Dusk and Dawn
+Corp: Omega Enterprises
+Ship: Sabre
+Weapon: Sabre
+
+Name: Xantheris
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Enyo
+Weapon: Enyo
+
+
+Destroyed items:
+
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+10MN MicroWarpdrive I
+Adaptive Nano Plating I
+Adaptive Nano Plating I
+

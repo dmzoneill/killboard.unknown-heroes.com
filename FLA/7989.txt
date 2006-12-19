@@ -1,0 +1,19 @@
+2006.10.05 16:00
+
+Victim: Beronice Vassik
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Destroyed: Capsule
+System: Halaima
+Security: 0.7
+
+Involved parties:
+
+Name: SLAPNUTZ (laid the final blow)
+Security: -1.8
+Alliance: None
+Corp: Privateers
+Ship: Typhoon
+Weapon: Ogre I
+
+

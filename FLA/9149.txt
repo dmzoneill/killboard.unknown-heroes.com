@@ -1,0 +1,55 @@
+2007.05.01 03:17
+
+Victim: eXtremeHell
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Anathema
+System: F7C-H0
+Security: 0.0
+
+Involved parties:
+
+Name: Draconian Arcane (laid the final blow)
+Security: -2.5
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Cyclone
+Weapon: Hammerhead I
+
+Name: Calvin Andros
+Security: 1.9
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Brutix
+Weapon: Brutix
+
+Name: Dielon
+Security: 4.7
+Alliance: Dusk and Dawn
+Corp: ClanKillers
+Ship: Stabber
+Weapon: Stabber
+
+Name: The Cade
+Security: 1.6
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Brutix
+Weapon: Brutix
+
+
+Destroyed items:
+
+Improved Cloaking Device II
+1MN Afterburner I
+100MN Afterburner II (Cargo)
+Internal Force Field Array I (Cargo)
+True Sansha Stasis Webifier (Cargo)
+Heavy Diminishing Power System Drain I, Qty: 2 (Cargo)
+E500 Prototype Energy Vampire (Cargo)
+'Skadi' Coolant System I (Cargo)
+Warp Core Stabilizer I (Cargo)
+Modulated Deep Core Miner II, Qty: 12 (Cargo)
+Modulated Deep Core Strip Miner II, Qty: 2 (Cargo)
+Small Tractor Beam I (Cargo)
+

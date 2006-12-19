@@ -1,0 +1,93 @@
+2007.02.27 22:52
+
+Victim: Jorax
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Vexor
+System: YZ-LQL
+Security: 0.0
+
+Involved parties:
+
+Name: cold lazarus
+Security: 5.2
+Alliance: Band of Brothers
+Corp: Reikoku
+Ship: Rokh
+Weapon: Rokh
+
+Name: violator2k5
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Rokh
+Weapon: Rokh
+
+Name: Crux Australis (laid the final blow)
+Security: -0.7
+Alliance: Band of Brothers
+Corp: Reikoku
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Addicus Zed
+Security: 2.1
+Alliance: Band of Brothers
+Corp: Reikoku
+Ship: Harpy
+Weapon: Harpy
+
+Name: Obidios
+Security: -1.3
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Crusader
+Weapon: Crusader
+
+Name: Bashar Miles
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Reikoku
+Ship: Unknown
+Weapon: 125mm Railgun II
+
+Name: Aschera
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Reikoku
+Ship: Sabre
+Weapon: Sabre
+
+Name: Venomus
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Reikoku
+Ship: Heretic
+Weapon: Heretic
+
+Name: RogerWilco
+Security: -0.5
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Nemesis
+Weapon: XT-9000 Cruise Launcher
+
+Name: Crohnx
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Reikoku
+Ship: Thanatos
+Weapon: Einherji
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Dual 150mm Railgun I, Qty: 3
+Antimatter Charge M, Qty: 320
+10MN MicroWarpdrive I
+Damage Control I
+Iron Charge M, Qty: 1200 (Cargo)
+Warrior II, Qty: 6 (Cargo)
+Power Diagnostic System I, Qty: 3 (Cargo)
+Warrior II, Qty: 2 (Drone Bay)

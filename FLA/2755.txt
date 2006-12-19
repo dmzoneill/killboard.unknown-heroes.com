@@ -1,0 +1,56 @@
+2007.03.05 06:52
+
+Victim: Jokull
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Destroyed: Raven
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Nevermore (laid the final blow)
+Security: 4.5
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Drake
+Weapon: Hobgoblin II
+
+Name: Shara El
+Security: 5.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Myrmidon
+Weapon: Berserker I
+
+Name: FrankieG
+Security: 0.0
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Typhoon
+Weapon: Ogre I
+
+
+Destroyed items:
+
+Cruise Missile Launcher II
+Siege Missile Launcher II
+Siege Missile Launcher II
+Devastator Precision Cruise Missile, Qty: 20
+Inferno Javelin Torpedo
+Inferno Javelin Torpedo
+Inferno Javelin Torpedo
+Inferno Javelin Torpedo
+Inferno Javelin Torpedo
+Inferno Javelin Torpedo
+Inferno Javelin Torpedo
+Inferno Javelin Torpedo
+'Anointed' I EM Ward Reinforcement
+Shield Boost Amplifier I
+Phased Weapon Navigation Array Generation Extron
+Power Diagnostic System II
+Power Diagnostic System II
+Marked Generator Refitting: Capacitor Flux
+Cataclysm Precision Cruise Missile, Qty: 15 (Cargo)
+Inferno Javelin Torpedo, Qty: 947 (Cargo)
+

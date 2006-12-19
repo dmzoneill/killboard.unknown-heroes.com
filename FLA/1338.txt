@@ -1,0 +1,40 @@
+2007.03.11 08:32
+
+Victim: Ai chan
+Alliance: Chorus of Dawn
+Corp: Independent Frontiers
+Destroyed: Capsule
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Satal Sonshi (laid the final blow)
+Security: 3.8
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery I
+
+Name: Jules Wolfpack
+Security: 2.0
+Alliance: The Sundering
+Corp: ironwood ink
+Ship: Ares
+Weapon: Flameburst Light Missile
+
+Name: white kight
+Security: 0.6
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Drake
+Weapon: Heavy Missile Launcher I
+
+Name: EM00
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Caracal
+Weapon: Heavy Missile Launcher I
+
+

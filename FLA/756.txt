@@ -1,0 +1,56 @@
+2007.02.19 22:08
+
+Victim: Natalie Nocx
+Alliance: None
+Corp: The Rising Stars
+Destroyed: Mackinaw
+System: Alparena
+Security: 0.1
+
+Involved parties:
+
+Name: beretta74 (laid the final blow)
+Security: 4.6
+Alliance: The Foundation.
+Corp: NorCorp Security
+Ship: Drake
+Weapon: Thunderbolt Heavy Missile
+
+Name: Ocara Nezus
+Security: 2.6
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Hawk
+Weapon: Bloodclaw Light Missile
+
+Name: Tsunami Girl
+Security: -0.5
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Ship: Curse
+Weapon: Thunderbolt Heavy Missile
+
+Name: Ridgy
+Security: 0.4
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Ship: Scorpion
+Weapon: Wrath Cruise Missile
+
+Name: sako1963
+Security: 3.1
+Alliance: The Foundation.
+Corp: NorCorp Security
+Ship: Drake
+Weapon: Compact 'Limos' Heavy Assault Missile Launcher I
+
+
+Destroyed items:
+
+Ice Harvester II
+Small Shield Booster II
+Eutectic I Capacitor Charge Array
+Alumel-Wired I Sensor Augmentation
+Co-Processor II
+'Accord' I Core Compensation
+

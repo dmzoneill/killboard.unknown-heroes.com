@@ -1,0 +1,113 @@
+2006.09.08 21:31
+
+Victim: aadom
+Alliance: Triumvirate.
+Corp: D00M.
+Destroyed: Ares
+System: EWOK-K
+Security: 0.0
+
+Involved parties:
+
+Name: Zimi Vlasic
+Security: 0.1
+Alliance: EVE Animal Control
+Corp: F.R.E.E. Explorer
+Ship: Wolf
+Weapon: 280mm Howitzer Artillery II
+
+Name: Isipsia V'dak
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Prophecy
+Weapon: Heavy Pulse Laser II
+
+Name: Commander Stringer
+Security: 1.8
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Rifter
+Weapon: 280mm Howitzer Artillery II
+
+Name: 8ObliVioN8
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Raptor
+Weapon: 125mm Railgun II
+
+Name: Jumar Coldgin (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: fincormack
+Security: 2.3
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Enyo
+Weapon: 150mm Railgun II
+
+Name: Terrorv1z
+Security: 5.1
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+Name: DevilSlayer
+Security: 3.8
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Zealot
+Weapon: Heavy Modal Pulse Laser I
+
+Name: Bane Lord
+Security: 2.5
+Alliance: CORE.
+Corp: VentureCorp
+Ship: Taranis
+Weapon: 125mm Railgun II
+
+Name: XxAngelxX
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Curse
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: Shiri elAzarinres
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Blackbird
+Weapon: Heavy Missile Launcher I
+
+Name: Hosanna
+Security: -2.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Stiletto
+Weapon: 150mm Light AutoCannon II
+
+Name: Bolinar
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Enyo
+Weapon: J5 Prototype Warp Inhibitor I
+
+
+Destroyed items:
+
+150mm Railgun II
+Flameburst Light Missile, Qty: 46
+TE-2100 Standard Missile Bay
+Damage Control I
+Small Armor Repairer II
+Micro Auxiliary Power Core I
+Flameburst Light Missile, Qty: 1373 (Cargo)
+

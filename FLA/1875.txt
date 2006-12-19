@@ -1,0 +1,26 @@
+2007.01.07 17:20
+
+Victim: Thimoin
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Capsule
+System: Torrinos
+Security: 0.5
+
+Involved parties:
+
+Name: SoulScourge (laid the final blow)
+Security: -1.5
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Machariel
+Weapon: 1400mm Howitzer Artillery II
+
+Name: THX 1138
+Security: 1.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Rook
+Weapon: XR-3200 Heavy Missile Bay
+
+

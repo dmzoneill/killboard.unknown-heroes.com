@@ -1,0 +1,24 @@
+2007.03.01 03:21
+
+Victim: AVON257
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Destroyed: Iteron Mark III
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Atomic Mayhem (laid the final blow)
+Security: -0.8
+Alliance: None
+Corp: Bottomfeeders Inc
+Ship: Pilgrim
+Weapon: Vespa II
+
+
+Destroyed items:
+
+Heat Dissipation Amplifier I
+Expanded Cargohold I
+

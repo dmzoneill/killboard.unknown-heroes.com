@@ -1,0 +1,40 @@
+2006.07.10 04:34
+
+Victim: Naxxiz
+Alliance: Northern Freedom Coalition
+Corp: GalacTECH Unlimited
+Destroyed: Capsule
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Rev Darkwing
+Security: 0.2
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Caracal
+Weapon: Widowmaker Heavy Missile
+
+Name: Desrega (laid the final blow)
+Security: 0.4
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Armageddon
+Weapon: Mega Pulse Laser I
+
+Name: SpaceAvenger
+Security: -1.0
+Alliance: Imperial Republic Of the North
+Corp: Port Royal Independent Kontractors
+Ship: Scorpion
+Weapon: Cruise Missile Launcher I
+
+Name: Jacor Takor
+Security: 1.4
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Vigil
+Weapon: Warp Disruptor I
+
+

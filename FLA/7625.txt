@@ -1,0 +1,24 @@
+2006.09.27 16:32
+
+Victim: Stoehovve Scheo
+Alliance: Ascendant Frontier
+Corp: Syncore
+Destroyed: Iteron Mark IV
+System: 2-RSC7
+Security: 0.0
+
+Involved parties:
+
+Name: Ailih Daqos (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+
+Destroyed items:
+
+10MN Afterburner I
+Pyerite, Qty: 478345 (Cargo)
+

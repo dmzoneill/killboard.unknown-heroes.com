@@ -1,0 +1,26 @@
+2007.04.08 06:50
+
+Victim: Skull Fire
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Capsule
+System: P-2TTL
+Security: 0.0
+
+Involved parties:
+
+Name: MIGHTYDWC (laid the final blow)
+Security: 4.7
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Myrmidon
+Weapon: Ogre II
+
+Name: Rhayvn
+Security: 4.5
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Abaddon
+Weapon: Tachyon Beam Laser II
+
+

@@ -1,0 +1,27 @@
+2007.01.05 22:41
+
+Victim: Sidrat Flush
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Destroyed: Kestrel
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Heinky (laid the final blow)
+Security: 2.5
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Abaddon
+Weapon: Hammerhead II
+
+
+Destroyed items:
+
+Rocket Launcher I
+Rocket Launcher I
+Stasis Webifier I
+Mobile Small Warp Disruptor I (Cargo)
+Gremlin Rocket, Qty: 200 (Cargo)
+

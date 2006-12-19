@@ -1,0 +1,26 @@
+2007.05.15 19:00
+
+Victim: Iayasu Tokugawa
+Alliance: None
+Corp: Independent Terran Empire
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: marakudi (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Ocara Nezus
+Security: 1.5
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Crow
+Weapon: Warp Disruptor II
+
+

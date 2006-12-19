@@ -1,0 +1,47 @@
+2007.04.15 00:18
+
+Victim: FA Avenger
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Destroyed: Crow
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Aridante Lemure (laid the final blow)
+Security: 1.2
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Jaguar
+Weapon: 280mm Howitzer Artillery II
+
+Name: The Cade
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Harpy
+Weapon: 150mm 'Scout' I Accelerator Cannon
+
+Name: Teck7
+Security: 1.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Taranis
+Weapon: J5 Prototype Warp Inhibitor I
+
+
+Destroyed items:
+
+Standard Missile Launcher II
+Standard Missile Launcher II
+Standard Missile Launcher II
+1MN MicroWarpdrive II
+Warp Disruptor II
+50mm Reinforced Rolled Tungsten Plates I
+250mm Light Artillery Cannon II (Cargo)
+Vespa II, Qty: 2 (Cargo)
+Photonic CPU Enhancer I (Cargo)
+Tremor S, Qty: 953 (Cargo)
+Scan Probe Launcher I (Cargo)
+

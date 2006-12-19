@@ -1,0 +1,37 @@
+2007.02.14 23:09
+
+Victim: Tharod
+Alliance: None
+Corp: Princeps Corp
+Destroyed: Crow
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Burn Lump
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Enyo
+Weapon: Enyo
+
+Name: Dark Carnage (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Gila
+Weapon: Sabretooth Light Missile
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 40
+TE-2100 Standard Missile Bay
+TE-2100 Standard Missile Bay
+Faint Warp Prohibitor I
+X5 Prototype I Engine Enervator
+Nanofiber Internal Structure I
+Beta Hull Mod Nanofiber Structure
+Bloodclaw Light Missile, Qty: 2601 (Cargo)
+

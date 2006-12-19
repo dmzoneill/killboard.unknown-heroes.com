@@ -1,0 +1,33 @@
+2006.10.01 02:11
+
+Victim: SleepyOSU
+Alliance: Freelancer Alliance
+Corp: Sin-X Inc.
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Altai Saker
+Security: -0.8
+Alliance: None
+Corp: Omniscient Order
+Ship: Heretic
+Weapon: X5 Prototype I Engine Enervator
+
+Name: H Zub (laid the final blow)
+Security: -0.9
+Alliance: None
+Corp: Omniscient Order
+Ship: Dominix
+Weapon: 250mm Railgun II
+
+Name: ElGuapo
+Security: 4.1
+Alliance: None
+Corp: Omniscient Order
+Ship: Claw
+Weapon: J5 Prototype Warp Inhibitor I
+
+

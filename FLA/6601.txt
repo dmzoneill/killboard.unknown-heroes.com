@@ -1,0 +1,64 @@
+2006.11.19 06:59
+
+Victim: rockerguy
+Alliance: Lotka Volterra
+Corp: FATAL REVELATIONS
+Destroyed: Omen
+System: E-Z2ZX
+Security: 0.0
+
+Involved parties:
+
+Name: SleepyOSU (laid the final blow)
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: Sin-X Inc.
+Ship: Ishkur
+Weapon: Hobgoblin I
+
+Name: Danielson1012
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Harpy
+Weapon: Harpy
+
+Name: Onyx Soulbane
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Elite frontier group
+Ship: Cerberus
+Weapon: Havoc Heavy Missile
+
+Name: DevilSlayer
+Security: 4.0
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Curse
+Weapon: ECM - Multispectral Jammer I
+
+Name: Zachariah Barnette
+Security: 1.1
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Ship: Thorax
+Weapon: Heavy Electron Blaster I
+
+Name: A'ruhn
+Security: 3.3
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Capsule
+Weapon: Warp Scrambler I
+
+
+Destroyed items:
+
+Medium Beam Laser II
+Medium Beam Laser II
+Medium Beam Laser II
+Aurora S
+Aurora S
+Pseudoelectron Containment Field I
+Energized Adaptive Nano Membrane I
+

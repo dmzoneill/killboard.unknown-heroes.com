@@ -1,0 +1,64 @@
+2007.03.05 10:48
+
+Victim: ZaknafeinX
+Alliance: Privateer Alliance
+Corp: Captain Morgan Society
+Destroyed: Harbinger
+System: Poinen
+Security: 0.6
+
+Involved parties:
+
+Name: El Yatta
+Security: 0.4
+Alliance: Exquisite Malevolence
+Corp: Mercenary Forces
+Ship: Lachesis
+Weapon: Warrior II
+
+Name: SYTonALL
+Security: 1.9
+Alliance: Exquisite Malevolence
+Corp: Mercenary Forces
+Ship: Claw
+Weapon: 200mm AutoCannon II
+
+Name: Ryx Bratsilaken
+Security: -1.9
+Alliance: Exquisite Malevolence
+Corp: Magnificent Beavers
+Ship: Vagabond
+Weapon: Shadow Serpentis Warp Disruptor
+
+Name: JOSEPHx
+Security: 0.0
+Alliance: Exquisite Malevolence
+Corp: Mercenary Forces
+Ship: Curse
+Weapon: Warp Disruptor II
+
+Name: Tregaron (laid the final blow)
+Security: 1.7
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Cyclone
+Weapon: 650mm Artillery Cannon II
+
+
+Destroyed items:
+
+Focused Medium Pulse Laser II
+Focused Medium Pulse Laser II
+Focused Medium Pulse Laser II
+Scorch M
+Scorch M
+Faint Warp Prohibitor I
+Medium Capacitor Booster II
+Damage Control II
+Medium Armor Repairer II
+Energized Adaptive Nano Membrane II
+Energized Adaptive Nano Membrane II
+Cap Booster 800, Qty: 9 (Cargo)
+Conflagration M, Qty: 3 (Cargo)
+Infiltrator II (Drone Bay)
+

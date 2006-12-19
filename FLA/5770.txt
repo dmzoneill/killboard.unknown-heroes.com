@@ -1,0 +1,25 @@
+2006.10.17 19:40
+
+Victim: ukpAgAn
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Destroyed: Enyo
+System: Haajinen
+Security: 0.8
+
+Involved parties:
+
+Name: W4RR10R (laid the final blow)
+Security: 1.1
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Ishkur
+Weapon: Warrior II
+
+
+Destroyed items:
+
+Plutonium Charge S, Qty: 110
+Magnetic Field Stabilizer II
+Plutonium Charge S, Qty: 1430 (Cargo)
+

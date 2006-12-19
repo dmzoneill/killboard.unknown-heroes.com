@@ -1,0 +1,43 @@
+2007.02.06 05:35
+
+Victim: truefranco
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Destroyed: Crow
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: sageO (laid the final blow)
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+Name: Havvok
+Security: 1.9
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Raptor
+Weapon: 125mm Railgun II
+
+Name: Dark1
+Security: 3.3
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Muninn
+Weapon: Upgraded 'Limos' Standard Missile Bay I
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 95
+Standard Missile Launcher II
+Standard Missile Launcher II
+Micro Auxiliary Power Core I
+Micro Auxiliary Power Core I
+Bloodclaw Light Missile, Qty: 1754 (Cargo)
+Bloodclaw Precision Light Missile, Qty: 500 (Cargo)
+

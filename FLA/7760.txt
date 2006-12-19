@@ -1,0 +1,26 @@
+2006.08.15 00:23
+
+Victim: Th3 HuNt3r
+Alliance: Freelancer Alliance
+Corp: EVE MegaCorp Association
+Destroyed: Capsule
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Sato Yuki (laid the final blow)
+Security: -1.9
+Alliance: Process of Elimination
+Corp: Occassus Republica
+Ship: Claw
+Weapon: 200mm AutoCannon II
+
+Name: Sith Bandon
+Security: 1.1
+Alliance: Ascendant Frontier
+Corp: Celestial Fleet
+Ship: Crow
+Weapon: X5 Prototype I Engine Enervator
+
+

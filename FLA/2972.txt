@@ -1,0 +1,122 @@
+2007.03.17 23:04
+
+Victim: Shassandra
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Myrmidon
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Sholle
+Security: 3.0
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Sabre
+Weapon: Sabre
+
+Name: Appalachia
+Security: 5.2
+Alliance: YouWhat
+Corp: Pringles Inc.
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+Name: Eelim Garak
+Security: 1.3
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Sacrilege
+Weapon: Sacrilege
+
+Name: Marla Durden
+Security: -1.3
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Claw
+Weapon: Claw
+
+Name: EveStarHunter
+Security: 4.9
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Stabber
+Weapon: Stabber
+
+Name: Gordon Red
+Security: 2.0
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Crusader
+Weapon: Dual Light Pulse Laser II
+
+Name: Tanya Kovacs
+Security: 5.1
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Eagle
+Weapon: Eagle
+
+Name: SteVewojo (laid the final blow)
+Security: 5.0
+Alliance: YouWhat
+Corp: Pringles Inc.
+Ship: Pilgrim
+Weapon: Vespa II
+
+Name: Wodanonline
+Security: 4.6
+Alliance: YouWhat
+Corp: Pringles Inc.
+Ship: Purifier
+Weapon: Paradise Cruise Missile
+
+Name: Barak Smaug
+Security: 4.6
+Alliance: Chorus of Dawn
+Corp: Cosmic Odyssey
+Ship: Huginn
+Weapon: Fleeting Propulsion Inhibitor I
+
+Name: YOGOgoesEVERYWHERE
+Security: 5.0
+Alliance: Chorus of Dawn
+Corp: Cosmic Odyssey
+Ship: Megathron
+Weapon: 425mm Carbide Railgun I
+
+Name: M4J3STIC
+Security: 5.0
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Raptor
+Weapon: Bloodclaw Light Missile
+
+Name: Taschenflak
+Security: 4.7
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Moa
+Weapon: Thunderbolt Heavy Missile
+
+Name: Neily
+Security: 4.6
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Flycatcher
+Weapon: Gremlin Rocket
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Medium Nosferatu I
+Medium Nosferatu I
+Sensor Booster I
+Damage Control I
+Medium Armor Repairer II
+N-Type Kinetic Hardener I
+Microcell Nanite Thermic Hardener I
+Hammerhead I, Qty: 3 (Cargo)
+

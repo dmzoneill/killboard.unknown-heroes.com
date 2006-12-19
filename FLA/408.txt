@@ -1,0 +1,40 @@
+2007.01.31 16:17
+
+Victim: KILL523
+Alliance: None
+Corp: Boy or girl
+Destroyed: Minmatar Shuttle
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Xantheris (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: Minisoza
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Enyo
+Weapon: Enyo
+
+Name: Teck7
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ishtar
+Weapon: 150mm Railgun II
+
+Name: Lan Storm
+Security: 4.2
+Alliance: None
+Corp: Strategem
+Ship: Malediction
+Weapon: J5 Prototype Warp Inhibitor I
+
+

@@ -1,0 +1,29 @@
+2007.02.02 22:56
+
+Victim: Shassandra
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Taranis
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Murdoch Morf (laid the final blow)
+Security: 1.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Typhoon
+Weapon: Ogre I
+
+
+Destroyed items:
+
+75mm Gatling Rail I
+75mm Gatling Rail I
+Iron Charge S, Qty: 197
+Warp Disruptor I
+Inertia Stabilizers I
+Antimatter Charge S, Qty: 2832 (Cargo)
+Iron Charge S, Qty: 2400 (Cargo)
+

@@ -1,0 +1,39 @@
+2006.04.24 22:36
+
+Victim: ESF Hyperion
+Alliance: None
+Corp: GeoTech
+Destroyed: Crow
+System: CZDJ-1
+Security: 0.0
+
+Involved parties:
+
+Name: Kolombus
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Immortal Serial Killers
+Ship: Megathron
+Weapon: 425mm Railgun I
+
+Name: The Gank (laid the final blow)
+Security: 4.5
+Alliance: Freelancer Alliance
+Corp: Corp 101
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: TheBelgarion
+Security: 2.6
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Caracal
+Weapon: Heavy Missile Launcher I
+
+
+Destroyed items:
+
+Small 'Knave' I Energy Drain
+Sabretooth Light Missile, Qty: 40
+1MN MicroWarpdrive I
+

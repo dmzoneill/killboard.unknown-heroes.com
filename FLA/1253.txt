@@ -1,0 +1,73 @@
+2007.03.09 18:09
+
+Victim: Xoduse
+Alliance: YouWhat
+Corp: Beasts of Burden
+Destroyed: Rifter
+System: XZH-4X
+Security: 0.0
+
+Involved parties:
+
+Name: Easy Kill (laid the final blow)
+Security: 4.0
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Cynabal
+Weapon: Dual 180mm AutoCannon II
+
+Name: Tubesock
+Security: 4.8
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Brutix
+Weapon: Brutix
+
+Name: Jonas123
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Ferox
+Weapon: Ferox
+
+Name: Sari Calimda
+Security: 2.9
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Celestis
+Weapon: Celestis
+
+Name: 1337JiveTurkey
+Security: 0.0
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Merlin
+Weapon: 150mm Railgun I
+
+Name: Wilhelm Tarkin
+Security: 5.0
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Cyclone
+Weapon: Cyclone
+
+Name: Nordvargr
+Security: 3.8
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Typhoon
+Weapon: XT-9000 Cruise Launcher
+
+Name: Miriyaka
+Security: 5.0
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Hurricane
+Weapon: Hurricane
+
+
+Destroyed items:
+
+Inertia Stabilizers I
+Inertia Stabilizers I
+

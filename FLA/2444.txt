@@ -1,0 +1,34 @@
+2007.02.10 23:36
+
+Victim: dastommy79
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Destroyed: Thorax
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: mullenc (laid the final blow)
+Security: 1.1
+Alliance: None
+Corp: Agony Unleashed
+Ship: Vexor
+Weapon: Ogre II
+
+
+Destroyed items:
+
+Heavy Ion Blaster I
+Heavy Ion Blaster I
+Heavy Ion Blaster I
+Heavy Ion Blaster I
+Antimatter Charge M, Qty: 342
+10MN MicroWarpdrive I
+Stasis Webifier I
+Energized Thermic Membrane I
+Energized Magnetic Membrane I
+Energized Reactive Membrane I
+Reactor Control Unit I
+Infiltrator I (Drone Bay)
+

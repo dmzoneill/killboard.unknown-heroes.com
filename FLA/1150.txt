@@ -1,0 +1,52 @@
+2007.03.07 04:45
+
+Victim: Sannora
+Alliance: New Age Solutions Amalgamated
+Corp: New Age Solutions
+Destroyed: Kestrel
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: coldkill
+Security: 1.8
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Taranis
+Weapon: Hobgoblin II
+
+Name: Jaig Maldara
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Flycatcher
+Weapon: Flycatcher
+
+Name: Weeble Wooble (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Fugnut
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Drake
+Weapon: Advanced 'Limos' Heavy Missile Bay I
+
+Name: Alezra
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Blackbird
+Weapon: ECM - Spatial Destabilizer II
+
+
+Destroyed items:
+
+Cynosural Field Generator I
+Liquid Ozone, Qty: 312 (Cargo)
+

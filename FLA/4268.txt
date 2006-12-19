@@ -1,0 +1,40 @@
+2007.04.06 00:48
+
+Victim: Skelator0311
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Capsule
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: ER0X
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: Shraek (laid the final blow)
+Security: 1.4
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Stiletto
+Weapon: 200mm AutoCannon II
+
+Name: War Bear
+Security: 2.8
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Stiletto
+Weapon: 250mm Light Artillery Cannon II
+
+Name: Crovan
+Security: 2.8
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Taranis
+Weapon: Fleeting Warp Scrambler I
+
+

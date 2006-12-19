@@ -1,0 +1,33 @@
+2006.11.15 17:26
+
+Victim: TheManWhoCouldntCry
+Alliance: None
+Corp: School of Applied Knowledge
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: LiBraga (laid the final blow)
+Security: 4.1
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Eagle
+Weapon: 250mm Prototype I Gauss Gun
+
+Name: JesusOfSuburbia
+Security: 5.3
+Alliance: Dusk and Dawn
+Corp: Asgard Schiffswerften
+Ship: Taranis
+Weapon: Warp Disruptor I
+
+Name: Formosus Funus
+Security: 3.8
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Wolf
+Weapon: 150mm Light AutoCannon II
+
+

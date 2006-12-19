@@ -1,0 +1,33 @@
+2006.08.29 01:38
+
+Victim: JailbateIII
+Alliance: None
+Corp: Federal Navy Academy
+Destroyed: Capsule
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: shocker shane (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: EVE MegaCorp Association
+Ship: Cerberus
+Weapon: Scourge Heavy Missile
+
+Name: Th3 HuNt3r
+Security: 4.7
+Alliance: Freelancer Alliance
+Corp: EVE MegaCorp Association
+Ship: Raven
+Weapon: XT-9000 Cruise Launcher
+
+Name: Valtaer
+Security: 3.4
+Alliance: Freelancer Alliance
+Corp: Terminal Velocity Inc.
+Ship: Merlin
+Weapon: Stasis Webifier I
+
+

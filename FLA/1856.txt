@@ -1,0 +1,26 @@
+2007.01.07 02:02
+
+Victim: dastommy79
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Destroyed: Capsule
+System: Piak
+Security: 0.7
+
+Involved parties:
+
+Name: Unfortunate Accident
+Security: -1.5
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Jenessa (laid the final blow)
+Security: 1.1
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Muninn
+Weapon: 720mm Howitzer Artillery II
+
+

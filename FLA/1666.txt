@@ -1,0 +1,53 @@
+2007.03.20 03:21
+
+Victim: istasi
+Alliance: YouWhat
+Corp: Artificial Horizons
+Destroyed: Atron
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Bobby Atlas (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Hyperion
+Weapon: 425mm Compressed Coil Gun I
+
+Name: Freakdevil
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Malediction
+Weapon: Malediction
+
+Name: Dameclies TRG
+Security: 4.2
+Alliance: The Sundering
+Corp: The Republican Guard
+Ship: Osprey
+Weapon: 150mm Railgun I
+
+Name: xinndo jagged
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Drake
+Weapon: Heavy Missile Launcher II
+
+Name: Logand Delta
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Ship: Drake
+Weapon: Heavy Missile Launcher I
+
+
+Destroyed items:
+
+Inertia Stabilizers I
+Mark I Generator Refitting: Capacitor Power Relay
+Warrior I (Drone Bay)
+

@@ -1,0 +1,26 @@
+2007.01.01 21:54
+
+Victim: Ireiw wocad
+Alliance: Freelancer Alliance
+Corp: Feel Good Inc.
+Destroyed: Capsule
+System: Torrinos
+Security: 0.5
+
+Involved parties:
+
+Name: TasKu (laid the final blow)
+Security: 5.0
+Alliance: None
+Corp: Nexus Legion
+Ship: Ishkur
+Weapon: 150mm Railgun II
+
+Name: SoulScourge
+Security: -1.5
+Alliance: None
+Corp: omen.
+Ship: Tempest Fleet Issue
+Weapon: 1400mm Howitzer Artillery II
+
+

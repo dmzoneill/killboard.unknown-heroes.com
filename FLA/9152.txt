@@ -1,0 +1,41 @@
+2007.05.01 05:01
+
+Victim: bigtim9
+Alliance: None
+Corp: Aliastra
+Destroyed: Enyo
+System: Bantish
+Security: 0.3
+
+Involved parties:
+
+Name: PowerGimp (laid the final blow)
+Security: 1.7
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+
+Destroyed items:
+
+Salvager I, Qty: 36
+125mm Railgun II
+125mm Railgun II
+Javelin S, Qty: 23
+Spike S
+Spike S
+Spike S
+Medium Shield Booster I (Cargo)
+1MN Afterburner I (Cargo)
+Survey Scanner I (Cargo)
+Warp Scrambler I, Qty: 2 (Cargo)
+EP-S Gaussian I Excavation Pulse (Cargo)
+Xray S (Cargo)
+Warp Core Stabilizer I (Cargo)
+Medium Remote Armor Repair System I (Cargo)
+Spike S, Qty: 3762 (Cargo)
+Charred Micro Circuit, Qty: 8 (Cargo)
+Contaminated Nanite Compound, Qty: 3 (Cargo)
+Armor Plates, Qty: 3 (Cargo)
+

@@ -1,0 +1,54 @@
+2006.09.30 05:25
+
+Victim: Ouir du'Fromage
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Destroyed: Megathron
+System: L-C3O7
+Security: 0.0
+
+Involved parties:
+
+Name: Levin Cavil (laid the final blow)
+Security: -1.7
+Alliance: None
+Corp: Lucid Ambition
+Ship: Eos
+Weapon: Heavy Ion Blaster II
+
+Name: Furious Raccoon
+Security: 0.8
+Alliance: None
+Corp: Omniscient Order
+Ship: Nighthawk
+Weapon: Heavy Missile Launcher II
+
+Name: Noobjuice
+Security: -1.0
+Alliance: None
+Corp: Omniscient Order
+Ship: Claw
+Weapon: J5b Phased Prototype Warp Inhibitor I
+
+
+Destroyed items:
+
+Small Nosferatu I
+350mm Prototype I Gauss Gun
+350mm Compressed Coil Gun I
+350mm Compressed Coil Gun I
+Thorium Charge L, Qty: 305
+Cap Booster 800
+Cap Booster 800
+Cap Booster 800
+Large Automated I Carapace Restoration
+1600mm Reinforced Rolled Tungsten Plates I
+100MN MicroWarpdrive I (Cargo)
+Dual 250mm Compressed Coil Gun I, Qty: 2 (Cargo)
+Thorium Charge L, Qty: 1370 (Cargo)
+Ogre I, Qty: 4 (Cargo)
+Beta Reactor Control: Capacitor Power Relay I, Qty: 2 (Cargo)
+Type-D Power Core Modification: Capacitor Flux, Qty: 2 (Cargo)
+Wasp I (Drone Bay)
+Ogre I (Drone Bay)
+

@@ -1,0 +1,32 @@
+2007.04.01 02:30
+
+Victim: Kirk theeGreat
+Alliance: Freelancer Alliance
+Corp: N.A.S.A.
+Destroyed: Kestrel
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: tomlinsonland (laid the final blow)
+Security: -1.8
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: War Bear
+Security: 2.8
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Stiletto
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+Warp Core Stabilizer I
+Expanded Cargohold I
+Scourge Heavy Missile, Qty: 10000 (Cargo)
+

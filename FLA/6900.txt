@@ -1,0 +1,37 @@
+2006.12.12 15:51
+
+Victim: Rann Antares
+Alliance: None
+Corp: omen.
+Destroyed: Ishtar
+System: Torrinos
+Security: 0.5
+
+Involved parties:
+
+Name: zoturi (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Myrmidon
+Weapon: Ogre II
+
+
+Destroyed items:
+
+Medium Nosferatu II
+125mm Railgun II
+Javelin S, Qty: 45
+10MN Afterburner II
+'Hypnos' Multispectral ECM I
+Energized Adaptive Nano Membrane II
+Armor Explosive Hardener II
+1600mm Reinforced Rolled Tungsten Plates I
+Civilian Shield Booster I (Cargo)
+Ballistic Deflection Field I (Cargo)
+Iridium Charge S, Qty: 930 (Cargo)
+Antimatter Charge S, Qty: 1491 (Cargo)
+Javelin S, Qty: 1049 (Cargo)
+Berserker II, Qty: 3 (Drone Bay)
+Warrior II, Qty: 2 (Drone Bay)
+

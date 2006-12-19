@@ -1,0 +1,54 @@
+2007.02.01 15:23
+
+Victim: Lane A'lusin
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Destroyed: Taranis
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Puls4r
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Muninn
+Weapon: 650mm Artillery Cannon II
+
+Name: ChuckNorris CRO
+Security: -0.3
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Muninn
+Weapon: 720mm Howitzer Artillery II
+
+Name: Claviger (laid the final blow)
+Security: 2.1
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Rapier
+Weapon: 720mm Prototype I Siege Cannon
+
+Name: Drift Spec
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Muninn
+Weapon: 720mm Howitzer Artillery II
+
+Name: tAkErPT
+Security: 4.2
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Cerberus
+Weapon: Heavy Missile Launcher II
+
+
+Destroyed items:
+
+Small 'Knave' I Energy Drain
+Antimatter Charge S, Qty: 160
+Nanofiber Internal Structure I
+Hammerhead I (Drone Bay)
+

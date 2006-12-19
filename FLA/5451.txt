@@ -1,0 +1,56 @@
+2006.10.03 20:32
+
+Victim: Sorbonna
+Alliance: R.I.S.K
+Corp: The First Foundation
+Destroyed: Rifter
+System: ROIR-Y
+Security: 0.0
+
+Involved parties:
+
+Name: Verild
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Crow
+Weapon: Crow
+
+Name: Jumar Coldgin (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+Name: Cazziel
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Taranis
+Weapon: Hobgoblin II
+
+Name: Neferiti
+Security: 5.0
+Alliance: None
+Corp: X-Factor Industries
+Ship: Harpy
+Weapon: 150mm Railgun I
+
+Name: Noitaakka
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Vexor
+Weapon: Vexor
+
+
+Destroyed items:
+
+200mm Light Gallium I Machine Gun
+200mm Light Gallium I Machine Gun
+200mm Light Gallium I Machine Gun
+Titanium Sabot S, Qty: 184
+1MN Afterburner I
+Small Shield Booster I (Cargo)
+

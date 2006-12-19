@@ -1,0 +1,68 @@
+2006.11.11 19:49
+
+Victim: GordonShumway
+Alliance: None
+Corp: Ultima Ratio Regum
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: digital oxygen (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Deimos
+Weapon: Heavy Electron Blaster II
+
+Name: Darth Hound
+Security: 1.7
+Alliance: Schism.
+Corp: Fatalix Inc.
+Ship: Rifter
+Weapon: Piranha Light Missile
+
+Name: al3x andra
+Security: 4.4
+Alliance: O X I D E
+Corp: W33D Corp.
+Ship: Breacher
+Weapon: J5b Phased Prototype Warp Inhibitor I
+
+Name: MAD D0G
+Security: -0.7
+Alliance: None
+Corp: Ganksters Paradise
+Ship: Blackbird
+Weapon: Initiated Multispectral ECM I
+
+Name: LizzyD
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Ishkur
+Weapon: 150mm Railgun II
+
+Name: Lee Thrace
+Security: 5.0
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Taranis
+Weapon: Taranis
+
+Name: Flashh Gorden
+Security: 3.4
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Ship: Caracal
+Weapon: XR-3200 Heavy Missile Bay
+
+Name: Durante Alighieri
+Security: 2.8
+Alliance: Schism.
+Corp: New Light
+Ship: Caracal
+Weapon: Heavy Missile Launcher I
+
+

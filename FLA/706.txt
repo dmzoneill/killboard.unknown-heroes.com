@@ -1,0 +1,51 @@
+2007.02.17 21:58
+
+Victim: Klavayne
+Alliance: None
+Corp: Pack Of Shadows
+Destroyed: Caracal
+System: C1XD-X
+Security: 0.0
+
+Involved parties:
+
+Name: Tiberius Drake (laid the final blow)
+Security: 4.1
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Ishkur
+Weapon: Hammerhead I
+
+Name: Mauy Thai
+Security: -1.4
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Curse
+Weapon: Valkyrie II
+
+Name: The Hardman
+Security: 0.3
+Alliance: The Foundation.
+Corp: Cornerstone Unlimited
+Ship: Vengeance
+Weapon: Vengeance
+
+Name: digital oxygen
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Thorax
+Weapon: Low Frequency Sensor Suppressor I
+
+
+Destroyed items:
+
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Sensor Booster I
+Power Diagnostic System I
+Type-D Power Core Modification: Diagnostic System
+Scourge Heavy Missile, Qty: 825 (Cargo)
+Hydra F.O.F. Heavy Missile I, Qty: 235 (Cargo)
+

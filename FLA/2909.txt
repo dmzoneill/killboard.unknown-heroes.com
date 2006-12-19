@@ -1,0 +1,50 @@
+2007.03.16 03:03
+
+Victim: Sovo
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Destroyed: Thrasher
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Xordus
+Security: 0.9
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Omen
+Weapon: Omen
+
+Name: Fellswoop
+Security: 1.8
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Maller
+Weapon: Maller
+
+Name: Lord Revent (laid the final blow)
+Security: 1.0
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Scythe
+Weapon: 425mm AutoCannon I
+
+Name: Xoduse
+Security: 0.2
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Blackbird
+Weapon: ECM - Phase Inverter II
+
+
+Destroyed items:
+
+200mm Light Gallium I Machine Gun
+200mm Light Gallium I Machine Gun
+Phased Plasma S, Qty: 268
+Phased Monopropellant I Hydrazine Boosters
+Type-D Altered SS Inertial Stabilizers
+Type-D Altered SS Inertial Stabilizers
+Phased Plasma S, Qty: 9852 (Cargo)
+

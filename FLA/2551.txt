@@ -1,0 +1,38 @@
+2007.02.20 06:22
+
+Victim: Saan Motak
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Myrmidon
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: hellwarrior (laid the final blow)
+Security: 0.2
+Alliance: None
+Corp: Finite Horizon
+Ship: Typhoon
+Weapon: Devastator Cruise Missile
+
+Name: Greg Sanders
+Security: -1.6
+Alliance: None
+Corp: Finite Horizon
+Ship: Typhoon
+Weapon: Paradise Cruise Missile
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Antimatter Charge M, Qty: 360
+Barton Reactor Capacitor Recharger I
+Cap Booster 800
+Medium Armor Repairer I
+Medium Armor Repairer I
+Energized Adaptive Nano Membrane I
+Antimatter Charge M, Qty: 697 (Cargo)
+Cap Booster 800, Qty: 10 (Cargo)
+

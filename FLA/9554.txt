@@ -1,0 +1,19 @@
+2007.05.18 17:19
+
+Victim: Tanta
+Alliance: None
+Corp: State War Academy
+Destroyed: Capsule
+System: G-M4I8
+Security: 0.0
+
+Involved parties:
+
+Name: Ocara Nezus (laid the final blow)
+Security: 1.5
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+

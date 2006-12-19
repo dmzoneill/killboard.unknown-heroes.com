@@ -1,0 +1,29 @@
+2007.04.20 00:41
+
+Victim: Free Sword
+Alliance: Quantum Star Alliance
+Corp: Blind Industries
+Destroyed: Heron
+System: Polaris
+Security: 0.0
+
+Involved parties:
+
+Name: Minmatar Control Tower Small / Di-Tron Heavy Industries (laid the final blow)
+
+
+Destroyed items:
+
+Prototype Cloaking Device I
+Gravimetric Quest Probe
+Gravimetric Quest Probe
+Gravimetric Quest Probe
+Gravimetric Quest Probe
+Gravimetric Quest Probe
+Gravimetric Quest Probe
+Gravimetric Quest Probe
+Scan Probe Launcher I
+Monopropellant I Hydrazine Boosters
+Gravimetric Quest Probe, Qty: 2 (Cargo)
+Snoop Scanner Probe I, Qty: 5 (Cargo)
+

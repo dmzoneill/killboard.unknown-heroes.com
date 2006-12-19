@@ -1,0 +1,80 @@
+2007.03.13 09:44
+
+Victim: CrazyGuy Hauler
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Destroyed: Cormorant
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Gargh Ahhwell
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Rokh
+Weapon: Rokh
+
+Name: Boba
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: United Forces
+Ship: Moa
+Weapon: 250mm 'Scout' I Accelerator Cannon
+
+Name: Khelia
+Security: 0.5
+Alliance: Dusk and Dawn
+Corp: Stardust Heavy Industries
+Ship: Myrmidon
+Weapon: 250mm 'Scout' I Accelerator Cannon
+
+Name: Cockroach
+Security: 4.8
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Prophecy
+Weapon: Prophecy
+
+Name: darkviron (laid the final blow)
+Security: 2.0
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Blackbird
+Weapon: Widowmaker Heavy Missile
+
+Name: Vesspasiano
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Myrmidon
+Weapon: Remote Sensor Dampener I
+
+Name: Sam Bacon
+Security: 4.8
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Brutix
+Weapon: Brutix
+
+Name: Kateryne
+Security: 0.1
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Maelstrom
+Weapon: Phased Weapon Navigation Array Generation Extron
+
+Name: Jokull
+Security: 2.6
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Lachesis
+Weapon: Lachesis
+
+
+Destroyed items:
+
+Cynosural Field Generator I
+Mark I Modified SS Expanded Cargo
+

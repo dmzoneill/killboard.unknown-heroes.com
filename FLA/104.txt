@@ -1,0 +1,61 @@
+2007.01.10 00:51
+
+Victim: Larkonis Trassler
+Alliance: Privateer Alliance
+Corp: Privateers
+Destroyed: Raven
+System: VFK-IV
+Security: 0.0
+
+Involved parties:
+
+Name: Ayrin Soun (laid the final blow)
+Security: 5.0
+Alliance: O X I D E
+Corp: BLUE EAGLES
+Ship: Raven
+Weapon: Inferno Torpedo
+
+Name: Tech Hazard
+Security: 3.7
+Alliance: Schism.
+Corp: WING LORDS
+Ship: Capsule
+Weapon: 'Langour' Drive Disruptor I
+
+Name: DerArt1st
+Security: 2.8
+Alliance: The Pentagram
+Corp: Omega Armada
+Ship: Punisher
+Weapon: Punisher
+
+Name: Sabe
+Security: 5.0
+Alliance: Red Horizon
+Corp: Red Horizon Inc
+Ship: Megathron
+Weapon: Megathron
+
+Name: Swanny231
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Scorpion
+Weapon: Cruise Missile Launcher II
+
+
+Destroyed items:
+
+Inferno Torpedo, Qty: 16
+ZW-4100 Siege Missile Bay
+ZW-4100 Siege Missile Bay
+ZW-4100 Siege Missile Bay
+Small Tractor Beam I
+Heavy Capacitor Booster I
+Invulnerability Field I
+Heat Dissipation Field I
+Ballistic Control System I
+Ballistic Control System I
+Power Diagnostic System I
+

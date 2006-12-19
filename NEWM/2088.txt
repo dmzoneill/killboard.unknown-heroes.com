@@ -1,0 +1,64 @@
+2007.01.20 00:47
+
+Victim: Radica
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Dominix
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: McGin
+Security: -3.5
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Megathron
+Weapon: Megathron
+
+Name: xlop (laid the final blow)
+Security: -1.2
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: ArchenTheGreat
+Security: -2.1
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Dominix
+Weapon: Dominix
+
+Name: boo3916
+Security: 4.7
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Raven
+Weapon: Mjolnir Javelin Torpedo
+
+Name: Pistonbroke
+Security: 0.4
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Scorpion
+Weapon: 'Limos' Cruise Launcher I
+
+Name: Anna Neura
+Security: -0.2
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Lachesis
+Weapon: Remote Sensor Dampener II
+
+
+Destroyed items:
+
+E500 Prototype Energy Vampire
+Heavy Neutron Blaster I
+Antimatter Charge M, Qty: 120
+Eutectic I Capacitor Charge Array
+Large 'Accommodation' Vestment Reconstructer I
+Local Power Plant Manager: Capacity Power Relay I
+Antimatter Charge M, Qty: 2373 (Cargo)
+

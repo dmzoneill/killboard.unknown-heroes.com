@@ -1,0 +1,64 @@
+2007.03.14 04:26
+
+Victim: Xoduse
+Alliance: YouWhat
+Corp: Beasts of Burden
+Destroyed: Brutix
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: xinndo jagged
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Drake
+Weapon: Havoc Heavy Missile
+
+Name: Inter Fectum
+Security: 2.1
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Tempest
+Weapon: Tempest
+
+Name: JaiMaster
+Security: 2.7
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Cyclone
+Weapon: Cyclone
+
+Name: Nukuquqa Hestase
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Harpy
+Weapon: Harpy
+
+Name: Logand Delta (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Ship: Caracal
+Weapon: Widowmaker Heavy Missile
+
+Name: MrMaggot
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Hawk
+Weapon: TE-2100 Standard Missile Bay
+
+
+Destroyed items:
+
+Limited Neutron Blaster I
+Heavy Neutron Blaster I, Qty: 2
+Regulated Neutron Phase Cannon I
+Antimatter Charge M, Qty: 320
+Cap Recharger I, Qty: 2
+10MN Afterburner I
+Medium Armor Repairer I
+Reactor Control Unit I

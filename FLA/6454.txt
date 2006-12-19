@@ -1,0 +1,40 @@
+2006.11.14 16:35
+
+Victim: Limmy
+Alliance: None
+Corp: ReD eYe Inc.
+Destroyed: Caracal
+System: Mara
+Security: 0.4
+
+Involved parties:
+
+Name: Formosus Funus
+Security: 3.8
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: Kenhyou (laid the final blow)
+Security: 1.6
+Alliance: None
+Corp: Herrscher der Zeit Jagdgeschwader
+Ship: Pilgrim
+Weapon: Vespa II
+
+Name: Guristas Ascriber / Guristas
+
+
+Destroyed items:
+
+Flameburst Light Missile, Qty: 113
+Piranha Light Missile, Qty: 34
+Assault Missile Launcher I
+Assault Missile Launcher I
+Assault Missile Launcher I
+Assault Missile Launcher I
+Stasis Webifier I
+200mm Reinforced Titanium Plates I
+Bloodclaw Light Missile, Qty: 920 (Cargo)
+

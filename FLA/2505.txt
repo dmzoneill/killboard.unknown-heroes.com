@@ -1,0 +1,46 @@
+2007.02.16 22:54
+
+Victim: Shassandra
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Taranis
+System: F-NMX6
+Security: 0.0
+
+Involved parties:
+
+Name: Crazyness (laid the final blow)
+Security: 0.6
+Alliance: None
+Corp: The Kru
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Verizana
+Security: -2.9
+Alliance: None
+Corp: The Kru
+Ship: Lachesis
+Weapon: Heavy Missile Launcher II
+
+Name: xtreamer
+Security: -5.9
+Alliance: None
+Corp: The Kru
+Ship: Taranis
+Weapon: Light Neutron Blaster II
+
+Name: mirtax
+Security: -8.9
+Alliance: None
+Corp: The Kru
+Ship: Dominix
+Weapon: Phased Weapon Navigation Array Generation Extron
+
+
+Destroyed items:
+
+Antimatter Charge S, Qty: 173
+Warp Disruptor I
+Inertia Stabilizers I
+

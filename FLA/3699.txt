@@ -1,0 +1,82 @@
+2007.03.29 23:01
+
+Victim: Cobra64
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Hound
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: MC Alfritz
+Security: 3.7
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Hurricane
+Weapon: 650mm Artillery Cannon II
+
+Name: volly (laid the final blow)
+Security: 3.4
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Zealot
+Weapon: Heavy Pulse Laser II
+
+Name: khazid
+Security: 5.0
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Ship: Maller
+Weapon: Focused Medium Pulse Laser II
+
+Name: Xarax Sparow
+Security: 5.0
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Hurricane
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Messmint
+Security: 5.0
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Ship: Jaguar
+Weapon: 200mm AutoCannon II
+
+Name: Tanya Kovacs
+Security: 5.1
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Eagle
+Weapon: Assault Missile Launcher II
+
+Name: Sukur
+Security: 3.7
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Stabber
+Weapon: Dual 180mm AutoCannon II
+
+Name: KaKaShI
+Security: 3.9
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Muninn
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Ehre86
+Security: 0.6
+Alliance: YouWhat
+Corp: Dark Rising Shadow
+Ship: Caracal
+Weapon: Heavy Missile Launcher I
+
+Name: Chuck Dexter
+Security: 5.0
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Caracal
+Weapon: Assault Missile Launcher II
+
+

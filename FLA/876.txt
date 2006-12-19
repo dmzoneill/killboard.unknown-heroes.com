@@ -1,0 +1,24 @@
+2007.02.25 03:52
+
+Victim: Vindicus
+Alliance: Ushra'Khan
+Corp: Masuat'aa Matari
+Destroyed: Reaper
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Teck7 (laid the final blow)
+Security: 1.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ares
+Weapon: 125mm Railgun II
+
+
+Destroyed items:
+
+Civilian Gatling Autocannon
+Basic Miner
+

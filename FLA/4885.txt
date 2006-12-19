@@ -1,0 +1,45 @@
+2007.04.18 12:58
+
+Victim: Nil Desperandum
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Astarte
+System: RQH-MY
+Security: 0.0
+
+Involved parties:
+
+Name: Rennard (laid the final blow)
+Security: -5.2
+Alliance: None
+Corp: Aku Soku Zan
+Ship: Pilgrim
+Weapon: Hammerhead II
+
+Name: Xyton Zatnox
+Security: -6.0
+Alliance: None
+Corp: Aku Soku Zan
+Ship: Harpy
+Weapon: Harpy
+
+Name: VaygrLord Makaan
+Security: 3.2
+Alliance: Lupus Caerulus
+Corp: The TEAM
+Ship: Blackbird
+Weapon: Havoc Heavy Missile
+
+
+Destroyed items:
+
+Heavy Ion Blaster II
+Heavy Ion Blaster II
+Antimatter Charge M, Qty: 330
+Medium Electrochemical Capacitor Booster I
+F-90 Positional Sensor Subroutines
+Medium Armor Repairer II
+Armor Explosive Hardener I
+Antimatter Charge M, Qty: 1832 (Cargo)
+Cap Booster 800, Qty: 5 (Cargo)
+

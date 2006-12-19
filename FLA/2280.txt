@@ -1,0 +1,63 @@
+2007.02.04 19:18
+
+Victim: truefranco
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Destroyed: Crow
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Seldarine
+Security: 0.1
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Maule
+Security: 4.7
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Claw
+Weapon: 150mm Light AutoCannon II
+
+Name: Dark1
+Security: 3.2
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Claw
+Weapon: 200mm AutoCannon II
+
+Name: d0ri5
+Security: 0.1
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: Remmington Daniels (laid the final blow)
+Security: 0.9
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Sir JoJo
+Security: 2.1
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Rapier
+Weapon: Hammerhead II
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 86
+Standard Missile Launcher II
+Medium F-S9 Regolith Shield Induction
+1MN MicroWarpdrive II
+Micro Auxiliary Power Core I
+Piranha Precision Light Missile, Qty: 1000 (Cargo)
+

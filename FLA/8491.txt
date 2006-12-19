@@ -1,0 +1,46 @@
+2006.11.22 16:24
+
+Victim: Arra Veratar
+Alliance: Freelancer Alliance
+Corp: Caldar Mercenary Syndicate
+Destroyed: Vexor
+System: Jita
+Security: 0.9
+
+Involved parties:
+
+Name: Elliott Manchild (laid the final blow)
+Security: -1.7
+Alliance: None
+Corp: omen.
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Unfortunate Accident
+Security: -1.4
+Alliance: None
+Corp: omen.
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+
+Destroyed items:
+
+Dual 150mm Compressed Coil Gun I
+Dual 150mm Compressed Coil Gun I
+Dual 150mm Compressed Coil Gun I
+Iron Charge M, Qty: 56
+Y-S8 Hydrocarbon I Afterburners
+Peripheral Weapon Navigation Diameter
+N-Type Magnetic Membrane I
+Rudimentary Ship Scanner I (Cargo)
+Miner I (Cargo)
+Iridium Charge S, Qty: 100 (Cargo)
+Condensed Alloy, Qty: 6 (Cargo)
+Precious Alloy, Qty: 21 (Cargo)
+Sheen Compound, Qty: 3 (Cargo)
+Crystal Compound, Qty: 11 (Cargo)
+Dark Compound (Cargo)
+Gleaming Alloy (Cargo)
+Ogre I, Qty: 2 (Drone Bay)
+

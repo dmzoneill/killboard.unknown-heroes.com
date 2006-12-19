@@ -1,0 +1,45 @@
+2006.12.26 01:51
+
+Victim: Valtrinor
+Alliance: None
+Corp: e X i l e
+Destroyed: Rifter
+System: Litiura
+Security: 0.5
+
+Involved parties:
+
+Name: MonwrathDisortium (laid the final blow)
+Security: 1.6
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Deimos
+Weapon: Modal Electron Particle Accelerator I
+
+Name: SiriusCrow
+Security: 0.2
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: Pestily
+Security: 3.8
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Raven
+Weapon: Acolyte I
+
+
+Destroyed items:
+
+200mm AutoCannon I
+200mm AutoCannon I
+200mm AutoCannon I
+EMP S, Qty: 59
+Flameburst Light Missile, Qty: 39
+Standard Missile Launcher I
+EMP S, Qty: 1000 (Cargo)
+Carbonized Lead S, Qty: 1180 (Cargo)
+Flameburst Light Missile, Qty: 400 (Cargo)
+

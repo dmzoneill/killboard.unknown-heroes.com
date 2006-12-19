@@ -1,0 +1,30 @@
+2007.02.09 22:59
+
+Victim: Lane A'lusin
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Destroyed: Taranis
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: ukpAgAn (laid the final blow)
+Security: 5.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+
+Destroyed items:
+
+Regulated Light Neutron Phase Cannon I
+Antimatter Charge S, Qty: 200
+Small Armor Repairer II
+Nanofiber Internal Structure I
+Cap Recharger I (Cargo)
+1MN MicroWarpdrive I (Cargo)
+Sabretooth Light Missile, Qty: 1147 (Cargo)
+Piranha Precision Light Missile, Qty: 201 (Cargo)
+

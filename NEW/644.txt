@@ -1,0 +1,79 @@
+2007.04.28 23:48
+
+Victim: LUCKY HEADY
+Alliance: Mercenary Coalition
+Corp: Seraphin Technologies
+Destroyed: Huginn
+System: P-2TTL
+Security: 0.0
+
+Involved parties:
+
+Name: Samiloth Justinian
+Security: 5.0
+Alliance: Dark Matter Coalition
+Corp: Ascent of Ages
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Shassandra
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Ishkur
+Weapon: Warrior II
+
+Name: Kayron Brennan (laid the final blow)
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: coldkill
+Security: 1.9
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Enyo
+Weapon: Hobgoblin II
+
+Name: alpha lead
+Security: 2.3
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Tyrfing
+Security: 1.5
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Capsule
+Weapon: XR-3200 Heavy Missile Bay
+
+Name: Kvarium Ki
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Capsule
+Weapon: 250mm Light Carbine Howitzer I
+
+Name: wardey
+Security: 1.9
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Capsule
+Weapon: Initiated Warp Jammer I
+
+
+Destroyed items:
+
+Dual 180mm AutoCannon II
+Flameburst Light Missile, Qty: 66
+'Arbalest' Assault Missile Launcher
+Armor Explosive Hardener II
+Phased Plasma M, Qty: 975 (Cargo)
+Hail M, Qty: 1500 (Cargo)
+Barrage M, Qty: 1280 (Cargo)
+Piranha Light Missile, Qty: 167 (Cargo)
+Valkyrie II (Drone Bay)

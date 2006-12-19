@@ -1,0 +1,88 @@
+2007.04.03 01:12
+
+Victim: Nogob
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Destroyed: Executioner
+System: F7C-H0
+Security: 0.0
+
+Involved parties:
+
+Name: Thyago (laid the final blow)
+Security: 5.0
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Ishkur
+Weapon: Light Ion Blaster II
+
+Name: Lord Revent
+Security: 1.2
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Hound
+Weapon: Devastator Cruise Missile
+
+Name: Magnelien
+Security: 4.3
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: DrZarkov667
+Security: 0.2
+Alliance: YouWhat
+Corp: Dark Rising Shadow
+Ship: Thrasher
+Weapon: 280mm Howitzer Artillery I
+
+Name: Frostbeule
+Security: 3.3
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Myrmidon
+Weapon: 200mm AutoCannon II
+
+Name: Vaelastra
+Security: 3.0
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Rook
+Weapon: XR-3200 Heavy Missile Bay
+
+Name: Neily
+Security: 4.7
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Rook
+Weapon: Assault Missile Launcher I
+
+Name: Mannateen
+Security: 0.0
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Ship: Wolf
+Weapon: 280mm Howitzer Artillery II
+
+Name: Lakastre
+Security: 0.6
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Curse
+Weapon: Medium Nosferatu II
+
+Name: Exitao
+Security: 5.0
+Alliance: YouWhat
+Corp: Cosmic Odyssey
+Ship: Caracal
+Weapon: Heavy Missile Launcher I
+
+
+Destroyed items:
+
+Small Shield Booster II
+1MN MicroWarpdrive II
+Local Hull Conversion Overdrive Injector I
+

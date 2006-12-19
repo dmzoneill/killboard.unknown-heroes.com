@@ -1,0 +1,33 @@
+2007.04.22 01:25
+
+Victim: ventura5
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Flycatcher
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Orange Species (laid the final blow)
+Security: -2.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Ragnarok
+Weapon: Gjallarhorn
+
+
+Destroyed items:
+
+Sabretooth Light Missile, Qty: 41
+'Malkuth' Rocket Launcher I
+'Malkuth' Standard Missile Launcher I
+'Malkuth' Standard Missile Launcher I
+Warp Disrupt Probe, Qty: 9
+Kinetic Deflection Amplifier I
+Magnetic Scattering Amplifier I
+Shield Boost Amplifier I
+Sabretooth Light Missile, Qty: 258 (Cargo)
+Gremlin Rocket, Qty: 170 (Cargo)
+Warp Disrupt Probe, Qty: 56 (Cargo)
+

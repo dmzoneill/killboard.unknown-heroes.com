@@ -1,0 +1,40 @@
+2006.10.21 21:42
+
+Victim: D Dettermas
+Alliance: None
+Corp: Deep Space Logistics
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: brian crainie
+Security: 2.6
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Brutix
+Weapon: 150mm Railgun II
+
+Name: DarkJester (laid the final blow)
+Security: 0.7
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery I
+
+Name: Preying Mantis
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Blackbird
+Weapon: Piranha Light Missile
+
+Name: Formosus Funus
+Security: 2.9
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Jaguar
+Weapon: Jaguar
+
+

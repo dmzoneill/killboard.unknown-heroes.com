@@ -1,0 +1,19 @@
+2006.12.17 03:34
+
+Victim: DevilSlayer
+Alliance: None
+Corp: Evil Bandit Organisation
+Destroyed: Capsule
+System: X-7OMU
+Security: 0.0
+
+Involved parties:
+
+Name: Hosanna (laid the final blow)
+Security: 4.7
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+

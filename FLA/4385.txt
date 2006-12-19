@@ -1,0 +1,60 @@
+2007.04.09 01:57
+
+Victim: SoulAvenger
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Destroyed: Coercer
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Nowereman (laid the final blow)
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Lunalyia Ryche
+Security: 2.9
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Harbinger
+Weapon: Heavy Beam Laser II
+
+Name: Remataklan
+Security: 2.4
+Alliance: S.E.R.A
+Corp: Seraphin Technologies
+Ship: Megathron
+Weapon: 425mm 'Scout' I Accelerator Cannon
+
+Name: Guristas Demolisher / Guristas
+
+Name: Redginald
+Security: 4.5
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Hurricane
+Weapon: Warrior II
+
+Name: Morgena
+Security: -0.8
+Alliance: S.E.R.A
+Corp: Seraphin Technologies
+Ship: Thanatos
+Weapon: Firbolg
+
+
+Destroyed items:
+
+Dual Light Beam Laser II
+Dual Light Beam Laser II
+Dual Light Beam Laser II
+Aurora S
+Aurora S
+Aurora S
+'Refuge' Adaptive Nano Plating I
+Tracking Enhancer I
+

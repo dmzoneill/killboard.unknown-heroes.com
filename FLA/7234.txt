@@ -1,0 +1,40 @@
+2006.05.06 19:07
+
+Victim: TriDane
+Alliance: E.R.A
+Corp: Celtic Anarchy
+Destroyed: Capsule
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Shiri elAzarinres
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Caracal
+Weapon: X5 Prototype I Engine Enervator
+
+Name: Cockroach (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Vengeance
+Weapon: Piranha Light Missile
+
+Name: Mac Spliff
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Immortal Serial Killers
+Ship: Brutix
+Weapon: 250mm Railgun II
+
+Name: Wthor
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Dream Warriors Defence Alliance
+Ship: Stabber
+Weapon: 425mm AutoCannon I
+
+

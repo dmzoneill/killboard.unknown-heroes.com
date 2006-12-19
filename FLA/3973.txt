@@ -1,0 +1,47 @@
+2007.04.08 14:46
+
+Victim: ming good
+Alliance: None
+Corp: Federal Navy Academy
+Destroyed: Myrmidon
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Penal Serge (laid the final blow)
+Security: 5.0
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Drake
+Weapon: Thunderbolt Fury Heavy Missile
+
+Name: Wallyx
+Security: 4.5
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Armageddon
+Weapon: Acolyte II
+
+Name: Elena Morkovka
+Security: 1.7
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: gabla
+Security: 3.7
+Alliance: Darklite inc Alliance
+Corp: Darklite inc
+Ship: Incursus
+Weapon: Acolyte I
+
+Name: Porky
+Security: 1.9
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Crow
+Weapon: Warp Disruptor II
+
+

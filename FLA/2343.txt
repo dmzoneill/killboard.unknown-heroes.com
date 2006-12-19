@@ -1,0 +1,121 @@
+2007.02.06 03:37
+
+Victim: Korudon
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Ferox
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Funky Feeling
+Security: 4.6
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Myrmidon
+Weapon: Wasp I
+
+Name: EL TITAN
+Security: 1.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Vagabond
+Weapon: Warrior II
+
+Name: LadyScarlet (laid the final blow)
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Cerberus
+Weapon: Scourge Heavy Missile
+
+Name: Bogwad
+Security: 4.8
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Claw
+Weapon: Claw
+
+Name: Okuden
+Security: 1.6
+Alliance: Band of Brothers
+Corp: Black Eclipse Corp
+Ship: Deimos
+Weapon: Deimos
+
+Name: Gilad Pellaeon
+Security: 4.7
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Pilgrim
+Weapon: Valkyrie II
+
+Name: Polydectes
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Heretic
+Weapon: Heretic
+
+Name: Sexual Chocolate
+Security: 2.5
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Taranis
+Weapon: Taranis
+
+Name: Seldarine
+Security: 0.1
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Vagabond
+Weapon: Dual 180mm AutoCannon II
+
+Name: Leyalor Esperence
+Security: 2.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Sabre
+Weapon: Sabre
+
+Name: Dark1
+Security: 3.3
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Muninn
+Weapon: Hobgoblin I
+
+Name: Nick Curso
+Security: -0.3
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Crusader
+Weapon: Crusader
+
+Name: Gazmus
+Security: 0.8
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Taranis
+Weapon: Warrior II
+
+Name: Flavius Renatus
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Stiletto
+Weapon: Stiletto
+
+
+Destroyed items:
+
+250mm Railgun I
+250mm Railgun I
+Antimatter Charge M, Qty: 48
+Sensor Booster I
+'Orion' Tracking CPU I
+Tracking Enhancer II
+Antimatter Charge M, Qty: 1300 (Cargo)
+Iron Charge M, Qty: 882 (Cargo)
+

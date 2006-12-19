@@ -1,0 +1,40 @@
+2007.03.30 20:31
+
+Victim: MagicMos
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Destroyed: Capsule
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: KIAEnIgMa (laid the final blow)
+Security: 0.4
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Crow
+Weapon: Bloodclaw Precision Light Missile
+
+Name: Olli
+Security: -0.1
+Alliance: S.E.R.A
+Corp: Seraphin Technologies
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Pure Angel
+Security: 0.0
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Crow
+Weapon: Bloodclaw Precision Light Missile
+
+Name: Ferocious FeAr
+Security: 1.5
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Crow
+Weapon: Warp Disruptor II
+
+

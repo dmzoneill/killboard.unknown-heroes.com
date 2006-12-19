@@ -1,0 +1,75 @@
+2006.07.17 08:19
+
+Victim: Gareth Ultari
+Alliance: GoonSwarm
+Corp: GoonFleet
+Destroyed: Caracal
+System: CZDJ-1
+Security: 0.0
+
+Involved parties:
+
+Name: SaorAlba
+Security: 1.2
+Alliance: Dusk and Dawn
+Corp: Cataclysm Enterprises
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Popiejopie (laid the final blow)
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Black Lance
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Psychodelica
+Security: -1.6
+Alliance: Dusk and Dawn
+Corp: Euphoria Released
+Ship: Armageddon
+Weapon: Tachyon Anode Particle Stream I
+
+Name: Spike Spegel
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Infinite Improbability Inc
+Ship: Armageddon
+Weapon: Tachyon Beam Laser II
+
+Name: armslave
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Black Lance
+Ship: Megathron
+Weapon: 425mm Prototype I Gauss Gun
+
+Name: siliconix
+Security: 3.2
+Alliance: Dusk and Dawn
+Corp: Euphoria Released
+Ship: Scorpion
+Weapon: ECM - Spatial Destabilizer II
+
+Name: Matt Stoner
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Raven
+Weapon: 'Arbalest' Cruise Launcher I
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 30
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+Large Shield Extender I
+ECM - Multispectral Jammer I
+ECM - Multispectral Jammer I
+Sensor Booster I
+Sensor Booster I
+Scourge Heavy Missile, Qty: 1340 (Cargo)
+

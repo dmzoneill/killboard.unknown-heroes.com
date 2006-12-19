@@ -1,0 +1,41 @@
+2006.10.10 21:54
+
+Victim: Calgura
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Vexor
+System: Renyn
+Security: 0.9
+
+Involved parties:
+
+Name: Le Skunk (laid the final blow)
+Security: -1.3
+Alliance: None
+Corp: Privateers
+Ship: Dominix
+Weapon: Ogre II
+
+
+Destroyed items:
+
+150mm Carbide Railgun I
+250mm 'Scout' I Accelerator Cannon
+Iron Charge M, Qty: 40
+Antimatter Charge S, Qty: 70
+Small Tractor Beam I
+Barton Reactor Capacitor Recharger I
+Y-S8 Hydrocarbon I Afterburners
+800mm Reinforced Crystalline Carbonide Plates I
+800mm Reinforced Crystalline Carbonide Plates I
+Antimatter Charge S, Qty: 349 (Cargo)
+Iron Charge M, Qty: 547 (Cargo)
+Iron Charge S, Qty: 598 (Cargo)
+Lustering Alloy (Cargo)
+Sheen Compound, Qty: 3 (Cargo)
+Lucent Compound (Cargo)
+Acolyte I (Drone Bay)
+Warrior I (Drone Bay)
+Hobgoblin I (Drone Bay)
+Hornet I (Drone Bay)
+

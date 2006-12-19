@@ -1,0 +1,36 @@
+2007.03.05 19:38
+
+Victim: Amon Fire
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Destroyed: Punisher
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: VirkMaN (laid the final blow)
+Security: 0.2
+Alliance: Eternal Rapture
+Corp: Temptation inc.
+Ship: Absolution
+Weapon: Heavy Pulse Laser II
+
+Name: Solid Wilko
+Security: -1.8
+Alliance: Eternal Rapture
+Corp: Quantum Synergies
+Ship: Hurricane
+Weapon: Hurricane
+
+
+Destroyed items:
+
+Medium Pulse Laser I
+Medium Pulse Laser I
+J5 Prototype Warp Inhibitor I
+Energized Adaptive Nano Membrane I
+Mark I Generator Refitting: Capacitor Power Relay
+Mark I Generator Refitting: Capacitor Power Relay
+Radio S, Qty: 3 (Cargo)
+

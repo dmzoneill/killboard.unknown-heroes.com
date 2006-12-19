@@ -1,0 +1,71 @@
+2006.09.29 15:49
+
+Victim: DARKAS
+Alliance: Process of Elimination
+Corp: LDK
+Destroyed: Sacrilege
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Ian Storme
+Security: 1.1
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Ship: Scorpion
+Weapon: Cataclysm Cruise Missile
+
+Name: ThaSpot
+Security: 2.9
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Ship: Raven
+Weapon: Warrior I
+
+Name: Yangoor
+Security: 4.5
+Alliance: Freelancer Alliance
+Corp: THeOThErs
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: XxSOULxX
+Security: 1.3
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Ship: Thorax
+Weapon: Hammerhead I
+
+Name: Nil Desperandum (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Scorpion
+Weapon: Cataclysm Cruise Missile
+
+Name: dinj
+Security: 2.8
+Alliance: Freelancer Alliance
+Corp: London Transport
+Ship: Blackbird
+Weapon: Widowmaker Heavy Missile
+
+
+Destroyed items:
+
+Focused Medium Pulse Laser II
+Focused Medium Pulse Laser II
+Scorch M
+J5 Prototype Warp Inhibitor I
+Cap Booster 400
+Medium Armor Repairer II
+'Halcyon' Core Equalizer I
+Energized Adaptive Nano Membrane II
+Energized Thermic Membrane II
+Multifrequency M (Cargo)
+Cap Booster 800, Qty: 6 (Cargo)
+Conflagration M, Qty: 3 (Cargo)
+Warrior II (Drone Bay)
+Hobgoblin II, Qty: 2 (Drone Bay)
+

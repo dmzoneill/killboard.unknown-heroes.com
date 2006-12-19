@@ -1,0 +1,85 @@
+2007.05.29 22:18
+
+Victim: Karai Kamasu
+Alliance: Freelancer Alliance
+Corp: The Collective of Ascended Beings
+Destroyed: Vexor
+System: 93PI-4
+Security: 0.0
+
+Involved parties:
+
+Name: muniato
+Security: -0.1
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Zealot
+Weapon: Zealot
+
+Name: Nexus2010
+Security: 5.0
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Drake
+Weapon: Hobgoblin I
+
+Name: Rocsee M'afross
+Security: 5.0
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Cerberus
+Weapon: Scourge Heavy Missile
+
+Name: AnmmnA (laid the final blow)
+Security: 5.0
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Al3xAndr4
+Security: 0.1
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Heretic
+Weapon: Heretic
+
+Name: Space Fear
+Security: 5.0
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Crow
+Weapon: Warp Scrambler II
+
+Name: D4RT N3RDiUS
+Security: 4.1
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: Travieso
+Security: -2.5
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: Pyfius
+Security: 5.0
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Eris
+Weapon: Eris
+
+
+Destroyed items:
+
+Light Neutron Blaster I
+Light Neutron Blaster I
+J5 Prototype Warp Inhibitor I
+Cap Booster 800
+Medium Armor Repairer II
+Energized Basic Reactive Plating
+Tungsten Charge S, Qty: 4000 (Cargo)
+

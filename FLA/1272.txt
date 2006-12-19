@@ -1,0 +1,47 @@
+2007.03.10 02:32
+
+Victim: Schmeckel
+Alliance: Chorus of Dawn
+Corp: Cosmic Odyssey
+Destroyed: Capsule
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: WolfRavage (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Hyperion
+Weapon: 425mm Railgun I
+
+Name: ventura5
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Flycatcher
+Weapon: 75mm Gatling Rail II
+
+Name: Zattron
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Manticore
+Weapon: 'Arbalest' Cruise Launcher I
+
+Name: Swanny231
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Thorax
+Weapon: 250mm Carbide Railgun I
+
+Name: Nil Desperandum
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Lachesis
+Weapon: Remote Sensor Dampener II
+
+

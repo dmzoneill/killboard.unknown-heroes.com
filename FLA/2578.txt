@@ -1,0 +1,53 @@
+2007.02.24 06:25
+
+Victim: digital oxygen
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Destroyed: Thorax
+System: YZ-LQL
+Security: 0.0
+
+Involved parties:
+
+Name: Aelena Thraant (laid the final blow)
+Security: 5.0
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Myrmidon
+Weapon: Berserker I
+
+Name: Zensige
+Security: -5.9
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Megathron
+Weapon: Megathron
+
+Name: Tremador
+Security: 3.3
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: yakks
+Security: 3.1
+Alliance: Aftermath Alliance
+Corp: Dark Nebula Gallente Division
+Ship: Megathron
+Weapon: Megathron
+
+
+Destroyed items:
+
+Heavy Electron Blaster II
+Prototype Cloaking Device I
+Null M, Qty: 152
+J5b Phased Prototype Warp Inhibitor I
+Pseudoelectron Containment Field I
+Medium Armor Repairer II
+Magnetic Field Stabilizer II
+Energized Adaptive Nano Membrane II
+N-Type Explosive Hardener I
+Valkyrie II (Drone Bay)
+

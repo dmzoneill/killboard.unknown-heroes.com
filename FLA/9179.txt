@@ -1,0 +1,166 @@
+2007.05.03 03:55
+
+Victim: Flying Scotsman
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Destroyed: Phoenix
+System: C4C-Z4
+Security: 0.0
+
+Involved parties:
+
+Name: Auronof
+Security: -3.1
+Alliance: Dusk and Dawn
+Corp: ClanKillers
+Ship: Phoenix
+Weapon: Ogre I
+
+Name: ChefAce
+Security: 2.6
+Alliance: Sparta Alliance
+Corp: Lacedaemon.
+Ship: Phoenix
+Weapon: Ogre I
+
+Name: viper zulu
+Security: 4.3
+Alliance: Dusk and Dawn
+Corp: Omega Enterprises
+Ship: Moros
+Weapon: Moros
+
+Name: Lady LeJean
+Security: 4.6
+Alliance: Sparta Alliance
+Corp: Lacedaemon.
+Ship: Revelation
+Weapon: Acolyte II
+
+Name: Bobby Atlas
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Moros
+Weapon: Moros
+
+Name: Angeltear
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: Lynx Frontier Inc.
+Ship: Naglfar
+Weapon: Naglfar
+
+Name: Onat Five
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Omega Enterprises
+Ship: Moros
+Weapon: Moros
+
+Name: WHOSYADADDY
+Security: 2.0
+Alliance: Dusk and Dawn
+Corp: ClanKillers
+Ship: Phoenix
+Weapon: Berserker I
+
+Name: Swiveler
+Security: 3.7
+Alliance: Sparta Alliance
+Corp: Lynx Frontier Inc.
+Ship: Phoenix
+Weapon: Rift Torpedo I
+
+Name: Darth Sith
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: Lacedaemon.
+Ship: Revelation
+Weapon: Valkyrie II
+
+Name: Intensity Green
+Security: -1.4
+Alliance: RAZOR Alliance
+Corp: Cutting Edge Incorporated
+Ship: Thanatos
+Weapon: Dragonfly
+
+Name: Warwick Radcliff
+Security: 0.6
+Alliance: Sparta Alliance
+Corp: Lynx Frontier Inc.
+Ship: Moros
+Weapon: Moros
+
+Name: prathe
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Omega Enterprises
+Ship: Capsule
+Weapon: Citadel Torpedo Launcher I
+
+Name: Joe Blow
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Omega Enterprises
+Ship: Revelation
+Weapon: Revelation
+
+Name: Munch
+Security: 3.1
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Archon
+Weapon: Firbolg
+
+Name: Ikta Shoridon
+Security: 0.9
+Alliance: Dusk and Dawn
+Corp: ClanKillers
+Ship: Archon
+Weapon: Firbolg
+
+Name: SigmaPod
+Security: 0.0
+Alliance: RAZOR Alliance
+Corp: Cutting Edge Incorporated
+Ship: Thanatos
+Weapon: Einherji
+
+Name: Erfurt (laid the final blow)
+Security: 4.5
+Alliance: Imperial Republic Of the North
+Corp: VentureCorp
+Ship: Chimera
+Weapon: Dragonfly
+
+Name: Talidorn
+Security: 2.1
+Alliance: RAZOR Alliance
+Corp: Cutting Edge Incorporated
+Ship: Thanatos
+Weapon: Einherji
+
+Name: Small Artillery Battery / The X-Trading Company
+
+
+Destroyed items:
+
+Citadel Torpedo Launcher I
+Citadel Torpedo Launcher I
+Citadel Torpedo Launcher I
+Capital Shield Booster I
+Invulnerability Field II
+Heat Dissipation Field II
+Photon Scattering Field II
+Co-Processor II
+Ballistic Control System II
+Ballistic Control System II
+Giant Secure Container (Cargo)
+Strontium Clathrates, Qty: 1200 (Cargo)
+Nitrogen Isotopes, Qty: 2000 (Cargo)
+Doom Torpedo I, Qty: 997 (Cargo)
+Rift Torpedo I, Qty: 22 (Cargo)
+Warrior I, Qty: 4 (Drone Bay)
+

@@ -1,0 +1,32 @@
+2007.03.03 17:37
+
+Victim: the killers
+Alliance: None
+Corp: Deep Core Mining Inc.
+Destroyed: Ibis
+System: YZ-LQL
+Security: 0.0
+
+Involved parties:
+
+Name: sakana (laid the final blow)
+Security: -0.9
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Eris
+Weapon: Flameburst Light Missile
+
+Name: Ashlore
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Raptor
+Weapon: Warp Scrambler II
+
+
+Destroyed items:
+
+Civilian Gatling Railgun
+Basic Miner
+Tritanium (Cargo)
+

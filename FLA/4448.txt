@@ -1,0 +1,31 @@
+2007.04.10 09:33
+
+Victim: Draconian Arcane
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Destroyed: Rupture
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Sedith (laid the final blow)
+Security: 1.7
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Aeon
+Weapon: Dragonfly
+
+
+Destroyed items:
+
+650mm Artillery Cannon I
+650mm Artillery Cannon I
+Flameburst Light Missile, Qty: 94
+'Malkuth' Assault Missile Launcher I
+Stasis Webifier I
+Invulnerability Field I
+Wavelength Signal Enhancer I
+Tracking Enhancer I
+Flameburst Light Missile, Qty: 278 (Cargo)
+

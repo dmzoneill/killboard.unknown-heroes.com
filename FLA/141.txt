@@ -1,0 +1,38 @@
+2007.01.14 07:20
+
+Victim: TehKab
+Alliance: None
+Corp: Caldari Provisions
+Destroyed: Moa
+System: Hasmijaala
+Security: 0.3
+
+Involved parties:
+
+Name: Sorlac Aurora (laid the final blow)
+Security: 3.2
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Drake
+Weapon: Torrent Assault Missile
+
+Name: Guristas Renegade / Guristas
+
+
+Destroyed items:
+
+Heavy Neutron Blaster I
+Heavy Neutron Blaster I
+Antimatter Charge M, Qty: 260
+Thorn Rocket, Qty: 30
+Rocket Launcher I
+Medium C5-L Emergency Shield Overload I
+Kinetic Deflection Amplifier I
+Additional Thermal Barrier Emitter I
+Inertia Stabilizers I
+Nanofiber Internal Structure I
+Power Diagnostic System I
+Antimatter Charge M, Qty: 3259 (Cargo)
+Dread Guristas Silver Tag (Cargo)
+Thorn Rocket, Qty: 4831 (Cargo)
+

@@ -1,0 +1,29 @@
+2006.11.07 14:32
+
+Victim: MrMaggot
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Destroyed: Blackbird
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: GoLdeN BoY (laid the final blow)
+Security: 1.3
+Alliance: None
+Corp: Beer Guzzling Clowns With Blasters
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+
+Destroyed items:
+
+Widowmaker Heavy Missile, Qty: 31
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+Initiated Harmonic Warp Jammer I
+V-M15 Braced Multispectral Shield Matrix
+Induced Multispectral ECM I
+Multi Sensor Backup Array I
+

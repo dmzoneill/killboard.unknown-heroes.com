@@ -1,0 +1,66 @@
+2007.02.16 22:48
+
+Victim: coldkill
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Destroyed: Thorax
+System: RORZ-H
+Security: 0.0
+
+Involved parties:
+
+Name: UltraDragon (laid the final blow)
+Security: -1.6
+Alliance: None
+Corp: The Kru
+Ship: Typhoon
+Weapon: Mjolnir Torpedo
+
+Name: Svavz
+Security: -7.3
+Alliance: None
+Corp: The Kru
+Ship: Typhoon
+Weapon: Mjolnir Torpedo
+
+Name: GuffenCom
+Security: -2.0
+Alliance: None
+Corp: The Kru
+Ship: Typhoon
+Weapon: Hobgoblin II
+
+Name: Verizana
+Security: -2.9
+Alliance: None
+Corp: The Kru
+Ship: Lachesis
+Weapon: Scourge Precision Heavy Missile
+
+Name: Crazyness
+Security: 0.6
+Alliance: None
+Corp: The Kru
+Ship: Crow
+Weapon: Faint Warp Prohibitor I
+
+Name: mirtax
+Security: -8.9
+Alliance: None
+Corp: The Kru
+Ship: Dominix
+Weapon: Fleeting Warp Scrambler I
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Heavy Neutron Blaster I
+Heavy Neutron Blaster I
+Antimatter Charge M, Qty: 240
+10MN MicroWarpdrive I
+Reactor Control Unit I
+Antimatter Charge M, Qty: 4267 (Cargo)
+Nanofiber Internal Structure I (Cargo)
+Hammerhead II, Qty: 2 (Drone Bay)
+

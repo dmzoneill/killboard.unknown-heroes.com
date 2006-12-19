@@ -1,0 +1,77 @@
+2007.05.02 23:12
+
+Victim: Kmacross
+Alliance: None
+Corp: Caldari Provisions
+Destroyed: Abaddon
+System: Oulley
+Security: 0.3
+
+Involved parties:
+
+Name: Aikuchi Hiddensword (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Thorax
+Weapon: Anode Electron Particle Cannon I
+
+Name: Iskla
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Vexor
+Weapon: Vexor
+
+Name: Teck7
+Security: 1.7
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Lachesis
+Weapon: Valkyrie II
+
+Name: Dana Foxworth
+Security: 3.7
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: Myfanwy Pisces
+Security: 1.9
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Harbinger
+Weapon: Harbinger
+
+Name: RayTruz
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Serpentis Chief Spy / Serpentis Corporation
+
+
+Destroyed items:
+
+Mega Pulse Laser II
+Heavy Diminishing Power System Drain I
+Conflagration L
+Conflagration L
+Conflagration L
+100MN Afterburner II
+Fleeting Propulsion Inhibitor I
+Heavy Capacitor Booster I
+Cap Booster 800
+Cap Booster 800
+Cap Booster 800
+Cap Booster 800
+Damage Control II
+Large Armor Repairer II
+Adaptive Nano Plating II
+Heat Sink II
+Cap Booster 800, Qty: 14 (Cargo)
+Scorch L, Qty: 2 (Cargo)
+

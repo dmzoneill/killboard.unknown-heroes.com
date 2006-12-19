@@ -1,0 +1,47 @@
+2007.04.27 16:31
+
+Victim: wardey
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Executioner
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Indiano Arko (laid the final blow)
+Security: 0.6
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Hurricane
+Weapon: 720mm Howitzer Artillery I
+
+Name: Fitz Farseer
+Security: 0.5
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Rifter
+Weapon: Piranha Light Missile
+
+Name: Hojou
+Security: 0.4
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Incursus
+Weapon: Incursus
+
+Name: Reverend Revelator
+Security: 1.5
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Brutix
+Weapon: Brutix
+
+Name: Clarissime
+Security: 0.8
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Rifter
+Weapon: Warp Disruptor I
+
+

@@ -1,0 +1,28 @@
+2007.05.04 20:42
+
+Victim: lethario desrtuction
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Manticore
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Corovus (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Nemesis
+Weapon: Cataclysm Cruise Missile
+
+
+Destroyed items:
+
+Improved Cloaking Device II
+Wrath Cruise Missile, Qty: 20
+'Arbalest' Cruise Launcher I
+'Arbalest' Cruise Launcher I
+Low Frequency Sensor Suppressor I
+Wrath Cruise Missile, Qty: 445 (Cargo)
+

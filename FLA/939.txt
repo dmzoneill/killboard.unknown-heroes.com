@@ -1,0 +1,33 @@
+2007.02.27 19:54
+
+Victim: Janna Sparrow
+Alliance: None
+Corp: S.P.Q.R
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Tregaron
+Security: 1.7
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Wolf
+Weapon: 200mm AutoCannon II
+
+Name: Zarkovich (laid the final blow)
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Taranis
+Weapon: Light Neutron Blaster I
+
+Name: Esk Esme
+Security: 1.1
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Flycatcher
+Weapon: X5 Prototype I Engine Enervator
+
+

@@ -1,0 +1,49 @@
+2007.01.11 16:05
+
+Victim: Kateryne
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Destroyed: Claymore
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Lemlins Craken
+Security: -0.3
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+Name: Evil Pookie
+Security: 4.6
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Warrior II
+
+Name: DHB WildCat (laid the final blow)
+Security: -1.2
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Wrath Cruise Missile
+
+Name: Feyd Mantis
+Security: 2.6
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Tempest
+Weapon: Warrior II
+
+
+Destroyed items:
+
+Phased Plasma M, Qty: 198
+Skirmish Warfare Link - Evasive Maneuvers
+Skirmish Warfare Link - Rapid Deployment
+Large Shield Booster II
+10MN MicroWarpdrive I
+Damage Control II
+

@@ -1,0 +1,111 @@
+2006.09.01 19:34
+
+Victim: Podruski
+Alliance: None
+Corp: ORDER OF THE WOMBLES
+Destroyed: Deimos
+System: Aunenen
+Security: 0.4
+
+Involved parties:
+
+Name: Foot M
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Ship: Scorpion
+Weapon: Devastator Cruise Missile
+
+Name: Caldari Sentry Gun III / Zero-G Research Firm
+
+Name: Kael Urui (laid the final blow)
+Security: 1.3
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Ship: Blackbird
+Weapon: Widowmaker Heavy Missile
+
+Name: seemetalk
+Security: 0.1
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Ship: Rifter
+Weapon: Rifter
+
+Name: RADEMAR
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Ship: Prophecy
+Weapon: Heavy Pulse Laser II
+
+Name: Terena Darkeen
+Security: 0.4
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Ship: Punisher
+Weapon: Gatling Pulse Laser II
+
+Name: Zevion
+Security: 0.1
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Ship: Rifter
+Weapon: Sabretooth Light Missile
+
+Name: Defhammer
+Security: 0.2
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Ship: Capsule
+Weapon: Warp Disruptor I
+
+Name: Caldari Sentry Gun III / Caldari Navy
+
+Name: Stardust Mina
+Security: 1.0
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Ship: Merlin
+Weapon: Sabretooth Light Missile
+
+Name: Dimthasheen
+Security: 0.2
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Ship: Capsule
+Weapon: 125mm Compressed Coil Gun I
+
+Name: Glaken
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Ship: Capsule
+Weapon: Warp Disruptor I
+
+Name: Marp
+Security: 0.3
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Ship: Capsule
+Weapon: Rocket Launcher I
+
+Name: Meazy Turk
+Security: 0.2
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Ship: Capsule
+Weapon: Warp Scrambler I
+
+Name: Guristas Nihilist / Guristas
+
+
+Destroyed items:
+
+Small 'Ghoul' Energy Siphon I
+Null M, Qty: 324
+X5 Prototype I Engine Enervator
+F85 Peripheral Damage System I
+Medium Armor Repairer II
+Magnetic Field Stabilizer II
+

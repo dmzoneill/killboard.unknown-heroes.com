@@ -1,0 +1,38 @@
+2007.04.26 23:56
+
+Victim: Elrid Barnes
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Rifter
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Magic Mazuma (laid the final blow)
+Security: 0.1
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Thrasher
+Weapon: 250mm Light Artillery Cannon I
+
+Name: Thafesko
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Drake
+Weapon: Hobgoblin I
+
+
+Destroyed items:
+
+Thorn Rocket
+Thorn Rocket
+Thorn Rocket
+Thorn Rocket
+Thorn Rocket
+Thorn Rocket
+Thorn Rocket
+1MN MicroWarpdrive I
+Thorn Rocket, Qty: 4 (Cargo)
+

@@ -1,0 +1,80 @@
+2007.04.09 16:36
+
+Victim: Bobby Atlas
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Megathron
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Odda (laid the final blow)
+Security: 4.4
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Thanatos
+Weapon: Firbolg
+
+Name: Stradivarious
+Security: 3.7
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Nidhoggur
+Weapon: Einherji
+
+Name: Eleese
+Security: -0.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Lachesis
+Weapon: Valkyrie II
+
+Name: Rukaz
+Security: 3.1
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Dol Amroth
+Security: 0.2
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Thanatos
+Weapon: Templar
+
+Name: Crovan
+Security: 2.8
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Taranis
+Weapon: 125mm Railgun II
+
+Name: Waagaa Ktlehr
+Security: -1.1
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Aeon
+Weapon: Dragonfly
+
+
+Destroyed items:
+
+425mm Compressed Coil Gun I
+425mm Carbide Railgun I
+425mm Carbide Railgun I
+425mm Carbide Railgun I
+Antimatter Charge L, Qty: 29
+Devastator Cruise Missile, Qty: 17
+Eutectic I Capacitor Charge Array
+F-b10 Nominal Capacitor Regenerator
+Medium Electrochemical Capacitor Booster I
+Cap Booster 800
+Damage Control II
+Magnetic Field Stabilizer II
+Armor Kinetic Hardener II
+Thorium Charge L, Qty: 1250 (Cargo)
+Cap Booster 800, Qty: 10 (Cargo)
+Praetor I (Drone Bay)
+

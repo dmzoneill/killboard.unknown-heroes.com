@@ -1,0 +1,26 @@
+2007.04.11 13:28
+
+Victim: Rohan V
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Capsule
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Gordon Red
+Security: 2.1
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Heretic
+Weapon: Faint Warp Prohibitor I
+
+Name: The Ali (laid the final blow)
+Security: -3.2
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Vagabond
+Weapon: Dual 180mm AutoCannon II
+
+

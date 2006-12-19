@@ -1,0 +1,122 @@
+2007.02.17 19:47
+
+Victim: Elgcaress
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Destroyed: Celestis
+System: YZ-LQL
+Security: 0.0
+
+Involved parties:
+
+Name: Jolar
+Security: 1.1
+Alliance: Band of Brothers
+Corp: Reikoku
+Ship: Crusader
+Weapon: Crusader
+
+Name: Hazrat Izza (laid the final blow)
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Crusader
+Weapon: Dual Light Beam Laser II
+
+Name: Flavius Renatus
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Claw
+Weapon: Claw
+
+Name: Issaqua
+Security: -2.1
+Alliance: None
+Corp: Constructive Influence
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Twister
+Security: 0.6
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Taranis
+Weapon: Taranis
+
+Name: Agiosgeogios
+Security: 4.3
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Dooshotron
+Security: 4.9
+Alliance: Band of Brothers
+Corp: Black Eclipse Corp
+Ship: Taranis
+Weapon: Taranis
+
+Name: Aman Sul
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Crusader
+Weapon: Crusader
+
+Name: Funky Feeling
+Security: 4.7
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Taranis
+Weapon: Taranis
+
+Name: Tamora
+Security: 3.2
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Stabber
+Weapon: Stabber
+
+Name: Haematite
+Security: 0.5
+Alliance: Band of Brothers
+Corp: Reikoku
+Ship: Crow
+Weapon: Standard Missile Launcher I
+
+Name: MegaTher1on
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Reikoku
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Syrus666
+Security: 1.2
+Alliance: Band of Brothers
+Corp: Reikoku
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: Empero
+Security: 0.2
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Daredevil
+Weapon: Gremlin Rocket
+
+
+Destroyed items:
+
+150mm 'Scout' I Accelerator Cannon
+150mm Prototype I Gauss Gun
+Lead Charge S, Qty: 40
+Indirect Scanning Dampening Unit I
+Remote Sensor Dampener I
+1600mm Reinforced Steel Plates I
+Thorium Charge S, Qty: 600 (Cargo)
+Warrior I (Drone Bay)
+Warrior II, Qty: 3 (Drone Bay)
+

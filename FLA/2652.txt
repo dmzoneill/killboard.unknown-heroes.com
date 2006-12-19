@@ -1,0 +1,31 @@
+2007.03.01 02:15
+
+Victim: Phlegm Haalsa
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Harpy
+System: K8L-X7
+Security: 0.0
+
+Involved parties:
+
+Name: Stutka Driver (laid the final blow)
+Security: 4.6
+Alliance: Corelum Syndicate
+Corp: Coreli Corporation
+Ship: Sabre
+Weapon: 200mm AutoCannon II
+
+
+Destroyed items:
+
+150mm 'Scout' I Accelerator Cannon
+150mm 'Scout' I Accelerator Cannon
+150mm 'Scout' I Accelerator Cannon
+Iron Charge S, Qty: 80
+Rocket Launcher I
+M51 Iterative Shield Regenerator
+M51 Iterative Shield Regenerator
+1MN MicroWarpdrive I
+Nanofiber Internal Structure I
+

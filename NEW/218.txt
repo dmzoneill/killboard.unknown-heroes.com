@@ -1,0 +1,158 @@
+2007.02.09 21:22
+
+Victim: Zap Zaberdine
+Alliance: Triumvirate.
+Corp: D00M.
+Destroyed: Tempest
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Alski
+Security: 2.8
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Myrmidon
+Weapon: 250mm Carbide Railgun I
+
+Name: beretta74
+Security: 3.4
+Alliance: The Foundation.
+Corp: EVE Corporation 160607
+Ship: Drake
+Weapon: Bloodclaw Light Missile
+
+Name: Kandread
+Security: 0.6
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: bidman (laid the final blow)
+Security: 4.7
+Alliance: None
+Corp: BGG
+Ship: Raven
+Weapon: Bane Javelin Torpedo
+
+Name: ventura5
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Drake
+Weapon: Hornet II
+
+Name: nXus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+Name: WolfRavage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Hyperion
+Weapon: Hyperion
+
+Name: Valea Silpha
+Security: 2.1
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Rupture
+Weapon: Hornet I
+
+Name: 3M TA3
+Security: -1.9
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Raven
+Weapon: Wrath Cruise Missile
+
+Name: Darkwing Death
+Security: 0.0
+Alliance: None
+Corp: Amesha Spentaz Holdings
+Ship: Rokh
+Weapon: Rokh
+
+Name: Hous Pharteen
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Ship: Curse
+Weapon: Hobgoblin II
+
+Name: Burn Lump
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Ferox
+Weapon: Ferox
+
+Name: sako1963
+Security: 2.8
+Alliance: The Foundation.
+Corp: EVE Corporation 160607
+Ship: Thorax
+Weapon: Thorax
+
+Name: Lux0r
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Hawk
+Weapon: Bloodclaw Precision Light Missile
+
+Name: Xerxes Vorian
+Security: 1.2
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Blackbird
+Weapon: Blackbird
+
+Name: r Cubed
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: The Night Crew
+Ship: Caracal
+Weapon: Hammerhead I
+
+Name: Slinktress
+Security: 2.6
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Dominix
+Weapon: Tachyon Modulated Energy Beam I
+
+Name: arthell
+Security: 2.8
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Vexor
+Weapon: Acolyte I
+
+Name: Liesin
+Security: 3.2
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Moa
+Weapon: Moa
+
+
+Destroyed items:
+
+Heavy Unstable Power Fluctuator I
+Cynosural Field Generator I
+Quake L, Qty: 24
+Tracking Computer II, Qty: 2
+Gyrostabilizer II
+Phased Plasma L, Qty: 494 (Cargo)
+Quake L, Qty: 1232 (Cargo)
+Tremor L, Qty: 1296 (Cargo)
+Liquid Ozone, Qty: 400 (Cargo)
+Hammerhead II, Qty: 2 (Drone Bay)
+Warrior II, Qty: 5 (Drone Bay)

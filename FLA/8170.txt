@@ -1,0 +1,32 @@
+2006.10.25 21:22
+
+Victim: Formosus Funus
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Destroyed: Wolf
+System: Aunenen
+Security: 0.4
+
+Involved parties:
+
+Name: LordVodka (laid the final blow)
+Security: -7.4
+Alliance: None
+Corp: Earned In Blood
+Ship: Arbitrator
+Weapon: Valkyrie II
+
+
+Destroyed items:
+
+150mm Light AutoCannon II
+150mm Light AutoCannon II
+150mm Light AutoCannon II
+Barrage S, Qty: 157
+Sabretooth Light Missile, Qty: 45
+400mm Reinforced Rolled Tungsten Plates I
+V-M15 Braced Multispectral Shield Matrix (Cargo)
+Dread Guristas Iron Charge S, Qty: 1000 (Cargo)
+Barrage S, Qty: 7143 (Cargo)
+Sabretooth Light Missile, Qty: 1496 (Cargo)
+

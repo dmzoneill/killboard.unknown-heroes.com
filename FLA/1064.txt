@@ -1,0 +1,40 @@
+2007.03.04 14:26
+
+Victim: Phil Future1
+Alliance: None
+Corp: State War Academy
+Destroyed: Caracal
+System: Aldali
+Security: 0.4
+
+Involved parties:
+
+Name: skitz blitz (laid the final blow)
+Security: -1.3
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Typhoon
+Weapon: Ogre II
+
+Name: Sansha's Juggernaut / True Power
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 43
+XR-3200 Heavy Missile Bay
+XR-3200 Heavy Missile Bay
+Medium Azeotropic Ward Salubrity I
+Y-S8 Hydrocarbon I Afterburners
+Heat Dissipation Amplifier I
+Mark I Generator Refitting: Reaction Control
+Monopropellant I Hydrazine Boosters (Cargo)
+1MN Afterburner I (Cargo)
+Small Nosferatu I (Cargo)
+Small Proton Smartbomb I (Cargo)
+Defender I, Qty: 100 (Cargo)
+Warp Core Stabilizer I (Cargo)
+50mm Reinforced Titanium Plates I (Cargo)
+True Sansha Copper Tag (Cargo)
+Stalker F.O.F. Heavy Missile I, Qty: 100 (Cargo)
+

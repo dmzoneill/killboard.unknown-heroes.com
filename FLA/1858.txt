@@ -1,0 +1,43 @@
+2007.01.07 02:23
+
+Victim: Nil Desperandum
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Ares
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: SATAN
+Security: -0.9
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Warrior II
+
+Name: Masta Killa (laid the final blow)
+Security: -1.7
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+Name: ETS4ME
+Security: 0.7
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+Name: Dire Guristas Despoiler / Guristas
+
+
+Destroyed items:
+
+Antimatter Charge S, Qty: 79
+Catalyzed Cold-Gas I Arcjet Thrusters
+Antimatter Charge S, Qty: 400 (Cargo)
+Foxfire Rocket, Qty: 170 (Cargo)
+Thorn Rocket, Qty: 200 (Cargo)
+

@@ -1,0 +1,33 @@
+2007.02.05 16:11
+
+Victim: Spartan dax
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Destroyed: Capsule
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Low Blow
+Security: 2.3
+Alliance: Band of Brothers
+Corp: Black Eclipse Corp
+Ship: Zealot
+Weapon: Heavy Beam Laser II
+
+Name: Nephrops norvegicus
+Security: -1.1
+Alliance: Band of Brothers
+Corp: Black Eclipse Corp
+Ship: Crusader
+Weapon: Crusader
+
+Name: Flavius Renatus (laid the final blow)
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Stiletto
+Weapon: 200mm AutoCannon II
+
+

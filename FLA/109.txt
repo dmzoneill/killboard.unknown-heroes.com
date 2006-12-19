@@ -1,0 +1,29 @@
+2007.01.10 23:13
+
+Victim: Cs3Sl2
+Alliance: None
+Corp: Agony Unleashed
+Destroyed: Cormorant
+System: X-7OMU
+Security: 0.0
+
+Involved parties:
+
+Name: Dr Andy (laid the final blow)
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Celestis
+Weapon: 200mm Prototype I Gauss Gun
+
+
+Destroyed items:
+
+150mm 'Scout' I Accelerator Cannon
+150mm 'Scout' I Accelerator Cannon
+150mm Carbide Railgun I
+150mm Carbide Railgun I
+Antimatter Charge S, Qty: 190
+Micro Auxiliary Power Core I
+Antimatter Charge S, Qty: 760 (Cargo)
+

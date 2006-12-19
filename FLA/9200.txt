@@ -1,0 +1,19 @@
+2007.04.30 20:14
+
+Victim: Falke
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Destroyed: Capsule
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Screamer (laid the final blow)
+Security: 1.0
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Manticore
+Weapon: Wrath Precision Cruise Missile
+
+

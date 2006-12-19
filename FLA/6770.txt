@@ -1,0 +1,26 @@
+2006.11.27 17:02
+
+Victim: judon
+Alliance: The SUdden Death Squad
+Corp: FM Corp
+Destroyed: Capsule
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: NOCLUE (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Sin-X Inc.
+Ship: Raven
+Weapon: Wrath Cruise Missile
+
+Name: WolfRavage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Dominix
+Weapon: Wasp I
+
+

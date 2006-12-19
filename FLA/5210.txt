@@ -1,0 +1,26 @@
+2007.04.26 22:23
+
+Victim: Fitz Farseer
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Capsule
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Corovus (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Arazu
+Weapon: 200mm 'Scout' I Accelerator Cannon
+
+Name: EvilBadger
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Hawk
+Weapon: Standard Missile Launcher II
+
+

@@ -1,0 +1,62 @@
+2007.04.28 23:47
+
+Victim: Tyrfing
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Rupture
+System: P-2TTL
+Security: 0.0
+
+Involved parties:
+
+Name: FowlPlayChiken (laid the final blow)
+Security: 1.2
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Thorax
+Weapon: Heavy Neutron Blaster II
+
+Name: Enosh Kerrim
+Security: -1.0
+Alliance: Mercenary Coalition
+Corp: Seraphin Technologies
+Ship: Ishtar
+Weapon: Ogre II
+
+Name: Feterous Jolin
+Security: -2.3
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Harpy
+Weapon: Harpy
+
+Name: LUCKY HEADY
+Security: -1.6
+Alliance: Mercenary Coalition
+Corp: Seraphin Technologies
+Ship: Huginn
+Weapon: Piranha Light Missile
+
+Name: Kiyoko Ashikawa
+Security: 2.3
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Jaguar
+Weapon: Jaguar
+
+
+Destroyed items:
+
+650mm Artillery Cannon II
+650mm Artillery Cannon II
+Quake M, Qty: 52
+XR-3200 Heavy Missile Bay
+XR-3200 Heavy Missile Bay
+Warp Disruptor I
+'Langour' Drive Disruptor I
+N-Type Thermic Hardener I
+Type-D Power Core Modification: Reaction Control
+Type-D Power Core Modification: Reaction Control
+Scourge Heavy Missile, Qty: 160 (Cargo)
+Warrior I, Qty: 3 (Drone Bay)
+

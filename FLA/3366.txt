@@ -1,0 +1,19 @@
+2007.03.24 22:39
+
+Victim: Baja Bently
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Olli (laid the final blow)
+Security: -0.1
+Alliance: S.E.R.A
+Corp: Seraphin Technologies
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+

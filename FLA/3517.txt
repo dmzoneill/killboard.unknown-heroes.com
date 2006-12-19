@@ -1,0 +1,66 @@
+2007.04.01 17:03
+
+Victim: Vily
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Destroyed: Crow
+System: 3T7-M8
+Security: 0.0
+
+Involved parties:
+
+Name: Soliloquil
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Raven
+Weapon: Juggernaut Torpedo
+
+Name: Malcanis (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Raven
+Weapon: Cataclysm Cruise Missile
+
+Name: Jonan Saviere
+Security: 4.1
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Arazu
+Weapon: Arazu
+
+Name: eXistenZ1337
+Security: 1.7
+Alliance: Guardian Federation
+Corp: Dragon Clan
+Ship: Unknown
+Weapon: 'Abandon' Targeting Disruptor I
+
+Name: Spartan dax
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Unknown
+Weapon: Standard Missile Launcher I
+
+
+Destroyed items:
+
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Bloodclaw Light Missile, Qty: 47
+Standard Missile Launcher II
+Standard Missile Launcher II
+Standard Missile Launcher II
+Bloodclaw Precision Light Missile, Qty: 100
+Dark Blood Warp Disruptor
+Micro Auxiliary Power Core I
+Hammerhead II, Qty: 2 (Cargo)
+Sabretooth Light Missile, Qty: 180 (Cargo)
+Sabretooth Precision Light Missile, Qty: 494 (Cargo)
+

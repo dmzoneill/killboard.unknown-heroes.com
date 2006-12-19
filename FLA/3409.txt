@@ -1,0 +1,90 @@
+2007.03.25 19:57
+
+Victim: Skull Fire
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Scorpion
+System: Alsavoinon
+Security: 0.3
+
+Involved parties:
+
+Name: Gallente Sentry Gun / Federation Navy
+
+Name: Solid Wilko
+Security: -1.7
+Alliance: Eternal Rapture
+Corp: Quantum Synergies
+Ship: Hurricane
+Weapon: Bloodclaw Light Missile
+
+Name: Handon Guild (laid the final blow)
+Security: -2.9
+Alliance: Eternal Rapture
+Corp: Exotic Dancers Club
+Ship: Dominix
+Weapon: Berserker II
+
+Name: Ion Bartzabel
+Security: -0.2
+Alliance: Eternal Rapture
+Corp: Temptation inc.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Garnet Tribal
+Security: 2.0
+Alliance: Eternal Rapture
+Corp: Temptation inc.
+Ship: Raven
+Weapon: Cataclysm Cruise Missile
+
+Name: blh 42
+Security: -3.5
+Alliance: Eternal Rapture
+Corp: Exotic Dancers Club
+Ship: Dominix
+Weapon: Berserker I
+
+Name: Gliding
+Security: -1.9
+Alliance: Eternal Rapture
+Corp: Quantum Synergies
+Ship: Taranis
+Weapon: Light Neutron Blaster II
+
+Name: Chode Rizoum
+Security: -2.0
+Alliance: Eternal Rapture
+Corp: Temptation inc.
+Ship: Taranis
+Weapon: Hornet II
+
+Name: R3voLveR
+Security: 0.4
+Alliance: Eternal Rapture
+Corp: Quantum Synergies
+Ship: Kestrel
+Weapon: X5 Prototype I Engine Enervator
+
+
+Destroyed items:
+
+Cataclysm Cruise Missile, Qty: 14
+Wrath Cruise Missile, Qty: 15
+'Arbalest' Cruise Launcher I
+ECM - Multispectral Jammer I
+Emergency Damage Control I
+E500 Prototype Energy Vampire (Cargo)
+Vespa II, Qty: 2 (Cargo)
+Hammerhead II (Cargo)
+Long Distance Jamming (Cargo)
+Scourge Heavy Missile, Qty: 1000 (Cargo)
+Paradise Cruise Missile, Qty: 560 (Cargo)
+Devastator Cruise Missile, Qty: 594 (Cargo)
+Cataclysm Cruise Missile, Qty: 557 (Cargo)
+Hammerhead I (Drone Bay)
+Vespa II (Drone Bay)
+Berserker I (Drone Bay)
+Infiltrator II (Drone Bay)
+

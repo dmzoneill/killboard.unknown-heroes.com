@@ -1,0 +1,46 @@
+2007.04.06 06:37
+
+Victim: Fergie11
+Alliance: None
+Corp: State War Academy
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: ventura5 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: Darthirishguy
+Security: 2.1
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Merlin
+Weapon: 'Langour' Drive Disruptor I
+
+Name: kakakarrr
+Security: -1.2
+Alliance: DeStInY.
+Corp: The Knights Of Camelot
+Ship: Rifter
+Weapon: 200mm AutoCannon I
+
+Name: Nukuquqa Hestase
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Caracal
+Weapon: 'Arbalest' Assault Missile Launcher
+
+Name: FlobbMkII
+Security: 4.4
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Celestis
+Weapon: 125mm Railgun II
+

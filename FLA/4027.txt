@@ -1,0 +1,26 @@
+2007.04.10 08:36
+
+Victim: Murik Vherok
+Alliance: None
+Corp: Pator Tech School
+Destroyed: Slasher
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Kristian Dugat (laid the final blow)
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Apocalypse
+Weapon: Mega Pulse Laser II
+
+Name: sunshine nl
+Security: 1.9
+Alliance: Darklite inc Alliance
+Corp: Darklite inc
+Ship: Cormorant
+Weapon: Cormorant
+
+

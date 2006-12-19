@@ -1,0 +1,40 @@
+2007.04.02 18:54
+
+Victim: Seryius
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Destroyed: Capsule
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Enosh Kerrim (laid the final blow)
+Security: -1.8
+Alliance: S.E.R.A
+Corp: Seraphin Technologies
+Ship: Astarte
+Weapon: Heavy Neutron Blaster II
+
+Name: Emelie
+Security: -3.7
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Eris
+Weapon: Eris
+
+Name: Ran Fujimiya
+Security: 0.4
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Raptor
+Weapon: Raptor
+
+Name: END3R 101
+Security: -0.7
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Malediction
+Weapon: Fleeting Warp Scrambler I
+
+

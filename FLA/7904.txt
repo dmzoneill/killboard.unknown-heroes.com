@@ -1,0 +1,30 @@
+2006.09.27 19:01
+
+Victim: XxSOULxX
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Destroyed: Thorax
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: FraXy (laid the final blow)
+Security: 0.6
+Alliance: Ascendant Frontier
+Corp: Celestial Fleet
+Ship: Zealot
+Weapon: Heavy Pulse Laser II
+
+
+Destroyed items:
+
+Small 'Knave' I Energy Drain
+200mm Prototype I Gauss Gun
+Iridium Charge M, Qty: 80
+Basic Damage Control
+400mm Reinforced Crystalline Carbonide Plates I
+Iridium Charge M, Qty: 387 (Cargo)
+Plutonium Charge M, Qty: 329 (Cargo)
+Hammerhead I, Qty: 3 (Drone Bay)
+

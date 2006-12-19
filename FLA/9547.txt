@@ -1,0 +1,61 @@
+2007.05.10 19:34
+
+Victim: Iron Freaky
+Alliance: None
+Corp: ADAC - Gmbh
+Destroyed: Raven
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: BigggSexy
+Security: -1.6
+Alliance: None
+Corp: g guild
+Ship: Rokh
+Weapon: Rokh
+
+Name: Damon Runyon
+Security: -2.0
+Alliance: RAZOR Alliance
+Corp: Roving Guns Inc.
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: Magic Crisp (laid the final blow)
+Security: 4.2
+Alliance: None
+Corp: Satan's Armed Soldiers
+Ship: Rifter
+Weapon: 125mm Gatling AutoCannon II
+
+Name: Kubu Abu
+Security: -3.5
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Rifter
+Weapon: Rifter
+
+Name: Shannaramoon
+Security: 0.4
+Alliance: None
+Corp: Satan's Armed Soldiers
+Ship: Tristan
+Weapon: Tristan
+
+Name: Nikita Fontaine
+Security: 4.9
+Alliance: None
+Corp: g guild
+Ship: Flycatcher
+Weapon: Flycatcher
+
+Name: PatchyThePirate
+Security: -2.2
+Alliance: None
+Corp: Sabre Inc
+Ship: Arazu
+Weapon: Low Frequency Sensor Suppressor I
+
+

@@ -1,0 +1,33 @@
+2006.07.01 23:36
+
+Victim: Twin Rivers
+Alliance: Northern Freedom Coalition
+Corp: Shillelagh Corp.
+Destroyed: Capsule
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Primeordeus
+Security: 2.9
+Alliance: Freelancer Alliance
+Corp: KHM Corporation
+Ship: Merlin
+Weapon: Merlin
+
+Name: Kismeteer (laid the final blow)
+Security: 2.7
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Incursus
+Weapon: Light Electron Blaster I
+
+Name: Skornik
+Security: 2.7
+Alliance: Freelancer Alliance
+Corp: KHM Corporation
+Ship: Thorax
+Weapon: Thorax
+
+

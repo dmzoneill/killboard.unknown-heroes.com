@@ -1,0 +1,19 @@
+2006.10.15 00:25
+
+Victim: Hosanna
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Destroyed: Capsule
+System: F-NMX6
+Security: 0.0
+
+Involved parties:
+
+Name: Rennard (laid the final blow)
+Security: -1.3
+Alliance: None
+Corp: Deniz Mahsulleri Ofisi
+Ship: Malediction
+Weapon: Dual Light Pulse Laser II
+
+

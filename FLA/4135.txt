@@ -1,0 +1,123 @@
+2007.04.02 19:00
+
+Victim: marakudi
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Destroyed: Crow
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Olli (laid the final blow)
+Security: -0.1
+Alliance: S.E.R.A
+Corp: Seraphin Technologies
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: ZaKma
+Security: -0.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Ishtar
+Weapon: Warrior II
+
+Name: Ant5010
+Security: 1.7
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: END3R 101
+Security: -0.7
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Malediction
+Weapon: Medium Pulse Laser II
+
+Name: Stradivarious
+Security: 3.4
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Huginn
+Weapon: Huginn
+
+Name: Ran Fujimiya
+Security: 0.4
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Raptor
+Weapon: TE-2100 Standard Missile Bay
+
+Name: abzzo
+Security: 1.7
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Zealot
+Weapon: Focused Medium Pulse Laser II
+
+Name: Steve Dave
+Security: 4.1
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Hawk
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+Name: Rukaz
+Security: 3.1
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Sabre
+Weapon: 125mm Gatling AutoCannon II
+
+Name: PRO Gaz
+Security: 3.6
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Sacrilege
+Weapon: Focused Medium Pulse Laser II
+
+Name: Enosh Kerrim
+Security: -1.8
+Alliance: S.E.R.A
+Corp: Seraphin Technologies
+Ship: Astarte
+Weapon: Heavy Neutron Blaster II
+
+Name: Emelie
+Security: -3.7
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Eris
+Weapon: Light Electron Blaster II
+
+Name: Cabadrin
+Security: 3.8
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Arazu
+Weapon: 250mm Railgun II
+
+Name: 4SG GillHead
+Security: 5.0
+Alliance: S.E.R.A
+Corp: Seraphin Technologies
+Ship: Absolution
+Weapon: Heavy Pulse Laser II
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 132
+'Malkuth' Standard Missile Launcher I
+'Malkuth' Standard Missile Launcher I
+1MN MicroWarpdrive II
+Micro Ld-Acid Capacitor Battery I
+Ballistic Control System II
+Type-D Altered SS Overdrive Injector
+Piranha Light Missile, Qty: 700 (Cargo)
+Bloodclaw Light Missile, Qty: 1282 (Cargo)
+Phalanx Rocket, Qty: 940 (Cargo)
+

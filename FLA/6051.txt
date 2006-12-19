@@ -1,0 +1,29 @@
+2006.11.06 19:33
+
+Victim: Dorsett
+Alliance: Interstellar Starbase Syndicate
+Corp: MC Cubed Inc
+Destroyed: Malediction
+System: X-7OMU
+Security: 0.0
+
+Involved parties:
+
+Name: Solarienne (laid the final blow)
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+
+Destroyed items:
+
+Sabretooth Light Missile, Qty: 37
+Standard Missile Launcher I
+Standard Missile Launcher I
+J5 Prototype Warp Inhibitor I
+Alumel-Wired I Sensor Augmentation
+Wavelength Signal Enhancer I
+Sabretooth Light Missile, Qty: 100 (Cargo)
+

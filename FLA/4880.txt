@@ -1,0 +1,26 @@
+2007.04.18 04:51
+
+Victim: Aridante Lemure
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Destroyed: Capsule
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Green Leaner (laid the final blow)
+Security: 2.1
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Sleipnir
+Weapon: 720mm Howitzer Artillery II
+
+Name: War Bear
+Security: 2.8
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Stiletto
+Weapon: Stiletto
+
+

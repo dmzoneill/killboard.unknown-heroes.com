@@ -1,0 +1,44 @@
+2006.11.23 04:40
+
+Victim: DONJUAN v
+Alliance: Eternal Empire
+Corp: Tarnak inc.
+Destroyed: Blackbird
+System: EWOK-K
+Security: 0.0
+
+Involved parties:
+
+Name: Simon Monkoto (laid the final blow)
+Security: -0.7
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Caracal
+Weapon: Hydra F.O.F. Heavy Missile I
+
+Name: Gabriel BriGGs
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Arbitrator
+Weapon: ECM - Spatial Destabilizer II
+
+Name: Jaig Maldara
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Flycatcher
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+
+Destroyed items:
+
+Thunderbolt Heavy Missile, Qty: 15
+Warp Disruptor I
+X5 Prototype I Engine Enervator
+ECM - Multispectral Jammer I
+ECM - Multispectral Jammer I
+Medium Armor Repairer I
+Havoc Heavy Missile, Qty: 400 (Cargo)
+Thunderbolt Heavy Missile, Qty: 103 (Cargo)
+

@@ -1,0 +1,58 @@
+2007.05.19 18:09
+
+Victim: Ripchen mitKraut
+Alliance: None
+Corp: State War Academy
+Destroyed: Ibis
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Prodigal IV
+Security: 4.5
+Alliance: None
+Corp: SPARTAN Peacekeeping Force
+Ship: Incursus
+Weapon: Incursus
+
+Name: DennoTheHunter (laid the final blow)
+Security: -1.0
+Alliance: DeStInY.
+Corp: The Syndicate Inc
+Ship: Hurricane
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: jonboi1
+Security: 0.5
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Taranis
+Weapon: Taranis
+
+Name: kookos
+Security: 0.7
+Alliance: Imperial Republic Of the North
+Corp: Karjala Inc.
+Ship: Pilgrim
+Weapon: Warp Disruptor II
+
+Name: SleepyJack
+Security: 2.3
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Caracal
+Weapon: Kapteyn Sensor Array Inhibitor I
+
+Name: Iatnuolas
+Security: 1.9
+Alliance: DeStInY.
+Corp: The Knights Of Camelot
+Ship: Executioner
+Weapon: Executioner
+
+
+Destroyed items:
+
+Civilian Gat
+

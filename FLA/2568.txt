@@ -1,0 +1,34 @@
+2007.02.22 21:34
+
+Victim: CrashSWjr
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Destroyed: Drake
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: WarGod (laid the final blow)
+Security: -0.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Curse
+Weapon: Vespa II
+
+Name: XxAngelxX
+Security: -1.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Curse
+Weapon: Vespa II
+
+
+Destroyed items:
+
+Estamel's Modified Ballistic Deflection Field
+Warp Core Stabilizer I
+Warp Core Stabilizer I
+Warp Core Stabilizer I
+Warp Core Stabilizer I
+

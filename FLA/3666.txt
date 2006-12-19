@@ -1,0 +1,107 @@
+2007.03.28 20:05
+
+Victim: Luxe Ecru
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Destroyed: Thorax
+System: P-2TTL
+Security: 0.0
+
+Involved parties:
+
+Name: Rhayvn (laid the final blow)
+Security: 4.2
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Abaddon
+Weapon: Tachyon Beam Laser II
+
+Name: numbers
+Security: 4.1
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Zealot
+Weapon: Zealot
+
+Name: petergriffen
+Security: 2.8
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Megathron
+Weapon: Megathron
+
+Name: Kkmar Jheren
+Security: -1.5
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Lady Rania
+Security: -8.3
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: kapten sortebil
+Security: 4.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Tempest
+Weapon: 1400mm Carbine Howitzer I
+
+Name: Ferocious FeAr
+Security: 1.4
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Eagle
+Weapon: Eagle
+
+Name: Steve Dave
+Security: 4.1
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Harpy
+Weapon: Harpy
+
+Name: Shraek
+Security: 1.4
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: Wladomir Jed
+Security: 3.7
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Rook
+Weapon: ECM - Multispectral Jammer II
+
+Name: Tripline
+Security: 1.4
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+Name: Nuwa
+Security: 1.4
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Eris
+Weapon: Eris
+
+
+Destroyed items:
+
+Light Neutron Blaster II
+X5 Prototype I Engine Enervator
+Medium Armor Repairer II
+Energized Reactive Membrane II
+N-Type Explosive Hardener I
+1600mm Reinforced Rolled Tungsten Plates I
+Void S, Qty: 1167 (Cargo)
+Vespa II, Qty: 3 (Drone Bay)
+

@@ -1,0 +1,59 @@
+2006.11.15 21:36
+
+Victim: Jumar Coldgin
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Destroyed: Scorpion
+System: E-Z2ZX
+Security: 0.0
+
+Involved parties:
+
+Name: Skully Maltoon (laid the final blow)
+Security: -1.0
+Alliance: None
+Corp: Bad Karma.
+Ship: Raven
+Weapon: Bane Rage Torpedo
+
+Name: Captain Rickdick
+Security: -0.6
+Alliance: None
+Corp: Bad Karma.
+Ship: Raven
+Weapon: Remote Sensor Dampener II
+
+Name: mr hydeuk
+Security: 4.9
+Alliance: None
+Corp: Bad Karma.
+Ship: Raven
+Weapon: Juggernaut Rage Torpedo
+
+Name: Mordocik
+Security: -0.6
+Alliance: None
+Corp: Bad Karma.
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Calmdown
+Security: -0.9
+Alliance: None
+Corp: Bad Karma.
+Ship: Huginn
+Weapon: Warrior II
+
+
+Destroyed items:
+
+Heavy Nosferatu I
+Devastator Cruise Missile, Qty: 67
+XT-9000 Cruise Launcher
+Initiated Multispectral ECM I
+Induced Multispectral ECM I
+Induced Multispectral ECM I
+'Hypnos' Multispectral ECM I
+Supplemental Scanning CPU I
+1600mm Reinforced Rolled Tungsten Plates I
+

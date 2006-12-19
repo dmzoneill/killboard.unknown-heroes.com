@@ -1,0 +1,42 @@
+2007.04.19 12:06
+
+Victim: Sha'ara Sha'amashira
+Alliance: Freelancer Alliance
+Corp: J.I.T. Enterprises
+Destroyed: Drake
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Lady Rania
+Security: -8.2
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Otto Bismarck (laid the final blow)
+Security: 3.6
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Eos
+Weapon: Ogre II
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 128
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+Large C5-L Emergency Shield Overload I
+'Anointed' I EM Ward Reinforcement
+Ditrigonal Thermal Barrier Crystallization I
+V-M15 Braced Multispectral Shield Matrix
+5a Prototype Shield Support I
+Beta Reactor Control: Diagnostic System I
+Scourge Heavy Missile, Qty: 2682 (Cargo)
+Hornet II, Qty: 3 (Drone Bay)
+

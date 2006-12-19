@@ -1,0 +1,49 @@
+2007.01.28 17:42
+
+Victim: Dark1
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Destroyed: Claw
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Goca (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Ferox
+Weapon: Widowmaker Heavy Missile
+
+Name: Spartan dax
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Drake
+Weapon: XR-3200 Heavy Missile Bay
+
+Name: Lancelot Wellborn
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Unknown
+Weapon: Heavy Missile Launcher I
+
+Name: Rick A
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Blackbird
+Weapon: Heavy Missile Launcher I
+
+
+Destroyed items:
+
+200mm AutoCannon II
+Barrage S, Qty: 137
+Rocket Launcher II
+Small Armor Repairer I
+200mm Reinforced Rolled Tungsten Plates I
+Nanofiber Internal Structure I
+

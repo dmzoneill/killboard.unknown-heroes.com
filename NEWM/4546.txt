@@ -1,0 +1,154 @@
+2007.04.13 21:11
+
+Victim: ClogMan
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Drake
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: ICoraxI
+Security: 1.1
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Rokh
+Weapon: Rokh
+
+Name: Ferocious FeAr
+Security: 1.5
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Nighthawk
+Weapon: Scourge Heavy Missile
+
+Name: Xi Dioxyde
+Security: 2.4
+Alliance: Mercenary Coalition
+Corp: Seraphin Technologies
+Ship: Apocalypse
+Weapon: Apocalypse
+
+Name: Risandaar
+Security: 0.9
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Megathron
+Weapon: Megathron
+
+Name: Hans Roaming
+Security: 4.2
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Sabre
+Weapon: Sabre
+
+Name: Alisa Dax
+Security: 4.8
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Megathron
+Weapon: Megathron
+
+Name: Rukaz
+Security: 3.1
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Sabre
+Weapon: Sabre
+
+Name: ZaKma
+Security: -0.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Megathron
+Weapon: Megathron
+
+Name: Prankster (laid the final blow)
+Security: 2.0
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Armageddon
+Weapon: Tachyon Beam Laser II
+
+Name: Nubiam
+Security: 4.9
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Capsule
+Weapon: Dual Light Pulse Laser II
+
+Name: GoGo Yubari
+Security: 0.1
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Megathron
+Weapon: Megathron
+
+Name: Aibee
+Security: -0.3
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Megathron
+Weapon: Megathron
+
+Name: Hazmat 69
+Security: -1.6
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Incubus25
+Security: 3.1
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: NightHawk VenGarden
+Security: 0.2
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Rokh
+Weapon: Rokh
+
+Name: numbers
+Security: 4.1
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Apocalypse
+Weapon: Apocalypse
+
+Name: Lorth
+Security: -0.7
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Capsule
+Weapon: Warp Scrambler I
+
+Name: FAO MeatMan
+Security: 4.2
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Rook
+Weapon: 'Hypnos' Ion Field ECM I
+
+
+Destroyed items:
+
+Widowmaker Heavy Missile, Qty: 51
+Scourge Heavy Missile, Qty: 28
+XR-3200 Heavy Missile Bay
+Advanced 'Limos' Heavy Missile Bay I
+Advanced 'Limos' Heavy Missile Bay I
+Advanced 'Limos' Heavy Missile Bay I
+'Malkuth' Heavy Missile Launcher I
+Large Shield Extender II
+Heat Dissipation Amplifier II
+Shield Power Relay I
+Shield Power Relay I
+Scourge Heavy Missile, Qty: 581 (Cargo)
+Havoc Heavy Missile, Qty: 1570 (Cargo)
+

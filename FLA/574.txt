@@ -1,0 +1,39 @@
+2007.02.11 02:11
+
+Victim: Jerricho Colton
+Alliance: None
+Corp: The Patriot Society
+Destroyed: Iteron Mark V
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: wessam (laid the final blow)
+Security: 4.9
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Typhoon
+Weapon: Mjolnir Torpedo
+
+Name: dastommy79
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Thorax
+Weapon: Thorax
+
+Name: AleXinO Gardon
+Security: 2.3
+Alliance: O X I D E
+Corp: W33D Corp.
+Ship: Merlin
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+Warp Core Stabilizer I
+Expanded Cargohold I
+Expanded Cargohold I
+

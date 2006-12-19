@@ -1,0 +1,40 @@
+2007.04.08 19:50
+
+Victim: Daressek
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Cormorant
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Stradivarious (laid the final blow)
+Security: 3.7
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Nidhoggur
+Weapon: Dragonfly
+
+Name: DrunkenOne
+Security: -0.5
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Claw
+Weapon: Claw
+
+
+Destroyed items:
+
+150mm 'Scout' I Accelerator Cannon
+150mm 'Scout' I Accelerator Cannon
+150mm 'Scout' I Accelerator Cannon
+150mm Railgun I
+Iridium Charge S, Qty: 39
+Sensor Booster I
+Sensor Booster I
+Sensor Booster I
+Iron Charge S, Qty: 795 (Cargo)
+Iridium Charge S, Qty: 1167 (Cargo)
+Antimatter Charge S, Qty: 1000 (Cargo)
+

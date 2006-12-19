@@ -1,0 +1,87 @@
+2007.01.20 01:11
+
+Victim: GrandMastaXP
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Rokh
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Unfortunate Accident
+Security: -1.9
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Megathron
+Weapon: Megathron
+
+Name: ukpAgAn (laid the final blow)
+Security: 5.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: McGin
+Security: -3.5
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Megathron
+Weapon: Megathron
+
+Name: K Shara
+Security: 4.8
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Raven
+Weapon: Cataclysm Cruise Missile
+
+Name: Brisky T'Pol
+Security: 1.2
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Tempest
+Weapon: Tempest
+
+Name: ArchenTheGreat
+Security: -2.1
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Dominix
+Weapon: Dominix
+
+Name: xlop
+Security: -1.2
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Pistonbroke
+Security: 0.4
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Scorpion
+Weapon: Wrath Cruise Missile
+
+Name: Phrixus Zephyr
+Security: 0.8
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Arazu
+Weapon: Phased Muon Sensor Disruptor I
+
+
+Destroyed items:
+
+425mm Carbide Railgun I
+425mm Carbide Railgun I
+Guristas Iron Charge L, Qty: 185
+Alumel-Wired I Sensor Augmentation
+Alumel-Wired I Sensor Augmentation
+Tracking Enhancer II
+Gauss Field Balancer I
+Lead Charge L, Qty: 554 (Cargo)
+Guristas Iron Charge L, Qty: 228 (Cargo)
+

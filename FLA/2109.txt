@@ -1,0 +1,49 @@
+2007.01.21 00:57
+
+Victim: Maggallus
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Destroyed: Drake
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Evil's Dawn
+Security: -1.3
+Alliance: Band of Brothers
+Corp: Black Eclipse Corp
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: Kryztal (laid the final blow)
+Security: 4.1
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Zealot
+Weapon: Heavy Pulse Laser II
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Sabretooth Light Missile, Qty: 36
+Bloodclaw Light Missile, Qty: 30
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Assault Missile Launcher I
+Assault Missile Launcher I
+'Arbalest' Assault Missile Launcher
+10MN MicroWarpdrive I
+Warp Disruptor I
+Remote Sensor Dampener I
+Remote Sensor Dampener I
+Capacitor Power Relay I
+Capacitor Power Relay I
+Bloodclaw Light Missile, Qty: 2880 (Cargo)
+Piranha Light Missile, Qty: 140 (Cargo)
+Scourge Heavy Missile, Qty: 1830 (Cargo)
+Widowmaker Heavy Missile, Qty: 100 (Cargo)
+Havoc Heavy Missile, Qty: 2000 (Cargo)
+Warrior I (Drone Bay)
+

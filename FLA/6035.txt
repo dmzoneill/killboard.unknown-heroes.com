@@ -1,0 +1,98 @@
+2006.11.06 15:14
+
+Victim: archidp127
+Alliance: None
+Corp: Steel Battalion
+Destroyed: Cyclone
+System: L-TS8S
+Security: 0.0
+
+Involved parties:
+
+Name: TiMeZeRo225
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: J.I.T. Enterprises
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+Name: Guristas Wrecker / Guristas
+
+Name: Midiana
+Security: 1.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Dominix
+Weapon: Berserker I
+
+Name: Hosanna (laid the final blow)
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Claw
+Weapon: 150mm Light AutoCannon II
+
+Name: Dog Cancer
+Security: 1.4
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Crow
+Weapon: Piranha Light Missile
+
+Name: Gangreen
+Security: 0.1
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Thorax
+Weapon: Thorax
+
+Name: Formosus Funus
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: Wousr
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: SleepyOSU
+Security: 4.4
+Alliance: Freelancer Alliance
+Corp: Sin-X Inc.
+Ship: Vexor
+Weapon: Warrior I
+
+
+Destroyed items:
+
+220mm Vulcan AutoCannon I
+220mm Medium 'Scout' Autocannon I
+220mm Medium Carbine Repeating Cannon I
+Medium Nosferatu I
+Medium Nosferatu I
+EMP M, Qty: 128
+Depleted Uranium M, Qty: 144
+Y-S8 Hydrocarbon I Afterburners
+Invulnerability Field I
+Gyrostabilizer I
+Shield Recharger I (Cargo)
+Small Shield Booster I (Cargo)
+Small Shield Transporter I (Cargo)
+Survey Scanner I (Cargo)
+Small Nosferatu I, Qty: 2 (Cargo)
+Small Energy Neutralizer I, Qty: 2 (Cargo)
+150mm Carbide Railgun I (Cargo)
+Depleted Uranium M, Qty: 1225 (Cargo)
+Plutonium Charge S, Qty: 200 (Cargo)
+Induced Ion Field ECM I (Cargo)
+Guristas Ship Log 312887432 (Cargo)
+Sabretooth Light Missile, Qty: 100 (Cargo)
+Heavy Missile Launcher I (Cargo)
+Hammerhead I, Qty: 2 (Drone Bay)
+Vespa I (Drone Bay)
+

@@ -1,0 +1,29 @@
+2006.11.26 15:09
+
+Victim: Zachariah Barnette
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Destroyed: Caracal
+System: BYXF-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Martin Hartl (laid the final blow)
+Security: 1.5
+Alliance: Xelas Alliance
+Corp: 7th Space Cavalry
+Ship: Ishtar
+Weapon: Ogre I
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 54
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Medium Shield Booster II
+Sensor Booster I
+Sensor Booster I
+

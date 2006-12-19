@@ -1,0 +1,119 @@
+2007.04.03 19:51
+
+Victim: stich626
+Alliance: None
+Corp: SpaceBalls Navy
+Destroyed: Brutix
+System: DO6H-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Zephyrante
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Megathron
+Weapon: Hammerhead I
+
+Name: MarzenBier
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Raven
+Weapon: Bane Javelin Torpedo
+
+Name: Kristian Dugat
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Armageddon
+Weapon: Heavy Nosferatu I
+
+Name: Arvo Henderson
+Security: 3.2
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+Name: Sicario (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Raven
+Weapon: Wrath Cruise Missile
+
+Name: Seryius
+Security: 3.4
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Scorpion
+Weapon: Devastator Cruise Missile
+
+Name: Ramb3z
+Security: 2.1
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Typhoon
+Weapon: Cataclysm Cruise Missile
+
+Name: Slim Jim
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Claw
+Weapon: Claw
+
+Name: Mss anderson
+Security: 2.0
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: Kerdrak
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Curse
+Weapon: Valkyrie II
+
+Name: Kahless
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Thorax
+Weapon: 250mm Carbide Railgun I
+
+Name: Cho Solo
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Deimos
+Weapon: Deimos
+
+Name: Vesspasiano
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Myrmidon
+Weapon: Medium Nosferatu I
+
+
+Destroyed items:
+
+Heavy Electron Blaster II
+Void M, Qty: 400
+10MN MicroWarpdrive I
+Warp Disruptor I
+X5 Prototype I Engine Enervator
+Cap Booster 800
+Medium Armor Repairer II
+N-Type Kinetic Hardener I
+N-Type Thermic Hardener I
+N-Type Explosive Hardener I
+Cap Booster 800, Qty: 10 (Cargo)
+Void M, Qty: 2619 (Cargo)
+Hammerhead II (Drone Bay)
+

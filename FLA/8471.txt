@@ -1,0 +1,43 @@
+2006.11.19 17:28
+
+Victim: Scorpio63
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Destroyed: Retribution
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: cos0 (laid the final blow)
+Security: 5.0
+Alliance: Lotka Volterra
+Corp: Delta team
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: TechnoMag
+Security: 4.2
+Alliance: Lotka Volterra
+Corp: Delta team
+Ship: Claw
+Weapon: Gremlin Rocket
+
+Name: gabygaby
+Security: 4.2
+Alliance: Lotka Volterra
+Corp: Delta team
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+Medium Pulse Laser II
+Medium Pulse Laser II
+Conflagration S
+Conflagration S
+Energized Adaptive Nano Membrane I
+True Sansha Armor Thermic Hardener
+Scorch S, Qty: 2 (Cargo)
+

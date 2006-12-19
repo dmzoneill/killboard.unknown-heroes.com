@@ -1,0 +1,82 @@
+2007.05.17 23:43
+
+Victim: eldronos
+Alliance: Freelancer Alliance
+Corp: The Collective of Ascended Beings
+Destroyed: Drake
+System: EWOK-K
+Security: 0.0
+
+Involved parties:
+
+Name: Ze4K DK
+Security: 2.4
+Alliance: None
+Corp: Occassus Republica
+Ship: Megathron
+Weapon: Ogre II
+
+Name: DAGWADER2
+Security: -1.2
+Alliance: None
+Corp: Occassus Republica
+Ship: Sleipnir
+Weapon: Sleipnir
+
+Name: BalZ
+Security: -0.1
+Alliance: None
+Corp: RONA Deepspace
+Ship: Myrmidon
+Weapon: Myrmidon
+
+Name: Masterminder
+Security: -0.6
+Alliance: None
+Corp: RONA Deepspace
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: kaliente
+Security: -1.5
+Alliance: None
+Corp: RONA Deepspace
+Ship: Typhoon
+Weapon: Typhoon
+
+Name: Otti (laid the final blow)
+Security: 0.7
+Alliance: None
+Corp: RONA Deepspace
+Ship: Megathron
+Weapon: Neutron Blaster Cannon II
+
+Name: Alcyone Monero
+Security: 2.3
+Alliance: None
+Corp: RONA Deepspace
+Ship: Lachesis
+Weapon: Hammerhead II
+
+Name: Kalli Kleina
+Security: -0.8
+Alliance: None
+Corp: Occassus Republica
+Ship: Flycatcher
+Weapon: J5 Prototype Warp Inhibitor I
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 140
+Heavy Missile Launcher II
+Heavy Missile Launcher II
+Heavy Missile Launcher II
+Heavy Missile Launcher II
+Shield Recharger II
+Heat Dissipation Amplifier II
+Magnetic Scattering Amplifier II
+Shield Power Relay II
+Scourge Heavy Missile, Qty: 1699 (Cargo)
+Havoc Heavy Missile, Qty: 2000 (Cargo)
+

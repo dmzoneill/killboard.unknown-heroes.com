@@ -1,0 +1,66 @@
+2007.03.19 05:34
+
+Victim: Zattron
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Destroyed: Caracal
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Xoduse (laid the final blow)
+Security: 0.4
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Hyperion
+Weapon: Ion Blaster Cannon II
+
+Name: Lord Revent
+Security: 1.1
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Maelstrom
+Weapon: 800mm Repeating Artillery II
+
+Name: Xordus
+Security: 1.4
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Armageddon
+Weapon: Dual Heavy Modulated Pulse Energy Beam I
+
+Name: Nipplator
+Security: 2.9
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Vasili Z
+Security: 0.4
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Huginn
+Weapon: Widowmaker Heavy Missile
+
+Name: Sexorella hotz
+Security: 5.0
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Raven
+Weapon: Target Painter II
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 207
+Sabretooth Light Missile, Qty: 66
+SV-2000 Assault Missile Bay
+'Arbalest' Assault Missile Launcher
+Large Shield Extender II
+Large Shield Extender II
+10MN MicroWarpdrive I
+Power Diagnostic System II
+Warrior I (Drone Bay)
+

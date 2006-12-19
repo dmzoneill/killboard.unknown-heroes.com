@@ -1,0 +1,75 @@
+2007.02.14 22:32
+
+Victim: Barqs
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Drake
+System: Jita
+Security: 0.9
+
+Involved parties:
+
+Name: Gwennec
+Security: -2.0
+Alliance: Privateer Alliance
+Corp: Rogues
+Ship: Harbinger
+Weapon: Focused Medium Pulse Laser II
+
+Name: Baji Core
+Security: 2.3
+Alliance: Privateer Alliance
+Corp: Privateers
+Ship: Thorax
+Weapon: Hammerhead I
+
+Name: Mr Meanor
+Security: -1.9
+Alliance: Privateer Alliance
+Corp: mUfFiN fAcToRy
+Ship: Dominix
+Weapon: Medium Nosferatu I
+
+Name: Trony (laid the final blow)
+Security: 4.8
+Alliance: Privateer Alliance
+Corp: Privateers
+Ship: Nighthawk
+Weapon: Thunderbolt Fury Heavy Missile
+
+Name: 0o0Preatorian0o0
+Security: -1.9
+Alliance: Privateer Alliance
+Corp: mUfFiN fAcToRy
+Ship: Raven
+Weapon: Infiltrator I
+
+Name: RainbowTinks
+Security: 5.0
+Alliance: Privateer Alliance
+Corp: Privateers
+Ship: Taranis
+Weapon: Taranis
+
+Name: Bodhisattvas
+Security: -1.8
+Alliance: Privateer Alliance
+Corp: mUfFiN fAcToRy
+Ship: Arazu
+Weapon: Phased Muon Sensor Disruptor I
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 272
+'Arbalest' Assault Missile Launcher
+'Arbalest' Assault Missile Launcher
+Photon Scattering Field II
+Ionic Field Accelerator I
+Co-Processor II
+Ballistic Control System II
+Power Diagnostic System II
+Bloodclaw Light Missile, Qty: 3496 (Cargo)
+Scourge Heavy Missile, Qty: 3112 (Cargo)
+Power Diagnostic System II (Cargo)
+

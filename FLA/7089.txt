@@ -1,0 +1,35 @@
+2006.12.26 00:23
+
+Victim: Fryett
+Alliance: None
+Corp: Sebiestor tribe
+Destroyed: Crow
+System: Amamake
+Security: 0.4
+
+Involved parties:
+
+Name: W0LFMAN (laid the final blow)
+Security: 3.5
+Alliance: Freelancer Alliance
+Corp: Caldar Mercenary Syndicate
+Ship: Typhoon
+Weapon: Devastator Cruise Missile
+
+
+Destroyed items:
+
+Thorn Rocket, Qty: 90
+'Arbalest' Rocket Launcher I
+Fleeting Progressive Warp Scrambler I
+Fleeting Propulsion Inhibitor I
+Small 'Accommodation' Vestment Reconstructer I
+Local Hull Conversion Nanofiber Structure I
+Corpse (Cargo)
+1MN MicroWarpdrive I (Cargo)
+Y-S8 Hydrocarbon I Afterburners (Cargo)
+EMP S, Qty: 335 (Cargo)
+ECM - White Noise Generator I (Cargo)
+Micro Auxiliary Power Core I (Cargo)
+Tremor S, Qty: 12 (Cargo)
+

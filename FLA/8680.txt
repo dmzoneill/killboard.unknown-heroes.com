@@ -1,0 +1,36 @@
+2006.12.06 20:38
+
+Victim: Heeta
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Destroyed: Eagle
+System: Z30S-A
+Security: 0.0
+
+Involved parties:
+
+Name: Talon SilverHawk
+Security: 1.8
+Alliance: Insurgency
+Corp: Celestial Apocalypse
+Ship: Drake
+Weapon: Widowmaker Precision Heavy Missile
+
+Name: Jacko21 (laid the final blow)
+Security: -2.6
+Alliance: Insurgency
+Corp: Celestial Apocalypse
+Ship: Megathron
+Weapon: 350mm Railgun II
+
+
+Destroyed items:
+
+250mm Railgun II
+250mm Railgun II
+Antimatter Charge M, Qty: 56
+F-90 Positional Sensor Subroutines
+Antimatter Charge M, Qty: 3351 (Cargo)
+Spike M, Qty: 1228 (Cargo)
+Serpent F.O.F. Light Missile I, Qty: 436 (Cargo)
+

@@ -1,0 +1,37 @@
+2007.04.10 19:30
+
+Victim: abzzo
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Destroyed: Crusader
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Dark Carnage (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Scorpion
+Weapon: Large Proton Smartbomb I
+
+Name: Dire Guristas Inferno / Guristas
+
+
+Destroyed items:
+
+Dual Light Beam Laser II
+Dual Light Beam Laser II
+Gleam S
+Warp Disruptor I
+Overdrive Injector System I
+Overdrive Injector System I
+Basic Overdrive Injector System
+Invulnerability Field II (Cargo)
+Heat Dissipation Field II (Cargo)
+Hornet II (Cargo)
+Co-Processor II (Cargo)
+Cynosural Field Generator I (Cargo)
+Aurora S, Qty: 5 (Cargo)
+

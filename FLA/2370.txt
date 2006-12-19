@@ -1,0 +1,59 @@
+2007.02.07 21:34
+
+Victim: Dawn Rider
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Destroyed: Thorax
+System: X-7OMU
+Security: 0.0
+
+Involved parties:
+
+Name: Henrique Padua
+Security: 3.7
+Alliance: None
+Corp: Agony Unleashed
+Ship: Ishkur
+Weapon: Hammerhead II
+
+Name: Taux Chien
+Security: -0.8
+Alliance: None
+Corp: Agony Unleashed
+Ship: Thorax
+Weapon: Vespa II
+
+Name: Yoshi Toranaga
+Security: 1.1
+Alliance: None
+Corp: Agony Unleashed
+Ship: Harpy
+Weapon: Harpy
+
+Name: Vitelius
+Security: 3.4
+Alliance: None
+Corp: Agony Unleashed
+Ship: Harpy
+Weapon: Harpy
+
+Name: Quen Azle (laid the final blow)
+Security: -1.6
+Alliance: None
+Corp: Agony Unleashed
+Ship: Hurricane
+Weapon: 220mm Medium Prototype I Automatic Cannon
+
+
+Destroyed items:
+
+Heavy Electron Blaster II
+Heavy Electron Blaster II
+Heavy Electron Blaster II
+Antimatter Charge M, Qty: 174
+Fleeting Warp Scrambler I
+X5 Prototype I Engine Enervator
+N-Type Reactive Membrane I
+Mark I Generator Refitting: Reaction Control
+Spiced Wine (Cargo)
+

@@ -1,0 +1,40 @@
+2006.11.04 05:59
+
+Victim: Paul Tucket
+Alliance: None
+Corp: Center for Advanced Studies
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Pacala (laid the final blow)
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Dominix
+Weapon: Warden I
+
+Name: OmeTakeda
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Dominix
+Weapon: Warrior II
+
+Name: Simon Monkoto
+Security: -0.9
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Blackbird
+Weapon: Heavy Missile Launcher I
+
+Name: Drashkar
+Security: 2.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Raven
+Weapon: Siege Missile Launcher II
+
+

@@ -1,0 +1,95 @@
+2007.03.25 00:03
+
+Victim: Kerdrak
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Destroyed: Apocalypse
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Grey Badger
+Security: 5.4
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Ship: Raven
+Weapon: Inferno Torpedo
+
+Name: mama guru (laid the final blow)
+Security: 2.8
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Ship: Apocalypse
+Weapon: Tachyon Beam Laser II
+
+Name: Varaxian
+Security: 3.2
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: MASTER PSI
+Security: 3.6
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Ship: Harbinger
+Weapon: Harbinger
+
+Name: GODFATHER
+Security: 5.0
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: khazid
+Security: 5.0
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Ship: Ferox
+Weapon: Scourge Heavy Missile
+
+Name: El Chingon
+Security: -3.1
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Ship: Capsule
+Weapon: XT-9000 Cruise Launcher
+
+Name: Hunter Roshak
+Security: 4.4
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: WildCard
+Security: 4.3
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Tempest
+Weapon: Ogre I
+
+
+Destroyed items:
+
+Mega Pulse Laser I
+Mega Pulse Laser I
+Mega Pulse Laser I
+Mega Pulse Laser I
+Multifrequency L
+Multifrequency L
+Fixed Parallel Link-Capacitor I
+Prototype I Sensor Booster
+Large 'Accommodation' Vestment Reconstructer I
+Voltaic Nanite Thermic Hardener I
+Voltaic Nanite Explosive Hardener I
+Microcell Nanite Kinetic Hardener I
+1600mm Reinforced Nanofiber Plates I
+Radio L, Qty: 7 (Cargo)
+Vespa I, Qty: 2 (Drone Bay)
+Hammerhead I (Drone Bay)
+Hornet I, Qty: 2 (Drone Bay)
+

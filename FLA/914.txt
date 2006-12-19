@@ -1,0 +1,47 @@
+2007.02.26 20:57
+
+Victim: Tealmatar
+Alliance: United Confederation of Corporations
+Corp: Industrial Warlords
+Destroyed: Drake
+System: Maut
+Security: 0.2
+
+Involved parties:
+
+Name: Gallente Sentry Gun / Federation Navy
+
+Name: Kiara Diepp (laid the final blow)
+Security: -1.6
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Drake
+Weapon: Warrior I
+
+Name: Jesnen
+Security: -0.3
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Sacrilege
+Weapon: Sacrilege
+
+
+Destroyed items:
+
+Small Rudimentary Energy Destabilizer I
+Heavy Missile Launcher II
+Heavy Missile Launcher II
+Heavy Missile Launcher II
+Scourge Fury Heavy Missile, Qty: 99
+Widowmaker Fury Heavy Missile, Qty: 25
+Large Shield Extender II
+Invulnerability Field II
+Type-D Power Core Modification: Shield Flux
+Small Hull Repairer I (Cargo)
+Small Energy Transfer Array I (Cargo)
+'Cetus' ECM Shockwave I (Cargo)
+Valkyrie I, Qty: 2 (Cargo)
+Infiltrator II (Cargo)
+Medium Remote Armor Repair System I (Cargo)
+Scourge Fury Heavy Missile, Qty: 707 (Cargo)
+

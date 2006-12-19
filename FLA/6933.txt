@@ -1,0 +1,45 @@
+2006.12.13 22:49
+
+Victim: stainage
+Alliance: None
+Corp: Final-Vendetta
+Destroyed: Taranis
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Cazziel (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Dominix
+Weapon: Warrior II
+
+Name: Hosanna
+Security: 4.7
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Typhoon
+Weapon: Bane Torpedo
+
+Name: Noitaakka
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Dominix
+Weapon: Dominix
+
+
+Destroyed items:
+
+Small Nosferatu I
+Light Ion Blaster II
+Light Ion Blaster II
+Light Ion Blaster II
+Void S, Qty: 360
+X5 Prototype I Engine Enervator
+Micro Auxiliary Power Core I
+Antimatter Charge S, Qty: 1800 (Cargo)
+Warrior II (Drone Bay)
+

@@ -1,0 +1,30 @@
+2006.12.25 17:11
+
+Victim: Arbitrus
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Destroyed: Hawk
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Elliott Manchild (laid the final blow)
+Security: -2.0
+Alliance: None
+Corp: omen.
+Ship: Typhoon
+Weapon: Berserker II
+
+
+Destroyed items:
+
+Small Nosferatu I
+Sabretooth Light Missile, Qty: 114
+Warp Disruptor I
+Viscoelastic EM Ward Salubrity I
+Antimatter Charge S, Qty: 1000 (Cargo)
+Bloodclaw Light Missile, Qty: 1000 (Cargo)
+Piranha Light Missile, Qty: 2000 (Cargo)
+Sabretooth Light Missile, Qty: 768 (Cargo)
+

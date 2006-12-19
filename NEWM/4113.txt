@@ -1,0 +1,45 @@
+2007.04.15 07:22
+
+Victim: xargis
+Alliance: YouWhat
+Corp: Pringles Inc.
+Destroyed: Vengeance
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Cockroach
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Zealot
+Weapon: Zealot
+
+Name: Nukuquqa Hestase (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Manticore
+Weapon: Paradise Cruise Missile
+
+Name: MrMaggot
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Manticore
+Weapon: 'Arbalest' Cruise Launcher I
+
+
+Destroyed items:
+
+Dual Light Beam Laser II
+Medium Beam Laser II
+Aurora S
+Gleam S
+1MN MicroWarpdrive I
+Small Armor Repairer II
+Energized Adaptive Nano Membrane I
+Nanofiber Internal Structure I
+Aurora S (Cargo)
+

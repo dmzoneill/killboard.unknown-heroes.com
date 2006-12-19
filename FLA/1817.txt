@@ -1,0 +1,43 @@
+2007.01.05 23:26
+
+Victim: Mokh'Tar
+Alliance: Freelancer Alliance
+Corp: Caldar Mercenary Syndicate
+Destroyed: Jaguar
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Lemlins Craken (laid the final blow)
+Security: -0.4
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+Name: MeanStreak
+Security: -0.2
+Alliance: None
+Corp: Caldari Provisions
+Ship: Sabre
+Weapon: Sabre
+
+Name: BLOOD THIRSTY
+Security: -0.2
+Alliance: None
+Corp: Imperial Academy
+Ship: Heretic
+Weapon: Heretic
+
+
+Destroyed items:
+
+200mm AutoCannon II
+Small 'Knave' I Energy Drain
+Barrage S, Qty: 60
+Medium Shield Extender I
+Fleeting Progressive Warp Scrambler I
+Emergency Damage Control I
+Mark I Generator Refitting: Reaction Control
+

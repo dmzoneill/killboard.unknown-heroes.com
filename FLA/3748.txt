@@ -1,0 +1,70 @@
+2007.03.31 03:16
+
+Victim: Rownen
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Destroyed: Badger Mark II
+System: P-2TTL
+Security: 0.0
+
+Involved parties:
+
+Name: Genrom
+Security: 4.5
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Admentus Cor'vion (laid the final blow)
+Security: -0.2
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Hyperion
+Weapon: 425mm Railgun II
+
+Name: Ferocious FeAr
+Security: 1.5
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+Name: Nowereman
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Zealot
+Weapon: Heavy Pulse Laser II
+
+Name: Stradivarious
+Security: 3.4
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Huginn
+Weapon: 'Arbalest' Assault Missile Launcher
+
+Name: angelena
+Security: 4.5
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Arazu
+Weapon: Remote Sensor Dampener II
+
+Name: Rahzorus
+Security: 0.9
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Crow
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+
+Destroyed items:
+
+Tritanium, Qty: 175040 (Cargo)
+Isogen, Qty: 14637 (Cargo)
+Megacyte, Qty: 427 (Cargo)
+Mexallon, Qty: 64324 (Cargo)
+Nocxium, Qty: 5228 (Cargo)
+Zydrine, Qty: 799 (Cargo)
+

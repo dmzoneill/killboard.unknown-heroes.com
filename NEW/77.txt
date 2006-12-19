@@ -1,0 +1,25 @@
+2007.01.06 21:05
+
+Victim: Towoo L
+Alliance: Privateer Alliance
+Corp: Privateers
+Destroyed: Arbitrator
+System: Oursulaert
+Security: 0.9
+
+Involved parties:
+
+Name: drullir (laid the final blow)
+Security: 3.5
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Thorax
+Weapon: Modal Ion Particle Accelerator I
+
+
+Destroyed items:
+
+Small 'Knave' I Energy Drain, Qty: 2
+J5 Prototype Warp Inhibitor I
+Nanofiber Internal Structure I
+Barrage S, Qty: 2574 (Cargo)

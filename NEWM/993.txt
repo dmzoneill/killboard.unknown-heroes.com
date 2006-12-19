@@ -1,0 +1,134 @@
+2007.03.02 20:19
+
+Victim: 6BlackDeath9
+Alliance: Xelas Alliance
+Corp: Nemesis Industries
+Destroyed: Stabber
+System: 5-D82P
+Security: 0.0
+
+Involved parties:
+
+Name: Sniperpirate
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Infinite Improbability Inc
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: Kiara Diepp
+Security: -2.0
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: sowo
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Drake
+Weapon: Havoc Heavy Missile
+
+Name: mr passie
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Hurricane
+Weapon: 720mm Howitzer Artillery II
+
+Name: Kalico
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Typhoon
+Weapon: Typhoon
+
+Name: misscoda
+Security: 3.5
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Blackbird
+Weapon: Thunderbolt Heavy Missile
+
+Name: Japanx (laid the final blow)
+Security: 3.3
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Scorpion
+Weapon: Paradise Cruise Missile
+
+Name: Jonas123
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Scorpion
+Weapon: Devastator Cruise Missile
+
+Name: Jorax
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Vexor
+Weapon: Vexor
+
+Name: Kerdrak
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Apocalypse
+Weapon: Acolyte I
+
+Name: Sy Sperling
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Drake
+Weapon: Heavy Missile Launcher I
+
+Name: Spartan dax
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Blackbird
+Weapon: SV-2000 Assault Missile Bay
+
+Name: Samiloth Justinian
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Drake
+Weapon: Advanced 'Limos' Heavy Missile Bay I
+
+Name: Kimett
+Security: 2.8
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Caracal
+Weapon: Heavy Assault Missile Launcher I
+
+Name: Aken Ator
+Security: 1.8
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Ferox
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+
+Destroyed items:
+
+220mm Vulcan AutoCannon I
+220mm Vulcan AutoCannon I
+220mm Vulcan AutoCannon I
+Medium 'Ghoul' Energy Siphon I
+EMP M, Qty: 240
+Phased Plasma M, Qty: 94
+Fleeting Warp Scrambler I
+Gyrostabilizer II
+Medium Armor Repairer II
+Power Diagnostic System I
+Invulnerability Field II, Qty: 2 (Cargo)
+EMP M, Qty: 2677 (Cargo)
+Nuclear M, Qty: 1996 (Cargo)
+Cap Booster 800, Qty: 8 (Cargo)
+

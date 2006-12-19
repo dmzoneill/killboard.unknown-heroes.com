@@ -1,0 +1,23 @@
+2007.01.01 19:28
+
+Victim: Merkord Mikula
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Cheetah
+System: Yoma
+Security: 0.6
+
+Involved parties:
+
+Name: Fjerkenstad (laid the final blow)
+Security: -1.7
+Alliance: None
+Corp: omen.
+Ship: Taranis
+Weapon: Light Neutron Blaster II
+
+
+Destroyed items:
+
+Nanofiber Internal Structure I
+

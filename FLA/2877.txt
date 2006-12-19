@@ -1,0 +1,26 @@
+2007.03.13 22:49
+
+Victim: Arbitrus
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Destroyed: Capsule
+System: H1-J33
+Security: 0.0
+
+Involved parties:
+
+Name: CiRFiS (laid the final blow)
+Security: 2.6
+Alliance: FATAL Alliance
+Corp: FATAL REVELATIONS
+Ship: Hurricane
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Fetrik Snubbe
+Security: 5.0
+Alliance: FATAL Alliance
+Corp: FATAL REVELATIONS
+Ship: Megathron
+Weapon: 350mm Railgun II
+
+

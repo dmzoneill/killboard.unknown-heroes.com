@@ -1,0 +1,19 @@
+2006.08.21 21:55
+
+Victim: Laboratus
+Alliance: Freelancer Alliance
+Corp: BGG
+Destroyed: Capsule
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: GoranMortok (laid the final blow)
+Security: 3.3
+Alliance: None
+Corp: NEXT LEVEL
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+

@@ -1,0 +1,47 @@
+2007.03.10 16:15
+
+Victim: Darkspin
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Raven
+System: VRH-H7
+Security: 0.0
+
+Involved parties:
+
+Name: Ramme (laid the final blow)
+Security: 2.2
+Alliance: Cruel Intentions
+Corp: North Star Networks
+Ship: Megathron
+Weapon: Ion Blaster Cannon II
+
+Name: General Dragula
+Security: 0.0
+Alliance: Cruel Intentions
+Corp: North Star Networks
+Ship: Myrmidon
+Weapon: Myrmidon
+
+Name: Manik Munchacha
+Security: 3.1
+Alliance: Cruel Intentions
+Corp: North Star Networks
+Ship: Arazu
+Weapon: Hammerhead II
+
+Name: Simon Greed
+Security: 2.1
+Alliance: Cruel Intentions
+Corp: North Star Networks
+Ship: Rapier
+Weapon: Hornet II
+
+Name: F Borg
+Security: 4.4
+Alliance: Cruel Intentions
+Corp: North Star Networks
+Ship: Raptor
+Weapon: Thorn Rocket
+
+

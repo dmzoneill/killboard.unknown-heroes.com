@@ -1,0 +1,19 @@
+2007.02.10 02:11
+
+Victim: Dingo bb8r
+Alliance: None
+Corp: Agony Unleashed
+Destroyed: Capsule
+System: X-7OMU
+Security: 0.0
+
+Involved parties:
+
+Name: Kasahara (laid the final blow)
+Security: -0.2
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Stabber
+Weapon: 220mm Vulcan AutoCannon I
+
+

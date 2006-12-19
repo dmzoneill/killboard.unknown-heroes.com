@@ -1,0 +1,26 @@
+2007.01.29 06:07
+
+Victim: Tarphon
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Destroyed: Capsule
+System: G95-VZ
+Security: 0.0
+
+Involved parties:
+
+Name: Malachi Nefzen (laid the final blow)
+Security: -10.0
+Alliance: None
+Corp: Insane Decision
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Azirapheal
+Security: -8.9
+Alliance: None
+Corp: Insane Decision
+Ship: Crow
+Weapon: J5 Prototype Warp Inhibitor I
+
+

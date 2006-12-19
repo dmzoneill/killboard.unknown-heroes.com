@@ -1,0 +1,66 @@
+2007.03.13 16:44
+
+Victim: Lakastre
+Alliance: YouWhat
+Corp: SteelVipers
+Destroyed: Executioner
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Freakdevil (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: sakana
+Security: -0.9
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Eris
+Weapon: Eris
+
+Name: Daressek
+Security: 3.7
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Crow
+Weapon: Sabretooth Light Missile
+
+Name: darkviron
+Security: 2.0
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Blackbird
+Weapon: Compulsive Multispectral ECM I
+
+Name: SniperMcBob
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Raven
+Weapon: Remote Sensor Dampener II
+
+Name: JaiMaster
+Security: 2.7
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Cyclone
+Weapon: Target Painter I
+
+Name: Astorothe
+Security: 1.9
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Armageddon
+Weapon: Tachyon Beam Laser I
+
+
+Destroyed items:
+
+Prototype Cloaking Device I
+Inertia Stabilizers I
+

@@ -1,0 +1,59 @@
+2006.05.04 15:47
+
+Victim: Thirler
+Alliance: None
+Corp: The Arrow Project
+Destroyed: Stabber
+System: 3T7-M8
+Security: 0.0
+
+Involved parties:
+
+Name: Matt Stoner (laid the final blow)
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+Name: trakli
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Corp 101
+Ship: Taranis
+Weapon: Taranis
+
+Name: Mac Spliff
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Immortal Serial Killers
+Ship: Brutix
+Weapon: Brutix
+
+Name: Triciana
+Security: 2.9
+Alliance: Freelancer Alliance
+Corp: Dream Warriors Defence Alliance
+Ship: Thorax
+Weapon: Thorax
+
+Name: Francis Verdictio
+Security: 2.8
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Taranis
+Weapon: Stasis Webifier I
+
+
+Destroyed items:
+
+720mm Howitzer Artillery I
+720mm Howitzer Artillery I
+720mm Howitzer Artillery I
+Carbonized Lead M, Qty: 12
+Rocket Launcher I
+Warp Disruptor I
+Warp Disruptor I
+Medium Armor Repairer I
+Defender I, Qty: 280 (Cargo)
+

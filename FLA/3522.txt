@@ -1,0 +1,115 @@
+2007.04.01 21:00
+
+Victim: Eleese
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Destroyed: Sabre
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Kaand
+Security: 3.5
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Megathron
+Weapon: Megathron
+
+Name: Ninjitsuki
+Security: 0.1
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Moa
+Weapon: 250mm Prototype I Gauss Gun
+
+Name: coldkill
+Security: 1.9
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Megathron
+Weapon: Megathron
+
+Name: Dark Carnage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Gila
+Weapon: Compact 'Limos' Assault Missile Bay I
+
+Name: ClogMan (laid the final blow)
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery I
+
+Name: Jack Greyson
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Raven
+Weapon: Cruise Missile Launcher II
+
+Name: Seryius
+Security: 3.3
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Scorpion
+Weapon: Paradise Cruise Missile
+
+Name: hydro2900
+Security: 2.9
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Ship: Thorax
+Weapon: 250mm Railgun I
+
+Name: Sethiol
+Security: 4.0
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Ship: Caracal
+Weapon: Assault Missile Launcher I
+
+Name: Ocara Nezus
+Security: 3.1
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+Name: NeoDerrick
+Security: 4.2
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Raptor
+Weapon: 'Malkuth' Rocket Launcher I
+
+Name: Kerdrak
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Vengeance
+Weapon: Dual Light Pulse Laser II
+
+Name: Kappas.
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Celestis
+Weapon: Warrior TP-300
+
+
+Destroyed items:
+
+200mm AutoCannon II
+200mm AutoCannon II
+200mm AutoCannon II
+200mm AutoCannon II
+Barrage S, Qty: 360
+1MN MicroWarpdrive II
+Beta Hull Mod Nanofiber Structure
+EMP S, Qty: 3000 (Cargo)
+Warp Disrupt Probe, Qty: 69 (Cargo)
+

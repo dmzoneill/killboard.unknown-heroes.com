@@ -1,0 +1,40 @@
+2007.02.25 23:16
+
+Victim: ratblaster
+Alliance: None
+Corp: State War Academy
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Margot Macabre
+Security: -2.4
+Alliance: O X I D E
+Corp: Cirrius Technologies
+Ship: Sabre
+Weapon: 200mm AutoCannon II
+
+Name: Zephyrante (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+Name: Kalibrana
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Enyo
+Weapon: Light Neutron Blaster II
+
+Name: Aikuchi Hiddensword
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Taranis
+Weapon: Light Ion Blaster I
+
+

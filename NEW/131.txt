@@ -1,0 +1,25 @@
+2007.01.20 04:19
+
+Victim: Jimi Stonez
+Alliance: Schism.
+Corp: Fatalix Inc.
+Destroyed: Reaper
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Jorax
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Thorax
+Weapon: Hammerhead I
+
+Name: Jester87 (laid the final blow)
+Security: 1.3
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Raven
+Weapon: Paradise Cruise Missile
+

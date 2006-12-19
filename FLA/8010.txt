@@ -1,0 +1,26 @@
+2006.10.05 23:07
+
+Victim: Flav01
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Destroyed: Blackbird
+System: Jita
+Security: 0.9
+
+Involved parties:
+
+Name: Danno (laid the final blow)
+Security: -1.9
+Alliance: None
+Corp: Privateers
+Ship: Apocalypse
+Weapon: Tachyon Beam Laser II
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 60
+Barton Reactor Capacitor Recharger I
+ECM - Multispectral Jammer I
+Bloodclaw Light Missile, Qty: 1820 (Cargo)
+

@@ -1,0 +1,26 @@
+2007.03.16 03:02
+
+Victim: Vinsor
+Alliance: YouWhat
+Corp: Beasts of Burden
+Destroyed: Capsule
+System: O-BDXB
+Security: 0.0
+
+Involved parties:
+
+Name: digital oxygen (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: hydro2900
+Security: 2.4
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Ship: Brutix
+Weapon: 250mm Railgun I
+
+

@@ -1,0 +1,44 @@
+2007.02.23 07:18
+
+Victim: GoLdeN BoY
+Alliance: None
+Corp: Zero.
+Destroyed: Malediction
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Marie Veedor (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Drake
+Weapon: Thunderbolt Heavy Missile
+
+Name: Deathratt
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Ship: Raven
+Weapon: Siege Missile Launcher II
+
+Name: Guristas Nullifier / Guristas
+
+
+Destroyed items:
+
+Medium Pulse Laser II
+Conflagration S
+Gremlin Rocket, Qty: 25
+Phased Monopropellant I Hydrazine Boosters
+Faint Epsilon Warp Prohibitor I
+X5 Prototype I Engine Enervator
+Small Armor Repairer II
+Capacitor Power Relay I
+Monopropellant I Hydrazine Boosters (Cargo)
+Mining Drone II, Qty: 2 (Cargo)
+Scorch S (Cargo)
+Gremlin Rocket, Qty: 3151 (Cargo)
+Mining Laser Upgrade I (Cargo)
+

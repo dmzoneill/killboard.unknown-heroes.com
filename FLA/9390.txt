@@ -1,0 +1,19 @@
+2007.05.10 19:24
+
+Victim: Hell Bent
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Capsule
+System: L-C3O7
+Security: 0.0
+
+Involved parties:
+
+Name: Vrivona (laid the final blow)
+Security: 1.5
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Claw
+Weapon: 250mm Light Artillery Cannon II
+
+

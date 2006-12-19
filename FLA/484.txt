@@ -1,0 +1,161 @@
+2007.02.05 19:50
+
+Victim: Kamath
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Destroyed: Rapier
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: GrandMastaXP (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Rokh
+Weapon: 425mm Carbide Railgun I
+
+Name: Shinobi Jonin
+Security: 5.0
+Alliance: The Foundation.
+Corp: Cornerstone Unlimited
+Ship: Wolf
+Weapon: Wolf
+
+Name: WolfRavage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Hyperion
+Weapon: Hyperion
+
+Name: mr passie
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery I
+
+Name: Minisoza
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Brutix
+Weapon: Brutix
+
+Name: Tiberius Drake
+Security: 3.1
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Brutix
+Weapon: Brutix
+
+Name: Denaris1
+Security: 4.8
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Caracal
+Weapon: Thunderbolt Heavy Missile
+
+Name: Korudon
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Armageddon
+Weapon: Tachyon Beam Laser I
+
+Name: Dark Carnage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Crow
+Weapon: Sabretooth Light Missile
+
+Name: SleepyJack
+Security: 1.5
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Ferox
+Weapon: Ferox
+
+Name: Cockroach
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Vengeance
+Weapon: Piranha Light Missile
+
+Name: mrrabit
+Security: 3.5
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Thrasher
+Weapon: Thrasher
+
+Name: malkey
+Security: 4.4
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Raven
+Weapon: Dual 250mm Railgun I
+
+Name: deela
+Security: 0.6
+Alliance: Freelancer Alliance
+Corp: J.I.T. Enterprises
+Ship: Blackbird
+Weapon: Initiated Multispectral ECM I
+
+Name: beretta74
+Security: 2.8
+Alliance: The Foundation.
+Corp: EVE Corporation 160607
+Ship: Drake
+Weapon: SV-2000 Assault Missile Bay
+
+Name: alon blackhelm
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Raven
+Weapon: Cruise Missile Launcher II
+
+Name: Tnam
+Security: 1.7
+Alliance: None
+Corp: BGG
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: SuperDuplex
+Security: 0.8
+Alliance: The Foundation.
+Corp: EVE Corporation 160607
+Ship: Kestrel
+Weapon: Standard Missile Launcher I
+
+Name: Shassandra
+Security: 4.5
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Taranis
+Weapon: Warp Disruptor I
+
+
+Destroyed items:
+
+650mm Medium 'Scout' Artillery I
+EMP M, Qty: 20
+J5 Prototype Warp Inhibitor I
+Fleeting Propulsion Inhibitor I
+Target Painter II
+Target Painter II
+Gyrostabilizer II
+Gyrostabilizer II
+Medium Armor Repairer II
+Fusion M, Qty: 1472 (Cargo)
+EMP M, Qty: 546 (Cargo)
+Tremor M, Qty: 923 (Cargo)
+Vespa I (Drone Bay)
+

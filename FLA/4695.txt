@@ -1,0 +1,42 @@
+2007.04.18 10:10
+
+Victim: Karehb
+Alliance: YouWhat
+Corp: Princeps Corp
+Destroyed: Vagabond
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: truefranco (laid the final blow)
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Myrmidon
+Weapon: Wasp II
+
+
+Destroyed items:
+
+220mm Vulcan AutoCannon II
+220mm Vulcan AutoCannon II
+220mm Vulcan AutoCannon II
+Barrage M, Qty: 359
+'Malkuth' Heavy Missile Launcher I
+Large Shield Extender II
+Warp Disruptor II
+Local Hull Conversion Inertial Stabilizers I
+Local Hull Conversion Nanofiber Structure I
+Medium Shield Extender II (Cargo)
+1MN MicroWarpdrive I (Cargo)
+Warp Disruptor I (Cargo)
+150mm Light AutoCannon II (Cargo)
+Small 'Knave' I Energy Drain (Cargo)
+EMP S, Qty: 72 (Cargo)
+Hornet II (Cargo)
+Warrior II (Cargo)
+Vespa II, Qty: 2 (Cargo)
+200mm Reinforced Titanium Plates I (Cargo)
+Bloodclaw Light Missile, Qty: 29 (Cargo)
+

@@ -1,0 +1,91 @@
+2007.03.05 22:45
+
+Victim: DeSurVal
+Alliance: Axiom Empire
+Corp: Fenix Reloaded
+Destroyed: Tristan
+System: PNQY-Y
+Security: 0.0
+
+Involved parties:
+
+Name: Hedeon Mishenka (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Coercer
+Weapon: Medium Pulse Laser II
+
+Name: Dana Foxworth
+Security: 3.2
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Rupture
+Weapon: 650mm Artillery Cannon I
+
+Name: Ocara Nezus
+Security: 2.3
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Hawk
+Weapon: Bloodclaw Precision Light Missile
+
+Name: Illesa
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: coldkill
+Security: 1.8
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: william kronos
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Caracal
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+Name: Puz'ZaW
+Security: 2.7
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Claw
+Weapon: 150mm Light AutoCannon II
+
+Name: Patch86
+Security: 4.4
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Celestis
+Weapon: Warp Disruptor I
+
+Name: Mauy Thai
+Security: -1.4
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Curse
+Weapon: Medium Diminishing Power System Drain I
+
+Name: Cyrila Wolf
+Security: -2.2
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Rupture
+Weapon: 720mm Howitzer Artillery I
+
+
+Destroyed items:
+
+Light Ion Blaster I
+Phalanx Rocket, Qty: 60
+Rocket Launcher I
+Rocket Launcher I
+Monopropellant I Hydrazine Boosters
+Small Armor Repairer II
+

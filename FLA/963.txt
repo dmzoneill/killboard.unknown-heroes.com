@@ -1,0 +1,152 @@
+2007.02.28 20:24
+
+Victim: AdamAlin
+Alliance: Firmus Ixion
+Corp: Black Avatar
+Destroyed: Myrmidon
+System: 3-FKCZ
+Security: 0.0
+
+Involved parties:
+
+Name: Qola Q
+Security: 0.3
+Alliance: Prismatic Refraction
+Corp: StarLight Inc.
+Ship: Thorax
+Weapon: Regulated Neutron Phase Cannon I
+
+Name: SatanSarah
+Security: 2.4
+Alliance: Morsus Mihi
+Corp: Rage of Angels
+Ship: Eagle
+Weapon: Eagle
+
+Name: fincormack
+Security: 4.7
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Astarte
+Weapon: Valkyrie II
+
+Name: Meryth (laid the final blow)
+Security: 5.4
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Shiri elAzarinres
+Security: 4.9
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Eagle
+Weapon: Eagle
+
+Name: Jumar Coldgin
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: Karjala Inc.
+Ship: Eagle
+Weapon: Eagle
+
+Name: lakosta
+Security: 3.6
+Alliance: Morsus Mihi
+Corp: 4S Corporation
+Ship: Muninn
+Weapon: Muninn
+
+Name: JFxSummoner
+Security: 3.7
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Eagle
+Weapon: Eagle
+
+Name: RoDs84
+Security: 3.1
+Alliance: RAZOR Alliance
+Corp: DAB
+Ship: Taranis
+Weapon: Hobgoblin II
+
+Name: Amarrian Bringer
+Security: 1.4
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Oldin Relic
+Security: 1.5
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Rokh
+Weapon: 350mm Railgun II
+
+Name: BearCat
+Security: 1.3
+Alliance: Pure.
+Corp: IMPERIAL SENATE
+Ship: Eagle
+Weapon: Eagle
+
+Name: Baddias Mongo
+Security: 0.9
+Alliance: RAZOR Alliance
+Corp: Cutting Edge Incorporated
+Ship: Stiletto
+Weapon: Thorn Rocket
+
+Name: Hosanna
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: Karjala Inc.
+Ship: Hurricane
+Weapon: Warrior I
+
+Name: ISliverI
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Arazu
+Weapon: Arazu
+
+Name: Seana Elria
+Security: 1.8
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Incursus
+Weapon: Incursus
+
+Name: Gargio
+Security: 3.2
+Alliance: Pure.
+Corp: Prime Order
+Ship: Stabber
+Weapon: Stabber
+
+Name: Altavius Pilot
+Security: 2.3
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Arazu
+Weapon: Remote Sensor Dampener II
+
+
+Destroyed items:
+
+150mm Railgun II
+Spike S, Qty: 40
+Medium Electrochemical Capacitor Booster I
+Cap Booster 400
+Cap Booster 400
+Sensor Booster I
+Omnidirectional Tracking Link I
+F85 Peripheral Damage System I
+Medium Armor Repairer II
+Hobgoblin II, Qty: 5 (Cargo)
+Spike S, Qty: 24 (Cargo)
+

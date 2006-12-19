@@ -1,0 +1,19 @@
+2007.01.01 00:59
+
+Victim: ryu'eVs
+Alliance: None
+Corp: Caldari Provisions
+Destroyed: Caldari Shuttle
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Korudon (laid the final blow)
+Security: 4.7
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Buzzard
+Weapon: Bloodclaw Light Missile
+
+

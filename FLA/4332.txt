@@ -1,0 +1,33 @@
+2007.04.08 05:30
+
+Victim: MelieGirl
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Destroyed: Gallente Shuttle
+System: F7C-H0
+Security: 0.0
+
+Involved parties:
+
+Name: sliver 0xD (laid the final blow)
+Security: -2.6
+Alliance: YouWhat
+Corp: Infinite Style Incorporated
+Ship: Flycatcher
+Weapon: Bloodclaw Light Missile
+
+Name: evilempire3
+Security: -1.2
+Alliance: YouWhat
+Corp: Cosmic Odyssey
+Ship: Sacrilege
+Weapon: Sacrilege
+
+Name: Mr MA
+Security: 3.7
+Alliance: YouWhat
+Corp: Cosmic Odyssey
+Ship: Celestis
+Weapon: Celestis
+
+

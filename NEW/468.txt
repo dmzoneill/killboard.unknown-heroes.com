@@ -1,0 +1,69 @@
+2007.03.30 20:20
+
+Victim: Brasema
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Destroyed: Rifter
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Weeble Wooble (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Hojo Norem
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Cormorant
+Weapon: Cormorant
+
+Name: Hakashi
+Security: 2.9
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Scorpion
+Weapon: Paradise Cruise Missile
+
+Name: demotar
+Security: 4.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Claw
+Weapon: Gremlin Rocket
+
+Name: william kronos
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Caracal
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+Name: misscoda
+Security: 4.5
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Raven
+Weapon: 'Arbalest' Cruise Launcher I
+
+Name: Epro
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Cyclone
+Weapon: Heavy Missile Launcher I
+
+
+Destroyed items:
+
+280mm Howitzer Artillery I, Qty: 2
+Depleted Uranium S, Qty: 20
+J5b Phased Prototype Warp Inhibitor I
+Micro Auxiliary Power Core I
+Depleted Uranium S, Qty: 1493 (Cargo)
+Bloodclaw Light Missile, Qty: 815 (Cargo)

@@ -1,0 +1,128 @@
+2006.04.07 21:22
+
+Victim: Tyleritus
+Alliance: Kaos Empire
+Corp: adeptus gattacus
+Destroyed: Brutix
+System: VFK-IV
+Security: 0.0
+
+Involved parties:
+
+Name: ESF Hyperion
+Security: 5.1
+Alliance: None
+Corp: GeoTech
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+Name: Kuro Hayashi
+Security: 4.0
+Alliance: Freelancer Alliance
+Corp: Tech 2
+Ship: Deimos
+Weapon: Deimos
+
+Name: Greenblood
+Security: 0.5
+Alliance: The Nexus Alliance
+Corp: Universal-Corp
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+Name: Rede
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Caracal
+Weapon: Thunderbolt Heavy Missile
+
+Name: TheBelgarion
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Ezrider (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Immortal Serial Killers
+Ship: Apocalypse
+Weapon: Tachyon Beam Laser II
+
+Name: Evil Escobalss
+Security: 0.2
+Alliance: OPUS Alliance
+Corp: Brave New World
+Ship: Ferox
+Weapon: Ferox
+
+Name: ognog
+Security: 4.3
+Alliance: None
+Corp: Warped Mining
+Ship: Dominix
+Weapon: Berserker I
+
+Name: kymis
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Enyo
+Weapon: Enyo
+
+Name: David Hope
+Security: 5.0
+Alliance: None
+Corp: Warped Mining
+Ship: Megathron
+Weapon: Megathron
+
+Name: Chiizukeeki
+Security: 1.1
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Cyclone
+Weapon: 720mm Prototype I Siege Cannon
+
+Name: Filz
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: Freelancer Union
+Ship: Brutix
+Weapon: 200mm Railgun II
+
+Name: Mac Spliff
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Immortal Serial Killers
+Ship: Megathron
+Weapon: 'Arbalest' Cruise Launcher I
+
+Name: Groes Thir
+Security: -0.4
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Celestis
+Weapon: Celestis
+
+
+Destroyed items:
+
+E5 Prototype Energy Vampire
+Heavy Ion Blaster I
+Heavy Ion Blaster I
+Heavy Ion Blaster I
+Heavy Ion Blaster I
+Antimatter Charge M, Qty: 240
+10MN MicroWarpdrive I
+Initiated Warp Jammer I
+Medium F-RX Prototype I Capacitor Boost
+Cap Booster 800
+Medium Armor Repairer II
+Medium Armor Repairer II
+Microcell Nanite Explosive Hardener I
+Dread Guristas Iron Charge M, Qty: 1250 (Cargo)
+Hammerhead II, Qty: 3 (Drone Bay)
+

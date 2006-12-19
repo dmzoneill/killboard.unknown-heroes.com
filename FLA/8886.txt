@@ -1,0 +1,51 @@
+2006.12.13 22:45
+
+Victim: Darkspin
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Raven
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Unfortunate Accident
+Security: -1.2
+Alliance: None
+Corp: omen.
+Ship: Megathron
+Weapon: Megathron
+
+Name: Elliott Manchild (laid the final blow)
+Security: -1.5
+Alliance: None
+Corp: omen.
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: night darkness
+Security: -0.7
+Alliance: None
+Corp: omen.
+Ship: Crusader
+Weapon: Dual Light Beam Laser II
+
+Name: Miss d1amond
+Security: -1.1
+Alliance: None
+Corp: omen.
+Ship: Sabre
+Weapon: Fleeting Warp Scrambler I
+
+
+Destroyed items:
+
+'Arbalest' Cruise Launcher I
+'Arbalest' Siege Missile Launcher
+Drone Link Augmentor I
+Small Tractor Beam I
+F-S8 Relativistic Deflection Shield Induction
+Medium 'Accommodation' Vestment Reconstructer I
+Wrath Cruise Missile, Qty: 782 (Cargo)
+Ogre I (Drone Bay)
+

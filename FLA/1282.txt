@@ -1,0 +1,83 @@
+2007.03.10 04:00
+
+Victim: Frank Moss
+Alliance: Lotka Volterra
+Corp: Shinra
+Destroyed: Abaddon
+System: G8AD-C
+Security: 0.0
+
+Involved parties:
+
+Name: Vel'Kethor
+Security: 1.7
+Alliance: DeStInY.
+Corp: House Of Aaron
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Commander XXX
+Security: 5.0
+Alliance: DeStInY.
+Corp: The Knights Of Camelot
+Ship: Dominix
+Weapon: Ogre I
+
+Name: kakakarr
+Security: 1.7
+Alliance: DeStInY.
+Corp: The Knights Of Camelot
+Ship: Dominix
+Weapon: Ogre I
+
+Name: Downeaster
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Brutix
+Weapon: Acolyte I
+
+Name: Colonel BlackWidow (laid the final blow)
+Security: 4.1
+Alliance: DeStInY.
+Corp: The Knights Of Camelot
+Ship: Thorax
+Weapon: Heavy Neutron Blaster I
+
+Name: Tarphon
+Security: 2.8
+Alliance: Imperial Republic Of the North
+Corp: VentureCorp
+Ship: Raptor
+Weapon: Raptor
+
+Name: Marco Polio
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: VentureCorp
+Ship: Raptor
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+
+Destroyed items:
+
+Dual Heavy Pulse Laser II
+Heavy Diminishing Power System Drain I
+E500 Prototype Energy Vampire
+Scorch L
+Scorch L
+Scorch L
+Heavy Electrochemical Capacitor Booster I
+Cap Booster 800
+Energized Adaptive Nano Membrane II
+1600mm Reinforced Rolled Tungsten Plates I
+1600mm Reinforced Rolled Tungsten Plates I
+Multifrequency L, Qty: 2 (Cargo)
+Infrared L, Qty: 8 (Cargo)
+Microwave L, Qty: 7 (Cargo)
+Sensor Booster II (Cargo)
+Exotic Dancers (Cargo)
+Aurora L, Qty: 4 (Cargo)
+Conflagration L, Qty: 2 (Cargo)
+Warrior II, Qty: 3 (Drone Bay)
+

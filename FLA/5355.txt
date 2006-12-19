@@ -1,0 +1,35 @@
+2007.04.26 23:56
+
+Victim: Rhaven
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Destroyed: Punisher
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Himphotep 87 (laid the final blow)
+Security: 2.0
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+Name: Athanasios Anastasiou
+Security: 5.0
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Crow
+Weapon: TE-2100 Standard Missile Bay
+
+
+Destroyed items:
+
+Dual Light Beam Laser I
+Xray S
+Gamma S
+Warp Disruptor I
+Stasis Webifier I
+Beta Reactor Control: Capacitor Power Relay I
+

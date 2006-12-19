@@ -1,0 +1,106 @@
+2007.03.10 21:55
+
+Victim: Burn Lump
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Dominix
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Slith Sabrao
+Security: 4.8
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Apocalypse
+Weapon: Apocalypse
+
+Name: Vim Longhill (laid the final blow)
+Security: 4.6
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Rokh
+Weapon: 425mm Railgun II
+
+Name: Thyago
+Security: 5.0
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Megathron
+Weapon: Megathron
+
+Name: Tenter Masion
+Security: -1.3
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Ship: Apocalypse
+Weapon: Apocalypse
+
+Name: Lycra
+Security: -0.2
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Tempest
+Weapon: Tempest
+
+Name: mr ioso
+Security: 4.8
+Alliance: Chorus of Dawn
+Corp: Cosmic Odyssey
+Ship: Scorpion
+Weapon: Wrath Cruise Missile
+
+Name: 1Of9
+Security: 4.7
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: MASTER PSI
+Security: 3.1
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Ship: Apocalypse
+Weapon: Apocalypse
+
+Name: Exitao
+Security: 4.9
+Alliance: Chorus of Dawn
+Corp: Cosmic Odyssey
+Ship: Enyo
+Weapon: Enyo
+
+Name: Alizarin Crimson
+Security: -1.3
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Armageddon
+Weapon: Tachyon Beam Laser II
+
+Name: M4J3STIC
+Security: 0.0
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Crow
+Weapon: Warp Disruptor I
+
+
+Destroyed items:
+
+Heavy Nosferatu I
+Medium Nosferatu I
+Large Rudimentary Concussion Bomb I
+Large Rudimentary Concussion Bomb I
+Large F-S9 Regolith Shield Induction
+100MN MicroWarpdrive I
+Invulnerability Field I
+Invulnerability Field I
+Damage Control I
+Inertia Stabilizers I
+Inertia Stabilizers I
+Inertia Stabilizers I
+Vespa I, Qty: 5 (Drone Bay)
+Ogre I, Qty: 2 (Drone Bay)
+

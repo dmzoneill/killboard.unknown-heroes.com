@@ -1,0 +1,33 @@
+2006.10.28 20:03
+
+Victim: Ismeteer
+Alliance: Freelancer Alliance
+Corp: BGG
+Destroyed: Incursus
+System: Litiura
+Security: 0.5
+
+Involved parties:
+
+Name: Ronnie Kray (laid the final blow)
+Security: -1.8
+Alliance: None
+Corp: Mentally Unstable Enterprises
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Del Boy
+Security: -1.0
+Alliance: None
+Corp: Mentally Unstable Enterprises
+Ship: Crow
+Weapon: Sabretooth Light Missile
+
+
+Destroyed items:
+
+125mm Railgun I
+Antimatter Charge S, Qty: 77
+1MN MicroWarpdrive I
+Sensor Booster I
+

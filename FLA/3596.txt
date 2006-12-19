@@ -1,0 +1,54 @@
+2007.03.27 16:00
+
+Victim: Ocara Nezus
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Hawk
+System: 7D-0SQ
+Security: 0.0
+
+Involved parties:
+
+Name: albert camus
+Security: -8.3
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Ship: Malediction
+Weapon: Malediction
+
+Name: Ehre86
+Security: 0.6
+Alliance: YouWhat
+Corp: Dark Rising Shadow
+Ship: Caracal
+Weapon: Widowmaker Heavy Missile
+
+Name: yekard
+Security: 5.0
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Huginn
+Weapon: 250mm Railgun II
+
+Name: Bischoff (laid the final blow)
+Security: 1.7
+Alliance: YouWhat
+Corp: Dark Rising Shadow
+Ship: Raven
+Weapon: Wrath Cruise Missile
+
+Name: DrZarkov667
+Security: 0.2
+Alliance: YouWhat
+Corp: Dark Rising Shadow
+Ship: Thrasher
+Weapon: Thrasher
+
+Name: Kurai Amaro
+Security: 3.9
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Cyclone
+Weapon: 220mm Vulcan AutoCannon II
+
+

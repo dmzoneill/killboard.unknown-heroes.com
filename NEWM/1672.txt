@@ -1,0 +1,100 @@
+2007.03.20 19:26
+
+Victim: derBERG
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Destroyed: Maller
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Zephia (laid the final blow)
+Security: -9.2
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Harbinger
+Weapon: Heavy Modal Pulse Laser I
+
+Name: Cockroach
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Zealot
+Weapon: Focused Medium Pulse Laser II
+
+Name: Bobby Atlas
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Hyperion
+Weapon: Hyperion
+
+Name: StrikerOneSevern
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Rupture
+Weapon: Hornet II
+
+Name: KriegDrachen
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Sabre
+Weapon: 150mm Light AutoCannon II
+
+Name: ClogMan
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Typhoon
+Weapon: Typhoon
+
+Name: Damfoose
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Scorpion
+Weapon: Paradise Cruise Missile
+
+Name: Tregaron
+Security: 2.3
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Dark Carnage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Crow
+Weapon: Sabretooth Light Missile
+
+Name: Grimes NC
+Security: 4.8
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Jaguar
+Weapon: 250mm Light Artillery Cannon II
+
+Name: Freakdevil
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Malediction
+Weapon: Malediction
+
+
+Destroyed items:
+
+Small Energy Neutralizer I
+Y-T8 Overcharged Hydrocarbon I Microwarpdrive
+Voltaic Nanite Explosive Hardener I
+Armor Thermic Hardener I
+1600mm Reinforced Titanium Plates I
+1600mm Reinforced Rolled Tungsten Plates I
+1600mm Reinforced Steel Plates I, Qty: 2 (Cargo)
+800mm Reinforced Steel Plates I (Cargo)
+

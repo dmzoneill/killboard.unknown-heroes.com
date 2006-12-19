@@ -1,0 +1,40 @@
+2007.01.28 17:39
+
+Victim: lord xavier
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Destroyed: Crow
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Spartac0 (laid the final blow)
+Security: 2.3
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Nira Li
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Harbinger
+Weapon: Valkyrie I
+
+Name: Puls4r
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Jaguar
+Weapon: BZ-5 Neutralizing Spatial Destabilizer ECM
+
+
+Destroyed items:
+
+Thorn Rage Rocket, Qty: 57
+1MN MicroWarpdrive II
+'Langour' Drive Disruptor I
+Thorn Rage Rocket, Qty: 880 (Cargo)
+

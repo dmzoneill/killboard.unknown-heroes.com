@@ -1,0 +1,28 @@
+2006.09.27 18:59
+
+Victim: Ashr
+Alliance: Freelancer Alliance
+Corp: Abandoned Resolve Corporation
+Destroyed: Caracal
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: FraXy (laid the final blow)
+Security: 0.6
+Alliance: Ascendant Frontier
+Corp: Celestial Fleet
+Ship: Zealot
+Weapon: Heavy Pulse Laser II
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 122
+Compact 'Limos' Assault Missile Bay I
+Compact 'Limos' Assault Missile Bay I
+Compact 'Limos' Assault Missile Bay I
+Medium Converse I Deflection Catalyzer
+Ballistic Control System I
+

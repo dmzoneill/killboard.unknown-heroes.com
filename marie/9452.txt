@@ -1,0 +1,44 @@
+2007.05.14 13:44
+
+Victim: Marie Veedor
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Thorax
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: PhoenixDK (laid the final blow)
+Security: 3.8
+Alliance: Firmus Ixion
+Corp: Hunters Agency
+Ship: Eos
+Weapon: Berserker II
+
+Name: 77scout77
+Security: -0.1
+Alliance: None
+Corp: Perkone
+Ship: Unknown
+Weapon: Civilian Gatling Railgun
+
+Name: MasterDk78
+Security: 3.1
+Alliance: None
+Corp: Gorgons Might
+Ship: Vulture
+Weapon: Warp Disruptor I
+
+
+Destroyed items:
+
+250mm Compressed Coil Gun I
+250mm Compressed Coil Gun I
+250mm Carbide Railgun I
+Antimatter Charge M, Qty: 108
+Magnetic Field Stabilizer I
+Beta Reactor Control: Diagnostic System I
+Mark I Generator Refitting: Diagnostic System
+Mark I Generator Refitting: Reaction Control
+

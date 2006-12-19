@@ -1,0 +1,37 @@
+2007.04.01 22:45
+
+Victim: Untamed Fury
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Destroyed: Harpy
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: WarGod (laid the final blow)
+Security: 1.2
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Curse
+Weapon: Ogre II
+
+Name: Pancakes 01
+Security: 0.1
+Alliance: None
+Corp: Deep Core Mining Inc.
+Ship: Manticore
+Weapon: 'Limos' Cruise Launcher I
+
+
+Destroyed items:
+
+150mm Railgun I
+150mm Railgun I
+Antimatter Charge S, Qty: 36
+Inertia Stabilizers I
+Tritanium (Cargo)
+EMP M, Qty: 57 (Cargo)
+Antimatter Charge S, Qty: 650 (Cargo)
+Scourge Heavy Missile, Qty: 500 (Cargo)
+

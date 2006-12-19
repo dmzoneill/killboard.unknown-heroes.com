@@ -1,0 +1,33 @@
+2007.05.15 04:13
+
+Victim: Ivan Bistoff
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Destroyed: Caldari Shuttle
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Kiersten (laid the final blow)
+Security: -4.4
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Thorax
+Weapon: Warrior II
+
+Name: Vel'Kethor
+Security: -2.8
+Alliance: DeStInY.
+Corp: House Of Aaron
+Ship: Malediction
+Weapon: X5 Prototype I Engine Enervator
+
+Name: VenomCoil
+Security: 0.3
+Alliance: 3asy Company
+Corp: Eth3real
+Ship: Eris
+Weapon: Flameburst Light Missile
+
+

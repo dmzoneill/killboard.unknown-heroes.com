@@ -1,0 +1,26 @@
+2007.01.01 05:14
+
+Victim: skothk
+Alliance: Interstellar Starbase Syndicate
+Corp: ISS Navy Task Force
+Destroyed: Caldari Shuttle
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Blackmas
+Security: 1.0
+Alliance: Freelancer Alliance
+Corp: X.T.R
+Ship: Thorax
+Weapon: Thorax
+
+Name: NOCLUE (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: X.T.R
+Ship: Ferox
+Weapon: Scourge Heavy Missile
+
+

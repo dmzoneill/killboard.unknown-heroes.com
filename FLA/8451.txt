@@ -1,0 +1,35 @@
+2006.11.19 02:05
+
+Victim: Kyoshisan
+Alliance: Freelancer Alliance
+Corp: BGG
+Destroyed: Ishkur
+System: Torrinos
+Security: 0.5
+
+Involved parties:
+
+Name: Elliott Manchild (laid the final blow)
+Security: -1.9
+Alliance: None
+Corp: omen.
+Ship: Dominix
+Weapon: Berserker II
+
+Name: d1amond
+Security: 3.5
+Alliance: None
+Corp: omen.
+Ship: Raven
+Weapon: Inferno Javelin Torpedo
+
+
+Destroyed items:
+
+Small Nosferatu I
+Light Ion Blaster II
+Light Ion Blaster II
+Void S, Qty: 120
+1MN Afterburner I
+Hobgoblin II, Qty: 2 (Drone Bay)
+

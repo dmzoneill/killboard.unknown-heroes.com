@@ -1,0 +1,33 @@
+2007.03.12 01:43
+
+Victim: Schmeckel
+Alliance: Chorus of Dawn
+Corp: Cosmic Odyssey
+Destroyed: Capsule
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: alon blackhelm
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Myrmidon
+Weapon: 250mm Compressed Coil Gun I
+
+Name: Nukuquqa Hestase (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: Leonardo Sabrioski
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Crow
+Weapon: Initiated Warp Jammer I
+
+

@@ -1,0 +1,25 @@
+2006.11.19 03:15
+
+Victim: Tri Ounou
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Destroyed: Stiletto
+System: E-Z2ZX
+Security: 0.0
+
+Involved parties:
+
+Name: Altai Saker (laid the final blow)
+Security: -1.7
+Alliance: The Sani Sabik
+Corp: Omniscient Order
+Ship: Eris
+Weapon: 125mm Railgun II
+
+
+Destroyed items:
+
+Small 'Knave' I Energy Drain
+Barrage S, Qty: 59
+X5 Prototype I Engine Enervator
+

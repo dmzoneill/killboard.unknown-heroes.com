@@ -1,0 +1,39 @@
+2006.11.08 20:29
+
+Victim: SleepyOSU
+Alliance: Freelancer Alliance
+Corp: Sin-X Inc.
+Destroyed: Vexor
+System: Haajinen
+Security: 0.8
+
+Involved parties:
+
+Name: Yarek Balear (laid the final blow)
+Security: -1.8
+Alliance: None
+Corp: The Initiative
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: TranZferR
+Security: -1.8
+Alliance: None
+Corp: The Initiative
+Ship: Arazu
+Weapon: Warp Disruptor I
+
+
+Destroyed items:
+
+Heavy Electron Blaster I
+Heavy Electron Blaster I
+Antimatter Charge M, Qty: 393
+Drone Link Augmentor I
+Medium Armor Repairer I
+Armor Explosive Hardener I
+Antimatter Charge M, Qty: 1000 (Cargo)
+Explosive Armor Compensation (Cargo)
+Hammerhead I, Qty: 5 (Drone Bay)
+Warrior I, Qty: 5 (Drone Bay)
+

@@ -1,0 +1,56 @@
+2007.01.03 17:03
+
+Victim: Gen Bang
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Destroyed: Vexor
+System: Kisogo
+Security: 1.0
+
+Involved parties:
+
+Name: crash003
+Security: -1.0
+Alliance: Privateer Alliance
+Corp: Turbulent
+Ship: Taranis
+Weapon: Taranis
+
+Name: Sadao (laid the final blow)
+Security: 0.7
+Alliance: Privateer Alliance
+Corp: Space Perverts and Forum Warriors United
+Ship: Typhoon
+Weapon: Mjolnir Torpedo
+
+Name: RootAccess
+Security: 0.0
+Alliance: Privateer Alliance
+Corp: Space Perverts and Forum Warriors United
+Ship: Wolf
+Weapon: Wolf
+
+Name: Valerius
+Security: -1.5
+Alliance: Privateer Alliance
+Corp: Privateers
+Ship: Dominix
+Weapon: Wasp II
+
+Name: Jared Jaws
+Security: -0.6
+Alliance: Privateer Alliance
+Corp: Space Perverts and Forum Warriors United
+Ship: Rifter
+Weapon: Small Nosferatu I
+
+
+Destroyed items:
+
+Miner II
+Small Energy Transfer Array I
+125mm Railgun I
+Thorium Charge S, Qty: 80
+Civilian Shield Booster I
+Expanded Cargohold I
+

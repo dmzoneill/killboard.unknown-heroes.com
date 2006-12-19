@@ -1,0 +1,47 @@
+2007.04.11 00:30
+
+Victim: XN Spectre
+Alliance: None
+Corp: School of Applied Knowledge
+Destroyed: Bantam
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Reven Boruch (laid the final blow)
+Security: 5.0
+Alliance: Darklite inc Alliance
+Corp: Darklite inc
+Ship: Caracal
+Weapon: Sabretooth Light Missile
+
+Name: AngeBlade
+Security: 2.8
+Alliance: 3asy Company
+Corp: Eth3real
+Ship: Raptor
+Weapon: Bloodclaw Light Missile
+
+Name: Kristian Dugat
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Anathema
+Weapon: Anathema
+
+Name: Kelton Lermetov
+Security: 2.6
+Alliance: 3asy Company
+Corp: Eth3real
+Ship: Hawk
+Weapon: Standard Missile Launcher II
+
+
+Destroyed items:
+
+75mm Gatling Rail I
+Lead Charge S, Qty: 134
+Civilian Afterburner
+Mining Drone I (Drone Bay)
+

@@ -1,0 +1,33 @@
+2007.03.08 05:12
+
+Victim: VDV Bru37
+Alliance: YouWhat
+Corp: Beasts of Burden
+Destroyed: Capsule
+System: XZH-4X
+Security: 0.0
+
+Involved parties:
+
+Name: VoYvod (laid the final blow)
+Security: -1.3
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Coercer
+Weapon: Medium Beam Laser I
+
+Name: Silistria
+Security: 0.6
+Alliance: GoonSwarm
+Corp: Black Omega Security
+Ship: Raptor
+Weapon: Bloodclaw Light Missile
+
+Name: Phelan Driscoll
+Security: 0.5
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Rifter
+Weapon: Standard Missile Launcher I
+
+

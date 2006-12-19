@@ -1,0 +1,51 @@
+2006.11.08 20:04
+
+Victim: Torq
+Alliance: None
+Corp: Tranquility Quickening Syndrome
+Destroyed: Ares
+System: 3QE-9Q
+Security: 0.0
+
+Involved parties:
+
+Name: Verild
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Rook
+Weapon: Sabretooth Precision Light Missile
+
+Name: Tri Ounou
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: Jumar Coldgin (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Eagle
+Weapon: Sabretooth Precision Light Missile
+
+
+Destroyed items:
+
+Light Neutron Blaster II
+Light Neutron Blaster II
+Thorium Charge S, Qty: 75
+Foxfire Rocket, Qty: 27
+'Malkuth' Rocket Launcher I
+1MN MicroWarpdrive I
+J5b Phased Prototype Warp Inhibitor I
+Energized Adaptive Nano Membrane I
+10MN MicroWarpdrive I (Cargo)
+Small Armor Repairer I (Cargo)
+Regulated Ion Phase Cannon I (Cargo)
+Invulnerability Field I (Cargo)
+Thorium Charge S, Qty: 937 (Cargo)
+Insulated Stabilizer Array I (Cargo)
+Expanded Cargohold I (Cargo)
+

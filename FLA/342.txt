@@ -1,0 +1,138 @@
+2007.01.27 03:14
+
+Victim: XxAngelxX
+Alliance: Triumvirate.
+Corp: D00M.
+Destroyed: Curse
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Swanny231 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Raven
+Weapon: Bane Javelin Torpedo
+
+Name: Nya
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Nidhoggur
+Weapon: Dragonfly
+
+Name: DrElJefeMD
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Tempest
+Weapon: Tempest
+
+Name: Weeble Wooble
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Catalyst
+Weapon: Catalyst
+
+Name: Kyias Shadow
+Security: -0.9
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Enyo
+Weapon: 150mm Railgun II
+
+Name: Thafesko
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Cormorant
+Weapon: X5 Prototype I Engine Enervator
+
+Name: dastommy79
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Thorax
+Weapon: Thorax
+
+Name: sakana
+Security: -1.2
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Taranis
+Weapon: X5 Prototype I Engine Enervator
+
+Name: jonos syclarin
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Jaguar
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: Tarphon
+Security: 2.7
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Thorax
+Weapon: Fleeting Warp Scrambler I
+
+Name: Swindy
+Security: 1.5
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Flycatcher
+Weapon: Rocket Launcher I
+
+Name: Mr Kilgore
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Huginn
+Weapon: XR-3200 Heavy Missile Bay
+
+Name: Indigo Callypso
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Kestrel
+Weapon: Target Painter I
+
+Name: HYT gangster
+Security: 1.0
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Typhoon
+Weapon: Cruise Missile Launcher I
+
+Name: Fugnut
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Drake
+Weapon: FZ-3 Subversive Spatial Destabilizer ECM
+
+
+Destroyed items:
+
+Medium Pulse Laser II
+Medium Nosferatu II
+Blood Radio S
+Warp Disruptor II
+Non-Inertial Ballistic Screen Augmentation I
+Power Diagnostic System II
+Eutectic I Capacitor Charge Array, Qty: 2 (Cargo)
+Medium Armor Repairer II, Qty: 2 (Cargo)
+Heavy Neutron Blaster II (Cargo)
+125mm Railgun II (Cargo)
+250mm 'Scout' I Accelerator Cannon (Cargo)
+250mm Compressed Coil Gun I (Cargo)
+5a Prototype Shield Support I (Cargo)
+Multiphasic Bolt Array I (Cargo)
+Muon Coil Bolt Array I (Cargo)
+'Arbalest' Siege Missile Launcher (Cargo)
+Power Diagnostic System II (Cargo)
+Valkyrie II (Drone Bay)
+

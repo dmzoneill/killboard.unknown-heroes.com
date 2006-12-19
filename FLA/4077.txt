@@ -1,0 +1,26 @@
+2007.04.14 02:34
+
+Victim: Dirkex
+Alliance: None
+Corp: Perkone
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Prodigal IV (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Ship: Dominix
+Weapon: Ogre II
+
+Name: Met Chabot
+Security: 0.0
+Alliance: 3asy Company
+Corp: Eth3real
+Ship: Brutix
+Weapon: Heavy Ion Blaster I
+
+

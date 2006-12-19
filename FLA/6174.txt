@@ -1,0 +1,27 @@
+2006.11.09 22:02
+
+Victim: Planateer
+Alliance: Lotka Volterra
+Corp: FireStar Inc
+Destroyed: Crow
+System: 7-8EOE
+Security: 0.0
+
+Involved parties:
+
+Name: W4RR10R (laid the final blow)
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 43
+Upgraded 'Limos' Standard Missile Bay I
+Upgraded 'Limos' Standard Missile Bay I
+X5 Prototype I Engine Enervator
+Ballistic Control System I
+

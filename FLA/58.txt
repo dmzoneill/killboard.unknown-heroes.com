@@ -1,0 +1,24 @@
+2007.01.03 23:54
+
+Victim: Larynth
+Alliance: None
+Corp: Armoured Assassins
+Destroyed: Vexor
+System: Tannolen
+Security: 0.3
+
+Involved parties:
+
+Name: Sorlac Aurora (laid the final blow)
+Security: 4.2
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Caracal
+Weapon: Terror Assault Missile
+
+
+Destroyed items:
+
+Expanded Cargohold I
+Basic Expanded Cargohold
+

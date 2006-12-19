@@ -1,0 +1,35 @@
+2006.10.09 06:45
+
+Victim: Rustiko
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Enyo
+System: Litiura
+Security: 0.5
+
+Involved parties:
+
+Name: Morfane (laid the final blow)
+Security: -0.2
+Alliance: None
+Corp: Privateers
+Ship: Dominix
+Weapon: Berserker I
+
+Name: Guristas Saboteur / Guristas
+
+
+Destroyed items:
+
+125mm Carbide Railgun I
+125mm Compressed Coil Gun I
+Iridium Charge S, Qty: 58
+TE-2100 Standard Missile Bay
+1MN MicroWarpdrive I
+J5 Prototype Warp Inhibitor I
+Damage Control I
+Small Armor Repairer II
+N-Type Reactive Membrane I
+Iridium Charge S, Qty: 1417 (Cargo)
+Bloodclaw Light Missile, Qty: 285 (Cargo)
+

@@ -1,0 +1,33 @@
+2007.04.21 00:51
+
+Victim: Nukuquqa Hestase
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Manticore
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Savak (laid the final blow)
+Security: -0.2
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Apocalypse
+Weapon: Tachyon Afocal Maser I
+
+
+Destroyed items:
+
+Paradise Cruise Missile, Qty: 69
+'Arbalest' Cruise Launcher I
+'Arbalest' Cruise Launcher I
+'Arbalest' Cruise Launcher I
+Indirect Scanning Dampening Unit I
+F-90 Positional Sensor Subroutines
+Local Hull Conversion Overdrive Injector I
+Wrath Cruise Missile, Qty: 406 (Cargo)
+Devastator Cruise Missile, Qty: 373 (Cargo)
+Cataclysm Cruise Missile, Qty: 497 (Cargo)
+Paradise Cruise Missile, Qty: 569 (Cargo)
+

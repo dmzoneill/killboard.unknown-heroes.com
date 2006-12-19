@@ -1,0 +1,62 @@
+2006.12.12 16:41
+
+Victim: Mr Kilgore
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Destroyed: Typhoon
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: kojackUcigashu
+Security: 4.7
+Alliance: Kith of Venal
+Corp: Solidline Enterprise
+Ship: Megathron
+Weapon: Megathron
+
+Name: Syox (laid the final blow)
+Security: -0.5
+Alliance: Kith of Venal
+Corp: Solidline Enterprise
+Ship: Dominix
+Weapon: Dual 250mm Railgun II
+
+Name: zeitza ta
+Security: 1.7
+Alliance: Kith of Venal
+Corp: Solidline Enterprise
+Ship: Arazu
+Weapon: Infiltrator II
+
+Name: lt blacklotus
+Security: -0.3
+Alliance: Kith of Venal
+Corp: Solidline Enterprise
+Ship: Tempest
+Weapon: Dual 425mm AutoCannon II
+
+Name: Trinchilinchi
+Security: 3.5
+Alliance: Kith of Venal
+Corp: Solidline Enterprise
+Ship: Dominix
+Weapon: Dominix
+
+
+Destroyed items:
+
+800mm Heavy 'Scout' Repeating Artillery I
+800mm Heavy 'Scout' Repeating Artillery I
+Arch Angel Depleted Uranium L, Qty: 100
+Bane Torpedo, Qty: 24
+ZW-4100 Siege Missile Bay
+ZW-4100 Siege Missile Bay
+ZW-4100 Siege Missile Bay
+Large F-S9 Regolith Shield Induction
+Gyrostabilizer II
+Large 'Accommodation' Vestment Reconstructer I
+Bane Torpedo, Qty: 428 (Cargo)
+Wasp I (Drone Bay)
+

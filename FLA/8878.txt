@@ -1,0 +1,37 @@
+2006.12.13 20:36
+
+Victim: Kateryne
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Destroyed: Blackbird
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Unfortunate Accident
+Security: -1.2
+Alliance: None
+Corp: omen.
+Ship: Megathron
+Weapon: Megathron
+
+Name: Stylaz (laid the final blow)
+Security: 5.0
+Alliance: None
+Corp: omen.
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+
+Destroyed items:
+
+Thunderbolt Heavy Missile, Qty: 63
+Heavy Missile Launcher I
+Advanced 'Limos' Heavy Missile Bay I
+FZ-3 Subversive Spatial Destabilizer ECM
+'Hypnos' Ion Field ECM I
+ECM - Phase Inverter II
+Induced Signal Distortion Amplifier I, Qty: 10
+Thunderbolt Heavy Missile, Qty: 404 (Cargo)
+

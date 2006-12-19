@@ -1,0 +1,127 @@
+2007.05.06 18:14
+
+Victim: Yve Steel
+Alliance: YouWhat
+Corp: SteelVipers
+Destroyed: Sabre
+System: A4L-A2
+Security: 0.0
+
+Involved parties:
+
+Name: Jandeera
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: Lynx Frontier Inc.
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: AmorphousSGM (laid the final blow)
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: Lynx Frontier Inc.
+Ship: Muninn
+Weapon: 720mm Howitzer Artillery II
+
+Name: Lee Thrace
+Security: 3.3
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Myrmidon
+Weapon: Myrmidon
+
+Name: Seraph M
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: Dreamscape
+Ship: Rapier
+Weapon: Shadow Serpentis Stasis Webifier
+
+Name: Giamilton
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: Synergy Evolved
+Ship: Cormorant
+Weapon: Cormorant
+
+Name: Alise Hkarr
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: Lynx Frontier Inc.
+Ship: Vexor
+Weapon: 250mm 'Scout' I Accelerator Cannon
+
+Name: Daxit
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: Lynx Frontier Inc.
+Ship: Arazu
+Weapon: 250mm Railgun II
+
+Name: Skytex
+Security: 2.6
+Alliance: Sparta Alliance
+Corp: Synergy Evolved
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: Skittish
+Security: 0.8
+Alliance: Sparta Alliance
+Corp: Synergy Evolved
+Ship: Cormorant
+Weapon: 150mm Railgun II
+
+Name: Jessica Jones
+Security: 4.3
+Alliance: Sparta Alliance
+Corp: Lynx Frontier Inc.
+Ship: Thrasher
+Weapon: 250mm Light Artillery Cannon I
+
+Name: Sir Howard
+Security: 4.7
+Alliance: Sparta Alliance
+Corp: Lynx Frontier Inc.
+Ship: Thorax
+Weapon: 250mm Compressed Coil Gun I
+
+Name: The Ironfist
+Security: 5.0
+Alliance: None
+Corp: Nordgoetter
+Ship: Drake
+Weapon: XR-3200 Heavy Missile Bay
+
+Name: Syn Snowball
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: Synergy Evolved
+Ship: Manticore
+Weapon: Cruise Missile Launcher II
+
+Name: Kayron Brennan
+Security: 0.7
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Merlin
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+
+Destroyed items:
+
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+200mm AutoCannon II
+200mm AutoCannon II
+200mm AutoCannon II
+Barrage S, Qty: 300
+1MN MicroWarpdrive II
+EMP S, Qty: 1200 (Cargo)
+Barrage S, Qty: 2640 (Cargo)
+Warp Disrupt Probe, Qty: 24 (Cargo)
+

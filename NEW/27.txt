@@ -1,0 +1,149 @@
+2006.12.15 23:22
+
+Victim: SWAT Kat
+Alliance: The OSS
+Corp: Black Omega Security
+Destroyed: Raptor
+System: J1AU-9
+Security: 0.0
+
+Involved parties:
+
+Name: Rick A
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Merlin
+Weapon: Merlin
+
+Name: Jack Greyson
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Flycatcher
+Weapon: Bloodclaw Light Missile
+
+Name: Jumar Coldgin
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Zachariah Barnette
+Security: 2.3
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Ship: Crow
+Weapon: Bloodclaw Precision Light Missile
+
+Name: Arbitrus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Ship: Hawk
+Weapon: Sabretooth Light Missile
+
+Name: Sorlac Aurora (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Lux0r
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Hawk
+Weapon: Bloodclaw Precision Light Missile
+
+Name: Mocuker
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Ferox
+Weapon: 250mm Carbide Railgun I
+
+Name: Merkord Mikula
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Stiletto
+Weapon: 'Langour' Drive Disruptor I
+
+Name: Xenofur
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Vigil
+Weapon: Vigil
+
+Name: nossler
+Security: 3.7
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Drake
+Weapon: Advanced 'Limos' Heavy Missile Bay I
+
+Name: coldkill
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Taranis
+Weapon: Warp Scrambler I
+
+Name: WolfRavage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: Samiloth Justinian
+Security: 2.6
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Crow
+Weapon: Faint Epsilon Warp Prohibitor I
+
+Name: Rev Darkwing
+Security: 2.3
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Crow
+Weapon: Fleeting Warp Scrambler I
+
+Name: Renard Xavier
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Caracal
+Weapon: Heavy Missile Launcher I
+
+Name: Knight Picard
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Ship: Tristan
+Weapon: Regulated Light Electron Phase Cannon I
+
+Name: DanyD
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+
+Destroyed items:
+
+Thorn Rocket, Qty: 80
+1MN MicroWarpdrive I
+Damage Control I
+Overdrive Injector System I
+Spike S, Qty: 1100 (Cargo)
+Gremlin Rocket, Qty: 400 (Cargo)
+Thorn Rocket, Qty: 283 (Cargo)
+Phalanx Rocket, Qty: 230 (Cargo)
+Capacitor Power Relay I (Cargo)

@@ -1,0 +1,28 @@
+2007.03.02 07:07
+
+Victim: Kdub
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Destroyed: Rifter
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Callenthia Mirago (laid the final blow)
+Security: -1.7
+Alliance: Band of Brothers
+Corp: TAOSP
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+
+Destroyed items:
+
+150mm Light AutoCannon I
+EMP S, Qty: 78
+'Langour' Drive Disruptor I
+Small Armor Repairer II
+Local Power Plant Manager: Diagnostic System I
+EMP S, Qty: 1418 (Cargo)
+

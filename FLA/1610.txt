@@ -1,0 +1,38 @@
+2007.03.18 09:59
+
+Victim: voc III
+Alliance: Privateer Alliance
+Corp: 47R
+Destroyed: Brutix
+System: Aunia
+Security: 0.8
+
+Involved parties:
+
+Name: Valdemara (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: United Forces
+Ship: Dominix
+Weapon: Ogre I
+
+Name: Mithrantir Ob'lontra
+Security: 2.2
+Alliance: The Cyrene Initiative
+Corp: Ixion Defence Systems
+Ship: Capsule
+Weapon: Heavy Ion Blaster I
+
+
+Destroyed items:
+
+Heavy Ion Blaster I
+Heavy Ion Blaster I
+Iridium Charge M, Qty: 312
+Warp Scrambler I
+J5b Phased Prototype Warp Inhibitor I
+Patterned Stasis Web I
+Medium Armor Repairer II
+Medium Armor Repairer II
+Armor Thermic Hardener I
+

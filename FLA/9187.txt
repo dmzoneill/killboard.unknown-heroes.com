@@ -1,0 +1,30 @@
+2007.05.04 07:39
+
+Victim: Jazeer
+Alliance: Ev0ke
+Corp: Asgard Schiffswerften
+Destroyed: Impairor
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Chuck Dawg (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Crow
+Weapon: Bloodclaw Fury Light Missile
+
+Name: Ezeikiel
+Security: 0.8
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Vengeance
+Weapon: Vengeance
+
+
+Destroyed items:
+
+Basic Miner
+

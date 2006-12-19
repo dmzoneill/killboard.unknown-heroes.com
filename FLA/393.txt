@@ -1,0 +1,81 @@
+2007.01.30 17:28
+
+Victim: Ma'lice
+Alliance: None
+Corp: Beagle Corp
+Destroyed: Stiletto
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: EvilBadger
+Security: 4.2
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Drake
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+Name: WolfRavage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Hyperion
+Weapon: Hyperion
+
+Name: Mikal Drey (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Huginn
+Weapon: Havoc Heavy Missile
+
+Name: SniperMcBob
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Crow
+Weapon: Templar
+
+Name: Teck7
+Security: 0.8
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Arazu
+Weapon: Indirect Scanning Dampening Unit I
+
+Name: Minisoza
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Enyo
+Weapon: Enyo
+
+Name: Dark Carnage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Drake
+Weapon: Compact 'Limos' Assault Missile Bay I
+
+Name: Airi
+Security: 1.1
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Archon
+Weapon: Templar
+
+
+Destroyed items:
+
+200mm AutoCannon II
+Rocket Launcher I
+J5 Prototype Warp Inhibitor I
+X5 Prototype I Engine Enervator
+Inertia Stabilizers I
+Nanofiber Internal Structure I
+Barrage S, Qty: 1981 (Cargo)
+Foxfire Rocket, Qty: 250 (Cargo)
+Gremlin Rocket, Qty: 1000 (Cargo)
+Phalanx Rocket, Qty: 250 (Cargo)
+

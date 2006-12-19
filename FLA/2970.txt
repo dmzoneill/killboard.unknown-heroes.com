@@ -1,0 +1,33 @@
+2007.03.17 22:56
+
+Victim: navert
+Alliance: Freelancer Alliance
+Corp: The Night Crew
+Destroyed: Capsule
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Tanya Kovacs (laid the final blow)
+Security: 5.1
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+Name: Gordon Red
+Security: 2.0
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Crusader
+Weapon: Dual Light Pulse Laser II
+
+Name: M4J3STIC
+Security: 5.0
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Raptor
+Weapon: Fleeting Warp Scrambler I
+
+

@@ -1,0 +1,41 @@
+2007.04.10 08:02
+
+Victim: misscoda
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Crow
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Dekein
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: kapten sortebil
+Security: 4.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Raptor
+Weapon: Bloodclaw Light Missile
+
+Name: Sauron Starcrusher (laid the final blow)
+Security: 3.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 84
+'Malkuth' Standard Missile Launcher I
+Fleeting Warp Scrambler I
+Overdrive Injector System I
+Bloodclaw Light Missile, Qty: 2000 (Cargo)
+

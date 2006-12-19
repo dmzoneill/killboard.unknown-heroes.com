@@ -1,0 +1,63 @@
+2007.02.08 00:44
+
+Victim: tzar1024
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Destroyed: Stabber
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: kessah (laid the final blow)
+Security: -1.6
+Alliance: Veto Corp
+Corp: Veto.
+Ship: Myrmidon
+Weapon: Berserker II
+
+Name: xbreaka
+Security: -1.9
+Alliance: Veto Corp
+Corp: Veto. Academy
+Ship: Huginn
+Weapon: Huginn
+
+Name: ermo
+Security: 5.0
+Alliance: Veto Corp
+Corp: Veto. Academy
+Ship: Megathron
+Weapon: Hammerhead II
+
+Name: sopmac1
+Security: -1.5
+Alliance: Veto Corp
+Corp: Veto. Academy
+Ship: Prophecy
+Weapon: Prophecy
+
+Name: LiquidSteele
+Security: -1.8
+Alliance: Veto Corp
+Corp: Veto. Academy
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: Kalek Astroth
+Security: -1.1
+Alliance: Veto Corp
+Corp: Veto. Academy
+Ship: Harbinger
+Weapon: Hornet EC-300
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Phased Plasma M, Qty: 204
+Widowmaker Heavy Missile, Qty: 24
+Medium Shield Booster I
+10MN Afterburner I
+Acolyte I (Drone Bay)
+

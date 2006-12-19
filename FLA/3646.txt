@@ -1,0 +1,23 @@
+2007.03.28 15:03
+
+Victim: kill ui
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Destroyed: Incursus
+System: P-2TTL
+Security: 0.0
+
+Involved parties:
+
+Name: Steve Dave (laid the final blow)
+Security: 4.1
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+
+Destroyed items:
+
+Warp Core Stabilizer I
+

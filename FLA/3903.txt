@@ -1,0 +1,33 @@
+2007.04.05 21:12
+
+Victim: Garia666
+Alliance: None
+Corp: T.H.U.G L.I.F.E
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Ember Fox
+Security: 1.5
+Alliance: DeStInY.
+Corp: Fusion Enterprises Ltd
+Ship: Taranis
+Weapon: Taranis
+
+Name: Steven FSB (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: Lee Thrace
+Security: 5.0
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Lachesis
+Weapon: XR-3200 Heavy Missile Bay
+
+

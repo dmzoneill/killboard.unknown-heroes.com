@@ -1,0 +1,77 @@
+2006.11.19 09:00
+
+Victim: rockerguy
+Alliance: Lotka Volterra
+Corp: FATAL REVELATIONS
+Destroyed: Maller
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Digioso
+Security: 1.3
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Megathron
+Weapon: Megathron
+
+Name: Enochios (laid the final blow)
+Security: 1.5
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Zealot
+Weapon: Heavy Anode Pulse Particle Stream I
+
+Name: SniperMcBob
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Raven
+Weapon: Bane Torpedo
+
+Name: OmeTakeda
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Dominix
+Weapon: 350mm Prototype I Gauss Gun
+
+Name: Angel Vengen
+Security: 4.5
+Alliance: Freelancer Alliance
+Corp: Caldar Mercenary Syndicate
+Ship: Armageddon
+Weapon: Mega Modulated Pulse Energy Beam I
+
+Name: A'ruhn
+Security: 3.3
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Caracal
+Weapon: Sabretooth Light Missile
+
+Name: Devuse
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Dominix
+Weapon: 720mm Howitzer Artillery I
+
+
+Destroyed items:
+
+Medium Beam Laser II
+Medium Beam Laser II
+Medium Beam Laser II
+Aurora S
+Aurora S
+Aurora S
+Aurora S
+Warp Disruptor I
+Damage Control I
+Medium Armor Repairer II
+Adaptive Nano Plating II
+Warp Core Stabilizer I
+Energized Adaptive Nano Membrane I
+

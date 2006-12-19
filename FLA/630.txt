@@ -1,0 +1,31 @@
+2007.02.13 16:07
+
+Victim: Ded86
+Alliance: None
+Corp: School of Applied Knowledge
+Destroyed: Merlin
+System: Aunenen
+Security: 0.4
+
+Involved parties:
+
+Name: Bloodclaw Light Missile / Guristas
+
+Name: Sanal Gi (laid the final blow)
+Security: 0.8
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ferox
+Weapon: Thunderbolt Heavy Missile
+
+
+Destroyed items:
+
+150mm Carbide Railgun I
+Lead Charge S, Qty: 40
+Bloodclaw Light Missile, Qty: 34
+Standard Missile Launcher I
+Small F-S9 Regolith Shield Induction
+J5b Phased Prototype Warp Inhibitor I (Cargo)
+Foxfire Rocket, Qty: 29 (Cargo)
+

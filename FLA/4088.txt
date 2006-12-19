@@ -1,0 +1,39 @@
+2007.04.14 09:24
+
+Victim: 13375
+Alliance: None
+Corp: SynTech Inc.
+Destroyed: Badger Mark II
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Wallyx (laid the final blow)
+Security: 4.5
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Abaddon
+Weapon: Mega Modulated Pulse Energy Beam I
+
+Name: Kristian Dugat
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Apocalypse
+Weapon: Heavy Diminishing Power System Drain I
+
+Name: Nikita33
+Security: 3.3
+Alliance: Darklite Alliance
+Corp: Darklite inc
+Ship: Myrmidon
+Weapon: Dual 150mm Compressed Coil Gun I
+
+
+Destroyed items:
+
+10MN Afterburner I
+Warp Core Stabilizer I
+Nanofiber Internal Structure I
+

@@ -1,0 +1,35 @@
+2006.11.20 22:47
+
+Victim: Dog Cancer
+Alliance: Freelancer Alliance
+Corp: BGG
+Destroyed: Crow
+System: RO0-AF
+Security: 0.0
+
+Involved parties:
+
+Name: Unfortunate Accident
+Security: -1.4
+Alliance: None
+Corp: omen.
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Elliott Manchild (laid the final blow)
+Security: -1.8
+Alliance: None
+Corp: omen.
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 94
+Standard Missile Launcher II
+Standard Missile Launcher II
+Fleeting Warp Scrambler I
+Stasis Webifier I
+Bloodclaw Light Missile, Qty: 1248 (Cargo)
+

@@ -1,0 +1,100 @@
+2007.03.18 04:10
+
+Victim: Cranley Loballs
+Alliance: Corelum Syndicate
+Corp: Coreli Corporation
+Destroyed: Rifter
+System: F7C-H0
+Security: 0.0
+
+Involved parties:
+
+Name: Rhokel
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: The Night Crew
+Ship: Harpy
+Weapon: X5 Prototype I Engine Enervator
+
+Name: chota
+Security: 5.0
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Rapier
+Weapon: Valkyrie II
+
+Name: death1023
+Security: 2.9
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Megathron
+Weapon: 425mm 'Scout' I Accelerator Cannon
+
+Name: Averenor
+Security: 4.4
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Megathron
+Weapon: 425mm Prototype I Gauss Gun
+
+Name: Logand Delta (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Ship: Drake
+Weapon: Thunderbolt Heavy Missile
+
+Name: Sovo
+Security: -0.6
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Stabber
+Weapon: Heavy Missile Launcher I
+
+Name: Geistdren
+Security: 0.0
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Sabre
+Weapon: 150mm Railgun I
+
+Name: Ronokez
+Security: 3.1
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Merlin
+Weapon: Warp Disruptor I
+
+Name: Katsumi Ito
+Security: 0.1
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Tristan
+Weapon: Tristan
+
+Name: Fugnut
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Drake
+Weapon: Advanced 'Limos' Heavy Missile Bay I
+
+Name: Cyrila Wolf
+Security: -2.2
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Muninn
+Weapon: 720mm Howitzer Artillery II
+
+
+Destroyed items:
+
+200mm AutoCannon I
+Depleted Uranium S, Qty: 240
+Phalanx Rocket, Qty: 30
+Rocket Launcher I
+Fixed Parallel Link-Capacitor I
+Inertia Stabilizers I
+ECM - Ion Field Projector I, Qty: 6 (Cargo)
+Signal Distortion Amplifier I, Qty: 6 (Cargo)
+

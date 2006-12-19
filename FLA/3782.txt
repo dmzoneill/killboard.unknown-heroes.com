@@ -1,0 +1,72 @@
+2007.04.01 06:13
+
+Victim: dastommy79
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Destroyed: Blackbird
+System: 85-B52
+Security: 0.0
+
+Involved parties:
+
+Name: Lord Revent (laid the final blow)
+Security: 1.5
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Huginn
+Weapon: Widowmaker Heavy Missile
+
+Name: Vasili Z
+Security: 0.3
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Huginn
+Weapon: Widowmaker Precision Heavy Missile
+
+Name: Nipplator
+Security: -0.9
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Harbinger
+Weapon: Harbinger
+
+Name: Erikel
+Security: 4.5
+Alliance: Chorus of Dawn
+Corp: Cosmic Odyssey
+Ship: Myrmidon
+Weapon: Myrmidon
+
+Name: mr ioso
+Security: 4.4
+Alliance: Chorus of Dawn
+Corp: Cosmic Odyssey
+Ship: Myrmidon
+Weapon: Warrior I
+
+Name: Sexorella hotz
+Security: 2.9
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Brutix
+Weapon: Hammerhead II
+
+
+Destroyed items:
+
+150mm 'Scout' I Accelerator Cannon
+Antimatter Charge S, Qty: 34
+Thunderbolt Heavy Missile, Qty: 30
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Initiated Multispectral ECM I
+'Hypnos' Multispectral ECM I
+Prototype I Sensor Booster
+Signal Distortion Amplifier I
+Sensor Booster I (Cargo)
+Widowmaker Heavy Missile, Qty: 100 (Cargo)
+Thunderbolt Heavy Missile, Qty: 1410 (Cargo)
+Havoc Heavy Missile, Qty: 700 (Cargo)
+Scourge Heavy Missile, Qty: 1450 (Cargo)
+

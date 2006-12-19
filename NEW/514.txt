@@ -1,0 +1,125 @@
+2007.04.08 19:51
+
+Victim: Burn Lump
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Destroyed: Ferox
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Barth Evader
+Security: -0.3
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Archon
+Weapon: Einherji
+
+Name: Nethel
+Security: 2.1
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Dominix
+Weapon: Berserker II
+
+Name: abzzo
+Security: 1.7
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Zealot
+Weapon: Zealot
+
+Name: Stradivarious (laid the final blow)
+Security: 3.7
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Nidhoggur
+Weapon: Einherji
+
+Name: END3R 101
+Security: -0.7
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Damnation
+Weapon: Acolyte II
+
+Name: FowlPlayChiken
+Security: 1.2
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Thanatos
+Weapon: Einherji
+
+Name: DrunkenOne
+Security: -0.5
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Claw
+Weapon: 250mm Light Artillery Cannon II
+
+Name: Crayathan
+Security: 2.7
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Nidhoggur
+Weapon: Ogre II
+
+Name: Vily
+Security: 0.3
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Crow
+Weapon: Dark Blood Warp Disruptor
+
+Name: MIGHTYDWC
+Security: 4.7
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Myrmidon
+Weapon: Ogre II
+
+Name: Spacebar
+Security: 2.1
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: Crypt Layer
+Security: 3.6
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Taranis
+Weapon: 125mm Prototype I Gauss Gun
+
+Name: Wladomir Jed
+Security: 3.7
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Rook
+Weapon: ECM - Multispectral Jammer II
+
+Name: ICoraxI
+Security: 1.1
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Eos
+Weapon: Warp Disruptor II
+
+Name: Frantico
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Crusader
+Weapon: Crusader
+
+
+Destroyed items:
+
+Dual 150mm Railgun II, Qty: 3
+Antimatter Charge M, Qty: 222
+'Malkuth' Heavy Missile Launcher I
+Initiated Warp Jammer I
+Supplemental Scanning CPU I
+Damage Control I

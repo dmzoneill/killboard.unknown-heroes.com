@@ -1,0 +1,160 @@
+2006.09.09 18:51
+
+Victim: DARKAS
+Alliance: None
+Corp: LDK
+Destroyed: Armageddon
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: menace ace
+Security: -1.4
+Alliance: Freelancer Alliance
+Corp: Royal Flying Aces
+Ship: Deimos
+Weapon: Vespa II
+
+Name: Viikator
+Security: 1.5
+Alliance: Freelancer Alliance
+Corp: Veturi
+Ship: Vexor
+Weapon: Light Neutron Blaster II
+
+Name: MAD D0G
+Security: 3.8
+Alliance: None
+Corp: Ganksters Paradise
+Ship: Raven
+Weapon: Juggernaut Javelin Torpedo
+
+Name: digital oxygen
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Megathron
+Weapon: Valkyrie I
+
+Name: Jumar Coldgin
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Eagle
+Weapon: Eagle
+
+Name: Ione79
+Security: 2.4
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Megathron
+Weapon: Megathron
+
+Name: Drakin Korin
+Security: -1.4
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Ishtar
+Weapon: Ogre I
+
+Name: Formosus Funus
+Security: 0.7
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Tempest
+Weapon: Tempest
+
+Name: Wolfman Apocalypse (laid the final blow)
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Scorpion
+Weapon: Paradise Cruise Missile
+
+Name: TasKu
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Taranis
+Weapon: Taranis
+
+Name: keilapuukko
+Security: 1.1
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Eagle
+Weapon: Eagle
+
+Name: shekat khlorblaster
+Security: 2.1
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Thorax
+Weapon: Thorax
+
+Name: Thafesko
+Security: 4.5
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Caracal
+Weapon: 'Arbalest' Heavy Missile Launcher
+
+Name: F2C MaDMaXX
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: London Transport
+Ship: Caracal
+Weapon: 'Hypnos' Multispectral ECM I
+
+Name: DevilSlayer
+Security: 3.8
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Zealot
+Weapon: Zealot
+
+Name: Hosanna
+Security: -2.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Stiletto
+Weapon: 150mm Light AutoCannon II
+
+Name: DODECAHEDRIN
+Security: 0.8
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Ship: Prophecy
+Weapon: Scourge Heavy Missile
+
+Name: dastommy79
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Condor
+Weapon: Thorn Rocket
+
+
+Destroyed items:
+
+Dual Heavy Modulated Pulse Energy Beam I
+Dual Heavy Modulated Pulse Energy Beam I
+Dual Heavy Modulated Pulse Energy Beam I
+Dual Heavy Modulated Pulse Energy Beam I
+Dual Heavy Modulated Pulse Energy Beam I
+Dual Heavy Modulated Pulse Energy Beam I
+Heavy 'Knave' I Energy Drain
+Multifrequency L
+Multifrequency L
+Multifrequency L
+Multifrequency L
+J5 Prototype Warp Inhibitor I
+Heavy Electrochemical Capacitor Booster I
+Energized Adaptive Nano Membrane II
+Armor Kinetic Hardener II
+Armor Explosive Hardener II
+Armor Thermic Hardener II
+Hammerhead II, Qty: 2 (Drone Bay)
+Berserker I, Qty: 2 (Drone Bay)
+

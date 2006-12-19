@@ -1,0 +1,33 @@
+2006.06.03 20:04
+
+Victim: Eve Tourman
+Alliance: None
+Corp: State War Academy
+Destroyed: Capsule
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: ICPIKermit (laid the final blow)
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Taranis
+Weapon: Light Neutron Blaster II
+
+Name: SysHazard
+Security: 5.0
+Alliance: Northern Freedom Coalition
+Corp: GalacTECH Unlimited
+Ship: Unknown
+Weapon: J5b Phased Prototype Warp Inhibitor I
+
+Name: Shiri elAzarinres
+Security: 4.1
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Raven
+Weapon: Low Frequency Sensor Suppressor I
+
+

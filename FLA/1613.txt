@@ -1,0 +1,38 @@
+2007.03.18 10:10
+
+Victim: Wildhog
+Alliance: Triumvirate.
+Corp: D00M.
+Destroyed: Jaguar
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Kahless (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Thorax
+Weapon: Heavy Neutron Blaster I
+
+Name: Drist
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Typhoon
+Weapon: Vespa II
+
+
+Destroyed items:
+
+280mm Howitzer Artillery II
+280mm Howitzer Artillery II
+Foxfire Rocket, Qty: 17
+Small F-S9 Regolith Shield Induction
+Mark I Modified SS Inertial Stabilizers
+Type-D Altered SS Overdrive Injector
+Corpse, Qty: 2 (Cargo)
+Quake S, Qty: 2310 (Cargo)
+Thorn Rocket, Qty: 1998 (Cargo)
+

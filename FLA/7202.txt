@@ -1,0 +1,19 @@
+2006.02.01 14:59
+
+Victim: Martinus Crimson
+Alliance: None
+Corp: Beyond Divinity Inc
+Destroyed: Capsule
+System: Torrinos
+Security: 0.5
+
+Involved parties:
+
+Name: Cockroach (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Vengeance
+Weapon: Medium Beam Laser II
+
+

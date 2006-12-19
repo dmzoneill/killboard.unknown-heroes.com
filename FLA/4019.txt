@@ -1,0 +1,54 @@
+2007.04.09 16:33
+
+Victim: Uki mafia
+Alliance: None
+Corp: Deep Core Mining Inc.
+Destroyed: Capsule
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Pressman1966
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Nike Calistar (laid the final blow)
+Security: 4.4
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ferox
+Weapon: Thunderbolt Heavy Missile
+
+Name: Odhinn Vinlandii
+Security: 1.1
+Alliance: Federation Of united Corps
+Corp: New Order Nation
+Ship: Typhoon
+Weapon: 1400mm Gallium I Cannon
+
+Name: ConXtionS
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: The Night Crew
+Ship: Tristan
+Weapon: Stasis Webifier I
+
+Name: Clavain Treesmighter
+Security: 2.4
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Blackbird
+Weapon: SV-2000 Assault Missile Bay
+
+Name: Aiden Shaw
+Security: 0.2
+Alliance: Amen Anera
+Corp: Legion Federation
+Ship: Wolf
+Weapon: Warp Disruptor I
+
+

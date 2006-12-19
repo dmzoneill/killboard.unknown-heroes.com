@@ -1,0 +1,28 @@
+2006.11.05 20:30
+
+Victim: Irion Wallis
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Iteron Mark IV
+System: Haajinen
+Security: 0.8
+
+Involved parties:
+
+Name: spirea (laid the final blow)
+Security: 4.9
+Alliance: None
+Corp: The Initiative
+Ship: Apocalypse
+Weapon: Tachyon Beam Laser II
+
+
+Destroyed items:
+
+10MN Afterburner II
+Minmatar Shuttle (Cargo)
+LiF Fueled I Booster Rockets (Cargo)
+X5 Prototype I Engine Enervator (Cargo)
+Strip Miner I (Cargo)
+Local Hull Conversion Nanofiber Structure I (Cargo)
+

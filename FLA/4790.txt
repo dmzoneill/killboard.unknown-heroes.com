@@ -1,0 +1,31 @@
+2007.04.22 20:04
+
+Victim: Seamus O'Malley
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Kestrel
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Dark Carnage (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Scorpion
+Weapon: Large 'Notos' Explosive Charge I
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 40
+Rocket Launcher I
+Rocket Launcher I
+Standard Missile Launcher I
+Small Armor Repairer I
+Co-Processor I
+Piranha Light Missile, Qty: 294 (Cargo)
+Gremlin Rocket, Qty: 106 (Cargo)
+Foxfire Rocket, Qty: 46 (Cargo)
+

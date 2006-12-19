@@ -1,0 +1,25 @@
+2007.03.28 00:10
+
+Victim: small girl20
+Alliance: Freelancer Alliance
+Corp: Feel Good Inc.
+Destroyed: Ibis
+System: RO0-AF
+Security: 0.0
+
+Involved parties:
+
+Name: Rukaz (laid the final blow)
+Security: 3.1
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Scourge Heavy Missile / Guristas
+
+
+Destroyed items:
+
+Basic Miner
+

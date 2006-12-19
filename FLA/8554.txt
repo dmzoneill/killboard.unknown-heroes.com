@@ -1,0 +1,72 @@
+2006.11.27 02:10
+
+Victim: Onyx Soulbane
+Alliance: Freelancer Alliance
+Corp: Elite frontier group
+Destroyed: Cerberus
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Crusari
+Security: 5.0
+Alliance: The Sani Sabik
+Corp: Omniscient Order
+Ship: Dominix
+Weapon: Ogre II
+
+Name: jamesw
+Security: 1.7
+Alliance: The Sani Sabik
+Corp: Omniscient Order
+Ship: Dominix
+Weapon: Ogre II
+
+Name: H Zub (laid the final blow)
+Security: -1.0
+Alliance: The Sani Sabik
+Corp: Omniscient Order
+Ship: Dominix
+Weapon: Ogre II
+
+Name: Sergio Ling
+Security: 3.3
+Alliance: Maelstrom Alliance
+Corp: Standard Operations Building Services
+Ship: Raptor
+Weapon: Raptor
+
+Name: mier
+Security: 2.3
+Alliance: None
+Corp: 7...
+Ship: Dominix
+Weapon: Ogre I
+
+Name: Levin Cavil
+Security: -2.0
+Alliance: The Sani Sabik
+Corp: Omniscient Order
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Ifni
+Security: -1.2
+Alliance: None
+Corp: Developmental Neogenics Amalgamated
+Ship: Crusader
+Weapon: Dual Light Beam Laser II
+
+
+Destroyed items:
+
+Prototype Cloaking Device I
+Havoc Heavy Missile, Qty: 36
+'Arbalest' Heavy Missile Launcher
+'Arbalest' Heavy Missile Launcher
+Large Shield Extender II
+Photon Scattering Field II
+Havoc Heavy Missile, Qty: 1886 (Cargo)
+Thunderbolt Heavy Missile, Qty: 1919 (Cargo)
+

@@ -1,0 +1,45 @@
+2006.10.13 21:51
+
+Victim: Hoon Dalaa
+Alliance: None
+Corp: Crabbs
+Destroyed: Crow
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Barukor (laid the final blow)
+Security: 2.3
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery I
+
+Name: Hojo Norem
+Security: 2.6
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Caracal
+Weapon: Heavy Missile Launcher I
+
+Name: Damfoose
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Scorpion
+Weapon: XT-9000 Cruise Launcher
+
+
+Destroyed items:
+
+Small 'Ghoul' Energy Siphon I
+Bloodclaw Light Missile, Qty: 94
+TE-2100 Standard Missile Bay
+TE-2100 Standard Missile Bay
+'Arbalest' Standard Missile Launcher
+Monopropellant I Hydrazine Boosters
+Fleeting Warp Scrambler I
+X5 Prototype I Engine Enervator
+F-89 Synchronized Signal Amplifier
+

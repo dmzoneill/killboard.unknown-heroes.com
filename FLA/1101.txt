@@ -1,0 +1,24 @@
+2007.03.05 00:28
+
+Victim: Navyseal
+Alliance: None
+Corp: University of Caille
+Destroyed: Velator
+System: YZ-LQL
+Security: 0.0
+
+Involved parties:
+
+Name: dastommy79 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Caracal
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+Civilian Light Electron Blaster
+Tritanium (Cargo)
+

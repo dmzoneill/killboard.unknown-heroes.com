@@ -1,0 +1,67 @@
+2007.02.02 22:09
+
+Victim: Terrabyte44
+Alliance: The Core Collective
+Corp: Emergent Chaos
+Destroyed: Capsule
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Illesa (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Wolf
+Weapon: 200mm AutoCannon II
+
+Name: Swanny231
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Crow
+Weapon: Piranha Light Missile
+
+Name: Hojo Norem
+Security: 3.2
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Cormorant
+Weapon: 125mm Railgun I
+
+Name: movy
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Enyo
+Weapon: Enyo
+
+Name: mrrabit
+Security: 3.3
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Thrasher
+Weapon: 280mm Howitzer Artillery I
+
+Name: Teck7
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ishtar
+Weapon: 150mm Railgun II
+
+Name: Ocara Nezus
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Crow
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+Name: Cockroach
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Purifier
+Weapon: Dual Light Beam Laser II
+

@@ -1,0 +1,39 @@
+2007.04.03 22:30
+
+Victim: ConXtionS
+Alliance: Freelancer Alliance
+Corp: The Night Crew
+Destroyed: Brutix
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: ste thegreat
+Security: 3.1
+Alliance: Triumvirate.
+Corp: Wreckless Abandon
+Ship: Absolution
+Weapon: Absolution
+
+Name: the willyb (laid the final blow)
+Security: 0.1
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Hyperion
+Weapon: Neutron Blaster Cannon II
+
+
+Destroyed items:
+
+250mm 'Scout' I Accelerator Cannon
+250mm 'Scout' I Accelerator Cannon
+Dread Guristas Iron Charge M, Qty: 74
+Low Frequency Sensor Suppressor I
+Small Armor Repairer II
+Microcell Nanite Kinetic Hardener I
+Dread Guristas Iridium Charge M, Qty: 1000 (Cargo)
+Dread Guristas Tungsten Charge M, Qty: 1081 (Cargo)
+Iron Charge M, Qty: 6917 (Cargo)
+Wasp I (Cargo)
+

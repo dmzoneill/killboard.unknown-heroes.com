@@ -1,0 +1,29 @@
+2006.12.10 15:34
+
+Victim: Fjerkenstad
+Alliance: None
+Corp: omen.
+Destroyed: Taranis
+System: Isanamo
+Security: 0.6
+
+Involved parties:
+
+Name: SleepyOSU (laid the final blow)
+Security: 2.8
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Arbitrator
+Weapon: Infiltrator II
+
+
+Destroyed items:
+
+Salvager I, Qty: 30
+Null S, Qty: 156
+1MN MicroWarpdrive I
+Initiated Warp Jammer I
+Micro Auxiliary Power Core I
+Null S, Qty: 2293 (Cargo)
+Metal Scraps (Cargo)
+

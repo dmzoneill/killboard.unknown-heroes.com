@@ -1,0 +1,75 @@
+2007.04.14 21:52
+
+Victim: Sloth Arnini
+Alliance: Freelancer Alliance
+Corp: ORIGIN SYSTEMS
+Destroyed: Capsule
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Tripline (laid the final blow)
+Security: 1.4
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+Name: Ste Harvin
+Security: 1.3
+Alliance: FATAL Alliance
+Corp: UK Corp
+Ship: Muninn
+Weapon: 720mm Howitzer Artillery II
+
+Name: Ehxo
+Security: 4.9
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Vigil
+Weapon: 250mm Light Artillery Cannon I
+
+Name: Pharrow
+Security: -0.7
+Alliance: FATAL Alliance
+Corp: FATAL REVELATIONS
+Ship: Sabre
+Weapon: 200mm AutoCannon II
+
+Name: Theseuss
+Security: 5.0
+Alliance: FATAL Alliance
+Corp: Black Reign
+Ship: Drake
+Weapon: Heavy Missile Launcher II
+
+Name: Karille
+Security: -1.6
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Taranis
+Weapon: 125mm Railgun II
+
+Name: DrunkenOne
+Security: -0.5
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Claw
+Weapon: 250mm Light Artillery Cannon II
+
+Name: Daimos Bellurdan
+Security: 5.0
+Alliance: FATAL Alliance
+Corp: Black Reign
+Ship: Lachesis
+Weapon: Warp Disruptor II
+
+Name: CiRFiS
+Security: 3.2
+Alliance: FATAL Alliance
+Corp: FATAL REVELATIONS
+Ship: Tempest
+Weapon: 1400mm Gallium I Cannon
+
+

@@ -1,0 +1,44 @@
+2007.03.10 05:41
+
+Victim: Fire Born
+Alliance: YouWhat
+Corp: Beasts of Burden
+Destroyed: Stabber
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: TroNaaR (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ishkur
+Weapon: Hammerhead II
+
+Name: MrMaggot
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Hawk
+Weapon: Piranha Light Missile
+
+Name: PowerGimp
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Flycatcher
+Weapon: Foxfire Rocket
+
+
+Destroyed items:
+
+425mm AutoCannon I
+425mm AutoCannon I
+Phased Plasma M, Qty: 77
+Assault Missile Launcher I
+Assault Missile Launcher I
+Medium Shield Extender I
+Medium Shield Extender I
+10MN MicroWarpdrive I
+

@@ -1,0 +1,61 @@
+2007.03.20 20:31
+
+Victim: Bella Kali
+Alliance: None
+Corp: Starship Fellows
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Cho Solo (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Deimos
+Weapon: 200mm Carbide Railgun I
+
+Name: AaLaA
+Security: 4.5
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Ares
+Weapon: Ares
+
+Name: djangos
+Security: 3.5
+Alliance: CORE.
+Corp: Red 42
+Ship: Crow
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+Name: Zephyrante
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Lachesis
+Weapon: Remote Sensor Dampener II
+
+Name: WhiteBat
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Flycatcher
+Weapon: Rocket Launcher II
+
+Name: Geltan sakimuir
+Security: 5.0
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Taranis
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: FuzzBuzz
+Security: 2.4
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Caracal
+Weapon: Heavy Missile Launcher I
+
+

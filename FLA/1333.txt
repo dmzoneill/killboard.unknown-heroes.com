@@ -1,0 +1,51 @@
+2007.03.11 05:05
+
+Victim: DisGuyzCrAzY
+Alliance: United Confederation of Corporations
+Corp: Industrial Warlords
+Destroyed: Flycatcher
+System: 7D-0SQ
+Security: 0.0
+
+Involved parties:
+
+Name: Chuck Dawg
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Drake
+Weapon: Thunderbolt Heavy Missile
+
+Name: VoYvod (laid the final blow)
+Security: -1.3
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Cyrila Wolf
+Security: -2.2
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Stiletto
+Weapon: Tracking Disruptor I
+
+Name: Stone757
+Security: 1.0
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Drake
+Weapon: Heavy Missile Launcher I
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 92
+TE-2100 Standard Missile Bay
+TE-2100 Standard Missile Bay
+Gistii A-Type 1MN MicroWarpdrive
+Warp Disruptor I
+Micro F-RX Prototype I Capacitor Boost
+Cap Booster 200, Qty: 10 (Cargo)
+Sabretooth Light Missile, Qty: 1500 (Cargo)
+

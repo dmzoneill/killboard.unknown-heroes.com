@@ -1,0 +1,40 @@
+2007.05.06 16:22
+
+Victim: Sebi Fal
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Capsule
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Jet Sulu
+Security: 3.5
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Unknown
+Weapon: Heavy Missile Launcher I
+
+Name: Skittish
+Security: 0.8
+Alliance: Sparta Alliance
+Corp: Synergy Evolved
+Ship: Unknown
+Weapon: 150mm Railgun II
+
+Name: Asran Zara (laid the final blow)
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: United Space Republic
+Ship: Stabber
+Weapon: 720mm Howitzer Artillery I
+
+Name: AnarchistUK
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: United Space Republic
+Ship: Hawk
+Weapon: Standard Missile Launcher I
+
+

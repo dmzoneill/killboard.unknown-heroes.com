@@ -1,0 +1,26 @@
+2007.05.02 15:54
+
+Victim: Marie Veedor
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Capsule
+System: O-CNPR
+Security: 0.0
+
+Involved parties:
+
+Name: Abraxius (laid the final blow)
+Security: 4.6
+Alliance: Star Buccaneers
+Corp: Liga Freier Terraner
+Ship: Arazu
+Weapon: 250mm Railgun II
+
+Name: DayVV4lkEr
+Security: 2.3
+Alliance: Star Buccaneers
+Corp: Liga Freier Terraner
+Ship: Arazu
+Weapon: Arazu
+
+

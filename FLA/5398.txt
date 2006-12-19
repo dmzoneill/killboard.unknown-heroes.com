@@ -1,0 +1,82 @@
+2007.04.28 20:41
+
+Victim: Corovus
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Destroyed: Arazu
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Indiano Arko
+Security: 0.6
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: Fitz Farseer (laid the final blow)
+Security: 0.5
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Rupture
+Weapon: 220mm Vulcan AutoCannon I
+
+Name: privateer32
+Security: 5.1
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Vexor
+Weapon: Hornet I
+
+Name: Konson
+Security: 3.7
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Retribution
+Weapon: Retribution
+
+Name: LeZip
+Security: 1.2
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Kestrel
+Weapon: Bloodclaw Light Missile
+
+Name: Reverend Revelator
+Security: 1.5
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Brutix
+Weapon: 200mm Compressed Coil Gun I
+
+Name: Hojou
+Security: 0.4
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Incursus
+Weapon: Incursus
+
+Name: Erik Morkai
+Security: -1.2
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Crusader
+Weapon: Warp Disruptor II
+
+
+Destroyed items:
+
+200mm 'Scout' I Accelerator Cannon
+Covert Ops Cloaking Device II
+Thunderbolt Heavy Missile, Qty: 23
+'Malkuth' Heavy Missile Launcher I
+10MN Afterburner II
+Remote Sensor Dampener II
+Remote Sensor Dampener II
+Remote Sensor Dampener II
+Sensor Booster II
+Medium Armor Repairer II
+Beta Reactor Control: Capacitor Power Relay I
+

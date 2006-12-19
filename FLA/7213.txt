@@ -1,0 +1,61 @@
+2006.04.07 21:23
+
+Victim: Tyleritus
+Alliance: Kaos Empire
+Corp: adeptus gattacus
+Destroyed: Capsule
+System: VFK-IV
+Security: 0.0
+
+Involved parties:
+
+Name: kymis
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Enyo
+Weapon: Phalanx Rocket
+
+Name: Greenblood (laid the final blow)
+Security: 0.5
+Alliance: The Nexus Alliance
+Corp: Universal-Corp
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+Name: kirtan Loar
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Corp 101
+Ship: Ishtar
+Weapon: Faint Epsilon Warp Prohibitor I
+
+Name: TheBelgarion
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Caracal
+Weapon: Heavy Missile Launcher I
+
+Name: Rede
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Caracal
+Weapon: Heavy Missile Launcher I
+
+Name: Haydary Mezee
+Security: 1.3
+Alliance: None
+Corp: Warped Mining
+Ship: Incursus
+Weapon: Warp Disruptor I
+
+Name: Groes Thir
+Security: -0.4
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Celestis
+Weapon: Initiated Warp Jammer I
+
+

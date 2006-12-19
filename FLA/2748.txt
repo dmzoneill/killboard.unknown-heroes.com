@@ -1,0 +1,19 @@
+2007.03.04 23:10
+
+Victim: Erros
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: taylor04 (laid the final blow)
+Security: 2.7
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Sleipnir
+Weapon: 425mm AutoCannon II
+
+

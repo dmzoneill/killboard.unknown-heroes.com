@@ -1,0 +1,36 @@
+2007.04.06 21:58
+
+Victim: Hojo Norem
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Crow
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: END3R 101 (laid the final blow)
+Security: -0.7
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Malediction
+Weapon: Medium Pulse Laser II
+
+Name: Vily
+Security: 0.3
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+
+Destroyed items:
+
+Lead Charge S, Qty: 192
+'Malkuth' Rocket Launcher I
+J5b Phased Prototype Warp Inhibitor I
+Inertia Stabilizers I
+Corpse, Qty: 3 (Cargo)
+Lead Charge S, Qty: 2101 (Cargo)
+Paradise Cruise Missile, Qty: 100 (Cargo)
+

@@ -1,0 +1,30 @@
+2007.05.18 08:42
+
+Victim: Kayron Brennan
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Destroyed: Drake
+System: 93PI-4
+Security: 0.0
+
+Involved parties:
+
+Name: Coltra (laid the final blow)
+Security: 1.6
+Alliance: None
+Corp: B E R Z E R K E R
+Ship: Hurricane
+Weapon: Infiltrator II
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 49
+Advanced 'Limos' Heavy Missile Bay I
+XR-3200 Heavy Missile Bay
+XR-3200 Heavy Missile Bay
+XR-3200 Heavy Missile Bay
+Non-Inertial Ballistic Screen Augmentation I
+Pseudoelectron Containment Field I
+Ballistic Control System II
+

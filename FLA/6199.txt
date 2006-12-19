@@ -1,0 +1,26 @@
+2006.11.10 17:08
+
+Victim: darroch
+Alliance: None
+Corp: Dark-Rising
+Destroyed: Capsule
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Kismeteer (laid the final blow)
+Security: 4.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Enyo
+Weapon: Light Ion Blaster II
+
+Name: Karas Rabus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Huginn
+Weapon: 650mm Artillery Cannon II
+
+

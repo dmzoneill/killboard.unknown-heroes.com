@@ -1,0 +1,26 @@
+2006.10.06 16:34
+
+Victim: Lady CMEPTb
+Alliance: None
+Corp: State War Academy
+Destroyed: Capsule
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Jumar Coldgin (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Eagle
+Weapon: Sabretooth Precision Light Missile
+
+Name: Matt Stoner
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Cerberus
+Weapon: Scourge Heavy Missile
+
+

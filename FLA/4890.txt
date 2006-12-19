@@ -1,0 +1,35 @@
+2007.04.18 17:24
+
+Victim: Teck7
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Taranis
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Fitz Farseer (laid the final blow)
+Security: 0.5
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Hound
+Weapon: Cataclysm Cruise Missile
+
+Name: Nubiam
+Security: 4.9
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Malediction
+Weapon: Malediction
+
+
+Destroyed items:
+
+Light Ion Blaster II
+Iridium Charge S, Qty: 410
+1MN MicroWarpdrive I
+Warp Disruptor I
+Overdrive Injector System I
+Null S, Qty: 1500 (Cargo)
+

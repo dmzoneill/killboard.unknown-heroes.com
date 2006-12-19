@@ -1,0 +1,47 @@
+2006.11.26 16:45
+
+Victim: symoraintest
+Alliance: None
+Corp: Center for Advanced Studies
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Hosanna (laid the final blow)
+Security: 3.1
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Mat rix
+Security: 5.0
+Alliance: DeStInY.
+Corp: Sacred Templars
+Ship: Hawk
+Weapon: Sabretooth Light Missile
+
+Name: pipvac
+Security: 5.0
+Alliance: DeStInY.
+Corp: Sacred Templars
+Ship: Ishtar
+Weapon: Ishtar
+
+Name: Xyron Eagle
+Security: 5.0
+Alliance: O X I D E
+Corp: W33D Corp.
+Ship: Caracal
+Weapon: Heavy Missile Launcher I
+
+Name: Noitaakka
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Ishtar
+Weapon: Fleeting Warp Scrambler I
+
+

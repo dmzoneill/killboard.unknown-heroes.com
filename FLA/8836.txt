@@ -1,0 +1,60 @@
+2006.12.12 21:37
+
+Victim: bidman
+Alliance: Freelancer Alliance
+Corp: BGG
+Destroyed: Blackbird
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: siliconix
+Security: -1.0
+Alliance: None
+Corp: 0utbreak
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: superscarface
+Security: 2.5
+Alliance: None
+Corp: 0utbreak
+Ship: Abaddon
+Weapon: Tachyon Anode Particle Stream I
+
+Name: ALPHA12125
+Security: 1.7
+Alliance: None
+Corp: 0utbreak
+Ship: Megathron
+Weapon: 425mm Carbide Railgun I
+
+Name: Saal Iverson (laid the final blow)
+Security: 4.4
+Alliance: None
+Corp: 0utbreak
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Pilgrippa
+Security: -1.4
+Alliance: None
+Corp: 0utbreak
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Bloodclaw Light Missile, Qty: 65
+Piranha Light Missile, Qty: 65
+'Arbalest' Assault Missile Launcher
+'Arbalest' Assault Missile Launcher
+'Arbalest' Assault Missile Launcher
+Warp Disruptor I
+ECM - Multispectral Jammer I
+'Mendicant' Signal Booster I
+'Mendicant' Signal Booster I
+

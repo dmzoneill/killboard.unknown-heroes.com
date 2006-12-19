@@ -1,0 +1,26 @@
+2006.10.06 21:32
+
+Victim: Clavain Treesmighter
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Destroyed: Capsule
+System: Kisogo
+Security: 1.0
+
+Involved parties:
+
+Name: birty
+Security: -0.5
+Alliance: None
+Corp: Privateers
+Ship: Thorax
+Weapon: Thorax
+
+Name: Sorted (laid the final blow)
+Security: -1.4
+Alliance: None
+Corp: Privateers
+Ship: Caracal
+Weapon: Bloodclaw Light Missile
+
+

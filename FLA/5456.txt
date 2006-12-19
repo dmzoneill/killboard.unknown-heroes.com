@@ -1,0 +1,31 @@
+2006.10.04 06:49
+
+Victim: brad og
+Alliance: Maelstrom Alliance
+Corp: DarkVengeance
+Destroyed: Kestrel
+System: Isanamo
+Security: 0.6
+
+Involved parties:
+
+Name: Formosus Funus (laid the final blow)
+Security: 2.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Rifter
+Weapon: 200mm Light 'Scout' Autocannon I
+
+Name: Guristas Saboteur / Guristas
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 72
+Upgraded 'Limos' Standard Missile Bay I
+Upgraded 'Limos' Standard Missile Bay I
+Small Azeotropic Ward Salubrity I
+Small Azeotropic Ward Salubrity I
+Ballistic Control System I
+Antimatter Charge S, Qty: 200 (Cargo)
+

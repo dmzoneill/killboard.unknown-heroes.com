@@ -1,0 +1,46 @@
+2007.01.26 07:16
+
+Victim: Averenor
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Destroyed: Megathron
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: P1rate Dave
+Security: 0.9
+Alliance: None
+Corp: 0utbreak
+Ship: Typhoon
+Weapon: Juggernaut Torpedo
+
+Name: Vyndicator (laid the final blow)
+Security: -2.5
+Alliance: None
+Corp: 0utbreak
+Ship: Typhoon
+Weapon: Wrath Cruise Missile
+
+
+Destroyed items:
+
+425mm Compressed Coil Gun I
+425mm Compressed Coil Gun I
+Iron Charge L, Qty: 69
+Prototype I Sensor Booster
+F-90 Positional Sensor Subroutines
+Optical Tracking Computer I
+Optical Tracking Computer I
+Medium Armor Repairer I
+Tracking Enhancer II
+Tracking Enhancer II
+Magnetic Field Stabilizer II
+Magnetic Field Stabilizer II
+1600mm Reinforced Rolled Tungsten Plates I
+1600mm Reinforced Rolled Tungsten Plates I
+Warrior I, Qty: 5 (Drone Bay)
+Vespa I (Drone Bay)
+Valkyrie I, Qty: 2 (Drone Bay)
+

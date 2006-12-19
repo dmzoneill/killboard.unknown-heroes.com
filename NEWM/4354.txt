@@ -1,0 +1,84 @@
+2007.04.08 19:50
+
+Victim: ClogMan
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Hurricane
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Barth Evader
+Security: -0.3
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Archon
+Weapon: Einherji
+
+Name: Kali Ma
+Security: 0.3
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Archon
+Weapon: Firbolg
+
+Name: Nethel (laid the final blow)
+Security: 2.1
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Dominix
+Weapon: Berserker II
+
+Name: Stradivarious
+Security: 3.7
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Nidhoggur
+Weapon: Einherji
+
+Name: abzzo
+Security: 1.7
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Zealot
+Weapon: Zealot
+
+Name: ICoraxI
+Security: 1.1
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Eos
+Weapon: Berserker II
+
+Name: Spacebar
+Security: 2.1
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Jaguar
+Weapon: Faint Warp Prohibitor I
+
+Name: MIGHTYDWC
+Security: 4.7
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Myrmidon
+Weapon: Low Frequency Sensor Suppressor I
+
+
+Destroyed items:
+
+425mm AutoCannon I
+Medium Nosferatu I
+EMP M, Qty: 54
+SV-2000 Assault Missile Bay
+'Langour' Drive Disruptor I
+Damage Control II
+Medium Armor Repairer II
+Adaptive Nano Plating II
+EMP M, Qty: 1834 (Cargo)
+Phased Plasma M, Qty: 531 (Cargo)
+Fusion M, Qty: 1784 (Cargo)
+Flameburst Light Missile, Qty: 158 (Cargo)
+Hobgoblin II (Drone Bay)
+

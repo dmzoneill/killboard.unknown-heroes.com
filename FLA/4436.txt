@@ -1,0 +1,58 @@
+2007.04.10 08:08
+
+Victim: Remontoir
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Destroyed: Blackbird
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Sauron Starcrusher
+Security: 3.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Dekein
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: kapten sortebil
+Security: 4.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Raptor
+Weapon: Raptor
+
+Name: Maris E'lien
+Security: 3.2
+Alliance: Firmus Ixion
+Corp: Black Avatar
+Ship: Rapier
+Weapon: 650mm Artillery Cannon II
+
+Name: Ran Fujimiya (laid the final blow)
+Security: 0.5
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Raptor
+Weapon: Flameburst Light Missile
+
+
+Destroyed items:
+
+Flameburst Light Missile, Qty: 67
+SV-2000 Assault Missile Bay
+'Hypnos' Ion Field ECM I
+Faint Phase Inversion ECM I
+Alumel-Wired I Sensor Augmentation
+Induced Signal Distortion Amplifier I
+Beta Reactor Control: Capacitor Power Relay I
+Flameburst Light Missile, Qty: 593 (Cargo)
+

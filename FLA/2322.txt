@@ -1,0 +1,158 @@
+2007.02.05 19:57
+
+Victim: sakana
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Destroyed: Megathron
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Maztruq
+Security: -0.5
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Apocalypse
+Weapon: Apocalypse
+
+Name: Repiv
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Abaddon
+Weapon: Abaddon
+
+Name: LUKEC (laid the final blow)
+Security: 0.8
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Profeta
+Security: 0.2
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Apocalypse
+Weapon: Apocalypse
+
+Name: tAkErPT
+Security: 4.3
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Cerberus
+Weapon: Scourge Heavy Missile
+
+Name: OzaLoni
+Security: 1.6
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Hyperion
+Weapon: Hyperion
+
+Name: Azurek
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Megathron
+Weapon: Megathron
+
+Name: Sulfon
+Security: 3.7
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Megathron
+Weapon: Megathron
+
+Name: CLEISTHENES2
+Security: -0.9
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Maelstrom
+Weapon: Phased Muon Sensor Disruptor I
+
+Name: Trixx Cfanna
+Security: 0.6
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Rokh
+Weapon: Rokh
+
+Name: Sexual Chocolate
+Security: 2.5
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Muninn
+Weapon: Upgraded 'Limos' Standard Missile Bay I
+
+Name: maria stallion
+Security: 3.7
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Bobbeh
+Security: -0.1
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Maelstrom
+Weapon: 1400mm Howitzer Artillery II
+
+Name: EL TITAN
+Security: 1.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Machariel
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Kaijou
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Rokh
+Weapon: Rokh
+
+Name: violator2k5
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Eagle
+Weapon: Eagle
+
+Name: Havocide
+Security: 1.9
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Myrmidon
+Weapon: Warp Disruptor I
+
+Name: Bodhi D
+Security: -0.2
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Megathron
+Weapon: Megathron
+
+Name: Gazmus
+Security: 0.8
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+
+Destroyed items:
+
+425mm Carbide Railgun I
+425mm Prototype I Gauss Gun
+Iron Charge L, Qty: 117
+Bloodclaw Light Missile, Qty: 62
+'Malkuth' Assault Missile Launcher I
+Supplemental Scanning CPU I
+Magnetic Field Stabilizer II
+Type-D Power Core Modification: Capacitor Power Relay
+Iron Charge L, Qty: 6262 (Cargo)
+Warrior I, Qty: 15 (Drone Bay)
+

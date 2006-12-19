@@ -1,0 +1,33 @@
+2006.09.30 05:25
+
+Victim: Ouir du'Fromage
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Destroyed: Capsule
+System: L-C3O7
+Security: 0.0
+
+Involved parties:
+
+Name: Noobjuice
+Security: -1.0
+Alliance: None
+Corp: Omniscient Order
+Ship: Claw
+Weapon: Claw
+
+Name: Altai Saker (laid the final blow)
+Security: -0.9
+Alliance: None
+Corp: Omniscient Order
+Ship: Armageddon
+Weapon: Mega Pulse Laser II
+
+Name: Riotoverkill
+Security: 1.6
+Alliance: None
+Corp: Omniscient Order
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+

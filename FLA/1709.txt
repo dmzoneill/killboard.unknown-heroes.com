@@ -1,0 +1,34 @@
+2007.01.01 16:47
+
+Victim: Slinktress
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Destroyed: Ishkur
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Murdoch Morf (laid the final blow)
+Security: 1.5
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Jaguar
+Weapon: 200mm AutoCannon II
+
+
+Destroyed items:
+
+Small 'Knave' I Energy Drain
+150mm Compressed Coil Gun I
+150mm 'Scout' I Accelerator Cannon
+Antimatter Charge S
+Antimatter Charge S
+Antimatter Charge S
+Antimatter Charge S
+Antimatter Charge S
+Antimatter Charge S
+Fleeting Warp Scrambler I
+Emergency Damage Control I
+Photonic CPU Enhancer I
+

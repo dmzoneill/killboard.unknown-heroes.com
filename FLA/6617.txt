@@ -1,0 +1,29 @@
+2006.11.19 22:52
+
+Victim: Esk Esme
+Alliance: None
+Corp: Perkone
+Destroyed: Crow
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Digioso (laid the final blow)
+Security: 1.3
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Megathron
+Weapon: Domination Large Proton Smartbomb
+
+
+Destroyed items:
+
+75mm Gatling Rail II
+Standard Missile Launcher II
+Standard Missile Launcher II
+Small Azeotropic Ward Salubrity I
+Catalyzed Cold-Gas I Arcjet Thrusters
+Bloodclaw Light Missile, Qty: 807 (Cargo)
+Bloodclaw Precision Light Missile, Qty: 1000 (Cargo)
+

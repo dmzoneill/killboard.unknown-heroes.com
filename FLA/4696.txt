@@ -1,0 +1,55 @@
+2007.04.18 10:48
+
+Victim: MegaJ
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Destroyed: Pilgrim
+System: OWXT-5
+Security: 0.0
+
+Involved parties:
+
+Name: Zylatis (laid the final blow)
+Security: 5.0
+Alliance: EVE Animal Control
+Corp: The Inner Legion
+Ship: Vulture
+Weapon: Havoc Heavy Missile
+
+Name: Lee Thrace
+Security: 5.0
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Deimos
+Weapon: Hammerhead II
+
+Name: other mickey
+Security: 3.2
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Rifter
+Weapon: Fleeting Progressive Warp Scrambler I
+
+
+Destroyed items:
+
+E50 Prototype Energy Vampire
+10MN Afterburner II
+Faint Warp Prohibitor I
+X5 Prototype I Engine Enervator
+Sensor Booster II
+Balmer Series Targeting Inhibitor I
+Energized Adaptive Nano Membrane II
+Energized Magnetic Membrane II
+800mm Reinforced Crystalline Carbonide Plates I
+Initiated Warp Jammer I (Cargo)
+Warp Disruptor I (Cargo)
+200mm AutoCannon I (Cargo)
+F85 Peripheral Damage System I (Cargo)
+X5 Prototype I Engine Enervator (Cargo)
+Depleted Uranium S, Qty: 120 (Cargo)
+Regenerative Plating II (Cargo)
+Valkyrie II (Cargo)
+Co-Processor I (Cargo)
+Hammerhead II (Drone Bay)
+

@@ -1,0 +1,43 @@
+2006.11.18 02:41
+
+Victim: Supernaut 20k
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Destroyed: Kestrel
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Elfaen Ethenwe
+Security: -1.6
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Kestrel
+Weapon: Piranha Light Missile
+
+Name: Paltar (laid the final blow)
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Incursus
+Weapon: 125mm Railgun I
+
+Name: Slinktress
+Security: 2.1
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Tristan
+Weapon: Hobgoblin I
+
+
+Destroyed items:
+
+Thorn Rocket, Qty: 13
+'Malkuth' Rocket Launcher I
+'Malkuth' Rocket Launcher I
+Viscoelastic EM Ward Salubrity I
+400mm Reinforced Steel Plates I
+Thorn Rocket, Qty: 80 (Cargo)
+Gremlin Rocket, Qty: 70 (Cargo)
+

@@ -1,0 +1,47 @@
+2007.03.22 22:08
+
+Victim: Lord Revent
+Alliance: YouWhat
+Corp: Beasts of Burden
+Destroyed: Capsule
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Remontoir
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Harpy
+Weapon: 125mm Railgun II
+
+Name: StrikerOneSevern (laid the final blow)
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Rupture
+Weapon: 720mm Howitzer Artillery I
+
+Name: Dark Carnage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Crow
+Weapon: Sabretooth Light Missile
+
+Name: Tiberius Drake
+Security: 4.2
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Brutix
+Weapon: 200mm Carbide Railgun I
+
+Name: Darc Kaahar
+Security: -0.8
+Alliance: Freelancer Alliance
+Corp: Feel Good Inc.
+Ship: Incursus
+Weapon: 125mm Prototype I Gauss Gun
+
+

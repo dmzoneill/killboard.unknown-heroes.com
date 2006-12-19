@@ -1,0 +1,26 @@
+2006.11.11 08:41
+
+Victim: T Noem
+Alliance: Deep Space Engineering
+Corp: Hidden Agenda
+Destroyed: Caldari Shuttle
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: GrandMastaXP
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Hawk
+Weapon: Bloodclaw Light Missile
+
+Name: Almagar Phog (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Blackbird
+Weapon: Bloodclaw Light Missile
+
+

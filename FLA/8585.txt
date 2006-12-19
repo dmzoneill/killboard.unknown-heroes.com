@@ -1,0 +1,42 @@
+2006.11.30 20:18
+
+Victim: Vahearun
+Alliance: Freelancer Alliance
+Corp: Veturi
+Destroyed: Maelstrom
+System: Torrinos
+Security: 0.5
+
+Involved parties:
+
+Name: Goonies (laid the final blow)
+Security: 4.7
+Alliance: None
+Corp: omen.
+Ship: Raven
+Weapon: Bane Torpedo
+
+Name: Elliott Manchild
+Security: -1.6
+Alliance: None
+Corp: omen.
+Ship: Taranis
+Weapon: J5 Prototype Warp Inhibitor I
+
+
+Destroyed items:
+
+1400mm 'Scout' Artillery I
+1400mm 'Scout' Artillery I
+1400mm 'Scout' Artillery I
+1400mm 'Scout' Artillery I
+1400mm 'Scout' Artillery I
+Phased Plasma L, Qty: 22
+Nuclear L, Qty: 28
+F-90 Positional Sensor Subroutines
+Gyrostabilizer II
+Gyrostabilizer II
+Pseudoelectron Containment Field I
+Nuclear L, Qty: 9888 (Cargo)
+Phased Plasma L, Qty: 4382 (Cargo)
+

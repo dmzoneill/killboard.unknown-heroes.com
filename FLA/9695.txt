@@ -1,0 +1,33 @@
+2007.05.25 13:11
+
+Victim: command95
+Alliance: None
+Corp: Imperial Academy
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Alch3mik (laid the final blow)
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Rapier
+Weapon: 720mm Howitzer Artillery II
+
+Name: Steven FSB
+Security: 3.5
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: MrMajIc
+Security: 0.8
+Alliance: Imperial Republic Of the North
+Corp: VentureCorp
+Ship: Sabre
+Weapon: 200mm AutoCannon II
+
+

@@ -1,0 +1,67 @@
+2006.12.29 20:44
+
+Victim: Solis Ragyogas
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Destroyed: Megathron
+System: 7T6P-C
+Security: 0.0
+
+Involved parties:
+
+Name: Dire Guristas Destructor / Guristas
+
+Name: Rolvaag
+Security: 1.4
+Alliance: Sani Khal'Vecna
+Corp: Blood Inquisition
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Kai page (laid the final blow)
+Security: -0.5
+Alliance: Sani Khal'Vecna
+Corp: coracao ardente
+Ship: Claw
+Weapon: 150mm Light AutoCannon II
+
+Name: Puffer
+Security: -1.2
+Alliance: Sani Khal'Vecna
+Corp: WOLFPACK DELTA
+Ship: Claw
+Weapon: 150mm Light AutoCannon II
+
+Name: Cyshade
+Security: -1.0
+Alliance: Sani Khal'Vecna
+Corp: Blood Inquisition
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+Salvager I, Qty: 30
+425mm Compressed Coil Gun I
+350mm Prototype I Gauss Gun
+Antimatter Charge L, Qty: 40
+Plutonium Charge L, Qty: 25
+Wrath Cruise Missile
+Wrath Cruise Missile
+Wrath Cruise Missile
+Omni Positional ECCM Sensor System I
+F-S8 Relativistic Deflection Shield Induction
+Medium Armor Repairer II
+1600mm Reinforced Crystalline Carbonide Plates I
+Large Shield Extender I (Cargo)
+Large Shield Booster I (Cargo)
+Dual 250mm Compressed Coil Gun I (Cargo)
+Plutonium Charge L, Qty: 437 (Cargo)
+Antimatter Charge M, Qty: 100 (Cargo)
+Juggernaut Torpedo, Qty: 100 (Cargo)
+Ward Console, Qty: 4 (Cargo)
+Scorched Telemetry Processor, Qty: 4 (Cargo)
+Type-D Power Core Modification: Reaction Control (Cargo)
+Wasp I, Qty: 2 (Drone Bay)
+

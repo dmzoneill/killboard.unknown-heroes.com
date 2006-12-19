@@ -1,0 +1,32 @@
+2006.10.08 15:15
+
+Victim: Cockroach
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Retribution
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Sadith (laid the final blow)
+Security: 1.5
+Alliance: R.I.S.K
+Corp: RUS-SAGA
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+
+Destroyed items:
+
+Medium Beam Laser II
+Medium Beam Laser II
+Medium Beam Laser II
+Gleam S
+Gleam S
+Gleam S
+Cold-Gas I Arcjet Thrusters
+Small Automated I Carapace Restoration
+Gamma S, Qty: 4 (Cargo)
+Xray S (Cargo)
+

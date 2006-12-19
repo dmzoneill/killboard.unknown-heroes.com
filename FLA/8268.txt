@@ -1,0 +1,41 @@
+2006.11.07 01:43
+
+Victim: Arkios Odymei
+Alliance: Freelancer Alliance
+Corp: Caldar Mercenary Syndicate
+Destroyed: Pilgrim
+System: O1Y-ED
+Security: 0.0
+
+Involved parties:
+
+Name: Tatzlwurm (laid the final blow)
+Security: 1.4
+Alliance: None
+Corp: Tyrants
+Ship: Typhoon
+Weapon: Berserker I
+
+Name: Fields Caletis
+Security: -0.1
+Alliance: Lotka Volterra
+Corp: CRICE Corporation
+Ship: Curse
+Weapon: Acolyte II
+
+
+Destroyed items:
+
+Medium Diminishing Power System Drain I
+Medium Unstable Power Fluctuator I
+Covert Ops Cloaking Device II
+Faint Epsilon Warp Prohibitor I
+Fleeting Propulsion Inhibitor I
+Medium Armor Repairer II
+Energized Thermic Membrane II
+Energized Adaptive Nano Membrane II
+Valkyrie II (Drone Bay)
+Hobgoblin II (Drone Bay)
+Warrior II (Drone Bay)
+Hammerhead II (Drone Bay)
+

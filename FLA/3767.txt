@@ -1,0 +1,30 @@
+2007.03.31 10:40
+
+Victim: Zytrel
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Destroyed: Reaper
+System: P-2TTL
+Security: 0.0
+
+Involved parties:
+
+Name: Wladomir Jed (laid the final blow)
+Security: 3.7
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Rook
+Weapon: Scourge Heavy Missile
+
+Name: BoneEater
+Security: -1.7
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Nidhoggur
+Weapon: Einherji
+
+
+Destroyed items:
+
+Civilian Gatling Autocannon
+

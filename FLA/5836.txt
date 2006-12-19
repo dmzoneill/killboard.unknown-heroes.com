@@ -1,0 +1,19 @@
+2006.10.23 20:09
+
+Victim: Unslev Di'Sret
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Destroyed: Capsule
+System: MI6O-6
+Security: 0.0
+
+Involved parties:
+
+Name: Lone flyer (laid the final blow)
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Retribution
+Weapon: Medium Pulse Laser II
+
+

@@ -1,0 +1,80 @@
+2006.10.24 20:16
+
+Victim: Ceapio
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Destroyed: Tempest
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: MentalM (laid the final blow)
+Security: 5.2
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Armageddon
+Weapon: Tachyon Beam Laser II
+
+Name: Uncle Fester
+Security: 5.2
+Alliance: Imperial Republic Of the North
+Corp: VentureCorp
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Bane Lord
+Security: 2.5
+Alliance: Imperial Republic Of the North
+Corp: VentureCorp
+Ship: Astarte
+Weapon: Heavy Ion Blaster II
+
+Name: TheBelgarion
+Security: 4.4
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: DARKLING
+Security: 5.1
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Scorpion
+Weapon: Heavy 'Ghoul' Energy Siphon I
+
+Name: Luthien Firefoot
+Security: 3.2
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Scorpion
+Weapon: ECM - Multispectral Jammer II
+
+Name: Ione79
+Security: 3.7
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Caracal
+Weapon: Initiated Multispectral ECM I
+
+
+Destroyed items:
+
+Dual 425mm AutoCannon II
+Dual 425mm AutoCannon II
+Dual 425mm AutoCannon II
+Dual 425mm AutoCannon II
+Heavy 'Knave' I Energy Drain
+Barrage L, Qty: 164
+Quad LiF Fueled I Booster Rockets
+Fleeting Warp Scrambler I
+X5 Prototype I Engine Enervator
+ECM - Multispectral Jammer II
+Gyrostabilizer II
+Energized Adaptive Nano Membrane II
+Cap Booster 800, Qty: 11 (Cargo)
+Barrage L, Qty: 374 (Cargo)
+Hammerhead I, Qty: 5 (Drone Bay)
+Wasp EC-900 (Drone Bay)
+

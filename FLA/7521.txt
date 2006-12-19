@@ -1,0 +1,70 @@
+2006.09.11 21:22
+
+Victim: Kriptoprot
+Alliance: R.I.S.K
+Corp: The First Foundation
+Destroyed: Condor
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Guristas Inferno / Guristas
+
+Name: Jumar Coldgin (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+Name: Cobra Raider
+Security: -4.4
+Alliance: Imperial Republic Of the North
+Corp: Port Royal Independent Kontractors
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+Name: Ione79
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Thorax
+Weapon: 150mm Prototype I Gauss Gun
+
+Name: kone on
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Stiletto
+Weapon: 200mm AutoCannon II
+
+Name: TasKu
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Thorax
+Weapon: 200mm Railgun I
+
+Name: Pelagiad
+Security: 4.8
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Stiletto
+Weapon: Shadow Serpentis Warp Disruptor
+
+Name: DanyD
+Security: 4.1
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Ship: Manticore
+Weapon: Cruise Missile Launcher I
+
+Name: Anyal
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Kestrel
+Weapon: 'Malkuth' Rocket Launcher I
+
+

@@ -1,0 +1,51 @@
+2006.10.20 23:46
+
+Victim: foxden
+Alliance: R.I.S.K
+Corp: Russian Specnaz
+Destroyed: Arbitrator
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Ailih Daqos
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Taranis
+Weapon: Warrior II
+
+Name: W4RR10R (laid the final blow)
+Security: 1.4
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Megathron
+Weapon: Electron Blaster Cannon II
+
+Name: Derfel Kadarn
+Security: 0.7
+Alliance: Chorus of Dawn
+Corp: Infinite Style Incorporated
+Ship: Capsule
+Weapon: Advanced 'Limos' Heavy Missile Bay I
+
+Name: Minesweeper
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Stiletto
+Weapon: J5 Prototype Warp Inhibitor I
+
+
+Destroyed items:
+
+Compact 'Limos' Assault Missile Bay I
+Initiated Warp Jammer I
+F-392 Baker Nunn Targeting Scrambler
+Damage Control I
+Bloodclaw Light Missile, Qty: 52 (Cargo)
+Piranha Light Missile, Qty: 234 (Cargo)
+Hornet II (Drone Bay)
+Hobgoblin II, Qty: 3 (Drone Bay)
+

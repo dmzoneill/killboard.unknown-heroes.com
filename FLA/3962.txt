@@ -1,0 +1,82 @@
+2007.04.07 17:14
+
+Victim: petertje20
+Alliance: None
+Corp: Anqara Industries
+Destroyed: Thorax
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: gabla
+Security: 3.7
+Alliance: Darklite inc Alliance
+Corp: Darklite inc
+Ship: Celestis
+Weapon: Vespa I
+
+Name: dastommy79
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Vexor
+Weapon: Vexor
+
+Name: Sir Pip
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Cataclysm Enterprises
+Ship: Sabre
+Weapon: Sabre
+
+Name: fducky
+Security: 5.0
+Alliance: Darklite inc Alliance
+Corp: Darklite inc
+Ship: Caracal
+Weapon: Thunderbolt Heavy Missile
+
+Name: BAJRAN BALI
+Security: 1.9
+Alliance: Darklite inc Alliance
+Corp: Darklite inc
+Ship: Myrmidon
+Weapon: Myrmidon
+
+Name: JesusOfSuburbia
+Security: 3.0
+Alliance: Dusk and Dawn
+Corp: Asgard Schiffswerften
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: Spangie (laid the final blow)
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Asgard Schiffswerften
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Wallyx
+Security: 4.5
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Armageddon
+Weapon: Acolyte II
+
+Name: Mattezinho
+Security: 0.7
+Alliance: Forces of Freedom
+Corp: The Patriot Society
+Ship: Crow
+Weapon: Flameburst Light Missile
+
+
+Destroyed items:
+
+Civilian Light Electron Blaster
+150mm Railgun I
+Iron Charge S, Qty: 40
+Berserker SW-900 (Drone Bay)
+

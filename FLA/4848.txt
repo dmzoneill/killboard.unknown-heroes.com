@@ -1,0 +1,68 @@
+2007.04.17 15:44
+
+Victim: Nike Calistar
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Caracal
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Gavax (laid the final blow)
+Security: -1.8
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Megathron
+Weapon: Neutron Blaster Cannon II
+
+Name: MegaJ
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Pilgrim
+Weapon: Hammerhead II
+
+Name: Musician
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Falcon
+Weapon: Havoc Heavy Missile
+
+Name: Corlan Dashiva
+Security: 2.8
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Crow
+Weapon: Bloodclaw Fury Light Missile
+
+Name: Vleppie
+Security: 4.7
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Guardian
+Weapon: Guardian
+
+Name: tomlinsonland
+Security: -1.3
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Drake
+Weapon: Warp Disruptor II
+
+
+Destroyed items:
+
+Assault Missile Launcher II
+Assault Missile Launcher II
+Assault Missile Launcher II
+Sabretooth Precision Light Missile, Qty: 160
+10MN MicroWarpdrive I
+Alumel-Wired I Sensor Augmentation
+Magnetic Scattering Amplifier I
+Ballistic Control System I
+Sabretooth Precision Light Missile, Qty: 271 (Cargo)
+Bloodclaw Fury Light Missile, Qty: 300 (Cargo)
+Hobgoblin II (Drone Bay)
+

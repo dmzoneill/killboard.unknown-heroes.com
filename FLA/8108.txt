@@ -1,0 +1,32 @@
+2006.10.10 19:36
+
+Victim: Supernaut 20k
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Destroyed: Caracal
+System: Elonaya
+Security: 0.7
+
+Involved parties:
+
+Name: Pure Blood (laid the final blow)
+Security: 0.0
+Alliance: None
+Corp: Privateers
+Ship: Bellicose
+Weapon: Hammerhead I
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Medium Nosferatu I
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Medium Converse I Deflection Catalyzer
+Initiated Multispectral ECM I
+Target Painter I
+Compulsive Ion Field ECM I (Cargo)
+Interdiction Sphere Launcher I, Qty: 3 (Cargo)
+

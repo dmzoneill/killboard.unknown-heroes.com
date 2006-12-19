@@ -1,0 +1,45 @@
+2007.03.03 23:41
+
+Victim: Sethiol
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Destroyed: Badger Mark II
+System: OWXT-5
+Security: 0.0
+
+Involved parties:
+
+Name: Arthur Guinness
+Security: -1.8
+Alliance: None
+Corp: Finite Horizon
+Ship: Sleipnir
+Weapon: Sleipnir
+
+Name: Die Well (laid the final blow)
+Security: 2.3
+Alliance: None
+Corp: Finite Horizon
+Ship: Hurricane
+Weapon: Widowmaker Heavy Missile
+
+Name: Neb Nimja
+Security: 0.9
+Alliance: None
+Corp: Developmental Neogenics Amalgamated
+Ship: Zealot
+Weapon: Zealot
+
+Name: Eamz
+Security: -1.2
+Alliance: None
+Corp: Finite Horizon
+Ship: Deimos
+Weapon: Deimos
+
+
+Destroyed items:
+
+Condor (Cargo)
+F-S8 Relativistic Deflection Shield Induction (Cargo)
+

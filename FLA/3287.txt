@@ -1,0 +1,65 @@
+2007.03.22 19:15
+
+Victim: Eleri Bree
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Destroyed: Tristan
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: vyperpit
+Security: 4.6
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Vagabond
+Weapon: Hobgoblin II
+
+Name: Snuggles theTerrible
+Security: 5.0
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Vulture
+Weapon: 250mm Railgun II
+
+Name: zeitza ta (laid the final blow)
+Security: 0.5
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Astarte
+Weapon: Heavy Neutron Blaster II
+
+Name: XxAngelxX
+Security: -1.8
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Curse
+Weapon: Warrior II
+
+Name: PainBall
+Security: -0.9
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Absolution
+Weapon: Heavy Pulse Laser II
+
+Name: Alchem
+Security: 2.9
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Ishtar
+Weapon: Medium 'Ghoul' Energy Siphon I
+
+
+Destroyed items:
+
+75mm Gatling Rail I
+Foxfire Rocket, Qty: 13
+Rocket Launcher I
+Rocket Launcher I
+1MN MicroWarpdrive I
+Small Armor Repairer I
+Antimatter Charge S, Qty: 200 (Cargo)
+Foxfire Rocket, Qty: 112 (Cargo)
+

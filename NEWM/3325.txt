@@ -1,0 +1,58 @@
+2007.03.23 14:04
+
+Victim: MrMaggot
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Hawk
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Vim Longhill
+Security: 4.6
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Drake
+Weapon: Warrior I
+
+Name: Serpentis Squad Leader / Serpentis Corporation
+
+Name: Mr Moonwatcher (laid the final blow)
+Security: 4.9
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Taranis
+Weapon: 125mm Railgun II
+
+Name: Apoc77
+Security: 5.0
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Rook
+Weapon: Bloodclaw Light Missile
+
+Name: wph0r
+Security: 4.5
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Eagle
+Weapon: Fleeting Warp Scrambler I
+
+
+Destroyed items:
+
+Sabretooth Light Missile, Qty: 41
+TE-2100 Standard Missile Bay
+TE-2100 Standard Missile Bay
+TE-2100 Standard Missile Bay
+'Langour' Drive Disruptor I
+Local Hull Conversion Inertial Stabilizers I
+Medium Shield Booster I (Cargo)
+Faint Warp Prohibitor I (Cargo)
+Light Neutron Blaster I, Qty: 2 (Cargo)
+Heavy Ion Blaster I (Cargo)
+Serpentis Silver Tag (Cargo)
+Piranha Light Missile, Qty: 687 (Cargo)
+Flameburst Light Missile, Qty: 357 (Cargo)
+

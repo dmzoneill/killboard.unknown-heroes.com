@@ -1,0 +1,40 @@
+2007.02.20 01:41
+
+Victim: meragon
+Alliance: None
+Corp: School of Applied Knowledge
+Destroyed: Capsule
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: scuba leah
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Ship: Heretic
+Weapon: Heretic
+
+Name: Fugnut
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: zentroty (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Ship: Crow
+Weapon: Bloodclaw Precision Light Missile
+
+Name: Dark Carnage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Drake
+Weapon: Target Painter I
+
+

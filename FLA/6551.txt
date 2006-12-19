@@ -1,0 +1,40 @@
+2006.11.18 00:22
+
+Victim: sasaha
+Alliance: None
+Corp: Federal Navy Academy
+Destroyed: Caldari Shuttle
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Jumar Coldgin
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Voyageur
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Karas Rabus (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Jaguar
+Weapon: 280mm Howitzer Artillery II
+
+Name: noba
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Lachesis
+Weapon: 250mm Railgun II
+
+

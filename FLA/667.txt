@@ -1,0 +1,60 @@
+2007.02.15 06:56
+
+Victim: Gogela
+Alliance: Zenith Affinity
+Corp: The Edge Foundation
+Destroyed: Ferox
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Irken Slushk
+Security: -0.6
+Alliance: None
+Corp: Emerald Empire
+Ship: Dominix
+Weapon: Ogre I
+
+Name: Gibson Rothman (laid the final blow)
+Security: -1.3
+Alliance: None
+Corp: Emerald Empire
+Ship: Pilgrim
+Weapon: Infiltrator II
+
+Name: Huitz Quiling
+Security: 0.5
+Alliance: None
+Corp: Emerald Empire
+Ship: Crusader
+Weapon: Crusader
+
+Name: FrankieG
+Security: -1.6
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Unknown
+Weapon: 650mm Artillery Cannon II
+
+Name: Pestily
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Rook
+Weapon: ECM - Multispectral Jammer II
+
+
+Destroyed items:
+
+Medium 'Knave' I Energy Drain
+Widowmaker Heavy Missile, Qty: 33
+Havoc Heavy Missile, Qty: 66
+Advanced 'Limos' Heavy Missile Bay I
+J5 Prototype Warp Inhibitor I
+J5 Prototype Warp Inhibitor I
+X5 Prototype I Engine Enervator
+Prototype I Sensor Booster
+Havoc Heavy Missile, Qty: 1961 (Cargo)
+Warrior I, Qty: 2 (Drone Bay)
+

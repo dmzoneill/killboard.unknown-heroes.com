@@ -1,0 +1,52 @@
+2007.02.06 05:10
+
+Victim: Xantheris
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Destroyed: Harpy
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: CLEISTHENES2
+Security: -0.9
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Claw
+Weapon: 'Arbalest' Rocket Launcher I
+
+Name: sageO (laid the final blow)
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+Name: Sexual Chocolate
+Security: 2.5
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Muninn
+Weapon: 425mm AutoCannon II
+
+Name: EL TITAN
+Security: 1.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Vagabond
+Weapon: Dual 180mm AutoCannon II
+
+
+Destroyed items:
+
+150mm Railgun II
+150mm Railgun II
+Spike S, Qty: 91
+Sensor Booster II
+Tracking Computer II
+Tracking Computer II
+Magnetic Field Stabilizer II
+Javelin S, Qty: 500 (Cargo)
+Spike S, Qty: 1307 (Cargo)
+

@@ -1,0 +1,103 @@
+2007.03.22 01:44
+
+Victim: Amon Fire
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Destroyed: Harbinger
+System: Y-C3EQ
+Security: 0.0
+
+Involved parties:
+
+Name: doc627
+Security: 5.0
+Alliance: Axiom Empire
+Corp: United Society Starfleet
+Ship: Harpy
+Weapon: 125mm Railgun II
+
+Name: dOG2314
+Security: 5.0
+Alliance: Axiom Empire
+Corp: United Society Starfleet
+Ship: Harpy
+Weapon: Harpy
+
+Name: Acidictadpole
+Security: 1.2
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Harpy
+Weapon: Warp Disruptor I
+
+Name: Richard Biegewald
+Security: 5.0
+Alliance: Axiom Empire
+Corp: United Society Starfleet
+Ship: Wolf
+Weapon: Piranha Light Missile
+
+Name: Grenadyr
+Security: 3.4
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Raptor
+Weapon: Raptor
+
+Name: Selnix (laid the final blow)
+Security: 5.0
+Alliance: Aftermath Alliance
+Corp: Master Miners
+Ship: Eris
+Weapon: Foxfire Javelin Rocket
+
+Name: Mongo Peck
+Security: 4.9
+Alliance: Xelas Alliance
+Corp: Requiem of Hades
+Ship: Taranis
+Weapon: Taranis
+
+Name: Mr Siman
+Security: 1.1
+Alliance: Xelas Alliance
+Corp: R.T.F.M
+Ship: Merlin
+Weapon: Merlin
+
+Name: e3joker
+Security: 3.8
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Harpy
+Weapon: Harpy
+
+Name: kIM JONGELL
+Security: 4.4
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Blackbird
+Weapon: Thunderbolt Heavy Missile
+
+
+Destroyed items:
+
+Heavy Pulse Laser II
+Heavy Pulse Laser II
+Ultraviolet M
+Ultraviolet M
+Ultraviolet M
+Ultraviolet M
+Ultraviolet M
+Ultraviolet M
+Ultraviolet M
+Cap Recharger II
+10MN Afterburner II
+Heat Sink II
+Tracking Enhancer II
+Beta Reactor Control: Capacitor Power Relay I
+Radio M, Qty: 7 (Cargo)
+Multifrequency M, Qty: 3 (Cargo)
+Standard M, Qty: 3 (Cargo)
+Vespa I, Qty: 2 (Drone Bay)
+

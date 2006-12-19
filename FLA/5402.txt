@@ -1,0 +1,61 @@
+2007.04.28 21:12
+
+Victim: coldkill
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Destroyed: Capsule
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Reverend Revelator
+Security: 1.5
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Brutix
+Weapon: 200mm Compressed Coil Gun I
+
+Name: Indiano Arko (laid the final blow)
+Security: 0.6
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Hurricane
+Weapon: 650mm Medium Prototype I Siege Cannon
+
+Name: Hojou
+Security: 0.4
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Incursus
+Weapon: Warp Disruptor I
+
+Name: Larshus Magrus
+Security: 5.0
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Caracal
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+Name: Erik Morkai
+Security: -1.2
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Crusader
+Weapon: Warp Disruptor II
+
+Name: Aut Nihil
+Security: 0.1
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Kestrel
+Weapon: Standard Missile Launcher I
+
+Name: Asasham
+Security: 5.0
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Incursus
+Weapon: 150mm Railgun I
+
+

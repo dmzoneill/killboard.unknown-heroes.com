@@ -1,0 +1,29 @@
+2007.03.25 00:06
+
+Victim: Chuck Dawg
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Destroyed: Crow
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Sholle (laid the final blow)
+Security: 3.0
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Armageddon
+Weapon: Large Proton Smartbomb I
+
+
+Destroyed items:
+
+'Malkuth' Rocket Launcher I
+Inertia Stabilizers I
+Wrath Cruise Missile, Qty: 2833 (Cargo)
+Foxfire Rocket, Qty: 500 (Cargo)
+Phalanx Rocket, Qty: 515 (Cargo)
+Thorn Rocket, Qty: 248 (Cargo)
+Gremlin Rocket, Qty: 406 (Cargo)
+

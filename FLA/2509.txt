@@ -1,0 +1,54 @@
+2007.02.17 04:34
+
+Victim: TroNaaR
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Capsule
+System: YZ-LQL
+Security: 0.0
+
+Involved parties:
+
+Name: Elador
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Reikoku
+Ship: Crow
+Weapon: Faint Warp Prohibitor I
+
+Name: Hunter Vonnegut
+Security: 4.2
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Myrmidon
+Weapon: 250mm Carbide Railgun I
+
+Name: Agiosgeogios (laid the final blow)
+Security: 4.3
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Aurael Drakewing
+Security: -9.4
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: Jolar
+Security: 1.1
+Alliance: Band of Brothers
+Corp: Reikoku
+Ship: Crusader
+Weapon: Crusader
+
+Name: Bearcat Hunter
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Reikoku
+Ship: Raptor
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+

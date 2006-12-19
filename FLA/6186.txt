@@ -1,0 +1,23 @@
+2006.11.10 06:32
+
+Victim: Striker 187
+Alliance: None
+Corp: State War Academy
+Destroyed: Gallente Shuttle
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: James Potkukelkka (laid the final blow)
+Security: 0.2
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Flycatcher
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+Memory Augmentation - Basic (Cargo)
+

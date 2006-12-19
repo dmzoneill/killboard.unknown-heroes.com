@@ -1,0 +1,19 @@
+2006.08.07 22:41
+
+Victim: Yuriel
+Alliance: None
+Corp: Sacred Templars
+Destroyed: Crow
+System: J1AU-9
+Security: 0.0
+
+Involved parties:
+
+Name: DevilSlayer (laid the final blow)
+Security: 3.7
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+

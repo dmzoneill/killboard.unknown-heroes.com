@@ -1,0 +1,113 @@
+2007.04.03 22:27
+
+Victim: ammargal
+Alliance: Triumvirate.
+Corp: D00M.
+Destroyed: Abaddon
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: S Dietershagen
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: The Night Crew
+Ship: Tempest
+Weapon: Wrath Cruise Missile
+
+Name: Korudon
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Dominix
+Weapon: Hammerhead I
+
+Name: Mr Omniblivion
+Security: -0.7
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Ship: Harbinger
+Weapon: Harbinger
+
+Name: Mocuker (laid the final blow)
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+Name: Darthirishguy
+Security: 2.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Raven
+Weapon: Wrath Cruise Missile
+
+Name: Dana Foxworth
+Security: 3.3
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Capsule
+Weapon: 800mm Heavy 'Scout' Repeating Artillery I
+
+Name: ConXtionS
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: The Night Crew
+Ship: Brutix
+Weapon: Vespa II
+
+Name: Denaris1
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Ferox
+Weapon: Ferox
+
+Name: demotar
+Security: 4.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Capsule
+Weapon: 'Arbalest' Cruise Launcher I
+
+Name: Njord V
+Security: -0.3
+Alliance: Freelancer Alliance
+Corp: Blackwater Squadron
+Ship: Wolf
+Weapon: Wolf
+
+Name: BerekHalfhand
+Security: 1.8
+Alliance: Federation Of united Corps
+Corp: FREE ENTERPRISE
+Ship: Capsule
+Weapon: Standard Missile Launcher I
+
+
+Destroyed items:
+
+Mega Pulse Laser II
+Mega Pulse Laser II
+Mega Pulse Laser II
+Tachyon Beam Laser II
+Tachyon Beam Laser II
+Multifrequency L
+Multifrequency L
+Multifrequency L
+Conflagration L
+Sensor Booster II
+Sensor Booster II
+Pseudoelectron Containment Field I
+Large Armor Repairer II
+Heat Sink II
+Heat Sink II
+Beta Reactor Control: Capacitor Power Relay I
+Mega Pulse Laser II (Cargo)
+Cap Booster 800, Qty: 8 (Cargo)
+Tracking Computer II (Cargo)
+Aurora L, Qty: 2 (Cargo)
+Conflagration L (Cargo)
+

@@ -1,0 +1,41 @@
+2007.01.28 18:05
+
+Victim: demotar
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Caracal
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Nira Li (laid the final blow)
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Harbinger
+Weapon: Focused Medium Pulse Laser II
+
+Name: papaPadla
+Security: 4.1
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Pilgrim
+Weapon: Valkyrie II
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Thunderbolt Heavy Missile, Qty: 25
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+X5 Prototype I Engine Enervator
+Ballistic Control System I
+Scourge Heavy Missile, Qty: 129 (Cargo)
+Havoc Heavy Missile, Qty: 129 (Cargo)
+Widowmaker Heavy Missile, Qty: 200 (Cargo)
+Hellhound F.O.F. Heavy Missile I, Qty: 15 (Cargo)
+Infiltrator I (Drone Bay)
+

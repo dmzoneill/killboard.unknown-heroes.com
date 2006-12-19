@@ -1,0 +1,72 @@
+2007.03.19 15:31
+
+Victim: Solci
+Alliance: Eternal Rapture
+Corp: Quantum Synergies
+Destroyed: Taranis
+System: O-BDXB
+Security: 0.0
+
+Involved parties:
+
+Name: Cockroach (laid the final blow)
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Prophecy
+Weapon: Heavy Pulse Laser II
+
+Name: S Dietershagen
+Security: 4.8
+Alliance: Freelancer Alliance
+Corp: The Night Crew
+Ship: Wolf
+Weapon: 280mm Howitzer Artillery II
+
+Name: Darthirishguy
+Security: 1.1
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Raven
+Weapon: Cataclysm Cruise Missile
+
+Name: Villwrath
+Security: 3.5
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Enyo
+Weapon: Enyo
+
+Name: Jorax
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Myrmidon
+Weapon: Warrior II
+
+Name: darkviron
+Security: 2.1
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Drake
+Weapon: Advanced 'Limos' Heavy Missile Bay I
+
+Name: Cubic
+Security: 1.8
+Alliance: The Sundering
+Corp: ironwood ink
+Ship: Dominix
+Weapon: Warp Disruptor I
+
+
+Destroyed items:
+
+Light Neutron Blaster II
+Light Ion Blaster II
+Null S, Qty: 155
+Catalyzed Cold-Gas I Arcjet Thrusters
+Kapteyn Sensor Array Inhibitor I
+Small Armor Repairer II
+Micro Auxiliary Power Core I
+Local Power Plant Manager: Reaction Control I
+Null S, Qty: 3670 (Cargo)

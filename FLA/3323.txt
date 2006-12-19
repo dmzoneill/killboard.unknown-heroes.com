@@ -1,0 +1,25 @@
+2007.03.23 13:39
+
+Victim: nreisan
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Destroyed: Badger Mark II
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Skinny Boy (laid the final blow)
+Security: 4.1
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Taranis
+Weapon: 125mm Railgun II
+
+
+Destroyed items:
+
+1MN MicroWarpdrive I
+Expanded Cargohold I
+Tritanium, Qty: 808424 (Cargo)
+

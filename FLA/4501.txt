@@ -1,0 +1,33 @@
+2007.04.12 02:45
+
+Victim: Sidrat Flush
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Destroyed: Capsule
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Bl00Dzor (laid the final blow)
+Security: 1.5
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Huginn
+Weapon: Widowmaker Heavy Missile
+
+Name: FAO MeatMan
+Security: 4.2
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Rook
+Weapon: BZ-5 Neutralizing Spatial Destabilizer ECM
+
+Name: Crypt Layer
+Security: 3.6
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Crow
+Weapon: 150mm Railgun II
+
+

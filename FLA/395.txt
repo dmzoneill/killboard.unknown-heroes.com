@@ -1,0 +1,128 @@
+2007.01.30 19:12
+
+Victim: DB Preacher
+Alliance: Band of Brothers
+Corp: Reikoku
+Destroyed: Typhoon
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Illesa
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Wolf
+Weapon: Wolf
+
+Name: mr passie
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: Sanal Gi
+Security: -0.6
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Scorpion
+Weapon: Hammerhead II
+
+Name: EvilBadger (laid the final blow)
+Security: 4.2
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Drake
+Weapon: Thunderbolt Heavy Missile
+
+Name: WolfRavage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Hyperion
+Weapon: Hyperion
+
+Name: Dark Carnage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Drake
+Weapon: Compact 'Limos' Assault Missile Bay I
+
+Name: 31i73
+Security: 5.0
+Alliance: None
+Corp: BGG
+Ship: Eagle
+Weapon: Eagle
+
+Name: Mikal Drey
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Huginn
+Weapon: Havoc Heavy Missile
+
+Name: Almagar Phog
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+Name: Feke
+Security: 4.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Moa
+Weapon: Moa
+
+Name: Xantheris
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Harpy
+Weapon: Harpy
+
+Name: Teck7
+Security: 0.8
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Arazu
+Weapon: Remote Sensor Dampener II
+
+Name: EM00
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Incursus
+Weapon: Incursus
+
+Name: Airi
+Security: 1.1
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Archon
+Weapon: Templar
+
+
+Destroyed items:
+
+True Sansha Heavy Energy Neutralizer
+Cataclysm Cruise Missile, Qty: 25
+Paradise Cruise Missile, Qty: 49
+Cruise Missile Launcher II
+Cruise Missile Launcher II
+Cruise Missile Launcher II
+Core X-Type 100MN MicroWarpdrive
+Stasis Webifier I
+Damage Control II
+Local Hull Conversion Inertial Stabilizers I
+Heavy 'Knave' I Energy Drain (Cargo)
+Induced Ion Field ECM I (Cargo)
+Wrath Cruise Missile, Qty: 1000 (Cargo)
+Devastator Fury Cruise Missile, Qty: 500 (Cargo)
+Berserker I (Drone Bay)
+

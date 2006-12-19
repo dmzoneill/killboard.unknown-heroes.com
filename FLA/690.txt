@@ -1,0 +1,39 @@
+2007.02.16 22:55
+
+Victim: Hulin
+Alliance: None
+Corp: The Kru
+Destroyed: Buzzard
+System: B-9C24
+Security: 0.0
+
+Involved parties:
+
+Name: Night Seeker (laid the final blow)
+Security: 0.2
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Wolf
+Weapon: 200mm AutoCannon II
+
+Name: Maggallus
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Blackbird
+Weapon: 'Hypnos' Ion Field ECM I
+
+
+Destroyed items:
+
+Ferret Scanner Probe I, Qty: 10
+Recon Probe Launcher I
+1MN Afterburner I
+Nanofiber Internal Structure I
+Nanofiber Internal Structure I
+Spook Scanner Probe I, Qty: 15 (Cargo)
+Snoop Scanner Probe I, Qty: 72 (Cargo)
+Ferret Scanner Probe I, Qty: 19 (Cargo)
+Fathom Scanner Probe I, Qty: 55 (Cargo)
+'Arbalest' Siege Missile Launcher (Cargo)
+

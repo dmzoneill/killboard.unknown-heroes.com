@@ -1,0 +1,46 @@
+2007.03.17 18:14
+
+Victim: Drist
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Destroyed: Cyclone
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Hellspawn666 (laid the final blow)
+Security: 2.1
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Typhoon
+Weapon: Cataclysm Cruise Missile
+
+Name: callonious
+Security: 0.4
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Curse
+Weapon: Vespa II
+
+Name: callon
+Security: -1.1
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Harpy
+Weapon: Harpy
+
+
+Destroyed items:
+
+650mm Artillery Cannon I
+650mm Artillery Cannon I
+Fusion M, Qty: 40
+Widowmaker Heavy Missile, Qty: 26
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Stasis Webifier I
+ECM - Multispectral Jammer I
+Sensor Booster II
+Sensor Booster II
+

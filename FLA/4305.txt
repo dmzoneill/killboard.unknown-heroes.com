@@ -1,0 +1,39 @@
+2007.04.07 17:48
+
+Victim: ConXtionS
+Alliance: Freelancer Alliance
+Corp: The Night Crew
+Destroyed: Myrmidon
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Hellspawn666 (laid the final blow)
+Security: 2.1
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Astarte
+Weapon: Heavy Neutron Blaster II
+
+Name: callonious
+Security: 0.4
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Curse
+Weapon: Medium Nosferatu II
+
+
+Destroyed items:
+
+250mm 'Scout' I Accelerator Cannon
+Uranium Charge M, Qty: 29
+Kapteyn Sensor Array Inhibitor I
+Sensor Booster I
+Medium Armor Repairer II
+Armor Explosive Hardener I
+Armor Thermic Hardener I
+Armor Kinetic Hardener I
+1600mm Reinforced Crystalline Carbonide Plates I
+Type-D Power Core Modification: Reaction Control
+

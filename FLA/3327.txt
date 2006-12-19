@@ -1,0 +1,43 @@
+2007.03.23 14:42
+
+Victim: Dr Andy
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Destroyed: Celestis
+System: 7D-0SQ
+Security: 0.0
+
+Involved parties:
+
+Name: Vim Longhill
+Security: 4.6
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Drake
+Weapon: Warrior I
+
+Name: wph0r (laid the final blow)
+Security: 4.5
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Eagle
+Weapon: Heavy Ion Blaster II
+
+Name: Apoc77
+Security: 5.0
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Rook
+Weapon: Sabretooth Light Missile
+
+
+Destroyed items:
+
+Plutonium Charge M, Qty: 80
+Remote Sensor Dampener I
+Alumel-Wired I Sensor Augmentation
+Magnetic Vortex Stabilizer
+Type-D Power Core Modification: Diagnostic System
+Plutonium Charge M, Qty: 2829 (Cargo)
+Vespa II (Drone Bay)
+

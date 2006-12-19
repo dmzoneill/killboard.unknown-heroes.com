@@ -1,0 +1,96 @@
+2006.10.07 23:53
+
+Victim: Adour
+Alliance: None
+Corp: Caldari Provisions
+Destroyed: Raptor
+System: L-TS8S
+Security: 0.0
+
+Involved parties:
+
+Name: Nil Desperandum
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Omen
+Weapon: Omen
+
+Name: avelution (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Valadeya uthanaras
+Security: 3.7
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Armageddon
+Weapon: Tachyon Afocal Maser I
+
+Name: kone on
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: Rustiko
+Security: 1.8
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Enyo
+Weapon: Bloodclaw Light Missile
+
+Name: TheBelgarion
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Caracal
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+Name: Slinktress
+Security: 1.7
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: Scorpio63
+Security: 4.8
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Armageddon
+Weapon: Tachyon Beam Laser I
+
+Name: Drakin Korin
+Security: 3.2
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Blackbird
+Weapon: ECM - Multispectral Jammer I
+
+Name: DarkJester
+Security: 0.7
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Vigil
+Weapon: Stasis Webifier I
+
+
+Destroyed items:
+
+Small Nosferatu I
+Thorn Rocket, Qty: 40
+Rocket Launcher II
+1MN MicroWarpdrive I
+Warp Core Stabilizer I
+Warp Core Stabilizer I
+Small Armor Repairer I (Cargo)
+X5 Prototype I Engine Enervator (Cargo)
+Small Nosferatu I (Cargo)
+Micro Auxiliary Power Core I (Cargo)
+Phalanx Rage Rocket, Qty: 1000 (Cargo)
+

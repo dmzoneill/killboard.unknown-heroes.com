@@ -1,0 +1,51 @@
+2007.04.08 18:00
+
+Victim: Scoutkill
+Alliance: None
+Corp: State War Academy
+Destroyed: Ibis
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Meh'lindi
+Security: 4.4
+Alliance: Darklite inc Alliance
+Corp: Darklite inc
+Ship: Enyo
+Weapon: 150mm Railgun II
+
+Name: Jarath Abyss (laid the final blow)
+Security: 4.2
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Ship: Thorax
+Weapon: 150mm Railgun II
+
+Name: Varalonia
+Security: 2.3
+Alliance: Darklite inc Alliance
+Corp: Darklite inc
+Ship: Stiletto
+Weapon: 200mm AutoCannon II
+
+Name: suddenshock
+Security: 4.0
+Alliance: Darklite inc Alliance
+Corp: Darklite inc
+Ship: Hawk
+Weapon: 150mm Railgun I
+
+Name: Elena Morkovka
+Security: 1.7
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Crow
+Weapon: Fleeting Warp Scrambler I
+
+
+Destroyed items:
+
+Basic Miner
+

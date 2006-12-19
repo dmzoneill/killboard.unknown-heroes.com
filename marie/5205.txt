@@ -1,0 +1,40 @@
+2007.04.26 08:54
+
+Victim: Evil Bunnies
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Kestrel
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Marie Veedor (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Hawk
+Weapon: Bloodclaw Light Missile
+
+Name: FlobbMkII
+Security: 4.4
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Eris
+Weapon: E5 Prototype Energy Vampire
+
+Name: Nukuquqa Hestase
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Crow
+Weapon: Piranha Light Missile
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 84
+'Malkuth' Standard Missile Launcher I
+1MN MicroWarpdrive I
+Power Diagnostic System I
+

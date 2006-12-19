@@ -1,0 +1,127 @@
+2007.04.03 20:38
+
+Victim: Mikal Drey
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Destroyed: Hurricane
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Stradivarious
+Security: 3.4
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Nidhoggur
+Weapon: Warp Disruptor II
+
+Name: Katchin
+Security: 2.5
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Chimera
+Weapon: Dragonfly
+
+Name: Sivona
+Security: -1.1
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Eos
+Weapon: Ogre II
+
+Name: c0rn1
+Security: -2.1
+Alliance: S.E.R.A
+Corp: Seraphin Technologies
+Ship: Nidhoggur
+Weapon: Ogre I
+
+Name: Tancred
+Security: 4.8
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: Ryunoko (laid the final blow)
+Security: 2.7
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Crayathan
+Security: 2.7
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Nidhoggur
+Weapon: Ogre II
+
+Name: Draximus Cane
+Security: -0.4
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Vagabond
+Weapon: 425mm AutoCannon II
+
+Name: Enosh Kerrim
+Security: -1.8
+Alliance: S.E.R.A
+Corp: Seraphin Technologies
+Ship: Astarte
+Weapon: Heavy Ion Blaster II
+
+Name: ZaKma
+Security: -0.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Wolf
+Weapon: Piranha Light Missile
+
+Name: Waagaa Ktlehr
+Security: -1.1
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Aeon
+Weapon: Gotan's Modified Stasis Webifier
+
+Name: Rukaz
+Security: 3.1
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Crow
+Weapon: 'Arbalest' Standard Missile Launcher
+
+Name: Olli
+Security: -0.1
+Alliance: S.E.R.A
+Corp: Seraphin Technologies
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+Name: Gilagos
+Security: 1.5
+Alliance: S.E.R.A
+Corp: Seraphin Technologies
+Ship: Archon
+Weapon: Dark Blood Heavy Energy Neutralizer
+
+
+Destroyed items:
+
+220mm Vulcan AutoCannon II
+220mm Vulcan AutoCannon II
+220mm Vulcan AutoCannon II
+Medium 'Knave' I Energy Drain
+Hail M, Qty: 210
+Fleeting Warp Scrambler I
+Medium Standard Container (Cargo)
+10MN MicroWarpdrive I (Cargo)
+F85 Peripheral Damage System I (Cargo)
+Medium Armor Repairer II (Cargo)
+EMP M, Qty: 1680 (Cargo)
+Cap Booster 800, Qty: 13 (Cargo)
+Hail M, Qty: 1000 (Cargo)
+Warrior II, Qty: 6 (Drone Bay)
+

@@ -1,0 +1,33 @@
+2007.04.12 03:49
+
+Victim: Ducimus Daimon
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Capsule
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Bl00Dzor (laid the final blow)
+Security: 1.5
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Huginn
+Weapon: 720mm Howitzer Artillery II
+
+Name: Ronald Speirs
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Nidhoggur
+Weapon: Nidhoggur
+
+Name: Crypt Layer
+Security: 3.6
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Crow
+Weapon: TE-2100 Standard Missile Bay
+
+

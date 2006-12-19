@@ -1,0 +1,33 @@
+2007.04.16 02:28
+
+Victim: Nethel
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Destroyed: Capsule
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Bullv3rsat (laid the final blow)
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Terminal Velocity Inc.
+Ship: Claw
+Weapon: 150mm Light AutoCannon II
+
+Name: Skull Fire
+Security: 0.8
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Aridante Lemure
+Security: 1.2
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Jaguar
+Weapon: Foxfire Rocket
+
+

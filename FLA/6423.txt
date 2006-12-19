@@ -1,0 +1,55 @@
+2006.11.13 16:44
+
+Victim: flexd
+Alliance: None
+Corp: Beer Guzzling Clowns With Blasters
+Destroyed: Moa
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: LiBraga (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Eagle
+Weapon: 250mm Prototype I Gauss Gun
+
+Name: bidman
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Raven
+Weapon: Juggernaut Javelin Torpedo
+
+Name: Dog Cancer
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Scorpio63
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Vengeance
+Weapon: Vengeance
+
+
+Destroyed items:
+
+200mm Prototype I Gauss Gun
+200mm Prototype I Gauss Gun
+200mm Railgun I
+Antimatter Charge M, Qty: 134
+'Malkuth' Assault Missile Launcher I
+Medium Shield Extender I
+Warp Disruptor I
+Auto-Gain Control Tracking Enhancer I
+Auto-Gain Control Tracking Enhancer I
+Magnetic Field Stabilizer I
+Magnetic Field Stabilizer I
+Antimatter Charge M, Qty: 1310 (Cargo)
+

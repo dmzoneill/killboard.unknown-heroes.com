@@ -1,0 +1,37 @@
+2007.05.30 10:28
+
+Victim: Mufeater
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Ares
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Veliki Pyotr (laid the final blow)
+Security: 1.1
+Alliance: DeStInY.
+Corp: The Knights Of Camelot
+Ship: Dominix
+Weapon: Hobgoblin II
+
+Name: Dixie Flatline
+Security: 5.0
+Alliance: None
+Corp: Ulukai MMP
+Ship: Unknown
+Weapon: Ogre II
+
+
+Destroyed items:
+
+75mm Gatling Rail II, Qty: 2
+Iridium Charge S, Qty: 169
+Flameburst Light Missile, Qty: 78
+Catalyzed Cold-Gas I Arcjet Thrusters
+Warp Disruptor II
+Nanofiber Internal Structure II
+Overdrive Injector System II
+Iridium Charge S, Qty: 121 (Cargo)
+Berserker II, Qty: 2 (Cargo)

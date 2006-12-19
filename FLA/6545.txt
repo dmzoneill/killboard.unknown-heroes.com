@@ -1,0 +1,47 @@
+2006.11.17 18:54
+
+Victim: Sibelius91
+Alliance: None
+Corp: Republic Military School
+Destroyed: Minmatar Shuttle
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: H3llfire (laid the final blow)
+Security: 3.2
+Alliance: O X I D E
+Corp: W33D Corp.
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Karas Rabus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Huginn
+Weapon: Assault Missile Launcher II
+
+Name: Matt Stoner
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Cerberus
+Weapon: Heavy Missile Launcher II
+
+Name: James Potkukelkka
+Security: 0.3
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Flycatcher
+Weapon: 'Arbalest' Standard Missile Launcher
+
+Name: D2O HeavyWater
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+

@@ -1,0 +1,31 @@
+2007.03.03 00:17
+
+Victim: Astorothe
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Destroyed: Impairor
+System: Eystur
+Security: 0.9
+
+Involved parties:
+
+Name: Usul78 (laid the final blow)
+Security: 3.5
+Alliance: Privateer Alliance
+Corp: Orcus Inferno
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: VaderDSL
+Security: 2.8
+Alliance: Privateer Alliance
+Corp: Orcus Inferno
+Ship: Raptor
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+Basic Miner
+Tritanium (Cargo)
+

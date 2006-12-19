@@ -1,0 +1,57 @@
+2007.01.20 18:00
+
+Victim: General Grevous
+Alliance: None
+Corp: The Caldari Confederation
+Destroyed: Hawk
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Cediii
+Security: 3.6
+Alliance: Forces of Freedom
+Corp: Desert Penguins
+Ship: Crow
+Weapon: Sabretooth Light Missile
+
+Name: kanu
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Asgard Schiffswerften
+Ship: Tempest
+Weapon: Tempest
+
+Name: dastommy79 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Thorax
+Weapon: Hammerhead I
+
+Name: Fallassar
+Security: 5.0
+Alliance: Forces of Freedom
+Corp: Crimson Wings Squadron
+Ship: Ares
+Weapon: Ares
+
+Name: Marvel Master
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Asgard Schiffswerften
+Ship: Apocalypse
+Weapon: Patterned Stasis Web I
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 64
+TE-2100 Standard Missile Bay
+TE-2100 Standard Missile Bay
+Small Shield Extender II
+Eutectic I Capacitor Charge Array
+'Rash' ECM Emission I (Cargo)
+Bloodclaw Light Missile, Qty: 1620 (Cargo)
+

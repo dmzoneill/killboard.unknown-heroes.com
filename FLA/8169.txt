@@ -1,0 +1,52 @@
+2006.10.24 20:14
+
+Victim: bidman
+Alliance: Freelancer Alliance
+Corp: BGG
+Destroyed: Raven
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: WarGod
+Security: -1.5
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Tempest
+Weapon: Tempest
+
+Name: hardgit (laid the final blow)
+Security: 4.1
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Raven
+Weapon: Juggernaut Torpedo
+
+Name: aadom
+Security: 2.7
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Tempest
+Weapon: Warrior II
+
+Name: boo3916
+Security: 4.1
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Raven
+Weapon: Raven
+
+
+Destroyed items:
+
+Siege Missile Launcher II
+Siege Missile Launcher II
+Inferno Javelin Torpedo, Qty: 18
+Invulnerability Field II
+Invulnerability Field II
+Sensor Booster II
+Ballistic Control System II
+Ballistic Control System II
+Inferno Javelin Torpedo, Qty: 391 (Cargo)
+

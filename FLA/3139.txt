@@ -1,0 +1,38 @@
+2007.03.25 14:28
+
+Victim: istasi
+Alliance: YouWhat
+Corp: Artificial Horizons
+Destroyed: Myrmidon
+System: XZH-4X
+Security: 0.0
+
+Involved parties:
+
+Name: Solarienne
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Prophecy
+Weapon: Hobgoblin II
+
+Name: Kateryne (laid the final blow)
+Security: 0.3
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Maelstrom
+Weapon: 800mm Heavy 'Scout' Repeating Artillery I
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Medium Nosferatu I
+10MN MicroWarpdrive I
+Warp Disruptor I
+Stasis Webifier I
+Medium Inefficient Armor Repair Unit
+N-Type Kinetic Hardener I
+Armor Thermic Hardener I
+Microcell Nanite Explosive Hardener I
+

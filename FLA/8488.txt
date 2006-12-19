@@ -1,0 +1,30 @@
+2006.11.22 01:41
+
+Victim: coldkill
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Destroyed: Ishkur
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Crax McGee (laid the final blow)
+Security: -0.7
+Alliance: None
+Corp: Kemono.
+Ship: Vigilant
+Weapon: Heavy Ion Blaster II
+
+
+Destroyed items:
+
+125mm Railgun II
+125mm Railgun II
+Spike S, Qty: 156
+1MN Afterburner II
+Fleeting Warp Scrambler I
+Stasis Webifier I
+Small Armor Repairer II
+Energized Reactive Membrane II
+

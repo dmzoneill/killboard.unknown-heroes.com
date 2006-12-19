@@ -1,0 +1,89 @@
+2007.04.26 00:21
+
+Victim: Steve Dave
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Destroyed: Capsule
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: hydraSlav
+Security: 3.5
+Alliance: Sparta Alliance
+Corp: Synergy Evolved
+Ship: Rifter
+Weapon: Rifter
+
+Name: Isaac Orion (laid the final blow)
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: Dreamscape
+Ship: Arazu
+Weapon: 250mm Railgun II
+
+Name: coldkill
+Security: 1.9
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Ishkur
+Weapon: 125mm Railgun II
+
+Name: Kayron Brennan
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Condor
+Weapon: Thorn Rocket
+
+Name: shadowxp99
+Security: 4.0
+Alliance: Freelancer Alliance
+Corp: Harbingers of Sarrow
+Ship: Executioner
+Weapon: Dual Light Beam Laser I
+
+Name: Sephron Kintaka
+Security: 4.0
+Alliance: Sparta Alliance
+Corp: Lynx Frontier Inc.
+Ship: Taranis
+Weapon: Taranis
+
+Name: RythemAndStealth
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Vengeance
+Weapon: Dual Light Pulse Laser I
+
+Name: Minisoza
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ares
+Weapon: TE-2100 Standard Missile Bay
+
+Name: Kvarium Ki
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Rifter
+Weapon: 250mm Light Carbine Howitzer I
+
+Name: Imaginary Number
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Incursus
+Weapon: Light Neutron Blaster I
+
+Name: Chuck Dawg
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Condor
+Weapon: Rocket Launcher I
+
+

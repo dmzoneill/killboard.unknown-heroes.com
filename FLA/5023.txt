@@ -1,0 +1,49 @@
+2007.04.21 02:49
+
+Victim: Thiet
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Caracal
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Wraithstorm
+Security: 3.1
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Rokh
+Weapon: Rokh
+
+Name: Arikas Talendar (laid the final blow)
+Security: 5.0
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Armageddon
+Weapon: Tachyon Beam Laser I
+
+Name: Bothius
+Security: 0.4
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Arazu
+Weapon: Arazu
+
+Name: sgtdark
+Security: 5.0
+Alliance: Storm Armada
+Corp: stone grave haulage
+Ship: Helios
+Weapon: Helios
+
+
+Destroyed items:
+
+Thunderbolt Heavy Missile, Qty: 24
+'Malkuth' Heavy Missile Launcher I
+10MN Afterburner I
+Sensor Booster I
+Ballistic Control System I
+Thunderbolt Heavy Missile, Qty: 2000 (Cargo)
+

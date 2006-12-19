@@ -1,0 +1,67 @@
+2007.03.14 00:45
+
+Victim: Derfel Kadarn
+Alliance: Chorus of Dawn
+Corp: Infinite Style Incorporated
+Destroyed: Muninn
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Bobby Atlas (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Moros
+Weapon: Hammerhead II
+
+Name: FlobbMkII
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Taranis
+Weapon: Taranis
+
+Name: Keshein
+Security: 3.0
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Ship: Cormorant
+Weapon: Cormorant
+
+Name: dastommy79
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Blair Quawn
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Vesspasiano
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Myrmidon
+Weapon: Medium Nosferatu I
+
+
+Destroyed items:
+
+425mm AutoCannon II
+425mm AutoCannon II
+EMP M, Qty: 120
+Flameburst Light Missile, Qty: 42
+'Malkuth' Standard Missile Launcher I
+Large Shield Extender II
+Infiltrator II, Qty: 3 (Cargo)
+Warrior II (Cargo)
+Bloodclaw Light Missile, Qty: 200 (Cargo)
+Hobgoblin II (Drone Bay)
+

@@ -1,0 +1,31 @@
+2007.02.20 10:46
+
+Victim: drphil420
+Alliance: Privateer Alliance
+Corp: The IMorral MAjority
+Destroyed: Harpy
+System: Orvolle
+Security: 0.7
+
+Involved parties:
+
+Name: Brigar Starcleaver (laid the final blow)
+Security: -3.3
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Ship: Typhoon
+Weapon: Dual 650mm 'Scout' Repeating Artillery I
+
+
+Destroyed items:
+
+Light Neutron Blaster II
+Void S, Qty: 71
+Standard Missile Launcher II
+Faint Warp Prohibitor I
+Magnetic Scattering Amplifier II
+Type-D Power Core Modification: Diagnostic System
+Null S, Qty: 1715 (Cargo)
+Void S, Qty: 1140 (Cargo)
+Siege Missile Launcher I (Cargo)
+

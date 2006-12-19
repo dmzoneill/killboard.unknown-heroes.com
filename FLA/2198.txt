@@ -1,0 +1,27 @@
+2007.01.28 18:04
+
+Victim: Frau Formaggio
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Thorax
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Ka Dargo (laid the final blow)
+Security: 4.4
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon I
+
+
+Destroyed items:
+
+250mm 'Scout' I Accelerator Cannon
+Antimatter Charge M, Qty: 90
+Stasis Webifier I
+Prototype I Sensor Booster
+Mark I Generator Refitting: Capacitor Power Relay
+

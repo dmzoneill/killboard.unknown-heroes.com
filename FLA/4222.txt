@@ -1,0 +1,59 @@
+2007.04.04 09:56
+
+Victim: johanladon
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Destroyed: Vengeance
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Juha85
+Security: -0.1
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Harpy
+Weapon: Harpy
+
+Name: Lorn Zolog (laid the final blow)
+Security: -1.3
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Armageddon
+Weapon: Dual Heavy Pulse Laser II
+
+Name: Xordus
+Security: 0.5
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Nipplator
+Security: -0.5
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Armageddon
+Weapon: Armageddon
+
+
+Destroyed items:
+
+Conflagration S
+J5 Prototype Warp Inhibitor I
+Patterned Stasis Web I
+Small Armor Repairer II
+'Collateral' Adaptive Nano Plating I
+Warp Scrambler I (Cargo)
+Focused Medium Pulse Laser II, Qty: 2 (Cargo)
+Dual Light Beam Laser II (Cargo)
+Heavy Pulse Laser II (Cargo)
+Pseudoelectron Containment Field I (Cargo)
+200mm Reinforced Steel Plates II (Cargo)
+Gleam S (Cargo)
+Conflagration M (Cargo)
+Conflagration S, Qty: 4 (Cargo)
+Beta Hull Mod Inertial Stabilizers (Cargo)
+Mark I Modified SS Inertial Stabilizers (Cargo)
+

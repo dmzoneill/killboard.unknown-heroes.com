@@ -1,0 +1,47 @@
+2007.03.13 22:22
+
+Victim: Meglomaniac
+Alliance: YouWhat
+Corp: Cloud Ring Real Estate Agency
+Destroyed: Capsule
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Drist (laid the final blow)
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Ferox
+Weapon: Widowmaker Heavy Missile
+
+Name: ninev0lts
+Security: -1.2
+Alliance: None
+Corp: Corehounds
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Khelia
+Security: 0.5
+Alliance: Dusk and Dawn
+Corp: Stardust Heavy Industries
+Ship: Myrmidon
+Weapon: 250mm 'Scout' I Accelerator Cannon
+
+Name: Terapie
+Security: 4.7
+Alliance: The Insomniacs
+Corp: Mucho Dolor
+Ship: Eris
+Weapon: Eris
+
+Name: Alianore
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Maulus
+Weapon: Maulus
+
+

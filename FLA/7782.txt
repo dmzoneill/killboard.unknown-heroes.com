@@ -1,0 +1,31 @@
+2006.08.26 15:05
+
+Victim: Kaleenia
+Alliance: Freelancer Alliance
+Corp: Terminal Velocity Inc.
+Destroyed: Buzzard
+System: 93PI-4
+Security: 0.0
+
+Involved parties:
+
+Name: Birkir
+Security: -1.2
+Alliance: None
+Corp: Mentally Unstable Enterprises
+Ship: Taranis
+Weapon: Taranis
+
+Name: Reggie Kray (laid the final blow)
+Security: -2.0
+Alliance: None
+Corp: Mentally Unstable Enterprises
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+Barton Reactor Capacitor Recharger I
+1MN MicroWarpdrive I
+

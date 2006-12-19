@@ -1,0 +1,161 @@
+2007.04.13 21:20
+
+Victim: demotar
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Typhoon
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Xtabai (laid the final blow)
+Security: 4.9
+Alliance: YouWhat
+Corp: Dark Rising Shadow
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: DeDreiIx
+Security: 3.8
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Drake
+Weapon: Hornet I
+
+Name: Kay Han
+Security: 3.0
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Ship: Eagle
+Weapon: Eagle
+
+Name: Sexorella hotz
+Security: 3.1
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Rokh
+Weapon: Rokh
+
+Name: khazid
+Security: 5.0
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Louis DelaBlanche
+Security: 5.0
+Alliance: YouWhat
+Corp: Cosmic Odyssey
+Ship: Brutix
+Weapon: Brutix
+
+Name: GordonShumway
+Security: 0.7
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Taschenflak
+Security: 4.8
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Raptor
+Weapon: Raptor
+
+Name: Wingleader Teerts
+Security: 4.6
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Scorpion
+Weapon: Paradise Cruise Missile
+
+Name: Topasio
+Security: 3.1
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Tempest
+Weapon: 1400mm Carbine Howitzer I
+
+Name: Exitao
+Security: 5.0
+Alliance: YouWhat
+Corp: Cosmic Odyssey
+Ship: Celestis
+Weapon: Hammerhead I
+
+Name: Helmi
+Security: 1.1
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Crow
+Weapon: Sabretooth Light Missile
+
+Name: Commander Mahul
+Security: 4.8
+Alliance: YouWhat
+Corp: Dark Rising Shadow
+Ship: Rokh
+Weapon: 425mm Railgun II
+
+Name: ICoraxI
+Security: 1.1
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Rokh
+Weapon: 425mm Railgun II
+
+Name: Keflin Geard
+Security: 5.0
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Megathron
+Weapon: 425mm Prototype I Gauss Gun
+
+Name: Hortoken Wolfbrother
+Security: 1.4
+Alliance: YouWhat
+Corp: Free Lapland
+Ship: Capsule
+Weapon: Warp Scrambler I
+
+Name: Messmint
+Security: 5.0
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: numbers
+Security: 4.1
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Apocalypse
+Weapon: Tachyon Beam Laser II
+
+Name: StarCaptain Joanna
+Security: -0.1
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Tempest
+Weapon: Tempest
+
+Name: Santa Claw
+Security: 2.4
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Tempest
+Weapon: Heavy Assault Missile Launcher I
+
+
+Destroyed items:
+
+Large Rudimentary Concussion Bomb I
+Large 'Vehemence' I Shockwave Charge
+Large 'Notos' Explosive Charge I
+F-S15 Braced Deflection Shield Matrix
+Warp Core Stabilizer I
+Warp Core Stabilizer I
+

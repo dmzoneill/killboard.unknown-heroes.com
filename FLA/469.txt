@@ -1,0 +1,54 @@
+2007.02.04 19:22
+
+Victim: Empero
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Destroyed: Capsule
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: william kronos
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Lux0r (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Hawk
+Weapon: Bloodclaw Precision Light Missile
+
+Name: mr passie
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: Jonkai
+Security: -4.7
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Drake
+Weapon: Heavy Missile Launcher I
+
+Name: Atarkus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Hawk
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+Name: Alski
+Security: 2.7
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Celestis
+Weapon: Standard Missile Launcher I
+
+

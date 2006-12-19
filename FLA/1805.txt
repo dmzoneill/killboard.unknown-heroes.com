@@ -1,0 +1,51 @@
+2007.01.05 10:31
+
+Victim: Jessica McDaniel
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Scorpion
+System: EWOK-K
+Security: 0.0
+
+Involved parties:
+
+Name: Elliott Manchild (laid the final blow)
+Security: -3.0
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Eos
+Weapon: Heavy Neutron Blaster II
+
+Name: Multras
+Security: -2.8
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Raptor
+Weapon: 'Malkuth' Rocket Launcher I
+
+Name: xlop
+Security: -1.5
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Typhoon
+Weapon: 'Arbalest' Cruise Launcher I
+
+Name: Kalathmir
+Security: -1.2
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Vengeance
+Weapon: Warp Disruptor I
+
+
+Destroyed items:
+
+Medium Proton Smartbomb I
+Wrath Cruise Missile, Qty: 50
+'Limos' Cruise Launcher I
+'Arbalest' Cruise Launcher I
+ECM - Multispectral Jammer I
+ECM - Multispectral Jammer I
+Power Diagnostic System I
+Wrath Cruise Missile, Qty: 3856 (Cargo)
+

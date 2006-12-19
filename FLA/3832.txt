@@ -1,0 +1,87 @@
+2007.04.01 22:45
+
+Victim: DarkAvenger DK
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Raven
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Ale Tricio
+Security: 2.1
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Archon
+Weapon: Templar
+
+Name: Waagaa Ktlehr
+Security: -1.1
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Aeon
+Weapon: Einherji
+
+Name: Rahzorus (laid the final blow)
+Security: 0.9
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Nidhoggur
+Weapon: Firbolg
+
+Name: Dinger
+Security: 4.5
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Thanatos
+Weapon: Einherji
+
+Name: Stradivarious
+Security: 3.4
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Huginn
+Weapon: Bloodclaw Light Missile
+
+Name: Logand Delta
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Ship: Drake
+Weapon: Drake
+
+Name: c0rn1
+Security: -2.2
+Alliance: S.E.R.A
+Corp: Seraphin Technologies
+Ship: Nidhoggur
+Weapon: Warp Disruptor II
+
+Name: Queldonus
+Security: 2.9
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Nidhoggur
+Weapon: Firbolg
+
+
+Destroyed items:
+
+Heavy 'Knave' I Energy Drain
+Juggernaut Torpedo
+Juggernaut Torpedo
+Wrath Cruise Missile
+Wrath Cruise Missile
+Wrath Cruise Missile
+Wrath Cruise Missile
+Wrath Cruise Missile
+Wrath Cruise Missile
+'Arbalest' Cruise Launcher I
+ZW-4100 Siege Missile Bay
+Kinetic Deflection Amplifier II
+Damage Control II
+Muon Coil Bolt Array I
+Power Diagnostic System II
+Juggernaut Torpedo, Qty: 1713 (Cargo)
+

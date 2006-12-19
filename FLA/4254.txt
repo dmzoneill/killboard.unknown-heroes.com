@@ -1,0 +1,26 @@
+2007.04.05 13:30
+
+Victim: Rhaall
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Crucifier
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Hunter Vonnegut (laid the final blow)
+Security: 5.0
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Ishkur
+Weapon: 125mm Railgun II
+
+
+Destroyed items:
+
+Small Nosferatu I
+1MN MicroWarpdrive I
+Energized Adaptive Nano Membrane I
+Warp Core Stabilizer I (Cargo)
+

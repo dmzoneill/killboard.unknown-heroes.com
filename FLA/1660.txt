@@ -1,0 +1,33 @@
+2007.03.19 22:18
+
+Victim: Don Promillo
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Destroyed: Capsule
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: StrikerOneSevern (laid the final blow)
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Rupture
+Weapon: 720mm Howitzer Artillery I
+
+Name: Rhaall
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Crucifier
+Weapon: Stasis Webifier I
+
+Name: Ocara Nezus
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Hawk
+Weapon: Standard Missile Launcher II
+
+

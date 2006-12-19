@@ -1,0 +1,19 @@
+2007.02.08 00:41
+
+Victim: Barrett Hozu
+Alliance: None
+Corp: Republic Military School
+Destroyed: Capsule
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Xantheris (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+

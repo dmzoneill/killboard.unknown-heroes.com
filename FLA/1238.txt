@@ -1,0 +1,135 @@
+2007.03.09 09:19
+
+Victim: Sexorella hotz
+Alliance: YouWhat
+Corp: Beasts of Burden
+Destroyed: Rokh
+System: XZH-4X
+Security: 0.0
+
+Involved parties:
+
+Name: Sensi Milla (laid the final blow)
+Security: 5.0
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: dmosinee
+Security: 4.2
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Dominix
+Weapon: Garde I
+
+Name: Yesmina Ortess
+Security: 4.7
+Alliance: Dusk and Dawn
+Corp: Cataclysm Enterprises
+Ship: Thorax
+Weapon: Thorax
+
+Name: Twalib Varner
+Security: 4.3
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Drake
+Weapon: Hobgoblin II
+
+Name: Erishi Hyykoda
+Security: 2.1
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+Name: Hanns Choibman
+Security: 1.4
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Caracal
+Weapon: Thunderbolt Fury Heavy Missile
+
+Name: Twyce Nyetlee
+Security: 2.8
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Eris
+Weapon: Eris
+
+Name: Travellian
+Security: 0.0
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Stabber
+Weapon: Stabber
+
+Name: Miriyaka
+Security: 5.0
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Blackbird
+Weapon: Scourge Heavy Missile
+
+Name: Nanreiko
+Security: 3.2
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Blackbird
+Weapon: Scourge Heavy Missile
+
+Name: tiita
+Security: 2.3
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Blackbird
+Weapon: Scourge Heavy Missile
+
+Name: Fedrek
+Security: 2.3
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Rifter
+Weapon: 200mm AutoCannon II
+
+Name: Dark Acolyte
+Security: 2.4
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Blackbird
+Weapon: Bloodclaw Light Missile
+
+Name: Exotic Callgirl
+Security: 0.0
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Vigil
+Weapon: Warp Disruptor I
+
+Name: Eepz
+Security: 0.0
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Merlin
+Weapon: J5b Phased Prototype Warp Inhibitor I
+
+Name: Captain Entropy
+Security: 5.0
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Taranis
+Weapon: Warp Disruptor I
+
+
+Destroyed items:
+
+Large EMP Smartbomb I
+Large EMP Smartbomb I
+Large YF-12a Smartbomb
+Photon Scattering Field I
+Energized Adaptive Nano Membrane I
+Energized Adaptive Nano Membrane I
+1600mm Reinforced Steel Plates I
+1600mm Reinforced Steel Plates I
+

@@ -1,0 +1,54 @@
+2006.10.08 01:58
+
+Victim: Le Skunk
+Alliance: None
+Corp: Privateers
+Destroyed: Capsule
+System: Litiura
+Security: 0.5
+
+Involved parties:
+
+Name: Paltar
+Security: 0.4
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Ishkur
+Weapon: Light Ion Blaster II
+
+Name: Barukor
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Wolf
+Weapon: Wolf
+
+Name: Hosanna (laid the final blow)
+Security: -0.7
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Wolf
+Weapon: 280mm Howitzer Artillery II
+
+Name: DarkJester
+Security: 0.7
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Vigil
+Weapon: 200mm AutoCannon I
+
+Name: Kyoshisan
+Security: 0.4
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Enyo
+Weapon: Initiated Warp Jammer I
+
+Name: Scorpio63
+Security: 4.8
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Retribution
+Weapon: J5 Prototype Warp Inhibitor I
+
+

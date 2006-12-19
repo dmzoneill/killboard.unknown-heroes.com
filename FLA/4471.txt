@@ -1,0 +1,40 @@
+2007.04.11 09:50
+
+Victim: sakana
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Destroyed: Megathron
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Ronald Speirs
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Nidhoggur
+Weapon: Einherji
+
+Name: Phoenus (laid the final blow)
+Security: 0.4
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Vindicator
+Weapon: Ion Blaster Cannon II
+
+
+Destroyed items:
+
+Modal Mega Neutron Particle Accelerator I
+Modal Mega Neutron Particle Accelerator I
+Modal Mega Ion Particle Accelerator I
+Antimatter Charge L, Qty: 182
+100MN MicroWarpdrive I
+Cap Booster 800
+Large Armor Repairer II
+Magnetic Field Stabilizer II
+Magnetic Field Stabilizer II
+Antimatter Charge L, Qty: 1846 (Cargo)
+Cap Booster 800, Qty: 18 (Cargo)
+

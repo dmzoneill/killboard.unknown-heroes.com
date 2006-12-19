@@ -1,0 +1,72 @@
+2007.03.27 22:29
+
+Victim: iNFoRMaLiTY
+Alliance: Freelancer Alliance
+Corp: Blackwater Squadron
+Destroyed: Megathron
+System: Z-Y7R7
+Security: 0.0
+
+Involved parties:
+
+Name: MOS EISLEY (laid the final blow)
+Security: 3.9
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Dominix
+Weapon: Ogre II
+
+Name: Neily
+Security: 4.6
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Megathron
+Weapon: Megathron
+
+Name: istasi
+Security: 0.3
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Magnelien
+Security: 4.3
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Crow
+Weapon: Gremlin Rocket
+
+Name: Drak d'Amral
+Security: -1.0
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Stiletto
+Weapon: Stiletto
+
+
+Destroyed items:
+
+Heavy Nosferatu I
+Heavy Nosferatu I
+Heavy Nosferatu I
+Medium Ohm Capacitor Reserve I
+Large Armor Repairer I
+Warp Core Stabilizer I
+Warp Core Stabilizer I
+Inertia Stabilizers I
+Large Shield Extender I, Qty: 3 (Cargo)
+Medium Armor Repairer II (Cargo)
+425mm Railgun I, Qty: 3 (Cargo)
+'Prayer' Targeting Annex I, Qty: 2 (Cargo)
+Tracking Enhancer II (Cargo)
+Sensor Booster II, Qty: 2 (Cargo)
+Sensor Booster I, Qty: 2 (Cargo)
+Tracking Computer I, Qty: 9 (Cargo)
+Co-Processor II (Cargo)
+'Abandon' Targeting Disruptor I, Qty: 2 (Cargo)
+Magnetic Field Stabilizer II (Cargo)
+1600mm Reinforced Steel Plates I, Qty: 2 (Cargo)
+Drone Link Augmentor I (Cargo)
+Medium Shield Maintenance Bot I, Qty: 2 (Drone Bay)
+

@@ -1,0 +1,237 @@
+2007.04.18 04:18
+
+Victim: Witch Doctor
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Destroyed: Hyperion
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: The Cade
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Thorax
+Weapon: Dragonfly
+
+Name: Skull Fire
+Security: 0.8
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Raven
+Weapon: Raven
+
+Name: Teck7
+Security: 1.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Taranis
+Weapon: Dragonfly
+
+Name: Skull Fire
+Security: 0.8
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Raven
+Weapon: Raven
+
+Name: Kayron Brennan
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Merlin
+Weapon: Dragonfly
+
+Name: Kayron Brennan
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Merlin
+Weapon: Dragonfly
+
+Name: Aridante Lemure
+Security: 1.2
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Thorax
+Weapon: Firbolg
+
+Name: Aridante Lemure
+Security: 1.2
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Thorax
+Weapon: Firbolg
+
+Name: xinndo jagged
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Drake
+Weapon: Havoc Heavy Missile
+
+Name: xinndo jagged
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Drake
+Weapon: Havoc Heavy Missile
+
+Name: Lord Raptor
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Caracal
+Weapon: Flameburst Light Missile
+
+Name: Lord Raptor
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Caracal
+Weapon: Flameburst Light Missile
+
+Name: TroNaaR
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Taranis
+Weapon: Dragonfly
+
+Name: TroNaaR
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Taranis
+Weapon: Dragonfly
+
+Name: shadowxp99
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: Harbingers of Sarrow
+Ship: Caracal
+Weapon: Widowmaker Heavy Missile
+
+Name: Alex Hinkelmann
+Security: 0.3
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Ferox
+Weapon: Scourge Heavy Missile
+
+Name: shadowxp99
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: Harbingers of Sarrow
+Ship: Caracal
+Weapon: Widowmaker Heavy Missile
+
+Name: Michael Shanks (laid the final blow)
+Security: 0.1
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Tempest
+Weapon: Scourge Heavy Missile
+
+Name: arthell
+Security: 2.9
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Ishkur
+Weapon: Modal Light Ion Particle Accelerator I
+
+Name: Alex Hinkelmann
+Security: 0.3
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Ferox
+Weapon: Scourge Heavy Missile
+
+Name: Kvarium Ki
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Stabber
+Weapon: Stabber
+
+Name: Alski
+Security: 3.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Kestrel
+Weapon: Phalanx Rocket
+
+Name: Michael Shanks (laid the final blow)
+Security: 0.1
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Tempest
+Weapon: Scourge Heavy Missile
+
+Name: Magic Mazuma
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Rifter
+Weapon: Rifter
+
+Name: arthell
+Security: 2.9
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Ishkur
+Weapon: Modal Light Ion Particle Accelerator I
+
+Name: alon blackhelm
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Chimera
+Weapon: Dragonfly
+
+Name: Kvarium Ki
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Stabber
+Weapon: Stabber
+
+Name: Bobby Atlas
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Thanatos
+Weapon: Dragonfly
+
+Name: Alski
+Security: 3.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Kestrel
+Weapon: Phalanx Rocket
+
+
+Destroyed items:
+
+Heavy Diminishing Power System Drain I
+Heavy Diminishing Power System Drain I
+Ion Blaster Cannon II
+Antimatter Charge L, Qty: 238
+Null L, Qty: 238
+100MN MicroWarpdrive II
+Warp Disruptor II
+Patterned Stasis Web I
+Cap Booster 800
+Cap Booster 800
+Cap Booster 800
+Cap Booster 800
+Energized Adaptive Nano Membrane II
+Medium Armor Repairer II (Cargo)
+Heavy Neutron Blaster II (Cargo)
+Cap Booster 800, Qty: 10 (Cargo)
+Vespa II (Cargo)
+Hobgoblin II, Qty: 3 (Cargo)
+Null L, Qty: 557 (Cargo)
+

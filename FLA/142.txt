@@ -1,0 +1,82 @@
+2007.01.14 08:06
+
+Victim: SATAN
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Destroyed: Raven
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Zattron
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Drake
+Weapon: Hobgoblin I
+
+Name: darkviron (laid the final blow)
+Security: 2.7
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Simon Monkoto
+Security: 2.4
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Scorpion
+Weapon: Wrath Cruise Missile
+
+Name: FlobbMkII
+Security: 3.2
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Thorax
+Weapon: Infiltrator I
+
+Name: Xantheris
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Celestis
+Weapon: Infiltrator I
+
+Name: Rev Darkwing
+Security: 2.6
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Unknown
+Weapon: Heavy Missile Launcher I
+
+Name: Prodigal IV
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Ship: Capsule
+Weapon: Faint Warp Prohibitor I
+
+Name: Almagar Phog
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Scorpion
+Weapon: 'Hypnos' Multispectral ECM I
+
+
+Destroyed items:
+
+Devastator Cruise Missile, Qty: 23
+Paradise Cruise Missile, Qty: 23
+Cruise Missile Launcher II
+Remote Sensor Dampener II
+Remote Sensor Dampener II
+Ballistic Control System II
+Ballistic Control System II
+Wrath Cruise Missile, Qty: 564 (Cargo)
+Paradise Precision Cruise Missile, Qty: 650 (Cargo)
+Devastator Fury Cruise Missile, Qty: 688 (Cargo)
+Warrior II, Qty: 5 (Drone Bay)
+

@@ -1,0 +1,89 @@
+2006.09.29 20:02
+
+Victim: Krist Valentine
+Alliance: None
+Corp: Freelancing Opportunists
+Destroyed: Vexor
+System: E-Z2ZX
+Security: 0.0
+
+Involved parties:
+
+Name: Tri Ounou
+Security: 4.2
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Stabber
+Weapon: Stabber
+
+Name: Jumar Coldgin
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Crow
+Weapon: Bloodclaw Precision Light Missile
+
+Name: Bolinar
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Enyo
+Weapon: Enyo
+
+Name: Verild
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Crow
+Weapon: Crow
+
+Name: Noitaakka (laid the final blow)
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Vexor
+Weapon: Vespa II
+
+Name: Chiizukeeki
+Security: 3.3
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: W4RR10R
+Security: -1.5
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Taranis
+Weapon: Taranis
+
+Name: Karas Rabus
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Stiletto
+Weapon: Warp Disruptor I
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Medium Nosferatu I
+Antimatter Charge S, Qty: 160
+10MN Afterburner I
+Warp Disruptor I
+Stasis Webifier I
+Medium Inefficient Armor Repair Unit
+Armor Kinetic Hardener I
+Warp Disruptor I (Cargo)
+Medium Capacitor Battery I (Cargo)
+Medium Armor Repairer I (Cargo)
+Small Nosferatu I (Cargo)
+Dual 250mm Railgun I (Cargo)
+ECCM - Gravimetric I (Cargo)
+Widowmaker Heavy Missile, Qty: 100 (Cargo)
+Cruise Missile Launcher I (Cargo)
+Heavy Missile Launcher I (Cargo)
+Local Power Plant Manager: Capacity Power Relay I (Cargo)
+

@@ -1,0 +1,30 @@
+2006.11.07 00:47
+
+Victim: MonwrathDisortium
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Destroyed: Celestis
+System: Piak
+Security: 0.7
+
+Involved parties:
+
+Name: Yarek Balear (laid the final blow)
+Security: -1.8
+Alliance: None
+Corp: The Initiative
+Ship: Brutix
+Weapon: Heavy Ion Blaster II
+
+
+Destroyed items:
+
+200mm AutoCannon II
+Medium Nosferatu II
+Small Armor Repairer II
+800mm Reinforced Titanium Plates I
+Initiated Warp Jammer I (Cargo)
+Medium Nosferatu II, Qty: 2 (Cargo)
+Hobgoblin II, Qty: 5 (Cargo)
+Barrage S, Qty: 2660 (Cargo)
+

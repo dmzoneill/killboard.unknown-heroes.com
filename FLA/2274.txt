@@ -1,0 +1,64 @@
+2007.02.04 01:22
+
+Victim: Tiberius Drake
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Destroyed: Thorax
+System: 1IX-C0
+Security: 0.0
+
+Involved parties:
+
+Name: Ragotha (laid the final blow)
+Security: 1.1
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Raven
+Weapon: Mjolnir Javelin Torpedo
+
+Name: Crusher Max
+Security: 5.3
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Tempest
+Weapon: Tempest
+
+Name: Memphisz
+Security: 0.3
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Bigben
+Security: 2.1
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Muninn
+Weapon: Muninn
+
+Name: maria stallion
+Security: 3.7
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Nighthawk
+Weapon: Heavy Missile Launcher II
+
+Name: Gismork
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Scorpion
+Weapon: ECM - Ion Field Projector II
+
+
+Destroyed items:
+
+Dual 150mm Railgun I
+Dual 150mm Railgun I
+Lead Charge M, Qty: 122
+10MN MicroWarpdrive I
+Energized Adaptive Nano Membrane I
+Capacitor Power Relay I
+Hammerhead I, Qty: 4 (Drone Bay)
+

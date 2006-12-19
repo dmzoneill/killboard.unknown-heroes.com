@@ -1,0 +1,56 @@
+2007.04.05 20:02
+
+Victim: Sir Appa
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Destroyed: Ishkur
+System: X36Y-G
+Security: 0.0
+
+Involved parties:
+
+Name: karbun kell
+Security: 0.0
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Sabre
+Weapon: Sabre
+
+Name: Nemesys 8 (laid the final blow)
+Security: 4.0
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Caracal
+Weapon: Bloodclaw Fury Light Missile
+
+Name: Neptoone
+Security: -2.3
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Rifter
+Weapon: Rifter
+
+Name: StarShards
+Security: 3.5
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: SaNoSuKeJavi
+Security: -1.8
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Rifter
+Weapon: Rifter
+
+
+Destroyed items:
+
+Light Neutron Blaster II
+Null S, Qty: 160
+Warp Scrambler I
+Warp Core Stabilizer I
+Warp Core Stabilizer I
+Warp Core Stabilizer I
+

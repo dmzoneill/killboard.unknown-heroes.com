@@ -1,0 +1,40 @@
+2007.03.06 22:38
+
+Victim: Genvu Daikanta
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Destroyed: Heretic
+System: O-N8XZ
+Security: 0.0
+
+Involved parties:
+
+Name: Heidi Gabs (laid the final blow)
+Security: -1.6
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Heretic
+Weapon: Dual Light Pulse Laser II
+
+Name: taylor04
+Security: 2.7
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Sleipnir
+Weapon: Infiltrator II
+
+
+Destroyed items:
+
+Medium Pulse Laser II
+Prototype Cloaking Device I
+Conflagration S
+Warp Disrupt Probe, Qty: 10
+Interdiction Sphere Launcher I
+Phased Monopropellant I Hydrazine Boosters
+Emergency Damage Control I
+Small Armor Repairer II
+Co-Processor II
+Conflagration S (Cargo)
+Warp Disrupt Probe, Qty: 42 (Cargo)
+

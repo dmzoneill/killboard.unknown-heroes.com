@@ -1,0 +1,74 @@
+2006.10.05 22:17
+
+Victim: avelution
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Destroyed: Ferox
+System: G-M4I8
+Security: 0.0
+
+Involved parties:
+
+Name: Crusari
+Security: 5.0
+Alliance: None
+Corp: Omniscient Order
+Ship: Taranis
+Weapon: 150mm Railgun II
+
+Name: Avoid
+Security: -2.2
+Alliance: None
+Corp: Omniscient Order
+Ship: Ares
+Weapon: Ares
+
+Name: Maximinus Thrax
+Security: 0.8
+Alliance: None
+Corp: The Scope
+Ship: Taranis
+Weapon: Taranis
+
+Name: Gelf
+Security: 2.0
+Alliance: None
+Corp: Omniscient Order
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Elric TheWhite (laid the final blow)
+Security: 0.8
+Alliance: None
+Corp: Omniscient Order
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Noobjuice
+Security: -0.6
+Alliance: None
+Corp: Omniscient Order
+Ship: Stiletto
+Weapon: 200mm AutoCannon II
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Medium Nosferatu I
+Thunderbolt Heavy Missile, Qty: 20
+Scourge Heavy Missile, Qty: 22
+Havoc Heavy Missile, Qty: 22
+Advanced 'Limos' Heavy Missile Bay I
+Advanced 'Limos' Heavy Missile Bay I
+Large Shield Booster II
+Warp Disruptor I
+'Langour' Drive Disruptor I
+Damage Control I
+Warp Core Stabilizer I
+'Stoic' Core Equalizer I
+Ballistic Control System I
+Scourge Heavy Missile, Qty: 2270 (Cargo)
+Stalker F.O.F. Heavy Missile I, Qty: 200 (Cargo)
+Hydra F.O.F. Heavy Missile I, Qty: 350 (Cargo)
+

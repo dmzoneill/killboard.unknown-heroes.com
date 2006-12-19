@@ -1,0 +1,33 @@
+2007.03.10 03:21
+
+Victim: Mannheim Wolf
+Alliance: Chorus of Dawn
+Corp: Independent Frontiers
+Destroyed: Capsule
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Altanzar (laid the final blow)
+Security: 4.5
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+Name: Scotticus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Jaguar
+Weapon: X5 Prototype I Engine Enervator
+
+Name: Freakdevil
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Crow
+Weapon: TE-2100 Standard Missile Bay
+
+

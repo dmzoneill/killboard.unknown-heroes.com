@@ -1,0 +1,73 @@
+2007.02.13 23:11
+
+Victim: Deoniclus
+Alliance: None
+Corp: A.N.A.R.C.H.I.C.A
+Destroyed: Thorax
+System: KLY-C0
+Security: 0.0
+
+Involved parties:
+
+Name: MohamedLoftie
+Security: -1.2
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Curse
+Weapon: Medium 'Gremlin' Power Core Disruptor I
+
+Name: jacass66 (laid the final blow)
+Security: 5.0
+Alliance: None
+Corp: BGG
+Ship: Drake
+Weapon: Scourge Precision Heavy Missile
+
+Name: Tnam
+Security: 1.8
+Alliance: None
+Corp: BGG
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: WolfRavage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: Dark Carnage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Crow
+Weapon: Sabretooth Light Missile
+
+Name: Seventh Star
+Security: 5.0
+Alliance: None
+Corp: BGG
+Ship: Capsule
+Weapon: Hornet II
+
+Name: Ridgy
+Security: 0.7
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Ship: Scorpion
+Weapon: ECM - Multispectral Jammer II
+
+
+Destroyed items:
+
+Anode Ion Particle Cannon I
+Anode Ion Particle Cannon I
+Anode Ion Particle Cannon I
+Anode Electron Particle Cannon I
+Antimatter Charge M, Qty: 445
+10MN MicroWarpdrive I
+Warp Disruptor I
+800mm Reinforced Crystalline Carbonide Plates I
+Antimatter Charge M, Qty: 1989 (Cargo)
+

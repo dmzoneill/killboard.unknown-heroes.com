@@ -1,0 +1,19 @@
+2006.11.02 07:35
+
+Victim: TheLegalPirate
+Alliance: None
+Corp: Shillelagh Corp.
+Destroyed: Gallente Shuttle
+System: CZDJ-1
+Security: 0.0
+
+Involved parties:
+
+Name: Angel Vengen (laid the final blow)
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: Caldar Mercenary Syndicate
+Ship: Omen
+Weapon: Bloodclaw Light Missile
+
+

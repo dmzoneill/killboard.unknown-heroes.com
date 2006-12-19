@@ -1,0 +1,101 @@
+2007.03.12 21:53
+
+Victim: Loograsch
+Alliance: Freelancer Alliance
+Corp: United Forces
+Destroyed: Thorax
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Eelim Garak
+Security: 1.3
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Sacrilege
+Weapon: Sacrilege
+
+Name: Taschenflak
+Security: 4.6
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Drake
+Weapon: Thunderbolt Heavy Missile
+
+Name: 2inkletowz
+Security: 1.9
+Alliance: Chorus of Dawn
+Corp: Infinite Style Incorporated
+Ship: Caracal
+Weapon: Widowmaker Heavy Missile
+
+Name: Juha85
+Security: -0.6
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Vrivona
+Security: 0.0
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Claw
+Weapon: Small 'Knave' I Energy Drain
+
+Name: Phran Za
+Security: 1.4
+Alliance: Chorus of Dawn
+Corp: Infinite Style Incorporated
+Ship: Moa
+Weapon: Moa
+
+Name: Nkalv
+Security: -2.8
+Alliance: Chorus of Dawn
+Corp: Free Lapland
+Ship: Sabre
+Weapon: Sabre
+
+Name: Neily (laid the final blow)
+Security: 4.6
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Falcon
+Weapon: Widowmaker Heavy Missile
+
+Name: Marla Durden
+Security: 0.0
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Claw
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+Name: Diego Barbera
+Security: -0.5
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Claw
+Weapon: Claw
+
+Name: Slith Sabrao
+Security: 4.8
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Curse
+Weapon: Medium 'Ghoul' Energy Siphon I
+
+
+Destroyed items:
+
+Antimatter Charge M, Qty: 320
+Prototype Cloaking Device I
+Fixed Parallel Link-Capacitor I
+Stasis Webifier I
+Gauss Field Balancer I
+Fixed Parallel Link-Capacitor I (Cargo)
+Antimatter Charge M, Qty: 4851 (Cargo)
+Scourge Heavy Missile, Qty: 72 (Cargo)
+Hammerhead I, Qty: 3 (Drone Bay)
+

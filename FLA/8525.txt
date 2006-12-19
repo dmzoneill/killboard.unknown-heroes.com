@@ -1,0 +1,39 @@
+2006.11.25 14:33
+
+Victim: Amarrian Bringer
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Destroyed: Bestower
+System: Torrinos
+Security: 0.5
+
+Involved parties:
+
+Name: Unfortunate Accident (laid the final blow)
+Security: -1.4
+Alliance: None
+Corp: omen.
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+
+Destroyed items:
+
+E5 Prototype Energy Vampire
+Small Converse I Deflection Catalyzer
+Civilian Shield Booster I
+Small Shield Booster I
+10MN MicroWarpdrive I
+10MN Afterburner I
+Small Capacitor Battery I
+Small Armor Repairer I
+Small Armor Repairer I
+Co-Processor I
+Warp Core Stabilizer I
+Warp Core Stabilizer I
+50mm Reinforced Rolled Tungsten Plates I
+Zydrine, Qty: 8 (Cargo)
+Giant Secure Container (Cargo)
+Acolyte II, Qty: 10 (Drone Bay)
+Light Armor Maintenance Bot I, Qty: 5 (Drone Bay)
+

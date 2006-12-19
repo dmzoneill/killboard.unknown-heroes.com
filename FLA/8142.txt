@@ -1,0 +1,27 @@
+2006.10.17 23:17
+
+Victim: Excaluber X
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Destroyed: Heron
+System: Aunenen
+Security: 0.4
+
+Involved parties:
+
+Name: Vazsholik (laid the final blow)
+Security: 0.7
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Astarte
+Weapon: 250mm Railgun II
+
+
+Destroyed items:
+
+150mm Railgun I
+Antimatter Charge S, Qty: 40
+Defender I, Qty: 40
+Standard Missile Launcher I
+Induced Ion Field ECM I
+

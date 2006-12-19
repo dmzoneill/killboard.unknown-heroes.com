@@ -1,0 +1,76 @@
+2007.04.21 04:09
+
+Victim: Skull Fire
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Ferox
+System: 2R-CRW
+Security: 0.0
+
+Involved parties:
+
+Name: Soldur
+Security: 5.0
+Alliance: Exuro Mortis
+Corp: Slacker Industries
+Ship: Astarte
+Weapon: Astarte
+
+Name: jdok (laid the final blow)
+Security: 2.2
+Alliance: Exuro Mortis
+Corp: The Burning Orphans
+Ship: Myrmidon
+Weapon: Ogre I
+
+Name: Sol'Kanar
+Security: 1.1
+Alliance: Exuro Mortis
+Corp: Slacker Industries
+Ship: Tempest
+Weapon: Tempest
+
+Name: Stradivarious
+Security: 3.8
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Nidhoggur
+Weapon: Firbolg
+
+Name: War Bear
+Security: 2.8
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: splunkrr
+Security: 1.2
+Alliance: Exuro Mortis
+Corp: Slacker Industries
+Ship: Megathron
+Weapon: Ogre II
+
+Name: Aramaki Makisan
+Security: 1.0
+Alliance: Exuro Mortis
+Corp: The Burning Orphans
+Ship: Brutix
+Weapon: Hammerhead I
+
+
+Destroyed items:
+
+250mm Prototype I Gauss Gun
+250mm Compressed Coil Gun I
+Plutonium Charge M, Qty: 19
+Widowmaker Heavy Missile, Qty: 17
+Heavy Missile Launcher I
+Warp Disruptor I
+X5 Prototype I Engine Enervator
+Invulnerability Field I
+Alumel-Wired I Sensor Augmentation
+Emergency Damage Control I
+Mark I Generator Refitting: Reaction Control
+Widowmaker Heavy Missile, Qty: 299 (Cargo)
+

@@ -1,0 +1,26 @@
+2007.02.18 22:33
+
+Victim: Original Downer
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Destroyed: Capsule
+System: Litiura
+Security: 0.5
+
+Involved parties:
+
+Name: Del Boy
+Security: -1.4
+Alliance: Privateer Alliance
+Corp: Mentally Unstable Enterprises
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Raffael Ramirez (laid the final blow)
+Security: -1.5
+Alliance: Privateer Alliance
+Corp: Mentally Unstable Enterprises
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+

@@ -1,0 +1,122 @@
+2006.05.08 21:09
+
+Victim: Tiberius Ilex
+Alliance: Northern Freedom Coalition
+Corp: GeoTech
+Destroyed: Caracal
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: CelticWarrior
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Lords Of Guile
+Ship: Tempest
+Weapon: SV-2000 Assault Missile Bay
+
+Name: Barbicus
+Security: 5.0
+Alliance: None
+Corp: Shadow Company
+Ship: Scorpion
+Weapon: Cataclysm Cruise Missile
+
+Name: Warlord2004
+Security: 0.1
+Alliance: None
+Corp: Shadow Company
+Ship: Raven
+Weapon: Cataclysm Cruise Missile
+
+Name: Jumar Coldgin (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Ferox
+Weapon: Widowmaker Heavy Missile
+
+Name: Cent 01
+Security: 5.0
+Alliance: None
+Corp: Drones of Annihilation
+Ship: Harpy
+Weapon: Harpy
+
+Name: Shiri elAzarinres
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Caracal
+Weapon: Heavy Missile Launcher I
+
+Name: Mac Spliff
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Immortal Serial Killers
+Ship: Ares
+Weapon: Sabretooth Light Missile
+
+Name: Highpriest Aden
+Security: 1.7
+Alliance: None
+Corp: Drones of Annihilation
+Ship: Malediction
+Weapon: Malediction
+
+Name: kone on
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Immortal Serial Killers
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: Xev B3K
+Security: 2.1
+Alliance: None
+Corp: Penetrate
+Ship: Tristan
+Weapon: Small Nosferatu I
+
+Name: R4age
+Security: 4.9
+Alliance: None
+Corp: Drones of Annihilation
+Ship: Rifter
+Weapon: 200mm AutoCannon II
+
+Name: Qanael Radlari
+Security: 1.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Kestrel
+Weapon: Warp Disruptor I
+
+Name: LC Sulla
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Raven
+Weapon: XT-9000 Cruise Launcher
+
+Name: Aeryn Calbert
+Security: 1.2
+Alliance: None
+Corp: Royal Flying Aces
+Ship: Caracal
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 96
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+10MN Afterburner I
+Incremental Gravimetric ECCM Scanning Array I
+Ballistic Control System I
+Barton Reactor Capacitor Recharger I (Cargo)
+Scourge Heavy Missile, Qty: 6359 (Cargo)
+Hammerhead I (Drone Bay)
+

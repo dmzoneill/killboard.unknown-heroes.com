@@ -1,0 +1,23 @@
+2007.04.06 05:25
+
+Victim: Laerana
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Incursus
+System: Maut
+Security: 0.2
+
+Involved parties:
+
+Name: GandolftheWhite (laid the final blow)
+Security: -1.4
+Alliance: None
+Corp: The Hull Miners Union
+Ship: Hyperion
+Weapon: 425mm Railgun II
+
+
+Destroyed items:
+
+Magnetic Field Stabilizer I (Cargo)
+

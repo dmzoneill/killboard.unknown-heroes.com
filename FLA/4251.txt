@@ -1,0 +1,29 @@
+2007.04.05 09:49
+
+Victim: misscoda
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Crow
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Keeto (laid the final blow)
+Security: -1.0
+Alliance: Digital Renegades
+Corp: Digital Fury Corporation
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 81
+'Arbalest' Standard Missile Launcher
+J5b Phased Prototype Warp Inhibitor I
+X5 Prototype I Engine Enervator
+Overdrive Injector System I
+Overdrive Injector System I
+Overdrive Injector System I
+

@@ -1,0 +1,70 @@
+2007.04.16 02:18
+
+Victim: coldkill
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Destroyed: Thorax
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Fitz Farseer
+Security: 0.5
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Typhoon
+Weapon: Einherji
+
+Name: thedeadcows (laid the final blow)
+Security: 0.1
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Thanatos
+Weapon: Firbolg
+
+Name: Elrid Barnes
+Security: 1.5
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Thorax
+Weapon: 'Langour' Drive Disruptor I
+
+Name: Gerald Osikawa
+Security: 0.9
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Caracal
+Weapon: Firbolg
+
+Name: Raffer Steele
+Security: 2.6
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Thanatos
+Weapon: Firbolg
+
+Name: Ghost Hughdidit
+Security: 3.1
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Thanatos
+Weapon: Einherji
+
+
+Destroyed items:
+
+Heavy Neutron Blaster II
+Void M, Qty: 237
+Warp Disruptor II
+Alumel-Wired I Sensor Augmentation
+Damage Control II
+Magnetic Field Stabilizer II
+Beta Hull Mod Inertial Stabilizers
+Mark I Generator Refitting: Reaction Control
+10MN MicroWarpdrive I (Cargo)
+220mm Vulcan AutoCannon I, Qty: 2 (Cargo)
+EMP M, Qty: 44 (Cargo)
+Void M, Qty: 4491 (Cargo)
+Hobgoblin II, Qty: 6 (Drone Bay)
+

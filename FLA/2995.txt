@@ -1,0 +1,33 @@
+2007.03.21 05:21
+
+Victim: Torch Toomb
+Alliance: NxT LeveL
+Corp: Raddick Explorations
+Destroyed: Raptor
+System: EWOK-K
+Security: 0.0
+
+Involved parties:
+
+Name: Tregaron (laid the final blow)
+Security: 2.3
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Thrasher
+Weapon: 200mm AutoCannon I
+
+
+Destroyed items:
+
+125mm Railgun II
+Spike S, Qty: 61
+Bloodclaw Light Missile, Qty: 38
+Upgraded 'Limos' Standard Missile Bay I
+1MN MicroWarpdrive I
+Fleeting Warp Scrambler I
+Type-D Attenuation Signal Augmentation
+Micro Auxiliary Power Core I
+Tungsten Charge S, Qty: 2600 (Cargo)
+Mobile Small Warp Disruptor I (Cargo)
+Spike S, Qty: 1828 (Cargo)
+

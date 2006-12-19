@@ -1,0 +1,33 @@
+2007.01.29 06:42
+
+Victim: Tument
+Alliance: Apocalyptica.
+Corp: THE LEGION OF STEEL WARRIORS....
+Destroyed: Capsule
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Kandread (laid the final blow)
+Security: 0.6
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Teck7
+Security: 0.8
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ishtar
+Weapon: Vespa II
+
+Name: Danielson1012
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Moa
+Weapon: Target Painter I
+
+

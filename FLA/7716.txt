@@ -1,0 +1,19 @@
+2006.04.27 02:52
+
+Victim: TheBelgarion
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Badger
+System: CZDJ-1
+Security: 0.0
+
+Involved parties:
+
+Name: Sgt RamondShaw (laid the final blow)
+Security: -0.2
+Alliance: Northern Freedom Coalition
+Corp: AUS Corporation
+Ship: Megathron
+Weapon: 425mm Railgun I
+
+

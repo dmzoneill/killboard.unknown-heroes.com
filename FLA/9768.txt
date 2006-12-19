@@ -1,0 +1,35 @@
+2007.06.02 14:17
+
+Victim: RebelFighter
+Alliance: Freelancer Alliance
+Corp: Criminal DNA
+Destroyed: Hound
+System: 93PI-4
+Security: 0.0
+
+Involved parties:
+
+Name: Weed light (laid the final blow)
+Security: 1.8
+Alliance: None
+Corp: S.P.Q.R
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+
+Destroyed items:
+
+250mm Light Artillery Cannon II
+250mm Light Artillery Cannon II
+Prototype Cloaking Device I
+Tremor S, Qty: 40
+Devastator Cruise Missile, Qty: 22
+Cataclysm Cruise Missile, Qty: 22
+XT-9000 Cruise Launcher
+Kapteyn Sensor Array Inhibitor I
+Local Power Plant Manager: Diagnostic System I
+Local Power Plant Manager: Diagnostic System I
+Tremor S, Qty: 891 (Cargo)
+Cataclysm Cruise Missile, Qty: 425 (Cargo)
+Devastator Cruise Missile, Qty: 425 (Cargo)
+

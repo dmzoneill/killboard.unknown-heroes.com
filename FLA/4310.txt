@@ -1,0 +1,106 @@
+2007.04.07 20:06
+
+Victim: Blaze Forerunner
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Destroyed: Caracal
+System: O-CNPR
+Security: 0.0
+
+Involved parties:
+
+Name: Ran Fujimiya
+Security: 0.4
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Eagle
+Weapon: Eagle
+
+Name: LUCKY HEADY
+Security: -2.0
+Alliance: S.E.R.A
+Corp: Seraphin Technologies
+Ship: Curse
+Weapon: Valkyrie II
+
+Name: The Apocalypse
+Security: 5.0
+Alliance: Xelas Alliance
+Corp: Deadzone Innovation Enterprises
+Ship: Drake
+Weapon: Heavy Missile Launcher I
+
+Name: ER0X
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Harpy
+Weapon: Light Neutron Blaster II
+
+Name: Zheraf
+Security: 5.0
+Alliance: Axiom Empire
+Corp: Fenix Reloaded
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Zensige
+Security: -3.5
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Arazu
+Weapon: Arazu
+
+Name: CiRFiS
+Security: 3.1
+Alliance: FATAL Alliance
+Corp: FATAL REVELATIONS
+Ship: Tempest
+Weapon: 1400mm Gallium I Cannon
+
+Name: gaz widdow (laid the final blow)
+Security: 5.0
+Alliance: FATAL Alliance
+Corp: FATAL REVELATIONS
+Ship: Tempest
+Weapon: Havoc Heavy Missile
+
+Name: tony1
+Security: 5.1
+Alliance: FATAL Alliance
+Corp: FATAL REVELATIONS
+Ship: Rokh
+Weapon: 425mm Compressed Coil Gun I
+
+Name: Alisa Dax
+Security: 4.8
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Crow
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+Name: OutKast669
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Charkan
+Security: 5.0
+Alliance: Aftermath Alliance
+Corp: Pyrrhus Sicarii
+Ship: Malediction
+Weapon: Tracking Disruptor II
+
+
+Destroyed items:
+
+Fulmination Assault Missile, Qty: 300
+Hellfire Assault Missile, Qty: 900
+XT-2800 Heavy Assault Missile Launcher I
+1MN Afterburner I
+Stasis Webifier I
+Hellfire Assault Missile, Qty: 4637 (Cargo)
+Fulmination Assault Missile, Qty: 2400 (Cargo)
+

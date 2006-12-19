@@ -1,0 +1,117 @@
+2007.03.05 00:58
+
+Victim: Lady Veneficus
+Alliance: None
+Corp: Incognito Inc
+Destroyed: Crane
+System: D4KU-5
+Security: 0.0
+
+Involved parties:
+
+Name: Caarnji
+Security: -1.9
+Alliance: Dusk and Dawn
+Corp: ECP Rogues
+Ship: Drake
+Weapon: Scourge Fury Heavy Missile
+
+Name: Blue Sassley (laid the final blow)
+Security: -0.5
+Alliance: Dusk and Dawn
+Corp: Momentum.
+Ship: Ferox
+Weapon: Havoc Fury Heavy Missile
+
+Name: Teck7
+Security: 1.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Lachesis
+Weapon: Lachesis
+
+Name: Asariasha
+Security: 4.6
+Alliance: Dusk and Dawn
+Corp: Cataclysm Enterprises
+Ship: Taranis
+Weapon: Taranis
+
+Name: Fout Debiele
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Cataclysm Enterprises
+Ship: Myrmidon
+Weapon: Myrmidon
+
+Name: Snake solid
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Konstrukteure der Zukunft
+Ship: Flycatcher
+Weapon: Flycatcher
+
+Name: Takeshi Nuwen
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: The X-Trading Company
+Ship: Crow
+Weapon: Bloodclaw Precision Light Missile
+
+Name: Torquemanda Corteaz
+Security: 3.9
+Alliance: Dusk and Dawn
+Corp: Infinite Improbability Inc
+Ship: Taranis
+Weapon: Taranis
+
+Name: Flinx Evenstar
+Security: -1.2
+Alliance: Dusk and Dawn
+Corp: Momentum.
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: Easterwood
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Infinite Improbability Inc
+Ship: Taranis
+Weapon: Taranis
+
+Name: Xantheris
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: magarethe
+Security: 0.2
+Alliance: Dusk and Dawn
+Corp: Die Apokalyptischen Reiter
+Ship: Rifter
+Weapon: Warp Disruptor I
+
+Name: Cecilia Walsh
+Security: 3.6
+Alliance: Dusk and Dawn
+Corp: Cataclysm Enterprises
+Ship: Curse
+Weapon: Medium 'Knave' I Energy Drain
+
+Name: Bigfood
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Cataclysm Enterprises
+Ship: Lachesis
+Weapon: Indirect Scanning Dampening Unit I
+
+
+Destroyed items:
+
+10MN Afterburner I
+Nanofiber Internal Structure I
+Bookmark, Qty: 48 (Cargo)
+Beta Hull Mod Expanded Cargo, Qty: 2 (Cargo)
+

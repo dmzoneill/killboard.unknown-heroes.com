@@ -1,0 +1,35 @@
+2007.05.21 13:56
+
+Victim: nickoo
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Malediction
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Radica (laid the final blow)
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Dominix
+Weapon: Wasp II
+
+
+Destroyed items:
+
+Small 'Knave' I Energy Drain
+Gremlin Rocket
+Gremlin Rocket
+Gremlin Rocket
+Gremlin Rocket
+Gremlin Rocket
+Gremlin Rocket
+Gremlin Rocket
+'Arbalest' Rocket Launcher I
+X5 Prototype I Engine Enervator
+Damage Control I
+Dark Blood Adaptive Nano Plating
+Gremlin Rocket, Qty: 953 (Cargo)
+

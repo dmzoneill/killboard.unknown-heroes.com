@@ -1,0 +1,47 @@
+2006.09.07 20:14
+
+Victim: Karas Rabus
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Sergejus Clegg
+Security: 2.0
+Alliance: R.I.S.K
+Corp: The First Foundation
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+Name: AHAPXUCT (laid the final blow)
+Security: -0.5
+Alliance: R.I.S.K
+Corp: SolaR KillerS
+Ship: Prophecy
+Weapon: Heavy Pulse Laser II
+
+Name: Beldavus
+Security: 1.7
+Alliance: R.I.S.K
+Corp: RUS-SAGA
+Ship: Heretic
+Weapon: Medium Pulse Laser II
+
+Name: Dred Cartman
+Security: 1.4
+Alliance: R.I.S.K
+Corp: FIGHTER'S WITHOUT RULES
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+Name: Dark Lachla'an
+Security: 0.4
+Alliance: R.I.S.K
+Corp: SolaR KillerS
+Ship: Taranis
+Weapon: J5 Prototype Warp Inhibitor I
+
+

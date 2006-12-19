@@ -1,0 +1,39 @@
+2007.05.25 13:27
+
+Victim: MYM JUO
+Alliance: None
+Corp: State War Academy
+Destroyed: Ibis
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Steven FSB (laid the final blow)
+Security: 3.5
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: Death Reactor
+Security: -3.5
+Alliance: DeStInY.
+Corp: The Knights Of Camelot
+Ship: Zealot
+Weapon: Heavy Pulse Laser II
+
+Name: Durante Alighieri
+Security: 3.7
+Alliance: KnightRaven Alliance
+Corp: New Light
+Ship: Crow
+Weapon: Fleeting Warp Scrambler I
+
+
+Destroyed items:
+
+Civilian Gatling Railgun
+Basic Miner
+Tritanium (Cargo)
+

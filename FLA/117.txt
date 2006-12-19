@@ -1,0 +1,32 @@
+2007.01.11 20:00
+
+Victim: Ishidu Uryuu
+Alliance: None
+Corp: shock-WAVE corp.
+Destroyed: Caracal
+System: Aunenen
+Security: 0.4
+
+Involved parties:
+
+Name: Sanal Gi (laid the final blow)
+Security: -1.2
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ferox
+Weapon: Widowmaker Heavy Missile
+
+Name: Thorn Rocket / Guristas
+
+
+Destroyed items:
+
+Terror Assault Missile, Qty: 3384
+Heavy Assault Missile Launcher I
+Heavy Assault Missile Launcher I
+Heavy Assault Missile Launcher I
+Heavy Assault Missile Launcher I
+Heavy Assault Missile Launcher I
+X5 Prototype I Engine Enervator
+Remote Sensor Dampener I
+

@@ -1,0 +1,93 @@
+2007.03.27 00:39
+
+Victim: Xipoid
+Alliance: None
+Corp: Center for Advanced Studies
+Destroyed: Myrmidon
+System: PF-346
+Security: 0.0
+
+Involved parties:
+
+Name: Yesmina Ortess
+Security: 2.3
+Alliance: Dusk and Dawn
+Corp: Cataclysm Enterprises
+Ship: Thorax
+Weapon: Valkyrie I
+
+Name: WoNkY (laid the final blow)
+Security: -1.9
+Alliance: Dusk and Dawn
+Corp: Tri Optimum
+Ship: Zealot
+Weapon: Heavy Pulse Laser II
+
+Name: 40 Cent
+Security: 4.7
+Alliance: Dusk and Dawn
+Corp: Tri Optimum
+Ship: Muninn
+Weapon: Flameburst Light Missile
+
+Name: TheSizzler
+Security: 3.8
+Alliance: Dusk and Dawn
+Corp: Tri Optimum
+Ship: Rifter
+Weapon: Rifter
+
+Name: EvEhate2
+Security: 4.7
+Alliance: Dusk and Dawn
+Corp: Tri Optimum
+Ship: Claw
+Weapon: Claw
+
+Name: Smeik
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Tri Optimum
+Ship: Rifter
+Weapon: Rifter
+
+Name: Reto Kobelt
+Security: 4.3
+Alliance: Dusk and Dawn
+Corp: Tri Optimum
+Ship: Rifter
+Weapon: Rifter
+
+Name: RayTruz
+Security: 1.7
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Manticore
+Weapon: 'Limos' Cruise Launcher I
+
+
+Destroyed items:
+
+250mm Railgun I
+250mm Railgun I
+250mm 'Scout' I Accelerator Cannon
+Antimatter Charge M, Qty: 120
+Small Hull Repairer I
+Small Armor Repairer I
+Small Capacitor Battery I (Cargo)
+Medium Capacitor Battery I (Cargo)
+Stasis Webifier I (Cargo)
+150mm Railgun I (Cargo)
+Small Capacitor Booster I (Cargo)
+Antimatter Charge M, Qty: 2371 (Cargo)
+Lead Charge M, Qty: 3721 (Cargo)
+50mm Reinforced Titanium Plates I (Cargo)
+Precious Alloy, Qty: 4 (Cargo)
+Motley Compound (Cargo)
+Dark Compound (Cargo)
+Sheen Compound, Qty: 4 (Cargo)
+Infiltrator I, Qty: 2 (Drone Bay)
+Valkyrie I (Drone Bay)
+Vespa I (Drone Bay)
+Berserker I (Drone Bay)
+

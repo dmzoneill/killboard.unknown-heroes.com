@@ -1,0 +1,73 @@
+2007.01.01 17:17
+
+Victim: Malafor
+Alliance: None
+Corp: omen.
+Destroyed: Wolf
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Indigo Callypso
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+Name: NOCLUE
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: X.T.R
+Ship: Raven
+Weapon: 'Arbalest' Cruise Launcher I
+
+Name: WolfRavage (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Hyperion
+Weapon: 425mm Railgun I
+
+Name: Demarcus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Capsule
+Weapon: Dread Guristas Stasis Webifier
+
+Name: Chalimar
+Security: 1.4
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Arazu
+Weapon: 250mm Railgun II
+
+Name: ninev0lts
+Security: 2.3
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Brutix
+Weapon: Warp Disruptor I
+
+Name: Black Tear
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Ship: Caracal
+Weapon: Heavy Missile Launcher I
+
+
+Destroyed items:
+
+150mm Light AutoCannon II
+150mm Light AutoCannon II
+150mm Light AutoCannon II
+Barrage S, Qty: 66
+1MN MicroWarpdrive I
+400mm Reinforced Rolled Tungsten Plates I
+Capacitor Power Relay I
+EMP S, Qty: 736 (Cargo)
+Barrage S, Qty: 1911 (Cargo)
+

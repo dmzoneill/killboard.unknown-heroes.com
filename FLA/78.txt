@@ -1,0 +1,48 @@
+2007.01.06 07:17
+
+Victim: Captain Hudson
+Alliance: Privateer Alliance
+Corp: Privateers
+Destroyed: Brutix
+System: Uemisaisen
+Security: 0.6
+
+Involved parties:
+
+Name: alon blackhelm (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Drake
+Weapon: Widowmaker Heavy Missile
+
+Name: dastommy79
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Prophecy
+Weapon: Prophecy
+
+Name: Feke
+Security: 2.7
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Caracal
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+Small Nosferatu I
+Heavy Neutron Blaster I
+Heavy Neutron Blaster I
+Heavy Neutron Blaster I
+Antimatter Charge M, Qty: 399
+Eutectic I Capacitor Charge Array
+10MN MicroWarpdrive I
+'Langour' Drive Disruptor I
+Armor Thermic Hardener II
+Armor Kinetic Hardener II
+Armor Explosive Hardener II
+Reactor Control Unit I
+

@@ -1,0 +1,39 @@
+2007.02.10 18:19
+
+Victim: Alexander Trevalyn
+Alliance: None
+Corp: MetaForge
+Destroyed: Ibis
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Mikal Drey (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Huginn
+Weapon: Havoc Heavy Missile
+
+Name: Rhaall
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Crucifier
+Weapon: Small Nosferatu I
+
+Name: Mr Kilgore
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Huginn
+Weapon: Fleeting Warp Scrambler I
+
+
+Destroyed items:
+
+Civilian Gatling Railgun
+Basic Miner
+Tritanium (Cargo)
+

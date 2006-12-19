@@ -1,0 +1,98 @@
+2007.03.08 05:09
+
+Victim: Quentin Decker
+Alliance: None
+Corp: Eternal Enigma
+Destroyed: Dominix
+System: EWOK-K
+Security: 0.0
+
+Involved parties:
+
+Name: Weeble Wooble
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Megathron
+Weapon: Megathron
+
+Name: digital oxygen
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Deimos
+Weapon: Valkyrie II
+
+Name: Marie Veedor
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Drake
+Weapon: Warrior I
+
+Name: Skull Fire
+Security: 0.7
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Rokh
+Weapon: Vespa II
+
+Name: dastommy79 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Ferox
+Weapon: Hornet I
+
+Name: JaiMaster
+Security: 2.6
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Muninn
+Weapon: Warrior II
+
+Name: Jokull
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Thorax
+Weapon: 200mm Railgun II
+
+Name: Jorax
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Myrmidon
+Weapon: Medium Nosferatu I
+
+Name: SoulAvenger
+Security: 3.7
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Maller
+Weapon: Medium Nosferatu I
+
+
+Destroyed items:
+
+Heavy Diminishing Power System Drain I
+Electron Blaster Cannon II
+Electron Blaster Cannon II
+Null L, Qty: 549
+Quad LiF Fueled I Booster Rockets
+Warp Disruptor II
+X5 Prototype I Engine Enervator
+Heavy Electrochemical Capacitor Booster I
+Damage Control II
+Large 'Accommodation' Vestment Reconstructer I
+Brynn's Modified Energized Adaptive Nano Membrane
+Armor Kinetic Hardener II
+Armor Explosive Hardener II
+Armor Thermic Hardener II
+Berserker II (Drone Bay)
+Valkyrie II (Drone Bay)
+Hammerhead II (Drone Bay)
+Ogre II, Qty: 2 (Drone Bay)
+Praetor II (Drone Bay)
+Warrior II (Drone Bay)
+

@@ -1,0 +1,19 @@
+2006.11.07 21:51
+
+Victim: trunk's
+Alliance: Mordus Angels
+Corp: Halfwits
+Destroyed: Caldari Shuttle
+System: P-2TTL
+Security: 0.0
+
+Involved parties:
+
+Name: Elfaen Ethenwe (laid the final blow)
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Rook
+Weapon: Thunderbolt Precision Heavy Missile
+
+

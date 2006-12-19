@@ -1,0 +1,28 @@
+2007.04.23 22:16
+
+Victim: Deyionu
+Alliance: Freelancer Alliance
+Corp: Harbingers of Sarrow
+Destroyed: Tristan
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Vendetta X (laid the final blow)
+Security: 0.6
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 40
+Standard Missile Launcher I
+J5 Prototype Warp Inhibitor I
+Small Armor Repairer I
+Capacitor Power Relay I
+Capacitor Power Relay I
+

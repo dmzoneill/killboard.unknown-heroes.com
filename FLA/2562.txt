@@ -1,0 +1,47 @@
+2007.02.21 12:41
+
+Victim: MrMaggot
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Destroyed: Scorpion
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Donald Trump
+Security: -1.9
+Alliance: None
+Corp: Temptation inc.
+Ship: Hurricane
+Weapon: Acolyte II
+
+Name: Fraile Cloudsinger (laid the final blow)
+Security: 4.8
+Alliance: Agony Empire
+Corp: Agony Unleashed
+Ship: Dominix
+Weapon: Ogre I
+
+
+Destroyed items:
+
+Heavy Nosferatu I
+Heavy Nosferatu I
+Paradise Cruise Missile, Qty: 36
+Devastator Cruise Missile, Qty: 22
+'Arbalest' Cruise Launcher I
+'Arbalest' Cruise Launcher I
+Heat Dissipation Field II
+'Hypnos' Ion Field ECM I
+Viscoelastic EM Ward Salubrity I
+Signal Amplifier II
+Ballistic Control System I
+200mm Railgun I (Cargo)
+Scattering ECCM Projector I (Cargo)
+Cataclysm Cruise Missile, Qty: 702 (Cargo)
+Devastator Cruise Missile, Qty: 781 (Cargo)
+Paradise Cruise Missile, Qty: 661 (Cargo)
+Hobgoblin I, Qty: 4 (Drone Bay)
+Hammerhead I (Drone Bay)
+

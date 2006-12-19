@@ -1,0 +1,19 @@
+2006.12.06 21:28
+
+Victim: Rafus
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Destroyed: Capsule
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Atarkus (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Raven
+Weapon: Juggernaut Javelin Torpedo
+
+

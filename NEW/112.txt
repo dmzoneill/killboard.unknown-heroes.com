@@ -1,0 +1,36 @@
+2007.01.19 22:29
+
+Victim: Kero167
+Alliance: Triumvirate.
+Corp: omen.
+Destroyed: Stiletto
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Quiomi (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Ferox
+Weapon: Widowmaker Heavy Missile
+
+Name: Solarienne
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Crusader
+Weapon: Crusader
+
+
+Destroyed items:
+
+150mm Light AutoCannon II, Qty: 2
+Small 'Knave' I Energy Drain
+1MN MicroWarpdrive I
+X5 Prototype I Engine Enervator
+Small Armor Repairer II
+Capacitor Power Relay I, Qty: 2
+Hail S, Qty: 500 (Cargo)
+Inertia Stabilizers I (Cargo)

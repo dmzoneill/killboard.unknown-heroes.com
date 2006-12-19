@@ -1,0 +1,23 @@
+2006.11.10 18:36
+
+Victim: kiss amamll
+Alliance: None
+Corp: School of Applied Knowledge
+Destroyed: Ibis
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Digioso (laid the final blow)
+Security: 1.3
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Megathron
+Weapon: Large 'Vehemence' I Shockwave Charge
+
+
+Destroyed items:
+
+Basic Miner
+

@@ -1,0 +1,42 @@
+2007.03.25 00:07
+
+Victim: Ninjitsuki
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Destroyed: Harpy
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Elfe
+Security: 4.4
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Capsule
+Weapon: Heavy Ion Blaster I
+
+Name: Alizarin Crimson (laid the final blow)
+Security: -1.3
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Crusader
+Weapon: Dual Light Beam Laser II
+
+Name: MASTER PSI
+Security: 3.6
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Ship: Capsule
+Weapon: J5 Prototype Warp Inhibitor I
+
+
+Destroyed items:
+
+125mm Railgun II
+Javelin S, Qty: 112
+Small Shield Booster II
+Cold-Gas I Arcjet Thrusters
+Faint Warp Prohibitor I
+Javelin S, Qty: 1010 (Cargo)
+

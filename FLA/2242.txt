@@ -1,0 +1,26 @@
+2007.01.30 03:29
+
+Victim: Barqs
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Amarr Shuttle
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: iggsterC
+Security: -1.3
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Scorpion
+Weapon: Heavy 'Ghoul' Energy Siphon I
+
+Name: drakonarik (laid the final blow)
+Security: 1.9
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+

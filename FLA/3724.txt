@@ -1,0 +1,40 @@
+2007.03.30 20:41
+
+Victim: Psinakis
+Alliance: Freelancer Alliance
+Corp: United Forces
+Destroyed: Capsule
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Tomas Ysidro
+Security: 1.3
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+Name: Max Teranous
+Security: -1.2
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Claw
+Weapon: 200mm AutoCannon II
+
+Name: Genrom (laid the final blow)
+Security: 4.5
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Taranis
+Weapon: Light Neutron Blaster II
+
+Name: Olli
+Security: -0.1
+Alliance: S.E.R.A
+Corp: Seraphin Technologies
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+

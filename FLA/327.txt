@@ -1,0 +1,82 @@
+2007.01.26 00:58
+
+Victim: Litticus Maxamus
+Alliance: The Sundering
+Corp: Emerald Empire
+Destroyed: Capsule
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Korudon (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Ferox
+Weapon: 250mm Railgun I
+
+Name: digital oxygen
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Valea Silpha
+Security: 1.4
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Huginn
+Weapon: Huginn
+
+Name: ventura5
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Drake
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+Name: sakana
+Security: -1.2
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Megathron
+Weapon: 425mm Prototype I Gauss Gun
+
+Name: Prodigal IV
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Ship: Incursus
+Weapon: Regulated Light Neutron Phase Cannon I
+
+Name: PHIONIX DARKANGEL
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Rokh
+Weapon: 425mm Railgun I
+
+Name: Lux0r
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Caracal
+Weapon: Heavy Missile Launcher I
+
+Name: Goca
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Ferox
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+Name: Eacham Graeme
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Falcon
+Weapon: ECM - Spatial Destabilizer II
+
+

@@ -1,0 +1,40 @@
+2007.03.08 18:42
+
+Victim: Juha85
+Alliance: YouWhat
+Corp: Beasts of Burden
+Destroyed: Capsule
+System: XZH-4X
+Security: 0.0
+
+Involved parties:
+
+Name: Jonas123 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Ferox
+Weapon: 250mm Compressed Coil Gun I
+
+Name: brainball
+Security: 2.5
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Taranis
+Weapon: Taranis
+
+Name: Zuki Ed
+Security: 5.0
+Alliance: Prime Orbital Systems
+Corp: Quantum Industries
+Ship: Maulus
+Weapon: Maulus
+
+Name: Ikari Tanaka
+Security: 4.7
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Raptor
+Weapon: 'Limos' Rocket Launcher I
+
+

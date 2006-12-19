@@ -1,0 +1,33 @@
+2007.01.19 01:43
+
+Victim: Hemo Roid
+Alliance: None
+Corp: Imperial Academy
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Xantheris (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: TiMeZeRo225
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: J.I.T. Enterprises
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+Name: Swanny231
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Crow
+Weapon: 'Arbalest' Rocket Launcher I
+
+

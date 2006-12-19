@@ -1,0 +1,42 @@
+2007.04.22 21:23
+
+Victim: Skull Fire
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Blackbird
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: RyMcQeN I (laid the final blow)
+Security: 4.2
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+Name: Exekias
+Security: 2.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Hurricane
+Weapon: Remote Sensor Dampener II
+
+Name: Fitz Farseer
+Security: 0.5
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Capsule
+Weapon: 250mm Light Artillery Cannon I
+
+
+Destroyed items:
+
+200mm Railgun I
+Plutonium Charge M, Qty: 77
+Kapteyn Sensor Array Inhibitor I
+Tracking Disruptor I
+Type-D Power Core Modification: Reaction Control
+Plutonium Charge M, Qty: 325 (Cargo)
+

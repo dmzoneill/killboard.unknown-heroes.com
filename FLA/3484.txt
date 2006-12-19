@@ -1,0 +1,46 @@
+2007.03.30 07:13
+
+Victim: illusha
+Alliance: The SUdden Death Squad
+Corp: Halfwits
+Destroyed: Myrmidon
+System: 3QE-9Q
+Security: 0.0
+
+Involved parties:
+
+Name: Galaxyes
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: VentureCorp
+Ship: Raven
+Weapon: Hammerhead I
+
+Name: death1023 (laid the final blow)
+Security: 3.4
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Enyo
+Weapon: Light Neutron Blaster II
+
+Name: Mirage o
+Security: 1.5
+Alliance: Freelancer Alliance
+Corp: Terminal Velocity Inc.
+Ship: Heretic
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Medium Nosferatu I
+Medium Nosferatu I
+X5 Prototype I Engine Enervator
+Sensor Booster I
+Medium Armor Repairer I
+F-S8 Relativistic Deflection Shield Induction (Cargo)
+Praetor II (Drone Bay)
+Berserker II (Drone Bay)
+Warrior II, Qty: 4 (Drone Bay)
+

@@ -1,0 +1,28 @@
+2006.10.07 09:33
+
+Victim: Midiana
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Destroyed: Vexor
+System: Sobaseki
+Security: 0.8
+
+Involved parties:
+
+Name: Slave 775 (laid the final blow)
+Security: -1.5
+Alliance: None
+Corp: Privateers
+Ship: Thorax
+Weapon: Light Neutron Blaster II
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Fleeting Warp Scrambler I
+Drone Navigation Computer I
+N-Type Adaptive Nano Membrane I
+Energized Adaptive Nano Membrane I (Cargo)
+Valkyrie II (Drone Bay)
+

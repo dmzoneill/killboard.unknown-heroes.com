@@ -1,0 +1,34 @@
+2007.02.04 19:20
+
+Victim: Witty Moniker
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Destroyed: Stiletto
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: MrMunro (laid the final blow)
+Security: 5.1
+Alliance: Insane Asylum
+Corp: PILGRIMS
+Ship: Rokh
+Weapon: 425mm 'Scout' I Accelerator Cannon
+
+Name: Dark Carnage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Blackbird
+Weapon: ECM - Multispectral Jammer I
+
+
+Destroyed items:
+
+1MN MicroWarpdrive II
+J5b Phased Prototype Warp Inhibitor I
+J5 Prototype Warp Inhibitor I
+Nanofiber Internal Structure I
+Barrage S, Qty: 796 (Cargo)
+

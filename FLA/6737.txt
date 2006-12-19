@@ -1,0 +1,47 @@
+2006.11.26 00:45
+
+Victim: meriacou
+Alliance: None
+Corp: Imperial Shipment
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Eskiban Vlasic
+Security: 5.0
+Alliance: EVE Animal Control
+Corp: F.R.E.E. Explorer
+Ship: Eris
+Weapon: Eris
+
+Name: Tri Ounou (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Jaguar
+Weapon: 150mm Light AutoCannon II
+
+Name: Corovus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: THeOThErs
+Ship: Nemesis
+Weapon: 150mm Railgun II
+
+Name: roboto212
+Security: -0.5
+Alliance: Freelancer Alliance
+Corp: Sin-X Inc.
+Ship: Taranis
+Weapon: Light Neutron Blaster II
+
+Name: Anatolli Korenchken
+Security: 5.0
+Alliance: CORE.
+Corp: AUS Corporation
+Ship: Raptor
+Weapon: Upgraded 'Limos' Standard Missile Bay I
+
+

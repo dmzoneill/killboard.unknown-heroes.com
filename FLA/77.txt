@@ -1,0 +1,27 @@
+2007.01.06 06:54
+
+Victim: Jarling Fang
+Alliance: Privateer Alliance
+Corp: Privateers
+Destroyed: Kestrel
+System: Nonni
+Security: 0.5
+
+Involved parties:
+
+Name: alon blackhelm (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Drake
+Weapon: Thunderbolt Heavy Missile
+
+
+Destroyed items:
+
+Piranha Light Missile, Qty: 39
+Bloodclaw Light Missile, Qty: 38
+Flameburst Light Missile, Qty: 39
+Standard Missile Launcher I
+Standard Missile Launcher I
+

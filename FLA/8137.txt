@@ -1,0 +1,63 @@
+2006.10.17 03:21
+
+Victim: cceiber
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Destroyed: Raven
+System: A4L-A2
+Security: 0.0
+
+Involved parties:
+
+Name: PainBall
+Security: 2.5
+Alliance: None
+Corp: NEXT LEVEL
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Olaf Thaddius (laid the final blow)
+Security: 2.0
+Alliance: Process of Elimination
+Corp: Viper  Squad
+Ship: Thorax
+Weapon: Light Neutron Blaster II
+
+Name: Sith Bandon
+Security: 0.1
+Alliance: Process of Elimination
+Corp: Viper  Squad
+Ship: Arazu
+Weapon: Arazu
+
+Name: Shaleen
+Security: 3.8
+Alliance: Process of Elimination
+Corp: Viper  Squad
+Ship: Astarte
+Weapon: Valkyrie II
+
+Name: Perfect Stranger
+Security: 5.0
+Alliance: Process of Elimination
+Corp: Occassus Republica
+Ship: Flycatcher
+Weapon: X5 Prototype I Engine Enervator
+
+
+Destroyed items:
+
+Juggernaut Torpedo, Qty: 90
+ZW-4100 Siege Missile Bay
+ZW-4100 Siege Missile Bay
+ZW-4100 Siege Missile Bay
+ZW-4100 Siege Missile Bay
+Small Tractor Beam I
+Ditrigonal Thermal Barrier Crystallization I
+Non-Inertial Ballistic Screen Augmentation I
+V-M15 Braced Multispectral Shield Matrix
+Ballistic Control System I
+Ballistic Control System I
+Ballistic Control System I
+Juggernaut Torpedo, Qty: 1367 (Cargo)
+

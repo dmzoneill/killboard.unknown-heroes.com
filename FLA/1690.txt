@@ -1,0 +1,26 @@
+2007.03.20 22:06
+
+Victim: Dyden Nemor
+Alliance: FATAL Alliance
+Corp: Black Reign
+Destroyed: Stiletto
+System: L-C3O7
+Security: 0.0
+
+Involved parties:
+
+Name: MohamedLoftie (laid the final blow)
+Security: -0.8
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Curse
+Weapon: Hammerhead II
+
+
+Destroyed items:
+
+125mm Gatling AutoCannon II
+Small Nosferatu I
+Barrage S, Qty: 94
+Fleeting Warp Scrambler I
+

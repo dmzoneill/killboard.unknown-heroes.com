@@ -1,0 +1,36 @@
+2006.11.25 01:05
+
+Victim: KriegDrachen
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Destroyed: Claw
+System: E-FIC0
+Security: 0.0
+
+Involved parties:
+
+Name: Elliott Manchild (laid the final blow)
+Security: -1.6
+Alliance: None
+Corp: omen.
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Garath Dirk
+Security: -0.9
+Alliance: None
+Corp: omen.
+Ship: Capsule
+Weapon: Patterned Stasis Web I
+
+
+Destroyed items:
+
+150mm Light AutoCannon II
+150mm Light AutoCannon II
+Small 'Knave' I Energy Drain
+Barrage S, Qty: 131
+Gyrostabilizer II
+Small Armor Repairer II
+200mm Reinforced Rolled Tungsten Plates I
+

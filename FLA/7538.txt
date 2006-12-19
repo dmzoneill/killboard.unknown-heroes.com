@@ -1,0 +1,40 @@
+2006.09.15 20:00
+
+Victim: DrSuicide
+Alliance: R.I.S.K
+Corp: ReD eYe Inc.
+Destroyed: Capsule
+System: 93PI-4
+Security: 0.0
+
+Involved parties:
+
+Name: Narny
+Security: 4.8
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: UnAimedPlayer (laid the final blow)
+Security: 1.7
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Ship: Jaguar
+Weapon: 280mm Howitzer Artillery I
+
+Name: Oldin Relic
+Security: 1.3
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Moa
+Weapon: 250mm Carbide Railgun I
+
+Name: kone on
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Stiletto
+Weapon: 150mm Light AutoCannon II
+
+

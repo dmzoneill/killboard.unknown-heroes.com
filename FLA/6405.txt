@@ -1,0 +1,72 @@
+2006.11.13 14:38
+
+Victim: blaznee
+Alliance: Interstellar Starbase Syndicate
+Corp: The Graduates
+Destroyed: Thrasher
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Karas Rabus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Rapier
+Weapon: Assault Missile Launcher II
+
+Name: LiBraga
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Eagle
+Weapon: 250mm Prototype I Gauss Gun
+
+Name: W4RR10R
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Scorpio63 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Vengeance
+Weapon: Medium Pulse Laser II
+
+Name: Darth Hound
+Security: 1.7
+Alliance: Schism.
+Corp: Fatalix Inc.
+Ship: Thrasher
+Weapon: 280mm Howitzer Artillery I
+
+Name: TiMeZeRo225
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: J.I.T. Enterprises
+Ship: Ferox
+Weapon: XR-3200 Heavy Missile Bay
+
+
+Destroyed items:
+
+280mm Howitzer Artillery II
+280mm Howitzer Artillery II
+250mm Light Artillery Cannon II
+250mm Light Artillery Cannon II
+250mm Light Artillery Cannon II
+280mm Howitzer Artillery I
+Proton S, Qty: 31
+Flameburst Light Missile, Qty: 44
+Small C5-L Emergency Shield Overload I
+Carbonized Lead S, Qty: 1841 (Cargo)
+Proton S, Qty: 4729 (Cargo)
+EMP S, Qty: 84 (Cargo)
+Bloodclaw Light Missile, Qty: 223 (Cargo)
+Sabretooth Light Missile, Qty: 96 (Cargo)
+Piranha Light Missile, Qty: 100 (Cargo)
+

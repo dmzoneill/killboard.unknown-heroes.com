@@ -1,0 +1,61 @@
+2006.10.07 01:11
+
+Victim: Case Matrix
+Alliance: Charok Askore Alliance
+Corp: Simtech Productions
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Hosanna (laid the final blow)
+Security: -0.7
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Stiletto
+Weapon: 150mm Light AutoCannon II
+
+Name: jarson
+Security: -0.3
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Claw
+Weapon: Fleeting Warp Scrambler I
+
+Name: Seventh Star
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Jaguar
+Weapon: 250mm Light Artillery Cannon II
+
+Name: movy
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Ishkur
+Weapon: 125mm Railgun II
+
+Name: Barukor
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Wolf
+Weapon: 200mm AutoCannon II
+
+Name: forator2
+Security: 3.5
+Alliance: O X I D E
+Corp: W33D Corp.
+Ship: Taranis
+Weapon: Light Electron Blaster II
+
+Name: Scorpio63
+Security: 4.8
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Retribution
+Weapon: Medium Modulated Pulse Energy Beam I
+
+

@@ -1,0 +1,65 @@
+2007.04.14 19:40
+
+Victim: Korudon
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Megathron
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Medium AutoCannon Battery / Eternity INC.
+
+Name: Queldonus
+Security: 3.3
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Nidhoggur
+Weapon: Firbolg
+
+Name: Odda (laid the final blow)
+Security: 4.4
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Thanatos
+Weapon: Firbolg
+
+Name: ZaKma
+Security: -0.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Wolf
+Weapon: 250mm Light Artillery Cannon II
+
+Name: Olli
+Security: -0.1
+Alliance: Mercenary Coalition
+Corp: Seraphin Technologies
+Ship: Chimera
+Weapon: Raysere's Modified Heavy Energy Neutralizer
+
+Name: Eleese
+Security: -0.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Dominix
+Weapon: Fleeting Propulsion Inhibitor I
+
+
+Destroyed items:
+
+425mm Railgun I
+425mm Railgun I
+425mm Railgun I
+425mm Railgun I
+Iron Charge L, Qty: 87
+Fixed Parallel Link-Capacitor I
+F-90 Positional Sensor Subroutines
+Energized Adaptive Nano Membrane I
+Energized Adaptive Nano Membrane I
+1600mm Reinforced Titanium Plates I
+Iron Charge L, Qty: 264 (Cargo)
+Lead Charge L, Qty: 2200 (Cargo)
+Hammerhead I, Qty: 2 (Drone Bay)
+

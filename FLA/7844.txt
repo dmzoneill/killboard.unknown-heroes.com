@@ -1,0 +1,47 @@
+2006.09.11 19:37
+
+Victim: Yangoor
+Alliance: Freelancer Alliance
+Corp: THeOThErs
+Destroyed: Capsule
+System: EWOK-K
+Security: 0.0
+
+Involved parties:
+
+Name: Murdoch Morf
+Security: 2.8
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Taranis
+Weapon: Patterned Stasis Web I
+
+Name: Trebor Slater (laid the final blow)
+Security: 4.5
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Huginn
+Weapon: 720mm Howitzer Artillery II
+
+Name: TheHutch
+Security: -1.5
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Eris
+Weapon: 125mm Compressed Coil Gun I
+
+Name: NerVee
+Security: -0.1
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Crow
+Weapon: Rocket Launcher II
+
+Name: Kalissa
+Security: 3.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Manticore
+Weapon: Warp Disruptor I
+
+

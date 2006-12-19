@@ -1,0 +1,26 @@
+2007.04.03 20:37
+
+Victim: DarkAvenger DK
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Executioner
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Sivona (laid the final blow)
+Security: -1.1
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Eos
+Weapon: Ogre II
+
+
+Destroyed items:
+
+1MN MicroWarpdrive I
+Initiated Harmonic Warp Jammer I
+Small Armor Repairer II
+Nanofiber Internal Structure I
+

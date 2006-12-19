@@ -1,0 +1,25 @@
+2007.05.14 16:00
+
+Victim: Reggie Kray
+Alliance: None
+Corp: Mentally Unstable Enterprises
+Destroyed: Crow
+System: Iitanmadan
+Security: 0.3
+
+Involved parties:
+
+Name: lambert butler (laid the final blow)
+Security: -1.8
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Ishkur
+Weapon: Hammerhead II
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 94
+1MN MicroWarpdrive II
+Local Hull Conversion Nanofiber Structure I
+

@@ -1,0 +1,57 @@
+2007.04.10 22:53
+
+Victim: CENTUREAN
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Destroyed: Drake
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Stradivarious (laid the final blow)
+Security: 3.7
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Nidhoggur
+Weapon: Templar
+
+Name: Eleese
+Security: -0.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Dominix
+Weapon: Ogre II
+
+Name: Rukaz
+Security: 3.1
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Crow
+Weapon: 'Arbalest' Standard Missile Launcher
+
+Name: kapten sortebil
+Security: 4.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Raptor
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+Widowmaker Heavy Missile, Qty: 38
+XR-3200 Heavy Missile Bay
+XR-3200 Heavy Missile Bay
+XR-3200 Heavy Missile Bay
+XR-3200 Heavy Missile Bay
+'Malkuth' Heavy Missile Launcher I
+Large F-S9 Regolith Shield Induction
+Type-D Power Core Modification: Shield Power Relay
+Type-D Power Core Modification: Diagnostic System
+Type-D Power Core Modification: Diagnostic System
+Thunderbolt Heavy Missile, Qty: 1828 (Cargo)
+Widowmaker Heavy Missile, Qty: 1636 (Cargo)
+Havoc Heavy Missile, Qty: 1918 (Cargo)
+Scourge Heavy Missile, Qty: 1963 (Cargo)
+

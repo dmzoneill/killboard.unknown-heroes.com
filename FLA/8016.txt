@@ -1,0 +1,60 @@
+2006.10.06 00:00
+
+Victim: Soliloquil
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Destroyed: Ferox
+System: Jita
+Security: 0.9
+
+Involved parties:
+
+Name: Kaykun (laid the final blow)
+Security: 5.0
+Alliance: None
+Corp: Privateers
+Ship: Tempest
+Weapon: 1400mm Carbine Howitzer I
+
+Name: Onin Ra
+Security: 1.1
+Alliance: None
+Corp: Privateers
+Ship: Megathron
+Weapon: 425mm 'Scout' I Accelerator Cannon
+
+Name: Danno
+Security: -1.9
+Alliance: None
+Corp: Privateers
+Ship: Apocalypse
+Weapon: Tachyon Beam Laser II
+
+Name: SLAPNUTZ
+Security: -1.8
+Alliance: None
+Corp: Privateers
+Ship: Tempest
+Weapon: 1400mm Gallium I Cannon
+
+Name: Morfane
+Security: -0.2
+Alliance: None
+Corp: Privateers
+Ship: Taranis
+Weapon: X5 Prototype I Engine Enervator
+
+
+Destroyed items:
+
+200mm Railgun I
+Lead Charge M, Qty: 77
+Havoc Heavy Missile, Qty: 87
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Warp Disruptor I
+Invulnerability Field I
+ECM - Spatial Destabilizer I
+Basic Damage Control
+Hornet I (Drone Bay)
+

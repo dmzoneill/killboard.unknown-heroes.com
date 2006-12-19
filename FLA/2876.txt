@@ -1,0 +1,53 @@
+2007.03.13 22:48
+
+Victim: Arbitrus
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Destroyed: Catalyst
+System: H1-J33
+Security: 0.0
+
+Involved parties:
+
+Name: Iluyen
+Security: 5.0
+Alliance: FATAL Alliance
+Corp: Black Reign
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Sebo Darrens
+Security: 5.0
+Alliance: FATAL Alliance
+Corp: FATAL REVELATIONS
+Ship: Myrmidon
+Weapon: Dual 150mm Railgun II
+
+Name: TinmanSAC (laid the final blow)
+Security: 2.8
+Alliance: FATAL Alliance
+Corp: FATAL REVELATIONS
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: CiRFiS
+Security: 2.6
+Alliance: FATAL Alliance
+Corp: FATAL REVELATIONS
+Ship: Hurricane
+Weapon: 220mm Vulcan AutoCannon II
+
+
+Destroyed items:
+
+Small Nosferatu I
+Small Nosferatu I
+Light Neutron Blaster I
+Light Neutron Blaster I
+Antimatter Charge S, Qty: 160
+1MN MicroWarpdrive I
+Warp Disruptor I
+Nanofiber Internal Structure I
+Power Diagnostic System I
+Antimatter Charge S, Qty: 4680 (Cargo)
+

@@ -1,0 +1,47 @@
+2007.03.08 20:39
+
+Victim: Conare
+Alliance: None
+Corp: State War Academy
+Destroyed: Capsule
+System: XZH-4X
+Security: 0.0
+
+Involved parties:
+
+Name: Zudge
+Security: 2.8
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Enyo
+Weapon: Enyo
+
+Name: Jonas123 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Ferox
+Weapon: 250mm Compressed Coil Gun I
+
+Name: Ouabain
+Security: 5.0
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Stabber
+Weapon: 220mm Vulcan AutoCannon I
+
+Name: VoYvod
+Security: -1.3
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Coercer
+Weapon: Medium Beam Laser I
+
+Name: Pokano
+Security: 0.6
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Coercer
+Weapon: Coercer
+
+

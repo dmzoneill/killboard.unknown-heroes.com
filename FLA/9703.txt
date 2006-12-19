@@ -1,0 +1,26 @@
+2007.05.25 18:17
+
+Victim: kriton mercutio
+Alliance: None
+Corp: Free Market Enterprizes
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Yesh (laid the final blow)
+Security: 2.7
+Alliance: The Fifth Race
+Corp: Antares Frontier
+Ship: Malediction
+Weapon: Dual Light Beam Laser II
+
+Name: Steven FSB
+Security: 3.5
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+

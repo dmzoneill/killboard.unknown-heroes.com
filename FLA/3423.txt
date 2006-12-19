@@ -1,0 +1,40 @@
+2007.03.25 22:08
+
+Victim: TRIBEMASTER
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Destroyed: Capsule
+System: P-2TTL
+Security: 0.0
+
+Involved parties:
+
+Name: Dekein
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Hurricane
+Weapon: 720mm Howitzer Artillery II
+
+Name: ZaKma (laid the final blow)
+Security: -1.2
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Astarte
+Weapon: 250mm Railgun II
+
+Name: Shadowjet
+Security: -1.3
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+Name: Alisa Dax
+Security: 4.8
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+

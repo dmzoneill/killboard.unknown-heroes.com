@@ -1,0 +1,62 @@
+2006.11.16 22:44
+
+Victim: Tenk
+Alliance: Freelancer Alliance
+Corp: BGG
+Destroyed: Caracal
+System: O-CNPR
+Security: 0.0
+
+Involved parties:
+
+Name: Elgan
+Security: -0.8
+Alliance: The Sani Sabik
+Corp: Omniscient Order
+Ship: Zealot
+Weapon: Zealot
+
+Name: Crusari
+Security: 5.0
+Alliance: The Sani Sabik
+Corp: Omniscient Order
+Ship: Megathron
+Weapon: Ion Blaster Cannon II
+
+Name: Elric TheWhite (laid the final blow)
+Security: -0.1
+Alliance: The Sani Sabik
+Corp: Omniscient Order
+Ship: Typhoon
+Weapon: Cataclysm Cruise Missile
+
+Name: panman
+Security: 2.7
+Alliance: None
+Corp: Deep Core Mining Inc.
+Ship: Megathron
+Weapon: Megathron
+
+Name: Noobjuice
+Security: -1.8
+Alliance: The Sani Sabik
+Corp: Omniscient Order
+Ship: Typhoon
+Weapon: J5 Prototype Warp Inhibitor I
+
+
+Destroyed items:
+
+Flameburst Light Missile, Qty: 60
+Heavy Missile Launcher I
+Large Shield Extender I
+10MN Afterburner I
+Medium Capacitor Booster I
+Invulnerability Field I
+Cap Booster 200
+Cap Booster 200
+Cap Booster 200
+Cap Booster 200
+Cap Booster 200, Qty: 20 (Cargo)
+Flameburst Light Missile, Qty: 737 (Cargo)
+

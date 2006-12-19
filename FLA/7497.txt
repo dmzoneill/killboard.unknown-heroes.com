@@ -1,0 +1,139 @@
+2006.09.10 16:32
+
+Victim: Tavr
+Alliance: R.I.S.K
+Corp: ReD eYe Inc.
+Destroyed: Raven
+System: X-7OMU
+Security: 0.0
+
+Involved parties:
+
+Name: Munch
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Armageddon
+Weapon: Vespa II
+
+Name: DDaisy
+Security: 4.6
+Alliance: CORE.
+Corp: VentureCorp
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Mad Mackem (laid the final blow)
+Security: -1.2
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Armageddon
+Weapon: Mega Beam Laser II
+
+Name: betabob
+Security: 3.9
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Eskiban Vlasic
+Security: 5.0
+Alliance: EVE Animal Control
+Corp: F.R.E.E. Explorer
+Ship: Megathron
+Weapon: 425mm Railgun I
+
+Name: Oldin Relic
+Security: 1.3
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Moa
+Weapon: Moa
+
+Name: Laboratus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Vexor
+Weapon: Hammerhead I
+
+Name: GrumpyBear
+Security: 1.6
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Rook
+Weapon: 'Hypnos' Multispectral ECM I
+
+Name: Puke
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Raven
+Weapon: Vespa EC-600
+
+Name: casama
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Heretic
+Weapon: Sabretooth Light Missile
+
+Name: geewiz
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Eris
+Weapon: Eris
+
+Name: XxAngelxX
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Curse
+Weapon: Medium Diminishing Power System Drain I
+
+Name: Shiri elAzarinres
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Raven
+Weapon: XT-9000 Cruise Launcher
+
+Name: Nende
+Security: 5.0
+Alliance: None
+Corp: Ashen Lion Mining and Production Consortium
+Ship: Scorpion
+Weapon: ECM - Spatial Destabilizer II
+
+Name: Cordial Ripper
+Security: 3.7
+Alliance: None
+Corp: g guild
+Ship: Muninn
+Weapon: XR-3200 Heavy Missile Bay
+
+Name: Capt Cali
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: London Transport
+Ship: Crow
+Weapon: Faint Warp Prohibitor I
+
+
+Destroyed items:
+
+Heavy Nosferatu I
+Wrath Cruise Missile, Qty: 72
+'Arbalest' Cruise Launcher I
+'Arbalest' Cruise Launcher I
+'Arbalest' Cruise Launcher I
+Invulnerability Field II
+Ballistic Deflection Field II
+Sensor Booster II
+Warp Core Stabilizer I
+Warp Core Stabilizer I
+Ballistic Control System II
+Wrath Cruise Missile, Qty: 3639 (Cargo)
+

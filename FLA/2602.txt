@@ -1,0 +1,26 @@
+2007.02.26 04:58
+
+Victim: Moridin Bashere
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Odet (laid the final blow)
+Security: 2.1
+Alliance: None
+Corp: Finite Horizon
+Ship: Rapier
+Weapon: 720mm Howitzer Artillery II
+
+Name: rs spyder
+Security: -2.1
+Alliance: None
+Corp: Tarnak inc.
+Ship: Ishtar
+Weapon: Ishtar
+
+

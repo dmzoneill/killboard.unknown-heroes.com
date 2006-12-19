@@ -1,0 +1,26 @@
+2007.01.08 00:39
+
+Victim: Swindy
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Merlin
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Heinky (laid the final blow)
+Security: 2.7
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Abaddon
+Weapon: Hammerhead II
+
+
+Destroyed items:
+
+125mm Railgun I
+Antimatter Charge S, Qty: 80
+Thorn Rocket, Qty: 60
+Cap Recharger I
+

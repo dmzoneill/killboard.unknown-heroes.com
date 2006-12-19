@@ -1,0 +1,28 @@
+2007.04.29 12:14
+
+Victim: Mufeater
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Destroyed: Vexor
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Fitz Farseer (laid the final blow)
+Security: 0.5
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Rupture
+Weapon: Infiltrator I
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Medium Nosferatu I
+Small Rudimentary Energy Destabilizer I
+Antimatter Charge M, Qty: 892 (Cargo)
+Void S, Qty: 411 (Cargo)
+Hobgoblin II, Qty: 2 (Drone Bay)
+

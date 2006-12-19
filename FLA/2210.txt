@@ -1,0 +1,77 @@
+2007.01.28 18:07
+
+Victim: Eacham Graeme
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Destroyed: Rook
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Lucy Fur
+Security: 2.8
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: EL TITAN (laid the final blow)
+Security: 1.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Vagabond
+Weapon: Dual 180mm AutoCannon II
+
+Name: Marschall
+Security: 2.1
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Misticue
+Security: -1.5
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: BlueVelvet
+Security: 4.3
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Taranis
+Weapon: Taranis
+
+Name: Messiah Killeon
+Security: -0.3
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Taranis
+Weapon: Taranis
+
+Name: Repiv
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+
+Destroyed items:
+
+Improved Cloaking Device II
+Heavy Missile Launcher II
+Heavy Missile Launcher II
+Heavy Missile Launcher II
+Heavy Missile Launcher II
+Heavy Missile Launcher II
+Havoc Precision Heavy Missile, Qty: 120
+ECM - Phase Inverter II
+ECM - Phase Inverter II
+ECM - Spatial Destabilizer II
+ECM - White Noise Generator II
+ECM - Ion Field Projector II
+Signal Amplifier II
+

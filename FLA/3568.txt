@@ -1,0 +1,82 @@
+2007.03.27 06:28
+
+Victim: Certech
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Destroyed: Machariel
+System: 3T7-M8
+Security: 0.0
+
+Involved parties:
+
+Name: Guristas Annihilator / Guristas
+
+Name: Lorn Zolog (laid the final blow)
+Security: -0.8
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Harbinger
+Weapon: Focused Medium Pulse Laser II
+
+Name: Xordus
+Security: 1.7
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: mr ioso
+Security: 4.8
+Alliance: Chorus of Dawn
+Corp: Cosmic Odyssey
+Ship: Myrmidon
+Weapon: Hornet I
+
+Name: Mr MA
+Security: 3.5
+Alliance: Chorus of Dawn
+Corp: Cosmic Odyssey
+Ship: Myrmidon
+Weapon: Ogre I
+
+Name: xargis
+Security: 5.0
+Alliance: YouWhat
+Corp: Pringles Inc.
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Galaxor
+Security: 5.1
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Harbinger
+Weapon: Hammerhead II
+
+Name: Vasili Z
+Security: 0.3
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: Erikel
+Security: 4.7
+Alliance: Chorus of Dawn
+Corp: Cosmic Odyssey
+Ship: Megathron
+Weapon: Megathron
+
+
+Destroyed items:
+
+1400mm Howitzer Artillery II
+1400mm Howitzer Artillery II
+1400mm Howitzer Artillery II
+1400mm Howitzer Artillery II
+Prototype Cloaking Device I
+Tracking Computer II
+Gyrostabilizer II
+'Mendicant' Signal Booster I
+Photonic CPU Enhancer I
+

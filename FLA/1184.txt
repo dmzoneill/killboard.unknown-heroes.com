@@ -1,0 +1,126 @@
+2007.03.08 05:24
+
+Victim: Xoduse
+Alliance: YouWhat
+Corp: Beasts of Burden
+Destroyed: Raven
+System: XZH-4X
+Security: 0.0
+
+Involved parties:
+
+Name: Drakenheim Reinmueller
+Security: 2.8
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Harbinger
+Weapon: Harbinger
+
+Name: Monopthalmus
+Security: 2.3
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Celestis
+Weapon: Celestis
+
+Name: Axebreaker
+Security: 3.0
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Moa
+Weapon: Moa
+
+Name: 13th
+Security: 4.4
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: VoYvod
+Security: -1.3
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Coercer
+Weapon: Coercer
+
+Name: MagicalMako
+Security: 0.9
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: AdeptaCheese (laid the final blow)
+Security: 2.4
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Silistria
+Security: 0.6
+Alliance: GoonSwarm
+Corp: Black Omega Security
+Ship: Raptor
+Weapon: Raptor
+
+Name: NerftheSmurf
+Security: 0.8
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Celestis
+Weapon: Celestis
+
+Name: Aureliano Garcia
+Security: 0.3
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Merlin
+Weapon: Foxfire Rocket
+
+Name: Alias11
+Security: -0.6
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Stabber
+Weapon: Stabber
+
+Name: Vardoji
+Security: 0.0
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Thorax
+Weapon: Light Electron Blaster I
+
+Name: Phelan Driscoll
+Security: 0.5
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Rifter
+Weapon: Sabretooth Light Missile
+
+Name: Panzram
+Security: 0.0
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Punisher
+Weapon: Small Energy Neutralizer I
+
+Name: Nooks
+Security: 2.6
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Incursus
+Weapon: Warp Disruptor I
+
+
+Destroyed items:
+
+Heat Dissipation Field I
+Photon Scattering Field I
+Inertia Stabilizers I
+Inertia Stabilizers I
+Hobgoblin II, Qty: 4 (Drone Bay)
+Medium Armor Maintenance Bot I, Qty: 4 (Drone Bay)
+

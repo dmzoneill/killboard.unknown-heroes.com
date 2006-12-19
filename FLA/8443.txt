@@ -1,0 +1,23 @@
+2006.11.18 21:42
+
+Victim: Gnoewen Gnoes
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Slasher
+System: Otou
+Security: 0.3
+
+Involved parties:
+
+Name: Benzmann (laid the final blow)
+Security: -10.0
+Alliance: None
+Corp: OctoberSnow Corp
+Ship: Armageddon
+Weapon: Tachyon Beam Laser II
+
+
+Destroyed items:
+
+Damage Control I
+

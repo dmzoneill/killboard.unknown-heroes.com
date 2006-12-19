@@ -1,0 +1,46 @@
+2007.04.16 02:25
+
+Victim: Chekoteh
+Alliance: Freelancer Alliance
+Corp: United Forces
+Destroyed: Caracal
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Admentus Cor'vion
+Security: -0.5
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Taranis
+Weapon: Taranis
+
+Name: Nethel (laid the final blow)
+Security: 2.1
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Dominix
+Weapon: Berserker II
+
+Name: Queldonus
+Security: 3.3
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Nidhoggur
+Weapon: Templar
+
+
+Destroyed items:
+
+Torrent Assault Missile, Qty: 240
+Fulmination Assault Missile, Qty: 246
+Terror Assault Missile, Qty: 240
+'Malkuth' Heavy Assault Missile Launcher I
+'Malkuth' Heavy Assault Missile Launcher I
+'Malkuth' Heavy Assault Missile Launcher I
+Medium Clarity Ward Booster I
+Warp Disruptor I
+Torrent Assault Missile, Qty: 900 (Cargo)
+Hobgoblin II, Qty: 2 (Drone Bay)
+

@@ -1,0 +1,79 @@
+2007.03.13 22:52
+
+Victim: Prodigal IV
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Destroyed: Brutix
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: drakandu
+Security: 0.9
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Stabber
+Weapon: Stabber
+
+Name: Hinderburg (laid the final blow)
+Security: 4.2
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Wolf
+Weapon: 150mm Light AutoCannon II
+
+Name: Vrivona
+Security: 1.3
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Claw
+Weapon: Claw
+
+Name: Daff Punk
+Security: -1.1
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Taranis
+Weapon: 125mm Railgun II
+
+Name: KaKaShI
+Security: 4.0
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Claw
+Weapon: Claw
+
+Name: Deep Moondark
+Security: -0.2
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Himphotep 87
+Security: 0.4
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Rifter
+Weapon: Rifter
+
+Name: Shuriken Ertai
+Security: 0.5
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Eris
+Weapon: 125mm Railgun II
+
+Name: astur
+Security: 5.0
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Merlin
+Weapon: Standard Missile Launcher I
+
+
+Destroyed items:
+
+10MN Afterburner I
+

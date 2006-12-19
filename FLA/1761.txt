@@ -1,0 +1,36 @@
+2007.01.02 19:08
+
+Victim: Vertigel Symorain
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Destroyed: Vexor
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Heinky
+Security: 2.4
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Abaddon
+Weapon: Tachyon Beam Laser II
+
+Name: Arnold Swartzenegger (laid the final blow)
+Security: -0.6
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+
+Destroyed items:
+
+250mm Railgun I
+250mm Railgun I
+250mm Railgun I
+Thorium Charge M, Qty: 114
+10MN Afterburner I
+Stasis Webifier I
+Regenerative Plating II
+

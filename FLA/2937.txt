@@ -1,0 +1,37 @@
+2007.03.17 03:39
+
+Victim: nreisan
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Destroyed: Drake
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Wodanonline
+Security: 0.0
+Alliance: YouWhat
+Corp: Pringles Inc.
+Ship: Pilgrim
+Weapon: Infiltrator II
+
+Name: Evod (laid the final blow)
+Security: 5.0
+Alliance: YouWhat
+Corp: Pringles Inc.
+Ship: Rapier
+Weapon: 720mm Howitzer Artillery II
+
+
+Destroyed items:
+
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Large F-S9 Regolith Shield Induction
+Large F-S9 Regolith Shield Induction
+Shield Power Relay I
+Power Diagnostic System I
+

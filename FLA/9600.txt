@@ -1,0 +1,49 @@
+2007.05.20 03:25
+
+Victim: Ophea
+Alliance: Freelancer Alliance
+Corp: The Collective of Ascended Beings
+Destroyed: Drake
+System: Saranen
+Security: 0.1
+
+Involved parties:
+
+Name: DAGWADER2
+Security: -1.4
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Sleipnir
+Weapon: Sleipnir
+
+Name: Otti (laid the final blow)
+Security: 0.4
+Alliance: None
+Corp: Devil's Work Inc.
+Ship: Megathron
+Weapon: Neutron Blaster Cannon II
+
+Name: Masterminder
+Security: -0.6
+Alliance: None
+Corp: Devil's Work Inc.
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: Guristas Annihilator / Guristas
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 51
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+Shield Power Relay II
+Shield Power Relay II
+Shield Power Relay II
+Shield Power Relay II
+Widowmaker Heavy Missile, Qty: 4130 (Cargo)
+Hobgoblin II, Qty: 2 (Drone Bay)
+

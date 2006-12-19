@@ -1,0 +1,31 @@
+2007.03.20 20:29
+
+Victim: Andraxx
+Alliance: YouWhat
+Corp: SteelVipers
+Destroyed: Condor
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: mrrabit
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Tempest
+Weapon: 1400mm Carbine Howitzer I
+
+Name: Bobby Atlas (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Hyperion
+Weapon: Hobgoblin II
+
+
+Destroyed items:
+
+Cynosural Field Generator I
+Nanofiber Internal Structure I
+

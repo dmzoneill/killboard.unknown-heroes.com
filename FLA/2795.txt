@@ -1,0 +1,29 @@
+2007.03.08 09:43
+
+Victim: truefranco
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Destroyed: Flycatcher
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Amok'Trueborn' Pryde (laid the final blow)
+Security: -1.6
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Vagabond
+Weapon: Dual 180mm AutoCannon II
+
+
+Destroyed items:
+
+Spike S, Qty: 200
+Bloodclaw Light Missile, Qty: 176
+Upgraded 'Limos' Standard Missile Bay I
+Eutectic I Capacitor Charge Array
+1MN MicroWarpdrive II
+Type-D Altered SS Inertial Stabilizers
+Bloodclaw Light Missile, Qty: 1191 (Cargo)
+

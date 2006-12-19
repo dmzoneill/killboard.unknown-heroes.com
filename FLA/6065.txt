@@ -1,0 +1,129 @@
+2006.11.06 21:36
+
+Victim: doormatt
+Alliance: YouWhat
+Corp: Artificial Horizons
+Destroyed: Ares
+System: X-7OMU
+Security: 0.0
+
+Involved parties:
+
+Name: Preying Mantis
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Harpy
+Weapon: Harpy
+
+Name: Solarienne
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: LC Sulla (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Cerberus
+Weapon: Scourge Heavy Missile
+
+Name: kone on
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Sabre
+Weapon: 150mm Light AutoCannon II
+
+Name: Dog Cancer
+Security: 1.4
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Crow
+Weapon: Sabretooth Light Missile
+
+Name: Scorpio63
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Vengeance
+Weapon: Medium Pulse Laser II
+
+Name: Hosanna
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: Formosus Funus
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Jaguar
+Weapon: Stasis Webifier I
+
+Name: LizzyD
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Ishkur
+Weapon: 150mm Railgun II
+
+Name: Wousr
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: movy
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Ares
+Weapon: 125mm 'Scout' I Accelerator Cannon
+
+Name: Yseult Atreus
+Security: 1.5
+Alliance: Freelancer Alliance
+Corp: CriTech
+Ship: Huginn
+Weapon: True Sansha Stasis Webifier
+
+Name: TiMeZeRo225
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: J.I.T. Enterprises
+Ship: Raven
+Weapon: XT-9000 Cruise Launcher
+
+Name: Elfaen Ethenwe
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Rook
+Weapon: Heavy Missile Launcher II
+
+Name: DarkJester
+Security: 0.8
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Tempest
+Weapon: Heavy Missile Launcher I
+
+
+Destroyed items:
+
+75mm Gatling Rail II
+Spike S, Qty: 200
+Flameburst Light Missile, Qty: 88
+Upgraded 'Limos' Standard Missile Bay I
+1MN MicroWarpdrive I
+Fleeting Warp Scrambler I
+Ballistic Control System I
+Spike S, Qty: 1390 (Cargo)
+Flameburst Light Missile, Qty: 469 (Cargo)
+

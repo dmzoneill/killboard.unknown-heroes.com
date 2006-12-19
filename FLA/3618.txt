@@ -1,0 +1,26 @@
+2007.03.27 22:38
+
+Victim: Ziberious
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Destroyed: Capsule
+System: Z-Y7R7
+Security: 0.0
+
+Involved parties:
+
+Name: Magnelien (laid the final blow)
+Security: 4.3
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: istasi
+Security: 0.3
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+

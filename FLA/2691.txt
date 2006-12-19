@@ -1,0 +1,70 @@
+2007.03.03 03:24
+
+Victim: dastommy79
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Destroyed: Thorax
+System: PXF-RF
+Security: 0.0
+
+Involved parties:
+
+Name: ikarsa
+Security: 5.0
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Myrmidon
+Weapon: Wasp I
+
+Name: Tarhess (laid the final blow)
+Security: -4.0
+Alliance: Aftermath Alliance
+Corp: Master Miners
+Ship: Enyo
+Weapon: Light Neutron Blaster II
+
+Name: Selnix
+Security: 5.0
+Alliance: Aftermath Alliance
+Corp: Master Miners
+Ship: Ferox
+Weapon: Hornet II
+
+Name: Corbin Thoth
+Security: 5.0
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Thanatos
+Weapon: Thanatos
+
+Name: Dominixa
+Security: 5.0
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Rapier
+Weapon: Hobgoblin I
+
+Name: Perfidious Ichabod
+Security: 5.1
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Scorpion
+Weapon: Cruise Missile Launcher I
+
+Name: Hauth
+Security: 5.2
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Pilgrim
+Weapon: Balmer Series Targeting Inhibitor I
+
+
+Destroyed items:
+
+Heavy Ion Blaster I
+Heavy Ion Blaster I
+Antimatter Charge M, Qty: 284
+Balmer Series Targeting Inhibitor I
+1600mm Reinforced Crystalline Carbonide Plates I
+Mark I Generator Refitting: Reaction Control
+

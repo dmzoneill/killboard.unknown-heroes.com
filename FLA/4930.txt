@@ -1,0 +1,54 @@
+2007.04.20 03:07
+
+Victim: velusip
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Destroyed: Capsule
+System: F7C-H0
+Security: 0.0
+
+Involved parties:
+
+Name: Dog Solitude (laid the final blow)
+Security: 0.0
+Alliance: FATAL Alliance
+Corp: Equilibrium LLC
+Ship: Harbinger
+Weapon: Heavy Pulse Laser II
+
+Name: Orryc
+Security: -0.6
+Alliance: FATAL Alliance
+Corp: Equilibrium LLC
+Ship: Thorax
+Weapon: Heavy Ion Blaster II
+
+Name: CENGIZHAN
+Security: 2.8
+Alliance: FATAL Alliance
+Corp: Equilibrium LLC
+Ship: Malediction
+Weapon: Piranha Light Missile
+
+Name: Chezaka
+Security: 2.2
+Alliance: FATAL Alliance
+Corp: Equilibrium LLC
+Ship: Arazu
+Weapon: Warp Disruptor II
+
+Name: Lord Regnier
+Security: 0.9
+Alliance: FATAL Alliance
+Corp: FATAL REVELATIONS
+Ship: Ares
+Weapon: Ares
+
+Name: Kelishnikov
+Security: -3.5
+Alliance: FATAL Alliance
+Corp: Equilibrium LLC
+Ship: Flycatcher
+Weapon: J5 Prototype Warp Inhibitor I
+
+

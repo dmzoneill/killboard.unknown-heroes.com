@@ -1,0 +1,67 @@
+2007.02.05 19:53
+
+Victim: Cockroach
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Vengeance
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Drift Spec (laid the final blow)
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Muninn
+Weapon: 720mm Howitzer Artillery II
+
+Name: Alpha Prime
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Taranis
+Weapon: Taranis
+
+Name: Sexual Chocolate
+Security: 2.5
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Muninn
+Weapon: 720mm Howitzer Artillery II
+
+Name: violator2k5
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+Name: LordPhoenix
+Security: 2.2
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Huginn
+Weapon: Piranha Light Missile
+
+
+Destroyed items:
+
+Medium Beam Laser II
+Medium Beam Laser II
+Xray S
+Xray S
+Piranha Light Missile, Qty: 39
+1MN MicroWarpdrive I
+Small 'Accommodation' Vestment Reconstructer I
+Micro Auxiliary Power Core I
+Local Power Plant Manager: Capacity Power Relay I
+Standard S, Qty: 5 (Cargo)
+Microwave S, Qty: 3 (Cargo)
+Multifrequency S, Qty: 2 (Cargo)
+Gamma S, Qty: 3 (Cargo)
+Aurora S, Qty: 3 (Cargo)
+Gleam S (Cargo)
+Piranha Light Missile, Qty: 96 (Cargo)
+Bloodclaw Light Missile, Qty: 276 (Cargo)
+

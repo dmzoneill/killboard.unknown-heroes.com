@@ -1,0 +1,35 @@
+2007.01.10 17:58
+
+Victim: Parthose
+Alliance: None
+Corp: Robotics Development
+Destroyed: Moa
+System: Hasmijaala
+Security: 0.3
+
+Involved parties:
+
+Name: Sorlac Aurora (laid the final blow)
+Security: 4.1
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Caracal
+Weapon: Terror Assault Missile
+
+
+Destroyed items:
+
+Salvager I, Qty: 72
+650mm Medium Carbine Howitzer I
+Sabretooth Light Missile, Qty: 59
+'Arbalest' Assault Missile Launcher
+Medium Shield Booster II
+Heat Dissipation Amplifier I
+Mark I Generator Refitting: Diagnostic System
+Mark I Generator Refitting: Diagnostic System
+Type-D Power Core Modification: Capacitor Power Relay
+Flameburst Light Missile, Qty: 43 (Cargo)
+Bloodclaw Light Missile, Qty: 200 (Cargo)
+Sabretooth Light Missile, Qty: 42 (Cargo)
+Scorched Telemetry Processor (Cargo)
+

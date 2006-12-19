@@ -1,0 +1,37 @@
+2007.01.15 19:25
+
+Victim: Apoccolipse
+Alliance: Freelancer Alliance
+Corp: Feel Good Inc.
+Destroyed: Executioner
+System: A4L-A2
+Security: 0.0
+
+Involved parties:
+
+Name: whisk (laid the final blow)
+Security: -0.2
+Alliance: None
+Corp: 0utbreak
+Ship: Vagabond
+Weapon: Dual 180mm AutoCannon II
+
+Name: TheAvatar
+Security: -0.4
+Alliance: None
+Corp: 0utbreak
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Vorag
+Security: -0.7
+Alliance: None
+Corp: 0utbreak
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+
+Destroyed items:
+
+1MN MicroWarpdrive I
+

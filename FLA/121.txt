@@ -1,0 +1,34 @@
+2007.01.11 23:05
+
+Victim: Nova Z
+Alliance: None
+Corp: Agony Unleashed
+Destroyed: Rifter
+System: X-7OMU
+Security: 0.0
+
+Involved parties:
+
+Name: Solarienne (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+Name: Dr Andy
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Celestis
+Weapon: Celestis
+
+
+Destroyed items:
+
+Fusion S, Qty: 52
+Warp Scrambler I
+Tracking Disruptor I
+Co-Processor I
+Fusion S, Qty: 2000 (Cargo)
+

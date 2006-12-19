@@ -1,0 +1,27 @@
+2007.05.11 23:58
+
+Victim: VauXurne
+Alliance: Vigilance Infinitas
+Corp: CRICE Corporation
+Destroyed: Hawk
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: dastommy79 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Thorax
+Weapon: Hammerhead I
+
+
+Destroyed items:
+
+Standard Missile Launcher I
+1MN MicroWarpdrive II
+Invulnerability Field II
+Photon Scattering Field II
+Sabretooth Light Missile, Qty: 3910 (Cargo)
+

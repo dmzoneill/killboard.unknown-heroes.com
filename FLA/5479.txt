@@ -1,0 +1,27 @@
+2006.10.06 08:26
+
+Victim: Johshua Blake
+Alliance: None
+Corp: Stupid People Always Need Killing
+Destroyed: Iteron Mark IV
+System: Aunenen
+Security: 0.4
+
+Involved parties:
+
+Name: jacass66 (laid the final blow)
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Thanatos
+Weapon: Dragonfly
+
+
+Destroyed items:
+
+Prototype Cloaking Device I
+150mm 'Scout' I Accelerator Cannon, Qty: 2 (Cargo)
+Cynosural Field Generator I (Cargo)
+OE-5200 Rocket Launcher (Cargo)
+Expanded Cargohold I (Cargo)
+

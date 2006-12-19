@@ -1,0 +1,88 @@
+2006.11.27 22:57
+
+Victim: Lifeshift
+Alliance: Xelas Alliance
+Corp: 7th Space Cavalry
+Destroyed: Raven
+System: L-A5XP
+Security: 0.0
+
+Involved parties:
+
+Name: Hava StormBringerr
+Security: 1.8
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Malediction
+Weapon: Rocket Launcher II
+
+Name: jacass66
+Security: 2.7
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Enyo
+Weapon: Enyo
+
+Name: Paltar
+Security: 0.6
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Taranis
+Weapon: Taranis
+
+Name: Tenk
+Security: 2.6
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Kestrel
+Weapon: Foxfire Rocket
+
+Name: Kyoshisan
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Taranis
+Weapon: Hobgoblin II
+
+Name: noba
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Rifter
+Weapon: Rifter
+
+Name: Rangercameron2 (laid the final blow)
+Security: 2.3
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Ares
+Weapon: Foxfire Rocket
+
+Name: Velithe
+Security: 2.3
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Buzzard
+Weapon: Piranha Light Missile
+
+
+Destroyed items:
+
+Heavy Diminishing Power System Drain I
+Juggernaut Torpedo, Qty: 44
+'Arbalest' Siege Missile Launcher
+'Arbalest' Siege Missile Launcher
+'Arbalest' Siege Missile Launcher
+Small Tractor Beam I
+Eutectic I Capacitor Charge Array
+Magnetic Scattering Amplifier II
+Ballistic Control System I
+Small Armor Repairer I, Qty: 5 (Cargo)
+Small Hull Repairer I, Qty: 6 (Cargo)
+Inferno Torpedo, Qty: 150 (Cargo)
+Juggernaut Torpedo, Qty: 432 (Cargo)
+Mjolnir Torpedo, Qty: 150 (Cargo)
+Vespa I, Qty: 15 (Cargo)
+Kinetic Deflection Amplifier II (Cargo)
+Hornet I (Drone Bay)
+

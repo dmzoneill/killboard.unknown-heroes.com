@@ -1,0 +1,31 @@
+2006.10.02 19:02
+
+Victim: Piligrim 3
+Alliance: R.I.S.K
+Corp: ReD eYe Inc.
+Destroyed: Enyo
+System: 2-6TGQ
+Security: 0.0
+
+Involved parties:
+
+Name: Guristas Nullifier / Guristas
+
+Name: W4RR10R (laid the final blow)
+Security: -1.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+
+Destroyed items:
+
+Light Ion Blaster II
+Antimatter Charge S, Qty: 467
+Linear Flux Stabilizer I
+Energized Magnetic Membrane I
+F-b10 Nominal Capacitor Regenerator (Cargo)
+Medium 'Regard' I Power Projector (Cargo)
+Dual 250mm Railgun I (Cargo)
+

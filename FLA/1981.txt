@@ -1,0 +1,29 @@
+2007.01.14 00:02
+
+Victim: DeSantis
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Manticore
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Crucifier (laid the final blow)
+Security: 0.3
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+
+Destroyed items:
+
+Wrath Cruise Missile, Qty: 52
+Warp Disruptor I
+Sensor Booster II
+Co-Processor II
+Micro Auxiliary Power Core I
+Wrath Cruise Missile, Qty: 531 (Cargo)
+Wrath Precision Cruise Missile, Qty: 216 (Cargo)
+

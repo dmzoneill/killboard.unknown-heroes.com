@@ -1,0 +1,54 @@
+2007.04.21 00:08
+
+Victim: Nina Kinuichi
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Destroyed: Capsule
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Konson
+Security: 3.7
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Vengeance
+Weapon: Bloodclaw Light Missile
+
+Name: Katchin
+Security: 2.1
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Muninn
+Weapon: 720mm Howitzer Artillery II
+
+Name: Vendetta X (laid the final blow)
+Security: 0.6
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Arazu
+Weapon: 250mm Railgun II
+
+Name: War Bear
+Security: 2.8
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Stiletto
+Weapon: 'Arbalest' Standard Missile Launcher
+
+Name: Kkmar Jheren
+Security: -1.5
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Malediction
+Weapon: Dual Light Pulse Laser II
+
+Name: Hughwasit
+Security: 1.2
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Harpy
+Weapon: Stasis Webifier I
+
+

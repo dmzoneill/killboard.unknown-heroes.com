@@ -1,0 +1,23 @@
+2006.09.30 06:01
+
+Victim: Wel'Hung
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Destroyed: Retriever
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Noobjuice (laid the final blow)
+Security: -1.0
+Alliance: None
+Corp: Omniscient Order
+Ship: Claw
+Weapon: 150mm Light AutoCannon II
+
+
+Destroyed items:
+
+Amarr Shuttle (Cargo)
+

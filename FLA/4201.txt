@@ -1,0 +1,32 @@
+2007.04.04 03:51
+
+Victim: FlyGuy
+Alliance: Freelancer Alliance
+Corp: ACCORD Industries
+Destroyed: Mackinaw
+System: GY5-26
+Security: 0.0
+
+Involved parties:
+
+Name: Crovan (laid the final blow)
+Security: 2.8
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Taranis
+Weapon: 125mm Railgun II
+
+Name: Rahzorus
+Security: 0.9
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Crow
+Weapon: Bloodclaw Precision Light Missile
+
+
+Destroyed items:
+
+Ice Harvester I
+Small Shield Booster I
+Ice Harvester Upgrade I
+

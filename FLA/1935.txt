@@ -1,0 +1,38 @@
+2007.01.11 20:41
+
+Victim: Korudon
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Caracal
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: DHB WildCat (laid the final blow)
+Security: -1.2
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+Name: heavensfire
+Security: 3.1
+Alliance: None
+Corp: United Allies
+Ship: Pilgrim
+Weapon: Valkyrie I
+
+
+Destroyed items:
+
+Widowmaker Heavy Missile, Qty: 60
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Large Shield Extender I
+Magnetic Scattering Amplifier I
+Target Painter I
+Ballistic Control System I
+Juggernaut Torpedo, Qty: 653 (Cargo)
+Widowmaker Heavy Missile, Qty: 237 (Cargo)
+

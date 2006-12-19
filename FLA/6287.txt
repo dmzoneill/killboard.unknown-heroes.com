@@ -1,0 +1,61 @@
+2006.11.11 19:03
+
+Victim: Sobek Ra
+Alliance: None
+Corp: Starlancers
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: LizzyD (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Ishkur
+Weapon: 150mm Railgun II
+
+Name: Jorr Meditir
+Security: 5.0
+Alliance: Mordus Angels
+Corp: Halfwits
+Ship: Lachesis
+Weapon: 250mm 'Scout' I Accelerator Cannon
+
+Name: H3llfire
+Security: 2.8
+Alliance: O X I D E
+Corp: W33D Corp.
+Ship: Moa
+Weapon: 250mm Carbide Railgun I
+
+Name: Darth Hound
+Security: 1.7
+Alliance: Schism.
+Corp: Fatalix Inc.
+Ship: Rifter
+Weapon: 280mm Prototype I Siege Cannon
+
+Name: al3x andra
+Security: 4.4
+Alliance: O X I D E
+Corp: W33D Corp.
+Ship: Breacher
+Weapon: 250mm Light Artillery Cannon I
+
+Name: dinj
+Security: 4.7
+Alliance: Freelancer Alliance
+Corp: London Transport
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+Name: Gangreen
+Security: 0.1
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Ishkur
+Weapon: 125mm Railgun I
+
+

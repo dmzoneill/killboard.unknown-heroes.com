@@ -1,0 +1,41 @@
+2007.04.29 02:22
+
+Victim: coldkill
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Destroyed: Thorax
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: DrunkenOne (laid the final blow)
+Security: -0.5
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Myrmidon
+Weapon: Ogre I
+
+Name: Fitz Farseer
+Security: 0.5
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Rupture
+Weapon: 220mm Vulcan AutoCannon I
+
+
+Destroyed items:
+
+Heavy Neutron Blaster II
+Heavy Neutron Blaster II
+Heavy Neutron Blaster II
+Void M, Qty: 150
+Y-T8 Overcharged Hydrocarbon I Microwarpdrive
+Warp Disruptor I
+Sensor Booster I
+Damage Control I
+Reactor Control Unit I
+Reactor Control Unit I
+Reactor Control Unit I
+Void M, Qty: 3959 (Cargo)
+

@@ -1,0 +1,95 @@
+2007.05.08 07:04
+
+Victim: Matt Ross
+Alliance: Vigilance Infinitas
+Corp: The Phoenix Rising
+Destroyed: Drake
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: CrowDeath
+Security: 2.2
+Alliance: 3asy Company
+Corp: The Crow Inc.
+Ship: Raven
+Weapon: Infiltrator I
+
+Name: WraithFire (laid the final blow)
+Security: 2.4
+Alliance: Insane Asylum
+Corp: The Sons of Mars
+Ship: Drake
+Weapon: Widowmaker Heavy Missile
+
+Name: ClogMan
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Stabber
+Weapon: Stabber
+
+Name: Blipangel
+Security: 2.2
+Alliance: 3asy Company
+Corp: Otter Corp
+Ship: Dominix
+Weapon: Wasp I
+
+Name: Urgewyrm
+Security: 0.2
+Alliance: 3asy Company
+Corp: Otter Corp
+Ship: Thorax
+Weapon: Hammerhead I
+
+Name: Feke
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Thorax
+Weapon: Hammerhead I
+
+Name: Avenged37
+Security: 1.5
+Alliance: Insane Asylum
+Corp: The Sons of Mars
+Ship: Drake
+Weapon: Widowmaker Heavy Missile
+
+Name: Kvarium Ki
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Stabber
+Weapon: 220mm Vulcan AutoCannon I
+
+Name: ROMOAS
+Security: 1.3
+Alliance: 3asy Company
+Corp: Vindicated Exiles
+Ship: Megathron
+Weapon: Modal Mega Ion Particle Accelerator I
+
+Name: Mufeater
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Taranis
+Weapon: Hornet II
+
+Name: Aridante Lemure
+Security: 1.2
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Thrasher
+Weapon: Thrasher
+
+Name: A Fart
+Security: 3.8
+Alliance: 3asy Company
+Corp: The Crow Inc.
+Ship: Raven
+Weapon: Siege Missile Launcher I
+

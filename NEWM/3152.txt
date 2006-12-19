@@ -1,0 +1,33 @@
+2007.03.25 18:48
+
+Victim: Feng Schui
+Alliance: Phobos Alliance
+Corp: The Ninja Coalition
+Destroyed: Capsule
+System: F7C-H0
+Security: 0.0
+
+Involved parties:
+
+Name: Burn Lump (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: Malicel
+Security: 2.7
+Alliance: The Sundering
+Corp: ironwood ink
+Ship: Enyo
+Weapon: 150mm Compressed Coil Gun I
+
+Name: Specalistin
+Security: -0.9
+Alliance: Guardian Federation
+Corp: KULT Production
+Ship: Flycatcher
+Weapon: X5 Prototype I Engine Enervator
+
+

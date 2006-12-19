@@ -1,0 +1,50 @@
+2007.04.23 18:06
+
+Victim: other mickey
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Destroyed: Thrasher
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: sgtdark (laid the final blow)
+Security: 5.0
+Alliance: Storm Armada
+Corp: stone grave haulage
+Ship: Chimera
+Weapon: Einherji
+
+Name: Georgenator
+Security: -0.4
+Alliance: Lotka Volterra
+Corp: CRICE Corporation
+Ship: Kestrel
+Weapon: Standard Missile Launcher I
+
+Name: Screamer
+Security: 0.8
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Chimera
+Weapon: Einherji
+
+Name: Aut Nihil
+Security: 0.1
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Kestrel
+Weapon: Standard Missile Launcher I
+
+
+Destroyed items:
+
+250mm Light Artillery Cannon I
+250mm Light Artillery Cannon I
+250mm Light Artillery Cannon I
+Phased Plasma S, Qty: 101
+1MN MicroWarpdrive I
+Gyrostabilizer II
+Overdrive Injector System I
+

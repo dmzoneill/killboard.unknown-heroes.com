@@ -1,0 +1,32 @@
+2006.09.23 04:49
+
+Victim: cceiber
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Destroyed: Blackbird
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Jovius Marginus (laid the final blow)
+Security: -0.4
+Alliance: Firmus Ixion
+Corp: Black Avatar
+Ship: Vagabond
+Weapon: Dual 180mm AutoCannon II
+
+
+Destroyed items:
+
+Havoc Heavy Missile, Qty: 24
+Heavy Missile Launcher I
+Stasis Webifier I
+'Anointed' I EM Ward Reinforcement
+Compulsive Multispectral ECM I
+Warp Core Stabilizer I
+V-M15 Braced Multispectral Shield Matrix (Cargo)
+Havoc Heavy Missile, Qty: 1471 (Cargo)
+Widowmaker Heavy Missile, Qty: 32 (Cargo)
+'Malkuth' Heavy Missile Launcher I, Qty: 2 (Cargo)
+

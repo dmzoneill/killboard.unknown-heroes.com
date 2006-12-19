@@ -1,0 +1,40 @@
+2007.05.02 03:46
+
+Victim: JadeSihaya
+Alliance: Storm Armada
+Corp: stone grave haulage
+Destroyed: Capsule
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: FlobbMkII
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Eris
+Weapon: Eris
+
+Name: Antigen Po
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Taranis
+Weapon: Taranis
+
+Name: Marie Veedor (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Caracal
+Weapon: Piranha Light Missile
+
+Name: Kayron Brennan
+Security: 0.6
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Caracal
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+

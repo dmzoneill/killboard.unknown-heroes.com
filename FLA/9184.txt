@@ -1,0 +1,29 @@
+2007.05.04 05:15
+
+Victim: DarkAlpha
+Alliance: YouWhat
+Corp: Pringles Inc.
+Destroyed: Manticore
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Kvarium Ki (laid the final blow)
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Rapier
+Weapon: 720mm Howitzer Artillery II
+
+
+Destroyed items:
+
+Improved Cloaking Device II
+Wrath Cruise Missile, Qty: 42
+XT-9000 Cruise Launcher
+XT-9000 Cruise Launcher
+J5b Phased Prototype Warp Inhibitor I
+Local Hull Conversion Overdrive Injector I
+Wrath Cruise Missile, Qty: 1965 (Cargo)
+

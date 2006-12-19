@@ -1,0 +1,29 @@
+2007.04.07 16:44
+
+Victim: SumDum
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Griffin
+System: C-H9X7
+Security: 0.0
+
+Involved parties:
+
+Name: Hellspawn666 (laid the final blow)
+Security: 2.1
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Astarte
+Weapon: Heavy Neutron Blaster II
+
+
+Destroyed items:
+
+Sabretooth Light Missile, Qty: 42
+'Malkuth' Standard Missile Launcher I
+'Malkuth' Standard Missile Launcher I
+Initiated Multispectral ECM I
+ECM - Spatial Destabilizer I
+ECM - White Noise Generator I
+Acolyte I (Drone Bay)
+

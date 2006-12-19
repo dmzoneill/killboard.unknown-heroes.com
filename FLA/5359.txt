@@ -1,0 +1,25 @@
+2007.04.26 23:57
+
+Victim: Rhaall
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Crucifier
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Bic Drax (laid the final blow)
+Security: 3.6
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Myrmidon
+Weapon: Ogre II
+
+
+Destroyed items:
+
+Small Nosferatu I
+1MN MicroWarpdrive I
+Capacitor Power Relay I
+

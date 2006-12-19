@@ -1,0 +1,47 @@
+2006.11.13 14:07
+
+Victim: Ramus V
+Alliance: None
+Corp: LDK
+Destroyed: Caldari Shuttle
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: LiBraga
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Eagle
+Weapon: 250mm Prototype I Gauss Gun
+
+Name: W4RR10R (laid the final blow)
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: LizzyD
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Ishkur
+Weapon: Compulsive Multispectral ECM I
+
+Name: Scorpio63
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Vengeance
+Weapon: Medium Pulse Laser II
+
+Name: AleXinO Gardon
+Security: 5.0
+Alliance: O X I D E
+Corp: W33D Corp.
+Ship: Caracal
+Weapon: Advanced 'Limos' Heavy Missile Bay I
+
+

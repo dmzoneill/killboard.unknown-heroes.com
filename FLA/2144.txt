@@ -1,0 +1,73 @@
+2007.01.24 23:09
+
+Victim: CENTUREAN
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Destroyed: Ferox
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Nephlite
+Security: 2.0
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Raven Navy Issue
+Weapon: Hammerhead II
+
+Name: Pramas (laid the final blow)
+Security: 4.4
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Sleipnir
+Weapon: 720mm Howitzer Artillery II
+
+Name: Millis
+Security: 1.7
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Deimos
+Weapon: Deimos
+
+Name: StarLite
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Sacrilege
+Weapon: Acolyte I
+
+Name: Miss Dominatrix
+Security: 2.1
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Valora
+Security: 2.3
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: whopper
+Security: 4.7
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Raven
+Weapon: Siege Missile Launcher II
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Widowmaker Heavy Missile, Qty: 66
+'Malkuth' Heavy Missile Launcher I
+Large F-S9 Regolith Shield Induction
+Large F-S9 Regolith Shield Induction
+Invulnerability Field I
+Invulnerability Field I
+Thunderbolt Heavy Missile, Qty: 500 (Cargo)
+Widowmaker Heavy Missile, Qty: 500 (Cargo)
+

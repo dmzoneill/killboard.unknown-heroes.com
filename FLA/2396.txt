@@ -1,0 +1,33 @@
+2007.02.09 21:44
+
+Victim: Sy Sperling
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Capsule
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Assassin 2
+Security: 5.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Crow
+Weapon: Bloodclaw Fury Light Missile
+
+Name: Anna Neura
+Security: -0.8
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Taranis
+Weapon: Taranis
+
+Name: xVx Skillgannon (laid the final blow)
+Security: 0.4
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+

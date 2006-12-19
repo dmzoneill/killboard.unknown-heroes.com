@@ -1,0 +1,60 @@
+2007.04.28 20:16
+
+Victim: Dark Carnage
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Flycatcher
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Indiano Arko (laid the final blow)
+Security: 0.6
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Hurricane
+Weapon: 720mm Howitzer Artillery I
+
+Name: Evil Bunnies
+Security: 0.3
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Blackbird
+Weapon: Scourge Heavy Missile
+
+Name: Reverend Revelator
+Security: 1.5
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Brutix
+Weapon: 200mm Compressed Coil Gun I
+
+Name: Fitz Farseer
+Security: 0.5
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Rupture
+Weapon: Heavy Missile Launcher I
+
+Name: privateer32
+Security: 5.1
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Thorax
+Weapon: 250mm 'Scout' I Accelerator Cannon
+
+
+Destroyed items:
+
+Standard Missile Launcher II
+Standard Missile Launcher II
+Standard Missile Launcher II
+Standard Missile Launcher II
+Standard Missile Launcher II
+Interdiction Sphere Launcher I
+Sabretooth Precision Light Missile, Qty: 230
+Stasis Webifier I
+Standard Missile Launcher II (Cargo)
+Sabretooth Precision Light Missile, Qty: 4500 (Cargo)
+

@@ -1,0 +1,175 @@
+2006.10.07 21:54
+
+Victim: Taes Valkiir
+Alliance: None
+Corp: Omerta Syndicate
+Destroyed: Crow
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Malkius
+Security: 1.7
+Alliance: Forces of Freedom
+Corp: JUDGE DREAD Inc.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: James Potkukelkka
+Security: 0.1
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Flycatcher
+Weapon: Bloodclaw Light Missile
+
+Name: Zheraf (laid the final blow)
+Security: 5.0
+Alliance: O X I D E
+Corp: Nuevos Horizontes
+Ship: Caracal
+Weapon: Bloodclaw Precision Light Missile
+
+Name: Kyoshisan
+Security: 0.4
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Enyo
+Weapon: 125mm Railgun II
+
+Name: Seventh Star
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Sabre
+Weapon: Sabre
+
+Name: dastommy79
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Caracal
+Weapon: Piranha Light Missile
+
+Name: TheBelgarion
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Caracal
+Weapon: Hydra F.O.F. Heavy Missile I
+
+Name: avelution
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Scorpion
+Weapon: Devastator Cruise Missile
+
+Name: Barukor
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Wolf
+Weapon: Wolf
+
+Name: Mystical Angel
+Security: 3.5
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Moa
+Weapon: 250mm Prototype I Gauss Gun
+
+Name: kone on
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: brian crainie
+Security: 2.4
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Megathron
+Weapon: 425mm Prototype I Gauss Gun
+
+Name: bidman
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Raven
+Weapon: XT-9000 Cruise Launcher
+
+Name: Valadeya uthanaras
+Security: 3.7
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Rustiko
+Security: 1.8
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Enyo
+Weapon: Enyo
+
+Name: Pias Polanus
+Security: 0.9
+Alliance: None
+Corp: Fatalix Inc.
+Ship: Thorax
+Weapon: Light Neutron Blaster II
+
+Name: Paltar
+Security: 0.4
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Megathron
+Weapon: Megathron
+
+Name: Laboratus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Vexor
+Weapon: Initiated Multispectral ECM I
+
+Name: Kalam Meckar
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Manticore
+Weapon: Peripheral Weapon Navigation Diameter
+
+Name: Josh Causto
+Security: -0.4
+Alliance: None
+Corp: Fatalix Inc.
+Ship: Thorax
+Weapon: Light Neutron Blaster II
+
+Name: Jin Steele
+Security: 3.2
+Alliance: None
+Corp: Fatalix Inc.
+Ship: Blackbird
+Weapon: Induced Multispectral ECM I
+
+Name: Jessica McDaniel
+Security: 1.3
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Scorpion
+Weapon: Cruise Missile Launcher I
+
+
+Destroyed items:
+
+75mm Prototype I Gauss Gun
+Uranium Charge S, Qty: 200
+Thorn Rocket, Qty: 80
+Rocket Launcher II
+1MN MicroWarpdrive II
+Micro Auxiliary Power Core I
+

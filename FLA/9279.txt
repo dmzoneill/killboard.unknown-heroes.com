@@ -1,0 +1,26 @@
+2007.05.06 02:26
+
+Victim: Sebi Fal
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Capsule
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: haz zard
+Security: -2.3
+Alliance: The Foundation.
+Corp: Cornerstone Unlimited
+Ship: Thorax
+Weapon: Thorax
+
+Name: Mufeater (laid the final blow)
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Nemesis
+Weapon: Paradise Cruise Missile
+
+

@@ -1,0 +1,35 @@
+2006.11.19 02:15
+
+Victim: ventura5
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Flycatcher
+System: Torrinos
+Security: 0.5
+
+Involved parties:
+
+Name: Elliott Manchild (laid the final blow)
+Security: -1.9
+Alliance: None
+Corp: omen.
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+
+Destroyed items:
+
+Standard Missile Launcher II
+Standard Missile Launcher II
+Standard Missile Launcher II
+Standard Missile Launcher II
+Warp Disrupt Probe
+Warp Disrupt Probe
+Warp Disrupt Probe
+Warp Disrupt Probe
+Warp Disrupt Probe
+Interdiction Sphere Launcher I
+Bloodclaw Precision Light Missile, Qty: 100
+Small C5-L Emergency Shield Overload I
+Warp Disrupt Probe, Qty: 20 (Cargo)
+

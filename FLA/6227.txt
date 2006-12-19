@@ -1,0 +1,40 @@
+2006.11.10 20:40
+
+Victim: kiss amamll
+Alliance: None
+Corp: School of Applied Knowledge
+Destroyed: Ibis
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: LiBraga
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Eagle
+Weapon: 250mm Prototype I Gauss Gun
+
+Name: bidman (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Ferox
+Weapon: 250mm Compressed Coil Gun I
+
+Name: Kristinne
+Security: 0.3
+Alliance: O X I D E
+Corp: W33D Corp.
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+Name: Elfaen Ethenwe
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+

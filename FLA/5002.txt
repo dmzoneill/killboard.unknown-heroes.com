@@ -1,0 +1,50 @@
+2007.04.21 00:53
+
+Victim: other mickey
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Destroyed: Vexor
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Savak (laid the final blow)
+Security: -0.2
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Apocalypse
+Weapon: Tachyon Afocal Maser I
+
+Name: Stradivarious
+Security: 3.8
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: HenDar XXIII
+Security: 0.2
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Punisher
+Weapon: Medium Pulse Laser I
+
+
+Destroyed items:
+
+Drone Link Augmentor I
+10MN MicroWarpdrive I
+Sensor Booster I
+Drone Navigation Computer I
+Radioisotope Explosive Hardener I
+Armor Thermic Hardener I
+Microcell Nanite Kinetic Hardener I
+Tobacco, Qty: 18 (Cargo)
+Tourists, Qty: 19 (Cargo)
+Acolyte I (Drone Bay)
+Valkyrie I (Drone Bay)
+Vespa I (Drone Bay)
+Hammerhead I (Drone Bay)
+Warrior I (Drone Bay)
+

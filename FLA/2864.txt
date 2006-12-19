@@ -1,0 +1,30 @@
+2007.03.13 04:28
+
+Victim: Amon Fire
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Destroyed: Executioner
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: kezz2411 (laid the final blow)
+Security: 5.3
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Crusader
+Weapon: Dual Light Beam Laser II
+
+Name: DeathGrip
+Security: 2.3
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Flycatcher
+Weapon: Rocket Launcher II
+
+
+Destroyed items:
+
+Small Nosferatu I
+

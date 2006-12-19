@@ -1,0 +1,47 @@
+2007.03.13 14:10
+
+Victim: VDV Bru37
+Alliance: YouWhat
+Corp: Beasts of Burden
+Destroyed: Amarr Shuttle
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Nukuquqa Hestase (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: Khelia
+Security: 0.5
+Alliance: Dusk and Dawn
+Corp: Stardust Heavy Industries
+Ship: Myrmidon
+Weapon: 250mm 'Scout' I Accelerator Cannon
+
+Name: silvrhawk
+Security: 4.8
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Crow
+Weapon: Fleeting Warp Scrambler I
+
+Name: SoF Reaperman
+Security: 4.4
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Blackbird
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+Name: Ezeikiel
+Security: 0.6
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Vengeance
+Weapon: Dual Light Pulse Laser II
+
+

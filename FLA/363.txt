@@ -1,0 +1,71 @@
+2007.01.28 18:08
+
+Victim: pajzi
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Destroyed: Claw
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Indigo Callypso (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Hawk
+Weapon: Bloodclaw Precision Light Missile
+
+Name: Lux0r
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Hawk
+Weapon: Low Frequency Sensor Suppressor I
+
+Name: Apoccolipse
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Feel Good Inc.
+Ship: Wolf
+Weapon: 280mm Howitzer Artillery II
+
+Name: Rick A
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Blackbird
+Weapon: Remote Sensor Dampener I
+
+Name: Zattron
+Security: 3.7
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Capsule
+Weapon: Thunderbolt Heavy Missile
+
+Name: Ramb3z
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery I
+
+Name: Eacham Graeme
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Capsule
+Weapon: ECM - Ion Field Projector II
+
+
+Destroyed items:
+
+200mm AutoCannon II
+Barrage S, Qty: 56
+1MN MicroWarpdrive II
+Small Armor Repairer II
+Nanofiber Internal Structure I
+Corpse (Cargo)
+Barrage S, Qty: 878 (Cargo)
+

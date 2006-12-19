@@ -1,0 +1,31 @@
+2006.10.14 16:34
+
+Victim: Lauren Gawain
+Alliance: None
+Corp: Center for Advanced Studies
+Destroyed: Velator
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Scorpio63 (laid the final blow)
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Vengeance
+Weapon: Medium Pulse Laser II
+
+Name: brian crainie
+Security: 2.3
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Megathron
+Weapon: Dread Guristas 350mm Railgun
+
+
+Destroyed items:
+
+Basic Miner
+Tritanium (Cargo)
+

@@ -1,0 +1,148 @@
+2006.12.12 20:10
+
+Victim: Quarantine
+Alliance: None
+Corp: 0utbreak
+Destroyed: Tempest
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: yagamurth
+Security: 2.8
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Rokh
+Weapon: 425mm Railgun I
+
+Name: WolfRavage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Dominix
+Weapon: 350mm Railgun I
+
+Name: Barqs
+Security: 1.1
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Capsule
+Weapon: Juggernaut Torpedo
+
+Name: Luna Nilaya
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Ferox
+Weapon: Ferox
+
+Name: Racle duMer
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Raven
+Weapon: Raven
+
+Name: CENTUREAN
+Security: 0.7
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Ferox
+Weapon: Scourge Heavy Missile
+
+Name: Kalibrana
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Thors Hammers
+Ship: Brutix
+Weapon: Hammerhead I
+
+Name: Burn Lump
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Ferox
+Weapon: Ferox
+
+Name: cathedrall
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Rokh
+Weapon: 250mm Prototype I Gauss Gun
+
+Name: brian crainie
+Security: 3.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Megathron
+Weapon: Megathron
+
+Name: pROMp (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Feel Good Inc.
+Ship: Celestis
+Weapon: Hobgoblin I
+
+Name: Sadine
+Security: 3.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Ferox
+Weapon: Ferox
+
+Name: other mickey
+Security: 0.8
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Brutix
+Weapon: Modal Ion Particle Accelerator I
+
+Name: lambert butler
+Security: -0.5
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Vexor
+Weapon: Vexor
+
+Name: Onyx Soulbane
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Elite frontier group
+Ship: Ferox
+Weapon: Focused Medium Beam Laser II
+
+Name: Gery Zon
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Veturi
+Ship: Lachesis
+Weapon: Low Frequency Sensor Suppressor I
+
+Name: Danielson1012
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Raven
+Weapon: Siege Missile Launcher II
+
+
+Destroyed items:
+
+1400mm Howitzer Artillery II
+1400mm Howitzer Artillery II
+1400mm Howitzer Artillery II
+Tremor L, Qty: 10
+Flameburst Light Missile, Qty: 160
+Assault Missile Launcher II
+Assault Missile Launcher II
+Tracking Computer II
+Gyrostabilizer II
+EMP L, Qty: 1622 (Cargo)
+Nuclear L, Qty: 300 (Cargo)
+Quake L, Qty: 988 (Cargo)
+Flameburst Light Missile, Qty: 340 (Cargo)
+Acolyte I, Qty: 2 (Drone Bay)
+

@@ -1,0 +1,153 @@
+2007.03.10 04:30
+
+Victim: Kelter Highfire
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Raven
+System: Z-Y7R7
+Security: 0.0
+
+Involved parties:
+
+Name: Hunter Vonnegut
+Security: 5.0
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: IamnobodyCL
+Security: 5.0
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Crusader
+Weapon: Crusader
+
+Name: Uthreignish
+Security: 5.5
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Wolf
+Weapon: Wolf
+
+Name: DeathGrip
+Security: 2.3
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Flycatcher
+Weapon: Foxfire Javelin Rocket
+
+Name: ShadowDemon
+Security: -1.4
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Hawk
+Weapon: Rocket Launcher II
+
+Name: shadow5150
+Security: 3.8
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Rapier
+Weapon: Valkyrie II
+
+Name: ZAX0236
+Security: 5.0
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Flycatcher
+Weapon: Sabretooth Precision Light Missile
+
+Name: Rif
+Security: 5.0
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Retribution
+Weapon: Retribution
+
+Name: Hansihandyr (laid the final blow)
+Security: 4.6
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+Name: kIM JONGELL
+Security: 4.8
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: kezz2411
+Security: 5.3
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Crusader
+Weapon: Crusader
+
+Name: kabayn
+Security: 5.0
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: MsMephistopheles
+Security: 2.2
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Ishkur
+Weapon: Warrior II
+
+Name: FireFox McProwler
+Security: 0.0
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Monticore D'Muertos
+Security: 5.0
+Alliance: Axiom Empire
+Corp: United Society Starfleet
+Ship: Raptor
+Weapon: Thorn Javelin Rocket
+
+Name: KILLOR
+Security: 4.3
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Taranis
+Weapon: Warrior II
+
+Name: xCERBERUS2
+Security: -0.8
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+Juggernaut Torpedo, Qty: 36
+'Arbalest' Siege Missile Launcher
+'Arbalest' Siege Missile Launcher
+'Arbalest' Siege Missile Launcher
+Invulnerability Field I
+Invulnerability Field I
+Prototype I Sensor Booster
+Ballistic Control System II
+Ballistic Control System II
+Ballistic Control System II
+Local Power Plant Manager: Diagnostic System I
+Local Power Plant Manager: Diagnostic System I
+Non-Inertial Ballistic Screen Augmentation I, Qty: 2 (Cargo)
+Invulnerability Field I (Cargo)
+Juggernaut Torpedo, Qty: 1797 (Cargo)
+Inferno Torpedo, Qty: 200 (Cargo)
+Prototype I Sensor Booster (Cargo)
+Kinetic Deflection Amplifier I (Cargo)
+Vespa I, Qty: 3 (Drone Bay)
+

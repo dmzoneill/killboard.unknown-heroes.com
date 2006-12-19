@@ -1,0 +1,33 @@
+2006.10.11 22:11
+
+Victim: Excaluber X
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Destroyed: Capsule
+System: Hatakani
+Security: 0.9
+
+Involved parties:
+
+Name: Harmon Illuminati (laid the final blow)
+Security: -0.2
+Alliance: None
+Corp: Privateers
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Sorted
+Security: -1.8
+Alliance: None
+Corp: Privateers
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: birty
+Security: -0.4
+Alliance: None
+Corp: Privateers
+Ship: Brutix
+Weapon: Brutix
+
+

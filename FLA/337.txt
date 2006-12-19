@@ -1,0 +1,136 @@
+2007.01.26 21:49
+
+Victim: Sophia Stormbringer
+Alliance: None
+Corp: Beagle Corp
+Destroyed: Crusader
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Esvi Adhorsen (laid the final blow)
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Drake
+Weapon: Havoc Heavy Missile
+
+Name: Hojo Norem
+Security: 3.2
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Ferox
+Weapon: Ferox
+
+Name: Praetorian Mardou
+Security: 4.5
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Hawk
+Weapon: Bloodclaw Light Missile
+
+Name: GrandMastaXP
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Moa
+Weapon: 250mm Carbide Railgun I
+
+Name: Minisoza
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Enyo
+Weapon: Hobgoblin II
+
+Name: other mickey
+Security: 1.6
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: mrrabit
+Security: 3.3
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Thrasher
+Weapon: Warp Disruptor I
+
+Name: Tnam
+Security: 0.8
+Alliance: None
+Corp: BGG
+Ship: Wolf
+Weapon: 200mm AutoCannon II
+
+Name: Thiet
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Kestrel
+Weapon: 'Malkuth' Rocket Launcher I
+
+Name: Swindy
+Security: 1.5
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Flycatcher
+Weapon: Stasis Webifier I
+
+Name: SniperMcBob
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Blackbird
+Weapon: ECM - Multispectral Jammer I
+
+Name: Sils wife
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Brutix
+Weapon: 200mm Railgun II
+
+Name: Night Seeker
+Security: 0.2
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Hound
+Weapon: XT-9000 Cruise Launcher
+
+Name: Illesa
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Wolf
+Weapon: Wolf
+
+Name: Freakdevil
+Security: 4.4
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Dominix
+Weapon: Remote Sensor Dampener I
+
+Name: Elgcaress
+Security: 3.5
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Celestis
+Weapon: Kapteyn Sensor Array Inhibitor I
+
+
+Destroyed items:
+
+Dual Light Pulse Laser II
+Multifrequency S
+Multifrequency S
+Multifrequency S
+1MN MicroWarpdrive I
+X-Large Shield Booster II (Cargo)
+Small 'Knave' I Energy Drain, Qty: 2 (Cargo)
+Dread Guristas Brass Tag (Cargo)
+Conflagration S, Qty: 3 (Cargo)
+

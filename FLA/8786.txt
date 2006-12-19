@@ -1,0 +1,31 @@
+2006.12.11 23:10
+
+Victim: sinkiss ka
+Alliance: Freelancer Alliance
+Corp: X.T.R
+Destroyed: Rifter
+System: Sobaseki
+Security: 0.8
+
+Involved parties:
+
+Name: Fjerkenstad (laid the final blow)
+Security: 1.0
+Alliance: None
+Corp: omen.
+Ship: Taranis
+Weapon: Light Neutron Blaster II
+
+Name: ziTza
+Security: 0.1
+Alliance: None
+Corp: omen.
+Ship: Wolf
+Weapon: Wolf
+
+
+Destroyed items:
+
+200mm AutoCannon II, Qty: 7 (Cargo)
+Small Artillery Specialization (Cargo)
+

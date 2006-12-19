@@ -1,0 +1,29 @@
+2006.11.25 21:38
+
+Victim: Sergio Ling
+Alliance: Maelstrom Alliance
+Corp: Standard Operations Building Services
+Destroyed: Raptor
+System: X-7OMU
+Security: 0.0
+
+Involved parties:
+
+Name: Solarienne (laid the final blow)
+Security: 4.8
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Thrasher
+Weapon: 280mm Howitzer Artillery I
+
+
+Destroyed items:
+
+Light Electron Blaster II
+Light Electron Blaster II
+Void S, Qty: 355
+Phalanx Rocket, Qty: 38
+'Arbalest' Rocket Launcher I
+'Arbalest' Rocket Launcher I
+Antimatter Charge S, Qty: 2000 (Cargo)
+

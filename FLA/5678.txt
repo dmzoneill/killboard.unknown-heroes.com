@@ -1,0 +1,93 @@
+2006.10.09 22:09
+
+Victim: Danno
+Alliance: None
+Corp: Privateers
+Destroyed: Harpy
+System: Torrinos
+Security: 0.5
+
+Involved parties:
+
+Name: TheBelgarion
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Caracal
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+Name: Cornhullio
+Security: 4.7
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Caracal
+Weapon: Widowmaker Heavy Missile
+
+Name: TasKu
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Thorax
+Weapon: Hammerhead I
+
+Name: DarkJester (laid the final blow)
+Security: 0.7
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery I
+
+Name: Valadeya uthanaras
+Security: 3.7
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Lizzy Silver
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Drakin Korin
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Blackbird
+Weapon: Small 'Knave' I Energy Drain
+
+Name: Mocuker
+Security: 0.1
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Raven
+Weapon: XR-3200 Heavy Missile Bay
+
+Name: Lexxus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Unknown
+Weapon: ECM - Multispectral Jammer II
+
+Name: Jack Phox
+Security: 2.8
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Crow
+Weapon: 'Arbalest' Standard Missile Launcher
+
+
+Destroyed items:
+
+150mm Railgun II
+Spike S
+Thorn Rocket, Qty: 13
+'Malkuth' Rocket Launcher I
+Small C5-L Emergency Shield Overload I
+1MN Afterburner II
+Warp Disruptor I (Cargo)
+'Arbalest' Rocket Launcher I (Cargo)
+

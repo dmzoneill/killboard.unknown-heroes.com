@@ -1,0 +1,40 @@
+2007.01.31 07:51
+
+Victim: Craxors
+Alliance: None
+Corp: Tarnak inc.
+Destroyed: Capsule
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Alezra
+Security: 1.6
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Myrmidon
+Weapon: Warrior I
+
+Name: Teck7 (laid the final blow)
+Security: 0.8
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ishtar
+Weapon: Warrior II
+
+Name: MrMaggot
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Hawk
+Weapon: Flameburst Light Missile
+
+Name: Feke
+Security: 4.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Moa
+Weapon: 250mm 'Scout' I Accelerator Cannon
+
+

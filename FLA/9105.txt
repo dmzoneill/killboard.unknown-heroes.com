@@ -1,0 +1,108 @@
+2006.12.30 15:46
+
+Victim: PHIONIX DARKANGEL
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Scorpion
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: turumbor
+Security: -1.7
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Hyperion
+Weapon: Hyperion
+
+Name: Fjerkenstad
+Security: 1.1
+Alliance: None
+Corp: omen.
+Ship: Megathron
+Weapon: Megathron
+
+Name: WarGod
+Security: 1.2
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: xlop
+Security: -1.1
+Alliance: None
+Corp: omen.
+Ship: Typhoon
+Weapon: Paradise Cruise Missile
+
+Name: ILikeTastyPie
+Security: 3.8
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Malafor
+Security: -1.3
+Alliance: None
+Corp: omen.
+Ship: Wolf
+Weapon: 280mm Howitzer Artillery II
+
+Name: taylor04
+Security: -0.5
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Curse
+Weapon: Warrior II
+
+Name: Anna Neura
+Security: -0.3
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Megathron
+Weapon: Hobgoblin II
+
+Name: boo3916 (laid the final blow)
+Security: 4.4
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Dominix
+Weapon: Berserker II
+
+Name: Elliott Manchild
+Security: -1.9
+Alliance: None
+Corp: omen.
+Ship: Eos
+Weapon: Berserker II
+
+Name: SoulScourge
+Security: 1.3
+Alliance: None
+Corp: omen.
+Ship: Tempest
+Weapon: Stasis Webifier I
+
+
+Destroyed items:
+
+425mm Carbide Railgun I
+Wrath Cruise Missile, Qty: 17
+Cruise Missile Launcher I
+Large Clarity Ward Booster I
+Fixed Parallel Link-Capacitor I
+Fixed Parallel Link-Capacitor I
+Compulsive Multispectral ECM I
+Induced Multispectral ECM I
+Gravimetric Backup Array I
+Signal Distortion Amplifier I
+Signal Distortion Amplifier I
+Signal Distortion Amplifier I
+Signal Distortion Amplifier I
+Signal Distortion Amplifier I
+Phoenix F.O.F. Cruise Missile I, Qty: 200 (Cargo)
+Vespa II (Drone Bay)
+

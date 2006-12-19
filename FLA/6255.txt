@@ -1,0 +1,40 @@
+2006.11.11 09:50
+
+Victim: Serinia Darkmoor
+Alliance: None
+Corp: Global Minning Corp
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: LizzyD
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: Drin
+Security: 0.1
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Wolf
+Weapon: Standard Missile Launcher I
+
+Name: Micheal Ross (laid the final blow)
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Flycatcher
+Weapon: Bloodclaw Light Missile
+
+Name: Almagar Phog
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Blackbird
+Weapon: Initiated Multispectral ECM I
+
+

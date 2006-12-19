@@ -1,0 +1,33 @@
+2007.04.28 21:12
+
+Victim: Antigen Po
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Destroyed: Capsule
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Indiano Arko (laid the final blow)
+Security: 0.6
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Hurricane
+Weapon: 650mm Medium Prototype I Siege Cannon
+
+Name: Erik Morkai
+Security: -1.2
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Crusader
+Weapon: Crusader
+
+Name: Asasham
+Security: 5.0
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Incursus
+Weapon: Incursus
+
+

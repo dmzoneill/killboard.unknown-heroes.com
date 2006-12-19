@@ -1,0 +1,49 @@
+2007.03.22 19:12
+
+Victim: Chonker
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Ishkur
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Yushii (laid the final blow)
+Security: -0.3
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Vagabond
+Weapon: Hobgoblin II
+
+Name: Snuggles theTerrible
+Security: 5.0
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Vulture
+Weapon: 'Arbalest' Assault Missile Launcher
+
+Name: WarGod
+Security: 1.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Curse
+Weapon: Valkyrie II
+
+Name: XxAngelxX
+Security: -1.8
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Curse
+Weapon: Medium Nosferatu II
+
+
+Destroyed items:
+
+Small Nosferatu I
+Small Nosferatu I
+1MN Afterburner II
+Patterned Stasis Web I
+Small Armor Repairer II
+Hornet II (Drone Bay)
+

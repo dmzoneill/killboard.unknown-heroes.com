@@ -1,0 +1,38 @@
+2006.11.18 14:53
+
+Victim: john taylor2
+Alliance: None
+Corp: Venom.
+Destroyed: Huginn
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: zoturi (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Vagabond
+Weapon: Warrior II
+
+Name: AleXinO Gardon
+Security: 5.0
+Alliance: O X I D E
+Corp: W33D Corp.
+Ship: Capsule
+Weapon: Target Painter I
+
+
+Destroyed items:
+
+650mm Artillery Cannon II
+EMP M, Qty: 34
+Havoc Heavy Missile, Qty: 10
+Heavy Missile Launcher I
+Large Shield Extender II
+Ballistic Deflection Field I
+Thorium Charge S, Qty: 190 (Cargo)
+Type-D Attenuation Signal Augmentation (Cargo)
+Havoc Heavy Missile, Qty: 2695 (Cargo)
+

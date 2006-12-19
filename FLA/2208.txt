@@ -1,0 +1,41 @@
+2007.01.28 18:06
+
+Victim: Kremnican
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Kestrel
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Zeram (laid the final blow)
+Security: 3.3
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Jaguar
+Weapon: 280mm Howitzer Artillery II
+
+Name: Ka Dargo
+Security: 4.4
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: pajzi
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Claw
+Weapon: J5 Prototype Warp Inhibitor I
+
+
+Destroyed items:
+
+Thorn Rocket, Qty: 42
+Rocket Launcher I
+Rocket Launcher I
+J5 Prototype Warp Inhibitor I
+'Langour' Drive Disruptor I
+

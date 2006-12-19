@@ -1,0 +1,84 @@
+2007.01.28 18:08
+
+Victim: Rick A
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Destroyed: Blackbird
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: EL TITAN (laid the final blow)
+Security: 1.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Vagabond
+Weapon: Dual 180mm AutoCannon II
+
+Name: Misticue
+Security: -1.5
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Puls4r
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Jaguar
+Weapon: BZ-5 Neutralizing Spatial Destabilizer ECM
+
+Name: pajzi
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Claw
+Weapon: Claw
+
+Name: Repiv
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: BlueVelvet
+Security: 4.3
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Taranis
+Weapon: Taranis
+
+Name: RagedyMan
+Security: 1.9
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Nighthawk
+Weapon: Heavy Missile Launcher II
+
+Name: Farjung
+Security: -0.2
+Alliance: Band of Brothers
+Corp: TAOSP
+Ship: Dominix
+Weapon: Heavy Diminishing Power System Drain I
+
+
+Destroyed items:
+
+Medium Graviton Smartbomb I
+Thunderbolt Heavy Missile, Qty: 12
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+ECM - Multispectral Jammer I
+Induced Multispectral ECM I
+Initiated Multispectral ECM I
+Remote Sensor Dampener I
+Sensor Booster I
+Signal Distortion Amplifier I
+Scourge Heavy Missile, Qty: 1872 (Cargo)
+Thunderbolt Heavy Missile, Qty: 727 (Cargo)
+Havoc Heavy Missile, Qty: 226 (Cargo)
+

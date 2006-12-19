@@ -1,0 +1,19 @@
+2007.04.09 15:12
+
+Victim: ConXtionS
+Alliance: Freelancer Alliance
+Corp: The Night Crew
+Destroyed: Capsule
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: FA Avenger (laid the final blow)
+Security: 2.9
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+

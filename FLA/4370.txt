@@ -1,0 +1,74 @@
+2007.04.09 00:24
+
+Victim: tzar1024
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Destroyed: Cyclone
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Redginald
+Security: 4.5
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Hurricane
+Weapon: Warrior II
+
+Name: END3R 101 (laid the final blow)
+Security: -0.7
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Chimera
+Weapon: Dragonfly
+
+Name: Vily
+Security: 0.3
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Vengeance
+Weapon: Vengeance
+
+Name: Karille
+Security: -1.6
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Taranis
+Weapon: Hobgoblin I
+
+Name: Robet Katrix
+Security: 2.1
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Chimera
+Weapon: Dragonfly
+
+Name: Ehxo
+Security: 4.9
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+
+Destroyed items:
+
+220mm Vulcan AutoCannon I
+220mm Vulcan AutoCannon I
+220mm Vulcan AutoCannon I
+Medium Nosferatu I
+Phased Plasma M, Qty: 265
+Widowmaker Heavy Missile, Qty: 93
+Advanced 'Limos' Heavy Missile Bay I
+Large Shield Booster I
+10MN Afterburner I
+Medium Capacitor Booster I
+Heat Dissipation Field I
+Gyrostabilizer I
+Small Inefficient Armor Repair Unit
+Power Diagnostic System I
+Phased Plasma M, Qty: 3357 (Cargo)
+Cap Booster 800, Qty: 4 (Cargo)
+Hammerhead I, Qty: 3 (Drone Bay)
+

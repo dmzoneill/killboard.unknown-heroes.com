@@ -1,0 +1,26 @@
+2006.10.16 22:46
+
+Victim: Excaluber X
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Destroyed: Capsule
+System: Torrinos
+Security: 0.5
+
+Involved parties:
+
+Name: Anominity (laid the final blow)
+Security: 5.0
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Crusader
+Weapon: Dual Light Pulse Laser II
+
+Name: ArchenTheGreat
+Security: -1.2
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Thorax
+Weapon: Thorax
+
+

@@ -1,0 +1,40 @@
+2007.03.08 05:11
+
+Victim: VDV Bru37
+Alliance: YouWhat
+Corp: Beasts of Burden
+Destroyed: Amarr Shuttle
+System: XZH-4X
+Security: 0.0
+
+Involved parties:
+
+Name: VoYvod
+Security: -1.3
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Coercer
+Weapon: Coercer
+
+Name: Alias11 (laid the final blow)
+Security: -0.6
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Stabber
+Weapon: 220mm Vulcan AutoCannon I
+
+Name: Phelan Driscoll
+Security: 0.5
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Rifter
+Weapon: Rifter
+
+Name: Ikari Tanaka
+Security: 4.7
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Raptor
+Weapon: 'Limos' Rocket Launcher I
+
+

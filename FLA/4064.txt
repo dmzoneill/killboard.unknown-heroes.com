@@ -1,0 +1,32 @@
+2007.04.13 00:44
+
+Victim: Roland De'chain
+Alliance: None
+Corp: The Tet Corporation
+Destroyed: Rifter
+System: PF-346
+Security: 0.0
+
+Involved parties:
+
+Name: RayTruz (laid the final blow)
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+
+Destroyed items:
+
+125mm Gatling AutoCannon II
+Barrage S, Qty: 183
+Gremlin Rocket, Qty: 24
+Warp Scrambler I
+Gyrostabilizer II
+Small Armor Repairer II
+EMP S, Qty: 1500 (Cargo)
+Vespa I (Cargo)
+Conflagration S (Cargo)
+Inertia Stabilizers I (Cargo)
+

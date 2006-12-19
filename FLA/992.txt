@@ -1,0 +1,47 @@
+2007.03.02 18:38
+
+Victim: Jody Baker
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Destroyed: Kestrel
+System: J-RQMF
+Security: 0.0
+
+Involved parties:
+
+Name: sowo (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Drake
+Weapon: Havoc Heavy Missile
+
+Name: Kalico
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Typhoon
+Weapon: Havoc Heavy Missile
+
+Name: Aken Ator
+Security: 1.8
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Ferox
+Weapon: XR-3200 Heavy Missile Bay
+
+Name: Japanx
+Security: 3.3
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Scorpion
+Weapon: 'Hypnos' Multispectral ECM I
+
+
+Destroyed items:
+
+Cynosural Field Generator I
+Nanofiber Internal Structure I
+Nanofiber Internal Structure I
+Liquid Ozone, Qty: 762 (Cargo)
+

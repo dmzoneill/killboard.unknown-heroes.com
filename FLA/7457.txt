@@ -1,0 +1,24 @@
+2006.09.06 17:59
+
+Victim: DENWIR
+Alliance: R.I.S.K
+Corp: Yellow Wind
+Destroyed: Executioner
+System: X-7OMU
+Security: 0.0
+
+Involved parties:
+
+Name: Karas Rabus (laid the final blow)
+Security: 4.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Rupture
+Weapon: 280mm Howitzer Artillery II
+
+
+Destroyed items:
+
+Infrared S
+Infrared S (Cargo)
+

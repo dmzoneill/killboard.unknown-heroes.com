@@ -1,0 +1,27 @@
+2007.05.05 18:14
+
+Victim: Hojou
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Tristan
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: ClogMan (laid the final blow)
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Stabber
+Weapon: Dual 180mm AutoCannon II
+
+
+Destroyed items:
+
+Piranha Light Missile, Qty: 32
+Standard Missile Launcher I
+1MN MicroWarpdrive I
+Stasis Webifier I
+Local Power Plant Manager: Capacity Power Relay I
+Piranha Light Missile, Qty: 1000 (Cargo)

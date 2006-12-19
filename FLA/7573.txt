@@ -1,0 +1,40 @@
+2006.09.20 02:15
+
+Victim: OLD HoppeR
+Alliance: R.I.S.K
+Corp: ReD eYe Inc.
+Destroyed: Capsule
+System: G-M4I8
+Security: 0.0
+
+Involved parties:
+
+Name: Entragian Delmar
+Security: 0.6
+Alliance: Freelancer Alliance
+Corp: Terminal Velocity Inc.
+Ship: Catalyst
+Weapon: Catalyst
+
+Name: Kaleenia (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Terminal Velocity Inc.
+Ship: Hawk
+Weapon: Sabretooth Precision Light Missile
+
+Name: Arnim
+Security: 4.8
+Alliance: Freelancer Alliance
+Corp: Terminal Velocity Inc.
+Ship: Hawk
+Weapon: Standard Missile Launcher I
+
+Name: Michelle LeBlanc
+Security: 2.6
+Alliance: Freelancer Alliance
+Corp: Terminal Velocity Inc.
+Ship: Thorax
+Weapon: Heavy Ion Blaster I
+
+

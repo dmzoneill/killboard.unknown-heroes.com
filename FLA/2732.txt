@@ -1,0 +1,33 @@
+2007.03.04 03:31
+
+Victim: Samiloth Justinian
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Capsule
+System: DBRN-Z
+Security: 0.0
+
+Involved parties:
+
+Name: Sean Drake
+Security: 3.1
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Harpy
+Weapon: 125mm Railgun II
+
+Name: pcgamereve (laid the final blow)
+Security: 4.9
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Sabre
+Weapon: 200mm AutoCannon II
+
+Name: xCERBERUS2
+Security: -1.0
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Crow
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+

@@ -1,0 +1,92 @@
+2007.03.21 14:56
+
+Victim: Denaris1
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Destroyed: Raven
+System: 3T7-M8
+Security: 0.0
+
+Involved parties:
+
+Name: Jurushy
+Security: 4.9
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Hurricane
+Weapon: Scourge Heavy Missile
+
+Name: The Ali
+Security: -3.2
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: volly
+Security: 3.1
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Curse
+Weapon: Thunderbolt Heavy Missile
+
+Name: IsmaelYU5 Iluvatar
+Security: 5.0
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Taranis
+Weapon: Taranis
+
+Name: Angie Mitchell (laid the final blow)
+Security: 0.6
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Heretic
+Weapon: Dual Light Pulse Laser II
+
+Name: Eelim Garak
+Security: 1.3
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Curse
+Weapon: Valkyrie II
+
+Name: Frostbeule
+Security: 2.9
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Stiletto
+Weapon: Stiletto
+
+
+Destroyed items:
+
+E500 Prototype Energy Vampire
+Juggernaut Torpedo, Qty: 40
+Siege Missile Launcher II
+Siege Missile Launcher II
+Siege Missile Launcher II
+X-Large Shield Booster II
+F-b10 Nominal Capacitor Regenerator
+Ballistic Deflection Field II
+Quantum Co-Processor I
+Local Power Plant Manager: Reaction Control I
+Shield Recharger I (Cargo)
+X-Large Shield Booster I (Cargo)
+Medium Armor Repairer I (Cargo)
+Medium Energy Transfer Array I (Cargo)
+Small Nosferatu I (Cargo)
+Small Proton Smartbomb I (Cargo)
+150mm Carbide Railgun I (Cargo)
+Medium F-RX Prototype I Capacitor Boost (Cargo)
+Plutonium Charge S, Qty: 100 (Cargo)
+ECM - Multispectral Jammer I (Cargo)
+Guristas Gold Tag (Cargo)
+Gremlin Rocket, Qty: 100 (Cargo)
+Obliterator F.O.F. Cruise Missile I, Qty: 100 (Cargo)
+'Malkuth' Rocket Launcher I (Cargo)
+Siege Missile Launcher I (Cargo)
+Assault Missile Launcher I (Cargo)
+Signal Distortion Amplifier I (Cargo)
+Damaged Artificial Neural Network, Qty: 3 (Cargo)
+

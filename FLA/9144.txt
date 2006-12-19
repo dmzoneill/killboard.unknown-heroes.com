@@ -1,0 +1,39 @@
+2007.04.30 06:20
+
+Victim: Evil Bunnies
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Blackbird
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Mufeater (laid the final blow)
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Hyperion
+Weapon: Vespa II
+
+Name: Skull Fire
+Security: 0.8
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Scorpion
+Weapon: Heavy Diminishing Power System Drain I
+
+
+Destroyed items:
+
+Medium YF-12a Smartbomb
+Scourge Heavy Missile, Qty: 28
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Languid Phase Inversion ECM I
+Initiated Multispectral ECM I
+Compulsive Ion Field ECM I
+CZ-4 Concussive Spatial Destabilizer ECM
+Type-D Power Core Modification: Diagnostic System
+Scourge Heavy Missile, Qty: 277 (Cargo)
+

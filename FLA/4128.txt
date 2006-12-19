@@ -1,0 +1,61 @@
+2007.04.02 15:29
+
+Victim: Wicked Pissah
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Prophecy
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: MegaJ
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Pilgrim
+Weapon: Hammerhead II
+
+Name: angelena (laid the final blow)
+Security: 4.5
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Spacebar
+Security: 2.1
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Hurricane
+Weapon: Hobgoblin I
+
+Name: abzzo
+Security: 1.7
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Zealot
+Weapon: Zealot
+
+Name: Cabadrin
+Security: 3.8
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Ishkur
+Weapon: Hornet II
+
+
+Destroyed items:
+
+Focused Afocal Medium Maser I
+Focused Afocal Medium Maser I
+Focused Afocal Medium Maser I
+Microwave M
+10MN MicroWarpdrive I
+Inertia Stabilizers I
+Mark I Generator Refitting: Diagnostic System
+Radio M, Qty: 7 (Cargo)
+Gamma M, Qty: 4 (Cargo)
+Multifrequency M, Qty: 14 (Cargo)
+Infiltrator I, Qty: 2 (Drone Bay)
+

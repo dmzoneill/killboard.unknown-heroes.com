@@ -1,0 +1,52 @@
+2007.05.20 17:34
+
+Victim: Captain Carius
+Alliance: None
+Corp: Deathshead Inc.
+Destroyed: Ibis
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Ocara Nezus (laid the final blow)
+Security: 1.5
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Nevets Estevan
+Security: 1.2
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Stabber
+Weapon: Dual 180mm Gallium I Machine Gun
+
+Name: steve gates
+Security: 5.1
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Ferox
+Weapon: Assault Missile Launcher II
+
+Name: freestrike
+Security: 5.6
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Crow
+Weapon: True Sansha Warp Disruptor
+
+Name: Madd Dok
+Security: 5.2
+Alliance: Imperial Republic Of the North
+Corp: Inversion
+Ship: Purifier
+Weapon: 'Arbalest' Cruise Launcher I
+
+
+Destroyed items:
+
+Basic Miner
+Tritanium (Cargo)
+

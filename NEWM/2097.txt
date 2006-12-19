@@ -1,0 +1,74 @@
+2007.01.20 01:02
+
+Victim: mrrabit
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Thrasher
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: David Godfrey
+Security: 3.7
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Thanatos
+Weapon: Templar
+
+Name: ukpAgAn
+Security: 5.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Megathron
+Weapon: Megathron
+
+Name: taylor04
+Security: 0.4
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: ArchenTheGreat
+Security: -2.1
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Dominix
+Weapon: 350mm Carbide Railgun I
+
+Name: Guristas Terrorist / Guristas
+
+Name: Unfortunate Accident (laid the final blow)
+Security: -1.9
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: K Shara
+Security: 4.8
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Raven
+Weapon: Cruise Missile Launcher II
+
+Name: Anna Neura
+Security: -0.2
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Lachesis
+Weapon: Phased Muon Sensor Disruptor I
+
+
+Destroyed items:
+
+200mm AutoCannon I
+200mm AutoCannon I
+Small 'Knave' I Energy Drain
+EMP S, Qty: 19
+1MN MicroWarpdrive I
+J5 Prototype Warp Inhibitor I
+Damage Control I
+Phased Plasma S, Qty: 35 (Cargo)
+

@@ -1,0 +1,60 @@
+2006.07.17 22:37
+
+Victim: BigSteef
+Alliance: Sparta Alliance
+Corp: Warped Mining
+Destroyed: Raven
+System: WUZ-WM
+Security: 0.0
+
+Involved parties:
+
+Name: jacass66 (laid the final blow)
+Security: 5.3
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Thanatos
+Weapon: Templar
+
+Name: Capt Cali
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: London Transport
+Ship: Cerberus
+Weapon: Scourge Heavy Missile
+
+Name: TheBelgarion
+Security: 3.1
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: MAFFI
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Ferox
+Weapon: Ferox
+
+Name: Barukor
+Security: 1.6
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Vigil
+Weapon: Vigil
+
+
+Destroyed items:
+
+250mm Railgun I
+250mm Railgun I
+Lead Charge M, Qty: 66
+Paradise Cruise Missile, Qty: 36
+Wrath Cruise Missile, Qty: 18
+'Limos' Cruise Launcher I
+'Limos' Cruise Launcher I
+'Malkuth' Cruise Launcher I
+ECM - Multispectral Jammer I
+Ballistic Control System I
+

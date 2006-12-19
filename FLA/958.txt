@@ -1,0 +1,26 @@
+2007.02.28 15:31
+
+Victim: aldkjfh
+Alliance: None
+Corp: Imperial Academy
+Destroyed: Capsule
+System: YZ-LQL
+Security: 0.0
+
+Involved parties:
+
+Name: Aldo Idahar
+Security: -0.4
+Alliance: Dusk and Dawn
+Corp: moon7empler
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Samiloth Justinian (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+

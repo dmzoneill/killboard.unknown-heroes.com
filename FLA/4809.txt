@@ -1,0 +1,42 @@
+2007.04.16 03:31
+
+Victim: alon blackhelm
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Destroyed: Thorax
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Witch Doctor (laid the final blow)
+Security: 0.1
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Hyperion
+Weapon: Ion Blaster Cannon II
+
+Name: Ehxo
+Security: 4.9
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Rupture
+Weapon: Rupture
+
+Name: Genrom
+Security: 4.5
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Arazu
+Weapon: J5 Prototype Warp Inhibitor I
+
+
+Destroyed items:
+
+Antimatter Charge M, Qty: 112
+10MN MicroWarpdrive I
+Type-D Power Core Modification: Reaction Control
+Type-D Power Core Modification: Reaction Control
+Antimatter Charge M, Qty: 649 (Cargo)
+Vespa II, Qty: 5 (Drone Bay)
+

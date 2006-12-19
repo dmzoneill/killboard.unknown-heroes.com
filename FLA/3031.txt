@@ -1,0 +1,26 @@
+2007.03.22 19:29
+
+Victim: Roxanna Kell
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Destroyed: Capsule
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Luxe Ecru (laid the final blow)
+Security: 1.4
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Taranis
+Weapon: 125mm Railgun II
+
+Name: DarkAvenger DK
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Punisher
+Weapon: Medium Pulse Laser II
+
+

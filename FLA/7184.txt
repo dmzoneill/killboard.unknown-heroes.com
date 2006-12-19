@@ -1,0 +1,47 @@
+2006.12.30 22:09
+
+Victim: kis okos
+Alliance: None
+Corp: Pator Tech School
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Alayssi Mey (laid the final blow)
+Security: 3.5
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: izJan
+Security: 2.5
+Alliance: O X I D E
+Corp: W33D Corp.
+Ship: Griffin
+Weapon: Bloodclaw Light Missile
+
+Name: Sorlac Aurora
+Security: 4.7
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Denaris1
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Raven
+Weapon: 'Arbalest' Cruise Launcher I
+
+Name: Bobby Atlas
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Hyperion
+Weapon: Modal Mega Neutron Particle Accelerator I
+
+

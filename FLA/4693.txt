@@ -1,0 +1,33 @@
+2007.04.18 05:16
+
+Victim: Redginald
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Destroyed: Capsule
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: arthell
+Security: 2.9
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Unknown
+Weapon: Fleeting Progressive Warp Scrambler I
+
+Name: Alski (laid the final blow)
+Security: 3.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Kestrel
+Weapon: Phalanx Rocket
+
+Name: Magic Mazuma
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Rifter
+Weapon: Rifter
+
+

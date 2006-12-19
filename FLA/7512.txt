@@ -1,0 +1,109 @@
+2006.09.10 21:53
+
+Victim: CorpPunishment
+Alliance: Knights Of the Southerncross
+Corp: A.W.M
+Destroyed: Badger Mark II
+System: G-M4I8
+Security: 0.0
+
+Involved parties:
+
+Name: vladdy2
+Security: 3.4
+Alliance: CORE.
+Corp: VentureCorp
+Ship: Huginn
+Weapon: 650mm Artillery Cannon II
+
+Name: DARKLING
+Security: 5.1
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+Name: NATMav
+Security: 5.0
+Alliance: EVE Animal Control
+Corp: F.R.E.E. Explorer
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Puke
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Zimi Vlasic
+Security: 0.2
+Alliance: EVE Animal Control
+Corp: F.R.E.E. Explorer
+Ship: Wolf
+Weapon: 280mm Howitzer Artillery II
+
+Name: Shiri elAzarinres (laid the final blow)
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Valtaer
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: Terminal Velocity Inc.
+Ship: Moa
+Weapon: 250mm Compressed Coil Gun I
+
+Name: MentalM
+Security: 5.2
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Zealot
+Weapon: Heavy Pulse Laser II
+
+Name: Serin Lore
+Security: 0.1
+Alliance: CORE.
+Corp: AUS Corporation
+Ship: Retribution
+Weapon: Dual Light Beam Laser II
+
+Name: kermitfrog
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Crow
+Weapon: 'Arbalest' Standard Missile Launcher
+
+Name: Ravyxx
+Security: 5.2
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Taranis
+Weapon: Taranis
+
+Name: Karnovsky
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Sabre
+Weapon: Sabre
+
+Name: DDaisy
+Security: 4.6
+Alliance: CORE.
+Corp: VentureCorp
+Ship: Lachesis
+Weapon: Remote Sensor Dampener II
+
+
+Destroyed items:
+
+Medium Shield Extender I
+10MN Afterburner I
+Warp Core Stabilizer I
+

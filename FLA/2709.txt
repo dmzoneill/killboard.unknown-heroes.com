@@ -1,0 +1,52 @@
+2007.03.03 18:51
+
+Victim: Princess Alia
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Maelstrom
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Guristas Obliterator / Guristas
+
+Name: callonious (laid the final blow)
+Security: 0.4
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Abaddon
+Weapon: Mega Pulse Laser II
+
+Name: Hellspawn666
+Security: 2.1
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Typhoon
+Weapon: Cataclysm Cruise Missile
+
+
+Destroyed items:
+
+1400mm 'Scout' Artillery I
+1400mm 'Scout' Artillery I
+Titanium Sabot L
+Titanium Sabot L
+Titanium Sabot L
+Titanium Sabot L
+Titanium Sabot L
+Titanium Sabot L
+Paradise Cruise Missile, Qty: 25
+'Arbalest' Cruise Launcher I
+Cap Recharger II
+100MN MicroWarpdrive II
+Cap Booster 800
+Cap Booster 800
+Cap Booster 800
+Sensor Booster II
+Tracking Computer II
+Large Armor Repairer II
+Armor Thermic Hardener II
+Titanium Sabot L, Qty: 2680 (Cargo)
+Paradise Cruise Missile, Qty: 1821 (Cargo)
+

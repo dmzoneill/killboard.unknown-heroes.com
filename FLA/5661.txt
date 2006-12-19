@@ -1,0 +1,33 @@
+2006.10.09 21:33
+
+Victim: Z'Doc
+Alliance: None
+Corp: State War Academy
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Nil Desperandum (laid the final blow)
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Omen
+Weapon: Heavy Anode Pulse Particle Stream I
+
+Name: jarson
+Security: -0.3
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Claw
+Weapon: Thorn Rocket
+
+Name: Hosanna
+Security: -0.7
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Wolf
+Weapon: 280mm Howitzer Artillery II
+
+

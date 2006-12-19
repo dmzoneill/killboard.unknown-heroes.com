@@ -1,0 +1,44 @@
+2007.01.26 18:07
+
+Victim: Dioxus
+Alliance: The Foundation.
+Corp: EVE Corporation 160607
+Destroyed: Incursus
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: coldkill (laid the final blow)
+Security: 1.3
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Myrmidon
+Weapon: 200mm Railgun II
+
+Name: Kane Portnoy
+Security: 4.8
+Alliance: Guardian Federation
+Corp: Chemical Industry Company
+Ship: Incursus
+Weapon: 125mm Railgun I
+
+Name: Steinkalt
+Security: 5.0
+Alliance: Guardian Federation
+Corp: KULT Production
+Ship: Crow
+Weapon: Phased Muon Sensor Disruptor I
+
+Name: Quninella
+Security: 0.7
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Thorax
+Weapon: Stasis Webifier I
+
+
+Destroyed items:
+
+1MN Afterburner I
+

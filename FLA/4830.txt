@@ -1,0 +1,96 @@
+2007.04.16 21:24
+
+Victim: Domino Day
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Destroyed: Viator
+System: VFK-IV
+Security: 0.0
+
+Involved parties:
+
+Name: Nexus2010 (laid the final blow)
+Security: 4.2
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Drake
+Weapon: Scourge Fury Heavy Missile
+
+Name: Topasio
+Security: 3.1
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Tempest
+Weapon: Hammerhead I
+
+Name: Ashurian
+Security: 2.7
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Myrmidon
+Weapon: Ogre I
+
+Name: mafutero
+Security: -0.5
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Thorax
+Weapon: Medium 'Knave' I Energy Drain
+
+Name: Vrivona
+Security: 1.5
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Flycatcher
+Weapon: Bloodclaw Light Missile
+
+Name: Himphotep 87
+Security: 1.5
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Taranis
+Weapon: Warrior II
+
+Name: Karunel
+Security: 5.0
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Eos
+Weapon: Ogre II
+
+Name: ZIQUET
+Security: 5.0
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Megathron
+Weapon: Megathron
+
+Name: KaKaShI
+Security: 4.2
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Harbinger
+Weapon: Harbinger
+
+Name: Sukur
+Security: 4.1
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Stabber
+Weapon: Dual 180mm AutoCannon II
+
+Name: Primos Gun
+Security: 3.8
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Myrmidon
+Weapon: Ogre I
+
+
+Destroyed items:
+
+Cynosural Field Generator I
+Invulnerability Field I
+Expanded Cargohold II
+Coolant, Qty: 3886 (Cargo)
+

@@ -1,0 +1,41 @@
+2007.04.08 16:43
+
+Victim: Kathaara
+Alliance: None
+Corp: Lensmen
+Destroyed: Manticore
+System: Iitanmadan
+Security: 0.3
+
+Involved parties:
+
+Name: Caldari Control Tower Medium / Grettistak (laid the final blow)
+
+Name: Guristas Saboteur / Guristas
+
+
+Destroyed items:
+
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Improved Cloaking Device II
+Wrath Cruise Missile, Qty: 23
+XT-9000 Cruise Launcher
+XT-9000 Cruise Launcher
+Alumel-Wired I Sensor Augmentation
+Type-D Altered SS Overdrive Injector
+Miner I (Cargo)
+Antimatter Charge M, Qty: 100 (Cargo)
+ECM - Multispectral Jammer I (Cargo)
+Wrath Cruise Missile, Qty: 76 (Cargo)
+Heavy Missile Launcher I (Cargo)
+Ward Console, Qty: 2 (Cargo)
+Burned Logic Circuit, Qty: 4 (Cargo)
+Scorched Telemetry Processor, Qty: 2 (Cargo)
+Damaged Artificial Neural Network, Qty: 2 (Cargo)
+Compact 'Limos' Heavy Assault Missile Launcher I (Cargo)
+

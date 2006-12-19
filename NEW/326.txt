@@ -1,0 +1,60 @@
+2007.03.11 03:42
+
+Victim: Deadcover V
+Alliance: Chorus of Dawn
+Corp: Infinite Style Incorporated
+Destroyed: Capsule
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: alon blackhelm
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Myrmidon
+Weapon: 250mm Compressed Coil Gun I
+
+Name: Nukuquqa Hestase (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: truefranco
+Security: 4.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+Name: laylord
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Lachesis
+Weapon: Advanced 'Limos' Heavy Missile Bay I
+
+Name: Raketefrau
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Hawk
+Weapon: 'Arbalest' Standard Missile Launcher
+
+Name: Cyrila Wolf
+Security: -2.2
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Stiletto
+Weapon: 200mm AutoCannon II
+
+Name: Altanzar
+Security: 4.5
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Ship: Taranis
+Weapon: Warp Disruptor I
+

@@ -1,0 +1,44 @@
+2006.09.14 00:57
+
+Victim: Th3 HuNt3r
+Alliance: Freelancer Alliance
+Corp: EVE MegaCorp Association
+Destroyed: Kestrel
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: ShadowDragon
+Security: 0.1
+Alliance: Lotka Volterra
+Corp: M. Corp
+Ship: Arazu
+Weapon: Hammerhead II
+
+Name: Dylan (laid the final blow)
+Security: -1.5
+Alliance: Lotka Volterra
+Corp: M. Corp
+Ship: Apocalypse
+Weapon: Valkyrie II
+
+Name: Sov13t
+Security: 1.2
+Alliance: Lotka Volterra
+Corp: M. Corp
+Ship: Caracal
+Weapon: Advanced 'Limos' Heavy Missile Bay I
+
+
+Destroyed items:
+
+Small 'Gremlin' Power Core Disruptor I
+Warp Scrambler I
+'Hypnos' Ion Field ECM I
+Target Painter I
+Signal Amplifier I
+1MN MicroWarpdrive I (Cargo)
+Gremlin Rocket, Qty: 23 (Cargo)
+Beta Reactor Control: Diagnostic System I (Cargo)
+

@@ -1,0 +1,93 @@
+2006.08.26 22:13
+
+Victim: XxAngelxX
+Alliance: Freelancer Alliance
+Corp: BGG
+Destroyed: Armageddon
+System: Z0-TJW
+Security: 0.0
+
+Involved parties:
+
+Name: Turiya Flesharrower (laid the final blow)
+Security: -1.2
+Alliance: None
+Corp: Beagle Corp
+Ship: Armageddon
+Weapon: Bouncer I
+
+Name: Iorya Dragon
+Security: -2.0
+Alliance: None
+Corp: Beagle Corp
+Ship: Megathron
+Weapon: Megathron
+
+Name: Garm SD
+Security: 4.2
+Alliance: None
+Corp: Beagle Corp
+Ship: Megathron
+Weapon: Bouncer I
+
+Name: Dave White
+Security: -3.0
+Alliance: None
+Corp: Beagle Corp
+Ship: Armageddon
+Weapon: Bouncer I
+
+Name: Tom Eliot
+Security: -0.2
+Alliance: None
+Corp: Beagle Corp
+Ship: Raven
+Weapon: Target Painter I
+
+Name: Tanpres
+Security: -2.3
+Alliance: None
+Corp: Beagle Corp
+Ship: Armageddon
+Weapon: Mega Beam Laser I
+
+Name: Jouno
+Security: -1.5
+Alliance: None
+Corp: Beagle Corp
+Ship: Megathron
+Weapon: 425mm Railgun I
+
+Name: Roule
+Security: -8.0
+Alliance: None
+Corp: Beagle Corp
+Ship: Rapier
+Weapon: Target Painter I
+
+Name: HippoKing
+Security: 2.0
+Alliance: None
+Corp: Beagle Corp
+Ship: Falcon
+Weapon: Heavy Missile Launcher II
+
+Name: Chewan Mesa
+Security: -0.3
+Alliance: None
+Corp: Beagle Corp
+Ship: Falcon
+Weapon: ECM - Multispectral Jammer II
+
+
+Destroyed items:
+
+Tachyon Beam Laser I
+Multifrequency L
+Multifrequency L
+Multifrequency L
+'Prayer' Targeting Annex I
+Heat Sink II
+Tracking Enhancer II
+Radio L, Qty: 4 (Cargo)
+

@@ -1,0 +1,31 @@
+2007.02.08 22:32
+
+Victim: Kerdrak
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Destroyed: Malediction
+System: EWOK-K
+Security: 0.0
+
+Involved parties:
+
+Name: Lwen (laid the final blow)
+Security: 4.9
+Alliance: Red Moon Federation
+Corp: Confederation of Red Moon
+Ship: Crow
+Weapon: Bloodclaw Precision Light Missile
+
+
+Destroyed items:
+
+Gatling Pulse Laser II
+Gatling Pulse Laser II
+Scorch S
+Scorch S
+Scorch S
+Phased Monopropellant I Hydrazine Boosters
+'Langour' Drive Disruptor I
+Radio S, Qty: 3 (Cargo)
+Scorch S, Qty: 2 (Cargo)
+

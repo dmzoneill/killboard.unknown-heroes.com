@@ -1,0 +1,36 @@
+2006.11.06 03:25
+
+Victim: LordVodka
+Alliance: None
+Corp: Earned In Blood
+Destroyed: Vengeance
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Lord Balroth (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Absolution
+Weapon: Heavy Pulse Laser II
+
+Name: Bobby Atlas
+Security: 2.9
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Megathron
+Weapon: X5 Prototype I Engine Enervator
+
+
+Destroyed items:
+
+Fleeting Warp Scrambler I
+Small Brief Capacitor Overcharge I
+Adaptive Nano Plating II
+Small Nosferatu I (Cargo)
+Invulnerability Field I (Cargo)
+Cap Booster 100, Qty: 20 (Cargo)
+Conflagration S (Cargo)
+

@@ -1,0 +1,169 @@
+2007.04.26 00:14
+
+Victim: MIGHTYDWC
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Destroyed: Myrmidon
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Josh Causto
+Security: 2.9
+Alliance: Imperial Republic Of the North
+Corp: Port Royal Independent Kontractors
+Ship: Myrmidon
+Weapon: Myrmidon
+
+Name: coldkill
+Security: 1.9
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Ishkur
+Weapon: Hobgoblin II
+
+Name: Skull Fire
+Security: 0.8
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Raven
+Weapon: Raven
+
+Name: Sephron Kintaka
+Security: 4.0
+Alliance: Sparta Alliance
+Corp: Lynx Frontier Inc.
+Ship: Taranis
+Weapon: 125mm Railgun II
+
+Name: Cobra64
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Hound
+Weapon: Wrath Cruise Missile
+
+Name: Sir Howard
+Security: 4.3
+Alliance: Sparta Alliance
+Corp: Lynx Frontier Inc.
+Ship: Incursus
+Weapon: Incursus
+
+Name: demotar
+Security: 4.1
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Rifter
+Weapon: Rifter
+
+Name: RythemAndStealth
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Vengeance
+Weapon: Vengeance
+
+Name: Minisoza
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ares
+Weapon: Sabretooth Light Missile
+
+Name: Chuck Dawg (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Condor
+Weapon: Foxfire Rocket
+
+Name: Kayron Brennan
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Condor
+Weapon: Thorn Rocket
+
+Name: Kvarium Ki
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Rifter
+Weapon: 250mm Light Carbine Howitzer I
+
+Name: Imaginary Number
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Incursus
+Weapon: Incursus
+
+Name: Xenofur
+Security: 3.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Vigil
+Weapon: Hobgoblin I
+
+Name: Iss Hogai
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: GREY COUNCIL
+Ship: Nemesis
+Weapon: 'Limos' Cruise Launcher I
+
+Name: Ketch Kan
+Security: 4.0
+Alliance: Sparta Alliance
+Corp: Lynx Frontier Inc.
+Ship: Eris
+Weapon: Eris
+
+Name: shadowxp99
+Security: 4.0
+Alliance: Freelancer Alliance
+Corp: Harbingers of Sarrow
+Ship: Executioner
+Weapon: Executioner
+
+Name: Rhaven
+Security: 3.7
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Punisher
+Weapon: Warp Disruptor I
+
+Name: Confessor
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: Lynx Frontier Inc.
+Ship: Punisher
+Weapon: 'Langour' Drive Disruptor I
+
+Name: Ghu'ru Talozan
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Celestis
+Weapon: Celestis
+
+Name: Isaac Orion
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: Dreamscape
+Ship: Arazu
+Weapon: Phased Muon Sensor Disruptor I
+
+
+Destroyed items:
+
+Medium 'Ghoul' Energy Siphon I
+Medium 'Ghoul' Energy Siphon I
+Medium 'Ghoul' Energy Siphon I
+Small Energy Neutralizer I
+10MN MicroWarpdrive II
+Pseudoelectron Containment Field I
+Medium Armor Repairer II
+

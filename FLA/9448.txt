@@ -1,0 +1,23 @@
+2007.05.14 13:39
+
+Victim: 77scout77
+Alliance: None
+Corp: Perkone
+Destroyed: Ibis
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: wardey (laid the final blow)
+Security: 0.6
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Punisher
+Weapon: Dual Light Pulse Laser II
+
+
+Destroyed items:
+
+Tritanium (Cargo)
+

@@ -1,0 +1,127 @@
+2006.07.12 16:39
+
+Victim: BarataS
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Destroyed: Falcon
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Demarcus
+Security: 5.0
+Alliance: CORE.
+Corp: Project Gemini
+Ship: Scorpion
+Weapon: Devastator Cruise Missile
+
+Name: Capt Cali (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: London Transport
+Ship: Cerberus
+Weapon: Scourge Heavy Missile
+
+Name: Iskias
+Security: -1.2
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Vengeance
+Weapon: Vengeance
+
+Name: LiBraga
+Security: 5.0
+Alliance: CORE.
+Corp: Project Gemini
+Ship: Rook
+Weapon: Scourge Heavy Missile
+
+Name: Jumar Coldgin
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Harpy
+Weapon: Harpy
+
+Name: Zylatis
+Security: 3.2
+Alliance: CORE.
+Corp: AUS Corporation
+Ship: Rook
+Weapon: Thunderbolt Heavy Missile
+
+Name: MAD D0G
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: DEATH 0R GLORY
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+Name: Zakru Anul
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: KHM Corporation
+Ship: Megathron
+Weapon: Dual 250mm Railgun I
+
+Name: dccbx
+Security: 1.6
+Alliance: Freelancer Alliance
+Corp: KHM Corporation
+Ship: Typhoon
+Weapon: 1400mm Howitzer Artillery I
+
+Name: Wolfman Apocalypse
+Security: 2.0
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Caracal
+Weapon: Thunderbolt Heavy Missile
+
+Name: mr passie
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: KHM Corporation
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery I
+
+Name: Wodan NL
+Security: 3.3
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Deimos
+Weapon: Warp Disruptor I
+
+Name: TwilightMadcat
+Security: -2.1
+Alliance: Imperial Republic Of the North
+Corp: Port Royal Independent Kontractors
+Ship: Taranis
+Weapon: X5 Prototype I Engine Enervator
+
+Name: Courtney Brown
+Security: 1.5
+Alliance: Freelancer Alliance
+Corp: KHM Corporation
+Ship: Ferox
+Weapon: Warp Disruptor I
+
+Name: Bolinar
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Dominix
+Weapon: Induced Multispectral ECM I
+
+
+Destroyed items:
+
+Covert Ops Cloaking Device II
+Scourge Heavy Missile, Qty: 24
+ECM - Multispectral Jammer II
+ECM - Ion Field Projector II
+ECM - White Noise Generator II
+Scourge Heavy Missile, Qty: 1272 (Cargo)
+Hellhound F.O.F. Heavy Missile I, Qty: 200 (Cargo)
+

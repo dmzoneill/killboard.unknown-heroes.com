@@ -1,0 +1,150 @@
+2007.04.25 23:21
+
+Victim: Frau Formaggio
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Dominix
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Wrath Cruise Missile / Guristas
+
+Name: Esaka
+Security: 4.4
+Alliance: Firmus Ixion
+Corp: Hunters Agency
+Ship: Rokh
+Weapon: Rokh
+
+Name: Mang Vilaban
+Security: 3.0
+Alliance: Corelum Syndicate
+Corp: Coreli Corporation
+Ship: Megathron
+Weapon: Megathron
+
+Name: Rarnac Brak
+Security: 0.0
+Alliance: YouWhat
+Corp: Cosmic Odyssey
+Ship: Tempest
+Weapon: Tempest
+
+Name: Callistus
+Security: -2.3
+Alliance: Corelum Syndicate
+Corp: Coreli Corporation
+Ship: Megathron
+Weapon: Megathron
+
+Name: Gulzan
+Security: 1.6
+Alliance: Lotka Volterra
+Corp: FinFleet
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Kurai Amaro
+Security: 4.4
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Sabre
+Weapon: Sabre
+
+Name: Longrin
+Security: 3.2
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Tempest
+Weapon: Remote Sensor Dampener II
+
+Name: IsmaelYU5 Iluvatar (laid the final blow)
+Security: 5.0
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Myrmidon
+Weapon: Ogre II
+
+Name: maarud
+Security: 3.0
+Alliance: Corelum Syndicate
+Corp: Coreli Corporation
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: LUCKY HEADY
+Security: -1.6
+Alliance: Mercenary Coalition
+Corp: Seraphin Technologies
+Ship: Tempest
+Weapon: Tempest
+
+Name: albert camus
+Security: -8.0
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Ship: Claw
+Weapon: Claw
+
+Name: Crovan
+Security: 2.8
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Sukur
+Security: 4.4
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Tempest
+Weapon: Bloodclaw Light Missile
+
+Name: Trooper B99
+Security: 1.1
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Rukaz
+Security: 3.1
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Crow
+Weapon: 'Arbalest' Standard Missile Launcher
+
+Name: Br127
+Security: 5.0
+Alliance: Lotka Volterra
+Corp: FinFleet
+Ship: Scorpion
+Weapon: Hobgoblin II
+
+Name: Exitao
+Security: 5.0
+Alliance: YouWhat
+Corp: Cosmic Odyssey
+Ship: Celestis
+Weapon: Hammerhead I
+
+
+Destroyed items:
+
+E500 Prototype Energy Vampire
+E500 Prototype Energy Vampire
+Medium Rudimentary Concussion Bomb I
+350mm 'Scout' I Accelerator Cannon
+Drone Link Augmentor I
+Drone Navigation Computer I
+Pseudoelectron Containment Field I
+Energized Adaptive Nano Membrane I
+Antimatter Charge L, Qty: 700 (Cargo)
+Cap Booster 800, Qty: 17 (Cargo)
+Warrior II, Qty: 9 (Drone Bay)
+Vespa II, Qty: 3 (Drone Bay)
+Warden I, Qty: 3 (Drone Bay)
+Medium Armor Maintenance Bot I, Qty: 2 (Drone Bay)
+

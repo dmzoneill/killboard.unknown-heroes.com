@@ -1,0 +1,52 @@
+2006.04.25 07:28
+
+Victim: jacass66
+Alliance: Freelancer Alliance
+Corp: BGG
+Destroyed: Thanatos
+System: CZDJ-1
+Security: 0.0
+
+Involved parties:
+
+Name: Lady LeJean
+Security: 3.4
+Alliance: Sparta Alliance
+Corp: ATROX.
+Ship: Revelation
+Weapon: Revelation
+
+Name: Preying Mantis (laid the final blow)
+Security: 0.2
+Alliance: The Nexus Alliance
+Corp: Universal-Corp
+Ship: Phoenix
+Weapon: Thor Torpedo I
+
+
+Destroyed items:
+
+Large Shield Transporter I
+Large Remote Armor Repair System I
+Large Remote Armor Repair System I
+F-b10 Nominal Capacitor Regenerator
+F-b10 Nominal Capacitor Regenerator
+Sensor Booster II
+Capital Armor Repairer I
+Energized Adaptive Nano Membrane II
+Large Shield Transporter I, Qty: 3 (Cargo)
+425mm Railgun I, Qty: 2 (Cargo)
+Dread Guristas Cloaking Device (Cargo)
+Widowmaker Heavy Missile, Qty: 128 (Cargo)
+Oxygen Isotopes, Qty: 9047 (Cargo)
+Advanced 'Limos' Heavy Missile Bay I, Qty: 2 (Cargo)
+Warp Disrupt Probe, Qty: 19 (Cargo)
+Capacitor Power Relay I (Cargo)
+Ogre I, Qty: 7 (Drone Bay)
+Hornet II, Qty: 96 (Drone Bay)
+Hobgoblin II, Qty: 3 (Drone Bay)
+Wasp I, Qty: 14 (Drone Bay)
+Warrior I, Qty: 4 (Drone Bay)
+Infiltrator II, Qty: 32 (Drone Bay)
+Dragonfly, Qty: 3 (Drone Bay)
+

@@ -1,0 +1,53 @@
+2007.03.23 07:23
+
+Victim: Shassandra
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Ares
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Sexorella hotz
+Security: 5.0
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Raven
+Weapon: Hobgoblin II
+
+Name: Lorn Zolog (laid the final blow)
+Security: -0.8
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Harbinger
+Weapon: Vespa II
+
+Name: xargis
+Security: 5.0
+Alliance: YouWhat
+Corp: Pringles Inc.
+Ship: Drake
+Weapon: Heavy Missile Launcher I
+
+Name: Vasili Z
+Security: 0.4
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Rapier
+Weapon: Warp Disruptor II
+
+
+Destroyed items:
+
+75mm Gatling Rail I
+Iron Charge S, Qty: 165
+Sabretooth Light Missile, Qty: 29
+Standard Missile Launcher I
+Standard Missile Launcher I
+Initiated Harmonic Warp Jammer I
+Inertia Stabilizers I
+Inertia Stabilizers I
+Piranha Light Missile, Qty: 1000 (Cargo)
+Sabretooth Light Missile, Qty: 920 (Cargo)
+

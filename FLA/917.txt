@@ -1,0 +1,65 @@
+2007.02.26 21:13
+
+Victim: Talon Kelson
+Alliance: None
+Corp: The Peoples Republic of Power
+Destroyed: Myrmidon
+System: Alparena
+Security: 0.1
+
+Involved parties:
+
+Name: Hayt Dracul
+Security: -1.4
+Alliance: FREGE Alliance
+Corp: Dust Echoes
+Ship: Stabber
+Weapon: Warrior I
+
+Name: Kiara Diepp (laid the final blow)
+Security: -1.9
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: scabbsss
+Security: -2.3
+Alliance: FREGE Alliance
+Corp: Dust Echoes
+Ship: Capsule
+Weapon: Warp Disruptor I
+
+Name: Serpentis Chief Safeguard / Serpentis Corporation
+
+Name: Jesnen
+Security: -0.5
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Sacrilege
+Weapon: Sacrilege
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Medium Nosferatu I
+Medium Nosferatu I
+Anode Electron Particle Cannon I
+Antimatter Charge M, Qty: 283
+Warp Scrambler I
+Stasis Webifier I
+Prototype I Sensor Booster
+Medium Armor Repairer I
+Energized Adaptive Nano Membrane I
+Armor Thermic Hardener I
+Reactor Control Unit I
+Medium Shield Booster I (Cargo)
+Small Energy Neutralizer I (Cargo)
+250mm Railgun I (Cargo)
+Antimatter Charge M, Qty: 925 (Cargo)
+Cap Booster 800, Qty: 5 (Cargo)
+50mm Reinforced Titanium Plates I (Cargo)
+100mm Reinforced Nanofiber Plates I (Cargo)
+Expanded Cargohold I (Cargo)
+

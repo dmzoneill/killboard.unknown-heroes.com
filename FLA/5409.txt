@@ -1,0 +1,71 @@
+2007.04.28 23:49
+
+Victim: Kayron Brennan
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Destroyed: Caracal
+System: P-2TTL
+Security: 0.0
+
+Involved parties:
+
+Name: Rukaz
+Security: 3.1
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Kiyoko Ashikawa
+Security: 2.3
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: Redginald (laid the final blow)
+Security: 4.5
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Muninn
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Enosh Kerrim
+Security: -1.0
+Alliance: Mercenary Coalition
+Corp: Seraphin Technologies
+Ship: Ishtar
+Weapon: Ishtar
+
+Name: Ben Derindar
+Security: 5.0
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Malediction
+Weapon: Malediction
+
+Name: xCERBERUS2
+Security: -0.6
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Huginn
+Weapon: Huginn
+
+Name: Feterous Jolin
+Security: -2.3
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Harpy
+Weapon: Harpy
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 34
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+V-M15 Braced Multispectral Shield Matrix
+Sensor Booster I
+Magnetic Scattering Amplifier I
+Scourge Heavy Missile, Qty: 441 (Cargo)
+

@@ -1,0 +1,19 @@
+2006.11.12 21:35
+
+Victim: nye 2k
+Alliance: Interstellar Starbase Syndicate
+Corp: terra firma team
+Destroyed: Capsule
+System: P-2TTL
+Security: 0.0
+
+Involved parties:
+
+Name: Lord Acheron (laid the final blow)
+Security: 1.3
+Alliance: Freelancer Alliance
+Corp: Caldar Mercenary Syndicate
+Ship: Sabre
+Weapon: 150mm Light AutoCannon II
+
+

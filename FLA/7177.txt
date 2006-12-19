@@ -1,0 +1,26 @@
+2006.12.30 17:34
+
+Victim: Dekta
+Alliance: None
+Corp: State War Academy
+Destroyed: Capsule
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: digital oxygen (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Deimos
+Weapon: Heavy Electron Blaster II
+
+Name: ventura5
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Thorax
+Weapon: Light Ion Blaster II
+
+

@@ -1,0 +1,27 @@
+2006.11.12 08:51
+
+Victim: Almagar Phog
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Destroyed: Incursus
+System: Piak
+Security: 0.7
+
+Involved parties:
+
+Name: Jambo (laid the final blow)
+Security: -2.0
+Alliance: None
+Corp: The Initiative
+Ship: Wolf
+Weapon: 150mm Light AutoCannon II
+
+
+Destroyed items:
+
+Limited Light Ion Blaster I
+Limited Light Ion Blaster I
+Antimatter Charge S, Qty: 240
+Monopropellant I Hydrazine Boosters
+Antimatter Charge S, Qty: 3000 (Cargo)
+

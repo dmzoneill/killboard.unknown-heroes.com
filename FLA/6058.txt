@@ -1,0 +1,33 @@
+2006.11.06 21:03
+
+Victim: Moonunit raker
+Alliance: Eternal Empire
+Corp: Spectral Armada
+Destroyed: Gallente Shuttle
+System: J-CIJV
+Security: 0.0
+
+Involved parties:
+
+Name: Preying Mantis (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: bidman
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Hawk
+Weapon: Sabretooth Light Missile
+
+Name: Dog Cancer
+Security: 1.4
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Crow
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+

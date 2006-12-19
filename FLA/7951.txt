@@ -1,0 +1,40 @@
+2006.10.04 01:27
+
+Victim: entropykaos
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Destroyed: Capsule
+System: EWOK-K
+Security: 0.0
+
+Involved parties:
+
+Name: Noobjuice (laid the final blow)
+Security: -0.7
+Alliance: None
+Corp: Omniscient Order
+Ship: Stiletto
+Weapon: 150mm Light AutoCannon II
+
+Name: Maximinus Thrax
+Security: 0.8
+Alliance: None
+Corp: The Scope
+Ship: Megathron
+Weapon: Faint Epsilon Warp Prohibitor I
+
+Name: H Zub
+Security: -0.8
+Alliance: None
+Corp: Omniscient Order
+Ship: Dominix
+Weapon: Heavy Diminishing Power System Drain I
+
+Name: Furious Raccoon
+Security: 0.9
+Alliance: None
+Corp: Omniscient Order
+Ship: Megathron
+Weapon: Medium 'Ghoul' Energy Siphon I
+
+

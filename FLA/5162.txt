@@ -1,0 +1,42 @@
+2007.01.26 06:53
+
+Victim: HYT gangster
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Destroyed: Typhoon
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Vyndicator (laid the final blow)
+Security: -2.5
+Alliance: None
+Corp: 0utbreak
+Ship: Typhoon
+Weapon: Devastator Cruise Missile
+
+Name: P1rate Dave
+Security: 0.9
+Alliance: None
+Corp: 0utbreak
+Ship: Typhoon
+Weapon: Heavy Diminishing Power System Drain I
+
+
+Destroyed items:
+
+Heavy Nosferatu I
+Heavy Nosferatu I
+Thunderbolt Heavy Missile, Qty: 16
+Heavy Missile Launcher I
+100MN MicroWarpdrive I
+Warp Disruptor I
+Heavy Electrochemical Capacitor Booster I
+Inertia Stabilizers I
+Nanofiber Internal Structure I
+Nanofiber Internal Structure I
+Nanofiber Internal Structure I
+Widowmaker Heavy Missile, Qty: 3000 (Cargo)
+Berserker I (Drone Bay)
+

@@ -1,0 +1,49 @@
+2006.11.08 19:47
+
+Victim: Ian Storme
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Destroyed: Ferox
+System: Oipo
+Security: 0.8
+
+Involved parties:
+
+Name: Yarek Balear
+Security: -1.8
+Alliance: None
+Corp: The Initiative
+Ship: Megathron
+Weapon: Berserker II
+
+Name: Dazzio (laid the final blow)
+Security: -2.0
+Alliance: None
+Corp: The Initiative
+Ship: Brutix
+Weapon: Heavy Ion Blaster II
+
+Name: TranZferR
+Security: -1.8
+Alliance: None
+Corp: The Initiative
+Ship: Taranis
+Weapon: Warrior II
+
+
+Destroyed items:
+
+Medium 'Knave' I Energy Drain
+Medium 'Ghoul' Energy Siphon I
+Scourge Heavy Missile, Qty: 30
+Widowmaker Heavy Missile, Qty: 31
+Thunderbolt Heavy Missile, Qty: 29
+XR-3200 Heavy Missile Bay
+'Arbalest' Heavy Missile Launcher
+Large C5-L Emergency Shield Overload I
+Heat Dissipation Amplifier II
+Kinetic Deflection Amplifier II
+Shield Power Relay I
+Secure Gravimetric Backup Cluster I
+Ballistic Control System I
+

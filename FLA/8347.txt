@@ -1,0 +1,39 @@
+2006.11.10 03:47
+
+Victim: Ilvarin Brui
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Destroyed: Covetor
+System: J1AU-9
+Security: 0.0
+
+Involved parties:
+
+Name: Iceman DK (laid the final blow)
+Security: 1.0
+Alliance: None
+Corp: Dark-Rising
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: JMcClane
+Security: 4.8
+Alliance: None
+Corp: Dark-Rising
+Ship: Vexor
+Weapon: Vexor
+
+Name: Boogiez
+Security: 0.5
+Alliance: None
+Corp: Dark-Rising
+Ship: Thorax
+Weapon: Valkyrie II
+
+
+Destroyed items:
+
+Survey Scanner I
+Small Inefficient Armor Repair Unit
+Energized Basic Regenerative Plating
+

@@ -1,0 +1,94 @@
+2006.12.12 16:23
+
+Victim: llamedos
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Destroyed: Scorpion
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: h3llrayser
+Security: 0.2
+Alliance: Kith of Venal
+Corp: Solidline Enterprise
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+Name: kojackUcigashu
+Security: 4.7
+Alliance: Kith of Venal
+Corp: Solidline Enterprise
+Ship: Megathron
+Weapon: Megathron
+
+Name: Syox
+Security: -0.5
+Alliance: Kith of Venal
+Corp: Solidline Enterprise
+Ship: Dominix
+Weapon: Dominix
+
+Name: TheRelic Ash
+Security: 5.1
+Alliance: Kith of Venal
+Corp: Solidline Enterprise
+Ship: Eagle
+Weapon: SV-2000 Assault Missile Bay
+
+Name: lt blacklotus
+Security: -0.3
+Alliance: Kith of Venal
+Corp: Solidline Enterprise
+Ship: Tempest
+Weapon: Tracking Disruptor I
+
+Name: Ane Mary
+Security: 1.9
+Alliance: Kith of Venal
+Corp: Solidline Enterprise
+Ship: Tempest
+Weapon: Dual 650mm Prototype I Repeating Siege Cannon
+
+Name: Ahile
+Security: 3.4
+Alliance: Kith of Venal
+Corp: Solidline Enterprise
+Ship: Dominix
+Weapon: 250mm Railgun II
+
+Name: teroarea
+Security: -1.2
+Alliance: Kith of Venal
+Corp: Solidline Enterprise
+Ship: Eris
+Weapon: 125mm Railgun II
+
+Name: Trinchilinchi (laid the final blow)
+Security: 3.5
+Alliance: Kith of Venal
+Corp: Solidline Enterprise
+Ship: Dominix
+Weapon: 250mm 'Scout' I Accelerator Cannon
+
+Name: zeitza ta
+Security: 1.7
+Alliance: Kith of Venal
+Corp: Solidline Enterprise
+Ship: Arazu
+Weapon: 150mm Railgun II
+
+
+Destroyed items:
+
+Heavy Nosferatu I
+Devastator Cruise Missile, Qty: 38
+XT-9000 Cruise Launcher
+'Anointed' I EM Ward Reinforcement
+Photon Scattering Field I
+Ditrigonal Thermal Barrier Crystallization I
+Ionic Field Accelerator I
+Medium Armor Repairer I
+Devastator Cruise Missile, Qty: 454 (Cargo)
+

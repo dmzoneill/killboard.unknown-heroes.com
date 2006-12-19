@@ -1,0 +1,136 @@
+2007.03.10 04:41
+
+Victim: Bedrock
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Destroyed: Stiletto
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Fugnut (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Raketefrau
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Hawk
+Weapon: Sabretooth Light Missile
+
+Name: Almagar Phog
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Blackbird
+Weapon: Thunderbolt Heavy Missile
+
+Name: Fzoul
+Security: 2.7
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Stabber
+Weapon: Widowmaker Heavy Missile
+
+Name: Swanny231
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Thorax
+Weapon: 'Abandon' Targeting Disruptor I
+
+Name: Dionysus Davinci
+Security: -9.2
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Incursus
+Weapon: Incursus
+
+Name: Jonas123
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Ferox
+Weapon: Sabretooth Light Missile
+
+Name: xinndo jagged
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Drake
+Weapon: Heavy Missile Launcher II
+
+Name: william kronos
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Caracal
+Weapon: Advanced 'Limos' Heavy Missile Bay I
+
+Name: Weeble Wooble
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Shassandra
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Megathron
+Weapon: 425mm Railgun I
+
+Name: Meister75th
+Security: 1.9
+Alliance: None
+Corp: Emerald Empire
+Ship: Hawk
+Weapon: OE-5200 Rocket Launcher
+
+Name: Leonardo Sabrioski
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Crow
+Weapon: Rocket Launcher II
+
+Name: Kaerion Skywalker
+Security: 0.1
+Alliance: Freelancer Alliance
+Corp: Harbingers of Sarrow
+Ship: Drake
+Weapon: 'Arbalest' Heavy Missile Launcher
+
+Name: DrElJefeMD
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Beshari
+Security: -3.6
+Alliance: None
+Corp: Emerald Empire
+Ship: Maelstrom
+Weapon: 1200mm Heavy 'Scout' Artillery I
+
+
+Destroyed items:
+
+150mm Light AutoCannon II
+Barrage S, Qty: 80
+Bloodclaw Light Missile, Qty: 44
+1MN MicroWarpdrive II
+Sensor Booster II
+Signal Amplifier II
+Inertia Stabilizers I
+Hail S, Qty: 1500 (Cargo)
+Bloodclaw Light Missile, Qty: 1079 (Cargo)
+

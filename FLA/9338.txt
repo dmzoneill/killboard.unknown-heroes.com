@@ -1,0 +1,64 @@
+2007.05.07 22:41
+
+Victim: Diego Barbera
+Alliance: YouWhat
+Corp: Princeps Corp
+Destroyed: Dominix
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: duece duece (laid the final blow)
+Security: 5.0
+Alliance: The Foundation.
+Corp: NorCorp Security
+Ship: Dominix
+Weapon: Ogre II
+
+Name: Xpod85
+Security: 0.3
+Alliance: The Foundation.
+Corp: NorCorp Security
+Ship: Abaddon
+Weapon: Acolyte II
+
+Name: Stitcher
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Raven
+Weapon: Infiltrator I
+
+Name: coldkill
+Security: 1.9
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Nemesis
+Weapon: 'Limos' Cruise Launcher I
+
+Name: haz zard
+Security: -2.3
+Alliance: The Foundation.
+Corp: Cornerstone Unlimited
+Ship: Ishkur
+Weapon: Ishkur
+
+
+Destroyed items:
+
+E500 Prototype Energy Vampire
+Warp Disruptor II
+X5 Prototype I Engine Enervator
+Cap Booster 800
+Cap Booster 800
+Cap Booster 800
+Cap Booster 800
+Damage Control II
+Large Armor Repairer II
+Large Armor Repairer II
+Armor Kinetic Hardener II
+Cap Booster 800, Qty: 13 (Cargo)
+Ogre I, Qty: 3 (Drone Bay)
+Warrior II, Qty: 2 (Drone Bay)
+

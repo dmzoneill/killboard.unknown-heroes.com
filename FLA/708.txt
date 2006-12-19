@@ -1,0 +1,68 @@
+2007.02.17 22:02
+
+Victim: Juruk
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Destroyed: Badger Mark II
+System: 00GD-D
+Security: 0.0
+
+Involved parties:
+
+Name: Mauy Thai (laid the final blow)
+Security: -1.4
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Curse
+Weapon: Valkyrie II
+
+Name: digital oxygen
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Thorax
+Weapon: Valkyrie II
+
+Name: Tiberius Drake
+Security: 4.1
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Ishkur
+Weapon: Hobgoblin II
+
+
+Destroyed items:
+
+Type-D Altered SS Expanded Cargo
+Expanded Cargohold I
+10MN MicroWarpdrive I, Qty: 2 (Cargo)
+Prototype I Freight Sensors (Cargo)
+Small Capacitor Battery I (Cargo)
+Large Ohm Capacitor Reserve I (Cargo)
+Large Capacitor Battery I, Qty: 5 (Cargo)
+Small Armor Repairer I, Qty: 2 (Cargo)
+Dual 250mm Railgun I (Cargo)
+Modal Mega Electron Particle Accelerator I (Cargo)
+Regulated Light Ion Phase Cannon I (Cargo)
+425mm Railgun I (Cargo)
+Ion Blaster Cannon I (Cargo)
+Thorium Charge L, Qty: 300 (Cargo)
+Antimatter Charge L, Qty: 300 (Cargo)
+Iridium Charge L, Qty: 487 (Cargo)
+Iridium Charge S, Qty: 100 (Cargo)
+Lead Charge S, Qty: 100 (Cargo)
+Praetor I (Cargo)
+Remote Sensor Booster I (Cargo)
+Small Coaxial Regenerative Projector (Cargo)
+Large I-ax Regenerative Projector, Qty: 3 (Cargo)
+Microcell Nanite Thermic Hardener I (Cargo)
+Radioisotope EM Hardener I (Cargo)
+Radioisotope Explosive Hardener I (Cargo)
+Microcell Nanite Explosive Hardener I (Cargo)
+Voltaic Nanite Explosive Hardener I (Cargo)
+Armor Kinetic Hardener I (Cargo)
+800mm Reinforced Nanofiber Plates I (Cargo)
+800mm Reinforced Steel Plates I, Qty: 2 (Cargo)
+100mm Reinforced Steel Plates I (Cargo)
+Serpentis Diamond Tag (Cargo)
+

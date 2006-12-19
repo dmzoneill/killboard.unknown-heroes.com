@@ -1,0 +1,31 @@
+2007.03.25 04:20
+
+Victim: Natheniel
+Alliance: Xelas Alliance
+Corp: Fallen Angel's
+Destroyed: Ares
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Prodigal IV (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Ship: Dominix
+Weapon: Ogre II
+
+
+Destroyed items:
+
+125mm Railgun II
+125mm Railgun II
+Thorium Charge S, Qty: 39
+Sabretooth Light Missile, Qty: 32
+1MN MicroWarpdrive I
+Quad Afocal Light Maser I (Cargo)
+Sabretooth Light Missile, Qty: 2825 (Cargo)
+Conductive Polymer, Qty: 7 (Cargo)
+Nanofiber Internal Structure I (Cargo)
+

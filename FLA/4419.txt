@@ -1,0 +1,99 @@
+2007.04.09 16:37
+
+Victim: Malcanis
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Destroyed: Raven
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Dol Amroth
+Security: 0.2
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Thanatos
+Weapon: Firbolg
+
+Name: Odda (laid the final blow)
+Security: 4.4
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Thanatos
+Weapon: Einherji
+
+Name: Waagaa Ktlehr
+Security: -1.1
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Aeon
+Weapon: Dragonfly
+
+Name: Spacebar
+Security: 2.1
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Unknown
+Weapon: Dragonfly
+
+Name: Nina Mires
+Security: 4.6
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Capsule
+Weapon: 125mm Railgun II
+
+Name: Eleese
+Security: -0.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Lachesis
+Weapon: Hobgoblin II
+
+Name: Rukaz
+Security: 3.1
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Crow
+Weapon: 'Arbalest' Standard Missile Launcher
+
+Name: DrunkenOne
+Security: -0.5
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Claw
+Weapon: 250mm Light Artillery Cannon II
+
+Name: Stradivarious
+Security: 3.7
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Nidhoggur
+Weapon: Templar
+
+
+Destroyed items:
+
+Large Rudimentary Concussion Bomb I
+Large Rudimentary Concussion Bomb I
+Cataclysm Cruise Missile, Qty: 26
+XT-9000 Cruise Launcher
+X-Large C5-L Emergency Shield Overload I
+Eutectic I Capacitor Charge Array
+Alumel-Wired I Sensor Augmentation
+Type-D Power Core Modification: Diagnostic System
+Type-D Power Core Modification: Diagnostic System
+Type-D Power Core Modification: Diagnostic System
+Invulnerability Field I (Cargo)
+Antimatter Charge L, Qty: 100 (Cargo)
+Inferno Torpedo, Qty: 300 (Cargo)
+Thunderbolt Heavy Missile, Qty: 700 (Cargo)
+Cataclysm Cruise Missile, Qty: 857 (Cargo)
+Devastator Cruise Missile, Qty: 2371 (Cargo)
+Paradise Cruise Missile, Qty: 1286 (Cargo)
+Siege Missile Launcher I, Qty: 3 (Cargo)
+'Malkuth' Siege Missile Launcher I, Qty: 2 (Cargo)
+Hobgoblin I, Qty: 2 (Drone Bay)
+Valkyrie I, Qty: 2 (Drone Bay)
+

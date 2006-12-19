@@ -1,0 +1,144 @@
+2006.10.23 20:14
+
+Victim: Trebor Slater
+Alliance: Triumvirate.
+Corp: D00M.
+Destroyed: Typhoon
+System: MI6O-6
+Security: 0.0
+
+Involved parties:
+
+Name: sulky
+Security: 0.5
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Loore
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Megathron
+Weapon: 425mm 'Scout' I Accelerator Cannon
+
+Name: MentalM
+Security: 5.2
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Armageddon
+Weapon: Tachyon Beam Laser II
+
+Name: GrandMastaXP (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Raven
+Weapon: Wrath Cruise Missile
+
+Name: jacass66
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Thanatos
+Weapon: Einherji
+
+Name: AceMace
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Raven
+Weapon: Remote Sensor Dampener I
+
+Name: freestrike
+Security: 5.9
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Eagle
+Weapon: Eagle
+
+Name: Megan Ryder
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: VentureCorp
+Ship: Megathron
+Weapon: Megathron
+
+Name: Ageha
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Apocalypse
+Weapon: Tachyon Beam Laser II
+
+Name: Skornik
+Security: 3.5
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Megathron
+Weapon: 425mm Prototype I Gauss Gun
+
+Name: Yertus Plight
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Lachesis
+Weapon: Dual 150mm Railgun II
+
+Name: Xiang Tai
+Security: 1.7
+Alliance: Imperial Republic Of the North
+Corp: Port Royal Independent Kontractors
+Ship: Scorpion
+Weapon: ECM - Phase Inverter II
+
+Name: Demarcus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Scorpion
+Weapon: 'Arbalest' Siege Missile Launcher
+
+Name: DDaisy
+Security: 4.7
+Alliance: Imperial Republic Of the North
+Corp: VentureCorp
+Ship: Capsule
+Weapon: 425mm Railgun II
+
+Name: Barsak Kressel
+Security: 2.6
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Ship: Raven
+Weapon: 'Limos' Cruise Launcher I
+
+
+Destroyed items:
+
+1400mm Howitzer Artillery II
+1400mm Howitzer Artillery II
+Defender I, Qty: 90
+Bane Torpedo, Qty: 28
+Mjolnir Torpedo, Qty: 14
+Large 'Arup' I Remote Bulwark Reconstruction
+ZW-4100 Siege Missile Bay
+Dread Guristas Assault Missile Launcher
+'Orion' Tracking CPU I
+'Orion' Tracking CPU I
+Gyrostabilizer II
+Adaptive Nano Plating II
+F-b10 Nominal Capacitor Regenerator (Cargo)
+150mm Light AutoCannon II (Cargo)
+Gyrostabilizer II (Cargo)
+Small Armor Repairer II (Cargo)
+Heavy Nosferatu I (Cargo)
+Bane Torpedo, Qty: 286 (Cargo)
+ECM - Multispectral Jammer I (Cargo)
+'Stoic' Core Equalizer I (Cargo)
+Warp Core Stabilizer I, Qty: 2 (Cargo)
+Medium I-ax Regenerative Projector (Cargo)
+Barrage S, Qty: 79 (Cargo)
+Hobgoblin I, Qty: 5 (Drone Bay)
+

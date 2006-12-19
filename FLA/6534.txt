@@ -1,0 +1,40 @@
+2006.11.16 16:37
+
+Victim: Sebastian Hoyle
+Alliance: None
+Corp: Red Mercury Industries
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Karas Rabus (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Huginn
+Weapon: 720mm Howitzer Artillery II
+
+Name: jacass66
+Security: 2.6
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Enyo
+Weapon: Enyo
+
+Name: Dog Cancer
+Security: -0.2
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Crow
+Weapon: Sabretooth Light Missile
+
+Name: Courtney Brown
+Security: 2.6
+Alliance: Freelancer Alliance
+Corp: X.T.R
+Ship: Rifter
+Weapon: Rocket Launcher I
+
+

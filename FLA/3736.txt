@@ -1,0 +1,50 @@
+2007.03.30 23:24
+
+Victim: TheZwo
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Destroyed: Merlin
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Irishwrath (laid the final blow)
+Security: 3.9
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Taranis
+Weapon: Light Neutron Blaster II
+
+Name: Olli
+Security: -0.1
+Alliance: S.E.R.A
+Corp: Seraphin Technologies
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+Name: KIAEnIgMa
+Security: 0.4
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+Name: Robet Katrix
+Security: 2.5
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Chimera
+Weapon: Templar
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 27
+Warp Scrambler I
+Warp Disruptor I
+Tracking Disruptor I
+Plutonium Charge S, Qty: 1480 (Cargo)
+Bloodclaw Light Missile, Qty: 60 (Cargo)
+Flameburst Light Missile, Qty: 102 (Cargo)
+

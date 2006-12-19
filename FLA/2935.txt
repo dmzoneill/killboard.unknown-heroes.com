@@ -1,0 +1,159 @@
+2007.03.17 02:02
+
+Victim: nreisan
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Destroyed: Drake
+System: OWXT-5
+Security: 0.0
+
+Involved parties:
+
+Name: kezz2411
+Security: 5.3
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Salinas
+Security: 2.6
+Alliance: Aftermath Alliance
+Corp: Dark Nebula Gallente Division
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Callistus
+Security: -2.5
+Alliance: Corelum Syndicate
+Corp: Coreli Corporation
+Ship: Taranis
+Weapon: Taranis
+
+Name: BECKARD
+Security: 5.0
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: dOG2314
+Security: 4.9
+Alliance: Axiom Empire
+Corp: United Society Starfleet
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: Proxay (laid the final blow)
+Security: 5.0
+Alliance: Xelas Alliance
+Corp: Fallen Angel's
+Ship: Stabber
+Weapon: Havoc Heavy Missile
+
+Name: Landock 360
+Security: 4.1
+Alliance: Xelas Alliance
+Corp: Fallen Angel's
+Ship: Eris
+Weapon: Light Ion Blaster II
+
+Name: IamnobodyCL
+Security: 5.0
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Vengeance
+Weapon: Vengeance
+
+Name: Oortog
+Security: 4.0
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Pilgrim
+Weapon: Valkyrie II
+
+Name: Syra Tpal
+Security: 5.0
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Malediction
+Weapon: Medium Pulse Laser II
+
+Name: Sebesria
+Security: 5.0
+Alliance: Axiom Empire
+Corp: United Society Starfleet
+Ship: Crusader
+Weapon: Crusader
+
+Name: e3joker
+Security: 3.8
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: Criosachille
+Security: 3.5
+Alliance: Xelas Alliance
+Corp: Catalyst Reaction
+Ship: Taranis
+Weapon: Light Neutron Blaster II
+
+Name: Sadness
+Security: 4.8
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Crow
+Weapon: Sabretooth Light Missile
+
+Name: kabayn
+Security: 5.0
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: fnar g
+Security: -6.0
+Alliance: Corelum Syndicate
+Corp: Coreli Corporation
+Ship: Rifter
+Weapon: Thorn Rocket
+
+Name: Desiderious
+Security: 4.6
+Alliance: Xelas Alliance
+Corp: Catalyst Reaction
+Ship: Myrmidon
+Weapon: Valkyrie I
+
+Name: ollobrains
+Security: 5.0
+Alliance: Xelas Alliance
+Corp: Crimson Crusaders
+Ship: Enyo
+Weapon: Small 'Ghoul' Energy Siphon I
+
+Name: Hong Jiansen
+Security: 1.6
+Alliance: Corelum Syndicate
+Corp: Coreli Corporation
+Ship: Taranis
+Weapon: Light Neutron Blaster II
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Scourge Heavy Missile, Qty: 99
+Advanced 'Limos' Heavy Missile Bay I
+Advanced 'Limos' Heavy Missile Bay I
+Advanced 'Limos' Heavy Missile Bay I
+Large F-S9 Regolith Shield Induction
+Large F-S9 Regolith Shield Induction
+Warp Disruptor I
+Invulnerability Field I
+Reactor Control Unit I
+Scourge Heavy Missile, Qty: 1102 (Cargo)
+

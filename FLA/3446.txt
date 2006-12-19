@@ -1,0 +1,33 @@
+2007.03.27 05:26
+
+Victim: Leto Centraq
+Alliance: None
+Corp: Deep Core Mining Inc.
+Destroyed: Ibis
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: AlexeiShtukov (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Torothin
+Security: 3.0
+Alliance: None
+Corp: Emerald Empire
+Ship: Malediction
+Weapon: Sabretooth Light Missile
+
+Name: Machrial Hanendre
+Security: -0.1
+Alliance: None
+Corp: Emerald Empire
+Ship: Probe
+Weapon: Probe
+
+

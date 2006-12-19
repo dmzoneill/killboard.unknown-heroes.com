@@ -1,0 +1,33 @@
+2007.03.09 18:38
+
+Victim: g 402a
+Alliance: Chorus of Dawn
+Corp: Free Lapland
+Destroyed: Capsule
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: BelinuS
+Security: 4.7
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Claw
+Weapon: Flameburst Light Missile
+
+Name: Cyrila Wolf
+Security: -2.2
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Stiletto
+Weapon: 200mm AutoCannon II
+
+Name: Tregaron (laid the final blow)
+Security: 1.8
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+

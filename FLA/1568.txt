@@ -1,0 +1,26 @@
+2007.03.17 04:02
+
+Victim: Galaxor
+Alliance: YouWhat
+Corp: Beasts of Burden
+Destroyed: Capsule
+System: MJYW-3
+Security: 0.0
+
+Involved parties:
+
+Name: Weeble Wooble (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Cyrila Wolf
+Security: -2.2
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Stiletto
+Weapon: Stiletto
+
+

@@ -1,0 +1,33 @@
+2007.03.19 15:32
+
+Victim: Solci
+Alliance: Eternal Rapture
+Corp: Quantum Synergies
+Destroyed: Capsule
+System: O-BDXB
+Security: 0.0
+
+Involved parties:
+
+Name: S Dietershagen
+Security: 4.8
+Alliance: Freelancer Alliance
+Corp: The Night Crew
+Ship: Wolf
+Weapon: 280mm Howitzer Artillery II
+
+Name: Cockroach (laid the final blow)
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Prophecy
+Weapon: Heavy Pulse Laser II
+
+Name: Villwrath
+Security: 3.5
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Enyo
+Weapon: Enyo
+
+

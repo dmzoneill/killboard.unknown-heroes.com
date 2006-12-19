@@ -1,0 +1,33 @@
+2007.03.19 04:59
+
+Victim: Bull Ramahorn
+Alliance: YouWhat
+Corp: Beasts of Burden
+Destroyed: Capsule
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: ISliverI (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Arazu
+Weapon: Warrior II
+
+Name: JaiMaster
+Security: 2.7
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Cyclone
+Weapon: 720mm Howitzer Artillery II
+
+Name: death1023
+Security: 2.9
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Hyperion
+Weapon: 425mm 'Scout' I Accelerator Cannon
+
+

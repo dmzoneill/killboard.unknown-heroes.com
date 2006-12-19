@@ -1,0 +1,41 @@
+2007.04.05 14:18
+
+Victim: Marie Veedor
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Hawk
+System: ZOYW-O
+Security: 0.0
+
+Involved parties:
+
+Name: stainage (laid the final blow)
+Security: -1.2
+Alliance: None
+Corp: Final-Vendetta
+Ship: Eos
+Weapon: Heavy Ion Blaster II
+
+Name: Hornster
+Security: -1.1
+Alliance: None
+Corp: Final-Vendetta
+Ship: Pilgrim
+Weapon: Warrior II
+
+
+Destroyed items:
+
+Small 'Ghoul' Energy Siphon I
+Flameburst Light Missile, Qty: 37
+Sabretooth Light Missile, Qty: 37
+Piranha Light Missile, Qty: 38
+Upgraded 'Limos' Standard Missile Bay I
+Upgraded 'Limos' Standard Missile Bay I
+Upgraded 'Limos' Standard Missile Bay I
+1MN Afterburner II
+Power Diagnostic System II
+Power Diagnostic System II
+Piranha Light Missile, Qty: 603 (Cargo)
+Flameburst Light Missile, Qty: 639 (Cargo)
+

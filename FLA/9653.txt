@@ -1,0 +1,68 @@
+2007.05.21 20:46
+
+Victim: Eldar Grey
+Alliance: None
+Corp: Paladines
+Destroyed: Gallente Shuttle
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Corovus (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+Name: silent uk
+Security: 2.5
+Alliance: DeStInY.
+Corp: Sacred Templars
+Ship: Heretic
+Weapon: Dual Light Beam Laser II
+
+Name: Kotori
+Security: -0.2
+Alliance: DeStInY.
+Corp: Sacred Templars
+Ship: Heretic
+Weapon: Heretic
+
+Name: articz
+Security: -0.3
+Alliance: DeStInY.
+Corp: House Of Aaron
+Ship: Rifter
+Weapon: Fleeting Warp Scrambler I
+
+Name: Ocara Nezus
+Security: 1.5
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Crow
+Weapon: 'Arbalest' Standard Missile Launcher
+
+Name: Miss Sparkles
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Griffin
+Weapon: Upgraded 'Limos' Standard Missile Bay I
+
+Name: Kvarium Ki
+Security: 2.3
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Muninn
+Weapon: 720mm Howitzer Artillery II
+
+Name: Dibbes
+Security: 0.1
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Taranis
+Weapon: Taranis
+
+

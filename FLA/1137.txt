@@ -1,0 +1,68 @@
+2007.03.05 22:47
+
+Victim: DeSurVal
+Alliance: Axiom Empire
+Corp: Fenix Reloaded
+Destroyed: Capsule
+System: PNQY-Y
+Security: 0.0
+
+Involved parties:
+
+Name: Cyrila Wolf (laid the final blow)
+Security: -2.2
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Rupture
+Weapon: 720mm Howitzer Artillery I
+
+Name: Muad' Dib
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Malediction
+Weapon: Balmer Series Targeting Inhibitor I
+
+Name: coldkill
+Security: 1.8
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Ishkur
+Weapon: 125mm Railgun II
+
+Name: Kaand
+Security: 3.4
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Jaguar
+Weapon: J5b Phased Prototype Warp Inhibitor I
+
+Name: Hedeon Mishenka
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Coercer
+Weapon: Medium Pulse Laser II
+
+Name: Puz'ZaW
+Security: 2.7
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Claw
+Weapon: OE-5200 Rocket Launcher
+
+Name: Ocara Nezus
+Security: 2.3
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Hawk
+Weapon: Standard Missile Launcher II
+
+Name: Illesa
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Stiletto
+Weapon: Standard Missile Launcher I
+
+

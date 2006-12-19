@@ -1,0 +1,30 @@
+2007.01.25 16:12
+
+Victim: Rhaall
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Bestower
+System: Uemisaisen
+Security: 0.6
+
+Involved parties:
+
+Name: Reggie Kray (laid the final blow)
+Security: -1.7
+Alliance: Privateer Alliance
+Corp: Mentally Unstable Enterprises
+Ship: Dominix
+Weapon: Valkyrie II
+
+
+Destroyed items:
+
+Small Tractor Beam I
+Medium Shield Extender I
+Warp Core Stabilizer I
+Warp Core Stabilizer I
+Energized Adaptive Nano Membrane I
+Energized Adaptive Nano Membrane I
+Photonic CPU Enhancer I (Cargo)
+Strip Miner I, Qty: 2 (Cargo)
+

@@ -1,0 +1,28 @@
+2007.03.15 19:48
+
+Victim: Tellatubby
+Alliance: None
+Corp: The Descent
+Destroyed: Kestrel
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Sanal Gi (laid the final blow)
+Security: 1.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Raven
+Weapon: Cataclysm Cruise Missile
+
+
+Destroyed items:
+
+Thorn Rocket, Qty: 30
+Gremlin Rocket, Qty: 30
+Small Shield Booster I
+1MN MicroWarpdrive I
+Stasis Webifier I
+Overdrive Injector System I
+

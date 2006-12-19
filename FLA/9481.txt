@@ -1,0 +1,45 @@
+2007.05.10 21:26
+
+Victim: Kalazar
+Alliance: Veto Corp
+Corp: Veto. Academy
+Destroyed: Stabber
+System: Manjonakko
+Security: 0.3
+
+Involved parties:
+
+Name: Feke (laid the final blow)
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Myrmidon
+Weapon: Heavy Electron Blaster I
+
+Name: Steven FSB
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Myrmidon
+Weapon: Ogre I
+
+Name: marksman 4death
+Security: 0.2
+Alliance: None
+Corp: malakoff Corp
+Ship: Unknown
+Weapon: Standard Missile Launcher I
+
+
+Destroyed items:
+
+Dual 180mm AutoCannon II
+Barrage M, Qty: 175
+Bloodclaw Light Missile, Qty: 55
+'Arbalest' Assault Missile Launcher
+Large Shield Extender II
+10MN MicroWarpdrive I
+Type-D Altered SS Inertial Stabilizers
+Beta Hull Mod Nanofiber Structure
+Barrage M, Qty: 1065 (Cargo)
+

@@ -1,0 +1,44 @@
+2007.05.12 18:12
+
+Victim: wardey
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Malediction
+System: 93PI-4
+Security: 0.0
+
+Involved parties:
+
+Name: Coltra
+Security: 2.0
+Alliance: None
+Corp: B E R Z E R K E R
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: Lord Lorkaz
+Security: 3.2
+Alliance: None
+Corp: Porandor
+Ship: Thorax
+Weapon: Anode Neutron Particle Cannon I
+
+Name: xuivan (laid the final blow)
+Security: 0.8
+Alliance: None
+Corp: B E R Z E R K E R
+Ship: Thorax
+Weapon: Anode Ion Particle Cannon I
+
+
+Destroyed items:
+
+Dual Light Beam Laser II
+Dual Light Beam Laser II
+Aurora S
+Catalyzed Cold-Gas I Arcjet Thrusters
+Warp Disruptor II
+Micro Capacitor Booster I
+Micro Auxiliary Power Core I
+Gleam S, Qty: 3 (Cargo)
+

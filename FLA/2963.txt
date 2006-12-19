@@ -1,0 +1,26 @@
+2007.03.17 18:15
+
+Victim: Drist
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Destroyed: Capsule
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: callon (laid the final blow)
+Security: -1.1
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: callonious
+Security: 0.4
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Curse
+Weapon: Vespa II
+
+

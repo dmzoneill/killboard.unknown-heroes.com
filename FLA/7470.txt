@@ -1,0 +1,57 @@
+2006.09.08 22:58
+
+Victim: kessah
+Alliance: None
+Corp: Blood Corsairs
+Destroyed: Claw
+System: K4YZ-Y
+Security: 0.0
+
+Involved parties:
+
+Name: Jumar Coldgin (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: kone on
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Tempest
+Weapon: 'Malkuth' Siege Missile Launcher I
+
+Name: Hosanna
+Security: -2.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: jacass66
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Thanatos
+Weapon: Firbolg
+
+Name: Serpentis Commodore / Serpentis Corporation
+
+
+Destroyed items:
+
+150mm Light AutoCannon II
+150mm Light AutoCannon II
+EMP S, Qty: 80
+Foxfire Rocket, Qty: 30
+'Malkuth' Rocket Launcher I
+1MN MicroWarpdrive I
+Initiated Harmonic Warp Jammer I
+Energized Adaptive Nano Membrane I
+200mm Reinforced Rolled Tungsten Plates I
+Corpse (Cargo)
+Medium Armor Repairer II (Cargo)
+EMP S, Qty: 2455 (Cargo)
+

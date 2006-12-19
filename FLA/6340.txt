@@ -1,0 +1,26 @@
+2006.11.12 17:02
+
+Victim: BlasterMechanism
+Alliance: None
+Corp: State War Academy
+Destroyed: Ibis
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: GrandMastaXP (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: AleXinO Gardon
+Security: 5.0
+Alliance: O X I D E
+Corp: W33D Corp.
+Ship: Caracal
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+

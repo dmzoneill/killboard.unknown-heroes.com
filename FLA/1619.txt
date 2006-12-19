@@ -1,0 +1,56 @@
+2007.03.18 14:04
+
+Victim: Captain Beignet
+Alliance: None
+Corp: Black Sun Industries
+Destroyed: Viator
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Drist (laid the final blow)
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Typhoon
+Weapon: Vespa II
+
+Name: Lee Thrace
+Security: 5.0
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Thorax
+Weapon: Hammerhead II
+
+Name: Gargh Ahhwell
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Harpy
+Weapon: Harpy
+
+Name: Aleric Vikyz
+Security: -1.1
+Alliance: Galactic-Federation
+Corp: Devious - Special Forces G.H.O.S.T Fleet Delta
+Ship: Caracal
+Weapon: Widowmaker Heavy Missile
+
+Name: crazymaz
+Security: 3.4
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Malediction
+Weapon: Malediction
+
+
+Destroyed items:
+
+Improved Cloaking Device II
+Ballistic Deflection Field I
+Heat Dissipation Field I
+Warp Core Stabilizer I
+Warp Core Stabilizer I
+Expanded Cargohold II (Cargo)
+

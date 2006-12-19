@@ -1,0 +1,27 @@
+2006.10.02 06:07
+
+Victim: Averenor
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Destroyed: Brutix
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: munia (laid the final blow)
+Security: 5.1
+Alliance: Process of Elimination
+Corp: LDK
+Ship: Zealot
+Weapon: Heavy Pulse Laser II
+
+
+Destroyed items:
+
+250mm Prototype I Gauss Gun
+250mm Prototype I Gauss Gun
+200mm Prototype I Gauss Gun
+Antimatter Charge M, Qty: 70
+Fleeting Propulsion Inhibitor I
+

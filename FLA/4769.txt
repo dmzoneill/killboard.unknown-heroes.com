@@ -1,0 +1,65 @@
+2007.04.21 15:10
+
+Victim: DarkVIper1
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Rifter
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Dana Foxworth (laid the final blow)
+Security: 3.7
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Hurricane
+Weapon: 720mm Howitzer Artillery I
+
+Name: Kayron Brennan
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Caracal
+Weapon: Bloodclaw Light Missile
+
+Name: Shassandra
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Dominix
+Weapon: E500 Prototype Energy Vampire
+
+Name: Mocuker
+Security: 0.2
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Caracal
+Weapon: Advanced 'Limos' Heavy Missile Bay I
+
+Name: Corovus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Nemesis
+Weapon: Nemesis
+
+Name: Marie Veedor
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Drake
+Weapon: Target Painter I
+
+
+Destroyed items:
+
+150mm Light Gallium I Machine Gun
+150mm Light Gallium I Machine Gun
+150mm Light Gallium I Machine Gun
+Nuclear S, Qty: 218
+1MN MicroWarpdrive I
+Warp Scrambler I
+Gyrostabilizer I
+Small Armor Repairer I
+

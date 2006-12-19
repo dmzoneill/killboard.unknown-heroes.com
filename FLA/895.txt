@@ -1,0 +1,51 @@
+2007.02.26 00:54
+
+Victim: Zun1t0n1u7833A
+Alliance: None
+Corp: Borgnine Systems
+Destroyed: Kestrel
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Lillegutt (laid the final blow)
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Ship: Armageddon
+Weapon: Mega Pulse Laser II
+
+Name: KingRizen
+Security: -2.1
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Ship: Crow
+Weapon: Bloodclaw Fury Light Missile
+
+Name: Hopeless EQUILIBRIUM
+Security: 0.0
+Alliance: O X I D E
+Corp: W33D Corp.
+Ship: Vengeance
+Weapon: Vengeance
+
+Name: Moridin Bashere
+Security: -0.6
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Ship: Arbitrator
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+Name: zentroty
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Ship: Drake
+Weapon: Heavy Missile Launcher I
+
+
+Destroyed items:
+
+Phased Plasma S, Qty: 1000 (Cargo)
+

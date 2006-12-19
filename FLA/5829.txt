@@ -1,0 +1,40 @@
+2006.10.23 20:04
+
+Victim: Laarz
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Destroyed: Stabber
+System: MI6O-6
+Security: 0.0
+
+Involved parties:
+
+Name: GrandMastaXP (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+Name: Jin Steele
+Security: 3.7
+Alliance: None
+Corp: Fatalix Inc.
+Ship: Blackbird
+Weapon: Widowmaker Heavy Missile
+
+Name: jacass66
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Thanatos
+Weapon: Dragonfly
+
+
+Destroyed items:
+
+EMP M, Qty: 152
+Thunderbolt Heavy Missile, Qty: 29
+Barrage M, Qty: 1000 (Cargo)
+Thunderbolt Heavy Missile, Qty: 78 (Cargo)
+

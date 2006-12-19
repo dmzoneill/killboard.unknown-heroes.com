@@ -1,0 +1,49 @@
+2007.04.18 04:50
+
+Victim: Aridante Lemure
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Destroyed: Thorax
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Green Leaner
+Security: 2.1
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Sleipnir
+Weapon: Sleipnir
+
+Name: Ronald Speirs (laid the final blow)
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Nidhoggur
+Weapon: Berserker I
+
+Name: War Bear
+Security: 2.8
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: LordMordred
+Security: 0.1
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Chimera
+Weapon: Heavy Unstable Power Fluctuator I
+
+
+Destroyed items:
+
+Antimatter Charge M, Qty: 289
+10MN MicroWarpdrive I
+Warp Scrambler I
+Stasis Webifier I
+Magnetic Field Stabilizer I
+Antimatter Charge M, Qty: 935 (Cargo)
+

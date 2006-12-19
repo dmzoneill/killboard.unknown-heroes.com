@@ -1,0 +1,82 @@
+2007.04.02 03:11
+
+Victim: iNFoRMaLiTY
+Alliance: Freelancer Alliance
+Corp: Blackwater Squadron
+Destroyed: Megathron
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Sith Bandon
+Security: 5.0
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Ishtar
+Weapon: Berserker II
+
+Name: Yushii
+Security: -0.4
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Machariel
+Weapon: Machariel
+
+Name: vyperpit (laid the final blow)
+Security: 4.5
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Renu
+Security: -1.0
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Claymore
+Weapon: 650mm Artillery Cannon II
+
+Name: WarGod
+Security: 1.2
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Curse
+Weapon: Valkyrie II
+
+Name: K Shara
+Security: 5.0
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+Name: Deadeye Knight
+Security: 0.4
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Ares
+Weapon: Standard Missile Launcher II
+
+Name: Stooboy
+Security: 1.3
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Rook
+Weapon: 'Hypnos' Ion Field ECM I
+
+
+Destroyed items:
+
+425mm Railgun II
+425mm Railgun II
+Spike L, Qty: 105
+Sensor Booster II
+Sensor Booster II
+Sensor Booster II
+Tracking Computer II
+Tracking Enhancer II
+Magnetic Field Stabilizer II
+Magnetic Field Stabilizer II
+Heavy Shield Maintenance Bot I, Qty: 4 (Drone Bay)
+

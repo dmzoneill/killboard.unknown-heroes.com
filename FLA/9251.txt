@@ -1,0 +1,101 @@
+2007.05.05 16:17
+
+Victim: Kvarium Ki
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Destroyed: Hurricane
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: KaKaShI
+Security: 4.2
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: SaNoSuKeJavi (laid the final blow)
+Security: -2.0
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Thorax
+Weapon: Heavy Ion Blaster II
+
+Name: mafutero
+Security: 0.2
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Crow
+Weapon: Fleeting Warp Scrambler I
+
+Name: Kraiven
+Security: 5.0
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Brutix
+Weapon: Brutix
+
+Name: Diego Barbera
+Security: 0.9
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Claw
+Weapon: Claw
+
+Name: stich626
+Security: -1.2
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Myrmidon
+Weapon: Myrmidon
+
+Name: Primos Gun
+Security: 4.5
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Myrmidon
+Weapon: Myrmidon
+
+Name: Travieso
+Security: -2.6
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Claw
+Weapon: Warp Disruptor I
+
+Name: Qirajiii
+Security: 4.0
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Celestis
+Weapon: Remote Sensor Dampener II
+
+Name: Evil Bunnies
+Security: 0.3
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Blackbird
+Weapon: Induced Ion Field ECM I
+
+
+Destroyed items:
+
+720mm Howitzer Artillery I
+720mm Howitzer Artillery I
+Fusion M, Qty: 11
+Sabretooth Light Missile, Qty: 116
+Assault Missile Launcher I
+Assault Missile Launcher I
+Tracking Computer I
+Tracking Computer I
+Gyrostabilizer I
+Damage Control I
+Energized Adaptive Nano Membrane I
+Energized Adaptive Nano Membrane I
+Phased Plasma M, Qty: 1000 (Cargo)
+Mobile Small Warp Disruptor I (Cargo)
+Sabretooth Light Missile, Qty: 91 (Cargo)
+Acolyte I (Drone Bay)
+

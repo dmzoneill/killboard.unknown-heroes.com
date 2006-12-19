@@ -1,0 +1,145 @@
+2007.02.04 19:20
+
+Victim: Empero
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Destroyed: Hurricane
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: ClogMan
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Raven
+Weapon: Inferno Torpedo
+
+Name: sakana (laid the final blow)
+Security: -1.0
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Megathron
+Weapon: 425mm Carbide Railgun I
+
+Name: Minisoza
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Brutix
+Weapon: Brutix
+
+Name: SuperDuplex
+Security: 0.7
+Alliance: The Foundation.
+Corp: EVE Corporation 160607
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Goca
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Ferox
+Weapon: Widowmaker Heavy Missile
+
+Name: Stonegard
+Security: 5.0
+Alliance: The Foundation.
+Corp: EVE Corporation 160607
+Ship: Vulture
+Weapon: 250mm Railgun II
+
+Name: Jonkai
+Security: -4.7
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Hojo Norem
+Security: 3.2
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Cormorant
+Weapon: 125mm 'Scout' I Accelerator Cannon
+
+Name: malkey
+Security: 4.4
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Blackbird
+Weapon: Widowmaker Heavy Missile
+
+Name: william kronos
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Lux0r
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Hawk
+Weapon: Bloodclaw Precision Light Missile
+
+Name: Luxe Ecru
+Security: 1.5
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Thorax
+Weapon: Hammerhead II
+
+Name: Teck7
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ishtar
+Weapon: Ishtar
+
+Name: Cockroach
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Purifier
+Weapon: Paradise Cruise Missile
+
+Name: beretta74
+Security: 2.8
+Alliance: The Foundation.
+Corp: EVE Corporation 160607
+Ship: Thorax
+Weapon: Thorax
+
+Name: Sorlac Aurora
+Security: 1.2
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Drake
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+Name: Skull Fire
+Security: 0.6
+Alliance: The Foundation.
+Corp: Cornerstone Unlimited
+Ship: Rokh
+Weapon: 'Arbalest' Siege Missile Launcher
+
+
+Destroyed items:
+
+425mm Medium Prototype I Automatic Cannon, Qty: 3
+220mm Medium Prototype I Automatic Cannon
+Medium Nosferatu II
+Phased Plasma M, Qty: 138
+Y-T8 Overcharged Hydrocarbon I Microwarpdrive
+Medium Armor Repairer II
+Beta Hull Mod Inertial Stabilizers, Qty: 2
+Type-D Altered SS Nanofiber Structure
+Phased Plasma M, Qty: 1038 (Cargo)
+Fusion M, Qty: 2206 (Cargo)
+Carbonized Lead M, Qty: 568 (Cargo)
+Hornet EC-300 (Drone Bay)

@@ -1,0 +1,79 @@
+2007.02.22 14:34
+
+Victim: Madcapnl
+Alliance: None
+Corp: The Rising Stars
+Destroyed: Hyperion
+System: RZC-16
+Security: 0.0
+
+Involved parties:
+
+Name: Guristas Demolisher / Guristas
+
+Name: Pixnator
+Security: -1.1
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Raven
+Weapon: Inferno Javelin Torpedo
+
+Name: mne lee
+Security: 1.3
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Dominix
+Weapon: Ogre II
+
+Name: Tuschii (laid the final blow)
+Security: -0.1
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Dominix
+Weapon: Heavy Neutron Blaster II
+
+Name: Kiara Diepp
+Security: -1.5
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Hawk
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+
+Destroyed items:
+
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Dual Heavy Anode Pulse Particle Stream I
+Ultraviolet L
+Ultraviolet L
+Shock 'Limos' Siege Missile Bay I
+Fixed Parallel Link-Capacitor I
+Cap Recharger I
+Target Painter II
+Large Armor Repairer I
+N-Type Kinetic Hardener I
+N-Type Thermic Hardener I
+Large S95a Partial Shield Transporter (Cargo)
+Prototype I Freight Sensors (Cargo)
+Rudimentary Ship Scanner I (Cargo)
+Miner I (Cargo)
+Medium F-4a Ld-Sulfate I Capacitor Charge Unit (Cargo)
+Medium Peroxide I Capacitor Power Cell (Cargo)
+Small Hull Repairer I (Cargo)
+Small Nosferatu I (Cargo)
+Dual 250mm Railgun I (Cargo)
+Medium F-RX Prototype I Capacitor Boost (Cargo)
+Thorium Charge S, Qty: 100 (Cargo)
+Iron Charge S, Qty: 100 (Cargo)
+Juggernaut Torpedo, Qty: 559 (Cargo)
+ECCM - Gravimetric I (Cargo)
+ECCM Projector I (Cargo)
+Fried Interface Circuit (Cargo)
+Burned Logic Circuit, Qty: 16 (Cargo)
+Conductive Polymer, Qty: 3 (Cargo)
+

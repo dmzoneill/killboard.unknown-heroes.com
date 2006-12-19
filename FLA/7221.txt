@@ -1,0 +1,60 @@
+2006.04.25 00:11
+
+Victim: DaYoungGun
+Alliance: Serenus Letum
+Corp: Unity Vanguard
+Destroyed: Caracal
+System: CZDJ-1
+Security: 0.0
+
+Involved parties:
+
+Name: Selena 001
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Apocalypse
+Weapon: Apocalypse
+
+Name: TheBelgarion
+Security: 2.6
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: AXi0S (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Freelancer Union
+Ship: Megathron
+Weapon: 425mm 'Scout' I Accelerator Cannon
+
+Name: Lord GreyMere
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Royal Flying Aces
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery I
+
+Name: noba
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Royal Flying Aces
+Ship: Dominix
+Weapon: ECM - Multispectral Jammer I
+
+Name: 31i73
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Cerberus
+Weapon: Dread Guristas Heavy Missile Launcher
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 86
+Heavy Missile Launcher I
+Target Painter I
+

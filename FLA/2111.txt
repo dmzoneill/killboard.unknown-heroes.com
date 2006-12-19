@@ -1,0 +1,36 @@
+2007.01.21 17:01
+
+Victim: Solarienne
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Destroyed: Hawk
+System: VRH-H7
+Security: 0.0
+
+Involved parties:
+
+Name: Kabalevsky (laid the final blow)
+Security: -2.3
+Alliance: Anarchy Empire
+Corp: Celtic Anarchy
+Ship: Typhoon
+Weapon: Mjolnir Torpedo
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 94
+TE-2100 Standard Missile Bay
+'Arbalest' Standard Missile Launcher
+'Arbalest' Standard Missile Launcher
+Small Azeotropic Ward Salubrity I
+Small C5-L Emergency Shield Overload I
+Fleeting Warp Scrambler I
+Ballistic Control System II
+Ballistic Control System II
+Graviton Physics (Cargo)
+100mm Reinforced Titanium Plates I (Cargo)
+Bloodclaw Light Missile, Qty: 9812 (Cargo)
+Advanced 'Limos' Heavy Missile Bay I (Cargo)
+Beta Hull Mod Inertial Stabilizers (Cargo)
+

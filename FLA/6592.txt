@@ -1,0 +1,90 @@
+2006.11.18 23:43
+
+Victim: Richtinsoldier
+Alliance: None
+Corp: Gravis Corp
+Destroyed: Scorpion
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Aquamundi (laid the final blow)
+Security: 2.9
+Alliance: Dusk and Dawn
+Corp: Asgard Schiffswerften
+Ship: Taranis
+Weapon: Light Neutron Blaster II
+
+Name: LiBraga
+Security: 4.1
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Eagle
+Weapon: 250mm Prototype I Gauss Gun
+
+Name: Scorpio63
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Vengeance
+Weapon: Vengeance
+
+Name: Luthien Firefoot
+Security: 3.2
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+Name: Marvel Master
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Asgard Schiffswerften
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: hejjbazeg
+Security: 3.1
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Tempest
+Weapon: Tempest
+
+Name: Gamer1K
+Security: 4.6
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Eagle
+Weapon: SV-2000 Assault Missile Bay
+
+Name: Weuzor
+Security: 0.0
+Alliance: Dusk and Dawn
+Corp: Asgard Schiffswerften
+Ship: Stiletto
+Weapon: Stiletto
+
+
+Destroyed items:
+
+Heavy 'Knave' I Energy Drain
+Paradise Cruise Missile, Qty: 63
+'Malkuth' Cruise Launcher I
+'Malkuth' Cruise Launcher I
+J5 Prototype Warp Inhibitor I
+Patterned Stasis Web I
+Heavy Electrochemical Capacitor Booster I
+Cap Booster 800
+Cap Booster 800
+ECM - Multispectral Jammer I
+ECM - Multispectral Jammer I
+ECM - Multispectral Jammer I
+F-90 Positional Sensor Subroutines
+Large 'Accommodation' Vestment Reconstructer I
+Medium Armor Repairer I
+Cap Booster 800, Qty: 10 (Cargo)
+Paradise Cruise Missile, Qty: 1272 (Cargo)
+Valkyrie I, Qty: 3 (Drone Bay)
+Warrior I (Drone Bay)
+

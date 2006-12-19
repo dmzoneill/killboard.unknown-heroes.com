@@ -1,0 +1,66 @@
+2007.02.09 23:03
+
+Victim: Lord KesH
+Alliance: Triumvirate.
+Corp: D00M.
+Destroyed: Claw
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: tzar1024
+Security: 2.0
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Ship: Rifter
+Weapon: Rifter
+
+Name: ventura5
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Xantheris (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: arthell
+Security: 2.8
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Vexor
+Weapon: Vexor
+
+Name: moon wolf
+Security: 5.0
+Alliance: The Foundation.
+Corp: EVE Corporation 160607
+Ship: Harpy
+Weapon: Harpy
+
+Name: Liesin
+Security: 3.2
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Moa
+Weapon: 200mm Carbide Railgun I
+
+
+Destroyed items:
+
+200mm AutoCannon II
+Barrage S, Qty: 167
+Rocket Launcher II
+Damage Control I
+Small Armor Repairer II
+Adaptive Nano Plating II
+X5 Prototype I Engine Enervator (Cargo)
+Hail S, Qty: 1000 (Cargo)
+Foxfire Rocket, Qty: 1034 (Cargo)
+

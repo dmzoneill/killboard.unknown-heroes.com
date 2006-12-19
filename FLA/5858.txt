@@ -1,0 +1,19 @@
+2006.10.24 17:21
+
+Victim: Lilani Kuzma
+Alliance: Chimaera Pact
+Corp: Brass Monkeys Society
+Destroyed: Capsule
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Digioso (laid the final blow)
+Security: 1.3
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Megathron
+Weapon: Domination Large Proton Smartbomb
+
+

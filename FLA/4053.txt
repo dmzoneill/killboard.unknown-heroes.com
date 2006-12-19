@@ -1,0 +1,26 @@
+2007.04.11 00:32
+
+Victim: XN Spectre
+Alliance: None
+Corp: School of Applied Knowledge
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Kelton Lermetov (laid the final blow)
+Security: 2.6
+Alliance: 3asy Company
+Corp: Eth3real
+Ship: Hawk
+Weapon: Sabretooth Precision Light Missile
+
+Name: Kristian Dugat
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Anathema
+Weapon: Medium Beam Laser II
+
+

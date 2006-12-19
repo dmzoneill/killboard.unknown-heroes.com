@@ -1,0 +1,37 @@
+2007.01.19 03:19
+
+Victim: Drokar Gazer
+Alliance: None
+Corp: Exanimo Inc
+Destroyed: Crow
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Fugnut
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Drake
+Weapon: Warrior I
+
+Name: Xantheris (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+
+Destroyed items:
+
+Antimatter Charge S, Qty: 60
+Bloodclaw Light Missile, Qty: 88
+Standard Missile Launcher II
+Standard Missile Launcher II
+Micro Auxiliary Power Core I
+Capacitor Power Relay I
+Capacitor Power Relay I
+Sabretooth Light Missile, Qty: 1000 (Cargo)
+

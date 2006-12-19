@@ -1,0 +1,32 @@
+2007.02.21 18:49
+
+Victim: Marshalll
+Alliance: Privateer Alliance
+Corp: Sicarri Covenant
+Destroyed: Heron
+System: Jita
+Security: 0.9
+
+Involved parties:
+
+Name: Ghu'ru Talozan (laid the final blow)
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ishkur
+Weapon: Hammerhead II
+
+Name: Ephesus 1
+Security: 2.0
+Alliance: X-PACT
+Corp: Mom 'n' Pop Ammo Shoppe
+Ship: Blackbird
+Weapon: Heavy Missile Launcher I
+
+
+Destroyed items:
+
+Snoop Scanner Probe I
+Snoop Scanner Probe I
+Snoop Scanner Probe I
+

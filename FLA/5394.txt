@@ -1,0 +1,26 @@
+2007.04.28 20:18
+
+Victim: Antigen Po
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Destroyed: Capsule
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Indiano Arko (laid the final blow)
+Security: 0.6
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Hurricane
+Weapon: 720mm Howitzer Artillery I
+
+Name: Hojou
+Security: 0.4
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Incursus
+Weapon: 125mm Carbide Railgun I
+
+

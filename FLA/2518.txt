@@ -1,0 +1,40 @@
+2007.02.17 21:24
+
+Victim: True Tora
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Thrasher
+System: Uedama
+Security: 0.5
+
+Involved parties:
+
+Name: Gammagandalf (laid the final blow)
+Security: -1.7
+Alliance: Privateer Alliance
+Corp: Tempt Fate
+Ship: Thorax
+Weapon: Heavy Ion Blaster I
+
+
+Destroyed items:
+
+Salvager I, Qty: 12
+250mm Light Artillery Cannon I
+250mm Light Artillery Cannon I
+250mm Light Artillery Cannon I
+250mm Light Artillery Cannon I
+Nuclear S, Qty: 32
+Flameburst Light Missile, Qty: 36
+1MN Afterburner I
+Stasis Webifier I
+Gyrostabilizer I
+Small Shield Booster I, Qty: 2 (Cargo)
+Small 'Atonement' I Ward Projector (Cargo)
+Carbonized Lead S, Qty: 39 (Cargo)
+Phased Plasma S, Qty: 100 (Cargo)
+Proton S, Qty: 46 (Cargo)
+Depleted Uranium S, Qty: 32 (Cargo)
+Defender I, Qty: 408 (Cargo)
+Flameburst Light Missile, Qty: 431 (Cargo)
+

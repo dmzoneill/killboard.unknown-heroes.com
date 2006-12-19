@@ -1,0 +1,33 @@
+2006.11.11 18:45
+
+Victim: Bvzhnwe
+Alliance: Interstellar Starbase Syndicate
+Corp: Old Galactic Earth Regiment
+Destroyed: Caldari Shuttle
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: LizzyD (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Ishkur
+Weapon: Warrior II
+
+Name: dinj
+Security: 4.7
+Alliance: Freelancer Alliance
+Corp: London Transport
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Flashh Gorden
+Security: 3.4
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Ship: Caracal
+Weapon: Heavy Missile Launcher I
+
+

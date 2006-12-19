@@ -1,0 +1,37 @@
+2007.01.28 18:05
+
+Victim: Jorax
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Enyo
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: papaPadla (laid the final blow)
+Security: 4.1
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Pilgrim
+Weapon: Valkyrie II
+
+Name: DTee
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Crow
+Weapon: 125mm Compressed Coil Gun I
+
+
+Destroyed items:
+
+Small Nosferatu I
+Light Ion Blaster I, Qty: 3
+Antimatter Charge S, Qty: 116
+Stasis Webifier I
+Small Armor Repairer I
+Magnetic Field Stabilizer I
+Energized Adaptive Nano Membrane I
+Type-D Power Core Modification: Capacitor Power Relay
+Antimatter Charge S, Qty: 1995 (Cargo)

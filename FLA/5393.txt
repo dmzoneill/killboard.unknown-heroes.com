@@ -1,0 +1,77 @@
+2007.04.28 20:17
+
+Victim: Antigen Po
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Destroyed: Thorax
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Indiano Arko (laid the final blow)
+Security: 0.6
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Hurricane
+Weapon: 720mm Howitzer Artillery I
+
+Name: Reverend Revelator
+Security: 1.5
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Brutix
+Weapon: Infiltrator II
+
+Name: Fitz Farseer
+Security: 0.5
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Rupture
+Weapon: Rupture
+
+Name: Konson
+Security: 3.7
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Retribution
+Weapon: Retribution
+
+Name: nyricia
+Security: 1.7
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Evil Bunnies
+Security: 0.3
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Blackbird
+Weapon: Scourge Heavy Missile
+
+Name: Hojou
+Security: 0.4
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Incursus
+Weapon: Warp Disruptor I
+
+Name: LeZip
+Security: 1.2
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Kestrel
+Weapon: Standard Missile Launcher I
+
+
+Destroyed items:
+
+200mm Railgun I
+200mm Railgun I
+Iron Charge M, Qty: 132
+Warp Disruptor I
+Power Diagnostic System I
+Vespa I (Drone Bay)
+

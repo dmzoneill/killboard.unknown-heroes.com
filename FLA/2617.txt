@@ -1,0 +1,61 @@
+2007.02.27 13:56
+
+Victim: Deathratt
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Destroyed: Raven
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Chode Rizoum (laid the final blow)
+Security: -1.9
+Alliance: None
+Corp: Temptation inc.
+Ship: Typhoon
+Weapon: Ogre II
+
+Name: Bloodclaw Light Missile / Guristas
+
+Name: Donald Trump
+Security: -1.8
+Alliance: None
+Corp: Temptation inc.
+Ship: Tempest
+Weapon: Valkyrie II
+
+
+Destroyed items:
+
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Siege Missile Launcher II
+Siege Missile Launcher II
+Siege Missile Launcher II
+Juggernaut Javelin Torpedo, Qty: 33
+Large Shield Booster II
+Ballistic Deflection Field II
+Ballistic Deflection Field II
+Heat Dissipation Amplifier II
+Mark I Generator Refitting: Capacitor Power Relay
+Large Shield Extender I (Cargo)
+Medium Capacitor Battery I (Cargo)
+250mm Railgun I (Cargo)
+Dual 250mm Railgun I (Cargo)
+Medium Capacitor Booster I (Cargo)
+Photon Scattering Field I (Cargo)
+Compulsive Multispectral ECM I (Cargo)
+Magnetic Scattering Amplifier I (Cargo)
+'Repose' I Core Compensation (Cargo)
+Paradise Cruise Missile, Qty: 100 (Cargo)
+Scorched Telemetry Processor, Qty: 5 (Cargo)
+Ward Console, Qty: 8 (Cargo)
+Conductive Polymer, Qty: 4 (Cargo)
+Power Diagnostic System I (Cargo)
+Vespa II (Drone Bay)
+

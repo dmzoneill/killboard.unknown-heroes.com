@@ -1,0 +1,34 @@
+2007.02.02 23:43
+
+Victim: Lux0r
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Destroyed: Crow
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Murdoch Morf (laid the final blow)
+Security: 1.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Typhoon
+Weapon: Devastator Cruise Missile
+
+Name: ninev0lts
+Security: 2.3
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Brutix
+Weapon: Hammerhead I
+
+
+Destroyed items:
+
+Small Nosferatu I
+1MN MicroWarpdrive I
+Warp Scrambler I
+'Langour' Drive Disruptor I
+Thorn Rocket, Qty: 500 (Cargo)
+

@@ -1,0 +1,40 @@
+2007.04.09 01:51
+
+Victim: Logand Delta
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Destroyed: Catalyst
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Redginald (laid the final blow)
+Security: 4.5
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Hurricane
+Weapon: 425mm AutoCannon II
+
+Name: Skinny Boy
+Security: 4.1
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Thanatos
+Weapon: Einherji
+
+
+Destroyed items:
+
+150mm Railgun I
+150mm Railgun I
+150mm Railgun I
+125mm Railgun I
+Lead Charge S, Qty: 114
+Prototype I Sensor Booster
+Alumel-Wired I Sensor Augmentation
+F85 Peripheral Damage System I
+Nanomechanical CPU Enhancer I
+Antimatter Charge S, Qty: 3373 (Cargo)
+Warrior I (Drone Bay)
+

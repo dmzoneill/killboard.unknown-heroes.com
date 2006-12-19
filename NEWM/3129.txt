@@ -1,0 +1,54 @@
+2007.03.25 06:18
+
+Victim: illusha
+Alliance: The SUdden Death Squad
+Corp: Halfwits
+Destroyed: Myrmidon
+System: GY5-26
+Security: 0.0
+
+Involved parties:
+
+Name: Kheelan Lir
+Security: -0.2
+Alliance: Freelancer Alliance
+Corp: ACCORD Industries
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Mufeater (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Hyperion
+Weapon: Vespa II
+
+Name: Sabe
+Security: 5.0
+Alliance: Red Horizon
+Corp: Red Horizon Inc
+Ship: Thorax
+Weapon: Thorax
+
+Name: Jehutty
+Security: -0.4
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Medium Nosferatu I
+Medium Nosferatu I
+Small Nosferatu I
+10MN MicroWarpdrive I
+J5 Prototype Warp Inhibitor I
+Medium Electrochemical Capacitor Booster I
+Medium Armor Repairer I
+Energized Adaptive Nano Membrane I
+Cap Booster 800 (Cargo)
+Warrior I, Qty: 4 (Drone Bay)
+

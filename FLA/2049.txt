@@ -1,0 +1,36 @@
+2007.01.19 03:20
+
+Victim: Swanny231
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Destroyed: Crow
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Ciaphas Khaine (laid the final blow)
+Security: -1.6
+Alliance: None
+Corp: Exanimo Inc
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+
+Destroyed items:
+
+Gremlin Rocket
+Gremlin Rocket
+1MN MicroWarpdrive II
+J5 Prototype Warp Inhibitor I
+Sensor Booster II
+Local Hull Conversion Inertial Stabilizers I
+Local Hull Conversion Inertial Stabilizers I
+Local Hull Conversion Inertial Stabilizers I
+Corpse (Cargo)
+Fleeting Progressive Warp Scrambler I (Cargo)
+J5 Prototype Warp Inhibitor I, Qty: 3 (Cargo)
+X5 Prototype I Engine Enervator (Cargo)
+Acolyte II (Cargo)
+Gremlin Rocket, Qty: 1025 (Cargo)
+

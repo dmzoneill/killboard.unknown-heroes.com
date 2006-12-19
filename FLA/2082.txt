@@ -1,0 +1,113 @@
+2007.01.20 00:44
+
+Victim: Sanal Gi
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Scorpion
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Malafor
+Security: -1.2
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: boo3916
+Security: 4.7
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Raven
+Weapon: Bane Torpedo
+
+Name: Unfortunate Accident
+Security: -1.9
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Megathron
+Weapon: Megathron
+
+Name: aadom (laid the final blow)
+Security: 3.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Tempest
+Weapon: 1400mm Gallium I Cannon
+
+Name: Elliott Manchild
+Security: -0.5
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Tempest
+Weapon: Tempest
+
+Name: McGin
+Security: -3.5
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Megathron
+Weapon: Megathron
+
+Name: Brisky T'Pol
+Security: 1.2
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Tempest
+Weapon: Tempest
+
+Name: xlop
+Security: -1.2
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: ukpAgAn
+Security: 5.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: hardgit
+Security: 0.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Raven
+Weapon: Siege Missile Launcher II
+
+Name: Pistonbroke
+Security: 0.4
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Scorpion
+Weapon: 'Limos' Cruise Launcher I
+
+Name: Phrixus Zephyr
+Security: 0.8
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Arazu
+Weapon: Phased Muon Sensor Disruptor I
+
+
+Destroyed items:
+
+425mm Railgun I
+425mm Railgun I
+Antimatter Charge L, Qty: 40
+Juggernaut Torpedo, Qty: 36
+ZW-4100 Siege Missile Bay
+ZW-4100 Siege Missile Bay
+X-Large C5-L Emergency Shield Overload I
+Invulnerability Field I
+Induced Multispectral ECM I
+Type-D Power Core Modification: Capacitor Power Relay
+Reactor Control Unit I
+Juggernaut Torpedo, Qty: 1928 (Cargo)
+Mjolnir Torpedo, Qty: 2500 (Cargo)
+Hobgoblin II (Drone Bay)
+

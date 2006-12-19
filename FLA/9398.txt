@@ -1,0 +1,35 @@
+2007.05.12 05:35
+
+Victim: Tashkita
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Destroyed: Cormorant
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Ilan Barak
+Security: 4.2
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Thorax
+Weapon: Thorax
+
+Name: dastommy79 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Thorax
+Weapon: Hammerhead I
+
+
+Destroyed items:
+
+150mm Railgun II
+150mm Railgun II
+Antimatter Charge S, Qty: 40
+1MN Afterburner I
+Stasis Webifier I
+Antimatter Charge S, Qty: 1760 (Cargo)
+

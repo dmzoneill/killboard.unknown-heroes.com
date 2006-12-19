@@ -1,0 +1,84 @@
+2007.01.28 07:10
+
+Victim: sMoKe AU
+Alliance: Veto Corp
+Corp: Veto.
+Destroyed: Drake
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: DrElJefeMD
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Tempest
+Weapon: Tempest
+
+Name: Marie Veedor
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Zattron (laid the final blow)
+Security: 3.7
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Drake
+Weapon: Thunderbolt Heavy Missile
+
+Name: Sanal Gi
+Security: -0.6
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Scorpion
+Weapon: Scorpion
+
+Name: Weeble Wooble
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Catalyst
+Weapon: Catalyst
+
+Name: Nukuquqa Hestase
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Cormorant
+Weapon: Sabretooth Light Missile
+
+Name: Jisela
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: Feel Good Inc.
+Ship: Scorpion
+Weapon: Devastator Cruise Missile
+
+Name: Alski
+Security: 2.7
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Maulus
+Weapon: Hornet EC-300
+
+
+Destroyed items:
+
+Medium 'Ghoul' Energy Siphon I
+Havoc Heavy Missile, Qty: 65
+Heavy Missile Launcher II
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+XR-3200 Heavy Missile Bay
+Widowmaker Precision Heavy Missile, Qty: 120
+Large Shield Extender II
+Y-S8 Hydrocarbon I Afterburners
+Power Diagnostic System II
+Havoc Heavy Missile, Qty: 630 (Cargo)
+Scourge Precision Heavy Missile, Qty: 944 (Cargo)
+Widowmaker Precision Heavy Missile, Qty: 841 (Cargo)
+

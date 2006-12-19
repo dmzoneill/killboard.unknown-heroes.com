@@ -1,0 +1,38 @@
+2006.09.23 23:53
+
+Victim: Boris Nikolaovitch
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Jaguar
+System: J-CIJV
+Security: 0.0
+
+Involved parties:
+
+Name: Shooroop
+Security: 1.8
+Alliance: R.I.S.K
+Corp: FIGHTER'S WITHOUT RULES
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Sicilia (laid the final blow)
+Security: 0.7
+Alliance: R.I.S.K
+Corp: FIGHTER'S WITHOUT RULES
+Ship: Armageddon
+Weapon: Mega Pulse Laser I
+
+
+Destroyed items:
+
+150mm Light AutoCannon II
+EMP S, Qty: 67
+Phalanx Rocket, Qty: 25
+'Limos' Rocket Launcher I
+J5b Phased Prototype Warp Inhibitor I
+X5 Prototype I Engine Enervator
+Phased Plasma S, Qty: 1772 (Cargo)
+Defender I, Qty: 590 (Cargo)
+Phalanx Rocket, Qty: 1081 (Cargo)
+

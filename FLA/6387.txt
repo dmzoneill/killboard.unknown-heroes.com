@@ -1,0 +1,40 @@
+2006.11.13 07:01
+
+Victim: Commander Chewbacca
+Alliance: Eternal Empire
+Corp: Spectral Armada
+Destroyed: Osprey
+System: X47L-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Gharthak (laid the final blow)
+Security: 4.7
+Alliance: New Eden Conglomerate
+Corp: InterMind Unlimited
+Ship: Raven
+Weapon: Juggernaut Javelin Torpedo
+
+Name: Preying Mantis
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Phoenix
+Weapon: Rift Torpedo I
+
+Name: Netto
+Security: 5.0
+Alliance: New Eden Conglomerate
+Corp: The 5 Amigo's LLC.
+Ship: Revelation
+Weapon: Dual Giga Beam Laser I
+
+
+Destroyed items:
+
+Medium S95a Partial Shield Transporter
+Medium Asymmetric Barrier Transpositioner I
+Barton Reactor Capacitor Recharger I
+Medium Shield Transporter II (Cargo)
+

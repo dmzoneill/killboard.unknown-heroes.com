@@ -1,0 +1,26 @@
+2006.10.26 08:01
+
+Victim: Angel Vengen
+Alliance: Freelancer Alliance
+Corp: Caldar Mercenary Syndicate
+Destroyed: Badger Mark II
+System: X-7OMU
+Security: 0.0
+
+Involved parties:
+
+Name: Commander Thrawn (laid the final blow)
+Security: -0.8
+Alliance: Eternal Empire
+Corp: Tarnak inc.
+Ship: Armageddon
+Weapon: Dual Heavy Pulse Laser II
+
+
+Destroyed items:
+
+Small Peroxide I Capacitor Power Cell
+Small Ld-Acid Capacitor Battery I
+Small Ld-Acid Capacitor Battery I
+Small Ld-Acid Capacitor Battery I
+

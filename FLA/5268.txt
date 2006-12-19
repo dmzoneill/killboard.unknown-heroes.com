@@ -1,0 +1,64 @@
+2007.04.29 18:05
+
+Victim: Evil Bunnies
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Blackbird
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: wagg
+Security: 2.6
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Myrmidon
+Weapon: Ogre I
+
+Name: sako1963 (laid the final blow)
+Security: 5.0
+Alliance: The Foundation.
+Corp: NorCorp Security
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+Name: Ilan Barak
+Security: 4.2
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Thorax
+Weapon: Thorax
+
+Name: Quninella
+Security: 1.1
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Thorax
+Weapon: 250mm Carbide Railgun I
+
+Name: Kvarium Ki
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Tempest
+Weapon: Tempest
+
+Name: Jet Sulu
+Security: 3.4
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Raptor
+Weapon: 'Langour' Drive Disruptor I
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 28
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Initiated Multispectral ECM I
+Induced Multispectral ECM I
+Scourge Heavy Missile, Qty: 120 (Cargo)
+

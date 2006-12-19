@@ -1,0 +1,19 @@
+2007.04.14 07:18
+
+Victim: StarshipTrooper
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Destroyed: Capsule
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Skull Fire (laid the final blow)
+Security: 0.8
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Rokh
+Weapon: Large 'Notos' Explosive Charge I
+
+

@@ -1,0 +1,26 @@
+2007.02.24 04:38
+
+Victim: Eug316
+Alliance: Aftermath Alliance
+Corp: Dark Nebula Gallente Division
+Destroyed: Capsule
+System: YZ-LQL
+Security: 0.0
+
+Involved parties:
+
+Name: Swanny231 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Crow
+Weapon: Flameburst Light Missile
+
+Name: digital oxygen
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Ares
+Weapon: 'Malkuth' Rocket Launcher I
+
+

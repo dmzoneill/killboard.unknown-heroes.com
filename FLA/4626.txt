@@ -1,0 +1,69 @@
+2007.04.16 00:37
+
+Victim: nyricia
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Caracal
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: alon blackhelm
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Ferox
+Weapon: Ferox
+
+Name: dastommy79 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Ferox
+Weapon: Widowmaker Heavy Missile
+
+Name: Recon Alpha
+Security: 3.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Caracal
+Weapon: Havoc Heavy Missile
+
+Name: Kayron Brennan
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Teck7
+Security: 1.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Thorax
+Weapon: Light Neutron Blaster II
+
+Name: Magic Mazuma
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Rifter
+Weapon: Rifter
+
+
+Destroyed items:
+
+Havoc Heavy Missile, Qty: 23
+Widowmaker Heavy Missile, Qty: 23
+Scourge Heavy Missile, Qty: 24
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Sensor Booster I
+Ballistic Control System I
+Widowmaker Heavy Missile, Qty: 1063 (Cargo)
+Thunderbolt Heavy Missile, Qty: 1169 (Cargo)
+

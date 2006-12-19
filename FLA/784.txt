@@ -1,0 +1,33 @@
+2007.02.20 21:05
+
+Victim: TUGGY
+Alliance: None
+Corp: Call Of The Wild
+Destroyed: Capsule
+System: 5ZXX-K
+Security: 0.0
+
+Involved parties:
+
+Name: Burn Lump
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Enyo
+Weapon: 125mm Railgun II
+
+Name: SniperMcBob
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: Xantheris (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+

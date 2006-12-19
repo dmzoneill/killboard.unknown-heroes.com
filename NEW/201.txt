@@ -1,0 +1,60 @@
+2007.02.05 19:53
+
+Victim: Odinegras
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Taranis
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Drift Spec (laid the final blow)
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Muninn
+Weapon: 720mm Howitzer Artillery II
+
+Name: Nereidis
+Security: 1.6
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Crow
+Weapon: Balmer Series Targeting Inhibitor I
+
+Name: Isabel Sweet
+Security: -1.4
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Capsule
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: Wyno
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: tilz
+Security: 1.7
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+Name: tAkErPT
+Security: 4.3
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Cerberus
+Weapon: Heavy Missile Launcher II
+
+
+Destroyed items:
+
+125mm Railgun II
+Initiated Warp Jammer I
+Stasis Webifier I
+Type-D Altered SS Inertial Stabilizers

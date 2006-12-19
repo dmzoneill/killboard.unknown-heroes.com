@@ -1,0 +1,44 @@
+2007.03.10 17:07
+
+Victim: Eleri Bree
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Destroyed: Dominix
+System: ROIR-Y
+Security: 0.0
+
+Involved parties:
+
+Name: Eamz (laid the final blow)
+Security: -1.1
+Alliance: None
+Corp: Finite Horizon
+Ship: Deimos
+Weapon: Heavy Ion Blaster II
+
+Name: Thaard Bof't
+Security: -9.0
+Alliance: None
+Corp: Developmental Neogenics Amalgamated
+Ship: Vagabond
+Weapon: Vagabond
+
+
+Destroyed items:
+
+Heavy 'Knave' I Energy Drain
+Heavy 'Knave' I Energy Drain
+Heavy 'Knave' I Energy Drain
+Drone Link Augmentor I
+100MN Afterburner I
+Cap Booster 800
+Alumel-Wired I Sensor Augmentation
+Large Armor Repairer II
+Medium Armor Repairer II
+N-Type Kinetic Hardener I
+1600mm Reinforced Crystalline Carbonide Plates I
+Uranium Charge M, Qty: 2000 (Cargo)
+Cap Booster 800, Qty: 2 (Cargo)
+Berserker I (Drone Bay)
+Ogre I, Qty: 2 (Drone Bay)
+

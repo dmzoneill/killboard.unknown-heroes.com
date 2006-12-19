@@ -1,0 +1,61 @@
+2006.09.24 20:57
+
+Victim: Karas Rabus
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Destroyed: Rupture
+System: L-TS8S
+Security: 0.0
+
+Involved parties:
+
+Name: Bl00Dzor
+Security: 2.8
+Alliance: Ascendant Frontier
+Corp: Sha Kharn Corp
+Ship: Claw
+Weapon: Claw
+
+Name: Huggs
+Security: 5.0
+Alliance: Ascendant Frontier
+Corp: Sha Kharn Corp
+Ship: Hawk
+Weapon: Fleeting Warp Scrambler I
+
+Name: Sha Kharn (laid the final blow)
+Security: 5.0
+Alliance: Ascendant Frontier
+Corp: Sha Kharn Corp
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Drift Spec
+Security: 5.0
+Alliance: Ascendant Frontier
+Corp: Sha Kharn Corp
+Ship: Crow
+Weapon: Domination Warp Disruptor
+
+Name: Ornatus
+Security: 5.0
+Alliance: Ascendant Frontier
+Corp: Sha Kharn Corp
+Ship: Crusader
+Weapon: Dual Light Pulse Laser II
+
+
+Destroyed items:
+
+280mm Howitzer Artillery II
+Tremor S, Qty: 12
+Bloodclaw Light Missile, Qty: 114
+Assault Missile Launcher I
+Assault Missile Launcher I
+Warp Disruptor I
+Stasis Webifier I
+Medium Armor Repairer I
+Warp Core Stabilizer I
+1600mm Reinforced Steel Plates I
+Bloodclaw Light Missile, Qty: 494 (Cargo)
+

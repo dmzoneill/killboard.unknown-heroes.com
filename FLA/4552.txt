@@ -1,0 +1,40 @@
+2007.04.14 07:18
+
+Victim: Skull Fire
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Rokh
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: FowlPlayChiken (laid the final blow)
+Security: 1.2
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Thanatos
+Weapon: Firbolg
+
+Name: StarshipTrooper
+Security: 4.1
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Unknown
+Weapon: X5 Prototype I Engine Enervator
+
+
+Destroyed items:
+
+Large 'Notos' Explosive Charge I
+Large 'Notos' Explosive Charge I
+Large 'Vehemence' I Shockwave Charge
+Large Rudimentary Concussion Bomb I
+Large Rudimentary Concussion Bomb I
+Large Shield Extender II
+100MN MicroWarpdrive I
+Cap Booster 800
+Emergency Damage Control I
+Warp Core Stabilizer I
+Warp Core Stabilizer I
+

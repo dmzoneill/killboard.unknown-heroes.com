@@ -1,0 +1,69 @@
+2007.05.30 00:24
+
+Victim: alon blackhelm
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Destroyed: Eagle
+System: 93PI-4
+Security: 0.0
+
+Involved parties:
+
+Name: XBL DCM (laid the final blow)
+Security: 2.2
+Alliance: Exuro Mortis
+Corp: Slacker Industries
+Ship: Zealot
+Weapon: Heavy Beam Laser II
+
+Name: Keirin Hanzo
+Security: 2.4
+Alliance: Exuro Mortis
+Corp: Slacker Industries
+Ship: Claymore
+Weapon: Claymore
+
+Name: Specture
+Security: 0.3
+Alliance: Exuro Mortis
+Corp: Slacker Industries
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: schantrac
+Security: 5.0
+Alliance: Exuro Mortis
+Corp: Slacker Industries
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: aUTOKILL
+Security: -1.5
+Alliance: Exuro Mortis
+Corp: Slacker Industries
+Ship: Incursus
+Weapon: Incursus
+
+Name: Octaviun
+Security: -0.4
+Alliance: Exuro Mortis
+Corp: Slacker Industries
+Ship: Vindicator
+Weapon: Vindicator
+
+
+Destroyed items:
+
+250mm Railgun II
+250mm Railgun II
+250mm Railgun II
+Spike M, Qty: 78
+Large Shield Booster II
+10MN Afterburner II
+Sensor Booster II
+Sensor Booster II
+Tracking Computer II
+Power Diagnostic System II
+Uranium Charge M, Qty: 500 (Cargo)
+Spike M, Qty: 2840 (Cargo)
+

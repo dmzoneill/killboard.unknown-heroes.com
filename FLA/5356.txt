@@ -1,0 +1,109 @@
+2007.04.26 23:56
+
+Victim: Thafesko
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Destroyed: Drake
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Vlad Cetes (laid the final blow)
+Security: 5.0
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Raven
+Weapon: Juggernaut Torpedo
+
+Name: Bic Drax
+Security: 3.6
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Myrmidon
+Weapon: Ogre II
+
+Name: ZeroGrav
+Security: 3.1
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Konson
+Security: 3.7
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Retribution
+Weapon: Retribution
+
+Name: Savak
+Security: 0.2
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Omen
+Weapon: Focused Medium Pulse Laser I
+
+Name: Evil Bunnies
+Security: 0.3
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Blackbird
+Weapon: Initiated Multispectral ECM I
+
+Name: tomuch
+Security: 2.9
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Celestis
+Weapon: Widowmaker Heavy Missile
+
+Name: Bothius
+Security: 0.4
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Taranis
+Weapon: 125mm Compressed Coil Gun I
+
+Name: Athanasios Anastasiou
+Security: 5.0
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Crow
+Weapon: TE-2100 Standard Missile Bay
+
+Name: Elrid Barnes
+Security: 1.8
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Capsule
+Weapon: 200mm AutoCannon I
+
+Name: Hughwasit
+Security: 1.2
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Kestrel
+Weapon: Sabretooth Light Missile
+
+Name: Altair Mogwa
+Security: 0.6
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Unknown
+Weapon: Standard Missile Launcher I
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 120
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Medium Shield Extender II
+Invulnerability Field II
+Shield Power Relay I
+Thunderbolt Heavy Missile, Qty: 543 (Cargo)
+Widowmaker Heavy Missile, Qty: 285 (Cargo)
+

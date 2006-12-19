@@ -1,0 +1,54 @@
+2006.10.01 23:02
+
+Victim: ElGuapo
+Alliance: None
+Corp: Omniscient Order
+Destroyed: Lachesis
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Drakin Korin
+Security: 2.3
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Capsule
+Weapon: Heavy Neutron Blaster II
+
+Name: Zorastro
+Security: 1.5
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Caracal Navy Issue
+Weapon: Widowmaker Heavy Missile
+
+Name: Tommydog (laid the final blow)
+Security: 1.1
+Alliance: Forces of Freedom
+Corp: Fallen Nova
+Ship: Ferox
+Weapon: Scourge Heavy Missile
+
+Name: Gorfi tco
+Security: 4.2
+Alliance: None
+Corp: Nuevos Horizontes
+Ship: Unknown
+Weapon: Hammerhead I
+
+
+Destroyed items:
+
+Infrared S
+Assault Missile Launcher II
+Assault Missile Launcher II
+Sabretooth Precision Light Missile, Qty: 97
+J5 Prototype Warp Inhibitor I
+Faint Warp Prohibitor I
+Indirect Scanning Dampening Unit I
+Energized Magnetic Membrane II
+Xray S, Qty: 2 (Cargo)
+Piranha Precision Light Missile, Qty: 293 (Cargo)
+Bloodclaw Precision Light Missile, Qty: 428 (Cargo)
+

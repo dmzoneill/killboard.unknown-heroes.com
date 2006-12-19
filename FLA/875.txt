@@ -1,0 +1,115 @@
+2007.02.25 03:52
+
+Victim: Tremador
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Destroyed: Archon
+System: YZ-LQL
+Security: 0.0
+
+Involved parties:
+
+Name: Angelina Jolie (laid the final blow)
+Security: -0.2
+Alliance: Dusk and Dawn
+Corp: Momentum.
+Ship: Phoenix
+Weapon: Rift Torpedo I
+
+Name: MonkSEALPup
+Security: 0.4
+Alliance: Dusk and Dawn
+Corp: Momentum.
+Ship: Naglfar
+Weapon: Berserker II
+
+Name: Joe Blow
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Omega Enterprises
+Ship: Revelation
+Weapon: Revelation
+
+Name: viper zulu
+Security: 4.2
+Alliance: Dusk and Dawn
+Corp: Omega Enterprises
+Ship: Thanatos
+Weapon: Dragonfly
+
+Name: Joe's Load
+Security: 0.3
+Alliance: Dusk and Dawn
+Corp: Omega Enterprises
+Ship: Absolution
+Weapon: Absolution
+
+Name: Harisdrop
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: ClanKillers
+Ship: Chimera
+Weapon: Dragonfly
+
+Name: Space Chi
+Security: 1.8
+Alliance: Zenith Affinity
+Corp: The Edge Foundation
+Ship: Deimos
+Weapon: Deimos
+
+Name: UP LATE
+Security: 4.7
+Alliance: Dusk and Dawn
+Corp: Omega Enterprises
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+Name: Samiloth Justinian
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+Name: alon blackhelm
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Ferox
+Weapon: Ferox
+
+Name: MIDER
+Security: 1.5
+Alliance: Dusk and Dawn
+Corp: ClanKillers
+Ship: Eris
+Weapon: Eris
+
+Name: PyroThraxus
+Security: 3.0
+Alliance: Dusk and Dawn
+Corp: ClanKillers
+Ship: Arazu
+Weapon: Arazu
+
+
+Destroyed items:
+
+Drone Control Unit I
+Drone Control Unit I
+Cap Recharger II
+Capital Armor Repairer I
+Wasp I, Qty: 2 (Drone Bay)
+Valkyrie I (Drone Bay)
+Warrior I, Qty: 7 (Drone Bay)
+Infiltrator II, Qty: 4 (Drone Bay)
+Hammerhead I, Qty: 4 (Drone Bay)
+Ogre I, Qty: 12 (Drone Bay)
+Hammerhead II (Drone Bay)
+Vespa II, Qty: 3 (Drone Bay)
+Valkyrie II, Qty: 2 (Drone Bay)
+Hobgoblin I, Qty: 7 (Drone Bay)
+Heavy Armor Maintenance Bot I, Qty: 7 (Drone Bay)
+Heavy Shield Maintenance Bot I, Qty: 3 (Drone Bay)
+

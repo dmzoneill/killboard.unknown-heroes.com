@@ -1,0 +1,40 @@
+2007.04.01 19:08
+
+Victim: ZAX0236
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Destroyed: Capsule
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Kvarium Ki (laid the final blow)
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Ship: Rupture
+Weapon: 720mm 'Scout' Artillery I
+
+Name: Minisoza
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: Kerdrak
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Vengeance
+Weapon: Dual Light Pulse Laser II
+
+Name: Daressek
+Security: 3.7
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Bantam
+Weapon: Small Nosferatu I
+
+

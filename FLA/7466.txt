@@ -1,0 +1,61 @@
+2006.09.08 21:29
+
+Victim: Dred Cartman
+Alliance: R.I.S.K
+Corp: FIGHTER'S WITHOUT RULES
+Destroyed: Gallente Shuttle
+System: EWOK-K
+Security: 0.0
+
+Involved parties:
+
+Name: Commander Stringer
+Security: 1.8
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Rifter
+Weapon: 280mm Howitzer Artillery II
+
+Name: 8ObliVioN8
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Raptor
+Weapon: Raptor
+
+Name: Jumar Coldgin (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: Zimi Vlasic
+Security: 0.1
+Alliance: EVE Animal Control
+Corp: F.R.E.E. Explorer
+Ship: Wolf
+Weapon: Warp Disruptor I
+
+Name: Terrorv1z
+Security: 5.1
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+Name: DDaisy
+Security: 4.6
+Alliance: CORE.
+Corp: VentureCorp
+Ship: Jaguar
+Weapon: 200mm AutoCannon II
+
+Name: Bolinar
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Enyo
+Weapon: J5 Prototype Warp Inhibitor I
+
+

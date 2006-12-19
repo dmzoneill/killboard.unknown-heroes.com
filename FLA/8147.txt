@@ -1,0 +1,48 @@
+2006.10.18 08:28
+
+Victim: DeathCoInc
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Destroyed: Caracal
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: EMP0RIA
+Security: 3.5
+Alliance: Process of Elimination
+Corp: Viper  Squad
+Ship: Cerberus
+Weapon: Scourge Heavy Missile
+
+Name: Sith Bandon
+Security: 0.1
+Alliance: Process of Elimination
+Corp: Viper  Squad
+Ship: Arazu
+Weapon: Acolyte II
+
+Name: Penelope Grey (laid the final blow)
+Security: 2.5
+Alliance: Process of Elimination
+Corp: Viper  Squad
+Ship: Crow
+Weapon: Piranha Light Missile
+
+Name: Shaleen
+Security: 3.9
+Alliance: Process of Elimination
+Corp: Viper  Squad
+Ship: Astarte
+Weapon: Heavy Ion Blaster II
+
+
+Destroyed items:
+
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+XR-3200 Heavy Missile Bay
+Medium C5-L Emergency Shield Overload I
+Ballistic Control System I
+

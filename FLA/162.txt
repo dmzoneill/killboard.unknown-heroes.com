@@ -1,0 +1,36 @@
+2007.01.15 06:13
+
+Victim: Kristyl Jade
+Alliance: None
+Corp: Agony Unleashed
+Destroyed: Celestis
+System: X-7OMU
+Security: 0.0
+
+Involved parties:
+
+Name: KriegDrachen
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Sabre
+Weapon: Sabre
+
+Name: Weeble Wooble (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+
+Destroyed items:
+
+Iridium Charge M, Qty: 70
+Warp Scrambler I
+Stasis Webifier I
+Remote Sensor Dampener I
+Beta Reactor Control: Reaction Control I
+Lead Charge M, Qty: 40 (Cargo)
+Iridium Charge M, Qty: 1072 (Cargo)
+

@@ -1,0 +1,25 @@
+2007.02.12 00:01
+
+Victim: Kaalen
+Alliance: None
+Corp: Agony Unleashed
+Destroyed: Griffin
+System: 5ZXX-K
+Security: 0.0
+
+Involved parties:
+
+Name: Solarienne (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+
+Destroyed items:
+
+Rocket Launcher I
+Cap Recharger I
+ECM - Spatial Destabilizer I
+

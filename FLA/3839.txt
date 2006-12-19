@@ -1,0 +1,113 @@
+2007.04.01 22:47
+
+Victim: Kheelan Lir
+Alliance: Freelancer Alliance
+Corp: ACCORD Industries
+Destroyed: Typhoon
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Sedith
+Security: 1.7
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Aeon
+Weapon: Firbolg
+
+Name: Green Leaner
+Security: 2.1
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: c0rn1
+Security: -2.2
+Alliance: S.E.R.A
+Corp: Seraphin Technologies
+Ship: Nidhoggur
+Weapon: Einherji
+
+Name: Stradivarious
+Security: 3.4
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Huginn
+Weapon: Warrior II
+
+Name: Cadman Weyland
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Heretic
+Weapon: Initiated Warp Jammer I
+
+Name: Waagaa Ktlehr (laid the final blow)
+Security: -1.1
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Aeon
+Weapon: Einherji
+
+Name: KIAEnIgMa
+Security: 0.4
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Flycatcher
+Weapon: 125mm Railgun II
+
+Name: ER0X
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Harpy
+Weapon: Harpy
+
+Name: Rahzorus
+Security: 0.9
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Exekias
+Security: 2.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: Queldonus
+Security: 2.9
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Nidhoggur
+Weapon: Einherji
+
+
+Destroyed items:
+
+800mm Repeating Artillery I
+800mm Repeating Artillery I
+800mm Repeating Artillery I
+Heavy Diminishing Power System Drain I
+E500 Prototype Energy Vampire
+Fusion L, Qty: 228
+Prototype Cloaking Device I
+X-Large Neutron Saturation Injector I
+100MN MicroWarpdrive I
+Heavy Capacitor Booster I
+Invulnerability Field II
+'Mendicant' Signal Booster I
+'Mendicant' Signal Booster I
+Beta Reactor Control: Diagnostic System I
+Mark I Generator Refitting: Diagnostic System
+J5 Prototype Warp Inhibitor I, Qty: 2 (Cargo)
+Heavy Nosferatu I, Qty: 2 (Cargo)
+Explosion Dampening Field II, Qty: 2 (Cargo)
+Heat Dissipation Field II, Qty: 2 (Cargo)
+Invulnerability Field II (Cargo)
+Ballistic Deflection Field II (Cargo)
+

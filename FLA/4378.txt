@@ -1,0 +1,64 @@
+2007.04.09 01:53
+
+Victim: Skull Fire
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Rokh
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Luthair StoneDog
+Security: -2.7
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Thanatos
+Weapon: Einherji
+
+Name: Medium AutoCannon Battery / Eternity INC.
+
+Name: Myal Terego (laid the final blow)
+Security: -2.6
+Alliance: S.E.R.A
+Corp: Seraphin Technologies
+Ship: Archon
+Weapon: Firbolg
+
+Name: LUCKY HEADY
+Security: -1.7
+Alliance: S.E.R.A
+Corp: Seraphin Technologies
+Ship: Tempest
+Weapon: Tempest
+
+Name: Nethel
+Security: 2.1
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Dominix
+Weapon: Heavy Diminishing Power System Drain I
+
+
+Destroyed items:
+
+200mm Carbide Railgun I
+425mm Prototype I Gauss Gun
+Antimatter Charge L, Qty: 65
+Bane Torpedo, Qty: 23
+'Arbalest' Siege Missile Launcher
+Large Shield Extender II
+Quad LiF Fueled I Booster Rockets
+F-90 Positional Sensor Subroutines
+'Orion' Tracking CPU I
+'Orion' Tracking CPU I
+Counterbalanced Weapon Mounts I
+Iron Charge L, Qty: 977 (Cargo)
+Tungsten Charge L, Qty: 898 (Cargo)
+Plutonium Charge L, Qty: 600 (Cargo)
+Thorium Charge L, Qty: 380 (Cargo)
+Antimatter Charge L, Qty: 470 (Cargo)
+Juggernaut Torpedo, Qty: 730 (Cargo)
+Bane Torpedo, Qty: 732 (Cargo)
+Thunderbolt Heavy Missile, Qty: 249 (Cargo)
+

@@ -1,0 +1,35 @@
+2007.03.05 19:38
+
+Victim: Kateryne
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Destroyed: Thrasher
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Chode Rizoum (laid the final blow)
+Security: -2.5
+Alliance: Eternal Rapture
+Corp: Temptation inc.
+Ship: Astarte
+Weapon: Heavy Neutron Blaster II
+
+Name: VirkMaN
+Security: 0.2
+Alliance: Eternal Rapture
+Corp: Temptation inc.
+Ship: Absolution
+Weapon: Heavy Pulse Laser II
+
+
+Destroyed items:
+
+200mm AutoCannon II
+200mm AutoCannon II
+EMP S, Qty: 208
+1MN MicroWarpdrive II
+Gyrostabilizer II
+EMP S, Qty: 1476 (Cargo)
+

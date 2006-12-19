@@ -1,0 +1,68 @@
+2007.02.13 21:25
+
+Victim: SKYTTE
+Alliance: Triumvirate.
+Corp: omen.
+Destroyed: Capsule
+System: O-N8XZ
+Security: 0.0
+
+Involved parties:
+
+Name: Ocara Nezus
+Security: 2.8
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Hawk
+Weapon: Bloodclaw Light Missile
+
+Name: jacass66 (laid the final blow)
+Security: 5.0
+Alliance: None
+Corp: BGG
+Ship: Drake
+Weapon: Havoc Precision Heavy Missile
+
+Name: Dark Carnage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Crow
+Weapon: Sabretooth Light Missile
+
+Name: bjugis
+Security: 0.7
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Incursus
+Weapon: Warp Disruptor I
+
+Name: WolfRavage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: Valea Silpha
+Security: 2.6
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Rapier
+Weapon: X5 Prototype I Engine Enervator
+
+Name: MohamedLoftie
+Security: -1.2
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Curse
+Weapon: Medium 'Knave' I Energy Drain
+
+Name: Kyoshisan
+Security: 0.7
+Alliance: None
+Corp: BGG
+Ship: Eris
+Weapon: Eris
+
+

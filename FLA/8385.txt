@@ -1,0 +1,121 @@
+2006.11.14 20:20
+
+Victim: jacass66
+Alliance: Freelancer Alliance
+Corp: BGG
+Destroyed: Dominix
+System: Aunenen
+Security: 0.4
+
+Involved parties:
+
+Name: ZTOX3
+Security: -8.9
+Alliance: Blood Raiders Alliance
+Corp: Murder-Death-Kill
+Ship: Scorpion
+Weapon: Vespa I
+
+Name: Zaethiel
+Security: -10.0
+Alliance: Blood Raiders Alliance
+Corp: Murder-Death-Kill
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Felix Tigris
+Security: -10.0
+Alliance: Blood Raiders Alliance
+Corp: Murder-Death-Kill
+Ship: Dominix
+Weapon: Ogre I
+
+Name: Xaeon
+Security: -10.0
+Alliance: Blood Raiders Alliance
+Corp: Murder-Death-Kill
+Ship: Megathron
+Weapon: Megathron
+
+Name: Super Twinkey69
+Security: -10.0
+Alliance: Blood Raiders Alliance
+Corp: Murder-Death-Kill
+Ship: Megathron
+Weapon: Ogre I
+
+Name: Nanaea (laid the final blow)
+Security: -9.7
+Alliance: Blood Raiders Alliance
+Corp: Murder-Death-Kill
+Ship: Megathron
+Weapon: Berserker I
+
+Name: DietrichDieBarber
+Security: -8.2
+Alliance: Blood Raiders Alliance
+Corp: Murder-Death-Kill
+Ship: Raven
+Weapon: Hammerhead I
+
+Name: Cloudis
+Security: -10.0
+Alliance: Blood Raiders Alliance
+Corp: Murder-Death-Kill
+Ship: Apocalypse
+Weapon: Apocalypse
+
+Name: Zenner Zero
+Security: -10.0
+Alliance: Blood Raiders Alliance
+Corp: Murder-Death-Kill
+Ship: Vulture
+Weapon: Thunderbolt Heavy Missile
+
+Name: Grape Juice
+Security: -9.4
+Alliance: Blood Raiders Alliance
+Corp: Murder-Death-Kill
+Ship: Scorpion
+Weapon: Juggernaut Torpedo
+
+Name: Zandramus
+Security: -10.0
+Alliance: Blood Raiders Alliance
+Corp: Murder-Death-Kill
+Ship: Archon
+Weapon: Einherji
+
+Name: Plaetean
+Security: -10.0
+Alliance: Blood Raiders Alliance
+Corp: Murder-Death-Kill
+Ship: Dominix
+Weapon: E500 Prototype Energy Vampire
+
+Name: Crimson Princess
+Security: -2.3
+Alliance: Blood Raiders Alliance
+Corp: Murder-Death-Kill
+Ship: Armageddon
+Weapon: J5 Prototype Warp Inhibitor I
+
+
+Destroyed items:
+
+Heavy Nosferatu I
+Heavy Nosferatu I
+Heavy Nosferatu I
+Medium Nosferatu I
+Warp Disruptor I
+Warp Disruptor I
+'Hypnos' Multispectral ECM I
+'Hypnos' Multispectral ECM I
+Sensor Booster II
+Large 'Accommodation' Vestment Reconstructer I
+Energized Adaptive Nano Membrane II
+Energized Adaptive Nano Membrane II
+Bouncer I (Cargo)
+Praetor I (Drone Bay)
+Bouncer I, Qty: 4 (Drone Bay)
+

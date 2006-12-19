@@ -1,0 +1,44 @@
+2007.03.01 12:57
+
+Victim: Tregaron
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Destroyed: Bellicose
+System: YZ-LQL
+Security: 0.0
+
+Involved parties:
+
+Name: Jodax (laid the final blow)
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Reikoku
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Hazrat Izza
+Security: 4.9
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Heretic
+Weapon: Dual Light Pulse Laser I
+
+
+Destroyed items:
+
+250mm Light Artillery Cannon II
+250mm Light Artillery Cannon II
+Tremor S, Qty: 24
+Thunderbolt Heavy Missile, Qty: 28
+Widowmaker Heavy Missile, Qty: 56
+Cap Booster 400
+'Hypnos' Multispectral ECM I
+F-M3 Munition Inertial Suspensor
+Small Armor Repairer I
+'Mendicant' Signal Booster I
+Passive Targeter I (Cargo)
+Quake S, Qty: 1873 (Cargo)
+Standard Missile Launcher I (Cargo)
+Recruitment Center Data Log (Cargo)
+Salvager I (Cargo)
+

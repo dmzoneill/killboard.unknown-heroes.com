@@ -1,0 +1,30 @@
+2006.12.12 15:44
+
+Victim: A'ruhn
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Destroyed: Retribution
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Elliott Manchild (laid the final blow)
+Security: -1.6
+Alliance: None
+Corp: omen.
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+
+Destroyed items:
+
+Medium Pulse Laser II
+Medium Pulse Laser II
+Medium Pulse Laser II
+Gamma S
+Small Armor Repairer II
+Heat Sink II
+Multifrequency S, Qty: 3 (Cargo)
+Microwave S, Qty: 3 (Cargo)
+

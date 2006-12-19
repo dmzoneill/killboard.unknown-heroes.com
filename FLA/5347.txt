@@ -1,0 +1,29 @@
+2007.04.26 15:04
+
+Victim: Iguanoid
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Raptor
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Fitz Farseer (laid the final blow)
+Security: 0.5
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Cormorant
+Weapon: 150mm Carbide Railgun I
+
+
+Destroyed items:
+
+Small Nosferatu I
+Small Nosferatu I
+Rocket Launcher II
+1MN MicroWarpdrive I
+Fleeting Warp Scrambler I
+Alumel-Wired I Sensor Augmentation
+Foxfire Rage Rocket, Qty: 320 (Cargo)
+

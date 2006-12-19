@@ -1,0 +1,26 @@
+2007.04.06 17:38
+
+Victim: Saphiron
+Alliance: None
+Corp: Caldari Provisions
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Elena Morkovka
+Security: 1.7
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: kakakarr (laid the final blow)
+Security: 2.8
+Alliance: DeStInY.
+Corp: The Knights Of Camelot
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+

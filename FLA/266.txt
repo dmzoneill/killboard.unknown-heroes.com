@@ -1,0 +1,46 @@
+2007.01.20 19:45
+
+Victim: Harpo
+Alliance: None
+Corp: Deep Core Mining Inc.
+Destroyed: Caracal
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Jester87 (laid the final blow)
+Security: 1.3
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+Name: Marvel Master
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Asgard Schiffswerften
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Ramireza
+Security: -0.2
+Alliance: Dusk and Dawn
+Corp: Asgard Schiffswerften
+Ship: Arazu
+Weapon: Arazu
+
+
+Destroyed items:
+
+Sabretooth Light Missile, Qty: 132
+Flameburst Light Missile, Qty: 132
+Compact 'Limos' Assault Missile Bay I
+Compact 'Limos' Assault Missile Bay I
+Compact 'Limos' Assault Missile Bay I
+Sensor Booster I
+Ballistic Control System I
+Ballistic Control System I, Qty: 2 (Cargo)
+Flameburst Light Missile, Qty: 656 (Cargo)
+Scourge Heavy Missile, Qty: 310 (Cargo)
+

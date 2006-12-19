@@ -1,0 +1,25 @@
+2006.11.05 07:13
+
+Victim: ddddpppp
+Alliance: None
+Corp: Federal Navy Academy
+Destroyed: Velator
+System: DW-T2I
+Security: 0.0
+
+Involved parties:
+
+Name: SleepyOSU (laid the final blow)
+Security: 4.4
+Alliance: Freelancer Alliance
+Corp: Sin-X Inc.
+Ship: Vexor
+Weapon: Berserker I
+
+
+Destroyed items:
+
+Civilian Light Electron Blaster
+Basic Miner
+Tritanium (Cargo)
+

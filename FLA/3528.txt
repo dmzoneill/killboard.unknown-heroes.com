@@ -1,0 +1,41 @@
+2007.04.01 22:42
+
+Victim: tomlinsonland
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Destroyed: Crow
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: RythemAndStealth (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Arbitrator
+Weapon: Hammerhead II
+
+Name: Rick A
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Blackbird
+Weapon: Heavy Missile Launcher I
+
+
+Destroyed items:
+
+Antimatter Charge S, Qty: 74
+Bloodclaw Light Missile, Qty: 17
+Cap Recharger II
+Gistii A-Type 1MN MicroWarpdrive
+Warp Disruptor II
+Micro Auxiliary Power Core I
+Local Hull Conversion Nanofiber Structure I
+Light Neutron Blaster II (Cargo)
+Antimatter Charge S, Qty: 896 (Cargo)
+Piranha Light Missile, Qty: 1245 (Cargo)
+Flameburst Light Missile, Qty: 39 (Cargo)
+Sabretooth Light Missile, Qty: 39 (Cargo)
+

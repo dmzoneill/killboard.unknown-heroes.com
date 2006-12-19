@@ -1,0 +1,19 @@
+2007.04.27 18:16
+
+Victim: Bobby Atlas
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Minmatar Shuttle
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Fitz Farseer (laid the final blow)
+Security: 0.5
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Rifter
+Weapon: 150mm Carbide Railgun I
+
+

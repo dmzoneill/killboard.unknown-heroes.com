@@ -1,0 +1,79 @@
+2006.10.21 23:28
+
+Victim: digital oxygen
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Destroyed: Deimos
+System: G95-VZ
+Security: 0.0
+
+Involved parties:
+
+Name: Vily
+Security: -1.5
+Alliance: None
+Corp: Lilium Venture Initiative
+Ship: Heretic
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: Ricky Baby (laid the final blow)
+Security: 1.2
+Alliance: R0ADKILL
+Corp: Beagle Corp
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+Name: Sophia Stormbringer
+Security: 2.6
+Alliance: R0ADKILL
+Corp: Beagle Corp
+Ship: Crusader
+Weapon: Dual Modulated Pulse Energy Beam I
+
+Name: Roule
+Security: -4.9
+Alliance: R0ADKILL
+Corp: Beagle Corp
+Ship: Republic Fleet Firetail
+Weapon: Republic Fleet Firetail
+
+Name: Bethya
+Security: 4.6
+Alliance: Process of Elimination
+Corp: Sector 7
+Ship: Crow
+Weapon: Sabretooth Light Missile
+
+Name: Eriks Black
+Security: -0.3
+Alliance: R0ADKILL
+Corp: Beagle Corp
+Ship: Crow
+Weapon: Fleeting Propulsion Inhibitor I
+
+Name: Dave White
+Security: -3.3
+Alliance: R0ADKILL
+Corp: Beagle Corp
+Ship: Harpy
+Weapon: Harpy
+
+Name: Dearwin
+Security: -1.2
+Alliance: R0ADKILL
+Corp: Beagle Corp
+Ship: Enyo
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+
+Destroyed items:
+
+Heavy Electron Blaster II
+Null M, Qty: 509
+'Hypnos' Multispectral ECM I
+Magnetic Field Stabilizer II
+Energized Adaptive Nano Membrane II
+Null M, Qty: 1702 (Cargo)
+Void M, Qty: 1725 (Cargo)
+Valkyrie II, Qty: 4 (Drone Bay)
+

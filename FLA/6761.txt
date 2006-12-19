@@ -1,0 +1,63 @@
+2006.11.26 18:40
+
+Victim: Darknesss
+Alliance: Triumvirate.
+Corp: D00M.
+Destroyed: Taranis
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Matt Stoner (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Cerberus
+Weapon: Havoc Heavy Missile
+
+Name: Lone flyer
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Scorpion
+Weapon: Devastator Cruise Missile
+
+Name: Durante Alighieri
+Security: 2.9
+Alliance: Schism.
+Corp: New Light
+Ship: Unknown
+Weapon: Upgraded 'Limos' Standard Missile Bay I
+
+Name: W4RR10R
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Arazu
+Weapon: Arazu
+
+Name: Noitaakka
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Ishtar
+Weapon: Fleeting Warp Scrambler I
+
+Name: Hosanna
+Security: 3.1
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Vagabond
+Weapon: E50 Prototype Energy Vampire
+
+
+Destroyed items:
+
+125mm Railgun II
+125mm Railgun II
+1MN MicroWarpdrive I
+Small Armor Repairer II
+200mm Reinforced Rolled Tungsten Plates I
+Micro Auxiliary Power Core I
+

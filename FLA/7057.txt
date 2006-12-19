@@ -1,0 +1,28 @@
+2006.12.23 20:13
+
+Victim: Bones85
+Alliance: Otaku Invasion
+Corp: Giliath Technologies
+Destroyed: Myrmidon
+System: Nagamanen
+Security: 0.3
+
+Involved parties:
+
+Name: Caldari Sentry Gun III / Caldari Navy
+
+Name: Compos Mentis (laid the final blow)
+Security: -4.2
+Alliance: Freelancer Alliance
+Corp: X.T.R
+Ship: Cerberus
+Weapon: Scourge Heavy Missile
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Medium 'Ghoul' Energy Siphon I
+Energized Adaptive Nano Membrane II
+Hammerhead I, Qty: 2 (Drone Bay)
+

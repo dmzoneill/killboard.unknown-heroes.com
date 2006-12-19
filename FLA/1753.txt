@@ -1,0 +1,28 @@
+2007.01.02 18:58
+
+Victim: Rhaall
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Destroyed: Crucifier
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Arnold Swartzenegger (laid the final blow)
+Security: -0.6
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+
+Destroyed items:
+
+Small Nosferatu I
+Barton Reactor Capacitor Recharger I (Cargo)
+Small Capacitor Battery I (Cargo)
+Co-Processor I (Cargo)
+Nanoelectrical Co-Processor I (Cargo)
+Type-D Power Core Modification: Capacitor Power Relay (Cargo)
+

@@ -1,0 +1,40 @@
+2007.04.20 00:30
+
+Victim: Magic Mazuma
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Destroyed: Capsule
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Fitz Farseer
+Security: 0.5
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Thrasher
+Weapon: 280mm Howitzer Artillery II
+
+Name: Gerald Osikawa (laid the final blow)
+Security: 0.9
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: RuLuVdArR
+Security: 0.0
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Incursus
+Weapon: Incursus
+
+Name: Akthuul
+Security: 5.0
+Alliance: Storm Armada
+Corp: stone grave haulage
+Ship: Falcon
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+

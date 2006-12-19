@@ -1,0 +1,26 @@
+2007.01.10 03:10
+
+Victim: Jack Quadros
+Alliance: None
+Corp: Caldari Navy Support
+Destroyed: Blackbird
+System: Onatoh
+Security: 0.3
+
+Involved parties:
+
+Name: Sorlac Aurora (laid the final blow)
+Security: 4.2
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Caracal
+Weapon: Terror Assault Missile
+
+
+Destroyed items:
+
+Iridium Charge S, Qty: 78
+Bloodclaw Light Missile, Qty: 134
+'Arbalest' Assault Missile Launcher
+Iridium Charge S, Qty: 8920 (Cargo)
+

@@ -1,0 +1,42 @@
+2007.04.12 18:38
+
+Victim: Laerana
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Vexor
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Kanx Alanks
+Security: 0.2
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Vily (laid the final blow)
+Security: 0.3
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Maller
+Weapon: Focused Medium Pulse Laser II
+
+Name: Sivona
+Security: -1.1
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Eos
+Weapon: Eos
+
+
+Destroyed items:
+
+Small Nosferatu I
+Medium Nosferatu I
+Warp Scrambler I
+Stasis Webifier I
+N-Type Explosive Hardener I
+Warrior I (Drone Bay)
+

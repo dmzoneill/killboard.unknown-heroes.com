@@ -1,0 +1,30 @@
+2006.10.21 06:28
+
+Victim: Katharina DeMatier
+Alliance: None
+Corp: Pangalactic Cab Inc.
+Destroyed: Condor
+System: Aunenen
+Security: 0.4
+
+Involved parties:
+
+Name: Jester87 (laid the final blow)
+Security: 4.1
+Alliance: Mordus Angels
+Corp: Bladerunners
+Ship: Cerberus
+Weapon: Scourge Precision Heavy Missile
+
+Name: Swanny231
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Raptor
+Weapon: Raptor
+
+
+Destroyed items:
+
+1MN Afterburner I
+

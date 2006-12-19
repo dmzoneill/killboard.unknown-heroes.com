@@ -1,0 +1,54 @@
+2006.11.07 22:39
+
+Victim: CursedBeast
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Velithe (laid the final blow)
+Security: 2.0
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Iulian1977
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Crusader
+Weapon: Dual Light Beam Laser II
+
+Name: The Ironfear
+Security: 0.1
+Alliance: None
+Corp: Nordgoetter
+Ship: Taranis
+Weapon: 125mm Carbide Railgun I
+
+Name: Cat1977
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Executioner
+Weapon: Executioner
+
+Name: Scorpio63
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Vengeance
+Weapon: Medium Pulse Laser II
+
+Name: Hava StormBringerr
+Security: 1.8
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Malediction
+Weapon: J5 Prototype Warp Inhibitor I
+
+

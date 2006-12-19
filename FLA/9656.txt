@@ -1,0 +1,96 @@
+2007.05.21 20:54
+
+Victim: Eliptic
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Destroyed: Arazu
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Kvarium Ki (laid the final blow)
+Security: 2.3
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Muninn
+Weapon: 720mm Howitzer Artillery II
+
+Name: silent uk
+Security: 2.5
+Alliance: DeStInY.
+Corp: Sacred Templars
+Ship: Heretic
+Weapon: Heretic
+
+Name: Kotori
+Security: -0.2
+Alliance: DeStInY.
+Corp: Sacred Templars
+Ship: Heretic
+Weapon: Heretic
+
+Name: brotula
+Security: 2.7
+Alliance: Event-Horizon
+Corp: Panta-Rhei
+Ship: Hyperion
+Weapon: Hammerhead II
+
+Name: Ocara Nezus
+Security: 1.5
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Corovus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+Name: marakudi
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Crow
+Weapon: Warp Disruptor II
+
+Name: Dibbes
+Security: 0.1
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Taranis
+Weapon: 150mm Railgun I
+
+Name: Miss Sparkles
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Griffin
+Weapon: Compulsive Multispectral ECM I
+
+Name: LtSpears
+Security: 0.7
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Incursus
+Weapon: Stasis Webifier I
+
+
+Destroyed items:
+
+250mm Railgun II
+Covert Ops Cloaking Device II
+Y-S8 Hydrocarbon I Afterburners
+Warp Disruptor II
+Indirect Scanning Dampening Unit I
+Phased Muon Sensor Disruptor I
+Sensor Booster II
+F85 Peripheral Damage System I
+Javelin M, Qty: 2000 (Cargo)
+Valkyrie I, Qty: 2 (Drone Bay)
+Hammerhead II (Drone Bay)
+

@@ -1,0 +1,37 @@
+2007.03.28 02:40
+
+Victim: Greyson Katana
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Destroyed: Harpy
+System: O-CNPR
+Security: 0.0
+
+Involved parties:
+
+Name: angelena (laid the final blow)
+Security: 4.5
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Claw
+Weapon: 280mm Howitzer Artillery II
+
+Name: Phoenus
+Security: 0.4
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+Regulated Light Neutron Phase Cannon I
+Regulated Light Neutron Phase Cannon I
+Antimatter Charge S, Qty: 158
+1MN MicroWarpdrive I
+Warp Scrambler II
+'Langour' Drive Disruptor I
+Explosion Dampening Amplifier II
+Wrath Cruise Missile, Qty: 22 (Cargo)
+

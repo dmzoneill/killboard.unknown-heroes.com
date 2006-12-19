@@ -1,0 +1,67 @@
+2006.09.01 05:02
+
+Victim: Richard Masterson
+Alliance: Process of Elimination
+Corp: Occassus Republica
+Destroyed: Crusader
+System: O-CNPR
+Security: 0.0
+
+Involved parties:
+
+Name: Weeble Wooble
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Megathron
+Weapon: Megathron
+
+Name: Valtaer (laid the final blow)
+Security: 3.5
+Alliance: Freelancer Alliance
+Corp: Terminal Velocity Inc.
+Ship: Moa
+Weapon: 250mm Compressed Coil Gun I
+
+Name: Mirage o
+Security: -0.3
+Alliance: Freelancer Alliance
+Corp: Terminal Velocity Inc.
+Ship: Heretic
+Weapon: Heretic
+
+Name: TasKu
+Security: 4.8
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Thorax
+Weapon: Light Neutron Blaster I
+
+Name: Supernaut 20k
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Blackbird
+Weapon: 'Abandon' Targeting Disruptor I
+
+Name: Philly81
+Security: 5.1
+Alliance: Imperial Republic Of the North
+Corp: Port Royal Independent Kontractors
+Ship: Unknown
+Weapon: Heavy Pulse Laser II
+
+
+Destroyed items:
+
+Dual Light Beam Laser II
+Dual Light Beam Laser II
+Ultraviolet S
+Ultraviolet S
+J5 Prototype Warp Inhibitor I
+Small Armor Repairer II
+Heavy F-RX Prototype I Capacitor Boost (Cargo)
+Radio S, Qty: 4 (Cargo)
+Multifrequency M, Qty: 2 (Cargo)
+Gleam S, Qty: 2 (Cargo)
+

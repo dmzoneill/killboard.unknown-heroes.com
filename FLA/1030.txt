@@ -1,0 +1,26 @@
+2007.03.03 17:58
+
+Victim: the killers
+Alliance: None
+Corp: Deep Core Mining Inc.
+Destroyed: Capsule
+System: YZ-LQL
+Security: 0.0
+
+Involved parties:
+
+Name: digital oxygen (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Taranis
+Weapon: Light Electron Blaster II
+
+Name: Ashlore
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Raptor
+Weapon: Small Nosferatu II
+
+

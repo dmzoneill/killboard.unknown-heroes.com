@@ -1,0 +1,74 @@
+2007.04.29 16:15
+
+Victim: sgtdark
+Alliance: Storm Armada
+Corp: stone grave haulage
+Destroyed: Myrmidon
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Tran Whistler (laid the final blow)
+Security: 5.3
+Alliance: Freelancer Alliance
+Corp: Harbingers of Sarrow
+Ship: Raven
+Weapon: Wrath Cruise Missile
+
+Name: Mocuker
+Security: 0.2
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+Name: Tyrfing
+Security: 1.5
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Rupture
+Weapon: Rupture
+
+Name: Skull Fire
+Security: 0.8
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Scorpion
+Weapon: Mjolnir Javelin Torpedo
+
+Name: Quninella
+Security: 1.1
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Thorax
+Weapon: 250mm Compressed Coil Gun I
+
+Name: Crushall
+Security: 5.0
+Alliance: The Foundation.
+Corp: NorCorp Security
+Ship: Dominix
+Weapon: E500 Prototype Energy Vampire
+
+
+Destroyed items:
+
+Medium 'Ghoul' Energy Siphon I
+Medium Unstable Power Fluctuator I
+Heavy Neutron Blaster I
+Heavy Neutron Blaster I
+Dread Guristas Tungsten Charge M, Qty: 160
+Spike S, Qty: 40
+Cap Recharger II
+10MN MicroWarpdrive I
+Medium Brief Capacitor Overcharge I
+Medium 'Accommodation' Vestment Reconstructer I
+Local Power Plant Manager: Capacity Power Relay I
+Reactor Control Unit I
+Dread Guristas Tungsten Charge M, Qty: 840 (Cargo)
+Cap Booster 400, Qty: 15 (Cargo)
+Spike S, Qty: 500 (Cargo)
+Hobgoblin II, Qty: 8 (Drone Bay)
+Hobgoblin SD-300 (Drone Bay)
+

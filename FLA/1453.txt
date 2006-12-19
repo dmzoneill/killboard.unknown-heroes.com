@@ -1,0 +1,29 @@
+2007.03.13 18:20
+
+Victim: Lt Angus
+Alliance: Privateer Alliance
+Corp: Privateers
+Destroyed: Taranis
+System: Jita
+Security: 0.9
+
+Involved parties:
+
+Name: Tregaron (laid the final blow)
+Security: 2.0
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Thrasher
+Weapon: 200mm AutoCannon II
+
+
+Destroyed items:
+
+Light Ion Blaster II
+Light Ion Blaster II
+Null S, Qty: 222
+1MN MicroWarpdrive I
+200mm Reinforced Rolled Tungsten Plates I
+Micro Auxiliary Power Core I
+Null S, Qty: 2525 (Cargo)
+

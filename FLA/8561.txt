@@ -1,0 +1,27 @@
+2006.11.27 20:50
+
+Victim: LizzyD
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Destroyed: Taranis
+System: P-ZMZV
+Security: 0.0
+
+Involved parties:
+
+Name: Johanzzon (laid the final blow)
+Security: 5.0
+Alliance: Firmus Ixion
+Corp: Swedish Aerospace Inc
+Ship: Armageddon
+Weapon: Large 'Notos' Explosive Charge I
+
+
+Destroyed items:
+
+75mm Gatling Rail II
+Spike S, Qty: 91
+1MN MicroWarpdrive I
+J5 Prototype Warp Inhibitor I
+Small Armor Repairer II
+

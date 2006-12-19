@@ -1,0 +1,29 @@
+2007.05.29 16:26
+
+Victim: Ecliptica
+Alliance: Agony Empire
+Corp: Agony Unleashed
+Destroyed: Incursus
+System: EWOK-K
+Security: 0.0
+
+Involved parties:
+
+Name: coldkill (laid the final blow)
+Security: 2.1
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Arazu
+Weapon: Hobgoblin II
+
+
+Destroyed items:
+
+Light Electron Blaster I
+Light Electron Blaster I
+Antimatter Charge S, Qty: 160
+Small Capacitor Booster I
+Small Armor Repairer I
+Small Armor Repairer I
+Antimatter Charge S (Cargo)
+

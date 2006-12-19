@@ -1,0 +1,47 @@
+2007.04.09 02:37
+
+Victim: Logand Delta
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Destroyed: Capsule
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Redginald (laid the final blow)
+Security: 4.5
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Hurricane
+Weapon: 425mm AutoCannon II
+
+Name: Spacebar
+Security: 2.1
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Jaguar
+Weapon: 150mm Light AutoCannon II
+
+Name: Karille
+Security: -1.6
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Maulus
+Weapon: Light Electron Blaster I
+
+Name: ER0X
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Zealot
+Weapon: Heavy Pulse Laser II
+
+Name: DrunkenOne
+Security: -0.5
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Taranis
+Weapon: Taranis
+
+

@@ -1,0 +1,26 @@
+2007.04.01 17:06
+
+Victim: Vily
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Destroyed: Capsule
+System: OWXT-5
+Security: 0.0
+
+Involved parties:
+
+Name: Mikal Drey (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Claw
+Weapon: 280mm Howitzer Artillery II
+
+Name: Daressek
+Security: 3.7
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Cormorant
+Weapon: 150mm Prototype I Gauss Gun
+
+

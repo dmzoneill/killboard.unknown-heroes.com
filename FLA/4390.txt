@@ -1,0 +1,106 @@
+2007.04.09 02:00
+
+Victim: FlyGuy
+Alliance: Freelancer Alliance
+Corp: ACCORD Industries
+Destroyed: Raven
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Luthair StoneDog (laid the final blow)
+Security: -2.7
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Thanatos
+Weapon: Firbolg
+
+Name: Minmatar Control Tower Medium / Eternity INC.
+
+Name: Menf
+Security: 2.1
+Alliance: S.E.R.A
+Corp: Seraphin Technologies
+Ship: Chimera
+Weapon: Firbolg
+
+Name: Lunalyia Ryche
+Security: 2.9
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Harbinger
+Weapon: Harbinger
+
+Name: ZAPPEL
+Security: 2.5
+Alliance: S.E.R.A
+Corp: Seraphin Technologies
+Ship: Megathron
+Weapon: Megathron
+
+Name: Myndpyre Ryche
+Security: 4.2
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Nighthawk
+Weapon: Heavy Missile Launcher II
+
+Name: Spacebar
+Security: 2.1
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: Waagaa Ktlehr
+Security: -1.1
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Aeon
+Weapon: Dragonfly
+
+Name: Skinny Boy
+Security: 4.1
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Thanatos
+Weapon: Firbolg
+
+Name: MIGHTYDWC
+Security: 4.7
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Myrmidon
+Weapon: Warp Disruptor II
+
+Name: DrunkenOne
+Security: -0.5
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Taranis
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: Crypt Layer
+Security: 3.6
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Taranis
+Weapon: Warp Disruptor I
+
+
+Destroyed items:
+
+Inferno Torpedo, Qty: 36
+Mjolnir Torpedo, Qty: 34
+Shock 'Limos' Siege Missile Bay I
+Shock 'Limos' Siege Missile Bay I
+X-Large Neutron Saturation Injector I
+Eutectic I Capacitor Charge Array
+Ballistic Deflection Field II
+Ballistic Deflection Field II
+Quantum Co-Processor I
+Ballistic Control System II
+Ballistic Control System II
+Inferno Torpedo, Qty: 1144 (Cargo)
+

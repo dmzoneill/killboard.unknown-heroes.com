@@ -1,0 +1,84 @@
+2006.10.18 17:04
+
+Victim: cnat
+Alliance: None
+Corp: Into the Fire
+Destroyed: Harpy
+System: F-NMX6
+Security: 0.0
+
+Involved parties:
+
+Name: sulky (laid the final blow)
+Security: 0.4
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Retribution
+Weapon: Medium Beam Laser II
+
+Name: Ione79
+Security: 3.6
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Jumar Coldgin
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Eagle
+Weapon: Eagle
+
+Name: Matt Stoner
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Cerberus
+Weapon: Scourge Precision Heavy Missile
+
+Name: James Potkukelkka
+Security: 0.2
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Flycatcher
+Weapon: Bloodclaw Light Missile
+
+Name: Tri Ounou
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Jaguar
+Weapon: 200mm AutoCannon II
+
+Name: Karas Rabus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Huginn
+Weapon: Sabretooth Precision Light Missile
+
+Name: kookos
+Security: 2.9
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Crusader
+Weapon: Crusader
+
+
+Destroyed items:
+
+150mm Railgun II
+Antimatter Charge S, Qty: 40
+'Arbalest' Standard Missile Launcher
+Small Shield Booster II
+'Langour' Drive Disruptor I
+Magnetic Scattering Amplifier II
+Small Shield Extender II (Cargo)
+Antimatter Charge S, Qty: 736 (Cargo)
+Iridium Charge S, Qty: 124 (Cargo)
+ECM - Multispectral Jammer I (Cargo)
+Co-Processor I (Cargo)
+Havoc Heavy Missile, Qty: 100 (Cargo)
+Assault Missile Launcher I (Cargo)
+

@@ -1,0 +1,90 @@
+2007.03.17 05:25
+
+Victim: Atormentado
+Alliance: Axiom Empire
+Corp: Fenix Reloaded
+Destroyed: Hawk
+System: MJYW-3
+Security: 0.0
+
+Involved parties:
+
+Name: coldkill
+Security: 1.8
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Megathron
+Weapon: Megathron
+
+Name: Weeble Wooble
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Megathron
+Weapon: Megathron
+
+Name: Villwrath (laid the final blow)
+Security: 3.5
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Hyperion
+Weapon: Neutron Blaster Cannon II
+
+Name: Khelia
+Security: 0.5
+Alliance: Dusk and Dawn
+Corp: Stardust Heavy Industries
+Ship: Myrmidon
+Weapon: Myrmidon
+
+Name: eagleeye d4l
+Security: 0.8
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Thorax
+Weapon: Thorax
+
+Name: chota
+Security: 5.0
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Rupture
+Weapon: Rupture
+
+Name: Sils wife
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: ventura5
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Drake
+Weapon: Advanced 'Limos' Heavy Missile Bay I
+
+Name: Matrixcvd
+Security: 5.0
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Raven
+Weapon: 'Arbalest' Cruise Launcher I
+
+
+Destroyed items:
+
+Standard Missile Launcher II
+Standard Missile Launcher II
+Standard Missile Launcher II
+Standard Missile Launcher II
+Bloodclaw Precision Light Missile, Qty: 94
+Small Shield Booster II
+J5 Prototype Warp Inhibitor I
+Magnetic Scattering Amplifier II
+Co-Processor I
+Iron Charge S, Qty: 180 (Cargo)
+Magnetic Field Stabilizer I (Cargo)
+Bloodclaw Light Missile, Qty: 100 (Cargo)
+

@@ -1,0 +1,44 @@
+2007.03.22 00:06
+
+Victim: dastommy79
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Destroyed: Arbitrator
+System: E-FIC0
+Security: 0.0
+
+Involved parties:
+
+Name: XxAngelxX
+Security: -1.8
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Curse
+Weapon: Warrior II
+
+Name: Naldo (laid the final blow)
+Security: -2.6
+Alliance: Triumvirate.
+Corp: ViperSquad
+Ship: Absolution
+Weapon: Heavy Pulse Laser II
+
+Name: Sith Bandon
+Security: 5.0
+Alliance: Triumvirate.
+Corp: ViperSquad
+Ship: Ishtar
+Weapon: 75mm Gatling Rail II
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Medium Nosferatu I
+Warp Disruptor I
+Tracking Disruptor I
+Damage Control I
+Medium Armor Repairer I (Cargo)
+X5 Prototype I Engine Enervator (Cargo)
+Spike S, Qty: 99 (Cargo)
+

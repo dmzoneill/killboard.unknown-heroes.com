@@ -1,0 +1,33 @@
+2007.01.12 16:46
+
+Victim: Sidrat Flush
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Destroyed: Kestrel
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: WarGod (laid the final blow)
+Security: 1.2
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Curse
+Weapon: Valkyrie II
+
+Name: XxAngelxX
+Security: 5.0
+Alliance: None
+Corp: 0utbreak
+Ship: Curse
+Weapon: Medium Nosferatu II
+
+
+Destroyed items:
+
+Gremlin Rocket, Qty: 12
+Rocket Launcher I
+Warp Disruptor I
+Remote Sensor Dampener I
+

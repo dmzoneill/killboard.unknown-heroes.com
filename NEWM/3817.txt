@@ -1,0 +1,102 @@
+2007.04.01 21:03
+
+Victim: ClogMan
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Tempest
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Rahzorus
+Security: 0.9
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Crow
+Weapon: Templar
+
+Name: Olli
+Security: -0.1
+Alliance: S.E.R.A
+Corp: Seraphin Technologies
+Ship: Chimera
+Weapon: Firbolg
+
+Name: Tracerone
+Security: 5.0
+Alliance: S.E.R.A
+Corp: Seraphin Technologies
+Ship: Nidhoggur
+Weapon: Dragonfly
+
+Name: War Bear
+Security: 2.8
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Stiletto
+Weapon: 250mm Light Artillery Cannon II
+
+Name: NightHawk VenGarden
+Security: 0.2
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Crusader
+Weapon: Dual Light Beam Laser II
+
+Name: Morgena (laid the final blow)
+Security: -0.9
+Alliance: S.E.R.A
+Corp: Seraphin Technologies
+Ship: Thanatos
+Weapon: Firbolg
+
+Name: Wotan I
+Security: 4.7
+Alliance: S.E.R.A
+Corp: Seraphin Technologies
+Ship: Thanatos
+Weapon: Firbolg
+
+Name: Tulas Flint
+Security: 4.5
+Alliance: S.E.R.A
+Corp: Seraphin Technologies
+Ship: Archon
+Weapon: Templar
+
+Name: Enosh Kerrim
+Security: -1.8
+Alliance: S.E.R.A
+Corp: Seraphin Technologies
+Ship: Thanatos
+Weapon: Firbolg
+
+Name: Ehre86
+Security: 0.6
+Alliance: YouWhat
+Corp: Dark Rising Shadow
+Ship: Manticore
+Weapon: XT-9000 Cruise Launcher
+
+
+Destroyed items:
+
+1400mm Howitzer Artillery I
+1400mm Howitzer Artillery I
+1400mm Howitzer Artillery I
+EMP L
+EMP L
+EMP L
+EMP L
+EMP L
+'Malkuth' Heavy Missile Launcher I
+Sensor Booster II
+Sensor Booster II
+Tracking Computer II
+Gyrostabilizer II
+EMP L, Qty: 1226 (Cargo)
+Fusion L, Qty: 1400 (Cargo)
+Carbonized Lead L, Qty: 2180 (Cargo)
+Valkyrie I, Qty: 5 (Drone Bay)
+

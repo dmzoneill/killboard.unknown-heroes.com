@@ -1,0 +1,133 @@
+2007.03.09 18:40
+
+Victim: Nelak
+Alliance: YouWhat
+Corp: Artificial Horizons
+Destroyed: Raven
+System: XZH-4X
+Security: 0.0
+
+Involved parties:
+
+Name: Zendolphin
+Security: 1.0
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Absolution
+Weapon: Absolution
+
+Name: Salastil (laid the final blow)
+Security: -1.2
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Megathron
+Weapon: 425mm Railgun I
+
+Name: Ra'virr
+Security: -2.1
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Rupture
+Weapon: Rupture
+
+Name: Tubesock
+Security: 4.8
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Brutix
+Weapon: Brutix
+
+Name: Miriyaka
+Security: 5.0
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Hurricane
+Weapon: Bloodclaw Light Missile
+
+Name: Jonas123
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Ferox
+Weapon: Ferox
+
+Name: Easy Kill
+Security: 4.0
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Cynabal
+Weapon: Dual 180mm AutoCannon II
+
+Name: Caius Proximus
+Security: 0.5
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Nordvargr
+Security: 3.8
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Typhoon
+Weapon: Paradise Cruise Missile
+
+Name: Sari Calimda
+Security: 2.9
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Celestis
+Weapon: Celestis
+
+Name: Gabrielle Gabet
+Security: 0.0
+Alliance: GoonSwarm
+Corp: The Theta Project
+Ship: Merlin
+Weapon: Merlin
+
+Name: 1337JiveTurkey
+Security: 0.0
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Merlin
+Weapon: Merlin
+
+Name: Dracunculiasis
+Security: 0.2
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Celestis
+Weapon: Warrior I
+
+Name: xCOUNTx
+Security: 0.0
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Merlin
+Weapon: Warp Disruptor I
+
+Name: Wilhelm Tarkin
+Security: 5.0
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Cyclone
+Weapon: J5 Prototype Warp Inhibitor I
+
+
+Destroyed items:
+
+Devastator Cruise Missile, Qty: 21
+Cruise Missile Launcher I
+Cruise Missile Launcher I
+Cruise Missile Launcher I
+X-Large Shield Booster II
+100MN MicroWarpdrive I
+Cap Booster 800
+Cap Booster 800
+Cap Booster 800
+Nanofiber Internal Structure I
+Nanofiber Internal Structure I
+Nanofiber Internal Structure I
+Hammerhead I, Qty: 5 (Drone Bay)
+

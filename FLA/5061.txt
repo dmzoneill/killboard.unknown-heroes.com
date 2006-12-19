@@ -1,0 +1,30 @@
+2007.04.21 11:51
+
+Victim: Shassandra
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Taranis
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: glitterbomb (laid the final blow)
+Security: -2.1
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Brutix
+Weapon: Heavy Neutron Blaster II
+
+
+Destroyed items:
+
+125mm Railgun II
+125mm Railgun II
+125mm Railgun II
+Uranium Charge S, Qty: 120
+Eutectic I Capacitor Charge Array
+Local Hull Conversion Overdrive Injector I
+Beta Reactor Control: Reaction Control I
+Iron Charge S, Qty: 2000 (Cargo)
+

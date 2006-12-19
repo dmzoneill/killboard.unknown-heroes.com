@@ -1,0 +1,54 @@
+2007.03.08 22:47
+
+Victim: TheMinion
+Alliance: YouWhat
+Corp: Beasts of Burden
+Destroyed: Gallente Shuttle
+System: XZH-4X
+Security: 0.0
+
+Involved parties:
+
+Name: Nuvanito
+Security: 3.9
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Brutix
+Weapon: 250mm Carbide Railgun I
+
+Name: Dark Carnage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Crow
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: Cyrila Wolf (laid the final blow)
+Security: -2.2
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Stiletto
+Weapon: 200mm AutoCannon II
+
+Name: Johanen
+Security: 2.7
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Myrmidon
+Weapon: Regulated Neutron Phase Cannon I
+
+Name: Muad' Dib
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Stiletto
+Weapon: Bloodclaw Light Missile
+
+Name: other mickey
+Security: 2.9
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Ares
+Weapon: TE-2100 Standard Missile Bay
+
+

@@ -1,0 +1,58 @@
+2007.05.18 21:56
+
+Victim: Qirajiii
+Alliance: YouWhat
+Corp: Princeps Corp
+Destroyed: Celestis
+System: O-N8XZ
+Security: 0.0
+
+Involved parties:
+
+Name: coldkill
+Security: 2.1
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Arazu
+Weapon: Hobgoblin II
+
+Name: Smook (laid the final blow)
+Security: 3.6
+Alliance: NxT LeveL
+Corp: The 5 Amigo's LLC.
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+Name: Kayron Brennan
+Security: 1.7
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Caracal
+Weapon: Havoc Heavy Missile
+
+Name: Ocara Nezus
+Security: 1.5
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Crow
+Weapon: Bloodclaw Fury Light Missile
+
+Name: Kvarium Ki
+Security: 2.3
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Rapier
+Weapon: Remote Sensor Dampener II
+
+
+Destroyed items:
+
+250mm Carbide Railgun I
+Iridium Charge M, Qty: 39
+Bloodclaw Light Missile, Qty: 40
+Standard Missile Launcher I
+10MN MicroWarpdrive I
+Remote Sensor Dampener II
+Remote Sensor Dampener II
+Exotic Dancers (Cargo)
+

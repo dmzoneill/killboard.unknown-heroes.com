@@ -1,0 +1,32 @@
+2007.04.04 06:29
+
+Victim: Kiyamoh
+Alliance: None
+Corp: Aliastra
+Destroyed: Capsule
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: FlobbMkII (laid the final blow)
+Security: 4.4
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Eris
+Weapon: Light Electron Blaster II
+
+Name: toonsterpw
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Vagabond
+Weapon: 425mm AutoCannon II
+
+Name: Bobby Atlas
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Thanatos
+Weapon: 500W Infectious Power System Malfunction
+

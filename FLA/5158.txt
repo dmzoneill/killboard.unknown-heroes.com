@@ -1,0 +1,46 @@
+2007.01.26 06:22
+
+Victim: Barqs
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Hyperion
+System: OWXT-5
+Security: 0.0
+
+Involved parties:
+
+Name: P1rate Dave
+Security: 0.9
+Alliance: None
+Corp: 0utbreak
+Ship: Typhoon
+Weapon: Ogre I
+
+Name: Vyndicator (laid the final blow)
+Security: -2.5
+Alliance: None
+Corp: 0utbreak
+Ship: Typhoon
+Weapon: Ogre I
+
+Name: Guristas Obliterator / Guristas
+
+
+Destroyed items:
+
+425mm Railgun II
+425mm Railgun II
+425mm Railgun II
+425mm Railgun II
+425mm Railgun II
+Uranium Charge L, Qty: 84
+Medium Electrochemical Capacitor Booster I
+Cap Booster 400
+Cap Booster 400
+Tracking Computer II
+Large Armor Repairer II
+Armor Thermic Hardener I
+Power Diagnostic System II
+Uranium Charge L, Qty: 6364 (Cargo)
+Antimatter Charge L, Qty: 7075 (Cargo)
+

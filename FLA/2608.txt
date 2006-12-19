@@ -1,0 +1,32 @@
+2007.02.26 21:53
+
+Victim: Jesnen
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Destroyed: Sacrilege
+System: Alparena
+Security: 0.1
+
+Involved parties:
+
+Name: Admiral Goberius (laid the final blow)
+Security: 4.0
+Alliance: Establishment
+Corp: The Establishment
+Ship: Megathron
+Weapon: Modal Mega Ion Particle Accelerator I
+
+Name: Gallente Sentry Gun / Federation Navy
+
+
+Destroyed items:
+
+Quad Light Beam Laser II
+Quad Light Beam Laser II
+Quad Light Beam Laser II
+Medium Nosferatu I
+Warp Disruptor I
+Medium Armor Repairer II
+Standard M, Qty: 3 (Cargo)
+Strip Miner I (Cargo)
+

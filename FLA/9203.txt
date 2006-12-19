@@ -1,0 +1,30 @@
+2007.05.01 22:26
+
+Victim: Ilan Barak
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Destroyed: Thorax
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: ZeroGrav (laid the final blow)
+Security: 3.2
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+
+Destroyed items:
+
+Heavy Electron Blaster I
+Heavy Electron Blaster I
+Heavy Electron Blaster I
+Antimatter Charge M, Qty: 759
+10MN MicroWarpdrive I
+Medium Armor Repairer I
+Energized Adaptive Nano Membrane I
+Energized Reactive Membrane I
+

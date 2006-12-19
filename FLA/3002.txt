@@ -1,0 +1,26 @@
+2007.03.21 06:05
+
+Victim: Bull Ramahorn
+Alliance: YouWhat
+Corp: Beasts of Burden
+Destroyed: Gallente Shuttle
+System: XT-R36
+Security: 0.0
+
+Involved parties:
+
+Name: Jules Wolfpack
+Security: 2.3
+Alliance: The Sundering
+Corp: ironwood ink
+Ship: Taranis
+Weapon: 125mm 'Scout' I Accelerator Cannon
+
+Name: KriegDrachen (laid the final blow)
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Sabre
+Weapon: 150mm Light AutoCannon II
+
+

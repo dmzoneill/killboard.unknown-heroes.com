@@ -1,0 +1,26 @@
+2007.05.25 17:29
+
+Victim: command95
+Alliance: None
+Corp: Imperial Academy
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Steven FSB
+Security: 3.5
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Harpy
+Weapon: Harpy
+
+Name: Chuck Dawg (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Crow
+Weapon: Bloodclaw Fury Light Missile
+
+

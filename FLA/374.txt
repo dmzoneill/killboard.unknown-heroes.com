@@ -1,0 +1,33 @@
+2007.01.29 01:23
+
+Victim: SWiXNT
+Alliance: None
+Corp: NT's Research Division
+Destroyed: Capsule
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Korudon (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Ferox
+Weapon: 250mm Railgun I
+
+Name: Goca
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Ferox
+Weapon: Widowmaker Heavy Missile
+
+Name: Xantheris
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Harpy
+Weapon: Harpy
+
+

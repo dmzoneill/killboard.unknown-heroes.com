@@ -1,0 +1,28 @@
+2007.05.17 22:04
+
+Victim: macispice
+Alliance: None
+Corp: Federal Navy Academy
+Destroyed: Iteron Mark IV
+System: Waskisen
+Security: 0.7
+
+Involved parties:
+
+Name: RythemAndStealth (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Punisher
+Weapon: Medium Modal Pulse Laser I
+
+
+Destroyed items:
+
+Expanded Cargohold I
+Expanded Cargohold I
+Expanded Cargohold I
+Cap Booster 75, Qty: 10 (Cargo)
+Azure Plagioclase, Qty: 2523 (Cargo)
+Viscous Pyroxeres, Qty: 13941 (Cargo)
+

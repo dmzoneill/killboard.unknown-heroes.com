@@ -1,0 +1,124 @@
+2006.07.16 18:24
+
+Victim: Cay Droma
+Alliance: Sparta Alliance
+Corp: GalacTECH Unlimited
+Destroyed: Vengeance
+System: VFK-IV
+Security: 0.0
+
+Involved parties:
+
+Name: Narny
+Security: 3.8
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Harpy
+Weapon: Harpy
+
+Name: movy (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Enyo
+Weapon: 125mm Railgun I
+
+Name: TasKu
+Security: 2.9
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Thorax
+Weapon: Thorax
+
+Name: OberFuhrer
+Security: 1.2
+Alliance: Freelancer Alliance
+Corp: CYBERNET SPACE EXPLORATION INC
+Ship: Kestrel
+Weapon: Bloodclaw Light Missile
+
+Name: XxAngelxX
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Malediction
+Weapon: Dual Light Beam Laser II
+
+Name: Wolfman Apocalypse
+Security: 2.3
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Caracal
+Weapon: Havoc Heavy Missile
+
+Name: Capt Cali
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: London Transport
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+Name: bidman
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Raven
+Weapon: Heavy Nosferatu I
+
+Name: DDaisy
+Security: 4.3
+Alliance: CORE.
+Corp: VentureCorp
+Ship: Megathron
+Weapon: Megathron
+
+Name: Ne0 MaTrIx
+Security: 2.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Rupture
+Weapon: Rupture
+
+Name: Barukor
+Security: 1.6
+Alliance: Freelancer Alliance
+Corp: KHM Corporation
+Ship: Stabber
+Weapon: Sabretooth Light Missile
+
+Name: marcouk2
+Security: 3.5
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Pilgrim
+Weapon: F-392 Baker Nunn Targeting Scrambler
+
+Name: MiA Greasy
+Security: -1.1
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Apocalypse
+Weapon: Target Painter I
+
+Name: Christopher Cook
+Security: 3.3
+Alliance: Freelancer Alliance
+Corp: CYBERNET SPACE EXPLORATION INC
+Ship: Rifter
+Weapon: Warp Disruptor I
+
+
+Destroyed items:
+
+Medium Pulse Laser II
+Medium Pulse Laser II
+Radio S
+Radio S
+Radio S
+Sabretooth Light Missile, Qty: 42
+'Malkuth' Standard Missile Launcher I
+Small Armor Repairer I
+Energized Adaptive Nano Membrane II
+Multifrequency S, Qty: 2 (Cargo)
+Sabretooth Light Missile, Qty: 713 (Cargo)
+

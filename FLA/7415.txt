@@ -1,0 +1,65 @@
+2006.09.03 14:55
+
+Victim: Thorn Glawer
+Alliance: E.R.A
+Corp: Millennium
+Destroyed: Thorax
+System: Mara
+Security: 0.4
+
+Involved parties:
+
+Name: Ione79 (laid the final blow)
+Security: 4.1
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Thorax
+Weapon: Hammerhead II
+
+Name: Minesweeper
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Cyclone
+Weapon: Cyclone
+
+Name: Hosanna
+Security: -1.4
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: Novas Wordo
+Security: 2.4
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: keilapuukko
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Harpy
+Weapon: Harpy
+
+Name: Guristas Wrecker / Guristas
+
+
+Destroyed items:
+
+Light Neutron Blaster II
+Light Neutron Blaster II
+Null S, Qty: 58
+J5 Prototype Warp Inhibitor I
+Pseudoelectron Containment Field I
+Patterned Stasis Web I (Cargo)
+Light Ion Blaster II (Cargo)
+Heavy Ion Blaster I, Qty: 2 (Cargo)
+Lead Charge S, Qty: 278 (Cargo)
+Lead Charge M, Qty: 313 (Cargo)
+Cap Booster 800 (Cargo)
+Null S, Qty: 1164 (Cargo)
+Berserker SW-900 (Cargo)
+

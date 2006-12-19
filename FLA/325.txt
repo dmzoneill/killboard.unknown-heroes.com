@@ -1,0 +1,92 @@
+2007.01.26 00:15
+
+Victim: Andrommeda
+Alliance: Band of Brothers
+Corp: Evolution
+Destroyed: Ares
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Goca
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Ferox
+Weapon: Medium Nosferatu I
+
+Name: Maximo Brutalis
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Ferox
+Weapon: Bloodclaw Precision Light Missile
+
+Name: sakana
+Security: -1.2
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Megathron
+Weapon: Megathron
+
+Name: ventura5 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Drake
+Weapon: Widowmaker Heavy Missile
+
+Name: Valea Silpha
+Security: 1.4
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Huginn
+Weapon: Huginn
+
+Name: Lancelot Wellborn
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Moa
+Weapon: Target Painter I
+
+Name: Thiet
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Merlin
+Weapon: 'Limos' Rocket Launcher I
+
+Name: PHIONIX DARKANGEL
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Rokh
+Weapon: 425mm Railgun I
+
+Name: Barukor
+Security: 2.9
+Alliance: None
+Corp: BGG
+Ship: Stiletto
+Weapon: 150mm Light AutoCannon II
+
+
+Destroyed items:
+
+150mm Railgun II
+150mm Railgun II
+Lead Charge S, Qty: 29
+Antimatter Charge S, Qty: 29
+1MN MicroWarpdrive I
+Small Armor Repairer I
+200mm Reinforced Nanofiber Plates I
+1MN MicroWarpdrive II (Cargo)
+Antimatter Charge S, Qty: 130 (Cargo)
+Lead Charge S, Qty: 960 (Cargo)
+Armor Explosive Hardener II (Cargo)
+Rocket Launcher II (Cargo)
+'Arbalest' Siege Missile Launcher (Cargo)
+Local Power Plant Manager: Capacity Power Relay I, Qty: 2 (Cargo)
+

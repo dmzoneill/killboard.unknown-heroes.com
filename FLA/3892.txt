@@ -1,0 +1,26 @@
+2007.04.04 18:31
+
+Victim: Dirkex
+Alliance: None
+Corp: State War Academy
+Destroyed: Capsule
+System: 2O9G-D
+Security: 0.0
+
+Involved parties:
+
+Name: Arvo Henderson (laid the final blow)
+Security: 3.2
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+Name: Talairina Tsinth
+Security: 0.6
+Alliance: Red Horizon
+Corp: Dark Horizons
+Ship: Crow
+Weapon: 'Malkuth' Rocket Launcher I
+
+

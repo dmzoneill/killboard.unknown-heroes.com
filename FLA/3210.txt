@@ -1,0 +1,59 @@
+2007.03.21 03:21
+
+Victim: Minisoza
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Megathron
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Lord Revent (laid the final blow)
+Security: 1.2
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Hurricane
+Weapon: 425mm AutoCannon II
+
+Name: Vasili Z
+Security: 0.4
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Huginn
+Weapon: Widowmaker Heavy Missile
+
+Name: Xoduse
+Security: 0.7
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Eris
+Weapon: Light Electron Blaster II
+
+Name: Sexorella hotz
+Security: 5.0
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Cheetah
+Weapon: J5 Prototype Warp Inhibitor I
+
+
+Destroyed items:
+
+425mm Compressed Coil Gun I
+425mm Carbide Railgun I
+425mm Carbide Railgun I
+425mm 'Scout' I Accelerator Cannon
+Guristas Iron Charge L, Qty: 37
+Sensor Booster II
+Damage Control II
+Medium Armor Repairer II
+Tracking Enhancer II
+1600mm Reinforced Crystalline Carbonide Plates I
+1600mm Reinforced Crystalline Carbonide Plates I
+Iron Charge L, Qty: 4261 (Cargo)
+Antimatter Charge L, Qty: 6219 (Cargo)
+Guristas Iron Charge L, Qty: 1667 (Cargo)
+Hobgoblin II, Qty: 2 (Drone Bay)
+Medium Armor Maintenance Bot I, Qty: 5 (Drone Bay)
+

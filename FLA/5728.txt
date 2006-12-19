@@ -1,0 +1,68 @@
+2006.10.13 22:23
+
+Victim: Gregor Drichkov
+Alliance: None
+Corp: Dark Horizons
+Destroyed: Caldari Shuttle
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Mcwlad
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Ship: Malediction
+Weapon: Malediction
+
+Name: Hojo Norem (laid the final blow)
+Security: 2.7
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: movy
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Enyo
+Weapon: 150mm Railgun I
+
+Name: Swanny231
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Vigilant
+Weapon: 250mm Railgun II
+
+Name: Soliloquil
+Security: 3.4
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Caracal
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+Name: Slinktress
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Ishkur
+Weapon: Light Neutron Blaster I
+
+Name: Nil Desperandum
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Omen
+Weapon: Heavy Anode Pulse Particle Stream I
+
+Name: Kismeteer
+Security: 3.4
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Incursus
+Weapon: Warp Disruptor I
+
+

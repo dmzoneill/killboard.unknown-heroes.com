@@ -1,0 +1,157 @@
+2007.01.28 17:57
+
+Victim: Elgcaress
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Destroyed: Dominix
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: jernej
+Security: 4.2
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Tempest
+Weapon: Tempest
+
+Name: Memphisz
+Security: 0.3
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Tempest
+Weapon: Tempest
+
+Name: Lucy Fur
+Security: 2.8
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Beast Hun
+Security: 4.7
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Abaddon
+Weapon: Abaddon
+
+Name: Pyrotesea (laid the final blow)
+Security: 4.6
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Hyperion
+Weapon: 425mm Railgun II
+
+Name: Letum Omnis
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Hyperion
+Weapon: Hyperion
+
+Name: dr shark
+Security: 1.8
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Muninn
+Weapon: Muninn
+
+Name: Andrommeda
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Taranis
+Weapon: Taranis
+
+Name: Puls4r
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: DAViiD
+Security: -0.8
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Taranis
+Weapon: Taranis
+
+Name: pajzi
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Claw
+Weapon: Claw
+
+Name: Ka Dargo
+Security: 4.4
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Messiah Killeon
+Security: -0.3
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Taranis
+Weapon: Taranis
+
+Name: Misticue
+Security: -1.5
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Repiv
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Marschall
+Security: 2.1
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Angela Dray
+Security: 3.1
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Taranis
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: Okeanos
+Security: 0.3
+Alliance: Band of Brothers
+Corp: TAOSP
+Ship: Arazu
+Weapon: Phased Muon Sensor Disruptor I
+
+
+Destroyed items:
+
+E500 Prototype Energy Vampire
+250mm Compressed Coil Gun I
+Thorium Charge M, Qty: 80
+Drone Link Augmentor I
+Eutectic I Capacitor Charge Array
+Eutectic I Capacitor Charge Array
+100MN Afterburner I
+Omnidirectional Tracking Link I
+Damage Control I
+Armor Thermic Hardener I
+Armor Kinetic Hardener I
+Armor Kinetic Hardener I
+Thorium Charge M, Qty: 6805 (Cargo)
+Hobgoblin I, Qty: 3 (Drone Bay)
+Wasp I, Qty: 3 (Drone Bay)
+Warden I, Qty: 3 (Drone Bay)
+

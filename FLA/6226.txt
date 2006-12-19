@@ -1,0 +1,66 @@
+2006.11.10 20:27
+
+Victim: Elizabeth Lockley
+Alliance: None
+Corp: The Billionaire Club
+Destroyed: Rifter
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Elfaen Ethenwe (laid the final blow)
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Crow
+Weapon: Piranha Light Missile
+
+Name: H3llfire
+Security: 2.6
+Alliance: O X I D E
+Corp: W33D Corp.
+Ship: Moa
+Weapon: 250mm Compressed Coil Gun I
+
+Name: LiBraga
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Eagle
+Weapon: 250mm Prototype I Gauss Gun
+
+Name: bidman
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Ferox
+Weapon: 250mm Compressed Coil Gun I
+
+Name: LizzyD
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Ishkur
+Weapon: 150mm Railgun II
+
+Name: TheBelgarion
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Caracal
+Weapon: Advanced 'Limos' Heavy Missile Bay I
+
+Name: Dog Cancer
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Crow
+Weapon: Standard Missile Launcher I
+
+
+Destroyed items:
+
+Micro Capacitor Battery II
+Warp Core Stabilizer I
+

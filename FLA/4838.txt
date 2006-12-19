@@ -1,0 +1,37 @@
+2007.04.17 01:05
+
+Victim: truefranco
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Destroyed: Rifter
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Dol Amroth (laid the final blow)
+Security: 0.2
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Elenor Pewpew
+Security: 2.5
+Alliance: Firmus Ixion
+Corp: Xoth Inc
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+200mm AutoCannon II
+200mm AutoCannon II
+150mm Light AutoCannon II
+Small 'Knave' I Energy Drain
+Warp Disruptor I
+Stasis Webifier I
+Small Armor Repairer II
+200mm Reinforced Titanium Plates I
+

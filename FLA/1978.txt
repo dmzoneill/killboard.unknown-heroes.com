@@ -1,0 +1,36 @@
+2007.01.13 22:35
+
+Victim: ventura5
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Thorax
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Crucifier (laid the final blow)
+Security: 0.3
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Scythus Aratan
+Security: 4.5
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Armageddon
+Weapon: Armageddon
+
+
+Destroyed items:
+
+Light Neutron Blaster II
+Light Neutron Blaster II
+Light Neutron Blaster II
+Null S, Qty: 285
+Medium Armor Repairer II
+Magnetic Field Stabilizer I
+Microcell Nanite Explosive Hardener I
+

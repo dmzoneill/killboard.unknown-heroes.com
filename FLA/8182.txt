@@ -1,0 +1,40 @@
+2006.10.27 20:17
+
+Victim: Flashh Gorden
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Destroyed: Caracal
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Mir0n Cosma
+Security: 1.0
+Alliance: None
+Corp: NEXT LEVEL
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Bulles (laid the final blow)
+Security: -1.9
+Alliance: None
+Corp: NEXT LEVEL
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+
+Destroyed items:
+
+Havoc Heavy Missile, Qty: 64
+Widowmaker Heavy Missile, Qty: 27
+XR-3200 Heavy Missile Bay
+XR-3200 Heavy Missile Bay
+XR-3200 Heavy Missile Bay
+Sensor Booster I
+F-89 Synchronized Signal Amplifier
+Ballistic Control System I
+Widowmaker Heavy Missile, Qty: 2470 (Cargo)
+Havoc Heavy Missile, Qty: 1384 (Cargo)
+Scourge Heavy Missile, Qty: 2510 (Cargo)
+

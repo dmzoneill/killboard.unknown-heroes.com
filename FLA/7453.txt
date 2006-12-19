@@ -1,0 +1,28 @@
+2006.09.06 00:24
+
+Victim: Darsidius
+Alliance: Eternal Empire
+Corp: Exil Industries
+Destroyed: Blackbird
+System: O-BY0Y
+Security: 0.0
+
+Involved parties:
+
+Name: Caldari Control Tower Small / Steel Frontier (laid the final blow)
+
+
+Destroyed items:
+
+Small 'Knave' I Energy Drain
+Sabretooth Light Missile, Qty: 63
+Piranha Light Missile, Qty: 63
+'Malkuth' Assault Missile Launcher I
+Large Azeotropic Ward Salubrity I
+10MN MicroWarpdrive I
+ECM - Multispectral Jammer I
+Warp Core Stabilizer I
+Warp Core Stabilizer I
+Bloodclaw Light Missile, Qty: 108 (Cargo)
+Sabretooth Light Missile, Qty: 137 (Cargo)
+

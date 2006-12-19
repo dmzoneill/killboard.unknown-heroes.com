@@ -1,0 +1,60 @@
+2007.04.02 03:16
+
+Victim: velusip
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Destroyed: Crucifier
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: vyperpit (laid the final blow)
+Security: 4.5
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Renu
+Security: -1.0
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Claymore
+Weapon: Hobgoblin II
+
+Name: Yushii
+Security: -0.4
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Machariel
+Weapon: Dual 425mm AutoCannon II
+
+Name: K Shara
+Security: 5.0
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Crow
+Weapon: Sabretooth Light Missile
+
+Name: WarGod
+Security: 1.2
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Curse
+Weapon: Medium Nosferatu II
+
+Name: Stooboy
+Security: 1.3
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Rook
+Weapon: ECM - Phase Inverter II
+
+
+Destroyed items:
+
+Small 'Knave' I Energy Drain
+Barton Reactor Capacitor Recharger I
+1MN MicroWarpdrive I
+

@@ -1,0 +1,23 @@
+2007.01.06 20:35
+
+Victim: Bvzhnwe
+Alliance: Freelancer Alliance
+Corp: Caldar Mercenary Syndicate
+Destroyed: Ibis
+System: Torrinos
+Security: 0.5
+
+Involved parties:
+
+Name: Fjerkenstad (laid the final blow)
+Security: -1.9
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Enyo
+Weapon: Light Neutron Blaster II
+
+
+Destroyed items:
+
+Basic Miner
+

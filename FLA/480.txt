@@ -1,0 +1,54 @@
+2007.02.05 04:03
+
+Victim: Fortress Maximus
+Alliance: None
+Corp: Center for Advanced Studies
+Destroyed: Capsule
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Swanny231
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Crow
+Weapon: Flameburst Light Missile
+
+Name: truefranco
+Security: 0.3
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Karl Mattar
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Claw
+Weapon: 150mm Light AutoCannon II
+
+Name: Jaig Maldara (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Cormorant
+Weapon: 150mm Railgun II
+
+Name: Xantheris
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Harpy
+Weapon: Harpy
+
+Name: Miles Aeternus
+Security: 2.6
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Crow
+Weapon: Standard Missile Launcher I
+
+

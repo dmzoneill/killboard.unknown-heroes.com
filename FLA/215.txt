@@ -1,0 +1,61 @@
+2007.01.18 05:17
+
+Victim: Ni Nee
+Alliance: Southern Cross Alliance
+Corp: RazorBack Inc
+Destroyed: Gallente Shuttle
+System: 3-FKCZ
+Security: 0.0
+
+Involved parties:
+
+Name: Eutectic
+Security: 5.2
+Alliance: Imperial Republic Of the North
+Corp: VentureCorp
+Ship: Ishkur
+Weapon: Hornet II
+
+Name: Marco Polio
+Security: 4.8
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Raptor
+Weapon: Piranha Light Missile
+
+Name: Erfurt
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: MetaForge
+Ship: Raptor
+Weapon: Raptor
+
+Name: Blitson (laid the final blow)
+Security: 3.6
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Flycatcher
+Weapon: Thorn Javelin Rocket
+
+Name: Tarphon
+Security: 2.6
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Raptor
+Weapon: Raptor
+
+Name: Rascle
+Security: 2.8
+Alliance: Imperial Republic Of the North
+Corp: MetaForge
+Ship: Raptor
+Weapon: 150mm Carbide Railgun I
+
+Name: Karnovsky
+Security: 4.6
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Claw
+Weapon: 200mm AutoCannon II
+
+

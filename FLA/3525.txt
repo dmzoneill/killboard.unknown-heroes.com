@@ -1,0 +1,19 @@
+2007.04.01 22:30
+
+Victim: Pangia
+Alliance: None
+Corp: State War Academy
+Destroyed: Ibis
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Untamed Fury (laid the final blow)
+Security: 1.2
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Harpy
+Weapon: 150mm Railgun I
+
+

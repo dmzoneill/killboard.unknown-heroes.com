@@ -1,0 +1,76 @@
+2007.02.12 18:40
+
+Victim: Faeden Pain
+Alliance: None
+Corp: Halfwits
+Destroyed: Jaguar
+System: 5ZXX-K
+Security: 0.0
+
+Involved parties:
+
+Name: Praetorian Mardou (laid the final blow)
+Security: 4.8
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+Name: Minisoza
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: MohamedLoftie
+Security: -1.2
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Malediction
+Weapon: Malediction
+
+Name: Kateryne
+Security: -0.4
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Retribution
+Weapon: Retribution
+
+Name: Dark Carnage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Crow
+Weapon: Sabretooth Light Missile
+
+Name: Zoltan Prime
+Security: 1.2
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Osprey
+Weapon: Bloodclaw Light Missile
+
+Name: Solarienne
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Manticore
+Weapon: 'Arbalest' Cruise Launcher I
+
+
+Destroyed items:
+
+250mm Light Artillery Cannon I
+250mm Light Gallium I Cannon
+'Arbalest' Rocket Launcher I
+F-S8 Relativistic Deflection Shield Induction
+Additional Thermal Barrier Emitter I
+Warp Core Stabilizer I
+Warp Core Stabilizer I
+Nanofiber Internal Structure I
+1400mm 'Scout' Artillery I (Cargo)
+1400mm Howitzer Artillery I (Cargo)
+Compact 'Limos' Assault Missile Bay I, Qty: 2 (Cargo)
+Type-D Power Core Modification: Diagnostic System (Cargo)
+

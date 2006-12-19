@@ -1,0 +1,61 @@
+2006.05.13 16:33
+
+Victim: Cockroach
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Maller
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Ciens
+Security: -1.8
+Alliance: Dusk and Dawn
+Corp: SteelVipers
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: volly
+Security: 4.9
+Alliance: Dusk and Dawn
+Corp: SteelVipers
+Ship: Sacrilege
+Weapon: Sacrilege
+
+Name: Velaine
+Security: 1.2
+Alliance: Dusk and Dawn
+Corp: SteelVipers
+Ship: Claw
+Weapon: Claw
+
+Name: Femme Extrema
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: SteelVipers
+Ship: Ares
+Weapon: 125mm Railgun II
+
+Name: Minas Arthar (laid the final blow)
+Security: 1.1
+Alliance: Dusk and Dawn
+Corp: SteelVipers
+Ship: Merlin
+Weapon: Flameburst Light Missile
+
+
+Destroyed items:
+
+Dual Light Beam Laser II
+Medium Nosferatu I
+Medium Nosferatu I
+Microwave S
+J5b Phased Prototype Warp Inhibitor I
+F-90 Positional Sensor Subroutines
+Small Armor Repairer I
+1600mm Reinforced Steel Plates I
+Xray S, Qty: 4 (Cargo)
+Infrared S, Qty: 4 (Cargo)
+Ultraviolet S, Qty: 4 (Cargo)
+

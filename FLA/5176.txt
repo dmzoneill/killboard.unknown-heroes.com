@@ -1,0 +1,52 @@
+2007.04.23 17:23
+
+Victim: Hojou
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Incursus
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Ghu'ru Talozan
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Capsule
+Weapon: 150mm Railgun I
+
+Name: Dana Foxworth
+Security: 3.7
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Thrasher
+Weapon: Thrasher
+
+Name: Minisoza (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Taranis
+Weapon: Warrior II
+
+Name: Rhaall
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Executioner
+Weapon: Small Nosferatu I
+
+
+Destroyed items:
+
+125mm Railgun I
+125mm Railgun I
+Tungsten Charge S, Qty: 78
+J5 Prototype Warp Inhibitor I
+X5 Prototype I Engine Enervator
+Overdrive Injector System I
+Overdrive Injector System I
+Tungsten Charge S, Qty: 1800 (Cargo)
+Supplemental Scanning CPU I (Cargo)
+

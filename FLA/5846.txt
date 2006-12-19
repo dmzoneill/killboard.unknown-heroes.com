@@ -1,0 +1,156 @@
+2006.10.23 20:16
+
+Victim: Kadran
+Alliance: Eternal Empire
+Corp: Spectral Armada
+Destroyed: Raven
+System: MI6O-6
+Security: 0.0
+
+Involved parties:
+
+Name: Veliki Pyotr
+Security: 5.0
+Alliance: Forces of Freedom
+Corp: Eth3real
+Ship: Dominix
+Weapon: Dominix
+
+Name: casama
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Apocalypse
+Weapon: Tachyon Beam Laser II
+
+Name: Zerobyte1
+Security: 5.0
+Alliance: Forces of Freedom
+Corp: JUDGE DREAD Inc.
+Ship: Deimos
+Weapon: Deimos
+
+Name: betabob
+Security: 4.1
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: K Shara (laid the final blow)
+Security: 1.5
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Scorpion
+Weapon: Devastator Cruise Missile
+
+Name: Gamer1K
+Security: 3.9
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Rook
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+Name: Skornik
+Security: 3.5
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Megathron
+Weapon: Megathron
+
+Name: Yurian
+Security: 1.3
+Alliance: None
+Corp: Fatalix Inc.
+Ship: Maller
+Weapon: Maller
+
+Name: Minesweeper
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: arthell
+Security: 1.4
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Vexor
+Weapon: Hornet I
+
+Name: Dingus Rx
+Security: 2.5
+Alliance: Imperial Republic Of the North
+Corp: Port Royal Independent Kontractors
+Ship: Celestis
+Weapon: Remote Sensor Dampener I
+
+Name: d4ve
+Security: 4.6
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Archon
+Weapon: Einherji
+
+Name: Megan Ryder
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: VentureCorp
+Ship: Megathron
+Weapon: Acolyte II
+
+Name: Barasu
+Security: 1.5
+Alliance: Forces of Freedom
+Corp: Crimson Wings Squadron
+Ship: Stabber
+Weapon: Warrior I
+
+Name: sulky
+Security: 0.5
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Armageddon
+Weapon: Mega Modulated Energy Beam I
+
+Name: Callifrey Galliente
+Security: 0.4
+Alliance: Forces of Freedom
+Corp: Dark Phoenix Corporation
+Ship: Osprey
+Weapon: Heavy Missile Launcher I
+
+Name: copicus
+Security: 5.2
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Capsule
+Weapon: Induced Multispectral ECM I
+
+Name: Tas Devil
+Security: 5.0
+Alliance: Forces of Freedom
+Corp: JUDGE DREAD Inc.
+Ship: Archon
+Weapon: Templar
+
+
+Destroyed items:
+
+Siege Missile Launcher II
+Siege Missile Launcher II
+Siege Missile Launcher II
+Siege Missile Launcher II
+Inferno Javelin Torpedo, Qty: 16
+Invulnerability Field I
+Alumel-Wired I Sensor Augmentation
+Quantum Co-Processor I
+Ballistic Control System II
+Ballistic Control System II
+Inferno Torpedo, Qty: 1133 (Cargo)
+Bane Torpedo, Qty: 402 (Cargo)
+Inferno Javelin Torpedo, Qty: 306 (Cargo)
+Mjolnir Javelin Torpedo, Qty: 384 (Cargo)
+Juggernaut Javelin Torpedo, Qty: 247 (Cargo)
+

@@ -1,0 +1,19 @@
+2006.10.09 09:55
+
+Victim: lambert butler
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Destroyed: Capsule
+System: Arant
+Security: 0.6
+
+Involved parties:
+
+Name: widgetman (laid the final blow)
+Security: 0.7
+Alliance: None
+Corp: Privateers
+Ship: Dominix
+Weapon: Warrior II
+
+

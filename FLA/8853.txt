@@ -1,0 +1,58 @@
+2006.12.12 21:49
+
+Victim: Fullerton
+Alliance: Freelancer Alliance
+Corp: THeOThErs
+Destroyed: Wolf
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: beantin
+Security: 2.9
+Alliance: None
+Corp: 0utbreak
+Ship: Sabre
+Weapon: Sabre
+
+Name: ALPHA12125
+Security: 1.7
+Alliance: None
+Corp: 0utbreak
+Ship: Megathron
+Weapon: Megathron
+
+Name: Tadis
+Security: 1.1
+Alliance: None
+Corp: 0utbreak
+Ship: Megathron
+Weapon: Megathron
+
+Name: ScoRpS (laid the final blow)
+Security: 1.9
+Alliance: None
+Corp: 0utbreak
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Leilani Solaris
+Security: -1.4
+Alliance: None
+Corp: 0utbreak
+Ship: Armageddon
+Weapon: Mega Beam Laser II
+
+
+Destroyed items:
+
+250mm Light Artillery Cannon II
+EMP S, Qty: 17
+'Malkuth' Rocket Launcher I
+Magnetic Plating II
+EMP S, Qty: 782 (Cargo)
+Tremor S, Qty: 728 (Cargo)
+Quake S, Qty: 871 (Cargo)
+Gremlin Rocket, Qty: 1130 (Cargo)
+

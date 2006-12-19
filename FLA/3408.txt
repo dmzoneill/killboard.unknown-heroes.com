@@ -1,0 +1,34 @@
+2007.03.25 19:56
+
+Victim: ConXtionS
+Alliance: Freelancer Alliance
+Corp: The Night Crew
+Destroyed: Thorax
+System: Alsavoinon
+Security: 0.3
+
+Involved parties:
+
+Name: Gallente Sentry Gun / Federation Navy (laid the final blow)
+
+Name: Chode Rizoum
+Security: -2.0
+Alliance: Eternal Rapture
+Corp: Temptation inc.
+Ship: Taranis
+Weapon: J5 Prototype Warp Inhibitor I
+
+
+Destroyed items:
+
+Heavy Neutron Blaster I
+Heavy Neutron Blaster I
+Antimatter Charge M, Qty: 152
+Improved Cloaking Device II
+Initiated Warp Jammer I
+Beta Hull Mod Overdrive Injector
+Overdrive Injector System I
+Type-D Altered SS Overdrive Injector
+Type-D Power Core Modification: Capacitor Power Relay
+Hammerhead I, Qty: 3 (Drone Bay)
+

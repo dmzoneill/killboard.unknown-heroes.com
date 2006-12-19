@@ -1,0 +1,31 @@
+2007.01.21 19:53
+
+Victim: Mecallie2
+Alliance: None
+Corp: Sebiestor tribe
+Destroyed: Reaper
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Solarienne (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+Name: Poister
+Security: 3.7
+Alliance: O X I D E
+Corp: Reunited
+Ship: Drake
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+
+Destroyed items:
+
+Civilian Gatling Autocannon
+Basic Miner
+

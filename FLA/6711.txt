@@ -1,0 +1,67 @@
+2006.11.25 19:23
+
+Victim: Thorolfur
+Alliance: None
+Corp: DeWinter-Technologies
+Destroyed: Ibis
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: casama (laid the final blow)
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Vengeance
+Weapon: Medium Beam Laser II
+
+Name: Durante Alighieri
+Security: 2.8
+Alliance: Schism.
+Corp: New Light
+Ship: Harpy
+Weapon: Harpy
+
+Name: Tri Ounou
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Jaguar
+Weapon: 'Arbalest' Rocket Launcher I
+
+Name: Shiri elAzarinres
+Security: 0.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Eagle
+Weapon: Assault Missile Launcher II
+
+Name: Rebecca Tanglebloom
+Security: 3.8
+Alliance: Imperial Republic Of the North
+Corp: Port Royal Independent Kontractors
+Ship: Vengeance
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: Jumar Coldgin
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Rook
+Weapon: 'Hypnos' Multispectral ECM I
+
+Name: Hosanna
+Security: 3.1
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Vagabond
+Weapon: Warp Disruptor I
+
+
+Destroyed items:
+
+Civilian Gatling Railgun
+Basic Miner
+Tritanium (Cargo)
+

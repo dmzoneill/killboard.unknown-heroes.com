@@ -1,0 +1,54 @@
+2007.03.03 02:35
+
+Victim: Perfidious Ichabod
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Destroyed: Capsule
+System: PXF-RF
+Security: 0.0
+
+Involved parties:
+
+Name: Nil Desperandum
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Enyo
+Weapon: Light Ion Blaster II
+
+Name: Major Ramser
+Security: 4.4
+Alliance: Dusk and Dawn
+Corp: Momentum.
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+Name: Dark Carnage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Crow
+Weapon: Sabretooth Light Missile
+
+Name: Sniperpirate (laid the final blow)
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Infinite Improbability Inc
+Ship: Hurricane
+Weapon: 720mm Howitzer Artillery II
+
+Name: Teck7
+Security: 1.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ares
+Weapon: Initiated Warp Jammer I
+
+Name: Inter Fectum
+Security: 2.0
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Jaguar
+Weapon: X5 Prototype I Engine Enervator
+
+

@@ -1,0 +1,40 @@
+2007.03.24 19:08
+
+Victim: ZAX0236
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Destroyed: Capsule
+System: RORZ-H
+Security: 0.0
+
+Involved parties:
+
+Name: alon blackhelm (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+Name: midge Mo'yb
+Security: 3.0
+Alliance: Galactic-Federation
+Corp: Antares Shipyards
+Ship: Harbinger
+Weapon: Harbinger
+
+Name: Kayron Brennan
+Security: 0.3
+Alliance: Galactic-Federation
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Blackbird
+Weapon: Bloodclaw Light Missile
+
+Name: Praetorian Mardou
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Drake
+Weapon: Heavy Missile Launcher I
+
+

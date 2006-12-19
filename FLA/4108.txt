@@ -1,0 +1,89 @@
+2007.04.14 23:48
+
+Victim: Nariya
+Alliance: Triumvirate.
+Corp: D00M.
+Destroyed: Blackbird
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Jacqueline Skouris
+Security: -1.5
+Alliance: 3asy Company
+Corp: Eth3real
+Ship: Rokh
+Weapon: Rokh
+
+Name: Varalonia (laid the final blow)
+Security: 2.3
+Alliance: Darklite Alliance
+Corp: Darklite inc
+Ship: Typhoon
+Weapon: Paradise Cruise Missile
+
+Name: Wallyx
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Abaddon
+Weapon: Warp Disruptor II
+
+Name: Atiro Kali
+Security: 5.0
+Alliance: Darklite Alliance
+Corp: Darklite inc
+Ship: Hawk
+Weapon: Bloodclaw Light Missile
+
+Name: Frank West
+Security: -2.2
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Condor
+Weapon: Bloodclaw Light Missile
+
+Name: Vlad Masters
+Security: -1.0
+Alliance: 3asy Company
+Corp: Eth3real
+Ship: Blackbird
+Weapon: Heavy Missile Launcher I
+
+Name: OrbiteronAir
+Security: 5.0
+Alliance: SECUWAY.
+Corp: SecuWay
+Ship: Manticore
+Weapon: 'Arbalest' Cruise Launcher I
+
+Name: Kithron
+Security: 2.5
+Alliance: Darklite Alliance
+Corp: Darklite inc
+Ship: Vexor
+Weapon: Heavy Ion Blaster I
+
+
+Destroyed items:
+
+Terror Assault Missile, Qty: 1800
+Medium 'Ghoul' Energy Siphon I
+Heavy Assault Missile Launcher I
+Initiated Multispectral ECM I
+Initiated Multispectral ECM I
+FZ-3 Subversive Spatial Destabilizer ECM
+Compulsive Multispectral ECM I
+Signal Distortion Amplifier I
+Small Supplemental Barrier Emitter I (Cargo)
+X-Large Shield Booster I (Cargo)
+Small Nosferatu I (Cargo)
+Medium Brief Capacitor Overcharge I (Cargo)
+Juggernaut Torpedo, Qty: 108 (Cargo)
+Remote Sensor Dampener I (Cargo)
+Warp Core Stabilizer I, Qty: 2 (Cargo)
+Wrath Cruise Missile, Qty: 100 (Cargo)
+Cruise Missile Launcher I (Cargo)
+Capacitor Power Relay I (Cargo)
+

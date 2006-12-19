@@ -1,0 +1,43 @@
+2007.05.18 14:46
+
+Victim: Sir Pip
+Alliance: Ev0ke
+Corp: Asgard Schiffswerften
+Destroyed: Sabre
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Jorax (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Myrmidon
+Weapon: Warrior II
+
+Name: Analogue Brain
+Security: -1.2
+Alliance: Ev0ke
+Corp: Asgard Schiffswerften
+Ship: Buzzard
+Weapon: J5 Prototype Warp Inhibitor I
+
+
+Destroyed items:
+
+250mm Light Artillery Cannon II
+250mm Light Artillery Cannon II
+250mm Light Artillery Cannon II
+250mm Light Artillery Cannon II
+250mm Light Artillery Cannon II
+EMP S, Qty: 48
+Warp Disrupt Probe, Qty: 10
+Interdiction Sphere Launcher I
+1MN MicroWarpdrive II
+Fleeting Propulsion Inhibitor I
+Local Hull Conversion Nanofiber Structure I
+Fusion S, Qty: 345 (Cargo)
+Carbonized Lead S, Qty: 587 (Cargo)
+Tremor S, Qty: 600 (Cargo)
+

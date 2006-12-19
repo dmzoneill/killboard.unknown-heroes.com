@@ -1,0 +1,62 @@
+2007.03.25 21:45
+
+Victim: alpha lead
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Scorpion
+System: B-9C24
+Security: 0.0
+
+Involved parties:
+
+Name: Tomas Ysidro (laid the final blow)
+Security: 1.3
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Astarte
+Weapon: Heavy Neutron Blaster II
+
+Name: Kkmar Jheren
+Security: -1.5
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Malediction
+Weapon: Malediction
+
+Name: Shadowjet
+Security: -1.3
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Lighty
+Security: 4.7
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Phoenus
+Security: 0.4
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+Large 'Notos' Explosive Charge I
+Large Rudimentary Concussion Bomb I
+250mm Railgun I
+Antimatter Charge M, Qty: 40
+LiF Fueled I Booster Rockets
+Warp Core Stabilizer I
+Warp Core Stabilizer I
+Warp Core Stabilizer I
+Cap Booster 400, Qty: 17 (Cargo)
+Cap Booster 800, Qty: 7 (Cargo)
+Ancillary Ballistic Screen Stabilizer I (Cargo)
+Valkyrie I, Qty: 3 (Drone Bay)
+

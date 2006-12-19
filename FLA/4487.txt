@@ -1,0 +1,32 @@
+2007.04.11 14:40
+
+Victim: seryhgyu
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Destroyed: Slasher
+System: CZDJ-1
+Security: 0.0
+
+Involved parties:
+
+Name: Gordon Red (laid the final blow)
+Security: 2.1
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Heretic
+Weapon: Dual Light Beam Laser II
+
+Name: volly
+Security: 3.7
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Curse
+Weapon: Remote Sensor Dampener II
+
+
+Destroyed items:
+
+1MN MicroWarpdrive I
+Remote Sensor Dampener I
+Inertia Stabilizers I
+

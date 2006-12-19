@@ -1,0 +1,19 @@
+2007.03.31 02:46
+
+Victim: KaS89
+Alliance: None
+Corp: Federal Navy Academy
+Destroyed: Capsule
+System: L-C3O7
+Security: 0.0
+
+Involved parties:
+
+Name: Maximo Brutalis (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Ferox
+Weapon: Flameburst Light Missile
+
+

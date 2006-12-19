@@ -1,0 +1,85 @@
+2006.11.08 18:57
+
+Victim: Darknesss
+Alliance: Triumvirate.
+Corp: D00M.
+Destroyed: Megathron
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: al3x andra
+Security: 4.2
+Alliance: O X I D E
+Corp: W33D Corp.
+Ship: Rupture
+Weapon: Rupture
+
+Name: sunik
+Security: 4.7
+Alliance: Dusk and Dawn
+Corp: Black Lance
+Ship: Capsule
+Weapon: ECM - Multispectral Jammer I
+
+Name: haker2001
+Security: 1.0
+Alliance: O X I D E
+Corp: W33D Corp.
+Ship: Caracal
+Weapon: Hornet I
+
+Name: H3llfire
+Security: 2.5
+Alliance: O X I D E
+Corp: W33D Corp.
+Ship: Moa
+Weapon: Moa
+
+Name: Wousr (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Stiletto
+Weapon: 125mm Gatling AutoCannon II
+
+Name: Dog Cancer
+Security: 1.4
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Crow
+Weapon: Sabretooth Light Missile
+
+Name: Alch3mik
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Rapier
+Weapon: 720mm Howitzer Artillery II
+
+Name: Oler Wright
+Security: 1.1
+Alliance: Forces of Freedom
+Corp: Dark Phoenix Corporation
+Ship: Condor
+Weapon: Small Nosferatu I
+
+
+Destroyed items:
+
+Medium 'Ghoul' Energy Siphon I
+Neutron Blaster Cannon II
+Neutron Blaster Cannon II
+Neutron Blaster Cannon II
+Null L, Qty: 312
+Cap Booster 800
+Emergency Damage Control I
+Tracking Enhancer II
+Magnetic Field Stabilizer II
+Magnetic Field Stabilizer II
+Energized Adaptive Nano Membrane II
+1600mm Reinforced Rolled Tungsten Plates I
+1600mm Reinforced Rolled Tungsten Plates I
+Void L, Qty: 2083 (Cargo)
+

@@ -1,0 +1,36 @@
+2006.12.04 03:17
+
+Victim: Mystical Angel
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Harpy
+System: Torrinos
+Security: 0.5
+
+Involved parties:
+
+Name: Elliott Manchild (laid the final blow)
+Security: -1.6
+Alliance: None
+Corp: omen.
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+
+Destroyed items:
+
+150mm Railgun II
+Spike S, Qty: 80
+Small Shield Booster II
+Cap Recharger I
+Cap Recharger I
+1MN Afterburner II
+Magnetic Field Stabilizer II
+Small Shield Extender II (Cargo)
+Light Neutron Blaster II, Qty: 3 (Cargo)
+Antimatter Charge S, Qty: 4932 (Cargo)
+Anchoring (Cargo)
+Ice Harvesting (Cargo)
+Spike S, Qty: 4840 (Cargo)
+Javelin S, Qty: 4997 (Cargo)
+

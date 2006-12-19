@@ -1,0 +1,46 @@
+2007.02.03 06:24
+
+Victim: Korran Delan
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Destroyed: Capsule
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Nukuquqa Hestase (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Catalyst
+Weapon: 125mm Railgun I
+
+Name: truefranco
+Security: 0.2
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Unknown
+Weapon: Bloodclaw Light Missile
+
+Name: Duana
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Huginn
+Weapon: Huginn
+
+Name: Thafesko
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Cormorant
+Weapon: Cormorant
+
+Name: Anatolli Korenchken
+Security: 5.0
+Alliance: CORE.
+Corp: AUS Corporation
+Ship: Hawk
+Weapon: Standard Missile Launcher II
+

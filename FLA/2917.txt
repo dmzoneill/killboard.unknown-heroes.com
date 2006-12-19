@@ -1,0 +1,55 @@
+2007.03.16 15:00
+
+Victim: Admiral Hunter
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Raven
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: EinaruS (laid the final blow)
+Security: -1.4
+Alliance: Eternal Rapture
+Corp: Temptation inc.
+Ship: Vagabond
+Weapon: Dual 180mm AutoCannon II
+
+Name: Scourge Heavy Missile / Guristas
+
+
+Destroyed items:
+
+Juggernaut Torpedo
+Juggernaut Torpedo
+Juggernaut Torpedo
+Juggernaut Torpedo
+Juggernaut Torpedo
+Juggernaut Torpedo
+Juggernaut Torpedo
+Juggernaut Torpedo
+Shock 'Limos' Siege Missile Bay I
+Shock 'Limos' Siege Missile Bay I
+Shock 'Limos' Siege Missile Bay I
+Shock 'Limos' Siege Missile Bay I
+F-b10 Nominal Capacitor Regenerator
+100MN Afterburner I
+Ballistic Deflection Field I
+Ballistic Control System I
+Mark I Generator Refitting: Capacitor Flux
+Mark I Generator Refitting: Capacitor Flux
+X-Large Converse I Deflection Catalyzer (Cargo)
+Small Hull Repairer I (Cargo)
+Small Energy Neutralizer I (Cargo)
+350mm Railgun I, Qty: 2 (Cargo)
+Medium Capacitor Booster I (Cargo)
+ECCM - Omni I (Cargo)
+Tracking Link I (Cargo)
+Cruise Missile Launcher I (Cargo)
+Ward Console, Qty: 2 (Cargo)
+Charred Micro Circuit, Qty: 3 (Cargo)
+Malfunctioning Shield Emitter, Qty: 4 (Cargo)
+Type-D Power Core Modification: Diagnostic System (Cargo)
+Local Power Plant Manager: Capacitor Flux I (Cargo)
+

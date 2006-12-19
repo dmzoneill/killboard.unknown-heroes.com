@@ -1,0 +1,54 @@
+2007.05.25 19:30
+
+Victim: tarin adur
+Alliance: Exuro Mortis
+Corp: Slacker Industries
+Destroyed: Gallente Shuttle
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: alon blackhelm (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Myrmidon
+Weapon: Vespa II
+
+Name: Chuck Dawg
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Crow
+Weapon: Bloodclaw Fury Light Missile
+
+Name: dastommy79
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Brutix
+Weapon: Valkyrie I
+
+Name: RnY IX
+Security: 1.6
+Alliance: 3asy Company
+Corp: International Space Corp
+Ship: Enyo
+Weapon: Enyo
+
+Name: Met Chabot
+Security: 1.1
+Alliance: 3asy Company
+Corp: Eth3real
+Ship: Brutix
+Weapon: Warp Disruptor II
+
+Name: Marijoann
+Security: 5.0
+Alliance: 3asy Company
+Corp: International Space Corp
+Ship: Enyo
+Weapon: Light Ion Blaster II
+
+

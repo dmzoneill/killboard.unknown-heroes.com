@@ -1,0 +1,40 @@
+2006.09.02 21:47
+
+Victim: Loratin
+Alliance: None
+Corp: 0utbreak
+Destroyed: Capsule
+System: 9-R6GU
+Security: 0.0
+
+Involved parties:
+
+Name: Kev Lar (laid the final blow)
+Security: -0.1
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Sabre
+Weapon: 250mm Light Artillery Cannon I
+
+Name: casama
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Crusader
+Weapon: Crusader
+
+Name: Valtaer
+Security: 3.5
+Alliance: Freelancer Alliance
+Corp: Terminal Velocity Inc.
+Ship: Blackbird
+Weapon: Heavy Missile Launcher I
+
+Name: Steven FSB
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Raven
+Weapon: 'Limos' Cruise Launcher I
+
+

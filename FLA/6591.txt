@@ -1,0 +1,33 @@
+2006.11.18 23:18
+
+Victim: sasaha
+Alliance: None
+Corp: Federal Navy Academy
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: LiBraga (laid the final blow)
+Security: 4.1
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Eagle
+Weapon: 250mm Prototype I Gauss Gun
+
+Name: Aquamundi
+Security: 2.9
+Alliance: Dusk and Dawn
+Corp: Asgard Schiffswerften
+Ship: Taranis
+Weapon: Patterned Stasis Web I
+
+Name: Weuzor
+Security: 0.0
+Alliance: Dusk and Dawn
+Corp: Asgard Schiffswerften
+Ship: Stiletto
+Weapon: 150mm Light AutoCannon I
+
+

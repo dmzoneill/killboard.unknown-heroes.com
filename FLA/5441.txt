@@ -1,0 +1,71 @@
+2006.10.03 17:27
+
+Victim: Kallorus
+Alliance: Ghosts of Retribution
+Corp: Polytope
+Destroyed: Retribution
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Jumar Coldgin (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+Name: Lone flyer
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Zealot
+Weapon: Zealot
+
+Name: Bolinar
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Deimos
+Weapon: Deimos
+
+Name: LiBraga
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Cerberus
+Weapon: Heavy Missile Launcher II
+
+Name: W4RR10R
+Security: -0.8
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Taranis
+Weapon: Small 'Knave' I Energy Drain
+
+Name: James Potkukelkka
+Security: 0.1
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Flycatcher
+Weapon: Bloodclaw Light Missile
+
+Name: Ione79
+Security: 3.4
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Celestis
+Weapon: Celestis
+
+
+Destroyed items:
+
+Medium Pulse Laser II
+Medium Pulse Laser II
+Scorch S
+Small Armor Repairer II
+Heat Sink II
+Energized Thermic Membrane II
+Conflagration S, Qty: 2 (Cargo)
+

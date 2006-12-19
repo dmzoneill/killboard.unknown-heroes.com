@@ -1,0 +1,55 @@
+2006.05.18 04:38
+
+Victim: masterblade
+Alliance: Northern Freedom Coalition
+Corp: AUS Corporation
+Destroyed: Blackbird
+System: CZDJ-1
+Security: 0.0
+
+Involved parties:
+
+Name: Recon Alpha
+Security: 2.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Unknown
+Weapon: XT-9000 Cruise Launcher
+
+Name: CelticWarrior (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Lords Of Guile
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery I
+
+Name: Qanael Radlari
+Security: 1.1
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Caracal
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+Name: ShyLion
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Lords Of Guile
+Ship: Scorpion
+Weapon: FZ-3 Subversive Spatial Destabilizer ECM
+
+Name: DeSantis
+Security: 1.6
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Raven
+Weapon: 'Limos' Cruise Launcher I
+
+
+Destroyed items:
+
+150mm Railgun II
+Thunderbolt Heavy Missile, Qty: 17
+Havoc Heavy Missile, Qty: 17
+Heavy Missile Launcher I
+ECM - Multispectral Jammer I
+

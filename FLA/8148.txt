@@ -1,0 +1,33 @@
+2006.10.18 08:28
+
+Victim: DeathCoInc
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Destroyed: Capsule
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: EMP0RIA (laid the final blow)
+Security: 3.5
+Alliance: Process of Elimination
+Corp: Viper  Squad
+Ship: Cerberus
+Weapon: Scourge Heavy Missile
+
+Name: Penelope Grey
+Security: 2.5
+Alliance: Process of Elimination
+Corp: Viper  Squad
+Ship: Crow
+Weapon: Piranha Light Missile
+
+Name: Sith Bandon
+Security: 0.1
+Alliance: Process of Elimination
+Corp: Viper  Squad
+Ship: Arazu
+Weapon: 150mm Railgun II
+
+

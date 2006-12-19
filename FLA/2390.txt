@@ -1,0 +1,128 @@
+2007.02.09 19:55
+
+Victim: Satal Sonshi
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Destroyed: Tempest
+System: X-7OMU
+Security: 0.0
+
+Involved parties:
+
+Name: Ceapio
+Security: 1.2
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Tempest
+Weapon: Tempest
+
+Name: Darknesss
+Security: 0.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Lord KesH
+Security: 2.5
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Maelstrom
+Weapon: 1400mm Howitzer Artillery II
+
+Name: xlop (laid the final blow)
+Security: -1.8
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Abaddon
+Weapon: Tachyon Beam Laser II
+
+Name: Elliott Manchild
+Security: -1.8
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Machariel
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Anominity
+Security: 4.2
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Abaddon
+Weapon: Tachyon Beam Laser II
+
+Name: ukpAgAn
+Security: 5.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: McGin
+Security: -3.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Misha Mosqito
+Security: 3.3
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: XxAngelxX
+Security: -2.8
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Abaddon
+Weapon: Tachyon Beam Laser II
+
+Name: ArchenTheGreat
+Security: -0.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Rokh
+Weapon: 425mm Carbide Railgun I
+
+Name: j3bus
+Security: 3.1
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+Name: Jester87
+Security: 1.5
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+Name: Jenessa
+Security: 1.2
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Rapier
+Weapon: 720mm Howitzer Artillery II
+
+
+Destroyed items:
+
+Dual 425mm 'Scout' Autocannon I
+Dual 425mm 'Scout' Autocannon I
+Heavy 'Knave' I Energy Drain
+Heavy 'Knave' I Energy Drain
+EMP L, Qty: 396
+Warp Disruptor I
+Heavy Electrochemical Capacitor Booster I
+Large 'Accommodation' Vestment Reconstructer I
+Energized Adaptive Nano Membrane I
+Armor Thermic Hardener I
+Armor Kinetic Hardener I
+Warp Disruptor I (Cargo)
+EMP L, Qty: 2000 (Cargo)
+Cap Booster 800, Qty: 10 (Cargo)
+Valkyrie I, Qty: 6 (Drone Bay)
+

@@ -1,0 +1,40 @@
+2007.04.14 21:48
+
+Victim: Korudon
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Capsule
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Legenda
+Security: 2.0
+Alliance: Mercenary Coalition
+Corp: Seraphin Technologies
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Karille (laid the final blow)
+Security: -1.6
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Taranis
+Weapon: 125mm Railgun II
+
+Name: Tracerone
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Seraphin Technologies
+Ship: Vengeance
+Weapon: Dual Light Beam Laser II
+
+Name: Indiano Arko
+Security: 0.6
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Hurricane
+Weapon: Peripheral Weapon Navigation Diameter
+
+

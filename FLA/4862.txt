@@ -1,0 +1,59 @@
+2007.04.18 00:09
+
+Victim: Tenbu
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Destroyed: Megathron
+System: Sirppala
+Security: 0.9
+
+Involved parties:
+
+Name: H Zub
+Security: -1.6
+Alliance: Privateer Alliance
+Corp: Captain Morgan Society
+Ship: Eos
+Weapon: Ogre II
+
+Name: Vilhelm Tell
+Security: -1.3
+Alliance: Privateer Alliance
+Corp: Captain Morgan Society
+Ship: Claymore
+Weapon: Claymore
+
+Name: Noobjuice (laid the final blow)
+Security: -0.9
+Alliance: Privateer Alliance
+Corp: Captain Morgan Society
+Ship: Raven
+Weapon: Inferno Torpedo
+
+
+Destroyed items:
+
+Heavy Nosferatu I
+Anode Mega Neutron Particle Cannon I
+Anode Mega Neutron Particle Cannon I
+350mm Prototype I Gauss Gun
+350mm Prototype I Gauss Gun
+Antimatter Charge L, Qty: 159
+F-b10 Nominal Capacitor Regenerator
+Cap Recharger I
+Quad LiF Fueled I Booster Rockets
+Thermic Plating II
+N-Type Kinetic Hardener I
+1600mm Reinforced Rolled Tungsten Plates I
+Small Capacitor Battery I (Cargo)
+Fleeting Propulsion Inhibitor I (Cargo)
+Iron Charge M, Qty: 100 (Cargo)
+Radio M (Cargo)
+Xray M (Cargo)
+Cap Booster 100, Qty: 10 (Cargo)
+Hammerhead I (Cargo)
+Scourge Heavy Missile, Qty: 100 (Cargo)
+Hammerhead I (Drone Bay)
+Berserker I (Drone Bay)
+Ogre I (Drone Bay)
+

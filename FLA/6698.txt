@@ -1,0 +1,33 @@
+2006.11.24 22:04
+
+Victim: Giga Pet
+Alliance: None
+Corp: Republic Military School
+Destroyed: Amarr Shuttle
+System: X-7OMU
+Security: 0.0
+
+Involved parties:
+
+Name: Hosanna (laid the final blow)
+Security: 3.1
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Karas Rabus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Stabber
+Weapon: Medium Nosferatu I
+
+Name: Rebecca Tanglebloom
+Security: 3.8
+Alliance: Imperial Republic Of the North
+Corp: Port Royal Independent Kontractors
+Ship: Malediction
+Weapon: X5 Prototype I Engine Enervator
+
+

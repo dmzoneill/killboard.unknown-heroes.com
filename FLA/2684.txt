@@ -1,0 +1,25 @@
+2007.03.02 17:49
+
+Victim: Dana Foxworth
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Wolf
+System: ESC-RI
+Security: 0.0
+
+Involved parties:
+
+Name: Stutka Driver (laid the final blow)
+Security: 4.6
+Alliance: Corelum Syndicate
+Corp: Coreli Corporation
+Ship: Sabre
+Weapon: 200mm AutoCannon II
+
+
+Destroyed items:
+
+200mm AutoCannon II
+Faint Epsilon Warp Prohibitor I
+Exotic Dancers, Qty: 2 (Cargo)
+

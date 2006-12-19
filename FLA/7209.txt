@@ -1,0 +1,67 @@
+2006.03.21 16:55
+
+Victim: Lanscaper
+Alliance: None
+Corp: The Initiative
+Destroyed: Harpy
+System: P3EN-E
+Security: 0.0
+
+Involved parties:
+
+Name: washy2
+Security: 4.3
+Alliance: None
+Corp: Stupid People Always Need Killing
+Ship: Rifter
+Weapon: Rifter
+
+Name: menace ace (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Royal Flying Aces
+Ship: Moa
+Weapon: 250mm Railgun II
+
+Name: Vargrh
+Security: -0.6
+Alliance: None
+Corp: Stupid People Always Need Killing
+Ship: Taranis
+Weapon: Vespa II
+
+Name: Scout Black
+Security: 3.3
+Alliance: None
+Corp: Stupid People Always Need Killing
+Ship: Dominix
+Weapon: Berserker II
+
+Name: DAgandalF
+Security: -1.1
+Alliance: None
+Corp: Celestial Apocalypse
+Ship: Rupture
+Weapon: Rupture
+
+Name: DavidABrooks
+Security: -0.3
+Alliance: None
+Corp: Stupid People Always Need Killing
+Ship: Raptor
+Weapon: Standard Missile Launcher I
+
+
+Destroyed items:
+
+Antimatter Charge S, Qty: 132
+Bloodclaw Light Missile, Qty: 42
+Small Shield Booster II
+1MN Afterburner II
+Magnetic Scattering Amplifier II
+Kinetic Deflection Amplifier II
+Magnetic Field Stabilizer II
+Antimatter Charge S, Qty: 3740 (Cargo)
+Guristas Crystal Tag (Cargo)
+Bloodclaw Light Missile, Qty: 958 (Cargo)
+

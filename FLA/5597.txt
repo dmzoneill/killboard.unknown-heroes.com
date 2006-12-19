@@ -1,0 +1,33 @@
+2006.10.08 16:22
+
+Victim: Harmon Illuminati
+Alliance: None
+Corp: Privateers
+Destroyed: Caldari Shuttle
+System: Jita
+Security: 0.9
+
+Involved parties:
+
+Name: Formosus Funus (laid the final blow)
+Security: 2.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Wolf
+Weapon: 200mm Light 'Scout' Autocannon I
+
+Name: Valadeya uthanaras
+Security: 3.7
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Arbitrator
+Weapon: Upgraded 'Limos' Standard Missile Bay I
+
+Name: Drakin Korin
+Security: 3.2
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Ishtar
+Weapon: Fleeting Warp Scrambler I
+
+

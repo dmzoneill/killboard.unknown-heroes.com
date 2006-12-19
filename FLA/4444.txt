@@ -1,0 +1,41 @@
+2007.04.10 09:28
+
+Victim: Celdrahil
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Destroyed: Hyperion
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Sedith (laid the final blow)
+Security: 1.7
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Aeon
+Weapon: Dragonfly
+
+
+Destroyed items:
+
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Modal Mega Ion Particle Accelerator I
+Modal Mega Ion Particle Accelerator I
+Modal Mega Ion Particle Accelerator I
+Antimatter Charge L, Qty: 195
+Cap Recharger II
+Dread Guristas Stasis Webifier
+Large Armor Repairer II
+N-Type Kinetic Hardener I
+N-Type Thermic Hardener I
+Power Diagnostic System II
+Cap Booster 800, Qty: 15 (Cargo)
+Hammerhead II, Qty: 2 (Drone Bay)
+Berserker SW-900, Qty: 2 (Drone Bay)
+

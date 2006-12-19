@@ -1,0 +1,47 @@
+2007.04.02 22:42
+
+Victim: Dinosaurs Attack
+Alliance: None
+Corp: Imperforated Anus
+Destroyed: Capsule
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: nye 2k
+Security: 5.0
+Alliance: None
+Corp: Silver Snake Enterprise
+Ship: Cormorant
+Weapon: Cormorant
+
+Name: Kerdrak (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Vengeance
+Weapon: Dual Light Pulse Laser II
+
+Name: PHIONIX DARKANGEL
+Security: 5.0
+Alliance: Federation Of united Corps
+Corp: DEVEL'S REJECT'S
+Ship: Manticore
+Weapon: 'Limos' Cruise Launcher I
+
+Name: CENTUREAN
+Security: 4.2
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Drake
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+Name: Argentus Orsus
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Punisher
+Weapon: Medium Afocal Pulse Maser I
+
+

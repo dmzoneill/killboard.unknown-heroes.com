@@ -1,0 +1,35 @@
+2006.11.13 16:45
+
+Victim: Roluthas
+Alliance: None
+Corp: Beer Guzzling Clowns With Blasters
+Destroyed: Caracal
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: LiBraga (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Eagle
+Weapon: 250mm Prototype I Gauss Gun
+
+Name: Dog Cancer
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 46
+Heavy Missile Launcher I
+Medium Shield Booster I
+10MN Afterburner I
+Basic Kinetic Deflection Amplifier
+Scourge Heavy Missile, Qty: 1970 (Cargo)
+

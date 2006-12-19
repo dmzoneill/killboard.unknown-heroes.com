@@ -1,0 +1,73 @@
+2007.04.08 20:42
+
+Victim: Nero7
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Destroyed: Taranis
+System: F7C-H0
+Security: 0.0
+
+Involved parties:
+
+Name: Appalachia (laid the final blow)
+Security: 5.2
+Alliance: YouWhat
+Corp: Pringles Inc.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: sliver 0xD
+Security: -2.6
+Alliance: YouWhat
+Corp: Infinite Style Incorporated
+Ship: Flycatcher
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+Name: Thyago
+Security: 5.0
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Ishkur
+Weapon: Hammerhead II
+
+Name: SwordsOfLight
+Security: 5.0
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Raptor
+Weapon: Raptor
+
+Name: Exitao
+Security: 5.0
+Alliance: YouWhat
+Corp: Cosmic Odyssey
+Ship: Taranis
+Weapon: Taranis
+
+Name: klukkluk1
+Security: 5.0
+Alliance: YouWhat
+Corp: Pringles Inc.
+Ship: Drake
+Weapon: Widowmaker Heavy Missile
+
+Name: ElFriede Goldspam
+Security: 5.0
+Alliance: YouWhat
+Corp: Pringles Inc.
+Ship: Heretic
+Weapon: Sabretooth Precision Light Missile
+
+Name: Lakastre
+Security: 0.5
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Curse
+Weapon: Medium Nosferatu II
+
+
+Destroyed items:
+
+150mm Prototype I Gauss Gun
+Warp Core Stabilizer I
+

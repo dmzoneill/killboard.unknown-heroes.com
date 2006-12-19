@@ -1,0 +1,31 @@
+2007.02.22 07:44
+
+Victim: illusha
+Alliance: None
+Corp: Halfwits
+Destroyed: Rupture
+System: K4YZ-Y
+Security: 0.0
+
+Involved parties:
+
+Name: Saan Motak (laid the final blow)
+Security: 1.1
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Myrmidon
+Weapon: Ogre I
+
+Name: Serpentis Rear Admiral / Serpentis Corporation
+
+
+Destroyed items:
+
+720mm Howitzer Artillery I
+720mm Howitzer Artillery I
+EMP M, Qty: 18
+Energized Reflective Membrane I
+Reactor Control Unit I
+F-b10 Nominal Capacitor Regenerator (Cargo)
+Magnetic Field Stabilizer II (Cargo)
+

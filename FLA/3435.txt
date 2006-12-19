@@ -1,0 +1,104 @@
+2007.03.26 18:17
+
+Victim: Draxon Black
+Alliance: None
+Corp: Gr0und Zer0
+Destroyed: Drake
+System: 3QE-9Q
+Security: 0.0
+
+Involved parties:
+
+Name: MarzenBier
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Raven
+Weapon: Hornet II
+
+Name: Seryius
+Security: 3.3
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Caracal
+Weapon: Acolyte I
+
+Name: Vesspasiano
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Myrmidon
+Weapon: Ogre II
+
+Name: Raseron
+Security: 4.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Myrmidon
+Weapon: Myrmidon
+
+Name: Cho Solo
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Deimos
+Weapon: Warrior II
+
+Name: Wallyx
+Security: 4.4
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Harbinger
+Weapon: Heavy Afocal Pulse Maser I
+
+Name: coldman soulreaper
+Security: 2.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Sicario (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Raven
+Weapon: Bane Torpedo
+
+Name: Kalico
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Claw
+Weapon: Claw
+
+Name: torreson
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Stabber
+Weapon: Stabber
+
+Name: AaLaA
+Security: 4.5
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Eris
+Weapon: 150mm Carbide Railgun I
+
+
+Destroyed items:
+
+Dread Guristas Cloaking Device
+Scourge Heavy Missile, Qty: 27
+'Arbalest' Heavy Missile Launcher
+'Arbalest' Heavy Missile Launcher
+'Arbalest' Heavy Missile Launcher
+'Arbalest' Heavy Missile Launcher
+Large Shield Extender II
+Heat Dissipation Amplifier II
+Kinetic Deflection Amplifier II
+Magnetic Scattering Amplifier II
+Scourge Heavy Missile, Qty: 1969 (Cargo)
+Hydra F.O.F. Heavy Missile I, Qty: 991 (Cargo)
+

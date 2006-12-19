@@ -1,0 +1,30 @@
+2007.02.14 01:07
+
+Victim: tzar1024
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Destroyed: Hoarder
+System: Alparena
+Security: 0.1
+
+Involved parties:
+
+Name: Dirtball
+Security: 1.0
+Alliance: Privateer Alliance
+Corp: Kemono.
+Ship: Sleipnir
+Weapon: Sleipnir
+
+Name: eXtas (laid the final blow)
+Security: 1.9
+Alliance: Privateer Alliance
+Corp: Kemono.
+Ship: Typhoon
+Weapon: Devastator Cruise Missile
+
+
+Destroyed items:
+
+Expanded Cargohold I
+

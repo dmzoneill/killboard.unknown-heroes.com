@@ -1,0 +1,53 @@
+2006.10.11 02:09
+
+Victim: hero88
+Alliance: None
+Corp: Privateers
+Destroyed: Ishkur
+System: Alikara
+Security: 0.7
+
+Involved parties:
+
+Name: RiddickRichardB (laid the final blow)
+Security: 1.4
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Ferox
+Weapon: Warrior II
+
+Name: Slinktress
+Security: 1.7
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Ishkur
+Weapon: Warrior I
+
+Name: Micheal Ross
+Security: 1.8
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Capsule
+Weapon: TE-2100 Standard Missile Bay
+
+Name: J'Jenksie
+Security: 0.4
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Crow
+Weapon: 'Arbalest' Standard Missile Launcher
+
+
+Destroyed items:
+
+Light Ion Blaster II
+Light Ion Blaster II
+Void S, Qty: 312
+Barton Reactor Capacitor Recharger I
+1MN Afterburner II
+Faint Epsilon Warp Prohibitor I
+Armor Explosive Hardener II
+Dual Light Beam Laser I, Qty: 2 (Cargo)
+Gamma S (Cargo)
+Capacitor Power Relay I (Cargo)
+

@@ -1,0 +1,33 @@
+2006.11.08 20:39
+
+Victim: Kipar
+Alliance: Freelancer Alliance
+Corp: Veturi
+Destroyed: Caldari Shuttle
+System: Haajinen
+Security: 0.8
+
+Involved parties:
+
+Name: TranZferR
+Security: -1.8
+Alliance: None
+Corp: The Initiative
+Ship: Arazu
+Weapon: 200mm Railgun II
+
+Name: Dazzio (laid the final blow)
+Security: -2.0
+Alliance: None
+Corp: The Initiative
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Yarek Balear
+Security: -1.8
+Alliance: None
+Corp: The Initiative
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+

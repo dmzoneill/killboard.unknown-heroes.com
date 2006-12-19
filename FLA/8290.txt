@@ -1,0 +1,47 @@
+2006.11.07 16:06
+
+Victim: Aerfen
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Destroyed: Rupture
+System: Haajinen
+Security: 0.8
+
+Involved parties:
+
+Name: Balatar (laid the final blow)
+Security: 1.2
+Alliance: None
+Corp: The Initiative
+Ship: Zealot
+Weapon: Heavy Pulse Laser II
+
+Name: TranZferR
+Security: -1.8
+Alliance: None
+Corp: The Initiative
+Ship: Lachesis
+Weapon: Heavy Missile Launcher II
+
+
+Destroyed items:
+
+720mm Prototype I Siege Cannon
+720mm Prototype I Siege Cannon
+720mm Gallium I Cannon
+Titanium Sabot M, Qty: 13
+Bloodclaw Light Missile, Qty: 27
+TE-2100 Standard Missile Bay
+'Malkuth' Standard Missile Launcher I
+10MN Afterburner I
+Stasis Webifier I
+Microcell Nanite Regenerative Membrane I
+Armor Thermic Hardener I
+Voltaic Nanite Kinetic Hardener I
+10MN Afterburner II (Cargo)
+Titanium Sabot M, Qty: 1648 (Cargo)
+'Grail' Regenerative Plating I (Cargo)
+Adaptive Nano Plating II (Cargo)
+Bloodclaw Light Missile, Qty: 812 (Cargo)
+Acolyte I, Qty: 2 (Drone Bay)
+

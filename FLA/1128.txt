@@ -1,0 +1,68 @@
+2007.03.05 19:27
+
+Victim: norman protector
+Alliance: Xelas Alliance
+Corp: Fallen Angel's
+Destroyed: Capsule
+System: KVN-36
+Security: 0.0
+
+Involved parties:
+
+Name: Dana Foxworth
+Security: 3.2
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Rupture
+Weapon: 650mm Artillery Cannon I
+
+Name: Teck7 (laid the final blow)
+Security: 1.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Lachesis
+Weapon: Havoc Heavy Missile
+
+Name: misscoda
+Security: 3.7
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Blackbird
+Weapon: XR-3200 Heavy Missile Bay
+
+Name: coldkill
+Security: 1.8
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Ishkur
+Weapon: 125mm Railgun II
+
+Name: Muad' Dib
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Malediction
+Weapon: 250mm Light Artillery Cannon II
+
+Name: Mauy Thai
+Security: -1.4
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Curse
+Weapon: Dark Blood Warp Disruptor
+
+Name: Dark Carnage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Crow
+Weapon: Standard Missile Launcher I
+
+Name: Daressek
+Security: 3.7
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Kestrel
+Weapon: J5 Prototype Warp Inhibitor I
+
+

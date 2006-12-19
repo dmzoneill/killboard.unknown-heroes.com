@@ -1,0 +1,24 @@
+2006.11.05 12:26
+
+Victim: cceiber
+Alliance: None
+Corp: Perkone
+Destroyed: Condor
+System: F-NMX6
+Security: 0.0
+
+Involved parties:
+
+Name: James Potkukelkka (laid the final blow)
+Security: 0.2
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Flycatcher
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+1MN MicroWarpdrive I
+J5b Phased Prototype Warp Inhibitor I
+

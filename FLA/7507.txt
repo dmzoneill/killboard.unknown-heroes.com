@@ -1,0 +1,40 @@
+2006.09.10 16:44
+
+Victim: Optoed
+Alliance: R.I.S.K
+Corp: ReD eYe Inc.
+Destroyed: Capsule
+System: X-7OMU
+Security: 0.0
+
+Involved parties:
+
+Name: Cazziel (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+Name: vladdy2
+Security: 3.4
+Alliance: CORE.
+Corp: VentureCorp
+Ship: Huginn
+Weapon: Shadow Serpentis Warp Disruptor
+
+Name: casama
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Heretic
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+Name: Capt Cali
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: London Transport
+Ship: Crow
+Weapon: Faint Warp Prohibitor I
+
+

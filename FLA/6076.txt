@@ -1,0 +1,87 @@
+2006.11.06 23:36
+
+Victim: deo tranquilo
+Alliance: Interstellar Starbase Syndicate
+Corp: ISS Navy Task Force
+Destroyed: Vigil
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Preying Mantis (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: Dog Cancer
+Security: 1.4
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Crow
+Weapon: Sabretooth Light Missile
+
+Name: menace ace
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Megathron
+Weapon: Neutron Blaster Cannon II
+
+Name: kone on
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Sabre
+Weapon: Sabre
+
+Name: bidman
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Hawk
+Weapon: Standard Missile Launcher I
+
+Name: TiMeZeRo225
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: J.I.T. Enterprises
+Ship: Raven
+Weapon: XT-9000 Cruise Launcher
+
+Name: Slinktress
+Security: 2.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Enyo
+Weapon: Enyo
+
+Name: Gangreen
+Security: 0.1
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Thorax
+Weapon: 125mm 'Scout' I Accelerator Cannon
+
+Name: Elfaen Ethenwe
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Rook
+Weapon: Heavy Missile Launcher II
+
+Name: DarkJester
+Security: 0.8
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Tempest
+Weapon: Heavy Missile Launcher I
+
+
+Destroyed items:
+
+1MN MicroWarpdrive I
+Small Capacitor Battery I
+

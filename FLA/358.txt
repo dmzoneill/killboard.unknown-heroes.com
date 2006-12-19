@@ -1,0 +1,26 @@
+2007.01.28 17:40
+
+Victim: Bobbeh
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Destroyed: Capsule
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Teck7 (laid the final blow)
+Security: 0.8
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ishtar
+Weapon: Vespa II
+
+Name: Lancelot Wellborn
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Capsule
+Weapon: 200mm Prototype I Gauss Gun
+
+

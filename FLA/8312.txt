@@ -1,0 +1,36 @@
+2006.11.08 16:32
+
+Victim: Zarnix
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Destroyed: Ferox
+System: Haajinen
+Security: 0.8
+
+Involved parties:
+
+Name: KRULLEN Binazeski (laid the final blow)
+Security: 4.9
+Alliance: None
+Corp: The Initiative
+Ship: Zealot
+Weapon: Heavy Pulse Laser II
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 64
+XR-3200 Heavy Missile Bay
+XR-3200 Heavy Missile Bay
+Small Tractor Beam I
+Large Shield Extender II
+Medium Ohm Capacitor Reserve I
+Large Shield Extender I, Qty: 2 (Cargo)
+Large Shield Extender II, Qty: 2 (Cargo)
+Shield Power Relay I, Qty: 3 (Cargo)
+Photon Scattering Field I (Cargo)
+V-M15 Braced Multispectral Shield Matrix (Cargo)
+Bloodclaw Light Missile, Qty: 100 (Cargo)
+Scourge Heavy Missile, Qty: 1145 (Cargo)
+Hammerhead I, Qty: 2 (Drone Bay)
+

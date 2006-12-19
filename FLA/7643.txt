@@ -1,0 +1,44 @@
+2006.09.29 17:46
+
+Victim: Cruze
+Alliance: Firmus Ixion
+Corp: Swedish Aerospace Inc
+Destroyed: Armageddon
+System: 3-FKCZ
+Security: 0.0
+
+Involved parties:
+
+Name: Blood Archbishop / Blood Raiders
+
+Name: zoturi (laid the final blow)
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Vagabond
+Weapon: Warrior II
+
+
+Destroyed items:
+
+Tachyon Modal Laser I
+Tachyon Modal Laser I
+Ultraviolet L
+Ultraviolet L
+Ultraviolet L
+Ultraviolet L
+Barton Reactor Capacitor Recharger I
+Barton Reactor Capacitor Recharger I
+Large 'Accommodation' Vestment Reconstructer I
+1MN Afterburner I (Cargo)
+Ship Scanner I (Cargo)
+Damage Control I (Cargo)
+Heavy Energy Neutralizer I (Cargo)
+Multifrequency L, Qty: 2 (Cargo)
+Gamma L (Cargo)
+Ultraviolet L (Cargo)
+RADAR Backup Array I (Cargo)
+Warp Core Stabilizer I (Cargo)
+Blood Crystal Tag (Cargo)
+Power Diagnostic System I (Cargo)
+

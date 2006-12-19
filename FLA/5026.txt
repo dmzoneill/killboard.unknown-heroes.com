@@ -1,0 +1,56 @@
+2007.04.21 02:49
+
+Victim: dastommy79
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Destroyed: Thorax
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Lyra Sy
+Security: 5.0
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Raven
+Weapon: Einherji
+
+Name: Vlad Cetes
+Security: 4.7
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Raven
+Weapon: 'Arbalest' Siege Missile Launcher
+
+Name: Arikas Talendar (laid the final blow)
+Security: 5.0
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Armageddon
+Weapon: Tachyon Beam Laser I
+
+Name: Ghost Hughdidit
+Security: 3.1
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Thanatos
+Weapon: Einherji
+
+Name: Evil Bunnies
+Security: 0.1
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Kestrel
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+
+Destroyed items:
+
+Heavy Ion Blaster I
+Heavy Ion Blaster I
+Antimatter Charge M, Qty: 240
+Warp Disruptor I
+1600mm Reinforced Steel Plates I
+Hammerhead I, Qty: 3 (Drone Bay)
+

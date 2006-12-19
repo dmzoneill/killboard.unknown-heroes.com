@@ -1,0 +1,73 @@
+2007.04.28 00:49
+
+Victim: lethario desrtuction
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Osprey
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: coldkill (laid the final blow)
+Security: 1.9
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Chimera
+Weapon: Dragonfly
+
+Name: Kvarium Ki
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Rupture
+Weapon: Rupture
+
+Name: Shassandra
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Ishkur
+Weapon: X5 Prototype I Engine Enervator
+
+Name: alpha lead
+Security: 2.3
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Kayron Brennan
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Caracal
+Weapon: Heavy Missile Launcher I
+
+Name: Antigen Po
+Security: 4.4
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Enyo
+Weapon: 125mm Railgun II
+
+Name: alon blackhelm
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Chimera
+Weapon: Dragonfly
+
+Name: FlobbMkII
+Security: 4.4
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Eris
+Weapon: Eris
+
+
+Destroyed items:
+
+100mm Reinforced Titanium Plates I
+100mm Reinforced Titanium Plates I
+

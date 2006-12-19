@@ -1,0 +1,101 @@
+2007.01.20 22:29
+
+Victim: SMercer
+Alliance: The Sundering
+Corp: Emerald Empire
+Destroyed: Badger
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Marvel Master
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Asgard Schiffswerften
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Chuck Dawg (laid the final blow)
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Blackbird
+Weapon: Flameburst Light Missile
+
+
+Destroyed items:
+
+Marked Modified SS Expanded Cargo
+Pyerite, Qty: 14642 (Cargo)
+Zydrine, Qty: 8 (Cargo)
+Mexallon, Qty: 2885 (Cargo)
+Megacyte, Qty: 9 (Cargo)
+Merlin (Cargo)
+Shield Recharger I, Qty: 2 (Cargo)
+Medium Converse I Deflection Catalyzer (Cargo)
+Small Shield Booster I (Cargo)
+Civilian Shield Booster I (Cargo)
+1MN MicroWarpdrive I (Cargo)
+Warp Scrambler I (Cargo)
+Stasis Webifier I (Cargo)
+'Langour' Drive Disruptor I (Cargo)
+Small Energy Transfer Array I, Qty: 4 (Cargo)
+Small 'Knave' I Energy Drain (Cargo)
+Small 'Gremlin' Power Core Disruptor I (Cargo)
+Small Energy Neutralizer I, Qty: 4 (Cargo)
+Medium Graviton Smartbomb I (Cargo)
+75mm Gatling Rail I, Qty: 2 (Cargo)
+250mm Compressed Coil Gun I, Qty: 2 (Cargo)
+150mm Railgun I (Cargo)
+Light Electron Blaster I (Cargo)
+125mm 'Scout' I Accelerator Cannon, Qty: 2 (Cargo)
+75mm Carbide Railgun I (Cargo)
+125mm Railgun I, Qty: 4 (Cargo)
+125mm Carbide Railgun I (Cargo)
+Regulated Light Neutron Phase Cannon I (Cargo)
+Light Neutron Blaster I, Qty: 2 (Cargo)
+Photon Scattering Field I (Cargo)
+Heat Dissipation Field I (Cargo)
+ECM Burst I, Qty: 3 (Cargo)
+Nuclear L, Qty: 200 (Cargo)
+Depleted Uranium M, Qty: 100 (Cargo)
+Tungsten Charge S, Qty: 100 (Cargo)
+Uranium Charge S, Qty: 200 (Cargo)
+Iron Charge M, Qty: 4600 (Cargo)
+Plutonium Charge S, Qty: 100 (Cargo)
+Antimatter Charge S, Qty: 10125 (Cargo)
+Iridium Charge M, Qty: 2000 (Cargo)
+Defender I, Qty: 200 (Cargo)
+Acolyte I (Cargo)
+Initiated Multispectral ECM I (Cargo)
+Faint Phase Inversion ECM I (Cargo)
+Sensor Booster I (Cargo)
+Medium Projectile Turret (Cargo)
+Connections (Cargo)
+ECCM Projector I (Cargo)
+Basic Magnetic Scattering Amplifier (Cargo)
+Kinetic Deflection Amplifier I (Cargo)
+Heat Dissipation Amplifier I (Cargo)
+Insulated Stabilizer Array I (Cargo)
+50mm Reinforced Nanofiber Plates I (Cargo)
+200mm Reinforced Nanofiber Plates I (Cargo)
+Ballistic Control System I (Cargo)
+Guristas Ship Log 175568934, Qty: 2 (Cargo)
+Guristas Ship Log 180983465 (Cargo)
+Guristas Ship Log 108634544 (Cargo)
+Flameburst Light Missile, Qty: 1176 (Cargo)
+Piranha Light Missile, Qty: 3980 (Cargo)
+Serpent F.O.F. Light Missile I, Qty: 100 (Cargo)
+Stalker F.O.F. Heavy Missile I, Qty: 100 (Cargo)
+Gallente Navy Command Sergeant Major Insignia I, Qty: 2 (Cargo)
+Gallente Navy Fleet Major Insignia I (Cargo)
+Snowball Launcher, Qty: 13 (Cargo)
+Rocket Launcher I, Qty: 3 (Cargo)
+Standard Missile Launcher I (Cargo)
+Limited Ocular Filter (Cargo)
+Type-E Power Core Modification: Capacitor Power Relay (Cargo)
+Reactor Control Unit I (Cargo)
+Local Power Plant Manager: Reaction Shield Flux I (Cargo)
+Shield Flux Coil I (Cargo)
+

@@ -1,0 +1,26 @@
+2007.03.21 13:38
+
+Victim: Damfoose
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Capsule
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Angie Mitchell (laid the final blow)
+Security: 0.6
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Heretic
+Weapon: Dual Light Pulse Laser II
+
+Name: Frostbeule
+Security: 2.9
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Stiletto
+Weapon: Stiletto
+
+

@@ -1,0 +1,19 @@
+2007.02.08 00:47
+
+Victim: tzar1024
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Destroyed: Capsule
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: xbreaka (laid the final blow)
+Security: -1.9
+Alliance: Veto Corp
+Corp: Veto. Academy
+Ship: Huginn
+Weapon: Scourge Heavy Missile
+
+

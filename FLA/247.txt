@@ -1,0 +1,47 @@
+2007.01.20 01:17
+
+Victim: K Shara
+Alliance: Triumvirate.
+Corp: D00M.
+Destroyed: Capsule
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: KriegDrachen
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Sabre
+Weapon: Sabre
+
+Name: Swindy
+Security: 1.4
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: Sils wife (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Brutix
+Weapon: 200mm Railgun II
+
+Name: Mokh'Tar
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: Caldar Mercenary Syndicate
+Ship: Blackbird
+Weapon: Initiated Multispectral ECM I
+
+Name: Malcanis
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Drake
+Weapon: Advanced 'Limos' Heavy Missile Bay I
+
+

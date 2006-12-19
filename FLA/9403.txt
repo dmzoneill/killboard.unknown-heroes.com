@@ -1,0 +1,77 @@
+2007.05.12 06:07
+
+Victim: Ilan Barak
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Destroyed: Thorax
+System: U-TJ7Y
+Security: 0.0
+
+Involved parties:
+
+Name: VDV Kane
+Security: 5.0
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Rokh
+Weapon: Hammerhead II
+
+Name: Xordus
+Security: 1.0
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Abaddon
+Weapon: Vespa II
+
+Name: Sexorella hotz (laid the final blow)
+Security: 3.3
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+Name: Lorn Zolog
+Security: -0.8
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Curse
+Weapon: Valkyrie II
+
+Name: VDV Bru37
+Security: 5.0
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Myrmidon
+Weapon: Myrmidon
+
+Name: PCX339
+Security: 4.0
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Lachesis
+Weapon: Phased Muon Sensor Disruptor I
+
+Name: Galaxor
+Security: 5.1
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Abaddon
+Weapon: Abaddon
+
+
+Destroyed items:
+
+Heavy Electron Blaster I
+Heavy Electron Blaster I
+Antimatter Charge M, Qty: 553
+10MN MicroWarpdrive I
+Warp Disruptor I
+Stasis Webifier I
+Damage Control I
+Energized Adaptive Nano Membrane I
+150mm Railgun II, Qty: 3 (Cargo)
+Antimatter Charge M, Qty: 1915 (Cargo)
+Antimatter Charge S, Qty: 73 (Cargo)
+Sensor Booster I (Cargo)
+Inertia Stabilizers I (Cargo)
+

@@ -1,0 +1,76 @@
+2006.09.15 19:58
+
+Victim: Optoed
+Alliance: R.I.S.K
+Corp: ReD eYe Inc.
+Destroyed: Caracal
+System: 93PI-4
+Security: 0.0
+
+Involved parties:
+
+Name: Karnovsky (laid the final blow)
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Terrorv1z
+Security: 5.1
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Scorpion
+Weapon: Wrath Cruise Missile
+
+Name: Sorja
+Security: 5.5
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Rook
+Weapon: Scourge Heavy Missile
+
+Name: Ubernub
+Security: 1.7
+Alliance: Imperial Republic Of the North
+Corp: Inversion
+Ship: Raven
+Weapon: 'Malkuth' Cruise Launcher I
+
+Name: fincormack
+Security: 2.4
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Oldin Relic
+Security: 1.3
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Moa
+Weapon: Moa
+
+
+Destroyed items:
+
+Havoc Heavy Missile, Qty: 31
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+Medium Shield Booster II
+10MN Afterburner I
+Non-Inertial Ballistic Screen Augmentation I
+Non-Inertial Ballistic Screen Augmentation I
+Ballistic Control System I
+Large Shield Booster I (Cargo)
+Medium Armor Repairer I (Cargo)
+Dual 250mm Railgun I (Cargo)
+Lead Charge L, Qty: 100 (Cargo)
+FZ-3 Subversive Spatial Destabilizer ECM (Cargo)
+Kinetic Deflection Amplifier I (Cargo)
+Havoc Heavy Missile, Qty: 4 (Cargo)
+Scourge Heavy Missile, Qty: 1853 (Cargo)
+Assault Missile Launcher I (Cargo)
+Hornet I, Qty: 2 (Drone Bay)
+

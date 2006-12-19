@@ -1,0 +1,96 @@
+2006.11.08 19:01
+
+Victim: Tatzlwurm
+Alliance: None
+Corp: Tyrants
+Destroyed: Typhoon
+System: A4L-A2
+Security: 0.0
+
+Involved parties:
+
+Name: Lone flyer
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Absolution
+Weapon: Acolyte II
+
+Name: Jumar Coldgin
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+Name: keilapuukko
+Security: 3.3
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Raven
+Weapon: Juggernaut Torpedo
+
+Name: Spawny (laid the final blow)
+Security: 5.0
+Alliance: Serenity Fallen
+Corp: Ganja Unlimited
+Ship: Scorpion
+Weapon: Wrath Cruise Missile
+
+Name: Khajit Smitty
+Security: 2.6
+Alliance: None
+Corp: MisFunk Inc.
+Ship: Muninn
+Weapon: Muninn
+
+Name: Verild
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Rook
+Weapon: Flameburst Light Missile
+
+Name: Hosanna
+Security: 1.2
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: Tri Ounou
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: Ather Ialeas
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Vengeance
+Weapon: Warp Disruptor I
+
+
+Destroyed items:
+
+E500 Prototype Energy Vampire
+E500 Prototype Energy Vampire
+Devastator Cruise Missile, Qty: 66
+'Limos' Cruise Launcher I
+'Limos' Cruise Launcher I
+J5 Prototype Warp Inhibitor I
+J5 Prototype Warp Inhibitor I
+F85 Peripheral Damage System I
+Medium Armor Repairer II
+Energized Adaptive Nano Membrane II
+Heat Dissipation Field II (Cargo)
+Co-Processor II (Cargo)
+Ballistic Control System II (Cargo)
+Paradise Cruise Missile, Qty: 655 (Cargo)
+XT-9000 Cruise Launcher (Cargo)
+Beta Reactor Control: Capacitor Power Relay I (Cargo)
+Hammerhead I, Qty: 2 (Drone Bay)
+Berserker I (Drone Bay)
+

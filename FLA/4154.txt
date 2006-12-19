@@ -1,0 +1,104 @@
+2007.04.03 00:43
+
+Victim: sparkvolt
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Destroyed: Rifter
+System: F7C-H0
+Security: 0.0
+
+Involved parties:
+
+Name: DrZarkov667 (laid the final blow)
+Security: 0.2
+Alliance: YouWhat
+Corp: Dark Rising Shadow
+Ship: Thrasher
+Weapon: 250mm Light Prototype I Siege Cannon
+
+Name: isca
+Security: 5.0
+Alliance: YouWhat
+Corp: Cosmic Odyssey
+Ship: Thorax
+Weapon: Thorax
+
+Name: evilempire0
+Security: -0.5
+Alliance: YouWhat
+Corp: Cosmic Odyssey
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Exitao
+Security: 5.0
+Alliance: YouWhat
+Corp: Cosmic Odyssey
+Ship: Caracal
+Weapon: Thunderbolt Heavy Missile
+
+Name: Erikel
+Security: 4.5
+Alliance: YouWhat
+Corp: Cosmic Odyssey
+Ship: Myrmidon
+Weapon: Myrmidon
+
+Name: rufusinius
+Security: 3.3
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Merlin
+Weapon: Bloodclaw Light Missile
+
+Name: Neily
+Security: 4.7
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Rook
+Weapon: Serpent F.O.F. Light Missile I
+
+Name: Cel'Dos
+Security: 2.0
+Alliance: YouWhat
+Corp: Dark Rising Shadow
+Ship: Omen
+Weapon: Focused Medium Beam Laser I
+
+Name: Thyago
+Security: 5.0
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Ishkur
+Weapon: Hobgoblin II
+
+Name: Magnelien
+Security: 4.3
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Crow
+Weapon: Warp Disruptor I
+
+Name: Lord Revent
+Security: 1.2
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Hound
+Weapon: XT-9000 Cruise Launcher
+
+Name: Lakastre
+Security: 0.6
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Curse
+Weapon: Medium Nosferatu II
+
+
+Destroyed items:
+
+200mm Light 'Scout' Autocannon I
+200mm Light 'Scout' Autocannon I
+200mm Light 'Scout' Autocannon I
+'Arbalest' Rocket Launcher I
+Medium F-S9 Regolith Shield Induction
+

@@ -1,0 +1,56 @@
+2007.04.28 08:45
+
+Victim: Aridante Lemure
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Destroyed: Thorax
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Bic Drax
+Security: 3.6
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Thorax
+Weapon: Hammerhead II
+
+Name: RyMcQeN I (laid the final blow)
+Security: 4.3
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Chimera
+Weapon: Curator I
+
+Name: Konson
+Security: 3.7
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Retribution
+Weapon: Retribution
+
+Name: Lyra Sy
+Security: 5.0
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Vulture
+Weapon: Vulture
+
+Name: Evil Bunnies
+Security: 0.3
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Blackbird
+Weapon: Scourge Heavy Missile
+
+
+Destroyed items:
+
+Heavy Ion Blaster I
+Antimatter Charge M, Qty: 116
+Warp Disruptor I
+Alumel-Wired I Sensor Augmentation
+Energized Adaptive Nano Membrane I
+Antimatter Charge M, Qty: 200 (Cargo)
+

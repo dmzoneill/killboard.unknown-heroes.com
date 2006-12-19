@@ -1,0 +1,48 @@
+2007.04.19 21:29
+
+Victim: Clavain Treesmighter
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Destroyed: Raven
+System: Oichiya
+Security: 0.8
+
+Involved parties:
+
+Name: Kosaus (laid the final blow)
+Security: 3.6
+Alliance: Privateer Alliance
+Corp: mUfFiN fAcToRy
+Ship: Armageddon
+Weapon: Mega Pulse Laser II
+
+Name: Spawn Princess
+Security: -1.1
+Alliance: Privateer Alliance
+Corp: mUfFiN fAcToRy
+Ship: Pilgrim
+Weapon: Vespa II
+
+Name: migwar
+Security: 1.8
+Alliance: Privateer Alliance
+Corp: mUfFiN fAcToRy
+Ship: Absolution
+Weapon: Absolution
+
+Name: l3xz
+Security: 0.0
+Alliance: Privateer Alliance
+Corp: mUfFiN fAcToRy
+Ship: Arazu
+Weapon: Hobgoblin II
+
+
+Destroyed items:
+
+Wrath Cruise Missile, Qty: 66
+'Limos' Cruise Launcher I
+'Limos' Cruise Launcher I
+'Limos' Cruise Launcher I
+Wrath Cruise Missile, Qty: 4868 (Cargo)
+

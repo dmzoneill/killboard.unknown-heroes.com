@@ -1,0 +1,129 @@
+2006.10.24 20:17
+
+Victim: WarGod
+Alliance: Triumvirate.
+Corp: D00M.
+Destroyed: Tempest
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Uncle Fester (laid the final blow)
+Security: 5.2
+Alliance: Imperial Republic Of the North
+Corp: VentureCorp
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: BOSSMAN69
+Security: 1.4
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Tempest
+Weapon: Tempest
+
+Name: Laboratus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Megathron
+Weapon: Megathron
+
+Name: TiMeZeRo225
+Security: 4.5
+Alliance: Freelancer Alliance
+Corp: J.I.T. Enterprises
+Ship: Raven
+Weapon: Cataclysm Cruise Missile
+
+Name: MentalM
+Security: 5.2
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Reason Taki
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Moa
+Weapon: Moa
+
+Name: copicus
+Security: 5.2
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Raven
+Weapon: Mjolnir Torpedo
+
+Name: Barasu
+Security: 1.6
+Alliance: Forces of Freedom
+Corp: Crimson Wings Squadron
+Ship: Stabber
+Weapon: Stabber
+
+Name: Formosus Funus
+Security: 3.2
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: Cassius Firebrand
+Security: 4.5
+Alliance: None
+Corp: Dark Horizons
+Ship: Hawk
+Weapon: Flameburst Light Missile
+
+Name: digital oxygen
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Deimos
+Weapon: Valkyrie II
+
+Name: Josh Causto
+Security: 0.4
+Alliance: None
+Corp: Fatalix Inc.
+Ship: Dominix
+Weapon: Initiated Warp Jammer I
+
+Name: Flashh Gorden
+Security: 2.4
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Ship: Caracal
+Weapon: Heavy Missile Launcher I
+
+
+Destroyed items:
+
+1400mm Howitzer Artillery II
+1400mm Howitzer Artillery II
+1400mm Howitzer Artillery II
+1400mm Howitzer Artillery II
+1400mm Howitzer Artillery II
+Medium 'Ghoul' Energy Siphon I
+E50 Prototype Energy Vampire
+Quake L
+Quake L
+Quake L
+Quake L
+Quake L
+Quake L
+Quake L
+Quake L
+Sensor Booster II
+Sensor Booster II
+Tracking Computer II
+Tracking Computer II
+Gyrostabilizer II
+Gyrostabilizer II
+Large Armor Repairer II
+Quake L, Qty: 2893 (Cargo)
+

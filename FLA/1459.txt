@@ -1,0 +1,50 @@
+2007.03.13 20:10
+
+Victim: Jaden 3
+Alliance: R i s e
+Corp: Jazz Associates
+Destroyed: Cormorant
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Kiara Diepp (laid the final blow)
+Security: -1.9
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Caracal
+Weapon: Thunderbolt Heavy Missile
+
+Name: SniperMcBob
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Raven
+Weapon: Wrath Cruise Missile
+
+Name: S Dietershagen
+Security: 4.8
+Alliance: Freelancer Alliance
+Corp: The Night Crew
+Ship: Wolf
+Weapon: Wolf
+
+Name: Nepu
+Security: -0.6
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Malediction
+Weapon: Warp Disruptor I
+
+
+Destroyed items:
+
+150mm Railgun I
+150mm Railgun I
+Iridium Charge S, Qty: 80
+Antimatter Charge S, Qty: 40
+TE-2100 Standard Missile Bay
+Thorium Charge S, Qty: 200 (Cargo)
+Flameburst Light Missile, Qty: 100 (Cargo)
+

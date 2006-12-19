@@ -1,0 +1,98 @@
+2007.03.10 19:31
+
+Victim: Karehb
+Alliance: YouWhat
+Corp: Princeps Corp
+Destroyed: Stabber
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Hamos
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Raven
+Weapon: Wrath Cruise Missile
+
+Name: Pixnator (laid the final blow)
+Security: -0.9
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Raven
+Weapon: Inferno Javelin Torpedo
+
+Name: Mazuel
+Security: 2.1
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Maelstrom
+Weapon: Maelstrom
+
+Name: Hakashi
+Security: 2.8
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Scorpion
+Weapon: Paradise Cruise Missile
+
+Name: Leonardo Sabrioski
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Crow
+Weapon: Foxfire Rocket
+
+Name: Slinktress
+Security: 2.8
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Megathron
+Weapon: Megathron
+
+Name: Alianore
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Catalyst
+Weapon: 150mm Carbide Railgun I
+
+Name: Arbitrus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Ship: Apocalypse
+Weapon: 'Arbalest' Cruise Launcher I
+
+Name: Nike Calistar
+Security: 2.3
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Caracal
+Weapon: Heavy Missile Launcher I
+
+Name: Furnis
+Security: 3.0
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Merlin
+Weapon: Small Nosferatu I
+
+Name: Guardian Watchman / Serpentis Corporation
+
+
+Destroyed items:
+
+425mm Medium Carbine Repeating Cannon I
+425mm Medium Carbine Repeating Cannon I
+425mm Medium Carbine Repeating Cannon I
+EMP M, Qty: 120
+Standard Missile Launcher I
+Initiated Warp Jammer I
+'Langour' Drive Disruptor I
+Damage Control I
+EMP M, Qty: 2260 (Cargo)
+Bloodclaw Light Missile, Qty: 460 (Cargo)
+Hornet I (Drone Bay)
+

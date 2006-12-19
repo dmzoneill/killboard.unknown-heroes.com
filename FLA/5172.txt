@@ -1,0 +1,82 @@
+2007.04.23 02:51
+
+Victim: Akthuul
+Alliance: Storm Armada
+Corp: stone grave haulage
+Destroyed: Capsule
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: The Cade
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Harpy
+Weapon: Harpy
+
+Name: Tran Whistler (laid the final blow)
+Security: 5.3
+Alliance: Freelancer Alliance
+Corp: Harbingers of Sarrow
+Ship: Caracal
+Weapon: Bloodclaw Light Missile
+
+Name: coldkill
+Security: 1.9
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: TroNaaR
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Unknown
+Weapon: Standard Missile Launcher I
+
+Name: Archon Tenshi
+Security: 0.4
+Alliance: Freelancer Alliance
+Corp: Harbingers of Sarrow
+Ship: Cormorant
+Weapon: 125mm Railgun II
+
+Name: Kartock Maar
+Security: 2.1
+Alliance: Freelancer Alliance
+Corp: Harbingers of Sarrow
+Ship: Unknown
+Weapon: 200mm Carbide Railgun I
+
+Name: Imaginary Number
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Merlin
+Weapon: Sabretooth Light Missile
+
+Name: shadowxp99
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: Harbingers of Sarrow
+Ship: Unknown
+Weapon: Heavy Missile Launcher I
+
+Name: Recon Alpha
+Security: 3.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Caracal
+Weapon: Heavy Missile Launcher I
+
+Name: Kayron Brennan
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Caracal
+Weapon: Heavy Missile Launcher I
+
+

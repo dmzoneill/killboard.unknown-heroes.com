@@ -1,0 +1,39 @@
+2006.12.04 05:57
+
+Victim: Sil330
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Hawk
+System: OWXT-5
+Security: 0.0
+
+Involved parties:
+
+Name: Elliott Manchild (laid the final blow)
+Security: -1.6
+Alliance: None
+Corp: omen.
+Ship: Taranis
+Weapon: Light Neutron Blaster II
+
+Name: Neaokod
+Security: -1.8
+Alliance: None
+Corp: omen.
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+
+Destroyed items:
+
+Small 'Knave' I Energy Drain
+Foxfire Rocket, Qty: 15
+Rocket Launcher II
+1MN MicroWarpdrive I
+J5b Phased Prototype Warp Inhibitor I
+'Langour' Drive Disruptor I
+Gremlin Rocket, Qty: 3779 (Cargo)
+Phalanx Rocket, Qty: 4823 (Cargo)
+Foxfire Rocket, Qty: 4773 (Cargo)
+Thorn Rocket, Qty: 4940 (Cargo)
+

@@ -1,0 +1,32 @@
+2007.04.27 03:56
+
+Victim: BuzzDog
+Alliance: Exuro Mortis
+Corp: The Burning Orphans
+Destroyed: Celestis
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Black DeathRain (laid the final blow)
+Security: 1.6
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Drake
+Weapon: Widowmaker Heavy Missile
+
+
+Destroyed items:
+
+Piranha Light Missile, Qty: 38
+Standard Missile Launcher I
+10MN MicroWarpdrive I
+Remote Sensor Dampener I
+Remote Sensor Dampener I
+Sensor Booster I
+Small Armor Repairer I
+800mm Reinforced Rolled Tungsten Plates I
+Capacitor Power Relay I
+Bloodclaw Light Missile, Qty: 76 (Cargo)
+

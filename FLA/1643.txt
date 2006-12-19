@@ -1,0 +1,72 @@
+2007.03.19 05:29
+
+Victim: xargis
+Alliance: YouWhat
+Corp: Pringles Inc.
+Destroyed: Scorpion
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Weeble Wooble (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Zattron
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Bobby Atlas
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Megathron
+Weapon: Megathron
+
+Name: Grimes NC
+Security: 4.8
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Tempest
+Weapon: Tempest
+
+Name: Skull Fire
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Raven
+Weapon: XT-9000 Cruise Launcher
+
+Name: Shindal
+Security: 5.0
+Alliance: Zenith Affinity
+Corp: GREY COUNCIL
+Ship: Capsule
+Weapon: Phased Muon Sensor Disruptor I
+
+Name: Keyoke Acoma
+Security: 1.9
+Alliance: The Sundering
+Corp: Auraxian Irregulars
+Ship: Malediction
+Weapon: Dual Light Pulse Laser II
+
+
+Destroyed items:
+
+Paradise Cruise Missile, Qty: 20
+Cruise Missile Launcher I
+Cruise Missile Launcher I
+X-Large Shield Booster I
+Warp Disruptor I
+Warp Core Stabilizer I
+Power Diagnostic System I
+Paradise Cruise Missile, Qty: 3724 (Cargo)
+

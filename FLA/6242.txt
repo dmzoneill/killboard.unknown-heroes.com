@@ -1,0 +1,19 @@
+2006.11.10 23:10
+
+Victim: xon minator
+Alliance: Interstellar Starbase Syndicate
+Corp: United Space Republic
+Destroyed: Reaper
+System: L-TS8S
+Security: 0.0
+
+Involved parties:
+
+Name: Cazziel (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+

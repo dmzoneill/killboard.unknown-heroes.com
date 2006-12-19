@@ -1,0 +1,26 @@
+2007.01.27 03:16
+
+Victim: XxAngelxX
+Alliance: Triumvirate.
+Corp: D00M.
+Destroyed: Capsule
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Kyias Shadow
+Security: -0.9
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Enyo
+Weapon: Enyo
+
+Name: sakana (laid the final blow)
+Security: -1.2
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Taranis
+Weapon: 125mm 'Scout' I Accelerator Cannon
+
+

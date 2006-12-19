@@ -1,0 +1,19 @@
+2006.10.19 19:03
+
+Victim: ThUmP3R
+Alliance: None
+Corp: Brutor tribe
+Destroyed: Capsule
+System: KLY-C0
+Security: 0.0
+
+Involved parties:
+
+Name: Kateryne (laid the final blow)
+Security: -2.6
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+

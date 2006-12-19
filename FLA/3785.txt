@@ -1,0 +1,33 @@
+2007.04.01 06:26
+
+Victim: Kingcross
+Alliance: Freelancer Alliance
+Corp: Terminal Velocity Inc.
+Destroyed: Capsule
+System: 3QE-9Q
+Security: 0.0
+
+Involved parties:
+
+Name: Anomaly21 (laid the final blow)
+Security: -1.0
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Vasili Z
+Security: 0.3
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Huginn
+Weapon: Target Painter II
+
+Name: Lord Revent
+Security: 1.5
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Huginn
+Weapon: 650mm Artillery Cannon II
+
+

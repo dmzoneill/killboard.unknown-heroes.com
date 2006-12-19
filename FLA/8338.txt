@@ -1,0 +1,43 @@
+2006.11.09 19:13
+
+Victim: Solarienne
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Destroyed: Harpy
+System: B-9C24
+Security: 0.0
+
+Involved parties:
+
+Name: ReconPete
+Security: 2.3
+Alliance: None
+Corp: Skill Level Six
+Ship: Raven
+Weapon: Hammerhead I
+
+Name: AnarchistUK
+Security: 5.0
+Alliance: None
+Corp: A New Inspiration
+Ship: Harpy
+Weapon: 150mm Carbide Railgun I
+
+Name: Spoony Brook (laid the final blow)
+Security: 3.1
+Alliance: Interstellar Starbase Syndicate
+Corp: terra firma team
+Ship: Enyo
+Weapon: Light Ion Blaster II
+
+
+Destroyed items:
+
+150mm Railgun II
+150mm Railgun II
+150mm Railgun II
+Antimatter Charge S, Qty: 39
+Magnetic Field Stabilizer II
+Antimatter Charge S, Qty: 6035 (Cargo)
+Expanded Cargohold I (Cargo)
+

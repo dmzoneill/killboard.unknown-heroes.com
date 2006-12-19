@@ -1,0 +1,26 @@
+2007.05.04 08:30
+
+Victim: Cloak Master
+Alliance: None
+Corp: Hedion University
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Chuck Dawg
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Crow
+Weapon: Bloodclaw Fury Light Missile
+
+Name: Hamiller Payne (laid the final blow)
+Security: 5.0
+Alliance: RAZOR Alliance
+Corp: Thundercats
+Ship: Eris
+Weapon: 125mm Railgun II
+
+

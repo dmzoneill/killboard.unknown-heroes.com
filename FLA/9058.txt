@@ -1,0 +1,40 @@
+2006.12.29 16:31
+
+Victim: Dexter Blade
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Covetor
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Stylaz (laid the final blow)
+Security: 5.0
+Alliance: None
+Corp: omen.
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: xlop
+Security: -1.1
+Alliance: None
+Corp: omen.
+Ship: Typhoon
+Weapon: Paradise Cruise Missile
+
+Name: Moandor
+Security: -2.2
+Alliance: None
+Corp: omen.
+Ship: Raptor
+Weapon: Bloodclaw Light Missile
+
+Name: Elliott Manchild
+Security: -2.0
+Alliance: None
+Corp: omen.
+Ship: Eos
+Weapon: Dark Blood Warp Disruptor
+
+

@@ -1,0 +1,40 @@
+2007.04.11 09:53
+
+Victim: Chuck Dawg
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Destroyed: Raven
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Phoenus (laid the final blow)
+Security: 0.4
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Vindicator
+Weapon: Berserker II
+
+Name: kapten sortebil
+Security: 4.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Raptor
+Weapon: Standard Missile Launcher I
+
+
+Destroyed items:
+
+Juggernaut Torpedo, Qty: 24
+'Malkuth' Siege Missile Launcher I
+'Malkuth' Siege Missile Launcher I
+X-Large C5-L Emergency Shield Overload I
+Invulnerability Field I
+Sensor Booster I
+Ballistic Control System I
+Ballistic Control System I
+Power Diagnostic System I
+Power Diagnostic System I
+Mjolnir Torpedo, Qty: 1193 (Cargo)
+

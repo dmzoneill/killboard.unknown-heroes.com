@@ -1,0 +1,96 @@
+2007.04.18 04:20
+
+Victim: Skull Fire
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Raven
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: War Bear
+Security: 2.8
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Stiletto
+Weapon: Einherji
+
+Name: Ronald Speirs (laid the final blow)
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Nidhoggur
+Weapon: Einherji
+
+Name: Queldonus
+Security: 3.3
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Nidhoggur
+Weapon: Firbolg
+
+Name: Green Leaner
+Security: 2.1
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Sleipnir
+Weapon: Valkyrie II
+
+Name: LordMordred
+Security: 0.1
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Chimera
+Weapon: Dragonfly
+
+Name: Wladomir Jed
+Security: 3.7
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Eagle
+Weapon: Eagle
+
+Name: Admentus Cor'vion
+Security: -0.5
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Taranis
+Weapon: Hobgoblin II
+
+Name: Hazmat 69
+Security: -1.6
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Crow
+Weapon: TE-2100 Standard Missile Bay
+
+Name: MeanG
+Security: 3.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Thanatos
+Weapon: Einherji
+
+
+Destroyed items:
+
+250mm Carbide Railgun I
+Uranium Charge M, Qty: 17
+Juggernaut Torpedo, Qty: 44
+'Arbalest' Siege Missile Launcher
+'Arbalest' Siege Missile Launcher
+'Arbalest' Siege Missile Launcher
+'Arbalest' Siege Missile Launcher
+'Arbalest' Siege Missile Launcher
+Large Shield Extender II
+Large Shield Extender II
+100MN MicroWarpdrive I
+Sensor Booster I
+1600mm Reinforced Rolled Tungsten Plates I
+Beta Reactor Control: Reaction Control I
+Lead Charge M, Qty: 2500 (Cargo)
+Wasp I (Cargo)
+Ogre I, Qty: 2 (Cargo)
+Warrior II, Qty: 2 (Cargo)
+

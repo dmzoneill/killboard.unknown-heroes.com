@@ -1,0 +1,51 @@
+2006.09.07 17:48
+
+Victim: Pheole
+Alliance: None
+Corp: LDK
+Destroyed: Stiletto
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Vialis
+Security: 5.0
+Alliance: O X I D E
+Corp: easyCredits
+Ship: Enyo
+Weapon: Enyo
+
+Name: Pelagiad (laid the final blow)
+Security: 4.8
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Stiletto
+Weapon: 150mm Light AutoCannon II
+
+Name: Supernaut 20k
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Blackbird
+Weapon: Initiated Multispectral ECM I
+
+Name: Kro Nox
+Security: 5.0
+Alliance: O X I D E
+Corp: easyCredits
+Ship: Ishkur
+Weapon: X5 Prototype I Engine Enervator
+
+
+Destroyed items:
+
+200mm AutoCannon II
+200mm AutoCannon II
+EMP S, Qty: 40
+Gremlin Rocket, Qty: 18
+'Malkuth' Rocket Launcher I
+Catalyzed Cold-Gas I Arcjet Thrusters
+Micro B88 Core Augmentation
+Micro Auxiliary Power Core I
+

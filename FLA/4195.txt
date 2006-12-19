@@ -1,0 +1,34 @@
+2007.04.03 22:29
+
+Victim: dastommy79
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Destroyed: Condor
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Wildhog (laid the final blow)
+Security: 5.1
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Claw
+Weapon: 280mm Howitzer Artillery II
+
+Name: boo3916
+Security: 2.6
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Capsule
+Weapon: Berserker II
+
+
+Destroyed items:
+
+Phalanx Rocket, Qty: 23
+'Malkuth' Rocket Launcher I
+'Malkuth' Rocket Launcher I
+Warp Disruptor I
+Ballistic Control System I
+

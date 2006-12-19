@@ -1,0 +1,83 @@
+2007.01.07 08:31
+
+Victim: Snob Rayne
+Alliance: None
+Corp: Janissaries
+Destroyed: Dominix
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Sasham
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Raven
+Weapon: Wrath Cruise Missile
+
+Name: Danielson1012 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Raven
+Weapon: Bane Torpedo
+
+Name: Thiet
+Security: 3.8
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Raven
+Weapon: Vespa I
+
+Name: Nukuquqa Hestase
+Security: 4.5
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Capsule
+Weapon: Heavy Missile Launcher I
+
+Name: Simon Monkoto
+Security: 2.1
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Rokh
+Weapon: Rokh
+
+Name: mr passie
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Rupture
+Weapon: Dual 180mm AutoCannon I
+
+Name: Jorax
+Security: 4.8
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Unknown
+Weapon: Light Neutron Blaster I
+
+Name: Weeble Wooble
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Myrmidon
+Weapon: Berserker I
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Medium Nosferatu I
+Heavy Unstable Power Fluctuator I
+Stasis Webifier I
+Heavy Electrochemical Capacitor Booster I
+Supplemental Scanning CPU I
+Medium Armor Repairer II
+N-Type Explosive Hardener I
+N-Type Thermic Hardener I
+1600mm Reinforced Rolled Tungsten Plates I
+Hobgoblin II, Qty: 7 (Drone Bay)
+Valkyrie II, Qty: 5 (Drone Bay)
+

@@ -1,0 +1,68 @@
+2007.03.25 01:36
+
+Victim: Aryiel VonHeise
+Alliance: None
+Corp: Deep Core Mining Inc.
+Destroyed: Capsule
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: HYT gangster (laid the final blow)
+Security: 1.5
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Claw
+Weapon: 150mm Light AutoCannon II
+
+Name: Swanny231
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Crow
+Weapon: Warp Disruptor II
+
+Name: Darc Kaahar
+Security: -0.8
+Alliance: Freelancer Alliance
+Corp: Feel Good Inc.
+Ship: Ishkur
+Weapon: 125mm 'Scout' I Accelerator Cannon
+
+Name: Villwrath
+Security: 3.5
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Enyo
+Weapon: Warp Disruptor I
+
+Name: Tregaron
+Security: 2.3
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Crow
+Weapon: Warp Disruptor II
+
+Name: Minisoza
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ishkur
+Weapon: 75mm Gatling Rail II
+
+Name: Dark Carnage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Crow
+Weapon: Standard Missile Launcher I
+
+Name: Chuck Dawg
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Crow
+Weapon: Initiated Warp Jammer I
+
+

@@ -1,0 +1,19 @@
+2006.11.16 05:39
+
+Victim: Detested
+Alliance: None
+Corp: State War Academy
+Destroyed: Capsule
+System: P-2TTL
+Security: 0.0
+
+Involved parties:
+
+Name: Lord Acheron (laid the final blow)
+Security: 1.5
+Alliance: Freelancer Alliance
+Corp: Caldar Mercenary Syndicate
+Ship: Sabre
+Weapon: 150mm Light AutoCannon II
+
+

@@ -1,0 +1,41 @@
+2007.04.18 09:28
+
+Victim: truefranco
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Destroyed: Vexor
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Karehb (laid the final blow)
+Security: 5.0
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+
+Destroyed items:
+
+Small 'Knave' I Energy Drain
+Heavy Ion Blaster I
+Heavy Ion Blaster I
+Antimatter Charge M, Qty: 78
+10MN MicroWarpdrive I
+Warp Disruptor I
+Stasis Webifier I
+Medium Armor Repairer II
+Armor Explosive Hardener I
+800mm Reinforced Titanium Plates I
+Warp Disruptor II (Cargo)
+Antimatter Charge M, Qty: 755 (Cargo)
+Vespa II (Cargo)
+Micro Auxiliary Power Core I (Cargo)
+Flameburst Light Missile, Qty: 500 (Cargo)
+Sabretooth Light Missile, Qty: 1418 (Cargo)
+'Malkuth' Standard Missile Launcher I, Qty: 2 (Cargo)
+Warrior II (Drone Bay)
+Hornet II, Qty: 2 (Drone Bay)
+

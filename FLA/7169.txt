@@ -1,0 +1,24 @@
+2006.12.30 06:12
+
+Victim: Kickass
+Alliance: None
+Corp: Caldari Provisions
+Destroyed: Vigil
+System: 2-KF56
+Security: 0.0
+
+Involved parties:
+
+Name: alon blackhelm (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Drake
+Weapon: Thunderbolt Heavy Missile
+
+
+Destroyed items:
+
+Cynosural Field Generator I
+Nanofiber Internal Structure I
+

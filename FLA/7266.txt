@@ -1,0 +1,132 @@
+2006.07.12 17:18
+
+Victim: Brunholdi
+Alliance: Sparta Alliance
+Corp: T.E.C II
+Destroyed: Raven
+System: N2IS-B
+Security: 0.0
+
+Involved parties:
+
+Name: Striker Cash
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Ship: Raven
+Weapon: Wrath Cruise Missile
+
+Name: DARKLING
+Security: 5.1
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Megathron
+Weapon: Megathron
+
+Name: Capt Cali (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: London Transport
+Ship: Cerberus
+Weapon: Thunderbolt Heavy Missile
+
+Name: LiBraga
+Security: 5.0
+Alliance: CORE.
+Corp: Project Gemini
+Ship: Rook
+Weapon: Scourge Heavy Missile
+
+Name: TwilightMadcat
+Security: -2.1
+Alliance: Imperial Republic Of the North
+Corp: Port Royal Independent Kontractors
+Ship: Taranis
+Weapon: Taranis
+
+Name: Jumar Coldgin
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Harpy
+Weapon: Harpy
+
+Name: dccbx
+Security: 1.6
+Alliance: Freelancer Alliance
+Corp: KHM Corporation
+Ship: Typhoon
+Weapon: Paradise Cruise Missile
+
+Name: MAD D0G
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: DEATH 0R GLORY
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+Name: mr passie
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: KHM Corporation
+Ship: Tempest
+Weapon: Tempest
+
+Name: Demarcus
+Security: 5.0
+Alliance: CORE.
+Corp: Project Gemini
+Ship: Scorpion
+Weapon: Paradise Cruise Missile
+
+Name: Zylatis
+Security: 3.2
+Alliance: CORE.
+Corp: AUS Corporation
+Ship: Rook
+Weapon: Thunderbolt Heavy Missile
+
+Name: Courtney Brown
+Security: 1.5
+Alliance: Freelancer Alliance
+Corp: KHM Corporation
+Ship: Ferox
+Weapon: Widowmaker Heavy Missile
+
+Name: Zakru Anul
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: KHM Corporation
+Ship: Megathron
+Weapon: Megathron
+
+Name: Kolombus
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Thanatos
+Weapon: Firbolg
+
+Name: Bolinar
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Dominix
+Weapon: Induced Multispectral ECM I
+
+
+Destroyed items:
+
+250mm 'Scout' I Accelerator Cannon
+250mm 'Scout' I Accelerator Cannon
+Antimatter Charge M, Qty: 80
+Mjolnir Torpedo
+Mjolnir Torpedo
+Mjolnir Torpedo
+'Arbalest' Siege Missile Launcher
+Large Shield Extender I
+Ballistic Deflection Field II
+Heat Dissipation Amplifier I
+Warp Core Stabilizer I
+Ballistic Control System I
+

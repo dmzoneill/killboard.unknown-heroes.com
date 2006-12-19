@@ -1,0 +1,92 @@
+2007.04.05 03:12
+
+Victim: Danielson1012
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Destroyed: Caracal
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Genrom
+Security: 4.5
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Ishtar
+Weapon: Ogre II
+
+Name: Coug (laid the final blow)
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Sabre
+Weapon: 200mm AutoCannon II
+
+Name: ER0X
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Harpy
+Weapon: Harpy
+
+Name: Tomas Ysidro
+Security: 1.3
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Myrmidon
+Weapon: Myrmidon
+
+Name: Crovan
+Security: 2.8
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Taranis
+Weapon: Warrior II
+
+Name: War Bear
+Security: 2.8
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Stiletto
+Weapon: Bloodclaw Light Missile
+
+Name: Bl00Dzor
+Security: 1.5
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Huginn
+Weapon: 720mm Howitzer Artillery II
+
+Name: Mon Palae
+Security: 2.1
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Curse
+Weapon: Medium Unstable Power Fluctuator I
+
+Name: Ferocious FeAr
+Security: 1.5
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Rook
+Weapon: ECM - White Noise Generator II
+
+
+Destroyed items:
+
+Thunderbolt Heavy Missile, Qty: 24
+Widowmaker Heavy Missile, Qty: 48
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+Large Supplemental Barrier Emitter I
+Medium Shield Booster I
+Sensor Booster I
+Ballistic Control System I
+Ballistic Control System I
+Thunderbolt Heavy Missile, Qty: 55 (Cargo)
+Havoc Heavy Missile, Qty: 5 (Cargo)
+Widowmaker Heavy Missile, Qty: 236 (Cargo)
+

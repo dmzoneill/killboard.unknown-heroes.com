@@ -1,0 +1,19 @@
+2006.09.04 17:09
+
+Victim: Asfa
+Alliance: None
+Corp: GalacTECH Unlimited
+Destroyed: Capsule
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Digioso (laid the final blow)
+Security: 1.2
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Megathron
+Weapon: Large 'Notos' Explosive Charge I
+
+

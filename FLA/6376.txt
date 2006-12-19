@@ -1,0 +1,19 @@
+2006.11.13 01:19
+
+Victim: Exetos
+Alliance: None
+Corp: Ascension Industries
+Destroyed: Gallente Shuttle
+System: 7T6P-C
+Security: 0.0
+
+Involved parties:
+
+Name: avelution (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Harpy
+Weapon: 125mm Railgun II
+
+

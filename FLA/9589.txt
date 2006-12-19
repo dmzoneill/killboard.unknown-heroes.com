@@ -1,0 +1,51 @@
+2007.05.19 17:58
+
+Victim: MA Learnig
+Alliance: None
+Corp: State War Academy
+Destroyed: Ibis
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Yesh
+Security: 2.7
+Alliance: The Fifth Race
+Corp: Antares Frontier
+Ship: Harbinger
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: DennoTheHunter (laid the final blow)
+Security: -1.0
+Alliance: DeStInY.
+Corp: The Syndicate Inc
+Ship: Hurricane
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: wardey
+Security: 0.6
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Punisher
+Weapon: Punisher
+
+Name: Iatnuolas
+Security: 1.9
+Alliance: DeStInY.
+Corp: The Knights Of Camelot
+Ship: Executioner
+Weapon: Light Electron Blaster I
+
+Name: kookos
+Security: 0.7
+Alliance: Imperial Republic Of the North
+Corp: Karjala Inc.
+Ship: Pilgrim
+Weapon: Warp Disruptor II
+
+
+Destroyed items:
+
+Civilian Gatling Railgun
+

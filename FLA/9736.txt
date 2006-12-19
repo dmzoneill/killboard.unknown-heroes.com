@@ -1,0 +1,42 @@
+2007.05.29 23:08
+
+Victim: RebelFighter
+Alliance: Freelancer Alliance
+Corp: Criminal DNA
+Destroyed: Cyclone
+System: 93PI-4
+Security: 0.0
+
+Involved parties:
+
+Name: Jobben (laid the final blow)
+Security: 1.8
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Hyperion
+Weapon: Vespa II
+
+Name: boo3916
+Security: -1.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Vulture
+Weapon: Standard Missile Launcher II
+
+
+Destroyed items:
+
+425mm AutoCannon I
+425mm AutoCannon I
+Medium 'Ghoul' Energy Siphon I
+Proton M, Qty: 146
+Widowmaker Heavy Missile, Qty: 22
+Havoc Heavy Missile, Qty: 22
+Heavy Missile Launcher I
+Warp Disruptor I
+Stasis Webifier I
+V-M15 Braced Multispectral Shield Matrix
+Medium Armor Repairer I
+Havoc Heavy Missile, Qty: 549 (Cargo)
+Widowmaker Heavy Missile, Qty: 61 (Cargo)
+

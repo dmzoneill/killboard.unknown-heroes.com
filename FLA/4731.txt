@@ -1,0 +1,19 @@
+2007.04.20 21:03
+
+Victim: Nubiam
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Destroyed: Capsule
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Korudon (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Megathron
+Weapon: Large Rudimentary Concussion Bomb I
+
+

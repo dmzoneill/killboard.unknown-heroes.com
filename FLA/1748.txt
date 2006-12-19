@@ -1,0 +1,41 @@
+2007.01.02 10:47
+
+Victim: EM00
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Destroyed: Sigil
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Drakin Korin (laid the final blow)
+Security: -1.1
+Alliance: None
+Corp: Evil Bandit Organisation
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Murdoch Morf
+Security: 1.5
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: boo3916
+Security: 4.5
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Eos
+Weapon: 'Hypnos' Multispectral ECM I
+
+
+Destroyed items:
+
+10MN Afterburner I
+Warp Core Stabilizer I
+Nanofiber Internal Structure I
+Nanofiber Internal Structure I
+Nanofiber Internal Structure I
+

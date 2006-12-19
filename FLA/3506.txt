@@ -1,0 +1,39 @@
+2007.03.31 19:39
+
+Victim: UBAH BoumeJIb
+Alliance: None
+Corp: War Tactical Groups
+Destroyed: Incursus
+System: Lermireve
+Security: 0.3
+
+Involved parties:
+
+Name: Serpentis Trooper / Serpentis Corporation
+
+Name: Darc Kaahar (laid the final blow)
+Security: -0.3
+Alliance: Freelancer Alliance
+Corp: Feel Good Inc.
+Ship: Celestis
+Weapon: Hobgoblin II
+
+
+Destroyed items:
+
+Light Ion Blaster I
+Light Ion Blaster I
+Antimatter Charge S, Qty: 300
+Cap Recharger I
+Monopropellant I Hydrazine Boosters
+'Langour' Drive Disruptor I
+Medium Shield Booster I (Cargo)
+1MN Afterburner I, Qty: 2 (Cargo)
+Ship Scanner I (Cargo)
+Heavy Ion Blaster I (Cargo)
+ECM Burst I (Cargo)
+Antimatter Charge S, Qty: 558 (Cargo)
+Warrior I, Qty: 2 (Cargo)
+ECCM - Magnetometric I (Cargo)
+Serpentis Bronze Tag (Cargo)
+

@@ -1,0 +1,35 @@
+2007.05.04 01:03
+
+Victim: Screamer
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Manticore
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Mufeater (laid the final blow)
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Catalyst
+Weapon: 125mm Railgun II
+
+Name: Kvarium Ki
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Rapier
+Weapon: Warp Disruptor II
+
+
+Destroyed items:
+
+Cruise Missile Launcher II
+Wrath Precision Cruise Missile, Qty: 12
+Warp Disruptor II
+Sensor Booster II
+Sensor Booster II
+Cataclysm Cruise Missile, Qty: 475 (Cargo)
+

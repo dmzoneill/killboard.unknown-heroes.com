@@ -1,0 +1,65 @@
+2006.11.12 12:45
+
+Victim: CrashOveride
+Alliance: Interstellar Starbase Syndicate
+Corp: The Graduates
+Destroyed: Thorax
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: TheBelgarion
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Durante Alighieri (laid the final blow)
+Security: 2.8
+Alliance: Schism.
+Corp: New Light
+Ship: Caracal
+Weapon: Thunderbolt Heavy Missile
+
+Name: Chonker
+Security: 2.6
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Vexor
+Weapon: Hammerhead I
+
+Name: freestrike
+Security: 5.9
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Kay Han
+Security: -1.4
+Alliance: None
+Corp: Stardust Heavy Industries
+Ship: Brutix
+Weapon: Brutix
+
+
+Destroyed items:
+
+Regulated Electron Phase Cannon I
+Regulated Electron Phase Cannon I
+Regulated Ion Phase Cannon I
+Antimatter Charge M, Qty: 631
+Stasis Webifier I
+Medium I-a Polarized Armor Regenerator
+Armor Explosive Hardener I
+Large Shield Booster II (Cargo)
+X5 Prototype I Engine Enervator (Cargo)
+Photon Scattering Field II (Cargo)
+Antimatter Charge M, Qty: 1297 (Cargo)
+Magnetic Field Stabilizer II (Cargo)
+Null M, Qty: 240 (Cargo)
+Havoc Heavy Missile, Qty: 40 (Cargo)
+Thunderbolt Heavy Missile, Qty: 40 (Cargo)
+

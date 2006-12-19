@@ -1,0 +1,40 @@
+2007.03.31 08:21
+
+Victim: Njord V
+Alliance: Freelancer Alliance
+Corp: Blackwater Squadron
+Destroyed: Capsule
+System: P-2TTL
+Security: 0.0
+
+Involved parties:
+
+Name: Ferocious FeAr (laid the final blow)
+Security: 1.5
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+Name: Tripline
+Security: 1.4
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Taranis
+Weapon: Small 'Ghoul' Energy Siphon I
+
+Name: Steve Dave
+Security: 4.1
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: PMolkenthin
+Security: -0.7
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Taranis
+Weapon: J5 Prototype Warp Inhibitor I
+
+

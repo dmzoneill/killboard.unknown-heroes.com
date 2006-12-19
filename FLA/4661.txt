@@ -1,0 +1,34 @@
+2007.04.17 16:06
+
+Victim: SlaineMor
+Alliance: Privateer Alliance
+Corp: Sicarri Covenant
+Destroyed: Sabre
+System: Urlen
+Security: 1.0
+
+Involved parties:
+
+Name: Ghu'ru Talozan (laid the final blow)
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ishtar
+Weapon: Berserker II
+
+
+Destroyed items:
+
+200mm AutoCannon II
+200mm AutoCannon II
+200mm AutoCannon II
+150mm Light AutoCannon II
+150mm Light AutoCannon II
+Barrage S, Qty: 236
+Flameburst Light Missile, Qty: 43
+Medium Shield Extender II
+Fleeting Propulsion Inhibitor I
+Barrage S, Qty: 5901 (Cargo)
+Sabretooth Light Missile, Qty: 500 (Cargo)
+Nanofiber Internal Structure I (Cargo)
+

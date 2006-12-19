@@ -1,0 +1,36 @@
+2007.02.18 15:28
+
+Victim: menis'2'society
+Alliance: Privateer Alliance
+Corp: The IMorral MAjority
+Destroyed: Armageddon
+System: Orvolle
+Security: 0.7
+
+Involved parties:
+
+Name: Brigar Starcleaver (laid the final blow)
+Security: -3.3
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Ship: Typhoon
+Weapon: Dual 650mm 'Scout' Repeating Artillery I
+
+
+Destroyed items:
+
+Mega Pulse Laser II
+Xray L
+Conflagration L
+Conflagration L
+Conflagration L
+Conflagration L
+F-b10 Nominal Capacitor Regenerator
+X5 Prototype I Engine Enervator
+Heat Sink II
+Energized Adaptive Nano Membrane I
+Voltaic Nanite Thermic Hardener I
+1600mm Reinforced Rolled Tungsten Plates I
+Capacitor Power Relay I
+Xray L, Qty: 4 (Cargo)
+

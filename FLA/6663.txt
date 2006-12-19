@@ -1,0 +1,40 @@
+2006.11.23 15:34
+
+Victim: Osiris Warp
+Alliance: Eternal Empire
+Corp: Spectral Armada
+Destroyed: Capsule
+System: J-CIJV
+Security: 0.0
+
+Involved parties:
+
+Name: Midiana (laid the final blow)
+Security: 1.1
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Ishtar
+Weapon: Warrior II
+
+Name: Fr0zt
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Rook
+Weapon: Widowmaker Heavy Missile
+
+Name: dinj
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: London Transport
+Ship: Crow
+Weapon: Bloodclaw Fury Light Missile
+
+Name: Damhtman
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Crow
+Weapon: Rocket Launcher II
+
+

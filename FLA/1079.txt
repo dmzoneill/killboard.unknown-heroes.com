@@ -1,0 +1,26 @@
+2007.03.04 17:26
+
+Victim: Romulus Kane
+Alliance: Privateer Alliance
+Corp: Privateers
+Destroyed: Capsule
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: rappter (laid the final blow)
+Security: -0.7
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Deimos
+Weapon: Heavy Neutron Blaster II
+
+Name: avelon serenity
+Security: -1.0
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Myrmidon
+Weapon: Myrmidon
+
+

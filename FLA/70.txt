@@ -1,0 +1,24 @@
+2007.01.05 22:26
+
+Victim: Maxemus Payne
+Alliance: Privateer Alliance
+Corp: Privateers
+Destroyed: Rifter
+System: Jita
+Security: 0.9
+
+Involved parties:
+
+Name: Nova Paradise (laid the final blow)
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+
+Destroyed items:
+
+Type-D Altered SS Overdrive Injector
+Power Diagnostic System I
+

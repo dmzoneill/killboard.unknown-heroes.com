@@ -1,0 +1,107 @@
+2007.04.08 00:27
+
+Victim: Vitelius
+Alliance: Agony Empire
+Corp: Agony Unleashed
+Destroyed: Stiletto
+System: EWOK-K
+Security: 0.0
+
+Involved parties:
+
+Name: StrikerOneSevern
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Rupture
+Weapon: Rupture
+
+Name: Willmiaester (laid the final blow)
+Security: 5.0
+Alliance: Federation Of united Corps
+Corp: Legion of Corpses
+Ship: Apocalypse
+Weapon: Tachyon Beam Laser I
+
+Name: Tinkles McGhee
+Security: 4.7
+Alliance: Freelancer Alliance
+Corp: The Night Crew
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Rhaven
+Security: 3.7
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Maller
+Weapon: Maller
+
+Name: Alski
+Security: 3.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Cormorant
+Weapon: Cormorant
+
+Name: Slim Jim
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Claw
+Weapon: Claw
+
+Name: Dark Carnage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Drake
+Weapon: Thunderbolt Heavy Missile
+
+Name: Skull Fire
+Security: 0.8
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Raven
+Weapon: 'Arbalest' Siege Missile Launcher
+
+Name: Kaand
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Myrmidon
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: Dick Stallion
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Drake
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+Name: Cockroach
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Prophecy
+Weapon: Prophecy
+
+Name: Black DeathRain
+Security: 1.6
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Hawk
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+
+Destroyed items:
+
+150mm Light 'Scout' Autocannon I
+EMP S, Qty: 145
+Foxfire Rocket, Qty: 32
+Rocket Launcher II
+Medium F-S9 Regolith Shield Induction
+Fleeting Warp Scrambler I
+X5 Prototype I Engine Enervator
+Fusion S, Qty: 1078 (Cargo)
+

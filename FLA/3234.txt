@@ -1,0 +1,32 @@
+2007.03.21 16:19
+
+Victim: Admiral Hunter
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Tristan
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: eRogue (laid the final blow)
+Security: 0.0
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Brutix
+Weapon: Valkyrie II
+
+
+Destroyed items:
+
+125mm Railgun I
+125mm Railgun I
+Iridium Charge S, Qty: 56
+Gremlin Rocket, Qty: 9
+'Limos' Rocket Launcher I
+Capacitor Power Relay I
+Iridium Charge S, Qty: 80 (Cargo)
+Antimatter Charge S, Qty: 2000 (Cargo)
+Gremlin Rocket, Qty: 940 (Cargo)
+Foxfire Rocket, Qty: 954 (Cargo)
+

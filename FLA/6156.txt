@@ -1,0 +1,61 @@
+2006.11.09 12:50
+
+Victim: Mighty Term
+Alliance: None
+Corp: Forbidden Innovation Syndicate
+Destroyed: Caracal
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: jacass66 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Ferox
+Weapon: Thunderbolt Fury Heavy Missile
+
+Name: Narny
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Caracal
+Weapon: Havoc Fury Heavy Missile
+
+Name: Liquid Neon
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Crow
+Weapon: Stasis Webifier I
+
+Name: LiBraga
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Eagle
+Weapon: 250mm Prototype I Gauss Gun
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 77
+Thunderbolt Heavy Missile, Qty: 25
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Medium Shield Extender I
+Medium Shield Extender I
+Medium Shield Extender I
+Ballistic Control System I
+Miner I (Cargo)
+Medium Graviton Smartbomb I (Cargo)
+Medium Brief Capacitor Overcharge I (Cargo)
+Signal Amplifier I (Cargo)
+Sensor Booster I (Cargo)
+Thunderbolt Heavy Missile, Qty: 122 (Cargo)
+Widowmaker Heavy Missile, Qty: 100 (Cargo)
+Scourge Heavy Missile, Qty: 232 (Cargo)
+Heavy Missile Launcher I (Cargo)
+

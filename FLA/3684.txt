@@ -1,0 +1,26 @@
+2007.03.29 08:25
+
+Victim: n03 san
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Destroyed: Capsule
+System: P-2TTL
+Security: 0.0
+
+Involved parties:
+
+Name: angelena (laid the final blow)
+Security: 4.5
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Claw
+Weapon: 280mm Howitzer Artillery II
+
+Name: MegaJ
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Unknown
+Weapon: Faint Warp Prohibitor I
+
+

@@ -1,0 +1,49 @@
+2006.11.13 16:47
+
+Victim: Scorpio63
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Destroyed: Vengeance
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: john taylor2
+Security: 2.9
+Alliance: None
+Corp: Venom.
+Ship: Dominix
+Weapon: Ogre I
+
+Name: Jimmycs83
+Security: -1.0
+Alliance: None
+Corp: Venom.
+Ship: Megathron
+Weapon: Hobgoblin II
+
+Name: DONJUAN v
+Security: -1.8
+Alliance: Eternal Empire
+Corp: Tarnak inc.
+Ship: Vexor
+Weapon: Hornet I
+
+Name: frederico handani (laid the final blow)
+Security: 0.0
+Alliance: None
+Corp: Beer Guzzling Clowns With Blasters
+Ship: Megathron
+Weapon: Modal Mega Neutron Particle Accelerator I
+
+
+Destroyed items:
+
+Scorch S
+Scorch S
+Scorch S
+'Arbalest' Standard Missile Launcher
+Small Armor Repairer II
+Conflagration S (Cargo)
+

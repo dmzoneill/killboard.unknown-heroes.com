@@ -1,0 +1,45 @@
+2007.02.26 13:38
+
+Victim: xinndo jagged
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Destroyed: Raven
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Chode Rizoum (laid the final blow)
+Security: -1.9
+Alliance: None
+Corp: Temptation inc.
+Ship: Typhoon
+Weapon: Mjolnir Torpedo
+
+Name: Donald Trump
+Security: -1.8
+Alliance: None
+Corp: Temptation inc.
+Ship: Hurricane
+Weapon: 425mm AutoCannon II
+
+Name: Guristas Destructor / Guristas
+
+
+Destroyed items:
+
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Juggernaut Torpedo, Qty: 24
+'Arbalest' Siege Missile Launcher
+Small Tractor Beam I
+Large Shield Extender II
+Ballistic Deflection Field II
+Conjunctive Gravimetric ECCM Scanning Array I
+Type-D Power Core Modification: Shield Flux
+Ballistic Control System II (Cargo)
+

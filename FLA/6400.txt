@@ -1,0 +1,54 @@
+2006.11.13 14:07
+
+Victim: Ramus V
+Alliance: None
+Corp: LDK
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Darth Hound
+Security: 1.7
+Alliance: Schism.
+Corp: Fatalix Inc.
+Ship: Thrasher
+Weapon: 280mm Howitzer Artillery I
+
+Name: W4RR10R (laid the final blow)
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: LiBraga
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Eagle
+Weapon: 250mm Prototype I Gauss Gun
+
+Name: LizzyD
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Ishkur
+Weapon: 150mm Railgun II
+
+Name: Fahad
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Harpy
+Weapon: Light Neutron Blaster II
+
+Name: AleXinO Gardon
+Security: 5.0
+Alliance: O X I D E
+Corp: W33D Corp.
+Ship: Caracal
+Weapon: Advanced 'Limos' Heavy Missile Bay I
+
+

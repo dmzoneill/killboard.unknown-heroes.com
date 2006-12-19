@@ -1,0 +1,52 @@
+2007.03.03 15:23
+
+Victim: Primaxin
+Alliance: Freelancer Alliance
+Corp: Harbingers of Sarrow
+Destroyed: Raven
+System: YA0-XJ
+Security: 0.0
+
+Involved parties:
+
+Name: callonious (laid the final blow)
+Security: 0.4
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Abaddon
+Weapon: Mega Pulse Laser II
+
+Name: Hellspawn666
+Security: 2.1
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Typhoon
+Weapon: Stasis Webifier I
+
+Name: Juggernaut Torpedo / Guristas
+
+
+Destroyed items:
+
+'Arbalest' Cruise Launcher I
+Small Tractor Beam I
+Remote Sensor Dampener II
+Magnetic Scattering Amplifier II
+Damage Control II
+Ballistic Control System II
+Medium Capacitor Battery I (Cargo)
+150mm Railgun I (Cargo)
+Bane Torpedo, Qty: 100 (Cargo)
+Paradise Cruise Missile, Qty: 443 (Cargo)
+Wrath Cruise Missile, Qty: 336 (Cargo)
+Gremlin Rocket, Qty: 100 (Cargo)
+Obliterator F.O.F. Cruise Missile I, Qty: 100 (Cargo)
+Hunter F.O.F. Cruise Missile I, Qty: 174 (Cargo)
+Cruise Missile Launcher I, Qty: 2 (Cargo)
+Scorched Telemetry Processor, Qty: 5 (Cargo)
+Malfunctioning Shield Emitter, Qty: 9 (Cargo)
+Charred Micro Circuit, Qty: 3 (Cargo)
+Ward Console, Qty: 4 (Cargo)
+Reactor Control Unit I (Cargo)
+Medium Armor Maintenance Bot I (Drone Bay)
+

@@ -1,0 +1,29 @@
+2007.04.21 04:12
+
+Victim: arthell
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Destroyed: Ishkur
+System: 2R-CRW
+Security: 0.0
+
+Involved parties:
+
+Name: splunkrr (laid the final blow)
+Security: 1.2
+Alliance: Exuro Mortis
+Corp: Slacker Industries
+Ship: Megathron
+Weapon: Ion Blaster Cannon II
+
+
+Destroyed items:
+
+Small 'Knave' I Energy Drain
+Modal Light Ion Particle Accelerator I
+Plutonium Charge S, Qty: 71
+1MN MicroWarpdrive I
+Iron Charge S, Qty: 500 (Cargo)
+Ogre II, Qty: 2 (Cargo)
+Warrior I, Qty: 2 (Drone Bay)
+

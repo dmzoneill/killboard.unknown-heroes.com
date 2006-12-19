@@ -1,0 +1,163 @@
+2007.04.21 04:08
+
+Victim: Aurel Senia
+Alliance: Exuro Mortis
+Corp: Slacker Industries
+Destroyed: Raven
+System: 2R-CRW
+Security: 0.0
+
+Involved parties:
+
+Name: chota
+Security: 5.0
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Rupture
+Weapon: Widowmaker Heavy Missile
+
+Name: Oslo
+Security: 0.7
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Absolution
+Weapon: Hobgoblin II
+
+Name: Dameclies TRG
+Security: 4.7
+Alliance: The Sundering
+Corp: The Republican Guard
+Ship: Wolf
+Weapon: Wolf
+
+Name: OrbiteronAir
+Security: 5.0
+Alliance: SECUWAY.
+Corp: SecuWay
+Ship: Raven
+Weapon: Wrath Cruise Missile
+
+Name: Sharksbane
+Security: 0.3
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Raven
+Weapon: Heavy Missile Launcher I
+
+Name: Gemini Hypernova
+Security: 1.1
+Alliance: The Sundering
+Corp: ironwood ink
+Ship: Abaddon
+Weapon: Abaddon
+
+Name: KiNgShiZzLe
+Security: 5.0
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Crow
+Weapon: Bloodclaw Precision Light Missile
+
+Name: Briscoe
+Security: 4.8
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Raven
+Weapon: Raven
+
+Name: Dirty Martini
+Security: 4.3
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Porf (laid the final blow)
+Security: 5.0
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Megathron
+Weapon: 425mm 'Scout' I Accelerator Cannon
+
+Name: Ghu'ru Talozan
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Celestis
+Weapon: Hobgoblin I
+
+Name: Kvarium Ki
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Rupture
+Weapon: Rupture
+
+Name: arthell
+Security: 2.9
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: Bobby Atlas
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Celestis
+Weapon: Havoc Heavy Missile
+
+Name: ISpydeRI
+Security: 5.0
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Crow
+Weapon: Dragonfly
+
+Name: GEOFFTRIN RYNE
+Security: 5.0
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Caracal
+Weapon: Havoc Heavy Missile
+
+Name: Thiet
+Security: 4.1
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Kestrel
+Weapon: Gremlin Rocket
+
+Name: dastommy79
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Vexor
+Weapon: Hammerhead I
+
+Name: Namlicnuoc
+Security: -1.7
+Alliance: The Sundering
+Corp: Auraxian Irregulars
+Ship: Ishkur
+Weapon: Hobgoblin II
+
+
+Destroyed items:
+
+Heavy Nosferatu I
+Devastator Cruise Missile, Qty: 26
+Paradise Cruise Missile, Qty: 26
+Cruise Missile Launcher II
+Cruise Missile Launcher II
+X-Large Shield Booster II
+Heavy Electrochemical Capacitor Booster I
+Heat Dissipation Field II
+Invulnerability Field II
+Cap Booster 800
+Cap Booster 800
+Co-Processor II
+Cap Booster 800, Qty: 8 (Cargo)
+Devastator Cruise Missile, Qty: 392 (Cargo)
+Wrath Precision Cruise Missile, Qty: 470 (Cargo)
+

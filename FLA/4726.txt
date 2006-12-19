@@ -1,0 +1,50 @@
+2007.04.20 14:31
+
+Victim: Fitz Farseer
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Merlin
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Ghu'ru Talozan
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Celestis
+Weapon: 250mm Carbide Railgun I
+
+Name: Dana Foxworth
+Security: 3.7
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Stabber
+Weapon: Stabber
+
+Name: Laerana (laid the final blow)
+Security: 0.3
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Vexor
+Weapon: Warrior I
+
+Name: Rohan V
+Security: 2.1
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Blackbird
+Weapon: Blackbird
+
+
+Destroyed items:
+
+150mm 'Scout' I Accelerator Cannon
+150mm Railgun I
+Warp Disruptor I
+Stasis Webifier I
+Power Diagnostic System I
+Antimatter Charge S, Qty: 40 (Cargo)
+Gremlin Rocket, Qty: 160 (Cargo)
+

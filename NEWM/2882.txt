@@ -1,0 +1,47 @@
+2007.03.14 04:10
+
+Victim: Epro
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Maelstrom
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Hamatitio
+Security: 3.1
+Alliance: None
+Corp: Fate.
+Ship: Vagabond
+Weapon: Widowmaker Heavy Missile
+
+Name: eXtas (laid the final blow)
+Security: 1.6
+Alliance: Privateer Alliance
+Corp: Kemono.
+Ship: Typhoon
+Weapon: Paradise Cruise Missile
+
+
+Destroyed items:
+
+1400mm Howitzer Artillery I
+1400mm Howitzer Artillery I
+1400mm Howitzer Artillery I
+1400mm Howitzer Artillery I
+1400mm Howitzer Artillery I
+1400mm Howitzer Artillery I
+Carbonized Lead L, Qty: 44
+Large Shield Booster I
+Invulnerability Field I
+Alumel-Wired I Sensor Augmentation
+'Orion' Tracking CPU I
+Tracking Computer II
+Tracking Computer II
+Nanofiber Internal Structure I
+Titanium Sabot L, Qty: 1356 (Cargo)
+EMP L, Qty: 500 (Cargo)
+Depleted Uranium L, Qty: 500 (Cargo)
+Vespa I, Qty: 8 (Drone Bay)
+

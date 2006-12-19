@@ -1,0 +1,38 @@
+2007.04.20 14:11
+
+Victim: xinndo jagged
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Destroyed: Caracal
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Dana Marillis (laid the final blow)
+Security: 3.5
+Alliance: Storm Armada
+Corp: stone grave haulage
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Mynas Atoch
+Security: 0.8
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Buzzard
+Weapon: BZ-5 Neutralizing Spatial Destabilizer ECM
+
+
+Destroyed items:
+
+Havoc Heavy Missile, Qty: 24
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Invulnerability Field I
+Target Painter I
+Ballistic Control System I
+Scourge Heavy Missile, Qty: 500 (Cargo)
+Havoc Heavy Missile, Qty: 700 (Cargo)
+

@@ -1,0 +1,56 @@
+2007.01.29 04:10
+
+Victim: Vash The'Stampede
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Destroyed: Crow
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: digital oxygen (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Weeble Wooble
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Catalyst
+Weapon: 150mm Railgun II
+
+Name: Aranon Ogronios
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: Swindy
+Security: 1.5
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: ventura5
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Drake
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+
+Destroyed items:
+
+Small Diminishing Power System Drain I
+Bloodclaw Light Missile, Qty: 92
+TE-2100 Standard Missile Bay
+Warp Scrambler I
+Small I-a Polarized Armor Regenerator
+Bloodclaw Light Missile, Qty: 479 (Cargo)
+

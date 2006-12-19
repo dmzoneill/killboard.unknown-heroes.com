@@ -1,0 +1,37 @@
+2007.04.05 23:27
+
+Victim: Zephyrante
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Destroyed: Lachesis
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Alchem (laid the final blow)
+Security: 2.6
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Myrmidon
+Weapon: Ogre II
+
+Name: Shaleen
+Security: 1.2
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Astarte
+Weapon: Heavy Neutron Blaster II
+
+
+Destroyed items:
+
+Thunderbolt Heavy Missile, Qty: 25
+Advanced 'Limos' Heavy Missile Bay I
+Remote Sensor Dampener II
+Remote Sensor Dampener II
+Remote Sensor Dampener II
+Energized Reactive Membrane II
+Beta Reactor Control: Capacitor Power Relay I
+Thunderbolt Heavy Missile, Qty: 1981 (Cargo)
+

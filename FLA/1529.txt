@@ -1,0 +1,38 @@
+2007.03.15 19:49
+
+Victim: Butty
+Alliance: None
+Corp: The Descent
+Destroyed: Merlin
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Weeble Wooble (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Megathron
+Weapon: Infiltrator II
+
+Name: Mocuker
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+
+Destroyed items:
+
+125mm Railgun I
+Antimatter Charge S, Qty: 32
+Sabretooth Light Missile, Qty: 42
+Small Neutron Saturation Injector I
+Overdrive Injector System I
+Iron Charge S, Qty: 370 (Cargo)
+Lead Charge S, Qty: 377 (Cargo)
+Antimatter Charge S, Qty: 261 (Cargo)
+Sabretooth Light Missile, Qty: 3234 (Cargo)
+

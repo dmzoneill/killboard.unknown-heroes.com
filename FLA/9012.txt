@@ -1,0 +1,37 @@
+2006.12.28 03:12
+
+Victim: Entragian Delmar
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Destroyed: Thorax
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: WarGod (laid the final blow)
+Security: 0.8
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Hurricane
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Elliott Manchild
+Security: -2.0
+Alliance: None
+Corp: omen.
+Ship: Claw
+Weapon: Claw
+
+
+Destroyed items:
+
+250mm Prototype I Gauss Gun
+Antimatter Charge M, Qty: 72
+X5 Prototype I Engine Enervator
+Alumel-Wired I Sensor Augmentation
+Beta Reactor Control: Reaction Control I
+Reactor Control Unit I
+Antimatter Charge M, Qty: 933 (Cargo)
+Vespa I, Qty: 2 (Drone Bay)
+

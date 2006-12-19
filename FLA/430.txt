@@ -1,0 +1,49 @@
+2007.02.02 23:20
+
+Victim: Dan1898
+Alliance: None
+Corp: Dark Knights Flight Squad
+Destroyed: Caracal
+System: J-CIJV
+Security: 0.0
+
+Involved parties:
+
+Name: Satal Sonshi
+Security: 3.4
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Tempest
+Weapon: Tempest
+
+Name: Mauy Thai
+Security: -1.5
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Curse
+Weapon: Medium Nosferatu II
+
+Name: Tnam (laid the final blow)
+Security: 1.5
+Alliance: None
+Corp: BGG
+Ship: Jaguar
+Weapon: 150mm Light AutoCannon II
+
+Name: mr passie
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Jaguar
+Weapon: Jaguar
+
+
+Destroyed items:
+
+XR-3200 Heavy Missile Bay
+Ballistic Deflection Field II
+Ballistic Deflection Field II
+Kapteyn Sensor Array Inhibitor I
+Power Diagnostic System I
+Power Diagnostic System I
+

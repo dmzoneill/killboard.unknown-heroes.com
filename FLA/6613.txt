@@ -1,0 +1,26 @@
+2006.11.19 20:48
+
+Victim: Oxana Ptotemkish
+Alliance: None
+Corp: GeoTech
+Destroyed: Capsule
+System: X-7OMU
+Security: 0.0
+
+Involved parties:
+
+Name: Jumar Coldgin (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Hawk
+Weapon: Bloodclaw Light Missile
+
+Name: Hosanna
+Security: 2.4
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Cyclone
+Weapon: 220mm Vulcan AutoCannon II
+
+

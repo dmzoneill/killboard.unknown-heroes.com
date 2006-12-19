@@ -1,0 +1,66 @@
+2007.03.08 04:25
+
+Victim: Fire Born
+Alliance: YouWhat
+Corp: Beasts of Burden
+Destroyed: Slasher
+System: XZH-4X
+Security: 0.0
+
+Involved parties:
+
+Name: Drakenheim Reinmueller (laid the final blow)
+Security: 2.8
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Harbinger
+Weapon: Heavy Beam Laser II
+
+Name: Fate Amen
+Security: 2.8
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Catalyst
+Weapon: 125mm Railgun I
+
+Name: Contez
+Security: 3.8
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Ares
+Weapon: 'Limos' Rocket Launcher I
+
+Name: VoYvod
+Security: -1.3
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Coercer
+Weapon: Medium Beam Laser I
+
+Name: Krontos
+Security: 5.0
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Merlin
+Weapon: 125mm Railgun II
+
+Name: Sporadicus Hue
+Security: 0.5
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Incursus
+Weapon: 125mm Railgun I
+
+Name: Aureliano Garcia
+Security: 0.3
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Merlin
+Weapon: Rocket Launcher I
+
+
+Destroyed items:
+
+1MN MicroWarpdrive I
+Nanofiber Internal Structure I
+

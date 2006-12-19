@@ -1,0 +1,45 @@
+2006.12.12 21:01
+
+Victim: Tiree
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Punisher
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Marko Debreault
+Security: -1.8
+Alliance: None
+Corp: 0utbreak
+Ship: Taranis
+Weapon: Taranis
+
+Name: beantin (laid the final blow)
+Security: 2.9
+Alliance: None
+Corp: 0utbreak
+Ship: Sabre
+Weapon: 200mm AutoCannon II
+
+Name: TheAvatar
+Security: -0.1
+Alliance: None
+Corp: 0utbreak
+Ship: Vagabond
+Weapon: Dark Blood Warp Disruptor
+
+
+Destroyed items:
+
+Dual Light Pulse Laser I
+Small Graviton Smartbomb I
+Multifrequency S
+Multifrequency S
+Small Armor Repairer I
+200mm Reinforced Steel Plates I
+Dual Light Beam Laser I (Cargo)
+Small Armor Repairer I (Cargo)
+Microwave S, Qty: 3 (Cargo)
+

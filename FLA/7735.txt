@@ -1,0 +1,58 @@
+2006.07.18 08:19
+
+Victim: TheBelgarion
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Caracal
+System: K4YZ-Y
+Security: 0.0
+
+Involved parties:
+
+Name: hezitationkillz (laid the final blow)
+Security: -1.2
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Muninn
+Weapon: Dual 180mm AutoCannon II
+
+Name: Thaibog
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Malediction
+Weapon: Malediction
+
+Name: Kamath
+Security: 3.7
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Lachesis
+Weapon: Lachesis
+
+Name: Jeebs
+Security: 1.5
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Arazu
+Weapon: Dual 150mm Railgun II
+
+Name: Vince Draken
+Security: -0.6
+Alliance: The Five
+Corp: Arcane Technologies
+Ship: Pilgrim
+Weapon: 'Hypnos' Multispectral ECM I
+
+
+Destroyed items:
+
+Thunderbolt Heavy Missile, Qty: 32
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+Non-Inertial Ballistic Screen Augmentation I
+Ditrigonal Thermal Barrier Crystallization I
+Target Painter I
+Type-D Attenuation Signal Augmentation
+Type-D Attenuation Signal Augmentation
+

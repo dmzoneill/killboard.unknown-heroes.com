@@ -1,0 +1,37 @@
+2007.01.18 08:01
+
+Victim: Christina Bamar
+Alliance: None
+Corp: Agony Unleashed
+Destroyed: Hurricane
+System: 5ZXX-K
+Security: 0.0
+
+Involved parties:
+
+Name: Zattron (laid the final blow)
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+
+Destroyed items:
+
+Salvager I, Qty: 12
+720mm Howitzer Artillery II
+720mm Howitzer Artillery II
+720mm Howitzer Artillery II
+Phased Plasma M, Qty: 22
+Warp Scrambler I
+Stasis Webifier I
+Medium Armor Repairer II
+Armor Explosive Hardener I
+N-Type Thermic Hardener I
+Nuclear M, Qty: 6818 (Cargo)
+Titanium Sabot M, Qty: 4400 (Cargo)
+Fried Interface Circuit, Qty: 9 (Cargo)
+Hobgoblin I (Drone Bay)
+Hornet I, Qty: 3 (Drone Bay)
+

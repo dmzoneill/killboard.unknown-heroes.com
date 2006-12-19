@@ -1,0 +1,26 @@
+2007.01.03 13:00
+
+Victim: Gen Bang
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Destroyed: Atron
+System: Uedama
+Security: 0.5
+
+Involved parties:
+
+Name: ollobrains (laid the final blow)
+Security: 5.0
+Alliance: Privateer Alliance
+Corp: Privateers
+Ship: Taranis
+Weapon: 150mm Railgun I
+
+
+Destroyed items:
+
+125mm Railgun I
+Uranium Charge S, Qty: 61
+ECCM - Radar I
+Small Armor Repairer I
+

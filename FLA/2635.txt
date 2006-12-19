@@ -1,0 +1,44 @@
+2007.02.27 22:50
+
+Victim: Smiles Jr
+Alliance: Freelancer Alliance
+Corp: The Night Crew
+Destroyed: Bellicose
+System: YZ-LQL
+Security: 0.0
+
+Involved parties:
+
+Name: Crux Australis (laid the final blow)
+Security: -0.7
+Alliance: Band of Brothers
+Corp: Reikoku
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Addicus Zed
+Security: 2.1
+Alliance: Band of Brothers
+Corp: Reikoku
+Ship: Thanatos
+Weapon: Dragonfly
+
+
+Destroyed items:
+
+650mm Artillery Cannon I
+720mm Howitzer Artillery I
+EMP M, Qty: 9
+Scourge Heavy Missile, Qty: 44
+Thunderbolt Heavy Missile, Qty: 33
+Advanced 'Limos' Heavy Missile Bay I
+'Malkuth' Heavy Missile Launcher I
+Warp Scrambler I
+Fleeting Warp Scrambler I
+Damage Control I
+Basic Co-Processor
+Mark I Generator Refitting: Reaction Control
+EMP M, Qty: 88 (Cargo)
+Vespa I (Drone Bay)
+Hornet I, Qty: 2 (Drone Bay)
+

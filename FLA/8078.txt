@@ -1,0 +1,19 @@
+2006.10.09 02:33
+
+Victim: jarson
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Destroyed: Caldari Shuttle
+System: Nonni
+Security: 0.5
+
+Involved parties:
+
+Name: Admiral Black (laid the final blow)
+Security: -1.6
+Alliance: None
+Corp: Privateers
+Ship: Rupture
+Weapon: 650mm Artillery Cannon I
+
+

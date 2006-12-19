@@ -1,0 +1,64 @@
+2007.01.01 23:44
+
+Victim: Cat1977
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Destroyed: Megathron
+System: 2O9G-D
+Security: 0.0
+
+Involved parties:
+
+Name: Scythus Aratan
+Security: 4.3
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: SATAN (laid the final blow)
+Security: -1.0
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Cataclysm Cruise Missile
+
+Name: DHB WildCat
+Security: -1.7
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+Name: Masta Killa
+Security: -1.9
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Cruise Missile Launcher II
+
+Name: Arnold Swartzenegger
+Security: -0.6
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+
+Destroyed items:
+
+350mm Railgun II
+425mm Railgun II
+425mm Railgun II
+425mm Prototype I Gauss Gun
+Iridium Charge L, Qty: 240
+F-90 Positional Sensor Subroutines
+Tracking Computer II
+Tracking Computer II
+Large 'Accommodation' Vestment Reconstructer I
+Tracking Enhancer II
+Magnetic Field Stabilizer II
+Spike L, Qty: 1366 (Cargo)
+Berserker I, Qty: 3 (Drone Bay)
+Warrior II, Qty: 5 (Drone Bay)
+

@@ -1,0 +1,54 @@
+2007.04.27 16:33
+
+Victim: wardey
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Capsule
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Indiano Arko (laid the final blow)
+Security: 0.6
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Hurricane
+Weapon: 650mm Medium Prototype I Siege Cannon
+
+Name: Reverend Revelator
+Security: 1.5
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Brutix
+Weapon: Brutix
+
+Name: Fitz Farseer
+Security: 0.5
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Rifter
+Weapon: Rifter
+
+Name: nyricia
+Security: 1.7
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Caracal
+Weapon: Heavy Missile Launcher I
+
+Name: Clarissime
+Security: 0.8
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Rifter
+Weapon: Stasis Webifier I
+
+Name: Aut Nihil
+Security: 0.1
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Kestrel
+Weapon: Standard Missile Launcher I
+
+

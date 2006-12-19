@@ -1,0 +1,19 @@
+2007.02.15 02:04
+
+Victim: 0mnibeing
+Alliance: None
+Corp: Dragonslayers Inc.
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Pestily (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Rook
+Weapon: Bloodclaw Light Missile
+
+

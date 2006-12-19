@@ -1,0 +1,63 @@
+2007.01.02 06:17
+
+Victim: Kru5ty
+Alliance: Triumvirate.
+Corp: D00M.
+Destroyed: Vagabond
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Dharq
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Typhoon
+Weapon: Juggernaut Torpedo
+
+Name: Kandread (laid the final blow)
+Security: 0.6
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Kelter Highfire
+Security: 0.3
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Capsule
+Weapon: ECM - Spatial Destabilizer I
+
+Name: pROMp
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Feel Good Inc.
+Ship: Celestis
+Weapon: Indirect Scanning Dampening Unit I
+
+Name: Barqs
+Security: 1.5
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Manticore
+Weapon: 'Arbalest' Cruise Launcher I
+
+
+Destroyed items:
+
+220mm Medium 'Scout' Autocannon I
+220mm Medium 'Scout' Autocannon I
+220mm Medium 'Scout' Autocannon I
+220mm Medium 'Scout' Autocannon I
+Phased Plasma M, Qty: 175
+Y-T8 Overcharged Hydrocarbon I Microwarpdrive
+Gyrostabilizer II
+Gyrostabilizer II
+Gyrostabilizer II
+Medium Nosferatu I (Cargo)
+EMP M, Qty: 13 (Cargo)
+Phased Plasma M, Qty: 4380 (Cargo)
+Type-D Power Core Modification: Capacitor Power Relay (Cargo)
+

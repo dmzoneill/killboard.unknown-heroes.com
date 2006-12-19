@@ -1,0 +1,67 @@
+2007.05.21 13:57
+
+Victim: Radica
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Dominix
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Airpizza II (laid the final blow)
+Security: 3.6
+Alliance: Storm Armada
+Corp: Virtual Warriors
+Ship: Raven
+Weapon: Vespa II
+
+Name: Terdlinger
+Security: 5.0
+Alliance: Storm Armada
+Corp: stone grave haulage
+Ship: Raven
+Weapon: Vespa II
+
+Name: KtB
+Security: -1.7
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Myrmidon
+Weapon: Hammerhead I
+
+Name: Screamer
+Security: 1.8
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Manticore
+Weapon: Warp Disruptor II
+
+Name: sgtdark
+Security: 5.0
+Alliance: Storm Armada
+Corp: stone grave haulage
+Ship: Rifter
+Weapon: 125mm Railgun II
+
+Name: nickoo
+Security: -0.7
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Capsule
+Weapon: 'Arbalest' Rocket Launcher I
+
+Name: Apolluon
+Security: 2.1
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Enyo
+Weapon: Warp Scrambler I
+
+
+Destroyed items:
+
+Heavy Diminishing Power System Drain I, Qty: 2
+Small Energy Neutralizer I, Qty: 2
+ECM - Multispectral Jammer II
+Damage Control II

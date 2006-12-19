@@ -1,0 +1,69 @@
+2007.01.06 22:36
+
+Victim: Tiberius Drake
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Destroyed: Vexor
+System: Torrinos
+Security: 0.5
+
+Involved parties:
+
+Name: SoulScourge (laid the final blow)
+Security: -1.5
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Tempest Fleet Issue
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Assassin 2
+Security: 5.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Drake
+Weapon: Havoc Heavy Missile
+
+Name: Fjerkenstad
+Security: -1.9
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Megathron
+Weapon: Neutron Blaster Cannon II
+
+Name: Pistonbroke
+Security: -0.1
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Crow
+Weapon: Crow
+
+
+Destroyed items:
+
+Dual 150mm 'Scout' I Accelerator Cannon
+Dual 150mm 'Scout' I Accelerator Cannon
+Dual 150mm 'Scout' I Accelerator Cannon
+Lead Charge M, Qty: 160
+Cap Recharger I
+Cap Recharger I
+Warp Core Stabilizer I
+Warp Core Stabilizer I
+Warp Core Stabilizer I
+Electron Blaster Cannon I, Qty: 3 (Cargo)
+Ion Blaster Cannon I, Qty: 2 (Cargo)
+Neutron Blaster Cannon I (Cargo)
+Heavy Neutron Blaster I (Cargo)
+Regulated Mega Ion Phase Cannon I (Cargo)
+Regulated Neutron Phase Cannon I (Cargo)
+Adaptive Nano Plating I (Cargo)
+'Refuge' Adaptive Nano Plating I (Cargo)
+Magnetic Plating I (Cargo)
+ECM - Multispectral Jammer I (Cargo)
+Prototype I Sensor Booster (Cargo)
+N-Type Thermic Membrane I (Cargo)
+Voltaic Nanite Explosive Hardener I (Cargo)
+Armor Thermic Hardener I (Cargo)
+Microcell Nanite Thermic Hardener I (Cargo)
+Hammerhead I, Qty: 4 (Drone Bay)
+Hobgoblin I, Qty: 2 (Drone Bay)
+

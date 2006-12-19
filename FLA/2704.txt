@@ -1,0 +1,61 @@
+2007.03.03 07:59
+
+Victim: EM00
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Destroyed: Capsule
+System: E-Z2ZX
+Security: 0.0
+
+Involved parties:
+
+Name: Risako (laid the final blow)
+Security: 0.3
+Alliance: Agony Empire
+Corp: Agony Unleashed
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+Name: Jenina Hawke
+Security: 0.3
+Alliance: Big Bang Quantum
+Corp: Core Domination
+Ship: Rifter
+Weapon: 250mm Light Artillery Cannon I
+
+Name: KrazyTaco
+Security: 0.0
+Alliance: Executive Outcomes
+Corp: The Protectorate Corporation
+Ship: Incursus
+Weapon: 150mm Carbide Railgun I
+
+Name: Tainte Gallenki
+Security: 1.8
+Alliance: None
+Corp: Sinq Laison Collective
+Ship: Rifter
+Weapon: Warp Scrambler I
+
+Name: Pancakes 01
+Security: 0.1
+Alliance: None
+Corp: The Gray Brotherhood
+Ship: Griffin
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+Name: DirtyHarri
+Security: 5.0
+Alliance: Big Bang Quantum
+Corp: Core Domination
+Ship: Kestrel
+Weapon: Rocket Launcher II
+
+Name: Dez Erichs
+Security: 1.4
+Alliance: Agony Empire
+Corp: Agony Unleashed
+Ship: Raptor
+Weapon: Fleeting Warp Scrambler I
+
+

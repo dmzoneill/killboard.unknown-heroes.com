@@ -1,0 +1,24 @@
+2007.03.14 14:43
+
+Victim: nohappy
+Alliance: None
+Corp: State War Academy
+Destroyed: Ibis
+System: YZS5-4
+Security: 0.0
+
+Involved parties:
+
+Name: Radica (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Taranis
+Weapon: Light Neutron Blaster II
+
+
+Destroyed items:
+
+Basic Miner
+Tritanium (Cargo)
+

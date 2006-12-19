@@ -1,0 +1,155 @@
+2006.04.08 22:05
+
+Victim: TheBelgarion
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Destroyed: Ferox
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: BullRadu
+Security: 4.0
+Alliance: The Five
+Corp: Delta team
+Ship: Cerberus
+Weapon: Thunderbolt Heavy Missile
+
+Name: dabaron (laid the final blow)
+Security: -5.8
+Alliance: The Forsaken Empire
+Corp: Penumbra Squadron
+Ship: Sacrilege
+Weapon: Heavy Pulse Laser II
+
+Name: Pazuzzu
+Security: 0.6
+Alliance: The Five
+Corp: Delta team
+Ship: Curse
+Weapon: Curse
+
+Name: Gradinger
+Security: -5.7
+Alliance: The Forsaken Empire
+Corp: Penumbra Squadron
+Ship: Muninn
+Weapon: Muninn
+
+Name: The Countess
+Security: -0.5
+Alliance: The Five
+Corp: Delta team
+Ship: Crow
+Weapon: Thorn Rocket
+
+Name: WETRAIN
+Security: 5.0
+Alliance: The Five
+Corp: Delta team
+Ship: Rupture
+Weapon: Rupture
+
+Name: Awalance
+Security: -1.1
+Alliance: The Five
+Corp: Delta team
+Ship: Claw
+Weapon: Claw
+
+Name: arcantos
+Security: 0.0
+Alliance: The Five
+Corp: Delta team
+Ship: Wolf
+Weapon: Wolf
+
+Name: El Ganador
+Security: 2.8
+Alliance: The Five
+Corp: Delta team
+Ship: Kestrel
+Weapon: Sabretooth Light Missile
+
+Name: yanshi
+Security: 5.0
+Alliance: The Five
+Corp: Delta team
+Ship: Kestrel
+Weapon: Flameburst Light Missile
+
+Name: Kha'el
+Security: 4.8
+Alliance: The Five
+Corp: Delta team
+Ship: Tristan
+Weapon: Tristan
+
+Name: BlueOrca
+Security: 4.7
+Alliance: The Five
+Corp: Delta team
+Ship: Thorax
+Weapon: 'Abandon' Targeting Disruptor I
+
+Name: BPX
+Security: 2.9
+Alliance: The Five
+Corp: Delta team
+Ship: Thorax
+Weapon: Thorax
+
+Name: Goshin Budo
+Security: 3.1
+Alliance: The Forsaken Empire
+Corp: Penumbra Squadron
+Ship: Crusader
+Weapon: 75mm Gatling Rail I
+
+Name: theRiP
+Security: 3.3
+Alliance: The Five
+Corp: Delta team
+Ship: Blackbird
+Weapon: 'Hypnos' Multispectral ECM I
+
+Name: cos0
+Security: 5.0
+Alliance: The Five
+Corp: Delta team
+Ship: Raven
+Weapon: XT-9000 Cruise Launcher
+
+Name: Ryan I
+Security: 1.3
+Alliance: The Five
+Corp: Delta team
+Ship: Thorax
+Weapon: Warp Disruptor I
+
+Name: Moh'shadeen
+Security: 5.0
+Alliance: The Forsaken Empire
+Corp: Penumbra Squadron
+Ship: Merlin
+Weapon: Upgraded 'Limos' Standard Missile Bay I
+
+Name: Gavroche
+Security: 1.3
+Alliance: The Five
+Corp: Delta team
+Ship: Succubus
+Weapon: Succubus
+
+
+Destroyed items:
+
+250mm Carbide Railgun I
+Antimatter Charge M, Qty: 35
+Scourge Heavy Missile, Qty: 81
+Heavy Missile Launcher I
+Heat Dissipation Amplifier I
+Warp Core Stabilizer I
+Ballistic Control System I
+

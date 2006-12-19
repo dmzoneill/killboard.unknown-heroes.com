@@ -1,0 +1,40 @@
+2006.11.05 22:09
+
+Victim: Dog Cancer
+Alliance: Freelancer Alliance
+Corp: BGG
+Destroyed: Buzzard
+System: Haajinen
+Security: 0.8
+
+Involved parties:
+
+Name: Jambo
+Security: -2.0
+Alliance: None
+Corp: The Initiative
+Ship: Vengeance
+Weapon: Vengeance
+
+Name: spirea (laid the final blow)
+Security: 4.9
+Alliance: None
+Corp: The Initiative
+Ship: Apocalypse
+Weapon: Tachyon Beam Laser II
+
+Name: KRULLEN Binazeski
+Security: 4.9
+Alliance: None
+Corp: The Initiative
+Ship: Apocalypse
+Weapon: Apocalypse
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 50
+Standard Missile Launcher II
+Small Ld-Acid Capacitor Battery I
+Piranha Precision Light Missile, Qty: 866 (Cargo)
+

@@ -1,0 +1,58 @@
+2007.05.06 00:16
+
+Victim: ZeroGrav
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Flycatcher
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Vazsholik (laid the final blow)
+Security: 1.1
+Alliance: The Foundation.
+Corp: NorCorp Security
+Ship: Raven
+Weapon: Wrath Cruise Missile
+
+Name: Haka Aragon
+Security: 3.5
+Alliance: Sparta Alliance
+Corp: XERCORE
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Skittish
+Security: 0.7
+Alliance: Sparta Alliance
+Corp: Synergy Evolved
+Ship: Cormorant
+Weapon: 150mm Railgun II
+
+Name: Mocuker1
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Crow
+Weapon: Crow
+
+Name: sako1963
+Security: 5.0
+Alliance: The Foundation.
+Corp: NorCorp Security
+Ship: Rokh
+Weapon: Cruise Missile Launcher I
+
+Name: haz zard
+Security: -2.3
+Alliance: The Foundation.
+Corp: Cornerstone Unlimited
+Ship: Ares
+Weapon: Stasis Webifier I
+
+
+Destroyed items:
+
+Standard Missile Launcher II
+

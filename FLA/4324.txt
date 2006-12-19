@@ -1,0 +1,34 @@
+2007.04.08 03:12
+
+Victim: Salarc
+Alliance: Freelancer Alliance
+Corp: ACCORD Industries
+Destroyed: Vigil
+System: F7C-H0
+Security: 0.0
+
+Involved parties:
+
+Name: sliver 0xD (laid the final blow)
+Security: -2.6
+Alliance: YouWhat
+Corp: Infinite Style Incorporated
+Ship: Flycatcher
+Weapon: Bloodclaw Light Missile
+
+Name: methodmo
+Security: -3.8
+Alliance: YouWhat
+Corp: Free Lapland
+Ship: Vexor
+Weapon: Vexor
+
+
+Destroyed items:
+
+Small Tractor Beam I
+Cold-Gas I Arcjet Thrusters
+Inertia Stabilizers I
+Inertia Stabilizers I
+Eutectic I Capacitor Charge Array (Cargo)
+

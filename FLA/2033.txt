@@ -1,0 +1,34 @@
+2007.01.19 00:37
+
+Victim: CENTUREAN
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Destroyed: Thorax
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Dr Wahoos
+Security: -4.2
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Dominix
+Weapon: Ogre I
+
+Name: simcor (laid the final blow)
+Security: -1.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Dominix
+Weapon: Berserker II
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Heavy Neutron Blaster I
+Heavy Neutron Blaster I
+Heavy Neutron Blaster I
+Vespa I, Qty: 2 (Drone Bay)
+

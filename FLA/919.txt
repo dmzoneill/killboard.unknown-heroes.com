@@ -1,0 +1,40 @@
+2007.02.26 23:10
+
+Victim: Devilspirit
+Alliance: None
+Corp: Republic Military School
+Destroyed: Gallente Shuttle
+System: F7C-H0
+Security: 0.0
+
+Involved parties:
+
+Name: 1Of9 (laid the final blow)
+Security: 5.1
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Praetorian Mardou
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Wodanonline
+Security: 5.0
+Alliance: YouWhat
+Corp: Pringles Inc.
+Ship: Sacrilege
+Weapon: Heavy Beam Laser II
+
+Name: Magnelien
+Security: 5.0
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Crow
+Weapon: Small Diminishing Power System Drain I
+
+

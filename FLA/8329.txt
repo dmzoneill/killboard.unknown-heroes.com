@@ -1,0 +1,40 @@
+2006.11.09 00:08
+
+Victim: Sandy Stormwolf
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Ferox
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: taylor04 (laid the final blow)
+Security: -1.9
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+
+Destroyed items:
+
+150mm 'Scout' I Accelerator Cannon
+125mm Compressed Coil Gun I
+Iridium Charge S, Qty: 44
+Bloodclaw Light Missile, Qty: 63
+Sabretooth Light Missile, Qty: 42
+'Malkuth' Standard Missile Launcher I
+'Malkuth' Assault Missile Launcher I
+Small Shield Extender I
+Warp Disruptor I
+Small Armor Repairer I
+Energized Basic Reactive Plating
+50mm Reinforced Titanium Plates I
+Antimatter Charge S, Qty: 10000 (Cargo)
+Iridium Charge S, Qty: 2794 (Cargo)
+Sabretooth Light Missile, Qty: 183 (Cargo)
+Bloodclaw Light Missile, Qty: 100 (Cargo)
+Exterminator F.O.F. Light Missile I, Qty: 137 (Cargo)
+Acolyte I (Drone Bay)
+

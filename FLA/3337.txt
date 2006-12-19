@@ -1,0 +1,46 @@
+2007.03.23 21:50
+
+Victim: Weeble Wooble
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Destroyed: Eris
+System: O-ZXUV
+Security: 0.0
+
+Involved parties:
+
+Name: hezitationkillz (laid the final blow)
+Security: -1.4
+Alliance: Eternal Rapture
+Corp: Temptation inc.
+Ship: Retribution
+Weapon: Medium Pulse Laser II
+
+Name: C Duggan
+Security: -4.4
+Alliance: Eternal Rapture
+Corp: Exotic Dancers Club
+Ship: Lachesis
+Weapon: Indirect Scanning Dampening Unit I
+
+
+Destroyed items:
+
+150mm Railgun II
+150mm Railgun II
+Javelin S, Qty: 22
+Warp Disrupt Probe
+Warp Disrupt Probe
+Warp Disrupt Probe
+Warp Disrupt Probe
+Warp Disrupt Probe
+Warp Disrupt Probe
+Warp Disrupt Probe
+Interdiction Sphere Launcher I
+Eutectic I Capacitor Charge Array
+Small Armor Repairer II
+Inertia Stabilizers I
+Javelin S, Qty: 258 (Cargo)
+Spike S, Qty: 647 (Cargo)
+Warp Disrupt Probe, Qty: 23 (Cargo)
+

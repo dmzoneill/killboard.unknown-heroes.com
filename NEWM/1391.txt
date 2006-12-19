@@ -1,0 +1,48 @@
+2007.03.12 09:11
+
+Victim: bloodclaw vampire
+Alliance: YouWhat
+Corp: Pringles Inc.
+Destroyed: Kestrel
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Nukuquqa Hestase (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: Imaginary Number
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Prophecy
+Weapon: Hornet I
+
+Name: Cockroach
+Security: 4.8
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Apocalypse
+Weapon: Tachyon Beam Laser II
+
+Name: Slinktress
+Security: 2.8
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Megathron
+Weapon: Dual Heavy Beam Laser I
+
+
+Destroyed items:
+
+Piranha Light Missile, Qty: 111
+1MN Afterburner I
+Faint Warp Prohibitor I
+Nanofiber Internal Structure I
+Nanofiber Internal Structure I
+

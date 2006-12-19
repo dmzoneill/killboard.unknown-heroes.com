@@ -1,0 +1,33 @@
+2006.12.27 06:30
+
+Victim: Ithalia Temper
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Capsule
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Elliott Manchild (laid the final blow)
+Security: -2.0
+Alliance: None
+Corp: omen.
+Ship: Claw
+Weapon: 150mm Light AutoCannon II
+
+Name: Moandor
+Security: -2.2
+Alliance: None
+Corp: omen.
+Ship: Raptor
+Weapon: Standard Missile Launcher I
+
+Name: Kalathmir
+Security: -1.3
+Alliance: None
+Corp: omen.
+Ship: Crusader
+Weapon: Warp Disruptor I
+
+

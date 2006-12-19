@@ -1,0 +1,33 @@
+2007.03.09 14:21
+
+Victim: Diego Barbera
+Alliance: YouWhat
+Corp: Princeps Corp
+Destroyed: Capsule
+System: XZH-4X
+Security: 0.0
+
+Involved parties:
+
+Name: Jonas123 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Ferox
+Weapon: 250mm Compressed Coil Gun I
+
+Name: Vanst Keal
+Security: 1.8
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Cormorant
+Weapon: 125mm Railgun I
+
+Name: Lesch Nyhan
+Security: 0.1
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Incursus
+Weapon: Incursus
+
+

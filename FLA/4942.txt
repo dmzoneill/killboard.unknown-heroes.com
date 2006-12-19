@@ -1,0 +1,35 @@
+2007.04.20 06:01
+
+Victim: Aridante Lemure
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Destroyed: Jaguar
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Sith Bandon
+Security: 5.0
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Arazu
+Weapon: Domination Warp Scrambler
+
+Name: Yushii (laid the final blow)
+Security: -0.5
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+
+Destroyed items:
+
+250mm Light Artillery Cannon II
+250mm Light Artillery Cannon II
+Tremor S, Qty: 10
+Sensor Booster II
+Gyrostabilizer II
+Hail S, Qty: 1000 (Cargo)
+

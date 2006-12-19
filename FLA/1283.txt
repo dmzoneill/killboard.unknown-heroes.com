@@ -1,0 +1,40 @@
+2007.03.10 04:00
+
+Victim: Frank Moss
+Alliance: Lotka Volterra
+Corp: Shinra
+Destroyed: Abaddon
+System: G8AD-C
+Security: 0.0
+
+Involved parties:
+
+Name: Vel'Kethor (laid the final blow)
+Security: 1.7
+Alliance: DeStInY.
+Corp: House Of Aaron
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Commander XXX
+Security: 5.0
+Alliance: DeStInY.
+Corp: The Knights Of Camelot
+Ship: Dominix
+Weapon: Ogre I
+
+Name: kakakarr
+Security: 1.7
+Alliance: DeStInY.
+Corp: The Knights Of Camelot
+Ship: Dominix
+Weapon: Ogre I
+
+Name: Downeaster
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Brutix
+Weapon: Acolyte I
+
+

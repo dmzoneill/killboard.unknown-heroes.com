@@ -1,0 +1,42 @@
+2007.04.28 12:30
+
+Victim: Ralin Bek
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Rifter
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: FlobbMkII (laid the final blow)
+Security: 4.4
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Eris
+Weapon: Hobgoblin II
+
+Name: Nukuquqa Hestase
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Crow
+Weapon: Upgraded 'Limos' Standard Missile Bay I
+
+Name: Bobby Atlas
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Celestis
+Weapon: Kapteyn Sensor Array Inhibitor I
+
+
+Destroyed items:
+
+Fusion S, Qty: 88
+Foxfire Rocket, Qty: 38
+'Malkuth' Rocket Launcher I
+Warp Disruptor I
+Inertia Stabilizers I, Qty: 2
+Fusion S, Qty: 677 (Cargo)
+Thorn Rocket, Qty: 35 (Cargo)

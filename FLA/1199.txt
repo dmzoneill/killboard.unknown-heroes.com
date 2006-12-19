@@ -1,0 +1,64 @@
+2007.03.08 18:24
+
+Victim: Xoduse
+Alliance: YouWhat
+Corp: Beasts of Burden
+Destroyed: Catalyst
+System: XZH-4X
+Security: 0.0
+
+Involved parties:
+
+Name: Zorlag (laid the final blow)
+Security: 2.8
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Rupture
+Weapon: Thunderbolt Heavy Missile
+
+Name: Raivin
+Security: 3.0
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Harbinger
+Weapon: Warp Disruptor I
+
+Name: Jonas123
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Ferox
+Weapon: 'Arbalest' Assault Missile Launcher
+
+Name: Magere
+Security: 3.0
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Thorax
+Weapon: 250mm Compressed Coil Gun I
+
+Name: deadtear
+Security: 4.7
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Brutix
+Weapon: Heavy Ion Blaster I
+
+Name: Zuki Ed
+Security: 5.0
+Alliance: Prime Orbital Systems
+Corp: Quantum Industries
+Ship: Maulus
+Weapon: 125mm Railgun II
+
+
+Destroyed items:
+
+Regulated Light Neutron Phase Cannon I
+Regulated Light Neutron Phase Cannon I
+Limited Light Neutron Blaster I
+Light Ion Blaster I
+Antimatter Charge S, Qty: 355
+1MN Afterburner I (Cargo)
+Remote Sensor Booster I (Cargo)
+

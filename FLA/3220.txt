@@ -1,0 +1,36 @@
+2007.03.21 10:06
+
+Victim: Jet Sulu
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Blackbird
+System: H1-J33
+Security: 0.0
+
+Involved parties:
+
+Name: Jurushy (laid the final blow)
+Security: 4.9
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Hurricane
+Weapon: 425mm AutoCannon II
+
+Name: Gordon Red
+Security: 2.0
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Heretic
+Weapon: Sabretooth Light Missile
+
+
+Destroyed items:
+
+Torrent Assault Missile, Qty: 258
+Invulnerability Field I
+Supplemental Scanning CPU I
+Magnetic Scattering Amplifier I
+Power Diagnostic System I
+Defender I, Qty: 149 (Cargo)
+Terror Assault Missile, Qty: 227 (Cargo)
+

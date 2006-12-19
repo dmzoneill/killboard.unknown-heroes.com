@@ -1,0 +1,37 @@
+2006.10.26 18:29
+
+Victim: jacass66
+Alliance: Freelancer Alliance
+Corp: BGG
+Destroyed: Cerberus
+System: Litiura
+Security: 0.5
+
+Involved parties:
+
+Name: vickers (laid the final blow)
+Security: -1.5
+Alliance: None
+Corp: Mentally Unstable Enterprises
+Ship: Deimos
+Weapon: Heavy Ion Blaster II
+
+Name: Ronnie Kray
+Security: -1.8
+Alliance: None
+Corp: Mentally Unstable Enterprises
+Ship: Deimos
+Weapon: Deimos
+
+
+Destroyed items:
+
+Heavy Missile Launcher II
+Scourge Precision Heavy Missile, Qty: 66
+Havoc Precision Heavy Missile, Qty: 33
+Photon Scattering Field II
+Ballistic Control System II
+Havoc Fury Heavy Missile, Qty: 1000 (Cargo)
+Havoc Precision Heavy Missile, Qty: 1206 (Cargo)
+Thunderbolt Precision Heavy Missile, Qty: 255 (Cargo)
+

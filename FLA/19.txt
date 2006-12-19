@@ -1,0 +1,67 @@
+2007.01.01 16:51
+
+Victim: Drakin Korin
+Alliance: None
+Corp: Evil Bandit Organisation
+Destroyed: Lachesis
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Cat1977
+Security: 4.7
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Megathron
+Weapon: Megathron
+
+Name: Iulian1977
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Armageddon
+Weapon: Mega Beam Laser II
+
+Name: wrecker300
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Scorpion
+Weapon: Shock 'Limos' Siege Missile Bay I
+
+Name: Mocuker (laid the final blow)
+Security: 0.8
+Alliance: Freelancer Alliance
+Corp: X.T.R
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+Name: Goca
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Blackbird
+Weapon: Infiltrator I
+
+Name: Demarcus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Crow
+Weapon: Sabretooth Light Missile
+
+
+Destroyed items:
+
+Lead Charge M, Qty: 40
+Widowmaker Heavy Missile, Qty: 66
+Advanced 'Limos' Heavy Missile Bay I
+10MN Afterburner II
+Fleeting Warp Scrambler I
+Sensor Booster II
+Medium Armor Repairer II
+Capacitor Power Relay I
+Scourge Heavy Missile, Qty: 1000 (Cargo)
+Thunderbolt Heavy Missile, Qty: 1000 (Cargo)
+

@@ -1,0 +1,98 @@
+2007.04.28 21:10
+
+Victim: Konson
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Retribution
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: ClogMan
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Wolf
+Weapon: Wolf
+
+Name: movy
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Thorax
+Weapon: Thorax
+
+Name: coldkill
+Security: 1.9
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Ishkur
+Weapon: Hammerhead II
+
+Name: Kayron Brennan (laid the final blow)
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Dark Carnage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Crow
+Weapon: Sabretooth Precision Light Missile
+
+Name: Skull Fire
+Security: 0.8
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Blackbird
+Weapon: Bloodclaw Light Missile
+
+Name: Corovus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Incursus
+Weapon: Stasis Webifier I
+
+Name: Antigen Po
+Security: 4.5
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Celestis
+Weapon: Remote Sensor Dampener I
+
+Name: wardey
+Security: 1.9
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Punisher
+Weapon: Small Nosferatu I
+
+Name: Stitcher
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: J.I.T. Enterprises
+Ship: Hawk
+Weapon: Standard Missile Launcher II
+
+
+Destroyed items:
+
+Gatling Pulse Laser II
+Scorch S
+Scorch S
+Scorch S
+Scorch S
+1MN MicroWarpdrive II
+Small Armor Repairer II
+Multifrequency S, Qty: 4 (Cargo)
+Radio S, Qty: 4 (Cargo)
+Xray S, Qty: 4 (Cargo)
+Ultraviolet S, Qty: 2 (Cargo)
+Gamma S, Qty: 4 (Cargo)
+Conflagration S (Cargo)
+

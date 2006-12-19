@@ -1,0 +1,33 @@
+2006.11.07 09:04
+
+Victim: EVE History
+Alliance: None
+Corp: State War Academy
+Destroyed: Amarr Shuttle
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Ian Storme
+Security: 2.9
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Ship: Ferox
+Weapon: XR-3200 Heavy Missile Bay
+
+Name: Formosus Funus
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: Simon Monkoto (laid the final blow)
+Security: -0.9
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+

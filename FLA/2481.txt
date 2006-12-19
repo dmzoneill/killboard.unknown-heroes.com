@@ -1,0 +1,80 @@
+2007.02.14 23:10
+
+Victim: Kerdrak
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Destroyed: Curse
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: John Rackham
+Security: 3.1
+Alliance: None
+Corp: Princeps Corp
+Ship: Drake
+Weapon: Hornet II
+
+Name: stich626
+Security: -1.5
+Alliance: None
+Corp: Princeps Corp
+Ship: Thorax
+Weapon: Hammerhead I
+
+Name: AsesinoReal
+Security: 3.0
+Alliance: None
+Corp: Princeps Corp
+Ship: Celestis
+Weapon: Remote Sensor Dampener I
+
+Name: Deep Moondark (laid the final blow)
+Security: 1.2
+Alliance: None
+Corp: Princeps Corp
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Himphotep 87
+Security: -0.8
+Alliance: None
+Corp: Princeps Corp
+Ship: Thorax
+Weapon: Heavy Ion Blaster II
+
+Name: Edone
+Security: 0.8
+Alliance: None
+Corp: Princeps Corp
+Ship: Rook
+Weapon: Enfeebling Phase Inversion ECM I
+
+Name: Diego Barbera
+Security: -1.7
+Alliance: None
+Corp: Princeps Corp
+Ship: Thorax
+Weapon: X5 Prototype I Engine Enervator
+
+
+Destroyed items:
+
+Medium 'Knave' I Energy Drain
+E50 Prototype Energy Vampire
+Prototype Cloaking Device I
+Y-T8 Overcharged Hydrocarbon I Microwarpdrive
+Fleeting Warp Scrambler I
+X5 Prototype I Engine Enervator
+Low Frequency Sensor Suppressor I
+Supplemental Scanning CPU I
+Medium Armor Repairer II
+Mark I Modified SS Inertial Stabilizers
+Plutonium Charge S, Qty: 80 (Cargo)
+Auto Targeting System I (Cargo)
+Hammerhead I, Qty: 2 (Cargo)
+XT-9000 Cruise Launcher (Cargo)
+Hornet I (Drone Bay)
+Vespa I (Drone Bay)
+

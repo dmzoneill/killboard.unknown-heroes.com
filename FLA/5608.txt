@@ -1,0 +1,30 @@
+2006.10.08 19:43
+
+Victim: Morfane
+Alliance: None
+Corp: Privateers
+Destroyed: Taranis
+System: Sivala
+Security: 0.6
+
+Involved parties:
+
+Name: Mocuker (laid the final blow)
+Security: 0.1
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Raven
+Weapon: Hobgoblin I
+
+
+Destroyed items:
+
+Small Nosferatu I
+Light Neutron Blaster II
+Void S, Qty: 93
+1MN MicroWarpdrive I
+Small Armor Repairer II
+Micro Auxiliary Power Core I
+Void S, Qty: 374 (Cargo)
+Hornet EC-300 (Drone Bay)
+

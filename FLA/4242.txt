@@ -1,0 +1,162 @@
+2007.04.05 00:40
+
+Victim: RayTruz
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Raven
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Joshua Foiritain (laid the final blow)
+Security: -1.7
+Alliance: Corelum Syndicate
+Corp: Coreli Corporation
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: DeathGrip
+Security: 3.6
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Hawk
+Weapon: Thorn Javelin Rocket
+
+Name: Quegan
+Security: 1.1
+Alliance: Xelas Alliance
+Corp: Setenta Corp
+Ship: Stabber
+Weapon: Stabber
+
+Name: androsix
+Security: 4.7
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Pilgrim
+Weapon: Valkyrie II
+
+Name: DrZukes
+Security: 5.0
+Alliance: Xelas Alliance
+Corp: Setenta Corp
+Ship: Thorax
+Weapon: Thorax
+
+Name: Hunter Vonnegut
+Security: 5.0
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Ishkur
+Weapon: Hobgoblin II
+
+Name: e3joker
+Security: 4.0
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Harpy
+Weapon: Harpy
+
+Name: Cyan Nuevo
+Security: 1.3
+Alliance: Xelas Alliance
+Corp: Bravehearts
+Ship: Maller
+Weapon: Medium Nosferatu I
+
+Name: El Coyote
+Security: 3.8
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Drake
+Weapon: Havoc Heavy Missile
+
+Name: Dia Spora
+Security: 0.9
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Ishkur
+Weapon: Hobgoblin II
+
+Name: doc627
+Security: 5.0
+Alliance: Axiom Empire
+Corp: United Society Starfleet
+Ship: Harpy
+Weapon: Harpy
+
+Name: EVIL SYNNs
+Security: 0.0
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Wolf
+Weapon: Wolf
+
+Name: Richard Biegewald
+Security: 5.0
+Alliance: Axiom Empire
+Corp: United Society Starfleet
+Ship: Wolf
+Weapon: Wolf
+
+Name: Lady Vanquish
+Security: 3.9
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Claw
+Weapon: Claw
+
+Name: Queww
+Security: 5.0
+Alliance: Axiom Empire
+Corp: United Society Starfleet
+Ship: Lachesis
+Weapon: Lachesis
+
+Name: david23
+Security: 5.0
+Alliance: Xelas Alliance
+Corp: Requiem of Hades
+Ship: Hawk
+Weapon: Bloodclaw Light Missile
+
+Name: merckiller
+Security: 1.2
+Alliance: Xelas Alliance
+Corp: Requiem of Hades
+Ship: Crusader
+Weapon: Crusader
+
+Name: MsMephistopheles
+Security: 2.3
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Ishkur
+Weapon: Hobgoblin II
+
+Name: Bedrock
+Security: 0.0
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Huginn
+Weapon: 425mm AutoCannon II
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Juggernaut Torpedo, Qty: 70
+'Malkuth' Siege Missile Launcher I
+'Malkuth' Siege Missile Launcher I
+'Malkuth' Siege Missile Launcher I
+X-Large C5-L Emergency Shield Overload I
+Ballistic Deflection Field II
+Photon Scattering Field II
+Heat Dissipation Field II
+Shield Boost Amplifier I
+Co-Processor I
+Ballistic Control System I
+Ballistic Control System II
+Mjolnir Torpedo, Qty: 30 (Cargo)
+

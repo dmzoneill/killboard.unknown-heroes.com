@@ -1,0 +1,28 @@
+2006.12.12 21:46
+
+Victim: llamedos
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Destroyed: Kestrel
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Elliott Manchild (laid the final blow)
+Security: -1.5
+Alliance: None
+Corp: omen.
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+
+Destroyed items:
+
+Foxfire Rocket, Qty: 24
+OE-5200 Rocket Launcher
+OE-5200 Rocket Launcher
+J5b Phased Prototype Warp Inhibitor I
+Gremlin Rocket, Qty: 170 (Cargo)
+Phalanx Rocket, Qty: 170 (Cargo)
+

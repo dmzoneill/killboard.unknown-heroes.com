@@ -1,0 +1,26 @@
+2007.02.11 23:27
+
+Victim: Aspi Rene
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Capsule
+System: J-TPTA
+Security: 0.0
+
+Involved parties:
+
+Name: VADIUS (laid the final blow)
+Security: 5.0
+Alliance: Stain Empire
+Corp: Xenobytes
+Ship: Zealot
+Weapon: Heavy Pulse Laser II
+
+Name: BlackDeath75
+Security: 1.5
+Alliance: Stain Empire
+Corp: Xenobytes
+Ship: Stiletto
+Weapon: Stiletto
+
+

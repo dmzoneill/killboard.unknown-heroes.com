@@ -1,0 +1,142 @@
+2007.04.16 02:20
+
+Victim: Gerald Osikawa
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Caracal
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: alon blackhelm
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Thorax
+Weapon: Thorax
+
+Name: Korudon
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Thorax
+Weapon: Hammerhead I
+
+Name: Tran Whistler
+Security: 5.3
+Alliance: Freelancer Alliance
+Corp: Harbingers of Sarrow
+Ship: Caracal
+Weapon: Bloodclaw Light Missile
+
+Name: Kayron Brennan
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Bullv3rsat
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Terminal Velocity Inc.
+Ship: Claw
+Weapon: Claw
+
+Name: Primaxin
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Harbingers of Sarrow
+Ship: Ferox
+Weapon: Terror Assault Missile
+
+Name: Frau Formaggio
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ishkur
+Weapon: Hobgoblin II
+
+Name: Kvarium Ki (laid the final blow)
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Ship: Arbitrator
+Weapon: 250mm Light Artillery Cannon I
+
+Name: sparkvolt
+Security: -0.7
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Rifter
+Weapon: Rifter
+
+Name: shadowxp99
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: Harbingers of Sarrow
+Ship: Caracal
+Weapon: Warrior I
+
+Name: Magic Mazuma
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Rifter
+Weapon: Rifter
+
+Name: sniper luke
+Security: 4.8
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Thorax
+Weapon: Thorax
+
+Name: dastommy79
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Thorax
+Weapon: Warp Disruptor I
+
+Name: Teck7
+Security: 1.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Thorax
+Weapon: Thorax
+
+Name: Recon Alpha
+Security: 3.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Caracal
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+Name: Chekoteh
+Security: 2.7
+Alliance: Freelancer Alliance
+Corp: United Forces
+Ship: Caracal
+Weapon: Warp Disruptor I
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 82
+Advanced 'Limos' Heavy Missile Bay I
+Heavy Missile Launcher I
+Medium Shield Booster II
+Photon Scattering Field I
+Ballistic Deflection Field II
+Explosion Dampening Field I
+Nanomechanical CPU Enhancer I
+Type-D Power Core Modification: Shield Flux
+Warp Disruptor I (Cargo)
+Medium Armor Repairer I (Cargo)
+Hammerhead I, Qty: 2 (Cargo)
+Hobgoblin II, Qty: 5 (Cargo)
+Hornet EC-300 (Cargo)
+Warrior II (Drone Bay)
+

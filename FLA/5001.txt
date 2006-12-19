@@ -1,0 +1,44 @@
+2007.04.21 00:53
+
+Victim: Bobby Atlas
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Thrasher
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Stradivarious (laid the final blow)
+Security: 3.8
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Savak
+Security: -0.2
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Apocalypse
+Weapon: Apocalypse
+
+Name: DarkVIper1
+Security: 1.2
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Rifter
+Weapon: 150mm Light Gallium I Machine Gun
+
+
+Destroyed items:
+
+250mm Light Artillery Cannon I
+250mm Light Artillery Cannon I
+Fusion S, Qty: 25
+Cap Recharger I
+1MN MicroWarpdrive I
+J5 Prototype Warp Inhibitor I
+Nanofiber Internal Structure I
+Fusion S, Qty: 1250 (Cargo)
+

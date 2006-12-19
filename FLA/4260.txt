@@ -1,0 +1,83 @@
+2007.04.05 15:31
+
+Victim: hydro2900
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Destroyed: Atron
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: DELXC (laid the final blow)
+Security: -1.9
+Alliance: Xelas Alliance
+Corp: Requiem of Hades
+Ship: Jaguar
+Weapon: 250mm Light Artillery Cannon II
+
+Name: david23
+Security: 5.0
+Alliance: Xelas Alliance
+Corp: Requiem of Hades
+Ship: Hawk
+Weapon: Bloodclaw Light Missile
+
+Name: Gibidin
+Security: 3.3
+Alliance: Xelas Alliance
+Corp: Requiem of Hades
+Ship: Ishkur
+Weapon: Hammerhead I
+
+Name: Hito Ming
+Security: 1.1
+Alliance: Xelas Alliance
+Corp: Requiem of Hades
+Ship: Taranis
+Weapon: Taranis
+
+Name: runers
+Security: 0.6
+Alliance: Xelas Alliance
+Corp: Requiem of Hades
+Ship: Eris
+Weapon: Eris
+
+Name: nray
+Security: 3.4
+Alliance: Xelas Alliance
+Corp: Requiem of Hades
+Ship: Raptor
+Weapon: Upgraded 'Limos' Standard Missile Bay I
+
+Name: Strelook
+Security: -0.8
+Alliance: Xelas Alliance
+Corp: Requiem of Hades
+Ship: Jaguar
+Weapon: Warp Disruptor I
+
+Name: Orel wrsic
+Security: 5.0
+Alliance: Xelas Alliance
+Corp: Requiem of Hades
+Ship: Griffin
+Weapon: Standard Missile Launcher I
+
+Name: MaxNet
+Security: 4.9
+Alliance: Xelas Alliance
+Corp: Requiem of Hades
+Ship: Claw
+Weapon: Claw
+
+
+Destroyed items:
+
+Light Neutron Blaster I
+Antimatter Charge S, Qty: 157
+Stasis Webifier I
+50mm Reinforced Nanofiber Plates I
+50mm Reinforced Nanofiber Plates I
+

@@ -1,0 +1,90 @@
+2006.12.11 02:20
+
+Victim: cptblood
+Alliance: None
+Corp: Exanimo Inc
+Destroyed: Tempest
+System: XQ-PXU
+Security: 0.0
+
+Involved parties:
+
+Name: Gamesguy
+Security: -0.1
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Renotz
+Security: 4.3
+Alliance: Schism.
+Corp: Fatalix Inc.
+Ship: Megathron
+Weapon: Hammerhead II
+
+Name: FrankieG
+Security: -0.5
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Claw
+Weapon: 150mm Light AutoCannon II
+
+Name: Vaan2
+Security: 5.0
+Alliance: Schism.
+Corp: Fatalix Inc.
+Ship: Raptor
+Weapon: 'Arbalest' Standard Missile Launcher
+
+Name: Malkius
+Security: 1.8
+Alliance: Forces of Freedom
+Corp: JUDGE DREAD Inc.
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+Name: wessam
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Crow
+Weapon: 'Arbalest' Standard Missile Launcher
+
+Name: Chuck Dawg (laid the final blow)
+Security: 0.3
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Olev
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Vagabond
+Weapon: Warrior II
+
+Name: Jin Steele
+Security: 4.6
+Alliance: Schism.
+Corp: Fatalix Inc.
+Ship: Crow
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+
+Destroyed items:
+
+1400mm Howitzer Artillery II
+EMP L
+EMP L
+EMP L
+EMP L
+EMP L
+Assault Missile Launcher II
+Sabretooth Precision Light Missile, Qty: 138
+Kapteyn Sensor Array Inhibitor I
+Sensor Booster II
+Large Armor Repairer II
+Armor Kinetic Hardener II
+

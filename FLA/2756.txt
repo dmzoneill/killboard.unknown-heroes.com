@@ -1,0 +1,51 @@
+2007.03.05 14:09
+
+Victim: britishfish
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Destroyed: Maelstrom
+System: Orvolle
+Security: 0.7
+
+Involved parties:
+
+Name: Alexie Stukov (laid the final blow)
+Security: 1.9
+Alliance: Privateer Alliance
+Corp: Yakuza Corp
+Ship: Armageddon
+Weapon: Dual Heavy Pulse Laser II
+
+Name: gorak cz
+Security: 5.0
+Alliance: Privateer Alliance
+Corp: 47R
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: JVol
+Security: -1.3
+Alliance: Privateer Alliance
+Corp: The IMorral MAjority
+Ship: Lachesis
+Weapon: Lachesis
+
+
+Destroyed items:
+
+Dual 650mm Gallium I Repeating Cannon
+Dual 650mm Gallium I Repeating Cannon
+Dual 650mm Gallium I Repeating Cannon
+Dual 650mm Gallium I Repeating Cannon
+E500 Prototype Energy Vampire
+Proton L, Qty: 102
+X-Large C5-L Emergency Shield Overload I
+Heavy Capacitor Booster II
+Invulnerability Field I
+Gyrostabilizer II
+Gyrostabilizer II
+Fusion L, Qty: 1682 (Cargo)
+Proton L, Qty: 1601 (Cargo)
+Cap Booster 800, Qty: 10 (Cargo)
+Valkyrie II, Qty: 5 (Drone Bay)
+

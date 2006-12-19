@@ -1,0 +1,54 @@
+2006.12.21 21:17
+
+Victim: Kryton55
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Capsule
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: boo3916
+Security: 4.4
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: WarGod (laid the final blow)
+Security: -1.7
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Curse
+Weapon: Praetor II
+
+Name: Phrixus Zephyr
+Security: 5.0
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Taranis
+Weapon: Taranis
+
+Name: john taylor2
+Security: 3.7
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Vexor
+Weapon: Medium Nosferatu I
+
+Name: Darknesss
+Security: -1.2
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Ares
+Weapon: 150mm Railgun II
+
+Name: ArchenTheGreat
+Security: -1.9
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Arazu
+Weapon: Arazu
+
+

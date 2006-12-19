@@ -1,0 +1,38 @@
+2007.01.08 00:36
+
+Victim: Elgcaress
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Destroyed: Vexor
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Heinky
+Security: 2.7
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Abaddon
+Weapon: Tachyon Beam Laser II
+
+Name: Arnold Swartzenegger (laid the final blow)
+Security: -0.2
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+
+Destroyed items:
+
+Dual 150mm Compressed Coil Gun I
+Dual 150mm Compressed Coil Gun I
+Dual 150mm Carbide Railgun I
+Lead Charge M, Qty: 320
+Cap Booster 800
+Medium Automated I Carapace Restoration
+Lead Charge M, Qty: 610 (Cargo)
+Cap Booster 800, Qty: 12 (Cargo)
+Warrior I (Drone Bay)
+

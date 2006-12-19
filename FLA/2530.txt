@@ -1,0 +1,33 @@
+2007.02.18 22:41
+
+Victim: SFTI
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Capsule
+System: MHC-R3
+Security: 0.0
+
+Involved parties:
+
+Name: Adril Alatar (laid the final blow)
+Security: 5.0
+Alliance: HUZZAH FEDERATION
+Corp: Galactic Shipyards Inc
+Ship: Sabre
+Weapon: 125mm Gatling AutoCannon II
+
+Name: crackhour
+Security: -1.4
+Alliance: HUZZAH FEDERATION
+Corp: Galactic Shipyards Inc
+Ship: Huginn
+Weapon: Heavy Missile Launcher II
+
+Name: LT PitBull
+Security: 5.0
+Alliance: HUZZAH FEDERATION
+Corp: Galactic Shipyards Inc
+Ship: Taranis
+Weapon: Taranis
+
+

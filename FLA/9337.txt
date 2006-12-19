@@ -1,0 +1,86 @@
+2007.05.07 22:38
+
+Victim: stich626
+Alliance: YouWhat
+Corp: Princeps Corp
+Destroyed: Myrmidon
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Xpod85
+Security: 0.3
+Alliance: The Foundation.
+Corp: NorCorp Security
+Ship: Abaddon
+Weapon: Abaddon
+
+Name: Mocuker
+Security: 0.2
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+Name: Stitcher
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Raven
+Weapon: Inferno Torpedo
+
+Name: duece duece
+Security: 5.0
+Alliance: The Foundation.
+Corp: NorCorp Security
+Ship: Dominix
+Weapon: Dominix
+
+Name: coldkill
+Security: 1.9
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Nemesis
+Weapon: Paradise Cruise Missile
+
+Name: haz zard
+Security: -2.3
+Alliance: The Foundation.
+Corp: Cornerstone Unlimited
+Ship: Ishkur
+Weapon: Acolyte II
+
+Name: KaKaShI
+Security: 4.2
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Apocalypse
+Weapon: Apocalypse
+
+Name: Argentus Orsus (laid the final blow)
+Security: 2.4
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Malediction
+Weapon: Piranha Light Missile
+
+
+Destroyed items:
+
+Medium Nosferatu II
+Medium 'Ghoul' Energy Siphon I
+Heavy Electron Blaster II
+Void M, Qty: 164
+10MN MicroWarpdrive I
+Warp Disruptor II
+X5 Prototype I Engine Enervator
+Medium Capacitor Booster II
+Cap Booster 800
+Damage Control II
+Medium Armor Repairer II
+N-Type Explosive Hardener I
+N-Type Kinetic Hardener I
+N-Type Thermic Hardener I
+Void M, Qty: 1919 (Cargo)
+

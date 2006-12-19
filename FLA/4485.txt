@@ -1,0 +1,65 @@
+2007.04.11 13:27
+
+Victim: Rohan V
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Cormorant
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: volly
+Security: 3.7
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Curse
+Weapon: Hammerhead II
+
+Name: The Ali
+Security: -3.2
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Gordon Red (laid the final blow)
+Security: 2.1
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Heretic
+Weapon: Sabretooth Light Missile
+
+Name: Frostbeule
+Security: 3.4
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Sabre
+Weapon: Sabre
+
+Name: Sivona
+Security: -1.1
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Eos
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: Amok'Trueborn' Pryde
+Security: -1.5
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Huginn
+Weapon: Fleeting Propulsion Inhibitor I
+
+
+Destroyed items:
+
+150mm Railgun I
+150mm Railgun I
+150mm Railgun I
+75mm Compressed Coil Gun I
+Antimatter Charge S, Qty: 40
+Small Supplemental Barrier Emitter I
+Small Shield Booster I
+Warp Disruptor I
+

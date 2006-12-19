@@ -1,0 +1,19 @@
+2006.10.09 05:09
+
+Victim: MadCat2
+Alliance: Freelancer Alliance
+Corp: X.T.R
+Destroyed: Impairor
+System: Yoma
+Security: 0.6
+
+Involved parties:
+
+Name: Surreptitious (laid the final blow)
+Security: 0.0
+Alliance: None
+Corp: Privateers
+Ship: Crow
+Weapon: Thorn Rocket
+
+

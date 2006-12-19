@@ -1,0 +1,35 @@
+2006.09.26 00:27
+
+Victim: Rikki Retardo
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Destroyed: Punisher
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Tomic
+Security: 5.0
+Alliance: Ascendant Frontier
+Corp: Celestial Fleet
+Ship: Flycatcher
+Weapon: Piranha Light Missile
+
+Name: MIGHTYDWC (laid the final blow)
+Security: 5.0
+Alliance: Ascendant Frontier
+Corp: Sha Kharn Corp
+Ship: Taranis
+Weapon: 125mm Railgun II
+
+
+Destroyed items:
+
+Dual Modal Light Laser I
+Small 'Knave' I Energy Drain
+Infrared S
+Cold-Gas I Arcjet Thrusters
+Small I-a Polarized Armor Regenerator
+Energized Adaptive Nano Membrane I
+

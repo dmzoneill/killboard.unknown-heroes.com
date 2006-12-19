@@ -1,0 +1,28 @@
+2006.10.08 21:27
+
+Victim: StarM0nkey
+Alliance: Freelancer Alliance
+Corp: X.T.R
+Destroyed: Iteron Mark III
+System: Algogille
+Security: 0.9
+
+Involved parties:
+
+Name: SLAPNUTZ (laid the final blow)
+Security: -1.8
+Alliance: None
+Corp: Privateers
+Ship: Jaguar
+Weapon: 250mm Light Artillery Cannon II
+
+
+Destroyed items:
+
+Small Tractor Beam I
+Small Shield Booster I
+Caldari Shuttle (Cargo)
+Giant Secure Container, Qty: 2 (Cargo)
+Omber, Qty: 4945 (Cargo)
+Silvery Omber, Qty: 2623 (Cargo)
+

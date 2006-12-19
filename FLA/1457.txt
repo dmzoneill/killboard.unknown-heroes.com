@@ -1,0 +1,45 @@
+2007.03.13 19:25
+
+Victim: Arkaiser
+Alliance: Privateer Alliance
+Corp: Beyond Divinity Inc
+Destroyed: Brutix
+System: Hek
+Security: 0.5
+
+Involved parties:
+
+Name: Voron Sternwolf (laid the final blow)
+Security: 5.0
+Alliance: Red Alliance
+Corp: Free Space Pilotsaka Banderlogs
+Ship: Hyperion
+Weapon: Neutron Blaster Cannon II
+
+Name: Alexxei
+Security: 5.0
+Alliance: Red Alliance
+Corp: Free Space Pilotsaka Banderlogs
+Ship: Abaddon
+Weapon: Abaddon
+
+Name: Tregaron
+Security: 2.0
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Cyclone
+Weapon: Valkyrie II
+
+
+Destroyed items:
+
+Heavy Neutron Blaster II
+Heavy Neutron Blaster II
+Void M, Qty: 346
+Prototype I Sensor Booster
+Prototype I Sensor Booster
+Damage Control I
+Tracking Enhancer II
+Magnetic Field Stabilizer II
+Magnetic Field Stabilizer II
+

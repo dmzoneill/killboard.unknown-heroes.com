@@ -1,0 +1,45 @@
+2007.02.05 19:53
+
+Victim: mrrabit
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Thrasher
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Nira Li (laid the final blow)
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Harbinger
+Weapon: Focused Medium Pulse Laser II
+
+Name: Ria Sotori
+Security: 3.9
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Rokh
+Weapon: 425mm Railgun II
+
+
+Destroyed items:
+
+280mm Howitzer Artillery I
+280mm Howitzer Artillery I
+280mm Howitzer Artillery I
+EMP S, Qty: 18
+Titanium Sabot S, Qty: 89
+Proton S, Qty: 14
+Bloodclaw Light Missile, Qty: 30
+1MN MicroWarpdrive I
+Sensor Booster I
+Beta Reactor Control: Reaction Control I
+Beta Reactor Control: Reaction Control I
+Corpse, Qty: 2 (Cargo)
+EMP S, Qty: 104 (Cargo)
+Phased Plasma S, Qty: 278 (Cargo)
+Proton S, Qty: 285 (Cargo)
+Hornet EC-300 (Cargo)
+

@@ -1,0 +1,61 @@
+2007.04.16 02:19
+
+Victim: Skull Fire
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Ferox
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: thedeadcows (laid the final blow)
+Security: 0.1
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Thanatos
+Weapon: Templar
+
+Name: Gerald Osikawa
+Security: 0.9
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Caracal
+Weapon: Templar
+
+Name: Fitz Farseer
+Security: 0.5
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Typhoon
+Weapon: Juggernaut Torpedo
+
+Name: Raffer Steele
+Security: 2.6
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Thanatos
+Weapon: Templar
+
+Name: Ghost Hughdidit
+Security: 3.1
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Thanatos
+Weapon: Einherji
+
+
+Destroyed items:
+
+250mm 'Scout' I Accelerator Cannon
+250mm 'Scout' I Accelerator Cannon
+250mm 'Scout' I Accelerator Cannon
+250mm 'Scout' I Accelerator Cannon
+Plutonium Charge M, Qty: 58
+Medium Azeotropic Ward Salubrity I
+10MN MicroWarpdrive I
+'Langour' Drive Disruptor I
+Mark I Generator Refitting: Diagnostic System
+Mark I Generator Refitting: Diagnostic System
+Plutonium Charge M, Qty: 2500 (Cargo)
+

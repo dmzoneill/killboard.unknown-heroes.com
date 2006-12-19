@@ -1,0 +1,88 @@
+2007.01.26 20:57
+
+Victim: Dax Traz
+Alliance: None
+Corp: Beagle Corp
+Destroyed: Taranis
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Praetorian Mardou (laid the final blow)
+Security: 4.5
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Hawk
+Weapon: Bloodclaw Light Missile
+
+Name: Hojo Norem
+Security: 3.2
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Ferox
+Weapon: Ferox
+
+Name: Shassandra
+Security: 4.5
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Taranis
+Weapon: Taranis
+
+Name: Akathrielah
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Drake
+Weapon: Terror Assault Missile
+
+Name: Nukuquqa Hestase
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Caracal
+Weapon: Thunderbolt Heavy Missile
+
+Name: deela
+Security: 0.6
+Alliance: Freelancer Alliance
+Corp: J.I.T. Enterprises
+Ship: Blackbird
+Weapon: Widowmaker Heavy Missile
+
+Name: Elgcaress
+Security: 3.5
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Celestis
+Weapon: Celestis
+
+Name: Sils wife
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Brutix
+Weapon: 200mm Railgun II
+
+Name: Rick A
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Blackbird
+Weapon: ECM - Multispectral Jammer I
+
+
+Destroyed items:
+
+Light Ion Blaster II
+Light Ion Blaster II
+Light Ion Blaster II
+Antimatter Charge S, Qty: 119
+'Langour' Drive Disruptor I
+Small 'Knave' I Energy Drain, Qty: 2 (Cargo)
+125mm 'Scout' I Accelerator Cannon (Cargo)
+Null S, Qty: 4880 (Cargo)
+XT-9000 Cruise Launcher, Qty: 3 (Cargo)
+Hobgoblin II (Drone Bay)
+

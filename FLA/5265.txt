@@ -1,0 +1,81 @@
+2007.04.29 09:16
+
+Victim: padshiiangel
+Alliance: Firmus Ixion
+Corp: Black Avatar
+Destroyed: Raven
+System: F7C-H0
+Security: 0.0
+
+Involved parties:
+
+Name: Calvin Andros
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Brutix
+Weapon: Heavy Neutron Blaster I
+
+Name: Draconian Arcane (laid the final blow)
+Security: -2.5
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Cyclone
+Weapon: 650mm Medium Gallium I Cannon
+
+Name: Anndy
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Crusader
+Weapon: Crusader
+
+Name: The Cade
+Security: 1.9
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Crow
+Weapon: Crow
+
+Name: Lizzon
+Security: 5.0
+Alliance: Guardian Federation
+Corp: KULT Production
+Ship: Lachesis
+Weapon: Lachesis
+
+Name: Beirut Papa
+Security: 2.6
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Scorpion
+Weapon: Cataclysm Cruise Missile
+
+Name: Lichtschnitzer
+Security: 1.2
+Alliance: Guardian Federation
+Corp: Deutsche Minen und Werke
+Ship: Myrmidon
+Weapon: 425mm Medium 'Scout' Autocannon I
+
+Name: Black DeathRain
+Security: 1.6
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Hawk
+Weapon: Standard Missile Launcher II
+
+
+Destroyed items:
+
+Siege Missile Launcher II
+Mjolnir Javelin Torpedo, Qty: 18
+Bane Javelin Torpedo, Qty: 18
+Quad LiF Fueled I Booster Rockets
+ECM - Multispectral Jammer II
+ECM - Multispectral Jammer II
+F85 Peripheral Damage System I
+Reactor Control Unit I
+Bane Javelin Torpedo, Qty: 1940 (Cargo)
+Mjolnir Javelin Torpedo, Qty: 1940 (Cargo)
+

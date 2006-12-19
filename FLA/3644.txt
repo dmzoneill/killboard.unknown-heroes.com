@@ -1,0 +1,63 @@
+2007.03.28 14:59
+
+Victim: TheSaF
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Destroyed: Blackbird
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: volly (laid the final blow)
+Security: 3.2
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Curse
+Weapon: Vespa II
+
+Name: WildCard
+Security: 4.3
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Vagabond
+Weapon: Dual 180mm AutoCannon II
+
+Name: Gordon Red
+Security: 2.0
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Heretic
+Weapon: Heretic
+
+Name: The Ali
+Security: -3.2
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Vagabond
+Weapon: Hobgoblin II
+
+Name: Tjakka
+Security: 0.5
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Ishtar
+Weapon: Berserker II
+
+Name: Sorju Mai
+Security: -0.3
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Lachesis
+Weapon: Remote Sensor Dampener II
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 28
+Advanced 'Limos' Heavy Missile Bay I
+Medium Peroxide I Capacitor Power Cell
+Compulsive Multispectral ECM I
+'Hypnos' Signal Distortion Amplifier I
+Scourge Heavy Missile, Qty: 1000 (Cargo)
+

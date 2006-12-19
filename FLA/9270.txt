@@ -1,0 +1,40 @@
+2007.05.05 19:22
+
+Victim: Quninella
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Destroyed: Capsule
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Bothius
+Security: 0.4
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Catalyst
+Weapon: 125mm 'Scout' I Accelerator Cannon
+
+Name: LeZip
+Security: 1.2
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Hawk
+Weapon: Bloodclaw Light Missile
+
+Name: Sebi Fal (laid the final blow)
+Security: -1.0
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Rifter
+Weapon: Sabretooth Light Missile
+
+Name: Elrid Barnes
+Security: 1.9
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Merlin
+Weapon: Standard Missile Launcher I
+
+

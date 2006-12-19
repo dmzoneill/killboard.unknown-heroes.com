@@ -1,0 +1,26 @@
+2007.03.31 01:31
+
+Victim: iwo Jiima
+Alliance: None
+Corp: Science and Trade Institute
+Destroyed: Caldari Shuttle
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Kulok
+Security: 5.0
+Alliance: O X I D E
+Corp: W33D Corp.
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: Untamed Fury (laid the final blow)
+Security: 1.1
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+

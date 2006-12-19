@@ -1,0 +1,33 @@
+2007.03.15 19:50
+
+Victim: Tellatubby
+Alliance: None
+Corp: The Descent
+Destroyed: Capsule
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Katsumi Ito (laid the final blow)
+Security: 0.1
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Tristan
+Weapon: Light Ion Blaster II
+
+Name: Burn Lump
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Drake
+Weapon: Bloodclaw Light Missile
+
+Name: Frau Formaggio
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Blackbird
+Weapon: Heavy Missile Launcher I
+
+

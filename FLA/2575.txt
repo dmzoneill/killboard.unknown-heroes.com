@@ -1,0 +1,33 @@
+2007.02.23 17:31
+
+Victim: Ghu'ru Talozan
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Capsule
+System: Sivala
+Security: 0.6
+
+Involved parties:
+
+Name: h4x0 (laid the final blow)
+Security: -1.8
+Alliance: Privateer Alliance
+Corp: The IMorral MAjority
+Ship: Malediction
+Weapon: Dual Light Pulse Laser II
+
+Name: McLiey
+Security: 2.5
+Alliance: Privateer Alliance
+Corp: Tempt Fate
+Ship: Taranis
+Weapon: 125mm Railgun II
+
+Name: Ninon Lanclos
+Security: 3.7
+Alliance: Privateer Alliance
+Corp: Tempt Fate
+Ship: Celestis
+Weapon: J5 Prototype Warp Inhibitor I
+
+

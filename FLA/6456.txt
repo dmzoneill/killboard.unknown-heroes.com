@@ -1,0 +1,42 @@
+2006.11.14 17:03
+
+Victim: Jarvis rodriguez
+Alliance: None
+Corp: GalacTECH Unlimited
+Destroyed: Cormorant
+System: Aunenen
+Security: 0.4
+
+Involved parties:
+
+Name: MAD D0G (laid the final blow)
+Security: -1.1
+Alliance: None
+Corp: Ganksters Paradise
+Ship: Raven
+Weapon: Bane Javelin Torpedo
+
+Name: jacass66
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Dominix
+Weapon: Bouncer I
+
+Name: Elfaen Ethenwe
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Raven
+Weapon: Siege Missile Launcher II
+
+
+Destroyed items:
+
+150mm Railgun I
+Tungsten Charge S, Qty: 120
+Cap Recharger I
+Cap Recharger I
+Shield Boost Amplifier I
+Defender I, Qty: 100 (Cargo)
+

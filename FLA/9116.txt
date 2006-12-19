@@ -1,0 +1,29 @@
+2006.12.30 15:52
+
+Victim: forever faithless
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Destroyed: Exequror
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: boo3916 (laid the final blow)
+Security: 4.4
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Dominix
+Weapon: Berserker II
+
+
+Destroyed items:
+
+Medium Energy Transfer Array I
+Medium Energy Transfer Array I
+Medium Graviton Smartbomb I
+Magnetic Scattering Amplifier I
+Shield Power Relay I
+Acolyte I (Drone Bay)
+Hammerhead I (Drone Bay)
+

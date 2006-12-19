@@ -1,0 +1,19 @@
+2007.03.24 23:19
+
+Victim: Skull Fire
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Capsule
+System: XZH-4X
+Security: 0.0
+
+Involved parties:
+
+Name: V2GBR (laid the final blow)
+Security: 5.0
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Ferox
+Weapon: 250mm Carbide Railgun I
+
+

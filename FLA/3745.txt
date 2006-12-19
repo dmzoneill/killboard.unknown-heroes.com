@@ -1,0 +1,33 @@
+2007.03.31 01:53
+
+Victim: ConXtionS
+Alliance: Freelancer Alliance
+Corp: The Night Crew
+Destroyed: Capsule
+System: P-2TTL
+Security: 0.0
+
+Involved parties:
+
+Name: Ferocious FeAr
+Security: 1.5
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+Name: Bl00Dzor (laid the final blow)
+Security: 1.5
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Tempest Fleet Issue
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Vily
+Security: 0.3
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Crow
+Weapon: Dark Blood Warp Disruptor
+
+

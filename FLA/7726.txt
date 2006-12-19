@@ -1,0 +1,28 @@
+2006.06.25 19:14
+
+Victim: Kismeteer
+Alliance: Freelancer Alliance
+Corp: BGG
+Destroyed: Celestis
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Chowdown (laid the final blow)
+Security: -0.8
+Alliance: Lotka Volterra
+Corp: Shinra
+Ship: Machariel
+Weapon: 1400mm Howitzer Artillery II
+
+
+Destroyed items:
+
+Multifrequency S
+Heavy Missile Launcher I
+10MN Afterburner I
+Warp Scrambler I
+'Langour' Drive Disruptor I
+Warp Core Stabilizer I
+

@@ -1,0 +1,59 @@
+2007.05.07 08:52
+
+Victim: Erik Morkai
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Rupture
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Cockroach
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Sacrilege
+Weapon: Eradicator F.O.F. Heavy Missile I
+
+Name: Mufeater
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Taranis
+Weapon: Taranis
+
+Name: MrMaggot
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Caracal
+Weapon: Flameburst Light Missile
+
+Name: Aridante Lemure
+Security: 1.2
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Thrasher
+Weapon: Thrasher
+
+Name: Nukuquqa Hestase (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Crow
+Weapon: Sabretooth Light Missile
+
+
+Destroyed items:
+
+220mm Medium Gallium I Machine Gun, Qty: 3
+Fusion M, Qty: 212
+Emergency Damage Control I
+Medium Armor Repairer II
+N-Type Thermic Hardener I
+N-Type Explosive Hardener I
+EMP M, Qty: 2000 (Cargo)
+Phased Plasma M, Qty: 1500 (Cargo)
+Hail M, Qty: 1000 (Cargo)
+Vespa EC-600, Qty: 3 (Drone Bay)

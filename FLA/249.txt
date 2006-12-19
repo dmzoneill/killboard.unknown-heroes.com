@@ -1,0 +1,33 @@
+2007.01.20 01:26
+
+Victim: boo3916
+Alliance: Triumvirate.
+Corp: D00M.
+Destroyed: Capsule
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Sils wife (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Brutix
+Weapon: 200mm Railgun II
+
+Name: Steven FSB
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Moa
+Weapon: 250mm 'Scout' I Accelerator Cannon
+
+Name: Indigo Callypso
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Crow
+Weapon: Fleeting Warp Scrambler I
+
+

@@ -1,0 +1,47 @@
+2007.05.25 18:17
+
+Victim: Prime Radius
+Alliance: None
+Corp: State War Academy
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Steven FSB
+Security: 3.5
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Harpy
+Weapon: Harpy
+
+Name: articz (laid the final blow)
+Security: -0.5
+Alliance: DeStInY.
+Corp: House Of Aaron
+Ship: Tempest
+Weapon: Dual 650mm 'Scout' Repeating Artillery I
+
+Name: wollykins2
+Security: 1.8
+Alliance: 3asy Company
+Corp: Welsh Commanders
+Ship: Hurricane
+Weapon: Dual 180mm Gallium I Machine Gun
+
+Name: Yesh
+Security: 2.7
+Alliance: The Fifth Race
+Corp: Antares Frontier
+Ship: Malediction
+Weapon: Malediction
+
+Name: Tushani
+Security: 1.1
+Alliance: None
+Corp: Kamikaze Inc.
+Ship: Sabre
+Weapon: 250mm Light Artillery Cannon II
+
+

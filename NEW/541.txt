@@ -1,0 +1,37 @@
+2007.04.14 21:50
+
+Victim: chris lares
+Alliance: FATAL Alliance
+Corp: Phantom Squad
+Destroyed: Raptor
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: alon blackhelm (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+Name: Burn Lump
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Raven
+Weapon: 'Arbalest' Siege Missile Launcher
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 46
+TE-2100 Standard Missile Bay, Qty: 2
+J5 Prototype Warp Inhibitor I
+Emergency Damage Control I
+Beta Hull Mod Overdrive Injector
+'Refuge' Adaptive Nano Plating I (Cargo)
+Magnetic Scattering Amplifier II (Cargo)
+Kinetic Deflection Amplifier II (Cargo)
+Upgraded 'Limos' Standard Missile Bay I, Qty: 2 (Cargo)

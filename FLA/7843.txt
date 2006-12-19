@@ -1,0 +1,32 @@
+2006.09.10 23:57
+
+Victim: Lathly
+Alliance: Freelancer Alliance
+Corp: Sin-X Inc.
+Destroyed: Badger Mark II
+System: Aunenen
+Security: 0.4
+
+Involved parties:
+
+Name: Xaeon
+Security: -10.
+Alliance: Blood Raiders Alliance
+Corp: Murder-Death-Kill
+Ship: Astarte
+Weapon: Astarte
+
+Name: Tycalos (laid the final blow)
+Security: -10.
+Alliance: Blood Raiders Alliance
+Corp: Murder-Death-Kill
+Ship: Apocalypse
+Weapon: Mega Pulse Laser II
+
+
+Destroyed items:
+
+Cap Recharger I
+Small Standard Container, Qty: 3 (Cargo)
+Giant Secure Container (Cargo)
+

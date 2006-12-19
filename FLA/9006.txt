@@ -1,0 +1,29 @@
+2006.12.27 21:00
+
+Victim: Teh camraman
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Bantam
+System: Litiura
+Security: 0.5
+
+Involved parties:
+
+Name: Fjerkenstad (laid the final blow)
+Security: 1.1
+Alliance: None
+Corp: omen.
+Ship: Taranis
+Weapon: Light Neutron Blaster II
+
+
+Destroyed items:
+
+Survey Scanner I (Cargo)
+Small Capacitor Battery I (Cargo)
+Small Armor Repairer I (Cargo)
+Tungsten Charge S, Qty: 200 (Cargo)
+Thorium Charge S, Qty: 100 (Cargo)
+ECCM Projector I (Cargo)
+Bloodclaw Light Missile, Qty: 100 (Cargo)
+

@@ -1,0 +1,29 @@
+2006.09.15 22:16
+
+Victim: Beigehornet
+Alliance: None
+Corp: Digital Fury Corporation
+Destroyed: Crow
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Digioso (laid the final blow)
+Security: 1.2
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Megathron
+Weapon: Large 'Vehemence' I Shockwave Charge
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 90
+1MN MicroWarpdrive II
+Wasp I (Cargo)
+'Arbalest' Siege Missile Launcher (Cargo)
+Flameburst Precision Light Missile, Qty: 893 (Cargo)
+Bloodclaw Fury Light Missile, Qty: 86 (Cargo)
+Bloodclaw Precision Light Missile, Qty: 691 (Cargo)
+

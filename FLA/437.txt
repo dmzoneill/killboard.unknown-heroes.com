@@ -1,0 +1,121 @@
+2007.02.03 06:23
+
+Victim: Korran Delan
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Destroyed: Ferox
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Duana
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Huginn
+Weapon: Huginn
+
+Name: digital oxygen
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Deimos
+Weapon: Deimos
+
+Name: Sorlac Aurora
+Security: 1.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Drake
+Weapon: Advanced 'Limos' Heavy Missile Bay I
+
+Name: toonsterpw
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: truefranco
+Security: 0.2
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: dastommy79
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Thorax
+Weapon: Thorax
+
+Name: Teck7
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ishtar
+Weapon: Hornet II
+
+Name: Anatolli Korenchken
+Security: 5.0
+Alliance: CORE.
+Corp: AUS Corporation
+Ship: Hawk
+Weapon: Bloodclaw Precision Light Missile
+
+Name: Axion (laid the final blow)
+Security: 5.0
+Alliance: CORE.
+Corp: AUS Corporation
+Ship: Muninn
+Weapon: Scourge Heavy Missile
+
+Name: Thafesko
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Cormorant
+Weapon: Cormorant
+
+Name: FlobbMkII
+Security: 3.8
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Taranis
+Weapon: Hobgoblin II
+
+Name: Nukuquqa Hestase
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Catalyst
+Weapon: Catalyst
+
+Name: silvrhawk
+Security: 4.4
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Crow
+Weapon: 'Arbalest' Rocket Launcher I
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Medium 'Solace' I Remote Bulwark Reconstruction
+Scourge Heavy Missile, Qty: 26
+Havoc Heavy Missile, Qty: 27
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+Sensor Booster I
+Damage Control I
+Power Diagnostic System I
+Hobgoblin II, Qty: 4 (Cargo)
+Scourge Heavy Missile, Qty: 1519 (Cargo)
+Thunderbolt Heavy Missile, Qty: 1423 (Cargo)
+'Arbalest' Cruise Launcher I (Cargo)
+Hobgoblin I, Qty: 3 (Drone Bay)
+

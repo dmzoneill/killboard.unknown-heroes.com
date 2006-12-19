@@ -1,0 +1,78 @@
+2007.02.03 00:30
+
+Victim: Edhel
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Destroyed: Taranis
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Hedeon Mishenka (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Coercer
+Weapon: Medium Pulse Laser II
+
+Name: Mauy Thai
+Security: -1.5
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Curse
+Weapon: Valkyrie II
+
+Name: Illesa
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Wolf
+Weapon: Wolf
+
+Name: Swanny231
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Crow
+Weapon: Piranha Light Missile
+
+Name: alon blackhelm
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Raven
+Weapon: Devastator Precision Cruise Missile
+
+Name: wrecker300
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Scorpion
+Weapon: 'Limos' Cruise Launcher I
+
+Name: arthell
+Security: 2.8
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Celestis
+Weapon: Remote Sensor Dampener I
+
+Name: Jorax
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Myrmidon
+Weapon: Target Painter I
+
+
+Destroyed items:
+
+Light Ion Blaster II, Qty: 2
+Null S, Qty: 360
+Initiated Harmonic Warp Jammer I
+Small Armor Repairer II
+Micro Auxiliary Power Core I
+Null S, Qty: 8750 (Cargo)
+Void S, Qty: 4000 (Cargo)
+Hornet I (Drone Bay)

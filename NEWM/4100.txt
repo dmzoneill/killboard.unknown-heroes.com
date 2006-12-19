@@ -1,0 +1,54 @@
+2007.04.14 19:41
+
+Victim: Maris E'lien
+Alliance: Firmus Ixion
+Corp: Black Avatar
+Destroyed: Capsule
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: FernLackey (laid the final blow)
+Security: 2.8
+Alliance: Freelancer Alliance
+Corp: ORIGIN SYSTEMS
+Ship: Hurricane
+Weapon: 650mm Artillery Cannon I
+
+Name: Ghu'ru Talozan
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Celestis
+Weapon: 250mm Railgun I
+
+Name: Jhonas Novasong
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Atron
+Weapon: 125mm Railgun I
+
+Name: Shadow Elysium
+Security: -3.3
+Alliance: Freelancer Alliance
+Corp: ORIGIN SYSTEMS
+Ship: Blackbird
+Weapon: Heavy Missile Launcher I
+
+Name: Kimett
+Security: 2.9
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Kestrel
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: Black DeathRain
+Security: 1.6
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Hawk
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+

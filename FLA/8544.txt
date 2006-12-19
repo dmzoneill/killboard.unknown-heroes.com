@@ -1,0 +1,65 @@
+2006.11.26 15:46
+
+Victim: Scorpio63
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Destroyed: Apocalypse
+System: YZ-LQL
+Security: 0.0
+
+Involved parties:
+
+Name: Goberth Ludwig
+Security: 4.9
+Alliance: Establishment
+Corp: The Establishment
+Ship: Thanatos
+Weapon: Einherji
+
+Name: Ign0raMus
+Security: 0.1
+Alliance: Establishment
+Corp: The Establishment
+Ship: Nyx
+Weapon: Templar
+
+Name: DeMundus (laid the final blow)
+Security: 0.5
+Alliance: Establishment
+Corp: The Establishment
+Ship: Thanatos
+Weapon: Dragonfly
+
+Name: Ange1
+Security: -1.0
+Alliance: Establishment
+Corp: The Establishment
+Ship: Deimos
+Weapon: Deimos
+
+Name: Loriena
+Security: -1.4
+Alliance: Establishment
+Corp: The Establishment
+Ship: Arazu
+Weapon: Arazu
+
+
+Destroyed items:
+
+Tachyon Beam Laser I
+Tachyon Beam Laser I
+Tachyon Beam Laser I
+Microwave L
+Microwave L
+Microwave L
+Microwave L
+Eutectic I Capacitor Charge Array
+Sensor Booster II
+'Orion' Tracking CPU I
+Heat Sink II
+Voltaic Nanite Adaptive Membrane I
+1600mm Reinforced Titanium Plates I
+Multifrequency L, Qty: 7 (Cargo)
+Vespa II, Qty: 3 (Drone Bay)
+

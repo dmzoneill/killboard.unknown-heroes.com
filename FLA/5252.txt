@@ -1,0 +1,19 @@
+2007.04.28 04:42
+
+Victim: aigoo
+Alliance: None
+Corp: State War Academy
+Destroyed: Capsule
+System: F7C-H0
+Security: 0.0
+
+Involved parties:
+
+Name: The Cade (laid the final blow)
+Security: 1.9
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+

@@ -1,0 +1,31 @@
+2007.04.08 18:28
+
+Victim: Scoutkill
+Alliance: None
+Corp: State War Academy
+Destroyed: Ibis
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Vesspasiano (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Megathron
+Weapon: 425mm Carbide Railgun I
+
+Name: Cho Solo
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Deimos
+Weapon: Heavy Neutron Blaster II
+
+
+Destroyed items:
+
+Civilian Gatling Railgun
+Tritanium (Cargo)
+

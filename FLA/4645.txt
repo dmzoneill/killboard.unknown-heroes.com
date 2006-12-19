@@ -1,0 +1,26 @@
+2007.04.16 20:55
+
+Victim: Savak
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Executioner
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: truefranco (laid the final blow)
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Kestrel
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+Conflagration S
+1MN MicroWarpdrive I
+Power Diagnostic System I
+Scorch S (Cargo)
+

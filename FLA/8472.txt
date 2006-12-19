@@ -1,0 +1,48 @@
+2006.11.19 17:42
+
+Victim: TasKu
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Destroyed: Brutix
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Cosh (laid the final blow)
+Security: 3.6
+Alliance: Lotka Volterra
+Corp: Delta team
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: cos0
+Security: 5.0
+Alliance: Lotka Volterra
+Corp: Delta team
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: TechnoMag
+Security: 4.2
+Alliance: Lotka Volterra
+Corp: Delta team
+Ship: Claw
+Weapon: J5 Prototype Warp Inhibitor I
+
+
+Destroyed items:
+
+150mm 'Scout' I Accelerator Cannon
+250mm Prototype I Gauss Gun
+Iridium Charge S, Qty: 44
+Iridium Charge M, Qty: 75
+Eutectic I Capacitor Charge Array
+Linear Flux Stabilizer I
+Radioisotope Thermic Hardener I
+800mm Reinforced Titanium Plates I
+Small Armor Repairer I (Cargo)
+Iridium Charge M, Qty: 1280 (Cargo)
+Remote Sensor Booster I (Cargo)
+Guristas Silver Tag (Cargo)
+

@@ -1,0 +1,83 @@
+2007.03.22 19:30
+
+Victim: Miedein
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Destroyed: Drake
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Alchem
+Security: 2.9
+Alliance: Triumvirate.
+Corp: ViperSquad
+Ship: Ishtar
+Weapon: Berserker II
+
+Name: Sith Bandon
+Security: 5.0
+Alliance: Triumvirate.
+Corp: ViperSquad
+Ship: Ishtar
+Weapon: Hammerhead II
+
+Name: Snuggles theTerrible
+Security: 5.0
+Alliance: Triumvirate.
+Corp: ViperSquad
+Ship: Vulture
+Weapon: Vulture
+
+Name: lt blacklotus
+Security: 0.8
+Alliance: Triumvirate.
+Corp: ViperSquad
+Ship: Vagabond
+Weapon: Warp Disruptor II
+
+Name: shots17 (laid the final blow)
+Security: -1.3
+Alliance: Triumvirate.
+Corp: ViperSquad
+Ship: Zealot
+Weapon: Heavy Pulse Laser II
+
+Name: XxAngelxX
+Security: -1.8
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Curse
+Weapon: Valkyrie II
+
+Name: vyperpit
+Security: 4.6
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Vagabond
+Weapon: Corpum A-Type Medium Nosferatu
+
+Name: PainBall
+Security: -0.9
+Alliance: Triumvirate.
+Corp: ViperSquad
+Ship: Absolution
+Weapon: Absolution
+
+
+Destroyed items:
+
+Thunderbolt Heavy Missile, Qty: 59
+Widowmaker Heavy Missile, Qty: 29
+XR-3200 Heavy Missile Bay
+XR-3200 Heavy Missile Bay
+Advanced 'Limos' Heavy Missile Bay I
+'Arbalest' Heavy Missile Launcher
+'Arbalest' Heavy Missile Launcher
+Viscoelastic EM Ward Salubrity I
+Ballistic Control System I
+'Pandemonium' I Ballistic Enhancement
+Beta Reactor Control: Capacitor Power Relay I
+Scourge Heavy Missile, Qty: 222 (Cargo)
+

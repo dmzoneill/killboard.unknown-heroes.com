@@ -1,0 +1,42 @@
+2007.04.21 04:38
+
+Victim: Zergoman
+Alliance: None
+Corp: The Blade of Xiphos
+Destroyed: Drake
+System: Kubinen
+Security: 0.4
+
+Involved parties:
+
+Name: RayTruz (laid the final blow)
+Security: 0.8
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+Name: VeiledFlare
+Security: -1.7
+Alliance: None
+Corp: New Eden Cleaning Services Inc.
+Ship: Drake
+Weapon: Warrior I
+
+
+Destroyed items:
+
+Thunderbolt Heavy Missile, Qty: 19
+Widowmaker Heavy Missile, Qty: 19
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Large Shield Extender I
+Large Shield Extender I
+Warp Scrambler I
+Ballistic Control System I
+Type-D Power Core Modification: Shield Flux
+Havoc Heavy Missile, Qty: 21 (Cargo)
+Thunderbolt Heavy Missile, Qty: 485 (Cargo)
+Hellhound F.O.F. Heavy Missile I, Qty: 100 (Cargo)
+Eradicator F.O.F. Heavy Missile I, Qty: 100 (Cargo)
+

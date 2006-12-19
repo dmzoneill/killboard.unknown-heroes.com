@@ -1,0 +1,89 @@
+2007.05.07 19:27
+
+Victim: Antiangel
+Alliance: YouWhat
+Corp: Dark Rising Shadow
+Destroyed: Gallente Shuttle
+System: FIO1-8
+Security: 0.0
+
+Involved parties:
+
+Name: Nightbird
+Security: 0.8
+Alliance: Sparta Alliance
+Corp: Neogen Industries
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: AnarchistUK
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: United Space Republic
+Ship: Hawk
+Weapon: Bloodclaw Light Missile
+
+Name: demotar
+Security: 4.2
+Alliance: Sparta Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: The Ironfist (laid the final blow)
+Security: 5.0
+Alliance: None
+Corp: Nordgoetter
+Ship: Flycatcher
+Weapon: Bloodclaw Light Missile
+
+Name: Pharago
+Security: 1.0
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Caracal
+Weapon: Heavy Missile Launcher I
+
+Name: Kayron Brennan
+Security: 0.7
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Caracal
+Weapon: 'Malkuth' Assault Missile Launcher I
+
+Name: Jeepus
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: Black Knight Buccaneers
+Ship: Stiletto
+Weapon: Warp Disruptor II
+
+Name: JanSVK
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: GREY COUNCIL
+Ship: Raptor
+Weapon: Light Neutron Blaster II
+
+Name: Iss Hogai
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: GREY COUNCIL
+Ship: Falcon
+Weapon: BZ-5 Neutralizing Spatial Destabilizer ECM
+
+Name: Calvinus Maximus
+Security: 5.1
+Alliance: None
+Corp: Black Sheeps
+Ship: Cerberus
+Weapon: Heavy Missile Launcher II
+
+Name: Asran Zara
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: United Space Republic
+Ship: Hound
+Weapon: XT-9000 Cruise Launcher
+
+

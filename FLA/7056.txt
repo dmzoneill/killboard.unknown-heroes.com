@@ -1,0 +1,66 @@
+2006.12.23 18:26
+
+Victim: Storeagirl
+Alliance: New Eve Order
+Corp: Peoples Front of Eve
+Destroyed: Catalyst
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: raiiar
+Security: 3.3
+Alliance: O X I D E
+Corp: W33D Corp.
+Ship: Retribution
+Weapon: Retribution
+
+Name: Cyrus Clarke
+Security: 4.3
+Alliance: Schism.
+Corp: Fatalix Inc.
+Ship: Typhoon
+Weapon: Paradise Cruise Missile
+
+Name: Semaka (laid the final blow)
+Security: 5.0
+Alliance: O X I D E
+Corp: W33D Corp.
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: D2O HeavyWater
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Crow
+Weapon: Bloodclaw Precision Light Missile
+
+Name: Kristinne
+Security: 0.3
+Alliance: O X I D E
+Corp: W33D Corp.
+Ship: Ares
+Weapon: Ares
+
+Name: dastommy79
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Executioner
+Weapon: Executioner
+
+Name: cos0
+Security: 5.0
+Alliance: O X I D E
+Corp: W33D Corp.
+Ship: Typhoon
+Weapon: Typhoon
+
+
+Destroyed items:
+
+Small C5-L Emergency Shield Overload I
+Warp Core Stabilizer I
+

@@ -1,0 +1,19 @@
+2006.10.05 15:26
+
+Victim: Foot M
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Destroyed: Capsule
+System: Litiura
+Security: 0.5
+
+Involved parties:
+
+Name: Onin Ra (laid the final blow)
+Security: 1.1
+Alliance: None
+Corp: Privateers
+Ship: Megathron
+Weapon: 425mm 'Scout' I Accelerator Cannon
+
+

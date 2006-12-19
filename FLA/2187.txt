@@ -1,0 +1,55 @@
+2007.01.28 17:40
+
+Victim: Burn Lump
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Destroyed: Caracal
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Beast Hun
+Security: 4.7
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Abaddon
+Weapon: Tachyon Beam Laser II
+
+Name: Letum Omnis (laid the final blow)
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Hyperion
+Weapon: 425mm Railgun II
+
+Name: Marschall
+Security: 2.1
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Pyrotesea
+Security: 4.6
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Hyperion
+Weapon: 425mm Railgun II
+
+
+Destroyed items:
+
+Thunderbolt Heavy Missile, Qty: 14
+Scourge Heavy Missile, Qty: 15
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Remote Sensor Dampener I
+Thunderbolt Heavy Missile, Qty: 770 (Cargo)
+Havoc Heavy Missile, Qty: 770 (Cargo)
+Scourge Heavy Missile, Qty: 940 (Cargo)
+Widowmaker Heavy Missile, Qty: 770 (Cargo)
+

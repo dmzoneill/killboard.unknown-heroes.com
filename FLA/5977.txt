@@ -1,0 +1,32 @@
+2006.11.04 19:37
+
+Victim: Haks'he Lirky
+Alliance: None
+Corp: Durgar og Illmenni
+Destroyed: Taranis
+System: Piak
+Security: 0.7
+
+Involved parties:
+
+Name: Duana (laid the final blow)
+Security: 4.8
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Claw
+Weapon: Foxfire Rocket
+
+
+Destroyed items:
+
+Antimatter Charge S, Qty: 222
+J5b Phased Prototype Warp Inhibitor I
+X5 Prototype I Engine Enervator
+Magnetic Field Stabilizer II
+Micro Auxiliary Power Core I
+Corpse (Cargo)
+280mm Carbine Howitzer I (Cargo)
+280mm Howitzer Artillery I (Cargo)
+Small Energy Transfer Array I (Cargo)
+EMP S, Qty: 5 (Cargo)
+

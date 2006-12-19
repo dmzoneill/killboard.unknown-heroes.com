@@ -1,0 +1,26 @@
+2007.04.05 14:19
+
+Victim: Marie Veedor
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Capsule
+System: ZOYW-O
+Security: 0.0
+
+Involved parties:
+
+Name: stainage
+Security: -1.2
+Alliance: None
+Corp: Final-Vendetta
+Ship: Eos
+Weapon: Warrior II
+
+Name: Hornster (laid the final blow)
+Security: -1.1
+Alliance: None
+Corp: Final-Vendetta
+Ship: Pilgrim
+Weapon: Warrior II
+
+

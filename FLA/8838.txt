@@ -1,0 +1,28 @@
+2006.12.12 21:38
+
+Victim: yagamurth
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Destroyed: Crusader
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Tadis (laid the final blow)
+Security: 1.1
+Alliance: None
+Corp: 0utbreak
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+
+Destroyed items:
+
+Dual Light Beam Laser II
+Dual Light Beam Laser II
+Gleam S
+Warp Disruptor I
+Small Armor Repairer I
+Standard S, Qty: 3 (Cargo)
+

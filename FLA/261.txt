@@ -1,0 +1,77 @@
+2007.01.20 12:39
+
+Victim: McGin
+Alliance: Triumvirate.
+Corp: D00M.
+Destroyed: Megathron
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Jorax
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Thorax
+Weapon: Hammerhead I
+
+Name: reddaz
+Security: 4.1
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Raven
+Weapon: Wrath Cruise Missile
+
+Name: ClogMan (laid the final blow)
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Raven
+Weapon: Cataclysm Cruise Missile
+
+Name: Strobelix
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Thorax
+Weapon: Thorax
+
+Name: Nukuquqa Hestase
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Caracal
+Weapon: Acolyte I
+
+Name: Vartha Trin
+Security: 3.2
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Ferox
+Weapon: Hobgoblin I
+
+Name: Burn Lump
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Taranis
+Weapon: Taranis
+
+Name: Kee Ris
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Malediction
+Weapon: Small 'Ghoul' Energy Siphon I
+
+
+Destroyed items:
+
+425mm Railgun II
+Javelin L, Qty: 120
+Sensor Booster II
+Large Armor Repairer II
+Magnetic Field Stabilizer II
+Spike L, Qty: 1021 (Cargo)
+

@@ -1,0 +1,32 @@
+2007.04.20 23:40
+
+Victim: Fitz Farseer
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Rifter
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Dana Foxworth (laid the final blow)
+Security: 3.7
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Tempest
+Weapon: Vespa I
+
+Name: other mickey
+Security: 3.2
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Vexor
+Weapon: Acolyte I
+
+
+Destroyed items:
+
+125mm Railgun I
+Antimatter Charge S, Qty: 52
+Overdrive Injector System I
+

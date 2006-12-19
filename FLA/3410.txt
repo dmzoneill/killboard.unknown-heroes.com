@@ -1,0 +1,67 @@
+2007.03.25 19:58
+
+Victim: RythemAndStealth
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Destroyed: Omen
+System: Alsavoinon
+Security: 0.3
+
+Involved parties:
+
+Name: Solid Wilko
+Security: -1.7
+Alliance: Eternal Rapture
+Corp: Quantum Synergies
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: Handon Guild
+Security: -2.9
+Alliance: Eternal Rapture
+Corp: Exotic Dancers Club
+Ship: Dominix
+Weapon: Dominix
+
+Name: Gallente Sentry Gun / Federation Navy (laid the final blow)
+
+Name: Ion Bartzabel
+Security: -0.2
+Alliance: Eternal Rapture
+Corp: Temptation inc.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Garnet Tribal
+Security: 2.0
+Alliance: Eternal Rapture
+Corp: Temptation inc.
+Ship: Raven
+Weapon: Warrior II
+
+Name: Gliding
+Security: -1.9
+Alliance: Eternal Rapture
+Corp: Quantum Synergies
+Ship: Taranis
+Weapon: Taranis
+
+
+Destroyed items:
+
+Medium Beam Laser II
+Medium Beam Laser II
+Multifrequency S
+Multifrequency S
+Multifrequency S
+Fixed Parallel Link-Capacitor I
+Prototype I Sensor Booster
+Medium Armor Repairer I
+Energized Adaptive Nano Membrane II
+Energized Adaptive Nano Membrane II
+Energized Basic Adaptive Nano Plating
+Radio S, Qty: 4 (Cargo)
+Microwave S, Qty: 4 (Cargo)
+Infiltrator I (Drone Bay)
+Warrior I (Drone Bay)
+

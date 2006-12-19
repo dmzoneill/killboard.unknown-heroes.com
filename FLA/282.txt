@@ -1,0 +1,33 @@
+2007.01.21 18:10
+
+Victim: Mecallie2
+Alliance: None
+Corp: Sebiestor tribe
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: killer 1951
+Security: -1.1
+Alliance: O X I D E
+Corp: Reunited
+Ship: Raptor
+Weapon: Bloodclaw Light Missile
+
+Name: fox247
+Security: 0.6
+Alliance: O X I D E
+Corp: Reunited
+Ship: Ares
+Weapon: Flameburst Light Missile
+
+Name: Jester87 (laid the final blow)
+Security: 1.3
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+

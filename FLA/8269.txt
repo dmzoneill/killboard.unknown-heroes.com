@@ -1,0 +1,23 @@
+2006.11.07 09:10
+
+Victim: Ellery Ryan
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Destroyed: Caldari Shuttle
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Trefnis (laid the final blow)
+Security: -1.2
+Alliance: Kith of Venal
+Corp: Solidline Enterprise
+Ship: Wolf
+Weapon: 280mm Howitzer Artillery II
+
+
+Destroyed items:
+
+Heavy Missiles (Cargo)
+

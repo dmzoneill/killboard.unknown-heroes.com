@@ -1,0 +1,32 @@
+2007.04.25 23:54
+
+Victim: Sparhock
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Dominix
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Orange Species (laid the final blow)
+Security: -2.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Ragnarok
+Weapon: Gjallarhorn
+
+
+Destroyed items:
+
+E500 Prototype Energy Vampire
+E500 Prototype Energy Vampire
+Drone Link Augmentor I
+Drone Link Augmentor I
+Drone Link Augmentor I
+F-b10 Nominal Capacitor Regenerator
+'Halcyon' Core Equalizer I
+N-Type Kinetic Hardener I
+Ogre I (Drone Bay)
+Hobgoblin I, Qty: 10 (Drone Bay)
+

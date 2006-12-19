@@ -1,0 +1,43 @@
+2006.11.02 13:10
+
+Victim: Scer
+Alliance: Process of Elimination
+Corp: LDK
+Destroyed: Taranis
+System: J1AU-9
+Security: 0.0
+
+Involved parties:
+
+Name: Noitaakka (laid the final blow)
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Ishtar
+Weapon: Warrior II
+
+Name: GrandMastaXP
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+
+Destroyed items:
+
+Light Ion Blaster II
+Light Ion Blaster II
+Null S, Qty: 173
+Phased Monopropellant I Hydrazine Boosters
+Fleeting Progressive Warp Scrambler I
+X5 Prototype I Engine Enervator
+Small Armor Repairer II
+200mm Reinforced Rolled Tungsten Plates I
+'Langour' Drive Disruptor I (Cargo)
+125mm Railgun II (Cargo)
+Null S, Qty: 2960 (Cargo)
+Void S, Qty: 2231 (Cargo)
+ZW-4100 Siege Missile Bay (Cargo)
+Small Tractor Beam I (Cargo)
+

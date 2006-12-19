@@ -1,0 +1,54 @@
+2007.04.13 05:17
+
+Victim: truefranco
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Destroyed: Myrmidon
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Lorn Zolog
+Security: -1.1
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Armageddon
+Weapon: Wasp I
+
+Name: Sexorella hotz
+Security: 3.1
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Raven
+Weapon: Wrath Cruise Missile
+
+Name: Redginald (laid the final blow)
+Security: 4.5
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Muninn
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Neleva
+Security: 2.3
+Alliance: None
+Corp: R.H. Umbrella Corporation
+Ship: Rifter
+Weapon: Rifter
+
+
+Destroyed items:
+
+Medium 'Knave' I Energy Drain
+Medium 'Knave' I Energy Drain
+Small 'Knave' I Energy Drain
+Medium Capacitor Booster I
+Sensor Booster I
+Armor Explosive Hardener I
+N-Type Kinetic Hardener I
+Cap Booster 800, Qty: 11 (Cargo)
+Hobgoblin II, Qty: 2 (Drone Bay)
+Ogre II (Drone Bay)
+Warrior II (Drone Bay)
+

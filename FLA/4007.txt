@@ -1,0 +1,40 @@
+2007.04.08 22:12
+
+Victim: BogdanFree
+Alliance: None
+Corp: Promethean Industries
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Varalonia
+Security: 2.3
+Alliance: Darklite inc Alliance
+Corp: Darklite inc
+Ship: Stiletto
+Weapon: 'Langour' Drive Disruptor I
+
+Name: Jack Thurner (laid the final blow)
+Security: 2.6
+Alliance: DeStInY.
+Corp: Fusion Enterprises Ltd
+Ship: Armageddon
+Weapon: Tachyon Beam Laser II
+
+Name: Meh'lindi
+Security: 4.4
+Alliance: Darklite inc Alliance
+Corp: Darklite inc
+Ship: Enyo
+Weapon: 150mm Railgun II
+
+Name: Slim Jim
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Claw
+Weapon: 125mm Gatling AutoCannon II
+
+

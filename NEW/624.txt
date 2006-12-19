@@ -1,0 +1,39 @@
+2007.04.27 14:36
+
+Victim: Bellon
+Alliance: Band of Brothers
+Corp: Reikoku
+Destroyed: Probe
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: FlobbMkII (laid the final blow)
+Security: 4.4
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Eris
+Weapon: Light Ion Blaster II
+
+Name: Radica
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Deimos
+Weapon: Heavy Ion Blaster II
+
+Name: white kight
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Drake
+Weapon: Warp Disruptor I
+
+Name: Rhaall
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Executioner
+Weapon: Warp Scrambler I
+

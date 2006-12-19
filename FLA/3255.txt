@@ -1,0 +1,80 @@
+2007.03.21 23:23
+
+Victim: Solarienne
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Destroyed: Drake
+System: 5ZXX-K
+Security: 0.0
+
+Involved parties:
+
+Name: Pithum Abolisher / Guristas Pirates
+
+Name: numbers (laid the final blow)
+Security: 3.5
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Zealot
+Weapon: Heavy Beam Laser II
+
+Name: Skinny Boy
+Security: 4.1
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Taranis
+Weapon: Taranis
+
+Name: Vily
+Security: 0.3
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Malediction
+Weapon: Malediction
+
+Name: psycorabbit
+Security: -1.8
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Claw
+Weapon: Claw
+
+Name: Ice Breaker
+Security: 4.0
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Crusader
+Weapon: Crusader
+
+Name: Kanx Alanks
+Security: 0.2
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Vagabond
+Weapon: Warrior II
+
+Name: Vleppie
+Security: 4.7
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Guardian
+Weapon: Guardian
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 137
+Advanced 'Limos' Heavy Missile Bay I
+Advanced 'Limos' Heavy Missile Bay I
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+Small Tractor Beam I
+Large Shield Extender II
+Large Supplemental Barrier Emitter I
+Ballistic Deflection Field I
+Non-Inertial Ballistic Screen Augmentation I
+Ballistic Control System II
+Mark I Generator Refitting: Diagnostic System
+Scourge Heavy Missile, Qty: 1421 (Cargo)
+

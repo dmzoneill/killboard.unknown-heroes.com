@@ -1,0 +1,45 @@
+2007.02.10 15:12
+
+Victim: tzar1024
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Destroyed: Hoarder
+System: RQH-MY
+Security: 0.0
+
+Involved parties:
+
+Name: Asteryos
+Security: 0.7
+Alliance: None
+Corp: Gr0und Zer0
+Ship: Raven
+Weapon: Wrath Cruise Missile
+
+Name: starky
+Security: -1.6
+Alliance: None
+Corp: Gr0und Zer0
+Ship: Curse
+Weapon: Hammerhead II
+
+Name: aketchi jinsai (laid the final blow)
+Security: 1.8
+Alliance: None
+Corp: Gr0und Zer0
+Ship: Drake
+Weapon: Havoc Heavy Missile
+
+
+Destroyed items:
+
+Small Nosferatu I
+10MN Afterburner I
+Expanded Cargohold I
+Expanded Cargohold I
+Rifter, Qty: 2 (Cargo)
+Minmatar Shuttle (Cargo)
+Gallente Shuttle (Cargo)
+Giant Secure Container, Qty: 2 (Cargo)
+Platinum Technite Reaction (Cargo)
+

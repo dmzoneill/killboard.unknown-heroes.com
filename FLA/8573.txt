@@ -1,0 +1,19 @@
+2006.11.29 09:14
+
+Victim: Zattron
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Destroyed: Capsule
+System: Sobaseki
+Security: 0.8
+
+Involved parties:
+
+Name: Unfortunate Accident (laid the final blow)
+Security: -1.3
+Alliance: None
+Corp: omen.
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+

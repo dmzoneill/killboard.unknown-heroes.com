@@ -1,0 +1,59 @@
+2006.09.11 09:46
+
+Victim: Kuto
+Alliance: R.I.S.K
+Corp: GOLDEN TAURUS
+Destroyed: Flycatcher
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: GrandMastaXP (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Moa
+Weapon: 250mm Railgun I
+
+Name: Eck Stavo
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Elite frontier group
+Ship: Thanatos
+Weapon: Templar
+
+Name: Yertus Plight
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Elite frontier group
+Ship: Ishtar
+Weapon: Ishtar
+
+Name: Phlox Kitara
+Security: 2.1
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Falcon
+Weapon: Medium Energy Neutralizer II
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 150
+Standard Missile Launcher II
+Standard Missile Launcher II
+Standard Missile Launcher II
+Standard Missile Launcher II
+1MN MicroWarpdrive II
+Fleeting Warp Scrambler I
+Heavy 'Knave' I Energy Drain, Qty: 2 (Cargo)
+Medium 'Ghoul' Energy Siphon I (Cargo)
+N-Type Explosive Hardener I (Cargo)
+N-Type Thermic Hardener I (Cargo)
+Bloodclaw Light Missile, Qty: 1062 (Cargo)
+Flameburst Light Missile, Qty: 1000 (Cargo)
+Sabretooth Light Missile, Qty: 1000 (Cargo)
+Bloodclaw Precision Light Missile, Qty: 700 (Cargo)
+Sabretooth Precision Light Missile, Qty: 750 (Cargo)
+

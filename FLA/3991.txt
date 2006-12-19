@@ -1,0 +1,33 @@
+2007.04.08 18:36
+
+Victim: Idont likeyou
+Alliance: None
+Corp: Giga Bank LLC
+Destroyed: Capsule
+System: 5ZXX-K
+Security: 0.0
+
+Involved parties:
+
+Name: Iwannah Spankjoo
+Security: 0.0
+Alliance: Mordus Angels
+Corp: Bladerunners
+Ship: Heretic
+Weapon: Heretic
+
+Name: johanladon (laid the final blow)
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Absolution
+Weapon: Heavy Pulse Laser II
+
+Name: LiveBait
+Security: 1.0
+Alliance: Mordus Angels
+Corp: Bladerunners
+Ship: Drake
+Weapon: Heavy Missile Launcher II
+
+

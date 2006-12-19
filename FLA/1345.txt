@@ -1,0 +1,28 @@
+2007.03.11 10:04
+
+Victim: Ne0Bahamut
+Alliance: None
+Corp: R.H. Umbrella Corporation
+Destroyed: Incursus
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Woofer (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Rokh
+Weapon: 425mm Railgun II
+
+
+Destroyed items:
+
+Anode Light Electron Particle Cannon I
+Limited Light Ion Blaster I
+Antimatter Charge S, Qty: 400
+Warp Scrambler I
+Inertia Stabilizers I
+Antimatter Charge S, Qty: 3414 (Cargo)
+

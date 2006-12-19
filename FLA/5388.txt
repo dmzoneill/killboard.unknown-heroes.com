@@ -1,0 +1,102 @@
+2007.04.28 16:10
+
+Victim: Argentus Orsus
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Prophecy
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Guristas Terrorist / Guristas
+
+Name: Fitz Farseer (laid the final blow)
+Security: 0.5
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Rupture
+Weapon: 220mm Vulcan AutoCannon I
+
+Name: Kinora Wynn
+Security: 0.2
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Rupture
+Weapon: Rupture
+
+Name: Reverend Revelator
+Security: 1.5
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Brutix
+Weapon: 200mm Compressed Coil Gun I
+
+Name: Screamer
+Security: 1.0
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Chimera
+Weapon: Einherji
+
+Name: Bothius
+Security: 0.4
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Catalyst
+Weapon: Catalyst
+
+Name: Lord Caine
+Security: 4.9
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Vexor
+Weapon: Warrior II
+
+Name: glitterbomb
+Security: -2.1
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Thorax
+Weapon: Vespa I
+
+Name: Hojou
+Security: 0.4
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Incursus
+Weapon: Incursus
+
+Name: Aut Nihil
+Security: 0.1
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Kestrel
+Weapon: Flameburst Light Missile
+
+
+Destroyed items:
+
+Heavy Beam Laser I
+Heavy Beam Laser I
+Heavy Beam Laser I
+Focused Afocal Medium Maser I
+Multifrequency M
+Multifrequency M
+Multifrequency M
+Heavy Missile Launcher I
+Medium Armor Repairer I
+Heat Sink I
+Energized Adaptive Nano Membrane I
+Armor Kinetic Hardener I
+Type-D Power Core Modification: Capacitor Power Relay
+Medium Hull Repairer I (Cargo)
+Lead Charge M, Qty: 100 (Cargo)
+Tungsten Charge S, Qty: 100 (Cargo)
+Plutonium Charge M, Qty: 100 (Cargo)
+Microwave M, Qty: 2 (Cargo)
+ECM - Multispectral Jammer I (Cargo)
+Widowmaker Heavy Missile, Qty: 100 (Cargo)
+Scourge Heavy Missile, Qty: 391 (Cargo)
+Assault Missile Launcher I (Cargo)
+

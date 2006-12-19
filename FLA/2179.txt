@@ -1,0 +1,47 @@
+2007.01.28 17:38
+
+Victim: Kerdrak
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Destroyed: Omen
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Nira Li (laid the final blow)
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Harbinger
+Weapon: Focused Medium Pulse Laser II
+
+Name: papaPadla
+Security: 4.1
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Pilgrim
+Weapon: Tracking Disruptor II
+
+Name: Puls4r
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Jaguar
+Weapon: Balmer Series Targeting Inhibitor I
+
+
+Destroyed items:
+
+Heavy Pulse Laser I
+Heavy Pulse Laser I
+Small Nosferatu I
+Multifrequency M
+Fleeting Progressive Warp Scrambler I
+X5 Prototype I Engine Enervator
+Small Armor Repairer II
+Capacitor Power Relay I
+Gyrostabilizer I (Cargo)
+Stasis Webifier I (Cargo)
+Microwave M, Qty: 3 (Cargo)
+

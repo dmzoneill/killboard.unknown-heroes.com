@@ -1,0 +1,25 @@
+2007.02.09 10:21
+
+Victim: Nukuquqa Hestase
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Capsule
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Imran (laid the final blow)
+Security: 1.2
+Alliance: None
+Corp: Fate.
+Ship: Sabre
+Weapon: 200mm AutoCannon II
+
+Name: Adrianna Utani
+Security: -1.3
+Alliance: None
+Corp: Fate.
+Ship: Sabre
+Weapon: 200mm AutoCannon II
+

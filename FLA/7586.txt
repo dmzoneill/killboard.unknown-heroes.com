@@ -1,0 +1,24 @@
+2006.09.21 22:48
+
+Victim: Vincent Mercury
+Alliance: GoonSwarm
+Corp: GoonFleet
+Destroyed: Executioner
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Cazziel (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+
+Destroyed items:
+
+Dual Afocal Light Maser I
+Warp Core Stabilizer I
+

@@ -1,0 +1,35 @@
+2007.02.07 21:15
+
+Victim: Taux Chien
+Alliance: None
+Corp: Agony Unleashed
+Destroyed: Taranis
+System: X-7OMU
+Security: 0.0
+
+Involved parties:
+
+Name: Dawn Rider (laid the final blow)
+Security: -1.6
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Ship: Thorax
+Weapon: Heavy Electron Blaster II
+
+
+Destroyed items:
+
+125mm Railgun II
+125mm Railgun II
+125mm Railgun II
+Javelin S, Qty: 160
+J5 Prototype Warp Inhibitor I
+'Langour' Drive Disruptor I
+Damage Control II
+Magnetic Field Stabilizer II
+Thorium Charge S, Qty: 3500 (Cargo)
+Iridium Charge S, Qty: 1260 (Cargo)
+Javelin S, Qty: 3950 (Cargo)
+Void S, Qty: 2500 (Cargo)
+Light Armor Maintenance Bot I, Qty: 2 (Cargo)
+

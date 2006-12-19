@@ -1,0 +1,50 @@
+2006.07.01 22:55
+
+Victim: Kismeteer
+Alliance: Freelancer Alliance
+Corp: BGG
+Destroyed: Vexor
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Dirtball
+Security: 3.2
+Alliance: None
+Corp: Cosmic Fusion
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: iggy6662k2
+Security: -1.8
+Alliance: None
+Corp: Cosmic Fusion
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Blind Man (laid the final blow)
+Security: 0.5
+Alliance: None
+Corp: Angel Deep Corporation
+Ship: Vagabond
+Weapon: Dual 180mm AutoCannon II
+
+Name: SavageThrash
+Security: -1.4
+Alliance: None
+Corp: Angel Deep Corporation
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+Small 'Gremlin' Power Core Disruptor I
+250mm 'Scout' I Accelerator Cannon
+Antimatter Charge M, Qty: 80
+Warp Disruptor I
+Small Armor Repairer II
+Microcell Nanite Explosive Hardener I
+Mobile Small Warp Disruptor I (Cargo)
+

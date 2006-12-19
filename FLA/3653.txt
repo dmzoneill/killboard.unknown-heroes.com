@@ -1,0 +1,54 @@
+2007.03.28 15:13
+
+Victim: CrazyDoctor
+Alliance: Freelancer Alliance
+Corp: United Forces
+Destroyed: Caracal
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: WildCard
+Security: 4.3
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: The Ali
+Security: -3.2
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Vagabond
+Weapon: Dual 180mm AutoCannon II
+
+Name: Gordon Red
+Security: 2.0
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Heretic
+Weapon: Heretic
+
+Name: Sorju Mai (laid the final blow)
+Security: -0.3
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Lachesis
+Weapon: Scourge Heavy Missile
+
+Name: volly
+Security: 3.2
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Curse
+Weapon: Vespa I
+
+Name: Eelim Garak
+Security: 1.3
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Curse
+Weapon: Remote Sensor Dampener II
+
+

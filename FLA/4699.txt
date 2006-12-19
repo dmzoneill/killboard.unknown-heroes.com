@@ -1,0 +1,39 @@
+2007.04.18 19:15
+
+Victim: lethario desrtuction
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Manticore
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: marakudi (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: navert
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: The Night Crew
+Ship: Moa
+Weapon: 200mm Railgun II
+
+
+Destroyed items:
+
+Wrath Cruise Missile, Qty: 14
+'Arbalest' Cruise Launcher I
+'Arbalest' Cruise Launcher I
+Warp Disruptor II
+Signal Amplifier II
+Devastator Cruise Missile, Qty: 200 (Cargo)
+Paradise Cruise Missile, Qty: 250 (Cargo)
+Wrath Cruise Missile, Qty: 1190 (Cargo)
+Cataclysm Cruise Missile, Qty: 200 (Cargo)
+Dragon F.O.F. Cruise Missile I, Qty: 100 (Cargo)
+

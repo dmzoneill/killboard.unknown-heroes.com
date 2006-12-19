@@ -1,0 +1,28 @@
+2007.01.21 08:01
+
+Victim: mr passie
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Destroyed: Jaguar
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Jovius Marginus (laid the final blow)
+Security: -0.3
+Alliance: Firmus Ixion
+Corp: Black Avatar
+Ship: Typhoon
+Weapon: Hobgoblin II
+
+
+Destroyed items:
+
+200mm AutoCannon II
+200mm AutoCannon II
+Barrage S, Qty: 60
+Warp Disruptor I
+Stasis Webifier I
+Local Power Plant Manager: Reaction Control I
+

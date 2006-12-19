@@ -1,0 +1,29 @@
+2007.04.20 20:53
+
+Victim: Imaginary Number
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Manticore
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Rhayvn (laid the final blow)
+Security: 4.5
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Abaddon
+Weapon: Tachyon Beam Laser II
+
+
+Destroyed items:
+
+Passive Targeter I
+Wrath Cruise Missile, Qty: 46
+XT-9000 Cruise Launcher
+Remote Sensor Dampener I
+Nanofiber Internal Structure I
+Wrath Cruise Missile, Qty: 931 (Cargo)
+Devastator Cruise Missile, Qty: 200 (Cargo)
+

@@ -1,0 +1,30 @@
+2007.01.06 18:25
+
+Victim: Soldroz
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Destroyed: Crow
+System: K4YZ-Y
+Security: 0.0
+
+Involved parties:
+
+Name: WarGod (laid the final blow)
+Security: 1.2
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Curse
+Weapon: Acolyte II
+
+
+Destroyed items:
+
+Improved Cloaking Device II
+Small Electrochemical Capacitor Booster I
+Local Hull Conversion Inertial Stabilizers I
+Local Hull Conversion Inertial Stabilizers I
+Local Hull Conversion Inertial Stabilizers I
+Medium Electrochemical Capacitor Booster I, Qty: 4 (Cargo)
+Cap Booster 200, Qty: 2 (Cargo)
+Beta Reactor Control: Capacitor Power Relay I, Qty: 9 (Cargo)
+

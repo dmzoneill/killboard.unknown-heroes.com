@@ -1,0 +1,39 @@
+2007.01.14 04:23
+
+Victim: KriegDrachen
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Destroyed: Sabre
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Arnold Swartzenegger (laid the final blow)
+Security: 0.1
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+Name: MeanStreak
+Security: -0.2
+Alliance: None
+Corp: Caldari Provisions
+Ship: Sabre
+Weapon: 200mm AutoCannon II
+
+
+Destroyed items:
+
+150mm Light AutoCannon II
+150mm Light AutoCannon II
+150mm Light AutoCannon II
+Barrage S, Qty: 275
+Interdiction Sphere Launcher I
+X5 Prototype I Engine Enervator
+F-90 Positional Sensor Subroutines
+Warrior II (Cargo)
+Barrage S, Qty: 3878 (Cargo)
+Warp Disrupt Probe, Qty: 38 (Cargo)
+

@@ -1,0 +1,60 @@
+2007.05.26 14:49
+
+Victim: Spartan dax
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Destroyed: Blackbird
+System: 2R-CRW
+Security: 0.0
+
+Involved parties:
+
+Name: Llyando Autora
+Security: 5.0
+Alliance: Aftermath Alliance
+Corp: Pyrrhus Sicarii
+Ship: Nighthawk
+Weapon: Scourge Heavy Missile
+
+Name: Yokujin
+Security: 2.2
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Sabre
+Weapon: Sabre
+
+Name: Gustav Blackknight
+Security: 4.9
+Alliance: Exuro Mortis
+Corp: The Burning Orphans
+Ship: Thorax
+Weapon: Thorax
+
+Name: Infar Dantenon (laid the final blow)
+Security: -1.1
+Alliance: Vigilance Infinitas
+Corp: CRICE Corporation
+Ship: Rook
+Weapon: Scourge Heavy Missile
+
+Name: Frank Monkey
+Security: 0.2
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Megathron
+Weapon: 'Arbalest' Cruise Launcher I
+
+
+Destroyed items:
+
+Medium Rudimentary Concussion Bomb I
+Thunderbolt Heavy Missile, Qty: 30
+Heavy Missile Launcher I
+10MN MicroWarpdrive I
+Compulsive Ion Field ECM I
+Induced Ion Field ECM I
+Induced Multispectral ECM I
+Sensor Booster I
+Signal Distortion Amplifier I
+Scourge Heavy Missile, Qty: 500 (Cargo)
+

@@ -1,0 +1,57 @@
+2006.09.02 16:21
+
+Victim: Vahearun
+Alliance: Freelancer Alliance
+Corp: Veturi
+Destroyed: Cyclone
+System: R-2R0G
+Security: 0.0
+
+Involved parties:
+
+Name: jamesw (laid the final blow)
+Security: 1.7
+Alliance: None
+Corp: Omniscient Order
+Ship: Dominix
+Weapon: Electron Blaster Cannon II
+
+Name: Crusari
+Security: 5.0
+Alliance: None
+Corp: Omniscient Order
+Ship: Ishtar
+Weapon: Ogre II
+
+Name: Cpt Pugwash
+Security: -1.9
+Alliance: None
+Corp: Omniscient Order
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: Altai Saker
+Security: -0.9
+Alliance: None
+Corp: Omniscient Order
+Ship: Taranis
+Weapon: 125mm Railgun II
+
+
+Destroyed items:
+
+220mm Medium Prototype I Automatic Cannon
+220mm Medium Gallium I Machine Gun
+220mm Medium Gallium I Machine Gun
+220mm Medium Gallium I Machine Gun
+220mm Medium Gallium I Machine Gun
+EMP M, Qty: 152
+Phased Plasma M, Qty: 180
+Thunderbolt Heavy Missile, Qty: 59
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Large Peroxide I Capacitor Power Cell
+Non-Inertial Ballistic Screen Augmentation I
+EMP M, Qty: 4739 (Cargo)
+Vespa I, Qty: 2 (Drone Bay)
+

@@ -1,0 +1,67 @@
+2007.02.06 15:57
+
+Victim: Assassin 2
+Alliance: Triumvirate.
+Corp: D00M.
+Destroyed: Curse
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Teck7
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Lachesis
+Weapon: Hammerhead I
+
+Name: Sanal Gi
+Security: 0.2
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Scorpion
+Weapon: Cataclysm Cruise Missile
+
+Name: IDesert FoxI
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Stabber
+Weapon: Firbolg
+
+Name: beretta74
+Security: 2.8
+Alliance: The Foundation.
+Corp: EVE Corporation 160607
+Ship: Drake
+Weapon: Einherji
+
+Name: NOCLUE (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Raven
+Weapon: Wrath Cruise Missile
+
+Name: Airi
+Security: 1.2
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Archon
+Weapon: Firbolg
+
+
+Destroyed items:
+
+Medium Nosferatu II
+Medium Nosferatu II
+J5 Prototype Warp Inhibitor I
+X5 Prototype I Engine Enervator
+Tracking Disruptor II
+Type-D Altered SS Inertial Stabilizers
+Reactor Control Unit II
+Hammerhead II (Drone Bay)
+Infiltrator II (Drone Bay)
+Vespa II (Drone Bay)
+

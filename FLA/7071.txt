@@ -1,0 +1,38 @@
+2006.12.24 06:01
+
+Victim: grandmaat22
+Alliance: None
+Corp: Red Rain Mining
+Destroyed: Velator
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Audri Fisher (laid the final blow)
+Security: 0.3
+Alliance: THE R0CK
+Corp: The Keep
+Ship: Ferox
+Weapon: Scourge Heavy Missile
+
+Name: TroNaaR
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: Altho Regilian
+Security: -0.2
+Alliance: Imperial Republic Of the North
+Corp: MetaForge
+Ship: Manticore
+Weapon: 'Limos' Cruise Launcher I
+
+
+Destroyed items:
+
+Basic Miner
+Tritanium (Cargo)
+

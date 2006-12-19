@@ -1,0 +1,82 @@
+2006.11.14 20:19
+
+Victim: Scorpio63
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Destroyed: Armageddon
+System: Aunenen
+Security: 0.4
+
+Involved parties:
+
+Name: DietrichDieBarber
+Security: -8.1
+Alliance: Blood Raiders Alliance
+Corp: Murder-Death-Kill
+Ship: Raven
+Weapon: Juggernaut Javelin Torpedo
+
+Name: Krantz
+Security: -10.0
+Alliance: Blood Raiders Alliance
+Corp: Murder-Death-Kill
+Ship: Megathron
+Weapon: Initiated Warp Jammer I
+
+Name: Cloudis
+Security: -10.0
+Alliance: Blood Raiders Alliance
+Corp: Murder-Death-Kill
+Ship: Apocalypse
+Weapon: Valkyrie II
+
+Name: Grape Juice (laid the final blow)
+Security: -9.4
+Alliance: Blood Raiders Alliance
+Corp: Murder-Death-Kill
+Ship: Scorpion
+Weapon: Bane Torpedo
+
+Name: Super Twinkey69
+Security: -10.0
+Alliance: Blood Raiders Alliance
+Corp: Murder-Death-Kill
+Ship: Megathron
+Weapon: Fleeting Warp Scrambler I
+
+Name: Zenner Zero
+Security: -10.0
+Alliance: Blood Raiders Alliance
+Corp: Murder-Death-Kill
+Ship: Vulture
+Weapon: 'Arbalest' Heavy Missile Launcher
+
+Name: Zaethiel
+Security: -10.0
+Alliance: Blood Raiders Alliance
+Corp: Murder-Death-Kill
+Ship: Armageddon
+Weapon: Dual Heavy Pulse Laser II
+
+
+Destroyed items:
+
+Tachyon Modulated Energy Beam I
+Tachyon Modulated Energy Beam I
+Tachyon Modulated Energy Beam I
+Tachyon Modulated Energy Beam I
+Tachyon Modulated Energy Beam I
+Multifrequency L
+Multifrequency L
+Multifrequency L
+Multifrequency L
+F-90 Positional Sensor Subroutines
+F-90 Positional Sensor Subroutines
+F-90 Positional Sensor Subroutines
+Large Armor Repairer II
+Tracking Enhancer II
+1600mm Reinforced Rolled Tungsten Plates I
+Microwave L, Qty: 4 (Cargo)
+Vespa I (Drone Bay)
+Berserker SW-900, Qty: 2 (Drone Bay)
+

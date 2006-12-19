@@ -1,0 +1,65 @@
+2007.02.27 20:31
+
+Victim: Ocara Nezus
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Hawk
+System: YZ-LQL
+Security: 0.0
+
+Involved parties:
+
+Name: RogerWilco
+Security: -0.5
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Thorax
+Weapon: Thorax
+
+Name: BOldMan
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Reikoku
+Ship: Claw
+Weapon: Templar
+
+Name: Venomus
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Reikoku
+Ship: Heretic
+Weapon: Heretic
+
+Name: Mankind mkII
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Reikoku
+Ship: Taranis
+Weapon: Taranis
+
+Name: Viper RAM (laid the final blow)
+Security: 1.2
+Alliance: Band of Brothers
+Corp: Reikoku
+Ship: Crusader
+Weapon: Dual Light Pulse Laser II
+
+Name: Acan
+Security: 3.2
+Alliance: Band of Brothers
+Corp: Reikoku
+Ship: Thanatos
+Weapon: Templar
+
+
+Destroyed items:
+
+Small Nosferatu I
+Standard Missile Launcher II
+Standard Missile Launcher II
+Bloodclaw Fury Light Missile, Qty: 80
+Small Azeotropic Ward Salubrity I
+Inertia Stabilizers I
+Nanofiber Internal Structure I
+Bloodclaw Light Missile, Qty: 168 (Cargo)
+

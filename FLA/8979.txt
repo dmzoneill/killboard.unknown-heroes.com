@@ -1,0 +1,36 @@
+2006.12.25 17:37
+
+Victim: Durthar
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Coercer
+System: Torrinos
+Security: 0.5
+
+Involved parties:
+
+Name: Elliott Manchild (laid the final blow)
+Security: -2.0
+Alliance: None
+Corp: omen.
+Ship: Typhoon
+Weapon: Berserker II
+
+
+Destroyed items:
+
+Dual Light Beam Laser I
+Dual Light Beam Laser I
+Dual Light Beam Laser I
+Dual Light Beam Laser I
+Dual Light Beam Laser I
+Dual Light Beam Laser I
+Gamma S
+Gamma S
+Gamma S
+Gamma S
+Gamma S
+Warp Disruptor I
+Damage Control I
+Small Armor Repairer I
+

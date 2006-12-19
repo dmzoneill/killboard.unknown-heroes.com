@@ -1,0 +1,19 @@
+2007.01.03 17:07
+
+Victim: AVON259
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Destroyed: Capsule
+System: Y9G-KS
+Security: 0.0
+
+Involved parties:
+
+Name: Brigar Starcleaver (laid the final blow)
+Security: -3.6
+Alliance: Anarchy Empire
+Corp: PAX Interstellar Services
+Ship: Thrasher
+Weapon: 280mm Howitzer Artillery II
+
+

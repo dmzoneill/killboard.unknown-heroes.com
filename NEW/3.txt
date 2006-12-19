@@ -1,0 +1,141 @@
+2006.04.24 19:37
+
+Victim: pipvac
+Alliance: Serenus Letum
+Corp: People's Front Of Judea
+Destroyed: Enyo
+System: CZDJ-1
+Security: 0.0
+
+Involved parties:
+
+Name: Matt Stoner (laid the final blow)
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+Name: 31i73
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Cerberus
+Weapon: Scourge Heavy Missile
+
+Name: AXi0S
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Freelancer Union
+Ship: Megathron
+Weapon: 'Arbalest' Assault Missile Launcher
+
+Name: Qanael Radlari
+Security: 1.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: ShyLion
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Lords Of Guile
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+Name: Veugle
+Security: 2.3
+Alliance: Freelancer Alliance
+Corp: Freelancer Union
+Ship: Typhoon
+Weapon: Wrath Cruise Missile
+
+Name: IDesert FoxI
+Security: 2.1
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Ferox
+Weapon: Scourge Heavy Missile
+
+Name: CelticWarrior
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Lords Of Guile
+Ship: Tempest
+Weapon: Heavy Nosferatu I
+
+Name: Kolombus
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Immortal Serial Killers
+Ship: Megathron
+Weapon: Megathron
+
+Name: trakli
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Corp 101
+Ship: Megathron
+Weapon: Megathron
+
+Name: Seventh Star
+Security: 4.4
+Alliance: Freelancer Alliance
+Corp: Gantor Paxnor Corp
+Ship: Raven
+Weapon: Juggernaut Torpedo
+
+Name: haq aan
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Lords Of Guile
+Ship: Claw
+Weapon: Claw
+
+Name: Cazziel
+Security: 1.8
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Dominix
+Weapon: Dominix
+
+Name: Alexis Slaymaker
+Security: 1.2
+Alliance: Freelancer Alliance
+Corp: Freelancer Union
+Ship: Enyo
+Weapon: Stasis Webifier I
+
+Name: noba
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Royal Flying Aces
+Ship: Brutix
+Weapon: Brutix
+
+Name: kirtan Loar
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Corp 101
+Ship: Raven
+Weapon: Siege Missile Launcher II
+
+Name: Nil Desperandum
+Security: 4.7
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Apocalypse
+Weapon: Apocalypse
+
+
+Destroyed items:
+
+125mm Railgun II
+Upgraded 'Limos' Standard Missile Bay I
+1MN Afterburner I
+Small Armor Repairer II
+Radioisotope Adaptive Nano Membrane I
+Warp Disruptor I (Cargo)
+Javelin S, Qty: 2000 (Cargo)
+Spike S, Qty: 1360 (Cargo)

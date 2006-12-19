@@ -1,0 +1,114 @@
+2007.03.20 22:51
+
+Victim: Puz'ZaW
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Destroyed: Rupture
+System: O-BDXB
+Security: 0.0
+
+Involved parties:
+
+Name: Badboy K
+Security: 4.2
+Alliance: FATAL Alliance
+Corp: FATAL REVELATIONS
+Ship: Hurricane
+Weapon: Havoc Heavy Missile
+
+Name: Breed Love
+Security: -0.3
+Alliance: FATAL Alliance
+Corp: FATAL REVELATIONS
+Ship: Megathron
+Weapon: Neutron Blaster Cannon II
+
+Name: Maasu
+Security: -1.5
+Alliance: FATAL Alliance
+Corp: FATAL REVELATIONS
+Ship: Sabre
+Weapon: Sabre
+
+Name: Enchantres
+Security: 5.0
+Alliance: FATAL Alliance
+Corp: FATAL REVELATIONS
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: TinmanSAC
+Security: 2.8
+Alliance: FATAL Alliance
+Corp: FATAL REVELATIONS
+Ship: Myrmidon
+Weapon: 250mm Railgun II
+
+Name: Kyar
+Security: 4.1
+Alliance: FATAL Alliance
+Corp: FATAL REVELATIONS
+Ship: Drake
+Weapon: Havoc Heavy Missile
+
+Name: Gunship
+Security: 4.5
+Alliance: FATAL Alliance
+Corp: FATAL REVELATIONS
+Ship: Huginn
+Weapon: Scourge Heavy Missile
+
+Name: mech2001
+Security: 3.6
+Alliance: FATAL Alliance
+Corp: FATAL REVELATIONS
+Ship: Drake
+Weapon: Heavy Missile Launcher I
+
+Name: Tamryre
+Security: 5.0
+Alliance: FATAL Alliance
+Corp: FATAL REVELATIONS
+Ship: Cyclone
+Weapon: 220mm Medium Carbine Repeating Cannon I
+
+Name: Butch Johnson (laid the final blow)
+Security: 5.0
+Alliance: FATAL Alliance
+Corp: Black Reign
+Ship: Stabber
+Weapon: Piranha Light Missile
+
+Name: tony1
+Security: 5.1
+Alliance: FATAL Alliance
+Corp: FATAL REVELATIONS
+Ship: Lachesis
+Weapon: Lachesis
+
+Name: USS OMAHA
+Security: 4.3
+Alliance: FATAL Alliance
+Corp: FATAL REVELATIONS
+Ship: Drake
+Weapon: Advanced 'Limos' Heavy Missile Bay I
+
+Name: Nyteshade
+Security: 4.0
+Alliance: FATAL Alliance
+Corp: FATAL REVELATIONS
+Ship: Drake
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+
+Destroyed items:
+
+Dual 180mm AutoCannon I
+Dual 180mm AutoCannon I
+EMP M, Qty: 261
+SV-2000 Assault Missile Bay
+Energized Reactive Membrane I
+1600mm Reinforced Titanium Plates I
+Flameburst Light Missile, Qty: 221 (Cargo)
+Bloodclaw Light Missile, Qty: 2993 (Cargo)
+

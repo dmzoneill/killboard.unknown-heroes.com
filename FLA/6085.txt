@@ -1,0 +1,33 @@
+2006.11.07 09:28
+
+Victim: Frwind
+Alliance: None
+Corp: WarBirds
+Destroyed: Probe
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: xzo
+Security: 4.7
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Eris
+Weapon: Eris
+
+Name: Formosus Funus (laid the final blow)
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Jaguar
+Weapon: 250mm Light Artillery Cannon II
+
+Name: Simon Monkoto
+Security: -0.9
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Manticore
+Weapon: Cruise Missile Launcher I
+
+

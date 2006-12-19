@@ -1,0 +1,40 @@
+2007.03.21 00:57
+
+Victim: daidvg
+Alliance: YouWhat
+Corp: Princeps Corp
+Destroyed: Capsule
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Minisoza (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Megathron
+Weapon: 425mm Carbide Railgun I
+
+Name: Quiomi
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Rhaall
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Crucifier
+Weapon: Stasis Webifier I
+
+Name: Logand Delta
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Ship: Drake
+Weapon: 'Arbalest' Heavy Missile Launcher
+
+

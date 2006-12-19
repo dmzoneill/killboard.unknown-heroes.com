@@ -1,0 +1,71 @@
+2007.02.11 19:56
+
+Victim: Damfoose
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Scorpion
+System: Eystur
+Security: 0.9
+
+Involved parties:
+
+Name: Bwuce Willis
+Security: 5.1
+Alliance: Privateer Alliance
+Corp: Privateers
+Ship: Stabber
+Weapon: 220mm Medium Carbine Repeating Cannon I
+
+Name: eXtas
+Security: 1.9
+Alliance: Privateer Alliance
+Corp: Kemono.
+Ship: Lachesis
+Weapon: Heavy Missile Launcher II
+
+Name: Zeenix
+Security: 4.2
+Alliance: Privateer Alliance
+Corp: x13
+Ship: Deimos
+Weapon: Fleeting Propulsion Inhibitor I
+
+Name: JoCool (laid the final blow)
+Security: -0.6
+Alliance: Privateer Alliance
+Corp: x13
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+Name: Ingvi
+Security: 2.0
+Alliance: Privateer Alliance
+Corp: Privateers
+Ship: Stabber
+Weapon: Fleeting Warp Scrambler I
+
+Name: gerku
+Security: -1.9
+Alliance: Privateer Alliance
+Corp: x13
+Ship: Eos
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: Smedemark
+Security: -2.0
+Alliance: Privateer Alliance
+Corp: x13
+Ship: Dominix
+Weapon: Warp Disruptor II
+
+
+Destroyed items:
+
+Heavy Nosferatu I
+150mm Railgun II
+Iridium Charge S, Qty: 40
+1600mm Reinforced Nanofiber Plates I
+1600mm Reinforced Nanofiber Plates I
+Paradise Cruise Missile, Qty: 321 (Cargo)
+Hammerhead I, Qty: 2 (Drone Bay)
+

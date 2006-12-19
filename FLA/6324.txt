@@ -1,0 +1,47 @@
+2006.11.12 14:14
+
+Victim: Di Voxi
+Alliance: New Eve Order
+Corp: 5th Front enterprises
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Formosus Funus
+Security: 3.8
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Jaguar
+Weapon: 250mm Light Artillery Cannon II
+
+Name: D2O HeavyWater (laid the final blow)
+Security: 4.6
+Alliance: None
+Corp: Synergy.
+Ship: Crow
+Weapon: Bloodclaw Precision Light Missile
+
+Name: Kristinne
+Security: 0.3
+Alliance: O X I D E
+Corp: W33D Corp.
+Ship: Ares
+Weapon: Gremlin Rocket
+
+Name: Soldroz
+Security: 4.2
+Alliance: Freelancer Alliance
+Corp: Thors Hammers
+Ship: Raptor
+Weapon: Standard Missile Launcher II
+
+Name: Sperrzone
+Security: 5.0
+Alliance: None
+Corp: Stardust Heavy Industries
+Ship: Armageddon
+Weapon: Mega Anode Particle Stream I
+
+

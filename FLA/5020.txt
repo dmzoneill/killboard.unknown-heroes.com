@@ -1,0 +1,40 @@
+2007.04.21 02:48
+
+Victim: Alski
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Kestrel
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Athanasios Anastasiou (laid the final blow)
+Security: 5.0
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Hurricane
+Weapon: 720mm Howitzer Artillery II
+
+Name: thedeadcows
+Security: 0.2
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Armageddon
+Weapon: Dragonfly
+
+Name: Raffer Steele
+Security: 2.6
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Thanatos
+Weapon: Dragonfly
+
+
+Destroyed items:
+
+Rocket Launcher I
+Small C5-L Emergency Shield Overload I
+1MN MicroWarpdrive I
+Damage Control I
+

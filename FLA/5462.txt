@@ -1,0 +1,47 @@
+2006.10.05 13:51
+
+Victim: Max Spada
+Alliance: None
+Corp: Privateers
+Destroyed: Rupture
+System: Litiura
+Security: 0.5
+
+Involved parties:
+
+Name: bidman (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+Name: Drakin Korin
+Security: 3.2
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Ishtar
+Weapon: Hammerhead II
+
+Name: Midiana
+Security: 0.6
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Ishkur
+Weapon: Warrior I
+
+
+Destroyed items:
+
+425mm AutoCannon II
+425mm AutoCannon II
+Medium 'Ghoul' Energy Siphon I
+'Malkuth' Heavy Missile Launcher I
+Warp Disruptor I
+'Langour' Drive Disruptor I
+Armor Explosive Hardener I
+Armor Thermic Hardener I
+Barrage M, Qty: 529 (Cargo)
+Scourge Heavy Missile, Qty: 218 (Cargo)
+Warrior II, Qty: 4 (Drone Bay)
+

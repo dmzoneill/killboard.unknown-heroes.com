@@ -1,0 +1,33 @@
+2006.10.23 20:09
+
+Victim: Lone flyer
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Destroyed: Retribution
+System: MI6O-6
+Security: 0.0
+
+Involved parties:
+
+Name: Murdoch Morf (laid the final blow)
+Security: 0.6
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+Name: Unslev Di'Sret
+Security: -0.5
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Unknown
+Weapon: Dual Light Pulse Laser II
+
+
+Destroyed items:
+
+Medium Pulse Laser II
+Medium Pulse Laser II
+Conflagration S
+Multifrequency S, Qty: 2 (Cargo)
+

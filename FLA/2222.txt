@@ -1,0 +1,106 @@
+2007.01.28 18:11
+
+Victim: DrElJefeMD
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Destroyed: Tempest
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: EL TITAN (laid the final blow)
+Security: 1.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Vagabond
+Weapon: Dual 180mm AutoCannon II
+
+Name: Beast Hun
+Security: 4.7
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Abaddon
+Weapon: Tachyon Beam Laser II
+
+Name: Memphisz
+Security: 0.3
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Pyrotesea
+Security: 4.6
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Hyperion
+Weapon: Hyperion
+
+Name: Letum Omnis
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Hyperion
+Weapon: Hyperion
+
+Name: Marschall
+Security: 2.1
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Misticue
+Security: -1.5
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Spartac0
+Security: 2.3
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+Name: papaPadla
+Security: 4.1
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Pilgrim
+Weapon: Tracking Disruptor II
+
+Name: Sir JoJo
+Security: 2.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Huginn
+Weapon: Huginn
+
+Name: Okeanos
+Security: 0.3
+Alliance: Band of Brothers
+Corp: TAOSP
+Ship: Arazu
+Weapon: Phased Muon Sensor Disruptor I
+
+
+Destroyed items:
+
+1400mm Howitzer Artillery II
+1400mm Howitzer Artillery II
+1400mm Howitzer Artillery II
+1400mm Howitzer Artillery II
+Large 'Solace' I Remote Bulwark Reconstruction
+Tremor L, Qty: 16
+Prototype I Sensor Booster
+F-90 Positional Sensor Subroutines
+Tracking Computer II
+Tracking Computer II
+1600mm Reinforced Rolled Tungsten Plates I
+Reactor Control Unit I
+Tremor L, Qty: 1470 (Cargo)
+Medium Armor Maintenance Bot I, Qty: 4 (Drone Bay)
+

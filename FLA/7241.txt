@@ -1,0 +1,151 @@
+2006.05.14 00:48
+
+Victim: AsKiCoD
+Alliance: Sparta Alliance
+Corp: ATROX.
+Destroyed: Armageddon
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: PiKacho
+Security: 2.9
+Alliance: None
+Corp: Penetrate
+Ship: Tempest
+Weapon: Tempest
+
+Name: DOARota
+Security: 5.1
+Alliance: None
+Corp: Drones of Annihilation
+Ship: Megathron
+Weapon: Megathron
+
+Name: Clydar Dramos (laid the final blow)
+Security: 2.1
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+Name: DeSantis
+Security: 1.6
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Raven
+Weapon: Wrath Cruise Missile
+
+Name: Rytak
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Thorax
+Weapon: Thorax
+
+Name: mr hydeuk
+Security: 5.0
+Alliance: None
+Corp: Drones of Annihilation
+Ship: Raven
+Weapon: Paradise Precision Cruise Missile
+
+Name: DOABolt
+Security: 5.0
+Alliance: None
+Corp: Drones of Annihilation
+Ship: Scorpion
+Weapon: 'Hypnos' Multispectral ECM I
+
+Name: Filz
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Freelancer Union
+Ship: Brutix
+Weapon: Brutix
+
+Name: haq aan
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Lords Of Guile
+Ship: Claw
+Weapon: Claw
+
+Name: Dark Dreamon
+Security: 0.3
+Alliance: Freelancer Alliance
+Corp: Lords Of Guile
+Ship: Megathron
+Weapon: Megathron
+
+Name: Veugle
+Security: 2.3
+Alliance: Freelancer Alliance
+Corp: Freelancer Union
+Ship: Stabber
+Weapon: Stabber
+
+Name: Hojo Norem
+Security: 0.4
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Ferox
+Weapon: Ferox
+
+Name: Tharg
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: Immortal Serial Killers
+Ship: Taranis
+Weapon: Initiated Harmonic Warp Jammer I
+
+Name: SATAN
+Security: -1.5
+Alliance: None
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Remote Sensor Dampener II
+
+Name: Kremnican
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Kestrel
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: DrunkenDwarf
+Security: 0.4
+Alliance: None
+Corp: Drones of Annihilation
+Ship: Falcon
+Weapon: ECM - White Noise Generator II
+
+Name: Drunken Claptrap
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Corp 101
+Ship: Pilgrim
+Weapon: Balmer Series Targeting Inhibitor I
+
+Name: Chiizukeeki
+Security: 1.9
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery I
+
+
+Destroyed items:
+
+Mega Pulse Laser I
+Mega Pulse Laser I
+Infrared L
+Infrared L
+Infrared L
+Drone Link Augmentor I
+Sensor Booster I
+Sensor Booster I
+Microcell Nanite Kinetic Hardener I
+Armor Kinetic Hardener I
+

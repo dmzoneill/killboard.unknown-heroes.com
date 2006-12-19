@@ -1,0 +1,148 @@
+2007.01.20 01:16
+
+Victim: hardgit
+Alliance: Triumvirate.
+Corp: D00M.
+Destroyed: Raven
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Goca
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Raven
+Weapon: Mjolnir Javelin Torpedo
+
+Name: KriegDrachen
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Sabre
+Weapon: Sabre
+
+Name: Jaig Maldara
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Rokh
+Weapon: Rokh
+
+Name: Kaand (laid the final blow)
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Myrmidon
+Weapon: Heavy Electron Blaster II
+
+Name: Esvi Adhorsen
+Security: 2.1
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Raven
+Weapon: Raven
+
+Name: Nukuquqa Hestase
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Caracal
+Weapon: Thunderbolt Heavy Missile
+
+Name: Soldroz
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Raven
+Weapon: Cataclysm Cruise Missile
+
+Name: Swindy
+Security: 1.4
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: Chalimar
+Security: 1.5
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Arazu
+Weapon: Arazu
+
+Name: Indigo Callypso
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Crow
+Weapon: Bloodclaw Precision Light Missile
+
+Name: MrMaggot
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Scorpion
+Weapon: Cataclysm Cruise Missile
+
+Name: Nya
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Sils wife
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Brutix
+Weapon: Brutix
+
+Name: bjugis
+Security: 0.6
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Thorax
+Weapon: Thorax
+
+Name: John Linski
+Security: 2.7
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Caracal
+Weapon: Bloodclaw Light Missile
+
+Name: Cobra64
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: digital oxygen
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Megathron
+Weapon: 425mm 'Scout' I Accelerator Cannon
+
+
+Destroyed items:
+
+Medium Diminishing Power System Drain I
+Juggernaut Torpedo, Qty: 21
+Siege Missile Launcher II, Qty: 5
+Heavy F-RX Prototype I Capacitor Boost
+Invulnerability Field II
+Photon Scattering Field II
+Heat Dissipation Field II
+Ballistic Control System II
+Power Diagnostic System II
+Cap Booster 800, Qty: 6 (Cargo)
+Inferno Torpedo, Qty: 600 (Cargo)
+Mjolnir Torpedo, Qty: 700 (Cargo)
+Hornet II, Qty: 5 (Drone Bay)
+Infiltrator II, Qty: 3 (Drone Bay)
+Hammerhead II (Drone Bay)

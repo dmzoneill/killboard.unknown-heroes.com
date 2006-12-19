@@ -1,0 +1,26 @@
+2006.11.16 19:52
+
+Victim: Loci Sabage
+Alliance: Interstellar Starbase Syndicate
+Corp: The Praxis Initiative
+Destroyed: Velator
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Midiana
+Security: 1.1
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Ishtar
+Weapon: Ishtar
+
+Name: noba (laid the final blow)
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Lachesis
+Weapon: 250mm Railgun II
+
+

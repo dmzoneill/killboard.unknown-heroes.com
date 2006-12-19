@@ -1,0 +1,96 @@
+2007.03.08 17:43
+
+Victim: khazid
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Destroyed: Armageddon
+System: XZH-4X
+Security: 0.0
+
+Involved parties:
+
+Name: Jonas123
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Ferox
+Weapon: Hornet I
+
+Name: Magere
+Security: 3.0
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Thorax
+Weapon: Thorax
+
+Name: Allya Rierre
+Security: -0.1
+Alliance: GoonSwarm
+Corp: Visual I.D
+Ship: Thorax
+Weapon: Vespa I
+
+Name: Dramaticus
+Security: 4.2
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Dagam
+Security: 0.2
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Dominix
+Weapon: Medium Nosferatu I
+
+Name: scottykillya (laid the final blow)
+Security: 3.5
+Alliance: GoonSwarm
+Corp: Visual I.D
+Ship: Ferox
+Weapon: Thunderbolt Heavy Missile
+
+Name: Fate Amen
+Security: 2.8
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Catalyst
+Weapon: Catalyst
+
+Name: deadtear
+Security: 4.7
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Brutix
+Weapon: Brutix
+
+Name: Vile rat
+Security: 5.0
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Thorax
+Weapon: Thorax
+
+Name: Fryrr
+Security: 4.0
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Incursus
+Weapon: 125mm Railgun I
+
+Name: Nesnews Lodbrok
+Security: 0.1
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Vigil
+Weapon: Foxfire Rocket
+
+Name: Andre Carnegi
+Security: 1.7
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Blackbird
+Weapon: ECM - Phase Inverter I
+
+

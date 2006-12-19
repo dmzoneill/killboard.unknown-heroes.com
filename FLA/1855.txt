@@ -1,0 +1,65 @@
+2007.01.07 02:01
+
+Victim: dastommy79
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Destroyed: Prophecy
+System: Piak
+Security: 0.7
+
+Involved parties:
+
+Name: taylor04
+Security: 0.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Jenessa (laid the final blow)
+Security: 1.1
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Muninn
+Weapon: 720mm Howitzer Artillery II
+
+Name: Elliott Manchild
+Security: -2.9
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Sleipnir
+Weapon: Sleipnir
+
+Name: Unfortunate Accident
+Security: -1.5
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: DarkEternal
+Security: 0.0
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Armageddon
+Weapon: Dual Heavy Pulse Laser II
+
+
+Destroyed items:
+
+Heavy Pulse Laser I
+Heavy Pulse Laser I
+Heavy Pulse Laser I
+Medium Nosferatu I
+Medium Nosferatu I
+Medium Nosferatu I
+Multifrequency M
+Multifrequency M
+Barton Reactor Capacitor Recharger I
+10MN MicroWarpdrive I
+Armor Kinetic Hardener I
+Armor Thermic Hardener I
+Type-D Power Core Modification: Diagnostic System
+Radio M, Qty: 4 (Cargo)
+Berserker I (Drone Bay)
+

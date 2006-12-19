@@ -1,0 +1,29 @@
+2007.04.08 19:49
+
+Victim: Chuck Dawg
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Destroyed: Crow
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Spacebar (laid the final blow)
+Security: 2.1
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Jaguar
+Weapon: 150mm Light AutoCannon II
+
+
+Destroyed items:
+
+Rocket Launcher I
+Standard Missile Launcher II
+Bloodclaw Fury Light Missile, Qty: 40
+Initiated Warp Jammer I
+Inertia Stabilizers I
+Foxfire Rocket, Qty: 50 (Cargo)
+Phalanx Rocket, Qty: 100 (Cargo)
+

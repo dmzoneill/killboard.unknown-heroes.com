@@ -1,0 +1,103 @@
+2007.03.03 18:33
+
+Victim: Urgomar
+Alliance: Myriad Alliance
+Corp: Four Rings
+Destroyed: Maller
+System: 3WE-KY
+Security: 0.0
+
+Involved parties:
+
+Name: mr passie
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: Nukuquqa Hestase
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Catalyst
+Weapon: 125mm Railgun II
+
+Name: bjugis (laid the final blow)
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Dominix
+Weapon: 425mm Railgun I
+
+Name: Nil Desperandum
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Prophecy
+Weapon: Prophecy
+
+Name: dastommy79
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Caracal
+Weapon: Bloodclaw Light Missile
+
+Name: Kimett
+Security: 2.8
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Moa
+Weapon: Moa
+
+Name: Spartan dax
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Blackbird
+Weapon: Havoc Heavy Missile
+
+Name: Aikuchi Hiddensword
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Taranis
+Weapon: Taranis
+
+Name: Daressek
+Security: 3.7
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Kestrel
+Weapon: Bloodclaw Light Missile
+
+Name: Epro
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Thrasher
+Weapon: Thrasher
+
+
+Destroyed items:
+
+Salvager I, Qty: 36
+Quad Light Beam Laser I, Qty: 3
+E5 Prototype Energy Vampire
+Multifrequency M, Qty: 2
+10MN Afterburner II
+Stasis Webifier I
+Damage Control I
+Medium Armor Repairer I
+Thermal Exhaust System I
+Energized Adaptive Nano Membrane I
+Gleaming Alloy, Qty: 38 (Cargo)
+Plush Compound, Qty: 6 (Cargo)
+Melted Capacitor Console (Cargo)
+Damaged Artificial Neural Network, Qty: 3 (Cargo)
+Fried Interface Circuit, Qty: 2 (Cargo)
+Defective Current Pump (Cargo)
+Alloyed Tritanium Bar, Qty: 2 (Cargo)
+Conductive Polymer (Cargo)
+Broken Drone Transceiver, Qty: 7 (Cargo)

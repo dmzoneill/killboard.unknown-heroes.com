@@ -1,0 +1,67 @@
+2007.04.17 00:10
+
+Victim: Christopher Cook
+Alliance: Freelancer Alliance
+Corp: Terminal Velocity Inc.
+Destroyed: Raven
+System: 85-B52
+Security: 0.0
+
+Involved parties:
+
+Name: Guristas Nullifier / Guristas
+
+Name: CannibalCorpseZor
+Security: -0.9
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Drake
+Weapon: Hobgoblin II
+
+Name: tomlinsonland (laid the final blow)
+Security: -1.5
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Drake
+Weapon: Thunderbolt Heavy Missile
+
+Name: MegaJ
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Pilgrim
+Weapon: Hammerhead II
+
+Name: Tok Ra
+Security: 2.0
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Capsule
+Weapon: J5 Prototype Warp Inhibitor I
+
+
+Destroyed items:
+
+Juggernaut Torpedo, Qty: 24
+ZW-4100 Siege Missile Bay
+ZW-4100 Siege Missile Bay
+Siege Missile Launcher I
+'Arbalest' Siege Missile Launcher
+Small Tractor Beam I
+Kinetic Deflection Amplifier I
+Kinetic Deflection Amplifier I
+Heat Dissipation Amplifier I
+Ballistic Control System II
+X-Large Shield Booster I (Cargo)
+Large Shield Transporter I, Qty: 2 (Cargo)
+Cap Recharger I (Cargo)
+Medium Capacitor Battery I (Cargo)
+Medium Proton Smartbomb I (Cargo)
+Heavy Neutron Blaster I (Cargo)
+Medium Capacitor Booster I (Cargo)
+Cruise Missile Launcher I (Cargo)
+Siege Missile Launcher I (Cargo)
+Conductive Polymer, Qty: 4 (Cargo)
+Malfunctioning Shield Emitter, Qty: 2 (Cargo)
+Local Power Plant Manager: Capacitor Flux I (Cargo)
+

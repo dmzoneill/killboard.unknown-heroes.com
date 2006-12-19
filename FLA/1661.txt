@@ -1,0 +1,85 @@
+2007.03.19 22:18
+
+Victim: Don Promillo
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Destroyed: Thorax
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Kaand
+Security: 3.5
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Megathron
+Weapon: Megathron
+
+Name: StrikerOneSevern
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Rupture
+Weapon: Hornet II
+
+Name: Matrixcvd
+Security: 5.0
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+Name: Zephia
+Security: -9.2
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Jonkai
+Security: -3.9
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Balam Acab
+Security: 3.4
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Harpy
+Weapon: Harpy
+
+Name: Tiberius Drake (laid the final blow)
+Security: 4.2
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Brutix
+Weapon: 250mm Railgun I
+
+Name: Ocara Nezus
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Hawk
+Weapon: Bloodclaw Fury Light Missile
+
+Name: Rhaall
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Crucifier
+Weapon: Warp Disruptor I
+
+
+Destroyed items:
+
+150mm Railgun II
+150mm Railgun II
+Antimatter Charge S, Qty: 105
+Medium F-RX Prototype I Capacitor Boost
+Voltaic Nanite Magnetic Membrane I
+Voltaic Nanite Reflective Membrane I
+1600mm Reinforced Titanium Plates I
+

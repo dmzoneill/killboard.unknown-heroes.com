@@ -1,0 +1,166 @@
+2007.03.25 00:04
+
+Victim: mama guru
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Destroyed: Apocalypse
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: sakana
+Security: -0.9
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Megathron
+Weapon: Megathron
+
+Name: JaiMaster (laid the final blow)
+Security: 2.7
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Typhoon
+Weapon: Dual 425mm AutoCannon II
+
+Name: cheapy
+Security: 2.0
+Alliance: Red Horizon
+Corp: Red Horizon Inc
+Ship: Thorax
+Weapon: Thorax
+
+Name: Darthirishguy
+Security: 1.6
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Jonkai
+Security: -3.9
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Denaris1
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Ferox
+Weapon: Ferox
+
+Name: Iss Hogai
+Security: 5.0
+Alliance: Zenith Affinity
+Corp: GREY COUNCIL
+Ship: Caracal
+Weapon: Thunderbolt Heavy Missile
+
+Name: Sabe
+Security: 5.0
+Alliance: Red Horizon
+Corp: Red Horizon Inc
+Ship: Gila
+Weapon: Gila
+
+Name: ISpydeRI
+Security: 5.0
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Drake
+Weapon: Thunderbolt Heavy Missile
+
+Name: Fugnut
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Tiberius Drake
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Brutix
+Weapon: Brutix
+
+Name: Drako Invictus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Absolution
+Weapon: Absolution
+
+Name: Drake Smith
+Security: 0.1
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Osprey
+Weapon: Scourge Heavy Missile
+
+Name: Korudon
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Chuck Dawg
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Crow
+Weapon: Thorn Rocket
+
+Name: StrikerOneSevern
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Rupture
+Weapon: Rupture
+
+Name: Logand Delta
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Ship: Drake
+Weapon: Widowmaker Heavy Missile
+
+Name: Vesspasiano
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Dominix
+Weapon: Ogre II
+
+Name: EvilBadger
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Hawk
+Weapon: Gremlin Rocket
+
+
+Destroyed items:
+
+Tachyon Beam Laser II
+Tachyon Beam Laser II
+Tachyon Beam Laser II
+Tachyon Beam Laser II
+Tachyon Beam Laser II
+Tachyon Beam Laser II
+Multifrequency L
+Multifrequency L
+Multifrequency L
+Multifrequency L
+Sensor Booster I
+Sensor Booster I
+Tracking Computer II
+Heat Sink II
+Heat Sink II
+Tracking Enhancer II
+Reactor Control Unit I
+Aurora L, Qty: 4 (Cargo)
+

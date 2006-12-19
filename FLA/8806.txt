@@ -1,0 +1,25 @@
+2006.12.12 20:03
+
+Victim: Mocuker
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Destroyed: Kestrel
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Krugerrand (laid the final blow)
+Security: -0.2
+Alliance: None
+Corp: 0utbreak
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+
+Destroyed items:
+
+Small Nosferatu I
+Fleeting Progressive Warp Scrambler I
+'Langour' Drive Disruptor I
+

@@ -1,0 +1,93 @@
+2007.02.04 01:21
+
+Victim: KriegDrachen
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Destroyed: Sabre
+System: 1IX-C0
+Security: 0.0
+
+Involved parties:
+
+Name: Ragotha (laid the final blow)
+Security: 1.1
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Raven
+Weapon: Mjolnir Javelin Torpedo
+
+Name: maria stallion
+Security: 3.7
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Nighthawk
+Weapon: Scourge Heavy Missile
+
+Name: Bigben
+Security: 2.1
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Muninn
+Weapon: 650mm Artillery Cannon II
+
+Name: Puls4r
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Claymore
+Weapon: Standard Missile Launcher II
+
+Name: sageO
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+Name: Maule
+Security: 4.7
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Claw
+Weapon: 150mm Light AutoCannon II
+
+Name: RagedyMan
+Security: 1.9
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Nighthawk
+Weapon: Heavy Missile Launcher II
+
+Name: Nira Li
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Harbinger
+Weapon: Harbinger
+
+Name: Empero
+Security: 0.1
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Hurricane
+Weapon: 220mm Medium 'Scout' Autocannon I
+
+
+Destroyed items:
+
+150mm Light AutoCannon II
+150mm Light AutoCannon II
+150mm Light AutoCannon II
+150mm Light AutoCannon II
+Barrage S, Qty: 160
+Interdiction Sphere Launcher I
+Gistii A-Type 1MN MicroWarpdrive
+Warp Disruptor II
+Fleeting Propulsion Inhibitor I
+Supplemental Scanning CPU I
+Type-D Altered SS Inertial Stabilizers
+Wrath Cruise Missile, Qty: 100 (Cargo)
+Type-D Power Core Modification: Capacitor Power Relay (Cargo)
+Capacitor Flux Coil I (Cargo)
+Reactor Control Unit I (Cargo)
+

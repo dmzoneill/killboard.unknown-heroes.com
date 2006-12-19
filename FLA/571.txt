@@ -1,0 +1,40 @@
+2007.02.11 00:23
+
+Victim: Greater Mind
+Alliance: None
+Corp: Agony Unleashed
+Destroyed: Capsule
+System: X-7OMU
+Security: 0.0
+
+Involved parties:
+
+Name: dctero (laid the final blow)
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: truefranco
+Security: 0.7
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Crow
+Weapon: Fleeting Warp Scrambler I
+
+Name: Hamos
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Caracal
+Weapon: Heavy Missile Launcher I
+
+Name: Elena Morkovka
+Security: 1.4
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Flycatcher
+Weapon: Rocket Launcher II
+
+

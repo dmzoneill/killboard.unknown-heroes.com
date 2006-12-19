@@ -1,0 +1,32 @@
+2007.04.18 04:36
+
+Victim: FlobbMkII
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Capsule
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Wladomir Jed (laid the final blow)
+Security: 3.7
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+Name: Hazmat 69
+Security: -1.6
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Crow
+Weapon: TE-2100 Standard Missile Bay
+
+Name: Admentus Cor'vion
+Security: -0.5
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Taranis
+Weapon: Light Neutron Blaster II
+

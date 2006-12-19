@@ -1,0 +1,41 @@
+2006.08.26 22:10
+
+Victim: Hosanna
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Destroyed: Stabber
+System: Z0-TJW
+Security: 0.0
+
+Involved parties:
+
+Name: Amber Saint (laid the final blow)
+Security: -4.7
+Alliance: Thundering Mantis
+Corp: Genos Occidere
+Ship: Rupture
+Weapon: Havoc Heavy Missile
+
+Name: Mirimon
+Security: -2.0
+Alliance: None
+Corp: Beagle Corp
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+
+Destroyed items:
+
+Dual 180mm AutoCannon II
+Dual 180mm AutoCannon II
+Dual 180mm AutoCannon II
+Medium 'Knave' I Energy Drain
+EMP M, Qty: 100
+Phased Plasma M, Qty: 234
+'Limos' Rocket Launcher I
+10MN MicroWarpdrive I
+Warp Scrambler I
+Gyrostabilizer II
+Medium Armor Repairer II
+Phased Plasma M, Qty: 2179 (Cargo)
+

@@ -1,0 +1,19 @@
+2006.10.05 02:44
+
+Victim: Bricker
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Destroyed: Capsule
+System: Oipo
+Security: 0.8
+
+Involved parties:
+
+Name: Caol (laid the final blow)
+Security: 0.0
+Alliance: None
+Corp: Privateers
+Ship: Stabber
+Weapon: 220mm Vulcan AutoCannon I
+
+

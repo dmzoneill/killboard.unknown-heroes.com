@@ -1,0 +1,105 @@
+2007.03.13 21:38
+
+Victim: Tallianna Avenkarde
+Alliance: YouWhat
+Corp: Beasts of Burden
+Destroyed: Megathron
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: ifeelit2
+Security: 5.0
+Alliance: Forces of Freedom
+Corp: Just Cloned Again
+Ship: Hyperion
+Weapon: Hammerhead II
+
+Name: xinndo jagged (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Drake
+Weapon: Havoc Heavy Missile
+
+Name: Khelia
+Security: 0.5
+Alliance: Dusk and Dawn
+Corp: Stardust Heavy Industries
+Ship: Myrmidon
+Weapon: Hammerhead I
+
+Name: ninev0lts
+Security: -1.2
+Alliance: None
+Corp: Corehounds
+Ship: Caracal
+Weapon: Hammerhead I
+
+Name: Praetorian Mardou
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Rokh
+Weapon: Rokh
+
+Name: Alianore
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Capsule
+Weapon: 125mm Railgun I
+
+Name: other mickey
+Security: 2.9
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Ares
+Weapon: Flameburst Light Missile
+
+Name: Minisoza
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Enyo
+Weapon: Enyo
+
+Name: Leonardo Sabrioski
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Crow
+Weapon: Rocket Launcher II
+
+Name: misscoda
+Security: 3.8
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Raven
+Weapon: 'Arbalest' Siege Missile Launcher
+
+Name: MrMaggot
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Hawk
+Weapon: TE-2100 Standard Missile Bay
+
+Name: Drist
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Ferox
+Weapon: Heavy Missile Launcher I
+
+
+Destroyed items:
+
+Limited Mega Ion Blaster I
+Neutron Blaster Cannon I
+Antimatter Charge L, Qty: 337
+Large F-4a Ld-Sulfate I Capacitor Charge Unit
+Large 'Accommodation' Vestment Reconstructer I
+Energized Adaptive Nano Membrane I
+

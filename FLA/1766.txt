@@ -1,0 +1,30 @@
+2007.01.02 21:12
+
+Victim: darkmyth
+Alliance: Freelancer Alliance
+Corp: X.T.R
+Destroyed: Retriever
+System: Oipo
+Security: 0.8
+
+Involved parties:
+
+Name: Midiana (laid the final blow)
+Security: -1.5
+Alliance: None
+Corp: Nexus Legion
+Ship: Enyo
+Weapon: Light Neutron Blaster II
+
+
+Destroyed items:
+
+Strip Miner I
+Strip Miner I
+Strip Miner I
+Strip Miner I
+Strip Miner I
+1MN Afterburner I
+Beta Hull Mod Expanded Cargo
+Solid Pyroxeres, Qty: 344 (Cargo)
+

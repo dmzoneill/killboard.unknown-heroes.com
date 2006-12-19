@@ -1,0 +1,47 @@
+2007.02.24 07:53
+
+Victim: scoie13
+Alliance: Agony Empire
+Corp: Agony Unleashed
+Destroyed: Rifter
+System: O-N8XZ
+Security: 0.0
+
+Involved parties:
+
+Name: EM00
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Almagar Phog
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Blackbird
+Weapon: Thunderbolt Heavy Missile
+
+Name: Scotticus (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Stabber
+Weapon: Flameburst Light Missile
+
+
+Destroyed items:
+
+200mm AutoCannon I
+200mm AutoCannon I
+200mm AutoCannon I
+Carbonized Lead S, Qty: 75
+Phalanx Rocket, Qty: 30
+'Malkuth' Rocket Launcher I
+Monopropellant I Hydrazine Boosters
+Gyrostabilizer I
+Nanofiber Internal Structure I
+Carbonized Lead S, Qty: 2865 (Cargo)
+Phalanx Rocket, Qty: 76 (Cargo)
+

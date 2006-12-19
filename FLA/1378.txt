@@ -1,0 +1,19 @@
+2007.03.12 00:20
+
+Victim: Desdemonia
+Alliance: None
+Corp: Tao Tribe
+Destroyed: Caldari Shuttle
+System: MJYW-3
+Security: 0.0
+
+Involved parties:
+
+Name: WolfRavage (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Hyperion
+Weapon: 425mm Railgun I
+
+

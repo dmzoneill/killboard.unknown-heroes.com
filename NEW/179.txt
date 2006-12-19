@@ -1,0 +1,95 @@
+2007.02.02 22:08
+
+Victim: Terrabyte44
+Alliance: The Core Collective
+Corp: Emergent Chaos
+Destroyed: Gallente Shuttle
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Hojo Norem
+Security: 3.2
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Cormorant
+Weapon: Cormorant
+
+Name: Swanny231
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Crow
+Weapon: Patterned Stasis Web I
+
+Name: Mikal Drey
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Huginn
+Weapon: Havoc Heavy Missile
+
+Name: truefranco
+Security: 0.2
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Darkwing Death (laid the final blow)
+Security: 0.0
+Alliance: None
+Corp: Amesha Spentaz Holdings
+Ship: Rokh
+Weapon: 425mm Compressed Coil Gun I
+
+Name: mrrabit
+Security: 3.3
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Thrasher
+Weapon: Standard Missile Launcher I
+
+Name: Teck7
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ishtar
+Weapon: Ishtar
+
+Name: Shassandra
+Security: 4.5
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Taranis
+Weapon: Taranis
+
+Name: Ocara Nezus
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Crow
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+Name: Illesa
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Wolf
+Weapon: TE-2100 Standard Missile Bay
+
+Name: Cockroach
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Purifier
+Weapon: Purifier
+
+Name: Clavain Treesmighter
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Griffin
+Weapon: ECM - Multispectral Jammer I
+

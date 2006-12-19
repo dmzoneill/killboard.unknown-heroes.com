@@ -1,0 +1,51 @@
+2006.12.21 21:08
+
+Victim: Rhaall
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Destroyed: Crucifier
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: taylor04 (laid the final blow)
+Security: -1.7
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Rapier
+Weapon: 720mm Howitzer Artillery II
+
+Name: K Shara
+Security: 3.2
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Plague Rexus
+Security: 5.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Arazu
+Weapon: 250mm Railgun II
+
+Name: Darknesss
+Security: -1.2
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Ares
+Weapon: Ares
+
+
+Destroyed items:
+
+Small Nosferatu I
+1MN MicroWarpdrive I
+Warp Scrambler I
+Stasis Webifier I
+Small Armor Repairer I
+Energized Adaptive Nano Membrane I
+Micro Auxiliary Power Core I
+Warp Disruptor I (Cargo)
+

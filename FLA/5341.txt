@@ -1,0 +1,27 @@
+2007.04.25 23:54
+
+Victim: Rhaven
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Destroyed: Maller
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Orange Species (laid the final blow)
+Security: -2.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Ragnarok
+Weapon: Gjallarhorn
+
+
+Destroyed items:
+
+Focused Medium Beam Laser I
+Focused Medium Beam Laser I
+Standard M
+Medium F-4a Ld-Sulfate I Capacitor Charge Unit
+Local Power Plant Manager: Reaction Control I
+

@@ -1,0 +1,90 @@
+2007.03.02 15:31
+
+Victim: OriaZ
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Destroyed: Deimos
+System: R3W-XU
+Security: 0.0
+
+Involved parties:
+
+Name: Tregaron
+Security: 1.7
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Cyclone
+Weapon: Valkyrie II
+
+Name: Sgt Anti
+Security: -0.5
+Alliance: Dusk and Dawn
+Corp: Black Lance
+Ship: Eagle
+Weapon: Eagle
+
+Name: marian chu
+Security: -0.1
+Alliance: None
+Corp: Shadow of the Colossus
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery I
+
+Name: IroN HiDE
+Security: -1.6
+Alliance: Dusk and Dawn
+Corp: Black Lance
+Ship: Hawk
+Weapon: Bloodclaw Light Missile
+
+Name: Roter Baron
+Security: -1.1
+Alliance: Dusk and Dawn
+Corp: Asgard Schiffswerften
+Ship: Sleipnir
+Weapon: 650mm Artillery Cannon II
+
+Name: Sir Oni
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Cataclysm Enterprises
+Ship: Crow
+Weapon: Shadow Serpentis Warp Disruptor
+
+Name: Marvel Master
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Asgard Schiffswerften
+Ship: Crow
+Weapon: Fleeting Warp Scrambler I
+
+Name: Sicarius
+Security: -1.0
+Alliance: RAZOR Alliance
+Corp: Thundercats
+Ship: Flycatcher
+Weapon: Sabretooth Light Missile
+
+Name: Frogydog (laid the final blow)
+Security: -4.2
+Alliance: RAZOR Alliance
+Corp: Thundercats
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Mistrall
+Security: 0.8
+Alliance: Dusk and Dawn
+Corp: Black Lance
+Ship: Falcon
+Weapon: BZ-5 Neutralizing Spatial Destabilizer ECM
+
+
+Destroyed items:
+
+Medium 'Knave' I Energy Drain
+Void M, Qty: 120
+Medium Armor Repairer II
+Energized Adaptive Nano Membrane II
+Energized Reactive Membrane II
+

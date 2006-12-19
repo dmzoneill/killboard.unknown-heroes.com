@@ -1,0 +1,78 @@
+2007.03.10 20:59
+
+Victim: Evil Krazy
+Alliance: Xelas Alliance
+Corp: Catalyst Reaction
+Destroyed: Tristan
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Jonas123 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Ferox
+Weapon: 250mm Compressed Coil Gun I
+
+Name: Admiral Hunter
+Security: 4.5
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: Korudon
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Megathron
+Weapon: 425mm Railgun I
+
+Name: mne lee
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Caracal
+Weapon: Heavy Missile Launcher I
+
+Name: Tripwire
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Celestis
+Weapon: Remote Sensor Dampener II
+
+Name: Sicario
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Drake
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+Name: Shiftless
+Security: 3.1
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Drake
+Weapon: Advanced 'Limos' Heavy Missile Bay I
+
+Name: Hamos
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Raven
+Weapon: Cruise Missile Launcher I
+
+
+Destroyed items:
+
+150mm Compressed Coil Gun I
+150mm Compressed Coil Gun I
+Lead Charge S, Qty: 80
+J5 Prototype Warp Inhibitor I
+X5 Prototype I Engine Enervator
+Small Armor Repairer II
+Mark I Modified SS Nanofiber Structure
+

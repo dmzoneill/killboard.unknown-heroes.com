@@ -1,0 +1,47 @@
+2007.02.28 15:30
+
+Victim: aldkjfh
+Alliance: None
+Corp: Imperial Academy
+Destroyed: Executioner
+System: YZ-LQL
+Security: 0.0
+
+Involved parties:
+
+Name: Aldo Idahar
+Security: -0.4
+Alliance: Dusk and Dawn
+Corp: moon7empler
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: JaiMaster (laid the final blow)
+Security: 2.6
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Cyclone
+Weapon: 720mm Howitzer Artillery II
+
+Name: Mark Frank
+Security: 1.9
+Alliance: Dusk and Dawn
+Corp: moon7empler
+Ship: Eris
+Weapon: Eris
+
+Name: TSS1
+Security: 1.6
+Alliance: Dusk and Dawn
+Corp: moon7empler
+Ship: Typhoon
+Weapon: E500 Prototype Energy Vampire
+
+
+Destroyed items:
+
+Infrared S
+Civilian Afterburner
+Damage Control I
+Civilian Armor Repairer
+

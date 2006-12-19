@@ -1,0 +1,19 @@
+2006.11.23 05:44
+
+Victim: Shavik Sumi
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Destroyed: Blackbird
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Aragorn Elesar (laid the final blow)
+Security: -1.8
+Alliance: The Sani Sabik
+Corp: Omniscient Order
+Ship: Armageddon
+Weapon: Tachyon Beam Laser II
+
+

@@ -1,0 +1,26 @@
+2007.04.09 01:22
+
+Victim: torreson
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Destroyed: Rifter
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Minmatar Control Tower Medium / Eternity INC. (laid the final blow)
+
+
+Destroyed items:
+
+150mm Railgun I
+125mm Railgun I
+Iron Charge S, Qty: 49
+Iridium Charge S, Qty: 49
+Lead Charge S, Qty: 16
+Small Converse I Deflection Catalyzer
+Iron Charge S, Qty: 20 (Cargo)
+Lead Charge S, Qty: 60 (Cargo)
+Lead Charge M, Qty: 100 (Cargo)
+

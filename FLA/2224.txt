@@ -1,0 +1,164 @@
+2007.01.28 18:16
+
+Victim: LTSmash
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Destroyed: Raven
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Pyrotesea
+Security: 4.6
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Hyperion
+Weapon: Hyperion
+
+Name: EL TITAN
+Security: 1.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Valora (laid the final blow)
+Security: 2.4
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Lucy Fur
+Security: 2.8
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Memphisz
+Security: 0.3
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Tempest
+Weapon: Tempest
+
+Name: dr shark
+Security: 1.8
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Muninn
+Weapon: Muninn
+
+Name: Bone Collector44
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Misticue
+Security: -1.5
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Spartac0
+Security: 2.3
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: DAViiD
+Security: -0.8
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Taranis
+Weapon: Taranis
+
+Name: Beast Hun
+Security: 4.7
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Abaddon
+Weapon: Tachyon Beam Laser II
+
+Name: Sir JoJo
+Security: 2.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Huginn
+Weapon: Huginn
+
+Name: Puls4r
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: Repiv
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Marschall
+Security: 2.1
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: DTee
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Crow
+Weapon: Piranha Light Missile
+
+Name: BlueVelvet
+Security: 4.3
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Taranis
+Weapon: 125mm Railgun II
+
+Name: Okeanos
+Security: 0.3
+Alliance: Band of Brothers
+Corp: TAOSP
+Ship: Arazu
+Weapon: Phased Muon Sensor Disruptor I
+
+Name: Letum Omnis
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Hyperion
+Weapon: Hyperion
+
+
+Destroyed items:
+
+Iron Charge L, Qty: 80
+Cataclysm Cruise Missile, Qty: 24
+Wrath Cruise Missile, Qty: 24
+'Arbalest' Cruise Launcher I
+'Arbalest' Cruise Launcher I
+Large Shield Extender II
+Large Shield Booster II
+Invulnerability Field II
+Sensor Booster II
+Sensor Booster II
+Damage Control II
+Ballistic Control System II
+Power Diagnostic System II
+Power Diagnostic System II
+Iron Charge L, Qty: 910 (Cargo)
+Guristas Tungsten Charge L, Qty: 37 (Cargo)
+

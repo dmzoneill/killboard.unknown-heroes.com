@@ -1,0 +1,30 @@
+2007.04.18 09:01
+
+Victim: Laerana
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Vexor
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Guristas Eradicator / Guristas
+
+Name: Zandra Bran (laid the final blow)
+Security: 0.1
+Alliance: Terror In The System
+Corp: Generals Of Destruction Syndicate
+Ship: Myrmidon
+Weapon: Ogre II
+
+
+Destroyed items:
+
+Drone Link Augmentor I
+Eutectic I Capacitor Charge Array
+Medium I-a Polarized Armor Regenerator
+Armor Kinetic Hardener I
+1600mm Reinforced Steel Plates I
+Vespa I (Drone Bay)
+

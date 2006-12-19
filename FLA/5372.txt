@@ -1,0 +1,34 @@
+2007.04.27 18:59
+
+Victim: Draylin Ohm
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Thorax
+System: Anttiri
+Security: 0.7
+
+Involved parties:
+
+Name: Puz'ZaW (laid the final blow)
+Security: 2.3
+Alliance: Privateer Alliance
+Corp: Beyond Divinity Inc
+Ship: Hurricane
+Weapon: Dual 180mm AutoCannon II
+
+
+Destroyed items:
+
+125mm Railgun I
+125mm Railgun I
+125mm Railgun I
+125mm Railgun I
+Antimatter Charge S, Qty: 160
+Cap Recharger I
+Medium Armor Repairer II
+Energized Adaptive Nano Membrane I
+Armor Thermic Hardener I
+1600mm Reinforced Rolled Tungsten Plates I
+Antimatter Charge S, Qty: 616 (Cargo)
+Hobgoblin I (Drone Bay)
+

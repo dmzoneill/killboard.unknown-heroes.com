@@ -1,0 +1,44 @@
+2007.05.27 22:38
+
+Victim: Darkwing Death
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz Holdings
+Destroyed: Moa
+System: 93PI-4
+Security: 0.0
+
+Involved parties:
+
+Name: forever faithless (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Arbitrator
+Weapon: Hammerhead I
+
+Name: Cockroach
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Capsule
+Weapon: Medium Beam Laser I
+
+
+Destroyed items:
+
+250mm Railgun I
+Antimatter Charge S, Qty: 12
+Antimatter Charge M
+Antimatter Charge M
+Piranha Light Missile, Qty: 43
+Large Shield Extender I
+Tracking Computer I
+Magnetic Field Stabilizer I
+Power Diagnostic System I
+Iridium Charge S, Qty: 222 (Cargo)
+Uranium Charge S, Qty: 460 (Cargo)
+Antimatter Charge M, Qty: 747 (Cargo)
+Antimatter Charge S, Qty: 1064 (Cargo)
+Defender I, Qty: 600 (Cargo)
+Piranha Light Missile, Qty: 266 (Cargo)
+

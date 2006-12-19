@@ -1,0 +1,35 @@
+2006.12.11 20:59
+
+Victim: Stitcher
+Alliance: Freelancer Alliance
+Corp: J.I.T. Enterprises
+Destroyed: Claw
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: WarGod
+Security: -2.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Tempest
+Weapon: Vespa II
+
+Name: Teani (laid the final blow)
+Security: 1.6
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Astarte
+Weapon: Hammerhead II
+
+
+Destroyed items:
+
+Small 'Ghoul' Energy Siphon I
+Small Nosferatu I
+Piranha Light Missile, Qty: 36
+Upgraded 'Limos' Standard Missile Bay I
+Initiated Harmonic Warp Jammer I
+Nanoelectrical Co-Processor I
+

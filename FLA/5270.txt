@@ -1,0 +1,32 @@
+2007.04.23 04:06
+
+Victim: Slinktress
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Destroyed: Thorax
+System: P-2TTL
+Security: 0.0
+
+Involved parties:
+
+Name: bsspewer (laid the final blow)
+Security: 2.5
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Archon
+Weapon: Valkyrie II
+
+
+Destroyed items:
+
+Focused Medium Beam Laser I
+Focused Medium Beam Laser I
+Focused Medium Beam Laser I
+Medium Nosferatu I
+Medium Nosferatu I
+Radio M
+Radio M
+Radio M
+Warp Disruptor I
+Remote Sensor Dampener I
+

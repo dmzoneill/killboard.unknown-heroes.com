@@ -1,0 +1,56 @@
+2007.01.19 22:30
+
+Victim: Solarienne
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Destroyed: Crusader
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: xVx Scarecrow (laid the final blow)
+Security: 3.2
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: turumbor
+Security: -1.7
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Kero167
+Security: -1.9
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Capsule
+Weapon: X5 Prototype I Engine Enervator
+
+Name: David Godfrey
+Security: 4.1
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Thanatos
+Weapon: Templar
+
+
+Destroyed items:
+
+Medium Pulse Laser II
+Dual Light Pulse Laser II
+Dual Light Pulse Laser II
+Standard S
+Standard S
+Inertia Stabilizers I
+Nanofiber Internal Structure I
+Mark I Modified SS Nanofiber Structure
+Infrared S, Qty: 4 (Cargo)
+Gamma S, Qty: 2 (Cargo)
+Tracking Enhancer II (Cargo)
+Nanofiber Internal Structure I (Cargo)
+Overdrive Injector System I (Cargo)
+

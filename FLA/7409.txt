@@ -1,0 +1,132 @@
+2006.09.02 21:33
+
+Victim: Leilani Solaris
+Alliance: None
+Corp: 0utbreak
+Destroyed: Zealot
+System: 9-R6GU
+Security: 0.0
+
+Involved parties:
+
+Name: Ageha (laid the final blow)
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Apocalypse
+Weapon: Tachyon Beam Laser II
+
+Name: Puke
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Cerberus
+Weapon: Scourge Heavy Missile
+
+Name: DDaisy
+Security: 4.5
+Alliance: CORE.
+Corp: VentureCorp
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: ShiVAs PArAdOXx
+Security: 2.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Huginn
+Weapon: Huginn
+
+Name: Steven FSB
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Raven
+Weapon: Wrath Cruise Missile
+
+Name: Taffun
+Security: 2.8
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Sleipnir
+Weapon: Sleipnir
+
+Name: Moebium
+Security: 0.8
+Alliance: Imperial Republic Of the North
+Corp: Port Royal Independent Kontractors
+Ship: Cerberus
+Weapon: Havoc Fury Heavy Missile
+
+Name: casama
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Crusader
+Weapon: Crusader
+
+Name: Rickerman
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Megathron
+Weapon: Megathron
+
+Name: vladdy2
+Security: 3.4
+Alliance: CORE.
+Corp: VentureCorp
+Ship: Sleipnir
+Weapon: Sleipnir
+
+Name: Vespula
+Security: -1.1
+Alliance: None
+Corp: Blackguard Brigade
+Ship: Vengeance
+Weapon: Medium Pulse Laser II
+
+Name: Valtaer
+Security: 3.5
+Alliance: Freelancer Alliance
+Corp: Terminal Velocity Inc.
+Ship: Blackbird
+Weapon: ECM - Multispectral Jammer I
+
+Name: Needa3
+Security: 3.8
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Stabber
+Weapon: 'Arbalest' Assault Missile Launcher
+
+Name: Charlie Mike
+Security: 1.5
+Alliance: Chorus of Dawn
+Corp: Black Knight Buccaneers
+Ship: Blackbird
+Weapon: Compulsive Multispectral ECM I
+
+Name: 8ObliVioN8
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Scorpion
+Weapon: Cruise Missile Launcher II
+
+
+Destroyed items:
+
+Heavy Pulse Laser II
+Heavy Pulse Laser II
+Heavy Pulse Laser II
+Heavy Pulse Laser II
+Scorch M
+Scorch M
+Scorch M
+Medium Armor Repairer II
+Heat Sink II
+Energized Adaptive Nano Membrane II
+Dark Blood Energized Adaptive Nano Membrane
+Conflagration M, Qty: 2 (Cargo)
+

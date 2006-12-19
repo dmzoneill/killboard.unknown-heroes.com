@@ -1,0 +1,23 @@
+2006.08.06 01:31
+
+Victim: Ginzen
+Alliance: None
+Corp: Royal Amarr Institute
+Destroyed: Impairor
+System: X-7OMU
+Security: 0.0
+
+Involved parties:
+
+Name: Weeble Wooble (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Thorax
+Weapon: 250mm Railgun II
+
+
+Destroyed items:
+
+Basic Miner
+

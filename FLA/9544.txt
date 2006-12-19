@@ -1,0 +1,33 @@
+2007.05.06 01:59
+
+Victim: Sebi Fal
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Capsule
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: UberDefDef (laid the final blow)
+Security: -1.2
+Alliance: RAZOR Alliance
+Corp: Roving Guns Inc.
+Ship: Curse
+Weapon: Warrior II
+
+Name: Mufeater
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Helios
+Weapon: Hornet II
+
+Name: Chequrself
+Security: -0.4
+Alliance: RAZOR Alliance
+Corp: Cutting Edge Incorporated
+Ship: Hyperion
+Weapon: Hyperion
+
+

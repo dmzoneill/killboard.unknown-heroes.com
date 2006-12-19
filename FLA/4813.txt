@@ -1,0 +1,32 @@
+2007.04.16 04:52
+
+Victim: Teck7
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Thorax
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Witch Doctor (laid the final blow)
+Security: 0.1
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Hyperion
+Weapon: Berserker II
+
+
+Destroyed items:
+
+Light Neutron Blaster II
+Light Neutron Blaster II
+Null S, Qty: 204
+Initiated Warp Jammer I
+Medium Brief Capacitor Overcharge I
+N-Type Kinetic Hardener I
+N-Type Thermic Hardener I
+Thorium Charge S, Qty: 1200 (Cargo)
+Dread Guristas Tungsten Charge S, Qty: 1000 (Cargo)
+Null S, Qty: 3092 (Cargo)
+

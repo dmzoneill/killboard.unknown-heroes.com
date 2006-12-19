@@ -1,0 +1,32 @@
+2007.05.07 10:49
+
+Victim: Gythar
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Destroyed: Capsule
+System: OWXT-5
+Security: 0.0
+
+Involved parties:
+
+Name: Ascy (laid the final blow)
+Security: -0.4
+Alliance: Star Buccaneers
+Corp: Liga Freier Terraner
+Ship: Vengeance
+Weapon: Medium Pulse Laser II
+
+Name: Varlot
+Security: 3.9
+Alliance: Star Buccaneers
+Corp: Caille Insurance
+Ship: Taranis
+Weapon: Fleeting Warp Scrambler I
+
+Name: Blister01
+Security: 2.9
+Alliance: Star Buccaneers
+Corp: Caille Insurance
+Ship: Huginn
+Weapon: 650mm Artillery Cannon II
+

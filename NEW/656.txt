@@ -1,0 +1,122 @@
+2007.05.02 00:12
+
+Victim: Bic Drax
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Dominix
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Habraka
+Security: -2.1
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Audri Fisher (laid the final blow)
+Security: -2.2
+Alliance: Imperial Republic Of the North
+Corp: VentureCorp
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: LEXER
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Vulture
+Weapon: Vulture
+
+Name: bullwyff
+Security: 4.0
+Alliance: Imperial Republic Of the North
+Corp: Old Farts
+Ship: Vagabond
+Weapon: Fleeting Warp Scrambler I
+
+Name: Galaxyes
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: VentureCorp
+Ship: Rook
+Weapon: Havoc Heavy Missile
+
+Name: Xiang Tai
+Security: 2.5
+Alliance: Imperial Republic Of the North
+Corp: Port Royal Independent Kontractors
+Ship: Rook
+Weapon: Scourge Heavy Missile
+
+Name: Antoriaset
+Security: 0.8
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Morrganna
+Security: 4.5
+Alliance: Imperial Republic Of the North
+Corp: VentureCorp
+Ship: Myrmidon
+Weapon: Myrmidon
+
+Name: Jin Steele
+Security: 2.3
+Alliance: Imperial Republic Of the North
+Corp: Port Royal Independent Kontractors
+Ship: Ibis
+Weapon: Ibis
+
+Name: Xazier
+Security: 3.5
+Alliance: Imperial Republic Of the North
+Corp: Port Royal Independent Kontractors
+Ship: Myrmidon
+Weapon: Dual 180mm AutoCannon II
+
+Name: Nukuquqa Hestase
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Crow
+Weapon: Sabretooth Light Missile
+
+Name: haz zard
+Security: -3.1
+Alliance: The Foundation.
+Corp: Cornerstone Unlimited
+Ship: Taranis
+Weapon: Taranis
+
+Name: Kvarium Ki
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Blackbird
+Weapon: Remote Sensor Dampener I
+
+Name: Josh Causto
+Security: 3.6
+Alliance: Imperial Republic Of the North
+Corp: Port Royal Independent Kontractors
+Ship: Myrmidon
+Weapon: Myrmidon
+
+
+Destroyed items:
+
+E500 Prototype Energy Vampire
+Medium Nosferatu I
+Heavy Electrochemical Capacitor Booster I
+Sensor Booster I
+Radioisotope Kinetic Hardener I
+N-Type Thermic Hardener I
+Antimatter Charge M, Qty: 600 (Cargo)
+Radioisotope EM Hardener I (Cargo)
+Voltaic Nanite Kinetic Hardener I (Cargo)
+Berserker I, Qty: 5 (Drone Bay)

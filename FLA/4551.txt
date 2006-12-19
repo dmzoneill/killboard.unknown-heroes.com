@@ -1,0 +1,33 @@
+2007.04.14 00:06
+
+Victim: Black DeathRain
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Destroyed: Capsule
+System: O1Y-ED
+Security: 0.0
+
+Involved parties:
+
+Name: munia (laid the final blow)
+Security: 5.1
+Alliance: None
+Corp: Eterne
+Ship: Crusader
+Weapon: Dual Light Pulse Laser II
+
+Name: Mind Augas
+Security: 2.7
+Alliance: None
+Corp: Eterne
+Ship: Raptor
+Weapon: Raptor
+
+Name: Scer
+Security: 0.8
+Alliance: None
+Corp: Eterne
+Ship: Taranis
+Weapon: Warp Scrambler II
+
+

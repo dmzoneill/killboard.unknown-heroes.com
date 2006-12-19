@@ -1,0 +1,87 @@
+2006.10.07 18:09
+
+Victim: Scarlett Yo'Mason
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Destroyed: Dominix
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Traxex
+Security: 1.5
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Tempest
+Weapon: Tempest
+
+Name: Jumar Coldgin
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Eagle
+Weapon: Eagle
+
+Name: Bolinar
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Deimos
+Weapon: Deimos
+
+Name: Lone flyer (laid the final blow)
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Zealot
+Weapon: Heavy Pulse Laser II
+
+Name: kookos
+Security: 2.9
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Crusader
+Weapon: Crusader
+
+Name: Karas Rabus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Huginn
+Weapon: Huginn
+
+Name: Minesweeper
+Security: 3.1
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Blackbird
+Weapon: Thunderbolt Heavy Missile
+
+Name: Ione79
+Security: 3.4
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Celestis
+Weapon: Celestis
+
+
+Destroyed items:
+
+Heavy Nosferatu I
+Medium Nosferatu I
+Medium Nosferatu I
+Medium Nosferatu I
+Warp Disruptor I
+'Langour' Drive Disruptor I
+Heavy Electrochemical Capacitor Booster I
+Sensor Booster I
+Large Armor Repairer II
+Energized Adaptive Nano Membrane II
+Armor Explosive Hardener II
+Armor Kinetic Hardener II
+Hammerhead I, Qty: 3 (Drone Bay)
+Ogre I, Qty: 3 (Drone Bay)
+Warrior II, Qty: 6 (Drone Bay)
+Berserker I (Drone Bay)
+

@@ -1,0 +1,142 @@
+2006.09.02 16:14
+
+Victim: Tealon
+Alliance: R.I.S.K
+Corp: RUS-SAGA
+Destroyed: Scorpion
+System: EWOK-K
+Security: 0.0
+
+Involved parties:
+
+Name: Puke
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Cerberus
+Weapon: Scourge Heavy Missile
+
+Name: ForceAttuned Krogoth (laid the final blow)
+Security: 0.3
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Zealot
+Weapon: Heavy Pulse Laser II
+
+Name: Forsaken Priest
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Mad Mackem
+Security: -1.2
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Ishtar
+Weapon: Ishtar
+
+Name: Oldin Relic
+Security: 1.3
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Bomer
+Security: 4.1
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Rook
+Weapon: Scourge Heavy Missile
+
+Name: Shiri elAzarinres
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Tarrant Arrlock
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Caracal
+Weapon: Bloodclaw Light Missile
+
+Name: Vespula
+Security: -1.1
+Alliance: None
+Corp: Blackguard Brigade
+Ship: Crusader
+Weapon: Crusader
+
+Name: 8ObliVioN8
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Raptor
+Weapon: Raptor
+
+Name: J'Silk
+Security: 4.8
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Sabre
+Weapon: Sabre
+
+Name: geewiz
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Arazu
+Weapon: Arazu
+
+Name: Draken7799
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Hawk
+Weapon: Bloodclaw Light Missile
+
+Name: Sorja
+Security: 5.5
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Raptor
+Weapon: Rocket Launcher II
+
+Name: Erikel
+Security: 5.0
+Alliance: Chorus of Dawn
+Corp: Cosmic Odyssey
+Ship: Taranis
+Weapon: Taranis
+
+Name: wessam
+Security: 3.3
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Crow
+Weapon: 'Arbalest' Rocket Launcher I
+
+
+Destroyed items:
+
+425mm Carbide Railgun I
+Antimatter Charge L, Qty: 77
+Wrath Cruise Missile, Qty: 38
+'Malkuth' Cruise Launcher I
+'Malkuth' Cruise Launcher I
+'Malkuth' Cruise Launcher I
+ECM - Spatial Destabilizer II
+ECM - Spatial Destabilizer II
+ECM - Spatial Destabilizer II
+ECM - Spatial Destabilizer II
+Sensor Booster I
+Medium Armor Repairer II
+1600mm Reinforced Titanium Plates I
+Antimatter Charge L, Qty: 917 (Cargo)
+Wrath Cruise Missile, Qty: 2908 (Cargo)
+

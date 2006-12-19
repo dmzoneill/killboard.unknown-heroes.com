@@ -1,0 +1,26 @@
+2007.05.02 07:50
+
+Victim: turmunoid
+Alliance: None
+Corp: Null Horizon
+Destroyed: Breacher
+System: Aunenen
+Security: 0.4
+
+Involved parties:
+
+Name: The Cade (laid the final blow)
+Security: 1.0
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Brutix
+Weapon: Anode Neutron Particle Cannon I
+
+
+Destroyed items:
+
+Salvager I, Qty: 12
+Cold-Gas I Arcjet Thrusters
+Scorched Telemetry Processor, Qty: 2 (Cargo)
+Malfunctioning Shield Emitter, Qty: 3 (Cargo)
+

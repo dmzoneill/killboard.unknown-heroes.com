@@ -1,0 +1,40 @@
+2006.11.16 02:39
+
+Victim: Faloora
+Alliance: Vanu Space Command
+Corp: Ruff Ryders
+Destroyed: Reaper
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Yarsida
+Security: 1.2
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Raptor
+Weapon: Raptor
+
+Name: Angel Vengen (laid the final blow)
+Security: 4.2
+Alliance: Freelancer Alliance
+Corp: Caldar Mercenary Syndicate
+Ship: Armageddon
+Weapon: Mega Modulated Pulse Energy Beam I
+
+Name: SiriusCrow
+Security: -1.1
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Raven
+Weapon: Siege Missile Launcher II
+
+Name: MonwrathDisortium
+Security: -1.1
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Deimos
+Weapon: J5 Prototype Warp Inhibitor I
+
+

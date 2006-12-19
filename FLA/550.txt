@@ -1,0 +1,27 @@
+2007.02.10 01:11
+
+Victim: Crewmen Redshirt
+Alliance: Red Moon Federation
+Corp: Confederation of Red Moon
+Destroyed: Cormorant
+System: O-N8XZ
+Security: 0.0
+
+Involved parties:
+
+Name: Duana (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Claw
+Weapon: 200mm AutoCannon II
+
+
+Destroyed items:
+
+125mm Gatling AutoCannon I
+125mm Gatling AutoCannon I
+EMP S, Qty: 352
+Defender I, Qty: 10
+Medium Shield Booster I
+

@@ -1,0 +1,37 @@
+2007.03.31 06:09
+
+Victim: Ireiw wocad
+Alliance: Freelancer Alliance
+Corp: Feel Good Inc.
+Destroyed: Ibis
+System: P-2TTL
+Security: 0.0
+
+Involved parties:
+
+Name: Wladomir Jed (laid the final blow)
+Security: 3.7
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Rook
+Weapon: Scourge Heavy Missile
+
+Name: Winterblink
+Security: 3.6
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Taranis
+Weapon: 125mm Railgun II
+
+Name: FowlPlayChiken
+Security: 1.2
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Thanatos
+Weapon: Einherji
+
+
+Destroyed items:
+
+Basic Miner
+

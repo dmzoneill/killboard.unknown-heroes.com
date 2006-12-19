@@ -1,0 +1,23 @@
+2006.10.11 02:40
+
+Victim: Treadwell Sinn
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Ibis
+System: Tunttaras
+Security: 0.9
+
+Involved parties:
+
+Name: urrit (laid the final blow)
+Security: -0.3
+Alliance: None
+Corp: Privateers
+Ship: Rupture
+Weapon: Dual 180mm AutoCannon I
+
+
+Destroyed items:
+
+Hornet I (Drone Bay)
+

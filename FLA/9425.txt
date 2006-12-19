@@ -1,0 +1,44 @@
+2007.05.13 09:06
+
+Victim: wardey
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Retribution
+System: Litiura
+Security: 0.5
+
+Involved parties:
+
+Name: Del Boy (laid the final blow)
+Security: 0.0
+Alliance: None
+Corp: Mentally Unstable Enterprises
+Ship: Huginn
+Weapon: Hammerhead II
+
+Name: Lennier Cotto
+Security: -2.1
+Alliance: None
+Corp: Mentally Unstable Enterprises
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: vickers
+Security: -2.0
+Alliance: None
+Corp: Mentally Unstable Enterprises
+Ship: Harpy
+Weapon: Harpy
+
+
+Destroyed items:
+
+Dual Light Beam Laser II
+Dual Light Beam Laser II
+Dual Light Beam Laser II
+Aurora S
+Aurora S
+Eutectic I Capacitor Charge Array
+Energized Adaptive Nano Membrane II
+Gleam S, Qty: 2 (Cargo)
+

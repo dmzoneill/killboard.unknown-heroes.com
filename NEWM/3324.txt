@@ -1,0 +1,61 @@
+2007.03.23 13:53
+
+Victim: Nukuquqa Hestase
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Harpy
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Vim Longhill (laid the final blow)
+Security: 4.6
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Drake
+Weapon: Scourge Precision Heavy Missile
+
+Name: wph0r
+Security: 4.5
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Eagle
+Weapon: Eagle
+
+Name: Serpentis Captain / Serpentis Corporation
+
+Name: Mr Moonwatcher
+Security: 4.9
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Taranis
+Weapon: Initiated Warp Jammer I
+
+Name: Apoc77
+Security: 5.0
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Rook
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+
+Destroyed items:
+
+150mm Railgun II
+Antimatter Charge S, Qty: 80
+'Orion' Tracking CPU I
+'Orion' Tracking CPU I
+Tracking Enhancer II
+J5 Prototype Warp Inhibitor I (Cargo)
+Cu Vapor Particle Bore Stream I (Cargo)
+Small Capacitor Battery I (Cargo)
+Medium Hull Repairer I (Cargo)
+Small Nosferatu I (Cargo)
+Plutonium Charge M, Qty: 100 (Cargo)
+Thorium Charge S, Qty: 100 (Cargo)
+Antimatter Charge S, Qty: 2404 (Cargo)
+Indirect Scanning Dampening Unit I (Cargo)
+400mm Reinforced Nanofiber Plates I (Cargo)
+Expanded Cargohold I (Cargo)
+

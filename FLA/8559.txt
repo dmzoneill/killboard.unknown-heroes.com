@@ -1,0 +1,26 @@
+2006.11.27 20:49
+
+Victim: Smutt
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Destroyed: Raptor
+System: P-ZMZV
+Security: 0.0
+
+Involved parties:
+
+Name: Johanzzon (laid the final blow)
+Security: 5.0
+Alliance: Firmus Ixion
+Corp: Swedish Aerospace Inc
+Ship: Armageddon
+Weapon: Large 'Notos' Explosive Charge I
+
+
+Destroyed items:
+
+Sabretooth Light Missile, Qty: 83
+Upgraded 'Limos' Standard Missile Bay I
+Phased Monopropellant I Hydrazine Boosters
+Micro Auxiliary Power Core I
+

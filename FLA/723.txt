@@ -1,0 +1,56 @@
+2007.02.18 13:15
+
+Victim: Davlin Lot'ze
+Alliance: None
+Corp: Inhibitor Corporation
+Destroyed: Myrmidon
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Muad' Dib (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Armageddon
+Weapon: Dual Heavy Modulated Pulse Energy Beam I
+
+Name: Ocara Nezus
+Security: 2.8
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Hawk
+Weapon: Bloodclaw Light Missile
+
+Name: NanEIre
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Crow
+Weapon: Thorn Rocket
+
+
+Destroyed items:
+
+Modal Neutron Particle Accelerator I
+Modal Neutron Particle Accelerator I
+Modal Neutron Particle Accelerator I
+Antimatter Charge M, Qty: 240
+F-b10 Nominal Capacitor Regenerator
+10MN MicroWarpdrive I
+Stasis Webifier I
+Medium Armor Repairer II
+Warp Core Stabilizer I
+Medium F-S9 Regolith Shield Induction (Cargo)
+Eutectic I Capacitor Charge Array (Cargo)
+Barton Reactor Capacitor Recharger I, Qty: 2 (Cargo)
+Dual 250mm Railgun I, Qty: 4 (Cargo)
+Iridium Charge M, Qty: 4 (Cargo)
+Tungsten Charge M, Qty: 4 (Cargo)
+XT-9000 Cruise Launcher (Cargo)
+'Arbalest' Cruise Launcher I (Cargo)
+Beta Reactor Control: Diagnostic System I (Cargo)
+Type-D Power Core Modification: Capacitor Flux (Cargo)
+Ogre I, Qty: 3 (Drone Bay)
+

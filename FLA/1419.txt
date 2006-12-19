@@ -1,0 +1,40 @@
+2007.03.13 01:58
+
+Victim: Catbear
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Destroyed: Heretic
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Skelator0311 (laid the final blow)
+Security: 2.9
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Guristas Dismantler / Guristas
+
+
+Destroyed items:
+
+Dual Light Beam Laser II
+Small Nosferatu I
+Gleam S
+Gleam S
+'Arbalest' Rocket Launcher I
+Warp Disrupt Probe, Qty: 9
+Interdiction Sphere Launcher I
+1MN MicroWarpdrive II
+'Langour' Drive Disruptor I
+Small Armor Repairer II
+Co-Processor II
+100mm Reinforced Steel Plates II
+Aurora S, Qty: 3 (Cargo)
+Foxfire Rocket, Qty: 150 (Cargo)
+Gremlin Rocket, Qty: 123 (Cargo)
+Warp Disrupt Probe, Qty: 47 (Cargo)
+

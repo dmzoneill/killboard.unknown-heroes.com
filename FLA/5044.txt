@@ -1,0 +1,38 @@
+2007.04.21 04:10
+
+Victim: Kvarium Ki
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Destroyed: Rupture
+System: 2R-CRW
+Security: 0.0
+
+Involved parties:
+
+Name: Barth Evader (laid the final blow)
+Security: -0.3
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Archon
+Weapon: Firbolg
+
+
+Destroyed items:
+
+650mm Artillery Cannon I
+Titanium Sabot M
+Titanium Sabot M
+Titanium Sabot M
+Titanium Sabot M
+Titanium Sabot M
+Titanium Sabot M
+Titanium Sabot M
+Piranha Light Missile, Qty: 43
+Assault Missile Launcher I
+Tracking Computer I
+Partial Weapon Navigation
+Gyrostabilizer I
+Damage Control I
+Small Armor Repairer I
+Piranha Light Missile, Qty: 176 (Cargo)
+

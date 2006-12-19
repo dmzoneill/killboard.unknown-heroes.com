@@ -1,0 +1,47 @@
+2006.11.30 22:53
+
+Victim: Kryton55
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Capsule
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Jimmycs83
+Security: -2.5
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Taranis
+Weapon: Taranis
+
+Name: Lord KesH (laid the final blow)
+Security: 2.7
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Vagabond
+Weapon: 425mm AutoCannon II
+
+Name: ArchenTheGreat
+Security: -2.5
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Lachesis
+Weapon: 250mm Railgun II
+
+Name: Nitrite
+Security: 1.2
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Malediction
+Weapon: Faint Warp Prohibitor I
+
+Name: K Shara
+Security: 3.6
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+

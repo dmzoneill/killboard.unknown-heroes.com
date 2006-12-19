@@ -1,0 +1,30 @@
+2006.09.10 20:52
+
+Victim: IcoLo
+Alliance: Ascendant Frontier
+Corp: Celestial Fleet
+Destroyed: Thorax
+System: 5W3-DG
+Security: 0.0
+
+Involved parties:
+
+Name: Noitaakka (laid the final blow)
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+
+Destroyed items:
+
+Heavy Ion Blaster II
+Heavy Ion Blaster II
+Heavy Ion Blaster II
+Null M, Qty: 342
+10MN MicroWarpdrive II
+Dread Guristas Warp Scrambler
+'Hypnos' Multispectral ECM I
+Null M, Qty: 1837 (Cargo)
+

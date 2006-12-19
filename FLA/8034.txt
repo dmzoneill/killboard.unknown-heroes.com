@@ -1,0 +1,45 @@
+2006.10.06 21:32
+
+Victim: Clavain Treesmighter
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Destroyed: Caracal
+System: Kisogo
+Security: 1.0
+
+Involved parties:
+
+Name: Sorted (laid the final blow)
+Security: -1.4
+Alliance: None
+Corp: Privateers
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: birty
+Security: -0.5
+Alliance: None
+Corp: Privateers
+Ship: Thorax
+Weapon: Modal Electron Particle Accelerator I
+
+
+Destroyed items:
+
+Sabretooth Light Missile, Qty: 62
+Scourge Heavy Missile, Qty: 32
+Havoc Heavy Missile, Qty: 31
+Advanced 'Limos' Heavy Missile Bay I
+'Malkuth' Assault Missile Launcher I
+'Malkuth' Assault Missile Launcher I
+Medium Supplemental Barrier Emitter I
+Small 'Accommodation' Vestment Reconstructer I
+Pyerite, Qty: 27307 (Cargo)
+Shield Recharger I (Cargo)
+Stasis Webifier I (Cargo)
+Explosion Dampening Field I (Cargo)
+Ballistic Deflection Field I (Cargo)
+Sabretooth Light Missile, Qty: 726 (Cargo)
+Scourge Heavy Missile, Qty: 591 (Cargo)
+Acolyte I (Drone Bay)
+

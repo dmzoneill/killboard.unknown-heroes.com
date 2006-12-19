@@ -1,0 +1,31 @@
+2007.04.01 18:01
+
+Victim: Norcair
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Condor
+System: P-2TTL
+Security: 0.0
+
+Involved parties:
+
+Name: Valeriya (laid the final blow)
+Security: 1.1
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Cerberus
+Weapon: Scourge Fury Heavy Missile
+
+Name: Crypt Layer
+Security: 3.6
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Taranis
+Weapon: 125mm Prototype I Gauss Gun
+
+
+Destroyed items:
+
+Miner II, Qty: 3 (Cargo)
+Vespa I, Qty: 2 (Cargo)
+

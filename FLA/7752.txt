@@ -1,0 +1,103 @@
+2006.08.12 21:22
+
+Victim: Jack Greyson
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Destroyed: Scorpion
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Dave White
+Security: -1.8
+Alliance: None
+Corp: Beagle Corp
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Iorya Dragon
+Security: -1.2
+Alliance: None
+Corp: Beagle Corp
+Ship: Megathron
+Weapon: Megathron
+
+Name: john roe (laid the final blow)
+Security: -4.4
+Alliance: None
+Corp: Beagle Corp
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Jouno
+Security: -1.4
+Alliance: None
+Corp: Beagle Corp
+Ship: Megathron
+Weapon: Megathron
+
+Name: Valerian Xavier
+Security: 2.4
+Alliance: None
+Corp: Beagle Corp
+Ship: Megathron
+Weapon: Megathron
+
+Name: faithan
+Security: -9.8
+Alliance: None
+Corp: Beagle Corp
+Ship: Megathron
+Weapon: 425mm Railgun I
+
+Name: UnSiViLiZeD
+Security: 0.2
+Alliance: None
+Corp: Beagle Corp
+Ship: Megathron
+Weapon: 425mm Railgun I
+
+Name: Ricky Baby
+Security: 2.9
+Alliance: None
+Corp: Beagle Corp
+Ship: Megathron
+Weapon: 425mm Carbide Railgun I
+
+Name: Tynicas
+Security: 0.3
+Alliance: None
+Corp: Beagle Corp
+Ship: Ferox
+Weapon: Assault Missile Launcher I
+
+Name: Roule
+Security: -7.1
+Alliance: None
+Corp: Beagle Corp
+Ship: Rapier
+Weapon: Target Painter I
+
+Name: Chewan Mesa
+Security: 5.0
+Alliance: None
+Corp: Beagle Corp
+Ship: Falcon
+Weapon: ECM - Multispectral Jammer II
+
+
+Destroyed items:
+
+Heavy Nosferatu I
+Heavy Nosferatu I
+Paradise Cruise Missile, Qty: 22
+Cruise Missile Launcher I
+'Arbalest' Cruise Launcher I
+Large Shield Extender II
+Large Shield Extender II
+'Accord' I Core Compensation
+1600mm Reinforced Rolled Tungsten Plates I
+Wrath Cruise Missile, Qty: 1000 (Cargo)
+Paradise Cruise Missile, Qty: 1000 (Cargo)
+

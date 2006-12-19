@@ -1,0 +1,33 @@
+2006.11.07 22:59
+
+Victim: Codinius
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Capsule
+System: Isinokka
+Security: 0.7
+
+Involved parties:
+
+Name: Dazzio (laid the final blow)
+Security: -2.0
+Alliance: None
+Corp: The Initiative
+Ship: Lachesis
+Weapon: 250mm 'Scout' I Accelerator Cannon
+
+Name: TranZferR
+Security: -1.8
+Alliance: None
+Corp: The Initiative
+Ship: Arazu
+Weapon: 200mm Railgun II
+
+Name: Balatar
+Security: 1.2
+Alliance: None
+Corp: The Initiative
+Ship: Curse
+Weapon: Medium Nosferatu II
+
+

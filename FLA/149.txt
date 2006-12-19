@@ -1,0 +1,33 @@
+2007.01.14 15:18
+
+Victim: tipsizsalozosman
+Alliance: None
+Corp: Federal Navy Academy
+Destroyed: Incursus
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Solarienne (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+Name: dohle
+Security: 2.8
+Alliance: Dusk and Dawn
+Corp: Cataclysm Enterprises
+Ship: Huginn
+Weapon: Target Painter II
+
+
+Destroyed items:
+
+150mm Railgun I
+Plutonium Charge S, Qty: 80
+Plutonium Charge S, Qty: 30 (Cargo)
+Hobgoblin I (Drone Bay)
+

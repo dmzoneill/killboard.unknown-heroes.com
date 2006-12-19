@@ -1,0 +1,89 @@
+2007.05.02 03:33
+
+Victim: Mirage o
+Alliance: Freelancer Alliance
+Corp: Terminal Velocity Inc.
+Destroyed: Heretic
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Appalachia (laid the final blow)
+Security: 5.2
+Alliance: YouWhat
+Corp: Pringles Inc.
+Ship: Cerberus
+Weapon: Scourge Heavy Missile
+
+Name: e3joker
+Security: 4.2
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Harpy
+Weapon: Harpy
+
+Name: xBeneGesseritx
+Security: 5.0
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Claw
+Weapon: Claw
+
+Name: NightHawk VenGarden
+Security: 1.2
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Crusader
+Weapon: Crusader
+
+Name: Nemesys 8
+Security: 4.5
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Hawk
+Weapon: Bloodclaw Light Missile
+
+Name: Surfinal
+Security: 5.0
+Alliance: Axiom Empire
+Corp: United Society Starfleet
+Ship: Taranis
+Weapon: X5 Prototype I Engine Enervator
+
+Name: MakkAnzy
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Astarte
+Weapon: Fleeting Propulsion Inhibitor I
+
+Name: Calistro
+Security: 3.7
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Deimos
+Weapon: Heavy Neutron Blaster II
+
+Name: Beriel
+Security: 2.8
+Alliance: YouWhat
+Corp: Cosmic Odyssey
+Ship: Taranis
+Weapon: Warp Disruptor II
+
+
+Destroyed items:
+
+Dual Light Pulse Laser II
+Prototype Cloaking Device I
+Scorch S
+Sabretooth Light Missile, Qty: 78
+'Malkuth' Standard Missile Launcher I
+'Malkuth' Standard Missile Launcher I
+'Malkuth' Standard Missile Launcher I
+1MN MicroWarpdrive II
+Photonic CPU Enhancer I
+Sabretooth Light Missile, Qty: 3900 (Cargo)
+Warp Disrupt Probe, Qty: 14 (Cargo)
+

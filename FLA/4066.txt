@@ -1,0 +1,33 @@
+2007.04.13 02:55
+
+Victim: Rhin Kavic
+Alliance: None
+Corp: United-Killerz
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Kristian Dugat (laid the final blow)
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Apocalypse
+Weapon: Mega Pulse Laser II
+
+Name: Zylatis
+Security: 5.0
+Alliance: EVE Animal Control
+Corp: The Inner Legion
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Vel'Kethor
+Security: 3.0
+Alliance: DeStInY.
+Corp: House Of Aaron
+Ship: Retribution
+Weapon: Dual Light Pulse Laser II
+
+

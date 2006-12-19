@@ -1,0 +1,62 @@
+2007.03.24 04:27
+
+Victim: White Thatch
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Destroyed: Brutix
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Adam Dartnell
+Security: -1.1
+Alliance: None
+Corp: Developmental Neogenics Amalgamated
+Ship: Megathron
+Weapon: Megathron
+
+Name: Sphalerite (laid the final blow)
+Security: 1.1
+Alliance: None
+Corp: Developmental Neogenics Amalgamated
+Ship: Tempest
+Weapon: Devastator Cruise Missile
+
+Name: Levin Cavil
+Security: -1.0
+Alliance: None
+Corp: Developmental Neogenics Amalgamated
+Ship: Megathron
+Weapon: Megathron
+
+Name: Spike 68
+Security: 1.8
+Alliance: None
+Corp: Developmental Neogenics Amalgamated
+Ship: Astarte
+Weapon: Astarte
+
+Name: Norfin
+Security: 3.7
+Alliance: None
+Corp: Developmental Neogenics Amalgamated
+Ship: Crow
+Weapon: Warp Disruptor I
+
+
+Destroyed items:
+
+250mm 'Scout' I Accelerator Cannon
+250mm 'Scout' I Accelerator Cannon
+Light Neutron Blaster II
+Iridium Charge M, Qty: 64
+Null S, Qty: 80
+Eutectic I Capacitor Charge Array
+Warp Disruptor I
+Medium Armor Repairer II
+Magnetic Field Stabilizer II
+Beta Reactor Control: Capacitor Power Relay I
+Antimatter Charge M, Qty: 2424 (Cargo)
+Vespa II, Qty: 2 (Drone Bay)
+

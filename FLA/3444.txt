@@ -1,0 +1,37 @@
+2007.03.27 04:53
+
+Victim: Pancakes 01
+Alliance: None
+Corp: Deep Core Mining Inc.
+Destroyed: Manticore
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: AlexeiShtukov (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Ship: Caracal
+Weapon: Havoc Heavy Missile
+
+Name: Torothin
+Security: 3.0
+Alliance: None
+Corp: Emerald Empire
+Ship: Malediction
+Weapon: J5 Prototype Warp Inhibitor I
+
+
+Destroyed items:
+
+Paradise Cruise Missile, Qty: 16
+Wrath Cruise Missile, Qty: 16
+'Limos' Cruise Launcher I
+Peripheral Weapon Navigation Diameter
+Mark I Generator Refitting: Reaction Control
+Paradise Cruise Missile, Qty: 117 (Cargo)
+Wrath Cruise Missile, Qty: 117 (Cargo)
+Cataclysm Cruise Missile, Qty: 73 (Cargo)
+

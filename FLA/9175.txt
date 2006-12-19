@@ -1,0 +1,49 @@
+2007.05.02 20:04
+
+Victim: Erik Morkai
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Stiletto
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Corovus (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Nemesis
+Weapon: Cataclysm Cruise Missile
+
+Name: Shinobi Jonin
+Security: 5.0
+Alliance: The Foundation.
+Corp: Cornerstone Unlimited
+Ship: Unknown
+Weapon: 'Abandon' Targeting Disruptor I
+
+Name: Noonael
+Security: 4.0
+Alliance: The Foundation.
+Corp: NorCorp Security
+Ship: Unknown
+Weapon: 125mm Railgun I
+
+
+Destroyed items:
+
+200mm AutoCannon II
+Barrage S, Qty: 100
+1MN MicroWarpdrive II
+Warp Disruptor II
+X5 Prototype I Engine Enervator
+Sensor Booster II
+Emergency Damage Control I
+Hail S, Qty: 495 (Cargo)
+Barrage S, Qty: 651 (Cargo)
+Thorn Rage Rocket, Qty: 200 (Cargo)
+Foxfire Rage Rocket, Qty: 260 (Cargo)
+Foxfire Javelin Rocket, Qty: 260 (Cargo)
+Phalanx Javelin Rocket, Qty: 166 (Cargo)
+

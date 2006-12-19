@@ -1,0 +1,32 @@
+2006.08.09 00:27
+
+Victim: KateLice
+Alliance: None
+Corp: Lynx Frontier Inc.
+Destroyed: Mammoth
+System: 9CK-KZ
+Security: 0.0
+
+Involved parties:
+
+Name: Kismeteer (laid the final blow)
+Security: 3.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Thorax
+Weapon: Bouncer I
+
+Name: Ne0 MaTrIx
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Taranis
+Weapon: 75mm Gatling Rail II
+
+
+Destroyed items:
+
+Medium Shield Booster I
+10MN Afterburner I
+Magnetic Scattering Amplifier I
+

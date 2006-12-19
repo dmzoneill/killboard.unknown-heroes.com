@@ -1,0 +1,135 @@
+2007.01.14 09:02
+
+Victim: duece duece
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Destroyed: Maelstrom
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Danielson1012
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Raven
+Weapon: Bane Javelin Torpedo
+
+Name: toonsterpw
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Maelstrom
+Weapon: Maelstrom
+
+Name: alon blackhelm
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Drake
+Weapon: Thunderbolt Heavy Missile
+
+Name: Zattron
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Drake
+Weapon: Hobgoblin I
+
+Name: Burn Lump
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Caracal
+Weapon: Havoc Heavy Missile
+
+Name: Simon Monkoto
+Security: 2.4
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Scorpion
+Weapon: Wrath Cruise Missile
+
+Name: arthell (laid the final blow)
+Security: 2.7
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Vexor
+Weapon: Infiltrator I
+
+Name: white kight
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Caracal
+Weapon: Havoc Heavy Missile
+
+Name: Freejax
+Security: 3.1
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Moa
+Weapon: Sabretooth Light Missile
+
+Name: darkviron
+Security: 2.7
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Xantheris
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Celestis
+Weapon: Infiltrator I
+
+Name: FlobbMkII
+Security: 3.2
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Thorax
+Weapon: Thorax
+
+Name: Rev Darkwing
+Security: 2.6
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Crow
+Weapon: Fleeting Warp Scrambler I
+
+Name: Almagar Phog
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Scorpion
+Weapon: Vespa I
+
+Name: Red Viper
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Celestis
+Weapon: Indirect Scanning Dampening Unit I
+
+
+Destroyed items:
+
+1400mm Howitzer Artillery II
+1400mm Howitzer Artillery II
+1400mm Howitzer Artillery II
+EMP L, Qty: 19
+Tremor L, Qty: 29
+Phased Muon Sensor Disruptor I
+Sensor Booster II
+F-90 Positional Sensor Subroutines
+Tracking Enhancer II
+Bookmark (Cargo)
+Titanium Sabot L, Qty: 195 (Cargo)
+Tremor L, Qty: 3342 (Cargo)
+Quake L, Qty: 3384 (Cargo)
+Crokite Mining Crystal II, Qty: 3 (Cargo)
+Warrior I (Drone Bay)
+

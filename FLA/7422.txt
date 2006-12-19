@@ -1,0 +1,29 @@
+2006.09.04 12:01
+
+Victim: Naslednik
+Alliance: R.I.S.K
+Corp: Yellow Wind
+Destroyed: Kestrel
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Noitaakka (laid the final blow)
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+
+Destroyed items:
+
+Foxfire Rocket, Qty: 30
+Rocket Launcher I
+Small Armor Repairer I
+Stasis Webifier I (Cargo)
+Flameburst Light Missile, Qty: 100 (Cargo)
+Standard Missile Launcher I (Cargo)
+Capacitor Power Relay I (Cargo)
+

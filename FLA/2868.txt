@@ -1,0 +1,71 @@
+2007.03.13 08:06
+
+Victim: Simon Monkoto
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Dominix
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Serpentis Rear Admiral / Serpentis Corporation
+
+Name: VDV Kane (laid the final blow)
+Security: 4.7
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Raven
+Weapon: Wrath Cruise Missile
+
+Name: Xordus
+Security: 0.7
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Armageddon
+Weapon: Wasp I
+
+Name: xargis
+Security: 5.0
+Alliance: YouWhat
+Corp: Pringles Inc.
+Ship: Caracal
+Weapon: Thunderbolt Heavy Missile
+
+Name: Nipplator
+Security: 2.5
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Omen
+Weapon: Heavy Anode Pulse Particle Stream I
+
+Name: Balcura
+Security: 4.9
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Drake
+Weapon: Heavy Missile Launcher II
+
+Name: Galaxor
+Security: 5.1
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Unknown
+Weapon: Hammerhead II
+
+
+Destroyed items:
+
+Heavy Nosferatu I
+Medium Nosferatu I
+Medium Nosferatu I
+F-b10 Nominal Capacitor Regenerator
+100MN MicroWarpdrive I
+Stasis Webifier I
+Radioisotope Kinetic Hardener I
+Armor Thermic Hardener I
+Armor Kinetic Hardener I
+Hobgoblin II, Qty: 3 (Drone Bay)
+Medium Shield Maintenance Bot I, Qty: 5 (Drone Bay)
+Medium Armor Maintenance Bot I, Qty: 2 (Drone Bay)
+

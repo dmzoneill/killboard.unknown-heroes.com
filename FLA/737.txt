@@ -1,0 +1,40 @@
+2007.02.18 21:49
+
+Victim: Galactic cannibalism
+Alliance: Knights Of Syndicate
+Corp: The Intergalactic Federation
+Destroyed: Capsule
+System: O-N8XZ
+Security: 0.0
+
+Involved parties:
+
+Name: Duana (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Wolf
+Weapon: 200mm AutoCannon II
+
+Name: Night Seeker
+Security: 0.2
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Wolf
+Weapon: 200mm AutoCannon II
+
+Name: Ocara Nezus
+Security: 2.9
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Hawk
+Weapon: Bloodclaw Light Missile
+
+Name: scuba leah
+Security: 3.8
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Ship: Heretic
+Weapon: Upgraded 'Limos' Standard Missile Bay I
+
+

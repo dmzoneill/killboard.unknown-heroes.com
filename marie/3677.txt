@@ -1,0 +1,54 @@
+2007.03.29 00:14
+
+Victim: Marie Veedor
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Capsule
+System: 7T6P-C
+Security: 0.0
+
+Involved parties:
+
+Name: Tanya Kovacs
+Security: 5.1
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Eagle
+Weapon: Heavy Neutron Blaster II
+
+Name: Ridoc (laid the final blow)
+Security: 2.9
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Taranis
+Weapon: 125mm Railgun II
+
+Name: Apoc77
+Security: 5.0
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Rook
+Weapon: Sabretooth Light Missile
+
+Name: Lv STEIN
+Security: 4.7
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Zealot
+Weapon: Focused Medium Pulse Laser II
+
+Name: Taschenflak
+Security: 4.7
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Raptor
+Weapon: 125mm Railgun II
+
+Name: wph0r
+Security: 4.5
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Falcon
+Weapon: Low Frequency Sensor Suppressor I
+
+

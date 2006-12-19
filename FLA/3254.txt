@@ -1,0 +1,32 @@
+2007.03.21 22:25
+
+Victim: Eleri Bree
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Destroyed: Taranis
+System: QXW-PV
+Security: 0.0
+
+Involved parties:
+
+Name: Mr MA
+Security: 3.5
+Alliance: Chorus of Dawn
+Corp: Cosmic Odyssey
+Ship: Thorax
+Weapon: Thorax
+
+Name: Serpentis Port Admiral / Serpentis Corporation (laid the final blow)
+
+
+Destroyed items:
+
+125mm Railgun II
+Antimatter Charge S, Qty: 210
+Prototype Cloaking Device I
+Catalyzed Cold-Gas I Arcjet Thrusters
+Fleeting Progressive Warp Scrambler I
+Emergency Damage Control I
+Type-D Altered SS Nanofiber Structure
+Antimatter Charge S, Qty: 300 (Cargo)
+

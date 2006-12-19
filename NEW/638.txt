@@ -1,0 +1,32 @@
+2007.04.28 10:29
+
+Victim: Fitz Farseer
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Capsule
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Kimett (laid the final blow)
+Security: 2.9
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Flycatcher
+Weapon: Bloodclaw Light Missile
+
+Name: Cockroach
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Malediction
+Weapon: Malediction
+
+Name: wardey
+Security: 1.9
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Punisher
+Weapon: J5b Phased Prototype Warp Inhibitor I
+

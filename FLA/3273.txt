@@ -1,0 +1,123 @@
+2007.03.22 18:59
+
+Victim: Lillegutt
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Destroyed: Armageddon
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: zeitza ta
+Security: 0.5
+Alliance: Triumvirate.
+Corp: ViperSquad
+Ship: Astarte
+Weapon: Hammerhead II
+
+Name: Roxanna Kell
+Security: -1.3
+Alliance: Triumvirate.
+Corp: ViperSquad
+Ship: Nighthawk
+Weapon: Scourge Heavy Missile
+
+Name: Yushii
+Security: -0.3
+Alliance: Triumvirate.
+Corp: ViperSquad
+Ship: Vagabond
+Weapon: Dual 180mm AutoCannon II
+
+Name: vyperpit
+Security: 4.6
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Alchem
+Security: 2.9
+Alliance: Triumvirate.
+Corp: ViperSquad
+Ship: Ishtar
+Weapon: Berserker II
+
+Name: shots17
+Security: -1.3
+Alliance: Triumvirate.
+Corp: ViperSquad
+Ship: Zealot
+Weapon: Zealot
+
+Name: lt blacklotus
+Security: 0.8
+Alliance: Triumvirate.
+Corp: ViperSquad
+Ship: Vagabond
+Weapon: Warrior II
+
+Name: Sith Bandon (laid the final blow)
+Security: 5.0
+Alliance: Triumvirate.
+Corp: ViperSquad
+Ship: Ishtar
+Weapon: Hammerhead II
+
+Name: PainBall
+Security: -0.9
+Alliance: Triumvirate.
+Corp: ViperSquad
+Ship: Absolution
+Weapon: Absolution
+
+Name: XxAngelxX
+Security: -1.8
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Curse
+Weapon: Valkyrie II
+
+Name: WarGod
+Security: 1.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Curse
+Weapon: Berserker II
+
+Name: fox247
+Security: 3.2
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Nemesis
+Weapon: Devastator Cruise Missile
+
+Name: tost
+Security: 2.3
+Alliance: Triumvirate.
+Corp: ViperSquad
+Ship: Brutix
+Weapon: Valkyrie II
+
+
+Destroyed items:
+
+Dual Heavy Pulse Laser II
+Dual Heavy Pulse Laser II
+Dual Heavy Pulse Laser II
+Dual Heavy Pulse Laser II
+Dual Heavy Pulse Laser II
+Heavy Diminishing Power System Drain I
+Conflagration L
+Conflagration L
+Conflagration L
+X5 Prototype I Engine Enervator
+Medium Electrochemical Capacitor Booster I
+Cap Booster 800
+F84 Local Damage System
+Large Armor Repairer II
+Heat Sink II
+Energized Adaptive Nano Membrane II
+Scorch L (Cargo)
+

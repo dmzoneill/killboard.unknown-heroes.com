@@ -1,0 +1,156 @@
+2007.05.07 19:46
+
+Victim: Primos Gun
+Alliance: YouWhat
+Corp: Princeps Corp
+Destroyed: Drake
+System: K4YZ-Y
+Security: 0.0
+
+Involved parties:
+
+Name: Xpod85
+Security: 0.3
+Alliance: The Foundation.
+Corp: NorCorp Security
+Ship: Abaddon
+Weapon: Mega Pulse Laser II
+
+Name: Lee Thrace
+Security: 3.4
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Myrmidon
+Weapon: Myrmidon
+
+Name: Dakaris Zulu
+Security: 5.0
+Alliance: CORE.
+Corp: Red 42
+Ship: Rokh
+Weapon: 425mm Compressed Coil Gun I
+
+Name: MrRommel
+Security: 5.0
+Alliance: Darklite Alliance
+Corp: Darklite inc
+Ship: Sleipnir
+Weapon: Sleipnir
+
+Name: Calvinus Maximus
+Security: 5.1
+Alliance: None
+Corp: Black Sheeps
+Ship: Cerberus
+Weapon: Scourge Heavy Missile
+
+Name: sako1963
+Security: 5.0
+Alliance: The Foundation.
+Corp: NorCorp Security
+Ship: Raven
+Weapon: Heavy Diminishing Power System Drain I
+
+Name: Reconciliation
+Security: -0.8
+Alliance: Sparta Alliance
+Corp: Black Knight Buccaneers
+Ship: Vulture
+Weapon: Acolyte II
+
+Name: Kayron Brennan
+Security: 0.7
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Caracal
+Weapon: Bloodclaw Light Missile
+
+Name: Pharago
+Security: 1.0
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Porky
+Security: 2.3
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Scorpion
+Weapon: ECM - White Noise Generator II
+
+Name: Haka Aragon (laid the final blow)
+Security: 3.6
+Alliance: Sparta Alliance
+Corp: XERCORE
+Ship: Blackbird
+Weapon: Scourge Heavy Missile
+
+Name: Nightbird
+Security: 0.8
+Alliance: Sparta Alliance
+Corp: Neogen Industries
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: Asran Zara
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: United Space Republic
+Ship: Hound
+Weapon: Hound
+
+Name: AnarchistUK
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: United Space Republic
+Ship: Hawk
+Weapon: Bloodclaw Light Missile
+
+Name: Sephron Kintaka
+Security: 4.0
+Alliance: Sparta Alliance
+Corp: Lynx Frontier Inc.
+Ship: Cormorant
+Weapon: 150mm Railgun II
+
+Name: Kithron
+Security: 3.2
+Alliance: Darklite Alliance
+Corp: Darklite inc
+Ship: Thorax
+Weapon: Thorax
+
+Name: demotar
+Security: 4.2
+Alliance: Sparta Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: The Ironfist
+Security: 5.0
+Alliance: None
+Corp: Nordgoetter
+Ship: Flycatcher
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+Heavy Missile Launcher II
+Heavy Missile Launcher II
+Scourge Fury Heavy Missile, Qty: 36
+Thunderbolt Fury Heavy Missile, Qty: 74
+Scourge Precision Heavy Missile, Qty: 36
+Havoc Fury Heavy Missile, Qty: 36
+Large F-S9 Regolith Shield Induction
+Large Azeotropic Ward Salubrity I
+Initiated Warp Jammer I
+Invulnerability Field I
+Reactor Control Unit I
+Scourge Heavy Missile, Qty: 2062 (Cargo)
+Thunderbolt Fury Heavy Missile, Qty: 352 (Cargo)
+Havoc Fury Heavy Missile, Qty: 375 (Cargo)
+Acolyte EV-300, Qty: 3 (Drone Bay)
+

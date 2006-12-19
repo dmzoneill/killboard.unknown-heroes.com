@@ -1,0 +1,51 @@
+2007.04.12 01:07
+
+Victim: Wicked Pissah
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Blackbird
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Bl00Dzor (laid the final blow)
+Security: 1.5
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Huginn
+Weapon: Widowmaker Heavy Missile
+
+Name: Nethel
+Security: 2.1
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Rapier
+Weapon: Hobgoblin II
+
+Name: DrunkenOne
+Security: -0.5
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Claw
+Weapon: Phalanx Rocket
+
+Name: Rukaz
+Security: 3.1
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Crow
+Weapon: Warp Disruptor II
+
+
+Destroyed items:
+
+200mm Railgun I
+200mm Railgun I
+Lead Charge M, Qty: 240
+ECM - Spatial Destabilizer I
+ECM - White Noise Generator I
+'Hypnos' Ion Field ECM I
+ECM - Multispectral Jammer I
+Signal Distortion Amplifier I
+

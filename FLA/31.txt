@@ -1,0 +1,101 @@
+2007.01.01 21:00
+
+Victim: Uther Agnoius
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Destroyed: Harpy
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Fugnut (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Drake
+Weapon: Havoc Heavy Missile
+
+Name: Sorlac Aurora
+Security: 4.7
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Drake
+Weapon: Thunderbolt Heavy Missile
+
+Name: Cat1977
+Security: 4.7
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Iulian1977
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Armageddon
+Weapon: Mega Beam Laser II
+
+Name: Danielson1012
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Harpy
+Weapon: Harpy
+
+Name: digital oxygen
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Deimos
+Weapon: Deimos
+
+Name: TroNaaR
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Vexor
+Weapon: 200mm Railgun I
+
+Name: Xantheris
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Harpy
+Weapon: Harpy
+
+Name: mr passie
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Hurricane
+Weapon: 425mm AutoCannon I
+
+Name: Ezzeckell
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Sin-X Inc.
+Ship: Thorax
+Weapon: Thorax
+
+Name: Esvi Adhorsen
+Security: 0.8
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Caracal
+Weapon: Heavy Missile Launcher I
+
+
+Destroyed items:
+
+Small Diminishing Power System Drain I
+Small Diminishing Power System Drain I
+125mm Railgun II
+125mm Railgun II
+Javelin S, Qty: 51
+Small Shield Booster II
+Magnetic Scattering Amplifier I
+Power Diagnostic System II
+Javelin S, Qty: 1100 (Cargo)
+

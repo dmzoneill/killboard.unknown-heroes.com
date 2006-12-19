@@ -1,0 +1,57 @@
+2007.03.14 12:34
+
+Victim: Drone 13
+Alliance: Myriad Alliance
+Corp: Virtual Warriors
+Destroyed: Celestis
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Cockroach
+Security: 4.8
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Zealot
+Weapon: Zealot
+
+Name: WolfRavage (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Hyperion
+Weapon: 425mm Railgun I
+
+Name: SoF Reaperman
+Security: 4.4
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Blackbird
+Weapon: Thunderbolt Heavy Missile
+
+Name: Nukuquqa Hestase
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Scorpion
+Weapon: 'Arbalest' Siege Missile Launcher
+
+Name: Gerakis
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Raven
+Weapon: 'Arbalest' Siege Missile Launcher
+
+
+Destroyed items:
+
+Lead Charge M, Qty: 40
+Scourge Heavy Missile, Qty: 32
+Kapteyn Sensor Array Inhibitor I
+Sensor Booster I
+'Abandon' Targeting Disruptor I
+Lead Charge M, Qty: 954 (Cargo)
+Scourge Heavy Missile, Qty: 2000 (Cargo)
+Valkyrie I, Qty: 4 (Drone Bay)

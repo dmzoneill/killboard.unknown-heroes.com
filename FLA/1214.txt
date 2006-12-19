@@ -1,0 +1,54 @@
+2007.03.08 22:44
+
+Victim: Rumple Minze
+Alliance: YouWhat
+Corp: Beasts of Burden
+Destroyed: Capsule
+System: XZH-4X
+Security: 0.0
+
+Involved parties:
+
+Name: Zephyrante
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Lachesis
+Weapon: SV-2000 Assault Missile Bay
+
+Name: Nuvanito
+Security: 3.9
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Brutix
+Weapon: 250mm Carbide Railgun I
+
+Name: Dark Carnage (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: SATAN
+Security: -1.3
+Alliance: GoonSwarm
+Corp: BURN EDEN
+Ship: Claw
+Weapon: Claw
+
+Name: other mickey
+Security: 2.9
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Ares
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: Tripwire
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Celestis
+Weapon: Rocket Launcher I
+
+

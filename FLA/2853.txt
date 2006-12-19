@@ -1,0 +1,40 @@
+2007.03.12 03:30
+
+Victim: Jonas123
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Destroyed: Capsule
+System: L-TS8S
+Security: 0.0
+
+Involved parties:
+
+Name: HarWoo (laid the final blow)
+Security: 1.8
+Alliance: Agony Empire
+Corp: Agony Unleashed
+Ship: Kestrel
+Weapon: Foxfire Rocket
+
+Name: Vitelius
+Security: 4.1
+Alliance: Agony Empire
+Corp: Agony Unleashed
+Ship: Cormorant
+Weapon: 150mm Railgun I
+
+Name: Skybait2020
+Security: 0.2
+Alliance: Agony Empire
+Corp: Agony Unleashed
+Ship: Kestrel
+Weapon: Stasis Webifier I
+
+Name: Joss Sparq
+Security: 0.5
+Alliance: Agony Empire
+Corp: Agony Unleashed
+Ship: Drake
+Weapon: Remote Sensor Dampener I
+
+

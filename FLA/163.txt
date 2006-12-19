@@ -1,0 +1,26 @@
+2007.01.15 06:15
+
+Victim: Kristyl Jade
+Alliance: None
+Corp: Agony Unleashed
+Destroyed: Capsule
+System: X-7OMU
+Security: 0.0
+
+Involved parties:
+
+Name: KriegDrachen (laid the final blow)
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Sabre
+Weapon: 150mm Light AutoCannon II
+
+Name: Indigo Callypso
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Crow
+Weapon: J5 Prototype Warp Inhibitor I
+
+

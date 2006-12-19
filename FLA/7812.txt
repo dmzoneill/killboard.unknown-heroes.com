@@ -1,0 +1,55 @@
+2006.09.02 15:43
+
+Victim: Kiztent
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Destroyed: Typhoon
+System: 3T7-M8
+Security: 0.0
+
+Involved parties:
+
+Name: Hellspawn666 (laid the final blow)
+Security: 1.1
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Thorax
+Weapon: Heavy Ion Blaster II
+
+Name: Crusher166
+Security: 2.2
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Capsule
+Weapon: Focused Medium Pulse Laser II
+
+Name: callonious
+Security: 3.1
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Malediction
+Weapon: Malediction
+
+
+Destroyed items:
+
+800mm Repeating Artillery I
+Dual 425mm AutoCannon I
+Dual 425mm AutoCannon I
+Titanium Sabot L, Qty: 141
+Wrath Cruise Missile, Qty: 11
+'Limos' Cruise Launcher I
+F-b10 Nominal Capacitor Regenerator
+F-b10 Nominal Capacitor Regenerator
+100MN Afterburner I
+Energized Magnetic Membrane II
+Energized Thermic Membrane II
+Armor Thermic Hardener I
+Cap Recharger I (Cargo)
+Tungsten Charge S, Qty: 100 (Cargo)
+Juggernaut Torpedo, Qty: 56 (Cargo)
+Wrath Cruise Missile, Qty: 34 (Cargo)
+Cruise Missile Launcher I (Cargo)
+Standard Missile Launcher I (Cargo)
+Wasp I (Drone Bay)
+

@@ -1,0 +1,30 @@
+2007.02.10 02:54
+
+Victim: Nil Desperandum
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Deimos
+System: Hek
+Security: 0.5
+
+Involved parties:
+
+Name: eXtas (laid the final blow)
+Security: 1.9
+Alliance: Privateer Alliance
+Corp: Kemono.
+Ship: Huginn
+Weapon: Thunderbolt Fury Heavy Missile
+
+
+Destroyed items:
+
+Heavy Ion Blaster II
+Antimatter Charge M, Qty: 270
+X5 Prototype I Engine Enervator
+Cap Booster 800
+Magnetic Field Stabilizer II
+Energized Adaptive Nano Membrane II
+Cap Booster 800, Qty: 6 (Cargo)
+Hammerhead II, Qty: 3 (Drone Bay)
+

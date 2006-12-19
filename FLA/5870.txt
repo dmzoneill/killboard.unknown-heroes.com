@@ -1,0 +1,115 @@
+2006.10.24 20:17
+
+Victim: ArchenTheGreat
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Destroyed: Astarte
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Lone flyer
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Absolution
+Weapon: Acolyte II
+
+Name: MentalM
+Security: 5.2
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Ardron Zeno
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Megathron
+Weapon: Wasp I
+
+Name: hejjbazeg (laid the final blow)
+Security: 1.3
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Rupture
+Weapon: 650mm Artillery Cannon I
+
+Name: Xazier
+Security: -5.6
+Alliance: Imperial Republic Of the North
+Corp: Port Royal Independent Kontractors
+Ship: Typhoon
+Weapon: Wasp I
+
+Name: Flashh Gorden
+Security: 2.4
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Ship: Caracal
+Weapon: Heavy Missile Launcher I
+
+Name: Kolombus
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Lachesis
+Weapon: Warp Disruptor I
+
+Name: TheBelgarion
+Security: 4.4
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Caracal
+Weapon: Partial Weapon Navigation
+
+Name: Gangreen
+Security: 0.1
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Incursus
+Weapon: Incursus
+
+Name: marcouk2
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Megathron
+Weapon: 425mm Carbide Railgun I
+
+Name: Reason Taki
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Moa
+Weapon: 250mm Railgun II
+
+Name: Adelbert Steiner
+Security: 1.8
+Alliance: Forces of Freedom
+Corp: Heild Ryogaour
+Ship: Unknown
+Weapon: Acolyte I
+
+Name: UnAimedPlayer
+Security: 4.5
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Ship: Stiletto
+Weapon: 200mm Light Gallium I Machine Gun
+
+
+Destroyed items:
+
+Heavy Neutron Blaster II
+Void M, Qty: 376
+Cap Booster 800
+Medium Armor Repairer II
+Magnetic Field Stabilizer II
+Magnetic Field Stabilizer II
+Armor Thermic Hardener II
+Armor Explosive Hardener II
+Void M, Qty: 1751 (Cargo)
+

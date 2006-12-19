@@ -1,0 +1,104 @@
+2007.05.07 15:01
+
+Victim: StarshipTrooper
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Destroyed: Lachesis
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Desidos (laid the final blow)
+Security: 5.0
+Alliance: None
+Corp: Nordgoetter
+Ship: Rupture
+Weapon: Sabretooth Light Missile
+
+Name: The Ironfist
+Security: 5.0
+Alliance: None
+Corp: Nordgoetter
+Ship: Flycatcher
+Weapon: Bloodclaw Light Missile
+
+Name: Tassill
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: GREY COUNCIL
+Ship: Rapier
+Weapon: Warp Disruptor II
+
+Name: demotar
+Security: 4.2
+Alliance: Sparta Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Huginn
+Weapon: Huginn
+
+Name: Asran Zara
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: United Space Republic
+Ship: Hound
+Weapon: Hound
+
+Name: GBSabre
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: Antipodean inc.
+Ship: Crow
+Weapon: Initiated Warp Jammer I
+
+Name: Modir II
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: Antipodean inc.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Kayron Brennan
+Security: 0.7
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Caracal
+Weapon: Bloodclaw Light Missile
+
+Name: AnarchistUK
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: United Space Republic
+Ship: Hawk
+Weapon: Bloodclaw Light Missile
+
+Name: Haka Aragon
+Security: 3.6
+Alliance: Sparta Alliance
+Corp: XERCORE
+Ship: Blackbird
+Weapon: Heavy Missile Launcher I
+
+Name: Ghu'ru Talozan
+Security: 5.1
+Alliance: Sparta Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Taranis
+Weapon: Warp Disruptor II
+
+
+Destroyed items:
+
+250mm Railgun II
+250mm Railgun II
+Antimatter Charge M, Qty: 36
+Warp Disruptor II
+Warp Disruptor II
+Indirect Scanning Dampening Unit I
+Indirect Scanning Dampening Unit I
+Sensor Booster II
+Energized Reactive Membrane II
+800mm Reinforced Steel Plates II
+Antimatter Charge M, Qty: 500 (Cargo)
+Single-crystal Superalloy I-beam, Qty: 3 (Cargo)
+

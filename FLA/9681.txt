@@ -1,0 +1,88 @@
+2007.05.23 10:52
+
+Victim: pennings 002
+Alliance: None
+Corp: JPGP
+Destroyed: Abaddon
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: articz (laid the final blow)
+Security: -0.3
+Alliance: DeStInY.
+Corp: House Of Aaron
+Ship: Tempest
+Weapon: Dual 650mm 'Scout' Repeating Artillery I
+
+Name: DV8ED
+Security: 2.4
+Alliance: DeStInY.
+Corp: The Syndicate Inc
+Ship: Vagabond
+Weapon: Acolyte II
+
+Name: MaceWindu666
+Security: 5.1
+Alliance: Event-Horizon
+Corp: Panta-Rhei
+Ship: Myrmidon
+Weapon: Vespa II
+
+Name: Alch3mik
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Arazu
+Weapon: Hornet II
+
+Name: Corovus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+Name: Porky
+Security: 2.3
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: slayer avenger
+Security: 4.5
+Alliance: DeStInY.
+Corp: Legion Federation
+Ship: Caracal
+Weapon: Thunderbolt Heavy Missile
+
+Name: MrMajIc
+Security: 0.8
+Alliance: Imperial Republic Of the North
+Corp: VentureCorp
+Ship: Rapier
+Weapon: 720mm Howitzer Artillery II
+
+
+Destroyed items:
+
+Tachyon Beam Laser II
+Tachyon Beam Laser II
+Heavy Beam Laser II
+Heavy Beam Laser II
+Gleam L
+Gleam L
+Gleam L
+Gleam M
+Cruise Missile Launcher II
+Cap Recharger II
+Cap Recharger II
+Cap Recharger II
+Damage Control I
+Large Armor Repairer II
+1600mm Reinforced Crystalline Carbonide Plates I
+Capacitor Power Relay II
+Capacitor Power Relay II
+

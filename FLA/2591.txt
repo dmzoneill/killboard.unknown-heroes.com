@@ -1,0 +1,78 @@
+2007.02.25 19:24
+
+Victim: Maggallus
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Destroyed: Blackbird
+System: 57-KJB
+Security: 0.0
+
+Involved parties:
+
+Name: Zensige (laid the final blow)
+Security: -5.9
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Hyperion
+Weapon: Regulated Mega Ion Phase Cannon I
+
+Name: Lady Vanquish
+Security: 3.3
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: Norath84
+Security: 4.6
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Hyperion
+Weapon: Limited Electron Blaster Cannon I
+
+Name: Dominixa
+Security: 5.0
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Falcon
+Weapon: Scourge Heavy Missile
+
+Name: Haizum
+Security: 2.9
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Celestis
+Weapon: Phased Muon Sensor Disruptor I
+
+Name: HAMTRONIX
+Security: 4.3
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Gila
+Weapon: 'Arbalest' Heavy Missile Launcher
+
+Name: Aremont
+Security: 5.0
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Harpy
+Weapon: 'Langour' Drive Disruptor I
+
+
+Destroyed items:
+
+280mm Howitzer Artillery I
+EMP S
+EMP S
+EMP S
+EMP S
+EMP S
+EMP S
+Sabretooth Light Missile, Qty: 60
+Assault Missile Launcher I
+Assault Missile Launcher I
+ECM - Ion Field Projector I
+'Hypnos' Multispectral ECM I
+ECM - Phase Inverter I
+800mm Reinforced Titanium Plates I
+

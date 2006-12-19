@@ -1,0 +1,44 @@
+2006.05.12 18:40
+
+Victim: Tom Eliot
+Alliance: None
+Corp: Beagle Corp
+Destroyed: Caracal
+System: 3T7-M8
+Security: 0.0
+
+Involved parties:
+
+Name: Jumar Coldgin (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Ferox
+Weapon: Havoc Heavy Missile
+
+Name: Shiri elAzarinres
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Caracal
+Weapon: Widowmaker Heavy Missile
+
+Name: Nahkaviitta
+Security: 0.3
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Capsule
+Weapon: Fleeting Warp Scrambler I
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 55
+Heavy Missile Launcher I
+Cap Recharger I
+Warp Disruptor I
+Invulnerability Field I
+Invulnerability Field I
+Bloodclaw Light Missile, Qty: 739 (Cargo)
+Scourge Heavy Missile, Qty: 1107 (Cargo)
+

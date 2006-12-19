@@ -1,0 +1,40 @@
+2007.04.28 21:10
+
+Victim: Skull Fire
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Blackbird
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: RyMcQeN I (laid the final blow)
+Security: 4.3
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+Name: Asasham
+Security: 5.0
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Incursus
+Weapon: Incursus
+
+Name: Indiano Arko
+Security: 0.6
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Hurricane
+Weapon: Hurricane
+
+
+Destroyed items:
+
+200mm Railgun I
+200mm Railgun I
+Plutonium Charge M, Qty: 150
+Bloodclaw Light Missile, Qty: 38
+

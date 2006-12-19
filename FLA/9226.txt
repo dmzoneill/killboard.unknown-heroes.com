@@ -1,0 +1,72 @@
+2007.05.04 18:40
+
+Victim: Damfoose
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Scorpion
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Primos Gun
+Security: 4.3
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Myrmidon
+Weapon: Myrmidon
+
+Name: Rinkos Alaine
+Security: 5.0
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Eos
+Weapon: Eos
+
+Name: stich626 (laid the final blow)
+Security: -1.3
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Myrmidon
+Weapon: Heavy Electron Blaster II
+
+Name: Topasio
+Security: 3.6
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Rupture
+Weapon: Medium Nosferatu I
+
+Name: Rubens22
+Security: 2.7
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Ares
+Weapon: Ares
+
+Name: Kaulu
+Security: 3.4
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Blackbird
+Weapon: ECM - Spatial Destabilizer II
+
+Name: Travieso
+Security: -2.6
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Claw
+Weapon: Warp Disruptor I
+
+
+Destroyed items:
+
+Large Rudimentary Concussion Bomb I
+Large EMP Smartbomb I
+'Limos' Cruise Launcher I
+Eutectic I Capacitor Charge Array
+Medium Capacitor Battery I
+Large Armor Repairer I
+1600mm Reinforced Steel Plates I
+1600mm Reinforced Crystalline Carbonide Plates I
+

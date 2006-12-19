@@ -1,0 +1,160 @@
+2007.01.28 17:38
+
+Victim: Bobbeh
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Destroyed: Tempest
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Arvo Henderson (laid the final blow)
+Security: 2.8
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Deimos
+Weapon: Heavy Ion Blaster II
+
+Name: Goca
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Ferox
+Weapon: Thunderbolt Heavy Missile
+
+Name: Lancelot Wellborn
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Moa
+Weapon: Moa
+
+Name: HYT gangster
+Security: 1.0
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Typhoon
+Weapon: Wasp I
+
+Name: Spartan dax
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Drake
+Weapon: Thunderbolt Heavy Missile
+
+Name: DrElJefeMD
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Tempest
+Weapon: Tempest
+
+Name: Denaris1
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Raven
+Weapon: XT-9000 Cruise Launcher
+
+Name: Anastasia DC
+Security: 1.5
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Megathron
+Weapon: 425mm Railgun I
+
+Name: Raketefrau
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Caracal
+Weapon: Thunderbolt Heavy Missile
+
+Name: Burn Lump
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Caracal
+Weapon: Widowmaker Heavy Missile
+
+Name: other mickey
+Security: 1.7
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Ishkur
+Weapon: Warrior I
+
+Name: Shassandra
+Security: 4.5
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Taranis
+Weapon: Stasis Webifier I
+
+Name: Teck7
+Security: 0.8
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ishtar
+Weapon: 125mm Railgun II
+
+Name: Rick A
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Blackbird
+Weapon: ECM - Multispectral Jammer I
+
+Name: Daressek
+Security: 3.3
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Blackbird
+Weapon: Havoc Heavy Missile
+
+Name: SleepyJack
+Security: 1.2
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Blackbird
+Weapon: Scourge Heavy Missile
+
+Name: FlobbMkII
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Taranis
+Weapon: Hobgoblin II
+
+Name: Jorax
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Enyo
+Weapon: Acolyte I
+
+Name: Vesspasiano
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Enyo
+Weapon: Enyo
+
+
+Destroyed items:
+
+1400mm Howitzer Artillery II
+1400mm Howitzer Artillery II
+1400mm Howitzer Artillery II
+1400mm Howitzer Artillery II
+Tremor L, Qty: 46
+100MN MicroWarpdrive I
+Sensor Booster II
+Large Armor Repairer II
+Tracking Enhancer II
+Reactor Control Unit I
+Depleted Uranium L, Qty: 999 (Cargo)
+Tremor L, Qty: 949 (Cargo)
+

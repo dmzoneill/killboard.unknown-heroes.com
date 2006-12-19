@@ -1,0 +1,52 @@
+2007.01.10 10:20
+
+Victim: Facter
+Alliance: Freelancer Alliance
+Corp: J.I.T. Enterprises
+Destroyed: Raven
+System: N2IS-B
+Security: 0.0
+
+Involved parties:
+
+Name: Guristas Destructor / Guristas
+
+Name: K Shara (laid the final blow)
+Security: 4.7
+Alliance: None
+Corp: 0utbreak
+Ship: Crow
+Weapon: Sabretooth Light Missile
+
+
+Destroyed items:
+
+Juggernaut Torpedo, Qty: 12
+Wrath Cruise Missile, Qty: 44
+XT-9000 Cruise Launcher
+Small Tractor Beam I
+Small Tractor Beam I
+Large F-S9 Regolith Shield Induction
+Non-Inertial Ballistic Screen Augmentation I
+Nanomechanical CPU Enhancer I
+Ballistic Control System I
+Ballistic Control System I
+Medium Shield Extender I (Cargo)
+Small Shield Extender I (Cargo)
+Small Shield Booster I (Cargo)
+Medium Armor Repairer I (Cargo)
+Small Hull Repairer I (Cargo)
+Asymmetric Energy Succor I (Cargo)
+Small Nosferatu I (Cargo)
+Small Energy Neutralizer I, Qty: 2 (Cargo)
+Medium Graviton Smartbomb I (Cargo)
+Antimatter Charge S, Qty: 100 (Cargo)
+Tungsten Charge M, Qty: 100 (Cargo)
+ECCM - Omni I (Cargo)
+Phased Muon ECCM Caster I (Cargo)
+Remote Sensor Booster I (Cargo)
+F-392 Baker Nunn Targeting Scrambler (Cargo)
+Wrath Cruise Missile, Qty: 476 (Cargo)
+Hydra F.O.F. Heavy Missile I, Qty: 100 (Cargo)
+Heavy Missile Launcher I (Cargo)
+

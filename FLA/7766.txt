@@ -1,0 +1,25 @@
+2006.08.16 16:10
+
+Victim: Sembonzakura
+Alliance: Freelancer Alliance
+Corp: J.I.T. Enterprises
+Destroyed: Iteron Mark III
+System: O-CNPR
+Security: 0.0
+
+Involved parties:
+
+Name: ArmagedonLT (laid the final blow)
+Security: 2.8
+Alliance: None
+Corp: LDK
+Ship: Sacrilege
+Weapon: Focused Medium Pulse Laser II
+
+
+Destroyed items:
+
+Small Tractor Beam I
+Small Tractor Beam I
+10MN Afterburner I
+

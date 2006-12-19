@@ -1,0 +1,27 @@
+2006.09.23 05:24
+
+Victim: Lkin Kce
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Destroyed: Caracal
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Jovius Marginus (laid the final blow)
+Security: -0.4
+Alliance: Firmus Ixion
+Corp: Black Avatar
+Ship: Vagabond
+Weapon: Dual 180mm AutoCannon II
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 109
+'Malkuth' Heavy Missile Launcher I
+10MN Afterburner I
+Warp Scrambler I
+Supplemental Scanning CPU I
+

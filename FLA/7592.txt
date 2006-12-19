@@ -1,0 +1,119 @@
+2006.09.22 19:36
+
+Victim: Xander Vain
+Alliance: R.I.S.K
+Corp: RUS-SAGA
+Destroyed: Armageddon
+System: 93PI-4
+Security: 0.0
+
+Involved parties:
+
+Name: Puke
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Cerberus
+Weapon: Scourge Heavy Missile
+
+Name: zoturi
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Megan Ryder
+Security: 5.0
+Alliance: CORE.
+Corp: VentureCorp
+Ship: Deimos
+Weapon: Deimos
+
+Name: Mad Mackem
+Security: -1.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Zealot
+Weapon: Zealot
+
+Name: Rattler Morgan (laid the final blow)
+Security: 5.2
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Ferox
+Weapon: Scourge Heavy Missile
+
+Name: Oldin Relic
+Security: 1.3
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Moa
+Weapon: Moa
+
+Name: Luthien Firefoot
+Security: 2.7
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Eagle
+Weapon: Eagle
+
+Name: kermitfrog
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Crow
+Weapon: 'Langour' Drive Disruptor I
+
+Name: DDaisy
+Security: 4.7
+Alliance: CORE.
+Corp: VentureCorp
+Ship: Deimos
+Weapon: Deimos
+
+Name: XxAngelxX
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Curse
+Weapon: Vespa II
+
+Name: fincormack
+Security: 2.5
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Taranis
+Weapon: Taranis
+
+Name: copicus
+Security: 5.2
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Harpy
+Weapon: Warp Disruptor I
+
+Name: casama
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Heretic
+Weapon: Partial Weapon Navigation
+
+
+Destroyed items:
+
+Tachyon Beam Laser II
+Tachyon Beam Laser II
+Multifrequency L
+Multifrequency L
+Multifrequency L
+Multifrequency L
+Heat Sink II
+Heat Sink II
+Heat Sink II
+Signal Amplifier II
+Tracking Enhancer II
+Aurora L, Qty: 3 (Cargo)
+Praetor II, Qty: 3 (Drone Bay)
+

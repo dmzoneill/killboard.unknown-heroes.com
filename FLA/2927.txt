@@ -1,0 +1,65 @@
+2007.03.16 23:00
+
+Victim: Rinsith
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Destroyed: Taranis
+System: E-Z2ZX
+Security: 0.0
+
+Involved parties:
+
+Name: Rubens22
+Security: 2.3
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Enyo
+Weapon: Enyo
+
+Name: drakandu
+Security: 0.9
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Capsule
+Weapon: Warp Disruptor I
+
+Name: Hinderburg
+Security: 4.2
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Wolf
+Weapon: Wolf
+
+Name: Gorfi tco
+Security: 3.9
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Heretic
+Weapon: Heretic
+
+Name: Topasio (laid the final blow)
+Security: 2.3
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Stabber
+Weapon: 650mm Artillery Cannon I
+
+Name: ZIQUET
+Security: 4.8
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Enyo
+Weapon: Enyo
+
+
+Destroyed items:
+
+Small 'Knave' I Energy Drain
+Light Ion Blaster II
+Light Ion Blaster II
+Void S, Qty: 226
+Warp Disruptor I
+Nanofiber Internal Structure I
+Capacitor Power Relay I
+Hammerhead I (Drone Bay)
+

@@ -1,0 +1,90 @@
+2007.02.03 05:09
+
+Victim: Atarkus
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Manticore
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Yokujin
+Security: 0.0
+Alliance: Corelum Syndicate
+Corp: Coreli Corporation
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+Name: Ben Booley
+Security: -7.2
+Alliance: Corelum Syndicate
+Corp: Coreli Corporation
+Ship: Arbitrator
+Weapon: Hornet I
+
+Name: DarKStar13
+Security: 5.0
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Ares
+Weapon: Ares
+
+Name: Balltazore Anubis
+Security: 4.9
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: Caldari Android (laid the final blow)
+Security: 2.9
+Alliance: Aftermath Alliance
+Corp: Total Mayhem.
+Ship: Harpy
+Weapon: Light Ion Blaster II
+
+Name: Trelayne
+Security: 5.0
+Alliance: Aftermath Alliance
+Corp: Total Mayhem.
+Ship: Ishkur
+Weapon: Warrior II
+
+Name: Uthreignish
+Security: 5.5
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+Name: Korran Delan
+Security: 4.0
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Ferox
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+Name: DrDave
+Security: 4.8
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Stabber
+Weapon: 220mm Vulcan AutoCannon I
+
+Name: Aloysius Pendergast
+Security: 3.5
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Rook
+Weapon: Heavy Missile Launcher II
+
+
+Destroyed items:
+
+Paradise Cruise Missile, Qty: 40
+XT-9000 Cruise Launcher
+XT-9000 Cruise Launcher
+Supplemental Scanning CPU I
+Paradise Cruise Missile, Qty: 1136 (Cargo)
+

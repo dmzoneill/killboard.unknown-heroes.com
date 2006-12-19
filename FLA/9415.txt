@@ -1,0 +1,30 @@
+2007.05.12 18:56
+
+Victim: Ophea
+Alliance: Freelancer Alliance
+Corp: The Collective of Ascended Beings
+Destroyed: Manticore
+System: Haajinen
+Security: 0.8
+
+Involved parties:
+
+Name: Ronnie Kray (laid the final blow)
+Security: -1.9
+Alliance: None
+Corp: Mentally Unstable Enterprises
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+Passive Targeter I
+Improved Cloaking Device II
+Paradise Cruise Missile, Qty: 60
+'Arbalest' Cruise Launcher I
+Sensor Booster I
+Co-Processor I
+Devastator Cruise Missile, Qty: 435 (Cargo)
+Wrath Cruise Missile, Qty: 435 (Cargo)
+

@@ -1,0 +1,83 @@
+2007.02.18 20:50
+
+Victim: Blue Trident
+Alliance: None
+Corp: Cash Money Brothers
+Destroyed: Rook
+System: RQH-MY
+Security: 0.0
+
+Involved parties:
+
+Name: 3M TA3
+Security: -1.9
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Raven
+Weapon: Cruise Missile Launcher I
+
+Name: VoYvod (laid the final blow)
+Security: -0.1
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Armageddon
+Weapon: Mega Pulse Laser I
+
+Name: Barukor
+Security: 3.0
+Alliance: None
+Corp: BGG
+Ship: Claw
+Weapon: Claw
+
+Name: Pixnator
+Security: -1.2
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Raven
+Weapon: Siege Missile Launcher II
+
+Name: rappter
+Security: -1.4
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Deimos
+Weapon: Heavy Neutron Blaster II
+
+Name: Muad' Dib
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Raptor
+Weapon: DDO Photometry I Targeting Interference
+
+
+Destroyed items:
+
+Heavy Missile Launcher II
+Heavy Missile Launcher II
+Heavy Missile Launcher II
+Heavy Missile Launcher II
+Havoc Precision Heavy Missile, Qty: 40
+Thunderbolt Precision Heavy Missile, Qty: 80
+Fleeting Warp Scrambler I
+X5 Prototype I Engine Enervator
+ECM - Multispectral Jammer II
+Supplemental Scanning CPU I
+'Hypnos' Signal Distortion Amplifier I
+10MN MicroWarpdrive I (Cargo)
+Medium Peroxide I Capacitor Power Cell (Cargo)
+Medium Armor Repairer I (Cargo)
+X5 Prototype I Engine Enervator (Cargo)
+Medium Graviton Smartbomb I (Cargo)
+ECM - Spatial Destabilizer II, Qty: 3 (Cargo)
+ECM - White Noise Generator II, Qty: 3 (Cargo)
+ECM - Ion Field Projector II, Qty: 3 (Cargo)
+ECM - Phase Inverter II, Qty: 3 (Cargo)
+Supplemental Scanning CPU I (Cargo)
+Warp Core Stabilizer I (Cargo)
+Small Secure Container (Cargo)
+Thunderbolt Precision Heavy Missile, Qty: 485 (Cargo)
+Havoc Precision Heavy Missile, Qty: 273 (Cargo)
+Power Diagnostic System I (Cargo)
+

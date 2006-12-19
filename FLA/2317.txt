@@ -1,0 +1,146 @@
+2007.02.05 19:56
+
+Victim: xinndo jagged
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Destroyed: Drake
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Beast Hun (laid the final blow)
+Security: 4.7
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Armageddon
+Weapon: Tachyon Beam Laser II
+
+Name: EL TITAN
+Security: 1.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Machariel
+Weapon: 1400mm Howitzer Artillery II
+
+Name: OzaLoni
+Security: 1.6
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Hyperion
+Weapon: 425mm Railgun II
+
+Name: Kraust
+Security: 4.8
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Othnark
+Security: 2.8
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Sleipnir
+Weapon: Sleipnir
+
+Name: Havocide
+Security: 1.9
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Myrmidon
+Weapon: Myrmidon
+
+Name: Asquiro
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Rokh
+Weapon: Rokh
+
+Name: Ria Sotori
+Security: 3.9
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Rokh
+Weapon: 425mm Railgun II
+
+Name: Kaijou
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Rokh
+Weapon: Rokh
+
+Name: Puls4r
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Claymore
+Weapon: Hornet II
+
+Name: Memphisz
+Security: 0.4
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: maria stallion
+Security: 3.7
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Repiv
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Abaddon
+Weapon: Tachyon Beam Laser II
+
+Name: Bodhi D
+Security: -0.2
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Dracorimus
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Bobbeh
+Security: -0.1
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Maelstrom
+Weapon: 1400mm Howitzer Artillery II
+
+Name: LordPhoenix
+Security: 2.2
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Huginn
+Weapon: Huginn
+
+
+Destroyed items:
+
+Prototype Cloaking Device I
+Havoc Heavy Missile, Qty: 49
+Heavy Missile Launcher II
+Heavy Missile Launcher II
+Invulnerability Field II
+Phased Weapon Navigation Array Generation Extron
+Gravimetric Backup Array I
+Signal Amplifier I
+Ballistic Control System II
+Mobile Small Warp Disruptor I (Cargo)
+Havoc Heavy Missile, Qty: 700 (Cargo)
+Widowmaker Precision Heavy Missile, Qty: 400 (Cargo)
+

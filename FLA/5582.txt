@@ -1,0 +1,91 @@
+2006.10.08 14:55
+
+Victim: Lighti
+Alliance: R.I.S.K
+Corp: SolaR KillerS
+Destroyed: Harpy
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Nil Desperandum (laid the final blow)
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Omen
+Weapon: Heavy Pulse Laser II
+
+Name: Trendsetter
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Flycatcher
+Weapon: Bloodclaw Light Missile
+
+Name: Penny Pitstop
+Security: 5.0
+Alliance: Forces of Freedom
+Corp: INXS INC
+Ship: Blackbird
+Weapon: ECM - Multispectral Jammer I
+
+Name: wessam
+Security: 4.5
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Rook
+Weapon: Heavy Missile Launcher II
+
+Name: pROMp
+Security: 2.9
+Alliance: Freelancer Alliance
+Corp: Feel Good Inc.
+Ship: Celestis
+Weapon: Indirect Scanning Dampening Unit I
+
+Name: other mickey
+Security: 0.8
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Celestis
+Weapon: Initiated Multispectral ECM I
+
+Name: Soliloquil
+Security: 3.3
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Moa
+Weapon: Dual 150mm Railgun I
+
+Name: Laye
+Security: 0.4
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Ship: Tristan
+Weapon: Stasis Webifier I
+
+Name: Joachim R
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Eagle
+Weapon: Warp Disruptor I
+
+Name: Badtrance
+Security: 4.2
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Harpy
+Weapon: Light Ion Blaster II
+
+
+Destroyed items:
+
+Light Neutron Blaster II
+Null S, Qty: 78
+Cap Recharger I
+Cap Recharger I
+Insulated Stabilizer Array I
+Small Ld-Acid Capacitor Battery I (Cargo)
+

@@ -1,0 +1,40 @@
+2007.05.18 21:51
+
+Victim: PhantomVyper
+Alliance: None
+Corp: Darkness Inc.
+Destroyed: Capsule
+System: G-M4I8
+Security: 0.0
+
+Involved parties:
+
+Name: Kvarium Ki (laid the final blow)
+Security: 2.3
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Rapier
+Weapon: 650mm Artillery Cannon II
+
+Name: Magic Mazuma
+Security: 0.1
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Rifter
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: wardey
+Security: 0.6
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Crusader
+Weapon: Crusader
+
+Name: Mocuker1
+Security: -0.1
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Crow
+Weapon: J5 Prototype Warp Inhibitor I
+
+

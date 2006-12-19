@@ -1,0 +1,26 @@
+2007.01.17 16:27
+
+Victim: GIR551
+Alliance: None
+Corp: Perkone
+Destroyed: Executioner
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Solarienne (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+
+Destroyed items:
+
+150mm Railgun I
+150mm 'Scout' I Accelerator Cannon
+Iridium Charge S, Qty: 40
+Iridium Charge S, Qty: 220 (Cargo)
+

@@ -1,0 +1,33 @@
+2007.04.10 14:51
+
+Victim: CUBANFOREVER
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Destroyed: Capsule
+System: 3QE-9Q
+Security: 0.0
+
+Involved parties:
+
+Name: abzzo (laid the final blow)
+Security: 1.7
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Malediction
+Weapon: Dual Light Beam Laser II
+
+Name: 4SG GillHead
+Security: 5.0
+Alliance: S.E.R.A
+Corp: Seraphin Technologies
+Ship: Malediction
+Weapon: Malediction
+
+Name: kapten sortebil
+Security: 4.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Raptor
+Weapon: 125mm Gatling AutoCannon II
+
+

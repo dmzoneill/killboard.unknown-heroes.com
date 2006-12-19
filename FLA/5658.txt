@@ -1,0 +1,54 @@
+2006.10.09 21:25
+
+Victim: Nogik
+Alliance: None
+Corp: Feel Good Inc
+Destroyed: Bantam
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Nil Desperandum
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Omen
+Weapon: Heavy Anode Pulse Particle Stream I
+
+Name: Lady Vanquish (laid the final blow)
+Security: -0.2
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Stabber
+Weapon: 720mm Howitzer Artillery I
+
+Name: Kev Lar
+Security: 0.0
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Ares
+Weapon: 150mm Railgun II
+
+Name: Wodan NL
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Enyo
+Weapon: 125mm Railgun II
+
+Name: Jack Phox
+Security: 2.8
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Crow
+Weapon: Fleeting Warp Scrambler I
+
+Name: DanyD
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Ship: Crow
+Weapon: Upgraded 'Limos' Standard Missile Bay I
+
+

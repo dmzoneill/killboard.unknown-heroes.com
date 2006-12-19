@@ -1,0 +1,31 @@
+2006.11.14 17:16
+
+Victim: Formosus Funus
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Destroyed: Jaguar
+System: Passari
+Security: 0.4
+
+Involved parties:
+
+Name: Daykin Naib (laid the final blow)
+Security: -2.9
+Alliance: None
+Corp: FightClub TQ
+Ship: Rupture
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Guristas Despoiler / Guristas
+
+
+Destroyed items:
+
+Tremor S, Qty: 16
+Medium F-S9 Regolith Shield Induction
+Fleeting Propulsion Inhibitor I
+EMP S, Qty: 2000 (Cargo)
+Caldari Battleship (Cargo)
+Quake S, Qty: 1791 (Cargo)
+Tremor S, Qty: 1823 (Cargo)
+

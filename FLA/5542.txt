@@ -1,0 +1,51 @@
+2006.10.07 19:14
+
+Victim: Ikarian
+Alliance: None
+Corp: Sebiestor tribe
+Destroyed: Reaper
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Mr Harmonica
+Security: 5.0
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+Name: Bolinar (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Deimos
+Weapon: Heavy Ion Blaster II
+
+Name: Malkius
+Security: 1.7
+Alliance: Forces of Freedom
+Corp: JUDGE DREAD Inc.
+Ship: Crow
+Weapon: Faint Warp Prohibitor I
+
+Name: Karas Rabus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Huginn
+Weapon: Assault Missile Launcher II
+
+Name: Ione79
+Security: 3.4
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Celestis
+Weapon: XR-3200 Heavy Missile Bay
+
+
+Destroyed items:
+
+Tritanium (Cargo)
+

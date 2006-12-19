@@ -1,0 +1,25 @@
+2007.04.27 13:12
+
+Victim: Rhaall
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Executioner
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Fitz Farseer (laid the final blow)
+Security: 0.5
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Typhoon
+Weapon: Large 'Notos' Explosive Charge I
+
+
+Destroyed items:
+
+1MN MicroWarpdrive I
+Energized Adaptive Nano Membrane I
+Capacitor Power Relay I
+

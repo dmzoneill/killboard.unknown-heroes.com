@@ -1,0 +1,70 @@
+2007.03.18 20:18
+
+Victim: Devylman
+Alliance: YouWhat
+Corp: Princeps Corp
+Destroyed: Arbitrator
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Lucy Fire1
+Security: -0.4
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Dominix
+Weapon: Vespa II
+
+Name: Mr Omniblivion (laid the final blow)
+Security: -0.9
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Ship: Harbinger
+Weapon: Heavy Beam Laser II
+
+Name: mr passie
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: Chekoteh
+Security: 2.4
+Alliance: Freelancer Alliance
+Corp: United Forces
+Ship: Tempest
+Weapon: Tempest
+
+Name: Ilvarin Brui
+Security: 3.4
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: Denaris1
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Harpy
+Weapon: Harpy
+
+
+Destroyed items:
+
+Small 'Knave' I Energy Drain
+Small Nosferatu I
+10MN MicroWarpdrive I
+Warp Disruptor I
+Radioisotope Kinetic Hardener I
+Stasis Webifier I (Cargo)
+Small Nosferatu I, Qty: 2 (Cargo)
+Hammerhead I (Cargo)
+Infiltrator I (Cargo)
+Tracking Disruptor I (Cargo)
+Overdrive Injector System I (Cargo)
+Hobgoblin I (Drone Bay)
+Hornet I, Qty: 2 (Drone Bay)
+

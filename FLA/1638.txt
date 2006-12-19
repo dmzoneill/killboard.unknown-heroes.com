@@ -1,0 +1,72 @@
+2007.03.19 00:02
+
+Victim: IsmaelYU5 Iluvatar
+Alliance: YouWhat
+Corp: SteelVipers
+Destroyed: Taranis
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: ISpydeRI (laid the final blow)
+Security: 5.0
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+Name: dpdemon
+Security: 0.3
+Alliance: The Sundering
+Corp: Auraxian Irregulars
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+Name: KiNgShiZzLe
+Security: 5.0
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+Name: Swanny231
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Raven
+Weapon: 'Malkuth' Siege Missile Launcher I
+
+Name: Skull Fire
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Raven
+Weapon: 250mm Prototype I Gauss Gun
+
+Name: Iss Hogai
+Security: 5.0
+Alliance: Zenith Affinity
+Corp: GREY COUNCIL
+Ship: Ferox
+Weapon: 250mm 'Scout' I Accelerator Cannon
+
+Name: Briscoe
+Security: 4.1
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Scorpion
+Weapon: Scorpion
+
+
+Destroyed items:
+
+Small Nosferatu II
+Small Nosferatu II
+Antimatter Charge S, Qty: 80
+1MN MicroWarpdrive II
+Warp Disruptor II
+Micro Auxiliary Power Core I
+Energized Adaptive Nano Membrane I (Cargo)
+Hobgoblin II, Qty: 2 (Drone Bay)
+

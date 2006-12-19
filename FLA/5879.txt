@@ -1,0 +1,24 @@
+2006.10.25 20:25
+
+Victim: Kinomoto Sakura
+Alliance: None
+Corp: Turanic Raiders
+Destroyed: Executioner
+System: 93PI-4
+Security: 0.0
+
+Involved parties:
+
+Name: James Potkukelkka (laid the final blow)
+Security: 0.2
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Flycatcher
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+Ultraviolet S
+Cold-Gas I Arcjet Thrusters
+

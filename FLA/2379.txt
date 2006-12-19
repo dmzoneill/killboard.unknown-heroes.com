@@ -1,0 +1,26 @@
+2007.02.08 15:34
+
+Victim: Kappas.
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Destroyed: Capsule
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Bobby Atlas (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Vigilant
+Weapon: Heavy Ion Blaster I
+
+Name: Ocara Nezus
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Raven
+Weapon: Juggernaut Torpedo
+
+

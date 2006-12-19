@@ -1,0 +1,126 @@
+2007.03.24 23:43
+
+Victim: RubberDuckey
+Alliance: Freelancer Alliance
+Corp: Blackwater Squadron
+Destroyed: Raven
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: WildCard
+Security: 4.3
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Tempest
+Weapon: Tempest
+
+Name: Keflin Geard
+Security: 5.0
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Raven
+Weapon: Juggernaut Javelin Torpedo
+
+Name: GODFATHER (laid the final blow)
+Security: 5.0
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Grey Badger
+Security: 5.4
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Ship: Raven
+Weapon: Inferno Torpedo
+
+Name: Varaxian
+Security: 3.2
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: C4w3
+Security: 1.3
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Ship: Raven
+Weapon: Hornet I
+
+Name: khazid
+Security: 5.0
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Ship: Ferox
+Weapon: Havoc Heavy Missile
+
+Name: MASTER PSI
+Security: 3.6
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Ship: Harbinger
+Weapon: Valkyrie II
+
+Name: El Chingon
+Security: -3.1
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Ship: Scorpion
+Weapon: Devastator Cruise Missile
+
+Name: Elfe
+Security: 4.4
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Thorax
+Weapon: Hammerhead I
+
+Name: albert camus
+Security: -8.3
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Ship: Claw
+Weapon: Claw
+
+Name: Angie Mitchell
+Security: 0.6
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Crusader
+Weapon: Crusader
+
+Name: Sylvia McGregor
+Security: 2.6
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Thorax
+Weapon: Faint Warp Prohibitor I
+
+Name: Alizarin Crimson
+Security: -1.3
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Astarte
+Weapon: Heavy Ion Blaster II
+
+
+Destroyed items:
+
+425mm Carbide Railgun I
+Cruise Missile Launcher II
+Cruise Missile Launcher II
+Cruise Missile Launcher II
+Paradise Precision Cruise Missile, Qty: 84
+Invulnerability Field II
+Sensor Booster II
+Magnetic Scattering Amplifier II
+Ballistic Control System II
+Power Diagnostic System I
+Antimatter Charge L, Qty: 1744 (Cargo)
+Devastator Precision Cruise Missile, Qty: 4393 (Cargo)
+Acolyte II, Qty: 2 (Drone Bay)
+

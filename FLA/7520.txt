@@ -1,0 +1,49 @@
+2006.09.11 20:59
+
+Victim: NathanSPowell
+Alliance: None
+Corp: The Synaris Corporation
+Destroyed: Gallente Shuttle
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: implanted
+Security: 4.6
+Alliance: O X I D E
+Corp: MAJORITY
+Ship: Crusader
+Weapon: Crusader
+
+Name: UnAimedPlayer
+Security: 1.2
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Ship: Wolf
+Weapon: 280mm Howitzer Artillery I
+
+Name: digital oxygen (laid the final blow)
+Security: 4.8
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Megathron
+Weapon: 425mm Railgun I
+
+Name: Guristas Assaulter / Guristas
+
+Name: Vahearun
+Security: 1.6
+Alliance: Freelancer Alliance
+Corp: Veturi
+Ship: Wolf
+Weapon: 200mm AutoCannon II
+
+Name: LiBraga
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Cerberus
+Weapon: Heavy Missile Launcher II
+
+

@@ -1,0 +1,26 @@
+2007.05.11 14:32
+
+Victim: Waxwing
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Destroyed: Gallente Shuttle
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: stich626 (laid the final blow)
+Security: -1.1
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Flycatcher
+Weapon: Bloodclaw Light Missile
+
+Name: SaNoSuKeJavi
+Security: -2.0
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Taranis
+Weapon: Hobgoblin II
+
+

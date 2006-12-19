@@ -1,0 +1,53 @@
+2007.03.10 15:16
+
+Victim: The RedPalm
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Destroyed: Malediction
+System: XZH-4X
+Security: 0.0
+
+Involved parties:
+
+Name: Shassandra
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Megathron
+Weapon: 425mm Railgun I
+
+Name: Caranthir (laid the final blow)
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Huginn
+Weapon: 720mm Howitzer Artillery II
+
+Name: Tregaron
+Security: 1.8
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Ithalia
+Security: 0.7
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Vexor
+Weapon: Stasis Webifier I
+
+
+Destroyed items:
+
+Medium Pulse Laser II
+Prototype Cloaking Device I
+Conflagration S
+Foxfire Rocket, Qty: 30
+Fixed Parallel Link-Capacitor I
+'Langour' Drive Disruptor I
+Small Armor Repairer II
+Inertia Stabilizers I
+Reactor Control Unit II
+Gremlin Rocket, Qty: 67 (Cargo)
+

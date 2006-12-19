@@ -1,0 +1,70 @@
+2007.03.04 18:40
+
+Victim: Eth 1
+Alliance: Freelancer Alliance
+Corp: United Forces
+Destroyed: Tristan
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: WarGod
+Security: -1.1
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Curse
+Weapon: Curse
+
+Name: xVx Skillgannon
+Security: 0.4
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: simcor (laid the final blow)
+Security: 0.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Nighthawk
+Weapon: Thunderbolt Precision Heavy Missile
+
+Name: Marcus Brook
+Security: 4.7
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: THX 1138
+Security: 2.3
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Falcon
+Weapon: ECM - Multispectral Jammer II
+
+Name: Anna Neura
+Security: -0.7
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Pilgrim
+Weapon: Hobgoblin II
+
+Name: Jenessa
+Security: 1.2
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+
+Destroyed items:
+
+125mm 'Scout' I Accelerator Cannon
+Lead Charge S, Qty: 160
+1MN Afterburner I
+Initiated Multispectral ECM I
+Warp Core Stabilizer I
+Nanofiber Internal Structure I
+

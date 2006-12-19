@@ -1,0 +1,26 @@
+2007.03.18 19:19
+
+Victim: VladimirHille
+Alliance: None
+Corp: Dead Space Camper
+Destroyed: Capsule
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: JaiMaster (laid the final blow)
+Security: 2.7
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Cyclone
+Weapon: 720mm Howitzer Artillery II
+
+Name: Freakdevil
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Malediction
+Weapon: TE-2100 Standard Missile Bay
+
+

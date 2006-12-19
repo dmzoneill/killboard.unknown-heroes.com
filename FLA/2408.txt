@@ -1,0 +1,98 @@
+2007.02.09 22:32
+
+Victim: drakonarik
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Caracal
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: ukpAgAn
+Security: 5.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Megathron
+Weapon: Megathron
+
+Name: Lord KesH
+Security: 2.5
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Maelstrom
+Weapon: 1400mm Howitzer Artillery II
+
+Name: boo3916 (laid the final blow)
+Security: 4.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Rokh
+Weapon: 425mm 'Scout' I Accelerator Cannon
+
+Name: WarGod
+Security: 2.7
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Pistonbroke
+Security: 0.5
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Rokh
+Weapon: 425mm Railgun II
+
+Name: xlop
+Security: -1.8
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Abaddon
+Weapon: Tachyon Beam Laser II
+
+Name: Assassin 2
+Security: 5.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Crow
+Weapon: Bloodclaw Fury Light Missile
+
+Name: Elliott Manchild
+Security: -1.8
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Machariel
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Mark Starkiller
+Security: 5.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Crow
+Weapon: Sabretooth Light Missile
+
+Name: McGin
+Security: -3.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Jester87
+Security: 1.5
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 92
+Heavy Missile Launcher I
+Medium Clarity Ward Booster I
+Nanoelectrical Co-Processor I
+Type-D Power Core Modification: Reaction Control
+Hornet I (Drone Bay)
+

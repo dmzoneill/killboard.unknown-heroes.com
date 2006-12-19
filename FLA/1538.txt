@@ -1,0 +1,30 @@
+2007.03.15 22:42
+
+Victim: Magnelien
+Alliance: YouWhat
+Corp: Artificial Horizons
+Destroyed: Raptor
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Skull Fire (laid the final blow)
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Rokh
+Weapon: Large Rudimentary Concussion Bomb I
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 39
+'Langour' Drive Disruptor I
+Local Hull Conversion Nanofiber Structure I
+Local Hull Conversion Nanofiber Structure I
+Local Hull Conversion Nanofiber Structure I
+Medium Armor Repairer II (Cargo)
+Hammerhead II (Cargo)
+Bloodclaw Light Missile, Qty: 239 (Cargo)
+

@@ -1,0 +1,27 @@
+2006.09.26 00:25
+
+Victim: FlobbMkII
+Alliance: Freelancer Alliance
+Corp: EVE MegaCorp Association
+Destroyed: Condor
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: MIGHTYDWC (laid the final blow)
+Security: 5.0
+Alliance: Ascendant Frontier
+Corp: Sha Kharn Corp
+Ship: Taranis
+Weapon: 125mm Railgun II
+
+
+Destroyed items:
+
+150mm Railgun I
+Sabretooth Light Missile, Qty: 40
+1MN Afterburner I
+Iridium Charge S, Qty: 280 (Cargo)
+Sabretooth Light Missile, Qty: 260 (Cargo)
+

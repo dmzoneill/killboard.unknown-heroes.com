@@ -1,0 +1,96 @@
+2007.04.03 22:27
+
+Victim: demotar
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Typhoon
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: boo3916
+Security: 2.6
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Dominix
+Weapon: Berserker II
+
+Name: Darknesss
+Security: 0.3
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Megathron
+Weapon: Megathron
+
+Name: Kalissa
+Security: 0.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Raven
+Weapon: Mjolnir Javelin Torpedo
+
+Name: THX 1138
+Security: 2.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Megathron
+Weapon: Neutron Blaster Cannon II
+
+Name: MAUNA KEA
+Security: 5.0
+Alliance: Triumvirate.
+Corp: Wreckless Abandon
+Ship: Caracal
+Weapon: Bloodclaw Light Missile
+
+Name: ammargal (laid the final blow)
+Security: 5.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Abaddon
+Weapon: Tachyon Beam Laser II
+
+Name: the willyb
+Security: 0.1
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Hyperion
+Weapon: Hyperion
+
+Name: fox247
+Security: 2.1
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Flycatcher
+Weapon: Warp Disruptor I
+
+Name: Argyle Jones
+Security: -1.0
+Alliance: Triumvirate.
+Corp: Wreckless Abandon
+Ship: Sleipnir
+Weapon: Sleipnir
+
+
+Destroyed items:
+
+Heavy Nosferatu I
+Cataclysm Cruise Missile, Qty: 19
+Paradise Cruise Missile, Qty: 19
+'Arbalest' Cruise Launcher I
+'Arbalest' Cruise Launcher I
+Eutectic I Capacitor Charge Array
+Large F-4a Ld-Sulfate I Capacitor Charge Unit
+Peripheral Weapon Navigation Diameter
+Large Armor Repairer II
+Large Armor Repairer II
+'Refuge' Adaptive Nano Plating I
+1600mm Reinforced Rolled Tungsten Plates I
+1600mm Reinforced Rolled Tungsten Plates I
+Wrath Cruise Missile, Qty: 176 (Cargo)
+Dragon F.O.F. Cruise Missile I, Qty: 176 (Cargo)
+Praetor I (Drone Bay)
+Wasp I, Qty: 2 (Drone Bay)
+Hobgoblin I, Qty: 5 (Drone Bay)
+

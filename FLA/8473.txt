@@ -1,0 +1,25 @@
+2006.11.19 21:04
+
+Victim: Xar Zanyll
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Iteron Mark V
+System: Oipo
+Security: 0.8
+
+Involved parties:
+
+Name: Liquid General (laid the final blow)
+Security: 3.3
+Alliance: None
+Corp: Out 0f Order
+Ship: Armageddon
+Weapon: Tachyon Beam Laser II
+
+
+Destroyed items:
+
+125mm Railgun I
+'Benefactor' I Ward Reconstructor
+Giant Secure Container (Cargo)
+

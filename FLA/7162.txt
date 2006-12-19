@@ -1,0 +1,67 @@
+2006.12.29 02:58
+
+Victim: rockerguy
+Alliance: None
+Corp: Four Horsemen
+Destroyed: Dominix
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Vaan2 (laid the final blow)
+Security: 5.0
+Alliance: Schism.
+Corp: Fatalix Inc.
+Ship: Raven
+Weapon: Wrath Cruise Missile
+
+Name: Josh Causto
+Security: 2.6
+Alliance: Schism.
+Corp: Fatalix Inc.
+Ship: Megathron
+Weapon: Megathron
+
+Name: Xantheris
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Taranis
+Weapon: Acolyte I
+
+Name: kurtFury
+Security: 2.0
+Alliance: Schism.
+Corp: Fatalix Inc.
+Ship: Ferox
+Weapon: Scourge Heavy Missile
+
+Name: Reprisa
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Eris
+Weapon: Piranha Light Missile
+
+Name: Conrad Rock
+Security: 0.5
+Alliance: Schism.
+Corp: Fatalix Inc.
+Ship: Kestrel
+Weapon: Foxfire Rocket
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Medium Nosferatu I
+Heavy 'Ghoul' Energy Siphon I
+10MN MicroWarpdrive I
+X5 Prototype I Engine Enervator
+Indirect Scanning Dampening Unit I
+Energized Adaptive Nano Membrane I
+Energized Adaptive Nano Membrane I
+Energized Thermic Membrane I
+Radioisotope Magnetic Membrane I
+

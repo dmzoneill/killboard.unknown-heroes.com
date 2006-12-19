@@ -1,0 +1,94 @@
+2007.02.09 21:22
+
+Victim: Phrixus Zephyr
+Alliance: Triumvirate.
+Corp: D00M.
+Destroyed: Arazu
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Burn Lump
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Ferox
+Weapon: Ferox
+
+Name: mne lee
+Security: 0.3
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Celestis
+Weapon: Celestis
+
+Name: Kiara Diepp
+Security: -1.7
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Blackbird
+Weapon: Widowmaker Heavy Missile
+
+Name: Apoccolipse
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Feel Good Inc.
+Ship: Capsule
+Weapon: Dragonfly
+
+Name: Scailer Dantre (laid the final blow)
+Security: -1.8
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Nidhoggur
+Weapon: Dragonfly
+
+Name: Gangreen
+Security: 0.2
+Alliance: None
+Corp: BGG
+Ship: Taranis
+Weapon: Taranis
+
+Name: ClogMan
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Typhoon
+Weapon: Typhoon
+
+Name: Kryton55
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Merlin
+Weapon: Flameburst Light Missile
+
+Name: misscoda
+Security: 2.6
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Rifter
+Weapon: Gremlin Rocket
+
+Name: Nya
+Security: 2.4
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Nidhoggur
+Weapon: Dragonfly
+
+
+Destroyed items:
+
+250mm Railgun II
+Covert Ops Cloaking Device II
+Cynosural Field Generator I
+Spike M, Qty: 34
+Phased Muon Sensor Disruptor I, Qty: 2
+Remote Sensor Dampener II, Qty: 2
+Emergency Damage Control I
+Mark I Generator Refitting: Capacitor Power Relay
+Liquid Ozone, Qty: 600 (Cargo)
+Warrior II, Qty: 4 (Drone Bay)

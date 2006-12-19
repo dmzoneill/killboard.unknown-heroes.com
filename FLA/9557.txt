@@ -1,0 +1,26 @@
+2007.05.18 17:55
+
+Victim: Santana Richmond
+Alliance: None
+Corp: State War Academy
+Destroyed: Ibis
+System: G-M4I8
+Security: 0.0
+
+Involved parties:
+
+Name: wardey (laid the final blow)
+Security: 0.6
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Crusader
+Weapon: Dual Light Beam Laser II
+
+Name: Ocara Nezus
+Security: 1.5
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Crow
+Weapon: Warp Disruptor II
+
+

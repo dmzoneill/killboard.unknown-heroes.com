@@ -1,0 +1,68 @@
+2007.03.11 13:31
+
+Victim: Hamarr Decco
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Destroyed: Vigil
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Caranthir
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Huginn
+Weapon: TE-2100 Standard Missile Bay
+
+Name: mrrabit (laid the final blow)
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Tempest
+Weapon: 1400mm Carbine Howitzer I
+
+Name: EM00
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Caracal
+Weapon: Heavy Missile Launcher I
+
+Name: ninev0lts
+Security: -1.2
+Alliance: None
+Corp: Corehounds
+Ship: Caracal
+Weapon: Heavy Missile Launcher I
+
+Name: Mufeater
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Megathron
+Weapon: 'Arbalest' Cruise Launcher I
+
+Name: FlobbMkII
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+Name: ClogMan
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Drake
+Weapon: Advanced 'Limos' Heavy Missile Bay I
+
+
+Destroyed items:
+
+1MN MicroWarpdrive I
+Invulnerability Field I
+Inertia Stabilizers I
+Nanofiber Internal Structure I
+

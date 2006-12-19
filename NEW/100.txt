@@ -1,0 +1,53 @@
+2007.01.12 23:50
+
+Victim: mrrabit
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Rupture
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: SATAN (laid the final blow)
+Security: -0.8
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+Name: ETS4ME
+Security: 0.7
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+Name: Heinky
+Security: 2.7
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Abaddon
+Weapon: Tachyon Beam Laser II
+
+Name: Arnold Swartzenegger
+Security: 0.0
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Heavy Diminishing Power System Drain I
+
+
+Destroyed items:
+
+75mm Gatling Rail I, Qty: 2
+150mm Carbide Railgun I
+Uranium Charge S, Qty: 36
+Piranha Light Missile, Qty: 27
+Standard Missile Launcher I
+10MN MicroWarpdrive I
+Stasis Webifier I
+Capacitor Power Relay I, Qty: 2
+Uranium Charge S, Qty: 206 (Cargo)
+Havoc Heavy Missile, Qty: 150 (Cargo)
+Thunderbolt Heavy Missile, Qty: 150 (Cargo)

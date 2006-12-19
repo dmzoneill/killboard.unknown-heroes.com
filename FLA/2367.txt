@@ -1,0 +1,100 @@
+2007.02.06 21:29
+
+Victim: coldkill
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Destroyed: Helios
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Empero
+Security: 0.2
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Armageddon
+Weapon: Mega Modulated Energy Beam I
+
+Name: Ria Sotori (laid the final blow)
+Security: 3.9
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Myrmidon
+Weapon: 250mm Railgun II
+
+Name: violator2k5
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+Name: Bodhi D
+Security: -0.2
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: fire 59
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Crow
+Weapon: TE-2100 Standard Missile Bay
+
+Name: ArkulA
+Security: 4.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+Name: Havvok
+Security: 1.9
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Raptor
+Weapon: Raptor
+
+Name: Suzanna
+Security: 1.8
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Taranis
+Weapon: Light Neutron Blaster II
+
+Name: Karnov
+Security: 4.8
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+Name: Kafei
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Claw
+Weapon: Rocket Launcher II
+
+Name: Garpur59
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Ares
+Weapon: Ares
+
+Name: Flavius Renatus
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Stiletto
+Weapon: OE-5200 Rocket Launcher
+
+
+Destroyed items:
+
+Covert Ops Cloaking Device II
+

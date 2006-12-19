@@ -1,0 +1,35 @@
+2007.01.02 19:03
+
+Victim: Indigo Callypso
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Destroyed: Crow
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Captain Rickdick (laid the final blow)
+Security: -0.2
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Devastator Precision Cruise Missile
+
+Name: Heinky
+Security: 2.4
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Abaddon
+Weapon: Tachyon Beam Laser II
+
+
+Destroyed items:
+
+Standard Missile Launcher II
+Standard Missile Launcher II
+Eutectic I Capacitor Charge Array
+Gistii A-Type 1MN MicroWarpdrive
+Fleeting Warp Scrambler I
+Local Hull Conversion Inertial Stabilizers I
+

@@ -1,0 +1,19 @@
+2007.04.06 05:26
+
+Victim: Laerana
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Capsule
+System: Maut
+Security: 0.2
+
+Involved parties:
+
+Name: Temp Boi (laid the final blow)
+Security: -10.0
+Alliance: None
+Corp: Gr0und Zer0
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+

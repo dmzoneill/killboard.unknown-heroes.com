@@ -1,0 +1,40 @@
+2007.03.08 21:27
+
+Victim: R4VE
+Alliance: YouWhat
+Corp: Pringles Inc.
+Destroyed: Capsule
+System: XZH-4X
+Security: 0.0
+
+Involved parties:
+
+Name: Jesnen
+Security: -1.5
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Coercer
+Weapon: Medium Beam Laser I
+
+Name: VoYvod
+Security: -1.3
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Coercer
+Weapon: Medium Beam Laser I
+
+Name: Jonas123 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Ferox
+Weapon: 250mm Compressed Coil Gun I
+
+Name: ISliverI
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Arazu
+Weapon: Warp Disruptor II
+
+

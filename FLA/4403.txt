@@ -1,0 +1,26 @@
+2007.04.09 03:05
+
+Victim: Hroller McKnutt
+Alliance: Freelancer Alliance
+Corp: ACCORD Industries
+Destroyed: Capsule
+System: P-2TTL
+Security: 0.0
+
+Involved parties:
+
+Name: FdD Banshee (laid the final blow)
+Security: 4.9
+Alliance: S.E.R.A
+Corp: Seraphin Technologies
+Ship: Taranis
+Weapon: 125mm Railgun II
+
+Name: ZAPPEL
+Security: 2.5
+Alliance: S.E.R.A
+Corp: Seraphin Technologies
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+

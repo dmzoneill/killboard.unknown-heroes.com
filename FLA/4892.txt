@@ -1,0 +1,44 @@
+2007.04.18 19:15
+
+Victim: marakudi
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Destroyed: Crow
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: lethario desrtuction
+Security: 2.1
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Manticore
+Weapon: Low Frequency Sensor Suppressor I
+
+Name: Terdlinger (laid the final blow)
+Security: 4.9
+Alliance: Storm Armada
+Corp: stone grave haulage
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+Name: LeZip
+Security: 1.1
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Manticore
+Weapon: XT-9000 Cruise Launcher
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 38
+'Malkuth' Standard Missile Launcher I
+'Malkuth' Standard Missile Launcher I
+1MN MicroWarpdrive II
+Invulnerability Field II
+Nanofiber Internal Structure II
+Overdrive Injector System II
+Bloodclaw Light Missile, Qty: 374 (Cargo)
+

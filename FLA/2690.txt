@@ -1,0 +1,49 @@
+2007.03.03 00:26
+
+Victim: sowo
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Destroyed: Drake
+System: PNQY-Y
+Security: 0.0
+
+Involved parties:
+
+Name: DeathGrip
+Security: 2.3
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Archon
+Weapon: Ogre I
+
+Name: Bedrock (laid the final blow)
+Security: 1.6
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Muninn
+Weapon: 720mm Howitzer Artillery II
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Thunderbolt Heavy Missile, Qty: 103
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Fleeting Warp Scrambler I
+Alumel-Wired I Sensor Augmentation
+Additional Thermal Barrier Emitter I
+Viscoelastic EM Ward Salubrity I
+Basic Damage Control
+Ballistic Control System I
+Ballistic Control System I
+'Langour' Drive Disruptor I (Cargo)
+Light Ion Blaster II (Cargo)
+Void S, Qty: 869 (Cargo)
+Havoc Heavy Missile, Qty: 1404 (Cargo)
+Thunderbolt Heavy Missile, Qty: 1540 (Cargo)
+Light Armor Maintenance Bot I, Qty: 2 (Cargo)
+Nanofiber Internal Structure I (Cargo)
+

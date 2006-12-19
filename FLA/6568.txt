@@ -1,0 +1,79 @@
+2006.11.18 19:20
+
+Victim: Crusty E
+Alliance: None
+Corp: New Millineon
+Destroyed: Imicus
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Gamer1K
+Security: 4.6
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Crow
+Weapon: Crow
+
+Name: DrRockIT
+Security: 4.9
+Alliance: Dusk and Dawn
+Corp: Asgard Schiffswerften
+Ship: Crusader
+Weapon: Crusader
+
+Name: Durante Alighieri (laid the final blow)
+Security: 0.0
+Alliance: Schism.
+Corp: New Light
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Almagar Phog
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Raptor
+Weapon: Raptor
+
+Name: Weuzor
+Security: 0.0
+Alliance: Dusk and Dawn
+Corp: Asgard Schiffswerften
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: raiiar
+Security: 3.4
+Alliance: O X I D E
+Corp: W33D Corp.
+Ship: Retribution
+Weapon: Retribution
+
+Name: JesusOfSuburbia
+Security: 5.3
+Alliance: Dusk and Dawn
+Corp: Asgard Schiffswerften
+Ship: Taranis
+Weapon: Warp Disruptor I
+
+Name: H3llfire
+Security: 3.2
+Alliance: O X I D E
+Corp: W33D Corp.
+Ship: Caracal
+Weapon: Heavy Missile Launcher I
+
+Name: Grifter Treysik
+Security: 4.1
+Alliance: Freelancer Alliance
+Corp: Caldar Mercenary Syndicate
+Ship: Ishkur
+Weapon: Ishkur
+
+
+Destroyed items:
+
+Warp Core Stabilizer I
+

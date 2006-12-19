@@ -1,0 +1,26 @@
+2007.04.07 15:55
+
+Victim: Vedyma Dark
+Alliance: None
+Corp: The Scope
+Destroyed: Gallente Shuttle
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: demotar (laid the final blow)
+Security: 4.1
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Rapier
+Weapon: Valkyrie II
+
+Name: Daressek
+Security: 4.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Crow
+Weapon: Sabretooth Light Missile
+
+

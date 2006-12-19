@@ -1,0 +1,40 @@
+2007.03.21 02:57
+
+Victim: Neurty Mo
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Destroyed: Gallente Shuttle
+System: MSHD-4
+Security: 0.0
+
+Involved parties:
+
+Name: T Quillity (laid the final blow)
+Security: 2.5
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Claw
+Weapon: 150mm Light AutoCannon II
+
+Name: Nedan
+Security: 3.1
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Eagle
+Weapon: Eagle
+
+Name: angelena
+Security: 4.5
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Harpy
+Weapon: Harpy
+
+Name: Valeriya
+Security: 1.1
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Cerberus
+Weapon: Heavy Missile Launcher II
+
+

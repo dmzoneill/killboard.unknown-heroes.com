@@ -1,0 +1,103 @@
+2007.03.12 16:42
+
+Victim: Seuvka
+Alliance: YouWhat
+Corp: Pringles Inc.
+Destroyed: Dominix
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Satal Sonshi
+Security: 3.8
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Tempest
+Weapon: Tempest
+
+Name: Shiftless (laid the final blow)
+Security: 3.1
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Drake
+Weapon: Havoc Heavy Missile
+
+Name: Spartan dax
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Le Cardinal
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: ECP Rogues
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Kerdrak
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Curse
+Weapon: Valkyrie II
+
+Name: S Dietershagen
+Security: 4.8
+Alliance: Freelancer Alliance
+Corp: The Night Crew
+Ship: Wolf
+Weapon: Wolf
+
+Name: Freakdevil
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: paul9
+Security: 1.8
+Alliance: Forces of Freedom
+Corp: Just Cloned Again
+Ship: Brutix
+Weapon: Acolyte II
+
+Name: sakana
+Security: -0.9
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Eris
+Weapon: Eris
+
+Name: SoF Reaperman
+Security: 4.4
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Blackbird
+Weapon: Scourge Heavy Missile
+
+Name: EvilBadger
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Hawk
+Weapon: Gremlin Rocket
+
+
+Destroyed items:
+
+250mm Railgun II
+250mm Railgun II
+Antimatter Charge M, Qty: 160
+Cap Recharger II
+Cap Recharger II
+Large Armor Repairer II
+Armor Thermic Hardener II
+Armor Kinetic Hardener II
+Antimatter Charge M, Qty: 7688 (Cargo)
+Microcell Nanite Thermic Hardener I (Cargo)
+Ogre I, Qty: 4 (Drone Bay)
+

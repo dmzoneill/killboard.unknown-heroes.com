@@ -1,0 +1,131 @@
+2007.01.20 00:50
+
+Victim: Chaser Wolf
+Alliance: Triumvirate.
+Corp: D00M.
+Destroyed: Crow
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Jaig Maldara (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Rokh
+Weapon: 425mm 'Scout' I Accelerator Cannon
+
+Name: Lux0r
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Caracal
+Weapon: SV-2000 Assault Missile Bay
+
+Name: Bricker
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Caracal
+Weapon: XR-3200 Heavy Missile Bay
+
+Name: movy
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Catalyst
+Weapon: 75mm Gatling Rail II
+
+Name: Steven FSB
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Moa
+Weapon: 250mm 'Scout' I Accelerator Cannon
+
+Name: Swindy
+Security: 1.4
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: Soldroz
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Raven
+Weapon: 'Arbalest' Cruise Launcher I
+
+Name: Sils wife
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Brutix
+Weapon: Brutix
+
+Name: jack kill
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Drake
+Weapon: Heavy Missile Launcher I
+
+Name: digital oxygen
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Megathron
+Weapon: 425mm Railgun I
+
+Name: Thafesko
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Kestrel
+Weapon: 'Arbalest' Rocket Launcher I
+
+Name: Quiomi
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Ferox
+Weapon: Advanced 'Limos' Heavy Missile Bay I
+
+Name: Minisoza
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Celestis
+Weapon: Vespa EC-600
+
+Name: Malcanis
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Drake
+Weapon: Advanced 'Limos' Heavy Missile Bay I
+
+Name: Korudon
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Armageddon
+Weapon: Tachyon Modal Laser I
+
+Name: Kateryne
+Security: -0.6
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Kestrel
+Weapon: Rocket Launcher II
+
+
+Destroyed items:
+
+Thorn Rocket, Qty: 36
+Rocket Launcher II, Qty: 3
+200mm Reinforced Rolled Tungsten Plates I
+Micro Auxiliary Power Core I
+Thorn Rocket, Qty: 2080 (Cargo)

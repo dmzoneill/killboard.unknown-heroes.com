@@ -1,0 +1,66 @@
+2006.10.06 00:41
+
+Victim: Midrys
+Alliance: Freelancer Alliance
+Corp: Terminal Velocity Inc.
+Destroyed: Caracal
+System: Litiura
+Security: 0.5
+
+Involved parties:
+
+Name: Danno
+Security: -1.9
+Alliance: None
+Corp: Privateers
+Ship: Apocalypse
+Weapon: Tachyon Beam Laser II
+
+Name: Onin Ra (laid the final blow)
+Security: 1.1
+Alliance: None
+Corp: Privateers
+Ship: Megathron
+Weapon: 425mm 'Scout' I Accelerator Cannon
+
+Name: SLAPNUTZ
+Security: -1.8
+Alliance: None
+Corp: Privateers
+Ship: Tempest
+Weapon: Cruise Missile Launcher I
+
+Name: Kaykun
+Security: 5.0
+Alliance: None
+Corp: Privateers
+Ship: Tempest
+Weapon: 1400mm Carbine Howitzer I
+
+Name: Soul Wolf
+Security: 2.9
+Alliance: None
+Corp: Privateers
+Ship: Absolution
+Weapon: Heavy Pulse Laser II
+
+Name: Caol
+Security: 5.0
+Alliance: None
+Corp: Privateers
+Ship: Stabber
+Weapon: 220mm Vulcan AutoCannon I
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 33
+Advanced 'Limos' Heavy Missile Bay I
+Small Shield Booster II
+Medium Peroxide I Capacitor Power Cell
+Sensor Booster I
+Ballistic Control System I
+Widowmaker Heavy Missile, Qty: 1499 (Cargo)
+Thunderbolt Heavy Missile, Qty: 1499 (Cargo)
+Hornet I, Qty: 2 (Drone Bay)
+

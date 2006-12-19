@@ -1,0 +1,40 @@
+2006.08.20 17:42
+
+Victim: NoOne Seeko
+Alliance: R.I.S.K
+Corp: ReD eYe Inc.
+Destroyed: Capsule
+System: DW-T2I
+Security: 0.0
+
+Involved parties:
+
+Name: Dresden Karno (laid the final blow)
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Crow
+Weapon: Phalanx Rocket
+
+Name: Lady Vanquish
+Security: 0.5
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Rifter
+Weapon: Rifter
+
+Name: Mad Mackem
+Security: -1.3
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Ishtar
+Weapon: Ishtar
+
+Name: Karina Harington
+Security: -1.6
+Alliance: Imperial Republic Of the North
+Corp: Port Royal Independent Kontractors
+Ship: Armageddon
+Weapon: Tachyon Beam Laser I
+
+

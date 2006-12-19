@@ -1,0 +1,41 @@
+2007.04.30 20:12
+
+Victim: KtB
+Alliance: None
+Corp: The Phoenix Rising
+Destroyed: Tristan
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Auroraman (laid the final blow)
+Security: 4.4
+Alliance: None
+Corp: Satan's Armed Soldiers
+Ship: Sacrilege
+Weapon: Havoc Precision Heavy Missile
+
+Name: sammual
+Security: -2.8
+Alliance: None
+Corp: The Phoenix Rising
+Ship: Ferox
+Weapon: Warp Disruptor I
+
+Name: Archon Tenshi
+Security: 0.4
+Alliance: Freelancer Alliance
+Corp: Harbingers of Sarrow
+Ship: Merlin
+Weapon: Merlin
+
+
+Destroyed items:
+
+125mm Compressed Coil Gun I
+Warp Disruptor I
+Cap Booster 200
+Small I-a Polarized Armor Regenerator
+Overdrive Injector System I
+

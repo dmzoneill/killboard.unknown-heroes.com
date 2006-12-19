@@ -1,0 +1,38 @@
+2007.03.15 03:37
+
+Victim: Lord Revent
+Alliance: YouWhat
+Corp: Beasts of Burden
+Destroyed: Breacher
+System: XZH-4X
+Security: 0.0
+
+Involved parties:
+
+Name: Skull Fire
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Capsule
+Weapon: 425mm Prototype I Gauss Gun
+
+Name: Korudon (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 34
+Piranha Light Missile, Qty: 34
+Flameburst Light Missile, Qty: 34
+Standard Missile Launcher I
+Standard Missile Launcher I
+Inertia Stabilizers I
+Inertia Stabilizers I
+Piranha Light Missile, Qty: 160 (Cargo)
+Bloodclaw Light Missile, Qty: 112 (Cargo)
+

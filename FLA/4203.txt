@@ -1,0 +1,49 @@
+2007.04.04 04:04
+
+Victim: alon blackhelm
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Destroyed: Myrmidon
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: kaliente
+Security: -1.5
+Alliance: None
+Corp: RONA Deepspace
+Ship: Hurricane
+Weapon: Hammerhead II
+
+Name: DAGWADER2 (laid the final blow)
+Security: -0.4
+Alliance: None
+Corp: RONA Deepspace
+Ship: Sleipnir
+Weapon: 425mm AutoCannon II
+
+Name: Kalli Kleina
+Security: -0.7
+Alliance: None
+Corp: RONA Deepspace
+Ship: Blackbird
+Weapon: ECM - Multispectral Jammer I
+
+
+Destroyed items:
+
+Heavy Neutron Blaster II
+Iron Charge M, Qty: 44
+Antimatter Charge M, Qty: 57
+Fleeting Warp Scrambler I
+Stasis Webifier I
+Internal Force Field Array I
+Medium Armor Repairer II
+Reactor Control Unit II
+Antimatter Charge M, Qty: 198 (Cargo)
+Plutonium Charge M, Qty: 500 (Cargo)
+Iron Charge M, Qty: 327 (Cargo)
+Compulsive Ion Field ECM I (Cargo)
+Capacitor Power Relay I (Cargo)
+

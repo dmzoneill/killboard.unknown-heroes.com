@@ -1,0 +1,70 @@
+2007.03.13 08:05
+
+Victim: Fountainhead
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Destroyed: Megathron
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Galaxor
+Security: 5.1
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Abaddon
+Weapon: Initiated Warp Jammer I
+
+Name: Xordus (laid the final blow)
+Security: 0.7
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Armageddon
+Weapon: Dual Heavy Modulated Pulse Energy Beam I
+
+Name: VDV Kane
+Security: 4.7
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Raven
+Weapon: Raven
+
+Name: Balcura
+Security: 4.9
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Nipplator
+Security: 2.5
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Omen
+Weapon: Omen
+
+Name: xargis
+Security: 5.0
+Alliance: YouWhat
+Corp: Pringles Inc.
+Ship: Caracal
+Weapon: Thunderbolt Heavy Missile
+
+
+Destroyed items:
+
+350mm Railgun I
+350mm Railgun I
+350mm Railgun I
+350mm Railgun I
+350mm Railgun I
+350mm Railgun I
+Antimatter Charge L, Qty: 189
+100MN Afterburner I
+Damage Control I
+Large Armor Repairer I
+Energized Adaptive Nano Membrane I
+Mark I Generator Refitting: Capacitor Power Relay
+Lead Charge L, Qty: 7718 (Cargo)
+

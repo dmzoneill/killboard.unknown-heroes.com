@@ -1,0 +1,34 @@
+2007.03.22 19:27
+
+Victim: Darc Kaahar
+Alliance: Freelancer Alliance
+Corp: Feel Good Inc.
+Destroyed: Incursus
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Yushii (laid the final blow)
+Security: -0.3
+Alliance: Triumvirate.
+Corp: ViperSquad
+Ship: Vagabond
+Weapon: Hobgoblin II
+
+Name: Snuggles theTerrible
+Security: 5.0
+Alliance: Triumvirate.
+Corp: ViperSquad
+Ship: Vulture
+Weapon: Acolyte I
+
+
+Destroyed items:
+
+125mm Prototype I Gauss Gun
+125mm Prototype I Gauss Gun
+Iridium Charge S, Qty: 141
+Warp Disruptor I
+Stasis Webifier I
+

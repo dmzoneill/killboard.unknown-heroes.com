@@ -1,0 +1,27 @@
+2007.03.11 04:28
+
+Victim: Gwaihir
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Iteron Mark V
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Jester87 (laid the final blow)
+Security: 1.6
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Crow
+Weapon: Thorn Javelin Rocket
+
+
+Destroyed items:
+
+Viscoelastic EM Ward Salubrity I
+Magnetic Scattering Amplifier II
+Expanded Cargohold II
+Expanded Cargohold II
+Giant Secure Container, Qty: 5 (Cargo)
+

@@ -1,0 +1,42 @@
+2007.01.05 19:30
+
+Victim: Nobu Takeda
+Alliance: Privateer Alliance
+Corp: Panzershrek
+Destroyed: Punisher
+System: Sobaseki
+Security: 0.8
+
+Involved parties:
+
+Name: Mocuker
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: X.T.R
+Ship: Ferox
+Weapon: Ferox
+
+Name: fathitman (laid the final blow)
+Security: -1.2
+Alliance: Freelancer Alliance
+Corp: X.T.R
+Ship: Thorax
+Weapon: Hammerhead I
+
+Name: Zurtur
+Security: 2.6
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Ishkur
+Weapon: Acolyte II
+
+
+Destroyed items:
+
+Dual Light Pulse Laser II
+Dual Light Pulse Laser II
+Conflagration S
+Small Armor Repairer II
+Scorch S (Cargo)
+Conflagration S, Qty: 6 (Cargo)
+

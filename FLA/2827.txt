@@ -1,0 +1,29 @@
+2007.03.10 21:54
+
+Victim: Porti
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Destroyed: Jaguar
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Xarax Sparow (laid the final blow)
+Security: 5.0
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Astarte
+Weapon: 250mm Railgun II
+
+
+Destroyed items:
+
+150mm Light AutoCannon II
+150mm Light AutoCannon II
+150mm Light AutoCannon II
+Barrage S, Qty: 80
+Fleeting Progressive Warp Scrambler I
+'Langour' Drive Disruptor I
+Emergency Damage Control I
+

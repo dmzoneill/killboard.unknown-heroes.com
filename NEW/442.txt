@@ -1,0 +1,29 @@
+2007.03.25 06:31
+
+Victim: FlobbMkII
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Taranis
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Lorn Zolog
+Security: -0.8
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Harbinger
+Weapon: Vespa II
+
+Name: Nipplator (laid the final blow)
+Security: 1.0
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Harbinger
+Weapon: Focused Medium Pulse Laser II
+
+
+Destroyed items:
+
+Catalyzed Cold-Gas I Arcjet Thrusters

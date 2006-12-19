@@ -1,0 +1,33 @@
+2007.02.04 20:12
+
+Victim: Seth Quantix
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Destroyed: Capsule
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Minisoza (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Brutix
+Weapon: 250mm Railgun II
+
+Name: Swanny231
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Crow
+Weapon: Upgraded 'Limos' Standard Missile Bay I
+
+Name: Kee Ris
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Coercer
+Weapon: Medium Pulse Laser I
+
+

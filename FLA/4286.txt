@@ -1,0 +1,80 @@
+2007.04.06 21:32
+
+Victim: Shassandra
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Dominix
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Seleene (laid the final blow)
+Security: -1.8
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Nyx
+Weapon: Dragonfly
+
+Name: Odda
+Security: 4.4
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Thanatos
+Weapon: Dragonfly
+
+Name: Dri Kulsane
+Security: 0.0
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Archon
+Weapon: Templar
+
+Name: Queldonus
+Security: 2.9
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Nidhoggur
+Weapon: Einherji
+
+Name: END3R 101
+Security: -0.7
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Malediction
+Weapon: Medium Pulse Laser II
+
+Name: Sivona
+Security: -1.1
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Eos
+Weapon: Eos
+
+Name: Stradivarious
+Security: 3.6
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Nidhoggur
+Weapon: Warp Disruptor II
+
+
+Destroyed items:
+
+Heavy Nosferatu I
+Heavy Nosferatu I
+Heavy Ion Blaster I
+Heavy Ion Blaster I
+Dread Guristas Iron Charge M, Qty: 120
+100MN MicroWarpdrive I
+Stasis Webifier I
+Armor Explosive Hardener II
+Armor Kinetic Hardener II
+1600mm Reinforced Titanium Plates I
+Warrior II, Qty: 3 (Drone Bay)
+Berserker I, Qty: 2 (Drone Bay)
+Hobgoblin II (Drone Bay)
+Wasp I, Qty: 4 (Drone Bay)
+Acolyte II (Drone Bay)
+Medium Armor Maintenance Bot I, Qty: 2 (Drone Bay)
+

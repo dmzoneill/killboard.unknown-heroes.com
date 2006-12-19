@@ -1,0 +1,46 @@
+2006.11.02 17:09
+
+Victim: Sandy Stormwolf
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Ferox
+System: 93PI-4
+Security: 0.0
+
+Involved parties:
+
+Name: Diurpaneus
+Security: 0.5
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Typhoon
+Weapon: Ogre I
+
+Name: simcor (laid the final blow)
+Security: -2.0
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Astarte
+Weapon: Heavy Neutron Blaster II
+
+
+Destroyed items:
+
+150mm Carbide Railgun I
+Iridium Charge S, Qty: 51
+Defender I, Qty: 29
+Bloodclaw Light Missile, Qty: 29
+Upgraded 'Limos' Standard Missile Bay I
+'Malkuth' Standard Missile Launcher I
+Warp Scrambler I
+Small Hull Repairer I
+Warp Core Stabilizer I
+Energized Basic Magnetic Plating
+Iridium Charge S, Qty: 2039 (Cargo)
+Hydromagnetic Physics (Cargo)
+Sabretooth Light Missile, Qty: 500 (Cargo)
+Flameburst Light Missile, Qty: 899 (Cargo)
+Bloodclaw Light Missile, Qty: 10 (Cargo)
+Widowmaker Heavy Missile, Qty: 100 (Cargo)
+Hornet I (Drone Bay)
+

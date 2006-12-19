@@ -1,0 +1,83 @@
+2006.07.28 19:54
+
+Victim: Matt Stoner
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Destroyed: Caracal
+System: VFK-IV
+Security: 0.0
+
+Involved parties:
+
+Name: Admiral Goberius (laid the final blow)
+Security: 4.9
+Alliance: Ascendant Frontier
+Corp: eXceed Inc.
+Ship: Raven
+Weapon: Mjolnir Torpedo
+
+Name: Coahim Madden
+Security: 5.0
+Alliance: Ascendant Frontier
+Corp: Syncore
+Ship: Megathron
+Weapon: Megathron
+
+Name: Byr Gena
+Security: 5.0
+Alliance: Ascendant Frontier
+Corp: eXceed Inc.
+Ship: Caracal
+Weapon: Hobgoblin I
+
+Name: Drake Mezcal
+Security: 2.0
+Alliance: Ascendant Frontier
+Corp: eXceed Inc.
+Ship: Rapier
+Weapon: Warrior II
+
+Name: Gold Mamba
+Security: 0.1
+Alliance: Ascendant Frontier
+Corp: eXceed Inc.
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: Arkasius
+Security: 5.0
+Alliance: Ascendant Frontier
+Corp: eXceed Inc.
+Ship: Hawk
+Weapon: Bloodclaw Light Missile
+
+Name: Qmar
+Security: 5.0
+Alliance: Ascendant Frontier
+Corp: eXceed Inc.
+Ship: Crow
+Weapon: 150mm Railgun II
+
+Name: klobbo theKuh
+Security: 5.0
+Alliance: Ascendant Frontier
+Corp: eXceed Inc.
+Ship: Sabre
+Weapon: Remote Sensor Dampener I
+
+Name: Amy Frost
+Security: 4.9
+Alliance: Ascendant Frontier
+Corp: eXceed Inc.
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 268
+'Arbalest' Assault Missile Launcher
+'Arbalest' Assault Missile Launcher
+Ballistic Control System II
+Bloodclaw Light Missile, Qty: 4419 (Cargo)
+

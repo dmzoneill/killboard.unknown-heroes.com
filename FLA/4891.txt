@@ -1,0 +1,54 @@
+2007.04.18 17:33
+
+Victim: Akane Kolkoieshi
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Destroyed: Caracal
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Nubiam
+Security: 4.9
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Malediction
+Weapon: Malediction
+
+Name: Katchin
+Security: 2.1
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Chimera
+Weapon: Einherji
+
+Name: StarshipTrooper (laid the final blow)
+Security: 4.1
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Thanatos
+Weapon: Templar
+
+Name: Fitz Farseer
+Security: 0.5
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Hound
+Weapon: Cataclysm Cruise Missile
+
+Name: Trooper B99
+Security: 1.1
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Drake
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+
+Destroyed items:
+
+Heavy Assault Missile Launcher I
+Heavy Assault Missile Launcher I
+Medium Shield Extender I
+Ballistic Control System I
+

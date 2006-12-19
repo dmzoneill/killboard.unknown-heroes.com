@@ -1,0 +1,33 @@
+2007.03.18 04:07
+
+Victim: SolitaiveY
+Alliance: None
+Corp: Science and Trade Institute
+Destroyed: Capsule
+System: F7C-H0
+Security: 0.0
+
+Involved parties:
+
+Name: Cyrila Wolf (laid the final blow)
+Security: -2.2
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Muninn
+Weapon: 720mm Howitzer Artillery II
+
+Name: Katsumi Ito
+Security: 0.1
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Tristan
+Weapon: Light Ion Blaster II
+
+Name: Ahramaine
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+

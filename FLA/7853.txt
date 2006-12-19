@@ -1,0 +1,29 @@
+2006.09.13 08:49
+
+Victim: serena lunt
+Alliance: Freelancer Alliance
+Corp: Elite frontier group
+Destroyed: Crusader
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Riddlock (laid the final blow)
+Security: 1.7
+Alliance: Ascendant Frontier
+Corp: Sha Kharn Corp
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+
+Destroyed items:
+
+Dual Light Pulse Laser II
+Dual Light Pulse Laser II
+Dual Light Pulse Laser II
+Conflagration S
+1MN MicroWarpdrive II
+Warp Disruptor I
+Heat Sink II
+

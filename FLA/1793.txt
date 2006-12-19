@@ -1,0 +1,66 @@
+2007.01.03 23:21
+
+Victim: Argentus Orsus
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Executioner
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Scythus Aratan (laid the final blow)
+Security: 4.3
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Armageddon
+Weapon: Tachyon Beam Laser II
+
+Name: Shin Ra
+Security: -1.3
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: MeanStreak
+Security: -0.2
+Alliance: None
+Corp: Caldari Provisions
+Ship: Sabre
+Weapon: Fleeting Progressive Warp Scrambler I
+
+Name: ETS4ME
+Security: 0.6
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Remote Sensor Dampener II
+
+Name: DHB WildCat
+Security: -1.6
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Remote Sensor Dampener II
+
+Name: Captain Rickdick
+Security: -0.1
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Cruise Missile Launcher II
+
+
+Destroyed items:
+
+Small Nosferatu I
+Stasis Webifier I
+Power Diagnostic System I
+Cargo Scanner I (Cargo)
+Small Energy Neutralizer I (Cargo)
+150mm Carbide Railgun I (Cargo)
+ECM - Spatial Destabilizer I (Cargo)
+Remote Sensor Dampener I (Cargo)
+Havoc Heavy Missile, Qty: 100 (Cargo)
+

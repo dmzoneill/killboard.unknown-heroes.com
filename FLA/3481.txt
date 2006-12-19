@@ -1,0 +1,29 @@
+2007.03.29 18:46
+
+Victim: Jon Hawkes
+Alliance: None
+Corp: The Littlest Hobos
+Destroyed: Velator
+System: Oipo
+Security: 0.8
+
+Involved parties:
+
+Name: marakudi (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+
+Destroyed items:
+
+Light Electron Blaster II
+Light Electron Blaster II
+Antimatter Charge S, Qty: 200
+Warp Disruptor I
+Magnetic Field Stabilizer I
+Void S, Qty: 600 (Cargo)
+Hobgoblin II, Qty: 2 (Drone Bay)
+

@@ -1,0 +1,33 @@
+2006.03.01 15:05
+
+Victim: DeathSpawn66
+Alliance: None
+Corp: Subversion
+Destroyed: Capsule
+System: TXW-EI
+Security: 0.0
+
+Involved parties:
+
+Name: Merkord Mikula
+Security: 0.7
+Alliance: Freelancer Alliance
+Corp: B.A.Y Mining and Construction Ltd
+Ship: Cyclone
+Weapon: Cyclone
+
+Name: Wodan NL (laid the final blow)
+Security: 1.1
+Alliance: Freelancer Alliance
+Corp: B.A.Y Mining and Construction Ltd
+Ship: Megathron
+Weapon: Wrath Cruise Missile
+
+Name: Durar
+Security: 1.4
+Alliance: None
+Corp: Kumovi
+Ship: Capsule
+Weapon: Warp Disruptor I
+
+

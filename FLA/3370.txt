@@ -1,0 +1,26 @@
+2007.03.24 23:22
+
+Victim: Sethiol
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Destroyed: Capsule
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: albert camus (laid the final blow)
+Security: -8.3
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Ship: Claw
+Weapon: 150mm Light AutoCannon II
+
+Name: DeDreiIx
+Security: 3.1
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Drake
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+

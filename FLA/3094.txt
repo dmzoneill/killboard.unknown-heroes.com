@@ -1,0 +1,128 @@
+2007.03.24 22:21
+
+Victim: Bogen Mandrangus
+Alliance: None
+Corp: MotorSaikol LadrUNZ
+Destroyed: Maelstrom
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Slim Jim (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Tempest
+Weapon: Cataclysm Cruise Missile
+
+Name: Drist
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Tempest
+Weapon: Vespa II
+
+Name: Gargh Ahhwell
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Rokh
+Weapon: Vespa I
+
+Name: Jack Thurner
+Security: 2.5
+Alliance: DeStInY.
+Corp: Fusion Enterprises Ltd
+Ship: Capsule
+Weapon: Hornet EC-300
+
+Name: Jacqueline Skouris
+Security: -1.6
+Alliance: 3asy Company
+Corp: Eth3real
+Ship: Rokh
+Weapon: 425mm Prototype I Gauss Gun
+
+Name: SoF Reaperman
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Ferox
+Weapon: Ferox
+
+Name: Alianore
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Arazu
+Weapon: Arazu
+
+Name: Maker7
+Security: 3.8
+Alliance: DeStInY.
+Corp: Sacred Templars
+Ship: Taranis
+Weapon: 75mm Gatling Rail II
+
+Name: Baja Bently
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Manticore
+Weapon: Paradise Precision Cruise Missile
+
+Name: CounterfeitThe
+Security: 1.7
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Raptor
+Weapon: Flameburst Fury Light Missile
+
+Name: lewy313
+Security: 5.0
+Alliance: DeStInY.
+Corp: Sacred Templars
+Ship: Raptor
+Weapon: Raptor
+
+Name: Death Reactor
+Security: -1.8
+Alliance: DeStInY.
+Corp: The Knights Of Camelot
+Ship: Malediction
+Weapon: TE-2100 Standard Missile Bay
+
+Name: kakakarrr
+Security: 0.0
+Alliance: DeStInY.
+Corp: The Knights Of Camelot
+Ship: Capsule
+Weapon: Assault Missile Launcher I
+
+Name: Vel'Kethor
+Security: 1.7
+Alliance: DeStInY.
+Corp: House Of Aaron
+Ship: Capsule
+Weapon: Hammerhead II
+
+
+Destroyed items:
+
+800mm Repeating Artillery II
+800mm Repeating Artillery II
+EMP L, Qty: 169
+Fleeting Propulsion Inhibitor I
+X-Large C5-L Emergency Shield Overload I (Cargo)
+J5 Prototype Warp Inhibitor I (Cargo)
+800mm Repeating Artillery II, Qty: 2 (Cargo)
+Gyrostabilizer II, Qty: 2 (Cargo)
+Damage Control II (Cargo)
+Heavy Electrochemical Capacitor Booster I (Cargo)
+EMP L, Qty: 640 (Cargo)
+Cap Booster 800, Qty: 11 (Cargo)
+Medium Secure Container (Cargo)
+Barrage L, Qty: 120 (Cargo)
+Wasp II, Qty: 2 (Drone Bay)
+

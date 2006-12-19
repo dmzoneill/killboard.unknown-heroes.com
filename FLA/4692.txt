@@ -1,0 +1,113 @@
+2007.04.18 05:15
+
+Victim: Redginald
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Destroyed: Hurricane
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: arthell
+Security: 2.9
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: Alski (laid the final blow)
+Security: 3.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Thanatos
+Weapon: Dragonfly
+
+Name: The Cade
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Thorax
+Weapon: Thorax
+
+Name: Teck7
+Security: 1.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Taranis
+Weapon: Light Electron Blaster II
+
+Name: Imaginary Number
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+Name: Stone757
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Kayron Brennan
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Merlin
+Weapon: Dragonfly
+
+Name: Aridante Lemure
+Security: 1.2
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Thorax
+Weapon: Thorax
+
+Name: sparkvolt
+Security: -0.7
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Rifter
+Weapon: Rifter
+
+Name: Alex Hinkelmann
+Security: 0.3
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Kestrel
+Weapon: Flameburst Light Missile
+
+Name: Magic Mazuma
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Rifter
+Weapon: Rifter
+
+Name: alon blackhelm
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Chimera
+Weapon: Dragonfly
+
+Name: Bobby Atlas
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Thanatos
+Weapon: Dragonfly
+
+
+Destroyed items:
+
+425mm AutoCannon II
+Medium Nosferatu II
+Barrage M, Qty: 220
+Warp Disruptor II
+N-Type Kinetic Hardener I
+Barrage M, Qty: 7047 (Cargo)
+Hornet EC-300, Qty: 4 (Drone Bay)
+

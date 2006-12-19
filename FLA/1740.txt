@@ -1,0 +1,51 @@
+2007.01.02 06:15
+
+Victim: Kelter Highfire
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Blackbird
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Kru5ty
+Security: -1.8
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Anna Neura
+Security: -0.2
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Arazu
+Weapon: Phased Muon Sensor Disruptor I
+
+Name: WarGod
+Security: 1.2
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: K Shara (laid the final blow)
+Security: 4.7
+Alliance: None
+Corp: Deep Core Mining Inc.
+Ship: Crow
+Weapon: Flameburst Precision Light Missile
+
+
+Destroyed items:
+
+125mm Railgun I
+125mm Railgun I
+Lead Charge S, Qty: 99
+Large Ohm Capacitor Reserve I
+Medium Capacitor Battery I
+Compulsive Multispectral ECM I
+ECM - Spatial Destabilizer I
+Warp Core Stabilizer I
+

@@ -1,0 +1,82 @@
+2007.04.08 22:58
+
+Victim: Exak
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Destroyed: Gallente Shuttle
+System: F7C-H0
+Security: 0.0
+
+Involved parties:
+
+Name: Appalachia
+Security: 5.2
+Alliance: YouWhat
+Corp: Pringles Inc.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Thyago
+Security: 5.0
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: Ehre86
+Security: 1.2
+Alliance: YouWhat
+Corp: Dark Rising Shadow
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Exitao
+Security: 5.0
+Alliance: YouWhat
+Corp: Cosmic Odyssey
+Ship: Taranis
+Weapon: Warrior II
+
+Name: Cel'Dos
+Security: 2.2
+Alliance: YouWhat
+Corp: Dark Rising Shadow
+Ship: Omen
+Weapon: Bloodclaw Light Missile
+
+Name: Blaxi (laid the final blow)
+Security: 5.0
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Wolf
+Weapon: 250mm Light Prototype I Siege Cannon
+
+Name: grim devilin
+Security: 4.3
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Hawk
+Weapon: Rocket Launcher II
+
+Name: Neily
+Security: 4.7
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Rook
+Weapon: ECM - Multispectral Jammer II
+
+Name: L3dZ3P
+Security: 5.0
+Alliance: YouWhat
+Corp: Cosmic Odyssey
+Ship: Hawk
+Weapon: Standard Missile Launcher II
+
+Name: 1Of9
+Security: 4.7
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Curse
+Weapon: Phased Muon Sensor Disruptor I
+
+

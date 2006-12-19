@@ -1,0 +1,43 @@
+2007.05.12 23:35
+
+Victim: coldkill
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Destroyed: Megathron
+System: Uemisaisen
+Security: 0.6
+
+Involved parties:
+
+Name: Ronnie Kray (laid the final blow)
+Security: -1.9
+Alliance: None
+Corp: Mentally Unstable Enterprises
+Ship: Dominix
+Weapon: Ogre II
+
+Name: vickers
+Security: -2.0
+Alliance: None
+Corp: Mentally Unstable Enterprises
+Ship: Hyperion
+Weapon: Hyperion
+
+
+Destroyed items:
+
+425mm Railgun II
+425mm Railgun II
+425mm Railgun II
+425mm Railgun II
+425mm Railgun II
+Javelin L, Qty: 39
+Spike L, Qty: 80
+Sensor Booster II
+Tracking Enhancer II
+Tracking Enhancer II
+Magnetic Field Stabilizer II
+Spike L, Qty: 2815 (Cargo)
+Javelin L, Qty: 4840 (Cargo)
+Hammerhead II, Qty: 5 (Drone Bay)
+

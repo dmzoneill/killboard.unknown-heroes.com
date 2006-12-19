@@ -1,0 +1,44 @@
+2006.11.07 14:47
+
+Victim: Ricky Baby
+Alliance: None
+Corp: The Kennels
+Destroyed: Ishkur
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Zalamus
+Security: 4.2
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Ishkur
+Weapon: Hobgoblin II
+
+Name: Verild
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Rook
+Weapon: Flameburst Light Missile
+
+Name: James Potkukelkka (laid the final blow)
+Security: 0.2
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Flycatcher
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+Light Ion Blaster II
+Light Ion Blaster II
+Void S, Qty: 214
+Small Automated I Carapace Restoration
+N-Type Explosive Hardener I
+Void S, Qty: 2254 (Cargo)
+Small Tractor Beam I (Cargo)
+Acolyte I, Qty: 3 (Drone Bay)
+

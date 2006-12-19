@@ -1,0 +1,58 @@
+2007.04.11 22:19
+
+Victim: Kdub
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Destroyed: Drake
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Ferocious FeAr
+Security: 1.5
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Rook
+Weapon: Dragonfly
+
+Name: Sivona (laid the final blow)
+Security: -1.1
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Eos
+Weapon: Ogre II
+
+Name: Vily
+Security: 0.3
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Robet Katrix
+Security: 2.1
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Chimera
+Weapon: Dragonfly
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Widowmaker Heavy Missile, Qty: 61
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Medium Shield Booster II
+Heat Dissipation Field I
+Photon Scattering Field I
+Ballistic Deflection Field I
+Damage Control I
+Local Power Plant Manager: Diagnostic System I
+Local Power Plant Manager: Diagnostic System I
+Warrior I, Qty: 2 (Drone Bay)
+Hornet I (Drone Bay)
+

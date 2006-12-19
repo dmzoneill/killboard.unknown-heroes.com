@@ -1,0 +1,37 @@
+2007.04.28 16:10
+
+Victim: LeZip
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Manticore
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Iguanoid (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Ares
+Weapon: Sabretooth Precision Light Missile
+
+Name: FlobbMkII
+Security: 4.4
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Eris
+Weapon: Eris
+
+
+Destroyed items:
+
+Prototype Cloaking Device I
+Wrath Cruise Missile, Qty: 18
+XT-9000 Cruise Launcher
+XT-9000 Cruise Launcher
+Prototype I Sensor Booster
+Alumel-Wired I Sensor Augmentation
+Paradise Cruise Missile, Qty: 18 (Cargo)
+Wrath Cruise Missile, Qty: 58 (Cargo)
+

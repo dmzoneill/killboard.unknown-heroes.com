@@ -1,0 +1,128 @@
+2006.10.08 21:28
+
+Victim: Gul Rashen
+Alliance: None
+Corp: NIBELUNGENSTURM
+Destroyed: Cormorant
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: DanyD
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Gamer1K
+Security: 3.1
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Crow
+Weapon: Crow
+
+Name: Scorpio63
+Security: 4.8
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Retribution
+Weapon: Retribution
+
+Name: Formosus Funus
+Security: 2.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Wolf
+Weapon: Wolf
+
+Name: Needa3
+Security: 5.0
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Jaguar
+Weapon: Warp Disruptor I
+
+Name: Lizzy Silver (laid the final blow)
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Caracal
+Weapon: Thunderbolt Heavy Missile
+
+Name: Gangreen
+Security: 0.1
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Incursus
+Weapon: Incursus
+
+Name: hejjbazeg
+Security: 0.7
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Wolf
+Weapon: 250mm Light Artillery Cannon II
+
+Name: TasKu
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Taranis
+Weapon: 125mm Railgun II
+
+Name: Cockroach
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Vengeance
+Weapon: X5 Prototype I Engine Enervator
+
+Name: kazik
+Security: 2.7
+Alliance: Imperial Republic Of the North
+Corp: Port Royal Independent Kontractors
+Ship: Sacrilege
+Weapon: Advanced 'Limos' Heavy Missile Bay I
+
+Name: Taffun
+Security: 2.9
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Stiletto
+Weapon: Fleeting Warp Scrambler I
+
+Name: Preying Mantis
+Security: 4.8
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Typhoon
+Weapon: Heavy 'Knave' I Energy Drain
+
+Name: DarkJester
+Security: 0.7
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery I
+
+Name: Badtrance
+Security: 4.2
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Harpy
+Weapon: Light Ion Blaster II
+
+
+Destroyed items:
+
+Small Clarity Ward Booster I
+Medium Subordinate Screen Stabilizer I (Cargo)
+Cap Recharger I, Qty: 2 (Cargo)
+Gatling Modal Laser I (Cargo)
+Ballistic Deflection Field I (Cargo)
+Xray S (Cargo)
+Multifrequency S (Cargo)
+100mm Reinforced Nanofiber Plates I (Cargo)
+

@@ -1,0 +1,56 @@
+2007.02.15 18:31
+
+Victim: GoLdeN BoY
+Alliance: Privateer Alliance
+Corp: Feardotcom
+Destroyed: Stabber
+System: VFK-IV
+Security: 0.0
+
+Involved parties:
+
+Name: TimeSpirit (laid the final blow)
+Security: 5.0
+Alliance: The Pentagram
+Corp: Advanced Creatures of Multiple Empires
+Ship: Vengeance
+Weapon: Medium Pulse Laser II
+
+Name: alon blackhelm
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Thorax
+Weapon: Thorax
+
+Name: Hoon Dalaa
+Security: 5.0
+Alliance: None
+Corp: Crabbs
+Ship: Capsule
+Weapon: 'Arbalest' Standard Missile Launcher
+
+Name: Chuck Dawg
+Security: 3.7
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Scorpion
+Weapon: 'Malkuth' Cruise Launcher I
+
+Name: Govna
+Security: 5.2
+Alliance: None
+Corp: Old Farts
+Ship: Unknown
+Weapon: Mega Pulse Laser II
+
+
+Destroyed items:
+
+Terror Assault Missile, Qty: 1512
+Dual 180mm AutoCannon II
+Compact 'Limos' Heavy Assault Missile Launcher I
+Compact 'Limos' Heavy Assault Missile Launcher I
+Large Subordinate Screen Stabilizer I
+EMP M, Qty: 694 (Cargo)
+

@@ -1,0 +1,54 @@
+2007.02.06 03:19
+
+Victim: Tevi
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Destroyed: Exequror
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: LadyScarlet (laid the final blow)
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Cerberus
+Weapon: Scourge Heavy Missile
+
+Name: Okuden
+Security: 1.6
+Alliance: Band of Brothers
+Corp: Black Eclipse Corp
+Ship: Deimos
+Weapon: Deimos
+
+Name: CLEISTHENES2
+Security: -0.9
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Claw
+Weapon: Claw
+
+Name: Kaijou
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Faux
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Sabre
+Weapon: 280mm Howitzer Artillery II
+
+Name: Leyalor Esperence
+Security: 2.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Sabre
+Weapon: 150mm Light AutoCannon II
+
+

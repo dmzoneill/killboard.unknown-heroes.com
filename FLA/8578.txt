@@ -1,0 +1,36 @@
+2006.11.30 00:42
+
+Victim: ventura5
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Crow
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Zarks (laid the final blow)
+Security: 5.0
+Alliance: The Sani Sabik
+Corp: Omniscient Order
+Ship: Sleipnir
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Gauntlet
+Security: -0.2
+Alliance: The Sani Sabik
+Corp: Omniscient Order
+Ship: Brutix
+Weapon: Heavy Electron Blaster II
+
+
+Destroyed items:
+
+Sabretooth Light Missile, Qty: 46
+Small Clarity Ward Booster I
+Nanoelectrical Co-Processor I
+Micro Auxiliary Power Core I
+Sabretooth Light Missile, Qty: 270 (Cargo)
+Bloodclaw Light Missile, Qty: 675 (Cargo)
+Piranha Light Missile, Qty: 386 (Cargo)
+

@@ -1,0 +1,33 @@
+2007.01.19 01:51
+
+Victim: Shin'no Kaze
+Alliance: None
+Corp: Center for Advanced Studies
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Xantheris
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Harpy
+Weapon: Harpy
+
+Name: Swanny231 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Crow
+Weapon: Gremlin Rocket
+
+Name: digital oxygen
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Taranis
+Weapon: Light Electron Blaster II
+
+

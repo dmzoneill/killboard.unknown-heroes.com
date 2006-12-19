@@ -1,0 +1,68 @@
+2007.03.12 17:07
+
+Victim: Jayne Corr
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Destroyed: Gallente Shuttle
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Le Cardinal
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: ECP Rogues
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Kerdrak (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Curse
+Weapon: Valkyrie II
+
+Name: Freakdevil
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Crow
+Weapon: Crow
+
+Name: SoF Reaperman
+Security: 4.4
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Blackbird
+Weapon: Scourge Heavy Missile
+
+Name: paul9
+Security: 1.8
+Alliance: Forces of Freedom
+Corp: Just Cloned Again
+Ship: Brutix
+Weapon: Brutix
+
+Name: eddie valvetino
+Security: -5.3
+Alliance: Dusk and Dawn
+Corp: ECP Rogues
+Ship: Sleipnir
+Weapon: Sleipnir
+
+Name: Spartan dax
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Drake
+Weapon: XR-3200 Heavy Missile Bay
+
+Name: Satal Sonshi
+Security: 3.8
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery I
+
+

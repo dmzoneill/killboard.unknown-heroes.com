@@ -1,0 +1,61 @@
+2006.10.18 20:45
+
+Victim: CC Outlaw
+Alliance: None
+Corp: State War Academy
+Destroyed: Cormorant
+System: J1AU-9
+Security: 0.0
+
+Involved parties:
+
+Name: DanyD (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Ship: Blackbird
+Weapon: Scourge Heavy Missile
+
+
+Destroyed items:
+
+EP-S Gaussian I Excavation Pulse
+EP-S Gaussian I Excavation Pulse
+200mm AutoCannon I
+280mm Howitzer Artillery I
+Regulated Light Ion Phase Cannon I
+Titanium Sabot S, Qty: 92
+Thorium Charge S, Qty: 100
+Residual Survey Scanner I
+Basic Kinetic Deflection Amplifier
+Civilian Shield Booster I (Cargo)
+10MN Afterburner I (Cargo)
+Civilian Afterburner (Cargo)
+Warp Scrambler I (Cargo)
+Civilian Gatling Railgun (Cargo)
+Gatling Afocal Maser I (Cargo)
+200mm AutoCannon I (Cargo)
+Small Armor Repairer I, Qty: 2 (Cargo)
+Small Hull Repairer I (Cargo)
+Small I-b Polarized Structural Regenerator (Cargo)
+Small Nosferatu I, Qty: 2 (Cargo)
+125mm Compressed Coil Gun I (Cargo)
+'Anointed' I EM Ward Reinforcement (Cargo)
+Nuclear S, Qty: 101 (Cargo)
+Titanium Sabot S, Qty: 908 (Cargo)
+Proton S, Qty: 157 (Cargo)
+Plutonium Charge S, Qty: 500 (Cargo)
+Lead Charge S, Qty: 200 (Cargo)
+Iron Charge S, Qty: 20 (Cargo)
+Antimatter Charge S, Qty: 600 (Cargo)
+Tungsten Charge S, Qty: 200 (Cargo)
+Thorium Charge S, Qty: 120 (Cargo)
+Multifrequency S (Cargo)
+ECM - White Noise Generator I (Cargo)
+ECM - Multispectral Jammer I, Qty: 2 (Cargo)
+ECM - Spatial Destabilizer I (Cargo)
+Warp Core Stabilizer I (Cargo)
+Bloodclaw Light Missile, Qty: 729 (Cargo)
+Basic Overdrive Injector System (Cargo)
+Reactor Control Unit I (Cargo)
+

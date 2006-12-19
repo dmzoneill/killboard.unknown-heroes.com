@@ -1,0 +1,39 @@
+2007.04.08 19:52
+
+Victim: Burn Lump
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Destroyed: Capsule
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Spacebar (laid the final blow)
+Security: 2.1
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Jaguar
+Weapon: 125mm Gatling AutoCannon II
+
+Name: abzzo
+Security: 1.7
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Zealot
+Weapon: Focused Medium Pulse Laser II
+
+Name: Crypt Layer
+Security: 3.6
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Taranis
+Weapon: Taranis
+
+Name: DrunkenOne
+Security: -0.5
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Claw
+Weapon: 'Arbalest' Rocket Launcher I
+

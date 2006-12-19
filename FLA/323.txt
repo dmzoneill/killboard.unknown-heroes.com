@@ -1,0 +1,34 @@
+2007.01.25 09:44
+
+Victim: dentonan
+Alliance: None
+Corp: Buffed Rumpuss Zit Dids
+Destroyed: Ferox
+System: Aunenen
+Security: 0.4
+
+Involved parties:
+
+Name: Sanal Gi (laid the final blow)
+Security: -0.4
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ferox
+Weapon: Widowmaker Heavy Missile
+
+Name: Bloodclaw Light Missile / Guristas
+
+
+Destroyed items:
+
+200mm Railgun I
+200mm Railgun I
+Antimatter Charge M, Qty: 121
+Flameburst Light Missile, Qty: 111
+SV-2000 Assault Missile Bay
+Compact 'Limos' Assault Missile Bay I
+Warp Scrambler I
+ECM - Ion Field Projector I
+ECM - Spatial Destabilizer I
+Flameburst Light Missile, Qty: 14929 (Cargo)
+

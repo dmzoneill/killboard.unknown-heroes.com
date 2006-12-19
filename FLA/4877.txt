@@ -1,0 +1,68 @@
+2007.04.18 04:50
+
+Victim: Kvarium Ki
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Destroyed: Stabber
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: LordMordred (laid the final blow)
+Security: 0.1
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Chimera
+Weapon: Firbolg
+
+Name: Hazmat 69
+Security: -1.6
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Erikel
+Security: 5.0
+Alliance: YouWhat
+Corp: Cosmic Odyssey
+Ship: Megathron
+Weapon: Megathron
+
+Name: Corlan Dashiva
+Security: 2.8
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Capsule
+Weapon: Patterned Stasis Web I
+
+Name: Ronald Speirs
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Nidhoggur
+Weapon: Fleeting Warp Scrambler I
+
+Name: Green Leaner
+Security: 2.1
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Sleipnir
+Weapon: Dread Guristas Warp Disruptor
+
+
+Destroyed items:
+
+425mm AutoCannon I
+Titanium Sabot M, Qty: 144
+Sabretooth Light Missile, Qty: 51
+Assault Missile Launcher I
+10MN Afterburner I
+Stasis Webifier I
+Damage Control I
+Corpse, Qty: 4 (Cargo)
+Titanium Sabot M, Qty: 1354 (Cargo)
+Acolyte I, Qty: 2 (Cargo)
+Sabretooth Light Missile, Qty: 60 (Cargo)
+

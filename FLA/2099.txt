@@ -1,0 +1,43 @@
+2007.01.20 01:19
+
+Victim: Cobra64
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Stiletto
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Murdoch Morf (laid the final blow)
+Security: 0.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Drakin Korin
+Security: -1.6
+Alliance: None
+Corp: Eternal Rising
+Ship: Crow
+Weapon: Bloodclaw Precision Light Missile
+
+Name: ukpAgAn
+Security: 5.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Megathron
+Weapon: Warrior II
+
+
+Destroyed items:
+
+200mm AutoCannon II
+Barrage S, Qty: 64
+Small Shield Booster II
+1MN MicroWarpdrive II
+'Langour' Drive Disruptor I
+Nanofiber Internal Structure I
+Small 'Knave' I Energy Drain (Cargo)
+

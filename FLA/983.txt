@@ -1,0 +1,29 @@
+2007.03.02 13:36
+
+Victim: Jinx Jones
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Destroyed: Vagabond
+System: YZ-LQL
+Security: 0.0
+
+Involved parties:
+
+Name: Tregaron (laid the final blow)
+Security: 1.7
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Cyclone
+Weapon: 220mm Vulcan AutoCannon II
+
+
+Destroyed items:
+
+220mm Vulcan AutoCannon II
+220mm Vulcan AutoCannon II
+Barrage M, Qty: 320
+Faint Warp Prohibitor I
+Local Hull Conversion Inertial Stabilizers I
+Local Hull Conversion Inertial Stabilizers I
+Local Hull Conversion Nanofiber Structure I
+

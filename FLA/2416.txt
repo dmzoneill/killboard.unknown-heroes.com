@@ -1,0 +1,40 @@
+2007.02.09 23:01
+
+Victim: Torando Flare
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Scythe
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Anominity (laid the final blow)
+Security: 4.2
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Abaddon
+Weapon: Tachyon Beam Laser II
+
+Name: cptblood
+Security: 2.3
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+
+Destroyed items:
+
+200mm Railgun I
+200mm Railgun I
+Dread Guristas Iridium Charge M, Qty: 80
+Flameburst Light Missile, Qty: 63
+'Malkuth' Assault Missile Launcher I
+Medium Shield Booster I
+Small Brief Capacitor Overcharge I
+Cap Booster 25, Qty: 12
+Dread Guristas Iridium Charge M, Qty: 60 (Cargo)
+Cap Booster 25, Qty: 8 (Cargo)
+Flameburst Light Missile, Qty: 60 (Cargo)
+

@@ -1,0 +1,67 @@
+2007.03.20 20:29
+
+Victim: Bobby Atlas
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Hyperion
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: WildCard
+Security: 4.3
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Nidhoggur
+Weapon: Dragonfly
+
+Name: Xinus
+Security: 4.6
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Thanatos
+Weapon: Firbolg
+
+Name: Jurushy (laid the final blow)
+Security: 4.9
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Nidhoggur
+Weapon: Ogre II
+
+Name: volly
+Security: 3.1
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Pilgrim
+Weapon: Hammerhead II
+
+Name: KS Bommel
+Security: 5.0
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Capsule
+Weapon: Upgraded 'Limos' Standard Missile Bay I
+
+
+Destroyed items:
+
+425mm Compressed Coil Gun I
+425mm Compressed Coil Gun I
+425mm 'Scout' I Accelerator Cannon
+Antimatter Charge L, Qty: 76
+Paradise Cruise Missile, Qty: 18
+F-b10 Nominal Capacitor Regenerator
+Cap Recharger II
+Prototype I Sensor Booster
+Tracking Computer II
+Damage Control II
+Large Armor Repairer II
+Antimatter Charge L, Qty: 2720 (Cargo)
+Paradise Cruise Missile, Qty: 200 (Cargo)
+Hammerhead II (Drone Bay)
+Vespa II (Drone Bay)
+Hobgoblin II (Drone Bay)
+Hornet II, Qty: 2 (Drone Bay)
+

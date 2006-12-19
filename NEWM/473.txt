@@ -1,0 +1,132 @@
+2007.02.04 20:02
+
+Victim: Angela Dray
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Destroyed: Taranis
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: MrMunro (laid the final blow)
+Security: 5.1
+Alliance: Insane Asylum
+Corp: PILGRIMS
+Ship: Rokh
+Weapon: 425mm 'Scout' I Accelerator Cannon
+
+Name: Minisoza
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Brutix
+Weapon: Brutix
+
+Name: sakana
+Security: -1.0
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Megathron
+Weapon: 425mm Prototype I Gauss Gun
+
+Name: Jarath Abyss
+Security: 3.8
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Ship: Enyo
+Weapon: 125mm Railgun II
+
+Name: Kee Ris
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Coercer
+Weapon: Medium Pulse Laser I
+
+Name: mrrabit
+Security: 3.5
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Thrasher
+Weapon: 200mm Light Carbine Repeating Cannon I
+
+Name: malkey
+Security: 4.4
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Blackbird
+Weapon: ECM - Spatial Destabilizer I
+
+Name: beretta74
+Security: 2.8
+Alliance: The Foundation.
+Corp: EVE Corporation 160607
+Ship: Thorax
+Weapon: 150mm Railgun I
+
+Name: SuperDuplex
+Security: 0.7
+Alliance: The Foundation.
+Corp: EVE Corporation 160607
+Ship: Drake
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+Name: Sorlac Aurora
+Security: 1.2
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Drake
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+Name: Night Seeker
+Security: 0.2
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Hound
+Weapon: Remote Sensor Dampener I
+
+Name: Laboratus
+Security: 5.0
+Alliance: None
+Corp: BGG
+Ship: Celestis
+Weapon: Advanced 'Limos' Heavy Missile Bay I
+
+Name: LTSmash
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Ship: Drake
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+Name: Dark Carnage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Blackbird
+Weapon: Heavy Missile Launcher I
+
+Name: ClogMan
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Raven
+Weapon: Shock 'Limos' Siege Missile Bay I
+
+
+Destroyed items:
+
+125mm Railgun II
+125mm Railgun II
+Antimatter Charge S, Qty: 80
+J5 Prototype Warp Inhibitor I
+True Sansha Stasis Webifier
+F84 Local Damage System
+J5b Phased Prototype Warp Inhibitor I (Cargo)
+Small Armor Repairer II (Cargo)
+E500 Prototype Energy Vampire (Cargo)
+Lead Charge S, Qty: 568 (Cargo)
+Null S, Qty: 2680 (Cargo)
+Rocket Launcher II, Qty: 2 (Cargo)
+

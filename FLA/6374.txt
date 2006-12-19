@@ -1,0 +1,26 @@
+2006.11.13 00:43
+
+Victim: Creigor
+Alliance: None
+Corp: Men of Cruelty
+Destroyed: Capsule
+System: G-M4I8
+Security: 0.0
+
+Involved parties:
+
+Name: jacass8496 (laid the final blow)
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Enyo
+Weapon: 125mm Railgun II
+
+Name: Almagar Phog
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Raptor
+Weapon: Raptor
+
+

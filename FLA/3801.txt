@@ -1,0 +1,54 @@
+2007.04.01 15:18
+
+Victim: Noob Atheart
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Capsule
+System: RORZ-H
+Security: 0.0
+
+Involved parties:
+
+Name: Dekein (laid the final blow)
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Rapier
+Weapon: 720mm Howitzer Artillery II
+
+Name: abzzo
+Security: 1.7
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Zealot
+Weapon: Focused Medium Pulse Laser II
+
+Name: Eleese
+Security: -0.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Lachesis
+Weapon: Heavy Missile Launcher II
+
+Name: tomlinsonland
+Security: -1.8
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Crow
+Weapon: Warp Disruptor II
+
+Name: Tancred
+Security: 4.8
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Stiletto
+Weapon: Warp Disruptor II
+
+Name: Kaar
+Security: 0.6
+Alliance: Cult of War
+Corp: Art of War
+Ship: Vagabond
+Weapon: Warp Disruptor II
+
+

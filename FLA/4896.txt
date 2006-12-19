@@ -1,0 +1,58 @@
+2007.04.18 22:38
+
+Victim: RayTruz
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Caracal
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Guristas Annihilator / Guristas
+
+Name: sgtdark
+Security: 5.0
+Alliance: Storm Armada
+Corp: stone grave haulage
+Ship: Taranis
+Weapon: Taranis
+
+Name: Fitz Farseer (laid the final blow)
+Security: 0.5
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Hound
+Weapon: Paradise Cruise Missile
+
+Name: RuLuVdArR
+Security: 0.0
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Incursus
+Weapon: Incursus
+
+Name: Seamus O'Malley
+Security: 0.8
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Capsule
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: Dana Marillis
+Security: 3.5
+Alliance: Storm Armada
+Corp: stone grave haulage
+Ship: Caracal
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+
+Destroyed items:
+
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Medium Neutron Saturation Injector I
+Warp Disruptor I
+Stasis Webifier I
+Scourge Heavy Missile, Qty: 852 (Cargo)
+

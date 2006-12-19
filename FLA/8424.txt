@@ -1,0 +1,97 @@
+2006.11.17 21:12
+
+Victim: Noitaakka
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Destroyed: Ishtar
+System: F-NMX6
+Security: 0.0
+
+Involved parties:
+
+Name: KaiTech (laid the final blow)
+Security: 4.1
+Alliance: Interstellar Starbase Syndicate
+Corp: MC Cubed Inc
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Sabine Runebane
+Security: 5.0
+Alliance: Interstellar Starbase Syndicate
+Corp: terra firma team
+Ship: Ferox
+Weapon: Acolyte I
+
+Name: Spoony Brook
+Security: 3.2
+Alliance: Interstellar Starbase Syndicate
+Corp: terra firma team
+Ship: Enyo
+Weapon: Enyo
+
+Name: Dutarro
+Security: 4.2
+Alliance: Interstellar Starbase Syndicate
+Corp: Kydance Radiant Industries
+Ship: Omen
+Weapon: Omen
+
+Name: AnarchistUK
+Security: 5.0
+Alliance: None
+Corp: A New Inspiration
+Ship: Osprey
+Weapon: Osprey
+
+Name: Rianharte
+Security: 2.8
+Alliance: Interstellar Starbase Syndicate
+Corp: MC Cubed Inc
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: Jem
+Security: 2.4
+Alliance: Interstellar Starbase Syndicate
+Corp: angels of darkness LTD
+Ship: Eris
+Weapon: Eris
+
+Name: Drizden D'Urden
+Security: 3.9
+Alliance: Interstellar Starbase Syndicate
+Corp: MC Cubed Inc
+Ship: Rifter
+Weapon: 150mm Light Prototype I Automatic Cannon
+
+Name: Zehn Takakura
+Security: -1.8
+Alliance: Interstellar Starbase Syndicate
+Corp: terra firma team
+Ship: Condor
+Weapon: Modal Light Ion Particle Accelerator I
+
+
+Destroyed items:
+
+Medium Diminishing Power System Drain I
+Light Ion Blaster II
+Light Ion Blaster II
+Void S, Qty: 120
+10MN Afterburner II
+'Hypnos' Multispectral ECM I
+'Hypnos' Multispectral ECM I
+800mm Reinforced Crystalline Carbonide Plates I
+Antimatter Charge S, Qty: 229 (Cargo)
+Warrior II, Qty: 2 (Cargo)
+F-90 Positional Sensor Subroutines (Cargo)
+Void S, Qty: 2065 (Cargo)
+'Malkuth' Cruise Launcher I (Cargo)
+'Arbalest' Siege Missile Launcher (Cargo)
+Heavy Armor Maintenance Bot I (Cargo)
+Valkyrie II, Qty: 3 (Drone Bay)
+Ogre I, Qty: 4 (Drone Bay)
+Hammerhead II, Qty: 2 (Drone Bay)
+Warrior II, Qty: 4 (Drone Bay)
+

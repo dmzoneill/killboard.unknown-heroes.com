@@ -1,0 +1,33 @@
+2007.04.21 05:13
+
+Victim: Aridante Lemure
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Destroyed: Capsule
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Lyra Sy (laid the final blow)
+Security: 5.0
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Raven
+Weapon: Wrath Cruise Missile
+
+Name: Gerald Osikawa
+Security: 0.9
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Savak
+Security: -0.2
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Apocalypse
+Weapon: Tachyon Afocal Maser I
+
+

@@ -1,0 +1,68 @@
+2007.03.12 17:45
+
+Victim: El Chingon
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Destroyed: Gallente Shuttle
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Korudon (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Ferox
+Weapon: Havoc Heavy Missile
+
+Name: Kerdrak
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Curse
+Weapon: Hobgoblin II
+
+Name: SoF Reaperman
+Security: 4.4
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Blackbird
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+Name: paul9
+Security: 1.8
+Alliance: Forces of Freedom
+Corp: Just Cloned Again
+Ship: Brutix
+Weapon: Brutix
+
+Name: ekkertnafnlaust
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Tempest
+Weapon: 1200mm Artillery Cannon II
+
+Name: Satal Sonshi
+Security: 3.8
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery I
+
+Name: S Dietershagen
+Security: 4.8
+Alliance: Freelancer Alliance
+Corp: The Night Crew
+Ship: Wolf
+Weapon: 280mm Howitzer Artillery II
+
+Name: EvilBadger
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Hawk
+Weapon: Rocket Launcher II
+
+

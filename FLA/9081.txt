@@ -1,0 +1,32 @@
+2006.12.30 15:19
+
+Victim: Samiloth Justinian
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Crow
+System: WUZ-WM
+Security: 0.0
+
+Involved parties:
+
+Name: Timmyu (laid the final blow)
+Security: -1.4
+Alliance: None
+Corp: Spontaneous Defenestration
+Ship: Vagabond
+Weapon: Dual 180mm AutoCannon II
+
+Name: Scourge Heavy Missile / Guristas
+
+
+Destroyed items:
+
+E5 Prototype Energy Vampire
+Rocket Launcher II
+Thorn Rage Rocket, Qty: 38
+Faint Epsilon Warp Prohibitor I
+'Langour' Drive Disruptor I
+Nanofiber Internal Structure I
+Type-D Power Core Modification: Capacitor Power Relay
+Thorn Rage Rocket, Qty: 1988 (Cargo)
+

@@ -1,0 +1,47 @@
+2007.03.23 21:50
+
+Victim: Eleri Bree
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Destroyed: Vexor
+System: O-ZXUV
+Security: 0.0
+
+Involved parties:
+
+Name: Jack Archer
+Security: -1.7
+Alliance: Eternal Rapture
+Corp: Quantum Synergies
+Ship: Myrmidon
+Weapon: Myrmidon
+
+Name: Evil Ted (laid the final blow)
+Security: -4.4
+Alliance: Eternal Rapture
+Corp: Exotic Dancers Club
+Ship: Raven
+Weapon: Wrath Fury Cruise Missile
+
+Name: Lazaroth
+Security: -0.2
+Alliance: Eternal Rapture
+Corp: Quantum Synergies
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+
+Destroyed items:
+
+Medium Nosferatu I
+125mm Railgun II
+Antimatter Charge S, Qty: 134
+Warp Disruptor I
+'Langour' Drive Disruptor I
+Damage Control I
+Energized Adaptive Nano Membrane I
+400mm Reinforced Titanium Plates I
+Survey Scanner I (Cargo)
+Antimatter Charge S, Qty: 394 (Cargo)
+Tungsten Charge M, Qty: 100 (Cargo)
+

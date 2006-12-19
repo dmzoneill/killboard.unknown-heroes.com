@@ -1,0 +1,26 @@
+2007.01.14 15:46
+
+Victim: Rhaall
+Alliance: Freelancer Alliance
+Corp: X.T.R
+Destroyed: Gallente Shuttle
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Persona Alta (laid the final blow)
+Security: 0.5
+Alliance: None
+Corp: Viziam
+Ship: Heretic
+Weapon: Gatling Pulse Laser II
+
+Name: Captain Rickdick
+Security: 0.1
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+

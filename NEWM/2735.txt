@@ -1,0 +1,42 @@
+2007.03.04 12:34
+
+Victim: Ahramaine
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Dominix
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: callonious (laid the final blow)
+Security: 0.4
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Abaddon
+Weapon: Mega Pulse Laser II
+
+Name: Hellspawn666
+Security: 2.1
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Typhoon
+Weapon: Cataclysm Cruise Missile
+
+
+Destroyed items:
+
+Heavy Nosferatu I
+Ion Blaster Cannon I
+Ion Blaster Cannon I
+Antimatter Charge L, Qty: 234
+Drone Link Augmentor I
+100MN MicroWarpdrive I
+Warp Scrambler I
+Stasis Webifier I
+Large Armor Repairer II
+Magnetic Field Stabilizer I
+Power Diagnostic System I
+Mobile Small Warp Disruptor I (Cargo)
+Ogre I, Qty: 2 (Drone Bay)
+

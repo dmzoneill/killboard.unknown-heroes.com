@@ -1,0 +1,49 @@
+2007.04.15 16:29
+
+Victim: inkubi
+Alliance: Insomnia.
+Corp: FM Corp
+Destroyed: Caracal
+System: Aunenen
+Security: 0.4
+
+Involved parties:
+
+Name: Kalico
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Huginn
+Weapon: Vespa II
+
+Name: Wallyx
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Arbitrator
+Weapon: Infiltrator II
+
+Name: truefranco (laid the final blow)
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Hurricane
+Weapon: 425mm AutoCannon II
+
+
+Destroyed items:
+
+Advanced 'Limos' Heavy Missile Bay I
+Advanced 'Limos' Heavy Missile Bay I
+Advanced 'Limos' Heavy Missile Bay I
+Advanced 'Limos' Heavy Missile Bay I
+Medium Shield Booster II
+10MN Afterburner I
+Warp Disruptor II
+Invulnerability Field I
+Scourge Heavy Missile, Qty: 576 (Cargo)
+Havoc Heavy Missile, Qty: 474 (Cargo)
+Widowmaker Heavy Missile, Qty: 387 (Cargo)
+Stalker F.O.F. Heavy Missile I, Qty: 250 (Cargo)
+Hornet EC-300 (Drone Bay)
+

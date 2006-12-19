@@ -1,0 +1,99 @@
+2007.05.21 18:50
+
+Victim: CG56
+Alliance: None
+Corp: mUfFiN fAcToRy
+Destroyed: Stabber
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: silent uk
+Security: 2.5
+Alliance: DeStInY.
+Corp: Sacred Templars
+Ship: Heretic
+Weapon: Heretic
+
+Name: Kotori
+Security: -0.2
+Alliance: DeStInY.
+Corp: Sacred Templars
+Ship: Heretic
+Weapon: Heretic
+
+Name: Lee Thrace
+Security: 3.1
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Eris
+Weapon: Eris
+
+Name: Teham Edori (laid the final blow)
+Security: 4.7
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Prophecy
+Weapon: Warrior I
+
+Name: Ocara Nezus
+Security: 1.5
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Serzath
+Security: 5.0
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Maizoon
+Security: 1.8
+Alliance: DeStInY.
+Corp: House Of Aaron
+Ship: Malediction
+Weapon: Malediction
+
+Name: marakudi
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: articz
+Security: -0.3
+Alliance: DeStInY.
+Corp: House Of Aaron
+Ship: Rifter
+Weapon: Rifter
+
+Name: Dibbes
+Security: 0.1
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Taranis
+Weapon: Taranis
+
+Name: Corovus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Manticore
+Weapon: 'Arbalest' Cruise Launcher I
+
+
+Destroyed items:
+
+200mm AutoCannon I
+200mm AutoCannon I
+Titanium Sabot S, Qty: 92
+Havoc Heavy Missile, Qty: 30
+Large F-S9 Regolith Shield Induction
+Titanium Sabot S, Qty: 1000 (Cargo)
+Thunderbolt Heavy Missile, Qty: 100 (Cargo)
+

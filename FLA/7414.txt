@@ -1,0 +1,127 @@
+2006.09.02 21:47
+
+Victim: Loratin
+Alliance: None
+Corp: 0utbreak
+Destroyed: Taranis
+System: 9-R6GU
+Security: 0.0
+
+Involved parties:
+
+Name: Ageha
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Apocalypse
+Weapon: Tachyon Beam Laser II
+
+Name: casama
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Crusader
+Weapon: Dual Light Beam Laser II
+
+Name: steve gates (laid the final blow)
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Hawk
+Weapon: Bloodclaw Precision Light Missile
+
+Name: R3s1d3nt 3v1L
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: Port Royal Independent Kontractors
+Ship: Crow
+Weapon: Fleeting Warp Scrambler I
+
+Name: vladdy2
+Security: 3.4
+Alliance: CORE.
+Corp: VentureCorp
+Ship: Sleipnir
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: J'Silk
+Security: 4.8
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Sabre
+Weapon: Phased Muon Sensor Disruptor I
+
+Name: Taffun
+Security: 2.8
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Sleipnir
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: geewiz
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Eris
+Weapon: 125mm Railgun II
+
+Name: Vespula
+Security: -1.1
+Alliance: None
+Corp: Blackguard Brigade
+Ship: Vengeance
+Weapon: Vengeance
+
+Name: Valtaer
+Security: 3.5
+Alliance: Freelancer Alliance
+Corp: Terminal Velocity Inc.
+Ship: Blackbird
+Weapon: Heavy Missile Launcher I
+
+Name: ShiVAs PArAdOXx
+Security: 2.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Huginn
+Weapon: X5 Prototype I Engine Enervator
+
+Name: Puke
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Cerberus
+Weapon: Heavy Missile Launcher II
+
+Name: Moebium
+Security: 0.8
+Alliance: Imperial Republic Of the North
+Corp: Port Royal Independent Kontractors
+Ship: Cerberus
+Weapon: Heavy Missile Launcher II
+
+Name: DDaisy
+Security: 4.5
+Alliance: CORE.
+Corp: VentureCorp
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Charlie Mike
+Security: 1.5
+Alliance: Chorus of Dawn
+Corp: Black Knight Buccaneers
+Ship: Blackbird
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+
+Destroyed items:
+
+125mm Railgun II
+125mm Railgun II
+Thorium Charge S, Qty: 76
+J5 Prototype Warp Inhibitor I
+Small Armor Repairer I
+Antimatter Charge S, Qty: 873 (Cargo)
+Hobgoblin II, Qty: 2 (Drone Bay)
+

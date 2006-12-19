@@ -1,0 +1,30 @@
+2006.11.24 19:58
+
+Victim: Mars Bar
+Alliance: None
+Corp: Sugar Ninjas
+Destroyed: Impairor
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Kmacross
+Security: 2.6
+Alliance: Dusk and Dawn
+Corp: Asgard Schiffswerften
+Ship: Crow
+Weapon: Sabretooth Light Missile
+
+Name: roboto212 (laid the final blow)
+Security: -0.5
+Alliance: Freelancer Alliance
+Corp: Sin-X Inc.
+Ship: Taranis
+Weapon: Light Neutron Blaster II
+
+
+Destroyed items:
+
+Civilian Gatling Pulse Laser
+

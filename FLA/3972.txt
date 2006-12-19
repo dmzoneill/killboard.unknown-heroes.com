@@ -1,0 +1,54 @@
+2007.04.08 13:45
+
+Victim: OCB METAL
+Alliance: None
+Corp: XYSTUS CONCILIUM
+Destroyed: Buzzard
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Jack Thurner (laid the final blow)
+Security: 2.6
+Alliance: DeStInY.
+Corp: Fusion Enterprises Ltd
+Ship: Armageddon
+Weapon: Bouncer I
+
+Name: kakakarrr
+Security: -1.2
+Alliance: DeStInY.
+Corp: The Knights Of Camelot
+Ship: Rifter
+Weapon: Warp Disruptor I
+
+Name: gabla
+Security: 3.7
+Alliance: Darklite inc Alliance
+Corp: Darklite inc
+Ship: Incursus
+Weapon: Warp Disruptor I
+
+Name: Wallyx
+Security: 4.5
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Armageddon
+Weapon: Regulated Mega Electron Phase Cannon I
+
+
+Destroyed items:
+
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Small Shield Extender I
+Small Shield Booster II
+Gravimetric Backup Array I
+Type-D Altered SS Overdrive Injector
+'Stoic' Core Equalizer I (Cargo)
+

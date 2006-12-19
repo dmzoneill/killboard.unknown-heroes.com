@@ -1,0 +1,66 @@
+2006.08.25 00:10
+
+Victim: Pheole
+Alliance: None
+Corp: LDK
+Destroyed: Vagabond
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Kiztent (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Tempest
+Weapon: Vespa II
+
+Name: MiA Greasy
+Security: -1.0
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Capsule
+Weapon: Acolyte I
+
+Name: digital oxygen
+Security: 3.4
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Thorax
+Weapon: Light Neutron Blaster II
+
+Name: Kishan Tor
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Caracal
+Weapon: Sabretooth Light Missile
+
+Name: Hedeon Mishenka
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Capsule
+Weapon: Warp Scrambler I
+
+
+Destroyed items:
+
+220mm Vulcan AutoCannon II
+220mm Vulcan AutoCannon II
+Medium Nosferatu II
+Barrage M, Qty: 14
+Large Clarity Ward Booster I
+10MN MicroWarpdrive II
+Gyrostabilizer II
+Warp Core Stabilizer I
+1MN Afterburner II (Cargo)
+Initiated Warp Jammer I (Cargo)
+Mega Beam Laser II, Qty: 4 (Cargo)
+Gleam L, Qty: 4 (Cargo)
+Aurora M (Cargo)
+Mark I Modified SS Overdrive Injector (Cargo)
+Acolyte I (Drone Bay)
+Hornet I, Qty: 2 (Drone Bay)
+

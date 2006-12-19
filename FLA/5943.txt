@@ -1,0 +1,66 @@
+2006.10.30 22:45
+
+Victim: Ragnar Redmane
+Alliance: None
+Corp: NEXT LEVEL
+Destroyed: Vagabond
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Noitaakka
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Ishtar
+Weapon: Ogre I
+
+Name: Tri Ounou
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Stabber
+Weapon: Stabber
+
+Name: Verild
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Rook
+Weapon: Bloodclaw Precision Light Missile
+
+Name: James Potkukelkka
+Security: 0.2
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Flycatcher
+Weapon: Bloodclaw Light Missile
+
+Name: Hosanna (laid the final blow)
+Security: 0.6
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Stiletto
+Weapon: 150mm Light AutoCannon II
+
+
+Destroyed items:
+
+220mm Vulcan AutoCannon II
+220mm Vulcan AutoCannon II
+220mm Vulcan AutoCannon II
+220mm Vulcan AutoCannon II
+Fusion M, Qty: 212
+Large Shield Extender II
+Y-T8 Overcharged Hydrocarbon I Microwarpdrive
+Fleeting Warp Scrambler I
+Gyrostabilizer II
+Warp Core Stabilizer I
+Warp Core Stabilizer I
+EMP M, Qty: 1694 (Cargo)
+Fusion M, Qty: 501 (Cargo)
+Barrage M, Qty: 520 (Cargo)
+Warrior II, Qty: 3 (Drone Bay)
+Hobgoblin II (Drone Bay)
+

@@ -1,0 +1,24 @@
+2006.10.05 06:07
+
+Victim: Elosi
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Destroyed: Reaper
+System: Isanamo
+Security: 0.6
+
+Involved parties:
+
+Name: Soul Wolf (laid the final blow)
+Security: 2.9
+Alliance: None
+Corp: Privateers
+Ship: Absolution
+Weapon: Heavy Pulse Laser II
+
+
+Destroyed items:
+
+Civilian Gatling Autocannon
+Tritanium (Cargo)
+

@@ -1,0 +1,87 @@
+2007.04.04 04:26
+
+Victim: Bobby Atlas
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Megathron
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Admentus Cor'vion
+Security: -0.2
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Dominix
+Weapon: Ogre II
+
+Name: Ronald Speirs (laid the final blow)
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Nidhoggur
+Weapon: Firbolg
+
+Name: Queldonus
+Security: 2.9
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Nidhoggur
+Weapon: Firbolg
+
+Name: Emelie
+Security: -3.7
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Thanatos
+Weapon: Dragonfly
+
+Name: Redginald
+Security: 4.5
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Hurricane
+Weapon: Warrior II
+
+Name: Witch Doctor
+Security: 0.1
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Cerberus
+Weapon: Heavy Missile Launcher II
+
+Name: BillyBong2
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Blackbird
+Weapon: Havoc Heavy Missile
+
+Name: Exekias
+Security: 2.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Stiletto
+Weapon: Stiletto
+
+
+Destroyed items:
+
+425mm Compressed Coil Gun I
+425mm Compressed Coil Gun I
+425mm Compressed Coil Gun I
+425mm 'Scout' I Accelerator Cannon
+Plutonium Charge L, Qty: 87
+Wrath Cruise Missile, Qty: 17
+'Limos' Cruise Launcher I
+F-b10 Nominal Capacitor Regenerator
+Damage Control I
+Large 'Accommodation' Vestment Reconstructer I
+Magnetic Field Stabilizer II
+N-Type Thermic Hardener I
+N-Type Explosive Hardener I
+Uranium Charge L, Qty: 3450 (Cargo)
+Devastator Cruise Missile, Qty: 250 (Cargo)
+Hobgoblin II, Qty: 2 (Drone Bay)
+

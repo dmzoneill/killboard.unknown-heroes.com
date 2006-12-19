@@ -1,0 +1,42 @@
+2006.12.19 21:08
+
+Victim: Vertigel Symorain
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Destroyed: Incursus
+System: X-7OMU
+Security: 0.0
+
+Involved parties:
+
+Name: john taylor2
+Security: 3.4
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Myrmidon
+Weapon: Ogre II
+
+Name: boo3916 (laid the final blow)
+Security: 4.3
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Dominix
+Weapon: Ogre II
+
+Name: Jenessa
+Security: 2.2
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Maelstrom
+Weapon: Warp Disruptor I
+
+
+Destroyed items:
+
+Anode Light Neutron Particle Cannon I
+Modal Light Ion Particle Accelerator I
+Antimatter Charge S, Qty: 91
+Small Shield Booster I
+Stasis Webifier I
+Antimatter Charge S, Qty: 10120 (Cargo)
+

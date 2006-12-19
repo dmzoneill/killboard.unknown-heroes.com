@@ -1,0 +1,47 @@
+2006.09.25 19:18
+
+Victim: BigSteef
+Alliance: None
+Corp: Warped Mining
+Destroyed: Crow
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Mcwlad (laid the final blow)
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Ship: Apocalypse
+Weapon: Mega Beam Laser II
+
+Name: Voyageur
+Security: 4.5
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Bolinar
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Megathron
+Weapon: 425mm Carbide Railgun I
+
+Name: Ione79
+Security: 3.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Celestis
+Weapon: Kapteyn Sensor Array Inhibitor I
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 38
+Warp Disruptor I
+Sabretooth Light Missile, Qty: 1000 (Cargo)
+Flameburst Light Missile, Qty: 1000 (Cargo)
+

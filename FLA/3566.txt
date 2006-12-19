@@ -1,0 +1,66 @@
+2007.03.27 06:21
+
+Victim: Azrealsan
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Brutix
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Galaxor
+Security: 5.1
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Harbinger
+Weapon: Hammerhead II
+
+Name: mr ioso
+Security: 4.8
+Alliance: Chorus of Dawn
+Corp: Cosmic Odyssey
+Ship: Myrmidon
+Weapon: Hornet I
+
+Name: Mr MA (laid the final blow)
+Security: 3.5
+Alliance: Chorus of Dawn
+Corp: Cosmic Odyssey
+Ship: Myrmidon
+Weapon: Ogre I
+
+Name: Boobalicious
+Security: 2.1
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Harbinger
+Weapon: Harbinger
+
+Name: Vasili Z
+Security: 0.3
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: xargis
+Security: 5.0
+Alliance: YouWhat
+Corp: Pringles Inc.
+Ship: Drake
+Weapon: Advanced 'Limos' Heavy Missile Bay I
+
+
+Destroyed items:
+
+Heavy Neutron Blaster I
+Heavy Neutron Blaster I
+Heavy Neutron Blaster I
+Antimatter Charge M, Qty: 480
+Cap Recharger I
+Cap Recharger I
+Energized Adaptive Nano Membrane I
+Type-D Power Core Modification: Diagnostic System
+Vespa II, Qty: 3 (Drone Bay)
+

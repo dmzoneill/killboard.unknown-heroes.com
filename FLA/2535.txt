@@ -1,0 +1,26 @@
+2007.02.19 03:43
+
+Victim: Clavain Treesmighter
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Destroyed: Badger
+System: DO6H-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Clorinda (laid the final blow)
+Security: 4.8
+Alliance: None
+Corp: Halfwits
+Ship: Drake
+Weapon: Havoc Heavy Missile
+
+Name: illusha
+Security: -1.7
+Alliance: None
+Corp: Halfwits
+Ship: Rupture
+Weapon: Rupture
+
+

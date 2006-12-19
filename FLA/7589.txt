@@ -1,0 +1,19 @@
+2006.09.22 15:47
+
+Victim: KPACAB4Er
+Alliance: R.I.S.K
+Corp: Russian Specnaz
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Oldin Relic (laid the final blow)
+Security: 1.3
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Moa
+Weapon: 250mm Compressed Coil Gun I
+
+

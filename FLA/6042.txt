@@ -1,0 +1,71 @@
+2006.11.06 17:23
+
+Victim: Frwind
+Alliance: None
+Corp: WarBirds
+Destroyed: Rupture
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Formosus Funus
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: TiMeZeRo225 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: J.I.T. Enterprises
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+Name: Dog Cancer
+Security: 1.4
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Crow
+Weapon: Fleeting Warp Scrambler I
+
+Name: SleepyOSU
+Security: 4.4
+Alliance: Freelancer Alliance
+Corp: Sin-X Inc.
+Ship: Vexor
+Weapon: Heavy Electron Blaster I
+
+Name: Wousr
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: LizzyD
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: Midiana
+Security: 1.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Dominix
+Weapon: Heavy 'Knave' I Energy Drain
+
+
+Destroyed items:
+
+Miner I
+Scourge Heavy Missile, Qty: 25
+Heavy Missile Launcher I
+Survey Scanner I
+Kinetic Deflection Amplifier I
+Obsidian Ochre, Qty: 3 (Cargo)
+Mining Drone I (Drone Bay)
+

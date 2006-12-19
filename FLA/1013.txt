@@ -1,0 +1,173 @@
+2007.03.03 05:05
+
+Victim: Tull
+Alliance: Gunboat Diplomacy
+Corp: GalacTECH Unlimited
+Destroyed: Harbinger
+System: 3-FKCZ
+Security: 0.0
+
+Involved parties:
+
+Name: KROTCHYtheKLOWN
+Security: 4.1
+Alliance: EVE Animal Control
+Corp: F.R.E.E. Explorer
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: THRASHER23
+Security: -0.9
+Alliance: RAZOR Alliance
+Corp: Cutting Edge Incorporated
+Ship: Megathron
+Weapon: Megathron
+
+Name: Scylla V
+Security: 4.8
+Alliance: Imperial Republic Of the North
+Corp: VentureCorp
+Ship: Hyperion
+Weapon: 425mm Railgun II
+
+Name: Minthos
+Security: 2.9
+Alliance: Morsus Mihi
+Corp: 4S Corporation
+Ship: Hurricane
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Chuck Dawg (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Beldarius
+Security: 5.0
+Alliance: Ekliptika
+Corp: MetaForge
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Zimi Vlasic
+Security: 2.6
+Alliance: EVE Animal Control
+Corp: F.R.E.E. Explorer
+Ship: Cyclone
+Weapon: Cyclone
+
+Name: Amarazo
+Security: 0.1
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Vagabond
+Weapon: Havoc Heavy Missile
+
+Name: Chequrself
+Security: 1.1
+Alliance: RAZOR Alliance
+Corp: Cutting Edge Incorporated
+Ship: Megathron
+Weapon: Megathron
+
+Name: xRyokenx
+Security: -1.1
+Alliance: RAZOR Alliance
+Corp: Roving Guns Inc.
+Ship: Stabber
+Weapon: Stabber
+
+Name: Comradical
+Security: 5.1
+Alliance: THE R0CK
+Corp: The Keep
+Ship: Lachesis
+Weapon: Havoc Heavy Missile
+
+Name: xzo
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Brutix
+Weapon: Tracking Disruptor II
+
+Name: Lucian Sulla
+Security: 4.9
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Ares
+Weapon: Ares
+
+Name: Elfaen Ethenwe
+Security: 1.3
+Alliance: None
+Corp: Eternal Rising
+Ship: Crow
+Weapon: Sabretooth Light Missile
+
+Name: Boliknar
+Security: 5.0
+Alliance: Hydra Alliance
+Corp: The Shadow Order
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: JFxSummoner
+Security: 3.6
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Eagle
+Weapon: Bloodclaw Light Missile
+
+Name: Tyrathan Daerwin
+Security: 2.5
+Alliance: Pure.
+Corp: Solarflare Heavy Industries
+Ship: Ishkur
+Weapon: Warrior II
+
+Name: Asif BADKARMA
+Security: 4.2
+Alliance: RAZOR Alliance
+Corp: DAB
+Ship: Arazu
+Weapon: Phased Muon Sensor Disruptor I
+
+Name: Vaprak Valkier
+Security: 5.0
+Alliance: Pure.
+Corp: J.H.E.N.R
+Ship: Thorax
+Weapon: Thorax
+
+Name: Sky Net
+Security: 4.9
+Alliance: RAZOR Alliance
+Corp: Thundercats
+Ship: Dominix
+Weapon: Heavy Diminishing Power System Drain I
+
+Name: Rytir
+Security: 4.9
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Drake
+Weapon: Advanced 'Limos' Heavy Missile Bay I
+
+
+Destroyed items:
+
+Heavy Pulse Laser II
+Heavy Pulse Laser II
+Heavy Pulse Laser II
+Scorch M
+Scorch M
+Scorch M
+Scorch M
+Scorch M
+Sensor Booster II
+Energized Adaptive Nano Membrane II
+Energized Reactive Membrane II
+

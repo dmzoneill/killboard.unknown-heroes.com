@@ -1,0 +1,61 @@
+2006.12.12 20:03
+
+Victim: Elarra
+Alliance: None
+Corp: 0utbreak
+Destroyed: Lachesis
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Hojo Norem
+Security: 3.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Ferox
+Weapon: Ferox
+
+Name: GrandMastaXP
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Eagle
+Weapon: Eagle
+
+Name: 
+Security: 1.6
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Vexor
+Weapon: Vespa I
+
+Name: wrecklessintent (laid the final blow)
+Security: 0.2
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Rupture
+Weapon: Flameburst Light Missile
+
+Name: cathedrall
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Rokh
+Weapon: Vespa II
+
+
+Destroyed items:
+
+250mm Railgun II
+250mm Railgun II
+Havoc Heavy Missile, Qty: 33
+XR-3200 Heavy Missile Bay
+10MN Afterburner II
+J5 Prototype Warp Inhibitor I
+Remote Sensor Dampener II
+Remote Sensor Dampener II
+Uranium Charge M, Qty: 1247 (Cargo)
+Spike M, Qty: 1014 (Cargo)
+Thunderbolt Heavy Missile, Qty: 925 (Cargo)
+

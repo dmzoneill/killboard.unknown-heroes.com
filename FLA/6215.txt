@@ -1,0 +1,54 @@
+2006.11.10 19:29
+
+Victim: Gidzoo Whoosch
+Alliance: None
+Corp: Marquie-X Corp
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Cazziel
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Taranis
+Weapon: Taranis
+
+Name: LiBraga (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Eagle
+Weapon: 250mm Prototype I Gauss Gun
+
+Name: Zalamus
+Security: 4.2
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Ishkur
+Weapon: Fleeting Warp Scrambler I
+
+Name: Verild
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Rook
+Weapon: ECM - Multispectral Jammer II
+
+Name: Minesweeper
+Security: 3.7
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Jaguar
+Weapon: 250mm Light 'Scout' Artillery I
+
+Name: Elfaen Ethenwe
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+

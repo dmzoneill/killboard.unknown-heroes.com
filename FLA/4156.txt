@@ -1,0 +1,33 @@
+2007.04.03 00:44
+
+Victim: Alieness
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Destroyed: Capsule
+System: F7C-H0
+Security: 0.0
+
+Involved parties:
+
+Name: Magnelien
+Security: 4.3
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Crow
+Weapon: Phalanx Rocket
+
+Name: Thyago (laid the final blow)
+Security: 5.0
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Ishkur
+Weapon: Hobgoblin II
+
+Name: Erikel
+Security: 4.5
+Alliance: YouWhat
+Corp: Cosmic Odyssey
+Ship: Myrmidon
+Weapon: 150mm Railgun II
+
+

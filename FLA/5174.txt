@@ -1,0 +1,70 @@
+2007.04.23 17:22
+
+Victim: Erik Morkai
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Malediction
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Ghu'ru Talozan
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Catalyst
+Weapon: Catalyst
+
+Name: Magic Mazuma
+Security: 0.1
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Rifter
+Weapon: Stasis Webifier I
+
+Name: Mocuker (laid the final blow)
+Security: 0.2
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Caracal
+Weapon: Flameburst Light Missile
+
+Name: Dana Foxworth
+Security: 3.7
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Thrasher
+Weapon: Thrasher
+
+Name: Minisoza
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Taranis
+Weapon: Taranis
+
+Name: Rhaall
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Executioner
+Weapon: Warp Scrambler I
+
+
+Destroyed items:
+
+Gatling Pulse Laser II
+Scorch S
+Scorch S
+Gremlin Javelin Rocket, Qty: 40
+Small 'Accommodation' Vestment Reconstructer I
+Heat Sink II
+Scorch S (Cargo)
+Conflagration S, Qty: 3 (Cargo)
+Gremlin Rocket, Qty: 212 (Cargo)
+Gremlin Javelin Rocket, Qty: 153 (Cargo)
+Phalanx Rage Rocket, Qty: 100 (Cargo)
+Thorn Javelin Rocket, Qty: 300 (Cargo)
+Gremlin Rage Rocket, Qty: 200 (Cargo)
+

@@ -1,0 +1,94 @@
+2007.03.21 21:44
+
+Victim: Hallonet
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Thorax
+System: O-CNPR
+Security: 0.0
+
+Involved parties:
+
+Name: MC Alfritz
+Security: 3.7
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Muninn
+Weapon: Muninn
+
+Name: Vim Longhill
+Security: 4.6
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Drake
+Weapon: Havoc Fury Heavy Missile
+
+Name: wph0r (laid the final blow)
+Security: 4.5
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Drake
+Weapon: Thunderbolt Heavy Missile
+
+Name: Dacen Chilar
+Security: 3.6
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Raven
+Weapon: Paradise Precision Cruise Missile
+
+Name: Helmi
+Security: 3.1
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Rupture
+Weapon: Faint Warp Prohibitor I
+
+Name: Apoc77
+Security: 5.0
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Rook
+Weapon: Sabretooth Light Missile
+
+Name: Lycra
+Security: -0.2
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Stabber
+Weapon: Heavy Assault Missile Launcher I
+
+Name: terrak
+Security: 1.1
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Cyclone
+Weapon: Cyclone
+
+Name: Thyrion Paulus
+Security: 4.9
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Sacrilege
+Weapon: Focused Medium Pulse Laser II
+
+Name: GordonShumway
+Security: 0.7
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Flycatcher
+Weapon: Faint Warp Prohibitor I
+
+
+Destroyed items:
+
+Small Nosferatu I
+Large Azeotropic Ward Salubrity I
+Large Azeotropic Ward Salubrity I
+Type-D Power Core Modification: Shield Power Relay
+Type-D Power Core Modification: Shield Power Relay
+Local Power Plant Manager: Reaction Shield Power Relay I
+Corpse, Qty: 7 (Cargo)
+Y-S8 Hydrocarbon I Afterburners (Cargo)
+Vespa I (Drone Bay)
+

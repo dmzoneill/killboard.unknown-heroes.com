@@ -1,0 +1,24 @@
+2006.10.05 01:54
+
+Victim: seemetalk
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Destroyed: Rifter
+System: Ibura
+Security: 0.6
+
+Involved parties:
+
+Name: Caol (laid the final blow)
+Security: 0.0
+Alliance: None
+Corp: Privateers
+Ship: Stabber
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+1MN MicroWarpdrive I
+Small Capacitor Battery I
+

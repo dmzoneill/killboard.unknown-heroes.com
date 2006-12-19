@@ -1,0 +1,32 @@
+2007.04.08 06:35
+
+Victim: Asa Gunnarsson
+Alliance: Freelancer Alliance
+Corp: ACCORD Industries
+Destroyed: Caracal
+System: P-2TTL
+Security: 0.0
+
+Involved parties:
+
+Name: Rhayvn (laid the final blow)
+Security: 4.5
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Abaddon
+Weapon: Tachyon Beam Laser II
+
+
+Destroyed items:
+
+Terror Assault Missile, Qty: 294
+Torrent Assault Missile, Qty: 294
+'Arbalest' Heavy Assault Missile Launcher I
+'Arbalest' Heavy Assault Missile Launcher I
+Medium Subordinate Screen Stabilizer I
+Monopropellant I Hydrazine Boosters
+'Langour' Drive Disruptor I
+Torrent Assault Missile, Qty: 1391 (Cargo)
+Fulmination Assault Missile, Qty: 1442 (Cargo)
+Terror Assault Missile, Qty: 1377 (Cargo)
+

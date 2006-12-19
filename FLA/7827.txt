@@ -1,0 +1,59 @@
+2006.09.06 15:14
+
+Victim: Karas Rabus
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Destroyed: Rupture
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: RuSBO (laid the final blow)
+Security: 0.4
+Alliance: R.I.S.K
+Corp: FIGHTER'S WITHOUT RULES
+Ship: Armageddon
+Weapon: Mega Modulated Energy Beam I
+
+Name: Kuto
+Security: 2.8
+Alliance: R.I.S.K
+Corp: GOLDEN TAURUS
+Ship: Flycatcher
+Weapon: Bloodclaw Light Missile
+
+Name: hybr
+Security: 5.0
+Alliance: R.I.S.K
+Corp: The First Foundation
+Ship: Scorpion
+Weapon: ECM - Multispectral Jammer II
+
+Name: ALIEN GTR
+Security: 0.1
+Alliance: R.I.S.K
+Corp: SolaR KillerS
+Ship: Ferox
+Weapon: Warp Disruptor I
+
+Name: AHAPXUCT
+Security: -0.6
+Alliance: R.I.S.K
+Corp: SolaR KillerS
+Ship: Apocalypse
+Weapon: Heavy 'Ghoul' Energy Siphon I
+
+
+Destroyed items:
+
+280mm Howitzer Artillery II
+280mm Howitzer Artillery II
+Tremor S, Qty: 40
+Sabretooth Light Missile, Qty: 69
+Warp Disruptor I
+Medium Armor Repairer II
+Warp Core Stabilizer I
+Warp Core Stabilizer I
+Acolyte I, Qty: 2 (Drone Bay)
+

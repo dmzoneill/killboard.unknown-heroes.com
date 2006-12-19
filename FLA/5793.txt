@@ -1,0 +1,60 @@
+2006.10.21 02:33
+
+Victim: ChefAce
+Alliance: Sparta Alliance
+Corp: Lacedaemon.
+Destroyed: Eagle
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: digital oxygen (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Deimos
+Weapon: Heavy Electron Blaster II
+
+Name: Danielson1012
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Crow
+Weapon: Gremlin Rocket
+
+Name: Fugnut
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Crow
+Weapon: Gremlin Rocket
+
+Name: BladeMos
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Falcon
+Weapon: Scourge Heavy Missile
+
+Name: Swanny231
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Raptor
+Weapon: Raptor
+
+
+Destroyed items:
+
+250mm Railgun II
+250mm Railgun II
+Antimatter Charge M, Qty: 38
+Bloodclaw Light Missile, Qty: 71
+'Arbalest' Assault Missile Launcher
+Sensor Booster II
+Sensor Booster II
+Tracking Computer II
+Spike M, Qty: 4888 (Cargo)
+Sabretooth Light Missile, Qty: 394 (Cargo)
+

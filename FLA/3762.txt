@@ -1,0 +1,26 @@
+2007.03.31 08:32
+
+Victim: Guy Caldar
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Destroyed: Capsule
+System: P-2TTL
+Security: 0.0
+
+Involved parties:
+
+Name: PMolkenthin (laid the final blow)
+Security: -0.7
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+Name: Pychian Vanervi
+Security: -0.5
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Crow
+Weapon: Rocket Launcher II
+
+

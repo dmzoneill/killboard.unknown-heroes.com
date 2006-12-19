@@ -1,0 +1,19 @@
+2006.11.09 00:56
+
+Victim: Unholy Qabalist
+Alliance: None
+Corp: The Fetts
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Voyageur (laid the final blow)
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Ship: Rapier
+Weapon: 720mm Howitzer Artillery II
+
+

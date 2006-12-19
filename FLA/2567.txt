@@ -1,0 +1,39 @@
+2007.02.22 21:34
+
+Victim: Praetorian Mardou
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Destroyed: Falcon
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: WarGod (laid the final blow)
+Security: -0.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Curse
+Weapon: Vespa II
+
+Name: XxAngelxX
+Security: -1.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Curse
+Weapon: Vespa II
+
+
+Destroyed items:
+
+Antimatter Charge S, Qty: 110
+Snoop Scanner Probe I, Qty: 39
+Recon Probe Launcher I
+Large Azeotropic Ward Salubrity I
+Warp Disruptor II
+ECM - Multispectral Jammer II
+Co-Processor II
+Liquid Ozone, Qty: 400 (Cargo)
+Spook Scanner Probe I, Qty: 13 (Cargo)
+Fathom Scanner Probe I, Qty: 174 (Cargo)
+

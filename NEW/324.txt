@@ -1,0 +1,66 @@
+2007.03.10 21:53
+
+Victim: Phran Za
+Alliance: Chorus of Dawn
+Corp: Infinite Style Incorporated
+Destroyed: Caracal
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: IDesert FoxI
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: WolfRavage (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Hyperion
+Weapon: 425mm Railgun I
+
+Name: mne lee
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Caracal
+Weapon: Havoc Heavy Missile
+
+Name: Eleri Bree
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Taranis
+Weapon: Warrior II
+
+Name: SniperMcBob
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Raven
+Weapon: Remote Sensor Dampener II
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 59
+Thunderbolt Heavy Missile, Qty: 28
+Advanced 'Limos' Heavy Missile Bay I
+SV-2000 Assault Missile Bay
+Medium Subordinate Screen Stabilizer I
+10MN Afterburner I
+Ditrigonal Thermal Barrier Crystallization I
+'Abandon' Targeting Disruptor I
+Signal Amplifier I
+Bloodclaw Light Missile, Qty: 500 (Cargo)
+Sabretooth Light Missile, Qty: 492 (Cargo)
+Piranha Light Missile, Qty: 300 (Cargo)
+Scourge Heavy Missile, Qty: 62 (Cargo)
+Widowmaker Heavy Missile, Qty: 2000 (Cargo)
+Thunderbolt Heavy Missile, Qty: 1340 (Cargo)
+Havoc Heavy Missile, Qty: 1977 (Cargo)
+Acolyte I (Drone Bay)

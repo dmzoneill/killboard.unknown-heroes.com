@@ -1,0 +1,35 @@
+2007.03.31 22:49
+
+Victim: Darc Kaahar
+Alliance: Freelancer Alliance
+Corp: Feel Good Inc.
+Destroyed: Celestis
+System: Lermireve
+Security: 0.3
+
+Involved parties:
+
+Name: N'rok (laid the final blow)
+Security: -9.1
+Alliance: None
+Corp: Custodis Silenti
+Ship: Hurricane
+Weapon: 220mm Vulcan AutoCannon II
+
+
+Destroyed items:
+
+200mm Railgun I
+Tungsten Charge M, Qty: 38
+Iron Charge M, Qty: 28
+J5 Prototype Warp Inhibitor I
+Phased Muon Sensor Disruptor I
+Iron Charge S, Qty: 42 (Cargo)
+Plutonium Charge M, Qty: 200 (Cargo)
+Lead Charge M, Qty: 189 (Cargo)
+Tungsten Charge M, Qty: 20 (Cargo)
+Iron Charge M, Qty: 231 (Cargo)
+Antimatter Charge M, Qty: 100 (Cargo)
+Hobgoblin II (Drone Bay)
+Hammerhead II, Qty: 2 (Drone Bay)
+

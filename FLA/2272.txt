@@ -1,0 +1,55 @@
+2007.02.04 01:21
+
+Victim: sakana
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Destroyed: Taranis
+System: 1IX-C0
+Security: 0.0
+
+Involved parties:
+
+Name: maria stallion
+Security: 3.7
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Nighthawk
+Weapon: Heavy Missile Launcher II
+
+Name: Gismork (laid the final blow)
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Scorpion
+Weapon: Flameburst Light Missile
+
+Name: Puls4r
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Claymore
+Weapon: Piranha Precision Light Missile
+
+Name: sageO
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Eagle
+Weapon: Eagle
+
+Name: Nira Li
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Harbinger
+Weapon: Harbinger
+
+
+Destroyed items:
+
+125mm 'Scout' I Accelerator Cannon
+Iridium Charge S, Qty: 80
+Beta Hull Mod Inertial Stabilizers
+Beta Hull Mod Inertial Stabilizers
+Corpse (Cargo)
+

@@ -1,0 +1,37 @@
+2007.04.17 01:35
+
+Victim: DrunkenOne
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Destroyed: Claw
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Aridante Lemure (laid the final blow)
+Security: 1.2
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Thrasher
+Weapon: 280mm Howitzer Artillery II
+
+Name: Ezeikiel
+Security: 0.6
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Vengeance
+Weapon: Vengeance
+
+
+Destroyed items:
+
+250mm Light Artillery Cannon II
+250mm Light Artillery Cannon II
+Fusion S, Qty: 27
+Phalanx Rocket, Qty: 30
+'Arbalest' Rocket Launcher I
+Catalyzed Cold-Gas I Arcjet Thrusters
+Fleeting Warp Scrambler I
+Signal Amplifier II
+

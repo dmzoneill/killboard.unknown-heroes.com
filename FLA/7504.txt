@@ -1,0 +1,46 @@
+2006.09.10 16:33
+
+Victim: dr SHAMAN
+Alliance: R.I.S.K
+Corp: ReD eYe Inc.
+Destroyed: Merlin
+System: X-7OMU
+Security: 0.0
+
+Involved parties:
+
+Name: vladdy2
+Security: 3.4
+Alliance: CORE.
+Corp: VentureCorp
+Ship: Huginn
+Weapon: Scourge Precision Heavy Missile
+
+Name: Munch (laid the final blow)
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Armageddon
+Weapon: Tachyon Beam Laser II
+
+Name: geewiz
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Eris
+Weapon: 125mm Railgun II
+
+Name: Oldin Relic
+Security: 1.3
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Moa
+Weapon: Upgraded 'Limos' Standard Missile Bay I
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 39
+Upgraded 'Limos' Standard Missile Bay I
+Upgraded 'Limos' Standard Missile Bay I
+

@@ -1,0 +1,54 @@
+2006.08.23 20:15
+
+Victim: Vahearun
+Alliance: Freelancer Alliance
+Corp: Veturi
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Murdoch Morf
+Security: 2.7
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Harpy
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+Name: Kakanur (laid the final blow)
+Security: 0.0
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Absolution
+Weapon: Heavy Beam Laser II
+
+Name: Axl Alien
+Security: -2.4
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: Misha Mosqito
+Security: 2.4
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Eris
+Weapon: Eris
+
+Name: Morkula Paldanous
+Security: 5.0
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Curse
+Weapon: Tracking Disruptor II
+
+Name: ArchenTheGreat
+Security: -1.8
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Lachesis
+Weapon: 200mm Railgun II
+
+

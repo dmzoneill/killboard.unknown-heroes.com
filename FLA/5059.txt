@@ -1,0 +1,36 @@
+2007.04.21 05:11
+
+Victim: Aridante Lemure
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Destroyed: Thrasher
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Lyra Sy (laid the final blow)
+Security: 5.0
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+
+Destroyed items:
+
+280mm Howitzer Artillery I
+250mm Light Artillery Cannon I
+Nuclear S, Qty: 25
+EMP S
+EMP S
+EMP S
+EMP S
+EMP S
+EMP S
+EMP S
+Sabretooth Light Missile, Qty: 40
+Sensor Booster I
+EMP S, Qty: 500 (Cargo)
+Sabretooth Light Missile, Qty: 100 (Cargo)
+

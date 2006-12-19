@@ -1,0 +1,92 @@
+2007.05.05 04:34
+
+Victim: TroNaaR
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Dominix
+System: RO0-AF
+Security: 0.0
+
+Involved parties:
+
+Name: Dominixa
+Security: 5.0
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Pokerizer
+Security: 1.7
+Alliance: Aftermath Alliance
+Corp: Pyrrhus Sicarii
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Darinaaz Miles
+Security: 5.0
+Alliance: FATAL Alliance
+Corp: Chosen Path
+Ship: Vexor
+Weapon: Vexor
+
+Name: Hlaoroo
+Security: 3.1
+Alliance: FATAL Alliance
+Corp: Free Mercenaries Union
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: Sister Bliss (laid the final blow)
+Security: -3.1
+Alliance: FATAL Alliance
+Corp: The Wild Hunt
+Ship: Harpy
+Weapon: 150mm Compressed Coil Gun I
+
+Name: Silent Killers
+Security: 2.9
+Alliance: FATAL Alliance
+Corp: FATAL REVELATIONS
+Ship: Thrasher
+Weapon: Thrasher
+
+Name: uoY delliK
+Security: -1.8
+Alliance: FATAL Alliance
+Corp: FATAL REVELATIONS
+Ship: Wolf
+Weapon: 250mm Light Artillery Cannon II
+
+Name: Chulain Y
+Security: 5.0
+Alliance: FATAL Alliance
+Corp: FATAL REVELATIONS
+Ship: Hawk
+Weapon: Thorn Javelin Rocket
+
+Name: Jedi Warrior
+Security: -1.1
+Alliance: FATAL Alliance
+Corp: Black Reign
+Ship: Malediction
+Weapon: Warp Scrambler I
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Heavy Unstable Power Fluctuator I
+Fathom Scanner Probe I, Qty: 13
+Recon Probe Launcher I
+Eutectic I Capacitor Charge Array
+X5 Prototype I Engine Enervator
+Damage Control II
+Shadow Serpentis Magnetic Plating
+Energized Adaptive Nano Membrane II
+1600mm Reinforced Titanium Plates I
+Type-D Power Core Modification: Capacitor Power Relay (Cargo)
+Warden I, Qty: 2 (Drone Bay)
+Ogre II (Drone Bay)
+Warrior II, Qty: 5 (Drone Bay)
+

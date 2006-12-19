@@ -1,0 +1,70 @@
+2007.04.27 08:44
+
+Victim: Jefski
+Alliance: None
+Corp: Brutor tribe
+Destroyed: Wolf
+System: F7C-H0
+Security: 0.0
+
+Involved parties:
+
+Name: Calvin Andros
+Security: 1.9
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Brutix
+Weapon: Regulated Neutron Phase Cannon I
+
+Name: La 'Kra
+Security: 1.1
+Alliance: Guardian Federation
+Corp: KULT Production
+Ship: Stabber
+Weapon: Stabber
+
+Name: The Cade (laid the final blow)
+Security: 1.9
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Brutix
+Weapon: Anode Neutron Particle Cannon I
+
+Name: Draconian Arcane
+Security: -2.5
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Tempest
+Weapon: Cataclysm Cruise Missile
+
+Name: Esee
+Security: 5.0
+Alliance: Guardian Federation
+Corp: KULT Production
+Ship: Claw
+Weapon: 200mm AutoCannon II
+
+Name: Caer Dallben
+Security: 1.9
+Alliance: Dusk and Dawn
+Corp: Die Apokalyptischen Reiter
+Ship: Taranis
+Weapon: 125mm 'Scout' I Accelerator Cannon
+
+
+Destroyed items:
+
+200mm AutoCannon II
+200mm AutoCannon II
+Barrage S, Qty: 120
+Thorn Rocket, Qty: 30
+1MN Afterburner II
+Faint Epsilon Warp Prohibitor I
+Shadow Serpentis Reactive Plating
+200mm Reinforced Rolled Tungsten Plates I
+Faint Warp Prohibitor I (Cargo)
+EMP S, Qty: 2260 (Cargo)
+Barrage S, Qty: 9430 (Cargo)
+Piranha Light Missile, Qty: 300 (Cargo)
+Thorn Rocket, Qty: 2848 (Cargo)
+

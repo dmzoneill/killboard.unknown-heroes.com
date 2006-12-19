@@ -1,0 +1,54 @@
+2007.02.18 03:53
+
+Victim: Largos Blade
+Alliance: None
+Corp: L.Blade Associates
+Destroyed: Capsule
+System: O1Y-ED
+Security: 0.0
+
+Involved parties:
+
+Name: ivan rumanov (laid the final blow)
+Security: 0.3
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Cerberus
+Weapon: Scourge Fury Heavy Missile
+
+Name: ivan rumanov (laid the final blow)
+Security: 0.3
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Cerberus
+Weapon: Scourge Fury Heavy Missile
+
+Name: dentist bob
+Security: -3.1
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Omen
+Weapon: Omen
+
+Name: dentist bob
+Security: -3.1
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Omen
+Weapon: Omen
+
+Name: Jesnens LoveSlave
+Security: -0.3
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Helios
+Weapon: Hobgoblin I
+
+Name: Jesnens LoveSlave
+Security: -0.3
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Helios
+Weapon: Hobgoblin I
+
+

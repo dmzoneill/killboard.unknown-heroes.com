@@ -1,0 +1,54 @@
+2007.04.08 18:17
+
+Victim: Bendak Star
+Alliance: None
+Corp: School of Applied Knowledge
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Sir Pip
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Cataclysm Enterprises
+Ship: Sabre
+Weapon: 200mm AutoCannon II
+
+Name: Varalonia
+Security: 2.3
+Alliance: Darklite inc Alliance
+Corp: Darklite inc
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: Jarath Abyss (laid the final blow)
+Security: 4.2
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Ship: Thorax
+Weapon: 150mm Railgun II
+
+Name: kakakarrr
+Security: -1.2
+Alliance: DeStInY.
+Corp: The Knights Of Camelot
+Ship: Rifter
+Weapon: Warp Disruptor I
+
+Name: Kerdrak
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Vengeance
+Weapon: Gatling Pulse Laser II
+
+Name: Cho Solo
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Deimos
+Weapon: Heavy Neutron Blaster II
+
+

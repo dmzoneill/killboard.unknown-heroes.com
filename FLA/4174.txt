@@ -1,0 +1,87 @@
+2007.04.03 14:55
+
+Victim: Toxic Traveller
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Destroyed: Raven
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Sivona (laid the final blow)
+Security: -1.1
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Eos
+Weapon: Ogre II
+
+Name: Tomas Ysidro
+Security: 1.3
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Myrmidon
+Weapon: Myrmidon
+
+Name: MegaJ
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Pilgrim
+Weapon: Ogre II
+
+Name: Cabadrin
+Security: 3.8
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Arazu
+Weapon: Hammerhead I
+
+Name: Rukaz
+Security: 3.1
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Sabre
+Weapon: Sabre
+
+Name: ZaKma
+Security: -0.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Wolf
+Weapon: Wolf
+
+
+Destroyed items:
+
+Heavy Nosferatu I
+Inferno Torpedo
+Inferno Torpedo
+Inferno Torpedo
+Inferno Torpedo
+Inferno Torpedo
+Inferno Torpedo
+Inferno Torpedo
+Inferno Torpedo
+Mjolnir Torpedo
+Mjolnir Torpedo
+Mjolnir Torpedo
+Mjolnir Torpedo
+Mjolnir Torpedo
+Mjolnir Torpedo
+Mjolnir Torpedo
+Mjolnir Torpedo
+Juggernaut Torpedo, Qty: 16
+ZW-4100 Siege Missile Bay
+ZW-4100 Siege Missile Bay
+ZW-4100 Siege Missile Bay
+ZW-4100 Siege Missile Bay
+Large F-S9 Regolith Shield Induction
+F-b10 Nominal Capacitor Regenerator
+Ballistic Control System I
+Mark I Generator Refitting: Diagnostic System
+Beta Reactor Control: Diagnostic System I
+Mjolnir Torpedo, Qty: 247 (Cargo)
+'Repose' I Core Compensation, Qty: 2 (Cargo)
+Vespa I (Drone Bay)
+

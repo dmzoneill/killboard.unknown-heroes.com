@@ -1,0 +1,32 @@
+2007.04.21 00:52
+
+Victim: Rhaall
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Executioner
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Lyra Sy (laid the final blow)
+Security: 5.0
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Thanatos
+Weapon: Templar
+
+Name: Ghost Hughdidit
+Security: 3.1
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Thanatos
+Weapon: Templar
+
+
+Destroyed items:
+
+Initiated Warp Jammer I
+Energized Adaptive Nano Membrane I
+Capacitor Power Relay I
+

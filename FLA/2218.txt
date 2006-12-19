@@ -1,0 +1,67 @@
+2007.01.28 18:09
+
+Victim: Daressek
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Blackbird
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: RagedyMan
+Security: 1.9
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Nighthawk
+Weapon: Heavy Missile Launcher II
+
+Name: Lucy Fur
+Security: 2.8
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Vagabond
+Weapon: Warrior II
+
+Name: Letum Omnis
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Hyperion
+Weapon: Hyperion
+
+Name: Puls4r
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: Biosourcy
+Security: 4.8
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: Havvok (laid the final blow)
+Security: 1.9
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Dominix
+Weapon: 150mm Railgun II
+
+
+Destroyed items:
+
+Thunderbolt Heavy Missile, Qty: 84
+Heavy Missile Launcher I
+Large Shield Extender I
+Cap Booster 400
+Cap Booster 400
+ECM - Multispectral Jammer I
+ECM - Multispectral Jammer I
+ECM - Multispectral Jammer I
+Ballistic Control System I
+Thunderbolt Heavy Missile, Qty: 873 (Cargo)
+

@@ -1,0 +1,85 @@
+2007.03.19 05:36
+
+Victim: Hedeon Mishenka
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Harbinger
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Xoduse
+Security: 0.4
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Hyperion
+Weapon: Hyperion
+
+Name: Lord Revent
+Security: 1.1
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Maelstrom
+Weapon: Maelstrom
+
+Name: Sexorella hotz
+Security: 5.0
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Raven
+Weapon: Wrath Cruise Missile
+
+Name: VDV Bru37 (laid the final blow)
+Security: 5.0
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Raven
+Weapon: Inferno Torpedo
+
+Name: Nipplator
+Security: 2.9
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Balcura
+Security: 5.0
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Vasili Z
+Security: 0.4
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Huginn
+Weapon: Widowmaker Heavy Missile
+
+Name: xargis
+Security: 5.0
+Alliance: YouWhat
+Corp: Pringles Inc.
+Ship: Unknown
+Weapon: 'Hypnos' Multispectral ECM I
+
+
+Destroyed items:
+
+Standard M
+Standard M
+Standard M
+Eutectic I Capacitor Charge Array
+Eutectic I Capacitor Charge Array
+Tracking Computer II
+Damage Control I
+Medium Armor Repairer II
+Energized Adaptive Nano Membrane II
+Armor Explosive Hardener II
+Armor Thermic Hardener II
+Aurora M, Qty: 4 (Cargo)
+Gleam M, Qty: 4 (Cargo)
+Hammerhead I, Qty: 2 (Drone Bay)
+

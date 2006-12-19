@@ -1,0 +1,55 @@
+2006.11.14 17:30
+
+Victim: Plaetean
+Alliance: Blood Raiders Alliance
+Corp: Murder-Death-Kill
+Destroyed: Megathron
+System: Aunenen
+Security: 0.4
+
+Involved parties:
+
+Name: Elfaen Ethenwe (laid the final blow)
+Security: -1.3
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Raven
+Weapon: Bane Javelin Torpedo
+
+Name: jacass66
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Dominix
+Weapon: Bouncer I
+
+Name: Aeryn Calbert
+Security: 1.4
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Scorpion
+Weapon: Shock 'Limos' Siege Missile Bay I
+
+
+Destroyed items:
+
+Modal Mega Ion Particle Accelerator I
+Modal Mega Ion Particle Accelerator I
+Regulated Mega Ion Phase Cannon I
+Regulated Mega Ion Phase Cannon I
+Antimatter Charge L, Qty: 240
+Fleeting Propulsion Inhibitor I
+Cap Booster 800
+Cap Booster 800
+Cap Booster 800
+Cap Booster 800
+Sensor Booster I
+Large 'Accommodation' Vestment Reconstructer I
+Energized Adaptive Nano Membrane I
+Armor Thermic Hardener I
+Armor Explosive Hardener I
+Armor Kinetic Hardener I
+Large Armor Repairer II (Cargo)
+Antimatter Charge L, Qty: 1064 (Cargo)
+Ogre I, Qty: 3 (Drone Bay)
+

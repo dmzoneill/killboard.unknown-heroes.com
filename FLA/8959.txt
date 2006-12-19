@@ -1,0 +1,111 @@
+2006.12.21 21:16
+
+Victim: Kryton55
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Caracal
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Plague Rexus (laid the final blow)
+Security: 5.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Arazu
+Weapon: 250mm Railgun II
+
+Name: Jenessa
+Security: 2.2
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Muninn
+Weapon: 'Arbalest' Heavy Missile Launcher
+
+Name: taylor04
+Security: -1.7
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Rapier
+Weapon: 720mm Howitzer Artillery II
+
+Name: ArchenTheGreat
+Security: -1.9
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Arazu
+Weapon: Valkyrie II
+
+Name: Phrixus Zephyr
+Security: 5.0
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Taranis
+Weapon: Hobgoblin II
+
+Name: turumbor
+Security: -1.6
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Deimos
+Weapon: Heavy Ion Blaster II
+
+Name: Darknesss
+Security: -1.2
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Ares
+Weapon: 150mm Railgun II
+
+Name: WarGod
+Security: -1.7
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Curse
+Weapon: Warrior II
+
+Name: john taylor2
+Security: 3.7
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Vexor
+Weapon: Warp Disruptor I
+
+Name: boo3916
+Security: 4.4
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Crow
+Weapon: Crow
+
+Name: Kidd Billups
+Security: -3.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Curse
+Weapon: Low Frequency Sensor Suppressor I
+
+Name: Drakin Korin
+Security: -3.0
+Alliance: None
+Corp: Evil Bandit Organisation
+Ship: Arazu
+Weapon: Phased Muon Sensor Disruptor I
+
+
+Destroyed items:
+
+Havoc Heavy Missile, Qty: 26
+Thunderbolt Heavy Missile, Qty: 26
+Scourge Heavy Missile, Qty: 26
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+Advanced 'Limos' Heavy Missile Bay I
+Advanced 'Limos' Heavy Missile Bay I
+F-b10 Nominal Capacitor Regenerator
+F-b10 Nominal Capacitor Regenerator
+Thunderbolt Heavy Missile, Qty: 67 (Cargo)
+Widowmaker Heavy Missile, Qty: 68 (Cargo)
+Havoc Heavy Missile, Qty: 67 (Cargo)
+

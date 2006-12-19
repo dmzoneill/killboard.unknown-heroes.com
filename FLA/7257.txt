@@ -1,0 +1,118 @@
+2006.07.10 21:12
+
+Victim: SexySaxe DDay
+Alliance: OPUS Alliance
+Corp: SecuWay
+Destroyed: Bestower
+System: DO6H-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Capt Cali (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: London Transport
+Ship: Cerberus
+Weapon: Thunderbolt Heavy Missile
+
+Name: Aquamundi
+Security: 2.8
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Enyo
+Weapon: Enyo
+
+Name: Stewnod
+Security: -4.8
+Alliance: Imperial Republic Of the North
+Corp: Port Royal Independent Kontractors
+Ship: Harpy
+Weapon: Harpy
+
+Name: TriggerHippy
+Security: 0.4
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Wolf
+Weapon: 280mm Howitzer Artillery II
+
+Name: casama
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Malediction
+Weapon: Malediction
+
+Name: Shiri elAzarinres
+Security: 4.1
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Caracal
+Weapon: Initiated Multispectral ECM I
+
+Name: MAD D0G
+Security: 3.5
+Alliance: Freelancer Alliance
+Corp: DEATH 0R GLORY
+Ship: Caracal
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+Name: Jaeger Orlofsson
+Security: 4.0
+Alliance: CORE.
+Corp: VentureCorp
+Ship: Manticore
+Weapon: Cruise Missile Launcher II
+
+Name: Hawk Moth
+Security: 1.5
+Alliance: CORE.
+Corp: AUS Corporation
+Ship: Heretic
+Weapon: Upgraded 'Limos' Standard Missile Bay I
+
+
+Destroyed items:
+
+Photon Scattering Field II
+Large Converse I Deflection Catalyzer (Cargo)
+Medium Peroxide I Capacitor Power Cell (Cargo)
+Medium Capacitor Battery I, Qty: 2 (Cargo)
+Medium F-4a Ld-Sulfate I Capacitor Charge Unit (Cargo)
+Medium Ohm Capacitor Reserve I, Qty: 2 (Cargo)
+Dual 250mm Railgun I, Qty: 3 (Cargo)
+Medium Capacitor Booster I, Qty: 4 (Cargo)
+Heat Dissipation Field II (Cargo)
+Invulnerability Field II (Cargo)
+ECM Burst I, Qty: 2 (Cargo)
+'Rash' ECM Emission I, Qty: 2 (Cargo)
+Titanium Sabot M, Qty: 8000 (Cargo)
+Antimatter Charge L, Qty: 200 (Cargo)
+Lead Charge L, Qty: 200 (Cargo)
+Lead Charge M, Qty: 400 (Cargo)
+Juggernaut Torpedo, Qty: 9965 (Cargo)
+Bane Torpedo, Qty: 100 (Cargo)
+FZ-3 Subversive Spatial Destabilizer ECM (Cargo)
+Gravimetric Positional ECCM Sensor System I (Cargo)
+Sensor Booster II (Cargo)
+Kinetic Deflection Amplifier II, Qty: 2 (Cargo)
+Magnetic Scattering Amplifier II (Cargo)
+Heat Dissipation Amplifier II (Cargo)
+Warp Core Stabilizer I (Cargo)
+Guristas Palladium Tag (Cargo)
+Bloodclaw Light Missile, Qty: 5960 (Cargo)
+Piranha Light Missile, Qty: 960 (Cargo)
+Havoc Heavy Missile, Qty: 3278 (Cargo)
+Scourge Heavy Missile, Qty: 2636 (Cargo)
+Paradise Cruise Missile, Qty: 300 (Cargo)
+Gremlin Rocket, Qty: 100 (Cargo)
+Foxfire Rocket, Qty: 2970 (Cargo)
+Dragon F.O.F. Cruise Missile I, Qty: 100 (Cargo)
+Dewak's Level 1 Decoder (Cargo)
+'Arbalest' Cruise Launcher I (Cargo)
+Shock 'Limos' Siege Missile Bay I (Cargo)
+Siege Missile Launcher I (Cargo)
+'Arbalest' Siege Missile Launcher, Qty: 3 (Cargo)
+'Malkuth' Siege Missile Launcher I (Cargo)
+

@@ -1,0 +1,67 @@
+2006.03.01 15:04
+
+Victim: Kimaya
+Alliance: None
+Corp: Subversion
+Destroyed: Armageddon
+System: TXW-EI
+Security: 0.0
+
+Involved parties:
+
+Name: Wodan NL (laid the final blow)
+Security: 1.1
+Alliance: Freelancer Alliance
+Corp: B.A.Y Mining and Construction Ltd
+Ship: Megathron
+Weapon: Wasp I
+
+Name: Meja
+Security: -1.6
+Alliance: Galactic Aurora
+Corp: Division Solaris
+Ship: Capsule
+Weapon: Heavy Ion Blaster II
+
+Name: Merkord Mikula
+Security: 0.7
+Alliance: Freelancer Alliance
+Corp: B.A.Y Mining and Construction Ltd
+Ship: Cyclone
+Weapon: Medium Nosferatu I
+
+Name: Durar
+Security: 1.4
+Alliance: None
+Corp: Kumovi
+Ship: Cyclone
+Weapon: Hammerhead I
+
+Name: Vlada Silni
+Security: 2.9
+Alliance: None
+Corp: Kumovi
+Ship: Cyclone
+Weapon: Infiltrator I
+
+
+Destroyed items:
+
+Heavy Modulated Energy Beam I
+Tachyon Modulated Energy Beam I
+Heavy Nosferatu I
+Multifrequency L
+Xray M
+Fixed Parallel Link-Capacitor I
+Kapteyn Sensor Array Inhibitor I
+Nanomechanical CPU Enhancer I
+N-Type Thermic Hardener I
+Dual Light Pulse Laser II (Cargo)
+Heavy Capacitor Booster I (Cargo)
+Gamma L (Cargo)
+Xray L (Cargo)
+Infrared L (Cargo)
+Radio M (Cargo)
+Microcell Nanite Kinetic Hardener I (Cargo)
+Conflagration S (Cargo)
+

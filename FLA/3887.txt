@@ -1,0 +1,26 @@
+2007.04.04 17:10
+
+Victim: Flashmob
+Alliance: None
+Corp: Eve Flashmob
+Destroyed: Ibis
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Untamed Fury (laid the final blow)
+Security: 1.2
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Hurricane
+Weapon: 720mm Howitzer Artillery II
+
+Name: pipvac
+Security: 2.8
+Alliance: DeStInY.
+Corp: Sacred Templars
+Ship: Taranis
+Weapon: Initiated Warp Jammer I
+
+

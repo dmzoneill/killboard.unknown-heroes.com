@@ -1,0 +1,24 @@
+2007.03.23 07:08
+
+Victim: shadowxp99
+Alliance: Freelancer Alliance
+Corp: Harbingers of Sarrow
+Destroyed: Badger Mark II
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Kadriel (laid the final blow)
+Security: 0.9
+Alliance: Tactical Narcotics Team
+Corp: Paradox v2.0
+Ship: Deimos
+Weapon: Modal Ion Particle Accelerator I
+
+
+Destroyed items:
+
+Non-Inertial Ballistic Screen Augmentation I
+Inertia Stabilizers I
+

@@ -1,0 +1,72 @@
+2007.04.07 20:07
+
+Victim: johanladon
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Destroyed: Omen
+System: O-CNPR
+Security: 0.0
+
+Involved parties:
+
+Name: Jero Remeau
+Security: 0.0
+Alliance: FATAL Alliance
+Corp: FATAL REVELATIONS
+Ship: Sabre
+Weapon: Sabre
+
+Name: ICoraxI
+Security: 1.1
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Rokh
+Weapon: Rokh
+
+Name: numbers (laid the final blow)
+Security: 4.1
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Zealot
+Weapon: Heavy Beam Laser II
+
+Name: Selnix
+Security: 5.0
+Alliance: Aftermath Alliance
+Corp: Master Miners
+Ship: Drake
+Weapon: Warrior II
+
+Name: CiRFiS
+Security: 3.1
+Alliance: FATAL Alliance
+Corp: FATAL REVELATIONS
+Ship: Tempest
+Weapon: 1400mm Gallium I Cannon
+
+Name: The Apocalypse
+Security: 5.0
+Alliance: Xelas Alliance
+Corp: Deadzone Innovation Enterprises
+Ship: Drake
+Weapon: Heavy Missile Launcher I
+
+Name: Charkan
+Security: 5.0
+Alliance: Aftermath Alliance
+Corp: Pyrrhus Sicarii
+Ship: Malediction
+Weapon: Tracking Disruptor II
+
+
+Destroyed items:
+
+Focused Medium Pulse Laser I
+Focused Medium Pulse Laser I
+Focused Medium Pulse Laser I
+Multifrequency M
+10MN Afterburner I
+Heat Sink II
+800mm Reinforced Rolled Tungsten Plates I
+Warrior I, Qty: 3 (Drone Bay)
+

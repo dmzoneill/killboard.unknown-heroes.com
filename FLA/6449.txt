@@ -1,0 +1,38 @@
+2006.11.14 13:06
+
+Victim: Lara Myelle
+Alliance: None
+Corp: School of Applied Knowledge
+Destroyed: Condor
+System: Aunenen
+Security: 0.4
+
+Involved parties:
+
+Name: MAD D0G
+Security: -0.9
+Alliance: None
+Corp: Ganksters Paradise
+Ship: Raven
+Weapon: Mjolnir Javelin Torpedo
+
+Name: LiBraga (laid the final blow)
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+Name: Cloudis
+Security: -10.0
+Alliance: Blood Raiders Alliance
+Corp: Murder-Death-Kill
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+
+Destroyed items:
+
+Small Capacitor Battery I
+Small Capacitor Battery I
+

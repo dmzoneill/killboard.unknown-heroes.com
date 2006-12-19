@@ -1,0 +1,33 @@
+2006.08.05 05:02
+
+Victim: Kazuki Fuse
+Alliance: None
+Corp: Nubs.
+Destroyed: Capsule
+System: C4C-Z4
+Security: 0.0
+
+Involved parties:
+
+Name: Syath
+Security: 5.0
+Alliance: O X I D E
+Corp: Special Tactics and Operations Party
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+Name: Barsak Kressel (laid the final blow)
+Security: 0.4
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Ship: Caracal
+Weapon: Havoc Heavy Missile
+
+Name: Drauge
+Security: 1.8
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Ship: Thorax
+Weapon: Stasis Webifier I
+
+

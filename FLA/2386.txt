@@ -1,0 +1,29 @@
+2007.02.09 16:39
+
+Victim: Maggallus
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Destroyed: Caracal
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Darknesss (laid the final blow)
+Security: 0.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Megathron
+Weapon: Neutron Blaster Cannon II
+
+
+Destroyed items:
+
+Widowmaker Heavy Missile, Qty: 49
+Thunderbolt Heavy Missile, Qty: 25
+Scourge Heavy Missile, Qty: 25
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Sensor Booster I
+Scourge Heavy Missile, Qty: 3783 (Cargo)
+

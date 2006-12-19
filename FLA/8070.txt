@@ -1,0 +1,29 @@
+2006.10.08 20:13
+
+Victim: Gangreen
+Alliance: Freelancer Alliance
+Corp: BGG
+Destroyed: Incursus
+System: Torrinos
+Security: 0.5
+
+Involved parties:
+
+Name: Sean Dillon (laid the final blow)
+Security: 1.5
+Alliance: None
+Corp: Privateers
+Ship: Raven
+Weapon: Cataclysm Cruise Missile
+
+
+Destroyed items:
+
+125mm 'Scout' I Accelerator Cannon
+125mm 'Scout' I Accelerator Cannon
+125mm 'Scout' I Accelerator Cannon
+Antimatter Charge S, Qty: 240
+Alumel-Wired I Sensor Augmentation
+Alumel-Wired I Sensor Augmentation
+Antimatter Charge S, Qty: 760 (Cargo)
+

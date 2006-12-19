@@ -1,0 +1,51 @@
+2006.11.18 06:23
+
+Victim: Rev Darkwing
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Raven
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Guristas Supremacist / Guristas
+
+Name: GoLdeN BoY (laid the final blow)
+Security: 1.7
+Alliance: None
+Corp: Beer Guzzling Clowns With Blasters
+Ship: Malediction
+Weapon: Gremlin Rocket
+
+Name: TheManEatingMonkey
+Security: 0.8
+Alliance: None
+Corp: Beer Guzzling Clowns With Blasters
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: Torok Nakaht
+Security: 2.2
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Claw
+Weapon: Claw
+
+
+Destroyed items:
+
+Juggernaut Torpedo, Qty: 9
+Wrath Cruise Missile, Qty: 15
+'Arbalest' Cruise Launcher I
+'Arbalest' Siege Missile Launcher
+Small Tractor Beam I
+Ballistic Deflection Field I
+'Copasetic' I Particle Field Acceleration
+Ballistic Control System I
+Power Diagnostic System I
+Mark I Generator Refitting: Reaction Control
+Juggernaut Torpedo, Qty: 1471 (Cargo)
+Cataclysm Cruise Missile, Qty: 100 (Cargo)
+Vespa I, Qty: 3 (Drone Bay)
+

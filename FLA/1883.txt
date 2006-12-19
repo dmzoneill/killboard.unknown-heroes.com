@@ -1,0 +1,38 @@
+2007.01.08 00:35
+
+Victim: DeSantis
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Manticore
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: SATAN
+Security: -0.8
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Devastator Precision Cruise Missile
+
+Name: duece duece (laid the final blow)
+Security: 5.0
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Maelstrom
+Weapon: 1400mm Howitzer Artillery II
+
+
+Destroyed items:
+
+Passive Targeter I
+Wrath Cruise Missile, Qty: 36
+Cruise Missile Launcher II
+Remote Sensor Dampener I
+Remote Sensor Dampener II
+Sensor Booster II
+Nanomechanical CPU Enhancer I
+Micro Auxiliary Power Core I
+Wrath Cruise Missile, Qty: 300 (Cargo)
+

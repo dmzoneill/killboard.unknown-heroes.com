@@ -1,0 +1,120 @@
+2007.04.08 22:11
+
+Victim: BogdanFree
+Alliance: None
+Corp: Promethean Industries
+Destroyed: Raven
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Jack Thurner (laid the final blow)
+Security: 2.6
+Alliance: DeStInY.
+Corp: Fusion Enterprises Ltd
+Ship: Armageddon
+Weapon: Tachyon Beam Laser II
+
+Name: Maker7
+Security: 1.8
+Alliance: DeStInY.
+Corp: Sacred Templars
+Ship: Eos
+Weapon: Eos
+
+Name: SSGRanger
+Security: 5.0
+Alliance: DeStInY.
+Corp: Fusion Enterprises Ltd
+Ship: Brutix
+Weapon: Brutix
+
+Name: Species8472 NL
+Security: 3.6
+Alliance: Darklite inc Alliance
+Corp: Darklite inc
+Ship: Cyclone
+Weapon: Valkyrie I
+
+Name: Meh'lindi
+Security: 4.4
+Alliance: Darklite inc Alliance
+Corp: Darklite inc
+Ship: Enyo
+Weapon: Enyo
+
+Name: fducky
+Security: 5.0
+Alliance: Darklite inc Alliance
+Corp: Darklite inc
+Ship: Caracal
+Weapon: Thunderbolt Heavy Missile
+
+Name: suddenshock
+Security: 4.0
+Alliance: Darklite inc Alliance
+Corp: Darklite inc
+Ship: Hawk
+Weapon: Hawk
+
+Name: Varalonia
+Security: 2.3
+Alliance: Darklite inc Alliance
+Corp: Darklite inc
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: Slim Jim
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Claw
+Weapon: Claw
+
+Name: Frank West
+Security: -2.2
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Rifter
+Weapon: Stasis Webifier I
+
+Name: gabla
+Security: 3.7
+Alliance: Darklite inc Alliance
+Corp: Darklite inc
+Ship: Incursus
+Weapon: Incursus
+
+Name: John Mordu
+Security: 4.3
+Alliance: DeStInY.
+Corp: Fusion Enterprises Ltd
+Ship: Merlin
+Weapon: Limited Light Ion Blaster I
+
+
+Destroyed items:
+
+250mm Prototype I Gauss Gun
+Antimatter Charge M, Qty: 39
+Cataclysm Cruise Missile, Qty: 24
+Devastator Cruise Missile, Qty: 24
+Wrath Cruise Missile, Qty: 24
+Paradise Cruise Missile, Qty: 48
+'Arbalest' Cruise Launcher I
+'Arbalest' Cruise Launcher I
+Stasis Webifier I
+Co-Processor I
+Ballistic Control System I
+Ballistic Control System I
+Antimatter Charge M, Qty: 415 (Cargo)
+Warp Core Stabilizer I (Cargo)
+Devastator Cruise Missile, Qty: 473 (Cargo)
+Cataclysm Cruise Missile, Qty: 275 (Cargo)
+Paradise Cruise Missile, Qty: 231 (Cargo)
+Salvager I (Cargo)
+Small Tractor Beam I, Qty: 2 (Cargo)
+Praetor I (Drone Bay)
+Ogre I (Drone Bay)
+

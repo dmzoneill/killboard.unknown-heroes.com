@@ -1,0 +1,76 @@
+2006.10.07 00:11
+
+Victim: Mobiius
+Alliance: None
+Corp: Deep Core Mining Inc.
+Destroyed: Merlin
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: DarkJester (laid the final blow)
+Security: 0.7
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery I
+
+Name: Seventh Star
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Jaguar
+Weapon: 250mm Light Artillery Cannon II
+
+Name: Guristas Executor / Guristas
+
+Name: TasKu
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Thorax
+Weapon: 200mm Railgun I
+
+Name: movy
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Ishkur
+Weapon: 125mm Railgun II
+
+Name: Scorpio63
+Security: 4.8
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Retribution
+Weapon: Medium Modulated Pulse Energy Beam I
+
+Name: Kyoshisan
+Security: 0.4
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Enyo
+Weapon: 125mm Railgun II
+
+Name: Kismeteer
+Security: 3.4
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Incursus
+Weapon: Warp Disruptor I
+
+Name: Cockroach
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Malediction
+Weapon: Malediction
+
+
+Destroyed items:
+
+125mm Compressed Coil Gun I
+Antimatter Charge S, Qty: 9
+EMP S, Qty: 100 (Cargo)
+

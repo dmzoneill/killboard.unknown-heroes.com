@@ -1,0 +1,47 @@
+2006.12.10 03:11
+
+Victim: Chris69
+Alliance: None
+Corp: The Scope
+Destroyed: Raven
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: FrankieG
+Security: -0.5
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Muninn
+Weapon: Acolyte I
+
+Name: Zelfor (laid the final blow)
+Security: 2.7
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Harbinger
+Weapon: Heavy Pulse Laser II
+
+Name: dastommy79
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Ferox
+Weapon: Hornet I
+
+
+Destroyed items:
+
+Salvager I, Qty: 30
+Mjolnir Torpedo, Qty: 48
+'Arbalest' Siege Missile Launcher
+'Arbalest' Siege Missile Launcher
+Small Tractor Beam I
+Heavy Electrochemical Capacitor Booster I
+Ballistic Deflection Field II
+Heat Dissipation Field II
+Explosion Dampening Field II
+Pseudoelectron Containment Field I
+Mjolnir Torpedo, Qty: 548 (Cargo)
+

@@ -1,0 +1,61 @@
+2006.09.05 18:27
+
+Victim: Kunilla
+Alliance: None
+Corp: State War Academy
+Destroyed: Condor
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Verild
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Hawk
+Weapon: Piranha Light Missile
+
+Name: implanted (laid the final blow)
+Security: 4.6
+Alliance: O X I D E
+Corp: MAJORITY
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: XxAngelxX
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Malediction
+Weapon: Malediction
+
+Name: ScallyBag
+Security: 0.0
+Alliance: O X I D E
+Corp: MAJORITY
+Ship: Kestrel
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+Name: Ne0 MaTrIx
+Security: 2.4
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Taranis
+Weapon: Taranis
+
+Name: Drakin Korin
+Security: -2.7
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Ishtar
+Weapon: Medium Diminishing Power System Drain I
+
+Name: Daressek
+Security: 0.2
+Alliance: None
+Corp: Quasar Industries
+Ship: Condor
+Weapon: Warp Disruptor I
+
+

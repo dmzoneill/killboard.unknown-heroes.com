@@ -1,0 +1,89 @@
+2007.02.16 03:18
+
+Victim: FrankieG
+Alliance: Triumvirate.
+Corp: D00M.
+Destroyed: Stabber
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Jonas123 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Rokh
+Weapon: 425mm Carbide Railgun I
+
+Name: Fugnut
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Duana
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Wolf
+Weapon: Wolf
+
+Name: smudgewales
+Security: 1.2
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Sabre
+Weapon: Sabre
+
+Name: Kelter Highfire
+Security: 1.9
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Cormorant
+Weapon: Cormorant
+
+Name: Xantheris
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Enyo
+Weapon: Rocket Launcher I
+
+Name: Barqs
+Security: 2.9
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Unknown
+Weapon: 425mm Railgun II
+
+Name: Njord V
+Security: -0.3
+Alliance: The Sundering
+Corp: Harbingers of Sarrow
+Ship: Stiletto
+Weapon: Phalanx Rocket
+
+Name: Guristas Terrorist / Guristas
+
+Name: ventura5
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Raven
+Weapon: 'Arbalest' Siege Missile Launcher
+
+
+Destroyed items:
+
+Dual 180mm AutoCannon II
+Dual 180mm AutoCannon II
+Barrage M, Qty: 284
+Sabretooth Light Missile, Qty: 156
+Assault Missile Launcher II
+Large Shield Extender II
+Type-D Altered SS Inertial Stabilizers
+Barrage M, Qty: 3271 (Cargo)
+Local Power Plant Manager: Diagnostic System I (Cargo)
+

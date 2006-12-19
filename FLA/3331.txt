@@ -1,0 +1,47 @@
+2007.03.23 16:14
+
+Victim: Wolfier
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Destroyed: Amarr Shuttle
+System: 5W3-DG
+Security: 0.0
+
+Involved parties:
+
+Name: Gordon Red
+Security: 2.0
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Heretic
+Weapon: Sabretooth Light Missile
+
+Name: SwordsOfLight
+Security: 4.9
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: The Ali
+Security: -3.2
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: volly (laid the final blow)
+Security: 3.1
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Curse
+Weapon: Warrior II
+
+Name: Eelim Garak
+Security: 1.3
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Curse
+Weapon: Warp Disruptor II
+
+

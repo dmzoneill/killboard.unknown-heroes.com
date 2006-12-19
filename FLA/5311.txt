@@ -1,0 +1,39 @@
+2007.04.24 02:27
+
+Victim: Rhaall
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Executioner
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Screamer (laid the final blow)
+Security: 0.8
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Manticore
+Weapon: Wrath Precision Cruise Missile
+
+Name: Athanasios Anastasiou
+Security: 5.0
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Crow
+Weapon: Fleeting Warp Scrambler I
+
+Name: Konson
+Security: 3.7
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Vengeance
+Weapon: J5 Prototype Warp Inhibitor I
+
+
+Destroyed items:
+
+Small Nosferatu I
+1MN MicroWarpdrive I
+Capacitor Power Relay I
+

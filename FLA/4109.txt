@@ -1,0 +1,40 @@
+2007.04.14 23:50
+
+Victim: Nariya
+Alliance: Triumvirate.
+Corp: D00M.
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Atiro Kali
+Security: 5.0
+Alliance: Darklite Alliance
+Corp: Darklite inc
+Ship: Hawk
+Weapon: Bloodclaw Light Missile
+
+Name: Wallyx (laid the final blow)
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Abaddon
+Weapon: Mega Modulated Pulse Energy Beam I
+
+Name: Kithron
+Security: 2.5
+Alliance: Darklite Alliance
+Corp: Darklite inc
+Ship: Vexor
+Weapon: Heavy Ion Blaster I
+
+Name: Frank West
+Security: -2.2
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Condor
+Weapon: Standard Missile Launcher I
+
+

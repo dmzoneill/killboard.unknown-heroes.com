@@ -1,0 +1,84 @@
+2006.10.24 20:17
+
+Victim: taylor04
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Destroyed: Raven
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Isipsia V'dak
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Uncle Fester (laid the final blow)
+Security: 5.2
+Alliance: Imperial Republic Of the North
+Corp: VentureCorp
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Ares Mars
+Security: 1.1
+Alliance: Forces of Freedom
+Corp: The Night Crew
+Ship: Apocalypse
+Weapon: Apocalypse
+
+Name: TheBelgarion
+Security: 4.4
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Fzhal
+Security: 4.8
+Alliance: Forces of Freedom
+Corp: JUDGE DREAD Inc.
+Ship: Blackbird
+Weapon: Havoc Heavy Missile
+
+Name: the Entity
+Security: 2.6
+Alliance: Forces of Freedom
+Corp: Heild Ryogaour
+Ship: Capsule
+Weapon: Heavy Missile Launcher I
+
+Name: freestrike
+Security: 5.9
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Vulture
+Weapon: 250mm Compressed Coil Gun I
+
+Name: Yubyub
+Security: 0.4
+Alliance: Northern Regions Alliance
+Corp: Caldari Navy Raiders
+Ship: Rifter
+Weapon: Rifter
+
+
+Destroyed items:
+
+Siege Missile Launcher II
+Siege Missile Launcher II
+Siege Missile Launcher II
+Mjolnir Javelin Torpedo, Qty: 15
+Inferno Javelin Torpedo, Qty: 14
+Ballistic Deflection Field II
+Sensor Booster II
+Ballistic Control System II
+Mjolnir Rage Torpedo, Qty: 500 (Cargo)
+Inferno Rage Torpedo, Qty: 500 (Cargo)
+Juggernaut Rage Torpedo, Qty: 703 (Cargo)
+Mjolnir Javelin Torpedo, Qty: 561 (Cargo)
+Inferno Javelin Torpedo, Qty: 370 (Cargo)
+

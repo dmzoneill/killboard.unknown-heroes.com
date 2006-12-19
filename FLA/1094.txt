@@ -1,0 +1,68 @@
+2007.03.04 23:10
+
+Victim: phakzar
+Alliance: Xelas Alliance
+Corp: Catalyst Reaction
+Destroyed: Jaguar
+System: PNQY-Y
+Security: 0.0
+
+Involved parties:
+
+Name: Nubi kun (laid the final blow)
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Cataclysm Enterprises
+Ship: Crow
+Weapon: Bloodclaw Precision Light Missile
+
+Name: Shadowjumper
+Security: 4.9
+Alliance: Dusk and Dawn
+Corp: Intergalactic Serenity
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Takeshi Nuwen
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: The X-Trading Company
+Ship: Crow
+Weapon: Bloodclaw Precision Light Missile
+
+Name: Praetorian Mardou
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Ariebos
+Security: -1.0
+Alliance: Dusk and Dawn
+Corp: Momentum.
+Ship: Rifter
+Weapon: Rifter
+
+Name: Snake solid
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Konstrukteure der Zukunft
+Ship: Raptor
+Weapon: Warp Disruptor I
+
+Name: Nuclear Fission
+Security: -0.5
+Alliance: Dusk and Dawn
+Corp: Omega Enterprises
+Ship: Malediction
+Weapon: Fleeting Warp Scrambler I
+
+
+Destroyed items:
+
+Depleted Uranium S, Qty: 35
+J5 Prototype Warp Inhibitor I
+Cross-Lateral Gyrostabilizer I
+Anode Light Neutron Particle Cannon I (Cargo)
+

@@ -1,0 +1,157 @@
+2007.03.25 00:04
+
+Victim: Varaxian
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Destroyed: Armageddon
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Vesspasiano
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Dominix
+Weapon: Ogre II
+
+Name: Deathratt
+Security: 4.7
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Ship: Blackbird
+Weapon: Scourge Heavy Missile
+
+Name: Jonkai
+Security: -3.9
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Drake
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+Name: sakana
+Security: -0.9
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Megathron
+Weapon: Megathron
+
+Name: ISpydeRI
+Security: 5.0
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Drake
+Weapon: Hornet I
+
+Name: Darthirishguy (laid the final blow)
+Security: 1.6
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Sabe
+Security: 5.0
+Alliance: Red Horizon
+Corp: Red Horizon Inc
+Ship: Gila
+Weapon: Gila
+
+Name: JaiMaster
+Security: 2.7
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Typhoon
+Weapon: Typhoon
+
+Name: Korudon
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Denaris1
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Ferox
+Weapon: Ferox
+
+Name: Iss Hogai
+Security: 5.0
+Alliance: Zenith Affinity
+Corp: GREY COUNCIL
+Ship: Caracal
+Weapon: Heavy Missile Launcher I
+
+Name: StrikerOneSevern
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Rupture
+Weapon: Rupture
+
+Name: Harken Hessel
+Security: 1.1
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Ship: Tristan
+Weapon: Tristan
+
+Name: Chuck Dawg
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Crow
+Weapon: Thorn Rocket
+
+Name: Drako Invictus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Absolution
+Weapon: Absolution
+
+Name: Logand Delta
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Tiberius Drake
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Brutix
+Weapon: Brutix
+
+Name: Malicel
+Security: 2.7
+Alliance: The Sundering
+Corp: ironwood ink
+Ship: Enyo
+Weapon: Faint Warp Prohibitor I
+
+Name: ConXtionS
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: The Night Crew
+Ship: Thorax
+Weapon: Thorax
+
+
+Destroyed items:
+
+Mega Anode Particle Stream I, Qty: 4
+Multifrequency L, Qty: 2
+Sensor Booster I
+Tracking Computer I, Qty: 2
+Heat Sink II
+Radioisotope Thermic Hardener I
+N-Type Explosive Hardener I
+Radio L, Qty: 3 (Cargo)
+Ultraviolet L, Qty: 3 (Cargo)
+Wasp EC-900, Qty: 2 (Drone Bay)

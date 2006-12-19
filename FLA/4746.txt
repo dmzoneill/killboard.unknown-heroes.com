@@ -1,0 +1,113 @@
+2007.04.21 00:50
+
+Victim: Hughwasit
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Harpy
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Cockroach
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Vengeance
+Weapon: Vengeance
+
+Name: Nil Desperandum
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Rupture
+Weapon: Rupture
+
+Name: Dana Foxworth (laid the final blow)
+Security: 3.7
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Stabber
+Weapon: 220mm Vulcan AutoCannon I
+
+Name: Ghu'ru Talozan
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Celestis
+Weapon: Celestis
+
+Name: Alski
+Security: 3.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Rifter
+Weapon: Rifter
+
+Name: Minisoza
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Tristan
+Weapon: Tristan
+
+Name: Kvarium Ki
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Stabber
+Weapon: Stabber
+
+Name: Kayron Brennan
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Merlin
+Weapon: Merlin
+
+Name: The Cade
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Thorax
+Weapon: Thorax
+
+Name: dastommy79
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Thorax
+Weapon: Thorax
+
+Name: Magic Mazuma
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Slasher
+Weapon: Slasher
+
+Name: sparkvolt
+Security: -0.7
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Rifter
+Weapon: Warp Scrambler I
+
+Name: Kaand
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Thorax
+Weapon: Thorax
+
+
+Destroyed items:
+
+Spike S, Qty: 39
+'Malkuth' Standard Missile Launcher I
+1MN Afterburner I
+Quantum Co-Processor I
+Vespa I, Qty: 2 (Cargo)
+Spike S, Qty: 742 (Cargo)
+Piranha Light Missile, Qty: 757 (Cargo)
+

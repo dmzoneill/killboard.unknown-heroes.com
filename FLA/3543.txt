@@ -1,0 +1,52 @@
+2007.03.26 08:49
+
+Victim: ANNIHILATER
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Destroyed: Myrmidon
+System: O-BDXB
+Security: 0.0
+
+Involved parties:
+
+Name: Serpentis Vice Admiral / Serpentis Corporation
+
+Name: Xordus (laid the final blow)
+Security: 1.7
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Harbinger
+Weapon: Focused Medium Pulse Laser II
+
+Name: Vasili Z
+Security: 0.3
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Huginn
+Weapon: Hammerhead II
+
+Name: Galaxor
+Security: 5.1
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Harbinger
+Weapon: Hammerhead II
+
+Name: Vim Longhill
+Security: 4.6
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Flycatcher
+Weapon: OE-5200 Rocket Launcher
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Light Neutron Blaster I
+Antimatter Charge S, Qty: 120
+Y-T8 Overcharged Hydrocarbon I Microwarpdrive
+Stasis Webifier I
+'Abandon' Targeting Disruptor I
+Antimatter Charge S, Qty: 1596 (Cargo)
+

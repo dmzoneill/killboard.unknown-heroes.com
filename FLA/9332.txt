@@ -1,0 +1,85 @@
+2007.05.07 21:48
+
+Victim: Kayron Brennan
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Destroyed: Caracal
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: KaKaShI
+Security: 4.2
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Apocalypse
+Weapon: Apocalypse
+
+Name: Grinkor (laid the final blow)
+Security: 5.0
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Megathron
+Weapon: Vespa II
+
+Name: inuman fr
+Security: 5.0
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Nemesys 8
+Security: 4.5
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Hawk
+Weapon: Bloodclaw Light Missile
+
+Name: Vrivona
+Security: 1.5
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Sabre
+Weapon: X5 Prototype I Engine Enervator
+
+Name: Topasio
+Security: 3.7
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: SaNoSuKeJavi
+Security: -2.0
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Taranis
+Weapon: X5 Prototype I Engine Enervator
+
+Name: stich626
+Security: -1.2
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Myrmidon
+Weapon: Warp Disruptor II
+
+Name: Diego Barbera
+Security: 0.9
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Dominix
+Weapon: E500 Prototype Energy Vampire
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 63
+Widowmaker Heavy Missile, Qty: 64
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+10MN Afterburner II
+Sensor Booster I
+Bloodclaw Light Missile, Qty: 386 (Cargo)
+

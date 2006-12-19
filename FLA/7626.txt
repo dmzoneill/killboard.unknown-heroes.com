@@ -1,0 +1,43 @@
+2006.09.27 22:03
+
+Victim: Darknesss
+Alliance: Triumvirate.
+Corp: D00M.
+Destroyed: Taranis
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: LTSmash
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Ship: Taranis
+Weapon: Fleeting Progressive Warp Scrambler I
+
+Name: Mcwlad (laid the final blow)
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Ship: Apocalypse
+Weapon: Mega Beam Laser II
+
+Name: Shavik Sumi
+Security: 1.1
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Capsule
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+
+Destroyed items:
+
+125mm Railgun II
+125mm Railgun II
+Antimatter Charge S, Qty: 193
+Warp Disruptor I
+X5 Prototype I Engine Enervator
+Micro Auxiliary Power Core I
+Antimatter Charge S, Qty: 2233 (Cargo)
+

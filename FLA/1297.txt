@@ -1,0 +1,78 @@
+2007.03.10 14:44
+
+Victim: piepie
+Alliance: None
+Corp: Original  Production Material
+Destroyed: Myrmidon
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: digger70 (laid the final blow)
+Security: 3.4
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Ship: Raven
+Weapon: Inferno Torpedo
+
+Name: Malcanis
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Raven
+Weapon: Inferno Torpedo
+
+Name: IDesert FoxI
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: other mickey
+Security: 2.9
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Ares
+Weapon: TE-2100 Standard Missile Bay
+
+Name: Alianore
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Catalyst
+Weapon: Catalyst
+
+Name: Kaand
+Security: 3.4
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Megathron
+Weapon: Ion Blaster Cannon II
+
+Name: Porti
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Jaguar
+Weapon: Jaguar
+
+
+Destroyed items:
+
+Heavy Ion Blaster II
+Heavy Ion Blaster II
+Heavy Ion Blaster II
+Heavy Ion Blaster II
+Void M, Qty: 228
+J5 Prototype Warp Inhibitor I
+Fleeting Propulsion Inhibitor I
+Damage Control II
+N-Type Kinetic Hardener I
+N-Type Explosive Hardener I
+N-Type Thermic Hardener I
+Cap Booster 800, Qty: 8 (Cargo)
+Void M, Qty: 1933 (Cargo)
+Mark I Generator Refitting: Capacitor Flux (Cargo)
+

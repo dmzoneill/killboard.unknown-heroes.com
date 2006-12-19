@@ -1,0 +1,26 @@
+2007.05.26 07:14
+
+Victim: Darkwing Death
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz Holdings
+Destroyed: Capsule
+System: 93PI-4
+Security: 0.0
+
+Involved parties:
+
+Name: Swiftness (laid the final blow)
+Security: -4.6
+Alliance: None
+Corp: VMF-214 Blacksheep
+Ship: Huginn
+Weapon: Widowmaker Heavy Missile
+
+Name: Leylla Gainsborought
+Security: -9.8
+Alliance: None
+Corp: VMF-214 Blacksheep
+Ship: Curse
+Weapon: Hammerhead I
+
+

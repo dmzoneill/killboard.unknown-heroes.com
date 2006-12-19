@@ -1,0 +1,55 @@
+2007.03.20 20:31
+
+Victim: Damfoose
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Raven
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Xinus (laid the final blow)
+Security: 4.6
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Thanatos
+Weapon: Templar
+
+Name: Medium Railgun Battery / SteelVipers
+
+Name: volly
+Security: 3.1
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Pilgrim
+Weapon: Hammerhead II
+
+Name: IsmaelYU5 Iluvatar
+Security: 5.0
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Taranis
+Weapon: Warp Disruptor II
+
+
+Destroyed items:
+
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Bane Torpedo, Qty: 22
+'Arbalest' Siege Missile Launcher
+'Arbalest' Siege Missile Launcher
+Small Tractor Beam I
+Large F-S9 Regolith Shield Induction
+Heat Dissipation Field I
+Ballistic Control System I
+Cross-linked Bolt Array I
+Beta Reactor Control: Diagnostic System I
+Juggernaut Torpedo, Qty: 1097 (Cargo)
+Bane Torpedo, Qty: 2159 (Cargo)
+

@@ -1,0 +1,29 @@
+2006.08.10 19:20
+
+Victim: Hain'u
+Alliance: None
+Corp: Mozzaki United
+Destroyed: Iteron Mark V
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Carl tabot (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+
+Destroyed items:
+
+150mm 'Scout' I Accelerator Cannon
+Antimatter Charge S, Qty: 40
+Medium Shield Extender I
+10MN Afterburner I
+100MN MicroWarpdrive I (Cargo)
+Uranium Charge L, Qty: 100 (Cargo)
+Antimatter Charge L, Qty: 1034 (Cargo)
+

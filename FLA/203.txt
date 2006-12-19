@@ -1,0 +1,49 @@
+2007.01.18 01:07
+
+Victim: Klemnascht
+Alliance: None
+Corp: Clokin Dollars
+Destroyed: Absolution
+System: 5ZXX-K
+Security: 0.0
+
+Involved parties:
+
+Name: Jester87 (laid the final blow)
+Security: 1.3
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Raven
+Weapon: Cataclysm Cruise Missile
+
+
+Destroyed items:
+
+Heavy Beam Laser II
+Heavy Beam Laser II
+Heavy Beam Laser II
+Heavy Beam Laser II
+Focused Medium Beam Laser II
+Gleam M
+Gleam M
+Gleam M
+Gleam M
+XR-3200 Heavy Missile Bay
+Cap Recharger II
+Cap Recharger II
+Eutectic I Capacitor Charge Array
+Medium Armor Repairer II
+Local Power Plant Manager: Capacity Power Relay I
+Local Power Plant Manager: Capacity Power Relay I
+Mark I Generator Refitting: Capacitor Flux
+Reactor Control Unit II
+X-Large Clarity Ward Booster I (Cargo)
+Multifrequency M, Qty: 5 (Cargo)
+Aurora M, Qty: 3 (Cargo)
+Widowmaker Heavy Missile, Qty: 910 (Cargo)
+Cruise Missile Launcher I (Cargo)
+Siege Missile Launcher I (Cargo)
+Scorched Telemetry Processor, Qty: 4 (Cargo)
+Capacitor Flux Coil I (Cargo)
+Acolyte I (Drone Bay)
+

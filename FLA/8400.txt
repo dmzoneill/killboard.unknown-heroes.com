@@ -1,0 +1,49 @@
+2006.11.15 23:27
+
+Victim: Teck7
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Arazu
+System: MXX5-9
+Security: 0.0
+
+Involved parties:
+
+Name: Yatar Kindoki (laid the final blow)
+Security: 4.4
+Alliance: None
+Corp: Organized Krime
+Ship: Falcon
+Weapon: Thunderbolt Fury Heavy Missile
+
+Name: subsector
+Security: -1.7
+Alliance: None
+Corp: Organized Krime
+Ship: Arazu
+Weapon: Arazu
+
+Name: Diana Faye
+Security: 0.7
+Alliance: None
+Corp: Organized Krime
+Ship: Pilgrim
+Weapon: 50W Infectious Power System Malfunction
+
+
+Destroyed items:
+
+Covert Ops Cloaking Device II
+Y-S8 Hydrocarbon I Afterburners
+Fleeting Warp Scrambler I
+Kapteyn Sensor Array Inhibitor I
+Medium Armor Repairer II
+Energized Adaptive Nano Membrane II
+N-Type Thermic Hardener I
+Armor Explosive Hardener II
+Cap Booster 400, Qty: 2 (Cargo)
+Cynosural Field Generator I (Cargo)
+Liquid Ozone, Qty: 450 (Cargo)
+Vespa II (Drone Bay)
+Hammerhead II, Qty: 2 (Drone Bay)
+

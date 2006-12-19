@@ -1,0 +1,50 @@
+2007.03.26 20:49
+
+Victim: Timboru
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Destroyed: Ferox
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Sith Bandon (laid the final blow)
+Security: 5.0
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Deimos
+Weapon: Hammerhead II
+
+Name: WarGod
+Security: 1.5
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Curse
+Weapon: Curse
+
+Name: Cold Gorilla
+Security: 0.5
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Heretic
+Weapon: Heretic
+
+Name: tost
+Security: 2.5
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Brutix
+Weapon: Fleeting Warp Scrambler I
+
+
+Destroyed items:
+
+250mm 'Scout' I Accelerator Cannon
+250mm Railgun I
+Antimatter Charge M, Qty: 102
+Medium Shield Extender I
+Medium Shield Booster I
+Kinetic Deflection Amplifier I
+Expanded Cargohold I
+

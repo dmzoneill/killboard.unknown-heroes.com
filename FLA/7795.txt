@@ -1,0 +1,30 @@
+2006.08.27 22:00
+
+Victim: Th3 HuNt3r
+Alliance: Freelancer Alliance
+Corp: EVE MegaCorp Association
+Destroyed: Rifter
+System: WUZ-WM
+Security: 0.0
+
+Involved parties:
+
+Name: McDan (laid the final blow)
+Security: -0.6
+Alliance: Lotka Volterra
+Corp: Shinra
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+
+Destroyed items:
+
+Anode Light Electron Particle Cannon I
+Anode Light Ion Particle Cannon I
+Antimatter Charge S, Qty: 320
+Gremlin Rocket, Qty: 30
+'Malkuth' Rocket Launcher I
+Small I-a Polarized Armor Regenerator
+Gremlin Rocket, Qty: 1690 (Cargo)
+Foxfire Rocket, Qty: 2000 (Cargo)
+

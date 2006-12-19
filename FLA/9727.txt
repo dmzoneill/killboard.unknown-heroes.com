@@ -1,0 +1,46 @@
+2007.05.28 09:12
+
+Victim: Reilly Smallz
+Alliance: Triumvirate.
+Corp: Wreckless Abandon
+Destroyed: Vengeance
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Corovus (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+Name: Caldari Citizen20020
+Security: 1.7
+Alliance: Ev0ke
+Corp: Asgard Schiffswerften
+Ship: Osprey
+Weapon: 'Langour' Drive Disruptor I
+
+Name: Wusa
+Security: 5.0
+Alliance: Ev0ke
+Corp: Asgard Schiffswerften
+Ship: Claymore
+Weapon: Claymore
+
+
+Destroyed items:
+
+Medium Pulse Laser II
+Small 'Knave' I Energy Drain
+Scorch S
+Scorch S
+1MN MicroWarpdrive I
+X5 Prototype I Engine Enervator
+Small Armor Repairer II
+Multifrequency S, Qty: 3 (Cargo)
+Dread Guristas Brass Tag (Cargo)
+Conflagration S, Qty: 3 (Cargo)
+

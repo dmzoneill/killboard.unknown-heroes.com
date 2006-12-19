@@ -1,0 +1,23 @@
+2007.04.22 22:48
+
+Victim: Samina Minay
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Ibis
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Ghu'ru Talozan (laid the final blow)
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Celestis
+Weapon: 250mm Railgun I
+
+
+Destroyed items:
+
+Basic Miner
+

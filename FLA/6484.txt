@@ -1,0 +1,54 @@
+2006.11.15 16:55
+
+Victim: SteveB
+Alliance: None
+Corp: Republic Military School
+Destroyed: Caldari Shuttle
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: LizzyD (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Ishkur
+Weapon: 150mm Railgun II
+
+Name: kanu
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Asgard Schiffswerften
+Ship: Crow
+Weapon: Fleeting Warp Scrambler I
+
+Name: Midiana
+Security: 1.1
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Ishtar
+Weapon: 150mm Railgun II
+
+Name: Scorpio63
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Omen
+Weapon: Heavy Pulse Laser I
+
+Name: JesusOfSuburbia
+Security: 5.3
+Alliance: Dusk and Dawn
+Corp: Asgard Schiffswerften
+Ship: Taranis
+Weapon: Taranis
+
+Name: Formosus Funus
+Security: 3.8
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Wolf
+Weapon: Wolf
+
+

@@ -1,0 +1,39 @@
+2007.03.13 20:17
+
+Victim: GreatV
+Alliance: None
+Corp: Imperial Academy
+Destroyed: Coercer
+System: Naguton
+Security: 0.3
+
+Involved parties:
+
+Name: Japanx (laid the final blow)
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Caracal
+Weapon: Widowmaker Heavy Missile
+
+Name: Sansha's Devourer / True Power
+
+
+Destroyed items:
+
+Dual Modulated Light Energy Beam I
+Dual Light Beam Laser I
+Multifrequency S
+Multifrequency S
+Multifrequency S
+Multifrequency S
+Multifrequency S
+Multifrequency S
+Small Armor Repairer I
+100mm Reinforced Nanofiber Plates I
+Medium Shield Extender I (Cargo)
+Medium Capacitor Battery I (Cargo)
+Heat Sink I (Cargo)
+Warp Core Stabilizer I (Cargo)
+Sansha Ship Log 566930267 (Cargo)
+

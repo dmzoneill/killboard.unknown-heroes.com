@@ -1,0 +1,37 @@
+2007.02.17 21:27
+
+Victim: Kee Ris
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Coercer
+System: Niarja
+Security: 0.5
+
+Involved parties:
+
+Name: Pitt (laid the final blow)
+Security: 1.3
+Alliance: Privateer Alliance
+Corp: Loot
+Ship: Hurricane
+Weapon: 425mm AutoCannon II
+
+
+Destroyed items:
+
+Dual Light Beam Laser II
+Dual Light Beam Laser II
+Dual Light Beam Laser II
+Dual Light Beam Laser II
+Dual Light Beam Laser II
+Aurora S
+Aurora S
+Aurora S
+Aurora S
+Aurora S
+Alumel-Wired I Sensor Augmentation
+Heat Sink II
+Tracking Enhancer II
+400mm Reinforced Crystalline Carbonide Plates I
+Multifrequency S, Qty: 3 (Cargo)
+

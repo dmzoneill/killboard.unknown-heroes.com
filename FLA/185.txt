@@ -1,0 +1,19 @@
+2007.01.17 13:15
+
+Victim: Quadra T
+Alliance: None
+Corp: Caldari Provisions
+Destroyed: Capsule
+System: P-2TTL
+Security: 0.0
+
+Involved parties:
+
+Name: Solarienne (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+

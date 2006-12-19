@@ -1,0 +1,24 @@
+2006.04.20 22:43
+
+Victim: TheBelgarion
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Sigil
+System: Sobaseki
+Security: 0.8
+
+Involved parties:
+
+Name: Zarks (laid the final blow)
+Security: 0.0
+Alliance: None
+Corp: Omniscient Order
+Ship: Zealot
+Weapon: Quad Light Beam Laser II
+
+
+Destroyed items:
+
+Small Shield Extender I
+Huge Secure Container (Cargo)
+

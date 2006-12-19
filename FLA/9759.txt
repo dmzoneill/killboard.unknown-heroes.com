@@ -1,0 +1,33 @@
+2007.06.01 22:56
+
+Victim: Karai Kamasu
+Alliance: Freelancer Alliance
+Corp: The Collective of Ascended Beings
+Destroyed: Celestis
+System: Iitanmadan
+Security: 0.3
+
+Involved parties:
+
+Name: LordVodka (laid the final blow)
+Security: -10.0
+Alliance: None
+Corp: Earned In Blood
+Ship: Absolution
+Weapon: Heavy Pulse Laser II
+
+
+Destroyed items:
+
+Small Nosferatu I
+Small Nosferatu I
+Bloodclaw Light Missile, Qty: 55
+Assault Missile Launcher I
+Assault Missile Launcher I
+Y-S8 Hydrocarbon I Afterburners
+Remote Sensor Dampener I
+Remote Sensor Dampener I
+Remote Sensor Dampener I
+F85 Peripheral Damage System I
+Bloodclaw Light Missile, Qty: 567 (Cargo)
+

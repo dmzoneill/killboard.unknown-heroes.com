@@ -1,0 +1,77 @@
+2007.04.15 21:23
+
+Victim: Seryius
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Destroyed: Scorpion
+System: Aunenen
+Security: 0.4
+
+Involved parties:
+
+Name: Wicked X (laid the final blow)
+Security: -0.4
+Alliance: Privateer Alliance
+Corp: Captain Morgan Society
+Ship: Megathron
+Weapon: Neutron Blaster Cannon II
+
+Name: ZaknafeinX
+Security: -1.7
+Alliance: Privateer Alliance
+Corp: Captain Morgan Society
+Ship: Harbinger
+Weapon: Harbinger
+
+Name: Elric TheWhite
+Security: -0.9
+Alliance: Privateer Alliance
+Corp: Captain Morgan Society
+Ship: Tempest
+Weapon: Tempest
+
+Name: H Zub
+Security: -1.6
+Alliance: Privateer Alliance
+Corp: Captain Morgan Society
+Ship: Megathron
+Weapon: Neutron Blaster Cannon II
+
+Name: Brain Day
+Security: -1.4
+Alliance: Privateer Alliance
+Corp: Captain Morgan Society
+Ship: Abaddon
+Weapon: Abaddon
+
+Name: Molly
+Security: 0.4
+Alliance: Privateer Alliance
+Corp: Captain Morgan Society
+Ship: Abaddon
+Weapon: Tachyon Beam Laser II
+
+Name: Noobjuice
+Security: -0.9
+Alliance: Privateer Alliance
+Corp: Captain Morgan Society
+Ship: Raven
+Weapon: Mjolnir Torpedo
+
+
+Destroyed items:
+
+Heavy Nosferatu I
+Devastator Cruise Missile, Qty: 17
+Paradise Cruise Missile, Qty: 17
+'Limos' Cruise Launcher I
+'Limos' Cruise Launcher I
+'Limos' Cruise Launcher I
+CZ-4 Concussive Spatial Destabilizer ECM
+'Hypnos' Multispectral ECM I
+'Umbra' I White Noise ECM
+Gravimetric Positional ECCM Sensor System I
+Prototype I Sensor Booster
+Cap Booster 800, Qty: 9 (Cargo)
+Paradise Cruise Missile, Qty: 2457 (Cargo)
+

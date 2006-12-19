@@ -1,0 +1,33 @@
+2007.02.08 01:51
+
+Victim: Stain Protector
+Alliance: Red Moon Federation
+Corp: Confederation of Red Moon
+Destroyed: Capsule
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Lux0r (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Hawk
+Weapon: Bloodclaw Precision Light Missile
+
+Name: Korudon
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Harpy
+Weapon: 150mm Compressed Coil Gun I
+
+Name: Dark Carnage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Blackbird
+Weapon: Initiated Multispectral ECM I
+
+

@@ -1,0 +1,54 @@
+2007.04.09 17:38
+
+Victim: velogor slava
+Alliance: None
+Corp: Center for Advanced Studies
+Destroyed: Caldari Shuttle
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: suddenshock (laid the final blow)
+Security: 4.0
+Alliance: Darklite inc Alliance
+Corp: Darklite inc
+Ship: Hawk
+Weapon: Bloodclaw Light Missile
+
+Name: Meh'lindi
+Security: 4.4
+Alliance: Darklite inc Alliance
+Corp: Darklite inc
+Ship: Enyo
+Weapon: Enyo
+
+Name: Wallyx
+Security: 4.5
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Omen
+Weapon: Heavy Beam Laser I
+
+Name: gabla
+Security: 3.7
+Alliance: Darklite inc Alliance
+Corp: Darklite inc
+Ship: Maulus
+Weapon: 125mm Carbide Railgun I
+
+Name: sunshine nl
+Security: 1.9
+Alliance: Darklite inc Alliance
+Corp: Darklite inc
+Ship: Cormorant
+Weapon: 150mm Railgun I
+
+Name: Cinon
+Security: 0.0
+Alliance: 3asy Company
+Corp: Eth3real
+Ship: Thorax
+Weapon: 250mm Railgun I
+
+

@@ -1,0 +1,40 @@
+2007.04.18 19:17
+
+Victim: Lokki Deathwish
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Capsule
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Teck7
+Security: 1.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Catalyst
+Weapon: Light Ion Blaster II
+
+Name: Corovus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Arazu
+Weapon: 200mm 'Scout' I Accelerator Cannon
+
+Name: Splinter5150 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Ship: Caracal
+Weapon: Bloodclaw Light Missile
+
+Name: Laerana
+Security: 0.3
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Vexor
+Weapon: Warp Disruptor I
+
+

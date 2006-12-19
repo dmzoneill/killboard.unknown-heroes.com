@@ -1,0 +1,121 @@
+2007.04.16 01:52
+
+Victim: Savak
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Omen
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: alon blackhelm
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Ferox
+Weapon: Thunderbolt Heavy Missile
+
+Name: Recon Alpha
+Security: 3.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Caracal
+Weapon: Thunderbolt Heavy Missile
+
+Name: demotar
+Security: 4.1
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Muninn
+Weapon: Warrior II
+
+Name: Tran Whistler
+Security: 5.3
+Alliance: Freelancer Alliance
+Corp: Harbingers of Sarrow
+Ship: Caracal
+Weapon: Bloodclaw Light Missile
+
+Name: Kayron Brennan
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Caracal
+Weapon: Thunderbolt Heavy Missile
+
+Name: Frau Formaggio (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ishkur
+Weapon: Hobgoblin II
+
+Name: Korudon
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Thorax
+Weapon: 200mm Railgun I
+
+Name: dastommy79
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Thorax
+Weapon: Hammerhead I
+
+Name: Christopher Cook
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Terminal Velocity Inc.
+Ship: Rifter
+Weapon: 280mm Howitzer Artillery I
+
+Name: sniper luke
+Security: 4.8
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Thorax
+Weapon: Thorax
+
+Name: coldkill
+Security: 1.9
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Thorax
+Weapon: Thorax
+
+Name: Teck7
+Security: 1.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Thorax
+Weapon: Thorax
+
+Name: Magic Mazuma
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Rifter
+Weapon: 150mm Light Gallium I Machine Gun
+
+Name: Kartock Maar
+Security: 2.1
+Alliance: Freelancer Alliance
+Corp: Harbingers of Sarrow
+Ship: Enyo
+Weapon: Enyo
+
+
+Destroyed items:
+
+Multifrequency M
+Multifrequency M
+Multifrequency M
+Medium I-a Polarized Armor Regenerator
+Microcell Nanite Kinetic Hardener I
+Armor Explosive Hardener I
+Cap Booster 200, Qty: 43 (Cargo)
+Cap Booster 800, Qty: 2 (Cargo)
+

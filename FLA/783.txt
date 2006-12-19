@@ -1,0 +1,96 @@
+2007.02.20 21:03
+
+Victim: TUGGY
+Alliance: None
+Corp: Call Of The Wild
+Destroyed: Raven
+System: 5ZXX-K
+Security: 0.0
+
+Involved parties:
+
+Name: jacass66
+Security: 5.0
+Alliance: None
+Corp: BGG
+Ship: Drake
+Weapon: Hornet II
+
+Name: Dark Carnage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Drake
+Weapon: Havoc Heavy Missile
+
+Name: Spartan dax (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Drake
+Weapon: Thunderbolt Heavy Missile
+
+Name: Lancelot Wellborn
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Myrmidon
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: CENTUREAN
+Security: 3.8
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Drake
+Weapon: Widowmaker Heavy Missile
+
+Name: Tnam
+Security: 1.9
+Alliance: None
+Corp: BGG
+Ship: Hurricane
+Weapon: Fulmination Assault Missile
+
+Name: Burn Lump
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Enyo
+Weapon: Enyo
+
+Name: Xantheris
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Taranis
+Weapon: Acolyte I
+
+Name: SniperMcBob
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Harpy
+Weapon: Harpy
+
+Name: EM00
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Kestrel
+Weapon: Piranha Light Missile
+
+
+Destroyed items:
+
+Heavy Nosferatu I
+Wrath Cruise Missile, Qty: 105
+'Malkuth' Cruise Launcher I
+'Malkuth' Cruise Launcher I
+X-Large Shield Booster II
+Quad LiF Fueled I Booster Rockets
+Medium Capacitor Booster I
+'Stalwart' I Particle Field Magnifier
+Emergency Damage Control I
+Cap Booster 800, Qty: 9 (Cargo)
+Hornet I, Qty: 2 (Drone Bay)
+

@@ -1,0 +1,51 @@
+2007.05.08 06:41
+
+Victim: RyMcQeN I
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Manticore
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: wraith01 (laid the final blow)
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: Antipodean inc.
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: LLago Cesarii
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: Synergy Evolved
+Ship: Rifter
+Weapon: Phalanx Rocket
+
+Name: Aridante Lemure
+Security: 1.2
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Celestis
+Weapon: Celestis
+
+Name: Coyedky
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Blackbird
+Weapon: ECM - Spatial Destabilizer I
+
+
+Destroyed items:
+
+Improved Cloaking Device II
+Cruise Missile Launcher II
+Cruise Missile Launcher II
+Devastator Precision Cruise Missile, Qty: 25
+Sensor Booster II
+Type-D Altered SS Nanofiber Structure
+Paradise Cruise Missile, Qty: 27 (Cargo)
+Cataclysm Cruise Missile, Qty: 150 (Cargo)
+

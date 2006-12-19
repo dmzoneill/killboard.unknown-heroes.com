@@ -1,0 +1,57 @@
+2007.01.12 16:47
+
+Victim: CENTUREAN
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Destroyed: Ferox
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: aadom
+Security: 3.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Myrmidon
+Weapon: Ogre II
+
+Name: oneevil mother (laid the final blow)
+Security: -1.3
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Zealot
+Weapon: Heavy Pulse Laser II
+
+Name: the willyb
+Security: -2.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Dominix
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: Anna Neura
+Security: -0.2
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Arbitrator
+Weapon: Hobgoblin I
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Medium Nosferatu I
+Widowmaker Heavy Missile, Qty: 34
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+Large Shield Extender I
+Large Clarity Ward Booster I
+Damage Control I
+Ballistic Control System I
+Shield Flux Coil I
+Widowmaker Heavy Missile, Qty: 840 (Cargo)
+Scourge Heavy Missile, Qty: 1128 (Cargo)
+Havoc Heavy Missile, Qty: 1000 (Cargo)
+

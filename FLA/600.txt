@@ -1,0 +1,40 @@
+2007.02.12 06:27
+
+Victim: Grayco
+Alliance: Kith of Venal
+Corp: Spectrum Solutions INC
+Destroyed: Capsule
+System: X47L-Q
+Security: 0.0
+
+Involved parties:
+
+Name: MrMaggot
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Cormorant
+Weapon: 125mm Prototype I Gauss Gun
+
+Name: coldkill
+Security: 1.3
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Unknown
+Weapon: Taranis
+
+Name: Danielson1012 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Rook
+Weapon: 250mm Prototype I Gauss Gun
+
+Name: Xantheris
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Unknown
+Weapon: Taranis
+
+

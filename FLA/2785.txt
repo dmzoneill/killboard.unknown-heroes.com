@@ -1,0 +1,79 @@
+2007.03.07 01:14
+
+Victim: Rootak
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Dominix
+System: OWXT-5
+Security: 0.0
+
+Involved parties:
+
+Name: Bloodclaw Light Missile / Guristas
+
+Name: taylor04
+Security: 2.7
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Sleipnir
+Weapon: Sleipnir
+
+Name: XxAngelxX (laid the final blow)
+Security: -1.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Curse
+Weapon: Valkyrie II
+
+Name: WarGod
+Security: -0.3
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Curse
+Weapon: Curse
+
+Name: Roule
+Security: -5.3
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: xVx Skillgannon
+Security: 0.4
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Anna Neura
+Security: -0.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Curse
+Weapon: Vespa II
+
+Name: Ambassador Wolf
+Security: 0.0
+Alliance: Privateer Alliance
+Corp: Fate.
+Ship: Pilgrim
+Weapon: Medium 'Knave' I Energy Drain
+
+
+Destroyed items:
+
+Salvager I, Qty: 18
+Iron Charge L, Qty: 143
+Small Tractor Beam I
+Eutectic I Capacitor Charge Array
+Eutectic I Capacitor Charge Array
+Armor Kinetic Hardener I
+Armor Kinetic Hardener I
+Beta Reactor Control: Diagnostic System I
+X-Large Shield Booster I, Qty: 2 (Cargo)
+Tripped Power Circuit, Qty: 9 (Cargo)
+Damaged Artificial Neural Network, Qty: 8 (Cargo)
+Burned Logic Circuit, Qty: 5 (Cargo)
+Scorched Telemetry Processor, Qty: 7 (Cargo)
+

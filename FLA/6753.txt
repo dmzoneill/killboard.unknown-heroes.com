@@ -1,0 +1,31 @@
+2006.11.26 15:07
+
+Victim: gmutorrah
+Alliance: None
+Corp: Perkone
+Destroyed: Stabber
+System: UR-E6D
+Security: 0.0
+
+Involved parties:
+
+Name: Solarienne (laid the final blow)
+Security: 4.8
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Thrasher
+Weapon: 200mm Light Carbine Repeating Cannon I
+
+
+Destroyed items:
+
+Dual 180mm AutoCannon I
+Dual 180mm AutoCannon I
+EMP M, Qty: 123
+Prototype Cloaking Device I
+Cynosural Field Generator I
+Large Peroxide I Capacitor Power Cell
+Warp Core Stabilizer I
+EMP M, Qty: 600 (Cargo)
+Liquid Ozone, Qty: 562 (Cargo)
+

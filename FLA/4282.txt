@@ -1,0 +1,58 @@
+2007.04.06 17:12
+
+Victim: Darc Kaahar
+Alliance: Freelancer Alliance
+Corp: Feel Good Inc.
+Destroyed: Dominix
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Hans Blix
+Security: 1.2
+Alliance: None
+Corp: Exit 13
+Ship: Sleipnir
+Weapon: Sleipnir
+
+Name: Milo Deadstar
+Security: 0.7
+Alliance: None
+Corp: Exit 13
+Ship: Sleipnir
+Weapon: Sleipnir
+
+Name: zero2espect (laid the final blow)
+Security: 3.7
+Alliance: None
+Corp: Exit 13
+Ship: Curse
+Weapon: Valkyrie II
+
+
+Destroyed items:
+
+Heavy 'Knave' I Energy Drain
+E500 Prototype Energy Vampire
+Regulated Ion Phase Cannon I
+Regulated Ion Phase Cannon I
+Antimatter Charge M, Qty: 70
+100MN MicroWarpdrive I
+Stasis Webifier I
+Heavy F-RX Prototype I Capacitor Boost
+Cap Booster 800
+Cap Booster 800
+Cap Booster 800
+Sensor Booster I
+Energized Thermic Membrane I
+Energized Adaptive Nano Membrane I
+N-Type Kinetic Hardener I
+X-Large Shield Booster I (Cargo)
+Large Shield Booster I (Cargo)
+Antimatter Charge M, Qty: 3190 (Cargo)
+Vespa I, Qty: 3 (Drone Bay)
+Warrior II, Qty: 4 (Drone Bay)
+Berserker I (Drone Bay)
+Wasp I, Qty: 3 (Drone Bay)
+

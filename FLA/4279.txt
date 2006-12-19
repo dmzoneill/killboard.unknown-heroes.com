@@ -1,0 +1,77 @@
+2007.04.06 09:49
+
+Victim: Cockroach
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Apocalypse
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Lorn Zolog
+Security: -1.2
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Armageddon
+Weapon: Dual Heavy Pulse Laser II
+
+Name: Xordus
+Security: 0.5
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Nipplator (laid the final blow)
+Security: -0.5
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Armageddon
+Weapon: Mega Modulated Pulse Energy Beam I
+
+Name: Anomaly21
+Security: -1.0
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Bishata
+Security: 1.0
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Malediction
+Weapon: Malediction
+
+Name: Azekial
+Security: 2.7
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Dominix
+Weapon: Warp Disruptor I
+
+
+Destroyed items:
+
+Tachyon Beam Laser II
+Tachyon Beam Laser II
+Tachyon Beam Laser II
+Tachyon Beam Laser II
+Prototype Cloaking Device I
+Gleam L
+Gleam L
+Sensor Booster II
+Tracking Computer II
+Heat Sink II
+Energized Adaptive Nano Membrane I
+Beta Reactor Control: Capacitor Power Relay I
+Beta Reactor Control: Capacitor Power Relay I
+Radio L, Qty: 5 (Cargo)
+Infrared L, Qty: 2 (Cargo)
+Multifrequency L, Qty: 7 (Cargo)
+Valkyrie I, Qty: 4 (Cargo)
+Aurora L, Qty: 4 (Cargo)
+Gleam L, Qty: 5 (Cargo)
+Valkyrie I, Qty: 3 (Drone Bay)
+

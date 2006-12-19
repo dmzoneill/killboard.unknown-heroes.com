@@ -1,0 +1,19 @@
+2007.01.15 08:10
+
+Victim: Marco Polo9
+Alliance: None
+Corp: Federal Navy Academy
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Stitcher (laid the final blow)
+Security: 3.4
+Alliance: Freelancer Alliance
+Corp: J.I.T. Enterprises
+Ship: Rokh
+Weapon: 425mm Railgun I
+
+

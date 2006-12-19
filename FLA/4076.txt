@@ -1,0 +1,71 @@
+2007.04.14 02:33
+
+Victim: Torothin
+Alliance: None
+Corp: Drunken And Disorderly
+Destroyed: Abaddon
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Vel'Kethor
+Security: 0.0
+Alliance: DeStInY.
+Corp: House Of Aaron
+Ship: Harbinger
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: Commander XXX (laid the final blow)
+Security: 3.7
+Alliance: DeStInY.
+Corp: The Knights Of Camelot
+Ship: Dominix
+Weapon: Ogre II
+
+Name: Prodigal IV
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Ship: Dominix
+Weapon: Ogre II
+
+Name: Iatnuolas
+Security: 1.6
+Alliance: DeStInY.
+Corp: The Knights Of Camelot
+Ship: Drake
+Weapon: Widowmaker Heavy Missile
+
+Name: AstroFlyer
+Security: 4.4
+Alliance: NxT LeveL
+Corp: Raddick Explorations
+Ship: Manticore
+Weapon: Devastator Cruise Missile
+
+Name: Death Reactor
+Security: -1.9
+Alliance: DeStInY.
+Corp: The Knights Of Camelot
+Ship: Executioner
+Weapon: 'Langour' Drive Disruptor I
+
+
+Destroyed items:
+
+Mega Modulated Pulse Energy Beam I
+Mega Modulated Pulse Energy Beam I
+Mega Modulated Pulse Energy Beam I
+Heavy Nosferatu I
+Heavy Nosferatu I
+Multifrequency L
+Multifrequency L
+Multifrequency L
+Multifrequency L
+Heavy Capacitor Booster II
+Sensor Booster II
+Energized Thermic Membrane II
+Energized Adaptive Nano Membrane II
+Hammerhead II, Qty: 2 (Drone Bay)
+

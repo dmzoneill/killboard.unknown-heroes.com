@@ -1,0 +1,96 @@
+2007.01.15 15:27
+
+Victim: Shock Wave
+Alliance: None
+Corp: e X i l e
+Destroyed: Crusader
+System: J1AU-9
+Security: 0.0
+
+Involved parties:
+
+Name: Swindy
+Security: 1.4
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Harpy
+Weapon: Harpy
+
+Name: Dusky 4ET
+Security: 4.8
+Alliance: Guardian Federation
+Corp: KULT Production
+Ship: Taranis
+Weapon: Taranis
+
+Name: darkviron (laid the final blow)
+Security: 3.0
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Ezzeckell
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Sin-X Inc.
+Ship: Thorax
+Weapon: Thorax
+
+Name: mike's sister
+Security: 0.4
+Alliance: Freelancer Alliance
+Corp: X.T.R
+Ship: Blackbird
+Weapon: Heavy Missile Launcher I
+
+Name: Toxic Traveller
+Security: 3.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Caracal
+Weapon: Target Painter I
+
+Name: Nya
+Security: 2.1
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Tempest
+Weapon: XR-3200 Heavy Missile Bay
+
+Name: Howard199
+Security: 4.2
+Alliance: Freelancer Alliance
+Corp: Feel Good Inc.
+Ship: Drake
+Weapon: XR-3200 Heavy Missile Bay
+
+Name: Goca
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Raven
+Weapon: Siege Missile Launcher II
+
+Name: FlobbMkII
+Security: 3.3
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Thorax
+Weapon: Heavy Ion Blaster I
+
+
+Destroyed items:
+
+Dual Light Pulse Laser II
+Dual Light Pulse Laser II
+Conflagration S
+1MN MicroWarpdrive II
+Capacitor Power Relay I
+Megacyte, Qty: 36 (Cargo)
+F-b10 Nominal Capacitor Regenerator (Cargo)
+350mm Prototype I Gauss Gun (Cargo)
+1600mm Reinforced Rolled Tungsten Plates I (Cargo)
+Scorch S (Cargo)
+Conflagration S, Qty: 4 (Cargo)
+

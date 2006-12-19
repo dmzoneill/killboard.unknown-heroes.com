@@ -1,0 +1,26 @@
+2007.03.10 16:55
+
+Victim: evilempire3
+Alliance: Chorus of Dawn
+Corp: Cosmic Odyssey
+Destroyed: Capsule
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Inter Fectum (laid the final blow)
+Security: 2.0
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery I
+
+Name: Banishment
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Sin-X Inc.
+Ship: Incursus
+Weapon: Incursus
+
+

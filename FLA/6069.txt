@@ -1,0 +1,47 @@
+2006.11.06 22:19
+
+Victim: Tyras Bastilla
+Alliance: None
+Corp: DESTINY INC
+Destroyed: Capsule
+System: P-2TTL
+Security: 0.0
+
+Involved parties:
+
+Name: Formosus Funus (laid the final blow)
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Jaguar
+Weapon: 250mm Light Artillery Cannon II
+
+Name: Preying Mantis
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: Hosanna
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Jaguar
+Weapon: Faint Warp Prohibitor I
+
+Name: Flashh Gorden
+Security: 3.1
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Ship: Kestrel
+Weapon: Upgraded 'Limos' Standard Missile Bay I
+
+Name: Elfaen Ethenwe
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Rook
+Weapon: ECM - Multispectral Jammer II
+
+

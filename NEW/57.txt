@@ -1,0 +1,99 @@
+2007.01.01 15:47
+
+Victim: Koetje II
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Cyclone
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: xlop
+Security: -1.0
+Alliance: None
+Corp: omen.
+Ship: Typhoon
+Weapon: Devastator Cruise Missile
+
+Name: Dr Wahoos
+Security: -3.3
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Raven
+Weapon: Bane Javelin Torpedo
+
+Name: Axl Alien
+Security: -1.7
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Harpy
+Weapon: Harpy
+
+Name: Kru5ty
+Security: -1.8
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: the willyb (laid the final blow)
+Security: -2.1
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Hyperion
+Weapon: Ion Blaster Cannon II
+
+Name: Murdoch Morf
+Security: 1.5
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: Drakin Korin
+Security: -0.7
+Alliance: None
+Corp: Evil Bandit Organisation
+Ship: Lachesis
+Weapon: Lachesis
+
+Name: Jenessa
+Security: 2.3
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Calishere
+Security: 0.1
+Alliance: None
+Corp: Caldari Provisions
+Ship: Flycatcher
+Weapon: Fleeting Propulsion Inhibitor I
+
+Name: Darknesss
+Security: -0.5
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Dominix
+Weapon: Dominix
+
+Name: Miss d1amond
+Security: -1.1
+Alliance: None
+Corp: omen.
+Ship: Cheetah
+Weapon: J5 Prototype Warp Inhibitor I
+
+
+Destroyed items:
+
+720mm Carbine Howitzer I
+Phased Plasma M, Qty: 5
+Scourge Heavy Missile, Qty: 15
+Heavy Missile Launcher I
+Medium Neutron Saturation Injector I
+Local Power Plant Manager: Diagnostic System I, Qty: 2
+Vespa I, Qty: 3 (Drone Bay)
+Hornet I, Qty: 2 (Drone Bay)

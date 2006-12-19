@@ -1,0 +1,143 @@
+2007.04.17 20:53
+
+Victim: Savak
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Apocalypse
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Burn Lump
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Crow
+Weapon: Dragonfly
+
+Name: Kee Ris
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Sacrilege
+Weapon: Sacrilege
+
+Name: ClogMan
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Wolf
+Weapon: Wolf
+
+Name: dastommy79
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Executioner
+Weapon: Modal Light Ion Particle Accelerator I
+
+Name: Kayron Brennan (laid the final blow)
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Thanatos
+Weapon: Firbolg
+
+Name: The Cade
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Thorax
+Weapon: Thorax
+
+Name: Kaand
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Thorax
+Weapon: Thorax
+
+Name: Rhaall
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Crucifier
+Weapon: Dragonfly
+
+Name: Green Back
+Security: 2.1
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Stabber
+Weapon: Stabber
+
+Name: Alski
+Security: 3.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Cormorant
+Weapon: Cormorant
+
+Name: Sir Appa
+Security: 1.4
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: wagg
+Security: 2.6
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Tristan
+Weapon: Hobgoblin I
+
+Name: Teck7
+Security: 1.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ares
+Weapon: 'Limos' Rocket Launcher I
+
+Name: Steven FSB
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Chimera
+Weapon: Dragonfly
+
+Name: Magic Mazuma
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Rifter
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: Bobby Atlas
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Thanatos
+Weapon: Firbolg
+
+
+Destroyed items:
+
+Tachyon Beam Laser I
+Tachyon Beam Laser I
+Tachyon Beam Laser I
+Tachyon Beam Laser I
+Ultraviolet L
+Ultraviolet L
+Eutectic I Capacitor Charge Array
+Prototype I Sensor Booster
+Armor Kinetic Hardener I
+N-Type Explosive Hardener I
+Armor Explosive Hardener I
+1600mm Reinforced Crystalline Carbonide Plates I
+Type-D Power Core Modification: Reaction Control
+Multifrequency L, Qty: 4 (Cargo)
+Infrared L, Qty: 5 (Cargo)
+Ultraviolet L, Qty: 3 (Cargo)
+

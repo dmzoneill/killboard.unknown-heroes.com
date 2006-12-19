@@ -1,0 +1,84 @@
+2007.02.09 21:21
+
+Victim: starius3
+Alliance: Triumvirate.
+Corp: omen.
+Destroyed: Taranis
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: nXus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Raven
+Weapon: Firbolg
+
+Name: Burn Lump (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Ferox
+Weapon: 250mm Railgun II
+
+Name: Korudon
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Harpy
+Weapon: Harpy
+
+Name: Valea Silpha
+Security: 2.1
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Rupture
+Weapon: 720mm Howitzer Artillery II
+
+Name: Xantheris
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: jacass66
+Security: 5.0
+Alliance: None
+Corp: BGG
+Ship: Thanatos
+Weapon: Firbolg
+
+Name: Scailer Dantre
+Security: -1.8
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Moa
+Weapon: Moa
+
+Name: Rick A
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Thrasher
+Weapon: 280mm Howitzer Artillery I
+
+Name: Kandread
+Security: 0.6
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+
+Destroyed items:
+
+125mm Railgun II
+Spike S, Qty: 160
+X5 Prototype I Engine Enervator
+Local Hull Conversion Inertial Stabilizers I
+Cynosural Field Generator I (Cargo)
+Hobgoblin II, Qty: 2 (Drone Bay)
+

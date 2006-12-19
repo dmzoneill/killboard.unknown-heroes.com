@@ -1,0 +1,99 @@
+2006.10.07 18:12
+
+Victim: carraktiker
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Destroyed: Dominix
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Lone flyer
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Zealot
+Weapon: Zealot
+
+Name: Jumar Coldgin (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+Name: Traxex
+Security: 1.5
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Tempest
+Weapon: Tempest
+
+Name: kookos
+Security: 2.9
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Crusader
+Weapon: Crusader
+
+Name: Ione79
+Security: 3.4
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Celestis
+Weapon: Thunderbolt Heavy Missile
+
+Name: Karas Rabus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Huginn
+Weapon: Flameburst Light Missile
+
+Name: Shika Zax
+Security: 1.3
+Alliance: THE R0CK
+Corp: The Keep
+Ship: Arbitrator
+Weapon: Warrior I
+
+Name: Minesweeper
+Security: 3.1
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Blackbird
+Weapon: ECM - Multispectral Jammer I
+
+Name: James Potkukelkka
+Security: 0.1
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Flycatcher
+Weapon: Bloodclaw Light Missile
+
+Name: Bolinar
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Deimos
+Weapon: Heavy Ion Blaster II
+
+
+Destroyed items:
+
+Heavy Nosferatu I
+Heavy Nosferatu I
+250mm Railgun II
+250mm Railgun II
+Antimatter Charge M, Qty: 120
+Heavy Tapered Capacitor Infusion I
+Sensor Booster I
+Pseudoelectron Containment Field I
+1600mm Reinforced Rolled Tungsten Plates I
+Antimatter Charge M, Qty: 1602 (Cargo)
+Cap Booster 800, Qty: 11 (Cargo)
+Ogre II, Qty: 4 (Drone Bay)
+Warrior II, Qty: 6 (Drone Bay)
+Hobgoblin II, Qty: 9 (Drone Bay)
+

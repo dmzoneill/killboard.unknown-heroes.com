@@ -1,0 +1,43 @@
+2005.10.15 18:28
+
+Victim: Atros Pendragon
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Kestrel
+System: Vuorrassi
+Security: 0.5
+
+Involved parties:
+
+Name: Heero Yuy
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Ishtar
+Weapon: Stasis Webifier I
+
+Name: Reiv (laid the final blow)
+Security: 0.1
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Rifter
+Weapon: Flameburst Light Missile I
+
+Name: Akkijee
+Security: 0.8
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Vigil
+Weapon: Target Painter I
+
+
+Destroyed items:
+
+Phalanx Rocket I, Qty: 60
+Rocket Launcher I
+Rocket Launcher I
+Rocket Launcher I
+1MN Afterburner I
+Type-E Power Core Modification: Diagnostic System
+Basic Reactor Control Unit
+

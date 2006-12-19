@@ -1,0 +1,19 @@
+2006.10.26 01:20
+
+Victim: Tapas
+Alliance: None
+Corp: Lemmings Inc
+Destroyed: Capsule
+System: G-M4I8
+Security: 0.0
+
+Involved parties:
+
+Name: Soliloquil (laid the final blow)
+Security: 3.7
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Moa
+Weapon: 200mm Railgun I
+
+

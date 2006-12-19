@@ -1,0 +1,148 @@
+2006.09.10 20:41
+
+Victim: Spinsq
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Destroyed: Dominix
+System: O-N8XZ
+Security: 0.0
+
+Involved parties:
+
+Name: MentalM
+Security: 5.2
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Zealot
+Weapon: Zealot
+
+Name: ShiVAs PArAdOXx
+Security: 2.1
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Huginn
+Weapon: Huginn
+
+Name: Taffun
+Security: 2.8
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Wolf
+Weapon: 250mm Light Artillery Cannon II
+
+Name: Valtaer
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: Terminal Velocity Inc.
+Ship: Moa
+Weapon: 250mm Compressed Coil Gun I
+
+Name: vladdy2
+Security: 3.4
+Alliance: CORE.
+Corp: VentureCorp
+Ship: Huginn
+Weapon: Huginn
+
+Name: 8ObliVioN8
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Raptor
+Weapon: 125mm Railgun II
+
+Name: Puke
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Shiri elAzarinres
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+Name: Fahad (laid the final blow)
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+Name: D2O HeavyWater
+Security: -1.7
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Scorpion
+Weapon: Cruise Missile Launcher I
+
+Name: DDaisy
+Security: 4.6
+Alliance: CORE.
+Corp: VentureCorp
+Ship: Lachesis
+Weapon: Thunderbolt Heavy Missile
+
+Name: Karnovsky
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Sabre
+Weapon: Sabre
+
+Name: Khan Singh
+Security: 4.9
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Blackbird
+Weapon: Heavy Missile Launcher I
+
+Name: kermitfrog
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Kev Lar
+Security: -0.1
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Sabre
+Weapon: Sabre
+
+Name: Munch
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Curse
+Weapon: Hammerhead II
+
+Name: Zimi Vlasic
+Security: 0.1
+Alliance: EVE Animal Control
+Corp: F.R.E.E. Explorer
+Ship: Wolf
+Weapon: Wolf
+
+
+Destroyed items:
+
+250mm Railgun II
+250mm Railgun II
+250mm Railgun II
+Antimatter Charge M, Qty: 117
+F-90 Positional Sensor Subroutines
+Pseudoelectron Containment Field I
+Large Armor Repairer II
+Energized Adaptive Nano Membrane II
+Armor Thermic Hardener II
+Antimatter Charge M, Qty: 1826 (Cargo)
+Praetor I, Qty: 3 (Drone Bay)
+Hammerhead I, Qty: 4 (Drone Bay)
+Warrior I, Qty: 3 (Drone Bay)
+Ogre I, Qty: 3 (Drone Bay)
+

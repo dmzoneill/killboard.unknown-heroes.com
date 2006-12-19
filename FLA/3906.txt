@@ -1,0 +1,56 @@
+2007.04.05 21:29
+
+Victim: Riachu
+Alliance: None
+Corp: Science and Trade Institute
+Destroyed: Cormorant
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Penal Serge
+Security: 5.0
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Drake
+Weapon: Warrior II
+
+Name: Lee Thrace
+Security: 5.0
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Lachesis
+Weapon: Thunderbolt Heavy Missile
+
+Name: Ember Fox
+Security: 1.5
+Alliance: DeStInY.
+Corp: Fusion Enterprises Ltd
+Ship: Taranis
+Weapon: 125mm Railgun II
+
+Name: Steven FSB (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: OrbiteronAir
+Security: 5.0
+Alliance: SECUWAY.
+Corp: SecuWay Industrial inc.
+Ship: Manticore
+Weapon: 'Arbalest' Cruise Launcher I
+
+
+Destroyed items:
+
+125mm Railgun I
+125mm Railgun I
+Iridium Charge S, Qty: 160
+Iridium Charge S, Qty: 8319 (Cargo)
+Broken Drone Transceiver, Qty: 48 (Cargo)
+Malfunctioning Shield Emitter, Qty: 102 (Cargo)
+

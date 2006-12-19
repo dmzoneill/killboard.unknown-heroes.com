@@ -1,0 +1,61 @@
+2007.01.12 16:46
+
+Victim: Mauy Thai
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Destroyed: Curse
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: WarGod
+Security: 1.2
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Curse
+Weapon: Hobgoblin II
+
+Name: oneevil mother (laid the final blow)
+Security: -1.3
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Zealot
+Weapon: Heavy Pulse Laser II
+
+Name: Anna Neura
+Security: -0.2
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Arbitrator
+Weapon: Medium Nosferatu I
+
+Name: Darknesss
+Security: 0.1
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Myrmidon
+Weapon: Ogre II
+
+Name: Jenessa
+Security: 1.1
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Capsule
+Weapon: 720mm Howitzer Artillery II
+
+
+Destroyed items:
+
+Medium 'Knave' I Energy Drain
+Medium 'Knave' I Energy Drain
+Medium 'Knave' I Energy Drain
+Y-T8 Overcharged Hydrocarbon I Microwarpdrive
+Fleeting Warp Scrambler I
+X5 Prototype I Engine Enervator
+Sensor Booster I
+Medium Armor Repairer I
+Energized Adaptive Nano Membrane I
+N-Type Thermic Hardener I
+Warrior II, Qty: 3 (Drone Bay)
+

@@ -1,0 +1,50 @@
+2007.03.22 19:31
+
+Victim: Diablo 2k6
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Destroyed: Thorax
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Yushii
+Security: -0.3
+Alliance: Triumvirate.
+Corp: ViperSquad
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: lt blacklotus (laid the final blow)
+Security: 0.8
+Alliance: Triumvirate.
+Corp: ViperSquad
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Murdoch Morf
+Security: 1.4
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Taranis
+Weapon: Hobgoblin II
+
+
+Destroyed items:
+
+Light Ion Blaster II
+Light Ion Blaster II
+Light Ion Blaster II
+Light Ion Blaster II
+Null S, Qty: 330
+Stasis Webifier I
+Medium Armor Repairer II
+Magnetic Field Stabilizer I
+Magnetic Field Stabilizer I
+1600mm Reinforced Titanium Plates I
+J5 Prototype Warp Inhibitor I (Cargo)
+Small I-a Polarized Armor Regenerator (Cargo)
+X5 Prototype I Engine Enervator (Cargo)
+Micro Auxiliary Power Core I (Cargo)
+

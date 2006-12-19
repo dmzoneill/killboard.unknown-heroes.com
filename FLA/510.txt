@@ -1,0 +1,33 @@
+2007.02.08 00:16
+
+Victim: Barrett Hozu
+Alliance: None
+Corp: Republic Military School
+Destroyed: Capsule
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Xantheris (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: Kasahara
+Security: -0.2
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery I
+
+Name: Dark Carnage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Crow
+Weapon: Sabretooth Light Missile
+
+

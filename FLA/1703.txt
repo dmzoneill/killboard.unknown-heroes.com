@@ -1,0 +1,121 @@
+2007.01.01 16:36
+
+Victim: Valadeya uthanaras
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Destroyed: Armageddon
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: xlop
+Security: -1.0
+Alliance: None
+Corp: omen.
+Ship: Typhoon
+Weapon: Devastator Cruise Missile
+
+Name: Jenessa
+Security: 2.3
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Tempest
+Weapon: Tempest
+
+Name: Darknesss
+Security: -0.5
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Dominix
+Weapon: Ogre II
+
+Name: Drakin Korin
+Security: -0.7
+Alliance: None
+Corp: Evil Bandit Organisation
+Ship: Lachesis
+Weapon: Widowmaker Heavy Missile
+
+Name: Murdoch Morf
+Security: 1.5
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: Calishere (laid the final blow)
+Security: 0.1
+Alliance: None
+Corp: Caldari Provisions
+Ship: Flycatcher
+Weapon: Bloodclaw Light Missile
+
+Name: g3cko
+Security: -2.6
+Alliance: None
+Corp: omen.
+Ship: Crusader
+Weapon: Crusader
+
+Name: Dr Wahoos
+Security: -3.3
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Raven
+Weapon: Mjolnir Javelin Torpedo
+
+Name: Axl Alien
+Security: -1.7
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Harpy
+Weapon: Harpy
+
+Name: Jimmycs83
+Security: -1.5
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Taranis
+Weapon: 150mm Railgun II
+
+Name: boo3916
+Security: 4.4
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Dominix
+Weapon: Dominix
+
+Name: Miss d1amond
+Security: -1.1
+Alliance: None
+Corp: omen.
+Ship: Cheetah
+Weapon: Low Frequency Sensor Suppressor I
+
+Name: Elliott Manchild
+Security: -1.7
+Alliance: None
+Corp: omen.
+Ship: Dominix
+Weapon: J5 Prototype Warp Inhibitor I
+
+
+Destroyed items:
+
+Tachyon Beam Laser II
+Tachyon Beam Laser II
+Tachyon Beam Laser II
+Aurora L
+Aurora L
+Aurora L
+Tracking Computer II
+Heat Sink II
+Heat Sink II
+Heat Sink II
+Mark I Generator Refitting: Reaction Control
+Multifrequency M (Cargo)
+Multifrequency L, Qty: 3 (Cargo)
+Radio L, Qty: 4 (Cargo)
+Gleam L, Qty: 4 (Cargo)
+

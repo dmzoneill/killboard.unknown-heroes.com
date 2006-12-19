@@ -1,0 +1,82 @@
+2007.04.26 00:34
+
+Victim: Bellon
+Alliance: Band of Brothers
+Corp: Reikoku
+Destroyed: Kestrel
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Ghu'ru Talozan
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Celestis
+Weapon: Celestis
+
+Name: Deyionu
+Security: 0.8
+Alliance: Freelancer Alliance
+Corp: Harbingers of Sarrow
+Ship: Enyo
+Weapon: Enyo
+
+Name: Kayron Brennan (laid the final blow)
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Minisoza
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ares
+Weapon: Warp Disruptor II
+
+Name: Kvarium Ki
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Rifter
+Weapon: 250mm Light Carbine Howitzer I
+
+Name: Confessor
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: Lynx Frontier Inc.
+Ship: Punisher
+Weapon: Punisher
+
+Name: Ketch Kan
+Security: 4.0
+Alliance: Sparta Alliance
+Corp: Lynx Frontier Inc.
+Ship: Eris
+Weapon: 250mm Light Artillery Cannon I
+
+Name: Imaginary Number
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Incursus
+Weapon: Light Neutron Blaster I
+
+Name: Sephron Kintaka
+Security: 4.0
+Alliance: Sparta Alliance
+Corp: Lynx Frontier Inc.
+Ship: Taranis
+Weapon: Taranis
+
+Name: RythemAndStealth
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Vengeance
+Weapon: Vengeance
+
+

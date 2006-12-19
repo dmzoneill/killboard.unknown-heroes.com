@@ -1,0 +1,47 @@
+2006.11.27 22:22
+
+Victim: TerrorBaBy
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Destroyed: Capsule
+System: C8-CHY
+Security: 0.0
+
+Involved parties:
+
+Name: boo3916 (laid the final blow)
+Security: 4.4
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Vulture
+Weapon: 250mm Railgun II
+
+Name: Vagra
+Security: -0.4
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Stabber
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: ArchenTheGreat
+Security: -2.5
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Flycatcher
+Weapon: Flycatcher
+
+Name: j3bus
+Security: 2.7
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Ares
+Weapon: Ares
+
+Name: flexd
+Security: 0.5
+Alliance: None
+Corp: Beer Guzzling Clowns With Blasters
+Ship: Caracal
+Weapon: Heavy Missile Launcher I
+
+

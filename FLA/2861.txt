@@ -1,0 +1,54 @@
+2007.03.13 01:21
+
+Victim: Downeaster
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Destroyed: Capsule
+System: MJYW-3
+Security: 0.0
+
+Involved parties:
+
+Name: Zerefin
+Security: 5.0
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Malediction
+Weapon: Warp Disruptor I
+
+Name: DeathGrip
+Security: 2.3
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Flycatcher
+Weapon: Foxfire Javelin Rocket
+
+Name: IamnobodyCL
+Security: 5.0
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Crusader
+Weapon: Dual Light Beam Laser II
+
+Name: Issaqua
+Security: -1.1
+Alliance: None
+Corp: Constructive Influence
+Ship: Rifter
+Weapon: Thorn Rocket
+
+Name: ZAX0236 (laid the final blow)
+Security: 5.0
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Flycatcher
+Weapon: Sabretooth Precision Light Missile
+
+Name: MsMephistopheles
+Security: 2.3
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Taranis
+Weapon: Fleeting Warp Scrambler I
+
+

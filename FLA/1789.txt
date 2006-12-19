@@ -1,0 +1,90 @@
+2007.01.03 20:16
+
+Victim: ninev0lts
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Destroyed: Brutix
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: WiseMan Ari
+Security: -1.0
+Alliance: Shroud Of Darkness
+Corp: The Priory
+Ship: Harbinger
+Weapon: Harbinger
+
+Name: The Grum (laid the final blow)
+Security: -1.4
+Alliance: Shroud Of Darkness
+Corp: The Priory
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Beovvulf
+Security: 2.1
+Alliance: Shroud Of Darkness
+Corp: Revelations Inc.
+Ship: Claymore
+Weapon: 650mm Artillery Cannon II
+
+Name: DrDevice
+Security: 0.7
+Alliance: Shroud Of Darkness
+Corp: The Priory
+Ship: Lachesis
+Weapon: Lachesis
+
+Name: Tomski Ruslav
+Security: -0.5
+Alliance: Shroud Of Darkness
+Corp: Revelations Inc.
+Ship: Scimitar
+Weapon: Dual 180mm AutoCannon II
+
+Name: SurVie
+Security: 0.0
+Alliance: Shroud Of Darkness
+Corp: Revelations Inc.
+Ship: Omen
+Weapon: Omen
+
+Name: flashbang2277
+Security: 4.9
+Alliance: Shroud Of Darkness
+Corp: Revelations Inc.
+Ship: Vengeance
+Weapon: Vengeance
+
+Name: Gutsani
+Security: 3.4
+Alliance: Shroud Of Darkness
+Corp: The Priory
+Ship: Ishkur
+Weapon: Warrior II
+
+Name: Ammonita Virosa
+Security: 3.9
+Alliance: Shroud Of Darkness
+Corp: The Priory
+Ship: Rupture
+Weapon: Rupture
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Heavy Electron Blaster I
+Heavy Electron Blaster I
+Heavy Electron Blaster I
+Heavy Electron Blaster I
+Thorium Charge M, Qty: 600
+10MN MicroWarpdrive I
+Warp Disruptor I
+Cap Booster 800
+Armor Explosive Hardener I
+Armor Kinetic Hardener I
+Hammerhead I, Qty: 2 (Drone Bay)
+

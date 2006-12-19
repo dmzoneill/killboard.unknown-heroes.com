@@ -1,0 +1,33 @@
+2007.04.10 15:49
+
+Victim: Achura Nepala
+Alliance: None
+Corp: School of Applied Knowledge
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Wallyx (laid the final blow)
+Security: 4.5
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Abaddon
+Weapon: Mega Modulated Pulse Energy Beam I
+
+Name: Marianne Usko
+Security: 0.2
+Alliance: DeStInY.
+Corp: The Knights Of Camelot
+Ship: Celestis
+Weapon: Celestis
+
+Name: kakakarr
+Security: 2.9
+Alliance: DeStInY.
+Corp: The Knights Of Camelot
+Ship: Dominix
+Weapon: Warp Disruptor II
+
+

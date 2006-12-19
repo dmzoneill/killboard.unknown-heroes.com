@@ -1,0 +1,63 @@
+2006.05.04 17:00
+
+Victim: Archbishop Flanman
+Alliance: Northern Freedom Coalition
+Corp: Digital Fury Corporation
+Destroyed: Apocalypse
+System: 3T7-M8
+Security: 0.0
+
+Involved parties:
+
+Name: SATAN
+Security: -1.7
+Alliance: None
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+Name: ICPI BlackAngel
+Security: 2.6
+Alliance: Freelancer Alliance
+Corp: B.A.Y Mining and Construction Ltd
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+Name: Laboratus (laid the final blow)
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Megathron
+Weapon: 425mm Prototype I Gauss Gun
+
+Name: Dark Dreamon
+Security: 0.1
+Alliance: Freelancer Alliance
+Corp: Lords Of Guile
+Ship: Megathron
+Weapon: Megathron
+
+Name: AXi0S
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Freelancer Union
+Ship: Raven
+Weapon: 'Limos' Cruise Launcher I
+
+
+Destroyed items:
+
+Mega Anode Particle Stream I
+Tachyon Afocal Maser I
+Heavy Nosferatu I
+Multifrequency L
+Multifrequency L
+Multifrequency L
+Mjolnir Torpedo, Qty: 18
+F-b10 Nominal Capacitor Regenerator
+Heat Sink II
+Radio L, Qty: 5 (Cargo)
+Mjolnir Torpedo, Qty: 1964 (Cargo)
+Inferno Torpedo, Qty: 1385 (Cargo)
+Wasp I (Drone Bay)
+

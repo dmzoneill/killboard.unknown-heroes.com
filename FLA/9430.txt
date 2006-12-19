@@ -1,0 +1,45 @@
+2007.05.13 07:02
+
+Victim: Ophea
+Alliance: Freelancer Alliance
+Corp: The Collective of Ascended Beings
+Destroyed: Drake
+System: Litiura
+Security: 0.5
+
+Involved parties:
+
+Name: vickers
+Security: -2.0
+Alliance: None
+Corp: Mentally Unstable Enterprises
+Ship: Myrmidon
+Weapon: Myrmidon
+
+Name: mad killer (laid the final blow)
+Security: -2.2
+Alliance: None
+Corp: Mentally Unstable Enterprises
+Ship: Absolution
+Weapon: Heavy Pulse Laser II
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 132
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+Small Tractor Beam I
+Large Shield Extender II
+Shield Recharger II
+Magnetic Scattering Amplifier II
+Shield Power Relay II
+Shield Power Relay II
+Shield Power Relay II
+Shield Power Relay II
+Scourge Heavy Missile, Qty: 4923 (Cargo)
+

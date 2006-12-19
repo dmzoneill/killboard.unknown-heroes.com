@@ -1,0 +1,49 @@
+2007.03.25 14:28
+
+Victim: tiki bmp
+Alliance: Chorus of Dawn
+Corp: Infinite Style Incorporated
+Destroyed: Taranis
+System: QXW-PV
+Security: 0.0
+
+Involved parties:
+
+Name: Zephia
+Security: -8.7
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Omen
+Weapon: Warrior I
+
+Name: Tregaron
+Security: 2.3
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Capsule
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+Name: chota
+Security: 5.0
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Rupture
+Weapon: Fulmination Assault Missile
+
+Name: RythemAndStealth (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Omen
+Weapon: Medium Beam Laser II
+
+
+Destroyed items:
+
+Small 'Knave' I Energy Drain
+Plutonium Charge S, Qty: 67
+Warp Disruptor I
+Small I-a Polarized Armor Regenerator
+Null S, Qty: 28 (Cargo)
+Acolyte II, Qty: 2 (Drone Bay)
+

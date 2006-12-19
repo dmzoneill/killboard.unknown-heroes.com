@@ -1,0 +1,26 @@
+2007.04.27 20:45
+
+Victim: Kvarium Ki
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Destroyed: Capsule
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: lethario desrtuction (laid the final blow)
+Security: 2.1
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Hawk
+Weapon: Bloodclaw Precision Light Missile
+
+Name: Screamer
+Security: 0.9
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Manticore
+Weapon: Cruise Missile Launcher II
+
+

@@ -1,0 +1,19 @@
+2007.04.10 18:18
+
+Victim: Shassandra
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Capsule
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Nina Mires (laid the final blow)
+Security: 4.6
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Taranis
+Weapon: 125mm Railgun II
+
+

@@ -1,0 +1,42 @@
+2007.01.28 18:05
+
+Victim: mrrabit
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Thrasher
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Zeram
+Security: 3.3
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Jaguar
+Weapon: Foxfire Rocket
+
+Name: Nira Li (laid the final blow)
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Harbinger
+Weapon: Focused Medium Pulse Laser II
+
+Name: Ka Dargo
+Security: 4.4
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Vagabond
+Weapon: Vagabond
+
+
+Destroyed items:
+
+250mm Light Artillery Cannon I, Qty: 3
+Small Nosferatu I, Qty: 2
+EMP S, Qty: 12
+1MN MicroWarpdrive I
+Stasis Webifier I
+EMP S, Qty: 794 (Cargo)
+Proton S, Qty: 500 (Cargo)

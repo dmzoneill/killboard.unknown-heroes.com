@@ -1,0 +1,118 @@
+2007.01.01 21:18
+
+Victim: Chycha Hlam
+Alliance: None
+Corp: Science and Trade Institute
+Destroyed: Badger
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: SniperMcBob
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Blackbird
+Weapon: Fleeting Warp Scrambler I
+
+Name: Maximus Caelum (laid the final blow)
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: Sin-X Inc.
+Ship: Hawk
+Weapon: Bloodclaw Light Missile
+
+Name: TiMeZeRo225
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: J.I.T. Enterprises
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Lux0r
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Hawk
+Weapon: Standard Missile Launcher II
+
+Name: Courtney Brown
+Security: 4.8
+Alliance: Freelancer Alliance
+Corp: X.T.R
+Ship: Drake
+Weapon: XR-3200 Heavy Missile Bay
+
+Name: Demarcus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Drake
+Weapon: Havoc Precision Heavy Missile
+
+Name: Maefly
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: Denaris1
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: mrrabit
+Security: 1.8
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Rupture
+Weapon: Rocket Launcher I
+
+Name: forever faithless
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Merlin
+Weapon: Merlin
+
+Name: avelution
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Ishkur
+Weapon: Initiated Harmonic Warp Jammer I
+
+Name: Soldroz
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Crow
+Weapon: OE-5200 Rocket Launcher
+
+Name: Rev Darkwing
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Blackbird
+Weapon: Heavy Missile Launcher I
+
+Name: Korudon
+Security: 4.7
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Crow
+Weapon: Upgraded 'Limos' Standard Missile Bay I
+
+
+Destroyed items:
+
+Ultraviolet S
+Monopropellant I Hydrazine Boosters
+Small Armor Repairer I
+Basic Nanofiber Internal Structure
+1MN Afterburner I (Cargo)
+Ultraviolet S (Cargo)

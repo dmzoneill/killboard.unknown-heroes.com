@@ -1,0 +1,67 @@
+2007.03.24 19:42
+
+Victim: Gesthar Malvani
+Alliance: Eternal Rapture
+Corp: Temptation inc.
+Destroyed: Falcon
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: ClogMan
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Typhoon
+Weapon: Devastator Cruise Missile
+
+Name: Amon Fire
+Security: 0.7
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Armageddon
+Weapon: Mega Afocal Maser I
+
+Name: TheSaF (laid the final blow)
+Security: 4.2
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Burn Lump
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Drake
+Weapon: Bloodclaw Light Missile
+
+Name: Tetrahagel
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Thorax
+Weapon: Heavy Neutron Blaster I
+
+Name: Skull Fire
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Raven
+Weapon: Warp Disruptor I
+
+Name: Llondon Hilton
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Ishkur
+Weapon: Initiated Warp Jammer I
+
+
+Destroyed items:
+
+ECM - Phase Inverter II
+Liquid Ozone, Qty: 234 (Cargo)
+Snoop Scanner Probe I, Qty: 46 (Cargo)
+

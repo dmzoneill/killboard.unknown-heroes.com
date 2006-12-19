@@ -1,0 +1,26 @@
+2007.04.05 00:35
+
+Victim: ConXtionS
+Alliance: Freelancer Alliance
+Corp: The Night Crew
+Destroyed: Capsule
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Joshua Foiritain (laid the final blow)
+Security: -1.7
+Alliance: Corelum Syndicate
+Corp: Coreli Corporation
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Dia Spora
+Security: 0.9
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Ishkur
+Weapon: 125mm Railgun II
+
+

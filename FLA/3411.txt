@@ -1,0 +1,65 @@
+2007.03.25 19:58
+
+Victim: darkviron
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Destroyed: Blackbird
+System: Alsavoinon
+Security: 0.3
+
+Involved parties:
+
+Name: Solid Wilko (laid the final blow)
+Security: -1.7
+Alliance: Eternal Rapture
+Corp: Quantum Synergies
+Ship: Hurricane
+Weapon: 425mm AutoCannon II
+
+Name: blh 42
+Security: -3.5
+Alliance: Eternal Rapture
+Corp: Exotic Dancers Club
+Ship: Dominix
+Weapon: Berserker I
+
+Name: Garnet Tribal
+Security: 2.0
+Alliance: Eternal Rapture
+Corp: Temptation inc.
+Ship: Raven
+Weapon: Warrior II
+
+Name: Gliding
+Security: -1.9
+Alliance: Eternal Rapture
+Corp: Quantum Synergies
+Ship: Taranis
+Weapon: Hobgoblin II
+
+Name: Ion Bartzabel
+Security: -0.2
+Alliance: Eternal Rapture
+Corp: Temptation inc.
+Ship: Crow
+Weapon: Domination Warp Disruptor
+
+Name: Handon Guild
+Security: -2.9
+Alliance: Eternal Rapture
+Corp: Exotic Dancers Club
+Ship: Dominix
+Weapon: Warp Disruptor I
+
+
+Destroyed items:
+
+Widowmaker Heavy Missile, Qty: 40
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Compulsive Multispectral ECM I
+Compulsive Multispectral ECM I
+Compulsive Multispectral ECM I
+'Hypnos' Signal Distortion Amplifier I
+Mark I Generator Refitting: Diagnostic System
+

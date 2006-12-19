@@ -1,0 +1,29 @@
+2007.04.19 20:42
+
+Victim: Tran Whistler
+Alliance: Freelancer Alliance
+Corp: Harbingers of Sarrow
+Destroyed: Raptor
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: LiteE (laid the final blow)
+Security: 3.1
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Taranis
+Weapon: Light Electron Blaster II
+
+
+Destroyed items:
+
+Lead Charge S, Qty: 109
+Thorn Rocket, Qty: 21
+1MN MicroWarpdrive I
+Warp Scrambler I
+Reactor Control Unit I
+Lead Charge S, Qty: 4453 (Cargo)
+Thorn Rocket, Qty: 1650 (Cargo)
+

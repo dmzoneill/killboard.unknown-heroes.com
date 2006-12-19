@@ -1,0 +1,69 @@
+2007.04.21 15:59
+
+Victim: number III
+Alliance: FATAL Alliance
+Corp: FATAL REVELATIONS
+Destroyed: Stabber
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Kayron Brennan
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Tran Whistler
+Security: 5.3
+Alliance: Freelancer Alliance
+Corp: Harbingers of Sarrow
+Ship: Caracal
+Weapon: Piranha Light Missile
+
+Name: demotar
+Security: 4.1
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Stabber
+Weapon: Stabber
+
+Name: Nukuquqa Hestase
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Crow
+Weapon: Sabretooth Light Missile
+
+Name: Mocuker (laid the final blow)
+Security: 0.2
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Caracal
+Weapon: Thunderbolt Heavy Missile
+
+Name: Dana Foxworth
+Security: 3.7
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Thrasher
+Weapon: Thrasher
+
+Name: Magic Mazuma
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Rifter
+Weapon: Rifter
+
+
+Destroyed items:
+
+220mm Vulcan AutoCannon I, Qty: 3
+Phased Plasma M, Qty: 156
+'Malkuth' Heavy Missile Launcher I
+10MN MicroWarpdrive I
+Overdrive Injector System I, Qty: 2
+Havoc Heavy Missile, Qty: 1831 (Cargo)

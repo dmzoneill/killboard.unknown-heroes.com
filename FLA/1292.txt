@@ -1,0 +1,26 @@
+2007.03.10 10:39
+
+Victim: callaris
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Destroyed: Amarr Shuttle
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Ocara Nezus (laid the final blow)
+Security: 2.3
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Hawk
+Weapon: Bloodclaw Precision Light Missile
+
+Name: Altanzar
+Security: 4.5
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Ship: Taranis
+Weapon: Taranis
+
+

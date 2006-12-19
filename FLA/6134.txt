@@ -1,0 +1,69 @@
+2006.11.08 20:38
+
+Victim: Voxe Kraayen
+Alliance: None
+Corp: 76th Special Task Force
+Destroyed: Punisher
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Narny
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: bidman
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Harpy
+Weapon: Harpy
+
+Name: sunik
+Security: 4.7
+Alliance: Dusk and Dawn
+Corp: Black Lance
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Dog Cancer
+Security: 1.4
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Crow
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: LizzyD
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Ishkur
+Weapon: Acolyte II
+
+Name: Elfaen Ethenwe (laid the final blow)
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Rook
+Weapon: Widowmaker Precision Heavy Missile
+
+Name: H3llfire
+Security: 2.5
+Alliance: O X I D E
+Corp: W33D Corp.
+Ship: Moa
+Weapon: Moa
+
+
+Destroyed items:
+
+200mm AutoCannon I
+200mm AutoCannon I
+Small Nosferatu I
+EMP S, Qty: 60
+Warp Scrambler I
+

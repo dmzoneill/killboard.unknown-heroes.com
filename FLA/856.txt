@@ -1,0 +1,30 @@
+2007.02.24 20:48
+
+Victim: Vadar Kramax
+Alliance: Privateer Alliance
+Corp: Fortis V
+Destroyed: Stiletto
+System: Yria
+Security: 0.5
+
+Involved parties:
+
+Name: Japanx (laid the final blow)
+Security: 2.9
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Caracal
+Weapon: Widowmaker Heavy Missile
+
+
+Destroyed items:
+
+E5 Prototype Energy Vampire
+Warp Disruptor II
+Fleeting Propulsion Inhibitor I
+Beta Hull Mod Nanofiber Structure
+Beta Hull Mod Nanofiber Structure
+Beta Hull Mod Nanofiber Structure
+Scorched Telemetry Processor (Cargo)
+Malfunctioning Shield Emitter, Qty: 4 (Cargo)
+

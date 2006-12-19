@@ -1,0 +1,60 @@
+2007.03.03 22:13
+
+Victim: Hal Grigor
+Alliance: Freelancer Alliance
+Corp: The Night Crew
+Destroyed: Megathron
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: zeroh (laid the final blow)
+Security: -6.4
+Alliance: Fatal Persuasion
+Corp: The Black Rabbits
+Ship: Typhoon
+Weapon: Bane Torpedo
+
+Name: DeathBunny II
+Security: -4.4
+Alliance: Fatal Persuasion
+Corp: The Black Rabbits
+Ship: Arazu
+Weapon: Valkyrie II
+
+Name: Wessel Jeroen
+Security: -10.0
+Alliance: Fatal Persuasion
+Corp: The Black Rabbits
+Ship: Raptor
+Weapon: Raptor
+
+
+Destroyed items:
+
+350mm Carbide Railgun I
+350mm Carbide Railgun I
+350mm Carbide Railgun I
+Antimatter Charge L, Qty: 214
+Paradise Cruise Missile, Qty: 20
+'Arbalest' Cruise Launcher I
+Heavy Capacitor Booster II
+Cap Booster 400
+Cap Booster 400
+Cap Booster 400
+Cap Booster 400
+Cap Booster 400
+Cap Booster 400
+Cap Booster 400
+Cap Booster 400
+Optical Tracking Computer I
+Optical Tracking Computer I
+Magnetic Vortex Stabilizer I
+Magnetic Vortex Stabilizer I
+Energized Adaptive Nano Membrane II
+Antimatter Charge L, Qty: 4800 (Cargo)
+Paradise Cruise Missile, Qty: 360 (Cargo)
+Wrath Cruise Missile, Qty: 1580 (Cargo)
+Berserker I, Qty: 3 (Drone Bay)
+

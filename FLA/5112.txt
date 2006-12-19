@@ -1,0 +1,51 @@
+2007.04.22 20:51
+
+Victim: Nina Kinuichi
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Destroyed: Coercer
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: ZaKma
+Security: -0.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Astarte
+Weapon: Astarte
+
+Name: Exekias
+Security: 2.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: Serge (laid the final blow)
+Security: 4.5
+Alliance: Mercenary Coalition
+Corp: Seraphin Technologies
+Ship: Abaddon
+Weapon: Mega Beam Laser II
+
+Name: Myndpyre Ryche
+Security: 4.2
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Rook
+Weapon: ECM - Multispectral Jammer II
+
+
+Destroyed items:
+
+Medium Pulse Laser I
+Medium Pulse Laser I
+Medium Pulse Laser I
+Gamma S
+Gamma S
+Radio S
+1MN MicroWarpdrive I
+Heat Sink I
+

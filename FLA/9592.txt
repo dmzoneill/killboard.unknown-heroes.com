@@ -1,0 +1,40 @@
+2007.05.19 18:40
+
+Victim: Raddy Paddy
+Alliance: M. PIRE
+Corp: M. Corp
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Prodigal IV (laid the final blow)
+Security: 4.5
+Alliance: None
+Corp: SPARTAN Peacekeeping Force
+Ship: Incursus
+Weapon: 150mm Railgun II
+
+Name: Osiris Warp
+Security: 2.2
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Crow
+Weapon: Thorn Rocket
+
+Name: Iatnuolas
+Security: 1.9
+Alliance: DeStInY.
+Corp: The Knights Of Camelot
+Ship: Executioner
+Weapon: Light Electron Blaster I
+
+Name: wardey
+Security: 0.6
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Punisher
+Weapon: Warp Disruptor I
+
+

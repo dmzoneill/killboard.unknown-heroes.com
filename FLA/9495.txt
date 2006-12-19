@@ -1,0 +1,23 @@
+2007.05.16 15:40
+
+Victim: woako
+Alliance: None
+Corp: Federal Navy Academy
+Destroyed: Velator
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Ocara Nezus (laid the final blow)
+Security: 1.5
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Crow
+Weapon: Bloodclaw Precision Light Missile
+
+
+Destroyed items:
+
+Basic Miner
+

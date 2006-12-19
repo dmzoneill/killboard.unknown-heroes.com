@@ -1,0 +1,19 @@
+2007.01.15 05:35
+
+Victim: SuperSixFour
+Alliance: None
+Corp: Agony Unleashed
+Destroyed: Capsule
+System: 7RM-N0
+Security: 0.0
+
+Involved parties:
+
+Name: KriegDrachen (laid the final blow)
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Sabre
+Weapon: 150mm Light AutoCannon II
+
+

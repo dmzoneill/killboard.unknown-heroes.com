@@ -1,0 +1,19 @@
+2007.04.05 19:26
+
+Victim: Meshik OmberIsk
+Alliance: None
+Corp: POSPRO
+Destroyed: Capsule
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: StrikerOneSevern (laid the final blow)
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Capsule
+Weapon: Bloodclaw Light Missile
+
+

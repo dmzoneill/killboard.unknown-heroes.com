@@ -1,0 +1,23 @@
+2007.03.25 08:05
+
+Victim: Dinosaurs Attack
+Alliance: None
+Corp: Republic Military School
+Destroyed: Probe
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Rustiko (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Helios
+Weapon: Hobgoblin II
+
+
+Destroyed items:
+
+1MN Afterburner I
+

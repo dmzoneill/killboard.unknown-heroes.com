@@ -1,0 +1,54 @@
+2006.10.07 21:58
+
+Victim: Diurne
+Alliance: None
+Corp: State War Academy
+Destroyed: Caldari Shuttle
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: James Potkukelkka
+Security: 0.1
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Flycatcher
+Weapon: Bloodclaw Light Missile
+
+Name: Barukor (laid the final blow)
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Wolf
+Weapon: 200mm AutoCannon II
+
+Name: Seventh Star
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Sabre
+Weapon: Rocket Launcher I
+
+Name: kone on
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: Malkius
+Security: 1.7
+Alliance: Forces of Freedom
+Corp: JUDGE DREAD Inc.
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+Name: Kyoshisan
+Security: 0.4
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Enyo
+Weapon: Initiated Warp Jammer I
+
+

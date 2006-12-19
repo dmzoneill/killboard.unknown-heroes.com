@@ -1,0 +1,61 @@
+2006.09.05 18:00
+
+Victim: Kadran
+Alliance: Eternal Empire
+Corp: Spectral Armada
+Destroyed: Badger
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Ghu'ru Talozan
+Security: 4.4
+Alliance: None
+Corp: Quasar Industries
+Ship: Deimos
+Weapon: Deimos
+
+Name: Omen Talozan (laid the final blow)
+Security: 5.0
+Alliance: None
+Corp: Quasar Industries
+Ship: Brutix
+Weapon: 250mm Prototype I Gauss Gun
+
+Name: keilapuukko
+Security: 1.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Eagle
+Weapon: SV-2000 Assault Missile Bay
+
+Name: avelution
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Caracal
+Weapon: Advanced 'Limos' Heavy Missile Bay I
+
+Name: XxAngelxX
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Malediction
+Weapon: Dual Light Pulse Laser II
+
+Name: Tylaris Solaris
+Security: 3.0
+Alliance: None
+Corp: Auroran PeaceKeepers
+Ship: Daredevil
+Weapon: E5 Prototype Energy Vampire
+
+Name: Daressek
+Security: 0.2
+Alliance: None
+Corp: Quasar Industries
+Ship: Condor
+Weapon: Warp Disruptor I
+
+

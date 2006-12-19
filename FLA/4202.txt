@@ -1,0 +1,65 @@
+2007.04.04 04:00
+
+Victim: Skull Fire
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Scorpion
+System: A-1CON
+Security: 0.0
+
+Involved parties:
+
+Name: norman protector (laid the final blow)
+Security: 5.0
+Alliance: Xelas Alliance
+Corp: Fallen Angel's
+Ship: Dominix
+Weapon: Berserker II
+
+Name: Zensige
+Security: -3.6
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Dominix
+Weapon: Ogre II
+
+
+Destroyed items:
+
+Wrath Cruise Missile
+Wrath Cruise Missile
+Wrath Cruise Missile
+Wrath Cruise Missile
+Wrath Cruise Missile
+Wrath Cruise Missile
+Wrath Cruise Missile
+Wrath Cruise Missile
+Devastator Cruise Missile
+Devastator Cruise Missile
+Devastator Cruise Missile
+Devastator Cruise Missile
+Devastator Cruise Missile
+Devastator Cruise Missile
+Devastator Cruise Missile
+Devastator Cruise Missile
+Cataclysm Cruise Missile
+Cataclysm Cruise Missile
+Cataclysm Cruise Missile
+Cataclysm Cruise Missile
+Cataclysm Cruise Missile
+Cataclysm Cruise Missile
+Cataclysm Cruise Missile
+Cataclysm Cruise Missile
+'Arbalest' Cruise Launcher I
+'Arbalest' Cruise Launcher I
+XT-9000 Cruise Launcher
+XT-9000 Cruise Launcher
+Quad LiF Fueled I Booster Rockets
+Warp Disruptor I
+X5 Prototype I Engine Enervator
+Compulsive Multispectral ECM I
+Compulsive Multispectral ECM I
+Alumel-Wired I Sensor Augmentation
+Ballistic Control System I
+Devastator Cruise Missile, Qty: 299 (Cargo)
+

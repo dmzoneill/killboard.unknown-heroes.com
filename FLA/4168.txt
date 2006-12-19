@@ -1,0 +1,45 @@
+2007.04.03 06:26
+
+Victim: Ashr
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Destroyed: Rook
+System: 3T7-M8
+Security: 0.0
+
+Involved parties:
+
+Name: Admentus Cor'vion
+Security: -0.2
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Deimos
+Weapon: Warrior I
+
+Name: c0rn1 (laid the final blow)
+Security: -2.1
+Alliance: S.E.R.A
+Corp: Seraphin Technologies
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Dol Amroth
+Security: 0.2
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+
+Destroyed items:
+
+Improved Cloaking Device II
+Havoc Heavy Missile, Qty: 37
+Thunderbolt Heavy Missile, Qty: 37
+Heavy Missile Launcher II
+Heavy Missile Launcher II
+Heavy Missile Launcher II
+Enfeebling Phase Inversion ECM I
+Enfeebling Phase Inversion ECM I
+Sensor Booster II
+

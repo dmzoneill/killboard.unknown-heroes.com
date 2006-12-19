@@ -1,0 +1,40 @@
+2006.09.30 06:37
+
+Victim: ThaSpot
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Destroyed: Amarr Shuttle
+System: L-TS8S
+Security: 0.0
+
+Involved parties:
+
+Name: Noobjuice (laid the final blow)
+Security: -1.0
+Alliance: None
+Corp: Omniscient Order
+Ship: Claw
+Weapon: Thorn Rocket
+
+Name: Riotoverkill
+Security: 1.6
+Alliance: None
+Corp: Omniscient Order
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Levin Cavil
+Security: -1.7
+Alliance: None
+Corp: Lucid Ambition
+Ship: Eos
+Weapon: Heavy Ion Blaster II
+
+Name: Altai Saker
+Security: -0.8
+Alliance: None
+Corp: Omniscient Order
+Ship: Armageddon
+Weapon: Mega Pulse Laser II
+
+

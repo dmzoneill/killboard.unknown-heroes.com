@@ -1,0 +1,26 @@
+2006.10.07 18:16
+
+Victim: Elden Myrck
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Destroyed: Thorax
+System: Elonaya
+Security: 0.7
+
+Involved parties:
+
+Name: Morfane (laid the final blow)
+Security: -0.2
+Alliance: None
+Corp: Privateers
+Ship: Taranis
+Weapon: Light Neutron Blaster II
+
+
+Destroyed items:
+
+10MN Afterburner I
+Warp Disruptor I
+Medium Armor Repairer I
+Hammerhead I, Qty: 5 (Drone Bay)
+

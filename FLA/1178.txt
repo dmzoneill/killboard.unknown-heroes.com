@@ -1,0 +1,177 @@
+2007.03.08 03:53
+
+Victim: Xoduse
+Alliance: YouWhat
+Corp: Beasts of Burden
+Destroyed: Megathron
+System: XZH-4X
+Security: 0.0
+
+Involved parties:
+
+Name: eddyc
+Security: 1.8
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Harbinger
+Weapon: Harbinger
+
+Name: Lord Revent
+Security: 0.1
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Unknown
+Weapon: Tempest
+
+Name: Drakenheim Reinmueller
+Security: 2.8
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Harbinger
+Weapon: Harbinger
+
+Name: Eyeshadow
+Security: 5.0
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+Name: Agent Marvin
+Security: 3.6
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Typhoon
+Weapon: Cataclysm Cruise Missile
+
+Name: Sartris Lunula
+Security: 3.6
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Drake
+Weapon: Terror Javelin Assault Missile
+
+Name: 13th
+Security: 4.4
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: SeasonToRisk
+Security: 4.9
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Rupture
+Weapon: Rupture
+
+Name: VoYvod
+Security: -1.3
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Coercer
+Weapon: Coercer
+
+Name: Wan Kamal
+Security: 3.4
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Stabber
+Weapon: Stabber
+
+Name: Tulthix
+Security: 1.6
+Alliance: GoonSwarm
+Corp: Ultrapolite Socialites
+Ship: Rupture
+Weapon: Rupture
+
+Name: Monopthalmus
+Security: 2.3
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Celestis
+Weapon: Celestis
+
+Name: MagicalMako
+Security: 0.9
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Hurricane
+Weapon: 720mm Howitzer Artillery II
+
+Name: Zemi Dahut
+Security: -0.1
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Incursus
+Weapon: Incursus
+
+Name: Travellian
+Security: 0.0
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Stabber
+Weapon: Stabber
+
+Name: Sulfa
+Security: 0.8
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Merlin
+Weapon: Sabretooth Light Missile
+
+Name: Phelan Driscoll
+Security: 0.5
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Rifter
+Weapon: Rifter
+
+Name: dmosinee (laid the final blow)
+Security: 4.1
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Dominix
+Weapon: Dual 250mm 'Scout' I Accelerator Cannon
+
+Name: Seaborgium
+Security: 2.4
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Omen
+Weapon: Omen
+
+Name: Miriyaka
+Security: 5.0
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Blackbird
+Weapon: ECM - Ion Field Projector II
+
+Name: Sidd Torginn
+Security: 4.9
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Claw
+Weapon: 280mm Howitzer Artillery II
+
+
+Destroyed items:
+
+Large EMP Smartbomb I
+Large EMP Smartbomb I
+Large Graviton Smartbomb I
+Large Graviton Smartbomb I
+Large Graviton Smartbomb I
+Cap Recharger I
+Heavy Electrochemical Capacitor Booster I
+Cap Booster 800
+Cap Booster 800
+Damage Control I
+Radioisotope Kinetic Hardener I
+N-Type Thermic Hardener I
+N-Type Explosive Hardener I
+1600mm Reinforced Titanium Plates I
+Cap Booster 800, Qty: 13 (Cargo)
+

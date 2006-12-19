@@ -1,0 +1,40 @@
+2007.02.15 20:28
+
+Victim: Sarnia 0ne
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Capsule
+System: U-TJ7Y
+Security: 0.0
+
+Involved parties:
+
+Name: Lilan Kahn (laid the final blow)
+Security: -0.4
+Alliance: None
+Corp: The Littlest Hobos
+Ship: Crusader
+Weapon: Dual Light Pulse Laser II
+
+Name: Meera Sarda
+Security: 0.6
+Alliance: None
+Corp: The Littlest Hobos
+Ship: Crow
+Weapon: Upgraded 'Limos' Standard Missile Bay I
+
+Name: Karazack
+Security: 1.0
+Alliance: None
+Corp: The Littlest Hobos
+Ship: Claw
+Weapon: Claw
+
+Name: Davik Kurchek
+Security: -0.3
+Alliance: None
+Corp: The Littlest Hobos
+Ship: Crow
+Weapon: Warp Disruptor II
+
+

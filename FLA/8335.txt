@@ -1,0 +1,86 @@
+2006.11.09 14:52
+
+Victim: TiMeZeRo225
+Alliance: Freelancer Alliance
+Corp: J.I.T. Enterprises
+Destroyed: Raven
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Murdoch Morf
+Security: -0.3
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Megathron
+Weapon: Megathron
+
+Name: boo3916 (laid the final blow)
+Security: 4.5
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Dominix
+Weapon: Ogre II
+
+Name: Darknesss
+Security: -0.6
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Megathron
+Weapon: Megathron
+
+Name: Lord KesH
+Security: 2.7
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Probot3ctor
+Security: 4.7
+Alliance: None
+Corp: Beer Guzzling Clowns With Blasters
+Ship: Blackbird
+Weapon: Bloodclaw Light Missile
+
+Name: GoLdeN BoY
+Security: 1.4
+Alliance: None
+Corp: Beer Guzzling Clowns With Blasters
+Ship: Scorpion
+Weapon: 'Malkuth' Cruise Launcher I
+
+
+Destroyed items:
+
+Paradise Cruise Missile
+Paradise Cruise Missile
+Paradise Cruise Missile
+Paradise Cruise Missile
+Paradise Cruise Missile
+Paradise Cruise Missile
+Paradise Cruise Missile
+Paradise Cruise Missile
+Wrath Cruise Missile
+Wrath Cruise Missile
+Wrath Cruise Missile
+Wrath Cruise Missile
+Wrath Cruise Missile
+Wrath Cruise Missile
+Wrath Cruise Missile
+Wrath Cruise Missile
+XT-9000 Cruise Launcher
+XT-9000 Cruise Launcher
+XT-9000 Cruise Launcher
+XT-9000 Cruise Launcher
+XT-9000 Cruise Launcher
+Ballistic Deflection Field II
+Alumel-Wired I Sensor Augmentation
+Prototype I Sensor Booster
+Ballistic Control System I
+Ballistic Control System I
+Cataclysm Cruise Missile, Qty: 1073 (Cargo)
+Wrath Cruise Missile, Qty: 745 (Cargo)
+Vespa I (Drone Bay)
+

@@ -1,0 +1,121 @@
+2007.01.20 00:29
+
+Victim: SniperMcBob
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Destroyed: Raven
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Malafor
+Security: -1.2
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: ukpAgAn
+Security: 5.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Megathron
+Weapon: Megathron
+
+Name: taylor04
+Security: 0.4
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Tempest
+Weapon: Tempest
+
+Name: Unfortunate Accident (laid the final blow)
+Security: -1.9
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: McGin
+Security: -3.5
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Megathron
+Weapon: Megathron
+
+Name: Elliott Manchild
+Security: -0.5
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Tempest
+Weapon: Tempest
+
+Name: xlop
+Security: -1.2
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Megathron
+Weapon: Megathron
+
+Name: Brisky T'Pol
+Security: 1.2
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Tempest
+Weapon: Tempest
+
+Name: turumbor
+Security: -1.7
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Crow
+Weapon: TE-2100 Standard Missile Bay
+
+Name: boo3916
+Security: 4.7
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Raven
+Weapon: Siege Missile Launcher II
+
+Name: ArchenTheGreat
+Security: -2.1
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Dominix
+Weapon: Dominix
+
+Name: hardgit
+Security: 0.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Raven
+Weapon: Siege Missile Launcher II
+
+Name: Pistonbroke
+Security: 0.4
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Scorpion
+Weapon: ECM - Spatial Destabilizer II
+
+
+Destroyed items:
+
+Siege Missile Launcher II
+Siege Missile Launcher II
+Siege Missile Launcher II
+Siege Missile Launcher II
+Small Tractor Beam I
+Juggernaut Rage Torpedo, Qty: 20
+Eutectic I Capacitor Charge Array
+Ballistic Deflection Field I
+Ditrigonal Thermal Barrier Crystallization I
+Ballistic Control System I
+Ballistic Control System I
+Bane Torpedo, Qty: 922 (Cargo)
+Juggernaut Torpedo, Qty: 744 (Cargo)
+Bane Javelin Torpedo, Qty: 2014 (Cargo)
+Juggernaut Rage Torpedo, Qty: 972 (Cargo)
+

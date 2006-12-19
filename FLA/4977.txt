@@ -1,0 +1,45 @@
+2007.04.20 23:44
+
+Victim: Dana Foxworth
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Tempest
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Rhayvn
+Security: 4.5
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Abaddon
+Weapon: Abaddon
+
+Name: FowlPlayChiken (laid the final blow)
+Security: 1.2
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Thanatos
+Weapon: Einherji
+
+Name: Enosh Kerrim
+Security: -1.0
+Alliance: Mercenary Coalition
+Corp: Seraphin Technologies
+Ship: Thanatos
+Weapon: Firbolg
+
+
+Destroyed items:
+
+1400mm Howitzer Artillery I
+1400mm Howitzer Artillery I
+EMP L, Qty: 16
+Barton Reactor Capacitor Recharger I
+Fixed Parallel Link-Capacitor I
+Armor EM Hardener I
+Titanium Sabot L, Qty: 3910 (Cargo)
+EMP L, Qty: 1930 (Cargo)
+Vespa I (Drone Bay)
+

@@ -1,0 +1,25 @@
+2007.01.12 18:03
+
+Victim: Alezra
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Maulus
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: ETS4ME (laid the final blow)
+Security: 0.7
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Cataclysm Cruise Missile
+
+
+Destroyed items:
+
+1MN MicroWarpdrive I
+Indirect Scanning Dampening Unit I
+Inertia Stabilizers I
+

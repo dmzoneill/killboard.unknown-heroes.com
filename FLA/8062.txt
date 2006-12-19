@@ -1,0 +1,24 @@
+2006.10.07 20:53
+
+Victim: Formosus Funus
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Destroyed: Executioner
+System: Rancer
+Security: 0.4
+
+Involved parties:
+
+Name: pfffft (laid the final blow)
+Security: -10.
+Alliance: None
+Corp: TunDraGon
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+
+Destroyed items:
+
+Small Capacitor Battery II
+Corpum A-Type Energized Adaptive Nano Membrane (Cargo)
+

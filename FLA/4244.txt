@@ -1,0 +1,45 @@
+2007.04.05 00:53
+
+Victim: Jarath Abyss
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Destroyed: Enyo
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Imran (laid the final blow)
+Security: 0.8
+Alliance: None
+Corp: Fate.
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+Name: FrankieG
+Security: -0.9
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Blackbird
+Weapon: Havoc Heavy Missile
+
+Name: Pancakes 01
+Security: 0.1
+Alliance: None
+Corp: Deep Core Mining Inc.
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+
+Destroyed items:
+
+Antimatter Charge S, Qty: 160
+'Arbalest' Standard Missile Launcher
+Faint Warp Prohibitor I
+Magnetic Field Stabilizer II
+Beta Reactor Control: Capacitor Power Relay I
+Antimatter Charge S, Qty: 360 (Cargo)
+Spike S, Qty: 1844 (Cargo)
+Sabretooth Light Missile, Qty: 500 (Cargo)
+Piranha Light Missile, Qty: 444 (Cargo)
+

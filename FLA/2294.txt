@@ -1,0 +1,26 @@
+2007.02.04 19:58
+
+Victim: Selena 001
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Destroyed: Capsule
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Maule (laid the final blow)
+Security: 4.7
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Claw
+Weapon: 150mm Light AutoCannon II
+
+Name: Angela Dray
+Security: 3.1
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Taranis
+Weapon: 125mm Railgun II
+
+

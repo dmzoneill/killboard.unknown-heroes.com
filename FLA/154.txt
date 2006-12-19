@@ -1,0 +1,32 @@
+2007.01.14 19:55
+
+Victim: Si Raven
+Alliance: None
+Corp: Agony Unleashed
+Destroyed: Merlin
+System: X-7OMU
+Security: 0.0
+
+Involved parties:
+
+Name: Solarienne (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+
+Destroyed items:
+
+125mm Railgun I
+Antimatter Charge S, Qty: 80
+Thorn Rocket, Qty: 30
+Rocket Launcher I
+Rocket Launcher I
+1MN Afterburner I
+Warp Disruptor I
+Nanofiber Internal Structure I
+Antimatter Charge S, Qty: 1040 (Cargo)
+Lead Charge S, Qty: 1000 (Cargo)
+

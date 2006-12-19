@@ -1,0 +1,65 @@
+2006.11.18 23:12
+
+Victim: Dr Funk
+Alliance: Blood Raiders Alliance
+Corp: Entropy Tech.
+Destroyed: Kestrel
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Marvel Master
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Asgard Schiffswerften
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Grifter Treysik (laid the final blow)
+Security: 4.1
+Alliance: Freelancer Alliance
+Corp: Caldar Mercenary Syndicate
+Ship: Ishkur
+Weapon: Warrior II
+
+Name: Weuzor
+Security: 0.0
+Alliance: Dusk and Dawn
+Corp: Asgard Schiffswerften
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: Scorpio63
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Vengeance
+Weapon: Vengeance
+
+Name: brian crainie
+Security: 2.7
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Megathron
+Weapon: 350mm Prototype I Gauss Gun
+
+Name: Fr0zt
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Rook
+Weapon: 'Hypnos' Multispectral ECM I
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 120
+Standard Missile Launcher I
+Standard Missile Launcher I
+Warp Disruptor I
+Stasis Webifier I
+Limited Light Ion Blaster I (Cargo)
+Bloodclaw Light Missile, Qty: 706 (Cargo)
+Inertia Stabilizers I (Cargo)
+

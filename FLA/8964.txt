@@ -1,0 +1,28 @@
+2006.12.21 23:34
+
+Victim: MonwrathDisortium
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Destroyed: Thorax
+System: Oipo
+Security: 0.8
+
+Involved parties:
+
+Name: Elliott Manchild (laid the final blow)
+Security: -1.6
+Alliance: None
+Corp: omen.
+Ship: Astarte
+Weapon: Heavy Ion Blaster II
+
+
+Destroyed items:
+
+Modal Electron Particle Accelerator I
+Guardian Uranium Charge M, Qty: 364
+Stasis Webifier I
+Medium Armor Repairer II
+Microcell Nanite Explosive Hardener I
+Guardian Uranium Charge M, Qty: 400 (Cargo)
+

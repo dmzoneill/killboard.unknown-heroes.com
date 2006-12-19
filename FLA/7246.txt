@@ -1,0 +1,44 @@
+2006.05.31 02:05
+
+Victim: Baraka Andronicus
+Alliance: None
+Corp: Yesodic Nomads Corp
+Destroyed: Vengeance
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: DeSantis
+Security: 2.4
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+Name: Wolfman Apocalypse (laid the final blow)
+Security: 0.6
+Alliance: Northern Freedom Coalition
+Corp: Eternal Rising
+Ship: Ferox
+Weapon: Widowmaker Heavy Missile
+
+Name: haq aan
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Lords Of Guile
+Ship: Stiletto
+Weapon: Stiletto
+
+
+Destroyed items:
+
+Medium Pulse Laser II
+Medium Pulse Laser II
+Medium Pulse Laser II
+Scorch S
+1MN MicroWarpdrive I
+Initiated Warp Jammer I
+X5 Prototype I Engine Enervator
+Radioisotope Thermic Hardener I
+

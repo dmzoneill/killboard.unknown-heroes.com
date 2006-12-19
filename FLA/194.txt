@@ -1,0 +1,27 @@
+2007.01.17 19:16
+
+Victim: mineswallower
+Alliance: Firmus Ixion
+Corp: Hunters Agency
+Destroyed: Helios
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Solarienne (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+
+Destroyed items:
+
+Covert Ops Cloaking Device II
+Fleeting Progressive Warp Scrambler I
+Co-Processor II
+Co-Processor II
+Spook Scanner Probe I, Qty: 171 (Cargo)
+

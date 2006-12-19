@@ -1,0 +1,84 @@
+2007.04.12 19:08
+
+Victim: ANNIHILATER
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Destroyed: Myrmidon
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Kanx Alanks
+Security: 0.2
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Wladomir Jed
+Security: 3.7
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Eagle
+Weapon: Eagle
+
+Name: Wraithstorm
+Security: 3.1
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Taranis
+Weapon: Taranis
+
+Name: Nina Mires
+Security: 4.6
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Taranis
+Weapon: 125mm Railgun II
+
+Name: Kintail
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Taranis
+Weapon: Taranis
+
+Name: Ferocious FeAr (laid the final blow)
+Security: 1.5
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Rook
+Weapon: Bloodclaw Light Missile
+
+Name: Rukaz
+Security: 3.1
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Steve Dave
+Security: 4.1
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Raptor
+Weapon: Raptor
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Medium Nosferatu I
+Prototype Cloaking Device I
+10MN MicroWarpdrive I
+Initiated Warp Jammer I
+Stasis Webifier I
+Damage Control I
+Medium Armor Repairer II
+Medium Armor Repairer II
+Armor Kinetic Hardener I
+Microcell Nanite Explosive Hardener I
+Radioisotope Thermic Hardener I
+Berserker I, Qty: 3 (Drone Bay)
+

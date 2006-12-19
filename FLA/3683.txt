@@ -1,0 +1,24 @@
+2007.03.29 08:24
+
+Victim: n03 san
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Destroyed: Mackinaw
+System: P-2TTL
+Security: 0.0
+
+Involved parties:
+
+Name: MegaJ (laid the final blow)
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Pilgrim
+Weapon: Hammerhead II
+
+
+Destroyed items:
+
+F-S8 Relativistic Deflection Shield Induction
+Ice Harvester Upgrade I
+

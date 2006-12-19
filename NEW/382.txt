@@ -1,0 +1,32 @@
+2007.03.18 03:32
+
+Victim: xargis
+Alliance: YouWhat
+Corp: Pringles Inc.
+Destroyed: Capsule
+System: QXW-PV
+Security: 0.0
+
+Involved parties:
+
+Name: Cyrila Wolf (laid the final blow)
+Security: -2.2
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Muninn
+Weapon: 720mm Howitzer Artillery II
+
+Name: Katsumi Ito
+Security: 0.1
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Tristan
+Weapon: 'Malkuth' Rocket Launcher I
+
+Name: Ahramaine
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Taranis
+Weapon: Warp Disruptor I
+

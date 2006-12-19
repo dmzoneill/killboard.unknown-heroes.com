@@ -1,0 +1,19 @@
+2006.12.21 02:48
+
+Victim: Sandy Stormwolf
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Amarr Shuttle
+System: KLY-C0
+Security: 0.0
+
+Involved parties:
+
+Name: Gus Preston (laid the final blow)
+Security: 0.4
+Alliance: Interstellar Alcohol Conglomerate
+Corp: FIRMA
+Ship: Taranis
+Weapon: 150mm Railgun II
+
+

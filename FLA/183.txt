@@ -1,0 +1,66 @@
+2007.01.17 07:10
+
+Victim: Wierd Beard
+Alliance: Firmus Ixion
+Corp: Imperium Technologies
+Destroyed: Blackbird
+System: ED-L9T
+Security: 0.0
+
+Involved parties:
+
+Name: TasmanianX (laid the final blow)
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Cerberus
+Weapon: Scourge Heavy Missile
+
+Name: Trendsetter
+Security: 4.7
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Megathron
+Weapon: Berserker I
+
+Name: Gamesguy
+Security: -0.2
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Armageddon
+Weapon: Dual Modulated Heavy Energy Beam I
+
+Name: Tarphon
+Security: 2.6
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Capsule
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+Name: Xazier
+Security: 0.6
+Alliance: Imperial Republic Of the North
+Corp: Port Royal Independent Kontractors
+Ship: Capsule
+Weapon: Dual 180mm AutoCannon II
+
+Name: Thor Ba'aleron
+Security: 2.3
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Drake
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+
+Destroyed items:
+
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+ECM - Spatial Destabilizer II
+ECM - Spatial Destabilizer II
+ECM - Ion Field Projector II
+ECM - Phase Inverter II
+ECM - Phase Inverter II
+Signal Distortion Amplifier I
+Signal Distortion Amplifier I
+

@@ -1,0 +1,38 @@
+2007.01.17 04:07
+
+Victim: Angelonico
+Alliance: Firmus Ixion
+Corp: Black Avatar
+Destroyed: Caracal
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: digital oxygen (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Deimos
+Weapon: Valkyrie II
+
+Name: Xantheris
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Taranis
+Weapon: Acolyte I
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 87
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+Large Shield Extender I
+Photon Scattering Field I
+Ballistic Control System I
+Power Diagnostic System I
+Scourge Heavy Missile, Qty: 609 (Cargo)
+

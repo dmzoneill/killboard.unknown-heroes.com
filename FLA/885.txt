@@ -1,0 +1,82 @@
+2007.02.25 22:52
+
+Victim: caldarl21
+Alliance: None
+Corp: State War Academy
+Destroyed: Caldari Shuttle
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: arthell (laid the final blow)
+Security: 2.9
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Ishkur
+Weapon: Modal Light Ion Particle Accelerator I
+
+Name: movy
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Brutix
+Weapon: Brutix
+
+Name: Kerdrak
+Security: 4.8
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Harbinger
+Weapon: Heavy Pulse Laser I
+
+Name: Zephyrante
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Taranis
+Weapon: Taranis
+
+Name: Karl Mattar
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Jaguar
+Weapon: F-392 Baker Nunn Targeting Scrambler
+
+Name: Kalibrana
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Enyo
+Weapon: Enyo
+
+Name: Kaand
+Security: 3.7
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Moa
+Weapon: Initiated Warp Jammer I
+
+Name: JaiMaster
+Security: 2.6
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Alski
+Security: 3.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Celestis
+Weapon: Warp Disruptor I
+
+Name: Aikuchi Hiddensword
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Taranis
+Weapon: Taranis
+
+

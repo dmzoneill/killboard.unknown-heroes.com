@@ -1,0 +1,167 @@
+2007.03.17 05:23
+
+Victim: hareboy
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Destroyed: Harpy
+System: MJYW-3
+Security: 0.0
+
+Involved parties:
+
+Name: Goca
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Raven
+Weapon: Inferno Javelin Torpedo
+
+Name: Bobby Atlas
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Megathron
+Weapon: Megathron
+
+Name: Fugnut (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: chota
+Security: 5.0
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Rupture
+Weapon: Valkyrie I
+
+Name: Villwrath
+Security: 3.5
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Hyperion
+Weapon: Hyperion
+
+Name: Weeble Wooble
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Megathron
+Weapon: Megathron
+
+Name: Sovo
+Security: -0.6
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Stabber
+Weapon: 220mm Vulcan AutoCannon I
+
+Name: death1023
+Security: 2.9
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Megathron
+Weapon: 425mm 'Scout' I Accelerator Cannon
+
+Name: coldkill
+Security: 1.8
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Khelia
+Security: 0.5
+Alliance: Dusk and Dawn
+Corp: Stardust Heavy Industries
+Ship: Myrmidon
+Weapon: Myrmidon
+
+Name: Simon Monkoto
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Megathron
+Weapon: Megathron
+
+Name: glitterbomb
+Security: -1.4
+Alliance: Freelancer Alliance
+Corp: ACCORD Industries
+Ship: Rokh
+Weapon: Rokh
+
+Name: dastommy79
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Armageddon
+Weapon: Mega Afocal Pulse Maser I
+
+Name: Skull Fire
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Rokh
+Weapon: 425mm Compressed Coil Gun I
+
+Name: Sils wife
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: RubberDuckey
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Blackwater Squadron
+Ship: Raven
+Weapon: Cruise Missile Launcher II
+
+Name: Korudon
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Ferox
+Weapon: Heavy Missile Launcher I
+
+Name: Katsumi Ito
+Security: 0.1
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Tristan
+Weapon: Tristan
+
+Name: Jules Wolfpack
+Security: 2.3
+Alliance: The Sundering
+Corp: ironwood ink
+Ship: Thorax
+Weapon: Thorax
+
+Name: Jack Greyson
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Scorpion
+Weapon: ECM - Multispectral Jammer II
+
+Name: Ahramaine
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Dominix
+Weapon: Dominix
+
+
+Destroyed items:
+
+Small 'Knave' I Energy Drain
+Light Neutron Blaster II
+Void S, Qty: 160
+Small Shield Booster II
+Shield Power Relay I (Cargo)
+'Anointed' I EM Ward Reinforcement (Cargo)

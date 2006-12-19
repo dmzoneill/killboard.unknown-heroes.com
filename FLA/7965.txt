@@ -1,0 +1,27 @@
+2006.10.04 09:46
+
+Victim: forever faithless
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Destroyed: Manticore
+System: O-N8XZ
+Security: 0.0
+
+Involved parties:
+
+Name: Elgan (laid the final blow)
+Security: 0.9
+Alliance: None
+Corp: Omniscient Order
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+
+Destroyed items:
+
+Wrath Cruise Missile, Qty: 42
+XT-9000 Cruise Launcher
+Kapteyn Sensor Array Inhibitor I
+Kapteyn Sensor Array Inhibitor I
+Wrath Cruise Missile, Qty: 50 (Cargo)
+

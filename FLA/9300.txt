@@ -1,0 +1,45 @@
+2007.05.06 19:35
+
+Victim: Lady Vanquish
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Destroyed: Stiletto
+System: A4L-A2
+Security: 0.0
+
+Involved parties:
+
+Name: Kayron Brennan (laid the final blow)
+Security: 0.7
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Thanatos
+Weapon: Firbolg
+
+Name: Giamilton
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: Synergy Evolved
+Ship: Cormorant
+Weapon: Cormorant
+
+Name: Bobby Atlas
+Security: 5.0
+Alliance: None
+Corp: Di-Tron Heavy Industries
+Ship: Thanatos
+Weapon: Firbolg
+
+Name: Asran Zara
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: United Space Republic
+Ship: Nidhoggur
+Weapon: Firbolg
+
+
+Destroyed items:
+
+Small 'Ghoul' Energy Siphon I
+Sensor Booster II
+

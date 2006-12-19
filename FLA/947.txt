@@ -1,0 +1,179 @@
+2007.02.27 23:00
+
+Victim: ireos
+Alliance: Firmus Ixion
+Corp: Legionari
+Destroyed: Brutix
+System: 3-FKCZ
+Security: 0.0
+
+Involved parties:
+
+Name: djNME
+Security: -2.1
+Alliance: RAZOR Alliance
+Corp: DAB
+Ship: Sleipnir
+Weapon: Sleipnir
+
+Name: Puncher
+Security: 0.6
+Alliance: Morsus Mihi
+Corp: hirr
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Mushroomcloud
+Security: -0.3
+Alliance: RAZOR Alliance
+Corp: Thundercats
+Ship: Claw
+Weapon: Claw
+
+Name: KriegDrachen
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Sabre
+Weapon: Sabre
+
+Name: SatanSarah
+Security: 2.4
+Alliance: Morsus Mihi
+Corp: Rage of Angels
+Ship: Eagle
+Weapon: Eagle
+
+Name: Crazy Kure
+Security: 1.4
+Alliance: Morsus Mihi
+Corp: 4S Corporation
+Ship: Crow
+Weapon: Warp Disruptor II
+
+Name: Plague Black
+Security: 4.5
+Alliance: Morsus Mihi
+Corp: 4S Corporation
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: trolleyboy
+Security: 4.0
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Harpy
+Weapon: Harpy
+
+Name: Arthur Ffrub
+Security: 5.0
+Alliance: Pure.
+Corp: J.H.E.N.R
+Ship: Taranis
+Weapon: Taranis
+
+Name: Imicusin
+Security: 1.6
+Alliance: Morsus Mihi
+Corp: hirr
+Ship: Thorax
+Weapon: Thorax
+
+Name: Bers
+Security: 2.5
+Alliance: Morsus Mihi
+Corp: Shiva
+Ship: Malediction
+Weapon: Malediction
+
+Name: Eggars
+Security: 2.4
+Alliance: Schism.
+Corp: New Light
+Ship: Enyo
+Weapon: Enyo
+
+Name: she1 (laid the final blow)
+Security: 5.0
+Alliance: Pure.
+Corp: Dragons United
+Ship: Stiletto
+Weapon: 200mm AutoCannon II
+
+Name: Mac Maniac
+Security: 5.0
+Alliance: Morsus Mihi
+Corp: Shiva
+Ship: Crow
+Weapon: 'Langour' Drive Disruptor I
+
+Name: EvilDark
+Security: 5.0
+Alliance: Pure.
+Corp: Dragons United
+Ship: Taranis
+Weapon: Taranis
+
+Name: Opium
+Security: 3.8
+Alliance: Morsus Mihi
+Corp: Shiva
+Ship: Claw
+Weapon: Claw
+
+Name: Wilvarin Sense
+Security: 3.1
+Alliance: RAZOR Alliance
+Corp: Thundercats
+Ship: Sabre
+Weapon: Sabre
+
+Name: Beneerages
+Security: 5.0
+Alliance: Morsus Mihi
+Corp: Free-Space-Ranger
+Ship: Crow
+Weapon: Crow
+
+Name: Therem Harth
+Security: 1.7
+Alliance: RAZOR Alliance
+Corp: DAB
+Ship: Flycatcher
+Weapon: Phalanx Rocket
+
+Name: uksfzoros
+Security: 5.0
+Alliance: RAZOR Alliance
+Corp: Cutting Edge Incorporated
+Ship: Taranis
+Weapon: Light Neutron Blaster II
+
+Name: Bas4x4
+Security: 5.0
+Alliance: RAZOR Alliance
+Corp: Roving Guns Inc.
+Ship: Lachesis
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: Fiona Silmaril
+Security: 3.0
+Alliance: RAZOR Alliance
+Corp: Thundercats
+Ship: Hound
+Weapon: 'Arbalest' Cruise Launcher I
+
+
+Destroyed items:
+
+Light Neutron Blaster I
+Light Neutron Blaster I
+Light Neutron Blaster I
+Light Neutron Blaster I
+Uranium Charge S, Qty: 266
+10MN MicroWarpdrive I
+J5b Phased Prototype Warp Inhibitor I
+Patterned Stasis Web I
+Medium I-a Polarized Armor Regenerator
+Uranium Charge S, Qty: 3661 (Cargo)
+

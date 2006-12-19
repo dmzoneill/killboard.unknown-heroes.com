@@ -1,0 +1,35 @@
+2007.02.06 16:25
+
+Victim: Tran Quility
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Destroyed: Merlin
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Murdoch Morf (laid the final blow)
+Security: 1.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+
+Destroyed items:
+
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Small 'Ghoul' Energy Siphon I
+Small 'Ghoul' Energy Siphon I
+1MN MicroWarpdrive I
+Power Diagnostic System I
+Medium Ld-Acid Capacitor Battery I (Cargo)
+Iridium Charge L, Qty: 100 (Cargo)
+Malfunctioning Shield Emitter, Qty: 3 (Cargo)
+

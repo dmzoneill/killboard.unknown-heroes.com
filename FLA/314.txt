@@ -1,0 +1,26 @@
+2007.01.24 18:34
+
+Victim: Diearek Celliance
+Alliance: None
+Corp: Mercs for Hire
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: mr passie (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Jaguar
+Weapon: 200mm AutoCannon II
+
+Name: Mauy Thai
+Security: -1.5
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Curse
+Weapon: Fleeting Warp Scrambler I
+
+

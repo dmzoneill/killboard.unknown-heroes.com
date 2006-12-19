@@ -1,0 +1,30 @@
+2007.04.23 20:54
+
+Victim: Sha'ara Sha'amashira
+Alliance: Freelancer Alliance
+Corp: J.I.T. Enterprises
+Destroyed: Kestrel
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: END3R 101 (laid the final blow)
+Security: -0.7
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Malediction
+Weapon: Medium Pulse Laser II
+
+
+Destroyed items:
+
+Rocket Launcher II
+Rocket Launcher II
+Thorn Rage Rocket, Qty: 132
+Magnetic Scattering Amplifier I
+Ballistic Control System I
+Inertia Stabilizers I
+1MN MicroWarpdrive I (Cargo)
+Inertia Stabilizers I, Qty: 2 (Cargo)
+

@@ -1,0 +1,34 @@
+2007.01.26 06:14
+
+Victim: Talyn Hawke
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Destroyed: Badger Mark II
+System: 3T7-M8
+Security: 0.0
+
+Involved parties:
+
+Name: Vyndicator
+Security: -2.5
+Alliance: None
+Corp: 0utbreak
+Ship: Typhoon
+Weapon: Devastator Cruise Missile
+
+Name: P1rate Dave (laid the final blow)
+Security: 0.9
+Alliance: None
+Corp: 0utbreak
+Ship: Typhoon
+Weapon: Bane Torpedo
+
+
+Destroyed items:
+
+Small Shield Extender I
+Medium Shield Booster I
+Medium Shield Booster I
+Expanded Cargohold I
+Expanded Cargohold I
+

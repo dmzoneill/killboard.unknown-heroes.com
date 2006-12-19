@@ -1,0 +1,71 @@
+2007.03.02 15:28
+
+Victim: Ashen Brarn
+Alliance: Band of Brothers
+Corp: Evolution
+Destroyed: Arazu
+System: R3W-XU
+Security: 0.0
+
+Involved parties:
+
+Name: Tregaron (laid the final blow)
+Security: 1.7
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Cyclone
+Weapon: Valkyrie II
+
+Name: Sgt Anti
+Security: -0.5
+Alliance: Against ALL Authorities
+Corp: Black Lance
+Ship: Eagle
+Weapon: Eagle
+
+Name: marian chu
+Security: -0.1
+Alliance: None
+Corp: Shadow of the Colossus
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery I
+
+Name: IroN HiDE
+Security: -1.6
+Alliance: Against ALL Authorities
+Corp: Black Lance
+Ship: Hawk
+Weapon: Bloodclaw Light Missile
+
+Name: Abe LeRoy
+Security: 1.8
+Alliance: Morsus Mihi
+Corp: Shiva
+Ship: Crow
+Weapon: Crow
+
+Name: Oceana
+Security: 5.0
+Alliance: Against ALL Authorities
+Corp: Black Lance
+Ship: Cyclone
+Weapon: E50 Prototype Energy Vampire
+
+Name: Sicarius
+Security: -1.0
+Alliance: RAZOR Alliance
+Corp: Thundercats
+Ship: Flycatcher
+Weapon: Sabretooth Light Missile
+
+
+Destroyed items:
+
+250mm Railgun II
+Thorium Charge M, Qty: 28
+Covert Ops Cloaking Device II
+J5 Prototype Warp Inhibitor I
+Emergency Damage Control I
+Reactor Control Unit II
+Thorium Charge M, Qty: 3988 (Cargo)
+

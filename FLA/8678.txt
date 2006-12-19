@@ -1,0 +1,63 @@
+2006.12.06 20:37
+
+Victim: Jumar Coldgin
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Destroyed: Falcon
+System: Z30S-A
+Security: 0.0
+
+Involved parties:
+
+Name: Jacko21
+Security: -2.6
+Alliance: Insurgency
+Corp: Celestial Apocalypse
+Ship: Megathron
+Weapon: Megathron
+
+Name: Kinsy
+Security: 5.0
+Alliance: Insurgency
+Corp: Celestial Apocalypse
+Ship: Eagle
+Weapon: Eagle
+
+Name: PictPunk
+Security: 3.6
+Alliance: Ascendant Frontier
+Corp: STK Scientific
+Ship: Rook
+Weapon: Scourge Heavy Missile
+
+Name: Demoser (laid the final blow)
+Security: 5.0
+Alliance: None
+Corp: Cornerstone Unlimited
+Ship: Raven
+Weapon: Wrath Cruise Missile
+
+Name: Lady Lulu
+Security: 5.0
+Alliance: Insurgency
+Corp: Celestial Apocalypse
+Ship: Megathron
+Weapon: Wasp II
+
+Name: Kheo Sen
+Security: 1.4
+Alliance: Insurgency
+Corp: Celestial Apocalypse
+Ship: Tempest
+Weapon: 1400mm Prototype I Siege Cannon
+
+
+Destroyed items:
+
+Assault Missile Launcher II
+'Hypnos' Multispectral ECM I
+'Hypnos' Multispectral ECM I
+'Hypnos' Multispectral ECM I
+'Repose' I Core Compensation
+Flameburst Fury Light Missile, Qty: 475 (Cargo)
+

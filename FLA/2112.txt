@@ -1,0 +1,56 @@
+2007.01.21 17:05
+
+Victim: Sorlac Aurora
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Drake
+System: LT-DRO
+Security: 0.0
+
+Involved parties:
+
+Name: aadom (laid the final blow)
+Security: 3.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Myrmidon
+Weapon: Ogre II
+
+Name: WarGod
+Security: 1.4
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Curse
+Weapon: Berserker II
+
+Name: Anna Neura
+Security: -0.1
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Taranis
+Weapon: Hobgoblin II
+
+
+Destroyed items:
+
+Havoc Heavy Missile, Qty: 33
+Scourge Heavy Missile, Qty: 33
+Widowmaker Heavy Missile, Qty: 33
+Advanced 'Limos' Heavy Missile Bay I
+Advanced 'Limos' Heavy Missile Bay I
+Advanced 'Limos' Heavy Missile Bay I
+Heat Dissipation Amplifier I
+Warp Core Stabilizer I
+Warp Core Stabilizer I
+Warp Core Stabilizer I
+X-Large Shield Booster I (Cargo)
+Shield Power Relay I, Qty: 2 (Cargo)
+Vespa I (Cargo)
+Magnetic Scattering Amplifier I (Cargo)
+Ballistic Control System I, Qty: 3 (Cargo)
+Havoc Heavy Missile, Qty: 286 (Cargo)
+Scourge Heavy Missile, Qty: 865 (Cargo)
+Thunderbolt Heavy Missile, Qty: 1770 (Cargo)
+Beta Reactor Control: Diagnostic System I, Qty: 2 (Cargo)
+Hornet I, Qty: 3 (Drone Bay)
+

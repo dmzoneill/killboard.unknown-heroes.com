@@ -1,0 +1,60 @@
+2007.04.09 18:14
+
+Victim: Pataras
+Alliance: None
+Corp: Bikini Girls with Machine Guns
+Destroyed: Raven
+System: 93PI-4
+Security: 0.0
+
+Involved parties:
+
+Name: Beshari
+Security: -2.8
+Alliance: None
+Corp: Emerald Empire
+Ship: Megathron
+Weapon: Berserker I
+
+Name: Ipak (laid the final blow)
+Security: 4.3
+Alliance: None
+Corp: Emerald Empire
+Ship: Eos
+Weapon: Heavy Neutron Blaster II
+
+Name: Tzanmoth
+Security: -0.7
+Alliance: None
+Corp: Emerald Empire
+Ship: Tempest
+Weapon: Valkyrie I
+
+Name: Wallyx
+Security: 4.5
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Armageddon
+Weapon: Initiated Multispectral ECM I
+
+
+Destroyed items:
+
+Medium Nosferatu II
+Prototype Cloaking Device I
+Siege Missile Launcher II
+Siege Missile Launcher II
+Mjolnir Javelin Torpedo
+Mjolnir Javelin Torpedo
+Inferno Javelin Torpedo
+Inferno Javelin Torpedo
+100MN MicroWarpdrive I
+Phased Weapon Navigation Array Generation Extron
+Ballistic Control System II
+Mjolnir Torpedo, Qty: 525 (Cargo)
+Inferno Javelin Torpedo, Qty: 179 (Cargo)
+Mjolnir Javelin Torpedo, Qty: 133 (Cargo)
+Bane Javelin Torpedo, Qty: 324 (Cargo)
+Hammerhead II (Drone Bay)
+Hammerhead I, Qty: 2 (Drone Bay)
+

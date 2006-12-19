@@ -1,0 +1,138 @@
+2007.03.29 23:10
+
+Victim: Jet Sulu
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Scorpion
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Tanya Kovacs
+Security: 5.1
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Eagle
+Weapon: Eagle
+
+Name: WildCard (laid the final blow)
+Security: 4.4
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: volly
+Security: 3.4
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Zealot
+Weapon: Zealot
+
+Name: MC Alfritz
+Security: 3.7
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: Capt Crazee
+Security: 5.0
+Alliance: Chorus of Dawn
+Corp: Cosmic Odyssey
+Ship: Megathron
+Weapon: Praetor I
+
+Name: KaKaShI
+Security: 3.9
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Muninn
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Xarax Sparow
+Security: 5.0
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: El Chingon
+Security: -3.1
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Ship: Caracal
+Weapon: Warrior I
+
+Name: Ehre86
+Security: 0.6
+Alliance: YouWhat
+Corp: Dark Rising Shadow
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Thyago
+Security: 5.0
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Ishkur
+Weapon: Hobgoblin II
+
+Name: Gordon Red
+Security: 2.1
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Heretic
+Weapon: Dual Light Pulse Laser II
+
+Name: Sukur
+Security: 3.7
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Stabber
+Weapon: Stabber
+
+Name: Rubens22
+Security: 2.3
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Taranis
+Weapon: Taranis
+
+Name: mr ioso
+Security: 4.8
+Alliance: Chorus of Dawn
+Corp: Cosmic Odyssey
+Ship: Myrmidon
+Weapon: Hornet I
+
+Name: khazid
+Security: 5.0
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Ship: Maller
+Weapon: Maller
+
+Name: Messmint
+Security: 5.0
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Ship: Jaguar
+Weapon: Initiated Warp Jammer I
+
+Name: Keflin Geard
+Security: 5.0
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Myrmidon
+Weapon: Medium Nosferatu I
+
+Name: Electreus
+Security: 0.6
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Ship: Astarte
+Weapon: Heavy Ion Blaster II
+
+

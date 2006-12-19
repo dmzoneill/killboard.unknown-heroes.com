@@ -1,0 +1,146 @@
+2006.11.25 19:13
+
+Victim: jamesw
+Alliance: The Sani Sabik
+Corp: Omniscient Order
+Destroyed: Dominix
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Zalamus
+Security: 4.4
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Dominix
+Weapon: Ogre II
+
+Name: Hosanna
+Security: 3.1
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Noitaakka
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Vexor
+Weapon: Ogre I
+
+Name: Karas Rabus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Stabber
+Weapon: Stabber
+
+Name: W4RR10R
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Ishtar
+Weapon: Berserker I
+
+Name: Bolinar
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Dominix
+Weapon: Hammerhead II
+
+Name: Shiri elAzarinres
+Security: 0.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Eagle
+Weapon: Eagle
+
+Name: Eskiban Vlasic
+Security: 5.0
+Alliance: EVE Animal Control
+Corp: F.R.E.E. Explorer
+Ship: Arazu
+Weapon: Valkyrie II
+
+Name: Durante Alighieri
+Security: 2.8
+Alliance: Schism.
+Corp: New Light
+Ship: Harpy
+Weapon: Harpy
+
+Name: Tri Ounou
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: Rebecca Tanglebloom (laid the final blow)
+Security: 3.8
+Alliance: Imperial Republic Of the North
+Corp: Port Royal Independent Kontractors
+Ship: Vengeance
+Weapon: Dual Light Pulse Laser II
+
+Name: wessam
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Crow
+Weapon: Sabretooth Light Missile
+
+Name: keilapuukko
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Megathron
+Weapon: Wasp I
+
+Name: casama
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Vengeance
+Weapon: Vengeance
+
+Name: Miabo
+Security: 1.9
+Alliance: Schism.
+Corp: Fatalix Inc.
+Ship: Blackbird
+Weapon: Induced Multispectral ECM I
+
+Name: Jumar Coldgin
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Rook
+Weapon: 'Hypnos' Multispectral ECM I
+
+Name: Gabriel BriGGs
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Falcon
+Weapon: ECM - Phase Inverter II
+
+
+Destroyed items:
+
+Dual 250mm Railgun II
+Dual 250mm Railgun II
+Javelin L, Qty: 624
+ECM - Spatial Destabilizer II
+ECM - Multispectral Jammer II
+Magnetic Field Stabilizer II
+Energized Adaptive Nano Membrane II
+Energized Adaptive Nano Membrane II
+1600mm Reinforced Rolled Tungsten Plates I
+Berserker II, Qty: 4 (Drone Bay)
+Infiltrator II, Qty: 4 (Drone Bay)
+Warrior II, Qty: 3 (Drone Bay)
+

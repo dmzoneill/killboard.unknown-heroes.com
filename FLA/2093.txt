@@ -1,0 +1,35 @@
+2007.01.20 00:49
+
+Victim: reched
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Destroyed: Rifter
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: ArchenTheGreat (laid the final blow)
+Security: -2.1
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Dominix
+Weapon: 350mm Carbide Railgun I
+
+Name: turumbor
+Security: -1.7
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Capsule
+Weapon: TE-2100 Standard Missile Bay
+
+
+Destroyed items:
+
+125mm Railgun I
+Tungsten Charge S, Qty: 40
+'Malkuth' Standard Missile Launcher I
+Capacitor Power Relay I
+Capacitor Power Relay I
+Defender I, Qty: 100 (Cargo)
+

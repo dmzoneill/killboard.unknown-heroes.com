@@ -1,0 +1,62 @@
+2007.01.15 14:07
+
+Victim: Mufeater
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Destroyed: Dominix
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: WarGod (laid the final blow)
+Security: 1.6
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Curse
+Weapon: Ogre II
+
+Name: XxAngelxX
+Security: 5.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Curse
+Weapon: Curse
+
+Name: Shock Wave
+Security: 3.2
+Alliance: None
+Corp: e X i l e
+Ship: Crusader
+Weapon: Crusader
+
+Name: Anna Neura
+Security: -0.2
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Taranis
+Weapon: Hobgoblin II
+
+
+Destroyed items:
+
+Antimatter Charge L, Qty: 68
+Small Tractor Beam I
+F-b10 Nominal Capacitor Regenerator
+F-b10 Nominal Capacitor Regenerator
+F-b10 Nominal Capacitor Regenerator
+100MN MicroWarpdrive I
+Medium Armor Repairer II
+Armor Thermic Hardener I
+Armor Thermic Hardener I
+Beta Reactor Control: Capacitor Power Relay I
+Large I-a Polarized Armor Regenerator (Cargo)
+Medium Remote Armor Repair System I (Cargo)
+Large Remote Armor Repair System I, Qty: 6 (Cargo)
+1600mm Reinforced Nanofiber Plates I (Cargo)
+1600mm Reinforced Crystalline Carbonide Plates I, Qty: 2 (Cargo)
+800mm Reinforced Steel Plates I, Qty: 2 (Cargo)
+200mm Reinforced Nanofiber Plates I (Cargo)
+Charred Micro Circuit, Qty: 16 (Cargo)
+Conductive Polymer, Qty: 8 (Cargo)
+

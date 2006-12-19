@@ -1,0 +1,39 @@
+2006.12.11 23:39
+
+Victim: Wousr
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Destroyed: Stabber
+System: Haajinen
+Security: 0.8
+
+Involved parties:
+
+Name: Captain Alcatraz
+Security: -2.1
+Alliance: None
+Corp: omen.
+Ship: Zealot
+Weapon: Zealot
+
+Name: Fjerkenstad (laid the final blow)
+Security: 1.0
+Alliance: None
+Corp: omen.
+Ship: Taranis
+Weapon: Light Neutron Blaster II
+
+
+Destroyed items:
+
+Depleted Uranium M, Qty: 800
+Piranha Light Missile, Qty: 72
+'Arbalest' Assault Missile Launcher
+'Arbalest' Assault Missile Launcher
+10MN Afterburner II
+J5 Prototype Warp Inhibitor I
+Initiated Harmonic Warp Jammer I
+425mm AutoCannon II (Cargo)
+Shield Boost Amplifier II, Qty: 2 (Cargo)
+Sabretooth Light Missile, Qty: 2028 (Cargo)
+

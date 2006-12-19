@@ -1,0 +1,54 @@
+2006.12.12 20:12
+
+Victim: Boris Nikolaovitch
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Celestis
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: P1rate Dave (laid the final blow)
+Security: 0.9
+Alliance: None
+Corp: 0utbreak
+Ship: Sabre
+Weapon: 200mm AutoCannon II
+
+Name: TheAvatar
+Security: -0.1
+Alliance: None
+Corp: 0utbreak
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Krugerrand
+Security: -0.2
+Alliance: None
+Corp: 0utbreak
+Ship: Vagabond
+Weapon: Medium Nosferatu II
+
+Name: starius3
+Security: 1.2
+Alliance: None
+Corp: omen.
+Ship: Capsule
+Weapon: Warp Disruptor I
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Piranha Light Missile, Qty: 63
+'Arbalest' Assault Missile Launcher
+'Arbalest' Assault Missile Launcher
+Remote Sensor Dampener II
+F85 Peripheral Damage System I
+Small Armor Repairer II
+Piranha Light Missile, Qty: 1898 (Cargo)
+Flameburst Light Missile, Qty: 109 (Cargo)
+Warrior II (Drone Bay)
+Valkyrie II (Drone Bay)
+

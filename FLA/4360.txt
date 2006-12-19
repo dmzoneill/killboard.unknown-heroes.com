@@ -1,0 +1,61 @@
+2007.04.08 20:41
+
+Victim: CUBANFOREVER
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Destroyed: Capsule
+System: 2O9G-D
+Security: 0.0
+
+Involved parties:
+
+Name: Akira Miyamoto (laid the final blow)
+Security: 4.8
+Alliance: Corelum Syndicate
+Corp: Coreli Corporation
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Viper ShizzIe
+Security: -4.6
+Alliance: Corelum Syndicate
+Corp: Coreli Corporation
+Ship: Taranis
+Weapon: Taranis
+
+Name: The Splendour
+Security: 0.9
+Alliance: Corelum Syndicate
+Corp: Coreli Corporation
+Ship: Vagabond
+Weapon: Shadow Serpentis Warp Disruptor
+
+Name: Reeku
+Security: -1.6
+Alliance: Corelum Syndicate
+Corp: Coreli Corporation
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Kuentai
+Security: -5.8
+Alliance: Corelum Syndicate
+Corp: Coreli Corporation
+Ship: Sabre
+Weapon: Fleeting Warp Scrambler I
+
+Name: Arcazz
+Security: -0.6
+Alliance: Corelum Syndicate
+Corp: Coreli Corporation
+Ship: Jaguar
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: Akane Miyamoto
+Security: -2.5
+Alliance: Corelum Syndicate
+Corp: Coreli Corporation
+Ship: Crow
+Weapon: Standard Missile Launcher I
+
+

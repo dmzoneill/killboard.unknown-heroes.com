@@ -1,0 +1,29 @@
+2007.01.11 23:06
+
+Victim: Joss Sparq
+Alliance: None
+Corp: Agony Unleashed
+Destroyed: Merlin
+System: X-7OMU
+Security: 0.0
+
+Involved parties:
+
+Name: Dr Andy (laid the final blow)
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Celestis
+Weapon: Hammerhead II
+
+
+Destroyed items:
+
+75mm Gatling Rail I
+Thorn Rocket, Qty: 28
+Rocket Launcher I
+Rocket Launcher I
+Medium Shield Extender I
+Tracking Enhancer I
+Uranium Charge S, Qty: 1600 (Cargo)
+

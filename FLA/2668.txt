@@ -1,0 +1,124 @@
+2007.03.02 00:08
+
+Victim: Gardeful
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Destroyed: Scorpion
+System: YZ-LQL
+Security: 0.0
+
+Involved parties:
+
+Name: OzaLoni
+Security: 1.2
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Megathron
+Weapon: Megathron
+
+Name: cold lazarus (laid the final blow)
+Security: 5.2
+Alliance: Band of Brothers
+Corp: Reikoku
+Ship: Rokh
+Weapon: 425mm Railgun I
+
+Name: Nero Winger
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Coranor
+Security: 4.0
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Tempest
+Weapon: Heavy Missile Launcher I
+
+Name: violator2k5
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Rokh
+Weapon: Rokh
+
+Name: Knuck
+Security: -1.8
+Alliance: Band of Brothers
+Corp: Reikoku
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Kaijou
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Rokh
+Weapon: 425mm 'Scout' I Accelerator Cannon
+
+Name: Empero
+Security: 0.2
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Apocalypse
+Weapon: Tachyon Modal Laser I
+
+Name: Rajon Kelper
+Security: 2.0
+Alliance: Band of Brothers
+Corp: Reikoku
+Ship: Megathron
+Weapon: Megathron
+
+Name: Hey You
+Security: -0.3
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Apocalypse
+Weapon: Apocalypse
+
+Name: fire 59
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Megathron
+Weapon: Megathron
+
+Name: Crohnx
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Reikoku
+Ship: Thanatos
+Weapon: Einherji
+
+Name: Aschera
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Reikoku
+Ship: Sabre
+Weapon: Einherji
+
+
+Destroyed items:
+
+Heavy Nosferatu I
+Medium Graviton Smartbomb I
+XT-9000 Cruise Launcher
+XT-9000 Cruise Launcher
+XT-9000 Cruise Launcher
+Medium F-RX Prototype I Capacitor Boost
+Cap Booster 800
+Kapteyn Sensor Array Inhibitor I
+Kapteyn Sensor Array Inhibitor I
+Kapteyn Sensor Array Inhibitor I
+Sensor Booster I
+Medium Armor Repairer I
+Large Armor Repairer I
+1600mm Reinforced Titanium Plates I
+1600mm Reinforced Steel Plates I
+Cap Booster 800, Qty: 10 (Cargo)
+Devastator Cruise Missile, Qty: 244 (Cargo)
+Infiltrator I (Drone Bay)
+

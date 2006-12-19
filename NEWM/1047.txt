@@ -1,0 +1,180 @@
+2007.03.04 03:19
+
+Victim: Naverin
+Alliance: Xelas Alliance
+Corp: Setenta Corp
+Destroyed: Archon
+System: DBRN-Z
+Security: 0.0
+
+Involved parties:
+
+Name: Darth Sith (laid the final blow)
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: Lacedaemon.
+Ship: Revelation
+Weapon: Dual Giga Beam Laser I
+
+Name: Thea Arsoniztik
+Security: 0.6
+Alliance: Dusk and Dawn
+Corp: Omega Enterprises
+Ship: Raven
+Weapon: Cruise Missile Launcher II
+
+Name: Caarnji
+Security: -1.9
+Alliance: Dusk and Dawn
+Corp: ECP Rogues
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: viper zulu
+Security: 4.2
+Alliance: Dusk and Dawn
+Corp: Omega Enterprises
+Ship: Thanatos
+Weapon: Dragonfly
+
+Name: Joe Blow
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Omega Enterprises
+Ship: Damnation
+Weapon: Warp Disruptor I
+
+Name: UP LATE
+Security: 4.7
+Alliance: Dusk and Dawn
+Corp: Omega Enterprises
+Ship: Eagle
+Weapon: Widowmaker Heavy Missile
+
+Name: prathe
+Security: 4.8
+Alliance: Dusk and Dawn
+Corp: Omega Enterprises
+Ship: Capsule
+Weapon: Fleeting Warp Scrambler I
+
+Name: Cyra
+Security: 3.2
+Alliance: Dusk and Dawn
+Corp: Omega Enterprises
+Ship: Rokh
+Weapon: Rokh
+
+Name: Lucututerian
+Security: 1.0
+Alliance: Dusk and Dawn
+Corp: Cataclysm Enterprises
+Ship: Rapier
+Weapon: 720mm Howitzer Artillery II
+
+Name: Nukuquqa Hestase
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Catalyst
+Weapon: Catalyst
+
+Name: Sephron Kintaka
+Security: 2.5
+Alliance: Sparta Alliance
+Corp: Lynx Frontier Inc.
+Ship: Megathron
+Weapon: Megathron
+
+Name: demotar
+Security: 3.5
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Hound
+Weapon: Hound
+
+Name: Demolition Gunit
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: Lacedaemon.
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: DANGEROUS
+Security: 3.6
+Alliance: Dusk and Dawn
+Corp: Omega Enterprises
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: Renax
+Security: 2.9
+Alliance: Dusk and Dawn
+Corp: Omega Enterprises
+Ship: Sabre
+Weapon: Fleeting Warp Scrambler I
+
+Name: Simon Monkoto
+Security: 3.7
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Hawk
+Weapon: Bloodclaw Precision Light Missile
+
+Name: Kaand
+Security: 3.4
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Jaguar
+Weapon: J5b Phased Prototype Warp Inhibitor I
+
+Name: Dark Carnage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Crow
+Weapon: Sabretooth Light Missile
+
+Name: Lady LeJean
+Security: 4.9
+Alliance: Sparta Alliance
+Corp: Lacedaemon.
+Ship: Damnation
+Weapon: Damnation
+
+Name: Aikuchi Hiddensword
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Taranis
+Weapon: Light Ion Blaster I
+
+Name: Teck7
+Security: 1.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ares
+Weapon: Initiated Warp Jammer I
+
+Name: Xantheris
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Enyo
+Weapon: Light Neutron Blaster II
+
+
+Destroyed items:
+
+Brynn's Modified Large Plasma Smartbomb
+Large 'Solace' I Remote Bulwark Reconstruction
+Large 'Solace' I Remote Bulwark Reconstruction
+Cap Recharger II
+Capital Armor Repairer I
+Medium Proton Smartbomb I (Cargo)
+Large YF-12a Smartbomb (Cargo)
+Helium Isotopes, Qty: 10551 (Cargo)
+Praetor I (Drone Bay)
+Templar (Drone Bay)
+Firbolg (Drone Bay)
+

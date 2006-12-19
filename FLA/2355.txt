@@ -1,0 +1,73 @@
+2007.02.06 05:39
+
+Victim: Stitcher
+Alliance: Freelancer Alliance
+Corp: J.I.T. Enterprises
+Destroyed: Scorpion
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Dark1 (laid the final blow)
+Security: 3.3
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Muninn
+Weapon: 720mm Howitzer Artillery II
+
+Name: EL TITAN
+Security: 1.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Vagabond
+Weapon: Hobgoblin II
+
+Name: Sexual Chocolate
+Security: 2.5
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Muninn
+Weapon: Muninn
+
+Name: sageO
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+Name: Dire Guristas Demolisher / Guristas
+
+Name: CLEISTHENES2
+Security: -0.9
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Claw
+Weapon: 'Arbalest' Rocket Launcher I
+
+Name: Johnny cruz
+Security: 2.8
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Taranis
+Weapon: J5 Prototype Warp Inhibitor I
+
+
+Destroyed items:
+
+Cataclysm Cruise Missile, Qty: 13
+Devastator Cruise Missile, Qty: 13
+'Malkuth' Cruise Launcher I
+'Malkuth' Cruise Launcher I
+'Malkuth' Cruise Launcher I
+'Malkuth' Cruise Launcher I
+ECM - Multispectral Jammer II
+ECM - Phase Inverter II
+Sensor Booster I
+Wavelength Signal Enhancer I
+'Hypnos' Signal Distortion Amplifier I
+Induced Signal Distortion Amplifier I
+Paradise Cruise Missile, Qty: 2449 (Cargo)
+Wrath Cruise Missile, Qty: 2451 (Cargo)
+

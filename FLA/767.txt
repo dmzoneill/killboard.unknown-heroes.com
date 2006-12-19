@@ -1,0 +1,29 @@
+2007.02.20 04:40
+
+Victim: Leathal Weapon
+Alliance: None
+Corp: Zero.
+Destroyed: Crusader
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Rhokel (laid the final blow)
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: The Night Crew
+Ship: Rokh
+Weapon: 425mm 'Scout' I Accelerator Cannon
+
+
+Destroyed items:
+
+Medium Pulse Laser II
+Medium Pulse Laser II
+Catalyzed Cold-Gas I Arcjet Thrusters
+J5b Phased Prototype Warp Inhibitor I
+Small Armor Repairer II
+Co-Processor II
+Micro Auxiliary Power Core I
+

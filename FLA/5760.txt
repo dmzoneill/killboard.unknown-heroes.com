@@ -1,0 +1,55 @@
+2006.10.15 09:12
+
+Victim: Vresh
+Alliance: None
+Corp: The Scope
+Destroyed: Brutix
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Braxxon
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Vagabond
+Weapon: Medium Nosferatu II
+
+Name: Killer Angel
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: J.I.T. Enterprises
+Ship: Ishtar
+Weapon: Wasp II
+
+Name: ninev0lts
+Security: 1.8
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Brutix
+Weapon: Hammerhead I
+
+Name: Hojo Norem (laid the final blow)
+Security: 2.7
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+
+Destroyed items:
+
+Heavy Ion Blaster I
+Heavy Ion Blaster I
+Uranium Charge M, Qty: 350
+10MN MicroWarpdrive I
+Medium Hull Repairer I
+'Langour' Drive Disruptor I
+Damage Control I
+Medium Armor Repairer I
+Energized Adaptive Nano Membrane I
+800mm Reinforced Nanofiber Plates I
+Uranium Charge M, Qty: 2063 (Cargo)
+Hammerhead I, Qty: 5 (Drone Bay)
+

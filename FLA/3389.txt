@@ -1,0 +1,163 @@
+2007.03.25 04:12
+
+Victim: Grape Juice
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Destroyed: Raven
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: kezz2411
+Security: 5.0
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Joshua Foiritain
+Security: -1.7
+Alliance: Corelum Syndicate
+Corp: Coreli Corporation
+Ship: Sabre
+Weapon: Sabre
+
+Name: Raznarok
+Security: -1.0
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Crusader
+Weapon: Crusader
+
+Name: Murphy
+Security: -1.4
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Harbinger
+Weapon: Harbinger
+
+Name: Ryuji Takeshi
+Security: 2.7
+Alliance: Aftermath Alliance
+Corp: Master Miners
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: dOG2314
+Security: 5.0
+Alliance: Axiom Empire
+Corp: United Society Starfleet
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: doc627
+Security: 5.0
+Alliance: Axiom Empire
+Corp: United Society Starfleet
+Ship: Harpy
+Weapon: Harpy
+
+Name: Ben Derindar
+Security: 5.0
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Crusader
+Weapon: Crusader
+
+Name: Natheniel
+Security: 5.0
+Alliance: Xelas Alliance
+Corp: Fallen Angel's
+Ship: Ares
+Weapon: Ares
+
+Name: Selnix
+Security: 5.0
+Alliance: Aftermath Alliance
+Corp: Master Miners
+Ship: Eris
+Weapon: Phalanx Javelin Rocket
+
+Name: BECKARD
+Security: 5.0
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Richard Biegewald
+Security: 5.0
+Alliance: Axiom Empire
+Corp: United Society Starfleet
+Ship: Wolf
+Weapon: Wolf
+
+Name: Sebesria
+Security: 5.0
+Alliance: Axiom Empire
+Corp: United Society Starfleet
+Ship: Crusader
+Weapon: Crusader
+
+Name: Mongo Peck
+Security: 4.9
+Alliance: Xelas Alliance
+Corp: Requiem of Hades
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: Syra Tpal
+Security: 4.6
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Vengeance
+Weapon: Vengeance
+
+Name: Savros Hunturas
+Security: 3.9
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Malediction
+Weapon: Malediction
+
+Name: Meeat
+Security: 4.2
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Blackbird
+Weapon: Havoc Heavy Missile
+
+Name: Rasczaak (laid the final blow)
+Security: 1.9
+Alliance: Axiom Empire
+Corp: Fenix Reloaded
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Criosachille
+Security: 3.3
+Alliance: Xelas Alliance
+Corp: Catalyst Reaction
+Ship: Ares
+Weapon: Ares
+
+
+Destroyed items:
+
+Juggernaut Torpedo, Qty: 32
+'Arbalest' Siege Missile Launcher
+'Arbalest' Siege Missile Launcher
+ZW-4100 Siege Missile Bay
+ZW-4100 Siege Missile Bay
+X-Large C5-L Emergency Shield Overload I
+Fixed Parallel Link-Capacitor I
+Large Capacitor Battery I
+Non-Inertial Ballistic Screen Augmentation I
+5a Prototype Shield Support I
+Beta Reactor Control: Diagnostic System I
+Juggernaut Torpedo, Qty: 997 (Cargo)
+Additional Thermal Barrier Emitter I (Cargo)
+14th Tier Overseer's Personal Effects (Cargo)
+12th Tier Overseer's Personal Effects (Cargo)
+

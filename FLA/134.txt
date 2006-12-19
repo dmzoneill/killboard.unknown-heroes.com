@@ -1,0 +1,26 @@
+2007.01.13 22:30
+
+Victim: Omlet 02
+Alliance: None
+Corp: Republic Military School
+Destroyed: Reaper
+System: Aunenen
+Security: 0.4
+
+Involved parties:
+
+Name: Sanal Gi (laid the final blow)
+Security: -1.4
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ferox
+Weapon: Anode Neutron Particle Cannon I
+
+Name: Guristas Anarchist / Guristas
+
+
+Destroyed items:
+
+Medium Shield Booster I (Cargo)
+Remote Sensor Dampener I (Cargo)
+

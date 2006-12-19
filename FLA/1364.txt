@@ -1,0 +1,38 @@
+2007.03.11 17:31
+
+Victim: GODworld
+Alliance: None
+Corp: Royal Amarr Institute
+Destroyed: Impairor
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Caranthir (laid the final blow)
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Huginn
+Weapon: 720mm Howitzer Artillery II
+
+Name: Tiberius Drake
+Security: 4.1
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Brutix
+Weapon: 250mm Railgun I
+
+Name: Osyc
+Security: 2.6
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Wolf
+Weapon: Wolf
+
+
+Destroyed items:
+
+Civilian Gatling Pulse Laser
+Basic Miner
+

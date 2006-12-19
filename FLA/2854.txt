@@ -1,0 +1,34 @@
+2007.03.12 08:16
+
+Victim: Jokull
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Destroyed: Mammoth
+System: MJYW-3
+Security: 0.0
+
+Involved parties:
+
+Name: Chuck Dawg (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Imaginary Number
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Prophecy
+Weapon: Heavy Beam Laser I
+
+
+Destroyed items:
+
+Small Tractor Beam I
+Medium Shield Booster I
+'Anointed' I EM Ward Reinforcement
+Expanded Cargohold I
+Giant Secure Container (Cargo)
+

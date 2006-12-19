@@ -1,0 +1,40 @@
+2007.01.14 14:00
+
+Victim: Krakosaki
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Destroyed: Megathron
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Heinky (laid the final blow)
+Security: 2.8
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Abaddon
+Weapon: Tachyon Beam Laser II
+
+Name: Persona Alta
+Security: 0.5
+Alliance: None
+Corp: Viziam
+Ship: Heretic
+Weapon: X5 Prototype I Engine Enervator
+
+
+Destroyed items:
+
+425mm Compressed Coil Gun I
+425mm Compressed Coil Gun I
+425mm Compressed Coil Gun I
+425mm Compressed Coil Gun I
+425mm Compressed Coil Gun I
+Lead Charge L, Qty: 148
+Alumel-Wired I Sensor Augmentation
+Magnetic Field Stabilizer I
+Magnetic Field Stabilizer I
+Beta Reactor Control: Reaction Control I
+Berserker I, Qty: 5 (Drone Bay)
+

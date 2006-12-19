@@ -1,0 +1,28 @@
+2007.05.05 16:11
+
+Victim: Zizz
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Destroyed: Incursus
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: stich626 (laid the final blow)
+Security: -1.2
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Myrmidon
+Weapon: Heavy Electron Blaster II
+
+
+Destroyed items:
+
+125mm Railgun I
+125mm Railgun I
+Antimatter Charge S, Qty: 146
+1MN MicroWarpdrive I
+Overdrive Injector System I
+Antimatter Charge S, Qty: 750 (Cargo)
+

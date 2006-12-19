@@ -1,0 +1,36 @@
+2007.03.17 15:30
+
+Victim: Topasio
+Alliance: YouWhat
+Corp: Princeps Corp
+Destroyed: Stabber
+System: B-9C24
+Security: 0.0
+
+Involved parties:
+
+Name: Diablo 2k6 (laid the final blow)
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Thorax
+Weapon: Light Ion Blaster II
+
+Name: Tregaron
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Thrasher
+Weapon: 200mm AutoCannon I
+
+
+Destroyed items:
+
+220mm Vulcan AutoCannon I
+220mm Vulcan AutoCannon I
+220mm Vulcan AutoCannon I
+Fusion M, Qty: 212
+Warp Disruptor I
+Patterned Stasis Web I
+Capacitor Power Relay I
+

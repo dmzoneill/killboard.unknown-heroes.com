@@ -1,0 +1,92 @@
+2006.10.08 19:13
+
+Victim: Mild Spike
+Alliance: None
+Corp: Military Space Fleet
+Destroyed: Buzzard
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: DanyD
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Midiana (laid the final blow)
+Security: 0.6
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Vexor
+Weapon: Valkyrie II
+
+Name: Needa3
+Security: 5.0
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Rupture
+Weapon: 650mm Artillery Cannon I
+
+Name: Scorpio63
+Security: 4.8
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Retribution
+Weapon: Retribution
+
+Name: TasKu
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Taranis
+Weapon: Taranis
+
+Name: DarkJester
+Security: 0.7
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Tempest
+Weapon: Thunderbolt Heavy Missile
+
+Name: Formosus Funus
+Security: 2.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Wolf
+Weapon: 200mm Light 'Scout' Autocannon I
+
+Name: XxSOULxX
+Security: 0.6
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Ship: Thorax
+Weapon: Initiated Warp Jammer I
+
+Name: Lizzy Silver
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Caracal
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+Name: Jessica McDaniel
+Security: 1.3
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Scorpion
+Weapon: Cruise Missile Launcher I
+
+
+Destroyed items:
+
+Sabretooth Light Missile, Qty: 40
+Standard Missile Launcher I
+Standard Missile Launcher I
+Invulnerability Field I
+Magnetic Scattering Amplifier I
+Ancillary Ballistic Screen Stabilizer I
+Sabretooth Light Missile, Qty: 60 (Cargo)
+

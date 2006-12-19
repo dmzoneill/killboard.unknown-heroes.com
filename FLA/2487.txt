@@ -1,0 +1,43 @@
+2007.02.15 07:02
+
+Victim: Pestily
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Destroyed: Rook
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Shara El
+Security: 5.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Brutix
+Weapon: Vespa II
+
+Name: Guristas Assassin / Guristas
+
+Name: Evelyn Mulwray (laid the final blow)
+Security: 0.9
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Dominix
+Weapon: Ogre I
+
+
+Destroyed items:
+
+Medium Nosferatu II
+Bloodclaw Light Missile, Qty: 67
+Assault Missile Launcher II
+Assault Missile Launcher II
+Assault Missile Launcher II
+Assault Missile Launcher II
+Large Shield Booster II
+Eutectic I Capacitor Charge Array
+10MN MicroWarpdrive I
+Sensor Booster II
+Ballistic Control System II
+150mm Light AutoCannon II (Cargo)
+

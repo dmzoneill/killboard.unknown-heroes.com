@@ -1,0 +1,33 @@
+2007.03.11 21:44
+
+Victim: GODworld
+Alliance: None
+Corp: Royal Amarr Institute
+Destroyed: Capsule
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Jonas123
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Ferox
+Weapon: Ferox
+
+Name: Fugnut (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Styr Solidus
+Security: 4.8
+Alliance: Dusk and Dawn
+Corp: Decadence.
+Ship: Apocalypse
+Weapon: Tachyon Beam Laser II
+
+

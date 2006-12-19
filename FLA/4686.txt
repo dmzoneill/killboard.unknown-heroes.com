@@ -1,0 +1,65 @@
+2007.04.18 03:49
+
+Victim: sgtdark
+Alliance: Storm Armada
+Corp: stone grave haulage
+Destroyed: Kestrel
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Kvarium Ki
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Stabber
+Weapon: Stabber
+
+Name: Matrixcvd
+Security: 5.0
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Caracal
+Weapon: Thunderbolt Heavy Missile
+
+Name: Kel' Thuzad
+Security: 0.2
+Alliance: Forces of Freedom
+Corp: Vaportrail Logistics
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: Michael Shanks (laid the final blow)
+Security: 0.1
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery I
+
+Name: GEOFFTRIN RYNE
+Security: 5.0
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Merlin
+Weapon: Merlin
+
+Name: Kayron Brennan
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Merlin
+Weapon: Bloodclaw Light Missile
+
+Name: Raketefrau
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Blackbird
+Weapon: Heavy Missile Launcher I
+
+
+Destroyed items:
+
+Cynosural Field Generator I
+

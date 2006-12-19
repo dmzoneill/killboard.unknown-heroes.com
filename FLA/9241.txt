@@ -1,0 +1,68 @@
+2007.05.04 23:12
+
+Victim: Savak
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Omen
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Cobra64
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Muninn
+Weapon: Warrior II
+
+Name: Cockroach
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Malediction
+Weapon: 'Arbalest' Rocket Launcher I
+
+Name: Corovus (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Nemesis
+Weapon: Cataclysm Cruise Missile
+
+Name: R4Z0R49
+Security: 3.8
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Crow
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: Mocuker
+Security: 0.2
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Blackbird
+Weapon: Sabretooth Light Missile
+
+
+Destroyed items:
+
+Heavy Modulated Energy Beam I
+Heavy Modulated Energy Beam I
+Multifrequency M
+Multifrequency M
+Piranha Light Missile, Qty: 53
+Compact 'Limos' Assault Missile Bay I
+Stasis Webifier I
+Small Tapered Capacitor Infusion I
+Cap Booster 200
+800mm Reinforced Crystalline Carbonide Plates I
+Reactor Control Unit I
+Reactor Control Unit I
+Gamma M, Qty: 3 (Cargo)
+Cap Booster 200, Qty: 35 (Cargo)
+Bloodclaw Light Missile, Qty: 200 (Cargo)
+Piranha Light Missile, Qty: 134 (Cargo)
+Sabretooth Light Missile, Qty: 300 (Cargo)
+Warrior I (Drone Bay)
+

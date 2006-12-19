@@ -1,0 +1,25 @@
+2007.01.08 01:37
+
+Victim: Bleyys Corey
+Alliance: Privateer Alliance
+Corp: Privateers
+Destroyed: Kestrel
+System: Oursulaert
+Security: 0.9
+
+Involved parties:
+
+Name: drullir (laid the final blow)
+Security: 3.5
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Thorax
+Weapon: Anode Ion Particle Cannon I
+
+
+Destroyed items:
+
+Thorn Rocket, Qty: 90
+Rocket Launcher I, Qty: 2
+1MN MicroWarpdrive I
+Capacitor Power Relay I

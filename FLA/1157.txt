@@ -1,0 +1,33 @@
+2007.03.07 18:32
+
+Victim: JorgeBenavente
+Alliance: YouWhat
+Corp: Princeps Corp
+Destroyed: Capsule
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: DRACO selen
+Security: 5.0
+Alliance: None
+Corp: Troublemakers
+Ship: Rook
+Weapon: Scourge Heavy Missile
+
+Name: Spawny
+Security: 5.0
+Alliance: None
+Corp: Ganja Unlimited
+Ship: Flycatcher
+Weapon: X5 Prototype I Engine Enervator
+
+Name: Rhokel (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: The Night Crew
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+

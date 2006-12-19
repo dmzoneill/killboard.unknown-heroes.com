@@ -1,0 +1,62 @@
+2007.05.04 07:48
+
+Victim: MakkAnzy
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Destroyed: Astarte
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Mufeater
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Hyperion
+Weapon: Vespa I
+
+Name: Nukuquqa Hestase
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+Name: Corovus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Arazu
+Weapon: XR-3200 Heavy Missile Bay
+
+Name: alpha lead
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Caracal
+Weapon: Advanced 'Limos' Heavy Missile Bay I
+
+Name: Bobby Atlas (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Celestis
+Weapon: Thunderbolt Heavy Missile
+
+
+Destroyed items:
+
+Heavy Neutron Blaster II, Qty: 2
+Void M, Qty: 162
+Y-T8 Overcharged Hydrocarbon I Microwarpdrive
+Warp Disruptor II
+Fleeting Propulsion Inhibitor I
+Medium Electrochemical Capacitor Booster I
+Antimatter Charge M, Qty: 80 (Cargo)
+Cap Booster 800, Qty: 3 (Cargo)
+Hornet II, Qty: 2 (Cargo)
+Null M, Qty: 529 (Cargo)
+Void M, Qty: 353 (Cargo)
+SV-2000 Assault Missile Bay (Cargo)
+Power Diagnostic System II (Cargo)

@@ -1,0 +1,78 @@
+2007.04.08 20:50
+
+Victim: ClogMan
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Destroyed: Cyclone
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Rukaz
+Security: 3.1
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: ICoraxI (laid the final blow)
+Security: 1.1
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Eos
+Weapon: Berserker II
+
+Name: Vily
+Security: 0.3
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: END3R 101
+Security: -0.7
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Damnation
+Weapon: Acolyte II
+
+Name: Frantico
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Crusader
+Weapon: Crusader
+
+Name: Chris Reed
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Arazu
+Weapon: Arazu
+
+Name: Karille
+Security: -1.6
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Taranis
+Weapon: Hobgoblin I
+
+
+Destroyed items:
+
+650mm Artillery Cannon II
+650mm Artillery Cannon II
+650mm Artillery Cannon II
+650mm Artillery Cannon II
+650mm Artillery Cannon II
+Quake M, Qty: 40
+Widowmaker Heavy Missile, Qty: 15
+Large Supplemental Barrier Emitter I
+Large Subordinate Screen Stabilizer I
+Prototype I Sensor Booster
+Gyrostabilizer II
+Tremor M, Qty: 1075 (Cargo)
+Quake M, Qty: 300 (Cargo)
+Valkyrie I (Drone Bay)
+

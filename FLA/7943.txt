@@ -1,0 +1,26 @@
+2006.10.02 21:56
+
+Victim: Scorpio63
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Destroyed: Executioner
+System: N2IS-B
+Security: 0.0
+
+Involved parties:
+
+Name: Fields Caletis (laid the final blow)
+Security: -0.6
+Alliance: Lotka Volterra
+Corp: M. Corp
+Ship: Malediction
+Weapon: Sabretooth Light Missile
+
+
+Destroyed items:
+
+Medium Beam Laser I
+Small 'Knave' I Energy Drain
+Multifrequency S
+1MN Afterburner I
+

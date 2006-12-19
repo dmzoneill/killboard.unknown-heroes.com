@@ -1,0 +1,26 @@
+2007.01.12 17:18
+
+Victim: meragon
+Alliance: None
+Corp: School of Applied Knowledge
+Destroyed: Minmatar Shuttle
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Hermithoth (laid the final blow)
+Security: 0.1
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Vexor
+Weapon: Hobgoblin II
+
+Name: Samiloth Justinian
+Security: 3.4
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Buzzard
+Weapon: Fleeting Progressive Warp Scrambler I
+
+

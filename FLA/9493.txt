@@ -1,0 +1,27 @@
+2007.05.16 13:54
+
+Victim: Qirajiii
+Alliance: YouWhat
+Corp: Princeps Corp
+Destroyed: Incursus
+System: L-C3O7
+Security: 0.0
+
+Involved parties:
+
+Name: SleepyJack (laid the final blow)
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Nemesis
+Weapon: Devastator Cruise Missile
+
+
+Destroyed items:
+
+150mm Carbide Railgun I
+Thorium Charge S, Qty: 28
+1MN MicroWarpdrive I
+Thorium Charge S, Qty: 4960 (Cargo)
+Hobgoblin I (Drone Bay)
+

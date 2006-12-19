@@ -1,0 +1,19 @@
+2007.03.21 13:36
+
+Victim: kelvinc
+Alliance: None
+Corp: Roid Vandals
+Destroyed: Capsule
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Damfoose (laid the final blow)
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Raven
+Weapon: Large Rudimentary Concussion Bomb I
+
+

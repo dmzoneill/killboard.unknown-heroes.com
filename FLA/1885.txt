@@ -1,0 +1,37 @@
+2007.01.08 00:36
+
+Victim: Frau Formaggio
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Blackbird
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: ETS4ME (laid the final blow)
+Security: 0.7
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Paradise Precision Cruise Missile
+
+Name: SATAN
+Security: -0.8
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Vespa II
+
+
+Destroyed items:
+
+Terror Assault Missile, Qty: 276
+'Arbalest' Heavy Assault Missile Launcher I
+ECM - Ion Field Projector II
+ECM - Multispectral Jammer II
+ECM - Spatial Destabilizer II
+Kapteyn Sensor Array Inhibitor I
+Sensor Booster I
+'Hypnos' Signal Distortion Amplifier I
+

@@ -1,0 +1,26 @@
+2007.02.20 03:36
+
+Victim: Stain Protector
+Alliance: Red Moon Federation
+Corp: Confederation of Red Moon
+Destroyed: Capsule
+System: VRH-H7
+Security: 0.0
+
+Involved parties:
+
+Name: ventura5
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Flycatcher
+Weapon: Sabretooth Precision Light Missile
+
+Name: Drako Invictus (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Absolution
+Weapon: Heavy Pulse Laser II
+
+

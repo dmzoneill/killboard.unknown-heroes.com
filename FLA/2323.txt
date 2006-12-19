@@ -1,0 +1,54 @@
+2007.02.05 19:59
+
+Victim: Minisoza
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Capsule
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Sexual Chocolate
+Security: 2.5
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Muninn
+Weapon: Phased Weapon Navigation Array Generation Extron
+
+Name: violator2k5 (laid the final blow)
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+Name: Femintaki
+Security: 3.0
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Taranis
+Weapon: Taranis
+
+Name: Letum Omnis
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Gazmus
+Security: 0.8
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Beast Hun
+Security: 4.7
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Armageddon
+Weapon: Tachyon Beam Laser II
+
+

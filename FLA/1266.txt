@@ -1,0 +1,51 @@
+2007.03.09 23:18
+
+Victim: Essol 2
+Alliance: None
+Corp: Federal Navy Academy
+Destroyed: Atron
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: DarkAvenger DK (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Drake
+Weapon: Havoc Heavy Missile
+
+Name: other mickey
+Security: 2.9
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Ares
+Weapon: Ares
+
+Name: Cyrila Wolf
+Security: -2.2
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: ventura5
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Drake
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+Name: ISliverI
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Arazu
+Weapon: 200mm Railgun II
+
+
+Destroyed items:
+
+Monopropellant I Hydrazine Boosters
+

@@ -1,0 +1,102 @@
+2007.04.02 09:52
+
+Victim: Rhayvn
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Destroyed: Armageddon
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: ClogMan (laid the final blow)
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Raven
+Weapon: Bane Torpedo
+
+Name: Cockroach
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Zealot
+Weapon: Zealot
+
+Name: Zytrel
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Raven
+Weapon: Wrath Cruise Missile
+
+Name: Marie Veedor
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Drake
+Weapon: Thunderbolt Heavy Missile
+
+Name: CENTUREAN
+Security: 4.2
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Drake
+Weapon: Thunderbolt Heavy Missile
+
+Name: Guristas Terrorist / Guristas
+
+Name: Grape Juice
+Security: -4.1
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Blackbird
+Weapon: Blackbird
+
+Name: Hedeon Mishenka
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Vengeance
+Weapon: Vengeance
+
+Name: DarkAvenger DK
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Executioner
+Weapon: Executioner
+
+Name: Kaand
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Myrmidon
+Weapon: Medium Diminishing Power System Drain I
+
+
+Destroyed items:
+
+Dual Heavy Pulse Laser II
+Dual Heavy Pulse Laser II
+Dual Heavy Pulse Laser II
+Dual Heavy Pulse Laser II
+Dual Heavy Pulse Laser II
+E500 Prototype Energy Vampire
+Scorch L
+Scorch L
+Scorch L
+Scorch L
+Scorch L
+J5 Prototype Warp Inhibitor I
+Heavy Electrochemical Capacitor Booster I
+Cap Booster 800
+Cap Booster 800
+Heat Sink II
+Nanoelectrical Co-Processor I
+N-Type Kinetic Hardener I
+N-Type Explosive Hardener I
+Ultraviolet L, Qty: 4 (Cargo)
+Conflagration L, Qty: 4 (Cargo)
+Berserker I (Drone Bay)
+

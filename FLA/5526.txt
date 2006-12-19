@@ -1,0 +1,68 @@
+2006.10.07 01:10
+
+Victim: Case Matrix
+Alliance: Charok Askore Alliance
+Corp: Simtech Productions
+Destroyed: Tristan
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: DarkJester (laid the final blow)
+Security: 0.7
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery I
+
+Name: Seventh Star
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Jaguar
+Weapon: Upgraded 'Limos' Standard Missile Bay I
+
+Name: Barukor
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Wolf
+Weapon: Small Nosferatu I
+
+Name: movy
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: forator2
+Security: 3.5
+Alliance: O X I D E
+Corp: W33D Corp.
+Ship: Taranis
+Weapon: Taranis
+
+Name: avelution
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Caracal
+Weapon: XR-3200 Heavy Missile Bay
+
+Name: Hosanna
+Security: -0.7
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Stiletto
+Weapon: Faint Warp Prohibitor I
+
+
+Destroyed items:
+
+125mm Prototype I Gauss Gun
+125mm Prototype I Gauss Gun
+Antimatter Charge S, Qty: 160
+Civilian Shield Booster I
+

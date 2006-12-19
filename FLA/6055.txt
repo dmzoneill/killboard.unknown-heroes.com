@@ -1,0 +1,19 @@
+2006.11.06 20:21
+
+Victim: Dog Child
+Alliance: None
+Corp: Republic Military School
+Destroyed: Amarr Shuttle
+System: P-2TTL
+Security: 0.0
+
+Involved parties:
+
+Name: James Potkukelkka (laid the final blow)
+Security: 0.2
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Flycatcher
+Weapon: Bloodclaw Precision Light Missile
+
+

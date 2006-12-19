@@ -1,0 +1,31 @@
+2006.07.16 17:25
+
+Victim: Melliphron
+Alliance: None
+Corp: Ashen Lion Mining and Production Consortium
+Destroyed: Badger Mark II
+System: JU-OWQ
+Security: 0.0
+
+Involved parties:
+
+Name: XxAngelxX
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Malediction
+Weapon: Malediction
+
+Name: Capt Cali (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: London Transport
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+
+Destroyed items:
+
+Medium Shield Extender I
+Small Capacitor Battery II
+

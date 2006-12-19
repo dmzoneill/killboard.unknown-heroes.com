@@ -1,0 +1,78 @@
+2007.01.14 02:11
+
+Victim: Downeaster
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Destroyed: Moa
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Elfaen Ethenwe
+Security: -4.1
+Alliance: None
+Corp: Eternal Rising
+Ship: Vulture
+Weapon: Thunderbolt Fury Heavy Missile
+
+Name: Dancin' Pete
+Security: 5.0
+Alliance: None
+Corp: Eternal Rising
+Ship: Claw
+Weapon: Claw
+
+Name: Drakin Korin
+Security: -0.9
+Alliance: None
+Corp: Eternal Rising
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Limited Slip (laid the final blow)
+Security: 0.1
+Alliance: None
+Corp: Eternal Rising
+Ship: Blackbird
+Weapon: Thunderbolt Heavy Missile
+
+Name: StrannikUA
+Security: 5.0
+Alliance: None
+Corp: Eternal Rising
+Ship: Ishkur
+Weapon: Warrior II
+
+Name: DarkShakkra
+Security: 2.9
+Alliance: None
+Corp: Project Gemini
+Ship: Arbitrator
+Weapon: Valkyrie I
+
+Name: Paltar
+Security: -1.7
+Alliance: None
+Corp: Evil Bandit Organisation
+Ship: Myrmidon
+Weapon: Remote Sensor Dampener II
+
+
+Destroyed items:
+
+250mm Compressed Coil Gun I
+250mm Compressed Coil Gun I
+250mm Compressed Coil Gun I
+Dread Guristas Iron Charge M, Qty: 80
+Compact 'Limos' Assault Missile Bay I
+Compact 'Limos' Assault Missile Bay I
+F-90 Positional Sensor Subroutines
+Optical Tracking Computer I
+Optical Tracking Computer I
+Magnetic Field Stabilizer I
+Magnetic Field Stabilizer I
+Dread Guristas Iron Charge M, Qty: 329 (Cargo)
+Antimatter Charge M, Qty: 200 (Cargo)
+Hobgoblin I, Qty: 2 (Drone Bay)
+

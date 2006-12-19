@@ -1,0 +1,47 @@
+2007.03.13 19:23
+
+Victim: 0o0Preatorian0o0
+Alliance: Privateer Alliance
+Corp: mUfFiN fAcToRy
+Destroyed: Nighthawk
+System: Hek
+Security: 0.5
+
+Involved parties:
+
+Name: Voron Sternwolf
+Security: 5.0
+Alliance: Red Alliance
+Corp: Free Space Pilotsaka Banderlogs
+Ship: Hyperion
+Weapon: Neutron Blaster Cannon II
+
+Name: Alexxei
+Security: 5.0
+Alliance: Red Alliance
+Corp: Free Space Pilotsaka Banderlogs
+Ship: Abaddon
+Weapon: Abaddon
+
+Name: Tregaron (laid the final blow)
+Security: 2.0
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Cyclone
+Weapon: 220mm Vulcan AutoCannon II
+
+
+Destroyed items:
+
+Hydra F.O.F. Heavy Missile I, Qty: 54
+Heavy Missile Launcher II
+Heavy Missile Launcher II
+Heavy Missile Launcher II
+Large Shield Extender II
+Magnetic Scattering Amplifier II
+Shield Boost Amplifier II
+Power Diagnostic System II
+Scourge Heavy Missile, Qty: 5989 (Cargo)
+Hydra F.O.F. Heavy Missile I, Qty: 5730 (Cargo)
+Hornet II, Qty: 4 (Drone Bay)
+

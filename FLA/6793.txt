@@ -1,0 +1,23 @@
+2006.12.02 12:27
+
+Victim: ThaSpot
+Alliance: The SUdden Death Squad
+Corp: FM Corp
+Destroyed: Ibis
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Kateryne (laid the final blow)
+Security: -1.7
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Cyclone
+Weapon: 425mm AutoCannon I
+
+
+Destroyed items:
+
+Civilian Gatling Railgun
+

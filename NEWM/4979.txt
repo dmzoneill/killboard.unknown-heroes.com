@@ -1,0 +1,102 @@
+2007.04.20 23:46
+
+Victim: Kee Ris
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Armageddon
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Enosh Kerrim (laid the final blow)
+Security: -1.0
+Alliance: Mercenary Coalition
+Corp: Seraphin Technologies
+Ship: Thanatos
+Weapon: Firbolg
+
+Name: Waagaa Ktlehr
+Security: 0.5
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Aeon
+Weapon: Dragonfly
+
+Name: Lyra Sy
+Security: 5.0
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Vulture
+Weapon: Vulture
+
+Name: Nethel
+Security: 2.1
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Dominix
+Weapon: Medium 'Ghoul' Energy Siphon I
+
+Name: Debian Executer
+Security: 3.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Sleipnir
+Weapon: Warrior II
+
+Name: Kkmar Jheren
+Security: -1.5
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Malediction
+Weapon: Malediction
+
+Name: Vendetta X
+Security: 0.6
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Arazu
+Weapon: 250mm Railgun II
+
+Name: Savak
+Security: -0.2
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Pychian Vanervi
+Security: -0.4
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Crow
+Weapon: Fleeting Warp Scrambler I
+
+Name: Bothius
+Security: 0.4
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Arazu
+Weapon: Remote Sensor Dampener II
+
+
+Destroyed items:
+
+Mega Modulated Pulse Energy Beam I
+Mega Modulated Pulse Energy Beam I
+Mega Modulated Pulse Energy Beam I
+Tachyon Modal Laser I
+Multifrequency L
+Standard L
+F-b10 Nominal Capacitor Regenerator
+F-b10 Nominal Capacitor Regenerator
+Large Armor Repairer II
+Heat Sink II
+Heat Sink II
+Armor Kinetic Hardener I
+Radioisotope Explosive Hardener I
+Multifrequency L, Qty: 3 (Cargo)
+Standard L (Cargo)
+Radio L, Qty: 4 (Cargo)
+Vespa I, Qty: 6 (Drone Bay)
+

@@ -1,0 +1,43 @@
+2007.01.06 19:03
+
+Victim: Bluemaxs
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Destroyed: Caracal
+System: Torrinos
+Security: 0.5
+
+Involved parties:
+
+Name: SoulScourge (laid the final blow)
+Security: -1.5
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Tempest Fleet Issue
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Fjerkenstad
+Security: -1.9
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Taranis
+Weapon: Taranis
+
+
+Destroyed items:
+
+Sabretooth Light Missile, Qty: 44
+Widowmaker Heavy Missile, Qty: 17
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Assault Missile Launcher I
+Medium Shield Extender II
+1MN Afterburner I
+Ballistic Control System I
+Overdrive Injector System I
+Large Shield Extender II (Cargo)
+X-Large Shield Booster I (Cargo)
+Sensor Booster I (Cargo)
+Kinetic Deflection Amplifier I (Cargo)
+Widowmaker Heavy Missile, Qty: 203 (Cargo)
+

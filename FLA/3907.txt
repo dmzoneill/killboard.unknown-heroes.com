@@ -1,0 +1,68 @@
+2007.04.05 21:38
+
+Victim: Strilath Vanukar
+Alliance: Digital Renegades
+Corp: Digital Fury Corporation
+Destroyed: Caldari Shuttle
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Steven FSB
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Harpy
+Weapon: Harpy
+
+Name: Penal Serge (laid the final blow)
+Security: 5.0
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Drake
+Weapon: Thunderbolt Fury Heavy Missile
+
+Name: Ember Fox
+Security: 1.5
+Alliance: DeStInY.
+Corp: Fusion Enterprises Ltd
+Ship: Taranis
+Weapon: Fleeting Warp Scrambler I
+
+Name: alon blackhelm
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Myrmidon
+Weapon: Warp Disruptor II
+
+Name: Untamed Fury
+Security: 1.2
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Hurricane
+Weapon: 720mm Howitzer Artillery II
+
+Name: SpikehBoy
+Security: 0.4
+Alliance: Forces of Freedom
+Corp: Band of the Red Hand
+Ship: Caracal
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+Name: Lee Thrace
+Security: 5.0
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Lachesis
+Weapon: 200mm Railgun II
+
+Name: Harkley
+Security: 2.3
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Armageddon
+Weapon: Mega Pulse Laser I
+
+

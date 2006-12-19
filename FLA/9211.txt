@@ -1,0 +1,46 @@
+2007.05.02 15:53
+
+Victim: Marie Veedor
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Merlin
+System: O-CNPR
+Security: 0.0
+
+Involved parties:
+
+Name: Abraxius
+Security: 4.6
+Alliance: Star Buccaneers
+Corp: Liga Freier Terraner
+Ship: Arazu
+Weapon: Hammerhead II
+
+Name: DayVV4lkEr (laid the final blow)
+Security: 2.3
+Alliance: Star Buccaneers
+Corp: Liga Freier Terraner
+Ship: Arazu
+Weapon: Hammerhead II
+
+Name: sturmi
+Security: 3.7
+Alliance: Star Buccaneers
+Corp: Liga Freier Terraner
+Ship: Arazu
+Weapon: Remote Sensor Dampener II
+
+
+Destroyed items:
+
+150mm Compressed Coil Gun I
+150mm Compressed Coil Gun I
+Plutonium Charge S, Qty: 34
+Bloodclaw Light Missile, Qty: 33
+J5b Phased Prototype Warp Inhibitor I
+Stasis Webifier I
+Supplemental Scanning CPU I
+Mark I Generator Refitting: Diagnostic System
+Mark I Generator Refitting: Diagnostic System
+Antimatter Charge S, Qty: 139 (Cargo)
+

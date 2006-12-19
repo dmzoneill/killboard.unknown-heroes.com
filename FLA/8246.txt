@@ -1,0 +1,29 @@
+2006.11.06 00:11
+
+Victim: Krelz
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Tristan
+System: Oipo
+Security: 0.8
+
+Involved parties:
+
+Name: Yarek Balear (laid the final blow)
+Security: -1.8
+Alliance: None
+Corp: The Initiative
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+
+Destroyed items:
+
+Antimatter Charge S, Qty: 120
+Thorn Rocket, Qty: 30
+'Limos' Rocket Launcher I
+Cold-Gas I Arcjet Thrusters
+Stasis Webifier I
+Antimatter Charge S, Qty: 533 (Cargo)
+Thorn Rocket, Qty: 762 (Cargo)
+

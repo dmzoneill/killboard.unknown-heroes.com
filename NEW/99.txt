@@ -1,0 +1,96 @@
+2007.01.12 18:10
+
+Victim: MeanStreak
+Alliance: None
+Corp: Caldari Provisions
+Destroyed: Sabre
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Goca (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Raven
+Weapon: Inferno Javelin Torpedo
+
+Name: coldkill
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Taranis
+Weapon: Hobgoblin II
+
+Name: Stitcher
+Security: 3.3
+Alliance: Freelancer Alliance
+Corp: J.I.T. Enterprises
+Ship: Moa
+Weapon: Moa
+
+Name: Ocara Nezus
+Security: 1.6
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Crow
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+Name: thoradh
+Security: 4.4
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Celestis
+Weapon: Celestis
+
+Name: mrrabit
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Rupture
+Weapon: Standard Missile Launcher I
+
+Name: forever faithless
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Celestis
+Weapon: Remote Sensor Dampener I
+
+Name: Soldroz
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Capsule
+Weapon: Fleeting Warp Scrambler I
+
+Name: SniperMcBob
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Blackbird
+Weapon: Heavy Missile Launcher I
+
+Name: Sidrat Flush
+Security: 1.6
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Kestrel
+Weapon: Standard Missile Launcher I
+
+
+Destroyed items:
+
+150mm Light AutoCannon II, Qty: 2
+125mm Gatling AutoCannon II, Qty: 2
+Barrage S, Qty: 194
+J5b Phased Prototype Warp Inhibitor I
+400mm Reinforced Rolled Tungsten Plates I
+Corpse (Cargo)
+350mm Railgun I (Cargo)
+Lead Charge L, Qty: 32 (Cargo)
+Wasp I (Cargo)
+Armor Kinetic Hardener I (Cargo)
+Barrage S, Qty: 1129 (Cargo)
+Salvager I (Cargo)

@@ -1,0 +1,40 @@
+2007.05.02 03:04
+
+Victim: Hoodats Poopen
+Alliance: None
+Corp: Turdflinger Inc
+Destroyed: Gallente Shuttle
+System: F7C-H0
+Security: 0.0
+
+Involved parties:
+
+Name: Fo Shizz (laid the final blow)
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Cyclone
+Weapon: 650mm Artillery Cannon I
+
+Name: Lietrem Appakra
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Jaguar
+Weapon: 280mm Howitzer Artillery II
+
+Name: Unbridled Hate
+Security: -1.8
+Alliance: None
+Corp: United Task
+Ship: Enyo
+Weapon: Light Neutron Blaster II
+
+Name: Draconian Arcane
+Security: -2.5
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Cyclone
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+

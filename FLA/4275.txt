@@ -1,0 +1,70 @@
+2007.04.06 09:06
+
+Victim: RubberDuckey
+Alliance: Freelancer Alliance
+Corp: Blackwater Squadron
+Destroyed: Raven
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Xordus (laid the final blow)
+Security: 0.5
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Armageddon
+Weapon: Mega Modulated Pulse Energy Beam I
+
+Name: Lorn Zolog
+Security: -1.2
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Nipplator
+Security: -0.5
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Bishata
+Security: 1.0
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Malediction
+Weapon: Malediction
+
+Name: Sexorella hotz
+Security: 2.8
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Stiletto
+Weapon: Warp Disruptor II
+
+Name: Azekial
+Security: 2.7
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Dominix
+Weapon: Balmer Series Targeting Inhibitor I
+
+Name: Anomaly21
+Security: -1.0
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Drake
+Weapon: Heavy Missile Launcher II
+
+
+Destroyed items:
+
+Cruise Missile Launcher II
+Cruise Missile Launcher II
+X-Large Shield Booster II
+Kinetic Deflection Amplifier II
+Heat Dissipation Amplifier II
+Ballistic Control System II
+

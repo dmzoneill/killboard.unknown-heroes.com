@@ -1,0 +1,49 @@
+2007.03.10 21:55
+
+Victim: Swanny231
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Destroyed: Thorax
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Hunter Roshak
+Security: 4.3
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Harbinger
+Weapon: Infiltrator II
+
+Name: WildCard
+Security: 4.6
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Drake
+Weapon: Advanced 'Limos' Heavy Missile Bay I
+
+Name: 2inkletowz (laid the final blow)
+Security: 1.8
+Alliance: Chorus of Dawn
+Corp: Infinite Style Incorporated
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+
+Destroyed items:
+
+250mm Compressed Coil Gun I
+Dread Guristas Tungsten Charge M, Qty: 31
+F-90 Positional Sensor Subroutines
+'Abandon' Targeting Disruptor I
+Emergency Damage Control I
+Medium Armor Repairer I
+Magnetic Field Stabilizer I
+Microcell Nanite Regenerative Membrane I
+Antimatter Charge M, Qty: 5307 (Cargo)
+Ward Console, Qty: 101 (Cargo)
+Fried Interface Circuit, Qty: 39 (Cargo)
+Scorched Telemetry Processor, Qty: 65 (Cargo)
+Malfunctioning Shield Emitter, Qty: 51 (Cargo)
+

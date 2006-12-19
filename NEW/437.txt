@@ -1,0 +1,157 @@
+2007.03.25 00:07
+
+Victim: Sholle
+Alliance: YouWhat
+Corp: SteelVipers
+Destroyed: Armageddon
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Nimbu
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: J.I.T. Enterprises
+Ship: Rokh
+Weapon: Rokh
+
+Name: Jonkai
+Security: -3.9
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: StrikerOneSevern
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Rupture
+Weapon: Rupture
+
+Name: Darthirishguy (laid the final blow)
+Security: 1.6
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: sakana
+Security: -0.9
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Megathron
+Weapon: Megathron
+
+Name: Almagar Phog
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+Name: JaiMaster
+Security: 2.7
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Typhoon
+Weapon: Cruise Missile Launcher II
+
+Name: Korudon
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Unknown
+Weapon: Standard Missile Launcher I
+
+Name: ISpydeRI
+Security: 5.0
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Drake
+Weapon: Thunderbolt Heavy Missile
+
+Name: Harken Hessel
+Security: 1.1
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Ship: Tristan
+Weapon: Tristan
+
+Name: Logand Delta
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Ship: Drake
+Weapon: 'Arbalest' Heavy Missile Launcher
+
+Name: Villwrath
+Security: 3.5
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Enyo
+Weapon: Light Neutron Blaster II
+
+Name: hydro2900
+Security: 2.6
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Ship: Catalyst
+Weapon: Catalyst
+
+Name: Sabe
+Security: 5.0
+Alliance: Red Horizon
+Corp: Red Horizon Inc
+Ship: Gila
+Weapon: 'Arbalest' Heavy Missile Launcher
+
+Name: Deathratt
+Security: 4.7
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Ship: Blackbird
+Weapon: XR-3200 Heavy Missile Bay
+
+Name: Minisoza
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: Chuck Dawg
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Unknown
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: ConXtionS
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: The Night Crew
+Ship: Thorax
+Weapon: Hammerhead I
+
+Name: TNT 1
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: The Night Crew
+Ship: Hawk
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+
+Destroyed items:
+
+150mm Light AutoCannon I
+Large Plasma Smartbomb I
+Large Proton Smartbomb I
+Cap Recharger I
+Heavy Electrochemical Capacitor Booster I
+Large 'Accommodation' Vestment Reconstructer I
+Co-Processor I, Qty: 3
+1600mm Reinforced Crystalline Carbonide Plates I
+EMP S, Qty: 1000 (Cargo)
+Cap Booster 800, Qty: 16 (Cargo)

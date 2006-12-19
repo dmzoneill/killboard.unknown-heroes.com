@@ -1,0 +1,76 @@
+2007.01.07 01:11
+
+Victim: Martin Mckenna
+Alliance: Triumvirate.
+Corp: D00M.
+Destroyed: Armageddon
+System: Aunenen
+Security: 0.4
+
+Involved parties:
+
+Name: Jester87
+Security: 1.1
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Cerberus
+Weapon: Havoc Fury Heavy Missile
+
+Name: nXus (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Drake
+Weapon: Widowmaker Heavy Missile
+
+Name: Maefly
+Security: 0.1
+Alliance: Freelancer Alliance
+Corp: X.T.R
+Ship: Ishkur
+Weapon: Warrior II
+
+Name: Swanny231
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Eagle
+Weapon: Eagle
+
+Name: Odinegras
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Vexor
+Weapon: Hammerhead II
+
+Name: Inter Fectum
+Security: 1.5
+Alliance: Freelancer Alliance
+Corp: Sin-X Inc.
+Ship: Stabber
+Weapon: 220mm Vulcan AutoCannon I
+
+Name: other mickey
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Rifter
+Weapon: Rifter
+
+Name: Simon Monkoto
+Security: 2.1
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Capsule
+Weapon: ECM - Multispectral Jammer I
+
+
+Destroyed items:
+
+Mega Pulse Laser II, Qty: 3
+Multifrequency L
+J5 Prototype Warp Inhibitor I
+Large Armor Repairer II
+N-Type Explosive Hardener I
+Capacitor Power Relay I, Qty: 2

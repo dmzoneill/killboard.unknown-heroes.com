@@ -1,0 +1,134 @@
+2007.03.04 14:50
+
+Victim: Agamemon
+Alliance: FATAL Alliance
+Corp: The JORG Corporation
+Destroyed: Raven
+System: KEE-N6
+Security: 0.0
+
+Involved parties:
+
+Name: DrRockIT
+Security: 0.8
+Alliance: Dusk and Dawn
+Corp: Asgard Schiffswerften
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: sakana
+Security: -0.9
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Eris
+Weapon: Eris
+
+Name: Recon One
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Infinite Improbability Inc
+Ship: Harbinger
+Weapon: Harbinger
+
+Name: Caarnji
+Security: -1.9
+Alliance: Dusk and Dawn
+Corp: ECP Rogues
+Ship: Drake
+Weapon: Scourge Fury Heavy Missile
+
+Name: Emerald Cortess
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Konstrukteure der Zukunft
+Ship: Moa
+Weapon: Piranha Light Missile
+
+Name: Ariebos
+Security: -1.0
+Alliance: Dusk and Dawn
+Corp: Momentum.
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: Psykoman (laid the final blow)
+Security: 5.1
+Alliance: Dusk and Dawn
+Corp: Infinite Improbability Inc
+Ship: Myrmidon
+Weapon: Berserker II
+
+Name: Dana Foxworth
+Security: 3.1
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Rupture
+Weapon: Rupture
+
+Name: Cecilia Walsh
+Security: 3.6
+Alliance: Dusk and Dawn
+Corp: Cataclysm Enterprises
+Ship: Curse
+Weapon: Hammerhead II
+
+Name: Flinx Evenstar
+Security: -1.3
+Alliance: Dusk and Dawn
+Corp: Momentum.
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: Yesmina Ortess
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Cataclysm Enterprises
+Ship: Thorax
+Weapon: Thorax
+
+
+Destroyed items:
+
+'Malkuth' Cruise Launcher I
+'Malkuth' Cruise Launcher I
+'Malkuth' Cruise Launcher I
+'Malkuth' Cruise Launcher I
+'Malkuth' Cruise Launcher I
+X-Large C5-L Emergency Shield Overload I, Qty: 25
+Fixed Parallel Link-Capacitor I
+Warp Core Stabilizer I
+Warp Core Stabilizer I
+Warp Core Stabilizer I
+Capacitor Flux Coil I
+Medium C5-L Emergency Shield Overload I (Cargo)
+Cap Recharger I (Cargo)
+J5 Prototype Warp Inhibitor I (Cargo)
+Warp Disruptor I, Qty: 2 (Cargo)
+Damage Control I, Qty: 2 (Cargo)
+Medium Inefficient Armor Repair Unit (Cargo)
+Stasis Webifier I (Cargo)
+Heavy Nosferatu I (Cargo)
+Medium Energy Neutralizer I (Cargo)
+500W Infectious Power System Malfunction (Cargo)
+Heavy Energy Neutralizer I, Qty: 3 (Cargo)
+Heat Dissipation Field I (Cargo)
+Photon Scattering Field I, Qty: 2 (Cargo)
+Invulnerability Field I, Qty: 2 (Cargo)
+Thermic Plating I, Qty: 2 (Cargo)
+Reflective Plating I, Qty: 2 (Cargo)
+Dipolar Weave Magnetic Plating (Cargo)
+Sensor Booster I, Qty: 2 (Cargo)
+Explosion Dampening Amplifier I, Qty: 2 (Cargo)
+N-Type Reflective Membrane I (Cargo)
+N-Type Adaptive Nano Membrane I (Cargo)
+1600mm Reinforced Rolled Tungsten Plates I (Cargo)
+Cataclysm Cruise Missile, Qty: 36 (Cargo)
+Tripped Power Circuit, Qty: 53 (Cargo)
+Fried Interface Circuit (Cargo)
+Charred Micro Circuit, Qty: 52 (Cargo)
+Tangled Power Conduit, Qty: 19 (Cargo)
+Armor Plates, Qty: 18 (Cargo)
+Expanded Cargohold I (Cargo)
+Power Diagnostic System II (Cargo)
+Valkyrie I (Drone Bay)
+

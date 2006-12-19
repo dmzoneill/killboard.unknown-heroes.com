@@ -1,0 +1,33 @@
+2007.03.31 03:16
+
+Victim: Rownen
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Destroyed: Capsule
+System: P-2TTL
+Security: 0.0
+
+Involved parties:
+
+Name: Ferocious FeAr (laid the final blow)
+Security: 1.5
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+Name: War Bear
+Security: 2.8
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Stiletto
+Weapon: 250mm Light Artillery Cannon II
+
+Name: angelena
+Security: 4.5
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Arazu
+Weapon: 280mm Howitzer Artillery II
+
+

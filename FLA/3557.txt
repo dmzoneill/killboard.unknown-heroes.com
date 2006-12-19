@@ -1,0 +1,159 @@
+2007.03.27 01:05
+
+Victim: CrazyDoctor
+Alliance: Freelancer Alliance
+Corp: United Forces
+Destroyed: Typhoon
+System: J1AU-9
+Security: 0.0
+
+Involved parties:
+
+Name: Guristas Destroyer / Guristas
+
+Name: Bedrock
+Security: 0.0
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Muninn
+Weapon: 720mm Howitzer Artillery II
+
+Name: Leonthoric
+Security: 5.0
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Lachesis
+Weapon: Remote Sensor Dampener II
+
+Name: Deerhoof
+Security: 0.8
+Alliance: Axiom Empire
+Corp: United Society Starfleet
+Ship: Wolf
+Weapon: 150mm Light AutoCannon II
+
+Name: Dyden Nemor
+Security: -0.9
+Alliance: FATAL Alliance
+Corp: Black Reign
+Ship: Stiletto
+Weapon: X5 Prototype I Engine Enervator
+
+Name: Rif
+Security: 5.0
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Malediction
+Weapon: Fleeting Propulsion Inhibitor I
+
+Name: El Coyote
+Security: 3.5
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Raptor
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+Name: DeathGrip
+Security: 3.2
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Flycatcher
+Weapon: Rocket Launcher II
+
+Name: Zheraf (laid the final blow)
+Security: 5.0
+Alliance: Axiom Empire
+Corp: Fenix Reloaded
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Natheniel
+Security: 5.0
+Alliance: Xelas Alliance
+Corp: Fallen Angel's
+Ship: Ares
+Weapon: Standard Missile Launcher I
+
+Name: Criosachille
+Security: 3.3
+Alliance: Xelas Alliance
+Corp: Catalyst Reaction
+Ship: Ares
+Weapon: 125mm Railgun II
+
+Name: Oortog
+Security: 4.2
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Malediction
+Weapon: Rocket Launcher I
+
+Name: kezz2411
+Security: 5.0
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Myrmidon
+Weapon: Shadow Serpentis Warp Disruptor
+
+Name: kIM JONGELL
+Security: 4.4
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Blackbird
+Weapon: ECM - Multispectral Jammer II
+
+Name: Sadness
+Security: 4.8
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Maulus
+Weapon: Remote Sensor Dampener I
+
+Name: Omar Shakti
+Security: 4.1
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Taranis
+Weapon: Fleeting Warp Scrambler I
+
+Name: Korran Delan
+Security: 4.7
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Raptor
+Weapon: X5 Prototype I Engine Enervator
+
+Name: Kendex
+Security: 3.3
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Harpy
+Weapon: J5 Prototype Warp Inhibitor I
+
+
+Destroyed items:
+
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Heavy Nosferatu I
+Wrath Cruise Missile, Qty: 13
+Cruise Missile Launcher I
+Cruise Missile Launcher I
+Eutectic I Capacitor Charge Array
+Eutectic I Capacitor Charge Array
+Eutectic I Capacitor Charge Array
+Eutectic I Capacitor Charge Array
+Armor Kinetic Hardener I
+X-Large Shield Booster I (Cargo)
+Medium F-4a Ld-Sulfate I Capacitor Charge Unit (Cargo)
+Wasp I (Cargo)
+Wrath Cruise Missile, Qty: 749 (Cargo)
+Conductive Polymer, Qty: 2 (Cargo)
+Scorched Telemetry Processor, Qty: 2 (Cargo)
+Mark I Generator Refitting: Capacitor Power Relay (Cargo)
+Wasp I, Qty: 3 (Drone Bay)
+

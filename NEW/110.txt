@@ -1,0 +1,18 @@
+2007.01.19 12:13
+
+Victim: Vartha Trin
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Capsule
+System: RZC-16
+Security: 0.0
+
+Involved parties:
+
+Name: Rennard (laid the final blow)
+Security: -1.7
+Alliance: None
+Corp: Janissaries
+Ship: Pilgrim
+Weapon: Hobgoblin II
+

@@ -1,0 +1,26 @@
+2006.06.09 20:02
+
+Victim: Zephlin
+Alliance: None
+Corp: State War Academy
+Destroyed: Capsule
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: ICPIKermit (laid the final blow)
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Ishkur
+Weapon: 125mm Railgun II
+
+Name: Francis Verdictio
+Security: 3.8
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Taranis
+Weapon: 125mm Prototype I Gauss Gun
+
+

@@ -1,0 +1,120 @@
+2007.02.27 22:08
+
+Victim: Aryong
+Alliance: Xelas Alliance
+Corp: Bravehearts
+Destroyed: Caracal
+System: 9-VO0Q
+Security: 0.0
+
+Involved parties:
+
+Name: Jorax (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Vexor
+Weapon: Warrior II
+
+Name: Xantheris
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Harpy
+Weapon: Harpy
+
+Name: EM00
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Caracal
+Weapon: Havoc Heavy Missile
+
+Name: Porti
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: Smiles Jr
+Security: 2.1
+Alliance: Freelancer Alliance
+Corp: The Night Crew
+Ship: Bellicose
+Weapon: Hornet I
+
+Name: RToad
+Security: 1.4
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Praetorian Mardou
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Tregaron
+Security: 1.7
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Cyclone
+Weapon: Vespa II
+
+Name: drullir
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Thorax
+Weapon: Thorax
+
+Name: coldkill
+Security: 1.8
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: SoF Reaperman
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Harpy
+Weapon: Light Ion Blaster I
+
+Name: RedRose01
+Security: 0.3
+Alliance: Freelancer Alliance
+Corp: Feel Good Inc.
+Ship: Retribution
+Weapon: Medium Pulse Laser II
+
+Name: Ocara Nezus
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Hawk
+Weapon: Standard Missile Launcher II
+
+Name: Kerdrak
+Security: 4.8
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Vengeance
+Weapon: Vengeance
+
+
+Destroyed items:
+
+Havoc Heavy Missile, Qty: 29
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Large Shield Extender I
+Large Shield Extender I
+Power Diagnostic System I
+Reactor Control Unit I
+

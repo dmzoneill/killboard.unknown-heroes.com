@@ -1,0 +1,47 @@
+2006.10.05 12:59
+
+Victim: jacass66
+Alliance: Freelancer Alliance
+Corp: BGG
+Destroyed: Ferox
+System: Sobaseki
+Security: 0.8
+
+Involved parties:
+
+Name: Onin Ra (laid the final blow)
+Security: 1.1
+Alliance: None
+Corp: Privateers
+Ship: Megathron
+Weapon: 425mm 'Scout' I Accelerator Cannon
+
+Name: Na'no
+Security: 0.0
+Alliance: None
+Corp: Privateers
+Ship: Caracal
+Weapon: Bloodclaw Light Missile
+
+Name: Pure Blood
+Security: 0.0
+Alliance: None
+Corp: Privateers
+Ship: Bellicose
+Weapon: Hammerhead I
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Medium Nosferatu I
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Invulnerability Field II
+Heat Dissipation Amplifier II
+Magnetic Scattering Amplifier II
+'Mendicant' Signal Booster I
+Thunderbolt Heavy Missile, Qty: 312 (Cargo)
+Havoc Heavy Missile, Qty: 464 (Cargo)
+

@@ -1,0 +1,26 @@
+2006.11.14 18:48
+
+Victim: Rojanteshor
+Alliance: None
+Corp: Aliastra
+Destroyed: Capsule
+System: J-CIJV
+Security: 0.0
+
+Involved parties:
+
+Name: Verild (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Rook
+Weapon: Sabretooth Precision Light Missile
+
+Name: kookos
+Security: 2.9
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Crusader
+Weapon: Dual Light Pulse Laser II
+
+

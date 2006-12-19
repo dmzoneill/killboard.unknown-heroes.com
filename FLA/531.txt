@@ -1,0 +1,63 @@
+2007.02.09 19:57
+
+Victim: Gonadsak
+Alliance: Band of Brothers
+Corp: Reikoku
+Destroyed: Stiletto
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Teck7
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Lachesis
+Weapon: Vespa II
+
+Name: Tnam (laid the final blow)
+Security: 1.7
+Alliance: None
+Corp: BGG
+Ship: Harpy
+Weapon: 150mm Prototype I Gauss Gun
+
+Name: Alski
+Security: 2.8
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Myrmidon
+Weapon: 250mm Carbide Railgun I
+
+Name: Lane A'lusin
+Security: 3.1
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Taranis
+Weapon: Taranis
+
+Name: Koetje II
+Security: 2.9
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Rifter
+Weapon: Initiated Warp Jammer I
+
+
+Destroyed items:
+
+280mm Howitzer Artillery I
+280mm Howitzer Artillery I
+EMP S, Qty: 10
+Standard Missile Launcher II
+Sabretooth Precision Light Missile, Qty: 36
+Fleeting Warp Scrambler I
+Micro Auxiliary Power Core I
+Nanofiber Internal Structure I
+Nanofiber Internal Structure I
+Fleeting Warp Scrambler I (Cargo)
+Large Armor Repairer II (Cargo)
+200mm Railgun II (Cargo)
+Sensor Booster II (Cargo)
+

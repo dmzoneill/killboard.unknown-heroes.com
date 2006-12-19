@@ -1,0 +1,34 @@
+2007.02.19 18:45
+
+Victim: malkey
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Destroyed: Crow
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Alley Cat (laid the final blow)
+Security: -1.0
+Alliance: Gunboat Diplomacy
+Corp: Warped Mining
+Ship: Wolf
+Weapon: 200mm AutoCannon II
+
+Name: Kuentai
+Security: -9.2
+Alliance: None
+Corp: Beagle Corp
+Ship: Claw
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+
+Destroyed items:
+
+Standard Missile Launcher I
+Small Capacitor Battery I
+Bloodclaw Light Missile, Qty: 488 (Cargo)
+Flameburst Light Missile, Qty: 488 (Cargo)
+Piranha Light Missile, Qty: 487 (Cargo)
+

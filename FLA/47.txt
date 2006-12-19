@@ -1,0 +1,26 @@
+2007.01.02 09:32
+
+Victim: rockerguy
+Alliance: None
+Corp: Four Horsemen
+Destroyed: Capsule
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Wousr (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Sleipnir
+Weapon: 425mm AutoCannon II
+
+Name: dccbx
+Security: 4.1
+Alliance: Freelancer Alliance
+Corp: X.T.R
+Ship: Rifter
+Weapon: 280mm Howitzer Artillery II
+
+

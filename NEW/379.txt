@@ -1,0 +1,82 @@
+2007.03.17 14:11
+
+Victim: Nukuquqa Hestase
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Scorpion
+System: XZH-4X
+Security: 0.0
+
+Involved parties:
+
+Name: GodWin cadela
+Security: -1.8
+Alliance: Eternal Rapture
+Corp: Exotic Dancers Club
+Ship: Absolution
+Weapon: Heavy Pulse Laser II
+
+Name: Chode Rizoum
+Security: -1.9
+Alliance: Eternal Rapture
+Corp: Temptation inc.
+Ship: Maelstrom
+Weapon: Maelstrom
+
+Name: ArmyOfMe (laid the final blow)
+Security: -1.5
+Alliance: Eternal Rapture
+Corp: Exotic Dancers Club
+Ship: Astarte
+Weapon: Heavy Neutron Blaster II
+
+Name: VirkMaN
+Security: -1.1
+Alliance: Eternal Rapture
+Corp: Temptation inc.
+Ship: Nighthawk
+Weapon: Hornet II
+
+Name: Handon Guild
+Security: -2.9
+Alliance: Eternal Rapture
+Corp: Exotic Dancers Club
+Ship: Tempest
+Weapon: Tempest
+
+Name: Jack Archer
+Security: -1.7
+Alliance: Eternal Rapture
+Corp: Quantum Synergies
+Ship: Dominix
+Weapon: Wasp II
+
+Name: Nazg0th
+Security: 0.8
+Alliance: Eternal Rapture
+Corp: Temptation inc.
+Ship: Dominix
+Weapon: Valkyrie II
+
+Name: Corelatis Captain Sentry / Serpentis
+
+Name: Jiviva
+Security: -4.4
+Alliance: Eternal Rapture
+Corp: Exotic Dancers Club
+Ship: Ferox
+Weapon: Acolyte II
+
+
+Destroyed items:
+
+Mjolnir Torpedo, Qty: 35
+'Arbalest' Siege Missile Launcher, Qty: 3
+Large F-S9 Regolith Shield Induction
+Non-Inertial Ballistic Screen Augmentation I
+Type-D Power Core Modification: Diagnostic System, Qty: 2
+Medium Hull Repairer I (Cargo)
+Mjolnir Torpedo, Qty: 459 (Cargo)
+ECCM Projector I (Cargo)
+Hammerhead I, Qty: 2 (Drone Bay)
+Hobgoblin I (Drone Bay)

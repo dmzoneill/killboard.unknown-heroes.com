@@ -1,0 +1,124 @@
+2007.02.01 15:43
+
+Victim: Omen Talozan
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Megathron
+System: K4YZ-Y
+Security: 0.0
+
+Involved parties:
+
+Name: jernej
+Security: 4.2
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Sleipnir
+Weapon: Sleipnir
+
+Name: Drift Spec
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Muninn
+Weapon: Warrior II
+
+Name: tAkErPT (laid the final blow)
+Security: 4.2
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Cerberus
+Weapon: Scourge Fury Heavy Missile
+
+Name: Puls4r
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Muninn
+Weapon: Hobgoblin II
+
+Name: Sir JoJo
+Security: 2.1
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Muninn
+Weapon: Muninn
+
+Name: Tholarim
+Security: 3.6
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Absolution
+Weapon: Absolution
+
+Name: ChuckNorris CRO
+Security: -0.3
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Muninn
+Weapon: Muninn
+
+Name: Endeva
+Security: 4.1
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Muninn
+Weapon: Muninn
+
+Name: Claviger
+Security: 2.1
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Rapier
+Weapon: Valkyrie II
+
+Name: m0jo
+Security: 1.4
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Rapier
+Weapon: Rapier
+
+Name: Uinein
+Security: 5.0
+Alliance: None
+Corp: Constructive Influence
+Ship: Crow
+Weapon: Piranha Light Missile
+
+Name: jellybird
+Security: 4.6
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Kamath
+Security: 3.7
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Zealot
+Weapon: Zealot
+
+Name: VeGeT
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Malediction
+Weapon: Standard Missile Launcher I
+
+
+Destroyed items:
+
+Heavy 'Knave' I Energy Drain
+Neutron Blaster Cannon I
+Modal Mega Ion Particle Accelerator I
+Limited Mega Ion Blaster I
+'Arbalest' Siege Missile Launcher
+100MN Afterburner II
+Medium F-RX Prototype I Capacitor Boost
+1600mm Reinforced Rolled Tungsten Plates I
+Antimatter Charge L, Qty: 1548 (Cargo)
+Juggernaut Torpedo, Qty: 317 (Cargo)
+Ogre I (Drone Bay)
+

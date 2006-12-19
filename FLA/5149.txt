@@ -1,0 +1,56 @@
+2007.01.16 22:03
+
+Victim: EvilBadger
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Cerberus
+System: LT-DRO
+Security: 0.0
+
+Involved parties:
+
+Name: Kanonus (laid the final blow)
+Security: -1.0
+Alliance: None
+Corp: 0utbreak
+Ship: Sleipnir
+Weapon: Warrior II
+
+Name: Vorag
+Security: -0.7
+Alliance: None
+Corp: 0utbreak
+Ship: Vagabond
+Weapon: Warrior II
+
+Name: siliconix
+Security: 2.1
+Alliance: None
+Corp: 0utbreak
+Ship: Huginn
+Weapon: Huginn
+
+Name: TheAvatar
+Security: -0.3
+Alliance: None
+Corp: 0utbreak
+Ship: Vagabond
+Weapon: Vagabond
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 124
+'Arbalest' Heavy Missile Launcher
+Large Shield Extender II
+Medium Shield Booster II
+Alumel-Wired I Sensor Augmentation
+Ballistic Control System II
+Ballistic Control System II
+Power Diagnostic System II
+Scourge Heavy Missile, Qty: 9876 (Cargo)
+Widowmaker Heavy Missile, Qty: 2006 (Cargo)
+Thunderbolt Heavy Missile, Qty: 3970 (Cargo)
+Hydra F.O.F. Heavy Missile I, Qty: 200 (Cargo)
+Stalker F.O.F. Heavy Missile I, Qty: 200 (Cargo)
+

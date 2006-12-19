@@ -1,0 +1,52 @@
+2007.02.19 19:20
+
+Victim: Dana Foxworth
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Stabber
+System: RQH-MY
+Security: 0.0
+
+Involved parties:
+
+Name: Donald Trump
+Security: -1.9
+Alliance: None
+Corp: Temptation inc.
+Ship: Hurricane
+Weapon: Acolyte II
+
+Name: Fraile Cloudsinger (laid the final blow)
+Security: 4.7
+Alliance: Agony Empire
+Corp: Agony Unleashed
+Ship: Dominix
+Weapon: Valkyrie I
+
+Name: EvilBadger
+Security: 4.8
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Unknown
+Weapon: Fleeting Warp Scrambler I
+
+Name: Daressek
+Security: 3.7
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Raptor
+Weapon: Upgraded 'Limos' Standard Missile Bay I
+
+
+Destroyed items:
+
+220mm Vulcan AutoCannon I
+Medium Nosferatu I
+Medium Nosferatu I
+Phased Plasma M, Qty: 188
+10MN MicroWarpdrive I
+Warp Scrambler I
+Stasis Webifier I
+Inertia Stabilizers I
+Phased Plasma M, Qty: 2473 (Cargo)
+

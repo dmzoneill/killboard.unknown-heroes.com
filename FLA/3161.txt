@@ -1,0 +1,49 @@
+2007.03.25 21:03
+
+Victim: g 402a
+Alliance: Chorus of Dawn
+Corp: Free Lapland
+Destroyed: Raptor
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Minisoza (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ishkur
+Weapon: Hobgoblin II
+
+Name: alon blackhelm
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Unknown
+Weapon: Devastator Cruise Missile
+
+Name: Kateryne
+Security: 0.3
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Arbitrator
+Weapon: Phased Weapon Navigation Array Generation Extron
+
+Name: Dirty Martini
+Security: 3.9
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Drake
+Weapon: Heavy Missile Launcher I
+
+
+Destroyed items:
+
+Prototype Cloaking Device I
+Cap Recharger I
+Overdrive Injector System I
+EMP L, Qty: 935 (Cargo)
+Supplemental Scanning CPU I (Cargo)
+Sensor Booster I, Qty: 2 (Cargo)
+

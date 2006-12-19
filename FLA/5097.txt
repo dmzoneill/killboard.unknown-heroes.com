@@ -1,0 +1,52 @@
+2007.04.22 17:30
+
+Victim: Vladamir Sokov
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Vigil
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: ZaKma (laid the final blow)
+Security: -0.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Astarte
+Weapon: 250mm Railgun II
+
+Name: Shadowjet
+Security: -1.3
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Luthair StoneDog
+Security: -2.7
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Taranis
+Weapon: 125mm Prototype I Gauss Gun
+
+Name: Rukaz
+Security: 3.1
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Crow
+Weapon: Fleeting Warp Scrambler I
+
+Name: END3R 101
+Security: -0.7
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Malediction
+Weapon: Fleeting Warp Scrambler I
+
+
+Destroyed items:
+
+'Dactyl' Type-E Asteroid Analyzer
+Inertia Stabilizers I
+

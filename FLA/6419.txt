@@ -1,0 +1,54 @@
+2006.11.13 16:03
+
+Victim: overlord3
+Alliance: None
+Corp: State War Academy
+Destroyed: Caldari Shuttle
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: LiBraga (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Eagle
+Weapon: 250mm Prototype I Gauss Gun
+
+Name: LizzyD
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Ishkur
+Weapon: Compulsive Multispectral ECM I
+
+Name: Karas Rabus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Rapier
+Weapon: Flameburst Precision Light Missile
+
+Name: Scorpio63
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Vengeance
+Weapon: Medium Pulse Laser II
+
+Name: Kroux
+Security: 0.8
+Alliance: O X I D E
+Corp: V-COM SyNdicate
+Ship: Manticore
+Weapon: Manticore
+
+Name: Darth Hound
+Security: 1.7
+Alliance: Schism.
+Corp: Fatalix Inc.
+Ship: Thrasher
+Weapon: 280mm Howitzer Artillery I
+
+

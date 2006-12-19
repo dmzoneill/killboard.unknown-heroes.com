@@ -1,0 +1,57 @@
+2007.01.07 07:16
+
+Victim: Zattron
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Destroyed: Drake
+System: ROIR-Y
+Security: 0.0
+
+Involved parties:
+
+Name: Riotoverkill (laid the final blow)
+Security: 1.4
+Alliance: None
+Corp: Exanimo Inc
+Ship: Dominix
+Weapon: 200mm Railgun II
+
+Name: Gaia's Wrath
+Security: 5.0
+Alliance: None
+Corp: Exanimo Inc
+Ship: Taranis
+Weapon: Warrior II
+
+Name: Grawl
+Security: 5.0
+Alliance: None
+Corp: Exanimo Inc
+Ship: Hawk
+Weapon: Upgraded 'Limos' Standard Missile Bay I
+
+
+Destroyed items:
+
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Scourge Heavy Missile, Qty: 101
+'Arbalest' Heavy Missile Launcher
+'Arbalest' Heavy Missile Launcher
+'Arbalest' Heavy Missile Launcher
+'Arbalest' Heavy Missile Launcher
+Large Shield Extender II
+Large Shield Extender II
+10MN Afterburner II
+F85 Peripheral Damage System I
+Ballistic Control System II
+Power Diagnostic System II
+Power Diagnostic System II
+Thunderbolt Heavy Missile, Qty: 2532 (Cargo)
+Scourge Heavy Missile, Qty: 1721 (Cargo)
+Widowmaker Heavy Missile, Qty: 2981 (Cargo)
+

@@ -1,0 +1,72 @@
+2007.01.02 06:15
+
+Victim: Simon Monkoto
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Dominix
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Kru5ty
+Security: -1.8
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Anna Neura
+Security: -0.2
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Arazu
+Weapon: Hobgoblin II
+
+Name: WarGod (laid the final blow)
+Security: 1.2
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Hurricane
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: K Shara
+Security: 4.7
+Alliance: None
+Corp: Deep Core Mining Inc.
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+
+Destroyed items:
+
+Heavy Nosferatu I
+Heavy Nosferatu I
+Barton Reactor Capacitor Recharger I
+Barton Reactor Capacitor Recharger I
+Large Armor Repairer II
+Large Armor Repairer II
+Armor Explosive Hardener I
+Armor Kinetic Hardener I
+Armor Kinetic Hardener I
+X-Large Shield Booster I (Cargo)
+Fixed Parallel Link-Capacitor I (Cargo)
+Dual 250mm Railgun I (Cargo)
+Medium Capacitor Booster I, Qty: 2 (Cargo)
+Medium Tapered Capacitor Infusion I, Qty: 2 (Cargo)
+Iridium Charge L, Qty: 348 (Cargo)
+Antimatter Charge L, Qty: 100 (Cargo)
+Juggernaut Torpedo, Qty: 100 (Cargo)
+Wrath Cruise Missile, Qty: 200 (Cargo)
+Cruise Missile Launcher I, Qty: 3 (Cargo)
+Tripped Power Circuit, Qty: 15 (Cargo)
+Type-D Power Core Modification: Diagnostic System (Cargo)
+Local Power Plant Manager: Diagnostic System I (Cargo)
+Beta Reactor Control: Diagnostic System I (Cargo)
+Mark I Generator Refitting: Capacitor Power Relay (Cargo)
+Type-D Power Core Modification: Capacitor Power Relay (Cargo)
+Type-D Power Core Modification: Capacitor Flux (Cargo)
+Type-D Power Core Modification: Reaction Control (Cargo)
+Warden I, Qty: 4 (Drone Bay)
+Ogre I, Qty: 2 (Drone Bay)
+

@@ -1,0 +1,40 @@
+2007.04.20 23:41
+
+Victim: tomuch
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Capsule
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Alski (laid the final blow)
+Security: 3.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Dominix
+Weapon: Dual 250mm Compressed Coil Gun I
+
+Name: Nina Kinuichi
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Omen
+Weapon: Heavy Beam Laser I
+
+Name: Aridante Lemure
+Security: 1.2
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Celestis
+Weapon: Sabretooth Light Missile
+
+Name: Rohan V
+Security: 2.1
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Raven
+Weapon: 'Malkuth' Cruise Launcher I
+
+

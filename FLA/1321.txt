@@ -1,0 +1,29 @@
+2007.03.10 21:54
+
+Victim: Sephias Cane
+Alliance: Chorus of Dawn
+Corp: Cosmic Odyssey
+Destroyed: Merlin
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: WolfRavage (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Hyperion
+Weapon: 425mm Railgun I
+
+
+Destroyed items:
+
+Antimatter Charge S, Qty: 120
+Gremlin Rocket, Qty: 30
+'Malkuth' Rocket Launcher I
+'Malkuth' Rocket Launcher I
+Small Shield Booster II
+Power Diagnostic System I
+Thorn Rocket, Qty: 460 (Cargo)
+

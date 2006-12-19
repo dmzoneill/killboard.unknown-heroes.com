@@ -1,0 +1,33 @@
+2007.01.25 01:27
+
+Victim: Saran Tal
+Alliance: Veto Corp
+Corp: Veto. Academy
+Destroyed: Capsule
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: KriegDrachen (laid the final blow)
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Sabre
+Weapon: 150mm Light AutoCannon II
+
+Name: ventura5
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Flycatcher
+Weapon: Standard Missile Launcher II
+
+Name: Mauy Thai
+Security: -1.5
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Curse
+Weapon: Fleeting Warp Scrambler I
+
+

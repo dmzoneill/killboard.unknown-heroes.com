@@ -1,0 +1,106 @@
+2007.05.23 21:58
+
+Victim: dastommy79
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Destroyed: Thorax
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Volarius
+Security: 5.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Cerberus
+Weapon: Scourge Fury Heavy Missile
+
+Name: Mat rix
+Security: -7.2
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Cerberus
+Weapon: Thunderbolt Fury Heavy Missile
+
+Name: Spawny
+Security: 5.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Drake
+Weapon: Heavy Missile Launcher II
+
+Name: Jobben (laid the final blow)
+Security: 3.2
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Eos
+Weapon: Berserker II
+
+Name: taylor04
+Security: 4.3
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Sabre
+Weapon: Sabre
+
+Name: Kael Denvear
+Security: 4.4
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Harbinger
+Weapon: Valkyrie II
+
+Name: Darknesss
+Security: 1.8
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Eos
+Weapon: Eos
+
+Name: Edenmain
+Security: 5.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: MienD
+Security: -9.2
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Scorpion
+Weapon: Paradise Cruise Missile
+
+Name: boo3916
+Security: 0.4
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Vulture
+Weapon: Warrior II
+
+Name: aadom
+Security: 5.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Taranis
+Weapon: Taranis
+
+Name: KarateKid
+Security: 3.8
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Myrmidon
+Weapon: Berserker I
+
+
+Destroyed items:
+
+Heavy Ion Blaster I
+Heavy Ion Blaster I
+Antimatter Charge M, Qty: 240
+10MN MicroWarpdrive I
+Warp Disruptor I
+Mark I Generator Refitting: Reaction Control
+Valkyrie I, Qty: 4 (Drone Bay)
+

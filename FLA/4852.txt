@@ -1,0 +1,80 @@
+2007.04.17 16:26
+
+Victim: Falke
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Destroyed: Raven
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Steve Dave
+Security: 4.1
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Nighthawk
+Weapon: Heavy Missile Launcher II
+
+Name: McGin
+Security: -2.8
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Hyperion
+Weapon: Hyperion
+
+Name: Spitfire5769
+Security: 4.5
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Zealot
+Weapon: Heavy Modulated Pulse Energy Beam I
+
+Name: Stuart Ward
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Absolution
+Weapon: Absolution
+
+Name: abzzo
+Security: 1.7
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Zealot
+Weapon: Zealot
+
+Name: kapten sortebil (laid the final blow)
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Rukaz
+Security: 3.1
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Capsule
+Weapon: Warp Disruptor II
+
+
+Destroyed items:
+
+E500 Prototype Energy Vampire
+Bane Torpedo
+Bane Torpedo
+Bane Torpedo
+Bane Torpedo
+Bane Torpedo
+Wrath Cruise Missile, Qty: 9
+Cruise Missile Launcher I
+'Malkuth' Siege Missile Launcher I
+Siege Missile Launcher I
+X-Large Shield Booster I
+'Anointed' I EM Ward Reinforcement
+Cataclysm Cruise Missile, Qty: 530 (Cargo)
+Paradise Cruise Missile, Qty: 780 (Cargo)
+Wrath Cruise Missile, Qty: 560 (Cargo)
+Wasp I, Qty: 3 (Drone Bay)
+

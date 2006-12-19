@@ -1,0 +1,47 @@
+2006.12.06 19:49
+
+Victim: Super Homer
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Destroyed: Hawk
+System: Litiura
+Security: 0.5
+
+Involved parties:
+
+Name: BillBraskey
+Security: 2.2
+Alliance: None
+Corp: omen.
+Ship: Enyo
+Weapon: Enyo
+
+Name: burning raven (laid the final blow)
+Security: 5.0
+Alliance: None
+Corp: omen.
+Ship: Drake
+Weapon: Thunderbolt Precision Heavy Missile
+
+Name: Fjerkenstad
+Security: 1.0
+Alliance: None
+Corp: omen.
+Ship: Enyo
+Weapon: Enyo
+
+
+Destroyed items:
+
+Small 'Ghoul' Energy Siphon I
+Bloodclaw Light Missile, Qty: 102
+'Malkuth' Standard Missile Launcher I
+'Malkuth' Standard Missile Launcher I
+Small Shield Booster II
+1MN Afterburner II
+Magnetic Scattering Amplifier II
+Photon Scattering Field II (Cargo)
+Magnetic Scattering Amplifier II (Cargo)
+Bloodclaw Light Missile, Qty: 132 (Cargo)
+'Arbalest' Rocket Launcher I, Qty: 4 (Cargo)
+

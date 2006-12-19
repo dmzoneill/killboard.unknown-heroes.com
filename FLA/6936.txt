@@ -1,0 +1,32 @@
+2006.12.14 09:30
+
+Victim: sgt spike
+Alliance: None
+Corp: Sicarri Covenant
+Destroyed: Brutix
+System: C8-CHY
+Security: 0.0
+
+Involved parties:
+
+Name: Noitaakka (laid the final blow)
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Myrmidon
+Weapon: Ogre II
+
+Name: Serpentis Vice Admiral / Serpentis Corporation
+
+
+Destroyed items:
+
+Heavy Ion Blaster II
+Heavy Ion Blaster II
+Heavy Electron Blaster II
+Antimatter Charge M, Qty: 406
+'Langour' Drive Disruptor I
+Medium Inefficient Armor Repair Unit
+Linear Flux Stabilizer I
+Antimatter Charge M, Qty: 1694 (Cargo)
+

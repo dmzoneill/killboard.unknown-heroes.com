@@ -1,0 +1,44 @@
+2006.08.14 03:50
+
+Victim: Sato Yuki
+Alliance: Process of Elimination
+Corp: Occassus Republica
+Destroyed: Stabber
+System: X-7OMU
+Security: 0.0
+
+Involved parties:
+
+Name: Weeble Wooble
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: DeathCoInc (laid the final blow)
+Security: 0.8
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Downeaster
+Security: 2.7
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Cormorant
+Weapon: Cormorant
+
+
+Destroyed items:
+
+220mm Medium Carbine Repeating Cannon I
+Medium Nosferatu I
+EMP M, Qty: 134
+Large F-S9 Regolith Shield Induction
+Gyrostabilizer II
+Gyrostabilizer II
+EMP M, Qty: 2312 (Cargo)
+Quake L, Qty: 1000 (Cargo)
+

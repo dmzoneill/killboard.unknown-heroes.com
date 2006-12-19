@@ -1,0 +1,19 @@
+2006.11.02 17:09
+
+Victim: Sandy Stormwolf
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Capsule
+System: 93PI-4
+Security: 0.0
+
+Involved parties:
+
+Name: simcor (laid the final blow)
+Security: -2.0
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Astarte
+Weapon: Hobgoblin II
+
+

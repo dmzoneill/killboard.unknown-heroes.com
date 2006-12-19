@@ -1,0 +1,23 @@
+2007.05.18 17:03
+
+Victim: X4Y RcgB
+Alliance: None
+Corp: Republic Military School
+Destroyed: Reaper
+System: 93PI-4
+Security: 0.0
+
+Involved parties:
+
+Name: Ocara Nezus (laid the final blow)
+Security: 1.5
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+Tritanium (Cargo)
+

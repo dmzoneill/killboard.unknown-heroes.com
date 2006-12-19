@@ -1,0 +1,26 @@
+2006.08.13 00:23
+
+Victim: Cockroach
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Capsule
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Mar vel (laid the final blow)
+Security: 5.1
+Alliance: None
+Corp: H.Y.D.R.A.
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+Name: KateLice
+Security: 5.0
+Alliance: None
+Corp: Lynx Frontier Inc.
+Ship: Rapier
+Weapon: Phased Weapon Navigation Array Generation Extron
+
+

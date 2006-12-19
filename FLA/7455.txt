@@ -1,0 +1,102 @@
+2006.09.06 01:59
+
+Victim: Ricky Baby
+Alliance: None
+Corp: Beagle Corp
+Destroyed: Thorax
+System: A4L-A2
+Security: 0.0
+
+Involved parties:
+
+Name: Khan Singh
+Security: 4.9
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Claw
+Weapon: Claw
+
+Name: R3s1d3nt 3v1L
+Security: 3.2
+Alliance: Imperial Republic Of the North
+Corp: Port Royal Independent Kontractors
+Ship: Crow
+Weapon: X5 Prototype I Engine Enervator
+
+Name: Traxex (laid the final blow)
+Security: 0.9
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Rupture
+Weapon: 720mm Howitzer Artillery II
+
+Name: Karnovsky
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Sabre
+Weapon: 125mm Gatling AutoCannon II
+
+Name: steve gates
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Taranis
+Weapon: Hobgoblin II
+
+Name: Dingus Rx
+Security: 2.3
+Alliance: Imperial Republic Of the North
+Corp: Port Royal Independent Kontractors
+Ship: Taranis
+Weapon: Taranis
+
+Name: Galron Zuma
+Security: 1.6
+Alliance: Freelancer Alliance
+Corp: Terminal Velocity Inc.
+Ship: Thorax
+Weapon: Dual 150mm Railgun I
+
+Name: TasKu
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Thorax
+Weapon: Modal Neutron Particle Accelerator I
+
+Name: Valtaer
+Security: 3.5
+Alliance: Freelancer Alliance
+Corp: Terminal Velocity Inc.
+Ship: Merlin
+Weapon: Flameburst Light Missile
+
+Name: marcouk2
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Curse
+Weapon: Medium Nosferatu II
+
+Name: Christopher Cook
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Terminal Velocity Inc.
+Ship: Rifter
+Weapon: Warp Disruptor I
+
+
+Destroyed items:
+
+Regulated Ion Phase Cannon I
+Regulated Ion Phase Cannon I
+Antimatter Charge M, Qty: 328
+J5 Prototype Warp Inhibitor I
+X5 Prototype I Engine Enervator
+Emergency Damage Control I
+Magnetic Field Stabilizer II
+Energized Adaptive Nano Membrane I
+Antimatter Charge M, Qty: 3365 (Cargo)
+Alumel-Wired I Sensor Augmentation (Cargo)
+

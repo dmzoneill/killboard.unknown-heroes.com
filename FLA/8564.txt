@@ -1,0 +1,41 @@
+2006.11.27 21:09
+
+Victim: TasKu
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Destroyed: Taranis
+System: K-L690
+Security: 0.0
+
+Involved parties:
+
+Name: Rimfaxe
+Security: 5.0
+Alliance: Firmus Ixion
+Corp: Swedish Aerospace Inc
+Ship: Cyclone
+Weapon: 220mm Vulcan AutoCannon I
+
+Name: UKSwiss (laid the final blow)
+Security: 5.1
+Alliance: Firmus Ixion
+Corp: KDM Corp
+Ship: Typhoon
+Weapon: Devastator Cruise Missile
+
+Name: Olav
+Security: 5.0
+Alliance: Firmus Ixion
+Corp: KDM Corp
+Ship: Rapier
+Weapon: Hammerhead I
+
+
+Destroyed items:
+
+75mm Gatling Rail II
+75mm Gatling Rail II
+75mm Gatling Rail II
+Spike S, Qty: 92
+1MN MicroWarpdrive I
+

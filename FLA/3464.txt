@@ -1,0 +1,26 @@
+2007.03.28 22:11
+
+Victim: Hemo Roid
+Alliance: None
+Corp: obnixe
+Destroyed: Capsule
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Corovus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Nemesis
+Weapon: Nemesis
+
+Name: TroNaaR (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Celestis
+Weapon: Havoc Heavy Missile
+
+

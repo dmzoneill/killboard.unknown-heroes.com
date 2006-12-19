@@ -1,0 +1,19 @@
+2006.10.14 01:34
+
+Victim: richwitch
+Alliance: None
+Corp: Hedion University
+Destroyed: Amarr Shuttle
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Paltar (laid the final blow)
+Security: 0.4
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+

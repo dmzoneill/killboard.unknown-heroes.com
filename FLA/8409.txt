@@ -1,0 +1,53 @@
+2006.11.16 22:47
+
+Victim: KaTurN
+Alliance: Freelancer Alliance
+Corp: X.T.R
+Destroyed: Wolf
+System: O-CNPR
+Security: 0.0
+
+Involved parties:
+
+Name: Elgan (laid the final blow)
+Security: -0.8
+Alliance: The Sani Sabik
+Corp: Omniscient Order
+Ship: Zealot
+Weapon: Heavy Pulse Laser II
+
+Name: Noobjuice
+Security: -1.8
+Alliance: The Sani Sabik
+Corp: Omniscient Order
+Ship: Typhoon
+Weapon: 'Limos' Cruise Launcher I
+
+Name: Elric TheWhite
+Security: -0.1
+Alliance: The Sani Sabik
+Corp: Omniscient Order
+Ship: Typhoon
+Weapon: Typhoon
+
+Name: H Zub
+Security: 0.0
+Alliance: The Sani Sabik
+Corp: Omniscient Order
+Ship: Dominix
+Weapon: 200mm Compressed Coil Gun I
+
+
+Destroyed items:
+
+200mm AutoCannon II
+200mm AutoCannon II
+200mm AutoCannon II
+Small 'Knave' I Energy Drain
+Barrage S, Qty: 194
+J5b Phased Prototype Warp Inhibitor I
+Small Armor Repairer II
+Reactive Plating II
+Energized Magnetic Membrane II
+Nanofiber Internal Structure I, Qty: 7 (Cargo)
+

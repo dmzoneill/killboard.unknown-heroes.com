@@ -1,0 +1,58 @@
+2006.10.29 21:14
+
+Victim: Formosus Funus
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Destroyed: Wolf
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: ArchenTheGreat (laid the final blow)
+Security: -1.0
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Ferox
+Weapon: 200mm Railgun II
+
+Name: cptblood
+Security: 1.0
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Rapier
+Weapon: 720mm Howitzer Artillery II
+
+Name: Darknesss
+Security: -0.7
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Eos
+Weapon: Eos
+
+Name: Vidius Maxi
+Security: -1.6
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Crow
+Weapon: Rocket Launcher II
+
+Name: simcor
+Security: -1.9
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Astarte
+Weapon: True Sansha Warp Disruptor
+
+
+Destroyed items:
+
+150mm Light AutoCannon II
+150mm Light AutoCannon II
+Barrage S, Qty: 160
+TE-2100 Standard Missile Bay
+J5 Prototype Warp Inhibitor I
+Counterbalanced Weapon Mounts I
+Small Armor Repairer I
+Reactive Plating II (Cargo)
+

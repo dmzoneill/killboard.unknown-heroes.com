@@ -1,0 +1,33 @@
+2007.01.07 06:35
+
+Victim: Po1ysorbate
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Capsule
+System: Isaziwa
+Security: 0.7
+
+Involved parties:
+
+Name: Yzuki
+Security: -2.0
+Alliance: Privateer Alliance
+Corp: Panzershrek
+Ship: Brutix
+Weapon: Heavy Electron Blaster II
+
+Name: Alangiv
+Security: 0.0
+Alliance: Privateer Alliance
+Corp: Panzershrek
+Ship: Blackbird
+Weapon: Thunderbolt Heavy Missile
+
+Name: Isabella Inari (laid the final blow)
+Security: -2.3
+Alliance: Privateer Alliance
+Corp: Panzershrek
+Ship: Curse
+Weapon: Hammerhead II
+
+

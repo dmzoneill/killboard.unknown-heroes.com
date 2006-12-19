@@ -1,0 +1,93 @@
+2007.05.02 02:49
+
+Victim: Duncan Hines
+Alliance: Xelas Alliance
+Corp: Bombshell Cartel
+Destroyed: Hawk
+System: F7C-H0
+Security: 0.0
+
+Involved parties:
+
+Name: Draconian Arcane (laid the final blow)
+Security: -2.5
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Cyclone
+Weapon: 650mm Medium Gallium I Cannon
+
+Name: Anndy
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Crusader
+Weapon: Crusader
+
+Name: Fo Shizz
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Cyclone
+Weapon: Hobgoblin I
+
+Name: Lietrem Appakra
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Jaguar
+Weapon: 280mm Howitzer Artillery II
+
+Name: teeknuckles
+Security: 0.1
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Rupture
+Weapon: Rupture
+
+Name: Qazar
+Security: -0.6
+Alliance: None
+Corp: United Task
+Ship: Crow
+Weapon: Bloodclaw Precision Light Missile
+
+Name: Unbridled Hate
+Security: -1.8
+Alliance: None
+Corp: United Task
+Ship: Enyo
+Weapon: Hobgoblin II
+
+Name: Koi Yokuma
+Security: 0.4
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Thorax
+Weapon: 150mm Railgun I
+
+Name: The Cade
+Security: 1.6
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Brutix
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: Calvin Andros
+Security: 1.9
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Myrmidon
+Weapon: J5 Prototype Warp Inhibitor I
+
+
+Destroyed items:
+
+Standard Missile Launcher II
+Standard Missile Launcher II
+Standard Missile Launcher II
+Bloodclaw Precision Light Missile, Qty: 50
+Flameburst Precision Light Missile, Qty: 100
+Warp Disruptor II
+Co-Processor II
+Micro Auxiliary Power Core I
+

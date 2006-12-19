@@ -1,0 +1,61 @@
+2007.03.20 21:05
+
+Victim: Lobster Man
+Alliance: None
+Corp: e X i l e
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: FuzzBuzz
+Security: 0.0
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Caracal
+Weapon: Bloodclaw Light Missile
+
+Name: Kalico
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Claw
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: AaLaA (laid the final blow)
+Security: 4.5
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Ares
+Weapon: Light Neutron Blaster I
+
+Name: Reep Mawr
+Security: 3.1
+Alliance: CORE.
+Corp: Red 42
+Ship: Manticore
+Weapon: ECM - Multispectral Jammer I
+
+Name: Gros fury
+Security: 0.0
+Alliance: CORE.
+Corp: Nomina Sacra Sapientia
+Ship: Lachesis
+Weapon: Remote Sensor Dampener II
+
+Name: Dialatron
+Security: 5.0
+Alliance: CORE.
+Corp: Red 42
+Ship: Huginn
+Weapon: X5 Prototype I Engine Enervator
+
+Name: Caterpillar
+Security: 0.0
+Alliance: CORE.
+Corp: AUS Corporation
+Ship: Jaguar
+Weapon: 280mm Howitzer Artillery II
+
+

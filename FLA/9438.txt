@@ -1,0 +1,19 @@
+2007.05.14 10:49
+
+Victim: Rortise
+Alliance: None
+Corp: School of Applied Knowledge
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Feke (laid the final blow)
+Security: 4.8
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Thorax
+Weapon: Heavy Ion Blaster I
+
+

@@ -1,0 +1,48 @@
+2007.01.11 20:23
+
+Victim: Koetje II
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Rifter
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Arnold Swartzenegger (laid the final blow)
+Security: 0.0
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Warrior II
+
+Name: MAD D0G
+Security: -1.3
+Alliance: None
+Corp: Caldari Provisions
+Ship: Crow
+Weapon: TE-2100 Standard Missile Bay
+
+Name: Feyd Mantis
+Security: 2.6
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Tempest
+Weapon: Warrior II
+
+Name: DHB WildCat
+Security: -1.2
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Heavy Diminishing Power System Drain I
+
+
+Destroyed items:
+
+150mm Compressed Coil Gun I
+1MN MicroWarpdrive I
+Stasis Webifier I
+Nanofiber Internal Structure I
+Tungsten Charge S, Qty: 160 (Cargo)
+

@@ -1,0 +1,34 @@
+2006.10.28 20:28
+
+Victim: Ismeteer
+Alliance: Freelancer Alliance
+Corp: BGG
+Destroyed: Incursus
+System: Litiura
+Security: 0.5
+
+Involved parties:
+
+Name: Del Boy
+Security: -1.0
+Alliance: None
+Corp: Mentally Unstable Enterprises
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Reggie Kray (laid the final blow)
+Security: -1.4
+Alliance: None
+Corp: Mentally Unstable Enterprises
+Ship: Dominix
+Weapon: Acolyte II
+
+
+Destroyed items:
+
+Small Nosferatu I
+Light Neutron Blaster I
+Antimatter Charge S, Qty: 80
+Warp Disruptor I
+Antimatter Charge S, Qty: 100 (Cargo)
+

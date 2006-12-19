@@ -1,0 +1,97 @@
+2006.11.06 14:58
+
+Victim: Oxana Ptotemkish
+Alliance: None
+Corp: GeoTech
+Destroyed: Ferox
+System: X-7OMU
+Security: 0.0
+
+Involved parties:
+
+Name: TiMeZeRo225
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: J.I.T. Enterprises
+Ship: Raven
+Weapon: Wasp I
+
+Name: Gangreen (laid the final blow)
+Security: 0.1
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Thorax
+Weapon: 250mm Carbide Railgun I
+
+Name: Hosanna
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Claw
+Weapon: Claw
+
+Name: Dog Cancer
+Security: 1.4
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Crow
+Weapon: Stasis Webifier I
+
+Name: Midiana
+Security: 1.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Dominix
+Weapon: Berserker I
+
+Name: Wousr
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Stiletto
+Weapon: Phalanx Rocket
+
+Name: SleepyOSU
+Security: 4.4
+Alliance: Freelancer Alliance
+Corp: Sin-X Inc.
+Ship: Vexor
+Weapon: Warrior I
+
+Name: Scorpio63
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Maller
+Weapon: Maller
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 70
+XR-3200 Heavy Missile Bay
+Small Tractor Beam I
+Small Tractor Beam I
+Large Shield Extender II
+Large Shield Extender II
+Heat Dissipation Field II
+Ballistic Deflection Field II
+Shield Power Relay I
+Shield Power Relay I
+Ballistic Control System I
+Medium Armor Repairer I (Cargo)
+ECM Burst I (Cargo)
+Iridium Charge M, Qty: 100 (Cargo)
+Tungsten Charge M, Qty: 100 (Cargo)
+Antimatter Charge S, Qty: 100 (Cargo)
+Defender I, Qty: 100 (Cargo)
+Induced Ion Field ECM I (Cargo)
+ECM - Multispectral Jammer I (Cargo)
+ECCM - Gravimetric I (Cargo)
+Signal Amplifier I (Cargo)
+Remote Sensor Booster I (Cargo)
+Scourge Heavy Missile, Qty: 856 (Cargo)
+Hydra F.O.F. Heavy Missile I, Qty: 100 (Cargo)
+Advanced 'Limos' Heavy Missile Bay I (Cargo)
+Vespa I (Drone Bay)
+

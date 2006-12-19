@@ -1,0 +1,33 @@
+2007.03.01 05:41
+
+Victim: Xerxes Vorian
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Moa
+System: ESC-RI
+Security: 0.0
+
+Involved parties:
+
+Name: shadow5150 (laid the final blow)
+Security: 3.6
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Rapier
+Weapon: Valkyrie II
+
+
+Destroyed items:
+
+Thorium Charge M, Qty: 160
+Bloodclaw Light Missile, Qty: 69
+SV-2000 Assault Missile Bay
+SV-2000 Assault Missile Bay
+Large Neutron Saturation Injector I
+Heat Dissipation Field I
+Photon Scattering Field I
+Co-Processor I
+Type-D Power Core Modification: Diagnostic System
+Bloodclaw Light Missile, Qty: 1360 (Cargo)
+Hornet I, Qty: 3 (Drone Bay)
+

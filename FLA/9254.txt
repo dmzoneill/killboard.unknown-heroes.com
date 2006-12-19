@@ -1,0 +1,62 @@
+2007.05.05 16:38
+
+Victim: Kayron Brennan
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Destroyed: Caracal
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: KaKaShI
+Security: 4.2
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Kraiven (laid the final blow)
+Security: 5.0
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Brutix
+Weapon: Heavy Electron Blaster II
+
+Name: Diego Barbera
+Security: 0.9
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Claw
+Weapon: 250mm Light 'Scout' Artillery I
+
+Name: Qirajiii
+Security: 4.0
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Celestis
+Weapon: 250mm Carbide Railgun I
+
+Name: Travieso
+Security: -2.6
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Claw
+Weapon: Claw
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 56
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+Large F-S9 Regolith Shield Induction
+V-M15 Braced Multispectral Shield Matrix
+Induced Multispectral ECM I
+F-90 Positional Sensor Subroutines
+'Repose' I Core Compensation
+Local Power Plant Manager: Diagnostic System I
+

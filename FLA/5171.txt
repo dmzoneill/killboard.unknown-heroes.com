@@ -1,0 +1,155 @@
+2007.04.23 02:49
+
+Victim: Akthuul
+Alliance: Storm Armada
+Corp: stone grave haulage
+Destroyed: Drake
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Bobby Atlas
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Hyperion
+Weapon: Valkyrie II
+
+Name: Kvarium Ki
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Rupture
+Weapon: 425mm AutoCannon I
+
+Name: arthell
+Security: 2.9
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Myrmidon
+Weapon: Hobgoblin I
+
+Name: Recon Alpha
+Security: 3.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Caracal
+Weapon: Heavy Missile Launcher I
+
+Name: Kayron Brennan (laid the final blow)
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: coldkill
+Security: 1.9
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Ishkur
+Weapon: Hobgoblin II
+
+Name: The Cade
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Harpy
+Weapon: Harpy
+
+Name: Slinktress
+Security: 2.9
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Thorax
+Weapon: Thorax
+
+Name: Frau Formaggio
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Thorax
+Weapon: Valkyrie II
+
+Name: shadowxp99
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: Harbingers of Sarrow
+Ship: Blackbird
+Weapon: Thunderbolt Heavy Missile
+
+Name: Kartock Maar
+Security: 2.1
+Alliance: Freelancer Alliance
+Corp: Harbingers of Sarrow
+Ship: Celestis
+Weapon: Celestis
+
+Name: Archon Tenshi
+Security: 0.4
+Alliance: Freelancer Alliance
+Corp: Harbingers of Sarrow
+Ship: Cormorant
+Weapon: 125mm Railgun II
+
+Name: Imaginary Number
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Merlin
+Weapon: Merlin
+
+Name: Tran Whistler
+Security: 5.3
+Alliance: Freelancer Alliance
+Corp: Harbingers of Sarrow
+Ship: Caracal
+Weapon: Bloodclaw Light Missile
+
+Name: Magic Mazuma
+Security: 0.1
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Stabber
+Weapon: Stabber
+
+Name: TroNaaR
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Tristan
+Weapon: Standard Missile Launcher I
+
+Name: Primaxin
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Harbingers of Sarrow
+Ship: Cormorant
+Weapon: Indirect Scanning Dampening Unit I
+
+
+Destroyed items:
+
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Scourge Heavy Missile, Qty: 77
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+Kinetic Deflection Amplifier II
+Heat Dissipation Amplifier II
+Magnetic Scattering Amplifier II
+Power Diagnostic System II
+Power Diagnostic System II
+Power Diagnostic System II
+Heavy Missile Specialization (Cargo)
+Command Ships (Cargo)
+Scourge Heavy Missile, Qty: 2693 (Cargo)
+Wrath Cruise Missile, Qty: 4500 (Cargo)
+Hobgoblin II, Qty: 2 (Drone Bay)
+

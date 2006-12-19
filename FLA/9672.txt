@@ -1,0 +1,24 @@
+2007.05.22 17:44
+
+Victim: happysx
+Alliance: None
+Corp: Perkone
+Destroyed: Ibis
+System: G-M4I8
+Security: 0.0
+
+Involved parties:
+
+Name: Ocara Nezus (laid the final blow)
+Security: 1.5
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+Basic Miner
+Tritanium (Cargo)
+

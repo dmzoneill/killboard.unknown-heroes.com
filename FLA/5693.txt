@@ -1,0 +1,39 @@
+2006.10.09 23:14
+
+Victim: RoronoaZoro
+Alliance: None
+Corp: Deep Core Mining Inc.
+Destroyed: Ibis
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: TheBelgarion
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Lady Vanquish
+Security: -0.2
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Stabber
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+Name: Nil Desperandum (laid the final blow)
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Omen
+Weapon: Heavy Modulated Pulse Energy Beam I
+
+
+Destroyed items:
+
+Civilian Gatling Railgun
+Basic Miner
+Tritanium (Cargo)
+

@@ -1,0 +1,19 @@
+2007.04.19 19:45
+
+Victim: Kuentai
+Alliance: Corelum Syndicate
+Corp: Coreli Corporation
+Destroyed: Capsule
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Hell Bent (laid the final blow)
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Atron
+Weapon: Modal Light Ion Particle Accelerator I
+
+

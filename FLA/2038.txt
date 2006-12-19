@@ -1,0 +1,49 @@
+2007.01.19 00:38
+
+Victim: Kryton55
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Blackbird
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Jenessa (laid the final blow)
+Security: 1.1
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Muninn
+Weapon: 720mm Howitzer Artillery II
+
+Name: simcor
+Security: -1.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Dominix
+Weapon: Berserker II
+
+Name: WarGod
+Security: 1.7
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Tempest
+Weapon: Hobgoblin II
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 27
+'Arbalest' Heavy Missile Launcher
+'Arbalest' Heavy Missile Launcher
+'Arbalest' Heavy Missile Launcher
+'Hypnos' Multispectral ECM I
+'Hypnos' Multispectral ECM I
+'Hypnos' Multispectral ECM I
+Indirect Scanning Dampening Unit I
+F-90 Positional Sensor Subroutines
+Emergency Damage Control I
+Havoc Heavy Missile, Qty: 200 (Cargo)
+Widowmaker Heavy Missile, Qty: 164 (Cargo)
+Scourge Heavy Missile, Qty: 164 (Cargo)
+

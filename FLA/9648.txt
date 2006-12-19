@@ -1,0 +1,61 @@
+2007.05.21 19:07
+
+Victim: Mysterious fable
+Alliance: None
+Corp: ztk9
+Destroyed: Caldari Shuttle
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Serzath
+Security: 5.0
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: silent uk
+Security: 2.5
+Alliance: DeStInY.
+Corp: Sacred Templars
+Ship: Heretic
+Weapon: Dual Light Beam Laser II
+
+Name: Ocara Nezus (laid the final blow)
+Security: 1.5
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Teham Edori
+Security: 4.7
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Prophecy
+Weapon: 250mm Prototype I Gauss Gun
+
+Name: Lee Thrace
+Security: 3.1
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Eris
+Weapon: X5 Prototype I Engine Enervator
+
+Name: Kotori
+Security: -0.2
+Alliance: DeStInY.
+Corp: Sacred Templars
+Ship: Heretic
+Weapon: Heretic
+
+Name: Dibbes
+Security: 0.1
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Taranis
+Weapon: Taranis
+
+

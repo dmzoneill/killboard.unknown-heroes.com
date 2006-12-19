@@ -1,0 +1,74 @@
+2006.09.22 15:46
+
+Victim: Don Solo
+Alliance: R.I.S.K
+Corp: Russian Specnaz
+Destroyed: Retribution
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Sobar (laid the final blow)
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Thorax
+Weapon: Warrior II
+
+Name: Karnovsky
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Rupture
+Weapon: Hobgoblin I
+
+Name: XxAngelxX
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Pilgrim
+Weapon: Vespa II
+
+Name: Oldin Relic
+Security: 1.3
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Moa
+Weapon: Moa
+
+Name: DevilSlayer
+Security: 3.9
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Zealot
+Weapon: Focused Medium Pulse Laser I
+
+Name: WhiteBearAQM
+Security: 1.3
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Scorpion
+Weapon: ECM - Multispectral Jammer II
+
+Name: Ageha
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Armageddon
+Weapon: Armageddon
+
+
+Destroyed items:
+
+Dual Light Beam Laser II
+Microwave S
+Heat Sink II
+Tungsten Charge S, Qty: 100 (Cargo)
+Uranium Charge S, Qty: 100 (Cargo)
+Infrared S, Qty: 2 (Cargo)
+Radio S (Cargo)
+Aurora S, Qty: 3 (Cargo)
+Bloodclaw Light Missile, Qty: 100 (Cargo)
+Sabretooth Light Missile, Qty: 100 (Cargo)
+

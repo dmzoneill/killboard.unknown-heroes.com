@@ -1,0 +1,70 @@
+2007.04.11 09:54
+
+Victim: ClogMan
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Destroyed: Raven
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Ronald Speirs
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Nidhoggur
+Weapon: Einherji
+
+Name: Eleese (laid the final blow)
+Security: -0.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Dominix
+Weapon: Ogre II
+
+Name: AIRB
+Security: 3.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Curse
+Weapon: Vespa II
+
+Name: kapten sortebil
+Security: 4.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Raptor
+Weapon: Standard Missile Launcher I
+
+
+Destroyed items:
+
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Bane Torpedo
+Bane Torpedo
+Bane Torpedo
+Bane Torpedo
+Bane Torpedo
+Bane Torpedo
+Bane Torpedo
+Inferno Torpedo, Qty: 22
+'Arbalest' Siege Missile Launcher
+ZW-4100 Siege Missile Bay
+ZW-4100 Siege Missile Bay
+Small Tractor Beam I
+X-Large Shield Booster II
+Ballistic Deflection Field II
+Kinetic Deflection Amplifier I
+Photonic CPU Enhancer I
+Ballistic Control System I
+Ballistic Control System I
+Fixed Parallel Link-Capacitor I (Cargo)
+Juggernaut Torpedo, Qty: 1912 (Cargo)
+Tripped Power Circuit, Qty: 12 (Cargo)
+

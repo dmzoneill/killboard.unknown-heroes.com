@@ -1,0 +1,58 @@
+2006.12.28 09:44
+
+Victim: Onyx Soulbane
+Alliance: Freelancer Alliance
+Corp: Elite frontier group
+Destroyed: Raven
+System: MZ1E-P
+Security: 0.0
+
+Involved parties:
+
+Name: KilRoy076
+Security: -0.5
+Alliance: None
+Corp: 0utbreak
+Ship: Sleipnir
+Weapon: Valkyrie II
+
+Name: Uggs386 (laid the final blow)
+Security: 1.9
+Alliance: None
+Corp: 0utbreak
+Ship: Megathron
+Weapon: Ion Blaster Cannon II
+
+Name: Marko Debreault
+Security: -1.7
+Alliance: None
+Corp: 0utbreak
+Ship: Hyperion
+Weapon: Hyperion
+
+Name: Retnik
+Security: 2.1
+Alliance: None
+Corp: 0utbreak
+Ship: Eris
+Weapon: Initiated Warp Jammer I
+
+
+Destroyed items:
+
+Mega Anode Particle Stream I
+Mega Anode Particle Stream I
+Multifrequency L
+Wrath Cruise Missile, Qty: 33
+'Arbalest' Cruise Launcher I
+'Arbalest' Cruise Launcher I
+'Arbalest' Cruise Launcher I
+Ballistic Deflection Field II
+Ballistic Control System II
+Power Diagnostic System II
+Power Diagnostic System II
+Power Diagnostic System II
+Microwave L, Qty: 2 (Cargo)
+Wrath Cruise Missile, Qty: 10485 (Cargo)
+Vespa I, Qty: 3 (Drone Bay)
+

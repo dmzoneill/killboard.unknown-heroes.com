@@ -1,0 +1,29 @@
+2006.12.22 08:18
+
+Victim: Scav Silver
+Alliance: Free Trade Coalition
+Corp: EAGLE Independent Fleet Corporation
+Destroyed: Maller
+System: Oto
+Security: 0.4
+
+Involved parties:
+
+Name: Compos Mentis (laid the final blow)
+Security: -4.1
+Alliance: Freelancer Alliance
+Corp: X.T.R
+Ship: Cerberus
+Weapon: Scourge Heavy Missile
+
+
+Destroyed items:
+
+Focused Medium Pulse Laser I
+Multifrequency M
+10MN Afterburner I
+Stasis Webifier I
+Adaptive Nano Plating I
+Capacitor Power Relay I
+Radio M, Qty: 3 (Cargo)
+

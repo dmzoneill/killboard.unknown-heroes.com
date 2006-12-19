@@ -1,0 +1,75 @@
+2006.10.08 01:58
+
+Victim: Le Skunk
+Alliance: None
+Corp: Privateers
+Destroyed: Celestis
+System: Litiura
+Security: 0.5
+
+Involved parties:
+
+Name: Nil Desperandum
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Omen
+Weapon: Omen
+
+Name: bidman
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Raven
+Weapon: Wrath Cruise Missile
+
+Name: Paltar (laid the final blow)
+Security: 0.4
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Ishkur
+Weapon: Light Ion Blaster II
+
+Name: Hosanna
+Security: -0.7
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Wolf
+Weapon: 280mm Howitzer Artillery II
+
+Name: Kyoshisan
+Security: 0.4
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Enyo
+Weapon: Enyo
+
+Name: Barukor
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Wolf
+Weapon: Wolf
+
+Name: DarkJester
+Security: 0.7
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Vigil
+Weapon: Vigil
+
+Name: Scorpio63
+Security: 4.8
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Retribution
+Weapon: Retribution
+
+
+Destroyed items:
+
+Compact 'Limos' Assault Missile Bay I
+Remote Sensor Dampener II
+Remote Sensor Dampener II
+Hornet EC-300, Qty: 2 (Drone Bay)
+

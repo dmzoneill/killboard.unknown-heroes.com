@@ -1,0 +1,47 @@
+2006.12.03 13:19
+
+Victim: space hobo
+Alliance: None
+Corp: DIE WITH HONOUR
+Destroyed: Thorax
+System: Mara
+Security: 0.4
+
+Involved parties:
+
+Name: Sasuke Uchiwa (laid the final blow)
+Security: 0.0
+Alliance: RAZOR Alliance
+Corp: Roving Guns Inc.
+Ship: Dominix
+Weapon: Hammerhead II
+
+Name: Formosus Funus
+Security: 3.7
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Capsule
+Weapon: Upgraded 'Limos' Standard Missile Bay I
+
+Name: anarland
+Security: 2.1
+Alliance: RAZOR Alliance
+Corp: Roving Guns Inc.
+Ship: Scorpion
+Weapon: Infiltrator EV-600
+
+
+Destroyed items:
+
+Heavy Electron Blaster II
+Null M, Qty: 305
+10MN MicroWarpdrive I
+Initiated Warp Jammer I
+Emergency Damage Control I
+800mm Reinforced Crystalline Carbonide Plates I
+Small Armor Repairer II (Cargo)
+Alumel-Wired I Sensor Augmentation (Cargo)
+Barrage S, Qty: 6549 (Cargo)
+Null M, Qty: 1032 (Cargo)
+Sabretooth Light Missile, Qty: 41 (Cargo)
+

@@ -1,0 +1,67 @@
+2006.11.25 19:19
+
+Victim: Elipsys
+Alliance: None
+Corp: State War Academy
+Destroyed: Ibis
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: wessam
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Crow
+Weapon: Sabretooth Light Missile
+
+Name: Karas Rabus (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Stabber
+Weapon: Dual 180mm AutoCannon II
+
+Name: Hosanna
+Security: 3.1
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: W4RR10R
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Ishtar
+Weapon: Faint Warp Prohibitor I
+
+Name: Tri Ounou
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Jaguar
+Weapon: 'Arbalest' Rocket Launcher I
+
+Name: Miabo
+Security: 1.9
+Alliance: Schism.
+Corp: Fatalix Inc.
+Ship: Blackbird
+Weapon: ECM - Multispectral Jammer I
+
+Name: Jumar Coldgin
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Rook
+Weapon: 'Hypnos' Multispectral ECM I
+
+
+Destroyed items:
+
+Civilian Gatling Railgun
+Basic Miner
+Tritanium (Cargo)
+

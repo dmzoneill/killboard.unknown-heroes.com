@@ -1,0 +1,53 @@
+2007.01.02 08:57
+
+Victim: Boris Nikolaovitch
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Hurricane
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: kojackUcigashu (laid the final blow)
+Security: 4.7
+Alliance: None
+Corp: ROMANIA Renegades
+Ship: Astarte
+Weapon: Heavy Ion Blaster II
+
+Name: zeitza ta
+Security: 1.7
+Alliance: None
+Corp: ROMANIA Renegades
+Ship: Dominix
+Weapon: Berserker I
+
+Name: Siavash IR
+Security: 5.0
+Alliance: None
+Corp: ROMANIA Renegades
+Ship: Vagabond
+Weapon: Vagabond
+
+
+Destroyed items:
+
+220mm Vulcan AutoCannon II
+220mm Vulcan AutoCannon II
+220mm Vulcan AutoCannon II
+220mm Vulcan AutoCannon II
+220mm Vulcan AutoCannon II
+Medium Nosferatu II
+Medium Nosferatu II
+Barrage M, Qty: 151
+X5 Prototype I Engine Enervator
+Medium Electrochemical Capacitor Booster I
+Cap Booster 800
+Medium Armor Repairer II
+Energized Adaptive Nano Membrane II
+Energized Adaptive Nano Membrane II
+EMP M, Qty: 2578 (Cargo)
+Phased Plasma M, Qty: 4470 (Cargo)
+Warrior II, Qty: 6 (Drone Bay)
+

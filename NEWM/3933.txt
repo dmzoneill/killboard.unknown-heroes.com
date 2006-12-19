@@ -1,0 +1,86 @@
+2007.04.06 11:37
+
+Victim: Lorn Zolog
+Alliance: YouWhat
+Corp: Beasts of Burden
+Destroyed: Armageddon
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Cockroach
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Prophecy
+Weapon: Prophecy
+
+Name: Marie Veedor
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Drake
+Weapon: Warrior I
+
+Name: Nukuquqa Hestase (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Drake
+Weapon: Widowmaker Heavy Missile
+
+Name: Damfoose
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Eagle
+Weapon: Eagle
+
+Name: FlobbMkII
+Security: 4.4
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Eris
+Weapon: Light Electron Blaster II
+
+Name: Flying Underpants
+Security: 0.2
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Celestis
+Weapon: Remote Sensor Dampener II
+
+Name: Bobby Atlas
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Hyperion
+Weapon: Heavy 'Knave' I Energy Drain
+
+
+Destroyed items:
+
+Dual Heavy Pulse Laser II
+Dual Heavy Pulse Laser II
+Dual Heavy Pulse Laser II
+Dual Heavy Pulse Laser II
+Dual Heavy Pulse Laser II
+Dual Heavy Pulse Laser II
+Multifrequency L
+Multifrequency L
+Multifrequency L
+Multifrequency L
+100MN Afterburner II
+Heavy Electrochemical Capacitor Booster I
+Cap Booster 800
+Damage Control II
+Large Armor Repairer II
+Heat Sink II
+Co-Processor II
+Standard L, Qty: 7 (Cargo)
+Cap Booster 800, Qty: 13 (Cargo)
+Conflagration L, Qty: 4 (Cargo)
+Scorch L (Cargo)
+Malfunctioning Shield Emitter, Qty: 2 (Cargo)
+

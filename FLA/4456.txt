@@ -1,0 +1,47 @@
+2007.04.10 18:33
+
+Victim: Ninjitsuki
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Destroyed: Harpy
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Rukaz
+Security: 3.1
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Crow
+Weapon: 'Arbalest' Standard Missile Launcher
+
+Name: Eleese
+Security: -0.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Dominix
+Weapon: Hammerhead II
+
+Name: Nina Mires (laid the final blow)
+Security: 4.6
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Taranis
+Weapon: 125mm Railgun II
+
+Name: kapten sortebil
+Security: 4.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Raptor
+Weapon: Raptor
+
+
+Destroyed items:
+
+Antimatter Charge S, Qty: 34
+Prototype I Sensor Booster
+'Orion' Tracking CPU I
+Spike S, Qty: 936 (Cargo)
+

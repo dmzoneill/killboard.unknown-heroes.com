@@ -1,0 +1,24 @@
+2006.12.05 22:48
+
+Victim: Ensor Falken
+Alliance: None
+Corp: Caldari Provisions
+Destroyed: Ibis
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: ventura5 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Raven
+Weapon: Wrath Cruise Missile
+
+
+Destroyed items:
+
+Civilian Gatling Railgun
+Basic Miner
+

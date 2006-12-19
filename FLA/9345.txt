@@ -1,0 +1,57 @@
+2007.05.08 06:35
+
+Victim: acrox
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Thorax
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Forever Free
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: Antipodean inc.
+Ship: Omen
+Weapon: Warrior I
+
+Name: Feke (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Thorax
+Weapon: Hammerhead I
+
+Name: Aridante Lemure
+Security: 1.2
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Celestis
+Weapon: Celestis
+
+Name: Skittish
+Security: 0.8
+Alliance: Sparta Alliance
+Corp: Synergy Evolved
+Ship: Unknown
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: Kvarium Ki
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Stabber
+Weapon: Stabber
+
+
+Destroyed items:
+
+Heavy Neutron Blaster I
+Heavy Neutron Blaster I
+150mm Prototype I Gauss Gun
+Iridium Charge M, Qty: 63
+Warp Scrambler I
+Iridium Charge M, Qty: 402 (Cargo)
+Warrior I, Qty: 4 (Drone Bay)
+

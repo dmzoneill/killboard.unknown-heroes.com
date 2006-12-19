@@ -1,0 +1,40 @@
+2007.04.09 01:53
+
+Victim: Imaginary Number
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Merlin
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Redginald (laid the final blow)
+Security: 4.5
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Hurricane
+Weapon: 425mm AutoCannon II
+
+Name: Skinny Boy
+Security: 4.1
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Thanatos
+Weapon: Dragonfly
+
+Name: Warp Scrambling Battery / Eternity INC.
+
+
+Destroyed items:
+
+150mm Carbide Railgun I
+Iridium Charge S, Qty: 61
+Flameburst Light Missile, Qty: 23
+Small Neutron Saturation Injector I
+Monopropellant I Hydrazine Boosters
+Power Diagnostic System I
+Antimatter Charge S, Qty: 258 (Cargo)
+Iridium Charge S, Qty: 16 (Cargo)
+Flameburst Light Missile, Qty: 58 (Cargo)
+

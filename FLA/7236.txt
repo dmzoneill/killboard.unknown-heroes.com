@@ -1,0 +1,88 @@
+2006.05.08 20:08
+
+Victim: Typhado3
+Alliance: Northern Freedom Coalition
+Corp: Ashen Lion Mining and Production Consortium
+Destroyed: Caracal
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: john2
+Security: 5.0
+Alliance: None
+Corp: Drones of Annihilation
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: CelticWarrior
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Lords Of Guile
+Ship: Tempest
+Weapon: SV-2000 Assault Missile Bay
+
+Name: Cent 01
+Security: 5.0
+Alliance: None
+Corp: Drones of Annihilation
+Ship: Harpy
+Weapon: Harpy
+
+Name: Shiri elAzarinres
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Caracal
+Weapon: Heavy Missile Launcher I
+
+Name: Laboratus (laid the final blow)
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Megathron
+Weapon: 425mm Prototype I Gauss Gun
+
+Name: Xev B3K
+Security: 2.1
+Alliance: None
+Corp: Penetrate
+Ship: Tristan
+Weapon: Fleeting Warp Scrambler I
+
+Name: Meeus69
+Security: 0.2
+Alliance: None
+Corp: Shadow Company
+Ship: Taranis
+Weapon: Small 'Knave' I Energy Drain
+
+Name: Highpriest Aden
+Security: 1.7
+Alliance: None
+Corp: Drones of Annihilation
+Ship: Malediction
+Weapon: Warp Scrambler I
+
+Name: AXi0S
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Freelancer Union
+Ship: Taranis
+Weapon: Fleeting Warp Scrambler I
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 126
+Assault Missile Launcher I
+Assault Missile Launcher I
+'Malkuth' Assault Missile Launcher I
+'Malkuth' Assault Missile Launcher I
+Warp Disruptor I
+Warp Disruptor I
+'Langour' Drive Disruptor I
+'Langour' Drive Disruptor I
+Acolyte I (Drone Bay)
+

@@ -1,0 +1,35 @@
+2006.12.11 19:34
+
+Victim: Baruc
+Alliance: None
+Corp: Galactic Goverment of Doom
+Destroyed: Myrmidon
+System: Archee
+Security: 0.4
+
+Involved parties:
+
+Name: Adetia (laid the final blow)
+Security: 2.6
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Medium Nosferatu I
+Thorium Charge M, Qty: 126
+10MN MicroWarpdrive I
+Warp Disruptor I
+Stasis Webifier I
+Medium Capacitor Booster I
+Cap Booster 800
+Medium 'Accommodation' Vestment Reconstructer I
+Medium Inefficient Armor Repair Unit
+Energized Adaptive Nano Membrane I
+Armor Explosive Hardener I
+Cap Booster 800, Qty: 4 (Cargo)
+

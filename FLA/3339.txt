@@ -1,0 +1,72 @@
+2007.03.23 21:51
+
+Victim: Tiberius Drake
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Destroyed: Brutix
+System: O-ZXUV
+Security: 0.0
+
+Involved parties:
+
+Name: Evil Ted (laid the final blow)
+Security: -4.4
+Alliance: Eternal Rapture
+Corp: Exotic Dancers Club
+Ship: Raven
+Weapon: Wrath Fury Cruise Missile
+
+Name: Lazaroth
+Security: -0.2
+Alliance: Eternal Rapture
+Corp: Quantum Synergies
+Ship: Drake
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+Name: hezitationkillz
+Security: -1.4
+Alliance: Eternal Rapture
+Corp: Temptation inc.
+Ship: Retribution
+Weapon: Retribution
+
+Name: Jack Archer
+Security: -1.7
+Alliance: Eternal Rapture
+Corp: Quantum Synergies
+Ship: Myrmidon
+Weapon: Myrmidon
+
+Name: Smith9001
+Security: 0.1
+Alliance: Eternal Rapture
+Corp: Quantum Synergies
+Ship: Malediction
+Weapon: Warp Disruptor I
+
+Name: GodWin cadela
+Security: -1.7
+Alliance: Eternal Rapture
+Corp: Exotic Dancers Club
+Ship: Hurricane
+Weapon: Warp Disruptor I
+
+Name: C Duggan
+Security: -4.4
+Alliance: Eternal Rapture
+Corp: Exotic Dancers Club
+Ship: Lachesis
+Weapon: Kapteyn Sensor Array Inhibitor I
+
+
+Destroyed items:
+
+250mm Carbide Railgun I
+200mm Carbide Railgun I
+250mm Railgun I
+Antimatter Charge M, Qty: 80
+Lead Charge S, Qty: 38
+10MN Afterburner I
+Magnetic Field Stabilizer I
+Energized Adaptive Nano Membrane I
+

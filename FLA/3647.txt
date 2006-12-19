@@ -1,0 +1,46 @@
+2007.03.28 15:04
+
+Victim: Zephia
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Destroyed: Zealot
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Tjakka
+Security: 0.5
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Ishtar
+Weapon: Praetor II
+
+Name: WildCard (laid the final blow)
+Security: 4.3
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: volly
+Security: 3.2
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Curse
+Weapon: E50 Prototype Energy Vampire
+
+
+Destroyed items:
+
+Heavy Modal Pulse Laser I
+Multifrequency M
+Multifrequency M
+Warp Disruptor II
+X5 Prototype I Engine Enervator
+Medium Armor Repairer II
+Heat Sink II
+Energized Adaptive Nano Membrane II
+Energized Thermic Membrane II
+Beta Reactor Control: Capacitor Power Relay I
+

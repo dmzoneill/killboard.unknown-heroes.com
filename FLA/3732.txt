@@ -1,0 +1,29 @@
+2007.03.30 23:23
+
+Victim: Loograsch
+Alliance: Freelancer Alliance
+Corp: United Forces
+Destroyed: Thorax
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Otto Bismarck (laid the final blow)
+Security: 3.6
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Astarte
+Weapon: Heavy Neutron Blaster II
+
+
+Destroyed items:
+
+150mm Railgun II
+10MN MicroWarpdrive I
+Stasis Webifier I
+Signal Amplifier I
+Microcell Nanite Kinetic Hardener I
+Javelin S, Qty: 1967 (Cargo)
+Hobgoblin II, Qty: 2 (Drone Bay)
+

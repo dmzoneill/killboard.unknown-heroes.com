@@ -1,0 +1,32 @@
+2007.04.01 23:01
+
+Victim: Loograsch
+Alliance: Freelancer Alliance
+Corp: United Forces
+Destroyed: Atron
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Rahzorus (laid the final blow)
+Security: 0.9
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+75mm 'Scout' I Accelerator Cannon
+75mm 'Scout' I Accelerator Cannon
+Iridium Charge S, Qty: 189
+1MN MicroWarpdrive I
+Magnetic Field Stabilizer I
+Magnetic Field Stabilizer I
+1MN MicroWarpdrive I (Cargo)
+75mm 'Scout' I Accelerator Cannon (Cargo)
+Iridium Charge S, Qty: 196 (Cargo)
+Hornet I (Drone Bay)
+

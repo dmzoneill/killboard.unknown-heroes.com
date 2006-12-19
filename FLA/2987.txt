@@ -1,0 +1,162 @@
+2007.03.18 21:50
+
+Victim: Mr Kilgore
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Destroyed: Typhoon
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: wph0r (laid the final blow)
+Security: 4.5
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Rokh
+Weapon: 425mm Railgun II
+
+Name: Frostbeule
+Security: 2.8
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Tempest
+Weapon: Tempest
+
+Name: Santa Claw
+Security: 2.4
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Tempest
+Weapon: Tempest
+
+Name: Tanya Kovacs
+Security: 5.1
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Eagle
+Weapon: Eagle
+
+Name: Alizarin Crimson
+Security: -1.3
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Deimos
+Weapon: Deimos
+
+Name: Sholle
+Security: 3.0
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Sabre
+Weapon: Sabre
+
+Name: 1Of9
+Security: 4.9
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Megathron
+Weapon: 425mm Prototype I Gauss Gun
+
+Name: Mr MA
+Security: 3.5
+Alliance: Chorus of Dawn
+Corp: Cosmic Odyssey
+Ship: Megathron
+Weapon: 425mm 'Scout' I Accelerator Cannon
+
+Name: seratus
+Security: 5.0
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Ship: Vulture
+Weapon: 250mm Railgun II
+
+Name: Slith Sabrao
+Security: 4.8
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Megathron
+Weapon: Megathron
+
+Name: Topasio
+Security: 2.7
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Tempest
+Weapon: 1400mm Gallium I Cannon
+
+Name: ZIQUET
+Security: 4.9
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Megathron
+Weapon: Megathron
+
+Name: Rarnac Brak
+Security: 0.1
+Alliance: Chorus of Dawn
+Corp: Cosmic Odyssey
+Ship: Tempest
+Weapon: 1400mm Gallium I Cannon
+
+Name: Sukur
+Security: 3.4
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Stabber
+Weapon: Stabber
+
+Name: IsmaelYU5 Iluvatar
+Security: 5.0
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Taranis
+Weapon: Taranis
+
+Name: KaKaShI
+Security: 3.7
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Apocalypse
+Weapon: Apocalypse
+
+Name: Son
+Security: 5.0
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Sabre
+Weapon: Sabre
+
+Name: triusad
+Security: 5.0
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Stabber
+Weapon: Stabber
+
+
+Destroyed items:
+
+Dual 425mm 'Scout' Autocannon I
+Dual 425mm 'Scout' Autocannon I
+Phased Plasma L, Qty: 351
+Inferno Torpedo, Qty: 36
+ZW-4100 Siege Missile Bay
+ZW-4100 Siege Missile Bay
+ZW-4100 Siege Missile Bay
+Small Tractor Beam I
+Fixed Parallel Link-Capacitor I
+LiF Fueled I Booster Rockets
+Emergency Damage Control I
+Large 'Accommodation' Vestment Reconstructer I
+Domination Magnetic Plating
+Armor Kinetic Hardener II
+Phased Plasma L, Qty: 1713 (Cargo)
+Titanium Sabot L, Qty: 904 (Cargo)
+Inferno Torpedo, Qty: 3470 (Cargo)
+Juggernaut Torpedo, Qty: 72 (Cargo)
+Hail L, Qty: 1800 (Cargo)
+Hammerhead I, Qty: 4 (Drone Bay)
+Wasp I, Qty: 3 (Drone Bay)
+

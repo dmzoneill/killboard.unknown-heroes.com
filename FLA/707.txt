@@ -1,0 +1,67 @@
+2007.02.17 21:58
+
+Victim: RayTruz
+Alliance: None
+Corp: Pack Of Shadows
+Destroyed: Ferox
+System: C1XD-X
+Security: 0.0
+
+Involved parties:
+
+Name: digital oxygen
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Thorax
+Weapon: Valkyrie II
+
+Name: Tiberius Drake
+Security: 4.1
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Ishkur
+Weapon: Hammerhead I
+
+Name: Mauy Thai (laid the final blow)
+Security: -1.4
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Curse
+Weapon: Valkyrie II
+
+Name: The Hardman
+Security: 0.3
+Alliance: The Foundation.
+Corp: Cornerstone Unlimited
+Ship: Vengeance
+Weapon: Vengeance
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Prototype Cloaking Device I
+Widowmaker Heavy Missile, Qty: 23
+Havoc Heavy Missile, Qty: 25
+Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+Warp Disruptor I
+Invulnerability Field I
+Invulnerability Field I
+Photon Scattering Field I
+Power Diagnostic System I
+1MN Afterburner I (Cargo)
+Rudimentary Ship Scanner I (Cargo)
+150mm Light AutoCannon I (Cargo)
+Anode Mega Electron Particle Cannon I (Cargo)
+Titanium Sabot M, Qty: 2342 (Cargo)
+Armor Thermic Hardener I (Cargo)
+200mm Reinforced Titanium Plates I (Cargo)
+Flameburst Light Missile, Qty: 1709 (Cargo)
+Havoc Heavy Missile, Qty: 354 (Cargo)
+Standard Missile Launcher I (Cargo)
+'Arbalest' Assault Missile Launcher (Cargo)
+Salvager I, Qty: 2 (Cargo)
+Hobgoblin I (Drone Bay)
+

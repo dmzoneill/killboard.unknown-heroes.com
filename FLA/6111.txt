@@ -1,0 +1,27 @@
+2006.11.08 06:22
+
+Victim: X'er Kun
+Alliance: None
+Corp: Corpse Farming Cult
+Destroyed: Malediction
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Simon Monkoto (laid the final blow)
+Security: -0.9
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+
+Destroyed items:
+
+Medium Pulse Laser II
+Scorch S
+Initiated Warp Jammer I
+Corpse (Cargo)
+Conflagration S, Qty: 2 (Cargo)
+

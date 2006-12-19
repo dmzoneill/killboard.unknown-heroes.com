@@ -1,0 +1,72 @@
+2007.04.20 23:44
+
+Victim: dastommy79
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Destroyed: Raven
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Waagaa Ktlehr (laid the final blow)
+Security: 0.5
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Aeon
+Weapon: Einherji
+
+Name: Nethel
+Security: 2.1
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Dominix
+Weapon: Berserker II
+
+Name: Enosh Kerrim
+Security: -1.0
+Alliance: Mercenary Coalition
+Corp: Seraphin Technologies
+Ship: Thanatos
+Weapon: Firbolg
+
+Name: Lyra Sy
+Security: 5.0
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Vulture
+Weapon: Vulture
+
+Name: Hughwasit
+Security: 1.2
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Harpy
+Weapon: 75mm Gatling Rail II
+
+Name: FowlPlayChiken
+Security: 1.2
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Thanatos
+Weapon: Templar
+
+
+Destroyed items:
+
+E500 Prototype Energy Vampire
+Devastator Cruise Missile, Qty: 20
+'Limos' Cruise Launcher I
+'Limos' Cruise Launcher I
+'Limos' Cruise Launcher I
+'Limos' Cruise Launcher I
+'Limos' Cruise Launcher I
+Remote Sensor Dampener I
+Remote Sensor Dampener I
+Sensor Booster I
+Large Automated I Carapace Restoration
+Energized Adaptive Nano Membrane I
+Armor Kinetic Hardener I
+Cataclysm Cruise Missile, Qty: 2000 (Cargo)
+Valkyrie II, Qty: 5 (Drone Bay)
+

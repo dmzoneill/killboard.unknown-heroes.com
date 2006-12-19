@@ -1,0 +1,33 @@
+2007.01.04 05:02
+
+Victim: Xelitron
+Alliance: Privateer Alliance
+Corp: Privateers
+Destroyed: Raptor
+System: Jita
+Security: 0.9
+
+Involved parties:
+
+Name: Nova Paradise (laid the final blow)
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+
+Destroyed items:
+
+125mm Carbide Railgun I
+Iridium Charge S, Qty: 156
+Bloodclaw Light Missile, Qty: 82
+'Malkuth' Standard Missile Launcher I
+Fixed Parallel Link-Capacitor I
+Cold-Gas I Arcjet Thrusters
+Power Diagnostic System I
+Type-D Power Core Modification: Reaction Control
+1MN Afterburner II (Cargo)
+Small Armor Repairer II (Cargo)
+Micro Auxiliary Power Core I (Cargo)
+

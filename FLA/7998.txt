@@ -1,0 +1,19 @@
+2006.10.05 18:25
+
+Victim: Mocuker
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Destroyed: Capsule
+System: Jita
+Security: 0.9
+
+Involved parties:
+
+Name: Onin Ra (laid the final blow)
+Security: 1.1
+Alliance: None
+Corp: Privateers
+Ship: Megathron
+Weapon: 425mm 'Scout' I Accelerator Cannon
+
+

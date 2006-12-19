@@ -1,0 +1,66 @@
+2006.04.07 08:35
+
+Victim: TheBelgarion
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Destroyed: Caracal
+System: VFK-IV
+Security: 0.0
+
+Involved parties:
+
+Name: Roofish
+Security: 1.9
+Alliance: Dominion Empire
+Corp: Valiant Logistics Inc.
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery I
+
+Name: Zen Razo
+Security: 5.0
+Alliance: Dominion Empire
+Corp: 5TH DIMENSION
+Ship: Megathron
+Weapon: Limited Mega Neutron Blaster I
+
+Name: Cookieteam
+Security: 0.5
+Alliance: Dominion Empire
+Corp: White Wolves Defence league
+Ship: Caracal
+Weapon: Bloodclaw Light Missile
+
+Name: Mahu (laid the final blow)
+Security: -6.0
+Alliance: Dominion Empire
+Corp: Collector of Souls
+Ship: Tempest
+Weapon: 1400mm Gallium I Cannon
+
+Name: Johnny cruz
+Security: -3.0
+Alliance: Dominion Empire
+Corp: Valiant Logistics Inc.
+Ship: Enyo
+Weapon: Light Ion Blaster II
+
+Name: Aceformat
+Security: 1.9
+Alliance: Dominion Empire
+Corp: Valiant Logistics Inc.
+Ship: Scorpion
+Weapon: 250mm Railgun I
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 60
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Invulnerability Field I
+Extra Gravimetric ECCM Scanning Array I
+Ballistic Control System I
+Scourge Heavy Missile, Qty: 3605 (Cargo)
+

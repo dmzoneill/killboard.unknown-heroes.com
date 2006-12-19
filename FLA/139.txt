@@ -1,0 +1,31 @@
+2007.01.13 23:21
+
+Victim: Android17
+Alliance: None
+Corp: Star Enterprises
+Destroyed: Caracal
+System: Tama
+Security: 0.3
+
+Involved parties:
+
+Name: Sorlac Aurora (laid the final blow)
+Security: 3.2
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Caracal
+Weapon: Torrent Assault Missile
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 50
+Assault Missile Launcher I
+Assault Missile Launcher I
+'Malkuth' Assault Missile Launcher I
+Large Shield Extender I
+Warp Disruptor I
+Initiated Multispectral ECM I
+Magnetic Plating I
+Scourge Heavy Missile, Qty: 230 (Cargo)
+

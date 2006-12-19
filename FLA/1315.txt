@@ -1,0 +1,40 @@
+2007.03.10 21:20
+
+Victim: Dacen Chilar
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Destroyed: Caldari Shuttle
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Illesa
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Caracal
+Weapon: Acolyte EV-300
+
+Name: ventura5 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Drake
+Weapon: Widowmaker Heavy Missile
+
+Name: Shiftless
+Security: 3.1
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Drake
+Weapon: Advanced 'Limos' Heavy Missile Bay I
+
+Name: Danielson1012
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Raven
+Weapon: 425mm Railgun I
+
+

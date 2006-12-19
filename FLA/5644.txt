@@ -1,0 +1,40 @@
+2006.10.09 17:07
+
+Victim: Kronooo
+Alliance: None
+Corp: SKORPION CORP
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Nil Desperandum
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Omen
+Weapon: Heavy Anode Pulse Particle Stream I
+
+Name: Sol Angla (laid the final blow)
+Security: 2.8
+Alliance: Imperial Republic Of the North
+Corp: Port Royal Independent Kontractors
+Ship: Rupture
+Weapon: 650mm Medium Gallium I Cannon
+
+Name: Formosus Funus
+Security: 2.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Wolf
+Weapon: 200mm Light 'Scout' Autocannon I
+
+Name: Gtok
+Security: -0.5
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+

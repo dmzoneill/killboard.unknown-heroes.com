@@ -1,0 +1,71 @@
+2006.11.19 00:45
+
+Victim: LiBraga
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Destroyed: Eagle
+System: Torrinos
+Security: 0.5
+
+Involved parties:
+
+Name: xEntriq
+Security: -1.7
+Alliance: None
+Corp: omen.
+Ship: Deimos
+Weapon: Deimos
+
+Name: night darkness
+Security: -0.7
+Alliance: None
+Corp: omen.
+Ship: Malediction
+Weapon: Malediction
+
+Name: Unfortunate Accident (laid the final blow)
+Security: -1.5
+Alliance: None
+Corp: omen.
+Ship: Megathron
+Weapon: Electron Blaster Cannon II
+
+Name: Elliott Manchild
+Security: -1.9
+Alliance: None
+Corp: omen.
+Ship: Dominix
+Weapon: Electron Blaster Cannon II
+
+Name: starius3
+Security: 1.2
+Alliance: None
+Corp: omen.
+Ship: Taranis
+Weapon: X5 Prototype I Engine Enervator
+
+Name: Captain Alcatraz
+Security: -2.4
+Alliance: None
+Corp: omen.
+Ship: Crusader
+Weapon: Small Nosferatu I
+
+
+Destroyed items:
+
+250mm Prototype I Gauss Gun
+250mm Prototype I Gauss Gun
+Iridium Charge M
+Iridium Charge M
+Iridium Charge M
+Iridium Charge M
+Iridium Charge M
+Iridium Charge M
+Gist B-Type Large Shield Booster
+Kaikka's Modified Magnetic Scattering Amplifier
+Magnetic Field Stabilizer II
+Magnetic Field Stabilizer II
+Lead Charge M, Qty: 150 (Cargo)
+Iron Charge M, Qty: 3752 (Cargo)
+

@@ -1,0 +1,64 @@
+2007.03.06 22:22
+
+Victim: RToad
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Destroyed: Ferox
+System: YZ-LQL
+Security: 0.0
+
+Involved parties:
+
+Name: Zhaine
+Security: -4.3
+Alliance: Corelum Syndicate
+Corp: Coreli Corporation
+Ship: Prophecy
+Weapon: Warrior II
+
+Name: Greegor
+Security: 3.3
+Alliance: Corelum Syndicate
+Corp: Coreli Corporation
+Ship: Harpy
+Weapon: Harpy
+
+Name: Spyder1226
+Security: 5.0
+Alliance: Corelum Syndicate
+Corp: Coreli Corporation
+Ship: Vengeance
+Weapon: Vengeance
+
+Name: Cheeb Aman (laid the final blow)
+Security: -0.5
+Alliance: Corelum Syndicate
+Corp: Coreli Corporation
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: Roy Coven
+Security: 1.9
+Alliance: Corelum Syndicate
+Corp: Coreli Corporation
+Ship: Hawk
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+Havoc Heavy Missile, Qty: 19
+Widowmaker Heavy Missile, Qty: 19
+Thunderbolt Heavy Missile, Qty: 19
+Scourge Heavy Missile, Qty: 19
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+Large Subordinate Screen Stabilizer I
+Large Subordinate Screen Stabilizer I
+Invulnerability Field I
+Ballistic Control System I
+Ballistic Control System I
+Ballistic Control System I
+Power Diagnostic System I
+Havoc Heavy Missile, Qty: 1936 (Cargo)
+

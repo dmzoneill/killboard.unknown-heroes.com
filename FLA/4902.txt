@@ -1,0 +1,51 @@
+2007.04.19 03:06
+
+Victim: StoryTeller d'Wolff
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Destroyed: Blackbird
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Myndpyre Ryche (laid the final blow)
+Security: 4.2
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Hawk
+Weapon: Sabretooth Light Missile
+
+Name: Tomas Ysidro
+Security: 1.7
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Curse
+Weapon: Valkyrie II
+
+Name: Coug
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Claymore
+Weapon: Hammerhead II
+
+Name: Corlan Dashiva
+Security: 2.8
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Damnation
+Weapon: Damnation
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Scourge Heavy Missile, Qty: 46
+Heavy Missile Launcher I
+10MN Afterburner I
+Languid Phase Inversion ECM I
+ECM - White Noise Generator I
+Capacitor Power Relay I
+Scourge Heavy Missile, Qty: 637 (Cargo)
+

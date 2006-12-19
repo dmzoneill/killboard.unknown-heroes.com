@@ -1,0 +1,29 @@
+2007.03.21 07:20
+
+Victim: KriegDrachen
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Destroyed: Sabre
+System: G8AD-C
+Security: 0.0
+
+Involved parties:
+
+Name: Lorn Zolog (laid the final blow)
+Security: -0.8
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Harbinger
+Weapon: Heavy Pulse Laser II
+
+
+Destroyed items:
+
+150mm Light AutoCannon II
+150mm Light AutoCannon II
+Barrage S, Qty: 240
+Interdiction Sphere Launcher I
+Warp Disruptor II
+Local Hull Conversion Inertial Stabilizers I
+Wasp I, Qty: 2 (Cargo)
+

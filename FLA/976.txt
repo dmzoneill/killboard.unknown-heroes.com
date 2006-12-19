@@ -1,0 +1,93 @@
+2007.03.02 00:06
+
+Victim: Leyalor Esperence
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Destroyed: Sabre
+System: YZ-LQL
+Security: 0.0
+
+Involved parties:
+
+Name: Sophie Malaster
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: sowo
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Drake
+Weapon: Thunderbolt Heavy Missile
+
+Name: Teck7 (laid the final blow)
+Security: 1.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Lachesis
+Weapon: Widowmaker Heavy Missile
+
+Name: Dark Carnage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Crow
+Weapon: X5 Prototype I Engine Enervator
+
+Name: rabodeamor
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Scorpion
+Weapon: 425mm Carbide Railgun I
+
+Name: Ramb3z
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Typhoon
+Weapon: 'Hypnos' Multispectral ECM I
+
+Name: Kerdrak
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Apocalypse
+Weapon: Mega Pulse Laser I
+
+Name: Japanx
+Security: 3.3
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Scorpion
+Weapon: 'Malkuth' Cruise Launcher I
+
+Name: Hamos
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Scorpion
+Weapon: 'Arbalest' Cruise Launcher I
+
+
+Destroyed items:
+
+200mm AutoCannon II
+200mm AutoCannon II
+200mm AutoCannon II
+Barrage S, Qty: 285
+Warp Disrupt Probe, Qty: 10
+Interdiction Sphere Launcher I
+Faint Warp Prohibitor I
+X5 Prototype I Engine Enervator
+125mm Railgun II, Qty: 2 (Cargo)
+EMP S, Qty: 4000 (Cargo)
+Large Coaxial Regenerative Projector (Cargo)
+Medium Remote Armor Repair System I, Qty: 2 (Cargo)
+Barrage S, Qty: 4284 (Cargo)
+Warp Disrupt Probe, Qty: 12 (Cargo)
+Medium Armor Maintenance Bot I, Qty: 3 (Cargo)
+

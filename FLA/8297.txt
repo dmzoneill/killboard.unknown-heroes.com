@@ -1,0 +1,44 @@
+2006.11.07 18:00
+
+Victim: Soliloquil
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Destroyed: Ferox
+System: G-M4I8
+Security: 0.0
+
+Involved parties:
+
+Name: Anominity (laid the final blow)
+Security: 4.3
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Curse
+Weapon: Vespa II
+
+Name: cptblood
+Security: 1.1
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Rapier
+Weapon: Hobgoblin II
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Medium Nosferatu I
+Thunderbolt Heavy Missile, Qty: 56
+XR-3200 Heavy Missile Bay
+XR-3200 Heavy Missile Bay
+XR-3200 Heavy Missile Bay
+Large Shield Extender II
+Large Shield Extender II
+Shield Recharger II
+J5 Prototype Warp Inhibitor I
+Shield Power Relay I
+Shield Power Relay I
+Shield Power Relay I
+Shield Power Relay I
+Hornet II (Drone Bay)
+

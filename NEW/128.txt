@@ -1,0 +1,125 @@
+2007.01.20 01:15
+
+Victim: Elliott Manchild
+Alliance: Triumvirate.
+Corp: omen.
+Destroyed: Tempest
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Jorax
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Thorax
+Weapon: Hammerhead I
+
+Name: Soldroz
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Raven
+Weapon: Cataclysm Cruise Missile
+
+Name: Nya (laid the final blow)
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: LTSmash
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Ship: Raven
+Weapon: Cataclysm Cruise Missile
+
+Name: Chalimar
+Security: 1.5
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Arazu
+Weapon: Arazu
+
+Name: Kaand
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Myrmidon
+Weapon: Myrmidon
+
+Name: Indigo Callypso
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Crow
+Weapon: Bloodclaw Precision Light Missile
+
+Name: Swindy
+Security: 1.4
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Harpy
+Weapon: Harpy
+
+Name: Sils wife
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Brutix
+Weapon: Brutix
+
+Name: KriegDrachen
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Sabre
+Weapon: 150mm Light AutoCannon II
+
+Name: digital oxygen
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Megathron
+Weapon: Megathron
+
+Name: Sidrat Flush
+Security: 1.7
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Kestrel
+Weapon: Target Painter I
+
+Name: Nukuquqa Hestase
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Caracal
+Weapon: Heavy Missile Launcher I
+
+Name: Malcanis
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Drake
+Weapon: Advanced 'Limos' Heavy Missile Bay I
+
+
+Destroyed items:
+
+1400mm Howitzer Artillery II
+50W Infectious Power System Malfunction
+EMP L, Qty: 17
+Sensor Booster II, Qty: 2
+Tracking Computer II
+Gyrostabilizer II, Qty: 2
+Tracking Enhancer II
+Reactor Control Unit I
+Covert Ops Cloaking Device II (Cargo)
+Spike M, Qty: 633 (Cargo)
+Recon Probe Launcher I (Cargo)
+Nanofiber Internal Structure I, Qty: 2 (Cargo)
+Medium Armor Maintenance Bot I, Qty: 3 (Drone Bay)

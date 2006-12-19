@@ -1,0 +1,33 @@
+2007.05.21 01:08
+
+Victim: Endariel
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Iteron Mark III
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Korr E'Hahnah
+Security: 2.4
+Alliance: Imperial Republic Of the North
+Corp: Port Royal Independent Kontractors
+Ship: Ares
+Weapon: Ares
+
+Name: DeSantis (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+
+Destroyed items:
+
+Prototype Cloaking Device I
+Expanded Cargohold I
+Expanded Cargohold I
+Sharp Crokite, Qty: 568 (Cargo)
+

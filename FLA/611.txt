@@ -1,0 +1,52 @@
+2007.02.12 23:02
+
+Victim: Hemi04
+Alliance: None
+Corp: Federal Navy Academy
+Destroyed: Velator
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: malkey (laid the final blow)
+Security: 4.5
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Hawk
+Weapon: Sabretooth Light Missile
+
+Name: Dark Carnage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Crow
+Weapon: Sabretooth Light Missile
+
+Name: Xantheris
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Taranis
+Weapon: 75mm Gatling Rail II
+
+Name: Kyoshisan
+Security: 0.7
+Alliance: None
+Corp: BGG
+Ship: Eris
+Weapon: 125mm Railgun II
+
+Name: WolfRavage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Ishkur
+Weapon: 'Langour' Drive Disruptor I
+
+
+Destroyed items:
+
+Civilian Light Electron Blaster
+Basic Miner
+

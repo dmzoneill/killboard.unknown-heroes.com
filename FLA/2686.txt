@@ -1,0 +1,27 @@
+2007.03.02 23:58
+
+Victim: Cho Solo
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Destroyed: Taranis
+System: PNQY-Y
+Security: 0.0
+
+Involved parties:
+
+Name: DeathGrip (laid the final blow)
+Security: 2.3
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Archon
+Weapon: Valkyrie I
+
+
+Destroyed items:
+
+Void S, Qty: 120
+Phased Monopropellant I Hydrazine Boosters
+Small Armor Repairer II
+Reactor Control Unit I
+Antimatter Charge S, Qty: 2000 (Cargo)
+

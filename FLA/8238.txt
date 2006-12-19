@@ -1,0 +1,60 @@
+2006.11.05 22:33
+
+Victim: bigdaddy0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Thrasher
+System: Haajinen
+Security: 0.8
+
+Involved parties:
+
+Name: KRULLEN Binazeski
+Security: 4.9
+Alliance: None
+Corp: The Initiative
+Ship: Apocalypse
+Weapon: Tachyon Beam Laser II
+
+Name: spirea (laid the final blow)
+Security: 4.9
+Alliance: None
+Corp: The Initiative
+Ship: Apocalypse
+Weapon: Tachyon Beam Laser II
+
+Name: Jambo
+Security: -2.0
+Alliance: None
+Corp: The Initiative
+Ship: Vengeance
+Weapon: Vengeance
+
+
+Destroyed items:
+
+250mm Light Artillery Cannon I
+250mm Light Artillery Cannon I
+250mm Light Artillery Cannon I
+250mm Light Artillery Cannon I
+250mm Light Artillery Cannon I
+Phased Plasma S
+Phased Plasma S
+Phased Plasma S
+Proton S, Qty: 88
+Bloodclaw Light Missile, Qty: 12
+'Malkuth' Standard Missile Launcher I
+Small Shield Booster I
+Cap Booster 75
+Cap Booster 75
+Gyrostabilizer I
+Small I-a Polarized Armor Regenerator
+Small Energy Transfer Array I (Cargo)
+125mm 'Scout' I Accelerator Cannon (Cargo)
+125mm Railgun I (Cargo)
+Nuclear S, Qty: 269 (Cargo)
+Titanium Sabot S, Qty: 71 (Cargo)
+Cap Booster 75, Qty: 2 (Cargo)
+Tracking Computer I (Cargo)
+Guristas Ship Log 119373337 (Cargo)
+

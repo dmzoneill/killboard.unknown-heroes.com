@@ -1,0 +1,51 @@
+2006.09.09 21:01
+
+Victim: Damfoose
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Destroyed: Blackbird
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Valerian Xavier
+Security: 4.1
+Alliance: None
+Corp: Beagle Corp
+Ship: Megathron
+Weapon: Megathron
+
+Name: john roe
+Security: -1.9
+Alliance: None
+Corp: Beagle Corp
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Kheo Sen
+Security: 1.6
+Alliance: None
+Corp: Beagle Corp
+Ship: Tempest
+Weapon: 1400mm Prototype I Siege Cannon
+
+Name: Turiya Flesharrower (laid the final blow)
+Security: -2.5
+Alliance: None
+Corp: Beagle Corp
+Ship: Armageddon
+Weapon: Mega Anode Particle Stream I
+
+
+Destroyed items:
+
+Medium 'Atonement' I Ward Projector
+Medium Nosferatu I
+Medium Nosferatu I
+Induced Multispectral ECM I
+Induced Multispectral ECM I
+Induced Multispectral ECM I
+ECM - Multispectral Jammer I
+Signal Amplifier I (Cargo)
+

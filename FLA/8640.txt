@@ -1,0 +1,53 @@
+2006.12.04 10:02
+
+Victim: Hosanna
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Destroyed: Typhoon
+System: 5W3-DG
+Security: 0.0
+
+Involved parties:
+
+Name: Phonix
+Security: 1.8
+Alliance: None
+Corp: Fate.
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Razor Jaxx (laid the final blow)
+Security: 0.5
+Alliance: None
+Corp: Fate.
+Ship: Vagabond
+Weapon: Hornet II
+
+Name: Vyndicator
+Security: -3.1
+Alliance: None
+Corp: 0utbreak
+Ship: Rapier
+Weapon: Rapier
+
+Name: Jen'Tai
+Security: 0.1
+Alliance: Otherworld Empire Productions
+Corp: Dark Cartel
+Ship: Stiletto
+Weapon: Faint Warp Prohibitor I
+
+
+Destroyed items:
+
+Heavy 'Knave' I Energy Drain
+Juggernaut Torpedo, Qty: 36
+100MN MicroWarpdrive I
+N-Type Explosive Hardener I
+Muon Coil Bolt Array I
+Juggernaut Torpedo, Qty: 1330 (Cargo)
+N-Type Kinetic Hardener I (Cargo)
+Dread Guristas Crystal Tag (Cargo)
+Local Power Plant Manager: Diagnostic System I (Cargo)
+Wasp I, Qty: 2 (Drone Bay)
+

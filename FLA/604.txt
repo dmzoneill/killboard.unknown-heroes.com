@@ -1,0 +1,26 @@
+2007.02.12 20:00
+
+Victim: ivanfly
+Alliance: None
+Corp: Pator Tech School
+Destroyed: Capsule
+System: 2R-CRW
+Security: 0.0
+
+Involved parties:
+
+Name: Teck7 (laid the final blow)
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ares
+Weapon: Sabretooth Light Missile
+
+Name: Jex Stygian
+Security: 2.4
+Alliance: None
+Corp: Emerald Empire
+Ship: Rifter
+Weapon: Rifter
+
+

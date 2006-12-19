@@ -1,0 +1,33 @@
+2007.04.07 03:21
+
+Victim: Barkel
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Capsule
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Karille
+Security: -1.6
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Taranis
+Weapon: Taranis
+
+Name: c0rn1 (laid the final blow)
+Security: -2.1
+Alliance: S.E.R.A
+Corp: Seraphin Technologies
+Ship: Caracal
+Weapon: Bloodclaw Light Missile
+
+Name: Shadowjet
+Security: -1.3
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Falcon
+Weapon: Faint Warp Prohibitor I
+
+

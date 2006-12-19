@@ -1,0 +1,19 @@
+2006.12.29 21:15
+
+Victim: sattracer2
+Alliance: Freelancer Alliance
+Corp: X.T.R
+Destroyed: Caldari Shuttle
+System: VRH-H7
+Security: 0.0
+
+Involved parties:
+
+Name: Wthor (laid the final blow)
+Security: 4.7
+Alliance: None
+Corp: Nexus Legion
+Ship: Sabre
+Weapon: 250mm Light Artillery Cannon II
+
+

@@ -1,0 +1,53 @@
+2007.01.19 23:54
+
+Victim: Epro
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Capsule
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Unfortunate Accident (laid the final blow)
+Security: -1.9
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: turumbor
+Security: -1.7
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: taylor04
+Security: 0.4
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Malafor
+Security: -1.2
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Armageddon
+Weapon: Mega Beam Laser II
+
+Name: Elliott Manchild
+Security: -0.5
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Anna Neura
+Security: -0.2
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Lachesis
+Weapon: Lachesis
+

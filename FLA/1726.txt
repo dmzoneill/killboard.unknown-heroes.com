@@ -1,0 +1,19 @@
+2007.01.01 22:48
+
+Victim: darkmyth
+Alliance: Freelancer Alliance
+Corp: X.T.R
+Destroyed: Capsule
+System: Oipo
+Security: 0.8
+
+Involved parties:
+
+Name: Fjerkenstad (laid the final blow)
+Security: -1.7
+Alliance: None
+Corp: omen.
+Ship: Taranis
+Weapon: Light Neutron Blaster II
+
+

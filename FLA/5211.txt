@@ -1,0 +1,69 @@
+2007.04.26 23:55
+
+Victim: Altair Mogwa
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Rifter
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Eva Unit
+Security: 5.1
+Alliance: The Sundering
+Corp: Steel Battalion
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Thafesko (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Drake
+Weapon: Hobgoblin I
+
+Name: Imaginary Number
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Arbitrator
+Weapon: Vespa I
+
+Name: Rhaven
+Security: 3.7
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Punisher
+Weapon: Punisher
+
+Name: Kayron Brennan
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: dastommy79
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Thorax
+Weapon: Hammerhead I
+
+Name: Rhaall
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Crucifier
+Weapon: Small Nosferatu I
+
+
+Destroyed items:
+
+Sabretooth Light Missile, Qty: 32
+Cold-Gas I Arcjet Thrusters
+Stasis Webifier I
+Damage Control I
+Inertia Stabilizers I
+

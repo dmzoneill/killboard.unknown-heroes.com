@@ -1,0 +1,32 @@
+2007.03.25 00:07
+
+Victim: Deathratt
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Destroyed: Blackbird
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Varaxian
+Security: 3.2
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Ship: Unknown
+Weapon: Wasp I
+
+Name: WildCard (laid the final blow)
+Security: 4.3
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Tempest
+Weapon: Dual 425mm AutoCannon II
+
+
+Destroyed items:
+
+XR-3200 Heavy Missile Bay
+Stasis Webifier I
+ECCM Projector I
+

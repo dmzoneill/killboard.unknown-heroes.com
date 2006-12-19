@@ -1,0 +1,32 @@
+2007.04.23 01:12
+
+Victim: Kvarium Ki
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Destroyed: Stabber
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Minmatar Control Tower / Elite Storm Enterprises (laid the final blow)
+
+
+Destroyed items:
+
+220mm Vulcan AutoCannon I
+220mm Vulcan AutoCannon I
+EMP M, Qty: 116
+Gremlin Rocket, Qty: 11
+Large Azeotropic Ward Salubrity I
+10MN MicroWarpdrive I
+Warp Disruptor I
+Medium Inefficient Armor Repair Unit
+Energized Adaptive Nano Membrane I
+Radioisotope Reactive Membrane I
+Small Shield Extender II (Cargo)
+Magnetic Scattering Amplifier II (Cargo)
+Magnetic Field Stabilizer I (Cargo)
+Prototype Cloaking Device I (Cargo)
+Gremlin Rocket, Qty: 200 (Cargo)
+

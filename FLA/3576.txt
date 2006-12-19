@@ -1,0 +1,51 @@
+2007.03.27 10:55
+
+Victim: SoF Reaperman
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Destroyed: Blackbird
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Messmint
+Security: 5.0
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Karunel (laid the final blow)
+Security: 5.0
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Hyperion
+Weapon: 350mm Railgun II
+
+Name: Marla Durden
+Security: -1.2
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Claw
+Weapon: Bloodclaw Light Missile
+
+Name: michi2004
+Security: -2.5
+Alliance: YouWhat
+Corp: Dark Rising Shadow
+Ship: Caracal
+Weapon: Fleeting Warp Scrambler I
+
+
+Destroyed items:
+
+Cap Recharger I
+ECM - Multispectral Jammer I
+ECM - Multispectral Jammer I
+Sensor Booster I
+Signal Distortion Amplifier I
+Signal Distortion Amplifier I
+Scourge Heavy Missile, Qty: 1976 (Cargo)
+Widowmaker Heavy Missile, Qty: 1976 (Cargo)
+

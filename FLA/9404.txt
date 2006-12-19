@@ -1,0 +1,29 @@
+2007.05.05 19:22
+
+Victim: Hojou
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Tristan
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: dastommy79 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Thorax
+Weapon: Heavy Ion Blaster I
+
+
+Destroyed items:
+
+Piranha Light Missile, Qty: 37
+Sabretooth Light Missile, Qty: 37
+1MN MicroWarpdrive I
+Quantum Co-Processor I
+Warp Core Stabilizer I
+Capacitor Power Relay I
+Piranha Light Missile, Qty: 3875 (Cargo)
+

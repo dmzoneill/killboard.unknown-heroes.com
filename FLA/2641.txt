@@ -1,0 +1,45 @@
+2007.02.28 00:18
+
+Victim: Jesnen
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Destroyed: Retribution
+System: Osmeden
+Security: 0.7
+
+Involved parties:
+
+Name: Morfane (laid the final blow)
+Security: -0.9
+Alliance: Privateer Alliance
+Corp: The IMorral MAjority
+Ship: Taranis
+Weapon: Hobgoblin II
+
+Name: Squirrel
+Security: 4.4
+Alliance: Privateer Alliance
+Corp: The IMorral MAjority
+Ship: Taranis
+Weapon: Taranis
+
+
+Destroyed items:
+
+Medium Pulse Laser II
+Medium Pulse Laser II
+Small 'Knave' I Energy Drain
+Conflagration S
+Conflagration S
+Conflagration S
+Warp Disruptor I
+Small Armor Repairer II
+Energized Adaptive Nano Membrane I
+Capacitor Power Relay I
+Large F-S9 Regolith Shield Induction (Cargo)
+Fleeting Warp Scrambler I (Cargo)
+Medium Nosferatu II (Cargo)
+Hobgoblin II (Cargo)
+Hammerhead I, Qty: 2 (Cargo)
+Beta Hull Mod Nanofiber Structure (Cargo)
+

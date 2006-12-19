@@ -1,0 +1,40 @@
+2006.10.23 20:06
+
+Victim: UnDead JR
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Destroyed: Crow
+System: MI6O-6
+Security: 0.0
+
+Involved parties:
+
+Name: Reason Taki (laid the final blow)
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Moa
+Weapon: 250mm Railgun II
+
+Name: Voyageur
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Ship: Jaguar
+Weapon: Jaguar
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 38
+Standard Missile Launcher II
+Standard Missile Launcher II
+Standard Missile Launcher II
+J5b Phased Prototype Warp Inhibitor I
+F-b10 Nominal Capacitor Regenerator (Cargo)
+Heat Sink II (Cargo)
+Sensor Booster II (Cargo)
+Bloodclaw Light Missile, Qty: 596 (Cargo)
+Small Tractor Beam I (Cargo)
+Bloodclaw Precision Light Missile, Qty: 500 (Cargo)
+

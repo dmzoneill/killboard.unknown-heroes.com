@@ -1,0 +1,32 @@
+2007.03.17 14:27
+
+Victim: Baja Bently
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Destroyed: Hawk
+System: O1Y-ED
+Security: 0.0
+
+Involved parties:
+
+Name: Landock 360 (laid the final blow)
+Security: 4.1
+Alliance: Xelas Alliance
+Corp: Fallen Angel's
+Ship: Eris
+Weapon: Light Ion Blaster II
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 47
+Upgraded 'Limos' Standard Missile Bay I
+'Arbalest' Standard Missile Launcher
+'Malkuth' Standard Missile Launcher I
+Shield Recharger II
+Small Shield Booster II
+1MN MicroWarpdrive I
+Magnetic Scattering Amplifier II
+Mark I Modified SS Overdrive Injector
+Power Diagnostic System I
+

@@ -1,0 +1,61 @@
+2006.11.07 20:34
+
+Victim: Skawl
+Alliance: None
+Corp: GeoTech
+Destroyed: Caldari Shuttle
+System: J-CIJV
+Security: 0.0
+
+Involved parties:
+
+Name: Velithe (laid the final blow)
+Security: 2.0
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Dog Cancer
+Security: 1.4
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: TiMeZeRo225
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: J.I.T. Enterprises
+Ship: Raven
+Weapon: Cataclysm Cruise Missile
+
+Name: yagamurth
+Security: 1.2
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Crusader
+Weapon: Dual Light Beam Laser II
+
+Name: kone on
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Sabre
+Weapon: 200mm AutoCannon II
+
+Name: Scorpio63
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Vengeance
+Weapon: Initiated Warp Jammer I
+
+Name: Elfaen Ethenwe
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Rook
+Weapon: Heavy Missile Launcher II
+
+

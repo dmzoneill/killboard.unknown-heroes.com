@@ -1,0 +1,134 @@
+2007.03.20 21:03
+
+Victim: Lobster Man
+Alliance: None
+Corp: e X i l e
+Destroyed: Dominix
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: mikeni
+Security: 5.0
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Drake
+Weapon: Hornet II
+
+Name: Lee Thrace
+Security: 5.0
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Hyperion
+Weapon: Hyperion
+
+Name: Caleb Defiance (laid the final blow)
+Security: 5.0
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Dominix
+Weapon: Ogre I
+
+Name: FuzzBuzz
+Security: 0.0
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Caracal
+Weapon: Bloodclaw Light Missile
+
+Name: Reep Mawr
+Security: 3.1
+Alliance: CORE.
+Corp: Red 42
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+Name: rockerguy
+Security: -3.9
+Alliance: CORE.
+Corp: Red 42
+Ship: Drake
+Weapon: Widowmaker Heavy Missile
+
+Name: Gros fury
+Security: 0.0
+Alliance: CORE.
+Corp: Nomina Sacra Sapientia
+Ship: Lachesis
+Weapon: Hornet II
+
+Name: Dialatron
+Security: 5.0
+Alliance: CORE.
+Corp: Red 42
+Ship: Huginn
+Weapon: Huginn
+
+Name: Caterpillar
+Security: 0.0
+Alliance: CORE.
+Corp: AUS Corporation
+Ship: Jaguar
+Weapon: Thorn Rocket
+
+Name: truefranco
+Security: 4.5
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Flycatcher
+Weapon: Thorn Rocket
+
+Name: Myjaz Matak
+Security: 2.6
+Alliance: CORE.
+Corp: Red 42
+Ship: Rupture
+Weapon: Rupture
+
+Name: Kalico
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Claw
+Weapon: Claw
+
+Name: The Craftsman
+Security: 0.6
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Apocalypse
+Weapon: Apocalypse
+
+Name: Kintaris Zulu
+Security: 5.0
+Alliance: CORE.
+Corp: Red 42
+Ship: Blackbird
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+Name: AaLaA
+Security: 4.5
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Ares
+Weapon: Ares
+
+
+Destroyed items:
+
+Heavy Diminishing Power System Drain I
+Heavy Diminishing Power System Drain I
+Heavy Diminishing Power System Drain I
+Electron Blaster Cannon II
+100MN MicroWarpdrive II
+Warp Disruptor II
+Remote Sensor Dampener II
+Remote Sensor Dampener II
+Mark I Modified SS Inertial Stabilizers
+Mark I Modified SS Nanofiber Structure
+Mark I Modified SS Nanofiber Structure
+Berserker II (Drone Bay)
+Praetor II, Qty: 2 (Drone Bay)
+Ogre II, Qty: 2 (Drone Bay)
+

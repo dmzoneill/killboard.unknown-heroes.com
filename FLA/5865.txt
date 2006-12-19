@@ -1,0 +1,26 @@
+2006.10.24 20:16
+
+Victim: Aernihs
+Alliance: Eternal Empire
+Corp: Tarnak inc.
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: fastwind
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: VentureCorp
+Ship: Flycatcher
+Weapon: Flycatcher
+
+Name: Gangreen (laid the final blow)
+Security: 0.1
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Incursus
+Weapon: 150mm Compressed Coil Gun I
+
+

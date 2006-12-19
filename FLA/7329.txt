@@ -1,0 +1,55 @@
+2006.08.11 13:08
+
+Victim: dannyrsturbo
+Alliance: Free Trade Coalition
+Corp: Benevolent Association of Miners and Mercs
+Destroyed: Caracal
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: maak0 (laid the final blow)
+Security: 1.4
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Ferox
+Weapon: Thunderbolt Heavy Missile
+
+Name: Ione79
+Security: 3.4
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+Name: Jumar Coldgin
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Harpy
+Weapon: Harpy
+
+Name: Noitaakka
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Raven
+Weapon: XT-9000 Cruise Launcher
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 12
+Widowmaker Heavy Missile, Qty: 12
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+Medium Shield Extender I
+10MN Afterburner I
+Small Shield Extender I (Cargo)
+125mm Railgun I (Cargo)
+Non-Inertial Ballistic Screen Augmentation I (Cargo)
+Explosion Dampening Field I (Cargo)
+Widowmaker Heavy Missile, Qty: 172 (Cargo)
+Scourge Heavy Missile, Qty: 606 (Cargo)
+

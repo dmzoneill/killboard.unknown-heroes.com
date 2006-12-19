@@ -1,0 +1,33 @@
+2007.03.23 21:49
+
+Victim: Braxxon
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Destroyed: Manticore
+System: O-ZXUV
+Security: 0.0
+
+Involved parties:
+
+Name: hezitationkillz (laid the final blow)
+Security: -1.4
+Alliance: Eternal Rapture
+Corp: Temptation inc.
+Ship: Retribution
+Weapon: Medium Pulse Laser II
+
+
+Destroyed items:
+
+41F Veiled Targeting Unit
+Javelin S, Qty: 136
+Cruise Missile Launcher II
+Cruise Missile Launcher II
+Small Shield Booster I
+Micro Auxiliary Power Core I
+Beta Hull Mod Nanofiber Structure
+Wrath Cruise Missile, Qty: 81 (Cargo)
+Paradise Cruise Missile, Qty: 300 (Cargo)
+Paradise Fury Cruise Missile, Qty: 619 (Cargo)
+Paradise Precision Cruise Missile, Qty: 781 (Cargo)
+

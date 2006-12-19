@@ -1,0 +1,120 @@
+2007.03.05 19:38
+
+Victim: norman protector
+Alliance: Xelas Alliance
+Corp: Fallen Angel's
+Destroyed: Vexor
+System: 75FA-Z
+Security: 0.0
+
+Involved parties:
+
+Name: william kronos
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Teck7 (laid the final blow)
+Security: 1.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Lachesis
+Weapon: Havoc Heavy Missile
+
+Name: Anastasia DC
+Security: 1.8
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Lachesis
+Weapon: Lachesis
+
+Name: Dana Foxworth
+Security: 3.2
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Rupture
+Weapon: Rupture
+
+Name: coldkill
+Security: 1.8
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Ishkur
+Weapon: Hobgoblin II
+
+Name: Aken Ator
+Security: 1.8
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Ferox
+Weapon: XR-3200 Heavy Missile Bay
+
+Name: Dark Carnage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Capsule
+Weapon: Standard Missile Launcher I
+
+Name: Mauy Thai
+Security: -1.4
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Curse
+Weapon: Valkyrie II
+
+Name: Daressek
+Security: 3.7
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Kestrel
+Weapon: Bloodclaw Light Missile
+
+Name: Ocara Nezus
+Security: 2.3
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Hawk
+Weapon: Standard Missile Launcher II
+
+Name: misscoda
+Security: 3.7
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Blackbird
+Weapon: Thunderbolt Heavy Missile
+
+Name: Muad' Dib
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Malediction
+Weapon: Malediction
+
+Name: Dirtee Girl
+Security: 0.1
+Alliance: Dusk and Dawn
+Corp: Omega Enterprises
+Ship: Taranis
+Weapon: Small 'Ghoul' Energy Siphon I
+
+
+Destroyed items:
+
+Regulated Light Neutron Phase Cannon I
+Anode Light Neutron Particle Cannon I
+Modal Light Neutron Particle Accelerator I
+Antimatter Charge S, Qty: 233
+10MN MicroWarpdrive I
+Warp Disruptor I
+'Langour' Drive Disruptor I
+Warp Core Stabilizer I
+Radioisotope Explosive Hardener I
+1600mm Reinforced Crystalline Carbonide Plates I
+Faint Epsilon Warp Prohibitor I (Cargo)
+X5 Prototype I Engine Enervator (Cargo)
+Sabretooth Light Missile, Qty: 853 (Cargo)
+Inertia Stabilizers I, Qty: 2 (Cargo)
+

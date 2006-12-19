@@ -1,0 +1,129 @@
+2007.04.09 02:05
+
+Victim: sniper luke
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Raven
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Skinny Boy
+Security: 4.1
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Thanatos
+Weapon: Firbolg
+
+Name: LUCKY HEADY
+Security: -1.7
+Alliance: S.E.R.A
+Corp: Seraphin Technologies
+Ship: Tempest
+Weapon: Tempest
+
+Name: END3R 101 (laid the final blow)
+Security: -0.7
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Damnation
+Weapon: Heavy Pulse Laser II
+
+Name: Queldonus
+Security: 2.6
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Nidhoggur
+Weapon: Einherji
+
+Name: Redginald
+Security: 4.5
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: Rukaz
+Security: 3.1
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Crow
+Weapon: Warp Disruptor II
+
+Name: DrunkenOne
+Security: -0.5
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Taranis
+Weapon: Taranis
+
+Name: Spacebar
+Security: 2.1
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: Crypt Layer
+Security: 3.6
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Taranis
+Weapon: 125mm Prototype I Gauss Gun
+
+Name: Waagaa Ktlehr
+Security: -1.1
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Aeon
+Weapon: Templar
+
+Name: Menf
+Security: 2.1
+Alliance: S.E.R.A
+Corp: Seraphin Technologies
+Ship: Chimera
+Weapon: Einherji
+
+Name: Luthair StoneDog
+Security: -2.7
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Thanatos
+Weapon: Einherji
+
+Name: Katchin
+Security: 2.1
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Chimera
+Weapon: Dragonfly
+
+Name: Ale Tricio
+Security: 2.1
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Archon
+Weapon: Einherji
+
+
+Destroyed items:
+
+Heavy Nosferatu I
+Medium Rudimentary Concussion Bomb I
+Wrath Cruise Missile, Qty: 22
+Large Azeotropic Ward Salubrity I
+Large Shield Booster II
+Large Shield Booster II
+Cap Booster 800
+Sensor Booster I
+Shielded Gravimetric Backup Cluster I
+1600mm Reinforced Nanofiber Plates I
+Cap Booster 800, Qty: 12 (Cargo)
+Devastator Cruise Missile, Qty: 1074 (Cargo)
+Cataclysm Cruise Missile, Qty: 1000 (Cargo)
+Paradise Cruise Missile, Qty: 500 (Cargo)
+Phoenix F.O.F. Cruise Missile I, Qty: 100 (Cargo)
+Obliterator F.O.F. Cruise Missile I, Qty: 141 (Cargo)
+

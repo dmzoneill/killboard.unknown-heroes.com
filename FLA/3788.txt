@@ -1,0 +1,47 @@
+2007.04.01 07:10
+
+Victim: lemonds ll
+Alliance: Freelancer Alliance
+Corp: Feel Good Inc.
+Destroyed: Badger Mark II
+System: P-2TTL
+Security: 0.0
+
+Involved parties:
+
+Name: Wladomir Jed (laid the final blow)
+Security: 3.7
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Rook
+Weapon: Scourge Heavy Missile
+
+Name: AIRB
+Security: 3.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Rook
+Weapon: Templar
+
+Name: Sourdough
+Security: 0.0
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Archon
+Weapon: Templar
+
+
+Destroyed items:
+
+Medium Shield Booster II
+Ditrigonal Thermal Barrier Crystallization I
+Photon Scattering Field I
+Warp Core Stabilizer I
+350mm 'Scout' I Accelerator Cannon, Qty: 18 (Cargo)
+Cross-linked Bolt Array I, Qty: 2 (Cargo)
+'Arbalest' Cruise Launcher I, Qty: 7 (Cargo)
+'Arbalest' Siege Missile Launcher (Cargo)
+Beta Reactor Control: Diagnostic System I (Cargo)
+Beta Reactor Control: Capacitor Power Relay I, Qty: 4 (Cargo)
+Beta Reactor Control: Reaction Control I (Cargo)
+

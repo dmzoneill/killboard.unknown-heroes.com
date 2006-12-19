@@ -1,0 +1,67 @@
+2007.01.02 09:31
+
+Victim: rockerguy
+Alliance: None
+Corp: Four Horsemen
+Destroyed: Vexor
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Wousr (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Sleipnir
+Weapon: 425mm AutoCannon II
+
+Name: Blackmas
+Security: 1.2
+Alliance: Freelancer Alliance
+Corp: X.T.R
+Ship: Hyperion
+Weapon: Hyperion
+
+Name: Dharq
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Typhoon
+Weapon: Paradise Cruise Missile
+
+Name: Sattracer
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: X.T.R
+Ship: Drake
+Weapon: Widowmaker Heavy Missile
+
+Name: dccbx
+Security: 4.1
+Alliance: Freelancer Alliance
+Corp: X.T.R
+Ship: Rifter
+Weapon: Rifter
+
+Name: StinkyBunns
+Security: 3.7
+Alliance: Freelancer Alliance
+Corp: X.T.R
+Ship: Raven
+Weapon: ZW-4100 Siege Missile Bay
+
+
+Destroyed items:
+
+Medium Beam Laser II
+Medium Nosferatu I
+Medium Nosferatu I
+Gleam S
+X5 Prototype I Engine Enervator
+Energized Adaptive Nano Membrane I
+Energized Adaptive Nano Membrane I
+Antimatter Charge M, Qty: 1000 (Cargo)
+Void M, Qty: 703 (Cargo)
+Hammerhead I, Qty: 2 (Drone Bay)
+

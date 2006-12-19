@@ -1,0 +1,93 @@
+2007.03.16 03:38
+
+Victim: Xoduse
+Alliance: YouWhat
+Corp: Beasts of Burden
+Destroyed: Caracal
+System: XZH-4X
+Security: 0.0
+
+Involved parties:
+
+Name: digital oxygen
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Megathron
+Weapon: Megathron
+
+Name: Sanal Gi (laid the final blow)
+Security: 1.1
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+Name: Satal Sonshi
+Security: 3.8
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Tempest
+Weapon: Tempest
+
+Name: Swanny231
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+Name: ifeelit2
+Security: 5.0
+Alliance: Forces of Freedom
+Corp: Just Cloned Again
+Ship: Hyperion
+Weapon: 'Arbalest' Cruise Launcher I
+
+Name: Weeble Wooble
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Megathron
+Weapon: Megathron
+
+Name: Skull Fire
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Raven
+Weapon: 'Arbalest' Siege Missile Launcher
+
+Name: RubberDuckey
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Blackwater Squadron
+Ship: Raven
+Weapon: Cruise Missile Launcher II
+
+Name: GEOFFTRIN RYNE
+Security: 5.0
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Raven
+Weapon: 'Malkuth' Cruise Launcher I
+
+Name: Fugnut
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Drake
+Weapon: Remote Sensor Dampener II
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 60
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Large Shield Extender I
+Ballistic Control System I
+Ballistic Control System I
+

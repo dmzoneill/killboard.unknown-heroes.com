@@ -1,0 +1,72 @@
+2006.10.16 18:59
+
+Victim: Tatzlwurm
+Alliance: Lotka Volterra
+Corp: M. Corp
+Destroyed: Curse
+System: P-2TTL
+Security: 0.0
+
+Involved parties:
+
+Name: Jumar Coldgin (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+Name: Hosanna
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: maak0
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Caracal
+Weapon: Widowmaker Heavy Missile
+
+Name: kookos
+Security: 2.9
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Crusader
+Weapon: Crusader
+
+Name: Novas Wordo
+Security: 3.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Crow
+Weapon: Gremlin Rocket
+
+Name: keilapuukko
+Security: 3.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Thorax
+Weapon: Thorax
+
+
+Destroyed items:
+
+Medium Nosferatu II
+10MN MicroWarpdrive II
+ECM - Multispectral Jammer II
+ECM - Spatial Destabilizer II
+Balmer Series Targeting Inhibitor I
+Damage Control I
+Medium Armor Repairer II
+Medium Armor Repairer II
+Dual 425mm AutoCannon II, Qty: 2 (Cargo)
+Induced Multispectral ECM I (Cargo)
+Armor Thermic Hardener II (Cargo)
+Armor Explosive Hardener II (Cargo)
+Dread Guristas Brass Tag (Cargo)
+Hobgoblin II, Qty: 4 (Drone Bay)
+Valkyrie II, Qty: 2 (Drone Bay)
+

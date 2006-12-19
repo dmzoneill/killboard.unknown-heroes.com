@@ -1,0 +1,28 @@
+2007.02.24 09:25
+
+Victim: Zattron
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Destroyed: Manticore
+System: J-CIJV
+Security: 0.0
+
+Involved parties:
+
+Name: Imran (laid the final blow)
+Security: 1.7
+Alliance: None
+Corp: Fate.
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+
+Destroyed items:
+
+Wrath Cruise Missile, Qty: 24
+'Arbalest' Cruise Launcher I
+'Arbalest' Cruise Launcher I
+Sensor Booster II
+Sensor Booster II
+Wrath Cruise Missile, Qty: 230 (Cargo)
+

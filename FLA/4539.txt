@@ -1,0 +1,63 @@
+2007.04.13 16:27
+
+Victim: Spartan dax
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Destroyed: Drake
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Rahzorus (laid the final blow)
+Security: 2.0
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Raven
+Weapon: Wrath Cruise Missile
+
+Name: Lyticus
+Security: -1.8
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Rapier
+Weapon: Hammerhead II
+
+Name: Frantico
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Malediction
+Weapon: Malediction
+
+Name: Crypt Layer
+Security: 3.6
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Capsule
+Weapon: TE-2100 Standard Missile Bay
+
+Name: Nethel
+Security: 2.1
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Rapier
+Weapon: 720mm Howitzer Artillery II
+
+
+Destroyed items:
+
+Thunderbolt Heavy Missile, Qty: 32
+Scourge Heavy Missile, Qty: 96
+'Arbalest' Heavy Missile Launcher
+'Arbalest' Heavy Missile Launcher
+'Arbalest' Heavy Missile Launcher
+'Arbalest' Heavy Missile Launcher
+Large Shield Extender II
+'Anointed' I EM Ward Reinforcement
+V-M15 Braced Multispectral Shield Matrix
+Beta Reactor Control: Shield Power Relay I
+Damage Control I
+Mark I Generator Refitting: Diagnostic System
+Widowmaker Heavy Missile, Qty: 1696 (Cargo)
+

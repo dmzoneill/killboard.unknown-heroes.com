@@ -1,0 +1,105 @@
+2006.07.12 16:47
+
+Victim: First Stotherd
+Alliance: Sparta Alliance
+Corp: MisFunk Inc.
+Destroyed: Raven
+System: N2IS-B
+Security: 0.0
+
+Involved parties:
+
+Name: Capt Cali (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: London Transport
+Ship: Cerberus
+Weapon: Scourge Heavy Missile
+
+Name: Cruise Missile Battery / Kinetic Vector
+
+Name: TwilightMadcat
+Security: -2.1
+Alliance: Imperial Republic Of the North
+Corp: Port Royal Independent Kontractors
+Ship: Taranis
+Weapon: Taranis
+
+Name: mr passie
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: KHM Corporation
+Ship: Tempest
+Weapon: Tempest
+
+Name: Cazziel
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Megathron
+Weapon: Megathron
+
+Name: MAD D0G
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: DEATH 0R GLORY
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+Name: Demarcus
+Security: 5.0
+Alliance: CORE.
+Corp: Project Gemini
+Ship: Scorpion
+Weapon: Devastator Cruise Missile
+
+Name: Zakru Anul
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: KHM Corporation
+Ship: Megathron
+Weapon: Megathron
+
+Name: Zylatis
+Security: 3.2
+Alliance: CORE.
+Corp: AUS Corporation
+Ship: Rook
+Weapon: ECM - Multispectral Jammer II
+
+Name: LiBraga
+Security: 5.0
+Alliance: CORE.
+Corp: Project Gemini
+Ship: Rook
+Weapon: ECM - Multispectral Jammer II
+
+Name: Jumar Coldgin
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Harpy
+Weapon: Harpy
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 29
+Paradise Cruise Missile, Qty: 36
+Cruise Missile Launcher I
+Cruise Missile Launcher I
+Cruise Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+Large Shield Booster II
+Ditrigonal Thermal Barrier Crystallization I
+Ballistic Deflection Field II
+Ballistic Deflection Field II
+Medium Partial E95b Power Conduit (Cargo)
+Antimatter Charge M, Qty: 2085 (Cargo)
+Mjolnir Torpedo, Qty: 66 (Cargo)
+Scourge Heavy Missile, Qty: 36 (Cargo)
+Thunderbolt Heavy Missile, Qty: 136 (Cargo)
+Paradise Cruise Missile, Qty: 180 (Cargo)
+Dragon F.O.F. Cruise Missile I, Qty: 100 (Cargo)
+Power Diagnostic System I (Cargo)
+

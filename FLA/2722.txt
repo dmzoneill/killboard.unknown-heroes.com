@@ -1,0 +1,61 @@
+2007.03.03 23:28
+
+Victim: DarkAvenger DK
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Arbitrator
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Parad iseLost
+Security: 2.7
+Alliance: None
+Corp: Chaos Reborn
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Raven03
+Security: -0.7
+Alliance: None
+Corp: Chaos Reborn
+Ship: Hurricane
+Weapon: Widowmaker Heavy Missile
+
+Name: maGz (laid the final blow)
+Security: 0.2
+Alliance: None
+Corp: Chaos Reborn
+Ship: Ishtar
+Weapon: Berserker II
+
+Name: gusta
+Security: -1.6
+Alliance: None
+Corp: Chaos Reborn
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Evil Edna
+Security: 1.3
+Alliance: The Red Skull
+Corp: Seal Cub Clubbing Club
+Ship: Dominix
+Weapon: Dominix
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Medium Nosferatu I
+Small Nosferatu I
+10MN MicroWarpdrive I
+'Langour' Drive Disruptor I
+F-392 Baker Nunn Targeting Scrambler
+Magnetic Plating II
+Energized Adaptive Nano Membrane I
+Piranha Light Missile, Qty: 2500 (Cargo)
+Warrior I (Drone Bay)
+Valkyrie I, Qty: 2 (Drone Bay)
+

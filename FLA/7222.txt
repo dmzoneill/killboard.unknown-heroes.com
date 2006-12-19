@@ -1,0 +1,19 @@
+2006.04.27 20:01
+
+Victim: Lord DarkSun
+Alliance: Sparta Alliance
+Corp: Red Monkey Faction
+Destroyed: Capsule
+System: CZDJ-1
+Security: 0.0
+
+Involved parties:
+
+Name: Minesweeper (laid the final blow)
+Security: 0.8
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Rupture
+Weapon: 650mm Artillery Cannon I
+
+

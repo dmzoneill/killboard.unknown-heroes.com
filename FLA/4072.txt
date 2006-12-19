@@ -1,0 +1,33 @@
+2007.04.13 19:42
+
+Victim: CONCORD 007
+Alliance: None
+Corp: State War Academy
+Destroyed: Gallente Shuttle
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: TasKu
+Security: 5.0
+Alliance: NxT LeveL
+Corp: Nexus Legion
+Ship: Eris
+Weapon: Eris
+
+Name: Yesh
+Security: 0.0
+Alliance: The Fifth Race
+Corp: Antares Frontier
+Ship: Malediction
+Weapon: Malediction
+
+Name: Wallyx (laid the final blow)
+Security: 4.5
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Abaddon
+Weapon: Mega Modulated Pulse Energy Beam I
+
+

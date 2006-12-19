@@ -1,0 +1,58 @@
+2006.11.18 00:16
+
+Victim: Takate
+Alliance: None
+Corp: Omega Mining Corp
+Destroyed: Condor
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Karas Rabus (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Jaguar
+Weapon: 280mm Howitzer Artillery II
+
+Name: Voyageur
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: ThomasXP
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Caracal
+Weapon: Warp Disruptor I
+
+Name: Paltar
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Thorax
+Weapon: Fleeting Warp Scrambler I
+
+Name: Kishan Tor
+Security: 1.2
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Rook
+Weapon: Heavy Missile Launcher II
+
+Name: AleXinO Gardon
+Security: 5.0
+Alliance: O X I D E
+Corp: W33D Corp.
+Ship: Caracal
+Weapon: Target Painter I
+
+
+Destroyed items:
+
+Small Standard Container (Cargo)
+

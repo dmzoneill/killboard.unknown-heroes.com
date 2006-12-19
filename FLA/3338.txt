@@ -1,0 +1,64 @@
+2007.03.23 21:50
+
+Victim: Mikal Drey
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Destroyed: Scimitar
+System: O-ZXUV
+Security: 0.0
+
+Involved parties:
+
+Name: VirkMaN
+Security: -1.1
+Alliance: Eternal Rapture
+Corp: Temptation inc.
+Ship: Absolution
+Weapon: Absolution
+
+Name: Evil Ted (laid the final blow)
+Security: -4.4
+Alliance: Eternal Rapture
+Corp: Exotic Dancers Club
+Ship: Raven
+Weapon: Hobgoblin I
+
+Name: Major Digger
+Security: 5.0
+Alliance: Eternal Rapture
+Corp: Exotic Dancers Club
+Ship: Harbinger
+Weapon: Harbinger
+
+Name: hezitationkillz
+Security: -1.4
+Alliance: Eternal Rapture
+Corp: Temptation inc.
+Ship: Retribution
+Weapon: Medium Pulse Laser II
+
+Name: Jack Archer
+Security: -1.7
+Alliance: Eternal Rapture
+Corp: Quantum Synergies
+Ship: Myrmidon
+Weapon: Myrmidon
+
+Name: C Duggan
+Security: -4.4
+Alliance: Eternal Rapture
+Corp: Exotic Dancers Club
+Ship: Lachesis
+Weapon: Kapteyn Sensor Array Inhibitor I
+
+
+Destroyed items:
+
+Large Murky Shield Screen Transmitter I
+Large S95a Partial Shield Transporter
+Prototype Cloaking Device I
+F-b10 Nominal Capacitor Regenerator
+Beta Reactor Control: Capacitor Power Relay I
+Beta Reactor Control: Capacitor Power Relay I
+Large Shield Transporter I, Qty: 5 (Cargo)
+

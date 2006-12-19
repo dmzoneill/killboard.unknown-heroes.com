@@ -1,0 +1,82 @@
+2007.04.07 20:06
+
+Victim: Imaginary Number
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Arbitrator
+System: O-CNPR
+Security: 0.0
+
+Involved parties:
+
+Name: Hsa Mahtal
+Security: -1.4
+Alliance: FATAL Alliance
+Corp: Black Reign
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Selnix (laid the final blow)
+Security: 5.0
+Alliance: Aftermath Alliance
+Corp: Master Miners
+Ship: Drake
+Weapon: Widowmaker Heavy Missile
+
+Name: DeathGrip
+Security: 3.9
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: tony1
+Security: 5.1
+Alliance: FATAL Alliance
+Corp: FATAL REVELATIONS
+Ship: Rokh
+Weapon: 425mm Compressed Coil Gun I
+
+Name: Karille
+Security: -1.6
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Taranis
+Weapon: Taranis
+
+Name: Zheraf
+Security: 5.0
+Alliance: Axiom Empire
+Corp: Fenix Reloaded
+Ship: Drake
+Weapon: Advanced 'Limos' Heavy Missile Bay I
+
+Name: PirateShampoo
+Security: 3.9
+Alliance: FATAL Alliance
+Corp: UK Corp
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Duncan Hines
+Security: 5.0
+Alliance: Xelas Alliance
+Corp: Bombshell Cartel
+Ship: Ferox
+Weapon: Heavy Assault Missile Launcher I
+
+Name: CiRFiS
+Security: 3.1
+Alliance: FATAL Alliance
+Corp: FATAL REVELATIONS
+Ship: Tempest
+Weapon: 1400mm Gallium I Cannon
+
+
+Destroyed items:
+
+Faint Warp Prohibitor I
+'Langour' Drive Disruptor I
+Medium Inefficient Armor Repair Unit
+Energized Adaptive Nano Membrane I
+

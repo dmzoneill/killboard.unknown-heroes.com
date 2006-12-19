@@ -1,0 +1,47 @@
+2007.05.25 18:39
+
+Victim: aUTOKILL
+Alliance: Exuro Mortis
+Corp: Slacker Industries
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Chuck Dawg (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Crow
+Weapon: Bloodclaw Fury Light Missile
+
+Name: Yesh
+Security: 2.7
+Alliance: The Fifth Race
+Corp: Antares Frontier
+Ship: Malediction
+Weapon: Malediction
+
+Name: Steven FSB
+Security: 3.5
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Harpy
+Weapon: Harpy
+
+Name: wollykins2
+Security: 1.8
+Alliance: 3asy Company
+Corp: Welsh Commanders
+Ship: Hurricane
+Weapon: Dual 180mm Gallium I Machine Gun
+
+Name: alon blackhelm
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Myrmidon
+Weapon: Warp Disruptor II
+
+

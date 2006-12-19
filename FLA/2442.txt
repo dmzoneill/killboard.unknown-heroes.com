@@ -1,0 +1,50 @@
+2007.02.10 23:26
+
+Victim: mr passie
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Destroyed: Jaguar
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Ben Hump
+Security: -6.5
+Alliance: None
+Corp: The Kru
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Verizana (laid the final blow)
+Security: -3.0
+Alliance: None
+Corp: The Kru
+Ship: Dominix
+Weapon: Ogre II
+
+Name: xtreamer
+Security: -6.1
+Alliance: None
+Corp: The Kru
+Ship: Dominix
+Weapon: Hammerhead II
+
+Name: White 0rchid
+Security: 0.0
+Alliance: None
+Corp: The Kru
+Ship: Falcon
+Weapon: ECM - White Noise Generator II
+
+
+Destroyed items:
+
+150mm Light AutoCannon II
+150mm Light AutoCannon II
+Barrage S, Qty: 102
+Medium Shield Extender II
+Kinetic Deflection Amplifier II
+Local Hull Conversion Inertial Stabilizers I
+Barrage S, Qty: 5793 (Cargo)
+

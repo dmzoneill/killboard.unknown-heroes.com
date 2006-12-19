@@ -1,0 +1,48 @@
+2006.11.16 22:48
+
+Victim: kone on
+Alliance: Freelancer Alliance
+Corp: BGG
+Destroyed: Sabre
+System: O-CNPR
+Security: 0.0
+
+Involved parties:
+
+Name: Elgan
+Security: -0.8
+Alliance: The Sani Sabik
+Corp: Omniscient Order
+Ship: Zealot
+Weapon: Zealot
+
+Name: Noobjuice (laid the final blow)
+Security: -1.8
+Alliance: The Sani Sabik
+Corp: Omniscient Order
+Ship: Typhoon
+Weapon: Cataclysm Cruise Missile
+
+Name: Elric TheWhite
+Security: -0.1
+Alliance: The Sani Sabik
+Corp: Omniscient Order
+Ship: Typhoon
+Weapon: XT-9000 Cruise Launcher
+
+
+Destroyed items:
+
+150mm Light AutoCannon II
+150mm Light AutoCannon II
+150mm Light AutoCannon II
+150mm Light AutoCannon II
+Barrage S, Qty: 160
+Hail S, Qty: 140
+Warp Disrupt Probe
+Warp Disrupt Probe
+Warp Disrupt Probe
+1MN MicroWarpdrive I
+Prototype I Sensor Booster
+Warp Disrupt Probe, Qty: 7 (Cargo)
+

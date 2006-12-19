@@ -1,0 +1,54 @@
+2006.11.16 09:06
+
+Victim: Haruka Inoh
+Alliance: None
+Corp: Federal Navy Academy
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Formosus Funus (laid the final blow)
+Security: 3.8
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Wolf
+Weapon: 150mm Light AutoCannon II
+
+Name: Micheal Ross
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Flycatcher
+Weapon: Standard Missile Launcher II
+
+Name: Kroux
+Security: 1.1
+Alliance: O X I D E
+Corp: V-COM SyNdicate
+Ship: Ferox
+Weapon: 150mm Railgun I
+
+Name: hejjbazeg
+Security: 2.7
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Jaguar
+Weapon: 200mm AutoCannon II
+
+Name: Travisspeedee
+Security: 0.2
+Alliance: O X I D E
+Corp: V-COM SyNdicate
+Ship: Caracal
+Weapon: Heavy Missile Launcher II
+
+Name: SleepyOSU
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: Sin-X Inc.
+Ship: Ishkur
+Weapon: J5 Prototype Warp Inhibitor I
+
+

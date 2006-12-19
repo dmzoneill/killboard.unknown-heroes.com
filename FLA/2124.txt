@@ -1,0 +1,58 @@
+2007.01.23 13:47
+
+Victim: Praetorian Mardou
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Destroyed: Buzzard
+System: 3QE-9Q
+Security: 0.0
+
+Involved parties:
+
+Name: Milo Deadstar
+Security: -1.4
+Alliance: Veto Corp
+Corp: Veto.
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: zero2espect
+Security: 2.9
+Alliance: Veto Corp
+Corp: Veto.
+Ship: Heretic
+Weapon: Heretic
+
+Name: sMoKe AU (laid the final blow)
+Security: 4.3
+Alliance: Veto Corp
+Corp: Veto.
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Hans Blix
+Security: -1.4
+Alliance: Veto Corp
+Corp: Veto.
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: Saran Tal
+Security: 2.2
+Alliance: Veto Corp
+Corp: Veto. Academy
+Ship: Stabber
+Weapon: 220mm Vulcan AutoCannon I
+
+
+Destroyed items:
+
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Local Hull Conversion Inertial Stabilizers I
+Discovery Survey Probe I, Qty: 6 (Cargo)
+

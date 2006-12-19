@@ -1,0 +1,36 @@
+2007.05.10 04:11
+
+Victim: Ilan Barak
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Destroyed: Badger Mark II
+System: O-N8XZ
+Security: 0.0
+
+Involved parties:
+
+Name: Pokerizer (laid the final blow)
+Security: 1.7
+Alliance: None
+Corp: BURN EDEN
+Ship: Rapier
+Weapon: 650mm Artillery Cannon II
+
+
+Destroyed items:
+
+Warp Scrambler I, Qty: 6 (Cargo)
+Depleted Uranium M, Qty: 8719 (Cargo)
+Depleted Uranium S, Qty: 11000 (Cargo)
+Phased Plasma M, Qty: 10000 (Cargo)
+Iridium Charge L, Qty: 7000 (Cargo)
+Iridium Charge M, Qty: 6369 (Cargo)
+Antimatter Charge L, Qty: 5080 (Cargo)
+Antimatter Charge M, Qty: 8000 (Cargo)
+Warp Core Stabilizer I, Qty: 3 (Cargo)
+Giant Secure Container (Cargo)
+Null S, Qty: 11520 (Cargo)
+Scourge Heavy Missile, Qty: 10000 (Cargo)
+Foxfire Javelin Rocket, Qty: 10000 (Cargo)
+Thorn Javelin Rocket, Qty: 9856 (Cargo)
+

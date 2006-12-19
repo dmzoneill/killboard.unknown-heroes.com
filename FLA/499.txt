@@ -1,0 +1,116 @@
+2007.02.06 23:44
+
+Victim: papaPadla
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Destroyed: Stiletto
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Xantheris
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Harpy
+Weapon: Harpy
+
+Name: Kee Ris
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Sacrilege
+Weapon: Sacrilege
+
+Name: Mokh'Tar (laid the final blow)
+Security: 3.7
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Cormorant
+Weapon: 150mm Carbide Railgun I
+
+Name: ISliverI
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Megathron
+Weapon: 425mm Compressed Coil Gun I
+
+Name: Lux0r
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Hawk
+Weapon: Bloodclaw Precision Light Missile
+
+Name: Night Seeker
+Security: 0.2
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Hound
+Weapon: XT-9000 Cruise Launcher
+
+Name: Solarienne
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Manticore
+Weapon: 'Arbalest' Cruise Launcher I
+
+Name: Slinktress
+Security: 2.6
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Dominix
+Weapon: Tachyon Beam Laser I
+
+Name: Kasahara
+Security: -0.2
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery I
+
+Name: EvilBadger
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Hawk
+Weapon: 'Arbalest' Rocket Launcher I
+
+Name: Drako Invictus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Drake
+Weapon: Parallel Weapon Navigation Transmitter
+
+Name: Dark Carnage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Blackbird
+Weapon: Initiated Multispectral ECM I
+
+Name: Cockroach
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Purifier
+Weapon: Purifier
+
+
+Destroyed items:
+
+200mm AutoCannon II
+Fusion S, Qty: 77
+'Limos' Rocket Launcher I
+1MN MicroWarpdrive I
+Damage Control I
+Overdrive Injector System I
+Overdrive Injector System I
+Medium Proton Smartbomb I (Cargo)
+Induced Multispectral ECM I, Qty: 2 (Cargo)
+Gremlin Rocket, Qty: 197 (Cargo)
+

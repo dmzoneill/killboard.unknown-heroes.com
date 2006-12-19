@@ -1,0 +1,51 @@
+2006.09.05 16:38
+
+Victim: SpokyMiner
+Alliance: None
+Corp: School of Applied Knowledge
+Destroyed: Ibis
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Verild (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Hawk
+Weapon: Sabretooth Light Missile
+
+Name: XxAngelxX
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Malediction
+Weapon: Dual Light Pulse Laser II
+
+Name: keilapuukko
+Security: 1.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Eagle
+Weapon: SV-2000 Assault Missile Bay
+
+Name: Ne0 MaTrIx
+Security: 2.4
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Taranis
+Weapon: 75mm Gatling Rail II
+
+Name: Ghu'ru Talozan
+Security: 4.4
+Alliance: None
+Corp: Quasar Industries
+Ship: Deimos
+Weapon: Fleeting Warp Scrambler I
+
+
+Destroyed items:
+
+Civilian Gatling Railgun
+

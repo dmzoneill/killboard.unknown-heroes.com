@@ -1,0 +1,56 @@
+2007.05.21 23:03
+
+Victim: dastommy79
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Destroyed: Thorax
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Troubadour
+Security: -1.6
+Alliance: Exuro Mortis
+Corp: Slacker Industries
+Ship: Arazu
+Weapon: Valkyrie II
+
+Name: Gavin Darklighter
+Security: 1.3
+Alliance: Exuro Mortis
+Corp: The Burning Orphans
+Ship: Hurricane
+Weapon: 720mm Howitzer Artillery II
+
+Name: jujub33 (laid the final blow)
+Security: -1.8
+Alliance: Exuro Mortis
+Corp: The Burning Orphans
+Ship: Raven
+Weapon: Wrath Fury Cruise Missile
+
+Name: Nathan Grey
+Security: 2.7
+Alliance: Exuro Mortis
+Corp: Slacker Industries
+Ship: Celestis
+Weapon: Valkyrie I
+
+Name: aUTOKILL
+Security: -1.6
+Alliance: Exuro Mortis
+Corp: Slacker Industries
+Ship: Thorax
+Weapon: Valkyrie I
+
+
+Destroyed items:
+
+Heavy Ion Blaster I
+Heavy Ion Blaster I
+Antimatter Charge M, Qty: 105
+Reactor Control Unit I
+Reactor Control Unit I
+Antimatter Charge M, Qty: 2400 (Cargo)
+

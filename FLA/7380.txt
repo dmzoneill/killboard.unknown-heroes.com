@@ -1,0 +1,64 @@
+2006.08.27 21:44
+
+Victim: Drilla
+Alliance: Lotka Volterra
+Corp: Shinra
+Destroyed: Sleipnir
+System: WUZ-WM
+Security: 0.0
+
+Involved parties:
+
+Name: jacass66
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Thanatos
+Weapon: Dragonfly
+
+Name: Narny (laid the final blow)
+Security: 4.2
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Raven
+Weapon: Mjolnir Torpedo
+
+Name: Noitaakka
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Raven
+Weapon: Cataclysm Cruise Missile
+
+Name: Kiztent
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Capsule
+Weapon: Vespa II
+
+
+Destroyed items:
+
+425mm AutoCannon II
+425mm AutoCannon II
+425mm AutoCannon II
+Improved Cloaking Device II
+Barrage M, Qty: 100
+Large Shield Extender II
+Domination Large Shield Booster
+Invulnerability Field II
+Gyrostabilizer II
+Gyrostabilizer II
+Gyrostabilizer II
+Warp Core Stabilizer I
+F-b10 Nominal Capacitor Regenerator (Cargo)
+Medium Electrochemical Capacitor Booster I (Cargo)
+Magnetic Field Stabilizer II (Cargo)
+Armor Explosive Hardener II (Cargo)
+Armor Kinetic Hardener II (Cargo)
+'Arbalest' Siege Missile Launcher (Cargo)
+Compact 'Limos' Assault Missile Bay I (Cargo)
+Warrior II, Qty: 3 (Drone Bay)
+Light Armor Maintenance Bot I, Qty: 2 (Drone Bay)
+

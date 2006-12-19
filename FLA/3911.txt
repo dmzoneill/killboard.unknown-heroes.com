@@ -1,0 +1,74 @@
+2007.04.05 22:29
+
+Victim: Pollo Loco
+Alliance: None
+Corp: Red Dawn Empire
+Destroyed: Caracal
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Jacqueline Skouris
+Security: -1.6
+Alliance: 3asy Company
+Corp: Eth3real
+Ship: Rokh
+Weapon: 425mm Prototype I Gauss Gun
+
+Name: SpikehBoy
+Security: 0.4
+Alliance: Forces of Freedom
+Corp: Band of the Red Hand
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Penal Serge
+Security: 5.0
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Drake
+Weapon: Warrior II
+
+Name: Porky (laid the final blow)
+Security: 1.8
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Scorpion
+Weapon: Paradise Cruise Missile
+
+Name: Steven FSB
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Unknown
+Weapon: 150mm Railgun II
+
+Name: Harkley
+Security: 2.3
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Armageddon
+Weapon: Mega Modulated Pulse Energy Beam I
+
+Name: OrbiteronAir
+Security: 5.0
+Alliance: SECUWAY.
+Corp: SecuWay Industrial inc.
+Ship: Manticore
+Weapon: 'Arbalest' Cruise Launcher I
+
+
+Destroyed items:
+
+125mm Railgun I
+Tungsten Charge S, Qty: 160
+Bloodclaw Light Missile, Qty: 63
+Piranha Light Missile, Qty: 105
+Civilian Shield Booster I
+Warp Core Stabilizer I
+150mm Railgun I, Qty: 2 (Cargo)
+Tungsten Charge S, Qty: 12996 (Cargo)
+Piranha Light Missile, Qty: 1599 (Cargo)
+Assault Missile Launcher I, Qty: 3 (Cargo)
+

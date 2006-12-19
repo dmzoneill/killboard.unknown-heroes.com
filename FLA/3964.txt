@@ -1,0 +1,26 @@
+2007.04.08 00:28
+
+Victim: Vitelius
+Alliance: Agony Empire
+Corp: Agony Unleashed
+Destroyed: Capsule
+System: EWOK-K
+Security: 0.0
+
+Involved parties:
+
+Name: StrikerOneSevern (laid the final blow)
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Rupture
+Weapon: 720mm Carbine Howitzer I
+
+Name: Slim Jim
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Claw
+Weapon: Claw
+
+

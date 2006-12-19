@@ -1,0 +1,33 @@
+2007.03.02 15:13
+
+Victim: Snake7474
+Alliance: Xelas Alliance
+Corp: Catalyst Reaction
+Destroyed: Capsule
+System: KVN-36
+Security: 0.0
+
+Involved parties:
+
+Name: Dana Foxworth (laid the final blow)
+Security: 3.1
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Wolf
+Weapon: 200mm AutoCannon II
+
+Name: sowo
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Drake
+Weapon: Thunderbolt Heavy Missile
+
+Name: sakana
+Security: -0.9
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Eris
+Weapon: Eris
+
+

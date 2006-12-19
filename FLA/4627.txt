@@ -1,0 +1,26 @@
+2007.04.16 00:39
+
+Victim: nyricia
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Capsule
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Magic Mazuma (laid the final blow)
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Rifter
+Weapon: 150mm Light Gallium I Machine Gun
+
+Name: alon blackhelm
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Ferox
+Weapon: Thunderbolt Heavy Missile
+
+

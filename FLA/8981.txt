@@ -1,0 +1,29 @@
+2006.12.25 21:18
+
+Victim: Admiral Hunter
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Ares
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Quarantine (laid the final blow)
+Security: 4.4
+Alliance: None
+Corp: 0utbreak
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+
+Destroyed items:
+
+Gremlin Rocket, Qty: 27
+'Malkuth' Rocket Launcher I
+1MN MicroWarpdrive I
+Small Armor Repairer II
+Energized Reactive Membrane I
+Energized Thermic Membrane I
+Phalanx Rocket, Qty: 3000 (Cargo)
+

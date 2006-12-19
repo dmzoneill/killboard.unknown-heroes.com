@@ -1,0 +1,26 @@
+2006.12.16 00:28
+
+Victim: David Hope101
+Alliance: None
+Corp: Republic Military School
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: coldkill (laid the final blow)
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Taranis
+Weapon: 75mm Gatling Rail II
+
+Name: Xenofur
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Vigil
+Weapon: Vigil
+
+

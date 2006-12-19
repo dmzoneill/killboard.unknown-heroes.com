@@ -1,0 +1,26 @@
+2007.02.07 01:26
+
+Victim: KingRizen
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Destroyed: Reaper
+System: Y9G-KS
+Security: 0.0
+
+Involved parties:
+
+Name: Badoober (laid the final blow)
+Security: -8.4
+Alliance: Anarchy Empire
+Corp: Team Americas
+Ship: Nighthawk
+Weapon: Scourge Heavy Missile
+
+Name: Savaage
+Security: 0.0
+Alliance: Anarchy Empire
+Corp: Team Americas
+Ship: Myrmidon
+Weapon: Medium Diminishing Power System Drain I
+
+

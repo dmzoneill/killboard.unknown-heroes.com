@@ -1,0 +1,33 @@
+2006.11.19 14:45
+
+Victim: SleepyJack
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Caracal
+System: Nonni
+Security: 0.5
+
+Involved parties:
+
+Name: xEntriq (laid the final blow)
+Security: -1.6
+Alliance: None
+Corp: omen.
+Ship: Taranis
+Weapon: Light Neutron Blaster II
+
+
+Destroyed items:
+
+Flameburst Light Missile, Qty: 62
+Havoc Heavy Missile, Qty: 58
+Compact 'Limos' Assault Missile Bay I
+Omni Positional ECCM Sensor System I
+Warp Core Stabilizer I
+Small Nosferatu I (Cargo)
+Cap Booster 25, Qty: 10 (Cargo)
+Sansha Ship Log 136423760 (Cargo)
+Hydra F.O.F. Heavy Missile I, Qty: 100 (Cargo)
+'Malkuth' Heavy Missile Launcher I (Cargo)
+Acolyte I (Drone Bay)
+

@@ -1,0 +1,26 @@
+2007.01.28 19:00
+
+Victim: DrElJefeMD
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Destroyed: Capsule
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Torok Nakaht (laid the final blow)
+Security: 1.2
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Martin Mckenna
+Security: 2.1
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Malediction
+Weapon: Malediction
+
+

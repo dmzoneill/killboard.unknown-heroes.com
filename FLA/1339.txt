@@ -1,0 +1,40 @@
+2007.03.11 09:15
+
+Victim: Galaxor
+Alliance: YouWhat
+Corp: Beasts of Burden
+Destroyed: Gallente Shuttle
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Sils wife (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Osyc
+Security: 2.6
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Wolf
+Weapon: Wolf
+
+Name: Cyrila Wolf
+Security: -2.2
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: Mystical Angel
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Drake
+Weapon: Advanced 'Limos' Heavy Missile Bay I
+
+

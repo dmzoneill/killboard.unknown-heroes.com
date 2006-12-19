@@ -1,0 +1,36 @@
+2006.10.06 03:00
+
+Victim: Morfane
+Alliance: None
+Corp: Privateers
+Destroyed: Taranis
+System: Elonaya
+Security: 0.7
+
+Involved parties:
+
+Name: alon blackhelm
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Eagle
+Weapon: Eagle
+
+Name: dastommy79 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Ferox
+Weapon: Havoc Heavy Missile
+
+
+Destroyed items:
+
+Light Neutron Blaster II
+Light Neutron Blaster II
+Void S, Qty: 226
+1MN MicroWarpdrive I
+Micro Auxiliary Power Core I
+Strip Miner I (Cargo)
+Mark I Modified SS Expanded Cargo (Cargo)
+

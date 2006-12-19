@@ -1,0 +1,140 @@
+2007.02.04 18:56
+
+Victim: Smith
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Destroyed: Eos
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: alon blackhelm (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Raven
+Weapon: Devastator Precision Cruise Missile
+
+Name: MrMunro
+Security: 5.1
+Alliance: Insane Asylum
+Corp: PILGRIMS
+Ship: Rokh
+Weapon: Rokh
+
+Name: Mirandian
+Security: 5.0
+Alliance: Guardian Federation
+Corp: The Guardian Agency
+Ship: Ferox
+Weapon: Advanced 'Limos' Heavy Missile Bay I
+
+Name: mr passie
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Jaguar
+Weapon: 150mm Light AutoCannon II
+
+Name: Cockroach
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Purifier
+Weapon: Paradise Cruise Missile
+
+Name: Night Seeker
+Security: 0.2
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Hound
+Weapon: Devastator Cruise Missile
+
+Name: Elgcaress
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Celestis
+Weapon: Warrior I
+
+Name: Teck7
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ishtar
+Weapon: 150mm Railgun II
+
+Name: Lux0r
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Hawk
+Weapon: Bloodclaw Precision Light Missile
+
+Name: Maximo Brutalis
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Ferox
+Weapon: Bloodclaw Precision Light Missile
+
+Name: truefranco
+Security: 0.3
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Astoria Tanril
+Security: 0.6
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Crucifier
+Weapon: Warrior I
+
+Name: La 'Kra
+Security: 2.9
+Alliance: Guardian Federation
+Corp: KULT Production
+Ship: Typhoon
+Weapon: Target Painter I
+
+Name: Hojo Norem
+Security: 3.2
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Cormorant
+Weapon: 'Malkuth' Rocket Launcher I
+
+Name: Dr Andy
+Security: 4.7
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Celestis
+Weapon: Hobgoblin SD-300
+
+Name: Alski
+Security: 2.7
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Celestis
+Weapon: Remote Sensor Dampener I
+
+
+Destroyed items:
+
+250mm Railgun II
+250mm Railgun II
+250mm Railgun II
+250mm Railgun II
+Antimatter Charge M, Qty: 120
+10MN MicroWarpdrive II
+Sensor Booster II
+Tracking Computer II
+Pseudoelectron Containment Field I
+Medium Armor Repairer II
+Antimatter Charge M, Qty: 1081 (Cargo)
+Spike M, Qty: 1162 (Cargo)
+Berserker I, Qty: 2 (Drone Bay)
+

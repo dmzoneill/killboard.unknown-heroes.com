@@ -1,0 +1,156 @@
+2007.01.26 22:40
+
+Victim: jakara kai
+Alliance: Band of Brothers
+Corp: Reikoku
+Destroyed: Crusader
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Ramb3z (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery I
+
+Name: Praetorian Mardou
+Security: 4.5
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Hawk
+Weapon: Bloodclaw Light Missile
+
+Name: Illesa
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Wolf
+Weapon: 200mm AutoCannon II
+
+Name: Thafesko
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Cormorant
+Weapon: 125mm Carbide Railgun I
+
+Name: Prodigal IV
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Ship: Incursus
+Weapon: Incursus
+
+Name: Specalistin
+Security: -1.1
+Alliance: Guardian Federation
+Corp: KULT Production
+Ship: Moa
+Weapon: 250mm 'Scout' I Accelerator Cannon
+
+Name: Tiberius Drake
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Thorax
+Weapon: Dual 150mm Railgun I
+
+Name: Thiet
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Kestrel
+Weapon: Gremlin Rocket
+
+Name: Minisoza
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Enyo
+Weapon: 125mm Railgun II
+
+Name: ventura5
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Drake
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+Name: reched
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Rifter
+Weapon: Warp Disruptor I
+
+Name: Zax Drien
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Rapier
+Weapon: X5 Prototype I Engine Enervator
+
+Name: TroNaaR
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Celestis
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+Name: Tnam
+Security: 0.8
+Alliance: None
+Corp: BGG
+Ship: Wolf
+Weapon: Wolf
+
+Name: Solarienne
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Manticore
+Weapon: 'Arbalest' Cruise Launcher I
+
+Name: SniperMcBob
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Blackbird
+Weapon: Initiated Multispectral ECM I
+
+Name: Rick A
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Blackbird
+Weapon: ECM - Multispectral Jammer I
+
+Name: Nukuquqa Hestase
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Caracal
+Weapon: Heavy Missile Launcher I
+
+Name: Night Seeker
+Security: 0.2
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Hound
+Weapon: XT-9000 Cruise Launcher
+
+
+Destroyed items:
+
+Dual Light Beam Laser II, Qty: 2
+Microwave S, Qty: 3
+Fleeting Warp Scrambler I
+Mark I Modified SS Nanofiber Structure
+Capacitor Power Relay I
+Multifrequency S, Qty: 2 (Cargo)
+Berserker II (Cargo)
+Hornet II (Cargo)
+Warrior II (Cargo)

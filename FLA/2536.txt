@@ -1,0 +1,73 @@
+2007.02.19 04:23
+
+Victim: Weeble Wooble
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Destroyed: Deimos
+System: YZ-LQL
+Security: 0.0
+
+Involved parties:
+
+Name: Tarhess
+Security: -4.1
+Alliance: Aftermath Alliance
+Corp: Master Miners
+Ship: Enyo
+Weapon: Enyo
+
+Name: Balltazore Anubis (laid the final blow)
+Security: 5.0
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Maelstrom
+Weapon: Cataclysm Cruise Missile
+
+Name: Grommus Dolche
+Security: 5.0
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Megathron
+Weapon: Paradise Cruise Missile
+
+Name: Ditchdoctor
+Security: 5.0
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Chimera
+Weapon: Vespa II
+
+Name: Hunter Vonnegut
+Security: 4.5
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Myrmidon
+Weapon: Ogre I
+
+Name: Perfidious Ichabod
+Security: 5.1
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Scorpion
+Weapon: Scorpion
+
+Name: NFrann
+Security: 5.0
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Dominix
+Weapon: Dominix
+
+
+Destroyed items:
+
+Heavy Ion Blaster II
+Prototype Cloaking Device I
+Null M, Qty: 194
+Local Hull Conversion Inertial Stabilizers I
+Local Hull Conversion Inertial Stabilizers I
+Void M, Qty: 2361 (Cargo)
+Null M, Qty: 105 (Cargo)
+Hammerhead II, Qty: 2 (Drone Bay)
+Valkyrie II, Qty: 2 (Drone Bay)
+

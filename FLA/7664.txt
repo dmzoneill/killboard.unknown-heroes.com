@@ -1,0 +1,82 @@
+2006.09.29 23:46
+
+Victim: Elum 6
+Alliance: None
+Corp: Agony Unleashed
+Destroyed: Minmatar Shuttle
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Tri Ounou (laid the final blow)
+Security: 4.2
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Stabber
+Weapon: Piranha Light Missile
+
+Name: Karas Rabus
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Stiletto
+Weapon: Gremlin Rocket
+
+Name: Drakin Korin
+Security: 2.1
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Deimos
+Weapon: Heavy Ion Blaster II
+
+Name: Cockroach
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Vengeance
+Weapon: Sabretooth Light Missile
+
+Name: Caja Wrython
+Security: 2.0
+Alliance: Freelancer Alliance
+Corp: Abandoned Resolve Corporation
+Ship: Caracal
+Weapon: Thunderbolt Heavy Missile
+
+Name: other mickey
+Security: 0.8
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Tristan
+Weapon: Light Electron Blaster I
+
+Name: bidman
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Raven
+Weapon: 'Arbalest' Siege Missile Launcher
+
+Name: Swanny231
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Raven
+Weapon: Siege Missile Launcher II
+
+Name: Kismeteer
+Security: 3.3
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Incursus
+Weapon: Warp Scrambler I
+
+Name: DarkJester
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Tempest
+Weapon: Heavy Missile Launcher I
+
+

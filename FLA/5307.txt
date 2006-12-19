@@ -1,0 +1,24 @@
+2007.04.24 01:25
+
+Victim: alpha lead
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Blackbird
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Minmatar Control Tower / Elite Storm Enterprises (laid the final blow)
+
+
+Destroyed items:
+
+250mm 'Scout' I Accelerator Cannon
+Scourge Heavy Missile, Qty: 19
+Heavy Missile Launcher I
+Medium Shield Booster II
+Ballistic Deflection Field I
+Type-D Power Core Modification: Diagnostic System
+Type-D Power Core Modification: Reaction Control
+

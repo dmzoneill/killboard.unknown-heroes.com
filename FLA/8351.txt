@@ -1,0 +1,55 @@
+2006.11.10 20:01
+
+Victim: Rede
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Destroyed: Lachesis
+System: F7C-H0
+Security: 0.0
+
+Involved parties:
+
+Name: Lichtschnitzer
+Security: 2.7
+Alliance: None
+Corp: Fenris-Woelfe
+Ship: Huginn
+Weapon: Huginn
+
+Name: Lutrik (laid the final blow)
+Security: 5.0
+Alliance: S H I F T
+Corp: Dark Knights
+Ship: Caracal
+Weapon: Havoc Heavy Missile
+
+Name: Remps
+Security: 1.3
+Alliance: S H I F T
+Corp: Dark Knights
+Ship: Kestrel
+Weapon: Bloodclaw Light Missile
+
+Name: Rutilus Mico
+Security: 3.4
+Alliance: YouWhat
+Corp: The Silent Rage
+Ship: Omen
+Weapon: Omen
+
+
+Destroyed items:
+
+250mm Railgun II
+Piranha Light Missile, Qty: 160
+Assault Missile Launcher II
+Assault Missile Launcher II
+10MN Afterburner II
+Fleeting Progressive Warp Scrambler I
+Fleeting Progressive Warp Scrambler I
+Remote Sensor Dampener II
+Remote Sensor Dampener II
+Medium Armor Repairer II
+Piranha Light Missile, Qty: 760 (Cargo)
+Hobgoblin II, Qty: 2 (Drone Bay)
+

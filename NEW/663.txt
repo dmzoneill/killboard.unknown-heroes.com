@@ -1,0 +1,35 @@
+2007.05.04 07:33
+
+Victim: Sir Dodger
+Alliance: Mercenary Coalition
+Corp: Seraphin Technologies
+Destroyed: Jaguar
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Nukuquqa Hestase (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+Name: Corovus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Arazu
+Weapon: 200mm Compressed Coil Gun I
+
+
+Destroyed items:
+
+280mm Howitzer Artillery II
+Titanium Sabot S, Qty: 6
+Sensor Booster II
+Micro Auxiliary Power Core I, Qty: 2
+Mark I Modified SS Inertial Stabilizers
+Titanium Sabot S, Qty: 1086 (Cargo)
+Quake S, Qty: 500 (Cargo)

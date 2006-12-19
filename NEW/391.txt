@@ -1,0 +1,32 @@
+2007.03.19 05:27
+
+Victim: Ahramaine
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Taranis
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Balcura (laid the final blow)
+Security: 5.0
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Vasili Z
+Security: 0.4
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Huginn
+Weapon: Widowmaker Heavy Missile
+
+
+Destroyed items:
+
+Small 'Knave' I Energy Drain
+Light Ion Blaster II
+Stasis Webifier I
+Small Armor Repairer I

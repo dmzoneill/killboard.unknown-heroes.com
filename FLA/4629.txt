@@ -1,0 +1,82 @@
+2007.04.16 01:25
+
+Victim: Dinosaurs Attack
+Alliance: None
+Corp: Anal Encirclement
+Destroyed: Caldari Shuttle
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Frau Formaggio
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: Kayron Brennan
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Caracal
+Weapon: Thunderbolt Heavy Missile
+
+Name: Skull Fire
+Security: 0.8
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Caracal
+Weapon: Widowmaker Heavy Missile
+
+Name: Christopher Cook (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Terminal Velocity Inc.
+Ship: Rifter
+Weapon: 280mm Howitzer Artillery I
+
+Name: Kvarium Ki
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Ship: Arbitrator
+Weapon: Piranha Light Missile
+
+Name: demotar
+Security: 4.1
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Muninn
+Weapon: Muninn
+
+Name: dastommy79
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Thorax
+Weapon: Warp Disruptor I
+
+Name: Teck7
+Security: 1.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Thorax
+Weapon: Thorax
+
+Name: Magic Mazuma
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Rifter
+Weapon: Rifter
+
+Name: Kaand
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Taranis
+Weapon: Fleeting Progressive Warp Scrambler I
+
+

@@ -1,0 +1,54 @@
+2007.01.01 21:19
+
+Victim: Chycha Hlam
+Alliance: None
+Corp: Science and Trade Institute
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Almagar Phog
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Enyo
+Weapon: Limited Light Neutron Blaster I
+
+Name: avelution
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Ishkur
+Weapon: Light Ion Blaster II
+
+Name: TiMeZeRo225 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: J.I.T. Enterprises
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Soldroz
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Crow
+Weapon: Initiated Warp Jammer I
+
+Name: Maefly
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Ishkur
+Weapon: Warp Disruptor I
+
+Name: Lux0r
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Hawk
+Weapon: Standard Missile Launcher II
+
+

@@ -1,0 +1,157 @@
+2007.05.06 15:58
+
+Victim: KtB
+Alliance: Vigilance Infinitas
+Corp: The Phoenix Rising
+Destroyed: Brutix
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Alise Hkarr
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: Lynx Frontier Inc.
+Ship: Thorax
+Weapon: Thorax
+
+Name: Confessor
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: Lynx Frontier Inc.
+Ship: Harbinger
+Weapon: Harbinger
+
+Name: SignalNine
+Security: 0.9
+Alliance: Sparta Alliance
+Corp: Lynx Frontier Inc.
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Jandeera
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: Lynx Frontier Inc.
+Ship: Eris
+Weapon: Hornet II
+
+Name: DarkEvil Lord
+Security: -7.4
+Alliance: Sparta Alliance
+Corp: Insane Decision
+Ship: Drake
+Weapon: Heavy Missile Launcher I
+
+Name: GBSabre (laid the final blow)
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: Antipodean inc.
+Ship: Blackbird
+Weapon: Scourge Heavy Missile
+
+Name: Skittish
+Security: 0.8
+Alliance: Sparta Alliance
+Corp: Synergy Evolved
+Ship: Cormorant
+Weapon: Cormorant
+
+Name: Varalonia
+Security: 3.0
+Alliance: Darklite Alliance
+Corp: Darklite inc
+Ship: Stabber
+Weapon: Stabber
+
+Name: Skytex
+Security: 2.6
+Alliance: Sparta Alliance
+Corp: Synergy Evolved
+Ship: Harpy
+Weapon: Harpy
+
+Name: SmokeyUK
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: Neogen Industries
+Ship: Prophecy
+Weapon: Prophecy
+
+Name: Asran Zara
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: United Space Republic
+Ship: Stabber
+Weapon: Bloodclaw Light Missile
+
+Name: AnarchistUK
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: United Space Republic
+Ship: Hawk
+Weapon: Bloodclaw Light Missile
+
+Name: Jessica Jones
+Security: 4.3
+Alliance: Sparta Alliance
+Corp: Lynx Frontier Inc.
+Ship: Cormorant
+Weapon: Cormorant
+
+Name: Kayron Brennan
+Security: 0.7
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Merlin
+Weapon: Sabretooth Light Missile
+
+Name: Braineater
+Security: 3.8
+Alliance: Freelancer Coalition
+Corp: BINFORD
+Ship: Thorax
+Weapon: Heavy Ion Blaster I
+
+Name: JanSVK
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: GREY COUNCIL
+Ship: Raptor
+Weapon: Raptor
+
+Name: Zorger
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: Black Knight Buccaneers
+Ship: Merlin
+Weapon: Sabretooth Light Missile
+
+
+Destroyed items:
+
+Heavy Electron Blaster I
+Heavy Electron Blaster I
+Heavy Electron Blaster I
+Antimatter Charge M, Qty: 400
+10MN MicroWarpdrive I
+Warp Disruptor I
+Warp Core Stabilizer I
+Warp Core Stabilizer I
+Warp Core Stabilizer I
+Warp Core Stabilizer I
+1MN MicroWarpdrive I (Cargo)
+Small Armor Repairer II (Cargo)
+Medium Nosferatu I (Cargo)
+Heavy Ion Blaster I, Qty: 7 (Cargo)
+Heavy Electron Blaster I, Qty: 2 (Cargo)
+Heat Dissipation Field I (Cargo)
+Cap Booster 800, Qty: 2 (Cargo)
+Hammerhead I (Cargo)
+Warp Core Stabilizer I (Cargo)
+Armor Kinetic Hardener I (Cargo)
+Armor Explosive Hardener I, Qty: 2 (Cargo)
+Armor Thermic Hardener I (Cargo)
+Hammerhead I, Qty: 3 (Drone Bay)
+

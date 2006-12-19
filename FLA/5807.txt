@@ -1,0 +1,40 @@
+2006.10.21 23:20
+
+Victim: Belshamarothx
+Alliance: None
+Corp: Call Of The Wild
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Maoam Druban
+Security: 0.9
+Alliance: Chorus of Dawn
+Corp: Independent Frontiers
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+Name: Paltar (laid the final blow)
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: RabbidFerret
+Security: 4.9
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Rupture
+Weapon: 650mm Artillery Cannon II
+
+Name: Needa3
+Security: 4.8
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Jaguar
+Weapon: 280mm Howitzer Artillery II
+
+

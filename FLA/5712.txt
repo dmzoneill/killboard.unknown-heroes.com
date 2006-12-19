@@ -1,0 +1,40 @@
+2006.10.12 17:14
+
+Victim: Osiris Warp
+Alliance: Eternal Empire
+Corp: Spectral Armada
+Destroyed: Gallente Shuttle
+System: EWOK-K
+Security: 0.0
+
+Involved parties:
+
+Name: Verild
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: James Potkukelkka (laid the final blow)
+Security: 0.2
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Flycatcher
+Weapon: Bloodclaw Light Missile
+
+Name: sulky
+Security: 0.4
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Retribution
+Weapon: Retribution
+
+Name: Ione79
+Security: 3.6
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Celestis
+Weapon: XR-3200 Heavy Missile Bay
+
+

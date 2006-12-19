@@ -1,0 +1,37 @@
+2007.01.03 17:18
+
+Victim: ninev0lts
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Destroyed: Caracal
+System: X-7OMU
+Security: 0.0
+
+Involved parties:
+
+Name: Phrixus Zephyr (laid the final blow)
+Security: 5.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Taranis
+Weapon: Light Neutron Blaster II
+
+Name: Murdoch Morf
+Security: 1.5
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Claw
+Weapon: 200mm AutoCannon II
+
+
+Destroyed items:
+
+Advanced 'Limos' Heavy Missile Bay I
+Advanced 'Limos' Heavy Missile Bay I
+Advanced 'Limos' Heavy Missile Bay I
+J5 Prototype Warp Inhibitor I
+Stasis Webifier I
+Small Armor Repairer I
+Havoc Heavy Missile, Qty: 3300 (Cargo)
+Widowmaker Heavy Missile, Qty: 3333 (Cargo)
+

@@ -1,0 +1,60 @@
+2007.02.03 12:54
+
+Victim: Tristian Andross
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Megathron
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: QUPNDIE (laid the final blow)
+Security: 4.7
+Alliance: None
+Corp: coracao ardente
+Ship: Deimos
+Weapon: Valkyrie II
+
+Name: RaSSs
+Security: 0.2
+Alliance: None
+Corp: coracao ardente
+Ship: Curse
+Weapon: Hammerhead II
+
+Name: MasterEYE
+Security: 5.0
+Alliance: None
+Corp: coracao ardente
+Ship: Curse
+Weapon: Hammerhead II
+
+Name: Kai page
+Security: -0.8
+Alliance: None
+Corp: coracao ardente
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+425mm Carbide Railgun I
+425mm Carbide Railgun I
+425mm 'Scout' I Accelerator Cannon
+Antimatter Charge L, Qty: 30
+Scourge Heavy Missile, Qty: 27
+Fixed Parallel Link-Capacitor I
+Fixed Parallel Link-Capacitor I
+Fixed Parallel Link-Capacitor I
+Large 'Accommodation' Vestment Reconstructer I
+N-Type Thermic Hardener I
+Armor Kinetic Hardener I
+Type-D Power Core Modification: Diagnostic System
+Plutonium Charge M, Qty: 20 (Cargo)
+Tungsten Charge L, Qty: 100 (Cargo)
+Plutonium Charge L, Qty: 100 (Cargo)
+Praetor I, Qty: 2 (Cargo)
+Scourge Heavy Missile, Qty: 51 (Cargo)
+

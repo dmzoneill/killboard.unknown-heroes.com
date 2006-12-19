@@ -1,0 +1,148 @@
+2007.01.20 00:45
+
+Victim: Rev Darkwing
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Raven
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: ukpAgAn
+Security: 5.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Megathron
+Weapon: Megathron
+
+Name: Unfortunate Accident
+Security: -1.9
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Megathron
+Weapon: Megathron
+
+Name: Elliott Manchild
+Security: -0.5
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Tempest
+Weapon: Tempest
+
+Name: Malafor
+Security: -1.2
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: McGin
+Security: -3.5
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Megathron
+Weapon: Megathron
+
+Name: taylor04
+Security: 0.4
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Brisky T'Pol
+Security: 1.2
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Tempest
+Weapon: Tempest
+
+Name: aadom
+Security: 3.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Tempest
+Weapon: Tempest
+
+Name: boo3916 (laid the final blow)
+Security: 4.7
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Raven
+Weapon: Juggernaut Torpedo
+
+Name: ArchenTheGreat
+Security: -2.1
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Dominix
+Weapon: Dominix
+
+Name: WarGod
+Security: 1.4
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Naglfar
+Weapon: Quad 3500mm Siege Artillery I
+
+Name: Guristas Annihilator / Guristas
+
+Name: hardgit
+Security: 0.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Raven
+Weapon: Siege Missile Launcher II
+
+Name: Pistonbroke
+Security: 0.4
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Scorpion
+Weapon: ECM - Multispectral Jammer II
+
+Name: Phrixus Zephyr
+Security: 0.8
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Arazu
+Weapon: Phased Muon Sensor Disruptor I
+
+Name: K Shara
+Security: 4.8
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Raven
+Weapon: Cruise Missile Launcher II
+
+Name: Anna Neura
+Security: -0.2
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Lachesis
+Weapon: Remote Sensor Dampener II
+
+
+Destroyed items:
+
+250mm 'Scout' I Accelerator Cannon
+Thorium Charge M, Qty: 9
+Iridium Charge M, Qty: 9
+Juggernaut Torpedo, Qty: 30
+Wrath Cruise Missile
+Wrath Cruise Missile
+Wrath Cruise Missile
+Cruise Missile Launcher I
+Siege Missile Launcher I
+Siege Missile Launcher I
+Large Clarity Ward Booster I
+Invulnerability Field I
+Invulnerability Field I
+Sensor Booster I
+Damage Control I
+Ballistic Control System I
+Thorium Charge M, Qty: 107 (Cargo)
+Wrath Cruise Missile, Qty: 234 (Cargo)
+Vespa I, Qty: 3 (Drone Bay)
+

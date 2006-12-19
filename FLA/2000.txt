@@ -1,0 +1,42 @@
+2007.01.16 08:53
+
+Victim: Kelter Highfire
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Ferox
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Guristas Executor / Guristas
+
+Name: Noobjuice (laid the final blow)
+Security: -0.6
+Alliance: None
+Corp: Omniscient Order
+Ship: Typhoon
+Weapon: Ogre II
+
+
+Destroyed items:
+
+200mm Railgun I
+Scourge Heavy Missile, Qty: 27
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+Large F-S9 Regolith Shield Induction
+Ballistic Deflection Field I
+Nanoelectrical Co-Processor I
+Ballistic Control System I
+200mm Railgun I, Qty: 2 (Cargo)
+Iridium Charge M, Qty: 300 (Cargo)
+Co-Processor I, Qty: 2 (Cargo)
+Scourge Heavy Missile, Qty: 2463 (Cargo)
+Widowmaker Heavy Missile, Qty: 100 (Cargo)
+Eradicator F.O.F. Heavy Missile I, Qty: 100 (Cargo)
+Upgraded 'Limos' Standard Missile Bay I (Cargo)
+Hornet I, Qty: 2 (Drone Bay)
+

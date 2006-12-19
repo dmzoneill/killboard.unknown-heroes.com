@@ -1,0 +1,32 @@
+2007.03.08 19:02
+
+Victim: g 402a
+Alliance: Chorus of Dawn
+Corp: Free Lapland
+Destroyed: Kestrel
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Kiara Diepp (laid the final blow)
+Security: -2.0
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Caracal
+Weapon: Thunderbolt Heavy Missile
+
+Name: Cmores
+Security: 1.6
+Alliance: FREGE Alliance
+Corp: Bears Inc
+Ship: Megathron
+Weapon: 425mm Prototype I Gauss Gun
+
+
+Destroyed items:
+
+Cap Recharger I
+1MN MicroWarpdrive I
+'Repose' I Core Compensation
+

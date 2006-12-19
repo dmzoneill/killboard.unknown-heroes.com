@@ -1,0 +1,29 @@
+2006.10.05 22:44
+
+Victim: Tenk
+Alliance: Freelancer Alliance
+Corp: BGG
+Destroyed: Merlin
+System: Sobaseki
+Security: 0.8
+
+Involved parties:
+
+Name: Onin Ra (laid the final blow)
+Security: 1.1
+Alliance: None
+Corp: Privateers
+Ship: Megathron
+Weapon: 425mm 'Scout' I Accelerator Cannon
+
+Name: Pithi Imputor / Guristas Pirates
+
+
+Destroyed items:
+
+Small Nosferatu I
+125mm Compressed Coil Gun I
+Antimatter Charge S, Qty: 80
+Sabretooth Light Missile, Qty: 80
+Sabretooth Light Missile, Qty: 379 (Cargo)
+

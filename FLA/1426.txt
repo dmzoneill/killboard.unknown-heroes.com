@@ -1,0 +1,43 @@
+2007.03.13 08:06
+
+Victim: Nipplator
+Alliance: YouWhat
+Corp: Beasts of Burden
+Destroyed: Omen
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Sicario (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Simon Monkoto
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Dominix
+Weapon: Wasp I
+
+
+Destroyed items:
+
+Heavy Anode Pulse Particle Stream I
+Microwave M
+Microwave M
+Piranha Light Missile, Qty: 45
+'Malkuth' Assault Missile Launcher I
+Initiated Warp Jammer I
+Stasis Webifier I
+Energized Adaptive Nano Membrane I
+Medium Armor Repairer II (Cargo)
+Medium Capacitor Booster I, Qty: 2 (Cargo)
+Gamma M, Qty: 4 (Cargo)
+Multifrequency M, Qty: 4 (Cargo)
+Tracking Disruptor II (Cargo)
+Piranha Light Missile, Qty: 1457 (Cargo)
+

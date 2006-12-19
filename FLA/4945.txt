@@ -1,0 +1,30 @@
+2007.04.20 06:42
+
+Victim: Bobby Atlas
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Thrasher
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Screamer (laid the final blow)
+Security: 0.6
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Chimera
+Weapon: Firbolg
+
+
+Destroyed items:
+
+250mm Light Artillery Cannon I
+250mm Light Artillery Cannon I
+250mm Light Artillery Cannon I
+Titanium Sabot S, Qty: 31
+Sabretooth Light Missile, Qty: 34
+'Malkuth' Standard Missile Launcher I
+Fixed Parallel Link-Capacitor I
+Warp Disruptor I
+

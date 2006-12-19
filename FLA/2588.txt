@@ -1,0 +1,30 @@
+2007.02.25 09:55
+
+Victim: Zattron
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Destroyed: Manticore
+System: Jita
+Security: 0.9
+
+Involved parties:
+
+Name: drphil420 (laid the final blow)
+Security: 1.4
+Alliance: Privateer Alliance
+Corp: The IMorral MAjority
+Ship: Eagle
+Weapon: Heavy Neutron Blaster II
+
+
+Destroyed items:
+
+Improved Cloaking Device II
+Cataclysm Cruise Missile, Qty: 22
+Wrath Cruise Missile, Qty: 22
+XT-9000 Cruise Launcher
+Low Frequency Sensor Suppressor I
+Phased Weapon Navigation Array Generation Extron
+Ballistic Control System II
+Wrath Cruise Missile, Qty: 427 (Cargo)
+

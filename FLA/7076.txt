@@ -1,0 +1,42 @@
+2006.12.24 19:51
+
+Victim: tajmahaly
+Alliance: None
+Corp: Federal Navy Academy
+Destroyed: Ferox
+System: Sujarento
+Security: 0.3
+
+Involved parties:
+
+Name: KaTurN (laid the final blow)
+Security: -1.5
+Alliance: Freelancer Alliance
+Corp: X.T.R
+Ship: Dominix
+Weapon: Ogre I
+
+Name: Guristas Silencer / Guristas
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Thunderbolt Heavy Missile, Qty: 22
+Scourge Heavy Missile, Qty: 22
+Havoc Heavy Missile, Qty: 22
+Advanced 'Limos' Heavy Missile Bay I
+Advanced 'Limos' Heavy Missile Bay I
+Advanced 'Limos' Heavy Missile Bay I
+Small Tractor Beam I
+Medium C5-L Emergency Shield Overload I
+Warp Core Stabilizer I
+Ballistic Control System I
+Alpha Reactor Control: Capacitor Power Relay
+Medium Capacitor Booster I (Cargo)
+Explosion Dampening Field I (Cargo)
+Havoc Heavy Missile, Qty: 293 (Cargo)
+Widowmaker Heavy Missile, Qty: 419 (Cargo)
+Scourge Heavy Missile, Qty: 457 (Cargo)
+Hornet I, Qty: 2 (Drone Bay)
+

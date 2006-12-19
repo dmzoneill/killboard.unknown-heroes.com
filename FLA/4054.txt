@@ -1,0 +1,28 @@
+2007.04.11 03:38
+
+Victim: GFor
+Alliance: None
+Corp: Revolver Inc.
+Destroyed: Rifter
+System: Hakonen
+Security: 0.3
+
+Involved parties:
+
+Name: Kelter Highfire (laid the final blow)
+Security: 3.1
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+
+Destroyed items:
+
+125mm Gatling AutoCannon I
+125mm Gatling AutoCannon I
+125mm Gatling AutoCannon I
+Phased Plasma S, Qty: 69
+Small Shield Booster II
+Cold-Gas I Arcjet Thrusters
+

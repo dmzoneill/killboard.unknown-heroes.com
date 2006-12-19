@@ -1,0 +1,40 @@
+2006.12.21 14:53
+
+Victim: makwa kabera
+Alliance: None
+Corp: Imperial Academy
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Cobra Raider
+Security: -0.3
+Alliance: Imperial Republic Of the North
+Corp: Port Royal Independent Kontractors
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Lady Ailan (laid the final blow)
+Security: -0.6
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Rifter
+Weapon: Bloodclaw Light Missile
+
+Name: Fahad
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Harpy
+Weapon: Harpy
+
+Name: Ajaya
+Security: 0.1
+Alliance: New Eden Conglomerate
+Corp: The 5 Amigo's LLC.
+Ship: Zealot
+Weapon: Focused Medium Pulse Laser II
+
+

@@ -1,0 +1,41 @@
+2007.01.13 18:53
+
+Victim: Indigo Callypso
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Destroyed: Drake
+System: 0-YMBJ
+Security: 0.0
+
+Involved parties:
+
+Name: Ryysa (laid the final blow)
+Security: -3.5
+Alliance: None
+Corp: North Face Force
+Ship: Typhoon
+Weapon: Ogre I
+
+Name: Drasked
+Security: -3.9
+Alliance: None
+Corp: North Face Force
+Ship: Crow
+Weapon: Crow
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 63
+XR-3200 Heavy Missile Bay
+XR-3200 Heavy Missile Bay
+XR-3200 Heavy Missile Bay
+Large Azeotropic Ward Salubrity I
+Shield Recharger I
+Magnetic Scattering Amplifier II
+Type-D Power Core Modification: Shield Power Relay
+Type-D Power Core Modification: Shield Power Relay
+Power Diagnostic System II
+Widowmaker Heavy Missile, Qty: 1100 (Cargo)
+Scourge Heavy Missile, Qty: 760 (Cargo)
+

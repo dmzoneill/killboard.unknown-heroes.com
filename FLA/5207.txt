@@ -1,0 +1,36 @@
+2007.04.26 15:06
+
+Victim: Fitz Farseer
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Cormorant
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Ghu'ru Talozan (laid the final blow)
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Arazu
+Weapon: 250mm Railgun II
+
+Name: Iguanoid
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Unknown
+Weapon: Rocket Launcher II
+
+
+Destroyed items:
+
+150mm Carbide Railgun I
+150mm Railgun I
+150mm Railgun I
+150mm Railgun I
+Warp Disruptor I
+Rocket Launcher II (Cargo)
+Foxfire Rage Rocket, Qty: 21 (Cargo)
+

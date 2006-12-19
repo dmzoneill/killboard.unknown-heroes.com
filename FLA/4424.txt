@@ -1,0 +1,103 @@
+2007.04.09 17:33
+
+Victim: Furnis
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Destroyed: Raven
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Waagaa Ktlehr (laid the final blow)
+Security: -1.1
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Aeon
+Weapon: Firbolg
+
+Name: Robet Katrix
+Security: 2.1
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Chimera
+Weapon: Garde I
+
+Name: DrunkenOne
+Security: -0.5
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Claw
+Weapon: 250mm Light Artillery Cannon II
+
+Name: Eleese
+Security: -0.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Lachesis
+Weapon: Scourge Heavy Missile
+
+Name: FA Avenger
+Security: 2.9
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Crow
+Weapon: Warp Disruptor II
+
+Name: Frantico
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Capsule
+Weapon: Warp Disruptor I
+
+
+Destroyed items:
+
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Juggernaut Torpedo, Qty: 15
+'Arbalest' Cruise Launcher I
+'Arbalest' Cruise Launcher I
+'Arbalest' Cruise Launcher I
+'Arbalest' Siege Missile Launcher
+Small Tractor Beam I
+Ballistic Deflection Field II
+Ballistic Control System II
+Medium Neutron Saturation Injector I (Cargo)
+Large S95a Partial Shield Transporter (Cargo)
+Fixed Parallel Link-Capacitor I (Cargo)
+Medium Rudimentary Concussion Bomb I (Cargo)
+Dual 250mm Railgun I, Qty: 2 (Cargo)
+250mm Railgun I (Cargo)
+Dual 250mm 'Scout' I Accelerator Cannon (Cargo)
+350mm Railgun I (Cargo)
+Medium Electrochemical Capacitor Booster I (Cargo)
+Ditrigonal Thermal Barrier Crystallization I (Cargo)
+Heat Dissipation Field I (Cargo)
+Juggernaut Torpedo, Qty: 20 (Cargo)
+Bane Torpedo, Qty: 100 (Cargo)
+Gravimetric Positional ECCM Sensor System I (Cargo)
+Kapteyn Sensor Array Inhibitor I (Cargo)
+Scattering ECCM Projector I (Cargo)
+Dread Guristas Magnetic Scattering Amplifier (Cargo)
+Scourge Heavy Missile, Qty: 100 (Cargo)
+Cataclysm Cruise Missile, Qty: 100 (Cargo)
+Paradise Cruise Missile, Qty: 100 (Cargo)
+Devastator Cruise Missile, Qty: 100 (Cargo)
+Dragon F.O.F. Cruise Missile I, Qty: 100 (Cargo)
+Phoenix F.O.F. Cruise Missile I, Qty: 2 (Cargo)
+Hunter F.O.F. Cruise Missile I, Qty: 100 (Cargo)
+Tripped Power Circuit, Qty: 36 (Cargo)
+Burned Logic Circuit, Qty: 43 (Cargo)
+Fried Interface Circuit, Qty: 80 (Cargo)
+Ward Console, Qty: 52 (Cargo)
+Conductive Polymer, Qty: 17 (Cargo)
+Malfunctioning Shield Emitter, Qty: 29 (Cargo)
+Charred Micro Circuit, Qty: 42 (Cargo)
+Type-D Power Core Modification: Capacitor Power Relay (Cargo)
+

@@ -1,0 +1,107 @@
+2007.01.01 16:45
+
+Victim: Weeble Wooble
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Destroyed: Megathron
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Dr Wahoos
+Security: -3.3
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Raven
+Weapon: Hammerhead II
+
+Name: Elliott Manchild
+Security: -1.7
+Alliance: None
+Corp: omen.
+Ship: Dominix
+Weapon: Berserker II
+
+Name: xlop
+Security: -1.0
+Alliance: None
+Corp: omen.
+Ship: Typhoon
+Weapon: Devastator Cruise Missile
+
+Name: Drakin Korin
+Security: -0.7
+Alliance: None
+Corp: Evil Bandit Organisation
+Ship: Lachesis
+Weapon: Phased Muon Sensor Disruptor I
+
+Name: Axl Alien
+Security: -1.7
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Harpy
+Weapon: Harpy
+
+Name: Pistonbroke
+Security: -0.2
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Dominix
+Weapon: Dominix
+
+Name: Jimmycs83
+Security: -1.5
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Taranis
+Weapon: Taranis
+
+Name: Jenessa
+Security: 2.3
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Darknesss
+Security: -0.5
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Dominix
+Weapon: Ogre II
+
+Name: Murdoch Morf
+Security: 1.5
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: boo3916 (laid the final blow)
+Security: 4.4
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Dominix
+Weapon: 200mm Railgun II
+
+Name: Calishere
+Security: 0.1
+Alliance: None
+Corp: Caldari Provisions
+Ship: Flycatcher
+Weapon: Faint Epsilon Warp Prohibitor I
+
+
+Destroyed items:
+
+425mm Railgun II
+425mm Railgun II
+425mm Railgun II
+425mm Railgun II
+425mm Railgun II
+Spike L, Qty: 150
+Supplemental Scanning CPU I
+Magnetic Field Stabilizer II
+

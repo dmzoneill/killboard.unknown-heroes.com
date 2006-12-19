@@ -1,0 +1,44 @@
+2007.04.10 09:21
+
+Victim: Rohan V
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Moa
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Sedith (laid the final blow)
+Security: 1.7
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Aeon
+Weapon: Dragonfly
+
+Name: Otto Bismarck
+Security: 3.6
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Hyperion
+Weapon: Hammerhead II
+
+
+Destroyed items:
+
+250mm Carbide Railgun I
+250mm Carbide Railgun I
+Iridium Charge M, Qty: 65
+Sabretooth Light Missile
+Sabretooth Light Missile
+Sabretooth Light Missile
+'Malkuth' Assault Missile Launcher I
+'Malkuth' Assault Missile Launcher I
+Medium Subordinate Screen Stabilizer I
+Medium Converse I Deflection Catalyzer
+10MN Afterburner I
+'Abandon' Targeting Disruptor I
+Local Power Plant Manager: Diagnostic System I
+Beta Reactor Control: Diagnostic System I
+Iridium Charge M, Qty: 626 (Cargo)
+

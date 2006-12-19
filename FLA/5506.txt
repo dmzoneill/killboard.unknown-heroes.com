@@ -1,0 +1,54 @@
+2006.10.06 22:28
+
+Victim: alte2
+Alliance: None
+Corp: Federal Navy Academy
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Barukor (laid the final blow)
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Wolf
+Weapon: 200mm AutoCannon II
+
+Name: Kismeteer
+Security: 3.4
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Incursus
+Weapon: 150mm Railgun I
+
+Name: Hosanna
+Security: -0.7
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Stiletto
+Weapon: 150mm Light AutoCannon II
+
+Name: movy
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Ishkur
+Weapon: 125mm Railgun II
+
+Name: Seventh Star
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Jaguar
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: GrandMastaXP
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Hawk
+Weapon: Standard Missile Launcher II
+
+

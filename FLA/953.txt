@@ -1,0 +1,80 @@
+2007.02.28 12:20
+
+Victim: Tiaan Strauss
+Alliance: Agony Empire
+Corp: Agony Unleashed
+Destroyed: Blackbird
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Ickaruss (laid the final blow)
+Security: 5.0
+Alliance: NxT LeveL
+Corp: Grail Seekers
+Ship: Nighthawk
+Weapon: Thunderbolt Heavy Missile
+
+Name: jacass66
+Security: 5.0
+Alliance: None
+Corp: BGG
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Tnam
+Security: 2.2
+Alliance: None
+Corp: BGG
+Ship: Wolf
+Weapon: Wolf
+
+Name: EM00
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: smaster
+Security: -0.9
+Alliance: DeStInY.
+Corp: The Knights Of Camelot
+Ship: Harpy
+Weapon: Harpy
+
+Name: Mat rix
+Security: 5.0
+Alliance: NxT LeveL
+Corp: Grail Seekers
+Ship: Drake
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+Name: Hopeless EQUILIBRIUM
+Security: 0.0
+Alliance: O X I D E
+Corp: W33D Corp.
+Ship: Vengeance
+Weapon: Vengeance
+
+
+Destroyed items:
+
+Tungsten Charge M, Qty: 40
+10MN Afterburner II
+ECM - Phase Inverter I
+Compulsive Ion Field ECM I
+Induced Multispectral ECM I
+Uranium Charge S, Qty: 200 (Cargo)
+Tungsten Charge M, Qty: 486 (Cargo)
+Iridium Charge S, Qty: 450 (Cargo)
+Iridium Charge M, Qty: 980 (Cargo)
+Antimatter Charge S, Qty: 566 (Cargo)
+Defender I, Qty: 114 (Cargo)
+Faint Phase Inversion ECM I (Cargo)
+Sensor Booster I (Cargo)
+F-392 Baker Nunn Targeting Scrambler, Qty: 4 (Cargo)
+Widowmaker Heavy Missile, Qty: 280 (Cargo)
+Power Diagnostic System I (Cargo)
+

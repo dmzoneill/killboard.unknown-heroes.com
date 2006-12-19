@@ -1,0 +1,40 @@
+2007.01.09 00:52
+
+Victim: padshiiangel
+Alliance: Firmus Ixion
+Corp: Black Avatar
+Destroyed: Capsule
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Ggrimreaper
+Security: 5.0
+Alliance: Serenity Fallen
+Corp: Dreamscape
+Ship: Heretic
+Weapon: Heretic
+
+Name: Mokh'Tar
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: Caldar Mercenary Syndicate
+Ship: Caracal
+Weapon: Havoc Heavy Missile
+
+Name: Pestily (laid the final blow)
+Security: 4.7
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Rook
+Weapon: Bloodclaw Light Missile
+
+Name: hydraSlav
+Security: 1.8
+Alliance: Serenity Fallen
+Corp: Synergy Evolved
+Ship: Taranis
+Weapon: X5 Prototype I Engine Enervator
+
+

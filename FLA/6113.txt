@@ -1,0 +1,44 @@
+2006.11.08 15:41
+
+Victim: Bobroglaz
+Alliance: R.I.S.K
+Corp: Russian Specnaz
+Destroyed: Rifter
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Elfaen Ethenwe (laid the final blow)
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Rook
+Weapon: Thunderbolt Precision Heavy Missile
+
+Name: Wousr
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: Voculus
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Unknown
+Weapon: Vespa I
+
+
+Destroyed items:
+
+125mm Light 'Scout' Autocannon I
+125mm Light 'Scout' Autocannon I
+Small Nosferatu I
+EMP S, Qty: 76
+1MN MicroWarpdrive I
+Small Armor Repairer II
+Small Nosferatu I (Cargo)
+Nuclear S, Qty: 500 (Cargo)
+

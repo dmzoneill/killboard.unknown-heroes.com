@@ -1,0 +1,57 @@
+2006.10.10 19:36
+
+Victim: Pure Blood
+Alliance: None
+Corp: Privateers
+Destroyed: Bellicose
+System: Elonaya
+Security: 0.7
+
+Involved parties:
+
+Name: Supernaut 20k
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Capsule
+Weapon: Initiated Multispectral ECM I
+
+Name: Svottesen
+Security: 4.3
+Alliance: None
+Corp: Ganksters Paradise
+Ship: Rook
+Weapon: Havoc Heavy Missile
+
+Name: trakli (laid the final blow)
+Security: 0.0
+Alliance: None
+Corp: Ganksters Paradise
+Ship: Arazu
+Weapon: Hammerhead II
+
+Name: Drunken Claptrap
+Security: 5.0
+Alliance: None
+Corp: Ganksters Paradise
+Ship: Pilgrim
+Weapon: Hammerhead II
+
+Name: Zsola
+Security: 2.0
+Alliance: None
+Corp: Ganksters Paradise
+Ship: Taranis
+Weapon: E5 Prototype Energy Vampire
+
+
+Destroyed items:
+
+200mm AutoCannon II
+EMP S, Qty: 24
+Barrage S, Qty: 24
+Warp Scrambler I
+Armor Thermic Hardener I
+Barrage S, Qty: 1575 (Cargo)
+Hammerhead I, Qty: 2 (Drone Bay)
+

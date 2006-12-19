@@ -1,0 +1,83 @@
+2006.08.26 22:10
+
+Victim: Renault
+Alliance: None
+Corp: Beagle Corp
+Destroyed: Megathron
+System: Z0-TJW
+Security: 0.0
+
+Involved parties:
+
+Name: Mr Harmonica
+Security: 5.0
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Raven
+Weapon: Heavy Nosferatu I
+
+Name: jacass66
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Raven
+Weapon: Hornet II
+
+Name: ForceAttuned Krogoth
+Security: 0.2
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Capsule
+Weapon: Tachyon Beam Laser I
+
+Name: XxAngelxX
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Armageddon
+Weapon: Vespa I
+
+Name: General Novartic
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Rupture
+Weapon: Hornet I
+
+Name: Formosus Funus
+Security: -0.8
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Rupture
+Weapon: Hornet I
+
+Name: Barukor (laid the final blow)
+Security: 1.7
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Thrasher
+Weapon: 280mm Howitzer Artillery I
+
+Name: 8ObliVioN8
+Security: 4.9
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Raptor
+Weapon: 125mm Railgun II
+
+
+Destroyed items:
+
+425mm Railgun I
+425mm Railgun I
+425mm Railgun I
+425mm Railgun I
+Antimatter Charge L, Qty: 104
+Conjunctive Magnetometric ECCM Scanning Array I
+Prototype I Sensor Booster
+Magnetic Field Stabilizer II
+Energized Adaptive Nano Membrane I
+Energized Adaptive Nano Membrane I
+1600mm Reinforced Rolled Tungsten Plates I
+Lead Charge L, Qty: 1287 (Cargo)
+

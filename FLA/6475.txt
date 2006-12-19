@@ -1,0 +1,53 @@
+2006.11.15 04:27
+
+Victim: VANCEAL DOONE
+Alliance: None
+Corp: IDLE GUNS
+Destroyed: Caracal
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: SiriusCrow (laid the final blow)
+Security: -1.1
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Raven
+Weapon: Inferno Javelin Torpedo
+
+Name: Yarsida
+Security: 1.2
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Moa
+Weapon: Moa
+
+Name: Spiral Architect
+Security: 4.0
+Alliance: Forces of Freedom
+Corp: Crimson Wings Squadron
+Ship: Thorax
+Weapon: Dual 150mm Railgun I
+
+Name: Anatolli Korenchken
+Security: 5.0
+Alliance: CORE.
+Corp: AUS Corporation
+Ship: Scorpion
+Weapon: ECM - Spatial Destabilizer II
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Havoc Heavy Missile, Qty: 51
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Small Clarity Ward Booster I
+Y-S8 Hydrocarbon I Afterburners
+J5 Prototype Warp Inhibitor I
+Havoc Heavy Missile, Qty: 129 (Cargo)
+Widowmaker Heavy Missile, Qty: 100 (Cargo)
+

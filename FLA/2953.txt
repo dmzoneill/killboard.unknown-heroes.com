@@ -1,0 +1,102 @@
+2007.03.17 14:13
+
+Victim: Marie Veedor
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Raven
+System: XZH-4X
+Security: 0.0
+
+Involved parties:
+
+Name: Chode Rizoum (laid the final blow)
+Security: -1.9
+Alliance: Eternal Rapture
+Corp: Temptation inc.
+Ship: Maelstrom
+Weapon: 800mm Repeating Artillery II
+
+Name: ArmyOfMe
+Security: -1.5
+Alliance: Eternal Rapture
+Corp: Exotic Dancers Club
+Ship: Astarte
+Weapon: Astarte
+
+Name: Handon Guild
+Security: -2.9
+Alliance: Eternal Rapture
+Corp: Exotic Dancers Club
+Ship: Tempest
+Weapon: Tempest
+
+Name: Jack Archer
+Security: -1.7
+Alliance: Eternal Rapture
+Corp: Quantum Synergies
+Ship: Dominix
+Weapon: Dominix
+
+Name: blh 42
+Security: -3.6
+Alliance: Eternal Rapture
+Corp: Exotic Dancers Club
+Ship: Megathron
+Weapon: Megathron
+
+Name: Nazg0th
+Security: 0.8
+Alliance: Eternal Rapture
+Corp: Temptation inc.
+Ship: Dominix
+Weapon: Valkyrie II
+
+Name: VirkMaN
+Security: -1.1
+Alliance: Eternal Rapture
+Corp: Temptation inc.
+Ship: Nighthawk
+Weapon: XR-3200 Heavy Missile Bay
+
+Name: Jiviva
+Security: -4.4
+Alliance: Eternal Rapture
+Corp: Exotic Dancers Club
+Ship: Ferox
+Weapon: Acolyte II
+
+Name: Corelatis Platoon Leader / Serpentis
+
+
+Destroyed items:
+
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Juggernaut Torpedo, Qty: 48
+'Arbalest' Siege Missile Launcher
+'Arbalest' Siege Missile Launcher
+'Arbalest' Siege Missile Launcher
+'Arbalest' Siege Missile Launcher
+'Arbalest' Siege Missile Launcher
+Dread Guristas Ballistic Deflection Field
+Heat Dissipation Amplifier I
+Beta Reactor Control: Shield Power Relay I
+Beta Reactor Control: Shield Power Relay I
+Local Power Plant Manager: Diagnostic System I
+Ship Scanner I (Cargo)
+Small Proton Smartbomb I (Cargo)
+Neutron Blaster Cannon I (Cargo)
+Juggernaut Torpedo, Qty: 1670 (Cargo)
+Acolyte I (Cargo)
+Damaged Artificial Neural Network, Qty: 3 (Cargo)
+Contaminated Lorentz Fluid (Cargo)
+Conductive Polymer, Qty: 4 (Cargo)
+Broken Drone Transceiver (Cargo)
+Charred Micro Circuit, Qty: 5 (Cargo)
+Fried Interface Circuit, Qty: 4 (Cargo)
+Vespa I, Qty: 4 (Drone Bay)
+

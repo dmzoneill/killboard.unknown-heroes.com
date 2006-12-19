@@ -1,0 +1,33 @@
+2007.03.04 18:48
+
+Victim: Xevion
+Alliance: None
+Corp: Caldari Provisions
+Destroyed: Caldari Shuttle
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Micheal Ross
+Security: 3.4
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Flycatcher
+Weapon: Bloodclaw Precision Light Missile
+
+Name: RythemAndStealth (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: DarkAvenger DK
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Executioner
+Weapon: Dual Light Beam Laser II
+
+

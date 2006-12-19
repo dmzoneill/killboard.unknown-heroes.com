@@ -1,0 +1,26 @@
+2007.01.25 16:47
+
+Victim: Deathbringer III
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Destroyed: Stiletto
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Farjung (laid the final blow)
+Security: 0.0
+Alliance: Band of Brothers
+Corp: TAOSP
+Ship: Dominix
+Weapon: Warrior II
+
+
+Destroyed items:
+
+1MN MicroWarpdrive I
+Small Armor Repairer I
+Type-D Altered SS Inertial Stabilizers
+Cap Booster 75, Qty: 10 (Cargo)
+

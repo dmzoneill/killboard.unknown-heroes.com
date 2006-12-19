@@ -1,0 +1,33 @@
+2007.05.17 18:04
+
+Victim: GilGalaad
+Alliance: None
+Corp: Paladines
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Amarrian Bringer
+Security: 1.3
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Crusader
+Weapon: Crusader
+
+Name: wardey (laid the final blow)
+Security: 0.6
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Crusader
+Weapon: Dual Light Pulse Laser II
+
+Name: Drachenlord
+Security: 2.5
+Alliance: Imperial Republic Of the North
+Corp: Port Royal Independent Kontractors
+Ship: Vagabond
+Weapon: Vagabond
+
+

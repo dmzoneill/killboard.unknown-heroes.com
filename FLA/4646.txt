@@ -1,0 +1,38 @@
+2007.04.16 21:01
+
+Victim: Fitz Farseer
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Wolf
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: truefranco
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Capsule
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+Name: Jala Sunfieber (laid the final blow)
+Security: 4.1
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Manticore
+Weapon: Paradise Cruise Missile
+
+
+Destroyed items:
+
+200mm AutoCannon II
+200mm AutoCannon II
+Standard Missile Launcher II
+Gyrostabilizer II
+Co-Processor I
+Co-Processor II
+Initiated Warp Jammer I (Cargo)
+Gatling Pulse Laser II, Qty: 2 (Cargo)
+EMP S, Qty: 1162 (Cargo)
+

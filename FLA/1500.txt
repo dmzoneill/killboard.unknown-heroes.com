@@ -1,0 +1,43 @@
+2007.03.14 21:51
+
+Victim: WEERUS
+Alliance: None
+Corp: State War Academy
+Destroyed: Merlin
+System: Kubinen
+Security: 0.4
+
+Involved parties:
+
+Name: Guristas Murderer / Guristas
+
+Name: RayTruz (laid the final blow)
+Security: 2.3
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+Name: Mahrla
+Security: -0.1
+Alliance: Dusk and Dawn
+Corp: The X-Trading Company
+Ship: Claw
+Weapon: 125mm Gatling AutoCannon II
+
+
+Destroyed items:
+
+Civilian Gatling Railgun
+125mm Railgun I
+Uranium Charge S, Qty: 80
+Sabretooth Light Missile, Qty: 40
+Piranha Light Missile, Qty: 40
+Small Shield Booster I
+Cargo Scanner I
+Basic Miner (Cargo)
+Uranium Charge S, Qty: 250 (Cargo)
+Tungsten Charge S, Qty: 100 (Cargo)
+Sabretooth Light Missile, Qty: 129 (Cargo)
+Piranha Light Missile, Qty: 129 (Cargo)
+

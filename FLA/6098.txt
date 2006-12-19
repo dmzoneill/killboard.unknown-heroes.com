@@ -1,0 +1,69 @@
+2006.11.07 21:51
+
+Victim: mtitus
+Alliance: Interstellar Starbase Syndicate
+Corp: terra firma team
+Destroyed: Rifter
+System: P-2TTL
+Security: 0.0
+
+Involved parties:
+
+Name: roboto212
+Security: -0.4
+Alliance: Freelancer Alliance
+Corp: Sin-X Inc.
+Ship: Taranis
+Weapon: Taranis
+
+Name: Noitaakka (laid the final blow)
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Ishtar
+Weapon: Valkyrie II
+
+Name: Karas Rabus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Huginn
+Weapon: 650mm Artillery Cannon II
+
+Name: Cazziel
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Deimos
+Weapon: Hammerhead II
+
+Name: Ogrimm Surak
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Incursus
+Weapon: Light Neutron Blaster I
+
+Name: Hosanna
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: Zalamus
+Security: 4.2
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Ishkur
+Weapon: Fleeting Warp Scrambler I
+
+
+Destroyed items:
+
+Small Nosferatu I
+Small Nosferatu I
+Small Nosferatu I
+Warp Scrambler I
+Warp Core Stabilizer I
+

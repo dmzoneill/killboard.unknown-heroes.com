@@ -1,0 +1,79 @@
+2007.03.17 17:13
+
+Victim: Spartan dax
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Destroyed: Blackbird
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Primos Gun (laid the final blow)
+Security: 2.9
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Drake
+Weapon: Terror Javelin Assault Missile
+
+Name: SaNoSuKeJavi
+Security: -2.0
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Thorax
+Weapon: Thorax
+
+Name: Nemesys 8
+Security: 3.5
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Caracal
+Weapon: Assault Missile Launcher II
+
+Name: Hinderburg
+Security: 4.2
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Wolf
+Weapon: Wolf
+
+Name: ZIQUET
+Security: 4.8
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Thorax
+Weapon: Thorax
+
+Name: drakandu
+Security: 1.0
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Rupture
+Weapon: Warp Disruptor I
+
+Name: Silit
+Security: 2.5
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Thorax
+Weapon: Warp Disruptor I
+
+Name: Diego Barbera
+Security: -0.6
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Claw
+Weapon: Claw
+
+
+Destroyed items:
+
+Medium Rudimentary Concussion Bomb I
+ECM - White Noise Generator I
+Compulsive Signal Distortion Amplifier I
+Remote Sensor Dampener II, Qty: 4 (Cargo)
+Improved Cloaking Device II (Cargo)
+Sabretooth Light Missile, Qty: 1089 (Cargo)
+Heavy Missile Launcher II (Cargo)
+SV-2000 Assault Missile Bay (Cargo)
+

@@ -1,0 +1,74 @@
+2007.03.22 19:21
+
+Victim: truefranco
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Destroyed: Crow
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Murdoch Morf
+Security: 1.4
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Taranis
+Weapon: 125mm Railgun II
+
+Name: WarGod
+Security: 1.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Curse
+Weapon: Praetor II
+
+Name: Yushii
+Security: -0.3
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: vyperpit (laid the final blow)
+Security: 4.6
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Vagabond
+Weapon: Dual 180mm AutoCannon II
+
+Name: Sith Bandon
+Security: 5.0
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Ishtar
+Weapon: Hobgoblin II
+
+Name: fox247
+Security: 3.2
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Capsule
+Weapon: Cruise Missile Launcher I
+
+Name: Snuggles theTerrible
+Security: 5.0
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Vulture
+Weapon: 250mm Railgun II
+
+Name: PainBall
+Security: -0.9
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Absolution
+Weapon: Heavy Pulse Laser II
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 88
+Fleeting Warp Scrambler I
+Bloodclaw Light Missile, Qty: 914 (Cargo)
+

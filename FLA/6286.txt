@@ -1,0 +1,54 @@
+2006.11.11 18:58
+
+Victim: Bvzhnwe
+Alliance: Interstellar Starbase Syndicate
+Corp: Old Galactic Earth Regiment
+Destroyed: Caldari Shuttle
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Flashh Gorden
+Security: 3.4
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Darth Hound
+Security: 1.7
+Alliance: Schism.
+Corp: Fatalix Inc.
+Ship: Rifter
+Weapon: Piranha Light Missile
+
+Name: ventura5 (laid the final blow)
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Ferox
+Weapon: Thunderbolt Heavy Missile
+
+Name: Gangreen
+Security: 0.1
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: digital oxygen
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Deimos
+Weapon: Deimos
+
+Name: MAD D0G
+Security: -0.7
+Alliance: None
+Corp: Ganksters Paradise
+Ship: Blackbird
+Weapon: Heavy Missile Launcher I
+
+

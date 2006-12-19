@@ -1,0 +1,40 @@
+2007.02.04 16:20
+
+Victim: dastommy79
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Destroyed: Condor
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Zeram
+Security: 3.4
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Hurricane
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Eskalin (laid the final blow)
+Security: -0.1
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Rapier
+Weapon: 720mm Howitzer Artillery II
+
+Name: LaughingClown
+Security: 1.1
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Rapier
+Weapon: 720mm Howitzer Artillery II
+
+
+Destroyed items:
+
+Gremlin Rocket, Qty: 30
+'Malkuth' Rocket Launcher I
+1MN MicroWarpdrive I
+Warp Disruptor I
+

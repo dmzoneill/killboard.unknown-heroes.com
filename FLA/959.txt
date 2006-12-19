@@ -1,0 +1,83 @@
+2007.02.28 17:18
+
+Victim: Krazy Cheetah
+Alliance: None
+Corp: Entropy Tech.
+Destroyed: Rapier
+System: J-CIJV
+Security: 0.0
+
+Involved parties:
+
+Name: Arakash
+Security: -0.5
+Alliance: NxT LeveL
+Corp: Merchants Trade Consortium
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Super Homer
+Security: 2.1
+Alliance: NxT LeveL
+Corp: Nexus Legion
+Ship: Eagle
+Weapon: Limited Neutron Blaster I
+
+Name: LizzyD
+Security: 5.0
+Alliance: NxT LeveL
+Corp: Nexus Legion
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: Scorpio63
+Security: 5.0
+Alliance: NxT LeveL
+Corp: Nexus Legion
+Ship: Apocalypse
+Weapon: Mega Afocal Pulse Maser I
+
+Name: Mat rix
+Security: 5.0
+Alliance: NxT LeveL
+Corp: Grail Seekers
+Ship: Flycatcher
+Weapon: Piranha Light Missile
+
+Name: Ickaruss (laid the final blow)
+Security: 5.0
+Alliance: NxT LeveL
+Corp: Grail Seekers
+Ship: Nighthawk
+Weapon: Thunderbolt Heavy Missile
+
+Name: Dark Carnage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Crow
+Weapon: Sabretooth Light Missile
+
+
+Destroyed items:
+
+650mm Artillery Cannon II
+650mm Artillery Cannon II
+Covert Ops Cloaking Device II
+Tremor M, Qty: 20
+Y-T8 Overcharged Hydrocarbon I Microwarpdrive
+Fleeting Warp Scrambler I
+Fleeting Propulsion Inhibitor I
+Fleeting Propulsion Inhibitor I
+Cap Booster 200
+Cap Booster 200
+Cap Booster 200
+Cap Booster 200
+Phased Weapon Navigation Array Generation Extron
+Signal Amplifier II
+Local Hull Conversion Nanofiber Structure I
+Tremor M, Qty: 2360 (Cargo)
+Nitrogen Isotopes, Qty: 1673 (Cargo)
+Expanded Cargohold I (Cargo)
+Vespa I (Drone Bay)
+

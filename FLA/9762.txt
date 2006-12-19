@@ -1,0 +1,68 @@
+2007.04.03 02:50
+
+Victim: Rahzorus
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Destroyed: Crow
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Karai Kamasu (laid the final blow)
+Security: 1.4
+Alliance: Insane Asylum
+Corp: The Collective of Ascended Beings
+Ship: Vexor
+Weapon: Acolyte I
+
+Name: Bobby Atlas
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Hyperion
+Weapon: Valkyrie II
+
+Name: Elo span
+Security: 3.8
+Alliance: Federation Of united Corps
+Corp: check mate Corp
+Ship: Scorpion
+Weapon: Wrath Cruise Missile
+
+Name: FighterSory
+Security: 0.1
+Alliance: Federation Of united Corps
+Corp: New Order Nation
+Ship: Capsule
+Weapon: Standard Missile Launcher I
+
+Name: Namaris
+Security: -1.9
+Alliance: Federation Of united Corps
+Corp: Drunken Ship Mates
+Ship: Megathron
+Weapon: Vespa I
+
+Name: Tstir
+Security: 2.2
+Alliance: Federation Of united Corps
+Corp: Solaris Operations
+Ship: Raptor
+Weapon: Gremlin Rocket
+
+Name: Krath JoBekk
+Security: 5.0
+Alliance: Federation Of united Corps
+Corp: Drunken Ship Mates
+Ship: Harpy
+Weapon: Rocket Launcher I
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 133
+1MN MicroWarpdrive II
+Faint Warp Prohibitor I
+'Limos' Rocket Launcher I (Cargo)
+

@@ -1,0 +1,29 @@
+2006.10.04 15:05
+
+Victim: Formosus Funus
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Destroyed: Rifter
+System: Dantumi
+Security: 0.4
+
+Involved parties:
+
+Name: Red Thunder (laid the final blow)
+Security: -9.7
+Alliance: None
+Corp: Ouranos Transsolar
+Ship: Cyclone
+Weapon: 220mm Vulcan AutoCannon I
+
+
+Destroyed items:
+
+200mm Light 'Scout' Autocannon I
+EMP S, Qty: 40
+'Arbalest' Rocket Launcher I
+Cold-Gas I Arcjet Thrusters
+'Langour' Drive Disruptor I
+Energized Reactive Membrane I
+Phalanx Rocket, Qty: 4859 (Cargo)
+

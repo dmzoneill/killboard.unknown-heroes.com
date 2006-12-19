@@ -1,0 +1,79 @@
+2006.12.31 00:52
+
+Victim: Benzyl Alkonium
+Alliance: None
+Corp: Nexus Legion
+Destroyed: Moa
+System: 3T7-M8
+Security: 0.0
+
+Involved parties:
+
+Name: Soldroz
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Raven
+Weapon: Bane Torpedo
+
+Name: Xenofur
+Security: 2.6
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Megathron
+Weapon: 425mm 'Scout' I Accelerator Cannon
+
+Name: Grim Faust
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery I
+
+Name: WolfRavage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Hyperion
+Weapon: 425mm Railgun I
+
+Name: forever faithless (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Scorpion
+Weapon: Devastator Cruise Missile
+
+Name: ventura5
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Scorpion
+Weapon: 250mm Prototype I Gauss Gun
+
+Name: mrrabit
+Security: 1.8
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Typhoon
+Weapon: Siege Missile Launcher I
+
+Name: Swanny231
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Raven
+Weapon: 'Arbalest' Siege Missile Launcher
+
+
+Destroyed items:
+
+250mm Railgun I
+Bloodclaw Light Missile, Qty: 66
+Compact 'Limos' Assault Missile Bay I
+Cap Recharger I
+Remote Sensor Dampener I
+Beta Reactor Control: Capacitor Flux I
+ECM - Multispectral Jammer I, Qty: 2 (Cargo)
+Hammerhead I (Drone Bay)
+

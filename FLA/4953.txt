@@ -1,0 +1,43 @@
+2007.04.20 14:37
+
+Victim: Dana Foxworth
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Stabber
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Cabadrin
+Security: 3.8
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Ishtar
+Weapon: Ishtar
+
+Name: Indiano Arko (laid the final blow)
+Security: 0.6
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Hurricane
+Weapon: 650mm Medium 'Scout' Artillery I
+
+Name: Savak
+Security: -0.2
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Armageddon
+Weapon: Armageddon
+
+
+Destroyed items:
+
+EMP M, Qty: 52
+Phased Plasma M, Qty: 62
+10MN MicroWarpdrive I
+Nanofiber Internal Structure I
+Overdrive Injector System I
+EMP M, Qty: 615 (Cargo)
+Phased Plasma M, Qty: 596 (Cargo)
+

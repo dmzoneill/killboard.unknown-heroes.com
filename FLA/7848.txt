@@ -1,0 +1,73 @@
+2006.09.12 15:50
+
+Victim: Hosanna
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Destroyed: Typhoon
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Riddlock (laid the final blow)
+Security: 1.7
+Alliance: Ascendant Frontier
+Corp: Sha Kharn Corp
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Confessor
+Security: 1.9
+Alliance: Ascendant Frontier
+Corp: Lynx Frontier Inc.
+Ship: Pilgrim
+Weapon: Hammerhead II
+
+Name: Kanonus
+Security: -1.0
+Alliance: Ascendant Frontier
+Corp: Celestial Fleet
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Tomic
+Security: 5.0
+Alliance: Ascendant Frontier
+Corp: Celestial Fleet
+Ship: Flycatcher
+Weapon: Piranha Light Missile
+
+Name: jondow
+Security: 1.6
+Alliance: Ascendant Frontier
+Corp: Lynx Frontier Inc.
+Ship: Caracal
+Weapon: Thunderbolt Heavy Missile
+
+
+Destroyed items:
+
+Heavy 'Knave' I Energy Drain
+Juggernaut Torpedo, Qty: 36
+'Arbalest' Siege Missile Launcher
+'Arbalest' Siege Missile Launcher
+Small Tractor Beam I
+LiF Fueled I Booster Rockets
+Fleeting Warp Scrambler I
+Target Painter I
+Large Armor Repairer II
+N-Type Kinetic Hardener I
+N-Type Thermic Hardener I
+1600mm Reinforced Crystalline Carbonide Plates I
+Muon Coil Bolt Array I
+Large Azeotropic Ward Salubrity I (Cargo)
+Inferno Torpedo, Qty: 95 (Cargo)
+Bane Torpedo, Qty: 98 (Cargo)
+Juggernaut Torpedo, Qty: 938 (Cargo)
+Wrath Cruise Missile, Qty: 100 (Cargo)
+Paradise Cruise Missile, Qty: 100 (Cargo)
+Devastator Cruise Missile, Qty: 100 (Cargo)
+Type-D Power Core Modification: Reaction Control (Cargo)
+Hammerhead I (Drone Bay)
+Infiltrator I (Drone Bay)
+

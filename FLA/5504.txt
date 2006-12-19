@@ -1,0 +1,68 @@
+2006.10.06 22:15
+
+Victim: Chris Lewis
+Alliance: None
+Corp: Black Riders
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Lone flyer (laid the final blow)
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Zealot
+Weapon: Heavy Pulse Laser II
+
+Name: Seventh Star
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Jaguar
+Weapon: Upgraded 'Limos' Standard Missile Bay I
+
+Name: GrandMastaXP
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Hawk
+Weapon: Sabretooth Light Missile
+
+Name: kone on
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: Hosanna
+Security: -0.7
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Stiletto
+Weapon: Faint Warp Prohibitor I
+
+Name: movy
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: Kyoshisan
+Security: 0.4
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Enyo
+Weapon: Light Ion Blaster II
+
+Name: Karas Rabus
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Huginn
+Weapon: Assault Missile Launcher II
+
+

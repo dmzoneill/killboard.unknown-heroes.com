@@ -1,0 +1,45 @@
+2007.01.12 18:09
+
+Victim: EM00
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Destroyed: Rokh
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: ETS4ME (laid the final blow)
+Security: 0.7
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Cataclysm Cruise Missile
+
+Name: Crucifier
+Security: 0.3
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: MeanStreak
+Security: -0.2
+Alliance: None
+Corp: Caldari Provisions
+Ship: Sabre
+Weapon: J5b Phased Prototype Warp Inhibitor I
+
+
+Destroyed items:
+
+Heavy Diminishing Power System Drain I
+Heavy Diminishing Power System Drain I
+Heavy Missile Launcher I
+Large F-S9 Regolith Shield Induction
+Power Diagnostic System I
+Scourge Heavy Missile, Qty: 170 (Cargo)
+Widowmaker Heavy Missile, Qty: 170 (Cargo)
+Havoc Heavy Missile, Qty: 170 (Cargo)
+Vespa I, Qty: 4 (Drone Bay)
+

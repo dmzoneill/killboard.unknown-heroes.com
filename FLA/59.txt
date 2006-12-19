@@ -1,0 +1,34 @@
+2007.01.04 01:00
+
+Victim: brew12
+Alliance: None
+Corp: Federal Navy Academy
+Destroyed: Thorax
+System: Tannolen
+Security: 0.3
+
+Involved parties:
+
+Name: Sorlac Aurora (laid the final blow)
+Security: 4.1
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Caracal
+Weapon: Terror Assault Missile
+
+
+Destroyed items:
+
+250mm Carbide Railgun I
+Dual 150mm Railgun I
+Heavy Electron Blaster I
+Antimatter Charge M, Qty: 399
+10MN Afterburner I
+Energized Basic Reflective Plating
+50mm Reinforced Steel Plates I
+Overdrive Injector System I
+Small Hull Repairer I (Cargo)
+Small Capacitor Booster I (Cargo)
+Ward Console (Cargo)
+Valkyrie I, Qty: 2 (Drone Bay)
+

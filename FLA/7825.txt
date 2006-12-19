@@ -1,0 +1,29 @@
+2006.09.06 02:06
+
+Victim: Valtaer
+Alliance: Freelancer Alliance
+Corp: Terminal Velocity Inc.
+Destroyed: Merlin
+System: A4L-A2
+Security: 0.0
+
+Involved parties:
+
+Name: Turiya Flesharrower (laid the final blow)
+Security: -1.0
+Alliance: None
+Corp: Beagle Corp
+Ship: Omen
+Weapon: Focused Medium Pulse Laser I
+
+
+Destroyed items:
+
+Sabretooth Light Missile, Qty: 28
+Flameburst Light Missile, Qty: 33
+TE-2100 Standard Missile Bay
+1MN MicroWarpdrive I
+Warp Scrambler I
+Stasis Webifier I
+Flameburst Light Missile, Qty: 100 (Cargo)
+

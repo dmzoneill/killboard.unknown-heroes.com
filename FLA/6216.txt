@@ -1,0 +1,26 @@
+2006.11.10 19:45
+
+Victim: CC Atlas
+Alliance: None
+Corp: State War Academy
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Dog Cancer (laid the final blow)
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: bidman
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Ferox
+Weapon: 250mm Compressed Coil Gun I
+
+

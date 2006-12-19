@@ -1,0 +1,26 @@
+2007.02.23 23:31
+
+Victim: VunnaX
+Alliance: Pure.
+Corp: Viper Intel Squad
+Destroyed: Capsule
+System: EWOK-K
+Security: 0.0
+
+Involved parties:
+
+Name: rabodeamor
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: NesheresH (laid the final blow)
+Security: 4.5
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Sabre
+Weapon: 280mm Howitzer Artillery II
+
+

@@ -1,0 +1,105 @@
+2007.03.17 14:14
+
+Victim: Loograsch
+Alliance: Freelancer Alliance
+Corp: United Forces
+Destroyed: Dominix
+System: XZH-4X
+Security: 0.0
+
+Involved parties:
+
+Name: ArmyOfMe
+Security: -1.5
+Alliance: Eternal Rapture
+Corp: Exotic Dancers Club
+Ship: Astarte
+Weapon: Astarte
+
+Name: VirkMaN
+Security: -1.1
+Alliance: Eternal Rapture
+Corp: Temptation inc.
+Ship: Nighthawk
+Weapon: Hornet II
+
+Name: Jack Archer
+Security: -1.7
+Alliance: Eternal Rapture
+Corp: Quantum Synergies
+Ship: Dominix
+Weapon: Dominix
+
+Name: blh 42
+Security: -3.6
+Alliance: Eternal Rapture
+Corp: Exotic Dancers Club
+Ship: Megathron
+Weapon: Megathron
+
+Name: Chode Rizoum
+Security: -1.9
+Alliance: Eternal Rapture
+Corp: Temptation inc.
+Ship: Maelstrom
+Weapon: 800mm Repeating Artillery II
+
+Name: Handon Guild
+Security: -2.9
+Alliance: Eternal Rapture
+Corp: Exotic Dancers Club
+Ship: Tempest
+Weapon: Tempest
+
+Name: Jiviva
+Security: -4.4
+Alliance: Eternal Rapture
+Corp: Exotic Dancers Club
+Ship: Ferox
+Weapon: Acolyte II
+
+Name: Nazg0th
+Security: 0.8
+Alliance: Eternal Rapture
+Corp: Temptation inc.
+Ship: Dominix
+Weapon: Valkyrie II
+
+Name: GodWin cadela (laid the final blow)
+Security: -1.8
+Alliance: Eternal Rapture
+Corp: Exotic Dancers Club
+Ship: Absolution
+Weapon: Heavy Pulse Laser II
+
+
+Destroyed items:
+
+350mm Railgun I
+350mm Carbide Railgun I
+350mm Carbide Railgun I
+Dual 250mm 'Scout' I Accelerator Cannon
+Uranium Charge L, Qty: 400
+Sensor Booster I
+Sensor Booster I
+Magnetic Field Stabilizer I
+Magnetic Field Stabilizer I
+Magnetic Field Stabilizer I
+Radioisotope Explosive Hardener I
+Radioisotope Explosive Hardener I
+Large Shield Transporter I (Cargo)
+Fixed Parallel Link-Capacitor I, Qty: 5 (Cargo)
+Initiated Warp Jammer I (Cargo)
+Medium Armor Repairer II (Cargo)
+Uranium Charge L, Qty: 3375 (Cargo)
+Tungsten Charge L, Qty: 3825 (Cargo)
+Wasp I, Qty: 3 (Cargo)
+Magnetometric Backup Array I, Qty: 2 (Cargo)
+Magnetic Field Stabilizer I (Cargo)
+Voltaic Nanite Thermic Hardener I (Cargo)
+Voltaic Nanite Kinetic Hardener I (Cargo)
+Bouncer I, Qty: 5 (Drone Bay)
+Hornet I, Qty: 3 (Drone Bay)
+Wasp I (Drone Bay)
+Vespa I, Qty: 5 (Drone Bay)
+

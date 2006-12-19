@@ -1,0 +1,19 @@
+2007.03.06 23:25
+
+Victim: Neleva
+Alliance: None
+Corp: R.H. Umbrella Corporation
+Destroyed: Capsule
+System: F7C-H0
+Security: 0.0
+
+Involved parties:
+
+Name: Praetorian Mardou (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+

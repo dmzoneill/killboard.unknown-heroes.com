@@ -1,0 +1,56 @@
+2007.03.12 23:06
+
+Victim: Thorondor
+Alliance: Privateer Alliance
+Corp: Yakuza Corp
+Destroyed: Hyperion
+System: Jita
+Security: 0.9
+
+Involved parties:
+
+Name: MGONDIM
+Security: -1.4
+Alliance: Kith of Venal
+Corp: Comando Vermelho
+Ship: Ishkur
+Weapon: Infiltrator II
+
+Name: Sardinha enlatada
+Security: 1.3
+Alliance: Kith of Venal
+Corp: Comando Vermelho
+Ship: Thorax
+Weapon: Hammerhead II
+
+Name: Eversor
+Security: 3.5
+Alliance: Kith of Venal
+Corp: FW Inc
+Ship: Falcon
+Weapon: ECM - Multispectral Jammer II
+
+Name: Tregaron (laid the final blow)
+Security: 1.9
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Cyclone
+Weapon: 220mm Vulcan AutoCannon II
+
+
+Destroyed items:
+
+Modal Mega Neutron Particle Accelerator I
+Modal Mega Neutron Particle Accelerator I
+Modal Mega Neutron Particle Accelerator I
+Modal Mega Neutron Particle Accelerator I
+250mm Prototype I Gauss Gun
+Antimatter Charge L, Qty: 213
+Heavy Capacitor Booster II
+Damage Control II
+Energized Adaptive Nano Membrane I
+Antimatter Charge M, Qty: 899 (Cargo)
+Antimatter Charge L, Qty: 941 (Cargo)
+Cap Booster 800, Qty: 5 (Cargo)
+Ogre I, Qty: 2 (Drone Bay)
+

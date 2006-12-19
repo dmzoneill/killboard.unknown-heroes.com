@@ -1,0 +1,54 @@
+2006.11.10 20:47
+
+Victim: Mertyg
+Alliance: None
+Corp: StarHunt
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: LiBraga (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Eagle
+Weapon: 250mm Prototype I Gauss Gun
+
+Name: avelution
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Harpy
+Weapon: 125mm Railgun II
+
+Name: TheBelgarion
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Caracal
+Weapon: Advanced 'Limos' Heavy Missile Bay I
+
+Name: LizzyD
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Ishkur
+Weapon: Compulsive Multispectral ECM I
+
+Name: Kristinne
+Security: 0.3
+Alliance: O X I D E
+Corp: W33D Corp.
+Ship: Taranis
+Weapon: Taranis
+
+Name: Elfaen Ethenwe
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+

@@ -1,0 +1,23 @@
+2006.10.23 22:24
+
+Victim: Sinister Logic
+Alliance: The Core Collective
+Corp: U.N. SPACY
+Destroyed: Velator
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: avelution (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Manticore
+Weapon: Devastator Cruise Missile
+
+
+Destroyed items:
+
+Tritanium (Cargo)
+

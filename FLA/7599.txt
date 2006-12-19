@@ -1,0 +1,84 @@
+2006.09.24 09:05
+
+Victim: Soffiarme
+Alliance: Process of Elimination
+Corp: Occassus Republica
+Destroyed: Hawk
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Cockroach
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Vengeance
+Weapon: Vengeance
+
+Name: Erlir
+Security: 1.1
+Alliance: Freelancer Alliance
+Corp: Veturi
+Ship: Enyo
+Weapon: Enyo
+
+Name: XxSOULxX (laid the final blow)
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Ship: Thorax
+Weapon: 200mm Carbide Railgun I
+
+Name: Ian Storme
+Security: 1.1
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Ship: Ferox
+Weapon: Scourge Heavy Missile
+
+Name: Velithe
+Security: 1.0
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Jessica McDaniel
+Security: 1.1
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Blackbird
+Weapon: Scourge Heavy Missile
+
+Name: Stardust Mina
+Security: 1.6
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Ship: Rupture
+Weapon: Scourge Heavy Missile
+
+Name: Flashh Gorden
+Security: 0.6
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Ship: Ferox
+Weapon: XR-3200 Heavy Missile Bay
+
+
+Destroyed items:
+
+Standard Missile Launcher II
+Standard Missile Launcher II
+Bloodclaw Precision Light Missile, Qty: 100
+Eutectic I Capacitor Charge Array (Cargo)
+Dual Light Beam Laser II, Qty: 2 (Cargo)
+Small Capacitor Battery II, Qty: 3 (Cargo)
+350mm Carbide Railgun I (Cargo)
+Radio S, Qty: 2 (Cargo)
+Ultraviolet S, Qty: 4 (Cargo)
+Ballistic Control System I (Cargo)
+Gleam S (Cargo)
+Gremlin Rage Rocket, Qty: 582 (Cargo)
+Thorn Javelin Rocket, Qty: 140 (Cargo)
+

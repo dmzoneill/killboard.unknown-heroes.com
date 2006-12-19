@@ -1,0 +1,56 @@
+2006.09.29 17:07
+
+Victim: RESP
+Alliance: R.I.S.K
+Corp: RUS-SAGA
+Destroyed: Harpy
+System: X-7OMU
+Security: 0.0
+
+Involved parties:
+
+Name: Chiizukeeki (laid the final blow)
+Security: 3.3
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Jaguar
+Weapon: 150mm Light AutoCannon II
+
+Name: Bolinar
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Enyo
+Weapon: Enyo
+
+Name: W4RR10R
+Security: -1.5
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Capsule
+Weapon: X5 Prototype I Engine Enervator
+
+Name: jarson
+Security: -0.3
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Claw
+Weapon: Claw
+
+Name: Jumar Coldgin
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Crow
+Weapon: Sabretooth Light Missile
+
+
+Destroyed items:
+
+Light Neutron Blaster II
+Null S, Qty: 139
+Gremlin Rocket, Qty: 20
+1MN MicroWarpdrive I
+X5 Prototype I Engine Enervator
+Null S, Qty: 1674 (Cargo)
+

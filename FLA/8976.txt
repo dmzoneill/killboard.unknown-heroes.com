@@ -1,0 +1,67 @@
+2006.12.25 00:14
+
+Victim: Voyageur
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Destroyed: Muninn
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Jinx Jones (laid the final blow)
+Security: -1.7
+Alliance: None
+Corp: KIA Corp
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: J909
+Security: 0.6
+Alliance: None
+Corp: KIA Corp
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: M0rphine
+Security: 0.8
+Alliance: None
+Corp: KIA Corp
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: KIAEddZ
+Security: 4.1
+Alliance: None
+Corp: KIA Corp
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Necronomicon
+Security: 5.0
+Alliance: None
+Corp: KIA Corp
+Ship: Vagabond
+Weapon: Warrior II
+
+Name: Lord Aghnut
+Security: 1.2
+Alliance: None
+Corp: KIA Corp
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+
+Destroyed items:
+
+720mm Howitzer Artillery II
+Tremor M, Qty: 20
+Widowmaker Heavy Missile, Qty: 25
+Sensor Booster II
+Sensor Booster II
+Gyrostabilizer II
+Reactor Control Unit I
+Widowmaker Heavy Missile, Qty: 248 (Cargo)
+Hobgoblin II, Qty: 2 (Drone Bay)
+Acolyte II, Qty: 2 (Drone Bay)
+

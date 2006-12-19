@@ -1,0 +1,106 @@
+2007.01.21 21:50
+
+Victim: reched
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Destroyed: Hoarder
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: TheAvatar
+Security: -0.3
+Alliance: None
+Corp: 0utbreak
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Zyrtan Keb'Lektar
+Security: -1.7
+Alliance: None
+Corp: 0utbreak
+Ship: Typhoon
+Weapon: Bane Torpedo
+
+Name: siliconix
+Security: 2.2
+Alliance: None
+Corp: 0utbreak
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: SuXaR
+Security: 0.4
+Alliance: None
+Corp: 0utbreak
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Incinate (laid the final blow)
+Security: 2.7
+Alliance: None
+Corp: 0utbreak
+Ship: Vagabond
+Weapon: Dual 180mm AutoCannon II
+
+Name: FraXy
+Security: -4.2
+Alliance: None
+Corp: 0utbreak
+Ship: Guardian
+Weapon: Guardian
+
+Name: ScoRpS
+Security: 2.8
+Alliance: None
+Corp: 0utbreak
+Ship: Crow
+Weapon: Crow
+
+Name: Quarantine
+Security: 4.3
+Alliance: None
+Corp: 0utbreak
+Ship: Huginn
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Mindlles
+Security: 0.1
+Alliance: None
+Corp: 0utbreak
+Ship: Ishtar
+Weapon: 'Hypnos' Multispectral ECM I
+
+
+Destroyed items:
+
+Medium Shield Extender I
+Medium Shield Extender I
+Expanded Cargohold I
+EMP M, Qty: 1731 (Cargo)
+Thorium Charge L, Qty: 500 (Cargo)
+Uranium Charge S, Qty: 100 (Cargo)
+Thorium Charge M, Qty: 300 (Cargo)
+Uranium Charge L, Qty: 300 (Cargo)
+Guristas Iron Charge L, Qty: 1000 (Cargo)
+Iridium Charge L, Qty: 400 (Cargo)
+Lead Charge M, Qty: 300 (Cargo)
+Plutonium Charge L, Qty: 500 (Cargo)
+Tungsten Charge L, Qty: 300 (Cargo)
+Mjolnir Torpedo, Qty: 500 (Cargo)
+Wasp I, Qty: 2 (Cargo)
+Berserker I (Cargo)
+Flameburst Light Missile, Qty: 200 (Cargo)
+Sabretooth Light Missile, Qty: 100 (Cargo)
+Scourge Heavy Missile, Qty: 784 (Cargo)
+Widowmaker Heavy Missile, Qty: 600 (Cargo)
+Wrath Cruise Missile, Qty: 4640 (Cargo)
+Cataclysm Cruise Missile, Qty: 5700 (Cargo)
+Paradise Cruise Missile, Qty: 5979 (Cargo)
+Thorn Rocket, Qty: 100 (Cargo)
+Stalker F.O.F. Heavy Missile I, Qty: 100 (Cargo)
+Phoenix F.O.F. Cruise Missile I, Qty: 100 (Cargo)
+Hunter F.O.F. Cruise Missile I, Qty: 200 (Cargo)
+Obliterator F.O.F. Cruise Missile I, Qty: 300 (Cargo)
+

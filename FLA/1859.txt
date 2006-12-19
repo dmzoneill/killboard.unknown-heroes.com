@@ -1,0 +1,27 @@
+2007.01.07 02:23
+
+Victim: Nukuquqa Hestase
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Condor
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Captain Rickdick (laid the final blow)
+Security: -0.1
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Paradise Precision Cruise Missile
+
+
+Destroyed items:
+
+Sabretooth Light Missile, Qty: 40
+1MN MicroWarpdrive I
+Warp Disruptor I
+Mark I Generator Refitting: Diagnostic System
+Sabretooth Light Missile, Qty: 20 (Cargo)
+

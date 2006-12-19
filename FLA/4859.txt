@@ -1,0 +1,83 @@
+2007.04.17 20:54
+
+Victim: Ocara Nezus
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Caracal
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: abzzo (laid the final blow)
+Security: 1.7
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Zealot
+Weapon: Focused Medium Pulse Laser II
+
+Name: Zembla
+Security: 2.8
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Crow
+Weapon: Crow
+
+Name: Fitz Farseer
+Security: 0.5
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Hound
+Weapon: Devastator Cruise Missile
+
+Name: Razel
+Security: -0.4
+Alliance: Mercenary Coalition
+Corp: Seraphin Technologies
+Ship: Rapier
+Weapon: 280mm Howitzer Artillery II
+
+Name: Hans Roaming
+Security: 4.2
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Sabre
+Weapon: Sabre
+
+Name: ZEUS SSC
+Security: 1.8
+Alliance: Mercenary Coalition
+Corp: Seraphin Technologies
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: Kintail
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Taranis
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: Enosh Kerrim
+Security: -1.0
+Alliance: Mercenary Coalition
+Corp: Seraphin Technologies
+Ship: Astarte
+Weapon: Faint Warp Prohibitor I
+
+
+Destroyed items:
+
+Widowmaker Heavy Missile, Qty: 23
+Thunderbolt Heavy Missile, Qty: 55
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+Heavy Missile Launcher I
+Medium Neutron Saturation Injector I
+Warp Disruptor I
+Sensor Booster I
+Ballistic Control System I
+Hobgoblin I (Drone Bay)
+Acolyte I (Drone Bay)
+

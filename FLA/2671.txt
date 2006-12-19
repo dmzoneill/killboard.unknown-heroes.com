@@ -1,0 +1,96 @@
+2007.03.02 00:47
+
+Victim: Teck7
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Lachesis
+System: YZ-LQL
+Security: 0.0
+
+Involved parties:
+
+Name: LaughingClown
+Security: 1.2
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Rapier
+Weapon: Warrior II
+
+Name: IamnobodyCL
+Security: 5.0
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Pilgrim
+Weapon: Hammerhead II
+
+Name: Dark1 (laid the final blow)
+Security: 3.3
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Claw
+Weapon: 150mm Light AutoCannon II
+
+Name: Cmdr Sp0ck
+Security: 2.4
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Crusader
+Weapon: Crusader
+
+Name: Mankind mkII
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Reikoku
+Ship: Manticore
+Weapon: Cataclysm Cruise Missile
+
+Name: Tarhess
+Security: -4.0
+Alliance: Aftermath Alliance
+Corp: Master Miners
+Ship: Raptor
+Weapon: Raptor
+
+Name: V8i Smitty
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Crow
+Weapon: Flameburst Light Missile
+
+Name: Asquiro
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Rifter
+Weapon: Rifter
+
+Name: Orion Gawaine
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Helios
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: Lucentis
+Security: -0.1
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Anathema
+Weapon: Faint Epsilon Warp Prohibitor I
+
+
+Destroyed items:
+
+125mm Railgun II
+Uranium Charge S, Qty: 80
+Havoc Heavy Missile, Qty: 32
+XR-3200 Heavy Missile Bay
+'Malkuth' Heavy Missile Launcher I
+10MN MicroWarpdrive I
+Initiated Warp Jammer I
+Medium I-a Polarized Armor Regenerator
+Armor Explosive Hardener II
+Cap Booster 400, Qty: 4 (Cargo)
+Scourge Heavy Missile, Qty: 150 (Cargo)
+

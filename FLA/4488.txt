@@ -1,0 +1,33 @@
+2007.04.11 15:11
+
+Victim: Celdrahil
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Destroyed: Buzzard
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: The Ali (laid the final blow)
+Security: -3.2
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Vagabond
+Weapon: Hobgoblin II
+
+Name: Gordon Red
+Security: 2.1
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Heretic
+Weapon: Heretic
+
+Name: volly
+Security: 3.7
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Curse
+Weapon: Thunderbolt Heavy Missile
+
+

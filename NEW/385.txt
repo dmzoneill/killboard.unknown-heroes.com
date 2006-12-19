@@ -1,0 +1,39 @@
+2007.03.18 04:29
+
+Victim: dardwonderful
+Alliance: Xelas Alliance
+Corp: Requiem of Hades
+Destroyed: Caldari Shuttle
+System: F7C-H0
+Security: 0.0
+
+Involved parties:
+
+Name: Cyrila Wolf (laid the final blow)
+Security: -2.2
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Muninn
+Weapon: 720mm Howitzer Artillery II
+
+Name: Ahramaine
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Taranis
+Weapon: Taranis
+
+Name: Kandread
+Security: 0.6
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Claw
+Weapon: X5 Prototype I Engine Enervator
+
+Name: Alski
+Security: 3.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ares
+Weapon: Standard Missile Launcher I
+

@@ -1,0 +1,19 @@
+2007.04.10 19:31
+
+Victim: DrunkenOne
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Destroyed: Capsule
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Dark Carnage (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Scorpion
+Weapon: Large Proton Smartbomb I
+
+

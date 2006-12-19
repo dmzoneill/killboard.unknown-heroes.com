@@ -1,0 +1,58 @@
+2006.12.15 18:04
+
+Victim: Rhaall
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Destroyed: Crucifier
+System: K4YZ-Y
+Security: 0.0
+
+Involved parties:
+
+Name: Dival
+Security: 5.0
+Alliance: None
+Corp: Princeps Corp
+Ship: Rupture
+Weapon: Flameburst Light Missile
+
+Name: Vrivona
+Security: 5.0
+Alliance: None
+Corp: Princeps Corp
+Ship: Flycatcher
+Weapon: Bloodclaw Light Missile
+
+Name: Terell (laid the final blow)
+Security: 5.0
+Alliance: None
+Corp: Princeps Corp
+Ship: Celestis
+Weapon: Thunderbolt Heavy Missile
+
+Name: Cronos01
+Security: 3.5
+Alliance: None
+Corp: Princeps Corp
+Ship: Omen
+Weapon: Omen
+
+Name: stich626
+Security: -1.1
+Alliance: None
+Corp: Princeps Corp
+Ship: Vexor
+Weapon: Warp Disruptor I
+
+Name: Rinkos Alaine
+Security: 3.5
+Alliance: None
+Corp: Princeps Corp
+Ship: Thorax
+Weapon: Heavy Ion Blaster I
+
+
+Destroyed items:
+
+50mm Reinforced Rolled Tungsten Plates I
+

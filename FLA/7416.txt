@@ -1,0 +1,40 @@
+2006.09.03 14:56
+
+Victim: Thorn Glawer
+Alliance: E.R.A
+Corp: Millennium
+Destroyed: Capsule
+System: Mara
+Security: 0.4
+
+Involved parties:
+
+Name: Minesweeper
+Security: 2.8
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Cyclone
+Weapon: Indirect Scanning Dampening Unit I
+
+Name: keilapuukko (laid the final blow)
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Harpy
+Weapon: Light Neutron Blaster II
+
+Name: Ione79
+Security: 2.4
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Thorax
+Weapon: Light Neutron Blaster II
+
+Name: Hosanna
+Security: -2.4
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Jaguar
+Weapon: Warp Scrambler I
+
+

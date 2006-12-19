@@ -1,0 +1,101 @@
+2007.03.24 23:43
+
+Victim: coldkill
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Destroyed: Megathron
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Keflin Geard
+Security: 5.0
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Raven
+Weapon: Mjolnir Javelin Torpedo
+
+Name: Grey Badger (laid the final blow)
+Security: 5.4
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Ship: Raven
+Weapon: Inferno Torpedo
+
+Name: GODFATHER
+Security: 5.0
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Ship: Megathron
+Weapon: Megathron
+
+Name: C4w3
+Security: 1.3
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Ship: Raven
+Weapon: Inferno Torpedo
+
+Name: El Chingon
+Security: -3.1
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Ship: Scorpion
+Weapon: Devastator Cruise Missile
+
+Name: Varaxian
+Security: 3.2
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: albert camus
+Security: -8.3
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Ship: Claw
+Weapon: Claw
+
+Name: Elfe
+Security: 4.4
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Thorax
+Weapon: Thorax
+
+Name: khazid
+Security: 5.0
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Ship: Ferox
+Weapon: Scourge Heavy Missile
+
+Name: Angie Mitchell
+Security: 0.6
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Crusader
+Weapon: Crusader
+
+Name: WildCard
+Security: 4.3
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+
+Destroyed items:
+
+425mm Railgun II
+425mm Railgun II
+Javelin L, Qty: 120
+Sensor Booster II
+Medium Armor Repairer II
+Magnetic Field Stabilizer II
+Magnetic Field Stabilizer II
+Hobgoblin II, Qty: 3 (Drone Bay)
+Hammerhead II, Qty: 4 (Drone Bay)
+

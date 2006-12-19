@@ -1,0 +1,43 @@
+2007.04.03 14:38
+
+Victim: SniperMcBob
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Destroyed: Blackbird
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Debian Executer
+Security: 3.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Hurricane
+Weapon: Hobgoblin II
+
+Name: MegaJ (laid the final blow)
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Pilgrim
+Weapon: Hammerhead II
+
+Name: ZaKma
+Security: -0.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Wolf
+Weapon: 250mm Light Artillery Cannon II
+
+
+Destroyed items:
+
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+Cap Recharger I
+ECM - Multispectral Jammer I
+ECM - Multispectral Jammer I
+Signal Distortion Amplifier I
+Havoc Heavy Missile, Qty: 168 (Cargo)
+

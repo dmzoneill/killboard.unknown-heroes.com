@@ -1,0 +1,19 @@
+2007.04.10 08:54
+
+Victim: Trigger64
+Alliance: Firmus Ixion
+Corp: Black Avatar
+Destroyed: Capsule
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: ClogMan (laid the final blow)
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Jaguar
+Weapon: 150mm Light AutoCannon II
+
+

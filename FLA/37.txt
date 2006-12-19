@@ -1,0 +1,47 @@
+2007.01.01 21:23
+
+Victim: GateRunnerChicka
+Alliance: None
+Corp: State War Academy
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: TiMeZeRo225
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: J.I.T. Enterprises
+Ship: Crow
+Weapon: Dread Guristas Stasis Webifier
+
+Name: Maefly
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: Lux0r (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Hawk
+Weapon: Bloodclaw Precision Light Missile
+
+Name: Maximus Caelum
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: Sin-X Inc.
+Ship: Hawk
+Weapon: 'Arbalest' Standard Missile Launcher
+
+Name: BladeMos
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Falcon
+Weapon: Heavy Missile Launcher I
+
+

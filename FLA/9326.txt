@@ -1,0 +1,25 @@
+2007.05.07 18:59
+
+Victim: Aneroi
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Destroyed: Incursus
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Karehb (laid the final blow)
+Security: 5.0
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Crusader
+Weapon: Dual Light Beam Laser II
+
+
+Destroyed items:
+
+Small Nosferatu I
+Small Nosferatu I
+1MN MicroWarpdrive I
+

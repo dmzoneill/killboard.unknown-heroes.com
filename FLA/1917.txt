@@ -1,0 +1,57 @@
+2007.01.11 01:06
+
+Victim: Alezra
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Dominix
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Feyd Mantis
+Security: 2.6
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Tempest
+Weapon: Tempest
+
+Name: SATAN
+Security: -0.8
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Vespa II
+
+Name: DHB WildCat (laid the final blow)
+Security: -1.2
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Cataclysm Cruise Missile
+
+Name: heavensfire
+Security: 3.1
+Alliance: None
+Corp: United Allies
+Ship: Pilgrim
+Weapon: Valkyrie I
+
+
+Destroyed items:
+
+350mm Railgun I
+350mm Railgun I
+Tungsten Charge L, Qty: 153
+F-b10 Nominal Capacitor Regenerator
+100MN Afterburner I
+Drone Navigation Computer I
+Drone Navigation Computer I
+Omnidirectional Tracking Link I
+Damage Control I
+Microcell Nanite Kinetic Hardener I
+Tungsten Charge L, Qty: 1914 (Cargo)
+Warden I, Qty: 5 (Drone Bay)
+Wasp I, Qty: 2 (Drone Bay)
+Hornet I, Qty: 3 (Drone Bay)
+

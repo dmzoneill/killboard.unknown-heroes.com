@@ -1,0 +1,76 @@
+2006.11.25 21:06
+
+Victim: Adoro
+Alliance: Lotka Volterra
+Corp: adeptus gattacus
+Destroyed: Thorax
+System: J-CIJV
+Security: 0.0
+
+Involved parties:
+
+Name: Hosanna
+Security: 3.1
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Noitaakka
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Vexor
+Weapon: Vexor
+
+Name: W4RR10R
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Ishtar
+Weapon: Valkyrie II
+
+Name: Karas Rabus (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Stabber
+Weapon: Dual 180mm AutoCannon II
+
+Name: Jumar Coldgin
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Rook
+Weapon: Sabretooth Precision Light Missile
+
+Name: keilapuukko
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Megathron
+Weapon: Fleeting Warp Scrambler I
+
+Name: Zalamus
+Security: 4.4
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Dominix
+Weapon: E500 Prototype Energy Vampire
+
+
+Destroyed items:
+
+Heavy Electron Blaster II
+Heavy Electron Blaster II
+Heavy Electron Blaster II
+Heavy Electron Blaster II
+Null M, Qty: 200
+10MN MicroWarpdrive I
+Damage Control I
+Medium Armor Repairer II
+Adaptive Nano Plating II
+800mm Reinforced Steel Plates I
+Null M, Qty: 1743 (Cargo)
+Hammerhead I, Qty: 5 (Drone Bay)
+

@@ -1,0 +1,77 @@
+2007.03.25 14:31
+
+Victim: Girrie
+Alliance: Eternal Rapture
+Corp: Exotic Dancers Club
+Destroyed: Raven
+System: QXW-PV
+Security: 0.0
+
+Involved parties:
+
+Name: XtyphoonX (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Raven
+Weapon: Bane Torpedo
+
+Name: darkviron
+Security: 2.8
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Drake
+Weapon: Hobgoblin II
+
+Name: StrikerOneSevern
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Rupture
+Weapon: Rupture
+
+Name: RythemAndStealth
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Omen
+Weapon: Medium Beam Laser II
+
+Name: EM00
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Capsule
+Weapon: Heavy Missile Launcher I
+
+Name: Zephia
+Security: -8.7
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Omen
+Weapon: Warrior I
+
+Name: Esk Esme
+Security: 1.1
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Flycatcher
+Weapon: Rocket Launcher II
+
+
+Destroyed items:
+
+Siege Missile Launcher II
+Mjolnir Javelin Torpedo, Qty: 22
+Juggernaut Javelin Torpedo, Qty: 11
+Inferno Javelin Torpedo, Qty: 11
+X-Large C5-L Emergency Shield Overload I
+Heavy Capacitor Booster II
+Sensor Booster I
+Ionic Field Accelerator I
+Co-Processor II
+Ballistic Control System II
+Ballistic Control System II
+Power Diagnostic System II
+Mjolnir Javelin Torpedo, Qty: 246 (Cargo)
+

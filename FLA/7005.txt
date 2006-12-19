@@ -1,0 +1,140 @@
+2006.12.19 21:58
+
+Victim: boo3916
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Destroyed: Dominix
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Selena 001
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Megathron
+Weapon: Megathron
+
+Name: KHMBLR
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: X.T.R
+Ship: Raven
+Weapon: Vespa II
+
+Name: Odinegras
+Security: 3.5
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Capsule
+Weapon: 425mm Railgun I
+
+Name: Sasham
+Security: 4.2
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+Name: Xantheris (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: dccbx
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: X.T.R
+Ship: Typhoon
+Weapon: Juggernaut Torpedo
+
+Name: Knight Picard
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Ship: Tristan
+Weapon: Tristan
+
+Name: arthell
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Vexor
+Weapon: Infiltrator I
+
+Name: Mocuker
+Security: 0.6
+Alliance: Freelancer Alliance
+Corp: X.T.R
+Ship: Ferox
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+Name: Djihn
+Security: -0.1
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Scorpion
+Weapon: Wrath Cruise Missile
+
+Name: Kryton55
+Security: 4.5
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Mokh'Tar
+Security: 2.6
+Alliance: Freelancer Alliance
+Corp: Caldar Mercenary Syndicate
+Ship: Raven
+Weapon: Wrath Cruise Missile
+
+Name: Deathbringer III
+Security: 1.7
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Vigil
+Weapon: 220mm Medium Gallium I Machine Gun
+
+Name: Merkord Mikula
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Stabber
+Weapon: Stabber
+
+
+Destroyed items:
+
+E500 Prototype Energy Vampire
+E500 Prototype Energy Vampire
+250mm Railgun II
+250mm Railgun II
+Antimatter Charge M, Qty: 120
+Fleeting Propulsion Inhibitor I
+ECM - Multispectral Jammer II
+Alumel-Wired I Sensor Augmentation
+F85 Peripheral Damage System I
+Large Armor Repairer II
+Energized Adaptive Nano Membrane II
+Armor Explosive Hardener II
+Armor Kinetic Hardener I
+'Langour' Drive Disruptor I (Cargo)
+Heavy 'Knave' I Energy Drain (Cargo)
+Regulated Light Electron Phase Cannon I (Cargo)
+Antimatter Charge S, Qty: 4791 (Cargo)
+F-90 Positional Sensor Subroutines, Qty: 2 (Cargo)
+Ballistic Control System II (Cargo)
+Target Painter I (Cargo)
+Gremlin Rocket, Qty: 940 (Cargo)
+'Malkuth' Rocket Launcher I (Cargo)
+Siege Missile Launcher II, Qty: 2 (Cargo)
+Valkyrie II, Qty: 3 (Drone Bay)
+Warrior II, Qty: 3 (Drone Bay)
+Praetor II (Drone Bay)
+Ogre II (Drone Bay)
+

@@ -1,0 +1,67 @@
+2007.04.01 22:45
+
+Victim: Grantavious
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Destroyed: Wolf
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: nye 2k (laid the final blow)
+Security: 5.0
+Alliance: None
+Corp: Silver Snake Enterprise
+Ship: Hawk
+Weapon: Bloodclaw Light Missile
+
+Name: Deathratt
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: TordenSkiold
+Security: -0.9
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Ship: Taranis
+Weapon: Infiltrator EV-600
+
+Name: Danielson1012
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Moa
+Weapon: Heavy Missile Launcher I
+
+Name: Loograsch
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: United Forces
+Ship: Unknown
+Weapon: 125mm 'Scout' I Accelerator Cannon
+
+Name: Logand Delta
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Ship: Drake
+Weapon: 'Arbalest' Heavy Missile Launcher
+
+
+Destroyed items:
+
+250mm Light Artillery Cannon II
+250mm Light Artillery Cannon II
+Quake S, Qty: 30
+1MN MicroWarpdrive II
+Adaptive Nano Plating II
+Energized Reactive Membrane II
+Phased Plasma S, Qty: 1352 (Cargo)
+EMP S, Qty: 800 (Cargo)
+Tremor S, Qty: 973 (Cargo)
+Quake S, Qty: 720 (Cargo)
+

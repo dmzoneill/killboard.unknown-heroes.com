@@ -1,0 +1,24 @@
+2006.11.23 04:36
+
+Victim: Lain's Dad
+Alliance: None
+Corp: Imperial Academy
+Destroyed: Impairor
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Jaig Maldara (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Flycatcher
+Weapon: Serpent F.O.F. Light Missile I
+
+
+Destroyed items:
+
+Basic Miner
+Tritanium (Cargo)
+

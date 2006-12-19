@@ -1,0 +1,68 @@
+2006.09.02 17:56
+
+Victim: Maynardd
+Alliance: None
+Corp: Provence Express
+Destroyed: Bustard
+System: Sobaseki
+Security: 0.8
+
+Involved parties:
+
+Name: Exitium II (laid the final blow)
+Security: -2.5
+Alliance: None
+Corp: Drunk in Public
+Ship: Brutix
+Weapon: Infiltrator II
+
+Name: Slaa'n Kunei
+Security: 0.0
+Alliance: None
+Corp: Joy Tech
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Cockroach
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Punisher
+Weapon: Punisher
+
+Name: electrosquid
+Security: 0.1
+Alliance: None
+Corp: Tom's Steel Soldiers
+Ship: Caracal
+Weapon: Hobgoblin I
+
+Name: Sotam Sant'e
+Security: 0.0
+Alliance: None
+Corp: Joy Tech
+Ship: Eos
+Weapon: Eos
+
+Name: Gikanzin
+Security: 1.5
+Alliance: None
+Corp: Griffin Inc.
+Ship: Thrasher
+Weapon: Thrasher
+
+Name: Zan Haysen
+Security: 0.0
+Alliance: None
+Corp: Joy Tech
+Ship: Lachesis
+Weapon: Lachesis
+
+
+Destroyed items:
+
+Large Shield Booster II
+'Copasetic' I Particle Field Acceleration
+'Copasetic' I Particle Field Acceleration
+Sooth Sayer, Qty: 6875 (Cargo)
+

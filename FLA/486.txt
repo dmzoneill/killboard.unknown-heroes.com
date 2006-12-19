@@ -1,0 +1,81 @@
+2007.02.06 03:35
+
+Victim: CLEISTHENES2
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Destroyed: Claw
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Mystical Angel (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: Aranon Ogronios
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: Jaig Maldara
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Cormorant
+Weapon: Cormorant
+
+Name: reched
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Rupture
+Weapon: Rupture
+
+Name: Xantheris
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Harpy
+Weapon: Harpy
+
+Name: Korudon
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Ferox
+Weapon: 250mm Railgun I
+
+Name: Fugnut
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Raven
+Weapon: 350mm Prototype I Gauss Gun
+
+Name: DarkAvenger DK
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Blackbird
+Weapon: Target Painter I
+
+
+Destroyed items:
+
+150mm Light AutoCannon II
+150mm Light AutoCannon II
+Barrage S, Qty: 78
+Foxfire Rocket, Qty: 29
+'Arbalest' Rocket Launcher I
+1MN MicroWarpdrive II
+Mark I Modified SS Inertial Stabilizers
+Beta Hull Mod Nanofiber Structure
+1600mm Reinforced Rolled Tungsten Plates I (Cargo)
+Foxfire Rocket, Qty: 4885 (Cargo)
+

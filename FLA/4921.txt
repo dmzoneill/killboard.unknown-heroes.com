@@ -1,0 +1,48 @@
+2007.04.20 00:27
+
+Victim: Bobby Atlas
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Blackbird
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Savak (laid the final blow)
+Security: -0.2
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Armageddon
+Weapon: Dual Heavy Anode Pulse Particle Stream I
+
+Name: RuLuVdArR
+Security: 0.0
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Incursus
+Weapon: Incursus
+
+Name: Akthuul
+Security: 5.0
+Alliance: Storm Armada
+Corp: stone grave haulage
+Ship: Falcon
+Weapon: Widowmaker Heavy Missile
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Thunderbolt Heavy Missile, Qty: 27
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Large Supplemental Barrier Emitter I
+Medium Converse I Deflection Catalyzer
+ECM - Multispectral Jammer I
+Magnetic Scattering Amplifier I
+Ballistic Control System I
+Signal Distortion Amplifier I
+Scourge Heavy Missile, Qty: 115 (Cargo)
+Thunderbolt Heavy Missile, Qty: 55 (Cargo)
+

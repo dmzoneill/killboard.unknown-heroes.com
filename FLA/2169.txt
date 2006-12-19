@@ -1,0 +1,40 @@
+2007.01.28 00:26
+
+Victim: Polysorbate
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Badger Mark II
+System: MZ1E-P
+Security: 0.0
+
+Involved parties:
+
+Name: Iceman DK
+Security: 1.4
+Alliance: None
+Corp: Righteous Choirboys
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: JMcClane
+Security: 4.3
+Alliance: None
+Corp: Righteous Choirboys
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Boogiez (laid the final blow)
+Security: 1.4
+Alliance: None
+Corp: Righteous Choirboys
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+Medium Shield Extender I
+Medium Shield Extender I
+Medium Shield Booster I
+Expanded Cargohold I
+

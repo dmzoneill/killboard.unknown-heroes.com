@@ -1,0 +1,30 @@
+2007.03.18 01:01
+
+Victim: Kandread
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Destroyed: Claw
+System: O-BDXB
+Security: 0.0
+
+Involved parties:
+
+Name: Heikki (laid the final blow)
+Security: 2.0
+Alliance: None
+Corp: Wreckless Abandon
+Ship: Vindicator
+Weapon: Mizuro's Modified Large Proton Smartbomb
+
+
+Destroyed items:
+
+250mm Light Artillery Cannon II
+Tremor S, Qty: 40
+Gremlin Rocket, Qty: 30
+'Malkuth' Rocket Launcher I
+Inertia Stabilizers I
+Inertia Stabilizers I
+Tremor S, Qty: 479 (Cargo)
+Gremlin Rocket, Qty: 194 (Cargo)
+

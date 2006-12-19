@@ -1,0 +1,39 @@
+2007.01.24 09:36
+
+Victim: GBoS
+Alliance: Privateer Alliance
+Corp: Beyond Divinity Inc
+Destroyed: Thorax
+System: Jita
+Security: 0.9
+
+Involved parties:
+
+Name: Nova Paradise (laid the final blow)
+Security: 1.2
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: NeoShocker
+Security: 3.0
+Alliance: R0ADKILL
+Corp: Foundation
+Ship: Ferox
+Weapon: Widowmaker Heavy Missile
+
+
+Destroyed items:
+
+Heavy Electron Blaster II
+Null M, Qty: 548
+10MN MicroWarpdrive I
+X5 Prototype I Engine Enervator
+Medium Armor Repairer II
+400mm Reinforced Rolled Tungsten Plates I
+Antimatter Charge M, Qty: 2386 (Cargo)
+Null M, Qty: 1200 (Cargo)
+Void M, Qty: 805 (Cargo)
+Valkyrie II, Qty: 2 (Drone Bay)
+

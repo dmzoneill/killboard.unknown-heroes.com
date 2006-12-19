@@ -1,0 +1,30 @@
+2007.04.29 02:12
+
+Victim: Nukuquqa Hestase
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Crow
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Fitz Farseer (laid the final blow)
+Security: 0.5
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Rupture
+Weapon: Sabretooth Light Missile
+
+
+Destroyed items:
+
+Prototype Cloaking Device I
+Sabretooth Light Missile, Qty: 26
+Upgraded 'Limos' Standard Missile Bay I, Qty: 2
+Cap Recharger II
+Shadow Serpentis 1MN MicroWarpdrive
+Warp Disruptor II
+Nanofiber Internal Structure II
+Overdrive Injector System II, Qty: 2
+Bloodclaw Light Missile, Qty: 227 (Cargo)

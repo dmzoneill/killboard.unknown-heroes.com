@@ -1,0 +1,33 @@
+2006.11.05 22:57
+
+Victim: Akip
+Alliance: None
+Corp: MetaForge
+Destroyed: Minmatar Shuttle
+System: J-CIJV
+Security: 0.0
+
+Involved parties:
+
+Name: Formosus Funus
+Security: 3.5
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Thrasher
+Weapon: 250mm Light Artillery Cannon I
+
+Name: Wthor (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Sabre
+Weapon: 250mm Light Artillery Cannon II
+
+Name: LizzyD
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Ishkur
+Weapon: 150mm Railgun II
+
+

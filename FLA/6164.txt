@@ -1,0 +1,47 @@
+2006.11.09 14:51
+
+Victim: egotrip
+Alliance: None
+Corp: Phoenix Fate
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: LiBraga
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Eagle
+Weapon: 250mm Prototype I Gauss Gun
+
+Name: jacass66 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Enyo
+Weapon: 125mm Railgun I
+
+Name: Wousr
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: Liquid Neon
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Crow
+Weapon: Stasis Webifier I
+
+Name: Dog Cancer
+Security: 1.4
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Crow
+Weapon: Stasis Webifier I
+
+

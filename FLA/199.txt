@@ -1,0 +1,26 @@
+2007.01.17 22:56
+
+Victim: Kendrack Katarn
+Alliance: None
+Corp: KHAOS-BLADE
+Destroyed: Mammoth
+System: 5ZXX-K
+Security: 0.0
+
+Involved parties:
+
+Name: Jester87 (laid the final blow)
+Security: 1.3
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+Name: yumelwen
+Security: 2.0
+Alliance: Mordus Angels
+Corp: Halfwits
+Ship: Typhoon
+Weapon: Fleeting Warp Scrambler I
+
+

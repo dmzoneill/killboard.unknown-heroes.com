@@ -1,0 +1,113 @@
+2007.03.18 03:31
+
+Victim: xargis
+Alliance: YouWhat
+Corp: Pringles Inc.
+Destroyed: Vengeance
+System: QXW-PV
+Security: 0.0
+
+Involved parties:
+
+Name: Cyrila Wolf (laid the final blow)
+Security: -2.2
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Muninn
+Weapon: 720mm Howitzer Artillery II
+
+Name: Kaand
+Security: 3.5
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Megathron
+Weapon: Megathron
+
+Name: Rhokel
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: The Night Crew
+Ship: Harpy
+Weapon: Harpy
+
+Name: Ahramaine
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Taranis
+Weapon: Warrior I
+
+Name: MrMaggot
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Hawk
+Weapon: Piranha Light Missile
+
+Name: Kandread
+Security: 0.6
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Claw
+Weapon: Claw
+
+Name: Averenor
+Security: 4.4
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Megathron
+Weapon: 425mm Prototype I Gauss Gun
+
+Name: TroNaaR
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ishkur
+Weapon: 125mm Railgun II
+
+Name: Logand Delta
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Ship: Drake
+Weapon: Thunderbolt Heavy Missile
+
+Name: Sovo
+Security: -0.6
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Stabber
+Weapon: Stabber
+
+Name: chota
+Security: 5.0
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Rapier
+Weapon: 650mm Medium 'Scout' Artillery I
+
+Name: Ronokez
+Security: 3.1
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Merlin
+Weapon: Warp Disruptor I
+
+Name: Katsumi Ito
+Security: 0.1
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Tristan
+Weapon: Tristan
+
+
+Destroyed items:
+
+Aurora S, Qty: 3
+Bloodclaw Light Missile, Qty: 40
+Standard Missile Launcher I
+1MN Afterburner I
+J5 Prototype Warp Inhibitor I
+'Langour' Drive Disruptor I
+Small Armor Repairer II
+Energized Thermic Membrane I

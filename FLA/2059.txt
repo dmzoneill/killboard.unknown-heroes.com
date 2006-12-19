@@ -1,0 +1,147 @@
+2007.01.19 21:42
+
+Victim: Siliya
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Rokh
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Malafor
+Security: -1.2
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: xlop
+Security: -1.2
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Megathron
+Weapon: Megathron
+
+Name: boo3916
+Security: 4.7
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Raven
+Weapon: Bane Javelin Torpedo
+
+Name: oneevil mother
+Security: -1.3
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: taylor04
+Security: 0.4
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Tempest
+Weapon: Tempest
+
+Name: Elliott Manchild
+Security: -0.5
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: ukpAgAn (laid the final blow)
+Security: 5.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Brisky T'Pol
+Security: 1.2
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Tempest
+Weapon: XR-3200 Heavy Missile Bay
+
+Name: Unfortunate Accident
+Security: -1.9
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: ArchenTheGreat
+Security: -2.1
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Dominix
+Weapon: Dominix
+
+Name: aadom
+Security: 3.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Tempest
+Weapon: 1400mm Carbine Howitzer I
+
+Name: turumbor
+Security: -1.7
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Chaser Wolf
+Security: 1.8
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Crow
+Weapon: Thorn Rocket
+
+Name: hardgit
+Security: 0.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Raven
+Weapon: Siege Missile Launcher II
+
+Name: Pistonbroke
+Security: 0.4
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Scorpion
+Weapon: 'Limos' Cruise Launcher I
+
+Name: Phrixus Zephyr
+Security: 0.8
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Arazu
+Weapon: 250mm Railgun II
+
+Name: K Shara
+Security: 4.8
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Raven
+Weapon: Cruise Missile Launcher II
+
+
+Destroyed items:
+
+425mm Railgun I
+425mm Railgun I
+425mm Railgun I
+425mm Railgun I
+425mm Railgun I
+Plutonium Charge L, Qty: 110
+X-Large C5-L Emergency Shield Overload I
+Eutectic I Capacitor Charge Array
+Non-Inertial Ballistic Screen Augmentation I
+Tracking Enhancer II
+Magnetic Field Stabilizer II
+Local Power Plant Manager: Diagnostic System I
+Vespa I (Drone Bay)
+

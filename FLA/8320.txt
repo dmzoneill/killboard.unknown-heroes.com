@@ -1,0 +1,26 @@
+2006.11.08 20:30
+
+Victim: SleepyOSU
+Alliance: Freelancer Alliance
+Corp: Sin-X Inc.
+Destroyed: Capsule
+System: Haajinen
+Security: 0.8
+
+Involved parties:
+
+Name: TranZferR
+Security: -1.8
+Alliance: None
+Corp: The Initiative
+Ship: Arazu
+Weapon: Valkyrie II
+
+Name: Yarek Balear (laid the final blow)
+Security: -1.8
+Alliance: None
+Corp: The Initiative
+Ship: Megathron
+Weapon: Berserker II
+
+

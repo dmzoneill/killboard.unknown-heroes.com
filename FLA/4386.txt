@@ -1,0 +1,19 @@
+2007.04.09 01:58
+
+Victim: Christopher Cook
+Alliance: Freelancer Alliance
+Corp: Terminal Velocity Inc.
+Destroyed: Capsule
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Hroller McKnutt (laid the final blow)
+Security: 0.3
+Alliance: Freelancer Alliance
+Corp: ACCORD Industries
+Ship: Thorax
+Weapon: Medium YF-12a Smartbomb
+
+

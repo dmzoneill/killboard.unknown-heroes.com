@@ -1,0 +1,40 @@
+2007.03.10 15:24
+
+Victim: g 402a
+Alliance: Chorus of Dawn
+Corp: Free Lapland
+Destroyed: Capsule
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: william kronos (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Altanzar
+Security: 4.5
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Ship: Taranis
+Weapon: Taranis
+
+Name: other mickey
+Security: 2.9
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Ares
+Weapon: Ares
+
+Name: Lancelot Wellborn
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Myrmidon
+Weapon: Dread Guristas Warp Disruptor
+
+

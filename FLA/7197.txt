@@ -1,0 +1,49 @@
+2006.12.31 13:31
+
+Victim: Bochum
+Alliance: EntroPraetorian Aegis
+Corp: UberWtfBBQ and Battle Technologies Ltd
+Destroyed: Brutix
+System: Costolle
+Security: 0.2
+
+Involved parties:
+
+Name: kitely het (laid the final blow)
+Security: -2.6
+Alliance: Freelancer Alliance
+Corp: Sin-X Inc.
+Ship: Drake
+Weapon: Thunderbolt Heavy Missile
+
+Name: wu wu
+Security: -1.5
+Alliance: Xelas Alliance
+Corp: Sword OF Chairman Mao
+Ship: Brutix
+Weapon: Small 'Knave' I Energy Drain
+
+Name: Serpentis Chief Patroller / Serpentis Corporation
+
+
+Destroyed items:
+
+Limited Neutron Blaster I
+Limited Neutron Blaster I
+Limited Neutron Blaster I
+Limited Neutron Blaster I
+Antimatter Charge M, Qty: 243
+Iridium Charge S, Qty: 73
+Barton Reactor Capacitor Recharger I
+10MN MicroWarpdrive I
+Medium Armor Repairer II
+Warp Core Stabilizer I
+Energized Adaptive Nano Membrane I
+Nanofiber Internal Structure I
+Stasis Webifier I (Cargo)
+Iridium Charge S, Qty: 361 (Cargo)
+Lead Charge M, Qty: 100 (Cargo)
+Iridium Charge M, Qty: 151 (Cargo)
+ECCM Projector I (Cargo)
+50mm Reinforced Titanium Plates I (Cargo)
+

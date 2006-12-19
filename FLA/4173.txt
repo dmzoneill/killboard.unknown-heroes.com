@@ -1,0 +1,44 @@
+2007.04.03 14:44
+
+Victim: Denaris1
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Destroyed: Caracal
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Tomas Ysidro (laid the final blow)
+Security: 1.3
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Myrmidon
+Weapon: Ogre II
+
+Name: Debian Executer
+Security: 3.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: Rukaz
+Security: 3.1
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Sabre
+Weapon: Sabre
+
+
+Destroyed items:
+
+Thunderbolt Heavy Missile, Qty: 90
+Advanced 'Limos' Heavy Missile Bay I
+Heavy Missile Launcher I
+Indirect Scanning Dampening Unit I
+Indirect Scanning Dampening Unit I
+Ballistic Control System I
+Local Power Plant Manager: Capacitor Flux I
+Thunderbolt Heavy Missile, Qty: 530 (Cargo)
+

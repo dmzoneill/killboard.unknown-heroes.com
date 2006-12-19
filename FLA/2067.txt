@@ -1,0 +1,82 @@
+2007.01.19 22:30
+
+Victim: Sanal Gi
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Scorpion
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Malafor
+Security: -1.2
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: McGin
+Security: -3.5
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Megathron
+Weapon: Megathron
+
+Name: taylor04 (laid the final blow)
+Security: 0.4
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: aadom
+Security: 3.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Tempest
+Weapon: Tempest
+
+Name: Elliott Manchild
+Security: -0.5
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: hardgit
+Security: 0.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Raven
+Weapon: Siege Missile Launcher II
+
+Name: Pistonbroke
+Security: 0.4
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Scorpion
+Weapon: ECM - Multispectral Jammer II
+
+Name: Anna Neura
+Security: -0.2
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Lachesis
+Weapon: Remote Sensor Dampener II
+
+
+Destroyed items:
+
+425mm 'Scout' I Accelerator Cannon
+425mm 'Scout' I Accelerator Cannon
+Antimatter Charge L, Qty: 29
+ZW-4100 Siege Missile Bay
+ZW-4100 Siege Missile Bay
+Induced Multispectral ECM I
+Shield Boost Amplifier I
+Type-D Power Core Modification: Diagnostic System
+Type-D Power Core Modification: Reaction Control
+Inferno Torpedo, Qty: 2000 (Cargo)
+Ogre I, Qty: 2 (Drone Bay)
+

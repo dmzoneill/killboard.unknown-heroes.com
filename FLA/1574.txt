@@ -1,0 +1,26 @@
+2007.03.17 05:25
+
+Victim: DeathGrip
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Destroyed: Capsule
+System: MJYW-3
+Security: 0.0
+
+Involved parties:
+
+Name: Weeble Wooble (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Flying Underpants
+Security: 0.2
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Enyo
+Weapon: Enyo
+
+

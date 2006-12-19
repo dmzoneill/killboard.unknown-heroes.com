@@ -1,0 +1,45 @@
+2007.04.03 21:33
+
+Victim: Tombozo
+Alliance: Aftermath Alliance
+Corp: Pyrrhus Sicarii
+Destroyed: Taranis
+System: 2O9G-D
+Security: 0.0
+
+Involved parties:
+
+Name: Seryius (laid the final blow)
+Security: 3.4
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Scorpion
+Weapon: Devastator Cruise Missile
+
+Name: Elena Morkovka
+Security: 1.7
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Arazu
+Weapon: Valkyrie II
+
+Name: Cho Solo
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Deimos
+Weapon: Acolyte II
+
+
+Destroyed items:
+
+Small 'Knave' I Energy Drain
+Light Ion Blaster II
+Void S, Qty: 202
+1MN MicroWarpdrive II
+Fleeting Warp Scrambler I
+Magnetic Field Stabilizer II
+Small Shield Booster II (Cargo)
+Light Neutron Blaster II (Cargo)
+Inertia Stabilizers I (Cargo)
+

@@ -1,0 +1,83 @@
+2006.09.25 22:09
+
+Victim: Scotticus
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Destroyed: Tempest
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: SLADGE BRUTY
+Security: -1.8
+Alliance: Ascendant Frontier
+Corp: Sha Kharn Corp
+Ship: Sleipnir
+Weapon: Sleipnir
+
+Name: Ferocious FeAr
+Security: 5.0
+Alliance: Ascendant Frontier
+Corp: Sha Kharn Corp
+Ship: Raven
+Weapon: Bane Javelin Torpedo
+
+Name: arkad
+Security: 5.1
+Alliance: Ascendant Frontier
+Corp: Sha Kharn Corp
+Ship: Megathron
+Weapon: Megathron
+
+Name: Trev Kachanov (laid the final blow)
+Security: 5.0
+Alliance: Ascendant Frontier
+Corp: Sha Kharn Corp
+Ship: Curse
+Weapon: Valkyrie II
+
+Name: Tomic
+Security: 5.0
+Alliance: Ascendant Frontier
+Corp: Celestial Fleet
+Ship: Flycatcher
+Weapon: Sabretooth Light Missile
+
+Name: Drift Spec
+Security: 5.0
+Alliance: Ascendant Frontier
+Corp: Sha Kharn Corp
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Butch Wahala
+Security: 5.0
+Alliance: Ascendant Frontier
+Corp: Sha Kharn Corp
+Ship: Raptor
+Weapon: Rocket Launcher I
+
+Name: Sha Kharn
+Security: 5.0
+Alliance: Ascendant Frontier
+Corp: Sha Kharn Corp
+Ship: Crow
+Weapon: 'Arbalest' Standard Missile Launcher
+
+
+Destroyed items:
+
+1200mm Artillery Cannon I
+Fusion L, Qty: 24
+Wrath Cruise Missile, Qty: 22
+'Arbalest' Cruise Launcher I
+'Limos' Cruise Launcher I
+Eutectic I Capacitor Charge Array
+J5 Prototype Warp Inhibitor I
+Fleeting Propulsion Inhibitor I
+Large Armor Repairer II
+N-Type Thermic Hardener I
+Fusion L, Qty: 1456 (Cargo)
+Vespa I, Qty: 2 (Drone Bay)
+

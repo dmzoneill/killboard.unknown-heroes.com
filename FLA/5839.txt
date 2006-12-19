@@ -1,0 +1,56 @@
+2006.10.23 20:11
+
+Victim: RustyShackleford
+Alliance: Eternal Empire
+Corp: Spectral Armada
+Destroyed: Caracal
+System: MI6O-6
+Security: 0.0
+
+Involved parties:
+
+Name: GrandMastaXP
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Raven
+Weapon: Cruise Missile Launcher II
+
+Name: Gamer1K
+Security: 3.9
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Rook
+Weapon: Scourge Heavy Missile
+
+Name: Hojo Norem (laid the final blow)
+Security: 2.8
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Ferox
+Weapon: Scourge Heavy Missile
+
+Name: Minesweeper
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: Jacqueline Skouris
+Security: 1.1
+Alliance: Forces of Freedom
+Corp: Eth3real
+Ship: Megathron
+Weapon: Heavy Nosferatu I
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 64
+'Malkuth' Heavy Missile Launcher I
+Compulsive Multispectral ECM I
+Sensor Booster I
+Pseudoelectron Containment Field I
+Scourge Heavy Missile, Qty: 186 (Cargo)
+

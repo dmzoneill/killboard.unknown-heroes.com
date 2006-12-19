@@ -1,0 +1,50 @@
+2006.11.14 06:48
+
+Victim: EVE History
+Alliance: None
+Corp: State War Academy
+Destroyed: Badger Mark II
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: SleepyOSU
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: Sin-X Inc.
+Ship: Ishkur
+Weapon: Hammerhead I
+
+Name: Formosus Funus
+Security: 3.8
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: Almagar Phog (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Blackbird
+Weapon: Flameburst Light Missile
+
+Name: Zylatis
+Security: 3.7
+Alliance: CORE.
+Corp: AUS Corporation
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+
+Destroyed items:
+
+Juggernaut Torpedo, Qty: 19500
+Small Tractor Beam I
+'Accord' I Core Compensation
+Rockets, Qty: 2 (Cargo)
+Torpedoes (Cargo)
+Heavy Missiles (Cargo)
+Huge Secure Container, Qty: 2 (Cargo)
+

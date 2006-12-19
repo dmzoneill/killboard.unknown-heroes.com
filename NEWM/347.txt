@@ -1,0 +1,54 @@
+2007.01.27 12:52
+
+Victim: Maxisorius
+Alliance: None
+Corp: Caldari Provisions
+Destroyed: Capsule
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Nukuquqa Hestase (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Caracal
+Weapon: Piranha Light Missile
+
+Name: Mufeater
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: Marie Veedor
+Security: 4.5
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Spartan dax
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Drake
+Weapon: Advanced 'Limos' Heavy Missile Bay I
+
+Name: Jorax
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Enyo
+Weapon: Light Ion Blaster I
+
+Name: Cho Solo
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Enyo
+Weapon: Enyo
+
+

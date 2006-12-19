@@ -1,0 +1,18 @@
+2007.04.08 05:47
+
+Victim: juca rone
+Alliance: None
+Corp: Science and Trade Institute
+Destroyed: Capsule
+System: 3T7-M8
+Security: 0.0
+
+Involved parties:
+
+Name: FlobbMkII (laid the final blow)
+Security: 4.4
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Eris
+Weapon: Light Electron Blaster II
+

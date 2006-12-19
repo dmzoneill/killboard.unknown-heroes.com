@@ -1,0 +1,40 @@
+2006.09.29 21:16
+
+Victim: Lefu
+Alliance: None
+Corp: Republic Military School
+Destroyed: Gallente Shuttle
+System: F7C-H0
+Security: 0.0
+
+Involved parties:
+
+Name: DarkJester (laid the final blow)
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery I
+
+Name: Svottesen
+Security: 4.3
+Alliance: None
+Corp: Ganksters Paradise
+Ship: Rook
+Weapon: Advanced 'Limos' Heavy Missile Bay I
+
+Name: Hojo Norem
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Caracal
+Weapon: Heavy Missile Launcher I
+
+Name: Caja Wrython
+Security: 2.0
+Alliance: Freelancer Alliance
+Corp: Abandoned Resolve Corporation
+Ship: Caracal
+Weapon: Advanced 'Limos' Heavy Missile Bay I
+
+

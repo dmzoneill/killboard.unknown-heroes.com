@@ -1,0 +1,26 @@
+2007.04.20 05:47
+
+Victim: Codinius
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Thorax
+System: Jita
+Security: 0.9
+
+Involved parties:
+
+Name: Audemed (laid the final blow)
+Security: 0.0
+Alliance: Privateer Alliance
+Corp: Wraiths Reborn
+Ship: Armageddon
+Weapon: Dual Heavy Modulated Pulse Energy Beam I
+
+
+Destroyed items:
+
+Heavy Electron Blaster I
+Heavy Electron Blaster I
+Antimatter Charge M, Qty: 360
+Hammerhead I, Qty: 5 (Drone Bay)
+

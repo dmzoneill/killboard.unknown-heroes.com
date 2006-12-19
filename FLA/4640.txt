@@ -1,0 +1,152 @@
+2007.04.16 02:27
+
+Victim: Nethel
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Destroyed: Dominix
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Recon Alpha
+Security: 3.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Caracal
+Weapon: Thunderbolt Heavy Missile
+
+Name: Korudon
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Thorax
+Weapon: Infiltrator I
+
+Name: Kvarium Ki
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Ship: Arbitrator
+Weapon: Vespa I
+
+Name: dastommy79 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Thorax
+Weapon: Heavy Ion Blaster I
+
+Name: Primaxin
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Harbingers of Sarrow
+Ship: Ferox
+Weapon: Scourge Heavy Missile
+
+Name: Kayron Brennan
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Caracal
+Weapon: Thunderbolt Heavy Missile
+
+Name: Bullv3rsat
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Terminal Velocity Inc.
+Ship: Claw
+Weapon: Foxfire Rocket
+
+Name: Tran Whistler
+Security: 5.3
+Alliance: Freelancer Alliance
+Corp: Harbingers of Sarrow
+Ship: Caracal
+Weapon: Bloodclaw Light Missile
+
+Name: Skull Fire
+Security: 0.8
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Caracal
+Weapon: Havoc Heavy Missile
+
+Name: DeSantis
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+Name: Aridante Lemure
+Security: 1.2
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: Alski
+Security: 3.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Cormorant
+Weapon: Cormorant
+
+Name: Frau Formaggio
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ishkur
+Weapon: Hobgoblin II
+
+Name: Teck7
+Security: 1.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Thorax
+Weapon: Thorax
+
+Name: shadowxp99
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: Harbingers of Sarrow
+Ship: Caracal
+Weapon: Warrior I
+
+Name: sparkvolt
+Security: -0.7
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Rifter
+Weapon: Rifter
+
+Name: Sir Appa
+Security: 1.4
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Incursus
+Weapon: Hornet I
+
+
+Destroyed items:
+
+Heavy Diminishing Power System Drain I
+Medium 'Knave' I Energy Drain
+Medium 'Knave' I Energy Drain
+Heavy 'Knave' I Energy Drain
+Cynosural Field Generator I
+Initiated Warp Jammer I
+Cap Booster 800
+Damage Control II
+Large Armor Repairer II
+True Sansha Armor Explosive Hardener
+N-Type Thermic Hardener I
+Armor Kinetic Hardener II
+1600mm Reinforced Rolled Tungsten Plates I
+Warrior II, Qty: 3 (Drone Bay)
+Ogre II, Qty: 4 (Drone Bay)
+Berserker II (Drone Bay)
+Hammerhead II, Qty: 5 (Drone Bay)
+Valkyrie II, Qty: 5 (Drone Bay)
+

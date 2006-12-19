@@ -1,0 +1,47 @@
+2007.02.22 00:14
+
+Victim: Zungen
+Alliance: Red Moon Federation
+Corp: Confederation of Red Moon
+Destroyed: Capsule
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: truefranco (laid the final blow)
+Security: 2.1
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Flycatcher
+Weapon: Bloodclaw Light Missile
+
+Name: demotar
+Security: 3.4
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Rapier
+Weapon: 'Langour' Drive Disruptor I
+
+Name: drakonarik
+Security: 3.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Vexor
+Weapon: Medium Nosferatu I
+
+Name: Kalibrana
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Helios
+Weapon: Induced Multispectral ECM I
+
+Name: Kaand
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Myrmidon
+Weapon: J5 Prototype Warp Inhibitor I
+
+

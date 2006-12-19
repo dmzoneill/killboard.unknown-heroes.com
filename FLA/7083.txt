@@ -1,0 +1,38 @@
+2006.12.24 22:03
+
+Victim: Reticenti
+Alliance: None
+Corp: Earned In Blood
+Destroyed: Vexor
+System: Nagamanen
+Security: 0.3
+
+Involved parties:
+
+Name: Compos Mentis (laid the final blow)
+Security: -6.8
+Alliance: Freelancer Alliance
+Corp: X.T.R
+Ship: Cerberus
+Weapon: Scourge Heavy Missile
+
+Name: Guristas Destructor / Guristas
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Heavy Ion Blaster I
+Heavy Ion Blaster I
+Heavy Ion Blaster I
+Light Neutron Blaster I
+Antimatter Charge M, Qty: 117
+Lead Charge S, Qty: 78
+10MN Afterburner I
+Medium Armor Repairer I
+Armor Thermic Hardener I
+Lead Charge S, Qty: 159 (Cargo)
+Acolyte I (Drone Bay)
+Hobgoblin I (Drone Bay)
+Vespa I (Drone Bay)
+

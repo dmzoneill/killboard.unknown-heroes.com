@@ -1,0 +1,81 @@
+2007.04.14 19:41
+
+Victim: TroNaaR
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Megathron
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Medium AutoCannon Battery / Eternity INC.
+
+Name: Ateneiha
+Security: 4.8
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Chimera
+Weapon: Firbolg
+
+Name: Queldonus
+Security: 3.3
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Nidhoggur
+Weapon: Templar
+
+Name: Olli
+Security: -0.1
+Alliance: Mercenary Coalition
+Corp: Seraphin Technologies
+Ship: Chimera
+Weapon: Firbolg
+
+Name: Odda (laid the final blow)
+Security: 4.4
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Thanatos
+Weapon: Firbolg
+
+Name: ZaKma
+Security: -0.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Wolf
+Weapon: Flameburst Light Missile
+
+Name: Ehxo
+Security: 4.9
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Eleese
+Security: -0.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Dominix
+Weapon: Heavy Diminishing Power System Drain I
+
+
+Destroyed items:
+
+Large Rudimentary Concussion Bomb I
+425mm Compressed Coil Gun I
+425mm Compressed Coil Gun I
+425mm Compressed Coil Gun I
+Eutectic I Capacitor Charge Array
+'Orion' Tracking CPU I
+Damage Control I
+Large Armor Repairer II
+N-Type Explosive Hardener I
+Beta Reactor Control: Reaction Control I
+Type-D Power Core Modification: Reaction Control
+Lead Charge L, Qty: 1235 (Cargo)
+Tungsten Charge L, Qty: 100 (Cargo)
+Antimatter Charge L, Qty: 5111 (Cargo)
+Warden I, Qty: 2 (Drone Bay)
+

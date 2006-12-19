@@ -1,0 +1,54 @@
+2007.04.20 06:02
+
+Victim: Sith Bandon
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Destroyed: Arazu
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Bobby Atlas (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Thrasher
+Weapon: Sabretooth Light Missile
+
+Name: Aridante Lemure
+Security: 1.2
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Capsule
+Weapon: 250mm Light Artillery Cannon II
+
+Name: shadowxp99
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: Harbingers of Sarrow
+Ship: Caracal
+Weapon: Havoc Heavy Missile
+
+Name: Recon Alpha
+Security: 3.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Blackbird
+Weapon: Blackbird
+
+
+Destroyed items:
+
+250mm Railgun II
+Antimatter Charge M, Qty: 130
+Covert Ops Cloaking Device II
+Domination Warp Scrambler
+Caldari Navy Warp Disruptor
+Phased Muon Sensor Disruptor I
+Energized Adaptive Nano Membrane II
+Local Hull Conversion Inertial Stabilizers I
+Capacitor Power Relay II
+Javelin M, Qty: 608 (Cargo)
+Spike M, Qty: 1112 (Cargo)
+

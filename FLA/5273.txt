@@ -1,0 +1,76 @@
+2007.04.23 04:10
+
+Victim: Rev Darkwing
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Scorpion
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: ZeroGrav (laid the final blow)
+Security: 3.1
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Screamer
+Security: 0.8
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Manticore
+Weapon: Wrath Precision Cruise Missile
+
+Name: Iron Guerilla
+Security: 0.9
+Alliance: Lotka Volterra
+Corp: CRICE Corporation
+Ship: Claw
+Weapon: Claw
+
+Name: Evil Bunnies
+Security: 0.2
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Blackbird
+Weapon: Widowmaker Heavy Missile
+
+Name: Hojou
+Security: 0.3
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Incursus
+Weapon: 125mm Railgun I
+
+Name: Bothius
+Security: 0.4
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Taranis
+Weapon: Warp Disruptor II
+
+
+Destroyed items:
+
+150mm Prototype I Gauss Gun
+Iridium Charge S, Qty: 40
+Paradise Cruise Missile, Qty: 21
+Devastator Cruise Missile, Qty: 21
+Wrath Cruise Missile, Qty: 21
+'Malkuth' Cruise Launcher I
+'Malkuth' Cruise Launcher I
+'Malkuth' Cruise Launcher I
+X-Large Shield Booster I
+Initiated Multispectral ECM I
+Initiated Multispectral ECM I
+Initiated Multispectral ECM I
+Initiated Multispectral ECM I
+Large Armor Repairer I
+Large Armor Repairer I
+1600mm Reinforced Rolled Tungsten Plates I
+Antimatter Charge S, Qty: 1000 (Cargo)
+Paradise Cruise Missile, Qty: 300 (Cargo)
+Wrath Cruise Missile, Qty: 300 (Cargo)
+

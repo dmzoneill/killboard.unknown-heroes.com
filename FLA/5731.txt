@@ -1,0 +1,51 @@
+2006.10.13 22:37
+
+Victim: Passionata
+Alliance: None
+Corp: Deep Core Mining Inc.
+Destroyed: Ibis
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Swanny231 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Vigilant
+Weapon: 250mm Railgun II
+
+Name: Nil Desperandum
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Omen
+Weapon: Heavy Anode Pulse Particle Stream I
+
+Name: movy
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Enyo
+Weapon: 150mm Railgun I
+
+Name: Kismeteer
+Security: 3.4
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Incursus
+Weapon: Incursus
+
+Name: Luthien Firefoot
+Security: 3.1
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Taranis
+Weapon: Stasis Webifier I
+
+
+Destroyed items:
+
+Tritanium (Cargo)
+

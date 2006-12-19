@@ -1,0 +1,33 @@
+2007.04.20 04:47
+
+Victim: War bane
+Alliance: Federation Of united Corps
+Corp: Drunken Ship Mates
+Destroyed: Capsule
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Stone757 (laid the final blow)
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Capsule
+Weapon: Scourge Heavy Missile
+
+Name: Laerana
+Security: 0.3
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Capsule
+Weapon: Warrior I
+
+Name: Ghu'ru Talozan
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Capsule
+Weapon: 250mm Railgun I
+
+

@@ -1,0 +1,47 @@
+2007.04.09 15:18
+
+Victim: Quiomi
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Drake
+System: Sortet
+Security: 0.8
+
+Involved parties:
+
+Name: Xtreem (laid the final blow)
+Security: 4.9
+Alliance: Privateer Alliance
+Corp: Fire Mandrill
+Ship: Astarte
+Weapon: Heavy Neutron Blaster II
+
+
+Destroyed items:
+
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Scourge Heavy Missile, Qty: 45
+Heavy Missile Launcher II
+Small Tractor Beam I
+Cap Recharger II
+Invulnerability Field II
+Magnetic Scattering Amplifier II
+Heat Dissipation Amplifier II
+Crystal Compound, Qty: 20 (Cargo)
+Gleaming Alloy, Qty: 21 (Cargo)
+Lucent Compound, Qty: 54 (Cargo)
+Sheen Compound, Qty: 77 (Cargo)
+Scourge Heavy Missile, Qty: 527 (Cargo)
+Tangled Power Conduit (Cargo)
+Contaminated Nanite Compound (Cargo)
+Charred Micro Circuit, Qty: 4 (Cargo)
+Tripped Power Circuit, Qty: 10 (Cargo)
+Broken Drone Transceiver, Qty: 4 (Cargo)
+Malfunctioning Shield Emitter (Cargo)
+Contaminated Lorentz Fluid (Cargo)
+

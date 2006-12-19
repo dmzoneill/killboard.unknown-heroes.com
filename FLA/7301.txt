@@ -1,0 +1,26 @@
+2006.08.06 13:55
+
+Victim: Linda Kasabian
+Alliance: None
+Corp: Digital Fury Corporation
+Destroyed: Crow
+System: 0V0R-R
+Security: 0.0
+
+Involved parties:
+
+Name: Capt Cali (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: London Transport
+Ship: Cerberus
+Weapon: Scourge Heavy Missile
+
+
+Destroyed items:
+
+Small Remote Armor Repair System I
+Bloodclaw Light Missile, Qty: 60
+Catalyzed Cold-Gas I Arcjet Thrusters
+'Langour' Drive Disruptor I
+

@@ -1,0 +1,32 @@
+2007.04.09 01:03
+
+Victim: torreson
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Destroyed: Stabber
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Minmatar Control Tower Medium / Eternity INC. (laid the final blow)
+
+
+Destroyed items:
+
+720mm Carbine Howitzer I
+650mm Medium Prototype I Siege Cannon
+Small 'Knave' I Energy Drain
+Carbonized Lead M, Qty: 25
+Widowmaker Heavy Missile, Qty: 32
+Scourge Heavy Missile, Qty: 35
+XR-3200 Heavy Missile Bay
+'Malkuth' Heavy Missile Launcher I
+Small Shield Booster I
+ECM - Multispectral Jammer I
+Power Diagnostic System II
+Carbonized Lead M, Qty: 5956 (Cargo)
+Widowmaker Heavy Missile, Qty: 4554 (Cargo)
+Scourge Heavy Missile, Qty: 4175 (Cargo)
+Hornet I (Drone Bay)
+

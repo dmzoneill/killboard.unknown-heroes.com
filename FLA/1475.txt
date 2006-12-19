@@ -1,0 +1,44 @@
+2007.03.13 23:23
+
+Victim: Shuriken Ertai
+Alliance: YouWhat
+Corp: Princeps Corp
+Destroyed: Eris
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Prodigal IV
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Ship: Megathron
+Weapon: Megathron
+
+Name: Arbitrus (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Ship: Abaddon
+Weapon: Large 'Vehemence' I Shockwave Charge
+
+
+Destroyed items:
+
+125mm Railgun II
+Antimatter Charge S, Qty: 286
+Warp Disrupt Probe, Qty: 10
+Interdiction Sphere Launcher I
+Inertia Stabilizers I
+Small Shield Booster II (Cargo)
+1MN MicroWarpdrive I (Cargo)
+Catalyzed Cold-Gas I Arcjet Thrusters (Cargo)
+Gyrostabilizer II (Cargo)
+Antimatter Charge S, Qty: 1268 (Cargo)
+Hobgoblin II (Cargo)
+Kapteyn Sensor Array Inhibitor I (Cargo)
+Spike S, Qty: 2967 (Cargo)
+Warp Disrupt Probe, Qty: 2 (Cargo)
+Type-D Power Core Modification: Capacitor Power Relay, Qty: 2 (Cargo)
+

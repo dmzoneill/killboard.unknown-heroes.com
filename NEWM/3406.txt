@@ -1,0 +1,95 @@
+2007.03.25 19:54
+
+Victim: a51 duke1406
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Myrmidon
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: JaLzIoN (laid the final blow)
+Security: 1.2
+Alliance: None
+Corp: Pitch Black Incorporated
+Ship: Thorax
+Weapon: Heavy Ion Blaster II
+
+Name: Snuggles theTerrible
+Security: 5.0
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Vulture
+Weapon: Vulture
+
+Name: lt blacklotus
+Security: 0.8
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Hurricane
+Weapon: Hobgoblin II
+
+Name: tost
+Security: 2.5
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Brutix
+Weapon: Brutix
+
+Name: K Shara
+Security: 4.2
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Sith Bandon
+Security: 5.0
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Ishtar
+Weapon: Ogre II
+
+Name: WarGod
+Security: 1.5
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Curse
+Weapon: Tracking Disruptor II
+
+Name: Oli4Oli4
+Security: 5.0
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Myrmidon
+Weapon: Myrmidon
+
+Name: Alchem
+Security: 2.9
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Ishtar
+Weapon: Ishtar
+
+
+Destroyed items:
+
+Medium 'Ghoul' Energy Siphon I
+250mm 'Scout' I Accelerator Cannon
+250mm Prototype I Gauss Gun
+Antimatter Charge M, Qty: 80
+Prototype Cloaking Device I
+F-b10 Nominal Capacitor Regenerator
+F-b10 Nominal Capacitor Regenerator
+Y-T8 Overcharged Hydrocarbon I Microwarpdrive
+Medium Armor Repairer II
+Microcell Nanite Kinetic Hardener I
+Type-D Power Core Modification: Capacitor Power Relay
+Type-D Power Core Modification: Capacitor Power Relay
+'Dactyl' Type-E Asteroid Analyzer (Cargo)
+Hobgoblin II (Cargo)
+Strip Miner I (Cargo)
+Mining Laser Upgrade I (Cargo)
+Hammerhead II, Qty: 5 (Drone Bay)
+

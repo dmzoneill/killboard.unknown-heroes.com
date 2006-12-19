@@ -1,0 +1,72 @@
+2007.04.12 04:16
+
+Victim: Ducimus Daimon
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Ferox
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Wladomir Jed
+Security: 3.7
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Rook
+Weapon: Scourge Heavy Missile
+
+Name: Maris E'lien (laid the final blow)
+Security: 3.2
+Alliance: Firmus Ixion
+Corp: Black Avatar
+Ship: Rapier
+Weapon: 650mm Artillery Cannon II
+
+Name: Ferocious FeAr
+Security: 1.5
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Rook
+Weapon: Bloodclaw Light Missile
+
+Name: Sauron Starcrusher
+Security: 3.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Feterous Jolin
+Security: -2.3
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Ishkur
+Weapon: Fleeting Progressive Warp Scrambler I
+
+Name: Nethel
+Security: 2.1
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Rapier
+Weapon: Rapier
+
+Name: FAO MeatMan
+Security: 4.2
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Rook
+Weapon: Heavy Missile Launcher II
+
+
+Destroyed items:
+
+Medium Rudimentary Concussion Bomb I
+Medium Rudimentary Concussion Bomb I
+Medium YF-12a Smartbomb
+Medium Azeotropic Ward Salubrity I
+Large Shield Extender I
+Large Shield Extender I
+Local Power Plant Manager: Reaction Control I
+Reactor Control Unit II
+

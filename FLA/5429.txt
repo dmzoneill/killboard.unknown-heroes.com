@@ -1,0 +1,63 @@
+2006.10.02 17:06
+
+Victim: V0rador
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Destroyed: Deimos
+System: 93PI-4
+Security: 0.0
+
+Involved parties:
+
+Name: Bolinar
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Megathron
+Weapon: Valkyrie II
+
+Name: Jumar Coldgin (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+Name: keilapuukko
+Security: 2.9
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Eagle
+Weapon: Eagle
+
+Name: Karas Rabus
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Huginn
+Weapon: Huginn
+
+Name: James Potkukelkka
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Flycatcher
+Weapon: Bloodclaw Light Missile
+
+Name: kookos
+Security: 2.8
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Punisher
+Weapon: Punisher
+
+
+Destroyed items:
+
+Heavy Ion Blaster II
+Antimatter Charge M, Qty: 120
+10MN MicroWarpdrive I
+Energized Adaptive Nano Membrane II
+Large F-S9 Regolith Shield Induction (Cargo)
+Hammerhead I, Qty: 3 (Drone Bay)
+

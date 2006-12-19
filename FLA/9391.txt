@@ -1,0 +1,67 @@
+2007.05.10 21:00
+
+Victim: Kayron Brennan
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Destroyed: Drake
+System: 93PI-4
+Security: 0.0
+
+Involved parties:
+
+Name: Meeus69
+Security: 4.1
+Alliance: None
+Corp: Shadow Company
+Ship: Myrmidon
+Weapon: Myrmidon
+
+Name: Mywad
+Security: -0.4
+Alliance: None
+Corp: Shadow Company
+Ship: Myrmidon
+Weapon: Ogre I
+
+Name: Thundercrash
+Security: 0.5
+Alliance: None
+Corp: Shadow Company
+Ship: Sabre
+Weapon: Sabre
+
+Name: Eethon (laid the final blow)
+Security: 3.1
+Alliance: None
+Corp: Shadow Company
+Ship: Hawk
+Weapon: Bloodclaw Light Missile
+
+Name: Tharg
+Security: 5.3
+Alliance: None
+Corp: Shadow Company
+Ship: Taranis
+Weapon: Warrior II
+
+
+Destroyed items:
+
+Prototype Cloaking Device I
+Thunderbolt Heavy Missile, Qty: 14
+Widowmaker Heavy Missile, Qty: 28
+Advanced 'Limos' Heavy Missile Bay I
+Advanced 'Limos' Heavy Missile Bay I
+Advanced 'Limos' Heavy Missile Bay I
+Large F-S9 Regolith Shield Induction
+Large F-S9 Regolith Shield Induction
+Invulnerability Field I
+Viscoelastic EM Ward Salubrity I
+Cross-linked Bolt Array I
+Mark I Generator Refitting: Diagnostic System
+Ditrigonal Thermal Barrier Crystallization I (Cargo)
+Non-Inertial Ballistic Screen Augmentation I (Cargo)
+Scourge Heavy Missile, Qty: 3975 (Cargo)
+Thunderbolt Heavy Missile, Qty: 901 (Cargo)
+Hornet I (Drone Bay)
+

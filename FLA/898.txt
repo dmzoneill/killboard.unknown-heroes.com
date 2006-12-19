@@ -1,0 +1,27 @@
+2007.02.26 01:49
+
+Victim: X99 Z990
+Alliance: Privateer Alliance
+Corp: Privateers
+Destroyed: Daredevil
+System: Hek
+Security: 0.5
+
+Involved parties:
+
+Name: Tregaron (laid the final blow)
+Security: 1.6
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Wolf
+Weapon: 200mm AutoCannon II
+
+
+Destroyed items:
+
+125mm Railgun II
+Bloodclaw Light Missile, Qty: 44
+'Malkuth' Standard Missile Launcher I
+Micro Auxiliary Power Core I
+Capacitor Power Relay I
+

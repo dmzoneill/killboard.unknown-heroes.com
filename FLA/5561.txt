@@ -1,0 +1,33 @@
+2006.10.08 00:09
+
+Victim: piloris bisantime
+Alliance: Galactic Aphelion
+Corp: Res Publica
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Nil Desperandum (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Omen
+Weapon: Heavy Pulse Laser II
+
+Name: StarCrash
+Security: 0.7
+Alliance: R i s e
+Corp: Shadow Gypsies
+Ship: Claw
+Weapon: Warp Disruptor I
+
+Name: Rustiko
+Security: 1.8
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Enyo
+Weapon: TE-2100 Standard Missile Bay
+
+

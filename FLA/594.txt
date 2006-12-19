@@ -1,0 +1,57 @@
+2007.02.12 01:56
+
+Victim: David Ryan
+Alliance: Privateer Alliance
+Corp: Beyond Divinity Inc
+Destroyed: Brutix
+System: Kaaputenen
+Security: 0.8
+
+Involved parties:
+
+Name: Jesnen (laid the final blow)
+Security: 0.2
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Myrmidon
+Weapon: 250mm 'Scout' I Accelerator Cannon
+
+Name: CLEISTHENES2
+Security: -0.8
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Capsule
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: Tuschii
+Security: -0.3
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Dominix
+Weapon: Ogre I
+
+Name: skitz blitz
+Security: -1.0
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Capsule
+Weapon: Heavy Diminishing Power System Drain I
+
+
+Destroyed items:
+
+Heavy Ion Blaster II
+Heavy Ion Blaster II
+Heavy Ion Blaster II
+Heavy Ion Blaster II
+Null M, Qty: 233
+10MN MicroWarpdrive I
+J5b Phased Prototype Warp Inhibitor I
+'Langour' Drive Disruptor I
+Damage Control I
+Magnetic Field Stabilizer II
+Reactor Control Unit I
+Cap Booster 800, Qty: 7 (Cargo)
+Void M, Qty: 1585 (Cargo)
+Null M, Qty: 2921 (Cargo)
+

@@ -1,0 +1,32 @@
+2007.04.22 01:24
+
+Victim: coldkill
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Destroyed: Ishkur
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Orange Species (laid the final blow)
+Security: -2.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Ragnarok
+Weapon: Gjallarhorn
+
+
+Destroyed items:
+
+Light Neutron Blaster II
+Light Neutron Blaster II
+Light Neutron Blaster II
+Void S, Qty: 80
+Stasis Webifier I
+Damage Control II
+Type-D Power Core Modification: Reaction Control
+Void S, Qty: 4354 (Cargo)
+Hammerhead II (Drone Bay)
+Hobgoblin II, Qty: 2 (Drone Bay)
+

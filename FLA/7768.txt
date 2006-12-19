@@ -1,0 +1,19 @@
+2006.08.16 17:30
+
+Victim: Laboratus
+Alliance: Freelancer Alliance
+Corp: BGG
+Destroyed: Capsule
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Sato Yuki (laid the final blow)
+Security: -1.8
+Alliance: Process of Elimination
+Corp: Occassus Republica
+Ship: Claw
+Weapon: 150mm Light AutoCannon II
+
+

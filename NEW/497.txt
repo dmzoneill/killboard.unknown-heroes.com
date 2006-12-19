@@ -1,0 +1,58 @@
+2007.04.05 09:49
+
+Victim: Keeto
+Alliance: Digital Renegades
+Corp: Digital Fury Corporation
+Destroyed: Vagabond
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Hedeon Mishenka (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Abaddon
+Weapon: Tachyon Beam Laser II
+
+Name: misscoda
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Capsule
+Weapon: X5 Prototype I Engine Enervator
+
+Name: Tetrahagel
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Thorax
+Weapon: Thorax
+
+Name: Nukuquqa Hestase
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Manticore
+Weapon: Indirect Scanning Dampening Unit I
+
+Name: FlobbMkII
+Security: 4.4
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Eris
+Weapon: Eris
+
+
+Destroyed items:
+
+220mm Vulcan AutoCannon II, Qty: 2
+Barrage M, Qty: 93
+Widowmaker Heavy Missile, Qty: 28
+'Arbalest' Heavy Missile Launcher
+Large Shield Extender II, Qty: 2
+10MN MicroWarpdrive II
+Local Hull Conversion Inertial Stabilizers I
+Local Hull Conversion Overdrive Injector I
+Retriever Blueprint (Cargo)

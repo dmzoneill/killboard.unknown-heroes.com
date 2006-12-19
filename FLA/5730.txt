@@ -1,0 +1,33 @@
+2006.10.13 22:37
+
+Victim: Passionata
+Alliance: None
+Corp: Deep Core Mining Inc.
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Nil Desperandum (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Omen
+Weapon: Heavy Modulated Pulse Energy Beam I
+
+Name: Kismeteer
+Security: 3.4
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Incursus
+Weapon: 150mm Railgun I
+
+Name: Gamer1K
+Security: 3.5
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Crow
+Weapon: Upgraded 'Limos' Standard Missile Bay I
+
+

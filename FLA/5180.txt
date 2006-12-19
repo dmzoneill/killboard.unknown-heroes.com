@@ -1,0 +1,75 @@
+2007.04.23 19:19
+
+Victim: Fitz Farseer
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Rupture
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Shassandra
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Enyo
+Weapon: Hobgoblin II
+
+Name: Corovus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Arazu
+Weapon: Valkyrie II
+
+Name: Frau Formaggio
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Capsule
+Weapon: Small 'Knave' I Energy Drain
+
+Name: Zizz
+Security: 4.1
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Vexor
+Weapon: Vexor
+
+Name: Chuck Dawg (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Crow
+Weapon: Bloodclaw Fury Light Missile
+
+Name: misscoda
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Unknown
+Weapon: Stasis Webifier I
+
+Name: Rhaall
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Executioner
+Weapon: Small Nosferatu I
+
+
+Destroyed items:
+
+425mm AutoCannon I
+425mm AutoCannon I
+425mm AutoCannon I
+EMP M, Qty: 47
+Thunderbolt Heavy Missile, Qty: 54
+'Malkuth' Heavy Missile Launcher I
+Y-T8 Overcharged Hydrocarbon I Microwarpdrive
+Energized Adaptive Nano Membrane I
+Voltaic Nanite Kinetic Hardener I
+Radioisotope Thermic Hardener I
+Thunderbolt Heavy Missile, Qty: 21 (Cargo)
+

@@ -1,0 +1,26 @@
+2007.01.02 13:44
+
+Victim: Orion Tempest
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Murdoch Morf
+Security: 1.5
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Crow
+Weapon: Thorn Rocket
+
+Name: Drakin Korin (laid the final blow)
+Security: -1.1
+Alliance: None
+Corp: Evil Bandit Organisation
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+

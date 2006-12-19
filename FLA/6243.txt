@@ -1,0 +1,26 @@
+2006.11.11 02:30
+
+Victim: lskfkjbsdg
+Alliance: None
+Corp: Pator Tech School
+Destroyed: Minmatar Shuttle
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Bubonlc (laid the final blow)
+Security: 0.4
+Alliance: O X I D E
+Corp: League of Gentlemen
+Ship: Thrasher
+Weapon: 280mm Howitzer Artillery II
+
+Name: Micheal Ross
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Flycatcher
+Weapon: Faint Warp Prohibitor I
+
+

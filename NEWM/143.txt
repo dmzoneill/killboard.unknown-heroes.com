@@ -1,0 +1,47 @@
+2007.01.14 08:59
+
+Victim: duece duece
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Destroyed: Capsule
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Red Viper
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Celestis
+Weapon: Celestis
+
+Name: Rev Darkwing
+Security: 2.6
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Crow
+Weapon: Crow
+
+Name: arthell
+Security: 2.7
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Vexor
+Weapon: 150mm Compressed Coil Gun I
+
+Name: Xantheris
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Celestis
+Weapon: Celestis
+
+Name: Burn Lump (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+

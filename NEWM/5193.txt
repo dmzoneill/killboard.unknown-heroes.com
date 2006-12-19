@@ -1,0 +1,101 @@
+2007.04.25 04:02
+
+Victim: Matrix Aran
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Destroyed: Myrmidon
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Korudon
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Thorax
+Weapon: Thorax
+
+Name: Mufeater
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Ishkur
+Weapon: Hornet II
+
+Name: Rhaven
+Security: 3.7
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Maller
+Weapon: Maller
+
+Name: Deyionu
+Security: 0.8
+Alliance: Freelancer Alliance
+Corp: Harbingers of Sarrow
+Ship: Enyo
+Weapon: Enyo
+
+Name: Guristas Terrorist / Guristas
+
+Name: Draconian Arcane
+Security: -2.4
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Capsule
+Weapon: Remote Sensor Dampener I
+
+Name: Nukuquqa Hestase (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Crow
+Weapon: Sabretooth Light Missile
+
+Name: FlobbMkII
+Security: 4.4
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Eris
+Weapon: Eris
+
+Name: TroNaaR
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Taranis
+Weapon: 75mm Gatling Rail II
+
+Name: The Cade
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Capsule
+Weapon: 125mm Railgun II
+
+Name: Aridante Lemure
+Security: 1.2
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Celestis
+Weapon: Celestis
+
+
+Destroyed items:
+
+Heavy Ion Blaster II
+Heavy Electron Blaster II
+Heavy Electron Blaster II
+Null M, Qty: 412
+10MN MicroWarpdrive I
+Medium Electrochemical Capacitor Booster I
+Cap Booster 800
+Medium Armor Repairer II
+Medium Armor Repairer II
+Energized Adaptive Nano Membrane I
+Energized Adaptive Nano Membrane I
+Antimatter Charge M, Qty: 1800 (Cargo)
+Void M, Qty: 2142 (Cargo)
+Ogre II, Qty: 3 (Drone Bay)
+

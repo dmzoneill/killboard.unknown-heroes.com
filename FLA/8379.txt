@@ -1,0 +1,28 @@
+2006.11.14 13:01
+
+Victim: jacass8496
+Alliance: Freelancer Alliance
+Corp: BGG
+Destroyed: Incursus
+System: Aunenen
+Security: 0.4
+
+Involved parties:
+
+Name: Ju'Co (laid the final blow)
+Security: -10.0
+Alliance: Blood Raiders Alliance
+Corp: Murder-Death-Kill
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+
+Destroyed items:
+
+125mm Carbide Railgun I
+125mm Carbide Railgun I
+Plutonium Charge S, Qty: 160
+Warp Scrambler I
+Warp Scrambler I (Cargo)
+Plutonium Charge S, Qty: 180 (Cargo)
+

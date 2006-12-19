@@ -1,0 +1,40 @@
+2007.01.28 17:05
+
+Victim: Moe Zus
+Alliance: None
+Corp: Unified Refining Federation
+Destroyed: Caldari Shuttle
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Arvo Henderson (laid the final blow)
+Security: 2.8
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Deimos
+Weapon: Valkyrie II
+
+Name: sniper luke
+Security: 3.7
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Blackbird
+Weapon: Heavy Assault Missile Launcher I
+
+Name: Vesspasiano
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Enyo
+Weapon: Fleeting Warp Scrambler I
+
+Name: SniperMcBob
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Blackbird
+Weapon: Initiated Multispectral ECM I
+
+

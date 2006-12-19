@@ -1,0 +1,44 @@
+2006.12.02 20:08
+
+Victim: Siliya
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Ferox
+System: Haajinen
+Security: 0.8
+
+Involved parties:
+
+Name: Looney Spooney (laid the final blow)
+Security: 1.9
+Alliance: None
+Corp: omen.
+Ship: Armageddon
+Weapon: Dual Heavy Pulse Laser II
+
+
+Destroyed items:
+
+E50 Prototype Energy Vampire
+Scourge Heavy Missile, Qty: 28
+Advanced 'Limos' Heavy Missile Bay I
+XR-3200 Heavy Missile Bay
+'Malkuth' Heavy Missile Launcher I
+Small Tractor Beam I
+Large Shield Extender II
+Ballistic Deflection Field I
+Shield Power Relay I
+Shield Power Relay I
+Cold-Gas I Arcjet Thrusters (Cargo)
+150mm Prototype I Gauss Gun (Cargo)
+250mm Compressed Coil Gun I, Qty: 2 (Cargo)
+125mm Prototype I Gauss Gun (Cargo)
+250mm 'Scout' I Accelerator Cannon, Qty: 3 (Cargo)
+Anode Electron Particle Cannon I (Cargo)
+Hornet I (Cargo)
+EMP M Blueprint (Cargo)
+Scourge Heavy Missile Blueprint (Cargo)
+Plutonium Charge M Blueprint (Cargo)
+Type-D Attenuation Signal Augmentation (Cargo)
+Hornet I, Qty: 4 (Drone Bay)
+

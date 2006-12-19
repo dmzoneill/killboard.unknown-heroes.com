@@ -1,0 +1,40 @@
+2007.04.12 05:13
+
+Victim: CG56
+Alliance: Privateer Alliance
+Corp: Wraiths Reborn
+Destroyed: Stabber
+System: Jita
+Security: 0.9
+
+Involved parties:
+
+Name: Simon Monkoto (laid the final blow)
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Myrmidon
+Weapon: Hammerhead II
+
+Name: Minigin
+Security: -0.8
+Alliance: Astral Wolves
+Corp: Zephyr Enterprises Inc.
+Ship: Brutix
+Weapon: Heavy Electron Blaster I
+
+
+Destroyed items:
+
+200mm AutoCannon I
+200mm AutoCannon I
+Titanium Sabot S, Qty: 173
+Sabretooth Light Missile, Qty: 31
+Standard Missile Launcher I
+10MN MicroWarpdrive I
+J5 Prototype Warp Inhibitor I
+Overdrive Injector System I
+Small Shield Booster I (Cargo)
+100MN Afterburner I (Cargo)
+Reactor Control Unit I (Cargo)
+

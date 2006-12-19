@@ -1,0 +1,138 @@
+2007.03.29 03:14
+
+Victim: AbdullahAhmed
+Alliance: None
+Corp: Le Moulin Rouge
+Destroyed: Drake
+System: RQH-MY
+Security: 0.0
+
+Involved parties:
+
+Name: Bobby Atlas
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Hyperion
+Weapon: Valkyrie II
+
+Name: toonsterpw (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Vagabond
+Weapon: 425mm AutoCannon II
+
+Name: Osyc
+Security: 2.7
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Hurricane
+Weapon: Terror Assault Missile
+
+Name: Frau Formaggio
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ishkur
+Weapon: Hobgoblin II
+
+Name: Amon Fire
+Security: 0.7
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Omen
+Weapon: Omen
+
+Name: Darc Kaahar
+Security: -0.1
+Alliance: Freelancer Alliance
+Corp: Feel Good Inc.
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: a51 duke1406
+Security: 1.1
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Thorax
+Weapon: Valkyrie I
+
+Name: coldkill
+Security: 1.9
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Ishkur
+Weapon: Hammerhead II
+
+Name: Jorax
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Myrmidon
+Weapon: Warrior II
+
+Name: PowerGimp
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Flycatcher
+Weapon: 'Limos' Rocket Launcher I
+
+Name: Marie Veedor
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Merlin
+Weapon: Merlin
+
+Name: Llondon Hilton
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Ishkur
+Weapon: Warrior I
+
+Name: cmmcp
+Security: 1.2
+Alliance: Freelancer Alliance
+Corp: ACCORD Industries
+Ship: Celestis
+Weapon: Celestis
+
+Name: Kayron Brennan
+Security: 0.4
+Alliance: Galactic-Federation
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Condor
+Weapon: Condor
+
+Name: Darthirishguy
+Security: 1.8
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Merlin
+Weapon: Piranha Light Missile
+
+
+Destroyed items:
+
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Scourge Heavy Missile, Qty: 83
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+Large F-S9 Regolith Shield Induction
+Medium Shield Booster II
+Shield Boost Amplifier I
+Ballistic Control System I
+Local Power Plant Manager: Diagnostic System I
+Havoc Heavy Missile, Qty: 100 (Cargo)
+Widowmaker Heavy Missile, Qty: 600 (Cargo)
+

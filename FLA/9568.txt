@@ -1,0 +1,93 @@
+2007.05.18 21:50
+
+Victim: PhantomVyper
+Alliance: None
+Corp: Darkness Inc.
+Destroyed: Prophecy
+System: G-M4I8
+Security: 0.0
+
+Involved parties:
+
+Name: lambert butler
+Security: -1.8
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Thorax
+Weapon: Thorax
+
+Name: Corovus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+Name: Kayron Brennan (laid the final blow)
+Security: 1.7
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Caracal
+Weapon: Thunderbolt Heavy Missile
+
+Name: Kvarium Ki
+Security: 2.3
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Rapier
+Weapon: Rapier
+
+Name: Green Raven
+Security: 2.9
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Harpy
+Weapon: Harpy
+
+Name: Ocara Nezus
+Security: 1.5
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Crow
+Weapon: Bloodclaw Fury Light Missile
+
+Name: wardey
+Security: 0.6
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Crusader
+Weapon: Crusader
+
+Name: Magic Mazuma
+Security: 0.1
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Rifter
+Weapon: Rifter
+
+Name: Mocuker1
+Security: -0.1
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Crow
+Weapon: Crow
+
+
+Destroyed items:
+
+Focused Anode Pulse Particle Stream I
+Heavy Modal Pulse Laser I
+Heavy Modal Pulse Laser I
+Multifrequency M
+Multifrequency M
+Multifrequency M
+Multifrequency M
+Stasis Webifier I
+Damage Control II
+Medium Armor Repairer II
+Heat Sink II
+Heat Sink II
+Energized Adaptive Nano Membrane I
+800mm Reinforced Rolled Tungsten Plates I
+Microwave M, Qty: 5 (Cargo)
+

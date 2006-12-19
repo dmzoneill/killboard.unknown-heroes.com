@@ -1,0 +1,33 @@
+2007.04.22 20:41
+
+Victim: Aridante Lemure
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Destroyed: Capsule
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Ran Fujimiya
+Security: 0.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Raptor
+Weapon: Raptor
+
+Name: Feterous Jolin (laid the final blow)
+Security: -2.3
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Myrmidon
+Weapon: Modal Ion Particle Accelerator I
+
+Name: LordMordred
+Security: 0.1
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Curse
+Weapon: E50 Prototype Energy Vampire
+
+

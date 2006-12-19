@@ -1,0 +1,96 @@
+2006.05.18 19:59
+
+Victim: Matt Stoner
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Destroyed: Raven
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: MenionLeah GAC
+Security: 5.0
+Alliance: OPUS Alliance
+Corp: God's Army Corp
+Ship: Raven
+Weapon: Wrath Precision Cruise Missile
+
+Name: Beigehornet
+Security: 5.0
+Alliance: Northern Freedom Coalition
+Corp: AUS Corporation
+Ship: Raven
+Weapon: Cataclysm Cruise Missile
+
+Name: Theijuiel
+Security: 1.8
+Alliance: Sparta Alliance
+Corp: ATROX.
+Ship: Megathron
+Weapon: Megathron
+
+Name: Tarrant Arrlock
+Security: 3.4
+Alliance: Northern Freedom Coalition
+Corp: Artic Blue
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+Name: Eismans Silent (laid the final blow)
+Security: 5.0
+Alliance: OPUS Alliance
+Corp: Twilight Angels Inc.
+Ship: Scorpion
+Weapon: Cataclysm Cruise Missile
+
+Name: Vitnir Belote
+Security: 2.2
+Alliance: Sparta Alliance
+Corp: ATROX.
+Ship: Megathron
+Weapon: Megathron
+
+Name: Phoenix1's Wife
+Security: 3.7
+Alliance: OPUS Alliance
+Corp: God's Army Corp
+Ship: Apocalypse
+Weapon: Apocalypse
+
+Name: Rydal32
+Security: 5.0
+Alliance: Northern Freedom Coalition
+Corp: Warped Mining
+Ship: Raven
+Weapon: XT-9000 Cruise Launcher
+
+Name: Honking Walrus
+Security: 5.0
+Alliance: Northern Freedom Coalition
+Corp: Digital Fury Corporation
+Ship: Raven
+Weapon: Remote Sensor Dampener I
+
+
+Destroyed items:
+
+Heavy 'Knave' I Energy Drain
+Cataclysm Cruise Missile, Qty: 46
+Wrath Cruise Missile, Qty: 45
+Devastator Cruise Missile, Qty: 23
+Paradise Cruise Missile, Qty: 22
+'Limos' Cruise Launcher I
+'Limos' Cruise Launcher I
+'Limos' Cruise Launcher I
+XT-9000 Cruise Launcher
+Remote Sensor Dampener I
+Remote Sensor Dampener I
+Alumel-Wired I Sensor Augmentation
+Warp Core Stabilizer I
+Wrath Cruise Missile, Qty: 1863 (Cargo)
+Devastator Cruise Missile, Qty: 1138 (Cargo)
+Cataclysm Cruise Missile, Qty: 1018 (Cargo)
+Paradise Cruise Missile, Qty: 1287 (Cargo)
+Vespa I, Qty: 2 (Drone Bay)
+

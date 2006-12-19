@@ -1,0 +1,30 @@
+2006.09.25 05:46
+
+Victim: Penelope Grey
+Alliance: Process of Elimination
+Corp: Occassus Republica
+Destroyed: Crow
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Digioso (laid the final blow)
+Security: 1.2
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Megathron
+Weapon: Large 'Notos' Explosive Charge I
+
+
+Destroyed items:
+
+Piranha Light Missile, Qty: 98
+Standard Missile Launcher II
+Standard Missile Launcher II
+1MN MicroWarpdrive II
+Micro Auxiliary Power Core I
+Vespa I, Qty: 7 (Cargo)
+Multiphasic Bolt Array I (Cargo)
+Piranha Light Missile, Qty: 133 (Cargo)
+

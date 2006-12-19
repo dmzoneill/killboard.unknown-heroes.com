@@ -1,0 +1,47 @@
+2007.04.11 21:54
+
+Victim: Jonkai
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Destroyed: Hyperion
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Vily (laid the final blow)
+Security: 0.3
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Chimera
+Weapon: Firbolg
+
+Name: Ferocious FeAr
+Security: 1.5
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Rook
+Weapon: Dragonfly
+
+Name: Robet Katrix
+Security: 2.1
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Chimera
+Weapon: Firbolg
+
+
+Destroyed items:
+
+425mm Railgun I
+425mm Railgun I
+425mm Railgun I
+425mm Carbide Railgun I
+Antimatter Charge L, Qty: 144
+ECM - Multispectral Jammer I
+Tracking Computer II
+Large 'Accommodation' Vestment Reconstructer I
+Magnetic Field Stabilizer II
+Energized Adaptive Nano Membrane I
+Type-D Power Core Modification: Diagnostic System
+

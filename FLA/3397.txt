@@ -1,0 +1,30 @@
+2007.03.25 14:06
+
+Victim: Kateryne
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Destroyed: Stabber
+System: XZH-4X
+Security: 0.0
+
+Involved parties:
+
+Name: istasi (laid the final blow)
+Security: -0.4
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Myrmidon
+Weapon: Wasp I
+
+
+Destroyed items:
+
+Medium 'Knave' I Energy Drain
+Medium Nosferatu I
+Sabretooth Light Missile, Qty: 33
+Piranha Light Missile, Qty: 33
+Corpse (Cargo)
+Vespa II, Qty: 2 (Cargo)
+Sabretooth Light Missile, Qty: 450 (Cargo)
+Piranha Light Missile, Qty: 450 (Cargo)
+

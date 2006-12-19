@@ -1,0 +1,46 @@
+2006.10.16 00:05
+
+Victim: Paltar
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Destroyed: Ishtar
+System: Litiura
+Security: 0.5
+
+Involved parties:
+
+Name: Niazi (laid the final blow)
+Security: -2.0
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Eos
+Weapon: Heavy Neutron Blaster II
+
+Name: Laarz
+Security: -3.9
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: carraktiker
+Security: 0.0
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Ares
+Weapon: Foxfire Rocket
+
+
+Destroyed items:
+
+Medium 'Knave' I Energy Drain
+Faint Epsilon Warp Prohibitor I
+Fleeting Propulsion Inhibitor I
+Energized Adaptive Nano Membrane II
+Small Shield Extender II (Cargo)
+Antimatter Charge S, Qty: 731 (Cargo)
+Co-Processor II (Cargo)
+Sabretooth Light Missile, Qty: 83 (Cargo)
+TE-2100 Standard Missile Bay, Qty: 3 (Cargo)
+Warden I, Qty: 3 (Drone Bay)
+

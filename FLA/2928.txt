@@ -1,0 +1,47 @@
+2007.03.16 23:01
+
+Victim: Puz'ZaW
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Destroyed: Capsule
+System: E-Z2ZX
+Security: 0.0
+
+Involved parties:
+
+Name: Rubens22
+Security: 2.3
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Enyo
+Weapon: Enyo
+
+Name: Gorfi tco
+Security: 3.9
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Heretic
+Weapon: Heretic
+
+Name: ZIQUET (laid the final blow)
+Security: 4.8
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Enyo
+Weapon: Light Ion Blaster II
+
+Name: daidvg
+Security: 1.9
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Atron
+Weapon: 75mm Gatling Rail II
+
+Name: Hinderburg
+Security: 4.2
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Wolf
+Weapon: 150mm Light AutoCannon II
+
+

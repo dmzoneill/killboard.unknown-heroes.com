@@ -1,0 +1,35 @@
+2007.01.12 18:03
+
+Victim: Rhaall
+Alliance: Freelancer Alliance
+Corp: X.T.R
+Destroyed: Punisher
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Crucifier (laid the final blow)
+Security: 0.3
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: ETS4ME
+Security: 0.7
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Cruise Missile Launcher II
+
+
+Destroyed items:
+
+Dual Light Pulse Laser II
+Dual Light Pulse Laser II
+Cold-Gas I Arcjet Thrusters
+Mark I Generator Refitting: Capacitor Power Relay
+ECCM - Omni I (Cargo)
+Warp Core Stabilizer I, Qty: 2 (Cargo)
+

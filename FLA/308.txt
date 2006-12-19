@@ -1,0 +1,19 @@
+2007.01.24 06:40
+
+Victim: MingTai
+Alliance: Gunboat Diplomacy
+Corp: GalacTECH Unlimited
+Destroyed: Caldari Shuttle
+System: OWXT-5
+Security: 0.0
+
+Involved parties:
+
+Name: Samiloth Justinian (laid the final blow)
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Crow
+Weapon: Thorn Rage Rocket
+
+

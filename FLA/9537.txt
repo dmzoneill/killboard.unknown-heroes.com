@@ -1,0 +1,75 @@
+2007.05.07 02:40
+
+Victim: Bothius
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Arazu
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Thea Arsoniztik
+Security: 1.4
+Alliance: Dusk and Dawn
+Corp: Omega Enterprises
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: darkfuntime
+Security: 2.5
+Alliance: Dusk and Dawn
+Corp: Omega Enterprises
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: Auronof
+Security: -3.1
+Alliance: Dusk and Dawn
+Corp: ClanKillers
+Ship: Ares
+Weapon: TE-2100 Standard Missile Bay
+
+Name: haq aan
+Security: -0.1
+Alliance: Dusk and Dawn
+Corp: Omega Enterprises
+Ship: Claw
+Weapon: Claw
+
+Name: Nightbird (laid the final blow)
+Security: 0.8
+Alliance: Sparta Alliance
+Corp: Neogen Industries
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+Name: Joe's Load
+Security: 0.3
+Alliance: Dusk and Dawn
+Corp: Omega Enterprises
+Ship: Arazu
+Weapon: Arazu
+
+Name: Aridante Lemure
+Security: 1.2
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Celestis
+Weapon: Remote Sensor Dampener II
+
+
+Destroyed items:
+
+250mm Prototype I Gauss Gun
+Iron Charge M, Qty: 80
+Cynosural Field Generator I
+Remote Sensor Dampener II
+Remote Sensor Dampener II
+Remote Sensor Dampener II
+Medium Armor Repairer II
+Local Hull Conversion Inertial Stabilizers I
+Thorium Charge M, Qty: 199 (Cargo)
+Valkyrie I (Drone Bay)
+Warrior I (Drone Bay)
+

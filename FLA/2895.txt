@@ -1,0 +1,49 @@
+2007.03.15 01:49
+
+Victim: Tregaron
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Destroyed: Thrasher
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: kezz2411 (laid the final blow)
+Security: 5.3
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Mongo Peck
+Security: 4.9
+Alliance: Xelas Alliance
+Corp: Requiem of Hades
+Ship: Taranis
+Weapon: Taranis
+
+Name: Selnix
+Security: 5.0
+Alliance: Aftermath Alliance
+Corp: Master Miners
+Ship: Eris
+Weapon: Gremlin Javelin Rocket
+
+Name: SN 1121666
+Security: 0.7
+Alliance: Axiom Empire
+Corp: Regalis Industria Scientia Entreprendre
+Ship: Rifter
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+200mm AutoCannon II
+200mm AutoCannon II
+200mm AutoCannon II
+Small 'Knave' I Energy Drain
+Barrage S, Qty: 300
+J5b Phased Prototype Warp Inhibitor I
+

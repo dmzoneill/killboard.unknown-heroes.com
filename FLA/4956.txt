@@ -1,0 +1,69 @@
+2007.04.20 14:38
+
+Victim: Laerana
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Vexor
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Trooper B99
+Security: 1.1
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Unknown
+Weapon: Einherji
+
+Name: Indiano Arko
+Security: 0.6
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: Dana Marillis
+Security: 3.5
+Alliance: Storm Armada
+Corp: stone grave haulage
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: ZAPPEL (laid the final blow)
+Security: 2.5
+Alliance: Mercenary Coalition
+Corp: Seraphin Technologies
+Ship: Myrmidon
+Weapon: Ogre I
+
+Name: Savak
+Security: -0.2
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: tomuch
+Security: 2.9
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Enyo
+Weapon: Enyo
+
+Name: Ale Tricio
+Security: 2.1
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Archon
+Weapon: Einherji
+
+
+Destroyed items:
+
+Small Nosferatu I
+Energized Adaptive Nano Membrane I
+1600mm Reinforced Steel Plates I
+Warrior I (Drone Bay)
+Vespa I (Drone Bay)
+

@@ -1,0 +1,103 @@
+2006.10.23 20:12
+
+Victim: Naldo
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Destroyed: Armageddon
+System: MI6O-6
+Security: 0.0
+
+Involved parties:
+
+Name: MentalM
+Security: 5.2
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: sulky
+Security: 0.5
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Megan Ryder
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: VentureCorp
+Ship: Megathron
+Weapon: Megathron
+
+Name: Ageha
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Apocalypse
+Weapon: Tachyon Beam Laser II
+
+Name: Scylla V (laid the final blow)
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: VentureCorp
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Moominer
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: freestrike
+Security: 5.9
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Eagle
+Weapon: Eagle
+
+Name: Skornik
+Security: 3.5
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Megathron
+Weapon: 425mm Compressed Coil Gun I
+
+Name: Xiang Tai
+Security: 1.7
+Alliance: Imperial Republic Of the North
+Corp: Port Royal Independent Kontractors
+Ship: Scorpion
+Weapon: ECM - White Noise Generator II
+
+Name: Demarcus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Scorpion
+Weapon: 'Arbalest' Siege Missile Launcher
+
+Name: Barsak Kressel
+Security: 2.6
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Ship: Raven
+Weapon: 'Limos' Cruise Launcher I
+
+
+Destroyed items:
+
+Tachyon Beam Laser II
+Tachyon Beam Laser II
+Aurora L
+Aurora L
+F-b10 Nominal Capacitor Regenerator
+Heat Sink II
+Heat Sink II
+Heat Sink II
+Gleam L, Qty: 2 (Cargo)
+Ogre I, Qty: 2 (Drone Bay)
+Vespa II, Qty: 2 (Drone Bay)
+

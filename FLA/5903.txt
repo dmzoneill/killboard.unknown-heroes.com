@@ -1,0 +1,26 @@
+2006.10.28 00:54
+
+Victim: Caspian Drakery
+Alliance: None
+Corp: The Diplomats
+Destroyed: Gallente Shuttle
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: PanzerGrenadier
+Security: 5.0
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Eagle
+Weapon: Eagle
+
+Name: Hosanna (laid the final blow)
+Security: 0.4
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Wolf
+Weapon: 150mm Light AutoCannon II
+
+

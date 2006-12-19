@@ -1,0 +1,33 @@
+2006.09.29 23:48
+
+Victim: Helavus
+Alliance: None
+Corp: Green Peace Corp
+Destroyed: Amarr Shuttle
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Drakin Korin
+Security: 2.1
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Deimos
+Weapon: Heavy Ion Blaster II
+
+Name: DarkJester (laid the final blow)
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery I
+
+Name: Kismeteer
+Security: 3.3
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Incursus
+Weapon: Stasis Webifier I
+
+

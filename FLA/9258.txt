@@ -1,0 +1,35 @@
+2007.05.05 18:14
+
+Victim: Hughwasit
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Kestrel
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: ClogMan (laid the final blow)
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Stabber
+Weapon: Dual 180mm AutoCannon II
+
+Name: AnarchistUK
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: United Space Republic
+Ship: Hawk
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+Sabretooth Light Missile, Qty: 35
+Standard Missile Launcher I
+Standard Missile Launcher I
+Monopropellant I Hydrazine Boosters
+Stasis Webifier I
+Signal Amplifier I
+

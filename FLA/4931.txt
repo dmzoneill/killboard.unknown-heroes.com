@@ -1,0 +1,35 @@
+2007.04.20 03:17
+
+Victim: lord shadowhawk
+Alliance: Freelancer Alliance
+Corp: N.A.S.A.
+Destroyed: Typhoon
+System: 85-B52
+Security: 0.0
+
+Involved parties:
+
+Name: Guristas Demolisher / Guristas (laid the final blow)
+
+Name: Lord Revent
+Security: 1.1
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Sexorella hotz
+Security: 3.2
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Thorax
+Weapon: Hammerhead II
+
+Name: Bishata
+Security: 1.1
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Malediction
+Weapon: Sabretooth Light Missile
+
+

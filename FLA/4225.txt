@@ -1,0 +1,47 @@
+2007.04.04 16:13
+
+Victim: Ayamara
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Minmatar Shuttle
+System: P-2TTL
+Security: 0.0
+
+Involved parties:
+
+Name: Musician (laid the final blow)
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Falcon
+Weapon: Havoc Heavy Missile
+
+Name: tomlinsonland
+Security: -1.7
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Crow
+Weapon: 75mm Gatling Rail II
+
+Name: PMolkenthin
+Security: -0.7
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Arazu
+Weapon: Arazu
+
+Name: Tok Ra
+Security: 1.8
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Helios
+Weapon: J5b Phased Prototype Warp Inhibitor I
+
+Name: MegaJ
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Pilgrim
+Weapon: Balmer Series Targeting Inhibitor I
+
+

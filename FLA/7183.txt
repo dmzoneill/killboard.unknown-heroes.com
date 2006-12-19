@@ -1,0 +1,48 @@
+2006.12.30 22:05
+
+Victim: Hamatitio
+Alliance: None
+Corp: Fate.
+Destroyed: Sabre
+System: O-N8XZ
+Security: 0.0
+
+Involved parties:
+
+Name: Chuck Dawg
+Security: 1.9
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Drake
+Weapon: Widowmaker Heavy Missile
+
+Name: Grey Death (laid the final blow)
+Security: 2.5
+Alliance: None
+Corp: Strategem
+Ship: Hawk
+Weapon: Sabretooth Light Missile
+
+Name: Garax Lance
+Security: 1.1
+Alliance: None
+Corp: Strategem
+Ship: Rifter
+Weapon: Rifter
+
+
+Destroyed items:
+
+200mm AutoCannon II
+200mm AutoCannon II
+200mm AutoCannon II
+200mm AutoCannon II
+200mm AutoCannon II
+Barrage S, Qty: 120
+Warp Disrupt Probe, Qty: 10
+1MN MicroWarpdrive II
+X5 Prototype I Engine Enervator
+Beta Hull Mod Inertial Stabilizers
+Nanofiber Internal Structure I
+Warp Disrupt Probe, Qty: 18 (Cargo)
+

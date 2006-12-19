@@ -1,0 +1,33 @@
+2007.04.15 02:44
+
+Victim: Primaxin
+Alliance: Freelancer Alliance
+Corp: Harbingers of Sarrow
+Destroyed: Merlin
+System: G95-VZ
+Security: 0.0
+
+Involved parties:
+
+Name: Levin Cavil (laid the final blow)
+Security: -1.0
+Alliance: None
+Corp: Developmental Neogenics Amalgamated
+Ship: Sabre
+Weapon: 150mm Light AutoCannon II
+
+
+Destroyed items:
+
+125mm 'Scout' I Accelerator Cannon
+TE-2100 Standard Missile Bay
+TE-2100 Standard Missile Bay
+1MN MicroWarpdrive I
+Local Power Plant Manager: Diagnostic System I
+Local Power Plant Manager: Reaction Control I
+Lead Charge S, Qty: 400 (Cargo)
+Thorium Charge S, Qty: 240 (Cargo)
+Flameburst Light Missile, Qty: 354 (Cargo)
+Sabretooth Light Missile, Qty: 400 (Cargo)
+Bloodclaw Light Missile, Qty: 354 (Cargo)
+

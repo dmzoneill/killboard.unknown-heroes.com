@@ -1,0 +1,74 @@
+2007.01.28 17:38
+
+Victim: NesheresH
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Destroyed: Rupture
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Nira Li
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Harbinger
+Weapon: Harbinger
+
+Name: Letum Omnis (laid the final blow)
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Hyperion
+Weapon: 425mm Railgun II
+
+Name: Memphisz
+Security: 0.3
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Marschall
+Security: 2.1
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Bone Collector44
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Misticue
+Security: -1.5
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+Name: Pyrotesea
+Security: 4.6
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Hyperion
+Weapon: Hyperion
+
+
+Destroyed items:
+
+220mm Medium Gallium I Machine Gun
+220mm Medium Gallium I Machine Gun
+425mm Medium Gallium I Machine Gun
+425mm Medium Gallium I Machine Gun
+Medium Nosferatu I
+Depleted Uranium M, Qty: 301
+'Langour' Drive Disruptor I
+Radioisotope Thermic Hardener I
+Radioisotope Kinetic Hardener I
+Radioisotope Explosive Hardener I
+

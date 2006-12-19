@@ -1,0 +1,53 @@
+2007.04.21 19:10
+
+Victim: Fitz Farseer
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Hound
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: CENTUREAN
+Security: 4.4
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Crow
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: demotar (laid the final blow)
+Security: 4.1
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Rifter
+Weapon: Sabretooth Light Missile
+
+Name: Xenofur
+Security: 3.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Unknown
+Weapon: 75mm Gatling Rail I
+
+Name: nye 2k
+Security: 5.0
+Alliance: A Few Good Men.
+Corp: Silver Snake Enterprise
+Ship: Caracal
+Weapon: Heavy Missile Launcher I
+
+
+Destroyed items:
+
+'Arbalest' Cruise Launcher I
+Indirect Scanning Dampening Unit I
+Sensor Booster II
+Ballistic Control System II
+Overdrive Injector System I
+Overdrive Injector System II
+Warp Scrambler I (Cargo)
+Antimatter Charge S, Qty: 192 (Cargo)
+Devastator Cruise Missile, Qty: 159 (Cargo)
+Overdrive Injector System I, Qty: 2 (Cargo)
+

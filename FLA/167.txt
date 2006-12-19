@@ -1,0 +1,33 @@
+2007.01.15 08:15
+
+Victim: Marco Polo9
+Alliance: None
+Corp: Federal Navy Academy
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Indigo Callypso (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: KriegDrachen
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Sabre
+Weapon: Sabre
+
+Name: Slinktress
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Ishkur
+Weapon: Light Neutron Blaster I
+
+

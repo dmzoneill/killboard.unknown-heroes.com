@@ -1,0 +1,86 @@
+2007.04.09 01:56
+
+Victim: StrikerOneSevern
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Destroyed: Raven
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Ale Tricio (laid the final blow)
+Security: 2.1
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Archon
+Weapon: Firbolg
+
+Name: Minmatar Control Tower Medium / Eternity INC.
+
+Name: MIGHTYDWC
+Security: 4.7
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Myrmidon
+Weapon: Ogre II
+
+Name: Queldonus
+Security: 2.6
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Nidhoggur
+Weapon: Einherji
+
+Name: Myal Terego
+Security: -2.6
+Alliance: S.E.R.A
+Corp: Seraphin Technologies
+Ship: Archon
+Weapon: Templar
+
+Name: Skinny Boy
+Security: 4.1
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Thanatos
+Weapon: Firbolg
+
+Name: Luthair StoneDog
+Security: -2.7
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Thanatos
+Weapon: Einherji
+
+Name: Spacebar
+Security: 2.1
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Jaguar
+Weapon: 125mm Gatling AutoCannon II
+
+Name: Nethel
+Security: 2.1
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Dominix
+Weapon: Heavy 'Knave' I Energy Drain
+
+
+Destroyed items:
+
+Heavy Diminishing Power System Drain I
+Juggernaut Torpedo, Qty: 21
+Wrath Cruise Missile, Qty: 23
+'Arbalest' Siege Missile Launcher
+'Arbalest' Siege Missile Launcher
+Large Shield Booster II
+Eutectic I Capacitor Charge Array
+Invulnerability Field II
+Invulnerability Field II
+Shield Boost Amplifier I
+Power Diagnostic System II
+Juggernaut Torpedo, Qty: 1941 (Cargo)
+Vespa II, Qty: 4 (Drone Bay)
+

@@ -1,0 +1,28 @@
+2007.03.26 05:22
+
+Victim: hydro2900
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Destroyed: Incursus
+System: MZ1E-P
+Security: 0.0
+
+Involved parties:
+
+Name: Scer (laid the final blow)
+Security: 1.0
+Alliance: None
+Corp: Eterne
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+
+Destroyed items:
+
+Light Neutron Blaster II
+Light Neutron Blaster II
+Void S, Qty: 69
+1MN Afterburner I
+50mm Reinforced Nanofiber Plates I
+Antimatter Charge S, Qty: 2156 (Cargo)
+

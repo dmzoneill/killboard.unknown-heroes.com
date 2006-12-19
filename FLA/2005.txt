@@ -1,0 +1,47 @@
+2007.01.16 09:45
+
+Victim: darkviron
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Destroyed: Raven
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: ZUDD
+Security: 4.0
+Alliance: None
+Corp: Omniscient Order
+Ship: Ishtar
+Weapon: Wasp II
+
+Name: Noobjuice
+Security: -0.6
+Alliance: None
+Corp: Omniscient Order
+Ship: Typhoon
+Weapon: Heavy 'Knave' I Energy Drain
+
+Name: Altai Saker (laid the final blow)
+Security: -1.6
+Alliance: None
+Corp: Omniscient Order
+Ship: Crusader
+Weapon: Dual Light Beam Laser II
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Mjolnir Torpedo, Qty: 17
+Inferno Torpedo, Qty: 17
+ZW-4100 Siege Missile Bay
+ZW-4100 Siege Missile Bay
+Large Azeotropic Ward Salubrity I
+X-Large Clarity Ward Booster I
+Cross-linked Bolt Array I
+Mark I Generator Refitting: Diagnostic System
+Inferno Torpedo, Qty: 2818 (Cargo)
+Hammerhead I (Drone Bay)
+

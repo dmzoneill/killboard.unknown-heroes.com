@@ -1,0 +1,26 @@
+2007.03.16 16:18
+
+Victim: Venedicto
+Alliance: YouWhat
+Corp: Beasts of Burden
+Destroyed: Gallente Shuttle
+System: XZH-4X
+Security: 0.0
+
+Involved parties:
+
+Name: MohamedLoftie (laid the final blow)
+Security: -0.8
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Absolution
+Weapon: Heavy Pulse Laser II
+
+Name: Spartan dax
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Drake
+Weapon: XR-3200 Heavy Missile Bay
+
+

@@ -1,0 +1,54 @@
+2007.02.05 19:54
+
+Victim: Dark Carnage
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Crow
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Flavius Renatus (laid the final blow)
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Sleipnir
+Weapon: 650mm Artillery Cannon II
+
+Name: ArkulA
+Security: 4.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Taranis
+Weapon: Acolyte II
+
+Name: Wyno
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Harpy
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+Name: Puls4r
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Claymore
+Weapon: Standard Missile Launcher II
+
+Name: Drift Spec
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Muninn
+Weapon: 720mm Howitzer Artillery II
+
+
+Destroyed items:
+
+Sabretooth Light Missile, Qty: 76
+Faint Epsilon Warp Prohibitor I
+Inertia Stabilizers I
+Mark I Generator Refitting: Capacitor Power Relay
+

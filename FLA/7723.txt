@@ -1,0 +1,26 @@
+2006.05.13 16:34
+
+Victim: Cockroach
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Capsule
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Femme Extrema
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: SteelVipers
+Ship: Ares
+Weapon: Ares
+
+Name: Ciens (laid the final blow)
+Security: -1.8
+Alliance: Dusk and Dawn
+Corp: SteelVipers
+Ship: Vagabond
+Weapon: Dual 180mm AutoCannon II
+
+

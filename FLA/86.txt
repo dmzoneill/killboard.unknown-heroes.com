@@ -1,0 +1,67 @@
+2007.01.07 08:30
+
+Victim: Zalim
+Alliance: None
+Corp: Janissaries
+Destroyed: Nighthawk
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Thiet
+Security: 3.8
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+Name: Weeble Wooble
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Myrmidon
+Weapon: Myrmidon
+
+Name: Simon Monkoto (laid the final blow)
+Security: 2.1
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Rokh
+Weapon: 425mm Railgun I
+
+Name: mr passie
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Rupture
+Weapon: Rupture
+
+Name: Sasham
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Raven
+Weapon: Heavy Diminishing Power System Drain I
+
+
+Destroyed items:
+
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Thunderbolt Heavy Missile, Qty: 45
+Heavy Missile Launcher II
+Heavy Missile Launcher II
+Heavy Missile Launcher II
+10MN Afterburner II
+Fleeting Warp Scrambler I
+Damage Control II
+Ballistic Control System II
+Mobile Small Warp Disruptor I (Cargo)
+Thunderbolt Heavy Missile, Qty: 554 (Cargo)
+Valkyrie I (Drone Bay)
+

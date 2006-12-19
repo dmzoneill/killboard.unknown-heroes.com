@@ -1,0 +1,154 @@
+2007.03.29 22:48
+
+Victim: Arbitrus
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Destroyed: Drake
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: volly
+Security: 3.4
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Zealot
+Weapon: Zealot
+
+Name: GODFATHER
+Security: 5.0
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Ship: Nighthawk
+Weapon: Scourge Heavy Missile
+
+Name: KaKaShI
+Security: 3.9
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Muninn
+Weapon: Muninn
+
+Name: WildCard
+Security: 4.4
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Tanya Kovacs
+Security: 5.1
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Eagle
+Weapon: Eagle
+
+Name: Chuck Dexter (laid the final blow)
+Security: 5.0
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Caracal
+Weapon: Bloodclaw Precision Light Missile
+
+Name: Sukur
+Security: 3.7
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Stabber
+Weapon: Stabber
+
+Name: Rubens22
+Security: 2.3
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Taranis
+Weapon: Taranis
+
+Name: Ehre86
+Security: 0.6
+Alliance: YouWhat
+Corp: Dark Rising Shadow
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: El Chingon
+Security: -3.1
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Ship: Caracal
+Weapon: Hobgoblin I
+
+Name: fichtenhannes
+Security: 5.0
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Rupture
+Weapon: Rupture
+
+Name: Messmint
+Security: 5.0
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: Xarax Sparow
+Security: 5.0
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: Naa Morat
+Security: 4.9
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Thorax
+Weapon: Hobgoblin II
+
+Name: mr ioso
+Security: 4.8
+Alliance: Chorus of Dawn
+Corp: Cosmic Odyssey
+Ship: Myrmidon
+Weapon: Hornet I
+
+Name: khazid
+Security: 5.0
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Ship: Maller
+Weapon: Focused Medium Pulse Laser II
+
+Name: Thyago
+Security: 5.0
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Ishkur
+Weapon: Light Ion Blaster II
+
+Name: Keflin Geard
+Security: 5.0
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Myrmidon
+Weapon: Warp Disruptor I
+
+Name: C4w3
+Security: 1.3
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Ship: Brutix
+Weapon: Brutix
+
+
+Destroyed items:
+
+Heavy Assault Missile Launcher I
+Heavy Assault Missile Launcher I
+Heavy Assault Missile Launcher I
+Heavy Assault Missile Launcher I
+Heavy Assault Missile Launcher I
+Ballistic Control System II
+

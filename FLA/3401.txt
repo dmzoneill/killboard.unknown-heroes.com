@@ -1,0 +1,67 @@
+2007.03.25 14:33
+
+Victim: darkviron
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Destroyed: Drake
+System: QXW-PV
+Security: 0.0
+
+Involved parties:
+
+Name: Ion Bartzabel (laid the final blow)
+Security: -0.2
+Alliance: Eternal Rapture
+Corp: Temptation inc.
+Ship: Deimos
+Weapon: Heavy Neutron Blaster II
+
+Name: Jack Archer
+Security: -1.2
+Alliance: Eternal Rapture
+Corp: Quantum Synergies
+Ship: Myrmidon
+Weapon: Wasp II
+
+Name: Donald Trump
+Security: -1.5
+Alliance: Eternal Rapture
+Corp: Temptation inc.
+Ship: Sleipnir
+Weapon: Sleipnir
+
+Name: GodWin cadela
+Security: -1.7
+Alliance: Eternal Rapture
+Corp: Exotic Dancers Club
+Ship: Huginn
+Weapon: Warrior I
+
+Name: Gliding
+Security: -1.9
+Alliance: Eternal Rapture
+Corp: Quantum Synergies
+Ship: Taranis
+Weapon: Light Neutron Blaster II
+
+Name: Smith9001
+Security: 0.1
+Alliance: Eternal Rapture
+Corp: Quantum Synergies
+Ship: Malediction
+Weapon: Malediction
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 15
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+XR-3200 Heavy Missile Bay
+Large C5-L Emergency Shield Overload I
+10MN MicroWarpdrive I
+J5 Prototype Warp Inhibitor I
+Alumel-Wired I Sensor Augmentation
+Damage Control I
+Scourge Heavy Missile, Qty: 2769 (Cargo)
+

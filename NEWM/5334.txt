@@ -1,0 +1,37 @@
+2007.04.25 05:55
+
+Victim: MrMaggot
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Manticore
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Akthuul
+Security: 5.0
+Alliance: Storm Armada
+Corp: stone grave haulage
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Gerald Osikawa (laid the final blow)
+Security: 0.9
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+
+Destroyed items:
+
+Improved Cloaking Device II
+Devastator Cruise Missile, Qty: 44
+'Arbalest' Cruise Launcher I
+Indirect Scanning Dampening Unit I
+Indirect Scanning Dampening Unit I
+F-90 Positional Sensor Subroutines
+Ballistic Control System II
+Cataclysm Cruise Missile, Qty: 505 (Cargo)
+

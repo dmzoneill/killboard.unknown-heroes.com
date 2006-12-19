@@ -1,0 +1,54 @@
+2007.04.08 22:59
+
+Victim: Exak
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Destroyed: Capsule
+System: F7C-H0
+Security: 0.0
+
+Involved parties:
+
+Name: Blaxi
+Security: 5.0
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Wolf
+Weapon: 250mm Light Gallium I Cannon
+
+Name: Thyago (laid the final blow)
+Security: 5.0
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Ishkur
+Weapon: Light Ion Blaster II
+
+Name: Neily
+Security: 4.7
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Rook
+Weapon: Assault Missile Launcher I
+
+Name: Exitao
+Security: 5.0
+Alliance: YouWhat
+Corp: Cosmic Odyssey
+Ship: Taranis
+Weapon: Faint Warp Prohibitor I
+
+Name: Ehre86
+Security: 1.2
+Alliance: YouWhat
+Corp: Dark Rising Shadow
+Ship: Crow
+Weapon: Warp Disruptor II
+
+Name: Appalachia
+Security: 5.2
+Alliance: YouWhat
+Corp: Pringles Inc.
+Ship: Crow
+Weapon: 'Arbalest' Standard Missile Launcher
+
+

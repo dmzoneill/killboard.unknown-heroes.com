@@ -1,0 +1,159 @@
+2007.05.20 15:37
+
+Victim: Gustav Blackknight
+Alliance: Exuro Mortis
+Corp: The Burning Orphans
+Destroyed: Rokh
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: MaceWindu666
+Security: 5.1
+Alliance: Event-Horizon
+Corp: Panta-Rhei
+Ship: Myrmidon
+Weapon: Fleeting Warp Scrambler I
+
+Name: kurtFury
+Security: 5.1
+Alliance: None
+Corp: Organized  Crayon Killers
+Ship: Drake
+Weapon: Havoc Heavy Missile
+
+Name: Commander Paul
+Security: 5.0
+Alliance: DeStInY.
+Corp: People's Front Of Judea
+Ship: Thorax
+Weapon: 250mm 'Scout' I Accelerator Cannon
+
+Name: Joachim R
+Security: 3.3
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Moa
+Weapon: 250mm 'Scout' I Accelerator Cannon
+
+Name: Matt Stoner
+Security: 3.6
+Alliance: Imperial Republic Of the North
+Corp: Karjala Inc.
+Ship: Harpy
+Weapon: Harpy
+
+Name: Madd Dok
+Security: 5.2
+Alliance: Imperial Republic Of the North
+Corp: Inversion
+Ship: Purifier
+Weapon: Paradise Cruise Missile
+
+Name: kookos
+Security: 0.7
+Alliance: Imperial Republic Of the North
+Corp: Karjala Inc.
+Ship: Pilgrim
+Weapon: Warrior II
+
+Name: Chiizukeeki
+Security: 4.0
+Alliance: Imperial Republic Of the North
+Corp: Karjala Inc.
+Ship: Claw
+Weapon: Claw
+
+Name: Jin Steele
+Security: 2.8
+Alliance: Imperial Republic Of the North
+Corp: Port Royal Independent Kontractors
+Ship: Crow
+Weapon: Warp Disruptor II
+
+Name: ZOOR
+Security: 2.9
+Alliance: Imperial Republic Of the North
+Corp: Old Farts
+Ship: Unknown
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+Name: Alch3mik
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: CrowK
+Security: -0.3
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Rapier
+Weapon: Warp Disruptor II
+
+Name: LEXER
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Crow
+Weapon: Sabretooth Light Missile
+
+Name: Ocara Nezus (laid the final blow)
+Security: 1.5
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Porky
+Security: 2.3
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Crow
+Weapon: Standard Missile Launcher I
+
+Name: pipvac
+Security: 2.7
+Alliance: DeStInY.
+Corp: Sacred Templars
+Ship: Eris
+Weapon: Sabretooth Light Missile
+
+Name: tartrus
+Security: 4.6
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Stiletto
+Weapon: Foxfire Rocket
+
+
+Destroyed items:
+
+E500 Prototype Energy Vampire
+Cruise Missile Launcher II
+Cataclysm Precision Cruise Missile
+Cataclysm Precision Cruise Missile
+Cataclysm Precision Cruise Missile
+Cataclysm Precision Cruise Missile
+Cataclysm Precision Cruise Missile
+Cataclysm Precision Cruise Missile
+Cataclysm Precision Cruise Missile
+Paradise Precision Cruise Missile
+Paradise Precision Cruise Missile
+Paradise Precision Cruise Missile
+Paradise Precision Cruise Missile
+Paradise Precision Cruise Missile
+Paradise Precision Cruise Missile
+Paradise Precision Cruise Missile
+X-Large C5-L Emergency Shield Overload I
+Invulnerability Field II
+Power Diagnostic System II
+Power Diagnostic System II
+Power Diagnostic System II
+Cap Booster 800, Qty: 7 (Cargo)
+Devastator Fury Cruise Missile, Qty: 600 (Cargo)
+Paradise Precision Cruise Missile, Qty: 320 (Cargo)
+Valkyrie II, Qty: 2 (Drone Bay)
+

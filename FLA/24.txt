@@ -1,0 +1,39 @@
+2007.01.01 19:03
+
+Victim: Marley Ziggy
+Alliance: None
+Corp: Bubbagump Inc.
+Destroyed: Scythe
+System: Alachene
+Security: 0.3
+
+Involved parties:
+
+Name: iggsterC
+Security: -1.2
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Vengeance
+Weapon: Vengeance
+
+Name: Matteh Mortis (laid the final blow)
+Security: 0.1
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Deimos
+Weapon: Heavy Neutron Blaster II
+
+
+Destroyed items:
+
+XeCl Drilling Beam I
+XeCl Drilling Beam I
+Bloodclaw Light Missile, Qty: 35
+Flameburst Light Missile, Qty: 35
+Standard Missile Launcher I
+Standard Missile Launcher I
+400mm Reinforced Steel Plates I
+Expanded Cargohold I
+Jaspet, Qty: 258 (Cargo)
+Hobgoblin I (Drone Bay)
+

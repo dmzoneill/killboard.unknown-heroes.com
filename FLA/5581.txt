@@ -1,0 +1,19 @@
+2006.10.08 14:54
+
+Victim: kot67
+Alliance: R.I.S.K
+Corp: FIGHTER'S WITHOUT RULES
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Nil Desperandum (laid the final blow)
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Omen
+Weapon: Heavy Pulse Laser II
+
+

@@ -1,0 +1,33 @@
+2007.03.25 19:14
+
+Victim: Thanat Ithos
+Alliance: Freelancer Alliance
+Corp: United Forces
+Destroyed: Capsule
+System: J1AU-9
+Security: 0.0
+
+Involved parties:
+
+Name: Dave White
+Security: -1.8
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Raptor
+Weapon: Raptor
+
+Name: Eudoric Delmar (laid the final blow)
+Security: 5.0
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Stiletto
+Weapon: 200mm AutoCannon II
+
+Name: rahmat mirko
+Security: 0.2
+Alliance: None
+Corp: Pitch Black Incorporated
+Ship: Hawk
+Weapon: Thorn Javelin Rocket
+
+

@@ -1,0 +1,26 @@
+2007.02.26 02:56
+
+Victim: Bedrock
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Destroyed: Capsule
+System: 3WE-KY
+Security: 0.0
+
+Involved parties:
+
+Name: Xantheris (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+Name: Paltar
+Security: -1.6
+Alliance: None
+Corp: Eternal Rising
+Ship: Crow
+Weapon: TE-2100 Standard Missile Bay
+
+

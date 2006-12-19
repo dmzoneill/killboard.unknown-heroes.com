@@ -1,0 +1,40 @@
+2007.04.27 08:52
+
+Victim: rhrdh
+Alliance: None
+Corp: Republic Military School
+Destroyed: Gallente Shuttle
+System: F7C-H0
+Security: 0.0
+
+Involved parties:
+
+Name: La 'Kra (laid the final blow)
+Security: 1.1
+Alliance: Guardian Federation
+Corp: KULT Production
+Ship: Stabber
+Weapon: Dual 180mm AutoCannon II
+
+Name: Esee
+Security: 5.0
+Alliance: Guardian Federation
+Corp: KULT Production
+Ship: Claw
+Weapon: Claw
+
+Name: Calvin Andros
+Security: 1.9
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Brutix
+Weapon: Warp Disruptor I
+
+Name: Caer Dallben
+Security: 1.9
+Alliance: Dusk and Dawn
+Corp: Die Apokalyptischen Reiter
+Ship: Taranis
+Weapon: Fleeting Warp Scrambler I
+
+

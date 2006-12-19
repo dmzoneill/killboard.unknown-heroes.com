@@ -1,0 +1,57 @@
+2007.04.01 22:49
+
+Victim: Nox Domini
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Rokh
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Skinny Boy (laid the final blow)
+Security: 4.1
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Thanatos
+Weapon: Dragonfly
+
+Name: Ateneiha
+Security: 4.8
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Chimera
+Weapon: Templar
+
+Name: Robet Katrix
+Security: 2.5
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Chimera
+Weapon: Dragonfly
+
+Name: Shadowjet
+Security: -1.3
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+
+Destroyed items:
+
+425mm Railgun I
+425mm Railgun I
+425mm Railgun I
+Iridium Charge L, Qty: 80
+Large Shield Extender II
+Non-Inertial Ballistic Screen Augmentation I
+F-12 Nonlinear Tracking Processor
+Magnetic Field Stabilizer I
+Local Power Plant Manager: Diagnostic System I
+Medium Proton Smartbomb I (Cargo)
+Iridium Charge L, Qty: 5287 (Cargo)
+Antimatter Charge M, Qty: 100 (Cargo)
+Local Power Plant Manager: Diagnostic System I (Cargo)
+Vespa I (Drone Bay)
+

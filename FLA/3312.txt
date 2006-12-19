@@ -1,0 +1,26 @@
+2007.03.23 05:46
+
+Victim: ventura5
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Capsule
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Adam Dartnell (laid the final blow)
+Security: -1.1
+Alliance: None
+Corp: Developmental Neogenics Amalgamated
+Ship: Zealot
+Weapon: Heavy Pulse Laser II
+
+Name: One Percent
+Security: -4.0
+Alliance: None
+Corp: Developmental Neogenics Amalgamated
+Ship: Flycatcher
+Weapon: Thorn Rocket
+
+

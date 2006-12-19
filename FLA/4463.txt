@@ -1,0 +1,50 @@
+2007.04.10 22:51
+
+Victim: Skull Fire
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Drake
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Eleese (laid the final blow)
+Security: -0.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Dominix
+Weapon: Ogre II
+
+Name: kapten sortebil
+Security: 4.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Raptor
+Weapon: Standard Missile Launcher I
+
+
+Destroyed items:
+
+Fulmination Assault Missile, Qty: 180
+Terror Assault Missile, Qty: 174
+Havoc Heavy Missile, Qty: 24
+Scourge Heavy Missile, Qty: 24
+Widowmaker Heavy Missile, Qty: 25
+XR-3200 Heavy Missile Bay
+XR-3200 Heavy Missile Bay
+XR-3200 Heavy Missile Bay
+'Arbalest' Heavy Assault Missile Launcher I
+'Arbalest' Heavy Assault Missile Launcher I
+'Arbalest' Heavy Assault Missile Launcher I
+Large Shield Extender II
+10MN MicroWarpdrive I
+X5 Prototype I Engine Enervator
+Sensor Booster I
+Damage Control I
+Mark I Generator Refitting: Diagnostic System
+Havoc Heavy Missile, Qty: 400 (Cargo)
+Widowmaker Heavy Missile, Qty: 365 (Cargo)
+Scourge Heavy Missile, Qty: 365 (Cargo)
+Torrent Assault Missile, Qty: 400 (Cargo)
+

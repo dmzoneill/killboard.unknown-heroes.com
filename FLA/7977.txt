@@ -1,0 +1,19 @@
+2006.10.05 07:25
+
+Victim: SpaceSlag
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Capsule
+System: Isanamo
+Security: 0.6
+
+Involved parties:
+
+Name: Pure Blood (laid the final blow)
+Security: 0.0
+Alliance: None
+Corp: Privateers
+Ship: Bellicose
+Weapon: 200mm AutoCannon II
+
+

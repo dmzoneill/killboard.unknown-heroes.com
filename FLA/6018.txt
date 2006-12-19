@@ -1,0 +1,21 @@
+2006.11.06 04:07
+
+Victim: DASHD DSA
+Alliance: None
+Corp: Aliastra
+Destroyed: Gallente Shuttle
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Angel Vengen (laid the final blow)
+Security: 4.0
+Alliance: Freelancer Alliance
+Corp: Caldar Mercenary Syndicate
+Ship: Ferox
+Weapon: Widowmaker Precision Heavy Missile
+
+Name: Guristas Terrorist / Guristas
+
+

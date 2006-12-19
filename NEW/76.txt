@@ -1,0 +1,26 @@
+2007.01.06 18:28
+
+Victim: DoaSparks
+Alliance: Privateer Alliance
+Corp: Drones of Annihilation
+Destroyed: Taranis
+System: Uedama
+Security: 0.5
+
+Involved parties:
+
+Name: drullir (laid the final blow)
+Security: 3.5
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Ishkur
+Weapon: Hammerhead II
+
+
+Destroyed items:
+
+Light Ion Blaster II
+1MN MicroWarpdrive II
+Damage Control I
+Iridium Charge S, Qty: 1000 (Cargo)
+Warrior II (Drone Bay)

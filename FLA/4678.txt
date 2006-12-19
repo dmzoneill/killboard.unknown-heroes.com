@@ -1,0 +1,47 @@
+2007.04.18 01:13
+
+Victim: seferas
+Alliance: None
+Corp: State War Academy
+Destroyed: Minmatar Shuttle
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Tran Whistler
+Security: 5.3
+Alliance: Freelancer Alliance
+Corp: Harbingers of Sarrow
+Ship: Raptor
+Weapon: Thorn Rocket
+
+Name: coldkill (laid the final blow)
+Security: 1.9
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Brutix
+Weapon: Hobgoblin II
+
+Name: Kartock Maar
+Security: 2.1
+Alliance: Freelancer Alliance
+Corp: Harbingers of Sarrow
+Ship: Celestis
+Weapon: Celestis
+
+Name: arthell
+Security: 2.9
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Celestis
+Weapon: Indirect Scanning Dampening Unit I
+
+Name: Kvarium Ki
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Stabber
+Weapon: Assault Missile Launcher I
+
+

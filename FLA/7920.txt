@@ -1,0 +1,19 @@
+2006.09.30 04:43
+
+Victim: Soliloquil
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Destroyed: Capsule
+System: EWOK-K
+Security: 0.0
+
+Involved parties:
+
+Name: Weeble Wooble (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Taranis
+Weapon: Light Neutron Blaster II
+
+

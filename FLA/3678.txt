@@ -1,0 +1,43 @@
+2007.03.29 03:09
+
+Victim: Thafesko
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Destroyed: Cormorant
+System: RQH-MY
+Security: 0.0
+
+Involved parties:
+
+Name: Trovash
+Security: 1.4
+Alliance: None
+Corp: I-Omniscient-I
+Ship: Rupture
+Weapon: Rupture
+
+Name: Arbius V'Talik (laid the final blow)
+Security: 1.3
+Alliance: None
+Corp: I-Omniscient-I
+Ship: Caracal
+Weapon: Flameburst Light Missile
+
+Name: Narcotic XIII
+Security: 3.6
+Alliance: None
+Corp: I-Omniscient-I
+Ship: Raven
+Weapon: E500 Prototype Energy Vampire
+
+
+Destroyed items:
+
+125mm Carbide Railgun I
+125mm Carbide Railgun I
+125mm Carbide Railgun I
+125mm Carbide Railgun I
+Lead Charge S, Qty: 234
+1MN MicroWarpdrive I
+Prototype I Sensor Booster
+

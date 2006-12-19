@@ -1,0 +1,26 @@
+2007.02.02 16:52
+
+Victim: DirtyFighter
+Alliance: None
+Corp: Caldari Provisions
+Destroyed: Capsule
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Kremnican (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Kestrel
+Weapon: Thorn Rocket
+
+Name: Night Seeker
+Security: 0.2
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Hound
+Weapon: XT-9000 Cruise Launcher
+
+

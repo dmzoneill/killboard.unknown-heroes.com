@@ -1,0 +1,40 @@
+2007.02.10 18:50
+
+Victim: Jarath Abyss
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Destroyed: Enyo
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: ukpAgAn (laid the final blow)
+Security: 5.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Megathron
+Weapon: Neutron Blaster Cannon II
+
+Name: boo3916
+Security: 4.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Dominix
+Weapon: Berserker II
+
+
+Destroyed items:
+
+125mm Railgun II
+Spike S, Qty: 111
+'Arbalest' Standard Missile Launcher
+1MN Afterburner II
+Magnetic Field Stabilizer II
+Magnetic Field Stabilizer II
+Warp Disruptor I (Cargo)
+Antimatter Charge S, Qty: 1495 (Cargo)
+Bloodclaw Light Missile, Qty: 540 (Cargo)
+Partial Hull Conversion Inertial Stabilizers (Cargo)
+Nanofiber Internal Structure I (Cargo)
+

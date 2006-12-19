@@ -1,0 +1,28 @@
+2007.05.19 02:00
+
+Victim: Tadin
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Merlin
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: DeSantis (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+
+Destroyed items:
+
+Flameburst Light Missile, Qty: 39
+Sabretooth Light Missile, Qty: 37
+1MN MicroWarpdrive I
+Reactor Control Unit I
+Antimatter Charge S, Qty: 200 (Cargo)
+Sabretooth Light Missile, Qty: 150 (Cargo)
+

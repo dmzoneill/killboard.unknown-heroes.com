@@ -1,0 +1,19 @@
+2007.04.17 20:06
+
+Victim: TheSaF
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Destroyed: Capsule
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Wladomir Jed (laid the final blow)
+Security: 3.7
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+

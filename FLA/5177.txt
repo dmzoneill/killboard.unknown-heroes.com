@@ -1,0 +1,66 @@
+2007.04.23 18:06
+
+Victim: Namaris
+Alliance: Federation Of united Corps
+Corp: Drunken Ship Mates
+Destroyed: Iteron Mark V
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Chuck Dawg (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Ghu'ru Talozan
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Capsule
+Weapon: 150mm Railgun I
+
+Name: Nike Calistar
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Kestrel
+Weapon: Sabretooth Light Missile
+
+Name: Frau Formaggio
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Thorax
+Weapon: Vespa II
+
+Name: other mickey
+Security: 3.2
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Thrasher
+Weapon: Flameburst Light Missile
+
+Name: Magic Mazuma
+Security: 0.1
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Rifter
+Weapon: Rifter
+
+Name: Mocuker
+Security: 0.2
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Kestrel
+Weapon: Standard Missile Launcher I
+
+
+Destroyed items:
+
+Warp Core Stabilizer I
+Warp Core Stabilizer I
+

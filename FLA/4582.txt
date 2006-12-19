@@ -1,0 +1,53 @@
+2007.04.14 20:04
+
+Victim: Spartan dax
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Destroyed: Drake
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Specture (laid the final blow)
+Security: -1.7
+Alliance: Exuro Mortis
+Corp: Slacker Industries
+Ship: Tempest
+Weapon: Dual 650mm Repeating Artillery II
+
+Name: LB424
+Security: -1.5
+Alliance: Exuro Mortis
+Corp: Slacker Industries
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Mextor
+Security: 3.8
+Alliance: Exuro Mortis
+Corp: Slacker Industries
+Ship: Zealot
+Weapon: Zealot
+
+Name: spoon2
+Security: 5.0
+Alliance: Exuro Mortis
+Corp: Slacker Industries
+Ship: Myrmidon
+Weapon: Myrmidon
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 52
+Thunderbolt Heavy Missile, Qty: 26
+'Arbalest' Heavy Missile Launcher
+'Arbalest' Heavy Missile Launcher
+'Arbalest' Heavy Missile Launcher
+'Arbalest' Heavy Missile Launcher
+Ditrigonal Thermal Barrier Crystallization I
+Pseudoelectron Containment Field I
+Power Diagnostic System II
+Thunderbolt Heavy Missile, Qty: 416 (Cargo)
+

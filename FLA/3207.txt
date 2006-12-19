@@ -1,0 +1,26 @@
+2007.03.21 02:01
+
+Victim: seryhgyu
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Destroyed: Capsule
+System: OWXT-5
+Security: 0.0
+
+Involved parties:
+
+Name: Kurt Cobain
+Security: -0.4
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Crusader
+Weapon: Crusader
+
+Name: Roule (laid the final blow)
+Security: -4.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Claw
+Weapon: 200mm AutoCannon II
+
+

@@ -1,0 +1,43 @@
+2006.11.18 06:57
+
+Victim: Lux0r
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Destroyed: Hawk
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: GoLdeN BoY
+Security: 1.7
+Alliance: None
+Corp: Beer Guzzling Clowns With Blasters
+Ship: Malediction
+Weapon: Medium Pulse Laser II
+
+Name: TheManEatingMonkey (laid the final blow)
+Security: 0.8
+Alliance: None
+Corp: Beer Guzzling Clowns With Blasters
+Ship: Jaguar
+Weapon: 200mm AutoCannon II
+
+Name: Torok Nakaht
+Security: 2.2
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Claw
+Weapon: 200mm AutoCannon II
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 176
+TE-2100 Standard Missile Bay
+TE-2100 Standard Missile Bay
+Small Shield Booster II
+Cold-Gas I Arcjet Thrusters
+Warp Scrambler I
+X5 Prototype I Engine Enervator
+

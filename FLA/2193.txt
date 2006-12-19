@@ -1,0 +1,117 @@
+2007.01.28 17:42
+
+Victim: Goca
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Destroyed: Ferox
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Pyrotesea (laid the final blow)
+Security: 4.6
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Hyperion
+Weapon: 425mm Railgun II
+
+Name: Havvok
+Security: 1.9
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Dominix
+Weapon: Berserker II
+
+Name: Beast Hun
+Security: 4.7
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Abaddon
+Weapon: Tachyon Beam Laser II
+
+Name: Misticue
+Security: -1.5
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Repiv
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Bone Collector44
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Armageddon
+Weapon: Tachyon Beam Laser I
+
+Name: Spartac0
+Security: 2.3
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: pajzi
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Claw
+Weapon: Claw
+
+Name: Memphisz
+Security: 0.3
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Tempest
+Weapon: Tempest
+
+Name: Angela Dray
+Security: 3.1
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Taranis
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: jernej
+Security: 4.2
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: dr shark
+Security: 1.8
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Muninn
+Weapon: Muninn
+
+Name: Letum Omnis
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Hyperion
+Weapon: 425mm Railgun II
+
+
+Destroyed items:
+
+Thunderbolt Heavy Missile, Qty: 20
+Widowmaker Heavy Missile, Qty: 20
+'Malkuth' Heavy Missile Launcher I
+Large F-S9 Regolith Shield Induction
+Large Clarity Ward Booster I
+Damage Control I
+Ballistic Control System I
+Havoc Heavy Missile, Qty: 499 (Cargo)
+Scourge Heavy Missile, Qty: 171 (Cargo)
+Widowmaker Heavy Missile, Qty: 1371 (Cargo)
+Thunderbolt Heavy Missile, Qty: 165 (Cargo)
+

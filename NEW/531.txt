@@ -1,0 +1,72 @@
+2007.04.10 18:54
+
+Victim: Fluidicspace
+Alliance: None
+Corp: Lensmen
+Destroyed: Drake
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Racuel (laid the final blow)
+Security: 5.0
+Alliance: Forces of Freedom
+Corp: The Royal Guard
+Ship: Typhoon
+Weapon: Dual 425mm 'Scout' Autocannon I
+
+Name: Tiberius Drake
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Thorax
+Weapon: Hammerhead I
+
+Name: Shassandra
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Catalyst
+Weapon: Catalyst
+
+Name: Tetrahagel
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Thorax
+Weapon: Thorax
+
+Name: RubberDuckey
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Blackwater Squadron
+Ship: Scorpion
+Weapon: Hammerhead II
+
+Name: Solomon XI
+Security: 1.1
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Drake
+Weapon: Widowmaker Heavy Missile
+
+Name: Strobelix
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Tristan
+Weapon: Small Nosferatu I
+
+
+Destroyed items:
+
+Medium 'Atonement' I Ward Projector
+Scourge Heavy Missile, Qty: 120
+Heavy Missile Launcher I, Qty: 5
+Large Shield Extender I, Qty: 2
+Heat Dissipation Amplifier I
+Magnetic Scattering Amplifier I
+Shield Power Relay I
+Barton Reactor Capacitor Recharger I (Cargo)
+Light Shield Maintenance Bot I (Drone Bay)

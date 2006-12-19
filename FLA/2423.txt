@@ -1,0 +1,45 @@
+2007.02.09 23:04
+
+Victim: tzar1024
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Destroyed: Rifter
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: ukpAgAn (laid the final blow)
+Security: 5.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: j3bus
+Security: 3.1
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Eagle
+Weapon: Eagle
+
+Name: aadom
+Security: 3.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Tempest
+Weapon: 1400mm Gallium I Cannon
+
+
+Destroyed items:
+
+150mm Light AutoCannon I
+150mm Light Gallium I Machine Gun
+EMP S, Qty: 22
+'Limos' Rocket Launcher I
+Medium Shield Extender I
+Shield Power Relay I
+Power Diagnostic System I
+Phased Plasma S, Qty: 2556 (Cargo)
+Foxfire Rocket, Qty: 457 (Cargo)
+

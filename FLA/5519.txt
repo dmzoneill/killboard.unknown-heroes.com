@@ -1,0 +1,37 @@
+2006.10.07 00:37
+
+Victim: Pryll
+Alliance: None
+Corp: Federal Navy Academy
+Destroyed: Velator
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: DarkJester (laid the final blow)
+Security: 0.7
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery I
+
+Name: movy
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Ishkur
+Weapon: 125mm Railgun II
+
+Name: forator2
+Security: 3.5
+Alliance: O X I D E
+Corp: W33D Corp.
+Ship: Taranis
+Weapon: Taranis
+
+
+Destroyed items:
+
+Civilian Light Electron Blaster
+

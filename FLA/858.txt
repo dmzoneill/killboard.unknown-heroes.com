@@ -1,0 +1,19 @@
+2007.02.24 22:29
+
+Victim: Rondeau
+Alliance: Xelas Alliance
+Corp: Mining Bytes Inc.
+Destroyed: Capsule
+System: YZ-LQL
+Security: 0.0
+
+Involved parties:
+
+Name: Zephyrante (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+

@@ -1,0 +1,35 @@
+2006.08.27 19:59
+
+Victim: Kismeteer
+Alliance: Freelancer Alliance
+Corp: BGG
+Destroyed: Thorax
+System: 3T7-M8
+Security: 0.0
+
+Involved parties:
+
+Name: Drilla (laid the final blow)
+Security: -1.3
+Alliance: Lotka Volterra
+Corp: Shinra
+Ship: Sleipnir
+Weapon: 425mm AutoCannon II
+
+Name: ViperVenom
+Security: -1.1
+Alliance: Lotka Volterra
+Corp: Shinra
+Ship: Vagabond
+Weapon: Dual 180mm AutoCannon II
+
+
+Destroyed items:
+
+Medium Nosferatu I
+150mm Railgun I
+Antimatter Charge S, Qty: 40
+Armor Kinetic Hardener I
+Antimatter Charge S, Qty: 699 (Cargo)
+Warrior II, Qty: 2 (Drone Bay)
+

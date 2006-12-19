@@ -1,0 +1,35 @@
+2007.01.02 19:02
+
+Victim: Korudon
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Crow
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Heinky (laid the final blow)
+Security: 2.4
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Abaddon
+Weapon: Tachyon Beam Laser II
+
+Name: Arnold Swartzenegger
+Security: -0.6
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: 'Arbalest' Cruise Launcher I
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 40
+Upgraded 'Limos' Standard Missile Bay I
+Upgraded 'Limos' Standard Missile Bay I
+Upgraded 'Limos' Standard Missile Bay I
+X5 Prototype I Engine Enervator
+Beta Hull Mod Nanofiber Structure
+

@@ -1,0 +1,19 @@
+2006.11.08 08:12
+
+Victim: look kiss
+Alliance: None
+Corp: Royal Amarr Institute
+Destroyed: Capsule
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Zalamus (laid the final blow)
+Security: 4.2
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Ishkur
+Weapon: Hobgoblin II
+
+

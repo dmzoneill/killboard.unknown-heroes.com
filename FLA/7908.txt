@@ -1,0 +1,28 @@
+2006.09.29 12:50
+
+Victim: Ailih Daqos
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Destroyed: Taranis
+System: ZID-LE
+Security: 0.0
+
+Involved parties:
+
+Name: Orbis Telfyr (laid the final blow)
+Security: 5.0
+Alliance: Ascendant Frontier
+Corp: Syncore
+Ship: Taranis
+Weapon: Light Electron Blaster II
+
+
+Destroyed items:
+
+Light Ion Blaster II
+Null S, Qty: 199
+1MN MicroWarpdrive I
+Warp Disruptor I
+Null S, Qty: 793 (Cargo)
+Void S, Qty: 1198 (Cargo)
+

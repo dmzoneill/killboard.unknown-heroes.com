@@ -1,0 +1,164 @@
+2007.02.09 22:42
+
+Victim: Lord KesH
+Alliance: Triumvirate.
+Corp: D00M.
+Destroyed: Maelstrom
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: ClogMan
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Typhoon
+Weapon: Dual 425mm 'Scout' Autocannon I
+
+Name: SniperMcBob
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+Name: Apoccolipse
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Feel Good Inc.
+Ship: Brutix
+Weapon: Brutix
+
+Name: 3M TA3
+Security: -1.9
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Raven
+Weapon: Cataclysm Cruise Missile
+
+Name: Stitcher
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: J.I.T. Enterprises
+Ship: Harbinger
+Weapon: Harbinger
+
+Name: Lane A'lusin
+Security: 3.1
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Taranis
+Weapon: Taranis
+
+Name: Tiberius Drake
+Security: 3.4
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Thorax
+Weapon: Thorax
+
+Name: Minisoza
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Myrmidon
+Weapon: Warrior II
+
+Name: tzar1024
+Security: 2.0
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Ship: Rifter
+Weapon: Rifter
+
+Name: Kiara Diepp
+Security: -1.7
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Blackbird
+Weapon: Tracking Disruptor I
+
+Name: ventura5
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Drake
+Weapon: Havoc Heavy Missile
+
+Name: Pun1sh3r
+Security: 1.6
+Alliance: The Foundation.
+Corp: EVE Corporation 160607
+Ship: Drake
+Weapon: Bloodclaw Light Missile
+
+Name: tiita
+Security: 1.6
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Omen
+Weapon: Omen
+
+Name: Lux0r
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Hawk
+Weapon: Bloodclaw Precision Light Missile
+
+Name: Tnam
+Security: 1.7
+Alliance: None
+Corp: BGG
+Ship: Harpy
+Weapon: Harpy
+
+Name: Slinktress
+Security: 2.6
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Dominix
+Weapon: Tachyon Beam Laser I
+
+Name: arthell
+Security: 2.8
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Vexor
+Weapon: Hornet I
+
+Name: Xantheris
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Harpy
+Weapon: Harpy
+
+Name: moon wolf
+Security: 5.0
+Alliance: The Foundation.
+Corp: EVE Corporation 160607
+Ship: Harpy
+Weapon: Harpy
+
+Name: Scailer Dantre (laid the final blow)
+Security: -1.8
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Moa
+Weapon: 200mm Prototype I Gauss Gun
+
+
+Destroyed items:
+
+1400mm Howitzer Artillery II
+1400mm Howitzer Artillery II
+1400mm Howitzer Artillery II
+1400mm Howitzer Artillery II
+Quake L, Qty: 30
+Tracking Computer II
+Tracking Computer II
+Tracking Enhancer II
+Berserker I (Drone Bay)
+

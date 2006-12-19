@@ -1,0 +1,42 @@
+2007.04.02 03:13
+
+Victim: Ahramaine
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Thorax
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Yushii
+Security: -0.4
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Machariel
+Weapon: Machariel
+
+Name: Sith Bandon (laid the final blow)
+Security: 5.0
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Ishtar
+Weapon: Berserker II
+
+Name: vyperpit
+Security: 4.5
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Crow
+Weapon: 'Arbalest' Standard Missile Launcher
+
+
+Destroyed items:
+
+Heavy Ion Blaster I, Qty: 2
+Antimatter Charge M, Qty: 104
+10MN MicroWarpdrive I
+Warp Disruptor I
+Stasis Webifier I
+Signal Amplifier I
+Antimatter Charge M, Qty: 1500 (Cargo)

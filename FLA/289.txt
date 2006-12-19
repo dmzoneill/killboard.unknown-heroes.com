@@ -1,0 +1,25 @@
+2007.01.22 13:28
+
+Victim: anti disestablishment
+Alliance: None
+Corp: Science and Trade Institute
+Destroyed: Ibis
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: GrandMastaXP (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Rokh
+Weapon: 425mm Carbide Railgun I
+
+Name: Dire Guristas Killer / Guristas
+
+
+Destroyed items:
+
+Civilian Gatling Railgun
+

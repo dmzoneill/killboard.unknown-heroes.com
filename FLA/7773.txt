@@ -1,0 +1,38 @@
+2006.08.21 19:23
+
+Victim: Vahearun
+Alliance: Freelancer Alliance
+Corp: Veturi
+Destroyed: Wolf
+System: O-CNPR
+Security: 0.0
+
+Involved parties:
+
+Name: Malachi Nefzen
+Security: -10.0
+Alliance: None
+Corp: Insane Decision
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: 9thInfbrigadier (laid the final blow)
+Security: -10.0
+Alliance: None
+Corp: Insane Decision
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+EMP S, Qty: 144
+Foxfire Rocket, Qty: 20
+'Arbalest' Rocket Launcher I
+Stasis Webifier I
+Damage Control I
+Stabilized Weapon Mounts (Cargo)
+EMP S, Qty: 8208 (Cargo)
+Warp Core Stabilizer I (Cargo)
+200mm Reinforced Rolled Tungsten Plates I (Cargo)
+

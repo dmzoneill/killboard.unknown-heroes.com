@@ -1,0 +1,78 @@
+2007.02.16 15:34
+
+Victim: KaKaShI
+Alliance: None
+Corp: Princeps Corp
+Destroyed: Typhoon
+System: Ibura
+Security: 0.6
+
+Involved parties:
+
+Name: Deersew1
+Security: -1.8
+Alliance: None
+Corp: Eternal Rising
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Shroomer
+Security: 1.6
+Alliance: None
+Corp: Eternal Rising
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: SniperMcBob (laid the final blow)
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+Name: noba
+Security: 5.0
+Alliance: None
+Corp: Eternal Rising
+Ship: Ares
+Weapon: Ares
+
+Name: Paltar
+Security: -2.6
+Alliance: None
+Corp: Eternal Rising
+Ship: Dominix
+Weapon: Ogre II
+
+Name: Limited Slip
+Security: 1.2
+Alliance: None
+Corp: Eternal Rising
+Ship: Scorpion
+Weapon: ECM - Multispectral Jammer II
+
+Name: Elfaen Ethenwe
+Security: -2.3
+Alliance: None
+Corp: Eternal Rising
+Ship: Vulture
+Weapon: Heavy Missile Launcher II
+
+
+Destroyed items:
+
+Heavy 'Knave' I Energy Drain
+Medium 'Knave' I Energy Drain
+Mjolnir Torpedo, Qty: 32
+'Malkuth' Siege Missile Launcher I
+'Malkuth' Siege Missile Launcher I
+'Malkuth' Siege Missile Launcher I
+Cap Recharger I
+100MN MicroWarpdrive II
+Stasis Webifier I
+Inertia Stabilizers I
+Mark I Modified SS Inertial Stabilizers
+Local Hull Conversion Overdrive Injector I
+Inferno Torpedo, Qty: 1000 (Cargo)
+Mjolnir Torpedo, Qty: 907 (Cargo)
+

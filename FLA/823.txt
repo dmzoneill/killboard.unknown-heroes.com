@@ -1,0 +1,66 @@
+2007.02.23 02:45
+
+Victim: Leathal Weapon
+Alliance: None
+Corp: Zero.
+Destroyed: Crusader
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Blaze Forerunner (laid the final blow)
+Security: 2.0
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Danielson1012
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Moa
+Weapon: 250mm Carbide Railgun I
+
+Name: DarkAvenger DK
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Merlin
+Weapon: Merlin
+
+Name: SoulAvenger
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Vengeance
+Weapon: Medium Modulated Pulse Energy Beam I
+
+Name: Mr Kilgore
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Rapier
+Weapon: 720mm Howitzer Artillery II
+
+Name: Kdub
+Security: 2.3
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Rifter
+Weapon: 'Langour' Drive Disruptor I
+
+
+Destroyed items:
+
+Medium Pulse Laser II
+Medium Pulse Laser II
+Conflagration S
+Conflagration S
+Conflagration S
+J5b Phased Prototype Warp Inhibitor I
+Small Armor Repairer II
+Micro Auxiliary Power Core I
+Scorch S, Qty: 2 (Cargo)
+

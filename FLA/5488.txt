@@ -1,0 +1,26 @@
+2006.10.06 17:00
+
+Victim: xBlood
+Alliance: None
+Corp: Privateers
+Destroyed: Capsule
+System: Sobaseki
+Security: 0.8
+
+Involved parties:
+
+Name: GrandMastaXP (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Hawk
+Weapon: Sabretooth Light Missile
+
+Name: Iguanoid
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Hawk
+Weapon: Thorn Rage Rocket
+
+

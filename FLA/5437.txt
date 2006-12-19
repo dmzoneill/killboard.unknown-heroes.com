@@ -1,0 +1,53 @@
+2006.10.03 16:03
+
+Victim: Kolbasenok
+Alliance: R.I.S.K
+Corp: SolaR KillerS
+Destroyed: Raven
+System: F-NMX6
+Security: 0.0
+
+Involved parties:
+
+Name: Jumar Coldgin
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+Name: Ione79 (laid the final blow)
+Security: 3.4
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Celestis
+Weapon: Hammerhead I
+
+Name: W4RR10R
+Security: -0.8
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Taranis
+Weapon: Warrior II
+
+Name: Guristas Supremacist / Guristas
+
+Name: Lone flyer
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Vengeance
+Weapon: Vengeance
+
+
+Destroyed items:
+
+Juggernaut Torpedo, Qty: 22
+'Malkuth' Siege Missile Launcher I
+Small Tractor Beam I
+Ballistic Deflection Field I
+Ditrigonal Thermal Barrier Crystallization I
+Photon Scattering Field I
+Invulnerability Field I
+Ballistic Control System I
+

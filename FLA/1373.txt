@@ -1,0 +1,46 @@
+2007.03.11 23:03
+
+Victim: Arnie Czech
+Alliance: Privateer Alliance
+Corp: 47R
+Destroyed: Drake
+System: Jita
+Security: 0.9
+
+Involved parties:
+
+Name: Jagged VanEyck
+Security: 1.2
+Alliance: FATAL Alliance
+Corp: Free Mercenaries Union
+Ship: Megathron
+Weapon: Megathron
+
+Name: Sardinha enlatada
+Security: 1.3
+Alliance: Kith of Venal
+Corp: Comando Vermelho
+Ship: Thorax
+Weapon: Hammerhead II
+
+Name: Tregaron (laid the final blow)
+Security: 1.9
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Cyclone
+Weapon: 220mm Vulcan AutoCannon II
+
+
+Destroyed items:
+
+Thunderbolt Heavy Missile, Qty: 52
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Large Shield Extender I
+Large Shield Extender I
+Invulnerability Field I
+Ballistic Control System I
+Ballistic Control System I
+Scourge Heavy Missile, Qty: 912 (Cargo)
+

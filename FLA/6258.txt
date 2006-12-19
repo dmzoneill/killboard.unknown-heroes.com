@@ -1,0 +1,58 @@
+2006.11.11 10:07
+
+Victim: Isaac Callades
+Alliance: None
+Corp: StarHunt
+Destroyed: Tristan
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: TheBelgarion (laid the final blow)
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Almagar Phog
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Blackbird
+Weapon: Piranha Light Missile
+
+Name: LizzyD
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Ishkur
+Weapon: Acolyte II
+
+Name: Slinktress
+Security: 2.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Megathron
+Weapon: Quad Anode Light Particle Stream I
+
+Name: Micheal Ross
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Flycatcher
+Weapon: TE-2100 Standard Missile Bay
+
+
+Destroyed items:
+
+Antimatter Charge S, Qty: 80
+Gremlin Rocket, Qty: 60
+'Malkuth' Rocket Launcher I
+Cold-Gas I Arcjet Thrusters
+Fleeting Warp Scrambler I
+'Abandon' Targeting Disruptor I
+Antimatter Charge S, Qty: 340 (Cargo)
+Gremlin Rocket, Qty: 190 (Cargo)
+

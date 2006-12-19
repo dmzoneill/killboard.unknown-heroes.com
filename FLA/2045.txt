@@ -1,0 +1,49 @@
+2007.01.19 00:40
+
+Victim: Sasham
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Crow
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: XxAngelxX
+Security: 5.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Darknesss (laid the final blow)
+Security: 0.5
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Megathron
+Weapon: Neutron Blaster Cannon II
+
+Name: simcor
+Security: -1.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Dominix
+Weapon: E500 Prototype Energy Vampire
+
+Name: ArchenTheGreat
+Security: -2.2
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Dominix
+Weapon: J5 Prototype Warp Inhibitor I
+
+
+Destroyed items:
+
+Small Nosferatu I
+Bloodclaw Light Missile, Qty: 45
+Faint Warp Prohibitor I
+Stasis Webifier I
+Micro Auxiliary Power Core I
+Bloodclaw Light Missile, Qty: 6264 (Cargo)
+

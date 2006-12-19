@@ -1,0 +1,49 @@
+2007.05.12 18:22
+
+Victim: SleepyJack
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Drake
+System: 93PI-4
+Security: 0.0
+
+Involved parties:
+
+Name: Lord Lorkaz
+Security: 3.2
+Alliance: None
+Corp: Porandor
+Ship: Thorax
+Weapon: Hammerhead I
+
+Name: Coltra (laid the final blow)
+Security: 2.0
+Alliance: None
+Corp: B E R Z E R K E R
+Ship: Hurricane
+Weapon: Infiltrator II
+
+Name: xuivan
+Security: 0.8
+Alliance: None
+Corp: B E R Z E R K E R
+Ship: Thorax
+Weapon: Hammerhead I
+
+
+Destroyed items:
+
+E5 Prototype Energy Vampire
+Scourge Heavy Missile, Qty: 33
+Advanced 'Limos' Heavy Missile Bay I
+Advanced 'Limos' Heavy Missile Bay I
+Advanced 'Limos' Heavy Missile Bay I
+Eutectic I Capacitor Charge Array
+Warp Disruptor I
+V-M15 Braced Multispectral Shield Matrix
+Viscoelastic EM Ward Salubrity I
+Cross-linked Bolt Array I
+Bookmark, Qty: 2 (Cargo)
+Scourge Heavy Missile, Qty: 4766 (Cargo)
+Hobgoblin I, Qty: 2 (Drone Bay)
+

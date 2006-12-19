@@ -1,0 +1,74 @@
+2006.12.11 20:58
+
+Victim: version033beta
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Destroyed: Thorax
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Darknesss
+Security: -0.4
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Megathron
+Weapon: Megathron
+
+Name: henryshead
+Security: 5.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Apocalypse
+Weapon: Apocalypse
+
+Name: simcor (laid the final blow)
+Security: -1.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Megathron
+Weapon: Neutron Blaster Cannon II
+
+Name: Zap Zaberdine
+Security: 3.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Tempest
+Weapon: Heavy Diminishing Power System Drain I
+
+Name: WarGod
+Security: -2.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: taylor04
+Security: -1.9
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Sir Toadalot
+Security: 0.0
+Alliance: None
+Corp: Deep Core Mining Inc.
+Ship: Enyo
+Weapon: J5 Prototype Warp Inhibitor I
+
+
+Destroyed items:
+
+Heavy Ion Blaster I
+Heavy Ion Blaster I
+Heavy Ion Blaster I
+Heavy Ion Blaster I
+Antimatter Charge M, Qty: 360
+'Langour' Drive Disruptor I
+Medium I-a Polarized Armor Regenerator
+Voltaic Nanite Explosive Hardener I
+Antimatter Charge M, Qty: 995 (Cargo)
+Vespa I (Drone Bay)
+

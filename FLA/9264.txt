@@ -1,0 +1,98 @@
+2007.05.05 18:22
+
+Victim: Dana Marillis
+Alliance: Storm Armada
+Corp: stone grave haulage
+Destroyed: Caracal
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Varalonia
+Security: 3.0
+Alliance: Darklite Alliance
+Corp: Darklite inc
+Ship: Rifter
+Weapon: Rifter
+
+Name: AnarchistUK
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: United Space Republic
+Ship: Hawk
+Weapon: Bloodclaw Light Missile
+
+Name: sako1963
+Security: 5.0
+Alliance: The Foundation.
+Corp: NorCorp Security
+Ship: Rokh
+Weapon: Cruise Missile Launcher I
+
+Name: Mocuker1
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Harpy
+Weapon: Standard Missile Launcher I
+
+Name: Giamilton
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: Synergy Evolved
+Ship: Ares
+Weapon: 75mm Gatling Rail II
+
+Name: Jet Sulu
+Security: 3.4
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Unknown
+Weapon: Heavy Missile Launcher I
+
+Name: Iss Hogai (laid the final blow)
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: GREY COUNCIL
+Ship: Taranis
+Weapon: Light Ion Blaster I
+
+Name: Migitis
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: Antipodean inc.
+Ship: Unknown
+Weapon: Small 'Knave' I Energy Drain
+
+Name: JanSVK
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: GREY COUNCIL
+Ship: Capsule
+Weapon: 'Malkuth' Rocket Launcher I
+
+Name: sunshine nl
+Security: 2.2
+Alliance: Darklite Alliance
+Corp: Darklite inc
+Ship: Unknown
+Weapon: 200mm AutoCannon I
+
+Name: ClogMan
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Thorax
+Weapon: Dual 180mm AutoCannon II
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 25
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Fleeting Warp Scrambler I
+Scourge Heavy Missile, Qty: 1473 (Cargo)
+Hornet I, Qty: 2 (Drone Bay)
+

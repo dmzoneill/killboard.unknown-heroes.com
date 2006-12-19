@@ -1,0 +1,68 @@
+2007.03.08 22:22
+
+Victim: Bull Ramahorn
+Alliance: YouWhat
+Corp: Beasts of Burden
+Destroyed: Capsule
+System: XZH-4X
+Security: 0.0
+
+Involved parties:
+
+Name: other mickey
+Security: 2.9
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Ares
+Weapon: Ares
+
+Name: Tripwire
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Celestis
+Weapon: Hammerhead I
+
+Name: Zephyrante
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Lachesis
+Weapon: 200mm Railgun II
+
+Name: Cyrila Wolf
+Security: -2.2
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: Aken Ator (laid the final blow)
+Security: 1.9
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Blackbird
+Weapon: Havoc Heavy Missile
+
+Name: Mss anderson
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Thorax
+Weapon: Heavy Neutron Blaster I
+
+Name: Ilucid
+Security: 2.1
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Incursus
+Weapon: Incursus
+
+Name: Darsi
+Security: 5.0
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Vexor
+Weapon: 250mm Railgun I
+
+

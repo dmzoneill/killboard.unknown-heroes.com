@@ -1,0 +1,66 @@
+2007.02.09 21:59
+
+Victim: Mikal Drey
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Destroyed: Hurricane
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Ceapio (laid the final blow)
+Security: 1.2
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Anominity
+Security: 4.2
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Abaddon
+Weapon: Tachyon Beam Laser II
+
+Name: aadom
+Security: 3.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Tempest
+Weapon: 1400mm Gallium I Cannon
+
+Name: Misha Mosqito
+Security: 3.3
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: cptblood
+Security: 2.3
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Martin Mckenna
+Security: 2.5
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Malediction
+Weapon: Warp Disruptor I
+
+
+Destroyed items:
+
+220mm Vulcan AutoCannon II
+220mm Vulcan AutoCannon II
+Medium 'Knave' I Energy Drain
+Barrage M, Qty: 365
+Initiated Warp Jammer I
+Fleeting Propulsion Inhibitor I
+Medium Electrochemical Capacitor Booster I
+Voltaic Nanite Thermic Hardener I
+Cap Booster 800 (Cargo)
+

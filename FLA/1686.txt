@@ -1,0 +1,156 @@
+2007.03.20 21:30
+
+Victim: Don Promillo
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Destroyed: Thorax
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: KriegDrachen
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Sabre
+Weapon: Sabre
+
+Name: tiita
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Abaddon
+Weapon: Abaddon
+
+Name: Denaris1
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+Name: Burn Lump
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Drake
+Weapon: Assault Missile Launcher I
+
+Name: Darthirishguy
+Security: 1.2
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Dark Carnage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Crow
+Weapon: Sabretooth Light Missile
+
+Name: Puz'ZaW (laid the final blow)
+Security: 2.7
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Rupture
+Weapon: Dual 180mm AutoCannon I
+
+Name: Ma'kal
+Security: 4.6
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Raptor
+Weapon: Raptor
+
+Name: chota
+Security: 5.0
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Tempest
+Weapon: 1400mm Prototype I Siege Cannon
+
+Name: mrrabit
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Tempest
+Weapon: 'Malkuth' Cruise Launcher I
+
+Name: Zephia
+Security: -9.2
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Quiomi
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: StrikerOneSevern
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Rupture
+Weapon: Rupture
+
+Name: Grimes NC
+Security: 4.8
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: Slim Jim
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Stiletto
+Weapon: 250mm Light Artillery Cannon II
+
+Name: Jules Wolfpack
+Security: 2.3
+Alliance: The Sundering
+Corp: ironwood ink
+Ship: Celestis
+Weapon: Celestis
+
+Name: Rick A
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Celestis
+Weapon: Celestis
+
+Name: Iss Hogai
+Security: 5.0
+Alliance: Zenith Affinity
+Corp: GREY COUNCIL
+Ship: Falcon
+Weapon: 'Hypnos' Multispectral ECM I
+
+Name: Cockroach
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Zealot
+Weapon: Focused Medium Pulse Laser II
+
+
+Destroyed items:
+
+150mm Railgun II
+150mm Railgun II
+150mm Railgun II
+Antimatter Charge S, Qty: 112
+Warp Disruptor I
+Microcell Nanite Reactive Membrane I
+1600mm Reinforced Titanium Plates I
+Cap Booster 400, Qty: 3 (Cargo)
+

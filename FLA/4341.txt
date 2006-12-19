@@ -1,0 +1,29 @@
+2007.04.08 08:10
+
+Victim: Asa Gunnarsson
+Alliance: Freelancer Alliance
+Corp: ACCORD Industries
+Destroyed: Merlin
+System: L-C3O7
+Security: 0.0
+
+Involved parties:
+
+Name: Trigger64 (laid the final blow)
+Security: -0.7
+Alliance: Firmus Ixion
+Corp: Black Avatar
+Ship: Taranis
+Weapon: Light Neutron Blaster II
+
+
+Destroyed items:
+
+125mm Railgun II
+125mm Railgun II
+Spike S, Qty: 74
+'Malkuth' Standard Missile Launcher I
+1MN Afterburner I
+'Langour' Drive Disruptor I
+Javelin S, Qty: 900 (Cargo)
+

@@ -1,0 +1,25 @@
+2007.01.01 02:04
+
+Victim: Xantheris
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Destroyed: Taranis
+System: 5W3-DG
+Security: 0.0
+
+Involved parties:
+
+Name: Quofeous (laid the final blow)
+Security: 4.9
+Alliance: None
+Corp: Digital Fury Corporation
+Ship: Ishkur
+Weapon: Valkyrie II
+
+
+Destroyed items:
+
+Small Nosferatu I
+Light Electron Blaster II
+Stasis Webifier I
+

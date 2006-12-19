@@ -1,0 +1,19 @@
+2006.08.14 00:01
+
+Victim: loopyliz
+Alliance: None
+Corp: Lynx Frontier Inc.
+Destroyed: Minmatar Shuttle
+System: 43B-O1
+Security: 0.0
+
+Involved parties:
+
+Name: DeSantis (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+

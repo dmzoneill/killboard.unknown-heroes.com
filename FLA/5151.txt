@@ -1,0 +1,113 @@
+2007.01.21 20:16
+
+Victim: wrecker300
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Drake
+System: DW-T2I
+Security: 0.0
+
+Involved parties:
+
+Name: SuXaR (laid the final blow)
+Security: 0.4
+Alliance: None
+Corp: 0utbreak
+Ship: Vagabond
+Weapon: Dual 180mm AutoCannon II
+
+Name: Zyrtan Keb'Lektar
+Security: -1.7
+Alliance: None
+Corp: 0utbreak
+Ship: Typhoon
+Weapon: Berserker I
+
+Name: Incinate
+Security: 2.7
+Alliance: None
+Corp: 0utbreak
+Ship: Vagabond
+Weapon: Dual 180mm AutoCannon II
+
+Name: siliconix
+Security: 2.2
+Alliance: None
+Corp: 0utbreak
+Ship: Vagabond
+Weapon: Warrior II
+
+Name: SwindonBadger
+Security: 5.0
+Alliance: None
+Corp: 0utbreak
+Ship: Sabre
+Weapon: Sabre
+
+Name: TheAvatar
+Security: -0.3
+Alliance: None
+Corp: 0utbreak
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: ScoRpS
+Security: 2.8
+Alliance: None
+Corp: 0utbreak
+Ship: Crow
+Weapon: Crow
+
+Name: Silverized
+Security: 3.5
+Alliance: None
+Corp: 0utbreak
+Ship: Typhoon
+Weapon: 'Arbalest' Siege Missile Launcher
+
+Name: Quarantine
+Security: 4.3
+Alliance: None
+Corp: 0utbreak
+Ship: Huginn
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Saal Iverson
+Security: 4.8
+Alliance: None
+Corp: 0utbreak
+Ship: Taranis
+Weapon: 125mm Railgun II
+
+Name: FraXy
+Security: -4.2
+Alliance: None
+Corp: 0utbreak
+Ship: Guardian
+Weapon: Focused Afocal Pulse Maser I
+
+Name: Mindlles
+Security: 0.1
+Alliance: None
+Corp: 0utbreak
+Ship: Ishtar
+Weapon: J5 Prototype Warp Inhibitor I
+
+
+Destroyed items:
+
+Medium 'Knave' I Energy Drain
+Scourge Heavy Missile, Qty: 113
+Advanced 'Limos' Heavy Missile Bay I
+Advanced 'Limos' Heavy Missile Bay I
+Advanced 'Limos' Heavy Missile Bay I
+'Malkuth' Heavy Missile Launcher I
+Large F-S9 Regolith Shield Induction
+Large F-S9 Regolith Shield Induction
+Medium Converse I Deflection Catalyzer
+Heat Dissipation Field I
+Prototype I Sensor Booster
+Local Power Plant Manager: Diagnostic System I
+Local Power Plant Manager: Diagnostic System I
+Scourge Heavy Missile, Qty: 772 (Cargo)
+

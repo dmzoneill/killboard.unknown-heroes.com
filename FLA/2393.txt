@@ -1,0 +1,60 @@
+2007.02.09 21:00
+
+Victim: Cockroach
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Maller
+System: Sivala
+Security: 0.6
+
+Involved parties:
+
+Name: Infar Dantenon (laid the final blow)
+Security: -0.5
+Alliance: Privateer Alliance
+Corp: Tempt Fate
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Ninon Lanclos
+Security: 3.8
+Alliance: Privateer Alliance
+Corp: Tempt Fate
+Ship: Vexor
+Weapon: Hammerhead II
+
+Name: PhuFighter
+Security: -1.7
+Alliance: Privateer Alliance
+Corp: Tempt Fate
+Ship: Typhoon
+Weapon: Paradise Cruise Missile
+
+Name: Anilesia
+Security: -0.1
+Alliance: Privateer Alliance
+Corp: Tempt Fate
+Ship: Claw
+Weapon: Piranha Light Missile
+
+
+Destroyed items:
+
+Medium Beam Laser II
+Medium Beam Laser II
+Medium Beam Laser II
+Medium Beam Laser II
+Ultraviolet S
+Prototype Cloaking Device I
+Gleam S
+Gleam S
+'Langour' Drive Disruptor I
+Medium 'Accommodation' Vestment Reconstructer I
+1600mm Reinforced Rolled Tungsten Plates I
+Nanofiber Internal Structure I
+Radio S, Qty: 4 (Cargo)
+Xray S (Cargo)
+Infrared S, Qty: 3 (Cargo)
+Cap Booster 400, Qty: 11 (Cargo)
+Gleam S (Cargo)
+

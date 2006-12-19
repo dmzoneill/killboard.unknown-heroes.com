@@ -1,0 +1,19 @@
+2007.03.31 22:22
+
+Victim: alon blackhelm
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Destroyed: Capsule
+System: P-2TTL
+Security: 0.0
+
+Involved parties:
+
+Name: Shadowjet (laid the final blow)
+Security: -1.3
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+

@@ -1,0 +1,29 @@
+2006.12.08 21:16
+
+Victim: cXite
+Alliance: None
+Corp: Brutor tribe
+Destroyed: Rifter
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: MAD D0G (laid the final blow)
+Security: -1.8
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Caracal
+Weapon: Thunderbolt Heavy Missile
+
+
+Destroyed items:
+
+150mm Light AutoCannon I
+150mm Light AutoCannon I
+Bloodclaw Light Missile, Qty: 45
+1MN Afterburner II
+J5b Phased Prototype Warp Inhibitor I
+Proton S, Qty: 1451 (Cargo)
+Bloodclaw Light Missile, Qty: 497 (Cargo)
+

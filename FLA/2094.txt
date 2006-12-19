@@ -1,0 +1,55 @@
+2007.01.20 00:50
+
+Victim: Jorax
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Thorax
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: WarGod
+Security: 1.4
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Naglfar
+Weapon: Praetor II
+
+Name: taylor04 (laid the final blow)
+Security: 0.4
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: ArchenTheGreat
+Security: -2.1
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Dominix
+Weapon: Dominix
+
+Name: xlop
+Security: -1.2
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Megathron
+Weapon: Megathron
+
+Name: Chaser Wolf
+Security: 1.8
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Crow
+Weapon: Rocket Launcher II
+
+
+Destroyed items:
+
+Heavy Ion Blaster I
+Antimatter Charge M, Qty: 360
+Stasis Webifier I
+Magnetic Field Stabilizer I
+Antimatter Charge M, Qty: 9430 (Cargo)
+

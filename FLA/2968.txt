@@ -1,0 +1,165 @@
+2007.03.17 21:19
+
+Victim: Satal Sonshi
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Destroyed: Tempest
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: 1Of9 (laid the final blow)
+Security: 4.9
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Megathron
+Weapon: 425mm Prototype I Gauss Gun
+
+Name: Santa Claw
+Security: 2.4
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Tempest
+Weapon: Tempest
+
+Name: mama guru
+Security: 2.8
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Ship: Apocalypse
+Weapon: Apocalypse
+
+Name: EveStarHunter
+Security: 4.9
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Stabber
+Weapon: Stabber
+
+Name: WildCard
+Security: 4.3
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Slith Sabrao
+Security: 4.8
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Megathron
+Weapon: Megathron
+
+Name: Eelim Garak
+Security: 1.3
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Sacrilege
+Weapon: Sacrilege
+
+Name: der kohle
+Security: -0.4
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Tempest
+Weapon: Kapteyn Sensor Array Inhibitor I
+
+Name: IsmaelYU5 Iluvatar
+Security: 5.0
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Taranis
+Weapon: Hobgoblin II
+
+Name: Helmi
+Security: 3.0
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Scorpion
+Weapon: Wrath Cruise Missile
+
+Name: Great Jugger
+Security: 3.1
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Rapier
+Weapon: Rapier
+
+Name: StarCaptain Joanna
+Security: -0.3
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: obiele
+Security: 4.3
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Barak Smaug
+Security: 4.6
+Alliance: Chorus of Dawn
+Corp: Cosmic Odyssey
+Ship: Huginn
+Weapon: 650mm Artillery Cannon II
+
+Name: GordonShumway
+Security: 0.7
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: M4J3STIC
+Security: 5.0
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Raptor
+Weapon: Bloodclaw Light Missile
+
+Name: Taschenflak
+Security: 4.7
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Moa
+Weapon: Thunderbolt Heavy Missile
+
+Name: Heidee Terrana
+Security: 5.0
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Ship: Apocalypse
+Weapon: Mega Pulse Laser II
+
+Name: Wingleader Teerts
+Security: 5.0
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Scorpion
+Weapon: 'Malkuth' Cruise Launcher I
+
+
+Destroyed items:
+
+Large S95a Partial Shield Transporter
+1400mm Howitzer Artillery I
+1400mm Howitzer Artillery I
+1400mm Howitzer Artillery I
+1400mm Howitzer Artillery I
+1400mm Howitzer Artillery I
+EMP L
+EMP L
+EMP L
+'Anointed' I EM Ward Reinforcement
+V-M15 Braced Multispectral Shield Matrix
+Supplemental Scanning CPU I
+Supplemental Scanning CPU I
+Gyrostabilizer II
+Tracking Enhancer II
+Carbonized Lead L, Qty: 1580 (Cargo)
+Vespa I, Qty: 3 (Drone Bay)
+

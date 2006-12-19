@@ -1,0 +1,40 @@
+2007.03.08 21:31
+
+Victim: R4VE
+Alliance: YouWhat
+Corp: Pringles Inc.
+Destroyed: Capsule
+System: XZH-4X
+Security: 0.0
+
+Involved parties:
+
+Name: VoYvod (laid the final blow)
+Security: -1.3
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Coercer
+Weapon: Medium Beam Laser I
+
+Name: ISliverI
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Arazu
+Weapon: 200mm Railgun II
+
+Name: Furiousb
+Security: 5.1
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Jonas123
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Ferox
+Weapon: 'Arbalest' Assault Missile Launcher
+
+

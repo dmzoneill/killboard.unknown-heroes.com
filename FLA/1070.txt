@@ -1,0 +1,32 @@
+2007.03.04 15:37
+
+Victim: renegade1975
+Alliance: Xelas Alliance
+Corp: Nemesis Industries
+Destroyed: Thorax
+System: G95F-H
+Security: 0.0
+
+Involved parties:
+
+Name: Zephyrante (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Megathron
+Weapon: Ogre I
+
+
+Destroyed items:
+
+Light Neutron Blaster II
+Antimatter Charge S, Qty: 55
+Void S, Qty: 164
+Medium Brief Capacitor Overcharge I
+Medium I-a Polarized Armor Regenerator
+Medium Inefficient Armor Repair Unit
+N-Type Explosive Hardener I
+N-Type Thermic Hardener I
+Antimatter Charge S, Qty: 500 (Cargo)
+Void S, Qty: 500 (Cargo)
+

@@ -1,0 +1,28 @@
+2006.10.08 23:55
+
+Victim: Quninella
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Destroyed: Imicus
+System: Miroitem
+Security: 0.3
+
+Involved parties:
+
+Name: urrit (laid the final blow)
+Security: -0.3
+Alliance: None
+Corp: Privateers
+Ship: Rifter
+Weapon: 200mm Light Prototype I Automatic Cannon
+
+
+Destroyed items:
+
+Small Shield Booster I
+Small Ld-Acid Capacitor Battery I
+200mm Reinforced Titanium Plates I
+Hobgoblin I, Qty: 9 (Cargo)
+Civilian Mining Drone (Cargo)
+Hornet I, Qty: 2 (Drone Bay)
+

@@ -1,0 +1,55 @@
+2007.04.26 22:18
+
+Victim: Fitz Farseer
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Wolf
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Ghu'ru Talozan (laid the final blow)
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Celestis
+Weapon: Warrior I
+
+Name: Corovus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Arazu
+Weapon: Valkyrie II
+
+Name: EvilBadger
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Hawk
+Weapon: Bloodclaw Precision Light Missile
+
+Name: Saan Motak
+Security: 1.4
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Myrmidon
+Weapon: Modal Ion Particle Accelerator I
+
+
+Destroyed items:
+
+200mm AutoCannon II
+200mm AutoCannon II
+200mm AutoCannon II
+200mm AutoCannon II
+Barrage S, Qty: 56
+Flameburst Light Missile, Qty: 39
+Standard Missile Launcher I
+Damage Control I
+Small Inefficient Armor Repair Unit
+200mm Reinforced Titanium Plates I
+Barrage S, Qty: 509 (Cargo)
+Flameburst Light Missile, Qty: 14 (Cargo)
+

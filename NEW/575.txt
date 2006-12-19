@@ -1,0 +1,25 @@
+2007.04.21 00:52
+
+Victim: Hojou
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Capsule
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Kee Ris (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Coercer
+Weapon: Dual Light Beam Laser I
+
+Name: Bobby Atlas
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Thrasher
+Weapon: 'Malkuth' Standard Missile Launcher I
+

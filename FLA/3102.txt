@@ -1,0 +1,57 @@
+2007.03.25 00:03
+
+Victim: albert camus
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Destroyed: Claw
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Ninjitsuki
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Harpy
+Weapon: Harpy
+
+Name: Villwrath
+Security: 3.5
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Unknown
+Weapon: Hobgoblin II
+
+Name: Iss Hogai
+Security: 5.0
+Alliance: Zenith Affinity
+Corp: GREY COUNCIL
+Ship: Caracal
+Weapon: Thunderbolt Heavy Missile
+
+Name: Minisoza (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ishkur
+Weapon: Warrior II
+
+Name: Zephia
+Security: -8.7
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Omen
+Weapon: Focused Medium Pulse Laser I
+
+
+Destroyed items:
+
+150mm Light AutoCannon II
+Small 'Knave' I Energy Drain
+Hail S, Qty: 57
+200mm Reinforced Rolled Tungsten Plates I
+10MN Afterburner II (Cargo)
+Remote Sensor Booster I (Cargo)
+Nanofiber Internal Structure I (Cargo)
+

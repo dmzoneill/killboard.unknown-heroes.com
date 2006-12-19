@@ -1,0 +1,45 @@
+2007.05.20 03:26
+
+Victim: Masterminder
+Alliance: None
+Corp: Devil's Work Inc.
+Destroyed: Hurricane
+System: Saranen
+Security: 0.1
+
+Involved parties:
+
+Name: Caldari Sentry Gun II / Ishukone Watch
+
+Name: Kvarium Ki (laid the final blow)
+Security: 2.3
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Cyclone
+Weapon: Acolyte II
+
+Name: Ophea
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: The Collective of Ascended Beings
+Ship: Capsule
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+Name: Mortake
+Security: 0.1
+Alliance: Freelancer Alliance
+Corp: The Collective of Ascended Beings
+Ship: Caracal
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+
+Destroyed items:
+
+220mm Vulcan AutoCannon II
+220mm Vulcan AutoCannon II
+E50 Prototype Energy Vampire
+EMP M, Qty: 96
+Medium Electrochemical Capacitor Booster I
+Medium Armor Repairer II
+N-Type Thermic Hardener I
+

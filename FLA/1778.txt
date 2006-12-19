@@ -1,0 +1,61 @@
+2007.01.03 12:12
+
+Victim: Orion Tempest
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Destroyed: Brutix
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Waywatcher (laid the final blow)
+Security: -1.0
+Alliance: Shroud Of Darkness
+Corp: The Priory
+Ship: Ishtar
+Weapon: Berserker II
+
+Name: Jogyn
+Security: -1.3
+Alliance: Shroud Of Darkness
+Corp: The Priory
+Ship: Taranis
+Weapon: Warrior II
+
+Name: maGz
+Security: 2.6
+Alliance: Shroud Of Darkness
+Corp: The Priory
+Ship: Astarte
+Weapon: Astarte
+
+Name: gusta
+Security: -1.5
+Alliance: Shroud Of Darkness
+Corp: The Priory
+Ship: Pilgrim
+Weapon: Valkyrie II
+
+Name: Demoria
+Security: 1.1
+Alliance: Shroud Of Darkness
+Corp: The Priory
+Ship: Taranis
+Weapon: Taranis
+
+
+Destroyed items:
+
+Medium 'Knave' I Energy Drain
+Heavy Electron Blaster II
+Heavy Electron Blaster II
+Heavy Electron Blaster II
+Void M, Qty: 542
+Fleeting Propulsion Inhibitor I
+F85 Peripheral Damage System I
+Medium Armor Repairer II
+Medium Armor Repairer II
+Cap Booster 800, Qty: 6 (Cargo)
+Void M, Qty: 5000 (Cargo)
+

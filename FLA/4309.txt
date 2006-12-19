@@ -1,0 +1,77 @@
+2007.04.07 20:06
+
+Victim: ConXtionS
+Alliance: Freelancer Alliance
+Corp: The Night Crew
+Destroyed: Thorax
+System: O-CNPR
+Security: 0.0
+
+Involved parties:
+
+Name: Korran Delan
+Security: 4.7
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Drake
+Weapon: Widowmaker Heavy Missile
+
+Name: CiRFiS (laid the final blow)
+Security: 3.1
+Alliance: FATAL Alliance
+Corp: FATAL REVELATIONS
+Ship: Tempest
+Weapon: 1400mm Gallium I Cannon
+
+Name: Richard Biegewald
+Security: 5.0
+Alliance: Axiom Empire
+Corp: United Society Starfleet
+Ship: Crow
+Weapon: Flameburst Light Missile
+
+Name: Alexia Revan
+Security: -3.0
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Retribution
+Weapon: Medium Pulse Laser II
+
+Name: Hansihandyr
+Security: 4.6
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Taranis
+Weapon: 125mm Railgun II
+
+Name: ER0X
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Harpy
+Weapon: Light Neutron Blaster II
+
+Name: tony1
+Security: 5.1
+Alliance: FATAL Alliance
+Corp: FATAL REVELATIONS
+Ship: Rokh
+Weapon: 425mm Compressed Coil Gun I
+
+Name: Jero Remeau
+Security: 0.0
+Alliance: FATAL Alliance
+Corp: FATAL REVELATIONS
+Ship: Sabre
+Weapon: J5 Prototype Warp Inhibitor I
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Antimatter Charge M, Qty: 240
+Warp Disruptor I
+'Langour' Drive Disruptor I
+Small Inefficient Armor Repair Unit
+Radioisotope Kinetic Hardener I
+

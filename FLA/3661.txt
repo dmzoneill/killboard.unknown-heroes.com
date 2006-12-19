@@ -1,0 +1,26 @@
+2007.03.28 19:01
+
+Victim: EM00
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Destroyed: Capsule
+System: Litiura
+Security: 0.5
+
+Involved parties:
+
+Name: Serj Darek (laid the final blow)
+Security: -1.8
+Alliance: Privateer Alliance
+Corp: Mentally Unstable Enterprises
+Ship: Huginn
+Weapon: 650mm Artillery Cannon II
+
+Name: Captain Sonic
+Security: -2.0
+Alliance: Privateer Alliance
+Corp: Mentally Unstable Enterprises
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+

@@ -1,0 +1,30 @@
+2006.12.14 15:42
+
+Victim: Yangoor
+Alliance: Freelancer Alliance
+Corp: THeOThErs
+Destroyed: Manticore
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Elliott Manchild (laid the final blow)
+Security: -1.5
+Alliance: None
+Corp: omen.
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+
+Destroyed items:
+
+Wrath Cruise Missile, Qty: 23
+'Arbalest' Cruise Launcher I
+'Arbalest' Cruise Launcher I
+Indirect Scanning Dampening Unit I
+Indirect Scanning Dampening Unit I
+F-90 Positional Sensor Subroutines
+Power Diagnostic System I
+Basic Power Diagnostic System
+

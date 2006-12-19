@@ -1,0 +1,89 @@
+2006.12.19 02:56
+
+Victim: Zekan1
+Alliance: None
+Corp: Steel Battalion
+Destroyed: Caracal
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Cobra Raider (laid the final blow)
+Security: -0.3
+Alliance: Imperial Republic Of the North
+Corp: Port Royal Independent Kontractors
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Kroux
+Security: 4.3
+Alliance: O X I D E
+Corp: V-COM SyNdicate
+Ship: Ferox
+Weapon: Scourge Fury Heavy Missile
+
+Name: Taran TKV
+Security: 4.3
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Raven
+Weapon: 125mm Prototype I Gauss Gun
+
+Name: dastommy79
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: wessam
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Typhoon
+Weapon: E500 Prototype Energy Vampire
+
+Name: Mauzer Sorren
+Security: 2.7
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Jaguar
+Weapon: 200mm AutoCannon II
+
+Name: Gamesguy
+Security: 0.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Rokh
+Weapon: Siege Missile Launcher II
+
+Name: Aideril
+Security: 4.1
+Alliance: O X I D E
+Corp: V-COM SyNdicate
+Ship: Brutix
+Weapon: 150mm Prototype I Gauss Gun
+
+
+Destroyed items:
+
+Thunderbolt Heavy Missile, Qty: 30
+Small Shield Booster I
+Small Hull Repairer I
+Small Capacitor Booster I
+Cap Booster 75
+Cap Booster 75
+Cap Booster 75
+Cap Booster 75
+Type-D Power Core Modification: Capacitor Flux
+Corpse, Qty: 2 (Cargo)
+Tritanium (Cargo)
+Cap Booster 75 (Cargo)
+Condensed Alloy (Cargo)
+Crystal Compound, Qty: 2 (Cargo)
+Gleaming Alloy (Cargo)
+Havoc Heavy Missile, Qty: 154 (Cargo)
+Obsidian Ochre, Qty: 3 (Cargo)
+Infiltrator I (Drone Bay)
+

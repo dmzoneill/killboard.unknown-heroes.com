@@ -1,0 +1,52 @@
+2006.08.26 22:12
+
+Victim: Bolinar
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Destroyed: Ishtar
+System: Z0-TJW
+Security: 0.0
+
+Involved parties:
+
+Name: Tom Eliot
+Security: -0.2
+Alliance: None
+Corp: Beagle Corp
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+Name: Tynicas (laid the final blow)
+Security: 0.1
+Alliance: None
+Corp: Beagle Corp
+Ship: Ferox
+Weapon: Sabretooth Light Missile
+
+Name: Romanasu
+Security: -1.9
+Alliance: Thundering Mantis
+Corp: Gen'ei Ryodan
+Ship: Armageddon
+Weapon: Armageddon
+
+
+Destroyed items:
+
+E50 Prototype Energy Vampire
+150mm Railgun II
+150mm Railgun II
+Spike S, Qty: 37
+10MN Afterburner II
+'Hypnos' Multispectral ECM I
+DDO Photometry I Targeting Interference
+Damage Control I
+Small Armor Repairer II
+Shadow Serpentis Armor Explosive Hardener
+1600mm Reinforced Rolled Tungsten Plates I
+Warrior II, Qty: 2 (Drone Bay)
+Vespa II, Qty: 2 (Drone Bay)
+Ogre I, Qty: 2 (Drone Bay)
+Acolyte II, Qty: 2 (Drone Bay)
+Medium Armor Maintenance Bot I, Qty: 2 (Drone Bay)
+

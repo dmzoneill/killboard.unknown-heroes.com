@@ -1,0 +1,154 @@
+2007.02.04 19:32
+
+Victim: pajzi
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Destroyed: Claw
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: MrMunro
+Security: 5.1
+Alliance: Insane Asylum
+Corp: PILGRIMS
+Ship: Rokh
+Weapon: Rokh
+
+Name: alon blackhelm
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Raven
+Weapon: Cruise Missile Launcher II
+
+Name: Weeble Wooble (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Nya
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Unknown
+Weapon: XR-3200 Heavy Missile Bay
+
+Name: william kronos
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Caracal
+Weapon: Advanced 'Limos' Heavy Missile Bay I
+
+Name: sakana
+Security: -1.0
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Megathron
+Weapon: 'Malkuth' Assault Missile Launcher I
+
+Name: beretta74
+Security: 2.8
+Alliance: The Foundation.
+Corp: EVE Corporation 160607
+Ship: Thorax
+Weapon: 150mm Railgun I
+
+Name: Stonegard
+Security: 5.0
+Alliance: The Foundation.
+Corp: EVE Corporation 160607
+Ship: Unknown
+Weapon: 250mm Railgun II
+
+Name: Sorlac Aurora
+Security: 1.2
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Drake
+Weapon: Advanced 'Limos' Heavy Missile Bay I
+
+Name: Skull Fire
+Security: 0.6
+Alliance: The Foundation.
+Corp: Cornerstone Unlimited
+Ship: Rokh
+Weapon: Target Painter I
+
+Name: Minisoza
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Brutix
+Weapon: Brutix
+
+Name: Maximo Brutalis
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Ferox
+Weapon: Phased Weapon Navigation Array Generation Extron
+
+Name: Lux0r
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Hawk
+Weapon: Kapteyn Sensor Array Inhibitor I
+
+Name: Laboratus
+Security: 5.0
+Alliance: None
+Corp: BGG
+Ship: Celestis
+Weapon: 250mm Railgun I
+
+Name: Jonkai
+Security: -4.7
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Drake
+Weapon: Heavy Missile Launcher I
+
+Name: Elgcaress
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Celestis
+Weapon: Kapteyn Sensor Array Inhibitor I
+
+Name: Dark Carnage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Unknown
+Weapon: Heavy Missile Launcher I
+
+Name: ClogMan
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Raven
+Weapon: Shock 'Limos' Siege Missile Bay I
+
+Name: Atarkus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Hawk
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+
+Destroyed items:
+
+Barrage S, Qty: 84
+1MN MicroWarpdrive II
+J5 Prototype Warp Inhibitor I
+Energized Adaptive Nano Membrane II
+Beta Hull Mod Inertial Stabilizers
+Capacitor Power Relay I
+

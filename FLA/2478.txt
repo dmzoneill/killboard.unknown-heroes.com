@@ -1,0 +1,29 @@
+2007.02.14 20:10
+
+Victim: Tiberius Drake
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Destroyed: Ishkur
+System: B-9C24
+Security: 0.0
+
+Involved parties:
+
+Name: Divider (laid the final blow)
+Security: 2.8
+Alliance: Cruel Intentions
+Corp: North Star Networks
+Ship: Muninn
+Weapon: 220mm Vulcan AutoCannon II
+
+
+Destroyed items:
+
+Light Ion Blaster II
+Light Ion Blaster II
+Null S, Qty: 93
+J5 Prototype Warp Inhibitor I
+Energized Reactive Membrane I
+Reactor Control Unit I
+Null S, Qty: 240 (Cargo)
+

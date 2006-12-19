@@ -1,0 +1,36 @@
+2007.05.02 05:26
+
+Victim: Kvarium Ki
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Destroyed: Rupture
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Lord Tyranous (laid the final blow)
+Security: 5.0
+Alliance: Vigilance.
+Corp: CRICE Corporation
+Ship: Cerberus
+Weapon: Scourge Heavy Missile
+
+Name: Iron Guerilla
+Security: 0.9
+Alliance: Vigilance.
+Corp: CRICE Corporation
+Ship: Vagabond
+Weapon: Vagabond
+
+
+Destroyed items:
+
+425mm AutoCannon I
+Small 'Ghoul' Energy Siphon I
+EMP M, Qty: 54
+10MN MicroWarpdrive I
+Gyrostabilizer I
+Gremlin Rocket, Qty: 150 (Cargo)
+Warrior I (Drone Bay)
+

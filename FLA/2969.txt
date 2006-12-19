@@ -1,0 +1,113 @@
+2007.03.17 21:23
+
+Victim: Aikuchi Hiddensword
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Dominix
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Eelim Garak
+Security: 1.3
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Sacrilege
+Weapon: Sacrilege
+
+Name: Erikel
+Security: 4.6
+Alliance: Chorus of Dawn
+Corp: Cosmic Odyssey
+Ship: Thorax
+Weapon: Thorax
+
+Name: Taschenflak
+Security: 4.7
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Moa
+Weapon: Moa
+
+Name: Gordon Red
+Security: 2.0
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Crusader
+Weapon: Crusader
+
+Name: L3dZ3P
+Security: 5.0
+Alliance: Chorus of Dawn
+Corp: Cosmic Odyssey
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: V2GBR (laid the final blow)
+Security: 5.0
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Caracal
+Weapon: Bloodclaw Light Missile
+
+Name: IsmaelYU5 Iluvatar
+Security: 5.0
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Taranis
+Weapon: Hobgoblin II
+
+Name: EveStarHunter
+Security: 4.9
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Stabber
+Weapon: Stabber
+
+Name: Barak Smaug
+Security: 4.6
+Alliance: Chorus of Dawn
+Corp: Cosmic Odyssey
+Ship: Huginn
+Weapon: Fleeting Propulsion Inhibitor I
+
+Name: M4J3STIC
+Security: 5.0
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Raptor
+Weapon: Bloodclaw Light Missile
+
+Name: Louis DelaBlanche
+Security: 5.0
+Alliance: Chorus of Dawn
+Corp: Cosmic Odyssey
+Ship: Jaguar
+Weapon: J5 Prototype Warp Inhibitor I
+
+
+Destroyed items:
+
+Heavy 'Knave' I Energy Drain
+Heavy 'Knave' I Energy Drain
+Drone Link Augmentor I
+Eutectic I Capacitor Charge Array
+Eutectic I Capacitor Charge Array
+Large 'Accommodation' Vestment Reconstructer I
+'Mendicant' Signal Booster I
+Radioisotope Thermic Hardener I
+Voltaic Nanite Explosive Hardener I
+Local Power Plant Manager: Reaction Control I
+Small Nosferatu I (Cargo)
+Heavy Nosferatu I (Cargo)
+Dual 250mm Prototype I Gauss Gun (Cargo)
+Dual 250mm Railgun I, Qty: 2 (Cargo)
+Electron Blaster Cannon I (Cargo)
+Dual 250mm Carbide Railgun I (Cargo)
+Wasp I, Qty: 10 (Cargo)
+Hobgoblin II (Drone Bay)
+Ogre I, Qty: 4 (Drone Bay)
+Vespa II, Qty: 3 (Drone Bay)
+Berserker SW-900, Qty: 4 (Drone Bay)
+

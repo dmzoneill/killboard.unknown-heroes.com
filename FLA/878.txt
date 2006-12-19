@@ -1,0 +1,61 @@
+2007.02.25 05:58
+
+Victim: Fuji Core
+Alliance: Aftermath Alliance
+Corp: Dark Nebula Gallente Division
+Destroyed: Amarr Shuttle
+System: YZ-LQL
+Security: 0.0
+
+Involved parties:
+
+Name: Xantheris
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Taranis
+Weapon: Taranis
+
+Name: ibaari
+Security: 4.9
+Alliance: Dusk and Dawn
+Corp: ClanKillers
+Ship: Flycatcher
+Weapon: Sabretooth Light Missile
+
+Name: Swanny231
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Celestis
+Weapon: Indirect Scanning Dampening Unit I
+
+Name: JD Gio'Chri
+Security: 3.2
+Alliance: Dusk and Dawn
+Corp: ClanKillers
+Ship: Rifter
+Weapon: Fleeting Warp Scrambler I
+
+Name: Flying Underpants (laid the final blow)
+Security: 0.2
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Enyo
+Weapon: Modal Light Ion Particle Accelerator I
+
+Name: Norak Guage
+Security: 3.1
+Alliance: Dusk and Dawn
+Corp: Momentum.
+Ship: Hawk
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+Name: Lord Alpha
+Security: 2.4
+Alliance: Dusk and Dawn
+Corp: Momentum.
+Ship: Ishkur
+Weapon: Fleeting Warp Scrambler I
+
+

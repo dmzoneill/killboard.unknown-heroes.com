@@ -1,0 +1,31 @@
+2006.12.23 07:13
+
+Victim: Redforth
+Alliance: None
+Corp: State War Academy
+Destroyed: Cormorant
+System: Dantumi
+Security: 0.4
+
+Involved parties:
+
+Name: Korudon (laid the final blow)
+Security: 4.1
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Guristas Nihilist / Guristas
+
+
+Destroyed items:
+
+Miner II
+280mm Howitzer Artillery I
+280mm Howitzer Artillery I
+Fusion S, Qty: 13
+Flameburst Light Missile, Qty: 18
+Standard Missile Launcher I
+Survey Scanner I
+

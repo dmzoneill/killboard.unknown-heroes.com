@@ -1,0 +1,26 @@
+2006.08.11 17:48
+
+Victim: Otavia
+Alliance: None
+Corp: The Chaotic Empire
+Destroyed: Bestower
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Carl tabot (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Raven
+Weapon: Mjolnir Javelin Torpedo
+
+
+Destroyed items:
+
+1MN MicroWarpdrive I
+Warp Core Stabilizer I
+Warp Core Stabilizer I
+Warp Core Stabilizer I
+

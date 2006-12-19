@@ -1,0 +1,58 @@
+2007.05.07 16:04
+
+Victim: NiNeRiToW
+Alliance: YouWhat
+Corp: Princeps Corp
+Destroyed: Wreathe
+System: LT-DRO
+Security: 0.0
+
+Involved parties:
+
+Name: alon blackhelm (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Drake
+Weapon: Thunderbolt Heavy Missile
+
+Name: Just Hull
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Arazu
+Weapon: Indirect Scanning Dampening Unit I
+
+
+Destroyed items:
+
+X-Large Neutron Saturation Injector I (Cargo)
+X-Large Shield Booster I, Qty: 2 (Cargo)
+Large Shield Booster I (Cargo)
+Large Shield Transporter I (Cargo)
+Large Asymmetric Barrier Transpositioner I (Cargo)
+Cap Recharger I, Qty: 2 (Cargo)
+100MN MicroWarpdrive I (Cargo)
+Type-D Power Core Modification: Shield Power Relay (Cargo)
+Medium Capacitor Battery I (Cargo)
+Medium Energy Transfer Array I (Cargo)
+Medium Proton Smartbomb I (Cargo)
+Medium Brief Capacitor Overcharge I (Cargo)
+Photon Scattering Field I (Cargo)
+Mjolnir Torpedo, Qty: 100 (Cargo)
+ECM - Spatial Destabilizer I (Cargo)
+Large Remote Armor Repair System I (Cargo)
+Microcell Nanite Explosive Hardener I (Cargo)
+Thunderbolt Heavy Missile, Qty: 100 (Cargo)
+Cataclysm Cruise Missile, Qty: 100 (Cargo)
+Devastator Cruise Missile, Qty: 100 (Cargo)
+Paradise Cruise Missile, Qty: 100 (Cargo)
+Hunter F.O.F. Cruise Missile I, Qty: 100 (Cargo)
+Dragon F.O.F. Cruise Missile I, Qty: 100 (Cargo)
+Shock 'Limos' Siege Missile Bay I (Cargo)
+ZW-4100 Siege Missile Bay (Cargo)
+Scourge Fury Heavy Missile, Qty: 1748 (Cargo)
+Capacitor Power Relay I, Qty: 2 (Cargo)
+Capacitor Flux Coil I, Qty: 3 (Cargo)
+Local Power Plant Manager: Reaction Control I (Cargo)
+

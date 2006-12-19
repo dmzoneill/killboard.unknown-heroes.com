@@ -1,0 +1,31 @@
+2006.12.29 14:44
+
+Victim: Vertigel Symorain
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Destroyed: Tristan
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Murdoch Morf (laid the final blow)
+Security: 1.4
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Rupture
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Elliott Manchild
+Security: -2.0
+Alliance: None
+Corp: omen.
+Ship: Eos
+Weapon: True Sansha Stasis Webifier
+
+
+Destroyed items:
+
+Light Ion Blaster I
+Antimatter Charge S, Qty: 94
+

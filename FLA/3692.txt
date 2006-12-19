@@ -1,0 +1,39 @@
+2007.03.29 20:36
+
+Victim: wardey
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Malediction
+System: H1-J33
+Security: 0.0
+
+Involved parties:
+
+Name: WildCard (laid the final blow)
+Security: 4.4
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Vagabond
+Weapon: Dual 180mm AutoCannon II
+
+Name: Gordon Red
+Security: 2.1
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Heretic
+Weapon: Heretic
+
+
+Destroyed items:
+
+Small 'Knave' I Energy Drain
+Small 'Knave' I Energy Drain
+Phalanx Rocket, Qty: 30
+'Malkuth' Rocket Launcher I
+'Malkuth' Rocket Launcher I
+Fleeting Progressive Warp Scrambler I
+Stasis Webifier I
+Inertia Stabilizers I
+Local Hull Conversion Inertial Stabilizers I
+Mark I Generator Refitting: Capacitor Power Relay
+

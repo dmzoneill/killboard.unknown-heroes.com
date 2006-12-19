@@ -1,0 +1,40 @@
+2007.03.03 18:53
+
+Victim: Kamau
+Alliance: None
+Corp: O.E.C
+Destroyed: Capsule
+System: APM-6K
+Security: 0.0
+
+Involved parties:
+
+Name: digital oxygen (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Taranis
+Weapon: Light Electron Blaster II
+
+Name: Aikuchi Hiddensword
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Taranis
+Weapon: Light Ion Blaster I
+
+Name: Freakdevil
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Crow
+Weapon: TE-2100 Standard Missile Bay
+
+Name: Daressek
+Security: 3.7
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Kestrel
+Weapon: Standard Missile Launcher I
+
+

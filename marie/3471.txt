@@ -1,0 +1,119 @@
+2007.03.29 03:11
+
+Victim: Trovash
+Alliance: None
+Corp: I-Omniscient-I
+Destroyed: Rupture
+System: RQH-MY
+Security: 0.0
+
+Involved parties:
+
+Name: Amon Fire
+Security: 0.7
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Omen
+Weapon: Omen
+
+Name: coldkill
+Security: 1.9
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: Darc Kaahar
+Security: -0.1
+Alliance: Freelancer Alliance
+Corp: Feel Good Inc.
+Ship: Ishkur
+Weapon: 125mm 'Scout' I Accelerator Cannon
+
+Name: toonsterpw
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Jorax
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Myrmidon
+Weapon: Warrior II
+
+Name: Frau Formaggio
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ishkur
+Weapon: Vespa II
+
+Name: Osyc
+Security: 2.7
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: a51 duke1406
+Security: 1.1
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Thorax
+Weapon: Valkyrie I
+
+Name: Marie Veedor
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Merlin
+Weapon: 150mm Compressed Coil Gun I
+
+Name: Darthirishguy (laid the final blow)
+Security: 1.8
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Merlin
+Weapon: Piranha Light Missile
+
+Name: Llondon Hilton
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Ishkur
+Weapon: Warrior I
+
+Name: Bobby Atlas
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Hyperion
+Weapon: Valkyrie II
+
+Name: PowerGimp
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Flycatcher
+Weapon: 'Arbalest' Rocket Launcher I
+
+
+Destroyed items:
+
+250mm Light Artillery Cannon II
+250mm Light Artillery Cannon II
+250mm Light Artillery Cannon II
+Titanium Sabot S, Qty: 29
+Havoc Heavy Missile, Qty: 22
+Advanced 'Limos' Heavy Missile Bay I
+Large F-S9 Regolith Shield Induction
+Y-S8 Hydrocarbon I Afterburners
+Counterbalanced Weapon Mounts I
+Power Diagnostic System I
+Havoc Heavy Missile, Qty: 434 (Cargo)
+Thunderbolt Heavy Missile, Qty: 500 (Cargo)
+Widowmaker Heavy Missile, Qty: 500 (Cargo)
+

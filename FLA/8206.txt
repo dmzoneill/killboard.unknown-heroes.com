@@ -1,0 +1,33 @@
+2006.11.03 05:41
+
+Victim: Kiannah
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Destroyed: Armageddon
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Dire Guristas Saboteur / Guristas
+
+Name: Ragnar Redmane (laid the final blow)
+Security: 2.9
+Alliance: None
+Corp: NEXT LEVEL
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+
+Destroyed items:
+
+Heavy Afocal Maser I
+Heavy Beam Laser I
+Infrared M
+Infrared M
+Large Armor Repairer I
+Armor Thermic Hardener I
+Defender I, Qty: 100 (Cargo)
+Warp Core Stabilizer I (Cargo)
+Gremlin Rocket, Qty: 100 (Cargo)
+

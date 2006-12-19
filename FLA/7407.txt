@@ -1,0 +1,58 @@
+2006.09.02 17:53
+
+Victim: Gabbot Dillan
+Alliance: None
+Corp: Provence Express
+Destroyed: Basilisk
+System: Sobaseki
+Security: 0.8
+
+Involved parties:
+
+Name: Exitium II
+Security: -2.5
+Alliance: None
+Corp: Drunk in Public
+Ship: Brutix
+Weapon: Brutix
+
+Name: Cockroach
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Punisher
+Weapon: Punisher
+
+Name: electrosquid
+Security: 0.1
+Alliance: None
+Corp: Tom's Steel Soldiers
+Ship: Caracal
+Weapon: Hobgoblin I
+
+Name: Slaa'n Kunei (laid the final blow)
+Security: 0.0
+Alliance: None
+Corp: Joy Tech
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Sotam Sant'e
+Security: 0.0
+Alliance: None
+Corp: Joy Tech
+Ship: Eos
+Weapon: 250mm Railgun II
+
+
+Destroyed items:
+
+Small Shield Transporter II
+Small Shield Transporter II
+Medium 'Regard' I Power Projector
+Hydra F.O.F. Heavy Missile I, Qty: 40
+Large Shield Extender II
+Invulnerability Field II
+Shield Boost Amplifier I
+Scourge Heavy Missile, Qty: 493 (Cargo)
+

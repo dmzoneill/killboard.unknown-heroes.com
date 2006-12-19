@@ -1,0 +1,33 @@
+2006.10.14 18:30
+
+Victim: Bolinar
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Destroyed: Megathron
+System: A4L-A2
+Security: 0.0
+
+Involved parties:
+
+Name: PainBall (laid the final blow)
+Security: 2.5
+Alliance: None
+Corp: NEXT LEVEL
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+
+Destroyed items:
+
+Miner II
+Miner II
+Miner II
+Miner II
+Miner II
+Miner II
+Co-Processor II
+Mining Laser Upgrade I
+Vespa II, Qty: 3 (Drone Bay)
+Ogre I (Drone Bay)
+Mining Drone I, Qty: 3 (Drone Bay)
+

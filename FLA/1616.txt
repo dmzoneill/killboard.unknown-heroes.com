@@ -1,0 +1,61 @@
+2007.03.18 13:18
+
+Victim: g 402a
+Alliance: Chorus of Dawn
+Corp: Free Lapland
+Destroyed: Condor
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Nukuquqa Hestase
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Harpy
+Weapon: Harpy
+
+Name: Marie Veedor (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Ferox
+Weapon: 250mm Compressed Coil Gun I
+
+Name: darkviron
+Security: 2.0
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Blackbird
+Weapon: Heavy Missile Launcher I
+
+Name: UnknownOne
+Security: 1.1
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Ship: Nidhoggur
+Weapon: Einherji
+
+Name: Kurios Oranj
+Security: 3.7
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Ship: Flycatcher
+Weapon: Upgraded 'Limos' Standard Missile Bay I
+
+Name: Green Raven
+Security: 2.8
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Caracal
+Weapon: 'Malkuth' Assault Missile Launcher I
+
+
+Destroyed items:
+
+Prototype Cloaking Device I
+1MN MicroWarpdrive I
+Overdrive Injector System I
+Capacitor Power Relay I (Cargo)
+

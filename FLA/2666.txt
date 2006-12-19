@@ -1,0 +1,79 @@
+2007.03.02 00:07
+
+Victim: CapiONE
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Destroyed: Hyperion
+System: YZ-LQL
+Security: 0.0
+
+Involved parties:
+
+Name: OzaLoni
+Security: 1.2
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Megathron
+Weapon: Megathron
+
+Name: Knuck
+Security: -1.8
+Alliance: Band of Brothers
+Corp: Reikoku
+Ship: Tempest
+Weapon: Tempest
+
+Name: Nero Winger
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Coranor
+Security: 4.0
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Hey You
+Security: -0.3
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Apocalypse
+Weapon: Apocalypse
+
+Name: Kaijou
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Rokh
+Weapon: Rokh
+
+Name: cold lazarus (laid the final blow)
+Security: 5.2
+Alliance: Band of Brothers
+Corp: Reikoku
+Ship: Rokh
+Weapon: 425mm Railgun I
+
+Name: violator2k5
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Rokh
+Weapon: Rokh
+
+
+Destroyed items:
+
+Heavy Nosferatu I
+Anode Mega Electron Particle Cannon I
+Anode Mega Electron Particle Cannon I
+Antimatter Charge L, Qty: 200
+Stasis Webifier I
+Heavy Electrochemical Capacitor Booster I
+Radioisotope Kinetic Hardener I
+Antimatter Charge L, Qty: 587 (Cargo)
+

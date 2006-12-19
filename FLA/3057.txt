@@ -1,0 +1,31 @@
+2007.03.23 19:10
+
+Victim: kill ui
+Alliance: None
+Corp: Federal Navy Academy
+Destroyed: Velator
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: djangos
+Security: 3.5
+Alliance: CORE.
+Corp: Red 42
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: EM00 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Caracal
+Weapon: Thunderbolt Heavy Missile
+
+
+Destroyed items:
+
+Civilian Light Electron Blaster
+Basic Miner
+

@@ -1,0 +1,68 @@
+2007.03.11 06:26
+
+Victim: Aralez
+Alliance: YouWhat
+Corp: Beasts of Burden
+Destroyed: Rupture
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Sils wife
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Megathron
+Weapon: Megathron
+
+Name: Mystical Angel (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Weeble Wooble
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Megathron
+Weapon: Megathron
+
+Name: Slinktress
+Security: 2.8
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Megathron
+Weapon: Medium Pulse Laser I
+
+Name: Guardian Agent / Serpentis Corporation
+
+Name: Klariso Troben
+Security: 4.9
+Alliance: Forces of Freedom
+Corp: Vaportrail Logistics
+Ship: Rapier
+Weapon: Rapier
+
+Name: Amirian
+Security: 0.9
+Alliance: Forces of Freedom
+Corp: Vaportrail Logistics
+Ship: Drake
+Weapon: Advanced 'Limos' Heavy Missile Bay I
+
+
+Destroyed items:
+
+Thunderbolt Heavy Missile, Qty: 32
+Havoc Heavy Missile, Qty: 32
+Scourge Heavy Missile, Qty: 32
+'Malkuth' Heavy Missile Launcher I
+J5 Prototype Warp Inhibitor I
+Overdrive Injector System I
+Power Diagnostic System I
+EMP M, Qty: 279 (Cargo)
+Thunderbolt Heavy Missile, Qty: 55 (Cargo)
+

@@ -1,0 +1,52 @@
+2007.02.19 08:12
+
+Victim: Keltec
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Ferox
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Tatzlwurm (laid the final blow)
+Security: 4.9
+Alliance: Lotka Volterra
+Corp: M. Corp
+Ship: Sleipnir
+Weapon: 425mm AutoCannon II
+
+Name: Graies Marquees
+Security: 0.7
+Alliance: Lotka Volterra
+Corp: M. Corp
+Ship: Deimos
+Weapon: Valkyrie I
+
+Name: ShadowDragon
+Security: 0.0
+Alliance: Lotka Volterra
+Corp: CRICE Corporation
+Ship: Lachesis
+Weapon: Hammerhead II
+
+Name: ShadowMaker
+Security: 1.0
+Alliance: Lotka Volterra
+Corp: CRICE Corporation
+Ship: Vagabond
+Weapon: Vagabond
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 60
+Heavy Missile Launcher I
+Medium Shield Extender I
+Large Shield Extender I
+Medium Shield Booster II
+Invulnerability Field I
+Havoc Heavy Missile, Qty: 5000 (Cargo)
+Hammerhead I (Drone Bay)
+Hobgoblin I (Drone Bay)
+

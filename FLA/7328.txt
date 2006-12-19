@@ -1,0 +1,19 @@
+2006.08.11 07:51
+
+Victim: Enamelizer
+Alliance: Confederation of Independent Corporations
+Corp: Starlancers
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Carl tabot (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Raven
+Weapon: Mjolnir Javelin Torpedo
+
+

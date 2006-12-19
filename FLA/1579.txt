@@ -1,0 +1,32 @@
+2007.03.17 07:17
+
+Victim: DemoIition
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Destroyed: Raptor
+System: DY-F70
+Security: 0.0
+
+Involved parties:
+
+Name: MrMajIc (laid the final blow)
+Security: 1.1
+Alliance: Dusk and Dawn
+Corp: Omega Enterprises
+Ship: Rapier
+Weapon: 720mm Howitzer Artillery II
+
+Name: RythemAndStealth
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Caracal
+Weapon: Heavy Missile Launcher I
+
+
+Destroyed items:
+
+150mm Railgun II
+Sensor Booster II
+Vespa II (Cargo)
+

@@ -1,0 +1,57 @@
+2007.04.20 00:28
+
+Victim: Ghu'ru Talozan
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Celestis
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Savak (laid the final blow)
+Security: -0.2
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Armageddon
+Weapon: Dual Heavy Anode Pulse Particle Stream I
+
+Name: Gerald Osikawa
+Security: 0.9
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Caracal
+Weapon: Einherji
+
+Name: RuLuVdArR
+Security: 0.0
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Incursus
+Weapon: Incursus
+
+Name: Ghost Hughdidit
+Security: 3.1
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Thanatos
+Weapon: Einherji
+
+Name: Akthuul
+Security: 5.0
+Alliance: Storm Armada
+Corp: stone grave haulage
+Ship: Falcon
+Weapon: ECM - Spatial Destabilizer II
+
+
+Destroyed items:
+
+250mm Railgun I
+250mm Railgun I
+Remote Sensor Dampener I
+Remote Sensor Dampener I
+Capacitor Power Relay I
+Antimatter Charge M, Qty: 490 (Cargo)
+Berserker II (Cargo)
+

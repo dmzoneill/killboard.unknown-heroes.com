@@ -1,0 +1,49 @@
+2007.01.23 03:52
+
+Victim: Szorpion
+Alliance: The Hired
+Corp: Mass Murder Aggregate
+Destroyed: Drake
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: lone stranger
+Security: 0.9
+Alliance: None
+Corp: The Human Face Of Divine
+Ship: Raven
+Weapon: Juggernaut Torpedo
+
+Name: g3cko
+Security: -2.6
+Alliance: None
+Corp: The Human Face Of Divine
+Ship: Curse
+Weapon: Hammerhead II
+
+Name: Jester87 (laid the final blow)
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+
+Destroyed items:
+
+E50 Prototype Energy Vampire
+E50 Prototype Energy Vampire
+Havoc Heavy Missile, Qty: 35
+Widowmaker Heavy Missile, Qty: 35
+XR-3200 Heavy Missile Bay
+XR-3200 Heavy Missile Bay
+Medium C5-L Emergency Shield Overload I
+Y-T8 Overcharged Hydrocarbon I Microwarpdrive
+J5 Prototype Warp Inhibitor I
+F-90 Positional Sensor Subroutines
+Type-D Power Core Modification: Capacitor Power Relay
+Havoc Heavy Missile, Qty: 140 (Cargo)
+Hornet EC-300, Qty: 5 (Drone Bay)
+

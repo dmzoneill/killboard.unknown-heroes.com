@@ -1,0 +1,35 @@
+2007.04.22 01:25
+
+Victim: Kvarium Ki
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Destroyed: Bellicose
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Orange Species (laid the final blow)
+Security: -2.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Ragnarok
+Weapon: Gjallarhorn
+
+
+Destroyed items:
+
+Hellfire Assault Missile, Qty: 300
+Torrent Assault Missile, Qty: 300
+Medium 'Knave' I Energy Drain
+'Malkuth' Heavy Assault Missile Launcher I
+'Malkuth' Heavy Assault Missile Launcher I
+10MN MicroWarpdrive I
+Warp Scrambler I
+Prototype I Sensor Booster
+Peripheral Weapon Navigation Diameter
+Fulmination Assault Missile, Qty: 439 (Cargo)
+Torrent Assault Missile, Qty: 438 (Cargo)
+Hellfire Assault Missile, Qty: 440 (Cargo)
+Valkyrie I, Qty: 2 (Drone Bay)
+

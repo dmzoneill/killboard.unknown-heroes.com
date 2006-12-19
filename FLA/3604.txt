@@ -1,0 +1,40 @@
+2007.03.27 20:05
+
+Victim: Arbitrus
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Destroyed: Capsule
+System: 7D-0SQ
+Security: 0.0
+
+Involved parties:
+
+Name: 0lmeken (laid the final blow)
+Security: 4.9
+Alliance: YouWhat
+Corp: Pringles Inc.
+Ship: Claw
+Weapon: 200mm AutoCannon II
+
+Name: Magnelien
+Security: 4.3
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Crow
+Weapon: Gremlin Rocket
+
+Name: Taschenflak
+Security: 4.7
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Raptor
+Weapon: 125mm Railgun II
+
+Name: MC Alfritz
+Security: 3.7
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Muninn
+Weapon: Heavy Missile Launcher II
+
+

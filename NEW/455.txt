@@ -1,0 +1,18 @@
+2007.03.25 22:32
+
+Victim: alpha lead
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Capsule
+System: B-9C24
+Security: 0.0
+
+Involved parties:
+
+Name: Genrom (laid the final blow)
+Security: 4.5
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Taranis
+Weapon: Light Neutron Blaster II
+

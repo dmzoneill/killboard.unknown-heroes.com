@@ -1,0 +1,27 @@
+2007.02.24 07:40
+
+Victim: Broomhilde hildebroom
+Alliance: None
+Corp: State War Academy
+Destroyed: Kestrel
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Jorax (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Incursus
+Weapon: Light Neutron Blaster I
+
+
+Destroyed items:
+
+Flameburst Light Missile, Qty: 36
+Sabretooth Light Missile, Qty: 36
+Standard Missile Launcher I, Qty: 2
+Nanofiber Internal Structure I
+Sabretooth Light Missile, Qty: 12 (Cargo)
+Bloodclaw Light Missile, Qty: 100 (Cargo)

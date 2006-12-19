@@ -1,0 +1,65 @@
+2006.08.21 22:33
+
+Victim: digital oxygen
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Destroyed: Thorax
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: ViperVenom
+Security: -1.1
+Alliance: Lotka Volterra
+Corp: Shinra
+Ship: Vagabond
+Weapon: Dual 180mm AutoCannon II
+
+Name: Drilla
+Security: -1.4
+Alliance: Lotka Volterra
+Corp: Shinra
+Ship: Sleipnir
+Weapon: Sleipnir
+
+Name: Mister Bubbles (laid the final blow)
+Security: 2.2
+Alliance: Lotka Volterra
+Corp: M. Corp
+Ship: Megathron
+Weapon: Ion Blaster Cannon I
+
+Name: JohnnyWatcher
+Security: 1.2
+Alliance: Lotka Volterra
+Corp: M. Corp
+Ship: Dominix
+Weapon: Dominix
+
+Name: Max Teranous
+Security: 2.2
+Alliance: Lotka Volterra
+Corp: Shinra
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: Umek
+Security: -0.2
+Alliance: Lotka Volterra
+Corp: Shinra
+Ship: Jaguar
+Weapon: 150mm Light AutoCannon II
+
+
+Destroyed items:
+
+Light Neutron Blaster II
+Light Neutron Blaster II
+Null S, Qty: 152
+Warp Disruptor I
+Stasis Webifier I
+F85 Peripheral Damage System I
+Medium Armor Repairer II
+1600mm Reinforced Steel Plates I
+

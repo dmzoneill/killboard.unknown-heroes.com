@@ -1,0 +1,54 @@
+2006.10.08 21:33
+
+Victim: Sadith
+Alliance: R.I.S.K
+Corp: RUS-SAGA
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Kev Lar
+Security: 0.0
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Ares
+Weapon: 150mm Railgun II
+
+Name: Gamer1K
+Security: 3.1
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Formosus Funus
+Security: 2.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Wolf
+Weapon: 200mm Light 'Scout' Autocannon I
+
+Name: Needa3
+Security: 5.0
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Jaguar
+Weapon: 280mm Howitzer Artillery II
+
+Name: Scorpio63 (laid the final blow)
+Security: 4.8
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Retribution
+Weapon: Medium Beam Laser I
+
+Name: hejjbazeg
+Security: 0.7
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Wolf
+Weapon: Phased Weapon Navigation Array Generation Extron
+
+

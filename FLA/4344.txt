@@ -1,0 +1,26 @@
+2007.04.08 09:03
+
+Victim: gabarii hrabrski
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Destroyed: Capsule
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Arkezxa Kae'Tal (laid the final blow)
+Security: 2.8
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Vagabond
+Weapon: Dual 180mm AutoCannon II
+
+Name: Green Leaner
+Security: 2.1
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Vagabond
+Weapon: Warp Disruptor I
+
+

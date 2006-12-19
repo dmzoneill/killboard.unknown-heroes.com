@@ -1,0 +1,71 @@
+2007.04.09 12:14
+
+Victim: Rhaven
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Destroyed: Raven
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Debian Executer (laid the final blow)
+Security: 3.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Hurricane
+Weapon: Flameburst Light Missile
+
+Name: Sivona
+Security: -1.1
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Eos
+Weapon: Ogre II
+
+Name: abzzo
+Security: 1.7
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Zealot
+Weapon: Zealot
+
+Name: Eleese
+Security: -0.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Lachesis
+Weapon: Valkyrie II
+
+Name: Spacebar
+Security: 2.1
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: Frantico
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Crusader
+Weapon: Crusader
+
+Name: Arkezxa Kae'Tal
+Security: 2.8
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Jaguar
+Weapon: 125mm Gatling AutoCannon II
+
+
+Destroyed items:
+
+Juggernaut Torpedo, Qty: 28
+ZW-4100 Siege Missile Bay
+Large Shield Booster I
+V-M15 Braced Multispectral Shield Matrix
+Medium Armor Repairer I
+Signal Amplifier II
+Juggernaut Torpedo, Qty: 3433 (Cargo)
+

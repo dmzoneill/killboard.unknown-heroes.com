@@ -1,0 +1,93 @@
+2007.01.06 23:23
+
+Victim: Exquina
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Destroyed: Abaddon
+System: Torrinos
+Security: 0.5
+
+Involved parties:
+
+Name: Darknesss (laid the final blow)
+Security: -0.1
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Megathron
+Weapon: Neutron Blaster Cannon II
+
+Name: Assassin 2
+Security: 5.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Drake
+Weapon: Hobgoblin II
+
+Name: Pistonbroke
+Security: -0.1
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Lachesis
+Weapon: Hornet II
+
+Name: DoZ3r
+Security: 3.7
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Taranis
+Weapon: Taranis
+
+Name: Jenessa
+Security: 1.1
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Lachesis
+Weapon: Lachesis
+
+
+Destroyed items:
+
+Tachyon Modal Laser I
+Tachyon Modal Laser I
+Multifrequency L
+Multifrequency L
+Multifrequency L
+Multifrequency L
+Small Tractor Beam I
+Heavy F-RX Prototype I Capacitor Boost
+Invulnerability Field I
+Cap Booster 800
+Cap Booster 800
+Cap Booster 800
+Cap Booster 800
+Warp Core Stabilizer I
+1600mm Reinforced Rolled Tungsten Plates I
+100MN Afterburner I (Cargo)
+Tachyon Modal Laser I (Cargo)
+Medium Armor Repairer I (Cargo)
+Medium I-b Polarized Structural Regenerator (Cargo)
+Tachyon Beam Laser I Blueprint (Cargo)
+Prototype ECCM I Radar Sensor Cluster (Cargo)
+Warded Radar Backup Cluster I (Cargo)
+C4S Coiled Circuit Thermal Radiator (Cargo)
+Explosive Armor Compensation (Cargo)
+Thermic Armor Compensation (Cargo)
+Kinetic Armor Compensation (Cargo)
+Kinetic Shield Compensation (Cargo)
+Explosive Shield Compensation (Cargo)
+Thermic Shield Compensation (Cargo)
+Shield Compensation (Cargo)
+Photonic CPU Enhancer I (Cargo)
+Defective Current Pump, Qty: 8 (Cargo)
+Fried Interface Circuit, Qty: 18 (Cargo)
+Tripped Power Circuit, Qty: 16 (Cargo)
+Scorched Telemetry Processor, Qty: 24 (Cargo)
+Ward Console, Qty: 6 (Cargo)
+Melted Capacitor Console, Qty: 4 (Cargo)
+Armor Plates, Qty: 5 (Cargo)
+Malfunctioning Shield Emitter, Qty: 15 (Cargo)
+Power Diagnostic System I (Cargo)
+Local Power Plant Manager: Capacity Power Relay I (Cargo)
+Infiltrator I, Qty: 3 (Drone Bay)
+Hammerhead I, Qty: 3 (Drone Bay)
+

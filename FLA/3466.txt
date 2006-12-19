@@ -1,0 +1,129 @@
+2007.03.29 03:08
+
+Victim: Leto Aramaus
+Alliance: None
+Corp: Le Moulin Rouge
+Destroyed: Myrmidon
+System: RQH-MY
+Security: 0.0
+
+Involved parties:
+
+Name: Bobby Atlas
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Hyperion
+Weapon: Valkyrie II
+
+Name: toonsterpw
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Darc Kaahar
+Security: -0.1
+Alliance: Freelancer Alliance
+Corp: Feel Good Inc.
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: Osyc
+Security: 2.7
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: coldkill (laid the final blow)
+Security: 1.9
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Ishkur
+Weapon: 125mm Railgun II
+
+Name: Jorax
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Myrmidon
+Weapon: Warrior II
+
+Name: a51 duke1406
+Security: 1.1
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Thorax
+Weapon: Valkyrie I
+
+Name: Amon Fire
+Security: 0.7
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Omen
+Weapon: Omen
+
+Name: PowerGimp
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Flycatcher
+Weapon: Foxfire Rocket
+
+Name: Darthirishguy
+Security: 1.8
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Merlin
+Weapon: Piranha Light Missile
+
+Name: Frau Formaggio
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: Marie Veedor
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Merlin
+Weapon: Merlin
+
+Name: Thafesko
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Cormorant
+Weapon: Cormorant
+
+Name: Kayron Brennan
+Security: 0.4
+Alliance: Galactic-Federation
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Condor
+Weapon: Condor
+
+Name: Llondon Hilton
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Ishkur
+Weapon: Ishkur
+
+
+Destroyed items:
+
+Heavy Ion Blaster II
+Heavy Ion Blaster II
+Heavy Ion Blaster II
+Antimatter Charge M, Qty: 240
+Omnidirectional Tracking Link I
+Medium Armor Repairer II
+Energized Thermic Membrane II
+Local Power Plant Manager: Capacity Power Relay I
+Ogre I (Drone Bay)
+

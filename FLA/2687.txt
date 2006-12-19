@@ -1,0 +1,29 @@
+2007.03.03 00:00
+
+Victim: bjugis
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Thorax
+System: PNQY-Y
+Security: 0.0
+
+Involved parties:
+
+Name: DeathGrip (laid the final blow)
+Security: 2.3
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Archon
+Weapon: Ogre I
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Heavy Neutron Blaster I
+Antimatter Charge M, Qty: 76
+10MN MicroWarpdrive I
+Warp Disruptor I
+Antimatter Charge M, Qty: 4803 (Cargo)
+Hammerhead I, Qty: 2 (Drone Bay)
+

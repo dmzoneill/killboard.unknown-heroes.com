@@ -1,0 +1,41 @@
+2007.04.12 21:30
+
+Victim: drakonarik
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Buzzard
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Screamer (laid the final blow)
+Security: 0.3
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Manticore
+Weapon: Wrath Precision Cruise Missile
+
+Name: Zembla
+Security: 3.1
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Crow
+Weapon: Crow
+
+Name: FA Avenger
+Security: 2.9
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+
+Destroyed items:
+
+Covert Ops Cloaking Device II
+1MN Afterburner I
+Nanomechanical CPU Enhancer I
+Fathom Scanner Probe I, Qty: 15 (Cargo)
+Snoop Scanner Probe I, Qty: 15 (Cargo)
+

@@ -1,0 +1,65 @@
+2006.12.28 22:01
+
+Victim: Admiral Hunter
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Myrmidon
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: siliconix
+Security: 0.5
+Alliance: None
+Corp: 0utbreak
+Ship: Hurricane
+Weapon: 425mm AutoCannon II
+
+Name: T34R4k
+Security: 0.9
+Alliance: None
+Corp: 0utbreak
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Krugerrand
+Security: 0.0
+Alliance: None
+Corp: 0utbreak
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Sheppard
+Security: 5.0
+Alliance: None
+Corp: 0utbreak
+Ship: Zealot
+Weapon: Heavy Pulse Laser II
+
+Name: Vorag (laid the final blow)
+Security: -0.9
+Alliance: None
+Corp: 0utbreak
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+
+Destroyed items:
+
+Heavy Neutron Blaster I
+Heavy Neutron Blaster I
+Heavy Neutron Blaster I
+Heavy Neutron Blaster I
+Antimatter Charge M, Qty: 418
+10MN MicroWarpdrive I
+J5 Prototype Warp Inhibitor I
+'Langour' Drive Disruptor I
+Cap Booster 200
+Cap Booster 200
+Cap Booster 200
+Cap Booster 200
+N-Type Kinetic Hardener I
+Armor Thermic Hardener I
+Antimatter Charge M, Qty: 9115 (Cargo)
+

@@ -1,0 +1,30 @@
+2007.01.15 08:13
+
+Victim: Marco Polo9
+Alliance: None
+Corp: Federal Navy Academy
+Destroyed: Velator
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Indigo Callypso
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: KriegDrachen (laid the final blow)
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Sabre
+Weapon: 150mm Light AutoCannon II
+
+
+Destroyed items:
+
+Tritanium (Cargo)
+

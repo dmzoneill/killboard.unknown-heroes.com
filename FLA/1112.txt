@@ -1,0 +1,46 @@
+2007.03.05 04:01
+
+Victim: Canti Ludan
+Alliance: United Confederation of Corporations
+Corp: S-Mart LLC
+Destroyed: Megathron
+System: Alparena
+Security: 0.1
+
+Involved parties:
+
+Name: NoLuckNumber2 (laid the final blow)
+Security: -0.7
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Megathron
+Weapon: Ion Blaster Cannon II
+
+Name: Jesnen
+Security: -1.0
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Sacrilege
+Weapon: Medium Nosferatu I
+
+Name: VoYvod
+Security: -0.8
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Armageddon
+Weapon: Armageddon
+
+
+Destroyed items:
+
+425mm Railgun I
+425mm Railgun I
+425mm Railgun I
+Iron Charge L, Qty: 116
+Bloodclaw Light Missile, Qty: 56
+'Malkuth' Assault Missile Launcher I
+Medium Armor Repairer I
+Tracking Enhancer II
+Linear Flux Stabilizer I
+Insulated Stabilizer Array I
+

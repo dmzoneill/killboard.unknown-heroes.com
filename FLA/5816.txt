@@ -1,0 +1,103 @@
+2006.10.22 14:45
+
+Victim: aadom
+Alliance: Triumvirate.
+Corp: D00M.
+Destroyed: Taranis
+System: O-N8XZ
+Security: 0.0
+
+Involved parties:
+
+Name: d4ve
+Security: 4.6
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: freestrike
+Security: 5.9
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Oldin Relic
+Security: 1.4
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Crow
+Weapon: Initiated Warp Jammer I
+
+Name: 31i73 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Manticore
+Weapon: Paradise Cruise Missile
+
+Name: Minesweeper
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: dinj
+Security: 3.4
+Alliance: Freelancer Alliance
+Corp: London Transport
+Ship: Blackbird
+Weapon: XR-3200 Heavy Missile Bay
+
+Name: avelution
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Scorpion
+Weapon: 'Limos' Cruise Launcher I
+
+Name: Terrorv1z
+Security: 5.1
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Scorpion
+Weapon: Cruise Missile Launcher I
+
+Name: Jin Steele
+Security: 3.7
+Alliance: None
+Corp: Fatalix Inc.
+Ship: Blackbird
+Weapon: Initiated Multispectral ECM I
+
+Name: Gamer1K
+Security: 3.8
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Rook
+Weapon: Rook
+
+Name: Fritze
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Blackbird
+Weapon: Blackbird
+
+
+Destroyed items:
+
+Light Neutron Blaster II
+Light Neutron Blaster II
+Null S, Qty: 156
+Damage Control I
+Small Armor Repairer II
+Micro Auxiliary Power Core I
+F-b10 Nominal Capacitor Regenerator (Cargo)
+Y-T8 Overcharged Hydrocarbon I Microwarpdrive (Cargo)
+Antimatter Charge S, Qty: 1385 (Cargo)
+Void S, Qty: 1892 (Cargo)
+XR-3200 Heavy Missile Bay (Cargo)
+

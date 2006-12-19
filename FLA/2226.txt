@@ -1,0 +1,33 @@
+2007.01.28 18:17
+
+Victim: LTSmash
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Destroyed: Capsule
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Repiv
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Ka Dargo (laid the final blow)
+Security: 4.4
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon I
+
+Name: DAViiD
+Security: -0.8
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+

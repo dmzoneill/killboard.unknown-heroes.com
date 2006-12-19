@@ -1,0 +1,102 @@
+2007.04.17 20:27
+
+Victim: Azeusus
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Destroyed: Scorpion
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Teck7 (laid the final blow)
+Security: 1.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ares
+Weapon: Einherji
+
+Name: ClogMan
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Wolf
+Weapon: Dragonfly
+
+Name: Burn Lump
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Crow
+Weapon: 'Langour' Drive Disruptor I
+
+Name: Rhaall
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Crucifier
+Weapon: Templar
+
+Name: dastommy79
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Executioner
+Weapon: Templar
+
+Name: Kee Ris
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Sacrilege
+Weapon: Dragonfly
+
+Name: Kayron Brennan
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Merlin
+Weapon: Dragonfly
+
+Name: alon blackhelm
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Chimera
+Weapon: Dragonfly
+
+Name: Steven FSB
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Chimera
+Weapon: Templar
+
+Name: Bobby Atlas
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Thanatos
+Weapon: Einherji
+
+
+Destroyed items:
+
+Heavy Nosferatu I
+Medium Nosferatu I
+Wrath Cruise Missile, Qty: 18
+Cruise Missile Launcher I
+Cruise Missile Launcher I
+Cruise Missile Launcher I
+X-Large C5-L Emergency Shield Overload I
+100MN Afterburner I
+Ditrigonal Thermal Barrier Crystallization I
+F-S15 Braced Deflection Shield Matrix
+Compulsive Multispectral ECM I
+Kinetic Deflection Amplifier I
+Medium Armor Repairer I
+Signal Amplifier I
+Ballistic Control System I
+Ballistic Control System I
+Antimatter Charge S, Qty: 2876 (Cargo)
+

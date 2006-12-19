@@ -1,0 +1,134 @@
+2007.01.24 23:11
+
+Victim: Korudon
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Apocalypse
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Nephlite
+Security: 2.0
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Raven Navy Issue
+Weapon: Paradise Cruise Missile
+
+Name: Valora
+Security: 2.3
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Harry Stoteles
+Security: 3.3
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Apocalypse
+Weapon: Apocalypse
+
+Name: whopper
+Security: 4.7
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Raven
+Weapon: Juggernaut Javelin Torpedo
+
+Name: StarLite
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Sacrilege
+Weapon: Sacrilege
+
+Name: Millis
+Security: 1.7
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Deimos
+Weapon: 250mm Railgun II
+
+Name: Pramas (laid the final blow)
+Security: 4.4
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Sleipnir
+Weapon: 720mm Howitzer Artillery II
+
+Name: Space Debris
+Security: 1.2
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: Miss Dominatrix
+Security: 2.1
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Ysabelle nKataros
+Security: 2.5
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Muninn
+Weapon: Muninn
+
+Name: RogerWilco
+Security: 3.2
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Astarte
+Weapon: Astarte
+
+Name: Olrig Manton
+Security: -0.4
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Deimos
+Weapon: Deimos
+
+Name: Okeanos
+Security: 0.8
+Alliance: Band of Brothers
+Corp: TAOSP
+Ship: Arazu
+Weapon: Shadow Serpentis Warp Disruptor
+
+Name: Chakolina
+Security: 0.3
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Arazu
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: Abriana Overlord
+Security: -1.0
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Falcon
+Weapon: ECM - White Noise Generator II
+
+
+Destroyed items:
+
+Tachyon Modal Laser I
+Tachyon Modal Laser I
+Tachyon Modal Laser I
+Tachyon Modal Laser I
+Radio L
+Radio L
+Prototype I Sensor Booster
+Optical Tracking Computer I
+Tracking Enhancer II
+Energized Adaptive Nano Membrane I
+Standard L, Qty: 5 (Cargo)
+Microwave L (Cargo)
+Multifrequency L, Qty: 5 (Cargo)
+'Orion' Tracking CPU I (Cargo)
+

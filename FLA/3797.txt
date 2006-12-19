@@ -1,0 +1,33 @@
+2007.04.01 14:29
+
+Victim: Cpt Tyreal
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Destroyed: Capsule
+System: P-2TTL
+Security: 0.0
+
+Involved parties:
+
+Name: Eleese (laid the final blow)
+Security: -0.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Lachesis
+Weapon: Scourge Heavy Missile
+
+Name: Sarkone
+Security: 4.5
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Tempest
+Weapon: Tempest
+
+Name: Rhayvn
+Security: 4.5
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Abaddon
+Weapon: Abaddon
+
+

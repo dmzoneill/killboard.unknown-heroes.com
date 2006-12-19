@@ -1,0 +1,26 @@
+2006.11.12 04:04
+
+Victim: Nervous Nelly
+Alliance: None
+Corp: Federal Navy Academy
+Destroyed: Caldari Shuttle
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Scorpio63 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Vengeance
+Weapon: Medium Pulse Laser II
+
+Name: Jacqueline Skouris
+Security: 1.3
+Alliance: Forces of Freedom
+Corp: Eth3real
+Ship: Unknown
+Weapon: Fleeting Progressive Warp Scrambler I
+
+

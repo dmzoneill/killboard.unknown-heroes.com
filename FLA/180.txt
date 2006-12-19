@@ -1,0 +1,68 @@
+2007.01.17 06:06
+
+Victim: babablacksheep
+Alliance: Firmus Ixion
+Corp: Phoenix Propulsion Labs
+Destroyed: Capsule
+System: DS-LO3
+Security: 0.0
+
+Involved parties:
+
+Name: Kyn D'Trell (laid the final blow)
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: MetaForge
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+Name: Eutectic
+Security: 5.2
+Alliance: Imperial Republic Of the North
+Corp: VentureCorp
+Ship: Ishkur
+Weapon: Hobgoblin II
+
+Name: Trendsetter
+Security: 4.7
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Crow
+Weapon: Piranha Light Missile
+
+Name: Rascle
+Security: 2.8
+Alliance: Imperial Republic Of the North
+Corp: MetaForge
+Ship: Raptor
+Weapon: 150mm Carbide Railgun I
+
+Name: Promethean Starter
+Security: 2.3
+Alliance: Imperial Republic Of the North
+Corp: MetaForge
+Ship: Crow
+Weapon: Crow
+
+Name: Tarphon
+Security: 2.6
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Crow
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+Name: Gokil
+Security: 3.6
+Alliance: Imperial Republic Of the North
+Corp: MetaForge
+Ship: Hawk
+Weapon: Standard Missile Launcher II
+
+Name: Aphotic Raven
+Security: 4.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Enyo
+Weapon: 150mm Compressed Coil Gun I
+
+

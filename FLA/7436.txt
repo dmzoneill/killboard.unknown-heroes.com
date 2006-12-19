@@ -1,0 +1,64 @@
+2006.09.05 13:49
+
+Victim: Tjakka
+Alliance: None
+Corp: KIA Corp
+Destroyed: Ishtar
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Drunken Claptrap
+Security: 4.6
+Alliance: None
+Corp: Ganksters Paradise
+Ship: Capsule
+Weapon: Siege Missile Launcher II
+
+Name: Digioso
+Security: 1.2
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Megathron
+Weapon: Hobgoblin I
+
+Name: XxAngelxX
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Malediction
+Weapon: Dual Light Pulse Laser II
+
+Name: Noitaakka (laid the final blow)
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+Name: Yertus Plight
+Security: 5.0
+Alliance: None
+Corp: Elite frontier group
+Ship: Dominix
+Weapon: Dominix
+
+
+Destroyed items:
+
+E50 Prototype Energy Vampire
+Small Energy Neutralizer II
+Eutectic I Capacitor Charge Array
+Y-T8 Overcharged Hydrocarbon I Microwarpdrive
+Faint Warp Prohibitor I
+X5 Prototype I Engine Enervator
+'Hypnos' Multispectral ECM I
+F85 Peripheral Damage System I
+Energized Adaptive Nano Membrane II
+Energized Adaptive Nano Membrane II
+Large C5-L Emergency Shield Overload I (Cargo)
+'Arbalest' Siege Missile Launcher (Cargo)
+Infiltrator II (Drone Bay)
+Valkyrie II, Qty: 2 (Drone Bay)
+

@@ -1,0 +1,29 @@
+2007.05.09 04:58
+
+Victim: Kvarium Ki
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Destroyed: Stabber
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: ZeroGrav (laid the final blow)
+Security: 3.2
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+
+Destroyed items:
+
+220mm Vulcan AutoCannon I
+220mm Vulcan AutoCannon I
+220mm Vulcan AutoCannon I
+Fusion M, Qty: 198
+Large Shield Extender I
+Gyrostabilizer I
+Nanofiber Internal Structure I
+

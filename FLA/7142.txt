@@ -1,0 +1,116 @@
+2006.12.28 05:33
+
+Victim: Colonel BlackWidow
+Alliance: None
+Corp: The Knights Of Camelot
+Destroyed: Drake
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Bricker
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Deimos
+Weapon: Deimos
+
+Name: TroNaaR
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ishkur
+Weapon: Hammerhead II
+
+Name: JohnMonty (laid the final blow)
+Security: 5.0
+Alliance: Schism.
+Corp: Fatalix Inc.
+Ship: Megathron
+Weapon: Modal Mega Ion Particle Accelerator I
+
+Name: xbreaka
+Security: -3.7
+Alliance: O X I D E
+Corp: Cirrius Technologies
+Ship: Huginn
+Weapon: Huginn
+
+Name: Audri Fisher
+Security: 0.3
+Alliance: THE R0CK
+Corp: The Keep
+Ship: Caracal
+Weapon: Bloodclaw Light Missile
+
+Name: KriegDrachen
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Sabre
+Weapon: Sabre
+
+Name: Tarphon
+Security: 2.6
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Deimos
+Weapon: Valkyrie I
+
+Name: Xantheris
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Taranis
+Weapon: Stasis Webifier I
+
+Name: Angel Violette
+Security: -0.5
+Alliance: None
+Corp: N.W.A
+Ship: Tristan
+Weapon: Tristan
+
+Name: tvol
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Capsule
+Weapon: 'Langour' Drive Disruptor I
+
+Name: Marco Polio
+Security: 4.2
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Condor
+Weapon: Small 'Knave' I Energy Drain
+
+Name: Entragian Delmar
+Security: 3.2
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Myrmidon
+Weapon: Anode Electron Particle Cannon I
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 187
+'Arbalest' Heavy Missile Launcher
+'Arbalest' Heavy Missile Launcher
+Large Shield Extender II
+Shield Recharger II
+Warp Disruptor I
+Beta Reactor Control: Shield Power Relay I
+Beta Reactor Control: Shield Power Relay I
+Fleeting Progressive Warp Scrambler I (Cargo)
+Stasis Webifier I (Cargo)
+Explosion Dampening Amplifier II (Cargo)
+Thunderbolt Heavy Missile, Qty: 1722 (Cargo)
+Widowmaker Heavy Missile, Qty: 1361 (Cargo)
+Scourge Heavy Missile, Qty: 2398 (Cargo)
+'Arbalest' Heavy Missile Launcher, Qty: 2 (Cargo)
+Widowmaker Fury Heavy Missile, Qty: 828 (Cargo)
+Power Diagnostic System II (Cargo)
+

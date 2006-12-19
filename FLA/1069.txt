@@ -1,0 +1,26 @@
+2007.03.04 15:30
+
+Victim: War Maiden
+Alliance: Aftermath Alliance
+Corp: Dark Nebula Gallente Division
+Destroyed: Capsule
+System: YZ-LQL
+Security: 0.0
+
+Involved parties:
+
+Name: Skank (laid the final blow)
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Infinite Improbability Inc
+Ship: Jaguar
+Weapon: 150mm Light AutoCannon II
+
+Name: demotar
+Security: 3.5
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Claw
+Weapon: Standard Missile Launcher I
+
+

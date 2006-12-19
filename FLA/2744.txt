@@ -1,0 +1,33 @@
+2007.03.04 18:05
+
+Victim: sakana
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Destroyed: Capsule
+System: PNQY-Y
+Security: 0.0
+
+Involved parties:
+
+Name: Grayhem
+Security: 1.8
+Alliance: Xelas Alliance
+Corp: 7th Space Cavalry
+Ship: Hawk
+Weapon: Standard Missile Launcher II
+
+Name: Devlin Marr (laid the final blow)
+Security: 5.0
+Alliance: Xelas Alliance
+Corp: 7th Space Cavalry
+Ship: Astarte
+Weapon: Heavy Ion Blaster II
+
+Name: Veshta Yoshida
+Security: 3.5
+Alliance: Xelas Alliance
+Corp: Mining Bytes Inc.
+Ship: Harbinger
+Weapon: Focused Medium Pulse Laser II
+
+

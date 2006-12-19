@@ -1,0 +1,62 @@
+2007.04.07 07:58
+
+Victim: Purchask
+Alliance: None
+Corp: cavalryman
+Destroyed: Badger Mark II
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Spangie
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Asgard Schiffswerften
+Ship: Nighthawk
+Weapon: 'Arbalest' Heavy Missile Launcher
+
+Name: kakakarr (laid the final blow)
+Security: 2.8
+Alliance: DeStInY.
+Corp: The Knights Of Camelot
+Ship: Megathron
+Weapon: Berserker I
+
+Name: Sir Pip
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Cataclysm Enterprises
+Ship: Sabre
+Weapon: Sabre
+
+Name: Wallyx
+Security: 4.5
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Francois Dubuoi
+Security: 1.2
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Raptor
+Weapon: Bloodclaw Light Missile
+
+Name: kakakarrr
+Security: -1.2
+Alliance: DeStInY.
+Corp: The Knights Of Camelot
+Ship: Rifter
+Weapon: 200mm AutoCannon I
+
+Name: Guristas Obliterator / Guristas
+
+
+Destroyed items:
+
+Medium Subordinate Screen Stabilizer I
+'Accord' I Core Compensation
+Giant Secure Container (Cargo)
+

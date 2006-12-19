@@ -1,0 +1,88 @@
+2006.08.21 15:08
+
+Victim: lithinar
+Alliance: Alektorophobia
+Corp: Lords Of Guile
+Destroyed: Bestower
+System: 3T7-M8
+Security: 0.0
+
+Involved parties:
+
+Name: Matt Stoner (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Raven
+Weapon: Juggernaut Torpedo
+
+
+Destroyed items:
+
+'Benefactor' I Ward Reconstructor (Cargo)
+Large Shield Booster I (Cargo)
+Large Neutron Saturation Injector I (Cargo)
+Barton Reactor Capacitor Recharger I (Cargo)
+Fixed Parallel Link-Capacitor I, Qty: 2 (Cargo)
+Eutectic I Capacitor Charge Array (Cargo)
+F-b10 Nominal Capacitor Regenerator (Cargo)
+Warp Scrambler I (Cargo)
+Miner I (Cargo)
+Shield Power Relay I (Cargo)
+Medium Capacitor Battery I, Qty: 4 (Cargo)
+Medium Ohm Capacitor Reserve I (Cargo)
+Medium Peroxide I Capacitor Power Cell (Cargo)
+Medium Armor Repairer I, Qty: 3 (Cargo)
+Medium Hull Repairer I, Qty: 3 (Cargo)
+Medium Partial E95b Power Conduit (Cargo)
+Small Nosferatu I, Qty: 3 (Cargo)
+Medium Proton Smartbomb I, Qty: 2 (Cargo)
+Medium Graviton Smartbomb I (Cargo)
+425mm Railgun I, Qty: 5 (Cargo)
+Dual 250mm Railgun I (Cargo)
+Dual 250mm Carbide Railgun I (Cargo)
+150mm Railgun I (Cargo)
+200mm Railgun I, Qty: 3 (Cargo)
+250mm Railgun I (Cargo)
+Medium Capacitor Booster I, Qty: 8 (Cargo)
+Medium Brief Capacitor Overcharge I, Qty: 2 (Cargo)
+Medium F-RX Prototype I Capacitor Boost (Cargo)
+F-S15 Braced Deflection Shield Matrix (Cargo)
+Non-Inertial Ballistic Screen Augmentation I (Cargo)
+ECM Burst I (Cargo)
+Iridium Charge S, Qty: 100 (Cargo)
+Plutonium Charge M, Qty: 200 (Cargo)
+Tungsten Charge S, Qty: 100 (Cargo)
+Plutonium Charge S, Qty: 100 (Cargo)
+Thorium Charge L, Qty: 200 (Cargo)
+Antimatter Charge L, Qty: 100 (Cargo)
+Defender I, Qty: 500 (Cargo)
+Inferno Torpedo, Qty: 100 (Cargo)
+FZ-3 Subversive Spatial Destabilizer ECM, Qty: 2 (Cargo)
+ECM - Spatial Destabilizer I, Qty: 2 (Cargo)
+ECCM - Gravimetric I (Cargo)
+ECCM - Omni I (Cargo)
+Gravimetric Backup Array I (Cargo)
+Secure Gravimetric Backup Cluster I (Cargo)
+Tracking Link I (Cargo)
+Signal Amplifier I (Cargo)
+F-90 Positional Sensor Subroutines (Cargo)
+Monopulse Tracking Mechanism I, Qty: 2 (Cargo)
+F-392 Baker Nunn Targeting Scrambler (Cargo)
+Tracking Disruptor I (Cargo)
+Guristas Crystal Tag, Qty: 2 (Cargo)
+Thunderbolt Heavy Missile, Qty: 100 (Cargo)
+Scourge Heavy Missile, Qty: 400 (Cargo)
+Cataclysm Cruise Missile, Qty: 100 (Cargo)
+Paradise Cruise Missile, Qty: 100 (Cargo)
+Gremlin Rocket, Qty: 100 (Cargo)
+Shock 'Limos' Siege Missile Bay I, Qty: 2 (Cargo)
+'Malkuth' Siege Missile Launcher I, Qty: 2 (Cargo)
+'Arbalest' Siege Missile Launcher (Cargo)
+'Malkuth' Standard Missile Launcher I (Cargo)
+'Malkuth' Heavy Missile Launcher I, Qty: 2 (Cargo)
+'Arbalest' Heavy Missile Launcher (Cargo)
+Assault Missile Launcher I, Qty: 6 (Cargo)
+Type-D Power Core Modification: Capacitor Power Relay (Cargo)
+Reactor Control Unit I (Cargo)
+

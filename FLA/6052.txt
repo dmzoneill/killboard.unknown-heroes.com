@@ -1,0 +1,100 @@
+2006.11.06 20:02
+
+Victim: Ketora Kitana
+Alliance: Interstellar Starbase Syndicate
+Corp: MC Cubed Inc
+Destroyed: Prophecy
+System: X-7OMU
+Security: 0.0
+
+Involved parties:
+
+Name: jacass66
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Scorpion
+Weapon: Hornet II
+
+Name: Midiana
+Security: 1.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Dominix
+Weapon: Praetor I
+
+Name: TiMeZeRo225
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: J.I.T. Enterprises
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+Name: LC Sulla (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Cerberus
+Weapon: Scourge Heavy Missile
+
+Name: Wousr
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: Flashh Gorden
+Security: 3.1
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Ship: Kestrel
+Weapon: Piranha Light Missile
+
+Name: LizzyD
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: Slinktress
+Security: 2.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Enyo
+Weapon: Enyo
+
+Name: Elfaen Ethenwe
+Security: -0.1
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Rook
+Weapon: ECM - Multispectral Jammer II
+
+Name: Aeryn Calbert
+Security: 1.7
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Scorpion
+Weapon: XT-9000 Cruise Launcher
+
+
+Destroyed items:
+
+Medium Pulse Laser II
+Heavy Afocal Pulse Maser I
+Medium Nosferatu I
+Medium Nosferatu I
+Microwave M
+Scorch S
+Heavy Missile Launcher I
+Initiated Warp Jammer I
+Cap Booster 800
+Medium I-a Polarized Armor Regenerator
+'Mendicant' Signal Booster I
+Multifrequency M (Cargo)
+Scorch S (Cargo)
+Conflagration S, Qty: 2 (Cargo)
+Scourge Heavy Missile, Qty: 470 (Cargo)
+

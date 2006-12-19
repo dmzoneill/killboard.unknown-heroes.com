@@ -1,0 +1,26 @@
+2007.03.17 07:50
+
+Victim: CrazyDoctor
+Alliance: Freelancer Alliance
+Corp: United Forces
+Destroyed: Capsule
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Fred Fredburger
+Security: 5.0
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Raptor
+Weapon: Raptor
+
+Name: Lord Revent (laid the final blow)
+Security: 1.0
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Hurricane
+Weapon: 425mm AutoCannon II
+
+

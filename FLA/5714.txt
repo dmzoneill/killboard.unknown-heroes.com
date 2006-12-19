@@ -1,0 +1,37 @@
+2006.10.12 18:10
+
+Victim: sanjar
+Alliance: R.I.S.K
+Corp: SAHRMAT tech. Corp
+Destroyed: Condor
+System: X-7OMU
+Security: 0.0
+
+Involved parties:
+
+Name: sulky (laid the final blow)
+Security: 0.4
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Retribution
+Weapon: Dual Light Beam Laser II
+
+Name: James Potkukelkka
+Security: 0.2
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Flycatcher
+Weapon: Bloodclaw Light Missile
+
+Name: Hosanna
+Security: -0.2
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Cyclone
+Weapon: Cyclone
+
+
+Destroyed items:
+
+Monopropellant I Hydrazine Boosters
+

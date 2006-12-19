@@ -1,0 +1,33 @@
+2007.03.30 23:26
+
+Victim: Loograsch
+Alliance: Freelancer Alliance
+Corp: United Forces
+Destroyed: Capsule
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: KIAEnIgMa
+Security: 0.4
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Crow
+Weapon: Bloodclaw Precision Light Missile
+
+Name: Otto Bismarck (laid the final blow)
+Security: 3.6
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Astarte
+Weapon: Heavy Neutron Blaster II
+
+Name: Olli
+Security: -0.1
+Alliance: S.E.R.A
+Corp: Seraphin Technologies
+Ship: Crow
+Weapon: Domination Warp Disruptor
+
+

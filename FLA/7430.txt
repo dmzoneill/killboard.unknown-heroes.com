@@ -1,0 +1,43 @@
+2006.09.04 17:09
+
+Victim: Asfa
+Alliance: None
+Corp: GalacTECH Unlimited
+Destroyed: Nemesis
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: XxAngelxX
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Malediction
+Weapon: Dual Light Pulse Laser II
+
+Name: Digioso (laid the final blow)
+Security: 1.2
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Megathron
+Weapon: Large 'Notos' Explosive Charge I
+
+
+Destroyed items:
+
+125mm Railgun I
+Lead Charge S, Qty: 62
+Improved Cloaking Device II
+Devastator Cruise Missile, Qty: 20
+'Arbalest' Cruise Launcher I
+Small Azeotropic Ward Salubrity I
+Small Converse I Deflection Catalyzer
+Additional Thermal Barrier Emitter I
+Micro Auxiliary Power Core I
+Warp Scrambler I (Cargo)
+Thorium Charge S, Qty: 6 (Cargo)
+Wrath Cruise Missile, Qty: 44 (Cargo)
+Cataclysm Cruise Missile, Qty: 378 (Cargo)
+Devastator Cruise Missile, Qty: 453 (Cargo)
+

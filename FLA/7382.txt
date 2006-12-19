@@ -1,0 +1,49 @@
+2006.08.27 21:46
+
+Victim: Sku1ly
+Alliance: Ascendant Frontier
+Corp: STK Scientific
+Destroyed: Pilgrim
+System: WUZ-WM
+Security: 0.0
+
+Involved parties:
+
+Name: Kolombus (laid the final blow)
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Thanatos
+Weapon: Dragonfly
+
+Name: TerrorBaBy
+Security: 0.3
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Capsule
+Weapon: Wasp I
+
+Name: Wolfman Apocalypse
+Security: 4.1
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Scorpion
+Weapon: XT-9000 Cruise Launcher
+
+Name: Cobra64
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Unknown
+Weapon: 425mm AutoCannon II
+
+
+Destroyed items:
+
+Covert Ops Cloaking Device II
+10MN Afterburner II
+X5 Prototype I Engine Enervator
+ECM - Multispectral Jammer II
+800mm Reinforced Crystalline Carbonide Plates I
+Freed Slaves (Cargo)
+

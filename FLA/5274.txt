@@ -1,0 +1,33 @@
+2007.04.23 04:11
+
+Victim: Rev Darkwing
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Capsule
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Iron Guerilla
+Security: 0.9
+Alliance: Lotka Volterra
+Corp: CRICE Corporation
+Ship: Claw
+Weapon: Claw
+
+Name: Bothius (laid the final blow)
+Security: 0.4
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Taranis
+Weapon: 125mm Compressed Coil Gun I
+
+Name: Screamer
+Security: 0.8
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Manticore
+Weapon: Cruise Missile Launcher II
+
+

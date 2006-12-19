@@ -1,0 +1,53 @@
+2006.12.30 15:43
+
+Victim: Vertigel Symorain
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Destroyed: Thorax
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: turumbor
+Security: -1.7
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Hyperion
+Weapon: Hyperion
+
+Name: SoulScourge (laid the final blow)
+Security: 1.3
+Alliance: None
+Corp: omen.
+Ship: Tempest
+Weapon: 800mm Repeating Artillery II
+
+Name: boo3916
+Security: 4.4
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Dominix
+Weapon: Dominix
+
+Name: taylor04
+Security: -0.5
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Curse
+Weapon: Balmer Series Targeting Inhibitor I
+
+
+Destroyed items:
+
+Heavy Ion Blaster I
+Heavy Ion Blaster I
+Antimatter Charge M, Qty: 342
+Initiated Multispectral ECM I
+'Hypnos' Multispectral ECM I
+Damage Control I
+Medium Armor Repairer I
+Energized Regenerative Membrane I
+Energized Regenerative Membrane I
+Energized Regenerative Membrane I
+

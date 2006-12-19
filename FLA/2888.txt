@@ -1,0 +1,41 @@
+2007.03.14 20:55
+
+Victim: Vladamir Sokov
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Buzzard
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: callonious (laid the final blow)
+Security: 0.4
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Curse
+Weapon: Vespa II
+
+Name: Hellspawn666
+Security: 2.1
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Typhoon
+Weapon: Cataclysm Cruise Missile
+
+
+Destroyed items:
+
+Covert Ops Cloaking Device II
+Catalyzed Cold-Gas I Arcjet Thrusters
+Isogen, Qty: 442 (Cargo)
+Megacyte, Qty: 150 (Cargo)
+Electronic Superiority Rigging, Qty: 2 (Cargo)
+Electronic Warfare Drone Interfacing, Qty: 2 (Cargo)
+Repair Drone Operation, Qty: 3 (Cargo)
+Drone Interfacing (Cargo)
+Combat Drone Operation (Cargo)
+Drone Durability, Qty: 2 (Cargo)
+Accounting (Cargo)
+Daytrading (Cargo)
+

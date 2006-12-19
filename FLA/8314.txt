@@ -1,0 +1,50 @@
+2006.11.08 19:05
+
+Victim: Dorean Starchaser
+Alliance: Freelancer Alliance
+Corp: Terminal Velocity Inc.
+Destroyed: Badger Mark II
+System: Piak
+Security: 0.7
+
+Involved parties:
+
+Name: TranZferR (laid the final blow)
+Security: -1.8
+Alliance: None
+Corp: The Initiative
+Ship: Deimos
+Weapon: Heavy Ion Blaster II
+
+Name: Dazzio
+Security: -2.0
+Alliance: None
+Corp: The Initiative
+Ship: Brutix
+Weapon: Brutix
+
+
+Destroyed items:
+
+Shield Recharger I
+Medium Shield Booster I
+Medium Capacitor Battery I
+'Anointed' I EM Ward Reinforcement
+F-b10 Nominal Capacitor Regenerator (Cargo)
+Cap Recharger I (Cargo)
+Medium Hull Repairer I (Cargo)
+Thorium Charge M, Qty: 99 (Cargo)
+Plutonium Charge L, Qty: 200 (Cargo)
+Hammerhead I, Qty: 10 (Cargo)
+Omni Positional ECCM Sensor System I (Cargo)
+'Orion' Tracking CPU I (Cargo)
+Co-Processor I (Cargo)
+Nanoelectrical Co-Processor I, Qty: 2 (Cargo)
+F-392 Baker Nunn Targeting Scrambler (Cargo)
+1600mm Reinforced Steel Plates I (Cargo)
+Paradise Cruise Missile, Qty: 100 (Cargo)
+Onyx Ochre, Qty: 14 (Cargo)
+Strip Miner I (Cargo)
+Expanded Cargohold I (Cargo)
+Type-D Power Core Modification: Reaction Control (Cargo)
+

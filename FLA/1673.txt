@@ -1,0 +1,26 @@
+2007.03.20 19:27
+
+Victim: derBERG
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Destroyed: Capsule
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: KriegDrachen (laid the final blow)
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Sabre
+Weapon: 150mm Light AutoCannon II
+
+Name: Grimes NC
+Security: 4.8
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Jaguar
+Weapon: 250mm Light Artillery Cannon II
+
+

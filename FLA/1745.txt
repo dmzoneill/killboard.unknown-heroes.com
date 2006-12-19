@@ -1,0 +1,44 @@
+2007.01.02 08:46
+
+Victim: Sils wife
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Thorax
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: kojackUcigashu (laid the final blow)
+Security: 4.7
+Alliance: None
+Corp: ROMANIA Renegades
+Ship: Astarte
+Weapon: Heavy Ion Blaster II
+
+Name: Siavash IR
+Security: 5.0
+Alliance: None
+Corp: ROMANIA Renegades
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: zeitza ta
+Security: 1.7
+Alliance: None
+Corp: ROMANIA Renegades
+Ship: Dominix
+Weapon: Infiltrator II
+
+
+Destroyed items:
+
+Modal Ion Particle Accelerator I
+Modal Ion Particle Accelerator I
+Modal Ion Particle Accelerator I
+Antimatter Charge M, Qty: 91
+10MN MicroWarpdrive I
+Fleeting Progressive Warp Scrambler I
+Medium Armor Repairer II
+Hammerhead I, Qty: 2 (Drone Bay)
+

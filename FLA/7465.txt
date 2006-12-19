@@ -1,0 +1,113 @@
+2006.09.08 04:57
+
+Victim: Zinz
+Alliance: Rule of Three
+Corp: An Eye For An Eye
+Destroyed: Kestrel
+System: MSHD-4
+Security: 0.0
+
+Involved parties:
+
+Name: Braxxon
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Harpy
+Weapon: Harpy
+
+Name: Vladimir
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Terminal Velocity Inc.
+Ship: Raptor
+Weapon: Raptor
+
+Name: TasKu
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Thorax
+Weapon: 200mm Railgun I
+
+Name: Weeble Wooble
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Ares
+Weapon: 125mm Railgun II
+
+Name: Galron Zuma (laid the final blow)
+Security: 1.7
+Alliance: Freelancer Alliance
+Corp: Terminal Velocity Inc.
+Ship: Rifter
+Weapon: 125mm Railgun I
+
+Name: Supernaut 20k
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Rook
+Weapon: 'Abandon' Targeting Disruptor I
+
+Name: Suntwirler
+Security: 2.3
+Alliance: Freelancer Alliance
+Corp: Terminal Velocity Inc.
+Ship: Caracal
+Weapon: Advanced 'Limos' Heavy Missile Bay I
+
+Name: Mirage o
+Security: 0.2
+Alliance: Freelancer Alliance
+Corp: Terminal Velocity Inc.
+Ship: Heretic
+Weapon: Initiated Warp Jammer I
+
+Name: LORDAARON
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Terminal Velocity Inc.
+Ship: Crow
+Weapon: Rocket Launcher II
+
+Name: Jessica McDaniel
+Security: 0.3
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Caracal
+Weapon: Assault Missile Launcher I
+
+Name: Inora Aknaria
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Incursus
+Weapon: Warp Disruptor I
+
+Name: Downeaster
+Security: 3.5
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Thorax
+Weapon: 150mm Compressed Coil Gun I
+
+Name: Bricker
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Thorax
+Weapon: ECM - Multispectral Jammer I
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 42
+Flameburst Light Missile, Qty: 40
+'Malkuth' Standard Missile Launcher I
+Civilian Armor Repairer
+Sabretooth Light Missile, Qty: 58 (Cargo)
+Bloodclaw Light Missile, Qty: 40 (Cargo)
+Piranha Light Missile, Qty: 42 (Cargo)
+

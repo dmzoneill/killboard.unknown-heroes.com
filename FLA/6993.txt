@@ -1,0 +1,33 @@
+2006.12.18 22:03
+
+Victim: Rayna Butler
+Alliance: None
+Corp: Caldari Provisions
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Galaran Vaygr
+Security: 0.0
+Alliance: Dusk and Dawn
+Corp: Cataclysm Enterprises
+Ship: Ares
+Weapon: Flameburst Precision Light Missile
+
+Name: dastommy79 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Caracal
+Weapon: Thunderbolt Heavy Missile
+
+Name: izJan
+Security: 1.7
+Alliance: O X I D E
+Corp: W33D Corp.
+Ship: Merlin
+Weapon: Merlin
+
+

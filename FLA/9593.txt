@@ -1,0 +1,76 @@
+2007.05.19 19:22
+
+Victim: Neptoone
+Alliance: YouWhat
+Corp: Princeps Corp
+Destroyed: Helios
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Yesh
+Security: 2.7
+Alliance: The Fifth Race
+Corp: Antares Frontier
+Ship: Harbinger
+Weapon: Harbinger
+
+Name: Stelaras
+Security: 5.0
+Alliance: O X I D E
+Corp: BLUE EAGLES
+Ship: Vulture
+Weapon: Vulture
+
+Name: Smook (laid the final blow)
+Security: 3.6
+Alliance: NxT LeveL
+Corp: The 5 Amigo's LLC.
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+Name: Death Reactor
+Security: -3.4
+Alliance: DeStInY.
+Corp: The Knights Of Camelot
+Ship: Malediction
+Weapon: Flameburst Light Missile
+
+Name: Prodigal IV
+Security: 4.5
+Alliance: None
+Corp: SPARTAN Peacekeeping Force
+Ship: Incursus
+Weapon: Incursus
+
+Name: DennoTheHunter
+Security: -1.0
+Alliance: DeStInY.
+Corp: The Syndicate Inc
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: Ocara Nezus
+Security: 1.5
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Crow
+Weapon: Bloodclaw Precision Light Missile
+
+Name: LtSpears
+Security: 0.7
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Thorax
+Weapon: Warp Disruptor I
+
+
+Destroyed items:
+
+Fixed Parallel Link-Capacitor I
+Stasis Webifier I
+Inertia Stabilizers I
+Inertia Stabilizers I
+Hobgoblin II (Drone Bay)
+

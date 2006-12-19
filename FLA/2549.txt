@@ -1,0 +1,56 @@
+2007.02.20 02:51
+
+Victim: Sethiol
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Destroyed: Drake
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Leathal Weapon
+Security: 2.0
+Alliance: None
+Corp: Zero.
+Ship: Absolution
+Weapon: Absolution
+
+Name: GoLdeN BoY
+Security: -2.0
+Alliance: None
+Corp: Zero.
+Ship: Astarte
+Weapon: Hammerhead I
+
+Name: FrankieG (laid the final blow)
+Security: -1.7
+Alliance: None
+Corp: Zero.
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+
+Destroyed items:
+
+Flameburst Light Missile, Qty: 47
+Sabretooth Light Missile, Qty: 47
+Scourge Heavy Missile, Qty: 42
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+Assault Missile Launcher I
+Assault Missile Launcher I
+Shield Recharger I
+10MN Afterburner I
+V-M15 Braced Multispectral Shield Matrix
+Heat Dissipation Amplifier II
+Magnetic Scattering Amplifier II
+Kinetic Deflection Amplifier II
+'Accord' I Core Compensation
+'Repose' I Core Compensation
+Ballistic Control System II
+Ballistic Control System I
+Sabretooth Light Missile, Qty: 654 (Cargo)
+Flameburst Light Missile, Qty: 1516 (Cargo)
+Widowmaker Heavy Missile, Qty: 1667 (Cargo)
+

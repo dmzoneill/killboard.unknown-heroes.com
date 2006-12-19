@@ -1,0 +1,107 @@
+2007.04.28 00:16
+
+Victim: white kight
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Drake
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Savak
+Security: 0.2
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Larshus Magrus
+Security: 5.0
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Konson
+Security: 3.7
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Retribution
+Weapon: Retribution
+
+Name: Terdlinger
+Security: 5.0
+Alliance: Storm Armada
+Corp: stone grave haulage
+Ship: Ferox
+Weapon: Scourge Heavy Missile
+
+Name: Bothius
+Security: 0.4
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Catalyst
+Weapon: Catalyst
+
+Name: Akthuul
+Security: 5.0
+Alliance: Storm Armada
+Corp: stone grave haulage
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Asasham
+Security: 5.0
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Incursus
+Weapon: Incursus
+
+Name: Evil Bunnies
+Security: 0.3
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Blackbird
+Weapon: Initiated Multispectral ECM I
+
+Name: tomuch (laid the final blow)
+Security: 2.9
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Celestis
+Weapon: Havoc Heavy Missile
+
+Name: Vlad Cetes
+Security: 5.0
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Blackbird
+Weapon: Sabretooth Light Missile
+
+Name: Elrid Barnes
+Security: 1.8
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Moa
+Weapon: Moa
+
+
+Destroyed items:
+
+Medium Proton Smartbomb I
+Scourge Heavy Missile, Qty: 160
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+Large Shield Extender II
+Large Shield Extender II
+Shield Recharger II
+Shield Recharger II
+Warp Disruptor I
+Beta Reactor Control: Diagnostic System I
+Warrior I, Qty: 4 (Drone Bay)
+

@@ -1,0 +1,134 @@
+2007.02.05 19:54
+
+Victim: alon blackhelm
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Destroyed: Raven
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Bobbeh (laid the final blow)
+Security: -0.1
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Maelstrom
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Repiv
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Abaddon
+Weapon: Abaddon
+
+Name: OzaLoni
+Security: 1.6
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Hyperion
+Weapon: Hyperion
+
+Name: Azurek
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Megathron
+Weapon: Megathron
+
+Name: Letum Omnis
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: CLEISTHENES2
+Security: -0.9
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Maelstrom
+Weapon: Maelstrom
+
+Name: Gazmus
+Security: 0.8
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Megathron
+Weapon: Megathron
+
+Name: Kaijou
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Rokh
+Weapon: Rokh
+
+Name: LUKEC
+Security: 0.8
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Empero
+Security: 0.2
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Bodhi D
+Security: -0.2
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Megathron
+Weapon: Megathron
+
+Name: Memphisz
+Security: 0.4
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Beast Hun
+Security: 4.7
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: maria stallion
+Security: 3.7
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Tempest
+Weapon: Tempest
+
+Name: KIAHicks
+Security: 0.6
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Scorpion
+Weapon: Target Painter II
+
+
+Destroyed items:
+
+Heavy Nosferatu I
+Cruise Missile Launcher II
+Cruise Missile Launcher II
+Cruise Missile Launcher II
+Devastator Precision Cruise Missile, Qty: 19
+Paradise Precision Cruise Missile, Qty: 19
+Cataclysm Precision Cruise Missile, Qty: 19
+Invulnerability Field II
+Invulnerability Field II
+Sensor Booster II
+'Copasetic' I Particle Field Acceleration
+Co-Processor II
+Ballistic Control System II
+Devastator Precision Cruise Missile, Qty: 741 (Cargo)
+

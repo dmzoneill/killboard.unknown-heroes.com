@@ -1,0 +1,89 @@
+2007.04.28 04:25
+
+Victim: Effeco Corss
+Alliance: None
+Corp: Blood crossing
+Destroyed: Iteron Mark III
+System: F7C-H0
+Security: 0.0
+
+Involved parties:
+
+Name: Sage VII
+Security: 3.3
+Alliance: None
+Corp: United Task
+Ship: Hyperion
+Weapon: Neutron Blaster Cannon II
+
+Name: Fo Shizz
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Cyclone
+Weapon: 650mm Artillery Cannon I
+
+Name: The Cade
+Security: 1.9
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Crow
+Weapon: Crow
+
+Name: Militis Kolosok
+Security: 1.1
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Draconian Arcane (laid the final blow)
+Security: -2.5
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Tempest
+Weapon: 1400mm Prototype I Siege Cannon
+
+Name: Rune Sword
+Security: 1.9
+Alliance: None
+Corp: Demons Fury
+Ship: Drake
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+Name: Kenny240
+Security: 1.4
+Alliance: None
+Corp: United Task
+Ship: Drake
+Weapon: Heavy Missile Launcher II
+
+Name: Harkarmin
+Security: 3.2
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Myrmidon
+Weapon: Fleeting Warp Scrambler I
+
+
+Destroyed items:
+
+Medium Shield Booster I
+Medium Shield Booster I
+Warp Core Stabilizer I
+Y-T8 Overcharged Hydrocarbon I Microwarpdrive (Cargo)
+100MN MicroWarpdrive I, Qty: 32 (Cargo)
+Quad LiF Fueled I Booster Rockets (Cargo)
+Y-S8 Hydrocarbon I Afterburners (Cargo)
+Shadow Serpentis Reflective Plating (Cargo)
+Armor Explosive Hardener I, Qty: 4 (Cargo)
+Armor EM Hardener I, Qty: 6 (Cargo)
+Giant Secure Container (Cargo)
+Serpentis Ship Log 598549355 (Cargo)
+Serpentis Diamond Tag, Qty: 26 (Cargo)
+Serpentis Platinum Tag, Qty: 9 (Cargo)
+Shadow Serpentis Crystal Tag, Qty: 2 (Cargo)
+Shadow Serpentis Diamond Tag, Qty: 3 (Cargo)
+Serpentis Crystal Tag, Qty: 6 (Cargo)
+Shadow Serpentis Gold Tag, Qty: 3 (Cargo)
+

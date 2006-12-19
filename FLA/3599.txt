@@ -1,0 +1,24 @@
+2007.03.27 17:24
+
+Victim: Troy Vernet
+Alliance: Freelancer Alliance
+Corp: Harbingers of Sarrow
+Destroyed: Iteron Mark III
+System: G-M4I8
+Security: 0.0
+
+Involved parties:
+
+Name: mafutero (laid the final blow)
+Security: -1.4
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Lachesis
+Weapon: Havoc Heavy Missile
+
+
+Destroyed items:
+
+Type-D Altered SS Expanded Cargo
+Mark I Modified SS Expanded Cargo
+

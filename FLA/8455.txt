@@ -1,0 +1,36 @@
+2006.11.19 02:19
+
+Victim: Jai Truch
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Destroyed: Incursus
+System: Torrinos
+Security: 0.5
+
+Involved parties:
+
+Name: Unfortunate Accident (laid the final blow)
+Security: -1.5
+Alliance: None
+Corp: omen.
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Elliott Manchild
+Security: -1.9
+Alliance: None
+Corp: omen.
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+
+Destroyed items:
+
+125mm Railgun I
+125mm Railgun I
+Iridium Charge S, Qty: 20
+Uranium Charge S, Qty: 55
+Uranium Charge S, Qty: 20 (Cargo)
+Thorium Charge S, Qty: 20 (Cargo)
+Iridium Charge S, Qty: 36 (Cargo)
+

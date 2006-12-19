@@ -1,0 +1,33 @@
+2007.05.10 13:48
+
+Victim: PatherD
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Destroyed: Capsule
+System: O-N8XZ
+Security: 0.0
+
+Involved parties:
+
+Name: heavensfire (laid the final blow)
+Security: 1.2
+Alliance: None
+Corp: Caldari Provisions
+Ship: Curse
+Weapon: Warrior II
+
+Name: eXtas
+Security: 1.9
+Alliance: None
+Corp: BURN EDEN
+Ship: Rapier
+Weapon: Fleeting Propulsion Inhibitor I
+
+Name: Lemlins Craken
+Security: 1.1
+Alliance: None
+Corp: The Scope
+Ship: Arazu
+Weapon: Warp Disruptor II
+
+

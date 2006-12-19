@@ -1,0 +1,47 @@
+2007.04.20 06:02
+
+Victim: Bobby Atlas
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Thrasher
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Yushii (laid the final blow)
+Security: -0.5
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Fitz Farseer
+Security: 0.5
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Hound
+Weapon: 'Limos' Cruise Launcher I
+
+Name: Sith Bandon
+Security: 5.0
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Capsule
+Weapon: Caldari Navy Warp Disruptor
+
+
+Destroyed items:
+
+280mm Howitzer Artillery I
+250mm Light Artillery Cannon I
+250mm Light Artillery Cannon I
+250mm Light Artillery Cannon I
+250mm Light Artillery Cannon I
+Titanium Sabot S, Qty: 44
+Sabretooth Light Missile, Qty: 33
+1MN MicroWarpdrive I
+Warp Disruptor I
+Titanium Sabot S, Qty: 4832 (Cargo)
+Sabretooth Light Missile, Qty: 199 (Cargo)
+

@@ -1,0 +1,19 @@
+2007.03.23 23:15
+
+Victim: istasi
+Alliance: YouWhat
+Corp: Artificial Horizons
+Destroyed: Capsule
+System: XZH-4X
+Security: 0.0
+
+Involved parties:
+
+Name: Skull Fire (laid the final blow)
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Rokh
+Weapon: Large Rudimentary Concussion Bomb I
+
+

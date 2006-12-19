@@ -1,0 +1,29 @@
+2007.01.26 00:56
+
+Victim: Kaciemai
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Destroyed: Thorax
+System: Uemisaisen
+Security: 0.6
+
+Involved parties:
+
+Name: Rastilin (laid the final blow)
+Security: 3.9
+Alliance: Privateer Alliance
+Corp: Beyond Divinity Inc
+Ship: Dominix
+Weapon: Wasp I
+
+
+Destroyed items:
+
+Light Neutron Blaster I
+Light Neutron Blaster I
+Uranium Charge S, Qty: 213
+Cap Recharger I
+Microcell Nanite Reactive Membrane I
+Veldspar, Qty: 999 (Cargo)
+Vespa I, Qty: 2 (Drone Bay)
+

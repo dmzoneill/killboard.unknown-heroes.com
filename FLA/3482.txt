@@ -1,0 +1,73 @@
+2007.03.30 05:35
+
+Victim: Bvzhnwe
+Alliance: Hell Hounds
+Corp: Rising Sun LTD
+Destroyed: Kestrel
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Weeble Wooble
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: TroNaaR (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Megathron
+Weapon: 425mm Carbide Railgun I
+
+Name: JaiMaster
+Security: 2.7
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Typhoon
+Weapon: Typhoon
+
+Name: Imaginary Number
+Security: 3.8
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ferox
+Weapon: Standard Missile Launcher I
+
+Name: ventura5
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Eagle
+Weapon: Eagle
+
+Name: coldkill
+Security: 1.9
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Solomon XI
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Caracal
+Weapon: Heavy Missile Launcher I
+
+
+Destroyed items:
+
+Dread Guristas Large Shield Booster (Cargo)
+Eutectic I Capacitor Charge Array, Qty: 2 (Cargo)
+Fleeting Progressive Warp Scrambler I (Cargo)
+350mm 'Scout' I Accelerator Cannon (Cargo)
+350mm Compressed Coil Gun I (Cargo)
+Dread Guristas Crystal Tag, Qty: 2 (Cargo)
+XT-9000 Cruise Launcher (Cargo)
+Beta Reactor Control: Capacitor Flux I, Qty: 3 (Cargo)
+Beta Reactor Control: Reaction Control I (Cargo)
+

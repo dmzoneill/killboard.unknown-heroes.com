@@ -1,0 +1,30 @@
+2006.11.27 20:49
+
+Victim: Elfaen Ethenwe
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Destroyed: Crow
+System: P-ZMZV
+Security: 0.0
+
+Involved parties:
+
+Name: Johanzzon (laid the final blow)
+Security: 5.0
+Alliance: Firmus Ixion
+Corp: Swedish Aerospace Inc
+Ship: Armageddon
+Weapon: Large 'Notos' Explosive Charge I
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 98
+Standard Missile Launcher II
+Bloodclaw Fury Light Missile, Qty: 49
+Gistii A-Type 1MN MicroWarpdrive
+Damage Control I
+Bloodclaw Light Missile, Qty: 50 (Cargo)
+Piranha Light Missile, Qty: 28 (Cargo)
+Bloodclaw Precision Light Missile, Qty: 350 (Cargo)
+

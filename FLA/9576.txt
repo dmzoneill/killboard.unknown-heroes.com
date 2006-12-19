@@ -1,0 +1,19 @@
+2007.05.19 07:47
+
+Victim: X4Y RcgB
+Alliance: None
+Corp: Republic Military School
+Destroyed: Capsule
+System: 93PI-4
+Security: 0.0
+
+Involved parties:
+
+Name: wardey (laid the final blow)
+Security: 0.6
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Crusader
+Weapon: Dual Light Beam Laser II
+
+

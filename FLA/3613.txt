@@ -1,0 +1,135 @@
+2007.03.27 22:13
+
+Victim: TheZwo
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Destroyed: Drake
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Electreus
+Security: 0.5
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Ship: Astarte
+Weapon: Astarte
+
+Name: Messmint (laid the final blow)
+Security: 5.0
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Tanya Kovacs
+Security: 5.1
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Eagle
+Weapon: Eagle
+
+Name: Gordon Red
+Security: 2.0
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Crusader
+Weapon: Crusader
+
+Name: Lv STEIN
+Security: 4.7
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Zealot
+Weapon: Zealot
+
+Name: Diego Barbera
+Security: -0.4
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Claw
+Weapon: Claw
+
+Name: Juha85
+Security: 0.0
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Drake
+Weapon: Heavy Missile Launcher I
+
+Name: mr ioso
+Security: 4.8
+Alliance: Chorus of Dawn
+Corp: Cosmic Odyssey
+Ship: Myrmidon
+Weapon: Ogre I
+
+Name: Sholle
+Security: 3.0
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Sabre
+Weapon: 200mm AutoCannon II
+
+Name: Taschenflak
+Security: 4.7
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Raptor
+Weapon: Raptor
+
+Name: MeatFist
+Security: 1.6
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Ship: Apocalypse
+Weapon: Tachyon Beam Laser I
+
+Name: Longrin
+Security: 2.9
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: triusad
+Security: 5.0
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Stabber
+Weapon: Stabber
+
+Name: Neily
+Security: 4.6
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Megathron
+Weapon: Megathron
+
+Name: Nemesys 8
+Security: 3.6
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Raven
+Weapon: 'Limos' Cruise Launcher I
+
+Name: Bejuka
+Security: 1.4
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Blackbird
+Weapon: BZ-5 Neutralizing Spatial Destabilizer ECM
+
+Name: Apoc77
+Security: 5.0
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Rook
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+
+Destroyed items:
+
+Hobgoblin I (Drone Bay)
+

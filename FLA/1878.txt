@@ -1,0 +1,66 @@
+2007.01.07 22:24
+
+Victim: Xantheris
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Destroyed: Caracal
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Scythus Aratan
+Security: 4.4
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Armageddon
+Weapon: Tachyon Beam Laser II
+
+Name: Masta Killa (laid the final blow)
+Security: -1.7
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+Name: Heinky
+Security: 2.7
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Abaddon
+Weapon: Tachyon Beam Laser II
+
+Name: MEISTERderPUPPEN
+Security: 0.1
+Alliance: None
+Corp: Deep Core Mining Inc.
+Ship: Sabre
+Weapon: Fleeting Progressive Warp Scrambler I
+
+Name: Captain Rickdick
+Security: 0.0
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Cruise Missile Launcher II
+
+Name: Arnold Swartzenegger
+Security: -0.2
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: 'Arbalest' Cruise Launcher I
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 90
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Stasis Webifier I
+Target Painter I
+Target Painter I
+Ballistic Control System I
+Ballistic Control System I
+Acolyte I, Qty: 2 (Drone Bay)
+

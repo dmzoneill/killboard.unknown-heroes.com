@@ -1,0 +1,64 @@
+2007.04.06 08:57
+
+Victim: glitterbomb
+Alliance: Freelancer Alliance
+Corp: ACCORD Industries
+Destroyed: Raven
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Xordus (laid the final blow)
+Security: 0.5
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Armageddon
+Weapon: Mega Modulated Pulse Energy Beam I
+
+Name: Lorn Zolog
+Security: -1.2
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Nipplator
+Security: -0.5
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Anomaly21
+Security: -1.0
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Drake
+Weapon: Heavy Missile Launcher II
+
+Name: Bishata
+Security: 1.0
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Malediction
+Weapon: X5 Prototype I Engine Enervator
+
+Name: Azekial
+Security: 2.7
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Dominix
+Weapon: Indirect Scanning Dampening Unit I
+
+
+Destroyed items:
+
+Heavy Nosferatu I
+ZW-4100 Siege Missile Bay
+'Arbalest' Siege Missile Launcher
+Large Shield Extender II
+X-Large Clarity Ward Booster I
+Ballistic Deflection Field I
+Kinetic Deflection Amplifier II
+

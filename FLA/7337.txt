@@ -1,0 +1,79 @@
+2006.08.12 21:47
+
+Victim: Garm SD
+Alliance: None
+Corp: Beagle Corp
+Destroyed: Megathron
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Bolinar (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Megathron
+Weapon: 425mm 'Scout' I Accelerator Cannon
+
+Name: jacass66
+Security: 5.3
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Thanatos
+Weapon: Firbolg
+
+Name: Rick A
+Security: 4.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Ferox
+Weapon: Acolyte I
+
+Name: Seventh Star
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Tempest
+Weapon: Tempest
+
+Name: Cockroach
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Apocalypse
+Weapon: Apocalypse
+
+Name: Sol Angla
+Security: 1.3
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Incursus
+Weapon: Warp Disruptor I
+
+Name: Ne0 MaTrIx
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Capsule
+Weapon: 720mm Howitzer Artillery I
+
+Name: ANGELBREATH
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Ship: Capsule
+Weapon: ECM - Multispectral Jammer I
+
+
+Destroyed items:
+
+425mm Carbide Railgun I
+425mm Carbide Railgun I
+Lead Charge L, Qty: 176
+Large Remote Armor Repair System I
+ECCM - Gravimetric I
+Prototype I Sensor Booster
+Magnetic Field Stabilizer II
+Magnetic Field Stabilizer II
+

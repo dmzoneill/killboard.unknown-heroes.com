@@ -1,0 +1,44 @@
+2006.12.09 20:48
+
+Victim: Kateryne
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Destroyed: Celestis
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Kolombus (laid the final blow)
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Vexor
+Weapon: Hammerhead I
+
+Name: kone on
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Rifter
+Weapon: Rifter
+
+Name: Kyoshisan
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Incursus
+Weapon: Incursus
+
+
+Destroyed items:
+
+200mm Railgun I
+Thunderbolt Heavy Missile, Qty: 45
+Heavy Missile Launcher I
+Remote Sensor Dampener I
+Remote Sensor Dampener I
+Tracking Disruptor I
+Energized Adaptive Nano Membrane I
+Thunderbolt Heavy Missile, Qty: 2035 (Cargo)
+

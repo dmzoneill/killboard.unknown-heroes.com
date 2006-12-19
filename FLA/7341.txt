@@ -1,0 +1,112 @@
+2006.08.12 22:06
+
+Victim: Iorya Dragon
+Alliance: None
+Corp: Beagle Corp
+Destroyed: Megathron
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Bolinar
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Megathron
+Weapon: 425mm 'Scout' I Accelerator Cannon
+
+Name: jacass66 (laid the final blow)
+Security: 5.3
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Thanatos
+Weapon: Templar
+
+Name: Cockroach
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Apocalypse
+Weapon: Apocalypse
+
+Name: Hojo Norem
+Security: 1.6
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Rick A
+Security: 4.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Merlin
+Weapon: Merlin
+
+Name: Tommy McDanger
+Security: 4.8
+Alliance: None
+Corp: MisFunk Inc.
+Ship: Caracal
+Weapon: Havoc Heavy Missile
+
+Name: Seventh Star
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Typhoon
+Weapon: Tracking Disruptor II
+
+Name: Wolfman Apocalypse
+Security: 3.7
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Scorpion
+Weapon: XT-9000 Cruise Launcher
+
+Name: Killer Angel
+Security: 1.0
+Alliance: Freelancer Alliance
+Corp: J.I.T. Enterprises
+Ship: Ferox
+Weapon: Advanced 'Limos' Heavy Missile Bay I
+
+Name: Jolithan
+Security: 3.0
+Alliance: None
+Corp: MisFunk Inc.
+Ship: Blackbird
+Weapon: ECM - Phase Inverter I
+
+Name: Drakin Korin
+Security: -1.3
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Vexor
+Weapon: Medium Nosferatu I
+
+Name: A'ruhn
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: EVE MegaCorp Association
+Ship: Vigil
+Weapon: ECM - Multispectral Jammer I
+
+
+Destroyed items:
+
+425mm Railgun I
+425mm Railgun I
+425mm Railgun I
+425mm Railgun I
+425mm Railgun I
+Antimatter Charge L, Qty: 31
+Medium Remote Armor Repair System I
+Barton Reactor Capacitor Recharger I
+ECCM - Magnetometric I
+Magnetic Field Stabilizer II
+Energized Adaptive Nano Membrane I
+Energized Adaptive Nano Membrane I
+Antimatter Charge L, Qty: 386 (Cargo)
+

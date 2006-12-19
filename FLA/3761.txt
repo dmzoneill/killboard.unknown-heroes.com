@@ -1,0 +1,57 @@
+2007.03.31 08:30
+
+Victim: Guy Caldar
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Destroyed: Manticore
+System: P-2TTL
+Security: 0.0
+
+Involved parties:
+
+Name: Pychian Vanervi (laid the final blow)
+Security: -0.5
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Thanatos
+Weapon: Templar
+
+Name: PMolkenthin
+Security: -0.7
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Taranis
+Weapon: Warrior II
+
+Name: Wladomir Jed
+Security: 3.7
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Rook
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+Name: Irishwrath
+Security: 3.9
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Hyperion
+Weapon: 425mm Railgun II
+
+Name: Emelie
+Security: -3.7
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Thanatos
+Weapon: Templar
+
+
+Destroyed items:
+
+Wrath Cruise Missile, Qty: 19
+Cruise Missile Launcher I
+Cruise Missile Launcher I
+Cruise Missile Launcher I
+J5 Prototype Warp Inhibitor I
+Overdrive Injector System I
+Paradise Cruise Missile, Qty: 560 (Cargo)
+

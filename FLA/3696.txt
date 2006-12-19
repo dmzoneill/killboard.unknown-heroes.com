@@ -1,0 +1,33 @@
+2007.03.29 22:49
+
+Victim: Arbitrus
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Destroyed: Capsule
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Rubens22
+Security: 2.3
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Taranis
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: Messmint (laid the final blow)
+Security: 5.0
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Ship: Jaguar
+Weapon: 200mm AutoCannon II
+
+Name: Thyago
+Security: 5.0
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Ishkur
+Weapon: Light Ion Blaster II
+
+

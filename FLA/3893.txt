@@ -1,0 +1,51 @@
+2007.04.05 00:50
+
+Victim: Shara El
+Alliance: Triumvirate.
+Corp: D00M.
+Destroyed: Vexor
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Rigsta (laid the final blow)
+Security: 3.0
+Alliance: NxT LeveL
+Corp: Raddick Explorations
+Ship: Arazu
+Weapon: 250mm Prototype I Gauss Gun
+
+Name: dastommy79
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Blackbird
+Weapon: Blackbird
+
+Name: Biar
+Security: 1.6
+Alliance: CORE.
+Corp: Red 42
+Ship: Unknown
+Weapon: 'Arbalest' Standard Missile Launcher
+
+Name: Jarath Abyss
+Security: 4.2
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Ship: Enyo
+Weapon: 125mm Railgun II
+
+
+Destroyed items:
+
+Medium Nosferatu I
+125mm Carbide Railgun I
+10MN MicroWarpdrive I
+Warp Disruptor I
+Medium Inefficient Armor Repair Unit
+Nanofiber Internal Structure I
+Type-E Altered SS Overdrive Injector
+Iron Charge S, Qty: 6650 (Cargo)
+

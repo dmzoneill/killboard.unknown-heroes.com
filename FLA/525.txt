@@ -1,0 +1,47 @@
+2007.02.09 18:06
+
+Victim: Dekta
+Alliance: None
+Corp: State War Academy
+Destroyed: Caldari Shuttle
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Stitcher
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: J.I.T. Enterprises
+Ship: Harbinger
+Weapon: Harbinger
+
+Name: Drako Invictus (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Malediction
+Weapon: Gremlin Rocket
+
+Name: Tiberius Drake
+Security: 3.4
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Thorax
+Weapon: Thorax
+
+Name: Rhaall
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Crucifier
+Weapon: Warp Disruptor I
+
+Name: Celdrahil
+Security: 3.4
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Ship: Hyperion
+Weapon: Modal Mega Neutron Particle Accelerator I
+
+

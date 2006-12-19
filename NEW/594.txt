@@ -1,0 +1,142 @@
+2007.04.22 01:24
+
+Victim: Kim Wu
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Destroyed: Anathema
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: nye 2k (laid the final blow)
+Security: 5.0
+Alliance: A Few Good Men.
+Corp: Silver Snake Enterprise
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: The Cade
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Cormorant
+Weapon: Templar
+
+Name: Alski
+Security: 3.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Catalyst
+Weapon: Catalyst
+
+Name: Kartock Maar
+Security: 2.1
+Alliance: Freelancer Alliance
+Corp: Harbingers of Sarrow
+Ship: Celestis
+Weapon: Celestis
+
+Name: ventura5
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Flycatcher
+Weapon: Flameburst Light Missile
+
+Name: Cockroach
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Vengeance
+Weapon: Templar
+
+Name: Deyionu
+Security: 0.8
+Alliance: Freelancer Alliance
+Corp: Harbingers of Sarrow
+Ship: Celestis
+Weapon: Celestis
+
+Name: shadowxp99
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: Harbingers of Sarrow
+Ship: Caracal
+Weapon: Heavy Missile Launcher I
+
+Name: Vladimir
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Terminal Velocity Inc.
+Ship: Chimera
+Weapon: Dragonfly
+
+Name: Nil Desperandum
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Rupture
+Weapon: 425mm Medium Prototype I Automatic Cannon
+
+Name: Kvarium Ki
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Bellicose
+Weapon: Peripheral Weapon Navigation Diameter
+
+Name: Kee Ris
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Coercer
+Weapon: Dragonfly
+
+Name: Kayron Brennan
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Caracal
+Weapon: Assault Missile Launcher I
+
+Name: Kaand
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Thorax
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: Imaginary Number
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Manticore
+Weapon: 'Malkuth' Cruise Launcher I
+
+Name: Gwaihir
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Chimera
+Weapon: Dragonfly
+
+Name: Ghu'ru Talozan
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Megathron
+Weapon: 425mm 'Scout' I Accelerator Cannon
+
+Name: Daressek
+Security: 4.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Rifter
+Weapon: J5 Prototype Warp Inhibitor I
+
+
+Destroyed items:
+
+Cynosural Field Generator I
+Warp Core Stabilizer I

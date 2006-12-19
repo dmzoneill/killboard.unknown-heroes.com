@@ -1,0 +1,47 @@
+2006.11.13 00:14
+
+Victim: Evaporite
+Alliance: None
+Corp: Ministry of War
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Hosanna (laid the final blow)
+Security: 1.7
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Tempest
+Weapon: 1400mm Carbine Howitzer I
+
+Name: Kulok
+Security: 5.0
+Alliance: O X I D E
+Corp: W33D Corp.
+Ship: Thorax
+Weapon: Heavy Neutron Blaster I
+
+Name: Almagar Phog
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Raptor
+Weapon: 125mm Prototype I Gauss Gun
+
+Name: Velithe
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Crow
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+Name: Bob Dawson
+Security: 0.2
+Alliance: Schism.
+Corp: Fatalix Inc.
+Ship: Rifter
+Weapon: Stasis Webifier I
+
+

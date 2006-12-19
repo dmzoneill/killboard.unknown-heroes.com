@@ -1,0 +1,19 @@
+2006.10.13 22:23
+
+Victim: Gregor Drichkov
+Alliance: None
+Corp: Dark Horizons
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Nil Desperandum (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Omen
+Weapon: Heavy Modulated Pulse Energy Beam I
+
+

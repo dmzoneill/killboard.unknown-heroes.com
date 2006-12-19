@@ -1,0 +1,23 @@
+2007.01.08 04:18
+
+Victim: Corpse Miner
+Alliance: None
+Corp: The United Space Monkey Corp
+Destroyed: Gallente Shuttle
+System: JU-OWQ
+Security: 0.0
+
+Involved parties:
+
+Name: Brazz SilverPocket (laid the final blow)
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Maulus
+Weapon: Valkyrie II
+
+
+Destroyed items:
+
+Antimatter Charge M, Qty: 117 (Cargo)
+

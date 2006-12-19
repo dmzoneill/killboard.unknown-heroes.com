@@ -1,0 +1,84 @@
+2007.04.18 04:20
+
+Victim: xinndo jagged
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Destroyed: Drake
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Ronald Speirs (laid the final blow)
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Nidhoggur
+Weapon: Firbolg
+
+Name: MeanG
+Security: 3.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Thanatos
+Weapon: Dragonfly
+
+Name: Green Leaner
+Security: 2.1
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Sleipnir
+Weapon: Sleipnir
+
+Name: Wladomir Jed
+Security: 3.7
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+Name: LordMordred
+Security: 0.1
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Chimera
+Weapon: Einherji
+
+Name: Hazmat 69
+Security: -1.6
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Crow
+Weapon: Sabretooth Light Missile
+
+Name: Queldonus
+Security: 3.3
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Nidhoggur
+Weapon: Einherji
+
+Name: Ehxo
+Security: 4.9
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Sabre
+Weapon: 150mm Light AutoCannon II
+
+
+Destroyed items:
+
+Havoc Heavy Missile, Qty: 17
+Heavy Missile Launcher I
+Heavy Missile Launcher II
+Heavy Missile Launcher II
+Heavy Missile Launcher II
+Heavy Missile Launcher II
+Havoc Fury Heavy Missile, Qty: 47
+10MN Afterburner I
+Sensor Booster I
+Thunderbolt Heavy Missile, Qty: 209 (Cargo)
+Widowmaker Heavy Missile, Qty: 600 (Cargo)
+Havoc Heavy Missile, Qty: 786 (Cargo)
+Havoc Fury Heavy Missile, Qty: 396 (Cargo)
+

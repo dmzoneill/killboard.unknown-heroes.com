@@ -1,0 +1,69 @@
+2006.11.16 04:24
+
+Victim: Candera Fusan
+Alliance: Interstellar Starbase Syndicate
+Corp: MC Cubed Inc
+Destroyed: Mammoth
+System: G-M4I8
+Security: 0.0
+
+Involved parties:
+
+Name: Hosanna (laid the final blow)
+Security: 2.4
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Claw
+Weapon: 200mm AutoCannon II
+
+
+Destroyed items:
+
+Phased Plasma S, Qty: 70
+Small Shield Extender I
+Shield Recharger I
+100mm Reinforced Crystalline Carbonide Plates I
+50mm Reinforced Crystalline Carbonide Plates I
+Rifter (Cargo)
+Small Subordinate Screen Stabilizer I (Cargo)
+Supplemental Screen Generator I (Cargo)
+Civilian Shield Booster I (Cargo)
+Small Shield Booster I, Qty: 3 (Cargo)
+Small Murky Shield Screen Transmitter I (Cargo)
+10MN Afterburner I (Cargo)
+Monopropellant I Hydrazine Boosters (Cargo)
+Cargo Scanner I (Cargo)
+Ship Scanner I, Qty: 2 (Cargo)
+Fleeting Progressive Warp Scrambler I (Cargo)
+Civilian Gatling Autocannon, Qty: 2 (Cargo)
+Miner I (Cargo)
+Basic Miner, Qty: 2 (Cargo)
+200mm Light Gallium I Machine Gun (Cargo)
+200mm AutoCannon I (Cargo)
+200mm Light Carbine Repeating Cannon I, Qty: 3 (Cargo)
+Small Capacitor Battery I (Cargo)
+Ballistic Deflection Field I (Cargo)
+Photon Scattering Field I (Cargo)
+Heat Dissipation Field I (Cargo)
+Proton S, Qty: 100 (Cargo)
+Phased Plasma S, Qty: 30 (Cargo)
+Carbonized Lead S, Qty: 176 (Cargo)
+Titanium Sabot S, Qty: 147 (Cargo)
+Tracking Computer I (Cargo)
+Veldspar Processing (Cargo)
+Electronics (Cargo)
+Nanomechanical CPU Enhancer I (Cargo)
+50mm Reinforced Titanium Plates I (Cargo)
+Parallel Weapon Navigation Transmitter (Cargo)
+Target Painter I (Cargo)
+Bloodclaw Light Missile, Qty: 136 (Cargo)
+Widowmaker Heavy Missile, Qty: 300 (Cargo)
+Foxfire Rocket, Qty: 176 (Cargo)
+'Malkuth' Rocket Launcher I (Cargo)
+'Limos' Rocket Launcher I (Cargo)
+Standard Missile Launcher I, Qty: 3 (Cargo)
+Recruitment Center Data Log (Cargo)
+Limited Social Adaptation Chip (Cargo)
+Overdrive Injector System I (Cargo)
+Capacitor Power Relay I (Cargo)
+

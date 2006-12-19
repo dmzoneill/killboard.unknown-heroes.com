@@ -1,0 +1,42 @@
+2007.03.03 05:30
+
+Victim: Sorlac Aurora
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Drake
+System: Hek
+Security: 0.5
+
+Involved parties:
+
+Name: Dirtball
+Security: 1.0
+Alliance: Privateer Alliance
+Corp: Kemono.
+Ship: Sleipnir
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: eXtas (laid the final blow)
+Security: 1.6
+Alliance: Privateer Alliance
+Corp: Kemono.
+Ship: Huginn
+Weapon: Thunderbolt Fury Heavy Missile
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Scourge Heavy Missile, Qty: 87
+Advanced 'Limos' Heavy Missile Bay I
+Advanced 'Limos' Heavy Missile Bay I
+Ditrigonal Thermal Barrier Crystallization I
+'Anointed' I EM Ward Reinforcement
+Ballistic Control System II
+Beta Reactor Control: Reaction Control I
+Hornet I, Qty: 5 (Cargo)
+Warrior I, Qty: 4 (Cargo)
+Scourge Heavy Missile, Qty: 1059 (Cargo)
+Widowmaker Heavy Missile, Qty: 900 (Cargo)
+Warrior I, Qty: 3 (Drone Bay)
+

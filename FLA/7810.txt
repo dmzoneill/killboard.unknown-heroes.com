@@ -1,0 +1,92 @@
+2006.09.01 23:15
+
+Victim: Kyoshisan
+Alliance: Freelancer Alliance
+Corp: BGG
+Destroyed: Taranis
+System: JU-OWQ
+Security: 0.0
+
+Involved parties:
+
+Name: DeathTrip (laid the final blow)
+Security: 5.2
+Alliance: None
+Corp: 0utbreak
+Ship: Eagle
+Weapon: 250mm Prototype I Gauss Gun
+
+Name: s0litaire
+Security: 0.2
+Alliance: None
+Corp: Torment.
+Ship: Muninn
+Weapon: 720mm Howitzer Artillery II
+
+Name: chris2002
+Security: 2.1
+Alliance: None
+Corp: 0utbreak
+Ship: Hawk
+Weapon: Bloodclaw Light Missile
+
+Name: Dr Ping
+Security: 5.0
+Alliance: None
+Corp: 0utbreak
+Ship: Harpy
+Weapon: Harpy
+
+Name: Das Yad
+Security: 0.1
+Alliance: None
+Corp: 0utbreak
+Ship: Lachesis
+Weapon: Fleeting Warp Scrambler I
+
+Name: beantin
+Security: 4.1
+Alliance: None
+Corp: 0utbreak
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Memoi
+Security: -0.2
+Alliance: None
+Corp: 0utbreak
+Ship: Astarte
+Weapon: 250mm Railgun II
+
+Name: EnglishBob
+Security: 3.8
+Alliance: None
+Corp: 0utbreak
+Ship: Armageddon
+Weapon: Tachyon Beam Laser II
+
+Name: Blood Redd
+Security: 2.6
+Alliance: None
+Corp: 0utbreak
+Ship: Crow
+Weapon: Upgraded 'Limos' Standard Missile Bay I
+
+Name: Ace Frehley
+Security: -0.3
+Alliance: None
+Corp: 0utbreak
+Ship: Rupture
+Weapon: Assault Missile Launcher I
+
+
+Destroyed items:
+
+Light Electron Blaster I
+Iridium Charge S, Qty: 400
+Null S, Qty: 200
+Fleeting Progressive Warp Scrambler I
+Energized Adaptive Nano Membrane I
+Iridium Charge S, Qty: 10904 (Cargo)
+Null S, Qty: 1186 (Cargo)
+

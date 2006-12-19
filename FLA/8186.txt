@@ -1,0 +1,28 @@
+2006.10.28 01:51
+
+Victim: Hosanna
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Destroyed: Wolf
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Darknesss (laid the final blow)
+Security: -0.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Megathron
+Weapon: Neutron Blaster Cannon II
+
+
+Destroyed items:
+
+150mm Light AutoCannon II
+150mm Light AutoCannon II
+Barrage S, Qty: 222
+Foxfire Rocket, Qty: 17
+400mm Reinforced Rolled Tungsten Plates I
+Phased Plasma S, Qty: 2922 (Cargo)
+

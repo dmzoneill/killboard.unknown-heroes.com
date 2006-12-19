@@ -1,0 +1,76 @@
+2006.08.26 22:12
+
+Victim: Fr0zt
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Destroyed: Ferox
+System: Z0-TJW
+Security: 0.0
+
+Involved parties:
+
+Name: Mirimon
+Security: -2.0
+Alliance: None
+Corp: Beagle Corp
+Ship: Raven
+Weapon: Acolyte I
+
+Name: Garm SD (laid the final blow)
+Security: 4.2
+Alliance: None
+Corp: Beagle Corp
+Ship: Megathron
+Weapon: Bouncer I
+
+Name: john roe
+Security: -3.0
+Alliance: None
+Corp: Beagle Corp
+Ship: Rapier
+Weapon: Valkyrie I
+
+Name: Valerian Xavier
+Security: 3.2
+Alliance: None
+Corp: Beagle Corp
+Ship: Megathron
+Weapon: Bouncer I
+
+Name: Tanpres
+Security: -2.3
+Alliance: None
+Corp: Beagle Corp
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: MagicCommander
+Security: -3.8
+Alliance: Thundering Mantis
+Corp: Gen'ei Ryodan
+Ship: Tristan
+Weapon: 'Shade' I White Noise ECM
+
+Name: HippoKing
+Security: 2.0
+Alliance: None
+Corp: Beagle Corp
+Ship: Falcon
+Weapon: BZ-5 Neutralizing Spatial Destabilizer ECM
+
+
+Destroyed items:
+
+Havoc Heavy Missile, Qty: 66
+Advanced 'Limos' Heavy Missile Bay I
+Advanced 'Limos' Heavy Missile Bay I
+Heavy Missile Launcher I
+Large F-S9 Regolith Shield Induction
+Large Shield Extender I
+Ditrigonal Thermal Barrier Crystallization I
+Non-Inertial Ballistic Screen Augmentation I
+Warp Core Stabilizer I
+Warp Core Stabilizer I
+Ballistic Control System I
+Thunderbolt Heavy Missile, Qty: 1245 (Cargo)
+

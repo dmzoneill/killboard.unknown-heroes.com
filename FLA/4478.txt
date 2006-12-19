@@ -1,0 +1,53 @@
+2007.04.11 09:56
+
+Victim: Skull Fire
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Caracal
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Eleese (laid the final blow)
+Security: -0.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Dominix
+Weapon: Ogre II
+
+Name: Ronald Speirs
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Nidhoggur
+Weapon: Einherji
+
+Name: AIRB
+Security: 3.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Curse
+Weapon: Tracking Disruptor II
+
+
+Destroyed items:
+
+Uranium Charge M, Qty: 99
+Havoc Heavy Missile, Qty: 11
+Widowmaker Heavy Missile, Qty: 10
+Thunderbolt Heavy Missile, Qty: 11
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+10MN MicroWarpdrive I
+'Langour' Drive Disruptor I
+X5 Prototype I Engine Enervator
+Sensor Booster I
+Ballistic Control System I
+Uranium Charge M, Qty: 1793 (Cargo)
+Havoc Heavy Missile, Qty: 286 (Cargo)
+Thunderbolt Heavy Missile, Qty: 286 (Cargo)
+Widowmaker Heavy Missile, Qty: 300 (Cargo)
+Scourge Heavy Missile, Qty: 286 (Cargo)
+

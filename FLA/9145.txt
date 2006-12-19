@@ -1,0 +1,40 @@
+2007.04.30 16:41
+
+Victim: CINERGY
+Alliance: None
+Corp: Fearless Inc.
+Destroyed: Arbitrator
+System: Rancer
+Security: 0.4
+
+Involved parties:
+
+Name: white kight (laid the final blow)
+Security: 0.6
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+
+Destroyed items:
+
+Focused Medium Beam Laser I
+Focused Medium Beam Laser I
+Radio M
+Radio M
+10MN Afterburner I
+Medium Armor Repairer I
+Reactor Control Unit I
+1MN Afterburner I (Cargo)
+Warp Scrambler I (Cargo)
+Medium Hull Repairer I (Cargo)
+1Z-3 Subversive ECM Eruption (Cargo)
+Radio S (Cargo)
+Hobgoblin I (Cargo)
+Vespa I (Cargo)
+Hammerhead I (Cargo)
+Tracking Link I (Cargo)
+Militants, Qty: 10 (Cargo)
+Vespa I, Qty: 2 (Drone Bay)
+

@@ -1,0 +1,37 @@
+2006.10.15 00:12
+
+Victim: Hosanna
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Destroyed: Stiletto
+System: X-7OMU
+Security: 0.0
+
+Involved parties:
+
+Name: Athlete (laid the final blow)
+Security: -3.3
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Megathron
+Weapon: Electron Blaster Cannon II
+
+Name: Niazi
+Security: -2.1
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Eos
+Weapon: Heavy Ion Blaster II
+
+
+Destroyed items:
+
+150mm Light AutoCannon II
+E5 Prototype Energy Vampire
+1MN MicroWarpdrive I
+Faint Warp Prohibitor I
+Faint Warp Prohibitor I
+X5 Prototype I Engine Enervator
+Corpse, Qty: 4 (Cargo)
+Nuclear S, Qty: 100 (Cargo)
+

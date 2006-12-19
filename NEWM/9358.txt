@@ -1,0 +1,74 @@
+2007.05.08 18:30
+
+Victim: nyricia
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Raven
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Flameburst Light Missile / Guristas (laid the final blow)
+
+Name: Kvarium Ki
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Stabber
+Weapon: Stabber
+
+Name: ClogMan
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Wolf
+Weapon: Wolf
+
+Name: Jet Sulu
+Security: 3.5
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Drake
+Weapon: Widowmaker Heavy Missile
+
+Name: Kayron Brennan
+Security: 0.7
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Kestrel
+Weapon: Rocket Launcher I
+
+Name: Aneroi
+Security: 0.6
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Executioner
+Weapon: Warp Disruptor I
+
+
+Destroyed items:
+
+Juggernaut Torpedo, Qty: 11
+X-Large Shield Booster I
+Ditrigonal Thermal Barrier Crystallization I
+Kinetic Deflection Amplifier I
+Ballistic Control System I
+Capacitor Power Relay I
+Large Shield Extender I, Qty: 2 (Cargo)
+F-b10 Nominal Capacitor Regenerator (Cargo)
+Small Armor Repairer I (Cargo)
+150mm Railgun I (Cargo)
+Iridium Charge L, Qty: 100 (Cargo)
+Thorium Charge L, Qty: 100 (Cargo)
+Juggernaut Torpedo, Qty: 628 (Cargo)
+Wrath Cruise Missile, Qty: 562 (Cargo)
+Devastator Cruise Missile, Qty: 100 (Cargo)
+XT-9000 Cruise Launcher (Cargo)
+Charred Micro Circuit, Qty: 10 (Cargo)
+Ward Console, Qty: 5 (Cargo)
+Fried Interface Circuit, Qty: 2 (Cargo)
+Beta Reactor Control: Capacitor Flux I (Cargo)
+Mark I Generator Refitting: Reaction Control (Cargo)
+Vespa I (Drone Bay)
+

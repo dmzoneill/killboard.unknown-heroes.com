@@ -1,0 +1,19 @@
+2006.12.01 17:43
+
+Victim: deepo
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Capsule
+System: Uemisaisen
+Security: 0.6
+
+Involved parties:
+
+Name: Elliott Manchild (laid the final blow)
+Security: -1.6
+Alliance: None
+Corp: omen.
+Ship: Taranis
+Weapon: 125mm Railgun II
+
+

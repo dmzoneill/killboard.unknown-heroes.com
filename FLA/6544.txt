@@ -1,0 +1,32 @@
+2006.11.17 00:19
+
+Victim: Boogiez
+Alliance: None
+Corp: Dark-Rising
+Destroyed: Thorax
+System: 3T7-M8
+Security: 0.0
+
+Involved parties:
+
+Name: Severa Crest (laid the final blow)
+Security: 4.0
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Ship: Typhoon
+Weapon: Ogre I
+
+
+Destroyed items:
+
+Light Neutron Blaster II
+Light Neutron Blaster II
+Light Neutron Blaster II
+Null S, Qty: 180
+X5 Prototype I Engine Enervator
+Magnetic Field Stabilizer II
+Energized Adaptive Nano Membrane II
+1600mm Reinforced Rolled Tungsten Plates I
+Null S, Qty: 1423 (Cargo)
+Nanofiber Internal Structure I (Cargo)
+

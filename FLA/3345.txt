@@ -1,0 +1,69 @@
+2007.03.23 21:58
+
+Victim: KriegDrachen
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Destroyed: Sabre
+System: O-ZXUV
+Security: 0.0
+
+Involved parties:
+
+Name: Jack Archer
+Security: -1.7
+Alliance: Eternal Rapture
+Corp: Quantum Synergies
+Ship: Myrmidon
+Weapon: Myrmidon
+
+Name: VirkMaN (laid the final blow)
+Security: -1.1
+Alliance: Eternal Rapture
+Corp: Temptation inc.
+Ship: Absolution
+Weapon: Heavy Pulse Laser II
+
+Name: Evil Ted
+Security: -4.4
+Alliance: Eternal Rapture
+Corp: Exotic Dancers Club
+Ship: Unknown
+Weapon: Hobgoblin I
+
+Name: hezitationkillz
+Security: -1.4
+Alliance: Eternal Rapture
+Corp: Temptation inc.
+Ship: Retribution
+Weapon: Retribution
+
+Name: GodWin cadela
+Security: -1.7
+Alliance: Eternal Rapture
+Corp: Exotic Dancers Club
+Ship: Hurricane
+Weapon: 425mm AutoCannon II
+
+Name: C Duggan
+Security: -4.4
+Alliance: Eternal Rapture
+Corp: Exotic Dancers Club
+Ship: Lachesis
+Weapon: Kapteyn Sensor Array Inhibitor I
+
+
+Destroyed items:
+
+200mm AutoCannon II
+200mm AutoCannon II
+200mm AutoCannon II
+200mm AutoCannon II
+Barrage S, Qty: 180
+Warp Disrupt Probe, Qty: 10
+Medium F-S9 Regolith Shield Induction
+Gistii A-Type 1MN MicroWarpdrive
+Warp Disruptor II
+Type-D Altered SS Overdrive Injector
+Barrage S, Qty: 418 (Cargo)
+Warp Disrupt Probe, Qty: 16 (Cargo)
+

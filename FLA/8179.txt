@@ -1,0 +1,41 @@
+2006.10.26 17:12
+
+Victim: Flashh Gorden
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Destroyed: Ferox
+System: Litiura
+Security: 0.5
+
+Involved parties:
+
+Name: vickers
+Security: -1.5
+Alliance: None
+Corp: Mentally Unstable Enterprises
+Ship: Dominix
+Weapon: Ogre II
+
+Name: Ronnie Kray (laid the final blow)
+Security: -1.8
+Alliance: None
+Corp: Mentally Unstable Enterprises
+Ship: Raven
+Weapon: Wrath Cruise Missile
+
+
+Destroyed items:
+
+Widowmaker Heavy Missile
+Widowmaker Heavy Missile
+Widowmaker Heavy Missile
+Widowmaker Heavy Missile
+Widowmaker Heavy Missile
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Medium Armor Repairer I (Cargo)
+Havoc Heavy Missile, Qty: 679 (Cargo)
+Thunderbolt Heavy Missile, Qty: 923 (Cargo)
+Mark I Modified SS Inertial Stabilizers (Cargo)
+

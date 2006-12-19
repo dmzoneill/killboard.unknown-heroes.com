@@ -1,0 +1,40 @@
+2007.03.17 02:01
+
+Victim: LiSyingChan
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Destroyed: Capsule
+System: OWXT-5
+Security: 0.0
+
+Involved parties:
+
+Name: Callistus (laid the final blow)
+Security: -2.5
+Alliance: Corelum Syndicate
+Corp: Coreli Corporation
+Ship: Taranis
+Weapon: Light Neutron Blaster II
+
+Name: Syra Tpal
+Security: 5.0
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Malediction
+Weapon: Faint Warp Prohibitor I
+
+Name: doc627
+Security: 5.0
+Alliance: Axiom Empire
+Corp: United Society Starfleet
+Ship: Crow
+Weapon: Standard Missile Launcher I
+
+Name: Elaine Marley
+Security: -8.3
+Alliance: Aftermath Alliance
+Corp: Master Miners
+Ship: Crow
+Weapon: Faint Warp Prohibitor I
+
+

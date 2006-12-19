@@ -1,0 +1,50 @@
+2007.01.10 23:09
+
+Victim: Satal Sonshi
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Destroyed: Stabber
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Captain Rickdick (laid the final blow)
+Security: 0.1
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+Name: DHB WildCat
+Security: -1.2
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Wrath Cruise Missile
+
+Name: Lemlins Craken
+Security: -0.3
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: 'Arbalest' Cruise Launcher I
+
+Name: Kusarigama
+Security: 3.8
+Alliance: None
+Corp: Brutor tribe
+Ship: Sabre
+Weapon: 125mm Gatling AutoCannon II
+
+
+Destroyed items:
+
+Dual 180mm AutoCannon I
+Dual 180mm AutoCannon I
+Dual 180mm AutoCannon I
+EMP M, Qty: 100
+10MN MicroWarpdrive I
+Warp Disruptor I
+Cross-Lateral Gyrostabilizer I
+

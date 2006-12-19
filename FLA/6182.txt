@@ -1,0 +1,29 @@
+2006.11.09 22:59
+
+Victim: Esab
+Alliance: None
+Corp: United Divided
+Destroyed: Manticore
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Hosanna (laid the final blow)
+Security: 1.3
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Typhoon
+Weapon: Large Proton Smartbomb I
+
+
+Destroyed items:
+
+75mm Gatling Rail II
+Wrath Cruise Missile, Qty: 23
+XT-9000 Cruise Launcher
+XT-9000 Cruise Launcher
+Sensor Booster II
+Ballistic Control System II
+Paradise Cruise Missile, Qty: 211 (Cargo)
+

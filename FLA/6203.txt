@@ -1,0 +1,40 @@
+2006.11.10 17:25
+
+Victim: lansing81
+Alliance: None
+Corp: Garoun Investment Bank
+Destroyed: Gallente Shuttle
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: De'Zori (laid the final blow)
+Security: 5.0
+Alliance: None
+Corp: PILGRIMS
+Ship: Manticore
+Weapon: Wrath Precision Cruise Missile
+
+Name: Formosus Funus
+Security: 3.8
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Jaguar
+Weapon: 250mm Light Artillery Cannon II
+
+Name: LiBraga
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Eagle
+Weapon: 250mm Prototype I Gauss Gun
+
+Name: Dog Cancer
+Security: 1.4
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Crow
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+

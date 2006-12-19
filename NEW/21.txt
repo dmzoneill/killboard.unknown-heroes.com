@@ -1,0 +1,33 @@
+2006.12.12 20:09
+
+Victim: Calgura
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Exequror
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: superscarface (laid the final blow)
+Security: 2.5
+Alliance: None
+Corp: 0utbreak
+Ship: Abaddon
+Weapon: Tachyon Anode Particle Stream I
+
+Name: Burn Lump
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Ferox
+Weapon: Fleeting Warp Scrambler I
+
+
+Destroyed items:
+
+Salvager I, Qty: 180
+Small Coaxial Regenerative Projector
+Small Remote Armor Repair System I
+Small Tractor Beam I
+Eutectic I Capacitor Charge Array

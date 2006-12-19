@@ -1,0 +1,45 @@
+2007.01.29 06:06
+
+Victim: Tarphon
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Destroyed: Thorax
+System: G95-VZ
+Security: 0.0
+
+Involved parties:
+
+Name: SiLeNTFoRCe
+Security: -9.8
+Alliance: None
+Corp: Insane Decision
+Ship: Typhoon
+Weapon: E500 Prototype Energy Vampire
+
+Name: Malachi Nefzen
+Security: -10.0
+Alliance: None
+Corp: Insane Decision
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Azirapheal (laid the final blow)
+Security: -8.9
+Alliance: None
+Corp: Insane Decision
+Ship: Crow
+Weapon: Sabretooth Light Missile
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Light Neutron Blaster II
+Antimatter Charge S, Qty: 66
+Fleeting Warp Scrambler I
+Medium Armor Repairer I
+N-Type Explosive Hardener I
+N-Type Explosive Hardener I
+Antimatter Charge S, Qty: 7885 (Cargo)
+Dread Guristas Shield Boost Amplifier (Cargo)
+

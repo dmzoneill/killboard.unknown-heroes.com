@@ -1,0 +1,42 @@
+2007.02.27 00:26
+
+Victim: Ahramaine
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Thorax
+System: YZ-LQL
+Security: 0.0
+
+Involved parties:
+
+Name: MilaNoCZ (laid the final blow)
+Security: 5.0
+Alliance: Xelas Alliance
+Corp: Rytiri Lva
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Tarhess
+Security: -4.0
+Alliance: Aftermath Alliance
+Corp: Master Miners
+Ship: Raptor
+Weapon: Flameburst Light Missile
+
+Name: Biggknife
+Security: -1.3
+Alliance: Xelas Alliance
+Corp: Mining Bytes Inc.
+Ship: Capsule
+Weapon: Civilian Light Electron Blaster
+
+
+Destroyed items:
+
+Heavy Ion Blaster I, Qty: 3
+Antimatter Charge M, Qty: 346
+Warp Scrambler I
+Stasis Webifier I
+Signal Amplifier I
+Magnetic Field Stabilizer I, Qty: 2
+Antimatter Charge M, Qty: 1292 (Cargo)

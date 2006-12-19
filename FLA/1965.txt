@@ -1,0 +1,33 @@
+2007.01.12 23:50
+
+Victim: other mickey
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Destroyed: Incursus
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Arnold Swartzenegger (laid the final blow)
+Security: 0.0
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+Name: SATAN
+Security: -0.8
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Warrior II
+
+
+Destroyed items:
+
+Small Nosferatu I
+1MN MicroWarpdrive I
+Initiated Warp Jammer I
+Co-Processor I
+

@@ -1,0 +1,47 @@
+2007.03.03 23:56
+
+Victim: DrElJefeMD
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Destroyed: Capsule
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Arthur Guinness (laid the final blow)
+Security: -1.8
+Alliance: None
+Corp: Finite Horizon
+Ship: Sleipnir
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Cyther
+Security: -0.3
+Alliance: None
+Corp: Finite Horizon
+Ship: Malediction
+Weapon: Dual Light Pulse Laser II
+
+Name: Die Well
+Security: 2.3
+Alliance: None
+Corp: Finite Horizon
+Ship: Hurricane
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Neb Nimja
+Security: 0.9
+Alliance: None
+Corp: Developmental Neogenics Amalgamated
+Ship: Zealot
+Weapon: Focused Medium Pulse Laser II
+
+Name: Infra Nitzu
+Security: 1.9
+Alliance: None
+Corp: Finite Horizon
+Ship: Hurricane
+Weapon: Warp Disruptor II
+
+

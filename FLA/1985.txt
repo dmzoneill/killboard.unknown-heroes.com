@@ -1,0 +1,27 @@
+2007.01.14 04:24
+
+Victim: Grim Faust
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Griffin
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Arnold Swartzenegger (laid the final blow)
+Security: 0.1
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+
+Destroyed items:
+
+'Hypnos' Multispectral ECM I
+'Hypnos' Multispectral ECM I
+Overdrive Injector System I
+Warrior II, Qty: 2 (Cargo)
+Hornet I (Drone Bay)
+

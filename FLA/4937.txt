@@ -1,0 +1,54 @@
+2007.04.20 04:47
+
+Victim: Ghu'ru Talozan
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Celestis
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Gerald Osikawa
+Security: 0.9
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Altair Mogwa (laid the final blow)
+Security: 0.6
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Cyclone
+Weapon: 425mm AutoCannon I
+
+Name: Fitz Farseer
+Security: 0.5
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Hound
+Weapon: 'Limos' Cruise Launcher I
+
+Name: Evil Bunnies
+Security: 0.0
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Kestrel
+Weapon: Bloodclaw Light Missile
+
+Name: Elrid Barnes
+Security: 1.6
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Harpy
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+
+Destroyed items:
+
+250mm Railgun I
+Antimatter Charge M, Qty: 35
+Remote Sensor Dampener I
+Hammerhead I, Qty: 3 (Drone Bay)
+

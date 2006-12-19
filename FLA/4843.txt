@@ -1,0 +1,55 @@
+2007.04.17 02:47
+
+Victim: dastommy79
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Destroyed: Thorax
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Green Leaner (laid the final blow)
+Security: 2.1
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Sleipnir
+Weapon: Hammerhead II
+
+Name: DrunkenOne
+Security: -0.5
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Rupture
+Weapon: Rupture
+
+Name: Stradivarious
+Security: 3.8
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Nidhoggur
+Weapon: Dragonfly
+
+Name: MIGHTYDWC
+Security: 4.7
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Myrmidon
+Weapon: Low Frequency Sensor Suppressor I
+
+
+Destroyed items:
+
+Heavy Ion Blaster I
+Heavy Ion Blaster I
+Heavy Ion Blaster I
+Antimatter Charge M, Qty: 209
+10MN MicroWarpdrive I
+Warp Disruptor I
+1600mm Reinforced Rolled Tungsten Plates I
+Reactor Control Unit I
+Reactor Control Unit I
+Heavy Ion Blaster I, Qty: 2 (Cargo)
+Magnetic Field Stabilizer I (Cargo)
+Reactor Control Unit I (Cargo)
+

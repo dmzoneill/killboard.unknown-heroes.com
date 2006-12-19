@@ -1,0 +1,51 @@
+2006.11.26 05:05
+
+Victim: DONJUAN v
+Alliance: Eternal Empire
+Corp: Tarnak inc.
+Destroyed: Blackbird
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Tas Devil (laid the final blow)
+Security: 5.0
+Alliance: Forces of Freedom
+Corp: JUDGE DREAD Inc.
+Ship: Curse
+Weapon: Valkyrie II
+
+Name: Shara El
+Security: 4.9
+Alliance: Dusk and Dawn
+Corp: Black Lance
+Ship: Taranis
+Weapon: Taranis
+
+Name: roboto212
+Security: -0.5
+Alliance: Freelancer Alliance
+Corp: Sin-X Inc.
+Ship: Dominix
+Weapon: E500 Prototype Energy Vampire
+
+Name: pipvac
+Security: 5.0
+Alliance: DeStInY.
+Corp: Sacred Templars
+Ship: Ishtar
+Weapon: Warp Scrambler I
+
+
+Destroyed items:
+
+220mm Vulcan AutoCannon I
+EMP M, Qty: 130
+10MN MicroWarpdrive I
+ECM - Multispectral Jammer I
+ECM - Multispectral Jammer I
+Medium Armor Repairer I
+EMP M, Qty: 720 (Cargo)
+Piranha Light Missile, Qty: 499 (Cargo)
+

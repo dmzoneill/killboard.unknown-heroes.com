@@ -1,0 +1,47 @@
+2007.04.14 13:45
+
+Victim: Nina Kinuichi
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Destroyed: Harbinger
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Fitz Farseer
+Security: 0.4
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: Indiano Arko
+Security: 0.6
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Hurricane
+Weapon: Warrior II
+
+Name: Hojou (laid the final blow)
+Security: 0.2
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Thorax
+Weapon: 250mm Carbide Railgun I
+
+
+Destroyed items:
+
+Heavy Beam Laser II
+Medium 'Ghoul' Energy Siphon I
+Medium Proton Smartbomb I
+Aurora M
+Aurora M
+Aurora M
+Medium Capacitor Battery I
+Stasis Webifier I
+Medium Armor Repairer I
+Reactor Control Unit I
+Gleam M, Qty: 5 (Cargo)
+

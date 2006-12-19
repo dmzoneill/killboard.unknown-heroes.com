@@ -1,0 +1,58 @@
+2007.01.28 17:40
+
+Victim: Daressek
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Blackbird
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Beast Hun
+Security: 4.7
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Abaddon
+Weapon: Abaddon
+
+Name: Letum Omnis (laid the final blow)
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Hyperion
+Weapon: 425mm Railgun II
+
+Name: jernej
+Security: 4.2
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: dr shark
+Security: 1.8
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Muninn
+Weapon: 720mm Howitzer Artillery II
+
+Name: Pyrotesea
+Security: 4.6
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Hyperion
+Weapon: Hyperion
+
+
+Destroyed items:
+
+Havoc Heavy Missile, Qty: 60
+Advanced 'Limos' Heavy Missile Bay I
+Medium Electrochemical Capacitor Booster I
+Compulsive Multispectral ECM I
+Compulsive Multispectral ECM I
+Compulsive Multispectral ECM I
+Ballistic Control System I
+Havoc Heavy Missile, Qty: 855 (Cargo)
+

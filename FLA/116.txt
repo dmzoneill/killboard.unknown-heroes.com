@@ -1,0 +1,19 @@
+2007.01.11 19:21
+
+Victim: Omlet 02
+Alliance: None
+Corp: Republic Military School
+Destroyed: Capsule
+System: Aunenen
+Security: 0.4
+
+Involved parties:
+
+Name: Sanal Gi (laid the final blow)
+Security: -1.2
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ferox
+Weapon: Widowmaker Heavy Missile
+
+

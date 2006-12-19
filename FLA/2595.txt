@@ -1,0 +1,49 @@
+2007.02.25 20:14
+
+Victim: mne lee
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Destroyed: Dominix
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Eamz (laid the final blow)
+Security: -1.2
+Alliance: None
+Corp: Finite Horizon
+Ship: Megathron
+Weapon: Neutron Blaster Cannon II
+
+Name: Rohgue Trayda
+Security: 0.1
+Alliance: None
+Corp: Finite Horizon
+Ship: Huginn
+Weapon: Huginn
+
+Name: Odet
+Security: 2.1
+Alliance: None
+Corp: Finite Horizon
+Ship: Rapier
+Weapon: Rapier
+
+
+Destroyed items:
+
+Heavy 'Ghoul' Energy Siphon I
+Large EMP Smartbomb I
+100MN MicroWarpdrive I
+X5 Prototype I Engine Enervator
+Medium Brief Capacitor Overcharge I
+Cap Booster 800
+Energized Adaptive Nano Membrane I
+Energized Thermic Membrane I
+1600mm Reinforced Rolled Tungsten Plates I
+Wasp I, Qty: 3 (Drone Bay)
+Ogre II (Drone Bay)
+Warrior II, Qty: 3 (Drone Bay)
+Infiltrator II, Qty: 2 (Drone Bay)
+

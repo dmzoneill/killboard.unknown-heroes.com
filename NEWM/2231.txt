@@ -1,0 +1,159 @@
+2007.01.28 18:21
+
+Victim: Odinegras
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Vexor
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Nira Li
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Harbinger
+Weapon: Harbinger
+
+Name: Mr Staberinde
+Security: 0.2
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Sleipnir
+Weapon: Sleipnir
+
+Name: Beast Hun (laid the final blow)
+Security: 4.7
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Abaddon
+Weapon: Tachyon Beam Laser II
+
+Name: Letum Omnis
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Hyperion
+Weapon: 425mm Railgun II
+
+Name: Pyrotesea
+Security: 4.6
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Hyperion
+Weapon: 425mm Railgun II
+
+Name: Lucy Fur
+Security: 2.8
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: dr shark
+Security: 1.8
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Muninn
+Weapon: 720mm Howitzer Artillery II
+
+Name: Misticue
+Security: -1.5
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Bone Collector44
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Armageddon
+Weapon: Tachyon Beam Laser I
+
+Name: Marschall
+Security: 2.1
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: papaPadla
+Security: 4.1
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Pilgrim
+Weapon: Valkyrie II
+
+Name: RogerWilco
+Security: 3.3
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Enyo
+Weapon: Enyo
+
+Name: DTee
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Crow
+Weapon: Flameburst Light Missile
+
+Name: Spartac0
+Security: 2.3
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+Name: Sir JoJo
+Security: 2.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Huginn
+Weapon: Low Frequency Sensor Suppressor I
+
+Name: RagedyMan
+Security: 1.9
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Nighthawk
+Weapon: Heavy Missile Launcher II
+
+Name: Puls4r
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Jaguar
+Weapon: Balmer Series Targeting Inhibitor I
+
+Name: Okeanos
+Security: 0.3
+Alliance: Band of Brothers
+Corp: TAOSP
+Ship: Arazu
+Weapon: Phased Muon Sensor Disruptor I
+
+Name: Angela Dray
+Security: 3.1
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Taranis
+Weapon: J5 Prototype Warp Inhibitor I
+
+
+Destroyed items:
+
+Small Nosferatu I
+Small Nosferatu I
+Small Nosferatu I
+10MN MicroWarpdrive I
+Stasis Webifier I
+Damage Control I
+Energized Adaptive Nano Membrane I
+Energized Adaptive Nano Membrane I
+Ogre I (Drone Bay)
+Hammerhead I, Qty: 2 (Drone Bay)
+Hobgoblin II (Drone Bay)
+

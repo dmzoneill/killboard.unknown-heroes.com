@@ -1,0 +1,33 @@
+2007.01.01 18:35
+
+Victim: wilson ll
+Alliance: Freelancer Alliance
+Corp: Feel Good Inc.
+Destroyed: Caldari Shuttle
+System: Torrinos
+Security: 0.5
+
+Involved parties:
+
+Name: TasKu (laid the final blow)
+Security: 5.0
+Alliance: None
+Corp: Nexus Legion
+Ship: Ishkur
+Weapon: Warrior II
+
+Name: Malafor
+Security: -1.3
+Alliance: None
+Corp: omen.
+Ship: Jaguar
+Weapon: 150mm Light AutoCannon II
+
+Name: Super Homer
+Security: 1.3
+Alliance: None
+Corp: Nexus Legion
+Ship: Harpy
+Weapon: 150mm Compressed Coil Gun I
+
+

@@ -1,0 +1,47 @@
+2006.11.05 01:53
+
+Victim: Airfish
+Alliance: None
+Corp: Knights of Red Mars
+Destroyed: Capsule
+System: V4-L0X
+Security: 0.0
+
+Involved parties:
+
+Name: Angel Vengen
+Security: 4.0
+Alliance: Freelancer Alliance
+Corp: Caldar Mercenary Syndicate
+Ship: Ferox
+Weapon: Havoc Fury Heavy Missile
+
+Name: Yarsida
+Security: 1.1
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Moa
+Weapon: 250mm Compressed Coil Gun I
+
+Name: Zattron (laid the final blow)
+Security: 0.7
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Caracal
+Weapon: Bloodclaw Light Missile
+
+Name: SiriusCrow
+Security: -1.5
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Caracal
+Weapon: XR-3200 Heavy Missile Bay
+
+Name: MonwrathDisortium
+Security: -1.9
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Celestis
+Weapon: Celestis
+
+

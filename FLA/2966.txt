@@ -1,0 +1,44 @@
+2007.03.17 21:09
+
+Victim: Elgcaress
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Destroyed: Thorax
+System: F7C-H0
+Security: 0.0
+
+Involved parties:
+
+Name: Donald Trump (laid the final blow)
+Security: -1.7
+Alliance: Eternal Rapture
+Corp: Temptation inc.
+Ship: Tempest
+Weapon: 1200mm Artillery Cannon II
+
+Name: Gliding
+Security: -1.9
+Alliance: Eternal Rapture
+Corp: Quantum Synergies
+Ship: Hyperion
+Weapon: Hammerhead II
+
+Name: C Duggan
+Security: -4.4
+Alliance: Eternal Rapture
+Corp: Exotic Dancers Club
+Ship: Raptor
+Weapon: Raptor
+
+
+Destroyed items:
+
+Limited Ion Blaster I
+Plutonium Charge M, Qty: 240
+Energized Adaptive Nano Membrane I
+Armor Explosive Hardener I
+Inertia Stabilizers I
+Plutonium Charge M, Qty: 2388 (Cargo)
+Hobgoblin II (Cargo)
+Micro Auxiliary Power Core I (Cargo)
+

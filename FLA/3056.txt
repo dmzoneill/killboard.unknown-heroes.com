@@ -1,0 +1,26 @@
+2007.03.23 18:13
+
+Victim: grim devilin
+Alliance: YouWhat
+Corp: Artificial Horizons
+Destroyed: Capsule
+System: DY-F70
+Security: 0.0
+
+Involved parties:
+
+Name: Weeble Wooble
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Eris
+Weapon: Eris
+
+Name: mr passie (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Jaguar
+Weapon: 150mm Light AutoCannon II
+
+

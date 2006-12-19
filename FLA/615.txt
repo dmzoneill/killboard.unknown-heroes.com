@@ -1,0 +1,33 @@
+2007.02.12 23:12
+
+Victim: Jerricho Colton
+Alliance: None
+Corp: The Patriot Society
+Destroyed: Capsule
+System: G-M4I8
+Security: 0.0
+
+Involved parties:
+
+Name: WolfRavage (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Ishkur
+Weapon: Light Neutron Blaster II
+
+Name: Xantheris
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Taranis
+Weapon: 75mm Gatling Rail II
+
+Name: malkey
+Security: 4.5
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Hawk
+Weapon: Standard Missile Launcher I
+
+

@@ -1,0 +1,33 @@
+2007.04.23 18:09
+
+Victim: Aneroi
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Destroyed: Capsule
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: lethario desrtuction (laid the final blow)
+Security: 2.1
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Crow
+Weapon: Bloodclaw Precision Light Missile
+
+Name: Evil Bunnies
+Security: 0.2
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Blackbird
+Weapon: Scourge Heavy Missile
+
+Name: LeZip
+Security: 1.2
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Manticore
+Weapon: XT-9000 Cruise Launcher
+
+

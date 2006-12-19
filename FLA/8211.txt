@@ -1,0 +1,40 @@
+2006.11.04 14:45
+
+Victim: Fr0zt
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Destroyed: Capsule
+System: U-INPD
+Security: 0.0
+
+Involved parties:
+
+Name: Ronnie Kray (laid the final blow)
+Security: -1.8
+Alliance: None
+Corp: Mentally Unstable Enterprises
+Ship: Deimos
+Weapon: Heavy Ion Blaster II
+
+Name: Reggie Kray
+Security: -1.4
+Alliance: None
+Corp: Mentally Unstable Enterprises
+Ship: Eos
+Weapon: Heavy Neutron Blaster II
+
+Name: Raffael Ramirez
+Security: -1.5
+Alliance: None
+Corp: Mentally Unstable Enterprises
+Ship: Rook
+Weapon: Heavy Missile Launcher II
+
+Name: Franky B
+Security: 1.6
+Alliance: None
+Corp: Mentally Unstable Enterprises
+Ship: Ishtar
+Weapon: Faint Warp Prohibitor I
+
+

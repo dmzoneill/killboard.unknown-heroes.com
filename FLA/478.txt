@@ -1,0 +1,64 @@
+2007.02.05 02:15
+
+Victim: Unit 1
+Alliance: None
+Corp: Agony Unleashed
+Destroyed: Ares
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Minisoza
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Brutix
+Weapon: 250mm Railgun II
+
+Name: WolfRavage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Hyperion
+Weapon: Hyperion
+
+Name: Xantheris
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Harpy
+Weapon: Harpy
+
+Name: Slinktress (laid the final blow)
+Security: 2.6
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Dominix
+Weapon: Tachyon Beam Laser I
+
+Name: Jorax
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Ishkur
+Weapon: Warrior I
+
+Name: Swanny231
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Crow
+Weapon: X5 Prototype I Engine Enervator
+
+
+Destroyed items:
+
+125mm Railgun I
+Iridium Charge S, Qty: 160
+Flameburst Light Missile, Qty: 90
+Upgraded 'Limos' Standard Missile Bay I
+TE-2100 Standard Missile Bay
+1MN MicroWarpdrive I
+Capacitor Power Relay I
+

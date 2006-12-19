@@ -1,0 +1,124 @@
+2007.04.21 01:35
+
+Victim: Admentus Cor'vion
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Destroyed: Ishtar
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Kvarium Ki
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Rupture
+Weapon: Piranha Light Missile
+
+Name: dastommy79
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Capsule
+Weapon: Heavy Ion Blaster I
+
+Name: Chuck Dawg
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Caracal
+Weapon: Heavy Missile Launcher I
+
+Name: Bobby Atlas (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Thrasher
+Weapon: 250mm Light Artillery Cannon I
+
+Name: The Cade
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Unknown
+Weapon: Heavy Neutron Blaster I
+
+Name: Ghu'ru Talozan
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Celestis
+Weapon: Infiltrator I
+
+Name: other mickey
+Security: 3.2
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Vexor
+Weapon: Vexor
+
+Name: arthell
+Security: 2.9
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Ishkur
+Weapon: Modal Light Ion Particle Accelerator I
+
+Name: Aridante Lemure
+Security: 1.2
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Celestis
+Weapon: Remote Sensor Dampener II
+
+Name: Magic Mazuma
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Rifter
+Weapon: J5b Phased Prototype Warp Inhibitor I
+
+Name: Alski
+Security: 3.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Kestrel
+Weapon: Phalanx Rocket
+
+Name: sparkvolt
+Security: -0.7
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Unknown
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+Name: Rhaall
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Crucifier
+Weapon: Small 'Knave' I Energy Drain
+
+
+Destroyed items:
+
+E50 Prototype Energy Vampire
+Medium Nosferatu I
+Dual 150mm Railgun II
+Dual 150mm Railgun II
+Dual 150mm Railgun II
+Antimatter Charge M, Qty: 131
+Initiated Warp Jammer I
+Sensor Booster II
+Medium Armor Repairer II
+Energized Adaptive Nano Membrane II
+Dual Light Beam Laser I, Qty: 2 (Cargo)
+Antimatter Charge M, Qty: 1178 (Cargo)
+Infrared S (Cargo)
+Heat Sink II (Cargo)
+Sensor Booster I (Cargo)
+400mm Reinforced Steel Plates I (Cargo)
+Javelin M, Qty: 1000 (Cargo)
+Hammerhead II, Qty: 3 (Drone Bay)
+

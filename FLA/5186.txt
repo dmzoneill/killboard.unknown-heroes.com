@@ -1,0 +1,87 @@
+2007.04.24 05:03
+
+Victim: glitterbomb
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Brutix
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Karnovsky
+Security: 4.8
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Alfred Einstein (laid the final blow)
+Security: 4.6
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: NATMav
+Security: 1.0
+Alliance: EVE Animal Control
+Corp: F.R.E.E. Explorer
+Ship: Crow
+Weapon: Sabretooth Light Missile
+
+Name: Deyionu
+Security: 0.8
+Alliance: Freelancer Alliance
+Corp: Harbingers of Sarrow
+Ship: Megathron
+Weapon: Megathron
+
+Name: Scourge Heavy Missile / Guristas
+
+Name: Kayron Brennan
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Caracal
+Weapon: Bloodclaw Light Missile
+
+Name: TroNaaR
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Taranis
+Weapon: Taranis
+
+Name: Sparhock
+Security: 2.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Ares
+Weapon: Fleeting Warp Scrambler I
+
+Name: Leingod
+Security: 3.0
+Alliance: Freelancer Alliance
+Corp: Terminal Velocity Inc.
+Ship: Blackbird
+Weapon: Induced Ion Field ECM I
+
+Name: Death Merchant
+Security: 1.6
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Myrmidon
+Weapon: Heavy Electron Blaster II
+
+
+Destroyed items:
+
+Medium Proton Smartbomb I
+10MN MicroWarpdrive I
+Warp Core Stabilizer I
+Warp Core Stabilizer I
+Warp Core Stabilizer I
+Warp Core Stabilizer I
+Hammerhead I, Qty: 5 (Drone Bay)
+

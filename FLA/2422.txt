@@ -1,0 +1,73 @@
+2007.02.09 23:03
+
+Victim: arthell
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Destroyed: Vexor
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: xlop
+Security: -1.8
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Abaddon
+Weapon: Tachyon Beam Laser II
+
+Name: Anominity
+Security: 4.2
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Abaddon
+Weapon: Abaddon
+
+Name: cptblood
+Security: 2.3
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Tempest
+Weapon: Tempest
+
+Name: aadom
+Security: 3.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Tempest
+Weapon: 1400mm Gallium I Cannon
+
+Name: Von Kretschmer (laid the final blow)
+Security: 5.0
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: j3bus
+Security: 3.1
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+Name: Darknesss
+Security: 0.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+
+Destroyed items:
+
+Small 'Ghoul' Energy Siphon I
+150mm Compressed Coil Gun I
+150mm Compressed Coil Gun I
+Iridium Charge S, Qty: 32
+Medium Electrochemical Capacitor Booster I
+800mm Reinforced Steel Plates I
+800mm Reinforced Steel Plates I
+Iridium Charge S, Qty: 171 (Cargo)
+Hobgoblin I (Drone Bay)
+

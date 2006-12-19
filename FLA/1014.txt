@@ -1,0 +1,36 @@
+2007.03.03 07:09
+
+Victim: Shara El
+Alliance: Triumvirate.
+Corp: D00M.
+Destroyed: Malediction
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Death Wave
+Security: 1.0
+Alliance: Forces of Freedom
+Corp: JUDGE DREAD Inc.
+Ship: Crow
+Weapon: Rocket Launcher II
+
+Name: KingRizen (laid the final blow)
+Security: -2.1
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Ship: Crow
+Weapon: Bloodclaw Fury Light Missile
+
+
+Destroyed items:
+
+Dual Light Pulse Laser II
+Conflagration S
+Sabretooth Light Missile, Qty: 88
+Standard Missile Launcher II
+J5 Prototype Warp Inhibitor I
+Patterned Stasis Web I
+Type-D Altered SS Nanofiber Structure
+

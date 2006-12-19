@@ -1,0 +1,40 @@
+2007.04.09 12:26
+
+Victim: Samuel Goldblum
+Alliance: None
+Corp: Shadowheart Xtrem Industries
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Wallyx (laid the final blow)
+Security: 4.5
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Armageddon
+Weapon: Dual Heavy Modulated Pulse Energy Beam I
+
+Name: Zylatis
+Security: 5.0
+Alliance: EVE Animal Control
+Corp: The Inner Legion
+Ship: Rook
+Weapon: 'Hypnos' Multispectral ECM I
+
+Name: Johny Quango
+Security: 4.2
+Alliance: O X I D E
+Corp: Reunited
+Ship: Raptor
+Weapon: Standard Missile Launcher II
+
+Name: Jack Thurner
+Security: 2.6
+Alliance: DeStInY.
+Corp: Fusion Enterprises Ltd
+Ship: Armageddon
+Weapon: Armageddon
+
+

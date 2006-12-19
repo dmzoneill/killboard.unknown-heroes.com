@@ -1,0 +1,73 @@
+2007.01.19 01:48
+
+Victim: John Leviathan
+Alliance: None
+Corp: State War Academy
+Destroyed: Cormorant
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Xantheris
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: Fugnut
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Drake
+Weapon: FZ-3 Subversive Spatial Destabilizer ECM
+
+Name: Goca (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Raven
+Weapon: Inferno Javelin Torpedo
+
+Name: TiMeZeRo225
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: J.I.T. Enterprises
+Ship: Crow
+Weapon: Bloodclaw Fury Light Missile
+
+Name: digital oxygen
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Taranis
+Weapon: Light Electron Blaster II
+
+Name: dastommy79
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Thorax
+Weapon: Heavy Ion Blaster I
+
+Name: Swanny231
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Crow
+Weapon: 'Arbalest' Rocket Launcher I
+
+
+Destroyed items:
+
+125mm Railgun I
+150mm Carbide Railgun I
+75mm Gatling Rail I
+75mm Gatling Rail I
+Antimatter Charge S, Qty: 360
+Flameburst Light Missile, Qty: 40
+Small Shield Booster I
+Local Hull Conversion Overdrive Injector I
+Antimatter Charge S, Qty: 6225 (Cargo)
+

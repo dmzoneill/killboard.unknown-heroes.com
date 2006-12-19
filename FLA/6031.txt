@@ -1,0 +1,33 @@
+2006.11.06 14:46
+
+Victim: Nightlshade
+Alliance: Schism.
+Corp: WING LORDS
+Destroyed: Capsule
+System: J-CIJV
+Security: 0.0
+
+Involved parties:
+
+Name: Gangreen (laid the final blow)
+Security: 0.1
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Thorax
+Weapon: 250mm Compressed Coil Gun I
+
+Name: Dog Cancer
+Security: 1.4
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Crow
+Weapon: Sabretooth Light Missile
+
+Name: Scorpio63
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Maller
+Weapon: Focused Medium Pulse Laser I
+
+

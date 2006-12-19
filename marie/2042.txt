@@ -1,0 +1,67 @@
+2007.01.19 00:39
+
+Victim: Marie Veedor
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Ferox
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: WarGod
+Security: 1.7
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Tempest
+Weapon: Valkyrie II
+
+Name: Jenessa (laid the final blow)
+Security: 1.1
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Muninn
+Weapon: 720mm Howitzer Artillery II
+
+Name: simcor
+Security: -1.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Dominix
+Weapon: Berserker II
+
+Name: Darknesss
+Security: 0.5
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Megathron
+Weapon: Neutron Blaster Cannon II
+
+Name: boo3916
+Security: 4.6
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Dominix
+Weapon: Berserker II
+
+Name: McGin
+Security: -3.6
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Tempest Fleet Issue
+Weapon: Dual 650mm 'Scout' Repeating Artillery I
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Thunderbolt Heavy Missile, Qty: 21
+Scourge Heavy Missile, Qty: 18
+Havoc Heavy Missile, Qty: 18
+Large Azeotropic Ward Salubrity I
+Invulnerability Field I
+Supplemental Scanning CPU I
+Ballistic Control System I
+Infiltrator I, Qty: 2 (Drone Bay)
+Warrior I (Drone Bay)
+

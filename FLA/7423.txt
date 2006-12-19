@@ -1,0 +1,19 @@
+2006.09.04 12:03
+
+Victim: Naslednik
+Alliance: R.I.S.K
+Corp: Yellow Wind
+Destroyed: Capsule
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Noitaakka (laid the final blow)
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+

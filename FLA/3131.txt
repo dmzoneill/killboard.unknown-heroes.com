@@ -1,0 +1,124 @@
+2007.03.25 07:50
+
+Victim: Rells
+Alliance: Agony Empire
+Corp: Agony Unleashed
+Destroyed: Rokh
+System: O-N8XZ
+Security: 0.0
+
+Involved parties:
+
+Name: Zattron (laid the final blow)
+Security: 4.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Dirty Martini
+Security: 3.9
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: death1023
+Security: 3.2
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Hyperion
+Weapon: Hyperion
+
+Name: ISpydeRI
+Security: 5.0
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Raven
+Weapon: Hammerhead I
+
+Name: Porf
+Security: 5.0
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Megathron
+Weapon: Megathron
+
+Name: Rexi Calhoun
+Security: 1.7
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Optimushulkm3rcs
+Security: 5.0
+Alliance: The Sundering
+Corp: Auraxian Irregulars
+Ship: Dominix
+Weapon: Wasp I
+
+Name: Villwrath
+Security: 3.5
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Enyo
+Weapon: Enyo
+
+Name: Xorlov
+Security: 4.9
+Alliance: The Sundering
+Corp: The Republican Guard
+Ship: Thorax
+Weapon: Thorax
+
+Name: Sloth Ren
+Security: 1.3
+Alliance: The Sundering
+Corp: Auraxian Irregulars
+Ship: Prophecy
+Weapon: Prophecy
+
+Name: Grimes NC
+Security: 4.8
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: Reydar
+Security: 2.2
+Alliance: The Sundering
+Corp: Auraxian Irregulars
+Ship: Dominix
+Weapon: Dominix
+
+Name: Jules Wolfpack
+Security: 2.3
+Alliance: The Sundering
+Corp: ironwood ink
+Ship: Celestis
+Weapon: Celestis
+
+
+Destroyed items:
+
+Anode Mega Neutron Particle Cannon I
+Anode Mega Neutron Particle Cannon I
+Anode Mega Neutron Particle Cannon I
+Anode Mega Neutron Particle Cannon I
+Anode Mega Neutron Particle Cannon I
+Anode Mega Neutron Particle Cannon I
+Anode Mega Neutron Particle Cannon I
+Uranium Charge L, Qty: 248
+X-Large C5-L Emergency Shield Overload I
+Photon Scattering Field II
+Remote Sensor Dampener II
+Magnetic Scattering Amplifier II
+Magnetic Field Stabilizer II
+Magnetic Field Stabilizer II
+Local Hull Conversion Inertial Stabilizers I
+Uranium Charge L, Qty: 2651 (Cargo)
+Hornet II, Qty: 3 (Drone Bay)
+Light Armor Maintenance Bot I, Qty: 2 (Drone Bay)
+

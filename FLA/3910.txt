@@ -1,0 +1,38 @@
+2007.04.05 21:41
+
+Victim: Prncess Allie
+Alliance: None
+Corp: Federal Navy Academy
+Destroyed: Velator
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Lee Thrace
+Security: 5.0
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Lachesis
+Weapon: Thunderbolt Heavy Missile
+
+Name: Penal Serge (laid the final blow)
+Security: 5.0
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Drake
+Weapon: Thunderbolt Fury Heavy Missile
+
+Name: alon blackhelm
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Myrmidon
+Weapon: Myrmidon
+
+
+Destroyed items:
+
+Basic Miner
+Tritanium (Cargo)
+

@@ -1,0 +1,33 @@
+2006.09.08 04:57
+
+Victim: Zinz
+Alliance: Rule of Three
+Corp: An Eye For An Eye
+Destroyed: Capsule
+System: MSHD-4
+Security: 0.0
+
+Involved parties:
+
+Name: Braxxon
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: Weeble Wooble
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Ares
+Weapon: Ares
+
+Name: Vladimir (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Terminal Velocity Inc.
+Ship: Raptor
+Weapon: 125mm 'Scout' I Accelerator Cannon
+
+

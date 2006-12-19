@@ -1,0 +1,52 @@
+2006.11.04 05:58
+
+Victim: Paul Tucket
+Alliance: None
+Corp: Center for Advanced Studies
+Destroyed: Tristan
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Enochios
+Security: 1.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Retribution
+Weapon: Retribution
+
+Name: Drashkar
+Security: 2.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Raven
+Weapon: Bane Javelin Torpedo
+
+Name: Pacala (laid the final blow)
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Dominix
+Weapon: Warden I
+
+Name: Simon Monkoto
+Security: -0.9
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Blackbird
+Weapon: ECM - Multispectral Jammer I
+
+Name: OmeTakeda
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Dominix
+Weapon: E500 Prototype Energy Vampire
+
+
+Destroyed items:
+
+EP-S Gaussian I Excavation Pulse
+EP-S Gaussian I Excavation Pulse
+

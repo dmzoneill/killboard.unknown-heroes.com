@@ -1,0 +1,129 @@
+2007.04.06 00:47
+
+Victim: Skelator0311
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Celestis
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Bl00Dzor
+Security: 1.5
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Huginn
+Weapon: Huginn
+
+Name: ER0X
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Harpy
+Weapon: Harpy
+
+Name: Coug (laid the final blow)
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Claymore
+Weapon: 720mm Howitzer Artillery II
+
+Name: War Bear
+Security: 2.8
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: Nedan
+Security: 3.1
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Crow
+Weapon: Crow
+
+Name: Rukaz
+Security: 3.1
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Shraek
+Security: 1.4
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: Crovan
+Security: 2.8
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Taranis
+Weapon: Taranis
+
+Name: Menf
+Security: 2.1
+Alliance: S.E.R.A
+Corp: Seraphin Technologies
+Ship: Lachesis
+Weapon: Assault Missile Launcher II
+
+Name: Mon Palae
+Security: 2.1
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Curse
+Weapon: Scourge Fury Heavy Missile
+
+Name: Genrom
+Security: 4.5
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Ishtar
+Weapon: 150mm Railgun II
+
+Name: Irishwrath
+Security: 3.9
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Eris
+Weapon: Eris
+
+Name: Tomas Ysidro
+Security: 1.3
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Myrmidon
+Weapon: Fleeting Warp Scrambler I
+
+Name: NightHawk VenGarden
+Security: 0.2
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Pilgrim
+Weapon: Phased Muon Sensor Disruptor I
+
+Name: 50 Isk
+Security: 1.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Thorax
+Weapon: Thorax
+
+
+Destroyed items:
+
+250mm Railgun II
+Tungsten Charge M, Qty: 37
+Prototype Cloaking Device I
+Sabretooth Light Missile, Qty: 68
+Remote Sensor Dampener I
+Energized Adaptive Nano Membrane I
+Tungsten Charge M, Qty: 866 (Cargo)
+Dread Guristas Iridium Charge M, Qty: 650 (Cargo)
+Hornet II, Qty: 3 (Drone Bay)
+

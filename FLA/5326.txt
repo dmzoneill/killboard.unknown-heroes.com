@@ -1,0 +1,44 @@
+2007.04.25 01:41
+
+Victim: Draconian Arcane
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Destroyed: Cyclone
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: OutKast669 (laid the final blow)
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Robet Katrix
+Security: 2.2
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Scorpion
+Weapon: Valkyrie II
+
+Name: Genrom
+Security: 4.5
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Taranis
+Weapon: Taranis
+
+
+Destroyed items:
+
+720mm Howitzer Artillery I
+Depleted Uranium M, Qty: 14
+Widowmaker Heavy Missile, Qty: 39
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+Invulnerability Field II
+Heat Dissipation Amplifier I
+Signal Amplifier II
+

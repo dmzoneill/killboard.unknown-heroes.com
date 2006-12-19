@@ -1,0 +1,33 @@
+2007.04.21 00:08
+
+Victim: Kayron Brennan
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Destroyed: Capsule
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Katchin (laid the final blow)
+Security: 2.1
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Muninn
+Weapon: 720mm Howitzer Artillery II
+
+Name: Vendetta X
+Security: 0.6
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Arazu
+Weapon: Warp Disruptor II
+
+Name: Kkmar Jheren
+Security: -1.5
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Malediction
+Weapon: Malediction
+
+

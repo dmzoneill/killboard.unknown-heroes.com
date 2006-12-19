@@ -1,0 +1,60 @@
+2007.02.10 23:26
+
+Victim: Samiloth Justinian
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Caracal
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Verizana (laid the final blow)
+Security: -3.0
+Alliance: None
+Corp: The Kru
+Ship: Dominix
+Weapon: Ogre II
+
+Name: Ben Hump
+Security: -6.5
+Alliance: None
+Corp: The Kru
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: RagnarH
+Security: -1.9
+Alliance: None
+Corp: The Kru
+Ship: Typhoon
+Weapon: Warrior II
+
+Name: xtreamer
+Security: -6.1
+Alliance: None
+Corp: The Kru
+Ship: Dominix
+Weapon: Dominix
+
+Name: White 0rchid
+Security: 0.0
+Alliance: None
+Corp: The Kru
+Ship: Falcon
+Weapon: ECM - Spatial Destabilizer II
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 80
+Advanced 'Limos' Heavy Missile Bay I
+Advanced 'Limos' Heavy Missile Bay I
+Heavy Missile Launcher I
+Large F-S9 Regolith Shield Induction
+Invulnerability Field I
+Indirect Scanning Dampening Unit I
+Sensor Booster II
+Ballistic Control System I
+Hobgoblin I, Qty: 2 (Drone Bay)
+

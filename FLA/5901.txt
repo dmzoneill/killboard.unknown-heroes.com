@@ -1,0 +1,19 @@
+2006.10.27 22:36
+
+Victim: mendee
+Alliance: None
+Corp: State War Academy
+Destroyed: Capsule
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Hosanna (laid the final blow)
+Security: 0.4
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Wolf
+Weapon: 150mm Light AutoCannon II
+
+

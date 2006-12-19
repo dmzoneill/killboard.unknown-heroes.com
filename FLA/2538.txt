@@ -1,0 +1,38 @@
+2007.02.19 12:23
+
+Victim: FlobbMkII
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Destroyed: Taranis
+System: G-M4I8
+Security: 0.0
+
+Involved parties:
+
+Name: Donald Trump (laid the final blow)
+Security: -2.0
+Alliance: None
+Corp: Temptation inc.
+Ship: Hurricane
+Weapon: 425mm AutoCannon II
+
+Name: Fraile Cloudsinger
+Security: 4.7
+Alliance: Agony Empire
+Corp: Agony Unleashed
+Ship: Dominix
+Weapon: Warrior II
+
+
+Destroyed items:
+
+125mm Railgun II
+125mm Railgun II
+Catalyzed Cold-Gas I Arcjet Thrusters
+J5 Prototype Warp Inhibitor I
+Micro Capacitor Booster II
+Cap Booster 100
+Inertia Stabilizers I
+Cap Booster 100, Qty: 23 (Cargo)
+Hobgoblin II, Qty: 2 (Drone Bay)
+

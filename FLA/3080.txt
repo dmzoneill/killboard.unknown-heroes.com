@@ -1,0 +1,54 @@
+2007.03.24 06:41
+
+Victim: Minessis
+Alliance: None
+Corp: Strife Mercenaries Inc.
+Destroyed: Capsule
+System: S-GKKR
+Security: 0.0
+
+Involved parties:
+
+Name: Villwrath
+Security: 3.5
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Eris
+Weapon: 150mm Compressed Coil Gun I
+
+Name: Malicel
+Security: 2.7
+Alliance: The Sundering
+Corp: ironwood ink
+Ship: Enyo
+Weapon: 150mm Compressed Coil Gun I
+
+Name: Korudon (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Llondon Hilton
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Ishkur
+Weapon: Small 'Knave' I Energy Drain
+
+Name: Molari Gracie
+Security: 0.6
+Alliance: The Sundering
+Corp: ironwood ink
+Ship: Rifter
+Weapon: 200mm AutoCannon I
+
+Name: Danielson1012
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Harpy
+Weapon: Harpy
+
+

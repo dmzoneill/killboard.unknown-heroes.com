@@ -1,0 +1,44 @@
+2007.01.28 18:05
+
+Victim: Kipkruide
+Alliance: Band of Brothers
+Corp: Evolution
+Destroyed: Malediction
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Shassandra
+Security: 4.5
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Taranis
+Weapon: Fleeting Warp Scrambler I
+
+Name: Kremnican (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Kestrel
+Weapon: Thorn Rocket
+
+Name: Rick A
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Blackbird
+Weapon: Initiated Multispectral ECM I
+
+
+Destroyed items:
+
+Dual Light Pulse Laser II
+Dual Light Pulse Laser II
+Scorch S
+Scorch S
+X5 Prototype I Engine Enervator
+Emergency Damage Control I
+Micro Auxiliary Power Core I
+Conflagration S (Cargo)
+

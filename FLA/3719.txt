@@ -1,0 +1,29 @@
+2007.03.30 20:23
+
+Victim: Hojo Norem
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Cormorant
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Olli (laid the final blow)
+Security: -0.1
+Alliance: S.E.R.A
+Corp: Seraphin Technologies
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+150mm 'Scout' I Accelerator Cannon
+150mm 'Scout' I Accelerator Cannon
+150mm 'Scout' I Accelerator Cannon
+Tungsten Charge S, Qty: 114
+Tracking Computer I
+Tracking Computer I
+Corpse (Cargo)
+

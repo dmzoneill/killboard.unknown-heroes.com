@@ -1,0 +1,58 @@
+2006.10.21 05:46
+
+Victim: DONJUAN v
+Alliance: None
+Corp: Tarnak inc.
+Destroyed: Thrasher
+System: O-N8XZ
+Security: 0.0
+
+Involved parties:
+
+Name: Danielson1012
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Crow
+Weapon: Rocket Launcher II
+
+Name: GeekWarrior
+Security: 0.0
+Alliance: Mordus Angels
+Corp: Bladerunners
+Ship: Crow
+Weapon: Rocket Launcher II
+
+Name: Jester87 (laid the final blow)
+Security: 4.5
+Alliance: Mordus Angels
+Corp: Bladerunners
+Ship: Cerberus
+Weapon: Scourge Heavy Missile
+
+Name: digital oxygen
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Deimos
+Weapon: Valkyrie II
+
+Name: Shortdastard
+Security: 2.7
+Alliance: Forces of Freedom
+Corp: Suicidal Mercenaries
+Ship: Falcon
+Weapon: 'Hypnos' Multispectral ECM I
+
+
+Destroyed items:
+
+150mm Light Prototype I Automatic Cannon
+280mm Howitzer Artillery I
+EMP S, Qty: 155
+Sabretooth Light Missile, Qty: 40
+1MN MicroWarpdrive II
+Warp Disruptor I
+'Langour' Drive Disruptor I
+Small I-a Polarized Armor Regenerator
+

@@ -1,0 +1,67 @@
+2007.03.13 12:33
+
+Victim: Galaxor
+Alliance: YouWhat
+Corp: Beasts of Burden
+Destroyed: Coercer
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Nukuquqa Hestase
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Harpy
+Weapon: Harpy
+
+Name: Freakdevil
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: SniperMcBob (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Raven
+Weapon: Cataclysm Cruise Missile
+
+Name: Alianore
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Catalyst
+Weapon: 150mm Carbide Railgun I
+
+Name: alon blackhelm
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Myrmidon
+Weapon: Myrmidon
+
+
+Destroyed items:
+
+280mm Howitzer Artillery I
+280mm Howitzer Artillery I
+280mm Howitzer Artillery I
+280mm Howitzer Artillery I
+200mm AutoCannon I
+Depleted Uranium S, Qty: 36
+Nuclear S, Qty: 81
+EMP S
+EMP S
+EMP S
+EMP S
+EMP S
+EMP S
+EMP S
+EMP S
+Nanofiber Internal Structure I
+EMP S, Qty: 100 (Cargo)
+

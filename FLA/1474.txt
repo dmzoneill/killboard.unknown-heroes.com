@@ -1,0 +1,33 @@
+2007.03.13 23:23
+
+Victim: Himphotep 87
+Alliance: YouWhat
+Corp: Princeps Corp
+Destroyed: Rifter
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Arbitrus (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Ship: Abaddon
+Weapon: Large 'Vehemence' I Shockwave Charge
+
+
+Destroyed items:
+
+200mm AutoCannon I
+200mm AutoCannon I
+200mm AutoCannon I
+EMP S, Qty: 112
+1MN MicroWarpdrive I
+X5 Prototype I Engine Enervator
+Capacitor Power Relay I
+Capacitor Power Relay I
+Basic Miner (Cargo)
+EMP S, Qty: 1018 (Cargo)
+True Sanshas Microwave S (Cargo)
+

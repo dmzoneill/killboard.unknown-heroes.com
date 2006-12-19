@@ -1,0 +1,100 @@
+2007.04.25 22:50
+
+Victim: Vily
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Destroyed: Buzzard
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Dana Foxworth
+Security: 3.7
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Hurricane
+Weapon: 720mm Howitzer Artillery I
+
+Name: Ghu'ru Talozan
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Celestis
+Weapon: Warrior I
+
+Name: Kayron Brennan
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Corovus (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Arazu
+Weapon: Thunderbolt Heavy Missile
+
+Name: Minisoza
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ares
+Weapon: Sabretooth Light Missile
+
+Name: coldkill
+Security: 1.9
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: FlobbMkII
+Security: 4.4
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Eris
+Weapon: E5 Prototype Energy Vampire
+
+Name: R4Z0R49
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: Feel Good Inc.
+Ship: Crow
+Weapon: Standard Missile Launcher I
+
+Name: Kee Ris
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Crucifier
+Weapon: 'Abandon' Targeting Disruptor I
+
+Name: Imaginary Number
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Incursus
+Weapon: Stasis Webifier I
+
+Name: Dark Carnage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Gila
+Weapon: Assault Missile Launcher II
+
+
+Destroyed items:
+
+Covert Ops Cloaking Device II
+Snoop Scanner Probe I, Qty: 40
+Fixed Parallel Link-Capacitor I
+Sensor Booster II
+Fathom Scanner Probe I, Qty: 18 (Cargo)
+Snoop Scanner Probe I, Qty: 19 (Cargo)
+Spook Scanner Probe I, Qty: 10 (Cargo)
+Ferret Scanner Probe I, Qty: 10 (Cargo)
+

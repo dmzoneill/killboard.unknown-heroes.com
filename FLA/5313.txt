@@ -1,0 +1,132 @@
+2007.04.24 02:59
+
+Victim: Ghu'ru Talozan
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Brutix
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Wraithstorm
+Security: 3.1
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Arazu
+Weapon: Arazu
+
+Name: Konson
+Security: 3.7
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Vengeance
+Weapon: Vengeance
+
+Name: RyMcQeN I
+Security: 4.2
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+Name: Athanasios Anastasiou
+Security: 5.0
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Akthuul
+Security: 5.0
+Alliance: Storm Armada
+Corp: stone grave haulage
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Elrid Barnes
+Security: 1.7
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Moa
+Weapon: Moa
+
+Name: Bothius
+Security: 0.4
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Taranis
+Weapon: Taranis
+
+Name: HenDar XXIII
+Security: 0.2
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Punisher
+Weapon: Punisher
+
+Name: Vlad Cetes
+Security: 4.9
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Blackbird
+Weapon: Bloodclaw Light Missile
+
+Name: Evil Bunnies
+Security: 0.2
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Blackbird
+Weapon: Scourge Heavy Missile
+
+Name: privateer32
+Security: 5.1
+Alliance: Federation Of united Corps
+Corp: Legion of Corpses
+Ship: Flycatcher
+Weapon: Standard Missile Launcher I
+
+Name: Hojou (laid the final blow)
+Security: 0.3
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Incursus
+Weapon: 150mm Railgun I
+
+Name: Hughwasit
+Security: 1.2
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Kestrel
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: Screamer
+Security: 0.8
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Manticore
+Weapon: Cruise Missile Launcher II
+
+Name: Altair Mogwa
+Security: 0.6
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Unknown
+Weapon: Warp Disruptor I
+
+
+Destroyed items:
+
+E50 Prototype Energy Vampire
+Medium Graviton Smartbomb I
+Medium Rudimentary Concussion Bomb I
+Antimatter Charge M, Qty: 240
+10MN Afterburner I
+Warp Disruptor I
+Stasis Webifier I
+Damage Control I
+Medium Armor Repairer I
+Type-D Power Core Modification: Reaction Control
+Cap Booster 800, Qty: 10 (Cargo)
+Warrior I, Qty: 10 (Drone Bay)
+

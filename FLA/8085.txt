@@ -1,0 +1,38 @@
+2006.10.09 04:03
+
+Victim: TasKu
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Destroyed: Taranis
+System: Oipo
+Security: 0.8
+
+Involved parties:
+
+Name: Danno
+Security: -1.4
+Alliance: None
+Corp: Privateers
+Ship: Harpy
+Weapon: Harpy
+
+Name: Admiral Black (laid the final blow)
+Security: -1.6
+Alliance: None
+Corp: Privateers
+Ship: Rupture
+Weapon: 650mm Artillery Cannon I
+
+
+Destroyed items:
+
+125mm Railgun II
+125mm Railgun II
+Spike S, Qty: 150
+1MN Afterburner I
+J5 Prototype Warp Inhibitor I
+10MN Afterburner I (Cargo)
+125mm Railgun I (Cargo)
+Spike S, Qty: 635 (Cargo)
+Expanded Cargohold I (Cargo)
+

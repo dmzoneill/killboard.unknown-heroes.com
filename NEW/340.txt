@@ -1,0 +1,60 @@
+2007.03.12 12:07
+
+Victim: J6hkard
+Alliance: Chorus of Dawn
+Corp: Cosmic Odyssey
+Destroyed: Raven
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Cockroach
+Security: 4.8
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Apocalypse
+Weapon: Vespa I
+
+Name: Ethan Hawk
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Cataclysm Enterprises
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Nukuquqa Hestase (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: WolfRavage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Hyperion
+Weapon: Hyperion
+
+Name: Epro
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Thrasher
+Weapon: 200mm AutoCannon I
+
+
+Destroyed items:
+
+Salvager I, Qty: 36
+Juggernaut Torpedo, Qty: 80
+'Arbalest' Siege Missile Launcher
+ZW-4100 Siege Missile Bay, Qty: 3
+Small Tractor Beam I
+F-S8 Relativistic Deflection Shield Induction
+Heat Dissipation Amplifier I
+Target Painter I
+Damage Control I
+Ballistic Control System I, Qty: 2
+Vespa I, Qty: 2 (Drone Bay)

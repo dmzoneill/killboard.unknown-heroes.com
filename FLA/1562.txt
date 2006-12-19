@@ -1,0 +1,43 @@
+2007.03.16 22:59
+
+Victim: drakandu
+Alliance: YouWhat
+Corp: Princeps Corp
+Destroyed: Stabber
+System: E-Z2ZX
+Security: 0.0
+
+Involved parties:
+
+Name: Puz'ZaW (laid the final blow)
+Security: 2.7
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Claw
+Weapon: 200mm AutoCannon II
+
+Name: Rinsith
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Taranis
+Weapon: Taranis
+
+
+Destroyed items:
+
+Fusion M, Qty: 22
+Bloodclaw Light Missile, Qty: 114
+Assault Missile Launcher I
+Assault Missile Launcher I
+10MN MicroWarpdrive I
+Warp Disruptor I
+Capacitor Power Relay I
+Capacitor Power Relay I
+Fusion M, Qty: 2185 (Cargo)
+Multifrequency L (Cargo)
+Signal Amplifier I (Cargo)
+Bloodclaw Light Missile, Qty: 69 (Cargo)
+Drone Link Augmentor I (Cargo)
+Hornet I (Drone Bay)
+

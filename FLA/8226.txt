@@ -1,0 +1,24 @@
+2006.11.05 20:14
+
+Victim: josh51
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Destroyed: Reaper
+System: Torrinos
+Security: 0.5
+
+Involved parties:
+
+Name: PheonixFlight (laid the final blow)
+Security: -1.9
+Alliance: None
+Corp: The Initiative
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+
+Destroyed items:
+
+Civilian Gatling Autocannon
+Basic Miner
+

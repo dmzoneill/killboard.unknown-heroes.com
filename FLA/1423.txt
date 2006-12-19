@@ -1,0 +1,32 @@
+2007.03.13 05:57
+
+Victim: misterioso
+Alliance: Chorus of Dawn
+Corp: Cosmic Odyssey
+Destroyed: Imicus
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Danielson1012 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Kandread
+Security: 0.6
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Claw
+Weapon: 250mm Light Artillery Cannon II
+
+
+Destroyed items:
+
+Prototype Cloaking Device I
+Co-Processor II
+Fathom Scanner Probe I, Qty: 48 (Cargo)
+

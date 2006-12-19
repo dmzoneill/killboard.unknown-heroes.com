@@ -1,0 +1,75 @@
+2007.01.15 18:29
+
+Victim: Ulmeck
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Rupture
+System: 3QE-9Q
+Security: 0.0
+
+Involved parties:
+
+Name: whisk (laid the final blow)
+Security: -0.2
+Alliance: None
+Corp: 0utbreak
+Ship: Vagabond
+Weapon: Dual 180mm AutoCannon II
+
+Name: Incinate
+Security: 2.6
+Alliance: None
+Corp: 0utbreak
+Ship: Vagabond
+Weapon: Hobgoblin II
+
+Name: TheAvatar
+Security: -0.4
+Alliance: None
+Corp: 0utbreak
+Ship: Vagabond
+Weapon: Warrior II
+
+Name: Leilani Solaris
+Security: -1.6
+Alliance: None
+Corp: 0utbreak
+Ship: Sacrilege
+Weapon: Sacrilege
+
+Name: Vorag
+Security: -0.7
+Alliance: None
+Corp: 0utbreak
+Ship: Vagabond
+Weapon: Warrior II
+
+Name: EnglishBob
+Security: 0.3
+Alliance: None
+Corp: 0utbreak
+Ship: Curse
+Weapon: Valkyrie II
+
+Name: Waut
+Security: 4.5
+Alliance: None
+Corp: 0utbreak
+Ship: Crow
+Weapon: Phalanx Rocket
+
+
+Destroyed items:
+
+200mm AutoCannon I
+200mm AutoCannon I
+Proton S, Qty: 200
+Flameburst Light Missile, Qty: 40
+Piranha Light Missile, Qty: 40
+Sabretooth Light Missile, Qty: 42
+10MN MicroWarpdrive I
+Stasis Webifier I
+1600mm Reinforced Steel Plates I
+Beta Reactor Control: Capacitor Power Relay I
+Vespa I (Drone Bay)
+

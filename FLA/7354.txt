@@ -1,0 +1,86 @@
+2006.08.15 18:58
+
+Victim: AlianWare
+Alliance: None
+Corp: LDK
+Destroyed: Flycatcher
+System: OWXT-5
+Security: 0.0
+
+Involved parties:
+
+Name: Shiri elAzarinres
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Caracal
+Weapon: Havoc Heavy Missile
+
+Name: LiBraga (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Cerberus
+Weapon: Scourge Heavy Missile
+
+Name: Matt Stoner
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Cerberus
+Weapon: Scourge Heavy Missile
+
+Name: Jumar Coldgin
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Harpy
+Weapon: Harpy
+
+Name: Rick A
+Security: 4.1
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Merlin
+Weapon: Merlin
+
+Name: Skornik
+Security: 2.8
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Thorax
+Weapon: Thorax
+
+Name: Orangutang
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: London Transport
+Ship: Crow
+Weapon: Warp Disruptor I
+
+Name: Nimbu
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: J.I.T. Enterprises
+Ship: Enyo
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: Mal Hondo
+Security: 0.6
+Alliance: Freelancer Alliance
+Corp: THeOThErs
+Ship: Blackbird
+Weapon: ECM - Multispectral Jammer I
+
+
+Destroyed items:
+
+Prototype Cloaking Device I
+Thorn Rocket, Qty: 124
+Rocket Launcher II
+Rocket Launcher II
+Interdiction Sphere Launcher I
+Phased Monopropellant I Hydrazine Boosters
+X5 Prototype I Engine Enervator
+Supplemental Scanning CPU I
+

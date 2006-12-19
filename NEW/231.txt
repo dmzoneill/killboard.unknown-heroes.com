@@ -1,0 +1,32 @@
+2007.02.11 09:56
+
+Victim: XtyphoonX
+Alliance: None
+Corp: Ratio Decidendi
+Destroyed: Capsule
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: FlobbMkII (laid the final blow)
+Security: 4.0
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Catalyst
+Weapon: 125mm Railgun II
+
+Name: silvrhawk
+Security: 4.4
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Crow
+Weapon: Gremlin Rocket
+
+Name: Nukuquqa Hestase
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Catalyst
+Weapon: Catalyst
+

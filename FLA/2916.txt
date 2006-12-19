@@ -1,0 +1,47 @@
+2007.03.16 13:43
+
+Victim: IBIRIETT
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Destroyed: Capsule
+System: E-Z2ZX
+Security: 0.0
+
+Involved parties:
+
+Name: Tzulan
+Security: 2.8
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Heretic
+Weapon: Piranha Light Missile
+
+Name: The Ali (laid the final blow)
+Security: -3.2
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: volly
+Security: 3.1
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Curse
+Weapon: 'Arbalest' Heavy Missile Launcher
+
+Name: Wodanonline
+Security: 4.6
+Alliance: YouWhat
+Corp: Pringles Inc.
+Ship: Purifier
+Weapon: 'Arbalest' Cruise Launcher I
+
+Name: IsmaelYU5 Iluvatar
+Security: 5.0
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Taranis
+Weapon: X5 Prototype I Engine Enervator
+
+

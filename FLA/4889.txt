@@ -1,0 +1,32 @@
+2007.04.18 17:24
+
+Victim: Rhaall
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Crucifier
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Trooper B99 (laid the final blow)
+Security: 1.1
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Drake
+Weapon: Bloodclaw Light Missile
+
+Name: Fitz Farseer
+Security: 0.5
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Hound
+Weapon: 'Arbalest' Cruise Launcher I
+
+
+Destroyed items:
+
+Stasis Webifier I
+Energized Adaptive Nano Membrane I
+Inertia Stabilizers I
+

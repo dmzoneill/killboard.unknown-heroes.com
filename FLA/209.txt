@@ -1,0 +1,71 @@
+2007.01.18 03:52
+
+Victim: DeasGuCath
+Alliance: None
+Corp: Fate.
+Destroyed: Malediction
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Xantheris
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Harpy
+Weapon: Harpy
+
+Name: KriegDrachen
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Sabre
+Weapon: Sabre
+
+Name: Goca (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Drake
+Weapon: Widowmaker Heavy Missile
+
+Name: TiMeZeRo225
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: J.I.T. Enterprises
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: dastommy79
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Thorax
+Weapon: Stasis Webifier I
+
+Name: Jaig Maldara
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Raptor
+Weapon: Fleeting Propulsion Inhibitor I
+
+Name: Fugnut
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Drake
+Weapon: Advanced 'Limos' Heavy Missile Bay I
+
+
+Destroyed items:
+
+Dual Light Pulse Laser II
+Multifrequency S
+Sabretooth Light Missile, Qty: 44
+Upgraded 'Limos' Standard Missile Bay I
+Phased Monopropellant I Hydrazine Boosters
+Small Armor Repairer I
+Sabretooth Light Missile, Qty: 1548 (Cargo)
+

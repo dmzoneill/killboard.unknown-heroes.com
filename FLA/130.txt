@@ -1,0 +1,70 @@
+2007.01.12 17:55
+
+Victim: BLOOD THIRSTY
+Alliance: None
+Corp: Imperial Academy
+Destroyed: Heretic
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: CENTUREAN (laid the final blow)
+Security: 2.3
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Brutix
+Weapon: Heavy Neutron Blaster I
+
+Name: coldkill
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Ishkur
+Weapon: Hammerhead II
+
+Name: Ocara Nezus
+Security: 1.6
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: mrrabit
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Rupture
+Weapon: Bloodclaw Light Missile
+
+Name: Soldroz
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Raptor
+Weapon: Raptor
+
+
+Destroyed items:
+
+Dual Afocal Pulse Maser I
+Multifrequency S
+Multifrequency S
+Warp Disrupt Probe
+Warp Disrupt Probe
+Warp Disrupt Probe
+Interdiction Sphere Launcher I
+1MN MicroWarpdrive I
+Small 'Accommodation' Vestment Reconstructer I
+200mm Reinforced Rolled Tungsten Plates I
+400mm Reinforced Rolled Tungsten Plates I
+Shield Recharger II (Cargo)
+Initiated Warp Jammer I (Cargo)
+Dual Light Beam Laser I (Cargo)
+Systematic Damage Control (Cargo)
+E5 Prototype Energy Vampire (Cargo)
+Medium Nosferatu I (Cargo)
+Tungsten Charge S, Qty: 40 (Cargo)
+Null S, Qty: 337 (Cargo)
+Beta Reactor Control: Diagnostic System I (Cargo)
+

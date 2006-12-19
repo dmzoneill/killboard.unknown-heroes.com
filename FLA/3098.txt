@@ -1,0 +1,155 @@
+2007.03.25 00:00
+
+Victim: DenisSse
+Alliance: YouWhat
+Corp: Pringles Inc.
+Destroyed: Drake
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Nimbu (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: J.I.T. Enterprises
+Ship: Rokh
+Weapon: 425mm Railgun I
+
+Name: StrikerOneSevern
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Rupture
+Weapon: Hornet II
+
+Name: Sabe
+Security: 5.0
+Alliance: Red Horizon
+Corp: Red Horizon Inc
+Ship: Gila
+Weapon: Gila
+
+Name: Fugnut
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Drake
+Weapon: Thunderbolt Heavy Missile
+
+Name: Logand Delta
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: sakana
+Security: -0.9
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Megathron
+Weapon: 425mm 'Scout' I Accelerator Cannon
+
+Name: Darthirishguy
+Security: 1.6
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Drake
+Weapon: XR-3200 Heavy Missile Bay
+
+Name: Jonkai
+Security: -3.9
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: ISpydeRI
+Security: 5.0
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Drake
+Weapon: Thunderbolt Heavy Missile
+
+Name: Iss Hogai
+Security: 5.0
+Alliance: Zenith Affinity
+Corp: GREY COUNCIL
+Ship: Caracal
+Weapon: Havoc Heavy Missile
+
+Name: HYT gangster
+Security: 1.5
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Claw
+Weapon: 150mm Light AutoCannon II
+
+Name: truefranco
+Security: 4.7
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Flycatcher
+Weapon: Bloodclaw Light Missile
+
+Name: Jonas123
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Rokh
+Weapon: Rokh
+
+Name: EvilBadger
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Hawk
+Weapon: Gremlin Rocket
+
+Name: Kerdrak
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Apocalypse
+Weapon: Apocalypse
+
+Name: Denaris1
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Ferox
+Weapon: Ferox
+
+Name: Korudon
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Minisoza
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ishkur
+Weapon: Ishkur
+
+
+Destroyed items:
+
+Havoc Heavy Missile, Qty: 32
+Thunderbolt Heavy Missile, Qty: 64
+Scourge Heavy Missile, Qty: 32
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+Large C5-L Emergency Shield Overload I
+F-b10 Nominal Capacitor Regenerator
+Ionic Field Accelerator I
+Ballistic Control System I
+Power Diagnostic System I
+Thunderbolt Heavy Missile, Qty: 3091 (Cargo)
+Scourge Heavy Missile, Qty: 3738 (Cargo)
+

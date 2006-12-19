@@ -1,0 +1,23 @@
+2007.04.22 17:10
+
+Victim: Rhaall
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Executioner
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Rukaz (laid the final blow)
+Security: 3.1
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+Energized Adaptive Nano Membrane I
+

@@ -1,0 +1,33 @@
+2007.03.22 10:37
+
+Victim: Amlina
+Alliance: None
+Corp: GYR corp
+Destroyed: Capsule
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Corovus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Nemesis
+Weapon: Nemesis
+
+Name: forever faithless (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Manticore
+Weapon: Paradise Cruise Missile
+
+Name: sir spacemonkey
+Security: -5.8
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+

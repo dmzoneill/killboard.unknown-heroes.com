@@ -1,0 +1,26 @@
+2007.03.25 00:06
+
+Victim: mama guru
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Destroyed: Capsule
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: TNT 1
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: The Night Crew
+Ship: Hawk
+Weapon: Flameburst Light Missile
+
+Name: Korudon (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+

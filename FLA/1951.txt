@@ -1,0 +1,40 @@
+2007.01.12 17:53
+
+Victim: mr passie
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Destroyed: Jaguar
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Crucifier
+Security: 0.3
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: ETS4ME (laid the final blow)
+Security: 0.7
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Wrath Cruise Missile
+
+
+Destroyed items:
+
+150mm Light AutoCannon II
+150mm Light AutoCannon II
+Barrage S, Qty: 71
+Bloodclaw Light Missile, Qty: 40
+'Malkuth' Standard Missile Launcher I
+1MN MicroWarpdrive I
+Initiated Warp Jammer I
+Ballistic Deflection Field I
+Power Diagnostic System II
+Power Diagnostic System II
+Barrage S, Qty: 1321 (Cargo)
+

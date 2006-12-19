@@ -1,0 +1,57 @@
+2007.04.18 19:15
+
+Victim: Terdlinger
+Alliance: Storm Armada
+Corp: stone grave haulage
+Destroyed: Manticore
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: nye 2k (laid the final blow)
+Security: 5.0
+Alliance: A Few Good Men.
+Corp: Silver Snake Enterprise
+Ship: Thanatos
+Weapon: Firbolg
+
+Name: The Cade
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Thorax
+Weapon: Warp Disruptor I
+
+Name: Steven FSB
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Chimera
+Weapon: Dragonfly
+
+Name: Splinter5150
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Ship: Caracal
+Weapon: SV-2000 Assault Missile Bay
+
+Name: Bobby Atlas
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Thanatos
+Weapon: Firbolg
+
+
+Destroyed items:
+
+Wrath Cruise Missile, Qty: 66
+'Arbalest' Cruise Launcher I
+Warp Disruptor II
+X5 Prototype I Engine Enervator
+Sensor Booster II
+Civilian Light Electron Blaster (Cargo)
+Wrath Cruise Missile, Qty: 940 (Cargo)
+

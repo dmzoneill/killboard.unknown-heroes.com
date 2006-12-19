@@ -1,0 +1,68 @@
+2006.08.16 15:47
+
+Victim: Sha'ara Sha'amashira
+Alliance: Freelancer Alliance
+Corp: J.I.T. Enterprises
+Destroyed: Hoarder
+System: O-CNPR
+Security: 0.0
+
+Involved parties:
+
+Name: Mar Drakar (laid the final blow)
+Security: 3.7
+Alliance: None
+Corp: LDK
+Ship: Ares
+Weapon: Light Neutron Blaster II
+
+
+Destroyed items:
+
+200mm AutoCannon II
+Small Shield Booster I
+Medium Converse I Deflection Catalyzer (Cargo)
+Cold-Gas I Arcjet Thrusters (Cargo)
+'Dactyl' Type-E Asteroid Analyzer (Cargo)
+Medium Modal Pulse Laser I, Qty: 2 (Cargo)
+280mm 'Scout' Artillery I (Cargo)
+Pseudoelectron Containment Field I (Cargo)
+Medium F-4a Ld-Sulfate I Capacitor Charge Unit (Cargo)
+Medium Peroxide I Capacitor Power Cell (Cargo)
+Small Ohm Capacitor Reserve I (Cargo)
+Small 'Accommodation' Vestment Reconstructer I (Cargo)
+Medium I-b Polarized Structural Regenerator (Cargo)
+'Langour' Drive Disruptor I, Qty: 2 (Cargo)
+Murky Energy Transmitter I (Cargo)
+Small 'Knave' I Energy Drain (Cargo)
+'Anointed' I EM Ward Reinforcement (Cargo)
+Explosion Dampening Field I (Cargo)
+Nuclear S, Qty: 434 (Cargo)
+Depleted Uranium S, Qty: 5023 (Cargo)
+Proton S, Qty: 4833 (Cargo)
+Vespa I, Qty: 2 (Cargo)
+Hornet I, Qty: 4 (Cargo)
+Acolyte I, Qty: 5 (Cargo)
+Infiltrator I, Qty: 2 (Cargo)
+Mining Drone I, Qty: 3 (Cargo)
+'Hypnos' Ion Field ECM I, Qty: 2 (Cargo)
+ECM - Spatial Destabilizer I (Cargo)
+F-12 Nonlinear Tracking Processor (Cargo)
+Basic Magnetic Scattering Amplifier (Cargo)
+Voltaic Nanite Thermic Hardener I, Qty: 2 (Cargo)
+Microcell Nanite EM Hardener I (Cargo)
+Radioisotope Kinetic Hardener I (Cargo)
+50mm Reinforced Rolled Tungsten Plates I (Cargo)
+Bloodclaw Light Missile, Qty: 500 (Cargo)
+Strip Miner I, Qty: 2 (Cargo)
+Ice Harvester I, Qty: 2 (Cargo)
+Upgraded 'Limos' Standard Missile Bay I (Cargo)
+Compact 'Limos' Assault Missile Bay I (Cargo)
+Ice Harvester Upgrade I (Cargo)
+Small Tractor Beam I (Cargo)
+Type-E Altered SS Overdrive Injector (Cargo)
+Power Diagnostic System I (Cargo)
+Basic Power Diagnostic System (Cargo)
+Basic Reactor Control Unit, Qty: 4 (Cargo)
+Reactor Control Unit I (Cargo)
+

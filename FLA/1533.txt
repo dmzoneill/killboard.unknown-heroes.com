@@ -1,0 +1,65 @@
+2007.03.15 19:50
+
+Victim: Bigyboo
+Alliance: None
+Corp: The Descent
+Destroyed: Merlin
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Sanal Gi
+Security: 1.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Raven
+Weapon: Ogre I
+
+Name: Mocuker
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+Name: Weeble Wooble (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Megathron
+Weapon: Infiltrator II
+
+Name: Frau Formaggio
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Blackbird
+Weapon: ECM - Spatial Destabilizer II
+
+Name: Mauy Thai
+Security: -1.3
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Curse
+Weapon: Medium Nosferatu II
+
+Name: Burn Lump
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Drake
+Weapon: Assault Missile Launcher I
+
+
+Destroyed items:
+
+150mm Railgun I
+Antimatter Charge S, Qty: 28
+Medium C5-L Emergency Shield Overload I
+Magnetic Field Stabilizer I
+Reactor Control Unit I
+Uranium Charge S, Qty: 500 (Cargo)
+Plutonium Charge S, Qty: 508 (Cargo)
+Lead Charge S, Qty: 702 (Cargo)
+

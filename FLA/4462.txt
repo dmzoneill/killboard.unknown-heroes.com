@@ -1,0 +1,63 @@
+2007.04.10 22:46
+
+Victim: Draconian Arcane
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Destroyed: Tempest
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Stradivarious
+Security: 3.7
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Nidhoggur
+Weapon: Einherji
+
+Name: Rukaz
+Security: 3.1
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Crow
+Weapon: 'Arbalest' Standard Missile Launcher
+
+Name: Max Teranous (laid the final blow)
+Security: -1.2
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Claw
+Weapon: 200mm AutoCannon II
+
+Name: Crovan
+Security: 2.8
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Taranis
+Weapon: Taranis
+
+
+Destroyed items:
+
+1400mm Howitzer Artillery I
+1400mm Howitzer Artillery I
+Nuclear L, Qty: 28
+Wrath Cruise Missile, Qty: 16
+Cataclysm Cruise Missile
+Cataclysm Cruise Missile
+Cataclysm Cruise Missile
+Cataclysm Cruise Missile
+Cataclysm Cruise Missile
+Cataclysm Cruise Missile
+Cataclysm Cruise Missile
+Cataclysm Cruise Missile
+Heat Dissipation Amplifier I
+Tracking Enhancer II
+Large Subordinate Screen Stabilizer I (Cargo)
+Fusion L, Qty: 256 (Cargo)
+EMP L, Qty: 283 (Cargo)
+Devastator Cruise Missile, Qty: 100 (Cargo)
+Power Diagnostic System I (Cargo)
+Type-D Power Core Modification: Reaction Control (Cargo)
+

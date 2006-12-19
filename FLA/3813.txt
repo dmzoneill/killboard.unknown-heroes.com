@@ -1,0 +1,99 @@
+2007.04.01 21:01
+
+Victim: Kristian Dugat
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Destroyed: Apocalypse
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Enosh Kerrim
+Security: -1.8
+Alliance: S.E.R.A
+Corp: Seraphin Technologies
+Ship: Thanatos
+Weapon: Dragonfly
+
+Name: Olli
+Security: -0.1
+Alliance: S.E.R.A
+Corp: Seraphin Technologies
+Ship: Chimera
+Weapon: Raysere's Modified Heavy Energy Neutralizer
+
+Name: Morgena (laid the final blow)
+Security: -0.9
+Alliance: S.E.R.A
+Corp: Seraphin Technologies
+Ship: Thanatos
+Weapon: Firbolg
+
+Name: Wotan I
+Security: 4.7
+Alliance: S.E.R.A
+Corp: Seraphin Technologies
+Ship: Thanatos
+Weapon: Firbolg
+
+Name: Tracerone
+Security: 5.0
+Alliance: S.E.R.A
+Corp: Seraphin Technologies
+Ship: Nidhoggur
+Weapon: Firbolg
+
+Name: Eteoneus
+Security: 0.5
+Alliance: S.E.R.A
+Corp: Seraphin Technologies
+Ship: Claymore
+Weapon: Claymore
+
+Name: c0rn1
+Security: -2.2
+Alliance: S.E.R.A
+Corp: Seraphin Technologies
+Ship: Nidhoggur
+Weapon: Heavy Unstable Power Fluctuator I
+
+Name: Menf
+Security: 2.1
+Alliance: S.E.R.A
+Corp: Seraphin Technologies
+Ship: Chimera
+Weapon: 500W Infectious Power System Malfunction
+
+Name: Captain Black
+Security: 1.7
+Alliance: S.E.R.A
+Corp: Seraphin Technologies
+Ship: Archon
+Weapon: Dragonfly
+
+
+Destroyed items:
+
+Mega Pulse Laser II
+Mega Pulse Laser II
+Mega Pulse Laser II
+Heavy 'Ghoul' Energy Siphon I
+Heavy 'Ghoul' Energy Siphon I
+Multifrequency L
+Multifrequency L
+F-b10 Nominal Capacitor Regenerator
+X5 Prototype I Engine Enervator
+Heavy Capacitor Booster II
+Cap Booster 800
+Cap Booster 800
+Cap Booster 800
+Cap Booster 800
+Cap Booster 800
+Large Armor Repairer II
+Large Armor Repairer II
+Heat Sink II
+Energized Adaptive Nano Membrane II
+Local Power Plant Manager: Capacity Power Relay I
+Vespa I (Drone Bay)
+

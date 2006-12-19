@@ -1,0 +1,53 @@
+2007.01.07 01:11
+
+Victim: Inter Fectum
+Alliance: Freelancer Alliance
+Corp: Sin-X Inc.
+Destroyed: Stabber
+System: Aunenen
+Security: 0.4
+
+Involved parties:
+
+Name: Elliott Manchild (laid the final blow)
+Security: -2.8
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Sleipnir
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: DarkEternal
+Security: -1.1
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: taylor04
+Security: 0.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Armageddon
+Weapon: Heavy Diminishing Power System Drain I
+
+Name: Spinsq
+Security: -1.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Ishtar
+Weapon: X5 Prototype I Engine Enervator
+
+
+Destroyed items:
+
+220mm Vulcan AutoCannon I
+EMP M, Qty: 63
+Phased Plasma M, Qty: 72
+'Malkuth' Assault Missile Launcher I
+SV-2000 Assault Missile Bay
+Large Azeotropic Ward Salubrity I
+10MN MicroWarpdrive I
+Stasis Webifier I
+Inertia Stabilizers I
+Nanofiber Internal Structure I
+

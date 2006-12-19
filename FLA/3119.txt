@@ -1,0 +1,26 @@
+2007.03.25 00:09
+
+Victim: Hunter Roshak
+Alliance: YouWhat
+Corp: SteelVipers
+Destroyed: Capsule
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: HYT gangster (laid the final blow)
+Security: 1.5
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Claw
+Weapon: 150mm Light AutoCannon II
+
+Name: Iss Hogai
+Security: 5.0
+Alliance: Zenith Affinity
+Corp: GREY COUNCIL
+Ship: Caracal
+Weapon: Heavy Missile Launcher I
+
+

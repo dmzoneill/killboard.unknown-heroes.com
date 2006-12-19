@@ -1,0 +1,26 @@
+2007.01.08 01:11
+
+Victim: Morfane
+Alliance: Privateer Alliance
+Corp: Apostles of Insanity
+Destroyed: Taranis
+System: Renyn
+Security: 0.9
+
+Involved parties:
+
+Name: drullir (laid the final blow)
+Security: 3.5
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Thorax
+Weapon: Anode Ion Particle Cannon I
+
+
+Destroyed items:
+
+Light Neutron Blaster II
+Void S, Qty: 107
+PL-0 Shipment Probe
+Signal Amplifier II
+Void S, Qty: 408 (Cargo)

@@ -1,0 +1,27 @@
+2006.11.05 16:11
+
+Victim: john malikhi
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Destroyed: Nemesis
+System: Uemisaisen
+Security: 0.6
+
+Involved parties:
+
+Name: Yarek Balear (laid the final blow)
+Security: -1.8
+Alliance: None
+Corp: The Initiative
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+
+Destroyed items:
+
+Antimatter Charge S, Qty: 200
+'Malkuth' Cruise Launcher I
+'Malkuth' Cruise Launcher I
+1MN Afterburner II
+Fleeting Progressive Warp Scrambler I
+

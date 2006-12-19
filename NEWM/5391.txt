@@ -1,0 +1,107 @@
+2007.04.28 20:16
+
+Victim: ClogMan
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Rupture
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Indiano Arko
+Security: 0.6
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Hurricane
+Weapon: 720mm Howitzer Artillery I
+
+Name: Reverend Revelator
+Security: 1.5
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Brutix
+Weapon: Valkyrie II
+
+Name: LeZip
+Security: 1.2
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Kestrel
+Weapon: Bloodclaw Light Missile
+
+Name: RyMcQeN I (laid the final blow)
+Security: 4.3
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+Name: Kitti Fatale
+Security: -3.9
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+Name: Evil Bunnies
+Security: 0.3
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Blackbird
+Weapon: Scourge Heavy Missile
+
+Name: Konson
+Security: 3.7
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Retribution
+Weapon: Retribution
+
+Name: Hojou
+Security: 0.4
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Incursus
+Weapon: 125mm Carbide Railgun I
+
+Name: Fitz Farseer
+Security: 0.5
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Rupture
+Weapon: 220mm Vulcan AutoCannon I
+
+Name: Vlad Cetes
+Security: 5.0
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Blackbird
+Weapon: Halting Phase Inversion ECM I
+
+Name: Ralin Bek
+Security: 1.4
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Rifter
+Weapon: Rifter
+
+
+Destroyed items:
+
+720mm Howitzer Artillery II
+720mm Howitzer Artillery II
+EMP M
+EMP M
+EMP M
+EMP M
+EMP M
+Bloodclaw Light Missile, Qty: 39
+Upgraded 'Limos' Standard Missile Bay I
+Warp Disruptor I
+Prototype I Sensor Booster
+800mm Reinforced Steel Plates II
+Flameburst Light Missile (Cargo)
+Widowmaker Heavy Missile, Qty: 500 (Cargo)
+Warrior I, Qty: 2 (Drone Bay)
+

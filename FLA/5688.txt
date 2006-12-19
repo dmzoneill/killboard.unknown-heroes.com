@@ -1,0 +1,38 @@
+2006.10.09 22:46
+
+Victim: Arti2006
+Alliance: None
+Corp: The Scope
+Destroyed: Velator
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: DarkJester (laid the final blow)
+Security: 0.7
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery I
+
+Name: TheBelgarion
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Caracal
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+Name: DanyD
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Ship: Crow
+Weapon: TE-2100 Standard Missile Bay
+
+
+Destroyed items:
+
+Civilian Light Electron Blaster
+Tritanium (Cargo)
+

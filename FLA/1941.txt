@@ -1,0 +1,51 @@
+2007.01.12 04:39
+
+Victim: Pestily
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Destroyed: Rook
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Torok Nakaht (laid the final blow)
+Security: 1.2
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Juggernaut Kell
+Security: -0.1
+Alliance: None
+Corp: 0utbreak
+Ship: Curse
+Weapon: Valkyrie II
+
+Name: xVx Skillgannon
+Security: 0.3
+Alliance: None
+Corp: Fate.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Phonix
+Security: 0.1
+Alliance: None
+Corp: Fate.
+Ship: Curse
+Weapon: Medium Nosferatu II
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 400
+Assault Missile Launcher II
+Assault Missile Launcher II
+Assault Missile Launcher II
+ECM - Spatial Destabilizer II
+ECM - Spatial Destabilizer II
+Sensor Booster II
+Bloodclaw Light Missile, Qty: 695 (Cargo)
+

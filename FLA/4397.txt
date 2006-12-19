@@ -1,0 +1,58 @@
+2007.04.09 02:35
+
+Victim: Porti
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Destroyed: Stabber
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Redginald (laid the final blow)
+Security: 4.5
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Hurricane
+Weapon: 425mm AutoCannon II
+
+Name: END3R 101
+Security: -0.7
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Damnation
+Weapon: Damnation
+
+Name: Crypt Layer
+Security: 3.6
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Taranis
+Weapon: 125mm Railgun II
+
+Name: Rukaz
+Security: 3.1
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Spacebar
+Security: 2.1
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Jaguar
+Weapon: 150mm Light AutoCannon II
+
+
+Destroyed items:
+
+220mm Vulcan AutoCannon II
+Barrage M, Qty: 109
+Assault Missile Launcher I
+10MN Afterburner II
+Warp Disruptor I
+Gyrostabilizer II
+Medium Armor Repairer II
+Barrage M, Qty: 1470 (Cargo)
+

@@ -1,0 +1,19 @@
+2007.04.10 12:36
+
+Victim: Otto Bismarck
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Destroyed: Capsule
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: truefranco (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Flycatcher
+Weapon: Thorn Rocket
+
+

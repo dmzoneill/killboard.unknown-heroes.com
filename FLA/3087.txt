@@ -1,0 +1,40 @@
+2007.03.24 19:08
+
+Victim: Ssirc
+Alliance: Xelas Alliance
+Corp: Fallen Angel's
+Destroyed: Capsule
+System: RORZ-H
+Security: 0.0
+
+Involved parties:
+
+Name: ISliverI (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Arazu
+Weapon: 200mm Railgun II
+
+Name: Lillegutt
+Security: 4.0
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Ship: Thrasher
+Weapon: 250mm Light Artillery Cannon II
+
+Name: Alski
+Security: 3.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Rifter
+Weapon: Rifter
+
+Name: 3rdoffive
+Security: -0.4
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Enyo
+Weapon: Enyo
+
+

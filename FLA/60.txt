@@ -1,0 +1,61 @@
+2007.01.04 02:31
+
+Victim: Gesthar Malvani
+Alliance: Privateer Alliance
+Corp: Evil Bandit Organisation
+Destroyed: Omen
+System: Isinokka
+Security: 0.7
+
+Involved parties:
+
+Name: Blackmas
+Security: 1.2
+Alliance: Freelancer Alliance
+Corp: X.T.R
+Ship: Hyperion
+Weapon: Vespa II
+
+Name: fathitman
+Security: -1.2
+Alliance: Freelancer Alliance
+Corp: X.T.R
+Ship: Thorax
+Weapon: Hammerhead I
+
+Name: Connor Raalen (laid the final blow)
+Security: 2.0
+Alliance: Freelancer Alliance
+Corp: X.T.R
+Ship: Raven
+Weapon: Juggernaut Torpedo
+
+Name: Snibblelo
+Security: 1.3
+Alliance: O X I D E
+Corp: Independent Fleet
+Ship: Thorax
+Weapon: 150mm Railgun I
+
+Name: Rabb Darktide
+Security: 1.3
+Alliance: O X I D E
+Corp: Independent Fleet
+Ship: Blackbird
+Weapon: CZ-4 Concussive Spatial Destabilizer ECM
+
+
+Destroyed items:
+
+Focused Medium Beam Laser II
+Focused Medium Beam Laser II
+Focused Medium Beam Laser II
+Gleam M
+Y-S8 Hydrocarbon I Afterburners
+Fleeting Warp Scrambler I
+Alumel-Wired I Sensor Augmentation
+F85 Peripheral Damage System I
+Medium Armor Repairer II
+Heat Sink II
+Aurora M, Qty: 3 (Cargo)
+

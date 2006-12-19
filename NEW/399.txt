@@ -1,0 +1,115 @@
+2007.03.20 19:25
+
+Victim: Xordus
+Alliance: YouWhat
+Corp: Beasts of Burden
+Destroyed: Armageddon
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Bobby Atlas
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Hyperion
+Weapon: Hammerhead II
+
+Name: Zephia
+Security: -9.2
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Harbinger
+Weapon: Heavy Modal Pulse Laser I
+
+Name: StrikerOneSevern
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Rupture
+Weapon: Sabretooth Light Missile
+
+Name: ClogMan
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Typhoon
+Weapon: Warp Disruptor I
+
+Name: Cockroach
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Zealot
+Weapon: Zealot
+
+Name: Jaig Maldara
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Rokh
+Weapon: Rokh
+
+Name: KriegDrachen (laid the final blow)
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Sabre
+Weapon: 150mm Light AutoCannon II
+
+Name: Damfoose
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Scorpion
+Weapon: Scorpion
+
+Name: Grimes NC
+Security: 4.8
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: Quiomi
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Tregaron
+Security: 2.3
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Crow
+Weapon: Warp Disruptor II
+
+Name: Freakdevil
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Malediction
+Weapon: Malediction
+
+Name: Dark Carnage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Crow
+Weapon: Sabretooth Light Missile
+
+
+Destroyed items:
+
+Dual Heavy Modulated Pulse Energy Beam I, Qty: 3
+Gamma L, Qty: 5
+100MN Afterburner II
+Initiated Warp Jammer I
+Cap Booster 800, Qty: 5
+Heat Sink II, Qty: 2
+Energized Adaptive Nano Membrane II, Qty: 2
+Type-D Altered SS Inertial Stabilizers, Qty: 2
+Cap Booster 800, Qty: 3 (Cargo)
+Ogre I, Qty: 5 (Drone Bay)

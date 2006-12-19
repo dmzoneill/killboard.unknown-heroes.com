@@ -1,0 +1,19 @@
+2006.10.07 22:18
+
+Victim: Clive
+Alliance: None
+Corp: Soprano Corp
+Destroyed: Capsule
+System: B-9C24
+Security: 0.0
+
+Involved parties:
+
+Name: Hosanna (laid the final blow)
+Security: -0.7
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Wolf
+Weapon: 280mm Howitzer Artillery II
+
+

@@ -1,0 +1,46 @@
+2006.09.16 13:51
+
+Victim: Krakjaw
+Alliance: None
+Corp: Neogen Industries
+Destroyed: Hoarder
+System: J1AU-9
+Security: 0.0
+
+Involved parties:
+
+Name: DarkJester (laid the final blow)
+Security: 0.3
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Nidhoggur
+Weapon: Templar
+
+Name: Zasar
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Typhoon
+Weapon: 1400mm Howitzer Artillery I
+
+Name: Scorpio63
+Security: 3.8
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Apocalypse
+Weapon: Mega Beam Laser I
+
+Name: Narny
+Security: 4.8
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Raven
+Weapon: 'Arbalest' Siege Missile Launcher
+
+
+Destroyed items:
+
+Small Tractor Beam I
+Small F-S9 Regolith Shield Induction
+Cold-Gas I Arcjet Thrusters
+

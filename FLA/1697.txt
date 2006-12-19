@@ -1,0 +1,35 @@
+2007.01.01 05:23
+
+Victim: Sattracer
+Alliance: Freelancer Alliance
+Corp: X.T.R
+Destroyed: Crow
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Scythus Aratan (laid the final blow)
+Security: 4.2
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Armageddon
+Weapon: Tachyon Beam Laser II
+
+Name: SATAN
+Security: -1.0
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Cruise Missile Launcher II
+
+
+Destroyed items:
+
+Rocket Launcher I
+Standard Missile Launcher I
+1MN MicroWarpdrive I
+Quantum Co-Processor I
+Warp Core Stabilizer I
+Micro Auxiliary Power Core I
+

@@ -1,0 +1,54 @@
+2006.11.12 16:34
+
+Victim: Romay
+Alliance: None
+Corp: GeoTech
+Destroyed: Caracal
+System: 93PI-4
+Security: 0.0
+
+Involved parties:
+
+Name: Scorpio63 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Vengeance
+Weapon: Medium Pulse Laser II
+
+Name: Formosus Funus
+Security: 3.8
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: LizzyD
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: dinj
+Security: 4.7
+Alliance: Freelancer Alliance
+Corp: London Transport
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+
+Destroyed items:
+
+E50 Prototype Energy Vampire
+Thunderbolt Heavy Missile, Qty: 61
+'Malkuth' Heavy Missile Launcher I
+Medium Clarity Ward Booster I
+Medium Clarity Ward Booster I
+F-S8 Relativistic Deflection Shield Induction
+Viscoelastic EM Ward Salubrity I
+'Accord' I Core Compensation
+Ballistic Control System II
+Thunderbolt Heavy Missile, Qty: 376 (Cargo)
+Scourge Heavy Missile, Qty: 600 (Cargo)
+

@@ -1,0 +1,54 @@
+2007.03.10 06:16
+
+Victim: Sanal Gi
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Capsule
+System: QXW-PV
+Security: 0.0
+
+Involved parties:
+
+Name: mullenc (laid the final blow)
+Security: 1.4
+Alliance: Agony Empire
+Corp: Agony Unleashed
+Ship: Vexor
+Weapon: Dual 150mm 'Scout' I Accelerator Cannon
+
+Name: Kerr Talon
+Security: 1.8
+Alliance: Agony Empire
+Corp: Agony Unleashed
+Ship: Stabber
+Weapon: Heavy Missile Launcher I
+
+Name: Mitchum DuFinn
+Security: 3.9
+Alliance: Agony Empire
+Corp: Agony Unleashed
+Ship: Catalyst
+Weapon: 125mm Railgun I
+
+Name: Unit 1
+Security: 0.0
+Alliance: Agony Empire
+Corp: Agony Unleashed
+Ship: Celestis
+Weapon: Remote Sensor Dampener I
+
+Name: Rells
+Security: 1.5
+Alliance: Agony Empire
+Corp: Agony Unleashed
+Ship: Moa
+Weapon: Moa
+
+Name: Rain Finale
+Security: 0.9
+Alliance: Agony Empire
+Corp: Agony Unleashed
+Ship: Sabre
+Weapon: Fleeting Warp Scrambler I
+
+

@@ -1,0 +1,78 @@
+2007.03.05 06:26
+
+Victim: Logan Fyreite
+Alliance: Anarchy Empire
+Corp: Nubs.
+Destroyed: Mammoth
+System: Oulley
+Security: 0.3
+
+Involved parties:
+
+Name: Jesnen (laid the final blow)
+Security: -1.3
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Sacrilege
+Weapon: Focused Medium Pulse Laser II
+
+Name: VoYvod
+Security: -1.3
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Arbitrator
+Weapon: Hammerhead I
+
+
+Destroyed items:
+
+Small Nosferatu I
+Ditrigonal Thermal Barrier Crystallization I
+Ditrigonal Thermal Barrier Crystallization I
+Photon Scattering Field I
+Mark I Modified SS Expanded Cargo
+Phased Plasma S, Qty: 107127 (Cargo)
+EMP S, Qty: 232175 (Cargo)
+Titanium Sabot S, Qty: 135614 (Cargo)
+Phased Plasma L, Qty: 901 (Cargo)
+Titanium Sabot M, Qty: 68484 (Cargo)
+Fusion S, Qty: 24032 (Cargo)
+Nuclear S, Qty: 21068 (Cargo)
+Phased Plasma M, Qty: 7895 (Cargo)
+Fusion L, Qty: 2116 (Cargo)
+Carbonized Lead L, Qty: 198 (Cargo)
+EMP M, Qty: 17266 (Cargo)
+Proton S, Qty: 1057 (Cargo)
+Arch Angel Depleted Uranium S, Qty: 1000 (Cargo)
+Proton M, Qty: 5042 (Cargo)
+Antimatter Charge M, Qty: 9633 (Cargo)
+Antimatter Charge S, Qty: 34973 (Cargo)
+Iron Charge M, Qty: 300 (Cargo)
+Lead Charge S, Qty: 102 (Cargo)
+Tungsten Charge S, Qty: 100 (Cargo)
+Uranium Charge S, Qty: 100 (Cargo)
+Sanshas Infrared S (Cargo)
+Sanshas Microwave M, Qty: 2 (Cargo)
+Sanshas Radio M, Qty: 6 (Cargo)
+Cap Booster 400, Qty: 48 (Cargo)
+Cap Booster 800, Qty: 185 (Cargo)
+Defender I, Qty: 408 (Cargo)
+Frozen Food, Qty: 20 (Cargo)
+Exotic Dancers, Qty: 47 (Cargo)
+Marines, Qty: 10 (Cargo)
+Serpentis Ship Log 12682884 (Cargo)
+Guristas Electrum Tag (Cargo)
+Javelin S, Qty: 932 (Cargo)
+Scorch S (Cargo)
+Conflagration S (Cargo)
+Quake M, Qty: 565 (Cargo)
+Piranha Light Missile, Qty: 395 (Cargo)
+Thunderbolt Heavy Missile, Qty: 2932 (Cargo)
+Widowmaker Heavy Missile, Qty: 4000 (Cargo)
+Gremlin Rocket, Qty: 600 (Cargo)
+Thorn Rocket, Qty: 1677 (Cargo)
+Exterminator F.O.F. Light Missile I, Qty: 1747 (Cargo)
+Spook Scanner Probe I, Qty: 3 (Cargo)
+Snoop Scanner Probe I, Qty: 6 (Cargo)
+Widowmaker Fury Heavy Missile, Qty: 1000 (Cargo)
+

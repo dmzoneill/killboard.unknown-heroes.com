@@ -1,0 +1,27 @@
+2006.10.10 20:33
+
+Victim: Shiftless
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Caracal
+System: Torrinos
+Security: 0.5
+
+Involved parties:
+
+Name: Sean Dillon (laid the final blow)
+Security: 1.5
+Alliance: None
+Corp: Privateers
+Ship: Raven
+Weapon: Cataclysm Cruise Missile
+
+
+Destroyed items:
+
+Havoc Heavy Missile, Qty: 50
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Medium Shield Extender I
+ECM Burst I
+

@@ -1,0 +1,26 @@
+2006.09.01 22:52
+
+Victim: Kaleenia
+Alliance: Freelancer Alliance
+Corp: Terminal Velocity Inc.
+Destroyed: Capsule
+System: B-9C24
+Security: 0.0
+
+Involved parties:
+
+Name: ReQuiem Rayne (laid the final blow)
+Security: 0.7
+Alliance: Galaxia Union
+Corp: Starshine Enterprises
+Ship: Ishkur
+Weapon: Hammerhead II
+
+Name: Mask Rayne
+Security: 0.6
+Alliance: Galaxia Union
+Corp: Starshine Enterprises
+Ship: Ishtar
+Weapon: Hammerhead II
+
+

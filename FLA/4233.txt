@@ -1,0 +1,40 @@
+2007.04.04 20:43
+
+Victim: Lord Ectasy
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Destroyed: Capsule
+System: FIO1-8
+Security: 0.0
+
+Involved parties:
+
+Name: Taschenflak (laid the final blow)
+Security: 4.7
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Raptor
+Weapon: Sabretooth Light Missile
+
+Name: Gordon Red
+Security: 2.1
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Heretic
+Weapon: Rocket Launcher II
+
+Name: Yve Steel
+Security: -0.6
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Malediction
+Weapon: Medium Pulse Laser II
+
+Name: SpinOrg
+Security: 0.8
+Alliance: YouWhat
+Corp: Dark Rising Shadow
+Ship: Moa
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+

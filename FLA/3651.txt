@@ -1,0 +1,58 @@
+2007.03.28 15:07
+
+Victim: CrazyDoctor
+Alliance: Freelancer Alliance
+Corp: United Forces
+Destroyed: Rifter
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Sorju Mai (laid the final blow)
+Security: -0.3
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Lachesis
+Weapon: Havoc Heavy Missile
+
+Name: Frostbeule
+Security: 2.9
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Sabre
+Weapon: Sabre
+
+Name: Gordon Red
+Security: 2.0
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Heretic
+Weapon: Heretic
+
+Name: volly
+Security: 3.2
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Curse
+Weapon: Warp Disruptor II
+
+Name: Tjakka
+Security: 0.5
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Ishtar
+Weapon: E50 Prototype Energy Vampire
+
+
+Destroyed items:
+
+Small Nosferatu I
+Small Nosferatu I
+1MN MicroWarpdrive I
+Stasis Webifier I
+Inertia Stabilizers I
+'Stoic' Core Equalizer I (Cargo)
+Warp Core Stabilizer I (Cargo)
+Target Painter I (Cargo)
+

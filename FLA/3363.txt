@@ -1,0 +1,117 @@
+2007.03.24 22:38
+
+Victim: Gargh Ahhwell
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Destroyed: Rokh
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Ferocious FeAr
+Security: 1.5
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Nighthawk
+Weapon: Scourge Fury Heavy Missile
+
+Name: Spacebar
+Security: 2.1
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Sleipnir
+Weapon: Foxfire Rocket
+
+Name: Grantavious
+Security: 2.6
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Eagle
+Weapon: Eagle
+
+Name: Cassidy Yates (laid the final blow)
+Security: -0.7
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Absolution
+Weapon: Heavy Pulse Laser II
+
+Name: Redginald
+Security: 4.5
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: Eleese
+Security: -0.8
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Eos
+Weapon: Berserker II
+
+Name: Genrom
+Security: 4.5
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Ishtar
+Weapon: Ogre II
+
+Name: Stuart Ward
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Wolf
+Weapon: 280mm Howitzer Artillery II
+
+Name: Ale Tricio
+Security: 2.2
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Curse
+Weapon: Valkyrie II
+
+Name: MIGHTYDWC
+Security: 4.7
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Taranis
+Weapon: 125mm Railgun II
+
+Name: 50 Isk
+Security: 1.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Rook
+Weapon: Flameburst Precision Light Missile
+
+Name: Ant5010
+Security: 1.7
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Enyo
+Weapon: Enyo
+
+Name: Olli
+Security: -0.1
+Alliance: S.E.R.A
+Corp: Seraphin Technologies
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+
+Destroyed items:
+
+Neutron Blaster Cannon I
+Neutron Blaster Cannon I
+Antimatter Charge L, Qty: 165
+X-Large C5-L Emergency Shield Overload I
+Cap Booster 800
+Cap Booster 800
+Shield Boost Amplifier I
+Large 'Accommodation' Vestment Reconstructer I (Cargo)
+Anode Mega Neutron Particle Cannon I, Qty: 4 (Cargo)
+Antimatter Charge L, Qty: 5275 (Cargo)
+1600mm Reinforced Rolled Tungsten Plates I (Cargo)
+

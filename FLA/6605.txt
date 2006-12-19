@@ -1,0 +1,19 @@
+2006.11.19 09:00
+
+Victim: rockerguy
+Alliance: Lotka Volterra
+Corp: FATAL REVELATIONS
+Destroyed: Capsule
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Enochios (laid the final blow)
+Security: 1.5
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Zealot
+Weapon: Heavy Anode Pulse Particle Stream I
+
+

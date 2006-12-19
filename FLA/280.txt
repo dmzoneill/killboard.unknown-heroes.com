@@ -1,0 +1,47 @@
+2007.01.21 07:08
+
+Victim: Mobius03
+Alliance: None
+Corp: Deep Core Mining Inc.
+Destroyed: Caldari Shuttle
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Kroux
+Security: 5.0
+Alliance: O X I D E
+Corp: Reunited
+Ship: Drake
+Weapon: Widowmaker Fury Heavy Missile
+
+Name: Truk (laid the final blow)
+Security: 4.9
+Alliance: THE R0CK
+Corp: The Keep
+Ship: Cyclone
+Weapon: Havoc Precision Heavy Missile
+
+Name: Comradical
+Security: 5.1
+Alliance: THE R0CK
+Corp: The Keep
+Ship: Brutix
+Weapon: Dual 150mm Railgun II
+
+Name: alon blackhelm
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Myrmidon
+Weapon: Myrmidon
+
+Name: Thor Ba'aleron
+Security: 2.3
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Raven
+Weapon: 'Arbalest' Cruise Launcher I
+
+

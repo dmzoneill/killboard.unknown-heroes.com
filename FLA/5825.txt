@@ -1,0 +1,162 @@
+2006.10.23 19:24
+
+Victim: Moonunit raker
+Alliance: Eternal Empire
+Corp: Spectral Armada
+Destroyed: Ferox
+System: X-7OMU
+Security: 0.0
+
+Involved parties:
+
+Name: Hedeon Mishenka
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Apocalypse
+Weapon: Tachyon Beam Laser I
+
+Name: bidman
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Raven
+Weapon: Juggernaut Javelin Torpedo
+
+Name: GrandMastaXP
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+Name: dinj
+Security: 3.5
+Alliance: Freelancer Alliance
+Corp: London Transport
+Ship: Raven
+Weapon: Wrath Cruise Missile
+
+Name: Matt Stoner (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Raven
+Weapon: Bane Torpedo
+
+Name: Skornik
+Security: 3.5
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Megathron
+Weapon: Megathron
+
+Name: Hojo Norem
+Security: 2.8
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Ferox
+Weapon: Ferox
+
+Name: movy
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Brutix
+Weapon: Brutix
+
+Name: Foot M
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Stardust Mina
+Security: 2.8
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Ship: Cyclone
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+Name: Eck Hauler
+Security: 0.1
+Alliance: Freelancer Alliance
+Corp: Elite frontier group
+Ship: Eris
+Weapon: Bloodclaw Light Missile
+
+Name: Minesweeper
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Stiletto
+Weapon: Flameburst Light Missile
+
+Name: arthell
+Security: 1.4
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Vexor
+Weapon: Vexor
+
+Name: kone on
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Sabre
+Weapon: Sabre
+
+Name: Gangreen
+Security: 0.1
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Incursus
+Weapon: Incursus
+
+Name: nossler
+Security: 3.2
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Raven
+Weapon: 'Arbalest' Siege Missile Launcher
+
+Name: Raltar 1
+Security: 0.1
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Rifter
+Weapon: Warp Disruptor I
+
+Name: Kolombus
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Lachesis
+Weapon: Warp Disruptor I
+
+Name: Demarcus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Scorpion
+Weapon: Initiated Multispectral ECM I
+
+
+Destroyed items:
+
+200mm 'Scout' I Accelerator Cannon
+Scourge Heavy Missile, Qty: 97
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+Advanced 'Limos' Heavy Missile Bay I
+Large F-S9 Regolith Shield Induction
+Large F-S9 Regolith Shield Induction
+Large F-S9 Regolith Shield Induction
+Invulnerability Field I
+Invulnerability Field I
+Ballistic Control System I
+Antimatter Charge M, Qty: 1777 (Cargo)
+Scourge Heavy Missile, Qty: 2183 (Cargo)
+Infiltrator I (Drone Bay)
+

@@ -1,0 +1,90 @@
+2007.03.21 16:31
+
+Victim: Admiral Hunter
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Megathron
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: PainBall (laid the final blow)
+Security: -0.9
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Absolution
+Weapon: Heavy Pulse Laser II
+
+Name: WarGod
+Security: 1.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Curse
+Weapon: Praetor II
+
+Name: Roxanna Kell
+Security: -1.3
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Cerberus
+Weapon: Terror Assault Missile
+
+Name: Yushii
+Security: -0.3
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Muninn
+Weapon: Muninn
+
+Name: Sith Bandon
+Security: 5.0
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Ishtar
+Weapon: Berserker II
+
+Name: Alchem
+Security: 2.9
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Ishtar
+Weapon: Berserker II
+
+Name: K Shara
+Security: 3.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Cerberus
+Weapon: Heavy Missile Launcher II
+
+Name: eRogue
+Security: 0.0
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Brutix
+Weapon: Heavy Ion Blaster II
+
+
+Destroyed items:
+
+Anode Mega Electron Particle Cannon I
+Anode Mega Electron Particle Cannon I
+Anode Mega Electron Particle Cannon I
+Anode Mega Electron Particle Cannon I
+Anode Mega Electron Particle Cannon I
+Antimatter Charge L, Qty: 564
+100MN MicroWarpdrive I
+J5 Prototype Warp Inhibitor I
+X5 Prototype I Engine Enervator
+Cap Booster 800
+Cap Booster 800
+Cap Booster 800
+Cap Booster 800
+Large Armor Repairer II
+Medium Armor Repairer II
+Energized Reactive Membrane II
+Energized Adaptive Nano Membrane II
+Antimatter Charge L, Qty: 7380 (Cargo)
+Cap Booster 800, Qty: 8 (Cargo)
+

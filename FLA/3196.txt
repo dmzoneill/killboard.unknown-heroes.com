@@ -1,0 +1,36 @@
+2007.03.20 20:14
+
+Victim: laylord
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Rifter
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: DarkAlpha (laid the final blow)
+Security: -0.2
+Alliance: YouWhat
+Corp: Pringles Inc.
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+Name: Blood Ravennn
+Security: 3.7
+Alliance: YouWhat
+Corp: Pringles Inc.
+Ship: Nemesis
+Weapon: 'Arbalest' Cruise Launcher I
+
+
+Destroyed items:
+
+150mm Light AutoCannon I
+Small Nosferatu I
+Small Nosferatu I
+EMP S, Qty: 61
+Cold-Gas I Arcjet Thrusters
+X5 Prototype I Engine Enervator
+Inertia Stabilizers I
+

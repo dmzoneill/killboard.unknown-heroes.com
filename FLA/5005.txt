@@ -1,0 +1,50 @@
+2007.04.21 00:54
+
+Victim: sparkvolt
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Destroyed: Rifter
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Terdlinger (laid the final blow)
+Security: 4.9
+Alliance: Storm Armada
+Corp: stone grave haulage
+Ship: Thanatos
+Weapon: Firbolg
+
+Name: Lyra Sy
+Security: 5.0
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Capsule
+Weapon: Heavy Missile Launcher II
+
+Name: Raffer Steele
+Security: 2.6
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Thanatos
+Weapon: Firbolg
+
+Name: Bothius
+Security: 0.4
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Arazu
+Weapon: Arazu
+
+
+Destroyed items:
+
+150mm Light AutoCannon II
+Small Nosferatu I
+Barrage S, Qty: 42
+Stasis Webifier I
+Overdrive Injector System I
+Overdrive Injector System I
+Barrage S, Qty: 232 (Cargo)
+

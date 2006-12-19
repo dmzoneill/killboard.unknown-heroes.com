@@ -1,0 +1,33 @@
+2007.03.02 23:10
+
+Victim: JMcClane
+Alliance: Privateer Alliance
+Corp: Righteous Choirboys
+Destroyed: Capsule
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: ClogMan (laid the final blow)
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Rupture
+Weapon: 720mm Howitzer Artillery I
+
+Name: Praetorian Mardou
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Luxe Ecru
+Security: 1.6
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Ares
+Weapon: 125mm Railgun II
+
+

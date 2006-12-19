@@ -1,0 +1,30 @@
+2007.01.12 17:49
+
+Victim: Stitcher
+Alliance: Freelancer Alliance
+Corp: J.I.T. Enterprises
+Destroyed: Crow
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Crucifier (laid the final blow)
+Security: 0.3
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 78
+Standard Missile Launcher I
+Standard Missile Launcher I
+Standard Missile Launcher I
+1MN MicroWarpdrive I
+'Langour' Drive Disruptor I
+Mark I Modified SS Overdrive Injector
+Bloodclaw Light Missile, Qty: 1800 (Cargo)
+

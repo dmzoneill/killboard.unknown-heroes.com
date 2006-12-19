@@ -1,0 +1,46 @@
+2007.04.14 13:06
+
+Victim: Robert Murphy
+Alliance: Freelancer Alliance
+Corp: United Forces
+Destroyed: Buzzard
+System: E-Z2ZX
+Security: 0.0
+
+Involved parties:
+
+Name: V2GBR (laid the final blow)
+Security: 5.0
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Raptor
+Weapon: Bloodclaw Light Missile
+
+Name: Ridoc
+Security: 2.9
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Taranis
+Weapon: Fleeting Warp Scrambler I
+
+
+Destroyed items:
+
+Radar Quest Probe
+Radar Quest Probe
+Radar Quest Probe
+Radar Quest Probe
+Radar Quest Probe
+Radar Quest Probe
+Radar Quest Probe
+Scan Probe Launcher I
+Cold-Gas I Arcjet Thrusters
+'Hypnos' Multispectral ECM I
+ECM - White Noise Generator I
+Prototype I Sensor Booster
+Co-Processor II
+Magnetometric Quest Probe, Qty: 25 (Cargo)
+Radar Pursuit Probe, Qty: 35 (Cargo)
+Snoop Scanner Probe I, Qty: 35 (Cargo)
+Ladar Quest Probe, Qty: 25 (Cargo)
+

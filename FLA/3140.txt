@@ -1,0 +1,38 @@
+2007.03.25 14:28
+
+Victim: caldarinoob3
+Alliance: None
+Corp: Republic Military School
+Destroyed: Reaper
+System: QXW-PV
+Security: 0.0
+
+Involved parties:
+
+Name: EM00 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Caracal
+Weapon: Thunderbolt Heavy Missile
+
+Name: RythemAndStealth
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Omen
+Weapon: Acolyte I
+
+Name: chota
+Security: 5.0
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Rupture
+Weapon: Heavy Assault Missile Launcher I
+
+
+Destroyed items:
+
+Civilian Gatling Autocannon
+Tritanium (Cargo)
+

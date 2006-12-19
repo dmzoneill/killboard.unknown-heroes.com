@@ -1,0 +1,33 @@
+2006.10.08 04:04
+
+Victim: Infinity Ziona
+Alliance: None
+Corp: Privateers
+Destroyed: Megathron
+System: Isanamo
+Security: 0.6
+
+Involved parties:
+
+Name: Valadeya uthanaras
+Security: 3.7
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Drysdin Callystrin (laid the final blow)
+Security: 0.4
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Thorax
+Weapon: Modal Neutron Particle Accelerator I
+
+Name: Sattracer
+Security: 2.6
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Harpy
+Weapon: Harpy
+
+

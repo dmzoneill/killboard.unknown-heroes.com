@@ -1,0 +1,40 @@
+2007.03.23 14:05
+
+Victim: MrMaggot
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Capsule
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Mr Moonwatcher
+Security: 4.9
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Taranis
+Weapon: 125mm Railgun II
+
+Name: Vim Longhill (laid the final blow)
+Security: 4.6
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Drake
+Weapon: Scourge Fury Heavy Missile
+
+Name: wph0r
+Security: 4.5
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Eagle
+Weapon: Heavy Ion Blaster II
+
+Name: Apoc77
+Security: 5.0
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Rook
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+

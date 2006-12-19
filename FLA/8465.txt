@@ -1,0 +1,19 @@
+2006.11.19 10:28
+
+Victim: Knight Picard
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: xEntriq (laid the final blow)
+Security: 0.0
+Alliance: None
+Corp: omen.
+Ship: Taranis
+Weapon: Light Neutron Blaster II
+
+

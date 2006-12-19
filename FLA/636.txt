@@ -1,0 +1,128 @@
+2007.02.13 22:44
+
+Victim: Black Water
+Alliance: None
+Corp: Highway to Hell
+Destroyed: Hawk
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: jacass66
+Security: 5.0
+Alliance: None
+Corp: BGG
+Ship: Drake
+Weapon: Scourge Precision Heavy Missile
+
+Name: Xantheris
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Enyo
+Weapon: Enyo
+
+Name: Valea Silpha
+Security: 2.6
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Rapier
+Weapon: Rapier
+
+Name: MohamedLoftie
+Security: -1.2
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Curse
+Weapon: Valkyrie II
+
+Name: Ocara Nezus
+Security: 2.8
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Hawk
+Weapon: Bloodclaw Light Missile
+
+Name: Tnam
+Security: 1.8
+Alliance: None
+Corp: BGG
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: Dark Carnage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Crow
+Weapon: Stasis Webifier I
+
+Name: WolfRavage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: Seventh Star
+Security: 5.0
+Alliance: None
+Corp: BGG
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Velithe
+Security: 3.1
+Alliance: None
+Corp: BGG
+Ship: Caracal
+Weapon: Widowmaker Heavy Missile
+
+Name: Ashr (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Nighthawk
+Weapon: Scourge Heavy Missile
+
+Name: bjugis
+Security: 0.7
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Incursus
+Weapon: Stasis Webifier I
+
+Name: Ridgy
+Security: 0.7
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Ship: Scorpion
+Weapon: Cruise Missile Launcher I
+
+
+Destroyed items:
+
+Small 'Knave' I Energy Drain
+Exterminator F.O.F. Light Missile I, Qty: 44
+Serpent F.O.F. Light Missile I, Qty: 44
+TE-2100 Standard Missile Bay
+TE-2100 Standard Missile Bay
+Small F-S9 Regolith Shield Induction
+Viscoelastic EM Ward Salubrity I
+Type-D Power Core Modification: Diagnostic System
+Catalyzed Cold-Gas I Arcjet Thrusters (Cargo)
+EP-S Gaussian I Excavation Pulse, Qty: 2 (Cargo)
+Ballistic Deflection Field I (Cargo)
+Ditrigonal Thermal Barrier Crystallization I (Cargo)
+ECM - Multispectral Jammer I (Cargo)
+Prototype I Sensor Booster (Cargo)
+Ancillary Ballistic Screen Stabilizer I (Cargo)
+Heat Dissipation Amplifier I (Cargo)
+Ballistic Control System I (Cargo)
+Bloodclaw Light Missile, Qty: 8000 (Cargo)
+Piranha Light Missile, Qty: 600 (Cargo)
+Sabretooth Light Missile, Qty: 900 (Cargo)
+Analyzer I (Cargo)
+Salvager I (Cargo)
+

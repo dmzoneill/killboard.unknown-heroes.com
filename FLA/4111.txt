@@ -1,0 +1,36 @@
+2007.04.15 00:36
+
+Victim: FA Avenger
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Destroyed: Vigil
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: The Cade
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Harpy
+Weapon: X5 Prototype I Engine Enervator
+
+Name: Aridante Lemure (laid the final blow)
+Security: 1.2
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Jaguar
+Weapon: 280mm Howitzer Artillery II
+
+
+Destroyed items:
+
+250mm Light Artillery Cannon I
+250mm Light Artillery Cannon I
+Carbonized Lead S, Qty: 19
+Piranha Light Missile, Qty: 36
+Sensor Booster I
+Carbonized Lead S, Qty: 2930 (Cargo)
+Piranha Light Missile, Qty: 553 (Cargo)
+

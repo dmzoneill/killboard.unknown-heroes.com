@@ -1,0 +1,34 @@
+2007.03.15 19:49
+
+Victim: Makail
+Alliance: None
+Corp: The Descent
+Destroyed: Tristan
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Burn Lump (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Drake
+Weapon: Bloodclaw Light Missile
+
+Name: Weeble Wooble
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Megathron
+Weapon: Infiltrator II
+
+
+Destroyed items:
+
+Light Neutron Blaster I
+Piranha Light Missile, Qty: 32
+Cap Recharger I
+Stasis Webifier I
+Beta Reactor Control: Reaction Control I
+

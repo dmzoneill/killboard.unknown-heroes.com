@@ -1,0 +1,47 @@
+2006.10.09 21:16
+
+Victim: AirmidX
+Alliance: None
+Corp: Capital Industries
+Destroyed: Gallente Shuttle
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Nil Desperandum
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Omen
+Weapon: Heavy Anode Pulse Particle Stream I
+
+Name: Kev Lar
+Security: 0.0
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Ares
+Weapon: 150mm Railgun II
+
+Name: Jack Phox (laid the final blow)
+Security: 2.8
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Crow
+Weapon: Piranha Light Missile
+
+Name: TasKu
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Thorax
+Weapon: Warp Disruptor I
+
+Name: Hosanna
+Security: -0.7
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Wolf
+Weapon: 280mm Howitzer Artillery II
+
+

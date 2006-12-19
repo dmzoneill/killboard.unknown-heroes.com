@@ -1,0 +1,26 @@
+2007.03.29 22:53
+
+Victim: Altanzar
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Destroyed: Capsule
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Rubens22
+Security: 2.3
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Taranis
+Weapon: Taranis
+
+Name: Thyago (laid the final blow)
+Security: 5.0
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Ishkur
+Weapon: Light Ion Blaster II
+
+

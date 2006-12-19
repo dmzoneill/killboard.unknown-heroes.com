@@ -1,0 +1,32 @@
+2006.11.05 08:07
+
+Victim: Simon Monkoto
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Punisher
+System: Mara
+Security: 0.4
+
+Involved parties:
+
+Name: salakhar (laid the final blow)
+Security: -2.6
+Alliance: None
+Corp: Seriously Corrupt Information Industries
+Ship: Megathron
+Weapon: Acolyte II
+
+Name: Maurtisia
+Security: -1.0
+Alliance: None
+Corp: Ministry of War
+Ship: Prophecy
+Weapon: Warp Disruptor I
+
+
+Destroyed items:
+
+Small 'Knave' I Energy Drain
+Null S, Qty: 131
+Stasis Webifier I
+

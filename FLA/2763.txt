@@ -1,0 +1,19 @@
+2007.03.05 19:40
+
+Victim: Kateryne
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Solid Wilko (laid the final blow)
+Security: -1.8
+Alliance: Eternal Rapture
+Corp: Quantum Synergies
+Ship: Hurricane
+Weapon: 425mm AutoCannon II
+
+

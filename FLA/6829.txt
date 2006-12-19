@@ -1,0 +1,32 @@
+2006.12.07 01:39
+
+Victim: Vingt100
+Alliance: None
+Corp: Northshore Enterprises
+Destroyed: Raven
+System: 5ZXX-K
+Security: 0.0
+
+Involved parties:
+
+Name: Jester87 (laid the final blow)
+Security: 1.1
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Cerberus
+Weapon: Havoc Fury Heavy Missile
+
+
+Destroyed items:
+
+Lead Charge M
+Lead Charge M
+Lead Charge M
+Lead Charge M
+Juggernaut Torpedo, Qty: 12
+Siege Missile Launcher I
+Siege Missile Launcher I
+Large Shield Extender I
+Non-Inertial Ballistic Screen Augmentation I
+Juggernaut Torpedo, Qty: 2194 (Cargo)
+

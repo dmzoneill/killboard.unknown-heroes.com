@@ -1,0 +1,77 @@
+2007.04.14 23:19
+
+Victim: Kdub
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Destroyed: Maller
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Sedith
+Security: 1.7
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Aeon
+Weapon: Einherji
+
+Name: FowlPlayChiken
+Security: 1.2
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Thanatos
+Weapon: Einherji
+
+Name: Apocalyptical (laid the final blow)
+Security: 4.0
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Thanatos
+Weapon: Berserker II
+
+Name: Max Teranous
+Security: -1.2
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Sabre
+Weapon: X5 Prototype I Engine Enervator
+
+Name: FA Avenger
+Security: 2.9
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Nowereman
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Drake
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+Name: AIRB
+Security: 3.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Falcon
+Weapon: Heavy Missile Launcher II
+
+
+Destroyed items:
+
+Medium Beam Laser II
+Medium Nosferatu I
+Radio S
+Radio S
+Radio S
+10MN Afterburner I
+'Langour' Drive Disruptor I
+Kapteyn Sensor Array Inhibitor I
+Damage Control I
+Medium Armor Repairer II
+1600mm Reinforced Rolled Tungsten Plates I
+Type-D Power Core Modification: Reaction Control
+Gamma S, Qty: 4 (Cargo)
+

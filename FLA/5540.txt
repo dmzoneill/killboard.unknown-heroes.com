@@ -1,0 +1,33 @@
+2006.10.07 18:46
+
+Victim: Bfiend
+Alliance: None
+Corp: Privateers
+Destroyed: Vexor
+System: Jita
+Security: 0.9
+
+Involved parties:
+
+Name: menace ace (laid the final blow)
+Security: 1.9
+Alliance: Freelancer Alliance
+Corp: Royal Flying Aces
+Ship: Megathron
+Weapon: Electron Blaster Cannon II
+
+
+Destroyed items:
+
+Small Nosferatu I
+125mm Railgun I
+Antimatter Charge S, Qty: 110
+Warp Disruptor I
+Small Armor Repairer I
+Energized Adaptive Nano Membrane I
+Armor Explosive Hardener I
+1600mm Reinforced Crystalline Carbonide Plates I
+Antimatter Charge S, Qty: 140 (Cargo)
+Power Diagnostic System I, Qty: 2 (Cargo)
+Vespa I, Qty: 2 (Drone Bay)
+

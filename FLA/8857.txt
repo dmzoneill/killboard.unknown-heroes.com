@@ -1,0 +1,19 @@
+2006.12.12 21:49
+
+Victim: Gamboye
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Capsule
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: ALPHA12125 (laid the final blow)
+Security: 1.7
+Alliance: None
+Corp: 0utbreak
+Ship: Megathron
+Weapon: 425mm Carbide Railgun I
+
+

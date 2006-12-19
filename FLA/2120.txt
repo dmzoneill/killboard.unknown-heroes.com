@@ -1,0 +1,19 @@
+2007.01.22 14:29
+
+Victim: Gnoewen Gnoes
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Capsule
+System: Litiura
+Security: 0.5
+
+Involved parties:
+
+Name: SoulScourge (laid the final blow)
+Security: -1.5
+Alliance: Privateer Alliance
+Corp: Privateers
+Ship: Thrasher
+Weapon: 200mm AutoCannon II
+
+

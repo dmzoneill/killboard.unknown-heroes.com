@@ -1,0 +1,26 @@
+2007.01.21 23:40
+
+Victim: KNIGHT RAVEN
+Alliance: None
+Corp: New East Corporation
+Destroyed: Ibis
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Jaig Maldara (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Rokh
+Weapon: Hornet II
+
+Name: Flower P0wer
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: FLA Outpost Services
+Ship: Velator
+Weapon: Velator
+
+

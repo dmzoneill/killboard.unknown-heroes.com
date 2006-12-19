@@ -1,0 +1,47 @@
+2006.11.11 10:46
+
+Victim: Basra
+Alliance: None
+Corp: Euphoria and Co.
+Destroyed: Gallente Shuttle
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Micheal Ross
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Flycatcher
+Weapon: Faint Warp Prohibitor I
+
+Name: LizzyD
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Ishkur
+Weapon: Warrior II
+
+Name: Almagar Phog (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Blackbird
+Weapon: Flameburst Light Missile
+
+Name: bidman
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Ferox
+Weapon: Bloodclaw Light Missile
+
+Name: Triggar
+Security: 5.0
+Alliance: None
+Corp: Ganksters Paradise
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+

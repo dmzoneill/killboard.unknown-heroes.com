@@ -1,0 +1,39 @@
+2007.03.09 17:19
+
+Victim: Stitcher
+Alliance: Freelancer Alliance
+Corp: J.I.T. Enterprises
+Destroyed: Zealot
+System: O-N8XZ
+Security: 0.0
+
+Involved parties:
+
+Name: Bogen Mandrangus (laid the final blow)
+Security: 1.9
+Alliance: None
+Corp: MotorSaikol LadrUNZ
+Ship: Huginn
+Weapon: Vespa II
+
+Name: Khodoss
+Security: 2.9
+Alliance: None
+Corp: MotorSaikol LadrUNZ
+Ship: Curse
+Weapon: Vespa II
+
+
+Destroyed items:
+
+Focused Medium Beam Laser II
+Medium 'Knave' I Energy Drain
+Gleam M
+'Langour' Drive Disruptor I
+Damage Control II
+Energized Adaptive Nano Membrane II
+Energized Thermic Membrane II
+Energized Adaptive Nano Membrane I (Cargo)
+Aurora M, Qty: 2 (Cargo)
+Inertia Stabilizers I, Qty: 3 (Cargo)
+

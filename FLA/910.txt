@@ -1,0 +1,26 @@
+2007.02.26 07:21
+
+Victim: Broomhilde hildebroom
+Alliance: None
+Corp: State War Academy
+Destroyed: Capsule
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Airi (laid the final blow)
+Security: 1.2
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Apocalypse
+Weapon: Tachyon Beam Laser II
+
+Name: nXus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Raven
+Weapon: 'Arbalest' Cruise Launcher I
+
+

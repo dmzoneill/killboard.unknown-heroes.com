@@ -1,0 +1,69 @@
+2006.08.12 22:04
+
+Victim: Dave White
+Alliance: None
+Corp: Beagle Corp
+Destroyed: Armageddon
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: jacass66
+Security: 5.3
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Thanatos
+Weapon: Thanatos
+
+Name: Cockroach
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Apocalypse
+Weapon: Tachyon Beam Laser II
+
+Name: XxAngelxX
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Vengeance
+Weapon: 'Arbalest' Cruise Launcher I
+
+Name: Seventh Star (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Typhoon
+Weapon: Cataclysm Cruise Missile
+
+Name: A'ruhn
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: EVE MegaCorp Association
+Ship: Vigil
+Weapon: ECM - Spatial Destabilizer I
+
+
+Destroyed items:
+
+Mega Anode Particle Stream I
+Mega Anode Particle Stream I
+Mega Anode Particle Stream I
+Mega Anode Particle Stream I
+Multifrequency L
+Multifrequency L
+ECCM - Radar I
+Prototype I Sensor Booster
+Heat Sink II
+Heat Sink II
+Energized Adaptive Nano Membrane I
+Energized Adaptive Nano Membrane I
+Dual Light Beam Laser II (Cargo)
+Small Armor Repairer II (Cargo)
+Standard L, Qty: 7 (Cargo)
+Radio L, Qty: 3 (Cargo)
+Aurora S, Qty: 4 (Cargo)
+Gleam S (Cargo)
+Nanofiber Internal Structure I (Cargo)
+

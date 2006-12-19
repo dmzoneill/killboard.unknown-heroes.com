@@ -1,0 +1,22 @@
+2007.05.30 10:19
+
+Victim: IGotMyEyesOnYou
+Alliance: None
+Corp: Republic Military School
+Destroyed: Reaper
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Mufeater (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Ares
+Weapon: 75mm Gatling Rail II
+
+
+Destroyed items:
+
+Civilian Gatling Autocannon

@@ -1,0 +1,31 @@
+2006.11.05 04:48
+
+Victim: Bathmu
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Covetor
+System: O-CNPR
+Security: 0.0
+
+Involved parties:
+
+Name: jewels1 (laid the final blow)
+Security: 4.2
+Alliance: FREGE Alliance
+Corp: MASS HOMICIDE
+Ship: Ishtar
+Weapon: Ogre II
+
+Name: Annalyn M
+Security: 1.4
+Alliance: FREGE Alliance
+Corp: MASS HOMICIDE
+Ship: Ishkur
+Weapon: Hobgoblin II
+
+
+Destroyed items:
+
+Crokite Mining Crystal I (Cargo)
+Modulated Strip Miner II, Qty: 2 (Cargo)
+

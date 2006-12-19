@@ -1,0 +1,26 @@
+2007.04.09 15:35
+
+Victim: Corovus
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Destroyed: Capsule
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Nina Mires (laid the final blow)
+Security: 4.6
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Taranis
+Weapon: 125mm Railgun II
+
+Name: Kkmar Jheren
+Security: -1.5
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Malediction
+Weapon: Dual Light Pulse Laser II
+
+

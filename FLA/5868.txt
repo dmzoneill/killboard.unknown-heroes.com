@@ -1,0 +1,53 @@
+2006.10.24 20:17
+
+Victim: Spinsq
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Destroyed: Thorax
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: MagicMos (laid the final blow)
+Security: 0.4
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: XxSOULxX
+Security: 0.2
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Ship: Capsule
+Weapon: Hammerhead I
+
+Name: Stefu
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Vengeance
+Weapon: Vengeance
+
+Name: fastwind
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: VentureCorp
+Ship: Flycatcher
+Weapon: Flycatcher
+
+
+Destroyed items:
+
+Light Neutron Blaster II
+Antimatter Charge S, Qty: 102
+10MN MicroWarpdrive I
+J5 Prototype Warp Inhibitor I
+Warp Disruptor I (Cargo)
+X5 Prototype I Engine Enervator (Cargo)
+Antimatter Charge S, Qty: 12976 (Cargo)
+Initiated Multispectral ECM I (Cargo)
+'Malkuth' Heavy Missile Launcher I (Cargo)
+Infiltrator II (Drone Bay)
+

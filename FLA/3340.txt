@@ -1,0 +1,85 @@
+2007.03.23 21:51
+
+Victim: Zephia
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Destroyed: Harbinger
+System: O-ZXUV
+Security: 0.0
+
+Involved parties:
+
+Name: VirkMaN
+Security: -1.1
+Alliance: Eternal Rapture
+Corp: Temptation inc.
+Ship: Absolution
+Weapon: Heavy Pulse Laser II
+
+Name: Daykin Naib
+Security: -1.5
+Alliance: Eternal Rapture
+Corp: Exotic Dancers Club
+Ship: Capsule
+Weapon: Heavy Pulse Laser II
+
+Name: Lazaroth
+Security: -0.2
+Alliance: Eternal Rapture
+Corp: Quantum Synergies
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: GodWin cadela (laid the final blow)
+Security: -1.7
+Alliance: Eternal Rapture
+Corp: Exotic Dancers Club
+Ship: Hurricane
+Weapon: 425mm AutoCannon II
+
+Name: hezitationkillz
+Security: -1.4
+Alliance: Eternal Rapture
+Corp: Temptation inc.
+Ship: Retribution
+Weapon: Retribution
+
+Name: Jack Archer
+Security: -1.7
+Alliance: Eternal Rapture
+Corp: Quantum Synergies
+Ship: Myrmidon
+Weapon: Myrmidon
+
+Name: Smith9001
+Security: 0.1
+Alliance: Eternal Rapture
+Corp: Quantum Synergies
+Ship: Malediction
+Weapon: Malediction
+
+Name: C Duggan
+Security: -4.4
+Alliance: Eternal Rapture
+Corp: Exotic Dancers Club
+Ship: Lachesis
+Weapon: Indirect Scanning Dampening Unit I
+
+
+Destroyed items:
+
+Heavy Modal Pulse Laser I
+Heavy Modal Pulse Laser I
+Heavy Modal Pulse Laser I
+Multifrequency M
+Multifrequency M
+Multifrequency M
+Cap Recharger II
+Medium F-RX Prototype I Capacitor Boost
+Medium Armor Repairer II
+Heat Sink II
+Tracking Enhancer II
+Energized Adaptive Nano Membrane II
+Energized Adaptive Nano Membrane II
+Radio M, Qty: 3 (Cargo)
+

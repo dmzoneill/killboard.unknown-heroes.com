@@ -1,0 +1,47 @@
+2007.03.07 01:14
+
+Victim: Laerana
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Cormorant
+System: OWXT-5
+Security: 0.0
+
+Involved parties:
+
+Name: taylor04
+Security: 2.7
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Sleipnir
+Weapon: Sleipnir
+
+Name: Roule
+Security: -5.3
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: xVx Skillgannon (laid the final blow)
+Security: 0.4
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Anna Neura
+Security: -0.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Curse
+Weapon: Vespa II
+
+
+Destroyed items:
+
+Salvager I, Qty: 72
+Small Tractor Beam I
+Small Tractor Beam I
+Cap Recharger I
+

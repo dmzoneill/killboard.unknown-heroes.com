@@ -1,0 +1,56 @@
+2006.11.15 21:36
+
+Victim: Skully Maltoon
+Alliance: None
+Corp: Bad Karma.
+Destroyed: Raven
+System: E-Z2ZX
+Security: 0.0
+
+Involved parties:
+
+Name: jacass66 (laid the final blow)
+Security: 2.6
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Thanatos
+Weapon: Templar
+
+Name: Elfaen Ethenwe
+Security: -1.6
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Raven
+Weapon: Mjolnir Javelin Torpedo
+
+Name: Sixty Ever4
+Security: 4.2
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Curse
+Weapon: Vespa I
+
+
+Destroyed items:
+
+Siege Missile Launcher II
+Siege Missile Launcher II
+Siege Missile Launcher II
+Siege Missile Launcher II
+Siege Missile Launcher II
+Bane Rage Torpedo, Qty: 32
+Mjolnir Rage Torpedo, Qty: 32
+Phased Muon Sensor Disruptor I
+Phased Muon Sensor Disruptor I
+Phased Muon Sensor Disruptor I
+Sensor Booster II
+Sensor Booster II
+Warded Gravimetric Backup Cluster I
+Warp Core Stabilizer I
+Small Armor Repairer II (Cargo)
+200mm 'Scout' I Accelerator Cannon (Cargo)
+Light Neutron Blaster II, Qty: 2 (Cargo)
+Void S, Qty: 160 (Cargo)
+Bane Javelin Torpedo, Qty: 397 (Cargo)
+Warrior I, Qty: 3 (Drone Bay)
+

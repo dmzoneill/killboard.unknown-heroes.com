@@ -1,0 +1,30 @@
+2007.05.14 13:55
+
+Victim: 77scout77
+Alliance: None
+Corp: Perkone
+Destroyed: Ibis
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: wardey
+Security: 0.6
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Punisher
+Weapon: E5 Prototype Energy Vampire
+
+Name: Ocara Nezus (laid the final blow)
+Security: 1.5
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Crow
+Weapon: Bloodclaw Precision Light Missile
+
+
+Destroyed items:
+
+Tritanium (Cargo)
+

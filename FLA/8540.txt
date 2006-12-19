@@ -1,0 +1,38 @@
+2006.11.26 15:31
+
+Victim: Formosus Funus
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Destroyed: Wolf
+System: YZ-LQL
+Security: 0.0
+
+Involved parties:
+
+Name: Admiral Goberius (laid the final blow)
+Security: 5.0
+Alliance: Establishment
+Corp: The Establishment
+Ship: Sabre
+Weapon: 200mm AutoCannon II
+
+Name: Ozorgnax
+Security: 0.9
+Alliance: Establishment
+Corp: The Establishment
+Ship: Arazu
+Weapon: Arazu
+
+
+Destroyed items:
+
+150mm Light AutoCannon II
+150mm Light AutoCannon II
+Barrage S, Qty: 75
+Sabretooth Light Missile, Qty: 41
+'Malkuth' Standard Missile Launcher I
+1MN Afterburner II
+Gyrostabilizer II
+400mm Reinforced Rolled Tungsten Plates I
+Hail S, Qty: 4855 (Cargo)
+

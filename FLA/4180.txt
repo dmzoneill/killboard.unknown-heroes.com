@@ -1,0 +1,26 @@
+2007.04.03 18:56
+
+Victim: small girl20
+Alliance: Freelancer Alliance
+Corp: Feel Good Inc.
+Destroyed: Kestrel
+System: DW-T2I
+Security: 0.0
+
+Involved parties:
+
+Name: Ridoc
+Security: 2.9
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Taranis
+Weapon: Taranis
+
+Name: SwordsOfLight (laid the final blow)
+Security: 5.0
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Raptor
+Weapon: 125mm Railgun II
+
+

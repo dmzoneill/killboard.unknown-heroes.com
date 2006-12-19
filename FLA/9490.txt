@@ -1,0 +1,33 @@
+2007.05.15 20:12
+
+Victim: Tsubakii
+Alliance: Pax Familia
+Corp: EnTech
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Ocara Nezus (laid the final blow)
+Security: 1.5
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Crow
+Weapon: Bloodclaw Precision Light Missile
+
+Name: Zhang Ziyi
+Security: 3.5
+Alliance: RAZOR Alliance
+Corp: Thundercats
+Ship: Zealot
+Weapon: Heavy Pulse Laser II
+
+Name: wardey
+Security: 0.6
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Punisher
+Weapon: Punisher
+
+

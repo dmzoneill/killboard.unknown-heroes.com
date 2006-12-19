@@ -1,0 +1,64 @@
+2007.01.02 15:37
+
+Victim: Unfortunate Accident
+Alliance: None
+Corp: omen.
+Destroyed: Megathron
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Marie Veedor (laid the final blow)
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Ferox
+Weapon: Scourge Heavy Missile
+
+Name: SniperMcBob
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Blackbird
+Weapon: Initiated Multispectral ECM I
+
+Name: Wodan NL
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Taranis
+Weapon: Hobgoblin II
+
+Name: TiMeZeRo225
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: J.I.T. Enterprises
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Bucholtz
+Security: 5.0
+Alliance: Serenity Fallen
+Corp: Neogen Industries
+Ship: Blackbird
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+425mm Railgun II
+425mm Railgun II
+425mm Railgun II
+Javelin L, Qty: 169
+Supplemental Scanning CPU I
+Supplemental Scanning CPU I
+Tracking Enhancer II
+Tracking Enhancer II
+Tracking Enhancer II
+Magnetic Field Stabilizer II
+Magnetic Field Stabilizer II
+Magnetic Field Stabilizer II
+Tungsten Charge L, Qty: 1299 (Cargo)
+Antimatter Charge L, Qty: 1200 (Cargo)
+

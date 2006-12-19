@@ -1,0 +1,56 @@
+2007.01.04 03:34
+
+Victim: dccbx
+Alliance: Freelancer Alliance
+Corp: X.T.R
+Destroyed: Stabber Fleet Issue
+System: Oipo
+Security: 0.8
+
+Involved parties:
+
+Name: Gesthar Malvani (laid the final blow)
+Security: 4.5
+Alliance: Privateer Alliance
+Corp: Evil Bandit Organisation
+Ship: Caracal
+Weapon: Havoc Heavy Missile
+
+Name: Drakin Korin
+Security: -1.1
+Alliance: Privateer Alliance
+Corp: Evil Bandit Organisation
+Ship: Raptor
+Weapon: Bloodclaw Light Missile
+
+Name: Elfaen Ethenwe
+Security: -2.0
+Alliance: Privateer Alliance
+Corp: Evil Bandit Organisation
+Ship: Crow
+Weapon: Warp Disruptor I
+
+Name: Lyshah
+Security: 0.7
+Alliance: Privateer Alliance
+Corp: The Carebear Stare
+Ship: Arazu
+Weapon: Arazu
+
+Name: Lt Angus
+Security: 0.1
+Alliance: Privateer Alliance
+Corp: Privateers
+Ship: Dominix
+Weapon: Tracking Disruptor II
+
+
+Destroyed items:
+
+Salvager I, Qty: 30
+Small Tractor Beam I
+Small Tractor Beam I
+Eutectic I Capacitor Charge Array
+Eutectic I Capacitor Charge Array
+10MN MicroWarpdrive I
+

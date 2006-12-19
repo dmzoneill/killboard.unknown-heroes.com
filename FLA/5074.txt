@@ -1,0 +1,29 @@
+2007.04.22 01:24
+
+Victim: The Cade
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Destroyed: Cormorant
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Orange Species (laid the final blow)
+Security: -2.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Ragnarok
+Weapon: Gjallarhorn
+
+
+Destroyed items:
+
+125mm Carbide Railgun I
+125mm Carbide Railgun I
+125mm Carbide Railgun I
+Uranium Charge S, Qty: 385
+Magnetic Field Stabilizer I
+Iron Charge S, Qty: 5145 (Cargo)
+Antimatter Charge S, Qty: 2293 (Cargo)
+

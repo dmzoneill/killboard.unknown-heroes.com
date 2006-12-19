@@ -1,0 +1,107 @@
+2007.03.13 08:05
+
+Victim: Galaxor
+Alliance: YouWhat
+Corp: Beasts of Burden
+Destroyed: Abaddon
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Sicario
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Splinter5150 (laid the final blow)
+Security: 4.4
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: misscoda
+Security: 3.8
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Raven
+Weapon: Juggernaut Torpedo
+
+Name: Danielson1012
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Drake
+Weapon: Havoc Heavy Missile
+
+Name: iNFoRMaLiTY
+Security: -8.0
+Alliance: Freelancer Alliance
+Corp: Blackwater Squadron
+Ship: Megathron
+Weapon: Megathron
+
+Name: Simon Monkoto
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Dominix
+Weapon: Wasp I
+
+Name: Fountainhead
+Security: 4.0
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Capsule
+Weapon: 350mm Railgun I
+
+Name: Ezeikiel
+Security: 0.6
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Vengeance
+Weapon: Dual Light Pulse Laser II
+
+Name: sulnor
+Security: 2.6
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Caracal
+Weapon: Heavy Missile Launcher I
+
+Name: Thiet
+Security: 4.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Raven
+Weapon: 'Malkuth' Siege Missile Launcher I
+
+
+Destroyed items:
+
+Mega Modulated Pulse Energy Beam I
+Mega Modulated Pulse Energy Beam I
+Mega Modulated Pulse Energy Beam I
+Mega Modulated Pulse Energy Beam I
+Multifrequency L
+Multifrequency L
+Multifrequency L
+Multifrequency L
+Multifrequency L
+Gamma L
+Faint Warp Prohibitor I
+Heavy Electrochemical Capacitor Booster I
+Damage Control II
+Large Armor Repairer II
+Armor Explosive Hardener II
+Medium Armor Repairer I (Cargo)
+Small Energy Transfer Array I (Cargo)
+ECM Burst I (Cargo)
+Passive Targeter I (Cargo)
+Energized Basic Reflective Plating (Cargo)
+Small Tractor Beam I (Cargo)
+Ogre II (Drone Bay)
+

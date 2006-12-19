@@ -1,0 +1,74 @@
+2006.12.29 02:48
+
+Victim: Kael Zeratul
+Alliance: None
+Corp: Rogue Arrow Galactic Empire
+Destroyed: Raven
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Vaan2
+Security: 5.0
+Alliance: Schism.
+Corp: Fatalix Inc.
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+Name: Josh Causto
+Security: 2.6
+Alliance: Schism.
+Corp: Fatalix Inc.
+Ship: Megathron
+Weapon: Valkyrie II
+
+Name: Xantheris
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Taranis
+Weapon: Acolyte I
+
+Name: kurtFury (laid the final blow)
+Security: 2.0
+Alliance: Schism.
+Corp: Fatalix Inc.
+Ship: Ferox
+Weapon: Scourge Heavy Missile
+
+Name: Cyrus Clarke
+Security: 4.7
+Alliance: Schism.
+Corp: Fatalix Inc.
+Ship: Caracal
+Weapon: Warrior I
+
+Name: Conrad Rock
+Security: 0.5
+Alliance: Schism.
+Corp: Fatalix Inc.
+Ship: Kestrel
+Weapon: Foxfire Rocket
+
+
+Destroyed items:
+
+Bane Torpedo, Qty: 18
+Juggernaut Torpedo, Qty: 15
+Siege Missile Launcher I
+ZW-4100 Siege Missile Bay
+Invulnerability Field I
+'Anointed' I EM Ward Reinforcement
+Ballistic Deflection Field I
+Shield Boost Amplifier I
+Photonic CPU Enhancer I
+Ballistic Control System I
+Reactor Control Unit I
+Cap Booster 800, Qty: 7 (Cargo)
+Bane Torpedo, Qty: 152 (Cargo)
+Infiltrator I, Qty: 2 (Drone Bay)
+Valkyrie I (Drone Bay)
+Hammerhead I (Drone Bay)
+Hobgoblin I, Qty: 2 (Drone Bay)
+

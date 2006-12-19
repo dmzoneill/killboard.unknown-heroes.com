@@ -1,0 +1,25 @@
+2007.04.22 01:25
+
+Victim: Vedyma Dark
+Alliance: Freelancer Alliance
+Corp: Terminal Velocity Inc.
+Destroyed: Exequror
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Orange Species (laid the final blow)
+Security: -2.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Ragnarok
+Weapon: Gjallarhorn
+
+
+Destroyed items:
+
+200mm Railgun I
+200mm Railgun I
+Iron Charge M, Qty: 80
+

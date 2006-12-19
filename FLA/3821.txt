@@ -1,0 +1,19 @@
+2007.04.01 21:08
+
+Victim: Kaand
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Capsule
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Mynas Atoch (laid the final blow)
+Security: 0.8
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Buzzard
+Weapon: Foxfire Rocket
+
+

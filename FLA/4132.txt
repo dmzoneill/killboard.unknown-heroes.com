@@ -1,0 +1,26 @@
+2007.04.02 15:32
+
+Victim: Laerana
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Capsule
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Cassidy Yates (laid the final blow)
+Security: -0.7
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Absolution
+Weapon: Warrior II
+
+Name: Ryunoko
+Security: 2.7
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+

@@ -1,0 +1,45 @@
+2007.01.24 23:08
+
+Victim: Kee Ris
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Destroyed: Coercer
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: RogerWilco (laid the final blow)
+Security: 3.2
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Astarte
+Weapon: Heavy Neutron Blaster II
+
+Name: Olrig Manton
+Security: -0.4
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Deimos
+Weapon: Heavy Ion Blaster II
+
+Name: Furious George
+Security: 1.4
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Dominix
+Weapon: Ogre I
+
+
+Destroyed items:
+
+Medium Pulse Laser I
+Medium Pulse Laser I
+Infrared S
+Infrared S
+Infrared S
+Infrared S
+Sensor Booster I
+400mm Reinforced Rolled Tungsten Plates I
+Micro Auxiliary Power Core I
+

@@ -1,0 +1,53 @@
+2007.04.20 00:28
+
+Victim: Skull Fire
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Caracal
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Akthuul (laid the final blow)
+Security: 5.0
+Alliance: Storm Armada
+Corp: stone grave haulage
+Ship: Thanatos
+Weapon: Dragonfly
+
+Name: Gerald Osikawa
+Security: 0.9
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: RuLuVdArR
+Security: 0.0
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Incursus
+Weapon: Incursus
+
+Name: Ghost Hughdidit
+Security: 3.1
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Thanatos
+Weapon: Dragonfly
+
+
+Destroyed items:
+
+Widowmaker Heavy Missile, Qty: 22
+Scourge Heavy Missile, Qty: 22
+Havoc Heavy Missile, Qty: 22
+Heavy Missile Launcher I
+10MN MicroWarpdrive I
+Sensor Booster I
+Ballistic Control System I
+Reactor Control Unit I
+Widowmaker Heavy Missile, Qty: 300 (Cargo)
+Thunderbolt Heavy Missile, Qty: 300 (Cargo)
+

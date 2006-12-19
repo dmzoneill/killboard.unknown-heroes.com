@@ -1,0 +1,26 @@
+2007.01.04 05:04
+
+Victim: Dopey McGank
+Alliance: Privateer Alliance
+Corp: Defile.
+Destroyed: Punisher
+System: Jita
+Security: 0.9
+
+Involved parties:
+
+Name: Nova Paradise (laid the final blow)
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+
+Destroyed items:
+
+200mm Light Gallium I Machine Gun
+200mm Light Gallium I Machine Gun
+EMP S, Qty: 45
+Cold-Gas I Arcjet Thrusters
+

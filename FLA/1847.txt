@@ -1,0 +1,32 @@
+2007.01.07 00:12
+
+Victim: roboto212
+Alliance: Freelancer Alliance
+Corp: Sin-X Inc.
+Destroyed: Deimos
+System: Sobaseki
+Security: 0.8
+
+Involved parties:
+
+Name: Darknesss (laid the final blow)
+Security: -0.1
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Megathron
+Weapon: Ogre II
+
+
+Destroyed items:
+
+Modal Ion Particle Accelerator I
+Modal Neutron Particle Accelerator I
+Modal Neutron Particle Accelerator I
+Antimatter Charge M, Qty: 520
+X5 Prototype I Engine Enervator
+Medium Armor Repairer II
+Magnetic Vortex Stabilizer I
+Magnetic Field Stabilizer II
+Energized Adaptive Nano Membrane I
+Hammerhead I, Qty: 2 (Drone Bay)
+

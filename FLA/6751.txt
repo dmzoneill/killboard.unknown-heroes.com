@@ -1,0 +1,112 @@
+2006.11.26 14:58
+
+Victim: Nulli Secundus
+Alliance: Insurgency
+Corp: Celestial Apocalypse
+Destroyed: Armageddon
+System: 75FA-Z
+Security: 0.0
+
+Involved parties:
+
+Name: LizzyD
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Megathron
+Weapon: 'Limos' Cruise Launcher I
+
+Name: LC Sulla (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Cerberus
+Weapon: Scourge Heavy Missile
+
+Name: Wthor
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Narny
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Raven
+Weapon: Cruise Missile Launcher II
+
+Name: brian crainie
+Security: 2.7
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Megathron
+Weapon: Ogre I
+
+Name: Smutt
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Scorpion
+Weapon: Devastator Cruise Missile
+
+Name: Scorpio63
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Apocalypse
+Weapon: Apocalypse
+
+Name: Elfaen Ethenwe
+Security: -1.9
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Rook
+Weapon: Thunderbolt Precision Heavy Missile
+
+Name: Rangercameron2
+Security: 2.3
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Ares
+Weapon: Phalanx Rocket
+
+Name: Velithe
+Security: 2.3
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Buzzard
+Weapon: Piranha Light Missile
+
+Name: noba
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Taranis
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: Aeryn Calbert
+Security: 1.5
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Scorpion
+Weapon: 'Hypnos' Multispectral ECM I
+
+
+Destroyed items:
+
+Dual Heavy Pulse Laser II
+Dual Heavy Pulse Laser II
+Scorch L
+Scorch L
+Scorch L
+Scorch L
+X5 Prototype I Engine Enervator
+Incremental Radar ECCM Scanning Array I
+Armor Kinetic Hardener II
+Armor Explosive Hardener II
+1600mm Reinforced Crystalline Carbonide Plates I
+Valkyrie I, Qty: 3 (Drone Bay)
+Hammerhead I (Drone Bay)
+

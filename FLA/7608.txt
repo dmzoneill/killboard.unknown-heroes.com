@@ -1,0 +1,25 @@
+2006.09.24 18:36
+
+Victim: Tomturbo
+Alliance: None
+Corp: School of Applied Knowledge
+Destroyed: Bantam
+System: Mara
+Security: 0.4
+
+Involved parties:
+
+Name: Don Marcus (laid the final blow)
+Security: -0.5
+Alliance: Freelancer Alliance
+Corp: Sin-X Inc.
+Ship: Blackbird
+Weapon: Flameburst Light Missile
+
+
+Destroyed items:
+
+Miner II
+Monopropellant I Hydrazine Boosters
+Mark I Modified SS Expanded Cargo
+

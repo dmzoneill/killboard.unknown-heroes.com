@@ -1,0 +1,44 @@
+2006.10.28 04:03
+
+Victim: DONJUAN v
+Alliance: Eternal Empire
+Corp: Tarnak inc.
+Destroyed: Stabber
+System: J-CIJV
+Security: 0.0
+
+Involved parties:
+
+Name: Goca (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Raven
+Weapon: Mjolnir Javelin Torpedo
+
+Name: Swanny231
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Unknown
+Weapon: 250mm Railgun II
+
+Name: Entragian Delmar
+Security: 1.3
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Thorax
+Weapon: Thorax
+
+
+Destroyed items:
+
+220mm Vulcan AutoCannon I
+425mm AutoCannon I
+EMP M, Qty: 72
+Piranha Light Missile, Qty: 61
+'Arbalest' Assault Missile Launcher
+10MN MicroWarpdrive I
+Warp Core Stabilizer I
+EMP M, Qty: 1419 (Cargo)
+

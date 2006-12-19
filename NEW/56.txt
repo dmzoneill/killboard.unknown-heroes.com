@@ -1,0 +1,58 @@
+2007.01.01 12:48
+
+Victim: Hans Blix
+Alliance: None
+Corp: Veto.
+Destroyed: Hurricane
+System: OWXT-5
+Security: 0.0
+
+Involved parties:
+
+Name: Pestily
+Security: 4.7
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Capsule
+Weapon: Siege Missile Launcher II
+
+Name: mr passie
+Security: 5.0
+Alliance: None
+Corp: Purgatorial Janitors Inc.
+Ship: Hurricane
+Weapon: 425mm AutoCannon I
+
+Name: mrrabit (laid the final blow)
+Security: 1.8
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Cyclone
+Weapon: Scourge Heavy Missile
+
+Name: Jorax
+Security: 4.2
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Myrmidon
+Weapon: 250mm Compressed Coil Gun I
+
+Name: NeoDerrick
+Security: 3.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Raptor
+Weapon: Fleeting Propulsion Inhibitor I
+
+
+Destroyed items:
+
+425mm AutoCannon II, Qty: 5
+50W Infectious Power System Malfunction
+Barrage M, Qty: 24
+Large Shield Extender II
+Fleeting Warp Scrambler I
+Gyrostabilizer II
+Tracking Enhancer II
+Barrage M, Qty: 4914 (Cargo)
+Hobgoblin II, Qty: 2 (Drone Bay)

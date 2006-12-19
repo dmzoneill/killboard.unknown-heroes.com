@@ -1,0 +1,64 @@
+2006.10.04 06:03
+
+Victim: Steinhauer
+Alliance: Freelancer Alliance
+Corp: Abandoned Resolve Corporation
+Destroyed: Harpy
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Vily
+Security: -1.6
+Alliance: None
+Corp: Lilium Venture Initiative
+Ship: Heretic
+Weapon: Heretic
+
+Name: UnSiViLiZeD (laid the final blow)
+Security: -1.6
+Alliance: None
+Corp: Beagle Corp
+Ship: Enyo
+Weapon: Regulated Light Neutron Phase Cannon I
+
+Name: Zatharas
+Security: -4.8
+Alliance: None
+Corp: Beagle Corp
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Dearwin
+Security: -2.4
+Alliance: None
+Corp: Beagle Corp
+Ship: Ishkur
+Weapon: Warrior II
+
+Name: Roule
+Security: -5.1
+Alliance: None
+Corp: Beagle Corp
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: War chylde
+Security: 0.4
+Alliance: None
+Corp: Beagle Corp
+Ship: Rifter
+Weapon: 200mm AutoCannon I
+
+
+Destroyed items:
+
+150mm Railgun II
+Antimatter Charge S, Qty: 120
+Eutectic I Capacitor Charge Array
+Eutectic I Capacitor Charge Array
+Magnetic Field Stabilizer II
+Antimatter Charge S, Qty: 140 (Cargo)
+Spike S, Qty: 300 (Cargo)
+

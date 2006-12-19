@@ -1,0 +1,34 @@
+2007.04.03 22:26
+
+Victim: taylor04
+Alliance: Triumvirate.
+Corp: D00M.
+Destroyed: Curse
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Drako Invictus (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Absolution
+Weapon: Heavy Pulse Laser II
+
+
+Destroyed items:
+
+Medium Diminishing Power System Drain I
+Medium Diminishing Power System Drain I
+Medium Diminishing Power System Drain I
+Medium Nosferatu II
+Large Shield Extender II
+10MN MicroWarpdrive II
+Remote Sensor Dampener II
+Inertia Stabilizers II
+Nanofiber Internal Structure II
+Ballistic Deflection Field II (Cargo)
+Ogre II (Cargo)
+Beta Hull Mod Nanofiber Structure (Cargo)
+

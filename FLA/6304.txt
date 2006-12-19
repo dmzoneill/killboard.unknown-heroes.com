@@ -1,0 +1,19 @@
+2006.11.12 02:00
+
+Victim: Krasnij Okjabre
+Alliance: Blood Raiders Alliance
+Corp: Murder-Death-Kill
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Hosanna (laid the final blow)
+Security: 1.7
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Thrasher
+Weapon: 280mm Howitzer Artillery II
+
+

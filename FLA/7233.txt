@@ -1,0 +1,61 @@
+2006.05.06 19:07
+
+Victim: TriDane
+Alliance: E.R.A
+Corp: Celtic Anarchy
+Destroyed: Crow
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Laboratus
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Megathron
+Weapon: 425mm 'Scout' I Accelerator Cannon
+
+Name: ShyLion
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Lords Of Guile
+Ship: Megathron
+Weapon: Megathron
+
+Name: Cockroach (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Vengeance
+Weapon: Piranha Light Missile
+
+Name: Shiri elAzarinres
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Caracal
+Weapon: Thunderbolt Heavy Missile
+
+Name: Mac Spliff
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Immortal Serial Killers
+Ship: Brutix
+Weapon: 250mm Railgun II
+
+
+Destroyed items:
+
+75mm Gatling Rail II
+Sabretooth Light Missile, Qty: 50
+Standard Missile Launcher II
+Standard Missile Launcher II
+Sensor Booster II
+Warp Scrambler I (Cargo)
+Patterned Stasis Web I (Cargo)
+'Langour' Drive Disruptor I (Cargo)
+Antimatter Charge S, Qty: 142 (Cargo)
+Hornet I, Qty: 2 (Cargo)
+Piranha Light Missile, Qty: 402 (Cargo)
+

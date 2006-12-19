@@ -1,0 +1,33 @@
+2007.03.25 20:28
+
+Victim: Nazg0th
+Alliance: Eternal Rapture
+Corp: Temptation inc.
+Destroyed: Taranis
+System: F7C-H0
+Security: 0.0
+
+Involved parties:
+
+Name: HYT gangster (laid the final blow)
+Security: 1.5
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Claw
+Weapon: 150mm Light AutoCannon II
+
+
+Destroyed items:
+
+10MN MicroWarpdrive I (Cargo)
+Catalyzed Cold-Gas I Arcjet Thrusters (Cargo)
+J5 Prototype Warp Inhibitor I (Cargo)
+125mm Railgun II (Cargo)
+Heavy Neutron Blaster I (Cargo)
+F-S15 Braced Deflection Shield Matrix (Cargo)
+Thorium Charge S, Qty: 4380 (Cargo)
+Small Secure Container (Cargo)
+Type-D Altered SS Inertial Stabilizers, Qty: 2 (Cargo)
+Mark I Generator Refitting: Diagnostic System (Cargo)
+Type-D Power Core Modification: Capacitor Power Relay (Cargo)
+

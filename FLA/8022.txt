@@ -1,0 +1,19 @@
+2006.10.06 00:57
+
+Victim: BladeMos
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Destroyed: Capsule
+System: Litiura
+Security: 0.5
+
+Involved parties:
+
+Name: Morfane (laid the final blow)
+Security: -0.2
+Alliance: None
+Corp: Privateers
+Ship: Taranis
+Weapon: Light Neutron Blaster II
+
+

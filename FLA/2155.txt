@@ -1,0 +1,48 @@
+2007.01.25 16:59
+
+Victim: arthell
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Destroyed: Myrmidon
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Valora
+Security: 2.3
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Andreaz Kotz (laid the final blow)
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Andrommeda
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Ares
+Weapon: Warp Disruptor I
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Medium Nosferatu I
+200mm Prototype I Gauss Gun
+Dread Guristas Tungsten Charge M, Qty: 70
+J5 Prototype Warp Inhibitor I
+Medium Electrochemical Capacitor Booster I
+Cap Booster 800
+Alumel-Wired I Sensor Augmentation
+Medium Armor Repairer I
+Radioisotope Kinetic Hardener I
+Cap Booster 800, Qty: 10 (Cargo)
+Hammerhead I, Qty: 2 (Drone Bay)
+

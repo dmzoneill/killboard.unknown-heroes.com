@@ -1,0 +1,52 @@
+2007.03.27 02:13
+
+Victim: BigVix
+Alliance: None
+Corp: Mongoose Development Enterprises
+Destroyed: Cormorant
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Steakkbone (laid the final blow)
+Security: 0.0
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Dominix
+Weapon: Garde I
+
+Name: Newport Capri
+Security: 5.0
+Alliance: None
+Corp: Emerald Empire
+Ship: Flycatcher
+Weapon: Phalanx Rocket
+
+Name: Tregaron
+Security: 2.4
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Thrasher
+Weapon: Thrasher
+
+Name: Earth WInd
+Security: -0.4
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Atron
+Weapon: Atron
+
+
+Destroyed items:
+
+Miner I
+Small Capacitor Battery I (Cargo)
+Small Energy Neutralizer I (Cargo)
+Thorium Charge S, Qty: 100 (Cargo)
+Tungsten Charge S, Qty: 100 (Cargo)
+Cap Booster 100, Qty: 7 (Cargo)
+Warp Core Stabilizer I (Cargo)
+Fried Interface Circuit, Qty: 3 (Cargo)
+Burned Logic Circuit, Qty: 6 (Cargo)
+

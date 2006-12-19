@@ -1,0 +1,54 @@
+2007.01.03 06:07
+
+Victim: Ashr
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Destroyed: Nighthawk
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: XxAngelxX (laid the final blow)
+Security: 5.0
+Alliance: None
+Corp: Viziam
+Ship: Armageddon
+Weapon: Mega Pulse Laser II
+
+Name: WarGod
+Security: 1.2
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: Jogyn
+Security: -1.3
+Alliance: Shroud Of Darkness
+Corp: The Priory
+Ship: Taranis
+Weapon: Taranis
+
+
+Destroyed items:
+
+Thunderbolt Heavy Missile, Qty: 12
+Heavy Missile Launcher II
+Heavy Missile Launcher II
+Heavy Missile Launcher II
+Heavy Missile Launcher II
+Heavy Missile Launcher II
+Heavy Missile Launcher II
+Small Tractor Beam I
+Havoc Precision Heavy Missile, Qty: 36
+Large Shield Extender II
+Shield Boost Amplifier I
+Ballistic Control System II
+Power Diagnostic System II
+Power Diagnostic System II
+Gistii A-Type Small Shield Booster, Qty: 2 (Cargo)
+Shield Boost Amplifier II (Cargo)
+Small Secure Container (Cargo)
+Havoc Heavy Missile, Qty: 500 (Cargo)
+

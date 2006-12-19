@@ -1,0 +1,93 @@
+2007.04.05 00:21
+
+Victim: Valourium Trigger
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Destroyed: Covetor
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Deerhoof
+Security: 0.9
+Alliance: Axiom Empire
+Corp: United Society Starfleet
+Ship: Wolf
+Weapon: Wolf
+
+Name: Joshua Foiritain (laid the final blow)
+Security: -1.7
+Alliance: Corelum Syndicate
+Corp: Coreli Corporation
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: LT Stryker
+Security: 4.0
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Stabber
+Weapon: Stabber
+
+Name: EVIL SYNNs
+Security: 0.0
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Wolf
+Weapon: Wolf
+
+Name: Hansihandyr
+Security: 4.6
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+Name: Tanaka Atsuko
+Security: -3.0
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Arazu
+Weapon: Arazu
+
+Name: Dia Spora
+Security: 0.9
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: IamnobodyCL
+Security: 5.0
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Vengeance
+Weapon: Vengeance
+
+Name: MsMephistopheles
+Security: 2.3
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Ishkur
+Weapon: Initiated Warp Jammer I
+
+Name: Kuentai
+Security: -5.8
+Alliance: Corelum Syndicate
+Corp: Coreli Corporation
+Ship: Sabre
+Weapon: X5 Prototype I Engine Enervator
+
+Name: Korran Delan
+Security: 4.7
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Raptor
+Weapon: Fleeting Warp Scrambler I
+
+
+Destroyed items:
+
+Strip Miner I
+

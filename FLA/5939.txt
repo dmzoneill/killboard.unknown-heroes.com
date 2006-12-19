@@ -1,0 +1,75 @@
+2006.10.30 18:37
+
+Victim: Zap Zaberdine
+Alliance: Triumvirate.
+Corp: D00M.
+Destroyed: Rapier
+System: E-Z2ZX
+Security: 0.0
+
+Involved parties:
+
+Name: Matt Stoner
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Cerberus
+Weapon: Widowmaker Heavy Missile
+
+Name: W4RR10R
+Security: 3.1
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Deimos
+Weapon: X5 Prototype I Engine Enervator
+
+Name: Hosanna
+Security: 0.6
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: Tri Ounou (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Stabber
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Jumar Coldgin
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+Name: Verild
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Rook
+Weapon: Bloodclaw Light Missile
+
+Name: Ather Ialeas
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Vengeance
+Weapon: Warp Disruptor I
+
+
+Destroyed items:
+
+720mm Howitzer Artillery II
+720mm Howitzer Artillery II
+Covert Ops Cloaking Device II
+Tremor M, Qty: 20
+Large Shield Extender II
+10MN Afterburner II
+X5 Prototype I Engine Enervator
+Gyrostabilizer II
+Emergency Damage Control I
+Quake M, Qty: 754 (Cargo)
+Warrior II, Qty: 3 (Drone Bay)
+

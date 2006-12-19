@@ -1,0 +1,40 @@
+2006.11.06 18:41
+
+Victim: Shinrea
+Alliance: None
+Corp: Garoun Investment Bank
+Destroyed: Burst
+System: J-CIJV
+Security: 0.0
+
+Involved parties:
+
+Name: Preying Mantis (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: Jack Phox
+Security: 2.9
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Crow
+Weapon: TE-2100 Standard Missile Bay
+
+Name: Gangreen
+Security: 0.1
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Thorax
+Weapon: 125mm 'Scout' I Accelerator Cannon
+
+
+Destroyed items:
+
+Small Neutron Saturation Injector I
+Cap Recharger I
+Small Ohm Capacitor Reserve I
+Warp Core Stabilizer I
+

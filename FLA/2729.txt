@@ -1,0 +1,123 @@
+2007.03.04 02:55
+
+Victim: truefranco
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Destroyed: Vagabond
+System: PNQY-Y
+Security: 0.0
+
+Involved parties:
+
+Name: Hauth (laid the final blow)
+Security: 5.2
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Curse
+Weapon: Valkyrie II
+
+Name: Hunter Vonnegut
+Security: 5.0
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Ishkur
+Weapon: Hobgoblin II
+
+Name: Frank Monkey
+Security: -0.1
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Taranis
+Weapon: Taranis
+
+Name: IamnobodyCL
+Security: 5.0
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Pilgrim
+Weapon: Hornet II
+
+Name: Criosachille
+Security: 3.2
+Alliance: Xelas Alliance
+Corp: Catalyst Reaction
+Ship: Celestis
+Weapon: Hobgoblin I
+
+Name: Kendex
+Security: 3.3
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Harpy
+Weapon: Harpy
+
+Name: TKane
+Security: 0.2
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Thorax
+Weapon: Vespa II
+
+Name: ZAX0236
+Security: 5.0
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Flycatcher
+Weapon: Sabretooth Precision Light Missile
+
+Name: pcgamereve
+Security: 4.9
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Sabre
+Weapon: Sabre
+
+Name: Talon Kell
+Security: 5.1
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Ferox
+Weapon: Assault Missile Launcher II
+
+Name: xCERBERUS2
+Security: -1.0
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Rayvan
+Security: 3.0
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Megathron
+Weapon: Megathron
+
+Name: LT Stryker
+Security: 1.5
+Alliance: Axiom Empire
+Corp: Regalis Industria Scientia Entreprendre
+Ship: Blackbird
+Weapon: ECM - Phase Inverter I
+
+Name: DarKStar13
+Security: 5.0
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Ares
+Weapon: Ares
+
+
+Destroyed items:
+
+220mm Vulcan AutoCannon II
+220mm Vulcan AutoCannon II
+220mm Vulcan AutoCannon II
+Barrage M, Qty: 160
+Warp Disruptor II
+Kinetic Deflection Amplifier II
+Gyrostabilizer II
+Local Hull Conversion Inertial Stabilizers I
+Local Hull Conversion Nanofiber Structure I
+Hobgoblin II (Drone Bay)
+

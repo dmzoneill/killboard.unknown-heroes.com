@@ -1,0 +1,35 @@
+2007.04.10 09:16
+
+Victim: ClogMan
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Destroyed: Typhoon
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Sedith (laid the final blow)
+Security: 1.7
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Aeon
+Weapon: Dragonfly
+
+
+Destroyed items:
+
+1200mm Artillery Cannon I, Qty: 2
+Phased Plasma L, Qty: 8
+Bane Torpedo, Qty: 16
+'Malkuth' Siege Missile Launcher I, Qty: 2
+F-b10 Nominal Capacitor Regenerator, Qty: 2
+Large Inefficient Armor Repair Unit
+Armor Explosive Hardener II
+Armor Thermic Hardener I
+Reactor Control Unit I, Qty: 2
+Phased Plasma L, Qty: 4722 (Cargo)
+Juggernaut Torpedo, Qty: 2741 (Cargo)
+Hornet II (Drone Bay)
+Ogre I, Qty: 4 (Drone Bay)
+Vespa II, Qty: 2 (Drone Bay)

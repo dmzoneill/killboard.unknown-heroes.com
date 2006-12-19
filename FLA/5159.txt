@@ -1,0 +1,42 @@
+2007.01.26 06:25
+
+Victim: Ithalia
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Megathron
+System: OWXT-5
+Security: 0.0
+
+Involved parties:
+
+Name: P1rate Dave
+Security: 0.9
+Alliance: None
+Corp: 0utbreak
+Ship: Typhoon
+Weapon: Ogre I
+
+Name: Vyndicator (laid the final blow)
+Security: -2.5
+Alliance: None
+Corp: 0utbreak
+Ship: Typhoon
+Weapon: Devastator Cruise Missile
+
+
+Destroyed items:
+
+425mm Compressed Coil Gun I
+425mm 'Scout' I Accelerator Cannon
+425mm Railgun I
+425mm Railgun I
+Uranium Charge L, Qty: 96
+Cap Recharger II
+F-b10 Nominal Capacitor Regenerator
+Large 'Accommodation' Vestment Reconstructer I
+Magnetic Field Stabilizer II
+True Sansha Energized Adaptive Nano Membrane
+1600mm Reinforced Rolled Tungsten Plates I
+Power Diagnostic System II
+Hobgoblin II, Qty: 3 (Drone Bay)
+

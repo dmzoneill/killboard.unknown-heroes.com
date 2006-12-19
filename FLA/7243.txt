@@ -1,0 +1,40 @@
+2006.05.17 00:06
+
+Victim: Arondor
+Alliance: Northern Freedom Coalition
+Corp: GalacTECH Unlimited
+Destroyed: Capsule
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: NeoFusion
+Security: 3.2
+Alliance: Freelancer Alliance
+Corp: Freelancer Union
+Ship: Hawk
+Weapon: Piranha Light Missile
+
+Name: Laboratus (laid the final blow)
+Security: 3.7
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Megathron
+Weapon: 425mm Prototype I Gauss Gun
+
+Name: Tibicen Aurelius
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Celestis
+Weapon: Celestis
+
+Name: Gustoff
+Security: 0.0
+Alliance: None
+Corp: Shadow Company
+Ship: Incursus
+Weapon: 125mm Prototype I Gauss Gun
+
+

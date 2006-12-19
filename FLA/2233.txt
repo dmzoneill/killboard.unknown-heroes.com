@@ -1,0 +1,81 @@
+2007.01.28 18:59
+
+Victim: DrElJefeMD
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Destroyed: Scorpion
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: taylor04 (laid the final blow)
+Security: 0.4
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: WarGod
+Security: 0.8
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Tempest
+Weapon: Tempest
+
+Name: cptblood
+Security: 1.3
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Tempest
+Weapon: Tempest
+
+Name: ukpAgAn
+Security: 5.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Megathron
+Weapon: Megathron
+
+Name: Torok Nakaht
+Security: 1.2
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Martin Mckenna
+Security: 2.1
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Malediction
+Weapon: TE-2100 Standard Missile Bay
+
+Name: Pistonbroke
+Security: 0.4
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Scorpion
+Weapon: ECM - Spatial Destabilizer II
+
+
+Destroyed items:
+
+Heavy 'Knave' I Energy Drain
+Paradise Cruise Missile, Qty: 23
+Cataclysm Cruise Missile, Qty: 23
+XT-9000 Cruise Launcher
+XT-9000 Cruise Launcher
+Compulsive Multispectral ECM I
+Compulsive Multispectral ECM I
+Conjunctive Gravimetric ECCM Scanning Array I
+Remote Sensor Dampener II
+Remote Sensor Dampener II
+Remote Sensor Dampener II
+F-90 Positional Sensor Subroutines
+F-89 Synchronized Signal Amplifier
+Signal Distortion Amplifier I
+Initiated Signal Distortion Amplifier I
+Paradise Cruise Missile, Qty: 454 (Cargo)
+Medium Armor Maintenance Bot I, Qty: 3 (Drone Bay)
+

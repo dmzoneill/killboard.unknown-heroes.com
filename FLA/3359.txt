@@ -1,0 +1,43 @@
+2007.03.24 22:15
+
+Victim: Porti
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Destroyed: Cyclone
+System: O-N8XZ
+Security: 0.0
+
+Involved parties:
+
+Name: Pataras (laid the final blow)
+Security: -1.8
+Alliance: None
+Corp: Bikini Girls with Machine Guns
+Ship: Raven
+Weapon: Mjolnir Torpedo
+
+Name: Vengarioth Skullshanks
+Security: -1.9
+Alliance: None
+Corp: Bikini Girls with Machine Guns
+Ship: Rapier
+Weapon: Hobgoblin II
+
+
+Destroyed items:
+
+720mm Howitzer Artillery II
+Quake M, Qty: 10
+Widowmaker Heavy Missile, Qty: 65
+Advanced 'Limos' Heavy Missile Bay I
+Medium Shield Booster II
+Invulnerability Field II
+Shield Boost Amplifier I
+Power Diagnostic System II
+EMP M, Qty: 725 (Cargo)
+Phased Plasma M, Qty: 967 (Cargo)
+Quake M, Qty: 468 (Cargo)
+Tremor M, Qty: 600 (Cargo)
+Widowmaker Heavy Missile, Qty: 885 (Cargo)
+Hammerhead II, Qty: 3 (Drone Bay)
+

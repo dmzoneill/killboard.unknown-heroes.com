@@ -1,0 +1,39 @@
+2007.04.11 16:41
+
+Victim: Cichlidina KzerZa
+Alliance: None
+Corp: Perkone
+Destroyed: Ibis
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: CENTUREAN
+Security: 4.4
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Daressek (laid the final blow)
+Security: 4.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ferox
+Weapon: 250mm 'Scout' I Accelerator Cannon
+
+Name: Aikuchi Hiddensword
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ishkur
+Weapon: Warrior I
+
+
+Destroyed items:
+
+Civilian Gatling Railgun
+Basic Miner
+Tritanium (Cargo)
+

@@ -1,0 +1,46 @@
+2006.10.24 20:15
+
+Victim: Pirx jr
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Destroyed: Guardian
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: TheBelgarion
+Security: 4.4
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Caracal
+Weapon: Advanced 'Limos' Heavy Missile Bay I
+
+Name: ConXtionS
+Security: 0.2
+Alliance: Forces of Freedom
+Corp: Crimson Wings Squadron
+Ship: Exequror
+Weapon: Exequror
+
+Name: Reason Taki (laid the final blow)
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Moa
+Weapon: 250mm Railgun II
+
+Name: Stefu
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Vengeance
+Weapon: Phased Muon Sensor Disruptor I
+
+
+Destroyed items:
+
+Medium Remote Armor Repair System I
+Medium Remote Armor Repair System I
+Small Armor Repairer I
+

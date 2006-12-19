@@ -1,0 +1,31 @@
+2007.01.20 22:35
+
+Victim: Excaluber X
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Coercer
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Hamatitio (laid the final blow)
+Security: 5.0
+Alliance: None
+Corp: Fate.
+Ship: Dominix
+Weapon: Hammerhead I
+
+
+Destroyed items:
+
+Medium Beam Laser I
+Medium Beam Laser I
+Medium Pulse Laser I
+Multifrequency S
+Multifrequency S
+Small Remote Armor Repair System I
+100mm Reinforced Steel Plates I
+Overdrive Injector System I
+Overdrive Injector System I
+

@@ -1,0 +1,57 @@
+2007.04.10 22:48
+
+Victim: Max Teranous
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Destroyed: Claw
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Hous Pharteen
+Security: 0.2
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Ship: Retribution
+Weapon: Retribution
+
+Name: The Cade (laid the final blow)
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Thorax
+Weapon: Heavy Neutron Blaster I
+
+Name: Kaand
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Thorax
+Weapon: Thorax
+
+Name: Enzion
+Security: 1.1
+Alliance: Forces of Freedom
+Corp: The Patriot Society
+Ship: Caracal
+Weapon: Heavy Missile Launcher I
+
+Name: CENTUREAN
+Security: 4.4
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Drake
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+
+Destroyed items:
+
+200mm AutoCannon II
+EMP S, Qty: 20
+F85 Peripheral Damage System I
+200mm Reinforced Rolled Tungsten Plates I
+EMP S, Qty: 625 (Cargo)
+Nuclear S, Qty: 3014 (Cargo)
+Foxfire Rocket, Qty: 463 (Cargo)
+

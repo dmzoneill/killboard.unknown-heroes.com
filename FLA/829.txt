@@ -1,0 +1,39 @@
+2007.02.23 09:00
+
+Victim: Findail
+Alliance: Firmus Ixion
+Corp: Band of Builders Inc.
+Destroyed: Falcon
+System: 60M-TG
+Security: 0.0
+
+Involved parties:
+
+Name: Slinktress
+Security: 2.7
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Megathron
+Weapon: Megathron
+
+Name: Stealth0rz (laid the final blow)
+Security: 1.6
+Alliance: CORE.
+Corp: Knights of The Round
+Ship: Rupture
+Weapon: 720mm Carbine Howitzer I
+
+
+Destroyed items:
+
+Covert Ops Cloaking Device II
+Recon Probe Launcher I
+Heavy Missile Launcher II
+Remote Sensor Dampener II
+Sensor Booster II
+Medium Armor Repairer II
+Ballistic Control System II
+Thunderbolt Heavy Missile, Qty: 33 (Cargo)
+Ferret Scanner Probe I, Qty: 10 (Cargo)
+Fathom Scanner Probe I, Qty: 19 (Cargo)
+

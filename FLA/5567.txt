@@ -1,0 +1,33 @@
+2006.10.08 00:45
+
+Victim: Tenebrion Darkness
+Alliance: None
+Corp: Viziam
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Nil Desperandum (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Omen
+Weapon: Heavy Pulse Laser II
+
+Name: Anatolli Korenchken
+Security: 5.0
+Alliance: CORE.
+Corp: AUS Corporation
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+Name: Malkius
+Security: 1.7
+Alliance: Forces of Freedom
+Corp: JUDGE DREAD Inc.
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+

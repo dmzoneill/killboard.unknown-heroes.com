@@ -1,0 +1,40 @@
+2006.11.10 17:51
+
+Victim: Yamaha R1
+Alliance: None
+Corp: Angelshop
+Destroyed: Amarr Shuttle
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Dog Cancer
+Security: 1.4
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Crow
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: LiBraga (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Eagle
+Weapon: 250mm Prototype I Gauss Gun
+
+Name: dinj
+Security: 4.7
+Alliance: Freelancer Alliance
+Corp: London Transport
+Ship: Raptor
+Weapon: Foxfire Rocket
+
+Name: Darth Hound
+Security: 1.6
+Alliance: Schism.
+Corp: Fatalix Inc.
+Ship: Inquisitor
+Weapon: Peripheral Weapon Navigation Diameter
+
+

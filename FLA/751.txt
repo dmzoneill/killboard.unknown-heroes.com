@@ -1,0 +1,82 @@
+2007.02.19 18:46
+
+Victim: Alley Cat
+Alliance: Gunboat Diplomacy
+Corp: Warped Mining
+Destroyed: Wolf
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Genvu Daikanta
+Security: 2.1
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Darkspin (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Manticore
+Weapon: Paradise Cruise Missile
+
+Name: malkey
+Security: 4.7
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Capsule
+Weapon: Standard Missile Launcher I
+
+Name: demotar
+Security: 3.3
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Rapier
+Weapon: Rapier
+
+Name: Weeble Wooble
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Catalyst
+Weapon: 150mm Railgun II
+
+Name: darkviron
+Security: 4.0
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Ferox
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+Name: SniperMcBob
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Crow
+Weapon: Patterned Stasis Web I
+
+Name: Kolombus
+Security: 5.1
+Alliance: None
+Corp: BGG
+Ship: Arazu
+Weapon: Low Frequency Sensor Suppressor I
+
+Name: JaiMaster
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Unknown
+Weapon: Cruise Missile Launcher II
+
+Name: Imiarr Timshae
+Security: 5.0
+Alliance: The Foundation.
+Corp: Roid Vandals
+Ship: Capsule
+Weapon: Small Nosferatu I
+
+

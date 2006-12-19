@@ -1,0 +1,68 @@
+2007.02.25 23:24
+
+Victim: caldarl21
+Alliance: None
+Corp: State War Academy
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: movy
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Brutix
+Weapon: Brutix
+
+Name: Zephyrante
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Taranis
+Weapon: Taranis
+
+Name: Kerdrak (laid the final blow)
+Security: 4.8
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Harbinger
+Weapon: Heavy Pulse Laser I
+
+Name: Almagar Phog
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Falcon
+Weapon: 250mm Prototype I Gauss Gun
+
+Name: Margot Macabre
+Security: -2.4
+Alliance: O X I D E
+Corp: Cirrius Technologies
+Ship: Sabre
+Weapon: X5 Prototype I Engine Enervator
+
+Name: Karl Mattar
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: Kalibrana
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Enyo
+Weapon: Enyo
+
+Name: Kaand
+Security: 3.7
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Moa
+Weapon: X5 Prototype I Engine Enervator
+
+

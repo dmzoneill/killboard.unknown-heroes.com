@@ -1,0 +1,25 @@
+2006.11.20 01:43
+
+Victim: Phil Strauss
+Alliance: Interstellar Starbase Syndicate
+Corp: Order Of The Sentinel
+Destroyed: Incursus
+System: P-2TTL
+Security: 0.0
+
+Involved parties:
+
+Name: Dog Cancer (laid the final blow)
+Security: -0.2
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Manticore
+Weapon: Devastator Cruise Missile
+
+
+Destroyed items:
+
+150mm Railgun I
+Co-Processor I
+Warp Core Stabilizer I
+

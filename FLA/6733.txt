@@ -1,0 +1,19 @@
+2006.11.25 23:52
+
+Victim: Alte Wandorf
+Alliance: None
+Corp: Caldari Provisions
+Destroyed: Condor
+System: Hophib
+Security: 0.0
+
+Involved parties:
+
+Name: Wthor (laid the final blow)
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+

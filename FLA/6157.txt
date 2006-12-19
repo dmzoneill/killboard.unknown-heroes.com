@@ -1,0 +1,26 @@
+2006.11.09 12:50
+
+Victim: Mighty Term
+Alliance: None
+Corp: Forbidden Innovation Syndicate
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: jacass66 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Ferox
+Weapon: 250mm Prototype I Gauss Gun
+
+Name: LiBraga
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Eagle
+Weapon: 250mm Prototype I Gauss Gun
+
+

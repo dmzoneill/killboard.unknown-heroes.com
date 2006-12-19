@@ -1,0 +1,68 @@
+2006.11.27 03:53
+
+Victim: Slinktress
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Destroyed: Megathron
+System: CCP-US
+Security: 0.0
+
+Involved parties:
+
+Name: Crusari (laid the final blow)
+Security: 5.0
+Alliance: The Sani Sabik
+Corp: Omniscient Order
+Ship: Dominix
+Weapon: Ogre II
+
+Name: mier
+Security: 2.3
+Alliance: None
+Corp: 7...
+Ship: Dominix
+Weapon: Ogre I
+
+Name: Levin Cavil
+Security: -2.0
+Alliance: The Sani Sabik
+Corp: Omniscient Order
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Sphalerite
+Security: 0.9
+Alliance: The Red Skull
+Corp: Finite Horizon
+Ship: Crusader
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: Typhoid Mary
+Security: -0.5
+Alliance: The Red Skull
+Corp: Finite Horizon
+Ship: Raven
+Weapon: 'Limos' Cruise Launcher I
+
+Name: jamesw
+Security: 1.7
+Alliance: The Sani Sabik
+Corp: Omniscient Order
+Ship: Dominix
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: Sergio Ling
+Security: 3.3
+Alliance: Maelstrom Alliance
+Corp: Standard Operations Building Services
+Ship: Raptor
+Weapon: Raptor
+
+Name: H Zub
+Security: -1.0
+Alliance: The Sani Sabik
+Corp: Omniscient Order
+Ship: Dominix
+Weapon: Balmer Series Targeting Inhibitor I
+
+

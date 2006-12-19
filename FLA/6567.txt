@@ -1,0 +1,93 @@
+2006.11.18 19:01
+
+Victim: Melonne
+Alliance: Tau Ceti Federation
+Corp: COLSUP
+Destroyed: Executioner
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Gamer1K (laid the final blow)
+Security: 4.6
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: raiiar
+Security: 3.4
+Alliance: O X I D E
+Corp: W33D Corp.
+Ship: Retribution
+Weapon: Retribution
+
+Name: LizzyD
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Ishkur
+Weapon: 150mm Railgun II
+
+Name: DrRockIT
+Security: 4.9
+Alliance: Dusk and Dawn
+Corp: Asgard Schiffswerften
+Ship: Crusader
+Weapon: Dual Light Beam Laser II
+
+Name: astasinou
+Security: 4.6
+Alliance: O X I D E
+Corp: W33D Corp.
+Ship: Crow
+Weapon: 150mm Prototype I Gauss Gun
+
+Name: Weuzor
+Security: 0.0
+Alliance: Dusk and Dawn
+Corp: Asgard Schiffswerften
+Ship: Stiletto
+Weapon: 150mm Light AutoCannon I
+
+Name: Narny
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Caracal
+Weapon: Heavy Missile Launcher II
+
+Name: Marvel Master
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Asgard Schiffswerften
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+Name: Fr0zt
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Rook
+Weapon: Heavy Missile Launcher II
+
+Name: Durante Alighieri
+Security: 0.0
+Alliance: Schism.
+Corp: New Light
+Ship: Caracal
+Weapon: Heavy Missile Launcher I
+
+Name: AleXinO Gardon
+Security: 5.0
+Alliance: O X I D E
+Corp: W33D Corp.
+Ship: Caracal
+Weapon: Target Painter I
+
+
+Destroyed items:
+
+Basic Miner
+

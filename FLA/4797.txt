@@ -1,0 +1,94 @@
+2007.04.22 20:46
+
+Victim: Ant5010
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Destroyed: Ishtar
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Burn Lump
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Raptor
+Weapon: Einherji
+
+Name: TroNaaR
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Catalyst
+Weapon: Catalyst
+
+Name: Skull Fire
+Security: 0.8
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Ferox
+Weapon: Ferox
+
+Name: Dark Carnage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Crow
+Weapon: Sabretooth Precision Light Missile
+
+Name: Nina Kinuichi (laid the final blow)
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Coercer
+Weapon: Medium Pulse Laser I
+
+Name: Aridante Lemure
+Security: 1.2
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Rifter
+Weapon: Warp Disruptor I
+
+Name: Rohan V
+Security: 2.1
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Cormorant
+Weapon: Cormorant
+
+Name: demotar
+Security: 4.1
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Rifter
+Weapon: Gremlin Rocket
+
+Name: Bobby Atlas
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Thanatos
+Weapon: Einherji
+
+
+Destroyed items:
+
+Medium 'Knave' I Energy Drain
+Medium 'Knave' I Energy Drain
+150mm Railgun II
+Antimatter Charge S, Qty: 81
+Fleeting Warp Scrambler I
+'Langour' Drive Disruptor I
+Medium Brief Capacitor Overcharge I
+Medium Armor Repairer II
+Centum A-Type Energized Reactive Membrane
+True Sansha Energized Adaptive Nano Membrane
+F85 Peripheral Damage System I (Cargo)
+Antimatter Charge S, Qty: 18804 (Cargo)
+Cap Booster 800, Qty: 9 (Cargo)
+'Hypnos' Multispectral ECM I, Qty: 3 (Cargo)
+Ogre I, Qty: 6 (Drone Bay)
+Valkyrie II, Qty: 2 (Drone Bay)
+

@@ -1,0 +1,40 @@
+2007.03.31 07:10
+
+Victim: Helraizer
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Capsule
+System: P-2TTL
+Security: 0.0
+
+Involved parties:
+
+Name: Ferocious FeAr (laid the final blow)
+Security: 1.5
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+Name: Steve Dave
+Security: 4.1
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Harpy
+Weapon: Harpy
+
+Name: zigzag429
+Security: 0.6
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Sabre
+Weapon: 200mm AutoCannon II
+
+Name: Wladomir Jed
+Security: 3.7
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Rook
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+

@@ -1,0 +1,56 @@
+2007.05.14 20:03
+
+Victim: Kayron Brennan
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Destroyed: Caracal
+System: Tartoken
+Security: 0.1
+
+Involved parties:
+
+Name: Serj Darek
+Security: -1.8
+Alliance: None
+Corp: Mentally Unstable Enterprises
+Ship: Huginn
+Weapon: Huginn
+
+Name: Reggie Kray
+Security: -1.7
+Alliance: None
+Corp: Mentally Unstable Enterprises
+Ship: Arazu
+Weapon: Acolyte II
+
+Name: Madboy
+Security: 2.8
+Alliance: None
+Corp: Mentally Unstable Enterprises
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Del Boy (laid the final blow)
+Security: -1.2
+Alliance: None
+Corp: Mentally Unstable Enterprises
+Ship: Vagabond
+Weapon: Bloodclaw Precision Light Missile
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 19
+Havoc Heavy Missile, Qty: 19
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+10MN Afterburner II
+V-M15 Braced Multispectral Shield Matrix
+Prototype I Sensor Booster
+Viscoelastic EM Ward Salubrity I
+Ballistic Control System I
+Bloodclaw Light Missile, Qty: 59 (Cargo)
+Scourge Heavy Missile, Qty: 1098 (Cargo)
+Havoc Heavy Missile (Cargo)
+

@@ -1,0 +1,42 @@
+2007.04.17 01:00
+
+Victim: truefranco
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Destroyed: Kestrel
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Dol Amroth (laid the final blow)
+Security: 0.2
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: lethario desrtuction
+Security: 2.1
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Drake
+Weapon: Acolyte I
+
+Name: Terdlinger
+Security: 4.8
+Alliance: Storm Armada
+Corp: stone grave haulage
+Ship: Unknown
+Weapon: 'Arbalest' Heavy Missile Launcher
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 39
+'Malkuth' Standard Missile Launcher I
+'Malkuth' Standard Missile Launcher I
+'Malkuth' Standard Missile Launcher I
+Fixed Parallel Link-Capacitor I
+Bloodclaw Light Missile, Qty: 148 (Cargo)
+

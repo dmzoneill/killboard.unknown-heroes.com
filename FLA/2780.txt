@@ -1,0 +1,33 @@
+2007.03.07 00:04
+
+Victim: Kelter Highfire
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Capsule
+System: Isinokka
+Security: 0.7
+
+Involved parties:
+
+Name: Vex Volare (laid the final blow)
+Security: 2.6
+Alliance: Privateer Alliance
+Corp: Caldari Scouting and Intel Group
+Ship: Stabber
+Weapon: 220mm Medium Gallium I Machine Gun
+
+Name: babylonstew
+Security: 4.1
+Alliance: Privateer Alliance
+Corp: Caldari Scouting and Intel Group
+Ship: Hyperion
+Weapon: Fleeting Propulsion Inhibitor I
+
+Name: Agent2 Holtze
+Security: -0.8
+Alliance: Privateer Alliance
+Corp: Caldari Scouting and Intel Group
+Ship: Dominix
+Weapon: E500 Prototype Energy Vampire
+
+

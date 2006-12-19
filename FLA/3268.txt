@@ -1,0 +1,69 @@
+2007.03.22 03:22
+
+Victim: Howard199
+Alliance: Freelancer Alliance
+Corp: Feel Good Inc.
+Destroyed: Scorpion
+System: K3JR-J
+Security: 0.0
+
+Involved parties:
+
+Name: Naldo
+Security: -2.6
+Alliance: Triumvirate.
+Corp: ViperSquad
+Ship: Absolution
+Weapon: Absolution
+
+Name: Stooboy (laid the final blow)
+Security: 0.9
+Alliance: Triumvirate.
+Corp: ViperSquad
+Ship: Drake
+Weapon: Thunderbolt Fury Heavy Missile
+
+Name: Credent
+Security: 3.3
+Alliance: Triumvirate.
+Corp: ViperSquad
+Ship: Raven
+Weapon: Inferno Javelin Torpedo
+
+Name: Sehti
+Security: -1.1
+Alliance: Triumvirate.
+Corp: ViperSquad
+Ship: Typhoon
+Weapon: Hammerhead II
+
+Name: Sith Bandon
+Security: 5.0
+Alliance: Triumvirate.
+Corp: ViperSquad
+Ship: Ishtar
+Weapon: Ogre II
+
+Name: Sarah Baker
+Security: -1.5
+Alliance: None
+Corp: Pitch Black Incorporated
+Ship: Dominix
+Weapon: Hammerhead I
+
+
+Destroyed items:
+
+XT-9000 Cruise Launcher
+XT-9000 Cruise Launcher
+X-Large C5-L Emergency Shield Overload I
+Ditrigonal Thermal Barrier Crystallization I
+'Anointed' I EM Ward Reinforcement
+Compulsive Multispectral ECM I
+Compulsive Multispectral ECM I
+Ballistic Control System I
+Ballistic Deflection Field I (Cargo)
+Compulsive Multispectral ECM I (Cargo)
+Paradise Cruise Missile, Qty: 2665 (Cargo)
+Infiltrator I, Qty: 2 (Drone Bay)
+

@@ -1,0 +1,61 @@
+2007.03.08 09:46
+
+Victim: Loograsch
+Alliance: Freelancer Alliance
+Corp: United Forces
+Destroyed: Dominix
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: The Ali (laid the final blow)
+Security: -3.2
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: volly
+Security: 3.0
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Curse
+Weapon: Scourge Heavy Missile
+
+Name: Amok'Trueborn' Pryde
+Security: -1.6
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: jedimeister
+Security: -1.8
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+E500 Prototype Energy Vampire
+Heavy Nosferatu I
+250mm 'Scout' I Accelerator Cannon
+250mm 'Scout' I Accelerator Cannon
+250mm 'Scout' I Accelerator Cannon
+Antimatter Charge M, Qty: 64
+Fixed Parallel Link-Capacitor I
+Warp Disruptor I
+Sensor Booster I
+Large 'Accommodation' Vestment Reconstructer I
+N-Type Explosive Hardener I
+N-Type Kinetic Hardener I
+1600mm Reinforced Rolled Tungsten Plates I
+1600mm Reinforced Rolled Tungsten Plates I
+Antimatter Charge M (Cargo)
+Vespa I, Qty: 6 (Drone Bay)
+Wasp I (Drone Bay)
+Hornet I, Qty: 2 (Drone Bay)
+

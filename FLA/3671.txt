@@ -1,0 +1,47 @@
+2007.03.28 20:07
+
+Victim: Lucy Fire1
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Destroyed: Capsule
+System: P-2TTL
+Security: 0.0
+
+Involved parties:
+
+Name: numbers (laid the final blow)
+Security: 4.1
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Zealot
+Weapon: Heavy Beam Laser II
+
+Name: Lady Rania
+Security: -8.3
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: petergriffen
+Security: 2.8
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Tripline
+Security: 1.4
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+Name: Kkmar Jheren
+Security: -1.5
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Armageddon
+Weapon: Armageddon
+
+

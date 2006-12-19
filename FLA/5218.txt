@@ -1,0 +1,42 @@
+2007.04.27 06:35
+
+Victim: glitterbomb
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Thorax
+System: F7C-H0
+Security: 0.0
+
+Involved parties:
+
+Name: The Cade (laid the final blow)
+Security: 1.9
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Brutix
+Weapon: Anode Neutron Particle Cannon I
+
+Name: Lizzon
+Security: 5.0
+Alliance: Guardian Federation
+Corp: KULT Production
+Ship: Ishkur
+Weapon: Warrior II
+
+Name: Koi Yokuma
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Catalyst
+Weapon: J5 Prototype Warp Inhibitor I
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Medium Nosferatu I
+Small Energy Neutralizer II
+Small Energy Neutralizer II
+'Collateral' Adaptive Nano Plating I
+800mm Reinforced Rolled Tungsten Plates I
+

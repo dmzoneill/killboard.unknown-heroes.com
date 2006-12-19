@@ -1,0 +1,28 @@
+2006.12.01 01:18
+
+Victim: Elliott Manchild
+Alliance: None
+Corp: omen.
+Destroyed: Taranis
+System: RO0-AF
+Security: 0.0
+
+Involved parties:
+
+Name: Puz'ZaW (laid the final blow)
+Security: 1.9
+Alliance: Freelancer Alliance
+Corp: Thors Hammers
+Ship: Cyclone
+Weapon: Widowmaker Heavy Missile
+
+
+Destroyed items:
+
+Light Neutron Blaster II
+Light Neutron Blaster II
+Null S, Qty: 148
+J5 Prototype Warp Inhibitor I
+X5 Prototype I Engine Enervator
+Null S, Qty: 4364 (Cargo)
+

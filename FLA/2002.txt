@@ -1,0 +1,31 @@
+2007.01.16 09:05
+
+Victim: FlobbMkII
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Destroyed: Ishkur
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Noobjuice (laid the final blow)
+Security: -0.6
+Alliance: None
+Corp: Omniscient Order
+Ship: Typhoon
+Weapon: Hobgoblin II
+
+
+Destroyed items:
+
+Light Ion Blaster II
+Prototype Cloaking Device I
+Void S, Qty: 240
+1MN Afterburner II
+X5 Prototype I Engine Enervator
+Small Armor Repairer II
+Voltaic Nanite Reactive Membrane I
+Voltaic Nanite Reactive Membrane I
+Hobgoblin II, Qty: 4 (Drone Bay)
+

@@ -1,0 +1,77 @@
+2006.11.18 07:11
+
+Victim: GoLdeN BoY
+Alliance: None
+Corp: Beer Guzzling Clowns With Blasters
+Destroyed: Malediction
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: nXus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Caracal
+Weapon: Widowmaker Heavy Missile
+
+Name: Fugnut
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Crow
+Weapon: Thorn Rocket
+
+Name: Danielson1012 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: Admiral Hunter
+Security: 2.3
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Thorax
+Weapon: Warrior II
+
+Name: Barsak Kressel
+Security: 3.1
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Ship: Raven
+Weapon: Wrath Cruise Missile
+
+Name: digital oxygen
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: Micheal Ross
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Flycatcher
+Weapon: TE-2100 Standard Missile Bay
+
+
+Destroyed items:
+
+Medium Pulse Laser II
+Medium Pulse Laser II
+Gremlin Rocket
+Gremlin Rocket
+J5b Phased Prototype Warp Inhibitor I
+X5 Prototype I Engine Enervator
+Small Armor Repairer II
+'Anointed' I EM Ward Reinforcement (Cargo)
+Heat Dissipation Amplifier II (Cargo)
+Kinetic Deflection Amplifier II (Cargo)
+Gremlin Rocket, Qty: 3339 (Cargo)
+'Arbalest' Cruise Launcher I, Qty: 3 (Cargo)
+'Arbalest' Siege Missile Launcher (Cargo)
+

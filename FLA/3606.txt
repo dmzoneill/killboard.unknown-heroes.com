@@ -1,0 +1,33 @@
+2007.03.27 20:42
+
+Victim: Altanzar
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Destroyed: Capsule
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Kurai Amaro
+Security: 3.9
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Sabre
+Weapon: 250mm Light Artillery Cannon II
+
+Name: Gordon Red (laid the final blow)
+Security: 2.0
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Crusader
+Weapon: Dual Light Pulse Laser II
+
+Name: Taschenflak
+Security: 4.7
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Raptor
+Weapon: Upgraded 'Limos' Standard Missile Bay I
+
+

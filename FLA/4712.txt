@@ -1,0 +1,26 @@
+2007.04.19 15:04
+
+Victim: Mr Sensible
+Alliance: None
+Corp: Boards.ie
+Destroyed: Capsule
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Seamus O'Malley (laid the final blow)
+Security: 0.8
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Kestrel
+Weapon: Bloodclaw Light Missile
+
+Name: other mickey
+Security: 3.2
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Nemesis
+Weapon: XT-9000 Cruise Launcher
+
+

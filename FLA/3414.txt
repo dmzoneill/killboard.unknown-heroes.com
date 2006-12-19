@@ -1,0 +1,19 @@
+2007.03.25 20:08
+
+Victim: ConXtionS
+Alliance: Freelancer Alliance
+Corp: The Night Crew
+Destroyed: Capsule
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Electric Cucumber (laid the final blow)
+Security: -1.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Claw
+Weapon: 150mm Light AutoCannon II
+
+

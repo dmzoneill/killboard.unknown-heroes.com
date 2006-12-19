@@ -1,0 +1,19 @@
+2007.03.26 06:35
+
+Victim: Admiral Hunter
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Capsule
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Scer (laid the final blow)
+Security: 1.0
+Alliance: None
+Corp: Eterne
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+

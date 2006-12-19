@@ -1,0 +1,152 @@
+2007.03.25 00:02
+
+Victim: El Chingon
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Destroyed: Scorpion
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Nimbu
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: J.I.T. Enterprises
+Ship: Rokh
+Weapon: Rokh
+
+Name: Vesspasiano
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Dominix
+Weapon: Ogre II
+
+Name: JaiMaster
+Security: 2.7
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Typhoon
+Weapon: Typhoon
+
+Name: sakana
+Security: -0.9
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Megathron
+Weapon: Megathron
+
+Name: Sabe (laid the final blow)
+Security: 5.0
+Alliance: Red Horizon
+Corp: Red Horizon Inc
+Ship: Gila
+Weapon: Hobgoblin II
+
+Name: ISpydeRI
+Security: 5.0
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Drake
+Weapon: Thunderbolt Heavy Missile
+
+Name: Fugnut
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Darthirishguy
+Security: 1.6
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Jonas123
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Rokh
+Weapon: Rokh
+
+Name: Denaris1
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Ferox
+Weapon: Ferox
+
+Name: StrikerOneSevern
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Rupture
+Weapon: Hornet II
+
+Name: Deathratt
+Security: 4.7
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Ship: Blackbird
+Weapon: Scourge Heavy Missile
+
+Name: Almagar Phog
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+Name: Kerdrak
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Apocalypse
+Weapon: Apocalypse
+
+Name: Zephia
+Security: -8.7
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Omen
+Weapon: Omen
+
+Name: Tregaron
+Security: 2.3
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Korudon
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Drako Invictus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Absolution
+Weapon: Widowmaker Fury Heavy Missile
+
+
+Destroyed items:
+
+Heavy Nosferatu I
+Paradise Cruise Missile, Qty: 22
+XT-9000 Cruise Launcher, Qty: 2
+Indirect Scanning Dampening Unit I, Qty: 2
+Sensor Booster II, Qty: 2
+1600mm Reinforced Crystalline Carbonide Plates I, Qty: 2
+Paradise Cruise Missile, Qty: 990 (Cargo)
+Cataclysm Cruise Missile, Qty: 919 (Cargo)
+Wrath Cruise Missile, Qty: 1025 (Cargo)
+Hammerhead I, Qty: 2 (Drone Bay)
+Acolyte I, Qty: 3 (Drone Bay)
+Hornet I (Drone Bay)

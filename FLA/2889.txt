@@ -1,0 +1,42 @@
+2007.03.14 23:31
+
+Victim: Frau Formaggio
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Hyperion
+System: K4YZ-Y
+Security: 0.0
+
+Involved parties:
+
+Name: Hellspawn666 (laid the final blow)
+Security: 2.1
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Typhoon
+Weapon: Cataclysm Cruise Missile
+
+Name: callonious
+Security: 0.4
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Curse
+Weapon: Vespa II
+
+
+Destroyed items:
+
+E500 Prototype Energy Vampire
+Heavy Energy Neutralizer I
+500W Infectious Power System Malfunction
+Anode Mega Neutron Particle Cannon I
+Antimatter Charge L, Qty: 27
+Paradise Cruise Missile, Qty: 24
+Eutectic I Capacitor Charge Array
+F85 Peripheral Damage System I
+Energized Adaptive Nano Membrane I
+N-Type Thermic Hardener I
+Antimatter Charge L, Qty: 943 (Cargo)
+Lead Charge L, Qty: 795 (Cargo)
+Cap Booster 800, Qty: 4 (Cargo)
+

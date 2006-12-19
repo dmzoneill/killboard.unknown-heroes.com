@@ -1,0 +1,50 @@
+2007.02.03 12:33
+
+Victim: Gythar
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Raven
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Murdoch Morf (laid the final blow)
+Security: 1.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Typhoon
+Weapon: Devastator Cruise Missile
+
+
+Destroyed items:
+
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Juggernaut Torpedo
+Juggernaut Torpedo
+Juggernaut Torpedo
+Juggernaut Torpedo
+Juggernaut Torpedo
+Juggernaut Torpedo
+Juggernaut Torpedo
+Juggernaut Torpedo
+Wrath Cruise Missile, Qty: 16
+'Arbalest' Cruise Launcher I
+'Arbalest' Cruise Launcher I
+Small Tractor Beam I
+X-Large Shield Booster II
+Heat Dissipation Field I
+Invulnerability Field I
+Shield Boost Amplifier I
+Ballistic Control System I
+Power Diagnostic System I
+Power Diagnostic System I
+Juggernaut Torpedo, Qty: 785 (Cargo)
+Wrath Cruise Missile, Qty: 607 (Cargo)
+Vespa II (Drone Bay)
+

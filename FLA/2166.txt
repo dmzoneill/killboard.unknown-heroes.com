@@ -1,0 +1,33 @@
+2007.01.27 12:45
+
+Victim: Venkat Tulari
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Capsule
+System: O-N8XZ
+Security: 0.0
+
+Involved parties:
+
+Name: jernej
+Security: 4.2
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Jaguar
+Weapon: Warp Scrambler I
+
+Name: Beast Hun
+Security: 4.7
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Crusader
+Weapon: Crusader
+
+Name: eyesu (laid the final blow)
+Security: 3.5
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Muninn
+Weapon: 720mm Howitzer Artillery II
+
+

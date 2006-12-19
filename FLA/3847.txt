@@ -1,0 +1,65 @@
+2007.04.01 22:55
+
+Victim: TheZwo
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Destroyed: Merlin
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: ER0X (laid the final blow)
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: Julien Derida
+Security: -0.6
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Sabre
+Weapon: Sabre
+
+Name: Stradivarious
+Security: 3.4
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Huginn
+Weapon: Bloodclaw Light Missile
+
+Name: Rahzorus
+Security: 0.9
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Witch Doctor
+Security: 0.1
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Arazu
+Weapon: 250mm Railgun II
+
+Name: Cadman Weyland
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Heretic
+Weapon: Heretic
+
+
+Destroyed items:
+
+Tungsten Charge S, Qty: 160
+Bloodclaw Light Missile, Qty: 40
+Standard Missile Launcher I
+Standard Missile Launcher I
+Cold-Gas I Arcjet Thrusters
+'Langour' Drive Disruptor I
+Remote Sensor Dampener I
+Power Diagnostic System I
+

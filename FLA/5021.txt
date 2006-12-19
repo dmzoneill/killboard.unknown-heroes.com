@@ -1,0 +1,32 @@
+2007.04.21 02:48
+
+Victim: Bobby Atlas
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Thrasher
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Screamer (laid the final blow)
+Security: 0.7
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Manticore
+Weapon: Wrath Precision Cruise Missile
+
+
+Destroyed items:
+
+250mm Light Artillery Cannon I
+250mm Light Artillery Cannon I
+250mm Light Artillery Cannon I
+Fusion S, Qty: 50
+Sabretooth Light Missile, Qty: 39
+Standard Missile Launcher I
+Cap Recharger I
+1MN MicroWarpdrive I
+Nanofiber Internal Structure I
+Sabretooth Light Missile, Qty: 199 (Cargo)
+

@@ -1,0 +1,39 @@
+2007.04.17 20:55
+
+Victim: Savak
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Capsule
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: ClogMan
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Wolf
+Weapon: Fleeting Progressive Warp Scrambler I
+
+Name: Alski
+Security: 3.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Cormorant
+Weapon: 125mm Railgun I
+
+Name: Magic Mazuma (laid the final blow)
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Rifter
+Weapon: 150mm Light Gallium I Machine Gun
+
+Name: dastommy79
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Executioner
+Weapon: Modal Light Ion Particle Accelerator I
+

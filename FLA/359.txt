@@ -1,0 +1,57 @@
+2007.01.28 17:40
+
+Victim: Copius
+Alliance: Band of Brothers
+Corp: Evolution
+Destroyed: Claw
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: truefranco (laid the final blow)
+Security: -0.6
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Indigo Callypso
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Hawk
+Weapon: Standard Missile Launcher II
+
+Name: Stitcher
+Security: 3.5
+Alliance: Freelancer Alliance
+Corp: J.I.T. Enterprises
+Ship: Zealot
+Weapon: Heavy Beam Laser II
+
+Name: Praetorian Mardou
+Security: 4.5
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Hawk
+Weapon: Standard Missile Launcher I
+
+Name: AaLaA
+Security: 4.1
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Celestis
+Weapon: Kapteyn Sensor Array Inhibitor I
+
+
+Destroyed items:
+
+200mm AutoCannon II
+Phased Plasma S, Qty: 124
+1MN MicroWarpdrive I
+Capacitor Power Relay I
+Beta Reactor Control: Capacitor Power Relay I
+Nuclear S, Qty: 1500 (Cargo)
+Phased Plasma S, Qty: 4947 (Cargo)
+

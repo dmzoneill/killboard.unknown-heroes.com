@@ -1,0 +1,26 @@
+2007.01.06 03:35
+
+Victim: Weeble Wooble
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Destroyed: Taranis
+System: CCP-US
+Security: 0.0
+
+Involved parties:
+
+Name: XxAngelxX (laid the final blow)
+Security: 5.0
+Alliance: None
+Corp: 0utbreak
+Ship: Curse
+Weapon: Valkyrie II
+
+
+Destroyed items:
+
+Light Neutron Blaster II
+Light Neutron Blaster II
+Void S, Qty: 154
+Void S, Qty: 679 (Cargo)
+

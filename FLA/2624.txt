@@ -1,0 +1,47 @@
+2007.02.27 14:18
+
+Victim: sakana
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Destroyed: Dominix
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Chode Rizoum
+Security: -1.9
+Alliance: None
+Corp: Temptation inc.
+Ship: Typhoon
+Weapon: Berserker II
+
+Name: hezitationkillz
+Security: -1.6
+Alliance: None
+Corp: Temptation inc.
+Ship: Tempest
+Weapon: Valkyrie II
+
+Name: Donald Trump (laid the final blow)
+Security: -1.8
+Alliance: None
+Corp: Temptation inc.
+Ship: Tempest
+Weapon: Dual 425mm AutoCannon II
+
+
+Destroyed items:
+
+Heavy 'Ghoul' Energy Siphon I
+Heavy 'Knave' I Energy Drain
+Heavy 'Knave' I Energy Drain
+J5 Prototype Warp Inhibitor I
+Cap Booster 800
+Cap Booster 800
+Beta Hull Mod Nanofiber Structure
+Beta Hull Mod Nanofiber Structure
+Power Diagnostic System II
+Cap Booster 800, Qty: 18 (Cargo)
+Wasp I, Qty: 4 (Drone Bay)
+

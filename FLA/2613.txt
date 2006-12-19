@@ -1,0 +1,55 @@
+2007.02.27 00:31
+
+Victim: Xantheris
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Destroyed: Taranis
+System: YZ-LQL
+Security: 0.0
+
+Involved parties:
+
+Name: Aschera
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Reikoku
+Ship: Sabre
+Weapon: 125mm Gatling AutoCannon II
+
+Name: MilaNoCZ (laid the final blow)
+Security: 5.0
+Alliance: Xelas Alliance
+Corp: Rytiri Lva
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Balltazore Anubis
+Security: 5.0
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: NobodyGood
+Security: 3.1
+Alliance: Aftermath Alliance
+Corp: Master Miners
+Ship: Crow
+Weapon: Warp Disruptor I
+
+Name: Crohnx
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Reikoku
+Ship: Thanatos
+Weapon: Firbolg
+
+
+Destroyed items:
+
+Light Ion Blaster II
+Null S, Qty: 240
+Inertia Stabilizers I
+Inertia Stabilizers I
+Null S, Qty: 994 (Cargo)
+

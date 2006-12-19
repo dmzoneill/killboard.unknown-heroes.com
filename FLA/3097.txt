@@ -1,0 +1,35 @@
+2007.03.24 23:20
+
+Victim: Angie Mitchell
+Alliance: YouWhat
+Corp: SteelVipers
+Destroyed: Heretic
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Sethiol (laid the final blow)
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+
+Destroyed items:
+
+Dual Light Pulse Laser II
+Dual Light Pulse Laser II
+Small 'Knave' I Energy Drain
+Infrared S
+Infrared S
+Warp Disrupt Probe, Qty: 9
+X5 Prototype I Engine Enervator
+Phased Muon Sensor Disruptor I
+Small Armor Repairer II
+Beta Hull Mod Inertial Stabilizers
+Microwave S, Qty: 4 (Cargo)
+Gamma S, Qty: 4 (Cargo)
+Warp Disrupt Probe, Qty: 37 (Cargo)
+

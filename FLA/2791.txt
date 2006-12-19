@@ -1,0 +1,54 @@
+2007.03.07 22:05
+
+Victim: Just Hull
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Destroyed: Capsule
+System: O-N8XZ
+Security: 0.0
+
+Involved parties:
+
+Name: burning raven (laid the final blow)
+Security: 5.0
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Andreus Lazerus
+Security: -1.7
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+Name: Darknesss
+Security: 1.6
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Unknown
+Weapon: Taranis
+
+Name: boo3916
+Security: 5.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+Name: Martin Mckenna
+Security: 2.8
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Unknown
+Weapon: Malediction
+
+Name: DoZ3r
+Security: 3.8
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+

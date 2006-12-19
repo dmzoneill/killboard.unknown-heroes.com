@@ -1,0 +1,106 @@
+2007.04.15 22:24
+
+Victim: tomuch
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Lachesis
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Kayron Brennan (laid the final blow)
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Caracal
+Weapon: Thunderbolt Heavy Missile
+
+Name: alon blackhelm
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Ferox
+Weapon: Ferox
+
+Name: nye 2k
+Security: 5.0
+Alliance: A Few Good Men.
+Corp: Silver Snake Enterprise
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: coldkill
+Security: 1.9
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Thorax
+Weapon: Hobgoblin II
+
+Name: dastommy79
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Ferox
+Weapon: Widowmaker Heavy Missile
+
+Name: arthell
+Security: 2.9
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Ishkur
+Weapon: 150mm Carbide Railgun I
+
+Name: Magic Mazuma
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Rifter
+Weapon: 150mm Light Gallium I Machine Gun
+
+Name: Ska Inni
+Security: 0.7
+Alliance: Freelancer Alliance
+Corp: ORIGIN SYSTEMS
+Ship: Rifter
+Weapon: Rifter
+
+Name: Tran Whistler
+Security: 5.3
+Alliance: Freelancer Alliance
+Corp: Harbingers of Sarrow
+Ship: Raptor
+Weapon: Warp Disruptor I
+
+Name: Rohan V
+Security: 2.1
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Caracal
+Weapon: 'Malkuth' Assault Missile Launcher I
+
+Name: Echton Ken
+Security: 0.7
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Maulus
+Weapon: Remote Sensor Dampener I
+
+
+Destroyed items:
+
+Small EMP Smartbomb I
+Improved Cloaking Device II
+Widowmaker Heavy Missile, Qty: 35
+Havoc Heavy Missile, Qty: 35
+Remote Sensor Dampener II
+Remote Sensor Dampener II
+Remote Sensor Dampener II
+Local Power Plant Manager: Capacity Power Relay I
+Capacitor Power Relay I
+Capacitor Power Relay I
+Thunderbolt Heavy Missile, Qty: 350 (Cargo)
+Hornet II (Drone Bay)
+Vespa II (Drone Bay)
+Hammerhead I, Qty: 2 (Drone Bay)
+

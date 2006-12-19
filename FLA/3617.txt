@@ -1,0 +1,33 @@
+2007.03.27 22:36
+
+Victim: Ziberious
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Destroyed: Caldari Shuttle
+System: Z-Y7R7
+Security: 0.0
+
+Involved parties:
+
+Name: Magnelien
+Security: 4.3
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Crow
+Weapon: X5 Prototype I Engine Enervator
+
+Name: Neily (laid the final blow)
+Security: 4.6
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Megathron
+Weapon: Ion Blaster Cannon II
+
+Name: istasi
+Security: 0.3
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+

@@ -1,0 +1,93 @@
+2007.05.23 16:22
+
+Victim: Elison Muerte
+Alliance: None
+Corp: Warp Angels
+Destroyed: Drake
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: pipvac
+Security: 2.7
+Alliance: DeStInY.
+Corp: Sacred Templars
+Ship: Astarte
+Weapon: Astarte
+
+Name: Corovus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+Name: silent uk
+Security: 2.5
+Alliance: DeStInY.
+Corp: Sacred Templars
+Ship: Heretic
+Weapon: Heretic
+
+Name: Lost Hope
+Security: 0.0
+Alliance: DeStInY.
+Corp: The Knights Of Camelot
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Matchitehew
+Security: 0.5
+Alliance: DeStInY.
+Corp: The Knights Of Camelot
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Harkley
+Security: 1.0
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Vengeance
+Weapon: Vengeance
+
+Name: Bonkers2000
+Security: -0.5
+Alliance: DeStInY.
+Corp: The Knights Of Camelot
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+Name: Kotori (laid the final blow)
+Security: -0.2
+Alliance: DeStInY.
+Corp: Sacred Templars
+Ship: Claw
+Weapon: 200mm AutoCannon II
+
+Name: Lupo Manaro
+Security: 0.6
+Alliance: Firmus Ixion
+Corp: Xoth Inc
+Ship: Thrasher
+Weapon: Stasis Webifier I
+
+
+Destroyed items:
+
+Prototype Cloaking Device I
+Scourge Heavy Missile, Qty: 224
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+Large Azeotropic Ward Salubrity I
+Large Azeotropic Ward Salubrity I
+Compulsive Multispectral ECM I
+Viscoelastic EM Ward Salubrity I
+Partial Weapon Navigation
+Beta Reactor Control: Reaction Control I
+Scourge Heavy Missile, Qty: 1494 (Cargo)
+Hornet II (Drone Bay)
+

@@ -1,0 +1,27 @@
+2007.03.11 13:47
+
+Victim: Tregaron
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Destroyed: Crow
+System: O-ZXUV
+Security: 0.0
+
+Involved parties:
+
+Name: Solid Wilko (laid the final blow)
+Security: -1.7
+Alliance: Eternal Rapture
+Corp: Quantum Synergies
+Ship: Sleipnir
+Weapon: 220mm Vulcan AutoCannon II
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 128
+TE-2100 Standard Missile Bay
+1MN MicroWarpdrive II
+Local Hull Conversion Inertial Stabilizers I
+Bloodclaw Light Missile, Qty: 4785 (Cargo)
+

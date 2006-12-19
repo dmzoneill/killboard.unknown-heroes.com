@@ -1,0 +1,37 @@
+2006.09.14 00:41
+
+Victim: Th3 HuNt3r
+Alliance: Freelancer Alliance
+Corp: EVE MegaCorp Association
+Destroyed: Merlin
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: ShadowDragon (laid the final blow)
+Security: 0.1
+Alliance: Lotka Volterra
+Corp: M. Corp
+Ship: Arazu
+Weapon: 200mm Railgun II
+
+Name: Sov13t
+Security: 1.2
+Alliance: Lotka Volterra
+Corp: M. Corp
+Ship: Caracal
+Weapon: ECM - Multispectral Jammer II
+
+
+Destroyed items:
+
+125mm Carbide Railgun I
+150mm Compressed Coil Gun I
+Antimatter Charge S, Qty: 34
+Rocket Launcher I
+Small Neutron Saturation Injector I
+Stasis Webifier I
+Gremlin Rocket, Qty: 1945 (Cargo)
+Foxfire Rocket, Qty: 1944 (Cargo)
+

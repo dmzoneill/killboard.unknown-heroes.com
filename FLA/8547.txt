@@ -1,0 +1,39 @@
+2006.11.26 17:23
+
+Victim: noba
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Destroyed: Taranis
+System: Esubara
+Security: 0.2
+
+Involved parties:
+
+Name: Rheinkraft
+Security: -8.0
+Alliance: None
+Corp: The Sausage Smuggling Syndicate
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Sajuukar (laid the final blow)
+Security: -9.9
+Alliance: None
+Corp: The Sausage Smuggling Syndicate
+Ship: Apocalypse
+Weapon: Tachyon Beam Laser II
+
+Name: Harvey Skywarker
+Security: -10.0
+Alliance: None
+Corp: The Sausage Smuggling Syndicate
+Ship: Sacrilege
+Weapon: J5 Prototype Warp Inhibitor I
+
+
+Destroyed items:
+
+Null S, Qty: 360
+Micro Auxiliary Power Core I
+Null S, Qty: 4634 (Cargo)
+

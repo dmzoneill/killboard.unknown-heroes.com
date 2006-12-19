@@ -1,0 +1,29 @@
+2007.03.04 15:51
+
+Victim: Del Boy
+Alliance: Privateer Alliance
+Corp: Mentally Unstable Enterprises
+Destroyed: Stiletto
+System: Torrinos
+Security: 0.5
+
+Involved parties:
+
+Name: britishfish (laid the final blow)
+Security: -2.0
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+
+Destroyed items:
+
+250mm Light Artillery Cannon II
+250mm Light Artillery Cannon II
+Depleted Uranium S, Qty: 18
+Bloodclaw Light Missile, Qty: 32
+Cap Recharger I
+Micro Auxiliary Power Core I
+Depleted Uranium S, Qty: 439 (Cargo)
+

@@ -1,0 +1,31 @@
+2006.09.14 14:24
+
+Victim: Tomic
+Alliance: Ascendant Frontier
+Corp: Celestial Fleet
+Destroyed: Flycatcher
+System: OWXT-5
+Security: 0.0
+
+Involved parties:
+
+Name: Matt Stoner (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Raven
+Weapon: Bane Torpedo
+
+
+Destroyed items:
+
+Sabretooth Light Missile, Qty: 168
+'Malkuth' Standard Missile Launcher I
+'Malkuth' Standard Missile Launcher I
+'Malkuth' Standard Missile Launcher I
+'Malkuth' Standard Missile Launcher I
+Interdiction Sphere Launcher I
+'Langour' Drive Disruptor I
+Bloodclaw Light Missile, Qty: 951 (Cargo)
+Warp Disrupt Probe, Qty: 4 (Cargo)
+

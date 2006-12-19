@@ -1,0 +1,34 @@
+2007.05.21 10:34
+
+Victim: marineros
+Alliance: None
+Corp: Imperial Academy
+Destroyed: Executioner
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: The RepoMan (laid the final blow)
+Security: 5.0
+Alliance: Red Horizon
+Corp: Red Horizon Inc
+Ship: Myrmidon
+Weapon: Berserker I
+
+Name: Mufeater
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Ares
+Weapon: Ares
+
+
+Destroyed items:
+
+Civilian Gatling Pulse Laser
+Basic Miner
+Civilian Shield Booster I
+Civilian Shield Booster I
+Tritanium, Qty: 3 (Cargo)
+

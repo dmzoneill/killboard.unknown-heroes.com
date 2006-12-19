@@ -1,0 +1,27 @@
+2006.10.06 22:43
+
+Victim: TheBelgarion
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Crow
+System: Sobaseki
+Security: 0.8
+
+Involved parties:
+
+Name: Danno (laid the final blow)
+Security: -1.9
+Alliance: None
+Corp: Privateers
+Ship: Apocalypse
+Weapon: Tachyon Beam Laser II
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 150
+Standard Missile Launcher II
+Standard Missile Launcher II
+Bloodclaw Light Missile, Qty: 3450 (Cargo)
+Serpent F.O.F. Light Missile I, Qty: 1000 (Cargo)
+

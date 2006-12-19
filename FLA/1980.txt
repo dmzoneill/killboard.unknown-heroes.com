@@ -1,0 +1,29 @@
+2007.01.13 23:50
+
+Victim: Deathbringer III
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Destroyed: Vigil
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Crucifier (laid the final blow)
+Security: 0.3
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+
+Destroyed items:
+
+200mm Light 'Scout' Autocannon I
+200mm Light 'Scout' Autocannon I
+1MN MicroWarpdrive I
+Warp Disruptor I
+Small Armor Repairer I
+Nanofiber Internal Structure I
+Fusion S, Qty: 295 (Cargo)
+

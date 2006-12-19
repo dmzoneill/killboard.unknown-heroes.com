@@ -1,0 +1,33 @@
+2006.12.21 23:10
+
+Victim: SiriusCrow
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Destroyed: Stabber
+System: Torrinos
+Security: 0.5
+
+Involved parties:
+
+Name: Elliott Manchild (laid the final blow)
+Security: -1.6
+Alliance: None
+Corp: omen.
+Ship: Astarte
+Weapon: Heavy Ion Blaster II
+
+
+Destroyed items:
+
+Dual 180mm 'Scout' Autocannon I
+Medium 'Ghoul' Energy Siphon I
+Medium 'Ghoul' Energy Siphon I
+EMP M, Qty: 201
+Y-S8 Hydrocarbon I Afterburners
+X5 Prototype I Engine Enervator
+Gyrostabilizer II
+Gyrostabilizer II
+Warp Disruptor I (Cargo)
+EMP M, Qty: 1818 (Cargo)
+Nanofiber Internal Structure I (Cargo)
+

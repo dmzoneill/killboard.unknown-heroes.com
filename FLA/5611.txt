@@ -1,0 +1,23 @@
+2006.10.08 19:49
+
+Victim: Storm Eneth
+Alliance: None
+Corp: School of Applied Knowledge
+Destroyed: Ibis
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Hosanna (laid the final blow)
+Security: -0.7
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Wolf
+Weapon: 280mm Howitzer Artillery II
+
+
+Destroyed items:
+
+Tritanium (Cargo)
+

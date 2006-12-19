@@ -1,0 +1,43 @@
+2006.10.09 22:08
+
+Victim: Admiral Black
+Alliance: None
+Corp: Privateers
+Destroyed: Rifter
+System: Torrinos
+Security: 0.5
+
+Involved parties:
+
+Name: Shiftless
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Lizzy Silver (laid the final blow)
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: DarkJester
+Security: 0.7
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Tempest
+Weapon: Thunderbolt Heavy Missile
+
+
+Destroyed items:
+
+200mm Light Prototype I Automatic Cannon
+200mm Light Prototype I Automatic Cannon
+Phased Plasma S, Qty: 49
+X5 Prototype I Engine Enervator
+F-M3 Munition Inertial Suspensor
+Signal Amplifier I
+Phased Plasma S, Qty: 790 (Cargo)
+

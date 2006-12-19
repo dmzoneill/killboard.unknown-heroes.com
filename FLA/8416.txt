@@ -1,0 +1,40 @@
+2006.11.17 02:28
+
+Victim: Devuse
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Raven
+System: E-FIC0
+Security: 0.0
+
+Involved parties:
+
+Name: Species 8472
+Security: 1.3
+Alliance: The Sani Sabik
+Corp: Omniscient Order
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Noobjuice
+Security: -1.8
+Alliance: The Sani Sabik
+Corp: Omniscient Order
+Ship: Typhoon
+Weapon: Wasp I
+
+Name: Maximinus Thrax (laid the final blow)
+Security: -0.2
+Alliance: None
+Corp: The Scope
+Ship: Deimos
+Weapon: Heavy Ion Blaster II
+
+Name: panman
+Security: 2.7
+Alliance: None
+Corp: Deep Core Mining Inc.
+Ship: Dominix
+Weapon: Faint Warp Prohibitor I
+
+

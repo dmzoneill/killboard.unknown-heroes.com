@@ -1,0 +1,44 @@
+2007.04.25 04:00
+
+Victim: The Cade
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Destroyed: Harpy
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Matrix Aran (laid the final blow)
+Security: -0.6
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Myrmidon
+Weapon: Heavy Electron Blaster II
+
+Name: Guristas Terrorist / Guristas
+
+Name: Aurael Drakewing
+Security: -6.9
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Hawk
+Weapon: Standard Missile Launcher I
+
+Name: Arkezxa Kae'Tal
+Security: 2.8
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Typhoon
+Weapon: Warp Disruptor II
+
+
+Destroyed items:
+
+Small Diminishing Power System Drain I
+125mm Railgun II
+Antimatter Charge S, Qty: 70
+Magnetic Field Stabilizer I
+Lead Charge S, Qty: 1591 (Cargo)
+Antimatter Charge S, Qty: 1641 (Cargo)
+

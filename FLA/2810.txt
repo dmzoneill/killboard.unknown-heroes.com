@@ -1,0 +1,100 @@
+2007.03.10 06:15
+
+Victim: Sanal Gi
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Raven
+System: QXW-PV
+Security: 0.0
+
+Involved parties:
+
+Name: mullenc
+Security: 1.4
+Alliance: Agony Empire
+Corp: Agony Unleashed
+Ship: Vexor
+Weapon: Hammerhead II
+
+Name: Quen Azle
+Security: -1.4
+Alliance: Agony Empire
+Corp: Agony Unleashed
+Ship: Rupture
+Weapon: Rupture
+
+Name: Rain Finale
+Security: 0.9
+Alliance: Agony Empire
+Corp: Agony Unleashed
+Ship: Sabre
+Weapon: Sabre
+
+Name: Rells
+Security: 1.5
+Alliance: Agony Empire
+Corp: Agony Unleashed
+Ship: Moa
+Weapon: Moa
+
+Name: Kerr Talon
+Security: 1.8
+Alliance: Agony Empire
+Corp: Agony Unleashed
+Ship: Stabber
+Weapon: Stabber
+
+Name: Mitchum DuFinn
+Security: 3.9
+Alliance: Agony Empire
+Corp: Agony Unleashed
+Ship: Catalyst
+Weapon: Catalyst
+
+Name: Dez Erichs
+Security: 1.4
+Alliance: Agony Empire
+Corp: Agony Unleashed
+Ship: Blackbird
+Weapon: BZ-5 Neutralizing Spatial Destabilizer ECM
+
+Name: scoie13
+Security: 0.1
+Alliance: Agony Empire
+Corp: Agony Unleashed
+Ship: Thrasher
+Weapon: Thrasher
+
+Name: Aus Nova (laid the final blow)
+Security: 1.0
+Alliance: Agony Empire
+Corp: Agony Unleashed
+Ship: Blackbird
+Weapon: Thunderbolt Heavy Missile
+
+Name: Unit 1
+Security: 0.0
+Alliance: Agony Empire
+Corp: Agony Unleashed
+Ship: Celestis
+Weapon: Celestis
+
+
+Destroyed items:
+
+Heavy 'Knave' I Energy Drain
+Cataclysm Cruise Missile, Qty: 46
+Paradise Cruise Missile, Qty: 23
+XT-9000 Cruise Launcher
+XT-9000 Cruise Launcher
+XT-9000 Cruise Launcher
+XT-9000 Cruise Launcher
+V-M15 Braced Multispectral Shield Matrix
+Ballistic Control System I
+Beta Reactor Control: Capacitor Flux I
+Beta Reactor Control: Capacitor Flux I
+Reactor Control Unit I
+'Halcyon' Core Equalizer I, Qty: 3 (Cargo)
+Wrath Cruise Missile, Qty: 4000 (Cargo)
+Paradise Cruise Missile, Qty: 3931 (Cargo)
+

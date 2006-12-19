@@ -1,0 +1,56 @@
+2007.04.04 05:37
+
+Victim: darkviron
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Destroyed: Blackbird
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Vasili Z
+Security: 0.3
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Sleipnir
+Weapon: Sleipnir
+
+Name: Xoduse
+Security: 0.6
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Megathron
+Weapon: Ion Blaster Cannon II
+
+Name: Lorn Zolog
+Security: -1.3
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Armageddon
+Weapon: Dual Heavy Pulse Laser II
+
+Name: Xordus (laid the final blow)
+Security: 0.5
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Armageddon
+Weapon: Mega Modulated Pulse Energy Beam I
+
+Name: Mannateen
+Security: 0.0
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Ship: Stiletto
+Weapon: Stiletto
+
+
+Destroyed items:
+
+Widowmaker Heavy Missile, Qty: 29
+Heavy Missile Launcher I
+Medium C5-L Emergency Shield Overload I
+ECM - Multispectral Jammer I
+ECM - Multispectral Jammer I
+Widowmaker Heavy Missile, Qty: 600 (Cargo)
+

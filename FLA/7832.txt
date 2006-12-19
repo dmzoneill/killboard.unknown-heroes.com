@@ -1,0 +1,33 @@
+2006.09.07 18:45
+
+Victim: Rick A
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Destroyed: Raptor
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Angelus X (laid the final blow)
+Security: -1.7
+Alliance: Band of Brothers
+Corp: Reikoku
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+125mm Railgun II
+Antimatter Charge S, Qty: 128
+'Malkuth' Standard Missile Launcher I
+'Malkuth' Standard Missile Launcher I
+1MN MicroWarpdrive I
+Fleeting Warp Scrambler I
+X5 Prototype I Engine Enervator
+Micro Auxiliary Power Core I
+Antimatter Charge S, Qty: 623 (Cargo)
+Bloodclaw Light Missile, Qty: 340 (Cargo)
+Sabretooth Light Missile, Qty: 242 (Cargo)
+

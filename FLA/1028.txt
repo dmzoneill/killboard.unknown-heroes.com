@@ -1,0 +1,38 @@
+2007.03.03 17:55
+
+Victim: the killers
+Alliance: None
+Corp: Deep Core Mining Inc.
+Destroyed: Ibis
+System: YZ-LQL
+Security: 0.0
+
+Involved parties:
+
+Name: Doktor Soet
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: The X-Trading Company
+Ship: Ares
+Weapon: Warp Disruptor I
+
+Name: Tregaron (laid the final blow)
+Security: 1.7
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Cyclone
+Weapon: 220mm Vulcan AutoCannon I
+
+Name: Aikuchi Hiddensword
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Taranis
+Weapon: Patterned Stasis Web I
+
+
+Destroyed items:
+
+Basic Miner
+Tritanium (Cargo)
+

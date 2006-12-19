@@ -1,0 +1,45 @@
+2006.12.28 04:17
+
+Victim: Bricker
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Destroyed: Deimos
+System: Torrinos
+Security: 0.5
+
+Involved parties:
+
+Name: Elliott Manchild (laid the final blow)
+Security: -2.0
+Alliance: None
+Corp: omen.
+Ship: Hyperion
+Weapon: Neutron Blaster Cannon II
+
+Name: Neaokod
+Security: -1.8
+Alliance: None
+Corp: omen.
+Ship: Dominix
+Weapon: Berserker II
+
+Name: starius3
+Security: 0.1
+Alliance: None
+Corp: omen.
+Ship: Dominix
+Weapon: Hammerhead II
+
+
+Destroyed items:
+
+Heavy Ion Blaster II
+Heavy Ion Blaster II
+Heavy Ion Blaster II
+Null M, Qty: 411
+Faint Warp Prohibitor I
+Medium Armor Repairer II
+Magnetic Field Stabilizer II
+Energized Adaptive Nano Membrane II
+Null M, Qty: 1400 (Cargo)
+

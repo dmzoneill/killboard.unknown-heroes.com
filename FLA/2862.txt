@@ -1,0 +1,163 @@
+2007.03.13 01:58
+
+Victim: Skelator0311
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Megathron
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Criosachille
+Security: 3.5
+Alliance: Xelas Alliance
+Corp: Catalyst Reaction
+Ship: Taranis
+Weapon: Warrior II
+
+Name: Meat Sauce
+Security: 2.9
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: Catbear
+Security: 1.8
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Capsule
+Weapon: Warp Disruptor I
+
+Name: DeathGrip
+Security: 2.3
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Flycatcher
+Weapon: Rocket Launcher II
+
+Name: Korran Delan (laid the final blow)
+Security: 4.6
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Raptor
+Weapon: 150mm Railgun II
+
+Name: Omar Shakti
+Security: 5.0
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Taranis
+Weapon: Taranis
+
+Name: Zerefin
+Security: 5.0
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Malediction
+Weapon: Malediction
+
+Name: ZAX0236
+Security: 5.0
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Flycatcher
+Weapon: Sabretooth Precision Light Missile
+
+Name: Selnix
+Security: 5.0
+Alliance: Aftermath Alliance
+Corp: Master Miners
+Ship: Eris
+Weapon: Foxfire Javelin Rocket
+
+Name: Popsikle
+Security: -0.1
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Sabre
+Weapon: Sabre
+
+Name: IamnobodyCL
+Security: 5.0
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Crusader
+Weapon: Crusader
+
+Name: Hauth
+Security: 5.2
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Vengeance
+Weapon: Vengeance
+
+Name: kezz2411
+Security: 5.3
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Crusader
+Weapon: Crusader
+
+Name: MsMephistopheles
+Security: 2.3
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Taranis
+Weapon: Warrior II
+
+Name: Rif
+Security: 5.0
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Retribution
+Weapon: Retribution
+
+Name: Issaqua
+Security: -1.0
+Alliance: None
+Corp: Constructive Influence
+Ship: Rifter
+Weapon: Thorn Rocket
+
+Name: Zheraf
+Security: 5.0
+Alliance: Axiom Empire
+Corp: Fenix Reloaded
+Ship: Merlin
+Weapon: Bloodclaw Light Missile
+
+Name: Sadness
+Security: 4.8
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Crow
+Weapon: Remote Sensor Dampener I
+
+Name: Zayk
+Security: 3.4
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Heretic
+Weapon: Dual Light Pulse Laser II
+
+
+Destroyed items:
+
+425mm Railgun II
+425mm Railgun II
+Antimatter Charge L, Qty: 91
+Prototype Cloaking Device I
+Sensor Booster II
+Sensor Booster II
+Tracking Computer II
+Large Armor Repairer II
+Tracking Enhancer II
+Tracking Enhancer II
+Tracking Enhancer II
+Magnetic Field Stabilizer II
+Hornet II, Qty: 5 (Drone Bay)
+Heavy Armor Maintenance Bot I (Drone Bay)
+Heavy Shield Maintenance Bot I (Drone Bay)
+

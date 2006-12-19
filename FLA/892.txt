@@ -1,0 +1,80 @@
+2007.02.26 00:04
+
+Victim: Gibson Rothman
+Alliance: Red Moon Federation
+Corp: Confederation of Red Moon
+Destroyed: Dominix
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Lillegutt
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Ship: Armageddon
+Weapon: Valkyrie II
+
+Name: zentroty (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Dawn Rider
+Security: -1.6
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Ship: Megathron
+Weapon: Valkyrie I
+
+Name: Moridin Bashere
+Security: -0.6
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Ship: Arbitrator
+Weapon: Valkyrie II
+
+Name: Margot Macabre
+Security: -2.4
+Alliance: O X I D E
+Corp: Cirrius Technologies
+Ship: Sabre
+Weapon: Sabre
+
+Name: KingRizen
+Security: -2.1
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Ship: Crow
+Weapon: Bloodclaw Fury Light Missile
+
+Name: tzar1024
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Ship: Stabber
+Weapon: Stabber
+
+
+Destroyed items:
+
+Heavy Diminishing Power System Drain I
+Medium Unstable Power Fluctuator I
+Warp Disruptor II
+X5 Prototype I Engine Enervator
+Heavy Electrochemical Capacitor Booster I
+Cap Booster 800
+Cap Booster 800
+Cap Booster 800
+Cap Booster 800
+Sensor Booster II
+Balmer Series Targeting Inhibitor I
+Damage Control II
+1600mm Reinforced Rolled Tungsten Plates I
+Cap Booster 800, Qty: 18 (Cargo)
+Homeless (Cargo)
+Ogre I, Qty: 3 (Drone Bay)
+

@@ -1,0 +1,81 @@
+2007.04.05 03:53
+
+Victim: Rhaven
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Destroyed: Abaddon
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Robet Katrix
+Security: 2.5
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Chimera
+Weapon: Firbolg
+
+Name: Barth Evader
+Security: 0.0
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Archon
+Weapon: Firbolg
+
+Name: Queldonus
+Security: 2.9
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Nidhoggur
+Weapon: Dragonfly
+
+Name: FowlPlayChiken (laid the final blow)
+Security: 1.2
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Thanatos
+Weapon: Dragonfly
+
+Name: Crovan
+Security: 2.8
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Taranis
+Weapon: Taranis
+
+Name: Bl00Dzor
+Security: 1.5
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Huginn
+Weapon: Hobgoblin II
+
+Name: Ferocious FeAr
+Security: 1.5
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Rook
+Weapon: ECM - White Noise Generator II
+
+
+Destroyed items:
+
+Mega Beam Laser II
+Mega Beam Laser II
+Mega Beam Laser II
+Mega Beam Laser II
+Mega Beam Laser II
+Gleam L
+Gleam L
+Gleam L
+Gleam L
+Gleam L
+Cap Recharger II
+Cap Recharger II
+Sensor Booster II
+Reactive Plating II
+Capacitor Power Relay II
+Aurora L, Qty: 13 (Cargo)
+Ogre I, Qty: 2 (Drone Bay)
+

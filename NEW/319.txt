@@ -1,0 +1,39 @@
+2007.03.10 14:46
+
+Victim: piepie
+Alliance: None
+Corp: Original  Production Material
+Destroyed: Capsule
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Porti (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Jaguar
+Weapon: 150mm Light AutoCannon II
+
+Name: Alianore
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Catalyst
+Weapon: Catalyst
+
+Name: other mickey
+Security: 2.9
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Ares
+Weapon: Flameburst Light Missile
+
+Name: IDesert FoxI
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Caracal
+Weapon: Heavy Missile Launcher I
+

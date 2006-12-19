@@ -1,0 +1,66 @@
+2006.11.23 02:55
+
+Victim: MonwrathDisortium
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Destroyed: Enyo
+System: MHC-R3
+Security: 0.0
+
+Involved parties:
+
+Name: Lucututerian (laid the final blow)
+Security: 3.1
+Alliance: None
+Corp: No Quarter.
+Ship: Sabre
+Weapon: 250mm Light Artillery Cannon II
+
+Name: Emperor D'Hoffryn
+Security: 1.6
+Alliance: None
+Corp: No Quarter.
+Ship: Malediction
+Weapon: Malediction
+
+Name: Quenya Attani
+Security: 1.5
+Alliance: None
+Corp: No Quarter.
+Ship: Arazu
+Weapon: Hammerhead I
+
+Name: Zizoo
+Security: 1.9
+Alliance: None
+Corp: No Quarter.
+Ship: Caracal
+Weapon: Widowmaker Heavy Missile
+
+Name: couger malthas
+Security: 2.5
+Alliance: None
+Corp: No Quarter.
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery I
+
+Name: Ion Flux
+Security: 4.9
+Alliance: None
+Corp: No Quarter.
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+
+Destroyed items:
+
+Light Ion Blaster I
+Light Ion Blaster I
+Plutonium Charge S, Qty: 302
+Gremlin Rocket, Qty: 12
+Voltaic Nanite Adaptive Membrane I
+200mm Reinforced Rolled Tungsten Plates I
+Plutonium Charge S, Qty: 1996 (Cargo)
+Gremlin Rocket, Qty: 950 (Cargo)
+Warrior II (Drone Bay)
+

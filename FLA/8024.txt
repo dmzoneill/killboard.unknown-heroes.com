@@ -1,0 +1,50 @@
+2006.10.06 01:44
+
+Victim: Midrys
+Alliance: Freelancer Alliance
+Corp: Terminal Velocity Inc.
+Destroyed: Moa
+System: Elonaya
+Security: 0.7
+
+Involved parties:
+
+Name: Morfane
+Security: -0.2
+Alliance: None
+Corp: Privateers
+Ship: Taranis
+Weapon: X5 Prototype I Engine Enervator
+
+Name: Caol (laid the final blow)
+Security: 5.0
+Alliance: None
+Corp: Privateers
+Ship: Stabber
+Weapon: 220mm Vulcan AutoCannon I
+
+Name: Soul Wolf
+Security: 2.9
+Alliance: None
+Corp: Privateers
+Ship: Absolution
+Weapon: Heavy Pulse Laser II
+
+Name: Major DonWest
+Security: 3.2
+Alliance: None
+Corp: Privateers
+Ship: Blackbird
+Weapon: Heavy Missile Launcher I
+
+
+Destroyed items:
+
+250mm Carbide Railgun I
+250mm Carbide Railgun I
+Iridium Charge M, Qty: 28
+Large Shield Extender I
+Small Capacitor Battery I
+Invulnerability Field I
+Magnetic Field Stabilizer I
+

@@ -1,0 +1,88 @@
+2007.02.04 15:32
+
+Victim: Sparta
+Alliance: Red Moon Federation
+Corp: Confederation of Red Moon
+Destroyed: Retribution
+System: X-7OMU
+Security: 0.0
+
+Involved parties:
+
+Name: jacass66 (laid the final blow)
+Security: 5.0
+Alliance: None
+Corp: BGG
+Ship: Drake
+Weapon: Thunderbolt Heavy Missile
+
+Name: Solarienne
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: Goca
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Ferox
+Weapon: Widowmaker Heavy Missile
+
+Name: Kasahara
+Security: -0.3
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Stabber
+Weapon: Stabber
+
+Name: Lux0r
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Hawk
+Weapon: Bloodclaw Precision Light Missile
+
+Name: Maggallus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Ferox
+Weapon: Ferox
+
+Name: EM00
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Incursus
+Weapon: Incursus
+
+Name: Mauy Thai
+Security: -1.4
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Curse
+Weapon: Valkyrie II
+
+Name: Shiftless
+Security: 2.9
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Drake
+Weapon: Havoc Heavy Missile
+
+Name: Alski
+Security: 2.7
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Celestis
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+Small 'Knave' I Energy Drain
+Conflagration S
+Small Armor Repairer II
+

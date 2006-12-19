@@ -1,0 +1,26 @@
+2007.03.08 18:59
+
+Victim: Juha85
+Alliance: YouWhat
+Corp: Beasts of Burden
+Destroyed: Gallente Shuttle
+System: XZH-4X
+Security: 0.0
+
+Involved parties:
+
+Name: Pokano
+Security: 0.6
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Coercer
+Weapon: Dual Light Beam Laser II
+
+Name: Jesnen (laid the final blow)
+Security: -1.5
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Coercer
+Weapon: Medium Beam Laser I
+
+

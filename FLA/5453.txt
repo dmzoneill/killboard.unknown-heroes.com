@@ -1,0 +1,24 @@
+2006.10.04 01:37
+
+Victim: xttz
+Alliance: GoonSwarm
+Corp: GoonWaffe
+Destroyed: Ibis
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: dastommy79 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Caracal
+Weapon: Piranha Light Missile
+
+
+Destroyed items:
+
+Civilian Gatling Railgun
+Tritanium (Cargo)
+

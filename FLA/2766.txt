@@ -1,0 +1,19 @@
+2007.03.05 20:45
+
+Victim: DarkAvenger DK
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Capsule
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Infra Nitzu (laid the final blow)
+Security: 1.9
+Alliance: None
+Corp: Finite Horizon
+Ship: Sabre
+Weapon: 200mm AutoCannon II
+
+

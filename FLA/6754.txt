@@ -1,0 +1,47 @@
+2006.11.26 15:16
+
+Victim: Cosmic Dealer
+Alliance: None
+Corp: Netquarter
+Destroyed: Capsule
+System: 75FA-Z
+Security: 0.0
+
+Involved parties:
+
+Name: Elfaen Ethenwe (laid the final blow)
+Security: -1.9
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Rook
+Weapon: Thunderbolt Precision Heavy Missile
+
+Name: Formosus Funus
+Security: 4.2
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Wolf
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: Rangercameron2
+Security: 2.3
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Ares
+Weapon: 125mm 'Scout' I Accelerator Cannon
+
+Name: Velithe
+Security: 2.3
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Buzzard
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: LC Sulla
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Cerberus
+Weapon: Heavy Missile Launcher II
+
+

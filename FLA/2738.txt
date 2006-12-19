@@ -1,0 +1,49 @@
+2007.03.04 16:53
+
+Victim: Swampy
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Destroyed: Raven
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: taylor04 (laid the final blow)
+Security: 2.7
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Absolution
+Weapon: Heavy Pulse Laser II
+
+Name: Heidi Gabs
+Security: -1.6
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Capsule
+Weapon: X5 Prototype I Engine Enervator
+
+
+Destroyed items:
+
+Improved Cloaking Device II
+Siege Missile Launcher II
+Siege Missile Launcher II
+Siege Missile Launcher II
+Siege Missile Launcher II
+Bane Javelin Torpedo, Qty: 52
+X-Large Shield Booster II
+Invulnerability Field II
+Invulnerability Field II
+E5 Prototype Energy Vampire (Cargo)
+Stabber Blueprint (Cargo)
+Rupture Blueprint (Cargo)
+Caracal Blueprint (Cargo)
+Vexor Blueprint (Cargo)
+Remote Armor Repair Systems (Cargo)
+Parallel Weapon Navigation Transmitter (Cargo)
+Small Tractor Beam I, Qty: 3 (Cargo)
+Mjolnir Javelin Torpedo, Qty: 1267 (Cargo)
+Bane Javelin Torpedo, Qty: 1140 (Cargo)
+Hornet II, Qty: 4 (Drone Bay)
+

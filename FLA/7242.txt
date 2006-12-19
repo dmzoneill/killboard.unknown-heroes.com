@@ -1,0 +1,114 @@
+2006.05.14 00:49
+
+Victim: Psychodelica
+Alliance: Sparta Alliance
+Corp: ATROX.
+Destroyed: Armageddon
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: DOARota
+Security: 5.1
+Alliance: None
+Corp: Drones of Annihilation
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Dark Dreamon
+Security: 0.3
+Alliance: Freelancer Alliance
+Corp: Lords Of Guile
+Ship: Megathron
+Weapon: Megathron
+
+Name: Clydar Dramos
+Security: 2.1
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+Name: Gangreen
+Security: 0.1
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Thorax
+Weapon: Thorax
+
+Name: Akkijee
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Tempest
+Weapon: Tempest
+
+Name: DeSantis
+Security: 1.6
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Raven
+Weapon: Wrath Cruise Missile
+
+Name: Chiizukeeki
+Security: 1.9
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery I
+
+Name: Heinky (laid the final blow)
+Security: 1.1
+Alliance: None
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Mjolnir Javelin Torpedo
+
+Name: Syrian
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Freelancer Union
+Ship: Megathron
+Weapon: 425mm Railgun I
+
+Name: DrunkenDwarf
+Security: 0.4
+Alliance: None
+Corp: Drones of Annihilation
+Ship: Falcon
+Weapon: Havoc Heavy Missile
+
+Name: Veugle
+Security: 2.3
+Alliance: Freelancer Alliance
+Corp: Freelancer Union
+Ship: Stabber
+Weapon: 425mm AutoCannon I
+
+Name: SATAN
+Security: -1.5
+Alliance: None
+Corp: BURN EDEN
+Ship: Raven
+Weapon: 50W Infectious Power System Malfunction
+
+Name: LC Sulla
+Security: 3.8
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Raven
+Weapon: 'Arbalest' Cruise Launcher I
+
+
+Destroyed items:
+
+Mega Modulated Energy Beam I
+Multifrequency L
+Multifrequency L
+Multifrequency L
+'Orion' Tracking CPU I
+Heat Sink II
+Armor Kinetic Hardener I
+Berserker SW-900 (Drone Bay)
+

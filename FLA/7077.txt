@@ -1,0 +1,48 @@
+2006.12.24 20:06
+
+Victim: Rowdy James
+Alliance: None
+Corp: State War Academy
+Destroyed: Raven
+System: Sujarento
+Security: 0.3
+
+Involved parties:
+
+Name: Compos Mentis (laid the final blow)
+Security: -5.5
+Alliance: Freelancer Alliance
+Corp: X.T.R
+Ship: Cerberus
+Weapon: Scourge Heavy Missile
+
+Name: KaTurN
+Security: -1.7
+Alliance: Freelancer Alliance
+Corp: X.T.R
+Ship: Dominix
+Weapon: Wasp I
+
+Name: Guristas Destructor / Guristas
+
+
+Destroyed items:
+
+250mm Carbide Railgun I
+Lead Charge M, Qty: 34
+Havoc Heavy Missile, Qty: 28
+Cataclysm Cruise Missile, Qty: 37
+'Limos' Cruise Launcher I
+'Limos' Cruise Launcher I
+Shield Recharger I
+Shield Recharger I
+X-Large Shield Booster I
+X-Large Shield Booster I
+X-Large Shield Booster I
+X-Large Shield Booster I
+X-Large Shield Booster I
+Induced Multispectral ECM I
+Small Nosferatu I (Cargo)
+Small Energy Neutralizer I (Cargo)
+Havoc Heavy Missile, Qty: 895 (Cargo)
+

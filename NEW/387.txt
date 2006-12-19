@@ -1,0 +1,46 @@
+2007.03.18 06:38
+
+Victim: Shate Def
+Alliance: None
+Corp: The Scope
+Destroyed: Capsule
+System: MJYW-3
+Security: 0.0
+
+Involved parties:
+
+Name: Grimes NC (laid the final blow)
+Security: 4.8
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Ahramaine
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Taranis
+Weapon: Taranis
+
+Name: Kandread
+Security: 0.6
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Claw
+Weapon: OE-5200 Rocket Launcher
+
+Name: Alski
+Security: 3.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ares
+Weapon: 250mm Light Artillery Cannon I
+
+Name: Skull Fire
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Merlin
+Weapon: X5 Prototype I Engine Enervator
+

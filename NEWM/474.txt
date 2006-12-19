@@ -1,0 +1,129 @@
+2007.02.04 20:11
+
+Victim: Seth Quantix
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Destroyed: Malediction
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: sakana
+Security: -1.0
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Megathron
+Weapon: 425mm Prototype I Gauss Gun
+
+Name: Jarath Abyss
+Security: 3.8
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Ship: Enyo
+Weapon: Enyo
+
+Name: Swanny231
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Crow
+Weapon: Piranha Light Missile
+
+Name: Minisoza (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Brutix
+Weapon: 250mm Railgun II
+
+Name: Teck7
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ishtar
+Weapon: 150mm Railgun II
+
+Name: beretta74
+Security: 2.8
+Alliance: The Foundation.
+Corp: EVE Corporation 160607
+Ship: Thorax
+Weapon: 150mm Railgun I
+
+Name: alon blackhelm
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Raven
+Weapon: Cruise Missile Launcher II
+
+Name: SuperDuplex
+Security: 0.7
+Alliance: The Foundation.
+Corp: EVE Corporation 160607
+Ship: Drake
+Weapon: XR-3200 Heavy Missile Bay
+
+Name: Night Seeker
+Security: 0.2
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Hound
+Weapon: XT-9000 Cruise Launcher
+
+Name: LTSmash
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Ship: Drake
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+Name: Kee Ris
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Coercer
+Weapon: Coercer
+
+Name: Goca
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Ferox
+Weapon: Medium 'Ghoul' Energy Siphon I
+
+Name: Dark Carnage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Blackbird
+Weapon: Initiated Multispectral ECM I
+
+Name: Atarkus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Hawk
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+
+Destroyed items:
+
+Dual Light Pulse Laser II
+Small 'Ghoul' Energy Siphon I
+Radio S
+Sabretooth Light Missile, Qty: 48
+'Arbalest' Standard Missile Launcher
+'Arbalest' Standard Missile Launcher
+Gistii A-Type 1MN MicroWarpdrive
+Local Hull Conversion Inertial Stabilizers I
+Local Hull Conversion Inertial Stabilizers I
+125mm Railgun II (Cargo)
+Light Neutron Blaster II, Qty: 2 (Cargo)
+Multifrequency S, Qty: 2 (Cargo)
+Radio S (Cargo)
+Sabretooth Light Missile, Qty: 264 (Cargo)
+Rocket Launcher II (Cargo)
+Beta Hull Mod Inertial Stabilizers (Cargo)
+

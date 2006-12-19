@@ -1,0 +1,47 @@
+2006.11.11 20:25
+
+Victim: herr klackenbaggen
+Alliance: None
+Corp: State War Academy
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Lady Vanquish (laid the final blow)
+Security: 0.6
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Thrasher
+Weapon: 200mm AutoCannon II
+
+Name: Liquid Neon
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Hawk
+Weapon: Sabretooth Light Missile
+
+Name: avelution
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Harpy
+Weapon: Harpy
+
+Name: Lee Thrace
+Security: 5.0
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Taranis
+Weapon: Taranis
+
+Name: CorInaXeraL
+Security: 0.6
+Alliance: O X I D E
+Corp: W33D Corp.
+Ship: Caracal
+Weapon: Heavy Missile Launcher I
+
+

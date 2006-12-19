@@ -1,0 +1,19 @@
+2007.04.14 04:32
+
+Victim: Sebea
+Alliance: None
+Corp: The Capital Consortium
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Prodigal IV (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Ship: Dominix
+Weapon: Heavy Neutron Blaster II
+
+

@@ -1,0 +1,24 @@
+2007.03.26 20:00
+
+Victim: Dyanicia
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Iteron Mark V
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: kapten sortebil (laid the final blow)
+Security: 4.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Rifter
+Weapon: 200mm AutoCannon II
+
+
+Destroyed items:
+
+Small Tractor Beam I
+10MN Afterburner I
+

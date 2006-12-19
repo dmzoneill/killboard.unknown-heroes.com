@@ -1,0 +1,28 @@
+2007.01.06 02:16
+
+Victim: Xantheris
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Destroyed: Taranis
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: FraXy (laid the final blow)
+Security: -4.2
+Alliance: None
+Corp: 0utbreak
+Ship: Taranis
+Weapon: Warrior II
+
+
+Destroyed items:
+
+Small Nosferatu I
+Light Electron Blaster II
+1MN MicroWarpdrive I
+Inertia Stabilizers I
+Inertia Stabilizers I
+Inertia Stabilizers I
+

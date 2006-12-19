@@ -1,0 +1,51 @@
+2007.03.27 14:41
+
+Victim: Corovus
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Destroyed: Dominix
+System: 6Z9-0M
+Security: 0.0
+
+Involved parties:
+
+Name: mr ioso
+Security: 4.8
+Alliance: Chorus of Dawn
+Corp: Cosmic Odyssey
+Ship: Myrmidon
+Weapon: Ogre I
+
+Name: Mr MA (laid the final blow)
+Security: 3.5
+Alliance: Chorus of Dawn
+Corp: Cosmic Odyssey
+Ship: Myrmidon
+Weapon: Ogre I
+
+Name: albert camus
+Security: -8.3
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Ship: Malediction
+Weapon: Malediction
+
+
+Destroyed items:
+
+Heavy 'Knave' I Energy Drain
+Heavy 'Knave' I Energy Drain
+200mm 'Scout' I Accelerator Cannon
+Guardian Thorium Charge M, Qty: 160
+Faint Warp Prohibitor I
+Fleeting Warp Scrambler I
+Cap Booster 800
+Indirect Scanning Dampening Unit I
+Damage Control II
+Armor Kinetic Hardener I
+Armor Thermic Hardener I
+Cap Booster 800 (Cargo)
+Warrior II, Qty: 3 (Drone Bay)
+Ogre I (Drone Bay)
+Garde I, Qty: 3 (Drone Bay)
+

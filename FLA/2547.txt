@@ -1,0 +1,33 @@
+2007.02.19 22:42
+
+Victim: SoulAvenger
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Destroyed: Caldari Shuttle
+System: O-N8XZ
+Security: 0.0
+
+Involved parties:
+
+Name: Heritor
+Security: 5.0
+Alliance: None
+Corp: The Wailing Doom
+Ship: Cormorant
+Weapon: Cormorant
+
+Name: Shushu Barberious (laid the final blow)
+Security: 1.6
+Alliance: None
+Corp: The Wailing Doom
+Ship: Catalyst
+Weapon: 125mm Railgun I
+
+Name: Eratem
+Security: 0.6
+Alliance: None
+Corp: The Wailing Doom
+Ship: Caracal
+Weapon: Heavy Missile Launcher I
+
+

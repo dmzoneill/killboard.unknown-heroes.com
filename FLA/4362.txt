@@ -1,0 +1,40 @@
+2007.04.08 20:43
+
+Victim: Nero7
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Destroyed: Capsule
+System: F7C-H0
+Security: 0.0
+
+Involved parties:
+
+Name: Appalachia (laid the final blow)
+Security: 5.2
+Alliance: YouWhat
+Corp: Pringles Inc.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: SwordsOfLight
+Security: 5.0
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Raptor
+Weapon: Phalanx Rocket
+
+Name: Thyago
+Security: 5.0
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Ishkur
+Weapon: Light Ion Blaster II
+
+Name: Exitao
+Security: 5.0
+Alliance: YouWhat
+Corp: Cosmic Odyssey
+Ship: Taranis
+Weapon: Faint Warp Prohibitor I
+
+

@@ -1,0 +1,33 @@
+2006.10.19 19:20
+
+Victim: Melux
+Alliance: None
+Corp: Aliastra
+Destroyed: Capsule
+System: O-N8XZ
+Security: 0.0
+
+Involved parties:
+
+Name: Fr0zt (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Hawk
+Weapon: Sabretooth Precision Light Missile
+
+Name: Valadeya uthanaras
+Security: 4.5
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Armageddon
+Weapon: Tachyon Beam Laser II
+
+Name: Supernaut 20k
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Flycatcher
+Weapon: Rocket Launcher II
+
+

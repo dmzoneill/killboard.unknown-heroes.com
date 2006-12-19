@@ -1,0 +1,47 @@
+2007.03.10 02:55
+
+Victim: Don Jaun
+Alliance: YouWhat
+Corp: Beasts of Burden
+Destroyed: Incursus
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Freakdevil
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Crow
+Weapon: Crow
+
+Name: Dark Carnage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Crow
+Weapon: Sabretooth Light Missile
+
+Name: Scotticus (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Jaguar
+Weapon: 250mm Light Gallium I Cannon
+
+Name: Beshari
+Security: -3.6
+Alliance: None
+Corp: Emerald Empire
+Ship: Maelstrom
+Weapon: Maelstrom
+
+
+Destroyed items:
+
+Light Ion Blaster II
+Light Ion Blaster II
+Null S, Qty: 116
+Small Armor Repairer II
+

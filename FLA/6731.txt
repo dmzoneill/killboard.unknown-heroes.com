@@ -1,0 +1,47 @@
+2006.11.25 22:22
+
+Victim: Vordek Rei
+Alliance: None
+Corp: 0rigins
+Destroyed: Gallente Shuttle
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Corovus (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: THeOThErs
+Ship: Nemesis
+Weapon: Cataclysm Cruise Missile
+
+Name: Tri Ounou
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: roboto212
+Security: -0.5
+Alliance: Freelancer Alliance
+Corp: Sin-X Inc.
+Ship: Enyo
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: Noitaakka
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Vexor
+Weapon: Fleeting Warp Scrambler I
+
+Name: Jumar Coldgin
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Rook
+Weapon: 'Hypnos' Multispectral ECM I
+
+

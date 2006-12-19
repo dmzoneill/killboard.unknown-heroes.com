@@ -1,0 +1,68 @@
+2007.03.21 05:41
+
+Victim: Sarah Baker
+Alliance: None
+Corp: Pitch Black Incorporated
+Destroyed: Rifter
+System: QXW-PV
+Security: 0.0
+
+Involved parties:
+
+Name: BlackIce68
+Security: 5.0
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Drake
+Weapon: Advanced 'Limos' Heavy Missile Bay I
+
+Name: death1023 (laid the final blow)
+Security: 3.0
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Drake
+Weapon: Widowmaker Heavy Missile
+
+Name: KriegDrachen
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Sabre
+Weapon: Sabre
+
+Name: Jules Wolfpack
+Security: 2.3
+Alliance: The Sundering
+Corp: ironwood ink
+Ship: Taranis
+Weapon: 125mm Carbide Railgun I
+
+Name: eagleeye d4l
+Security: 0.9
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Thorax
+Weapon: Dual 150mm 'Scout' I Accelerator Cannon
+
+Name: Cubic
+Security: 1.8
+Alliance: The Sundering
+Corp: ironwood ink
+Ship: Dominix
+Weapon: Warp Disruptor I
+
+
+Destroyed items:
+
+Medium Azeotropic Ward Salubrity I
+Phased Monopropellant I Hydrazine Boosters
+'Halcyon' Core Equalizer I
+'Halcyon' Core Equalizer I
+Hammerhead I (Cargo)
+Hornet I, Qty: 2 (Cargo)
+Sensor Booster I (Cargo)
+Ballistic Control System I (Cargo)
+Cruise Missile Launcher I, Qty: 2 (Cargo)
+Nanofiber Internal Structure I (Cargo)
+Capacitor Power Relay I (Cargo)
+

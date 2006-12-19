@@ -1,0 +1,26 @@
+2006.07.18 08:19
+
+Victim: TheBelgarion
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Capsule
+System: K4YZ-Y
+Security: 0.0
+
+Involved parties:
+
+Name: Thaibog (laid the final blow)
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Malediction
+Weapon: Dual Light Pulse Laser II
+
+Name: Jeebs
+Security: 1.5
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Arazu
+Weapon: Dual 150mm Railgun II
+
+

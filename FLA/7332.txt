@@ -1,0 +1,40 @@
+2006.08.12 00:23
+
+Victim: Masse Falco
+Alliance: None
+Corp: Federal Navy Academy
+Destroyed: Capsule
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Rick A
+Security: 4.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Ferox
+Weapon: Bloodclaw Light Missile
+
+Name: Kismeteer (laid the final blow)
+Security: 3.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Thorax
+Weapon: 150mm Railgun I
+
+Name: Caja Wrython
+Security: 1.2
+Alliance: Freelancer Alliance
+Corp: Abandoned Resolve Corporation
+Ship: Punisher
+Weapon: Punisher
+
+Name: shekat khlorblaster
+Security: 1.4
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Thorax
+Weapon: J5b Phased Prototype Warp Inhibitor I
+
+

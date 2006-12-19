@@ -1,0 +1,50 @@
+2007.04.08 23:34
+
+Victim: Kaand
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Moa
+System: K4YZ-Y
+Security: 0.0
+
+Involved parties:
+
+Name: Robet Katrix (laid the final blow)
+Security: 2.1
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Chimera
+Weapon: Templar
+
+Name: Nethel
+Security: 2.1
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Dominix
+Weapon: Berserker II
+
+Name: Serpentis Cannoneer / Serpentis Corporation
+
+Name: Waagaa Ktlehr
+Security: -1.1
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Aeon
+Weapon: Gotan's Modified Warp Disruptor
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Heavy Ion Blaster I
+Heavy Ion Blaster I
+Heavy Ion Blaster I
+Heavy Ion Blaster I
+Antimatter Charge M, Qty: 400
+10MN MicroWarpdrive I
+Initiated Warp Jammer I
+Sensor Booster I
+Magnetic Field Stabilizer I
+Antimatter Charge M, Qty: 4247 (Cargo)
+Hobgoblin II, Qty: 2 (Drone Bay)
+

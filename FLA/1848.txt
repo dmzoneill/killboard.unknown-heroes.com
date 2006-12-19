@@ -1,0 +1,81 @@
+2007.01.07 01:04
+
+Victim: Prodigal IV
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Destroyed: Thorax
+System: Haajinen
+Security: 0.8
+
+Involved parties:
+
+Name: Jenessa (laid the final blow)
+Security: 1.1
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Muninn
+Weapon: 720mm Howitzer Artillery II
+
+Name: DarkEternal
+Security: -1.1
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Armageddon
+Weapon: Dual Heavy Pulse Laser II
+
+Name: Darknesss
+Security: -0.1
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Megathron
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: Elliott Manchild
+Security: -2.8
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Sleipnir
+Weapon: Sleipnir
+
+Name: Martin Mckenna
+Security: 0.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Armageddon
+Weapon: Mega Pulse Laser II
+
+Name: taylor04
+Security: 0.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: THX 1138
+Security: 1.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Rokh
+Weapon: 425mm Railgun II
+
+Name: Spinsq
+Security: -1.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Ishtar
+Weapon: J5 Prototype Warp Inhibitor I
+
+
+Destroyed items:
+
+200mm Compressed Coil Gun I
+200mm Compressed Coil Gun I
+200mm Compressed Coil Gun I
+Antimatter Charge M, Qty: 240
+J5b Phased Prototype Warp Inhibitor I
+Microcell Nanite Thermic Hardener I
+Microcell Nanite Kinetic Hardener I
+Power Diagnostic System I
+Hobgoblin II, Qty: 2 (Cargo)
+Hammerhead II, Qty: 2 (Drone Bay)
+

@@ -1,0 +1,82 @@
+2007.02.18 02:54
+
+Victim: Dickins Cider
+Alliance: None
+Corp: Vendetta Incorporated
+Destroyed: Gallente Shuttle
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: ventura5 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Raptor
+Weapon: 75mm Gatling Rail II
+
+Name: KiNgShiZzLe
+Security: 5.0
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Hawk
+Weapon: Standard Missile Launcher II
+
+Name: Ronokez
+Security: 1.2
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Vexor
+Weapon: 200mm 'Scout' I Accelerator Cannon
+
+Name: chota
+Security: 5.0
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Rupture
+Weapon: Thunderbolt Heavy Missile
+
+Name: llifeguard
+Security: 2.9
+Alliance: The Sundering
+Corp: Steel Battalion
+Ship: Celestis
+Weapon: Celestis
+
+Name: eViL tAzZy
+Security: 3.4
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Caracal
+Weapon: Assault Missile Launcher I
+
+Name: Matrixcvd
+Security: 3.6
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Caracal
+Weapon: Indirect Scanning Dampening Unit I
+
+Name: Grimes NC
+Security: 4.5
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Cephias Caine
+Security: 1.4
+Alliance: The Sundering
+Corp: Steel Battalion
+Ship: Blackbird
+Weapon: Advanced 'Limos' Heavy Missile Bay I
+
+Name: Bleh131
+Security: 0.6
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Thorax
+Weapon: Light Neutron Blaster II
+
+

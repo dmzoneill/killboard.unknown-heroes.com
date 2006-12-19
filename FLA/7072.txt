@@ -1,0 +1,39 @@
+2006.12.24 06:08
+
+Victim: Grath Ntala
+Alliance: None
+Corp: The Happy Monkeys
+Destroyed: Ferox
+System: Tama
+Security: 0.3
+
+Involved parties:
+
+Name: Compos Mentis (laid the final blow)
+Security: -4.5
+Alliance: Freelancer Alliance
+Corp: X.T.R
+Ship: Cerberus
+Weapon: Thunderbolt Heavy Missile
+
+Name: Guristas Nihilist / Guristas
+
+
+Destroyed items:
+
+Salvager I, Qty: 30
+720mm Howitzer Artillery I
+720mm Howitzer Artillery I
+Phased Plasma M, Qty: 10
+Widowmaker Heavy Missile
+Widowmaker Heavy Missile
+Widowmaker Heavy Missile
+Widowmaker Heavy Missile
+'Malkuth' Heavy Missile Launcher I
+10MN Afterburner I
+Multi Sensor Backup Array I
+Small Capacitor Battery I (Cargo)
+Small Hull Repairer I (Cargo)
+Flameburst Light Missile, Qty: 319 (Cargo)
+Widowmaker Heavy Missile, Qty: 341 (Cargo)
+

@@ -1,0 +1,26 @@
+2007.05.25 21:28
+
+Victim: MaLa ZoRRa
+Alliance: None
+Corp: State War Academy
+Destroyed: Amarr Shuttle
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Steven FSB (laid the final blow)
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: Comrad1
+Security: 5.0
+Alliance: THE R0CK
+Corp: The Keep
+Ship: Scorpion
+Weapon: ZW-4100 Siege Missile Bay
+
+

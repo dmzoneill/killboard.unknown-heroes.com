@@ -1,0 +1,96 @@
+2007.03.10 20:01
+
+Victim: Recon Alpha
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Raven
+System: O-CNPR
+Security: 0.0
+
+Involved parties:
+
+Name: Donis
+Security: -1.4
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Zealot
+Weapon: Zealot
+
+Name: Himphotep 87
+Security: 0.4
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Thorax
+Weapon: Hobgoblin I
+
+Name: SaNoSuKeJavi
+Security: -1.9
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Thorax
+Weapon: Hammerhead I
+
+Name: Kaulu
+Security: 3.1
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Caracal
+Weapon: Bloodclaw Light Missile
+
+Name: stich626
+Security: -1.8
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Brutix
+Weapon: Small 'Knave' I Energy Drain
+
+Name: Ashurian (laid the final blow)
+Security: 2.6
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Arbitrator
+Weapon: Hammerhead I
+
+Name: Gorfi tco
+Security: 4.0
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Prophecy
+Weapon: Prophecy
+
+Name: Marla Durden
+Security: 0.0
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Claw
+Weapon: Claw
+
+Name: Daff Punk
+Security: -1.2
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Thorax
+Weapon: Thorax
+
+Name: Utlaen
+Security: 5.0
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Flycatcher
+Weapon: Upgraded 'Limos' Standard Missile Bay I
+
+Name: Lur Helder
+Security: 3.4
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Celestis
+Weapon: Celestis
+
+Name: Topasio
+Security: 2.3
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Stabber
+Weapon: Bloodclaw Light Missile
+
+

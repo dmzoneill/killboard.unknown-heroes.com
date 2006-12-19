@@ -1,0 +1,28 @@
+2006.11.25 04:30
+
+Victim: Wolf333
+Alliance: Freelancer Alliance
+Corp: THeOThErs
+Destroyed: Harpy
+System: Haajinen
+Security: 0.8
+
+Involved parties:
+
+Name: Elliott Manchild (laid the final blow)
+Security: -1.6
+Alliance: None
+Corp: omen.
+Ship: Taranis
+Weapon: 125mm Railgun II
+
+
+Destroyed items:
+
+125mm Railgun I
+Antimatter Charge S, Qty: 51
+Medium Shield Booster I
+Initiated Warp Jammer I
+Signal Amplifier I
+Antimatter Charge S, Qty: 9362 (Cargo)
+

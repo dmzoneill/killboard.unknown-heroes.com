@@ -1,0 +1,33 @@
+2006.11.22 04:41
+
+Victim: sasaha
+Alliance: None
+Corp: Federal Navy Academy
+Destroyed: Caldari Shuttle
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Shara El
+Security: 4.9
+Alliance: Dusk and Dawn
+Corp: Black Lance
+Ship: Lachesis
+Weapon: Lachesis
+
+Name: Scumbalina
+Security: 1.3
+Alliance: Freelancer Alliance
+Corp: Sin-X Inc.
+Ship: Blackbird
+Weapon: Blackbird
+
+Name: Elfaen Ethenwe (laid the final blow)
+Security: -1.6
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Rook
+Weapon: Widowmaker Heavy Missile
+
+

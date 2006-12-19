@@ -1,0 +1,166 @@
+2007.03.27 02:15
+
+Victim: Jisela
+Alliance: Freelancer Alliance
+Corp: Feel Good Inc.
+Destroyed: Scorpion
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Bedrock
+Security: 0.0
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Muninn
+Weapon: Warrior II
+
+Name: Deerhoof
+Security: 0.8
+Alliance: Axiom Empire
+Corp: United Society Starfleet
+Ship: Wolf
+Weapon: Wolf
+
+Name: Leonthoric
+Security: 5.0
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Lachesis
+Weapon: Infiltrator II
+
+Name: Selnix
+Security: 5.0
+Alliance: Aftermath Alliance
+Corp: Master Miners
+Ship: Eris
+Weapon: Foxfire Javelin Rocket
+
+Name: Korran Delan
+Security: 4.7
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Raptor
+Weapon: Thorn Rocket
+
+Name: Murphy (laid the final blow)
+Security: -1.4
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Harbinger
+Weapon: Heavy Beam Laser II
+
+Name: Natheniel
+Security: 5.0
+Alliance: Xelas Alliance
+Corp: Fallen Angel's
+Ship: Ares
+Weapon: Ares
+
+Name: Criosachille
+Security: 3.3
+Alliance: Xelas Alliance
+Corp: Catalyst Reaction
+Ship: Ares
+Weapon: Ares
+
+Name: e3joker
+Security: 3.8
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Harpy
+Weapon: Harpy
+
+Name: Kendex
+Security: 3.3
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Harpy
+Weapon: Harpy
+
+Name: Dyden Nemor
+Security: -0.9
+Alliance: FATAL Alliance
+Corp: Black Reign
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: kIM JONGELL
+Security: 4.4
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Blackbird
+Weapon: ECM - Multispectral Jammer II
+
+Name: Rif
+Security: 5.0
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Malediction
+Weapon: Malediction
+
+Name: Richard Biegewald
+Security: 5.0
+Alliance: Axiom Empire
+Corp: United Society Starfleet
+Ship: Capsule
+Weapon: 280mm Howitzer Artillery II
+
+Name: DeathGrip
+Security: 3.2
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Flycatcher
+Weapon: Thorn Javelin Rocket
+
+Name: Zheraf
+Security: 5.0
+Alliance: Axiom Empire
+Corp: Fenix Reloaded
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Katka Filova
+Security: 0.8
+Alliance: Axiom Empire
+Corp: Regalis Industria Scientia Entreprendre
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: IamnobodyCL
+Security: 5.0
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Vengeance
+Weapon: Vengeance
+
+Name: El Coyote
+Security: 3.5
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Raptor
+Weapon: Bloodclaw Light Missile
+
+Name: FBIJustice
+Security: 3.7
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+
+Destroyed items:
+
+Heavy Nosferatu I
+Juggernaut Torpedo, Qty: 15
+ZW-4100 Siege Missile Bay
+ZW-4100 Siege Missile Bay
+Large F-S9 Regolith Shield Induction
+Stasis Webifier I
+ECM - Multispectral Jammer II
+ECM - Multispectral Jammer II
+1600mm Reinforced Rolled Tungsten Plates I
+Power Diagnostic System I
+Juggernaut Torpedo, Qty: 3368 (Cargo)
+

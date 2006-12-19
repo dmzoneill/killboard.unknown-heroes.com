@@ -1,0 +1,37 @@
+2006.09.09 21:01
+
+Victim: Viikator
+Alliance: Freelancer Alliance
+Corp: Veturi
+Destroyed: Vexor
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Robet Katrix (laid the final blow)
+Security: -0.8
+Alliance: None
+Corp: Beagle Corp
+Ship: Raven
+Weapon: Bane Javelin Torpedo
+
+Name: HippoKing
+Security: 2.0
+Alliance: None
+Corp: Beagle Corp
+Ship: Falcon
+Weapon: Enfeebling Phase Inversion ECM I
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Medium Nosferatu I
+Null S, Qty: 80
+10MN MicroWarpdrive I
+Initiated Warp Jammer I
+Medium Armor Repairer II
+Energized Magnetic Membrane I
+Hobgoblin II, Qty: 2 (Drone Bay)
+

@@ -1,0 +1,40 @@
+2007.02.09 21:24
+
+Victim: Zap Zaberdine
+Alliance: Triumvirate.
+Corp: D00M.
+Destroyed: Capsule
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Valea Silpha (laid the final blow)
+Security: 2.1
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Rupture
+Weapon: 720mm Howitzer Artillery II
+
+Name: Rick A
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Thrasher
+Weapon: 280mm Howitzer Artillery I
+
+Name: Teck7
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Lachesis
+Weapon: Remote Sensor Dampener II
+
+Name: Lux0r
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Hawk
+Weapon: Standard Missile Launcher II
+
+

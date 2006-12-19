@@ -1,0 +1,45 @@
+2006.10.09 03:22
+
+Victim: dastommy79
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Destroyed: Ferox
+System: Torrinos
+Security: 0.5
+
+Involved parties:
+
+Name: SLAPNUTZ (laid the final blow)
+Security: -1.8
+Alliance: None
+Corp: Privateers
+Ship: Typhoon
+Weapon: Devastator Cruise Missile
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Medium Nosferatu I
+Havoc Heavy Missile, Qty: 38
+Thunderbolt Heavy Missile, Qty: 38
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Large C5-L Emergency Shield Overload I
+Warp Scrambler I
+Medium Tapered Capacitor Infusion I
+V-M15 Braced Multispectral Shield Matrix
+Cap Booster 200
+Cap Booster 200
+Cap Booster 200
+Cap Booster 200
+Damage Control I
+F-43 Repeatative Gravimetric Backup Sensors
+Ballistic Control System I
+Ballistic Control System I
+Warp Core Stabilizer I (Cargo)
+Thunderbolt Heavy Missile, Qty: 572 (Cargo)
+Havoc Heavy Missile, Qty: 392 (Cargo)
+Hammerhead I (Drone Bay)
+

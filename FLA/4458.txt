@@ -1,0 +1,53 @@
+2007.04.10 19:12
+
+Victim: Sicario
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Destroyed: Tristan
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: FA Avenger (laid the final blow)
+Security: 2.9
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Nidhoggur
+Weapon: Einherji
+
+Name: DrunkenOne
+Security: -0.5
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Rifter
+Weapon: Rifter
+
+Name: Rukaz
+Security: 3.1
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Nina Mires
+Security: 4.6
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Taranis
+Weapon: Taranis
+
+Name: Stradivarious
+Security: 3.7
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Nidhoggur
+Weapon: Einherji
+
+
+Destroyed items:
+
+1MN MicroWarpdrive I
+FZ-3a Disruptive Spatial Destabilizer ECM
+Energized Basic Adaptive Nano Plating
+

@@ -1,0 +1,30 @@
+2007.03.25 14:28
+
+Victim: Tregaron
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Destroyed: Claw
+System: QXW-PV
+Security: 0.0
+
+Involved parties:
+
+Name: The Ali (laid the final blow)
+Security: -3.2
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Rifter
+Weapon: 200mm Light Prototype I Automatic Cannon
+
+Name: tiki bmp
+Security: 2.7
+Alliance: Chorus of Dawn
+Corp: Infinite Style Incorporated
+Ship: Taranis
+Weapon: Taranis
+
+
+Destroyed items:
+
+1MN MicroWarpdrive II
+

@@ -1,0 +1,19 @@
+2007.04.13 04:32
+
+Victim: Wesley
+Alliance: None
+Corp: Imperial Shipment
+Destroyed: Gallente Shuttle
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Iguanoid (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Raptor
+Weapon: Bloodclaw Light Missile
+
+

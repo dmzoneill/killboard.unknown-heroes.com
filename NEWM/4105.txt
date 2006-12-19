@@ -1,0 +1,84 @@
+2007.04.14 21:50
+
+Victim: Jean LaForge
+Alliance: FATAL Alliance
+Corp: UK Corp
+Destroyed: Vexor Navy Issue
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Galliano Gazzimi (laid the final blow)
+Security: 2.7
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: ClogMan
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Drake
+Weapon: XR-3200 Heavy Missile Bay
+
+Name: debbbzzz
+Security: 2.4
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Unknown
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+Name: Dark Carnage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Drake
+Weapon: Heavy Missile Launcher I
+
+Name: Ricky1989
+Security: 4.4
+Alliance: Freelancer Alliance
+Corp: ORIGIN SYSTEMS
+Ship: Capsule
+Weapon: Heavy Missile Launcher I
+
+Name: Vipereus
+Security: 2.9
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Vigil
+Weapon: Stasis Webifier I
+
+Name: JarinV
+Security: 0.4
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Ship: Capsule
+Weapon: 150mm Railgun I
+
+Name: Sloth Arnini
+Security: 2.9
+Alliance: Freelancer Alliance
+Corp: ORIGIN SYSTEMS
+Ship: Nemesis
+Weapon: 'Malkuth' Cruise Launcher I
+
+
+Destroyed items:
+
+Heavy Electron Blaster II
+Heavy Electron Blaster II
+Null M, Qty: 362
+Y-T8 Overcharged Hydrocarbon I Microwarpdrive
+X5 Prototype I Engine Enervator
+Balmer Series Targeting Inhibitor I
+Medium Armor Repairer II
+Magnetic Field Stabilizer II
+Energized Adaptive Nano Membrane II
+Power Diagnostic System I
+Null M, Qty: 500 (Cargo)
+Valkyrie II, Qty: 3 (Drone Bay)
+Warrior II, Qty: 4 (Drone Bay)
+

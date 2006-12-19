@@ -1,0 +1,47 @@
+2007.05.21 20:47
+
+Victim: Eldar Grey
+Alliance: None
+Corp: Paladines
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Ocara Nezus (laid the final blow)
+Security: 1.5
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: articz
+Security: -0.3
+Alliance: DeStInY.
+Corp: House Of Aaron
+Ship: Rifter
+Weapon: 250mm Light Artillery Cannon II
+
+Name: silent uk
+Security: 2.5
+Alliance: DeStInY.
+Corp: Sacred Templars
+Ship: Heretic
+Weapon: Dual Light Beam Laser II
+
+Name: Kotori
+Security: -0.2
+Alliance: DeStInY.
+Corp: Sacred Templars
+Ship: Heretic
+Weapon: 'Arbalest' Rocket Launcher I
+
+Name: Dibbes
+Security: 0.1
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Taranis
+Weapon: 150mm Railgun I
+
+

@@ -1,0 +1,37 @@
+2007.05.05 04:55
+
+Victim: Kvarium Ki
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Destroyed: Rupture
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Infar Dantenon (laid the final blow)
+Security: -1.4
+Alliance: Vigilance.
+Corp: CRICE Corporation
+Ship: Deimos
+Weapon: Heavy Neutron Blaster II
+
+Name: Athanasios Anastasiou
+Security: 5.0
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Stabber
+Weapon: Dual 180mm AutoCannon II
+
+
+Destroyed items:
+
+Medium 'Ghoul' Energy Siphon I
+Fusion M, Qty: 201
+10MN MicroWarpdrive I
+Warp Disruptor I
+Gyrostabilizer I
+Medium Armor Repairer I
+Voltaic Nanite Explosive Hardener I
+Fusion M, Qty: 1000 (Cargo)
+

@@ -1,0 +1,47 @@
+2006.08.15 18:58
+
+Victim: AlianWare
+Alliance: None
+Corp: LDK
+Destroyed: Capsule
+System: OWXT-5
+Security: 0.0
+
+Involved parties:
+
+Name: Jumar Coldgin (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Harpy
+Weapon: 125mm Railgun II
+
+Name: Rick A
+Security: 4.1
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Merlin
+Weapon: 150mm Railgun I
+
+Name: kone on
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Stiletto
+Weapon: Stasis Webifier I
+
+Name: Shiri elAzarinres
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Caracal
+Weapon: Heavy Missile Launcher I
+
+Name: Orangutang
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: London Transport
+Ship: Crow
+Weapon: Warp Disruptor I
+
+

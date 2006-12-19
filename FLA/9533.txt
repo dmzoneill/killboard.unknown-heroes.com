@@ -1,0 +1,103 @@
+2007.05.05 18:15
+
+Victim: nyricia
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Caracal
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: AnarchistUK
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: United Space Republic
+Ship: Hawk
+Weapon: Bloodclaw Light Missile
+
+Name: Varalonia
+Security: 3.0
+Alliance: Darklite Alliance
+Corp: Darklite inc
+Ship: Rifter
+Weapon: Rifter
+
+Name: Quninella
+Security: 1.1
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Thorax
+Weapon: 200mm Railgun I
+
+Name: sako1963
+Security: 5.0
+Alliance: The Foundation.
+Corp: NorCorp Security
+Ship: Rokh
+Weapon: Paradise Cruise Missile
+
+Name: ClogMan
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Stabber
+Weapon: Stabber
+
+Name: Migitis
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: Antipodean inc.
+Ship: Condor
+Weapon: Sabretooth Light Missile
+
+Name: JanSVK
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: GREY COUNCIL
+Ship: Raptor
+Weapon: Raptor
+
+Name: suddenshock (laid the final blow)
+Security: 4.1
+Alliance: Darklite Alliance
+Corp: Darklite inc
+Ship: Kestrel
+Weapon: Bloodclaw Light Missile
+
+Name: Asran Zara
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: United Space Republic
+Ship: Stiletto
+Weapon: 280mm Howitzer Artillery II
+
+Name: Skittish
+Security: 0.7
+Alliance: Sparta Alliance
+Corp: Synergy Evolved
+Ship: Capsule
+Weapon: 125mm Compressed Coil Gun I
+
+Name: Iss Hogai
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: GREY COUNCIL
+Ship: Taranis
+Weapon: Fleeting Warp Scrambler I
+
+
+Destroyed items:
+
+Widowmaker Heavy Missile, Qty: 22
+Thunderbolt Heavy Missile, Qty: 20
+Havoc Heavy Missile, Qty: 21
+Scourge Heavy Missile, Qty: 21
+Heavy Missile Launcher I
+Small Shield Booster I
+Cap Recharger I
+10MN MicroWarpdrive I
+V-M15 Braced Multispectral Shield Matrix
+Thunderbolt Heavy Missile, Qty: 2002 (Cargo)
+Hornet I (Drone Bay)
+

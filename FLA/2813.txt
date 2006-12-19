@@ -1,0 +1,59 @@
+2007.03.10 13:20
+
+Victim: Stitcher
+Alliance: Freelancer Alliance
+Corp: J.I.T. Enterprises
+Destroyed: Wolf
+System: O-ZXUV
+Security: 0.0
+
+Involved parties:
+
+Name: Donald Trump (laid the final blow)
+Security: -1.7
+Alliance: Eternal Rapture
+Corp: Temptation inc.
+Ship: Typhoon
+Weapon: Dual 650mm Repeating Artillery II
+
+Name: Valdir Mustafar
+Security: -1.9
+Alliance: Eternal Rapture
+Corp: Temptation inc.
+Ship: Huginn
+Weapon: Huginn
+
+Name: Gesthar Malvani
+Security: 4.6
+Alliance: Eternal Rapture
+Corp: Temptation inc.
+Ship: Heretic
+Weapon: Heretic
+
+Name: Garnet Tribal
+Security: 2.0
+Alliance: Eternal Rapture
+Corp: Temptation inc.
+Ship: Dominix
+Weapon: Warrior II
+
+Name: Nazg0th
+Security: 0.8
+Alliance: Eternal Rapture
+Corp: Temptation inc.
+Ship: Dominix
+Weapon: Heavy 'Ghoul' Energy Siphon I
+
+
+Destroyed items:
+
+200mm AutoCannon I
+200mm AutoCannon I
+E5 Prototype Energy Vampire
+Proton S, Qty: 285
+X5 Prototype I Engine Enervator
+Inertia Stabilizers I
+Beta Reactor Control: Capacitor Power Relay I
+EMP S, Qty: 7200 (Cargo)
+200mm Reinforced Rolled Tungsten Plates I (Cargo)
+

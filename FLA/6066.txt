@@ -1,0 +1,143 @@
+2006.11.06 22:13
+
+Victim: boo3916
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Destroyed: Eos
+System: P-2TTL
+Security: 0.0
+
+Involved parties:
+
+Name: Elfaen Ethenwe (laid the final blow)
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Rook
+Weapon: Widowmaker Precision Heavy Missile
+
+Name: kone on
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Sabre
+Weapon: Sabre
+
+Name: coldkill
+Security: 0.8
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Ishkur
+Weapon: Hammerhead II
+
+Name: Barukor
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Stabber
+Weapon: Stabber
+
+Name: Preying Mantis
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Harpy
+Weapon: Harpy
+
+Name: LC Sulla
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Cerberus
+Weapon: Heavy Missile Launcher II
+
+Name: Yseult Atreus
+Security: 1.5
+Alliance: Freelancer Alliance
+Corp: CriTech
+Ship: Huginn
+Weapon: Vespa EC-600
+
+Name: Dog Cancer
+Security: 1.4
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Crow
+Weapon: Sabretooth Light Missile
+
+Name: Formosus Funus
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: DarkJester
+Security: 0.8
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Tempest
+Weapon: Heavy Missile Launcher I
+
+Name: bidman
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Hawk
+Weapon: Standard Missile Launcher I
+
+Name: Flashh Gorden
+Security: 3.1
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Ship: Kestrel
+Weapon: Bloodclaw Light Missile
+
+Name: Hosanna
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Jaguar
+Weapon: X5 Prototype I Engine Enervator
+
+Name: movy
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Ares
+Weapon: 125mm Carbide Railgun I
+
+Name: Wousr
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: Scorpio63
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Vengeance
+Weapon: Medium Pulse Laser II
+
+
+Destroyed items:
+
+Heavy Neutron Blaster II
+Heavy Neutron Blaster II
+Heavy Ion Blaster II
+Heavy Ion Blaster II
+Null M, Qty: 240
+Void M, Qty: 320
+Y-T8 Overcharged Hydrocarbon I Microwarpdrive
+Fleeting Propulsion Inhibitor I
+Medium Electrochemical Capacitor Booster I
+'Hypnos' Multispectral ECM I
+Energized Adaptive Nano Membrane II
+Vespa II, Qty: 4 (Cargo)
+Void M, Qty: 969 (Cargo)
+Null M, Qty: 1007 (Cargo)
+'Malkuth' Cruise Launcher I (Cargo)
+ZW-4100 Siege Missile Bay (Cargo)
+

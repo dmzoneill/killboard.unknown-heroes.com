@@ -1,0 +1,40 @@
+2006.04.08 22:05
+
+Victim: TheBelgarion
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Destroyed: Capsule
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: The Countess
+Security: -0.5
+Alliance: The Five
+Corp: Delta team
+Ship: Crow
+Weapon: Thorn Rocket
+
+Name: arcantos (laid the final blow)
+Security: 0.0
+Alliance: The Five
+Corp: Delta team
+Ship: Wolf
+Weapon: 150mm Light Prototype I Automatic Cannon
+
+Name: Awalance
+Security: -1.1
+Alliance: The Five
+Corp: Delta team
+Ship: Claw
+Weapon: Claw
+
+Name: Gavroche
+Security: 1.3
+Alliance: The Five
+Corp: Delta team
+Ship: Succubus
+Weapon: Rocket Launcher II
+
+

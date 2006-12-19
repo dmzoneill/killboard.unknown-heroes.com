@@ -1,0 +1,61 @@
+2007.04.01 20:52
+
+Victim: Lyhne
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Destroyed: Capsule
+System: P-2TTL
+Security: 0.0
+
+Involved parties:
+
+Name: Admentus Cor'vion (laid the final blow)
+Security: -0.2
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Hyperion
+Weapon: 425mm Railgun II
+
+Name: END3R 101
+Security: -0.7
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Malediction
+Weapon: Malediction
+
+Name: Exekias
+Security: 2.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Stiletto
+Weapon: 200mm AutoCannon II
+
+Name: Witch Doctor
+Security: 0.1
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Cerberus
+Weapon: Heavy Missile Launcher II
+
+Name: Steve Dave
+Security: 4.1
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Hawk
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+Name: LUCKY HEADY
+Security: -2.0
+Alliance: S.E.R.A
+Corp: Seraphin Technologies
+Ship: Curse
+Weapon: Phased Muon Sensor Disruptor I
+
+Name: Grantavious
+Security: 2.6
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Wolf
+Weapon: 250mm Light Artillery Cannon II
+
+

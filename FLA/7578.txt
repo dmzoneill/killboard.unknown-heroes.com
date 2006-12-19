@@ -1,0 +1,26 @@
+2006.09.21 19:55
+
+Victim: Hybok
+Alliance: None
+Corp: The Black Arms
+Destroyed: Capsule
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: KayaYautja (laid the final blow)
+Security: -6.2
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Ione79
+Security: 3.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Taranis
+Weapon: Taranis
+
+

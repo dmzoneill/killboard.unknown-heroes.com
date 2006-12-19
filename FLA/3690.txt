@@ -1,0 +1,61 @@
+2007.03.29 20:18
+
+Victim: Hedeon Mishenka
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Apocalypse
+System: Y-C3EQ
+Security: 0.0
+
+Involved parties:
+
+Name: WildCard
+Security: 4.4
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Gordon Red
+Security: 2.1
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Heretic
+Weapon: Heretic
+
+Name: Tanya Kovacs
+Security: 5.1
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Eagle
+Weapon: Eagle
+
+Name: V2GBR (laid the final blow)
+Security: 5.0
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Ferox
+Weapon: Scourge Heavy Missile
+
+Name: Angie Mitchell
+Security: 0.6
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Pilgrim
+Weapon: Warrior II
+
+Name: Turogg
+Security: 0.0
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Helios
+Weapon: Kapteyn Sensor Array Inhibitor I
+
+Name: Chuck Dexter
+Security: 5.0
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Drake
+Weapon: 'Malkuth' Heavy Assault Missile Launcher I
+
+

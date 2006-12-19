@@ -1,0 +1,67 @@
+2007.01.17 09:03
+
+Victim: Cockroach
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Apocalypse
+System: WUZ-WM
+Security: 0.0
+
+Involved parties:
+
+Name: Yushii
+Security: 1.5
+Alliance: None
+Corp: Perkone
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Bonafyde (laid the final blow)
+Security: 5.0
+Alliance: None
+Corp: Brutor tribe
+Ship: Hurricane
+Weapon: 720mm Howitzer Artillery II
+
+Name: Guristas Supremacist / Guristas
+
+
+Destroyed items:
+
+Tachyon Beam Laser II
+Tachyon Beam Laser II
+Tachyon Beam Laser II
+Bloodclaw Light Missile, Qty: 19
+'Malkuth' Assault Missile Launcher I
+'Malkuth' Assault Missile Launcher I
+Eutectic I Capacitor Charge Array
+Sensor Booster II
+Large 'Accommodation' Vestment Reconstructer I
+Large 'Accommodation' Vestment Reconstructer I
+Armor Kinetic Hardener II
+Armor Thermic Hardener II
+Beta Reactor Control: Capacitor Power Relay I
+Fixed Parallel Link-Capacitor I (Cargo)
+Medium F-4a Ld-Sulfate I Capacitor Charge Unit (Cargo)
+150mm 'Scout' I Accelerator Cannon (Cargo)
+Regulated Neutron Phase Cannon I (Cargo)
+350mm Compressed Coil Gun I (Cargo)
+Dread Guristas Lead Charge M, Qty: 1000 (Cargo)
+Gamma L, Qty: 5 (Cargo)
+Microwave L, Qty: 5 (Cargo)
+Defender I, Qty: 341 (Cargo)
+FZ-3 Subversive Spatial Destabilizer ECM (Cargo)
+Photonic CPU Enhancer I (Cargo)
+Guristas Crystal Tag (Cargo)
+Aurora L, Qty: 5 (Cargo)
+Sabretooth Light Missile, Qty: 100 (Cargo)
+Firefly F.O.F. Light Missile I, Qty: 100 (Cargo)
+'Malkuth' Siege Missile Launcher I (Cargo)
+Beta Reactor Control: Diagnostic System I (Cargo)
+Type-D Power Core Modification: Diagnostic System (Cargo)
+Type-D Power Core Modification: Capacitor Power Relay (Cargo)
+Local Power Plant Manager: Capacity Power Relay I, Qty: 3 (Cargo)
+Mark I Generator Refitting: Reaction Control (Cargo)
+Type-D Power Core Modification: Reaction Control (Cargo)
+Hobgoblin I, Qty: 4 (Drone Bay)
+

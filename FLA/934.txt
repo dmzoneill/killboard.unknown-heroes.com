@@ -1,0 +1,39 @@
+2007.02.27 19:14
+
+Victim: Aralim
+Alliance: United Confederation of Corporations
+Corp: The Valour
+Destroyed: Thorax
+System: Maut
+Security: 0.2
+
+Involved parties:
+
+Name: Kiara Diepp (laid the final blow)
+Security: -2.1
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Drake
+Weapon: Thunderbolt Heavy Missile
+
+Name: Jesnen
+Security: -0.5
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Sacrilege
+Weapon: Hobgoblin II
+
+
+Destroyed items:
+
+Modal Ion Particle Accelerator I
+Modal Ion Particle Accelerator I
+Antimatter Charge M, Qty: 232
+Y-T8 Overcharged Hydrocarbon I Microwarpdrive
+X5 Prototype I Engine Enervator
+Medium Inefficient Armor Repair Unit
+Energized Adaptive Nano Membrane I
+Energized Reactive Membrane I
+Local Power Plant Manager: Reaction Control I
+Antimatter Charge M, Qty: 1053 (Cargo)
+

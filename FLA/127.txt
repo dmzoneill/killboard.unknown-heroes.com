@@ -1,0 +1,77 @@
+2007.01.12 16:46
+
+Victim: ammargal
+Alliance: Triumvirate.
+Corp: D00M.
+Destroyed: Curse
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: darkviron
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Capsule
+Weapon: Hammerhead I
+
+Name: mr passie
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: Stitcher
+Security: 3.3
+Alliance: Freelancer Alliance
+Corp: J.I.T. Enterprises
+Ship: Omen
+Weapon: Omen
+
+Name: Krakosaki (laid the final blow)
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Megathron
+Weapon: 425mm Compressed Coil Gun I
+
+Name: Ocara Nezus
+Security: 1.6
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: coldkill
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Ishkur
+Weapon: 125mm Railgun II
+
+Name: Mokh'Tar
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: Caldar Mercenary Syndicate
+Ship: Blackbird
+Weapon: 'Hypnos' Ion Field ECM I
+
+
+Destroyed items:
+
+Medium Nosferatu II
+Medium Nosferatu II
+Y-T8 Overcharged Hydrocarbon I Microwarpdrive
+Warp Disruptor I
+Stasis Webifier I
+Small Armor Repairer II
+Type-D Altered SS Nanofiber Structure
+Power Diagnostic System II
+Large Shield Extender II, Qty: 2 (Cargo)
+Bloodclaw Light Missile, Qty: 2369 (Cargo)
+Piranha Light Missile, Qty: 1671 (Cargo)
+Vespa II, Qty: 4 (Drone Bay)
+Hobgoblin II (Drone Bay)
+

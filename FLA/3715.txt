@@ -1,0 +1,26 @@
+2007.03.30 15:26
+
+Victim: SoF Reaperman
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Destroyed: Capsule
+System: 4N-BUI
+Security: 0.0
+
+Involved parties:
+
+Name: Risandaar (laid the final blow)
+Security: 1.0
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Ares
+Weapon: Flameburst Light Missile
+
+Name: MegaJ
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Pilgrim
+Weapon: Faint Warp Prohibitor I
+
+

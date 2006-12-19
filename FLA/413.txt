@@ -1,0 +1,44 @@
+2007.01.31 23:47
+
+Victim: Dr Glock
+Alliance: Xelas Alliance
+Corp: Rytiri Lva
+Destroyed: Caracal
+System: Hasmijaala
+Security: 0.3
+
+Involved parties:
+
+Name: Sorlac Aurora (laid the final blow)
+Security: 1.3
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Caracal
+Weapon: Torrent Assault Missile
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 50
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Advanced 'Limos' Heavy Missile Bay I
+Advanced 'Limos' Heavy Missile Bay I
+Medium Shield Booster II
+Kinetic Deflection Amplifier I
+Heat Dissipation Amplifier I
+Heat Dissipation Amplifier I
+Ballistic Control System I
+Small Shield Extender I (Cargo)
+Medium Shield Extender I (Cargo)
+Small Armor Repairer I (Cargo)
+Medium Hull Repairer I (Cargo)
+Small Energy Transfer Array I (Cargo)
+Small Energy Neutralizer I (Cargo)
+125mm Railgun I (Cargo)
+Uranium Charge S, Qty: 100 (Cargo)
+ECM - Multispectral Jammer I (Cargo)
+ECCM - Gravimetric I (Cargo)
+Rocket Launcher I (Cargo)
+Heavy Missile Launcher I (Cargo)
+

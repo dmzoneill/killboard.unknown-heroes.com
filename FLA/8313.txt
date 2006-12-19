@@ -1,0 +1,32 @@
+2006.11.08 18:51
+
+Victim: Meathireland
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Destroyed: Badger Mark II
+System: Litiura
+Security: 0.5
+
+Involved parties:
+
+Name: TranZferR (laid the final blow)
+Security: -1.8
+Alliance: None
+Corp: The Initiative
+Ship: Deimos
+Weapon: Heavy Ion Blaster II
+
+Name: Dazzio
+Security: -2.0
+Alliance: None
+Corp: The Initiative
+Ship: Brutix
+Weapon: Brutix
+
+
+Destroyed items:
+
+Medium Shield Extender I
+Small Shield Booster I
+Kinetic Deflection Amplifier I
+

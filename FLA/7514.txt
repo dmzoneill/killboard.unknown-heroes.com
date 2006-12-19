@@ -1,0 +1,94 @@
+2006.09.10 22:32
+
+Victim: Ban Shee
+Alliance: None
+Corp: Jokers
+Destroyed: Harpy
+System: G-M4I8
+Security: 0.0
+
+Involved parties:
+
+Name: vladdy2 (laid the final blow)
+Security: 3.4
+Alliance: CORE.
+Corp: VentureCorp
+Ship: Huginn
+Weapon: 650mm Artillery Cannon II
+
+Name: DARKLING
+Security: 5.1
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Eagle
+Weapon: Eagle
+
+Name: Valtaer
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: Terminal Velocity Inc.
+Ship: Moa
+Weapon: Assault Missile Launcher II
+
+Name: DDaisy
+Security: 4.6
+Alliance: CORE.
+Corp: VentureCorp
+Ship: Lachesis
+Weapon: Warp Disruptor I
+
+Name: Puke
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+Name: kermitfrog
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Crow
+Weapon: 'Arbalest' Standard Missile Launcher
+
+Name: Karnovsky
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Sabre
+Weapon: Sabre
+
+Name: Ravyxx
+Security: 5.2
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Taranis
+Weapon: 125mm Compressed Coil Gun I
+
+Name: NATMav
+Security: 5.0
+Alliance: EVE Animal Control
+Corp: F.R.E.E. Explorer
+Ship: Crow
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: Luthien Firefoot
+Security: 2.5
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Crow
+Weapon: Initiated Warp Jammer I
+
+
+Destroyed items:
+
+150mm Prototype I Gauss Gun
+150mm Prototype I Gauss Gun
+Antimatter Charge S, Qty: 81
+Small C5-L Emergency Shield Overload I
+Fleeting Warp Scrambler I
+Monopulse Tracking Mechanism I
+'Repose' I Core Compensation
+Small Armor Repairer I (Cargo)
+Lead Charge S, Qty: 1689 (Cargo)
+

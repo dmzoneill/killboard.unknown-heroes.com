@@ -1,0 +1,37 @@
+2006.10.06 16:57
+
+Victim: Indikator
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Destroyed: Scythe
+System: Sobaseki
+Security: 0.8
+
+Involved parties:
+
+Name: Danno (laid the final blow)
+Security: -1.9
+Alliance: None
+Corp: Privateers
+Ship: Lachesis
+Weapon: Heavy Neutron Blaster II
+
+Name: xBlood
+Security: 1.6
+Alliance: None
+Corp: Privateers
+Ship: Rupture
+Weapon: Rupture
+
+
+Destroyed items:
+
+280mm Howitzer Artillery I
+Nuclear S, Qty: 20
+Flameburst Light Missile, Qty: 82
+Upgraded 'Limos' Standard Missile Bay I
+Upgraded 'Limos' Standard Missile Bay I
+Small Shield Booster I
+Medium C5-L Emergency Shield Overload I
+Nuclear S, Qty: 15262 (Cargo)
+

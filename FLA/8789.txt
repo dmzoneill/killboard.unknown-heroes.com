@@ -1,0 +1,62 @@
+2006.12.11 23:22
+
+Victim: TiMeZeRo225
+Alliance: Freelancer Alliance
+Corp: J.I.T. Enterprises
+Destroyed: Raven
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Teani
+Security: 1.6
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Astarte
+Weapon: Hammerhead II
+
+Name: Darknesss (laid the final blow)
+Security: -0.4
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Megathron
+Weapon: Neutron Blaster Cannon II
+
+Name: Zap Zaberdine
+Security: 3.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Tempest
+Weapon: Hammerhead II
+
+Name: Lord KesH
+Security: 2.8
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Rapier
+Weapon: Rapier
+
+
+Destroyed items:
+
+Devastator Cruise Missile, Qty: 14
+Wrath Cruise Missile, Qty: 14
+Paradise Cruise Missile, Qty: 28
+Cataclysm Cruise Missile, Qty: 28
+XT-9000 Cruise Launcher
+XT-9000 Cruise Launcher
+XT-9000 Cruise Launcher
+Large F-S9 Regolith Shield Induction
+X-Large C5-L Emergency Shield Overload I
+X-Large C5-L Emergency Shield Overload I
+X-Large C5-L Emergency Shield Overload I
+X-Large C5-L Emergency Shield Overload I
+X-Large C5-L Emergency Shield Overload I
+Invulnerability Field I
+Sensor Booster II
+Sensor Booster II
+Ballistic Control System II
+Paradise Cruise Missile, Qty: 2946 (Cargo)
+Vespa II, Qty: 2 (Drone Bay)
+

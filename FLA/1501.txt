@@ -1,0 +1,37 @@
+2007.03.14 22:13
+
+Victim: Fusionrsc
+Alliance: None
+Corp: Hermandad Silenciosa
+Destroyed: Capsule
+System: Enderailen
+Security: 0.4
+
+Involved parties:
+
+Name: Mahrla (laid the final blow)
+Security: -1.4
+Alliance: Dusk and Dawn
+Corp: The X-Trading Company
+Ship: Claw
+Weapon: 125mm Gatling AutoCannon II
+
+Name: RayTruz
+Security: 2.3
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+
+Destroyed items:
+
+Heavy Ion Blaster I
+Heavy Ion Blaster I
+Heavy Ion Blaster I
+Piranha Light Missile, Qty: 40
+Sabretooth Light Missile, Qty: 40
+Tungsten Charge S, Qty: 100 (Cargo)
+Uranium Charge M, Qty: 250 (Cargo)
+Piranha Light Missile, Qty: 129 (Cargo)
+

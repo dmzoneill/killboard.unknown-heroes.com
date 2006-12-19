@@ -1,0 +1,38 @@
+2007.02.10 00:13
+
+Victim: Aspi Rene
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Ishkur
+System: AZN-D2
+Security: 0.0
+
+Involved parties:
+
+Name: Zammo Bahrut
+Security: 0.7
+Alliance: None
+Corp: Maelstrom Crew
+Ship: Maller
+Weapon: Maller
+
+Name: Champs d'elise (laid the final blow)
+Security: 0.7
+Alliance: None
+Corp: Maelstrom Crew
+Ship: Myrmidon
+Weapon: Berserker I
+
+
+Destroyed items:
+
+125mm Prototype I Gauss Gun
+Antimatter Charge S, Qty: 71
+Improved Cloaking Device II
+Gistii A-Type 1MN Afterburner
+Small Tapered Capacitor Infusion I
+Cap Booster 75
+Antimatter Charge S, Qty: 5006 (Cargo)
+Cap Booster 75, Qty: 15 (Cargo)
+Acolyte I (Drone Bay)
+

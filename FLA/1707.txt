@@ -1,0 +1,101 @@
+2007.01.01 16:46
+
+Victim: Goca
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Destroyed: Drake
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Pistonbroke
+Security: -0.2
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Dominix
+Weapon: Wasp II
+
+Name: Jenessa (laid the final blow)
+Security: 2.3
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Darknesss
+Security: -0.5
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Dominix
+Weapon: Ogre II
+
+Name: Elliott Manchild
+Security: -1.7
+Alliance: None
+Corp: omen.
+Ship: Dominix
+Weapon: Berserker II
+
+Name: Dr Wahoos
+Security: -3.3
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Raven
+Weapon: Hammerhead II
+
+Name: Axl Alien
+Security: -1.7
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: xlop
+Security: -1.0
+Alliance: None
+Corp: omen.
+Ship: Typhoon
+Weapon: Devastator Cruise Missile
+
+Name: boo3916
+Security: 4.4
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Dominix
+Weapon: ECM - Multispectral Jammer II
+
+Name: Jimmycs83
+Security: -1.5
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Taranis
+Weapon: Warrior II
+
+Name: Drakin Korin
+Security: -0.7
+Alliance: None
+Corp: Evil Bandit Organisation
+Ship: Lachesis
+Weapon: Widowmaker Heavy Missile
+
+Name: Murdoch Morf
+Security: 1.5
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Jaguar
+Weapon: Jaguar
+
+
+Destroyed items:
+
+Widowmaker Heavy Missile, Qty: 66
+Advanced 'Limos' Heavy Missile Bay I
+Advanced 'Limos' Heavy Missile Bay I
+Large Azeotropic Ward Salubrity I
+Large Azeotropic Ward Salubrity I
+'Anointed' I EM Ward Reinforcement
+V-M15 Braced Multispectral Shield Matrix
+Local Power Plant Manager: Diagnostic System I
+Scourge Heavy Missile, Qty: 150 (Cargo)
+

@@ -1,0 +1,32 @@
+2006.10.09 09:46
+
+Victim: lambert butler
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Destroyed: Vexor
+System: Haine
+Security: 0.4
+
+Involved parties:
+
+Name: widgetman (laid the final blow)
+Security: 0.7
+Alliance: None
+Corp: Privateers
+Ship: Dominix
+Weapon: Berserker I
+
+
+Destroyed items:
+
+125mm Carbide Railgun I
+125mm Carbide Railgun I
+125mm Carbide Railgun I
+Thorium Charge S, Qty: 154
+400mm Reinforced Rolled Tungsten Plates I
+400mm Reinforced Rolled Tungsten Plates I
+Thorium Charge S, Qty: 546 (Cargo)
+Data Chip (Cargo)
+Condensed Alloy, Qty: 2 (Cargo)
+Hammerhead I (Drone Bay)
+

@@ -1,0 +1,33 @@
+2006.11.06 15:25
+
+Victim: Oxana Ptotemkish
+Alliance: None
+Corp: GeoTech
+Destroyed: Capsule
+System: X-7OMU
+Security: 0.0
+
+Involved parties:
+
+Name: Hosanna (laid the final blow)
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Claw
+Weapon: 150mm Light AutoCannon II
+
+Name: Formosus Funus
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Jaguar
+Weapon: Stasis Webifier I
+
+Name: Dog Cancer
+Security: 1.4
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Crow
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+

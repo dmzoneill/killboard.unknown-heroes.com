@@ -1,0 +1,65 @@
+2006.11.05 00:25
+
+Victim: Barsak Kressel
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Destroyed: Crow
+System: K4YZ-Y
+Security: 0.0
+
+Involved parties:
+
+Name: Vily (laid the final blow)
+Security: -1.6
+Alliance: None
+Corp: Lilium Venture Initiative
+Ship: Malediction
+Weapon: Dual Light Pulse Laser II
+
+Name: Ricky Baby
+Security: 1.2
+Alliance: None
+Corp: The Kennels
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+Name: Zerimar
+Security: -1.3
+Alliance: None
+Corp: Ferinus Vis
+Ship: Ishkur
+Weapon: Fleeting Warp Scrambler I
+
+Name: Roule
+Security: -4.8
+Alliance: None
+Corp: The Kennels
+Ship: Stiletto
+Weapon: Low Frequency Sensor Suppressor I
+
+Name: One Nutter
+Security: -10.
+Alliance: None
+Corp: the little rats
+Ship: Vengeance
+Weapon: Vengeance
+
+Name: Frothgar
+Security: 2.0
+Alliance: None
+Corp: The Kennels
+Ship: Buzzard
+Weapon: Induced Ion Field ECM I
+
+
+Destroyed items:
+
+Small 'Knave' I Energy Drain
+Thorn Rocket, Qty: 30
+OE-5200 Rocket Launcher
+Catalyzed Cold-Gas I Arcjet Thrusters
+J5b Phased Prototype Warp Inhibitor I
+J5b Phased Prototype Warp Inhibitor I
+Damage Control I
+Gremlin Rocket, Qty: 153 (Cargo)
+

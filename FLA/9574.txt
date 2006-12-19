@@ -1,0 +1,30 @@
+2007.05.18 23:35
+
+Victim: GamaUnit1538
+Alliance: None
+Corp: State War Academy
+Destroyed: Condor
+System: Waskisen
+Security: 0.7
+
+Involved parties:
+
+Name: RythemAndStealth (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Punisher
+Weapon: Medium Pulse Laser I
+
+Name: Guristas Imputor / Guristas
+
+
+Destroyed items:
+
+75mm Gatling Rail I
+Iridium Charge S, Qty: 173
+Cargo Scanner I
+Small Armor Repairer I (Cargo)
+Small Energy Transfer Array I (Cargo)
+Iron Charge S, Qty: 98 (Cargo)
+

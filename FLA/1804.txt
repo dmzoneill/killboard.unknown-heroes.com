@@ -1,0 +1,50 @@
+2007.01.04 05:06
+
+Victim: Nova Paradise
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Manticore
+System: Jita
+Security: 0.9
+
+Involved parties:
+
+Name: Drakin Korin
+Security: -1.1
+Alliance: Privateer Alliance
+Corp: Evil Bandit Organisation
+Ship: Capsule
+Weapon: Upgraded 'Limos' Standard Missile Bay I
+
+Name: Lyshah (laid the final blow)
+Security: 0.7
+Alliance: Privateer Alliance
+Corp: The Carebear Stare
+Ship: Myrmidon
+Weapon: Ogre II
+
+Name: Elfaen Ethenwe
+Security: -2.0
+Alliance: Privateer Alliance
+Corp: Evil Bandit Organisation
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+Name: Dopey McGank
+Security: -0.3
+Alliance: Privateer Alliance
+Corp: Defile.
+Ship: Capsule
+Weapon: Small 'Knave' I Energy Drain
+
+
+Destroyed items:
+
+Wrath Cruise Missile, Qty: 24
+'Arbalest' Cruise Launcher I
+'Arbalest' Cruise Launcher I
+'Arbalest' Cruise Launcher I
+Small Shield Booster II
+Faint Epsilon Warp Prohibitor I
+Fleeting Propulsion Inhibitor I
+

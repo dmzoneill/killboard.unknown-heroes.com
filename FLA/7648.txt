@@ -1,0 +1,19 @@
+2006.09.29 19:14
+
+Victim: AHAPXUCT
+Alliance: R.I.S.K
+Corp: SolaR KillerS
+Destroyed: Caldari Shuttle
+System: EWOK-K
+Security: 0.0
+
+Involved parties:
+
+Name: Jumar Coldgin (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Crow
+Weapon: Flameburst Precision Light Missile
+
+

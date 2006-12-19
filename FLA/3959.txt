@@ -1,0 +1,33 @@
+2007.04.07 16:16
+
+Victim: Neva Second
+Alliance: None
+Corp: Federal Navy Academy
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Sir Pip
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Cataclysm Enterprises
+Ship: Sabre
+Weapon: 'Langour' Drive Disruptor I
+
+Name: Jarath Abyss (laid the final blow)
+Security: 4.2
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Ship: Thorax
+Weapon: 150mm Railgun II
+
+Name: AlexeiShtukov
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Ship: Manticore
+Weapon: 'Arbalest' Cruise Launcher I
+
+

@@ -1,0 +1,61 @@
+2007.04.17 16:25
+
+Victim: Sha'ara Sha'amashira
+Alliance: Freelancer Alliance
+Corp: J.I.T. Enterprises
+Destroyed: Stabber
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Rukaz
+Security: 3.1
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Steve Dave (laid the final blow)
+Security: 4.1
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Nighthawk
+Weapon: Scourge Fury Heavy Missile
+
+Name: abzzo
+Security: 1.7
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Zealot
+Weapon: Zealot
+
+Name: kapten sortebil
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Spitfire5769
+Security: 4.5
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Zealot
+Weapon: 'Langour' Drive Disruptor I
+
+
+Destroyed items:
+
+425mm AutoCannon I
+425mm AutoCannon I
+425mm AutoCannon I
+Depleted Uranium M, Qty: 237
+Piranha Light Missile, Qty: 53
+Assault Missile Launcher I
+10MN MicroWarpdrive I
+Local Power Plant Manager: Diagnostic System I
+Local Power Plant Manager: Diagnostic System I
+1MN Afterburner II (Cargo)
+Iron Charge S, Qty: 47 (Cargo)
+

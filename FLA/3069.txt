@@ -1,0 +1,41 @@
+2007.03.23 21:52
+
+Victim: Bubbaloo
+Alliance: None
+Corp: Against All Authority
+Destroyed: Raptor
+System: O-N8XZ
+Security: 0.0
+
+Involved parties:
+
+Name: HYT gangster
+Security: 1.4
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Claw
+Weapon: Claw
+
+Name: Korudon (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: marakudi
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Hawk
+Weapon: 'Malkuth' Rocket Launcher I
+
+
+Destroyed items:
+
+Dual Light Beam Laser II
+Microwave S
+Bloodclaw Light Missile, Qty: 27
+Eutectic I Capacitor Charge Array
+Micro Auxiliary Power Core I
+

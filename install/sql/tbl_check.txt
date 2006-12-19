@@ -1,0 +1,9 @@
+kb3_constellations	780
+kb3_item_locations	6
+kb3_item_types	622
+kb3_races	4
+kb3_regions	66
+kb3_ship_classes	27
+kb3_ships	364
+kb3_system_jumps	14172
+kb3_systems	5334

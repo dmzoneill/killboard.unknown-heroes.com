@@ -1,0 +1,60 @@
+2006.09.26 10:10
+
+Victim: Capt Volrath
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Destroyed: Tristan
+System: O-N8XZ
+Security: 0.0
+
+Involved parties:
+
+Name: Ferocious FeAr (laid the final blow)
+Security: 5.0
+Alliance: Ascendant Frontier
+Corp: Sha Kharn Corp
+Ship: Raven
+Weapon: Bane Javelin Torpedo
+
+Name: Drift Spec
+Security: 5.0
+Alliance: Ascendant Frontier
+Corp: Sha Kharn Corp
+Ship: Crow
+Weapon: Domination Warp Disruptor
+
+Name: Sulfon
+Security: 3.3
+Alliance: Ascendant Frontier
+Corp: Sha Kharn Corp
+Ship: Lachesis
+Weapon: Lachesis
+
+Name: Leyalor Esperence
+Security: 4.5
+Alliance: Ascendant Frontier
+Corp: Sha Kharn Corp
+Ship: Sabre
+Weapon: X5 Prototype I Engine Enervator
+
+Name: K1ng
+Security: 5.0
+Alliance: Ascendant Frontier
+Corp: Sha Kharn Corp
+Ship: Raven
+Weapon: Siege Missile Launcher II
+
+Name: Jasmine Dupre
+Security: 5.0
+Alliance: Ascendant Frontier
+Corp: Sha Kharn Corp
+Ship: Scorpion
+Weapon: 'Malkuth' Cruise Launcher I
+
+
+Destroyed items:
+
+1MN MicroWarpdrive I
+Small Capacitor Battery I
+Warp Core Stabilizer I
+

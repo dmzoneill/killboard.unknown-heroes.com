@@ -1,0 +1,66 @@
+2007.03.26 18:25
+
+Victim: Ally Poo
+Alliance: None
+Corp: F.S.O.
+Destroyed: Raven
+System: L-C3O7
+Security: 0.0
+
+Involved parties:
+
+Name: Lillegutt (laid the final blow)
+Security: 4.0
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Ship: Thrasher
+Weapon: 250mm Light Artillery Cannon II
+
+Name: Tinde Selven
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Thorax
+Weapon: Thorax
+
+Name: Hous Pharteen
+Security: 0.2
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Ship: Curse
+Weapon: Acolyte II
+
+Name: TordenSkiold
+Security: -0.9
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Ship: Taranis
+Weapon: J5 Prototype Warp Inhibitor I
+
+
+Destroyed items:
+
+Heavy Nosferatu I
+'Arbalest' Cruise Launcher I
+Drone Link Augmentor I
+V-M15 Braced Multispectral Shield Matrix
+Invulnerability Field I
+Shield Boost Amplifier I
+Nanoelectrical Co-Processor I
+Ballistic Control System I
+Ballistic Control System I
+Beta Reactor Control: Diagnostic System I
+Large Shield Booster I (Cargo)
+Medium Capacitor Battery I (Cargo)
+Small Energy Neutralizer I (Cargo)
+250mm Railgun I (Cargo)
+Dual 250mm Railgun I (Cargo)
+ECM Burst I (Cargo)
+Inferno Torpedo, Qty: 36 (Cargo)
+Mjolnir Torpedo, Qty: 18 (Cargo)
+Wrath Cruise Missile, Qty: 1181 (Cargo)
+Cruise Missile Launcher I, Qty: 2 (Cargo)
+'Arbalest' Siege Missile Launcher, Qty: 3 (Cargo)
+Siege Missile Launcher I, Qty: 2 (Cargo)
+Type-D Power Core Modification: Reaction Control (Cargo)
+

@@ -1,0 +1,61 @@
+2007.02.06 03:39
+
+Victim: Korudon
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Capsule
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Leyalor Esperence (laid the final blow)
+Security: 2.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Sabre
+Weapon: 200mm AutoCannon II
+
+Name: Gazmus
+Security: 0.8
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Taranis
+Weapon: Taranis
+
+Name: Flavius Renatus
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Stiletto
+Weapon: OE-5200 Rocket Launcher
+
+Name: Polydectes
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Heretic
+Weapon: Dual Light Beam Laser II
+
+Name: Bogwad
+Security: 4.8
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Claw
+Weapon: Claw
+
+Name: Funky Feeling
+Security: 4.6
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Myrmidon
+Weapon: Myrmidon
+
+Name: Sexual Chocolate
+Security: 2.5
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Taranis
+Weapon: Taranis
+
+

@@ -1,0 +1,33 @@
+2006.09.07 17:24
+
+Victim: Hosanna
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Destroyed: Claw
+System: Mara
+Security: 0.4
+
+Involved parties:
+
+Name: ArtemisEntreri (laid the final blow)
+Security: -10.
+Alliance: None
+Corp: Turbulent
+Ship: Absolution
+Weapon: Heavy Pulse Laser II
+
+Name: Damien Smith
+Security: -10.
+Alliance: None
+Corp: Turbulent
+Ship: Megathron
+Weapon: 350mm 'Scout' I Accelerator Cannon
+
+
+Destroyed items:
+
+150mm Light AutoCannon II
+Barrage S, Qty: 160
+200mm Reinforced Rolled Tungsten Plates I
+Phased Plasma S, Qty: 2884 (Cargo)
+

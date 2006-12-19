@@ -1,0 +1,88 @@
+2007.04.03 00:42
+
+Victim: Alieness
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Destroyed: Tristan
+System: F7C-H0
+Security: 0.0
+
+Involved parties:
+
+Name: evilempire0
+Security: -0.5
+Alliance: YouWhat
+Corp: Cosmic Odyssey
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Lord Revent (laid the final blow)
+Security: 1.2
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Hound
+Weapon: Cataclysm Cruise Missile
+
+Name: Magnelien
+Security: 4.3
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Crow
+Weapon: Small Diminishing Power System Drain I
+
+Name: Erikel
+Security: 4.5
+Alliance: YouWhat
+Corp: Cosmic Odyssey
+Ship: Myrmidon
+Weapon: Myrmidon
+
+Name: Neily
+Security: 4.7
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Rook
+Weapon: Serpent F.O.F. Light Missile I
+
+Name: isca
+Security: 5.0
+Alliance: YouWhat
+Corp: Cosmic Odyssey
+Ship: Thorax
+Weapon: Thorax
+
+Name: Thyago
+Security: 5.0
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: Lakastre
+Security: 0.6
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Curse
+Weapon: Medium Nosferatu II
+
+Name: Frostbeule
+Security: 3.3
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Myrmidon
+Weapon: Phased Muon Sensor Disruptor I
+
+Name: Exitao
+Security: 5.0
+Alliance: YouWhat
+Corp: Cosmic Odyssey
+Ship: Caracal
+Weapon: Heavy Missile Launcher I
+
+
+Destroyed items:
+
+150mm Railgun I
+1MN Afterburner I
+Warp Core Stabilizer I
+

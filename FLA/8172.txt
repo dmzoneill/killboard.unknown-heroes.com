@@ -1,0 +1,33 @@
+2006.10.25 23:10
+
+Victim: Voyageur
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Destroyed: Rapier
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Cosh (laid the final blow)
+Security: 3.5
+Alliance: None
+Corp: NEXT LEVEL
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+
+Destroyed items:
+
+720mm Howitzer Artillery II
+720mm Howitzer Artillery II
+Tremor M, Qty: 14
+Stasis Webifier I
+Stasis Webifier I
+Tracking Enhancer II
+Tracking Enhancer II
+Quake M, Qty: 460 (Cargo)
+Wasp II (Drone Bay)
+Hobgoblin I (Drone Bay)
+Infiltrator I (Drone Bay)
+

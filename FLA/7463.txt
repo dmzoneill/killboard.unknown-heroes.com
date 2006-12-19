@@ -1,0 +1,84 @@
+2006.09.07 20:46
+
+Victim: Trex Y
+Alliance: None
+Corp: Mindless Destruction
+Destroyed: Armageddon
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: XxAngelxX
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Curse
+Weapon: Vespa II
+
+Name: trakli (laid the final blow)
+Security: 5.0
+Alliance: None
+Corp: Corp 101
+Ship: Dominix
+Weapon: Wasp I
+
+Name: Ione79
+Security: 2.4
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Taranis
+Weapon: Taranis
+
+Name: Hojo Norem
+Security: 2.3
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Ferox
+Weapon: Hornet I
+
+Name: Drakin Korin
+Security: -1.8
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Ishtar
+Weapon: Ogre I
+
+Name: Kremnican
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Blackbird
+Weapon: Bloodclaw Light Missile
+
+Name: Hosanna
+Security: -2.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: Minesweeper
+Security: 2.8
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Stiletto
+Weapon: Stiletto
+
+
+Destroyed items:
+
+Dual Heavy Modulated Pulse Energy Beam I
+Dual Heavy Modulated Pulse Energy Beam I
+Multifrequency L
+Multifrequency L
+Warp Disruptor I
+X5 Prototype I Engine Enervator
+Damage Control I
+Energized Adaptive Nano Membrane I
+1600mm Reinforced Steel Plates I
+Medium Beam Laser II, Qty: 2 (Cargo)
+Ultraviolet L, Qty: 5 (Cargo)
+Radio S, Qty: 4 (Cargo)
+Aurora S, Qty: 3 (Cargo)
+

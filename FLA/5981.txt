@@ -1,0 +1,66 @@
+2006.11.05 01:53
+
+Victim: Airfish
+Alliance: None
+Corp: Knights of Red Mars
+Destroyed: Megathron
+System: V4-L0X
+Security: 0.0
+
+Involved parties:
+
+Name: Angel Vengen (laid the final blow)
+Security: 4.0
+Alliance: Freelancer Alliance
+Corp: Caldar Mercenary Syndicate
+Ship: Ferox
+Weapon: Havoc Fury Heavy Missile
+
+Name: SiriusCrow
+Security: -1.5
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Caracal
+Weapon: Warrior II
+
+Name: Zattron
+Security: 0.7
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Caracal
+Weapon: Bloodclaw Light Missile
+
+Name: Yarsida
+Security: 1.1
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Moa
+Weapon: 250mm Compressed Coil Gun I
+
+Name: MonwrathDisortium
+Security: -1.9
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Celestis
+Weapon: 200mm AutoCannon II
+
+
+Destroyed items:
+
+Small Rudimentary Energy Destabilizer I
+Limited Mega Ion Blaster I
+Limited Mega Ion Blaster I
+Antimatter Charge L, Qty: 120
+Quad LiF Fueled I Booster Rockets
+Fleeting Warp Scrambler I
+Heavy Electrochemical Capacitor Booster I
+Cap Booster 800
+Cap Booster 800
+Cap Booster 800
+Large 'Accommodation' Vestment Reconstructer I
+N-Type Thermic Hardener I
+1600mm Reinforced Rolled Tungsten Plates I
+1600mm Reinforced Rolled Tungsten Plates I
+Antimatter Charge L, Qty: 1052 (Cargo)
+Cap Booster 800, Qty: 6 (Cargo)
+

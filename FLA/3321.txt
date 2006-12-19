@@ -1,0 +1,54 @@
+2007.03.23 09:55
+
+Victim: darkviron
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Destroyed: Drake
+System: G8AD-C
+Security: 0.0
+
+Involved parties:
+
+Name: Serpentis Chief Safeguard / Serpentis Corporation
+
+Name: Vim Longhill
+Security: 4.6
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Drake
+Weapon: Thunderbolt Fury Heavy Missile
+
+Name: Xordus (laid the final blow)
+Security: 1.6
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Harbinger
+Weapon: Focused Medium Pulse Laser II
+
+Name: Vasili Z
+Security: 0.4
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Rapier
+Weapon: Rapier
+
+Name: Lorn Zolog
+Security: -0.8
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Harbinger
+Weapon: Harbinger
+
+
+Destroyed items:
+
+Widowmaker Heavy Missile, Qty: 75
+Advanced 'Limos' Heavy Missile Bay I
+Advanced 'Limos' Heavy Missile Bay I
+XR-3200 Heavy Missile Bay
+Small Tractor Beam I
+Large C5-L Emergency Shield Overload I
+10MN MicroWarpdrive I
+Beta Reactor Control: Diagnostic System I
+Power Diagnostic System I
+

@@ -1,0 +1,51 @@
+2007.02.16 20:18
+
+Victim: Trulaine
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Destroyed: Arazu
+System: Kaaputenen
+Security: 0.8
+
+Involved parties:
+
+Name: Wolf Ranger (laid the final blow)
+Security: 4.5
+Alliance: Privateer Alliance
+Corp: Righteous Choirboys
+Ship: Tempest
+Weapon: 800mm Repeating Artillery II
+
+Name: Drake Blackstar
+Security: 0.2
+Alliance: Privateer Alliance
+Corp: Privateers
+Ship: Taranis
+Weapon: Hobgoblin II
+
+Name: Fragzeline
+Security: 1.3
+Alliance: Privateer Alliance
+Corp: Righteous Choirboys
+Ship: Capsule
+Weapon: Hammerhead I
+
+Name: JMcClane
+Security: 3.6
+Alliance: Privateer Alliance
+Corp: Righteous Choirboys
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+Uranium Charge M, Qty: 18
+Phased Muon Sensor Disruptor I
+Phased Muon Sensor Disruptor I
+Sensor Booster II
+Energized Adaptive Nano Membrane II
+Energized Adaptive Nano Membrane I
+Uranium Charge M, Qty: 1928 (Cargo)
+Valkyrie II, Qty: 2 (Drone Bay)
+

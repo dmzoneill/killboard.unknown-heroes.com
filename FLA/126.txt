@@ -1,0 +1,52 @@
+2007.01.12 16:45
+
+Victim: Jenessa
+Alliance: Triumvirate.
+Corp: D00M.
+Destroyed: Huginn
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Nya
+Security: 2.1
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Muninn
+Weapon: Muninn
+
+Name: Soldroz (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Raven
+Weapon: Cataclysm Cruise Missile
+
+Name: Mauy Thai
+Security: -1.5
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Curse
+Weapon: Valkyrie II
+
+Name: Tevi
+Security: 1.2
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Jaguar
+Weapon: Jaguar
+
+
+Destroyed items:
+
+720mm Howitzer Artillery II
+720mm Howitzer Artillery II
+Quake M, Qty: 18
+10MN MicroWarpdrive I
+X5 Prototype I Engine Enervator
+Sensor Booster II
+Target Painter II
+Medium Armor Repairer II
+Quake M, Qty: 1455 (Cargo)
+

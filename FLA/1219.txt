@@ -1,0 +1,40 @@
+2007.03.08 23:02
+
+Victim: Sexorella hotz
+Alliance: YouWhat
+Corp: Beasts of Burden
+Destroyed: Capsule
+System: XZH-4X
+Security: 0.0
+
+Involved parties:
+
+Name: Quurst
+Security: 3.8
+Alliance: GoonSwarm
+Corp: Duragon Pioneer Group
+Ship: Harpy
+Weapon: Peripheral Weapon Navigation Diameter
+
+Name: Puz'ZaW
+Security: 2.7
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Stiletto
+Weapon: 150mm Light AutoCannon II
+
+Name: Muad' Dib
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Stiletto
+Weapon: Bloodclaw Light Missile
+
+Name: Dark Carnage (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+

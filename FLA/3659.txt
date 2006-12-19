@@ -1,0 +1,42 @@
+2007.03.28 15:51
+
+Victim: Hallonet
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Armageddon
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Juggernaut Torpedo / Guristas
+
+Name: Tjakka (laid the final blow)
+Security: 0.5
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Ishtar
+Weapon: Berserker II
+
+
+Destroyed items:
+
+Mega Pulse Laser I
+Mega Pulse Laser I
+Mega Pulse Laser I
+Mega Pulse Laser I
+Heavy Nosferatu I
+Fixed Parallel Link-Capacitor I
+Large Armor Repairer I
+Armor Thermic Hardener I
+Armor Kinetic Hardener I
+Mark I Generator Refitting: Capacitor Power Relay
+Mark I Generator Refitting: Capacitor Power Relay
+Small Murky Shield Screen Transmitter I (Cargo)
+Small Energy Neutralizer I (Cargo)
+Iridium Charge S, Qty: 100 (Cargo)
+Xray L, Qty: 4 (Cargo)
+Standard L, Qty: 4 (Cargo)
+Infrared L, Qty: 4 (Cargo)
+Gremlin Rocket, Qty: 100 (Cargo)
+

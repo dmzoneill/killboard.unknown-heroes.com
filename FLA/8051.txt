@@ -1,0 +1,19 @@
+2006.10.07 14:10
+
+Victim: alenotna
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Destroyed: Caldari Shuttle
+System: Jita
+Security: 0.9
+
+Involved parties:
+
+Name: Morfane (laid the final blow)
+Security: -0.2
+Alliance: None
+Corp: Privateers
+Ship: Taranis
+Weapon: Light Neutron Blaster II
+
+

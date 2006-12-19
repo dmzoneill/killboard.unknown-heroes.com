@@ -1,0 +1,92 @@
+2006.11.30 03:03
+
+Victim: Torok Nakaht
+Alliance: Triumvirate.
+Corp: D00M.
+Destroyed: Vagabond
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: coldkill
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Megathron
+Weapon: Megathron
+
+Name: Hosanna (laid the final blow)
+Security: 3.5
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Fugnut
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Crow
+Weapon: Crow
+
+Name: Danielson1012
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Harpy
+Weapon: Harpy
+
+Name: Zachariah Barnette
+Security: 1.8
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Ship: Raptor
+Weapon: Bloodclaw Light Missile
+
+Name: Swanny231
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Scorpion
+Weapon: Cataclysm Precision Cruise Missile
+
+Name: Takato Ibusu
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Raven
+Weapon: 'Malkuth' Siege Missile Launcher I
+
+Name: Sidrat Flush
+Security: 0.7
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Kestrel
+Weapon: Standard Missile Launcher I
+
+Name: MagicMos
+Security: 0.4
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Thorax
+Weapon: 150mm Railgun I
+
+Name: Karas Rabus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Huginn
+Weapon: Huginn
+
+
+Destroyed items:
+
+220mm Vulcan AutoCannon II
+EMP M, Qty: 320
+Large Shield Extender II
+Large Shield Extender II
+Domination 10MN MicroWarpdrive
+Barrage M, Qty: 1225 (Cargo)
+Hornet I (Drone Bay)
+

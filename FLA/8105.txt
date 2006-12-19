@@ -1,0 +1,26 @@
+2006.10.10 06:35
+
+Victim: Lovenuts
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Fenrir
+System: Sasta
+Security: 0.8
+
+Involved parties:
+
+Name: hero88 (laid the final blow)
+Security: -1.9
+Alliance: None
+Corp: Privateers
+Ship: Dominix
+Weapon: Heavy Neutron Blaster II
+
+Name: urrit
+Security: -0.3
+Alliance: None
+Corp: Privateers
+Ship: Rupture
+Weapon: Rupture
+
+

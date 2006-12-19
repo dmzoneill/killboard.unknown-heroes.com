@@ -1,0 +1,51 @@
+2007.04.18 02:10
+
+Victim: Avan Strega
+Alliance: Terror In The System
+Corp: Thunderstruck.
+Destroyed: Rifter
+System: E-FIC0
+Security: 0.0
+
+Involved parties:
+
+Name: Mirage o
+Security: 3.8
+Alliance: Freelancer Alliance
+Corp: Terminal Velocity Inc.
+Ship: Heretic
+Weapon: Heretic
+
+Name: Bullv3rsat (laid the final blow)
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Terminal Velocity Inc.
+Ship: Claw
+Weapon: 150mm Light AutoCannon II
+
+Name: Selena Frey
+Security: 1.7
+Alliance: Freelancer Alliance
+Corp: Terminal Velocity Inc.
+Ship: Thorax
+Weapon: Thorax
+
+Name: Christopher Cook
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Terminal Velocity Inc.
+Ship: Scorpion
+Weapon: ECM - Multispectral Jammer I
+
+
+Destroyed items:
+
+200mm AutoCannon II
+200mm AutoCannon II
+200mm AutoCannon II
+Barrage S, Qty: 53
+1MN Afterburner II
+Warp Scrambler I
+Patterned Stasis Web I
+EMP S, Qty: 4714 (Cargo)
+

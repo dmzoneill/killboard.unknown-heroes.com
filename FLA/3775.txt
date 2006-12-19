@@ -1,0 +1,41 @@
+2007.03.31 22:07
+
+Victim: dastommy79
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Destroyed: Thorax
+System: P-2TTL
+Security: 0.0
+
+Involved parties:
+
+Name: Minmatar Control Tower / Body Count Inc. (laid the final blow)
+
+Name: Grimster
+Security: 4.3
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Apocalypse
+Weapon: Mega Beam Laser II
+
+
+Destroyed items:
+
+Heavy Ion Blaster I
+Heavy Ion Blaster I
+Heavy Ion Blaster I
+Heavy Ion Blaster I
+Antimatter Charge M, Qty: 240
+10MN MicroWarpdrive I
+Warp Disruptor I
+Stasis Webifier I
+Medium Armor Repairer I
+Energized Reactive Membrane I
+Reactor Control Unit I
+1MN Afterburner I (Cargo)
+Antimatter Charge M, Qty: 2184 (Cargo)
+Hornet I, Qty: 3 (Cargo)
+N-Type Explosive Hardener I (Cargo)
+Salvager I (Cargo)
+Valkyrie I, Qty: 5 (Drone Bay)
+

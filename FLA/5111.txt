@@ -1,0 +1,47 @@
+2007.04.22 20:51
+
+Victim: coldkill
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Destroyed: Taranis
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Exekias
+Security: 2.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Hurricane
+Weapon: Scourge Heavy Missile
+
+Name: ZaKma
+Security: -0.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Astarte
+Weapon: Astarte
+
+Name: Myndpyre Ryche (laid the final blow)
+Security: 4.2
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Rook
+Weapon: Scourge Heavy Missile
+
+Name: Serge
+Security: 4.5
+Alliance: Mercenary Coalition
+Corp: Seraphin Technologies
+Ship: Abaddon
+Weapon: Mega Beam Laser II
+
+
+Destroyed items:
+
+75mm Gatling Rail II
+Spike S, Qty: 400
+1MN MicroWarpdrive I
+Spike S, Qty: 3978 (Cargo)
+

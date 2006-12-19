@@ -1,0 +1,85 @@
+2007.04.08 04:32
+
+Victim: Weeble Wooble
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Destroyed: Megathron
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Admentus Cor'vion (laid the final blow)
+Security: -0.5
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Dominix
+Weapon: Berserker II
+
+Name: Otto Bismarck
+Security: 3.6
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Astarte
+Weapon: Astarte
+
+Name: c0rn1
+Security: -2.1
+Alliance: S.E.R.A
+Corp: Seraphin Technologies
+Ship: Nidhoggur
+Weapon: Ogre I
+
+Name: FowlPlayChiken
+Security: 1.2
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Thanatos
+Weapon: Dragonfly
+
+Name: Vily
+Security: 0.3
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+Name: Rhayvn
+Security: 4.5
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Heretic
+Weapon: Dual Light Beam Laser II
+
+Name: BillyBong2
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Blackbird
+Weapon: Enfeebling Phase Inversion ECM I
+
+Name: Sedith
+Security: 1.7
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Aeon
+Weapon: Corpus X-Type Heavy Nosferatu
+
+
+Destroyed items:
+
+350mm Railgun II
+350mm Railgun II
+350mm Railgun II
+350mm Railgun II
+350mm Railgun II
+Antimatter Charge L, Qty: 139
+Sensor Booster II
+Tracking Computer II
+Large 'Accommodation' Vestment Reconstructer I
+1600mm Reinforced Rolled Tungsten Plates I
+Iridium Charge L, Qty: 5579 (Cargo)
+Antimatter Charge L, Qty: 693 (Cargo)
+Hammerhead I, Qty: 2 (Drone Bay)
+Valkyrie I (Drone Bay)
+

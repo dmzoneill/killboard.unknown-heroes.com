@@ -1,0 +1,47 @@
+2006.11.12 01:56
+
+Victim: Krist Valentine
+Alliance: None
+Corp: Freelancing Opportunists
+Destroyed: Caldari Shuttle
+System: EWOK-K
+Security: 0.0
+
+Involved parties:
+
+Name: Drashkar
+Security: 2.9
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Ferox
+Weapon: Widowmaker Heavy Missile
+
+Name: ventura5
+Security: 4.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Rook
+Weapon: Thunderbolt Fury Heavy Missile
+
+Name: jacass8496 (laid the final blow)
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Enyo
+Weapon: 150mm Prototype I Gauss Gun
+
+Name: Lysene
+Security: 0.4
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Thorax
+Weapon: Heavy Ion Blaster I
+
+Name: Enochios
+Security: 1.2
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Zealot
+Weapon: Heavy Anode Pulse Particle Stream I
+
+

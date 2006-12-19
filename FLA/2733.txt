@@ -1,0 +1,43 @@
+2007.03.04 08:16
+
+Victim: EM00
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Destroyed: Caracal
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Nevermore (laid the final blow)
+Security: 4.5
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Drake
+Weapon: Widowmaker Heavy Missile
+
+Name: FrankieG
+Security: -1.0
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Purifier
+Weapon: Paradise Cruise Missile
+
+Name: Shara El
+Security: 5.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Jaguar
+Weapon: 200mm AutoCannon II
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 60
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Large Shield Extender I
+Large Shield Extender I
+Sensor Booster I
+Scourge Heavy Missile, Qty: 2868 (Cargo)
+

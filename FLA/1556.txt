@@ -1,0 +1,53 @@
+2007.03.16 16:20
+
+Victim: Galaxor
+Alliance: YouWhat
+Corp: Beasts of Burden
+Destroyed: Armageddon
+System: XZH-4X
+Security: 0.0
+
+Involved parties:
+
+Name: MohamedLoftie (laid the final blow)
+Security: -0.8
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Absolution
+Weapon: Heavy Pulse Laser II
+
+Name: Spartan dax
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Drake
+Weapon: Widowmaker Heavy Missile
+
+Name: R4Z0R49
+Security: 4.5
+Alliance: Freelancer Alliance
+Corp: Feel Good Inc.
+Ship: Raven
+Weapon: Juggernaut Torpedo
+
+
+Destroyed items:
+
+Dual Heavy Modulated Pulse Energy Beam I
+Dual Heavy Modulated Pulse Energy Beam I
+Dual Heavy Modulated Pulse Energy Beam I
+Dual Heavy Modulated Pulse Energy Beam I
+Dual Heavy Modulated Pulse Energy Beam I
+Multifrequency L
+Multifrequency L
+Multifrequency L
+Multifrequency L
+100MN Afterburner I
+Co-Processor I
+Armor Thermic Hardener I
+Armor Explosive Hardener II
+Microwave L, Qty: 3 (Cargo)
+Cap Booster 800, Qty: 6 (Cargo)
+Ogre II, Qty: 2 (Drone Bay)
+Ogre I (Drone Bay)
+

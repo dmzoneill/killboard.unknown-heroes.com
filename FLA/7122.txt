@@ -1,0 +1,38 @@
+2006.12.27 05:46
+
+Victim: Jhon Howard
+Alliance: None
+Corp: Hedion University
+Destroyed: Impairor
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Maefly
+Security: -0.2
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Ishkur
+Weapon: Warrior II
+
+Name: Weeble Wooble (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Catalyst
+Weapon: 150mm Carbide Railgun I
+
+Name: NOCLUE
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: X.T.R
+Ship: Merlin
+Weapon: Initiated Harmonic Warp Jammer I
+
+
+Destroyed items:
+
+Civilian Gatling Pulse Laser
+Basic Miner
+

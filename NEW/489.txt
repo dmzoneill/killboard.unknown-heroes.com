@@ -1,0 +1,64 @@
+2007.04.03 06:38
+
+Victim: Admentus Cor'vion
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Destroyed: Deimos
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Kooter1 (laid the final blow)
+Security: 5.0
+Alliance: Federation Of united Corps
+Corp: Solaris Operations
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: ANNIHILATER
+Security: 3.3
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Myrmidon
+Weapon: Berserker I
+
+Name: misscoda
+Security: 4.5
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Raven
+Weapon: 'Arbalest' Cruise Launcher I
+
+Name: FlobbMkII
+Security: 4.4
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Eris
+Weapon: Light Electron Blaster II
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Heavy Electron Blaster II, Qty: 4
+Void M, Qty: 385
+10MN MicroWarpdrive I
+X5 Prototype I Engine Enervator
+Damage Control II
+Energized Adaptive Nano Membrane II, Qty: 2
+Armor Explosive Hardener II
+X-Large Shield Booster II (Cargo)
+1MN MicroWarpdrive II (Cargo)
+Small 'Ghoul' Energy Siphon I (Cargo)
+150mm Compressed Coil Gun I (Cargo)
+Thorium Charge L, Qty: 100 (Cargo)
+FZ-3 Subversive Spatial Destabilizer ECM (Cargo)
+ECCM - Gravimetric I (Cargo)
+Nanoelectrical Co-Processor I (Cargo)
+Spike S, Qty: 1653 (Cargo)
+Heavy Missile Launcher I (Cargo)
+Salvager I (Cargo)
+Ward Console, Qty: 3 (Cargo)
+Burned Logic Circuit, Qty: 4 (Cargo)
+Damaged Artificial Neural Network (Cargo)

@@ -1,0 +1,63 @@
+2006.10.06 05:20
+
+Victim: xBlood
+Alliance: None
+Corp: Privateers
+Destroyed: Cyclone
+System: Litiura
+Security: 0.5
+
+Involved parties:
+
+Name: Xavier Cardde
+Security: 2.9
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Ship: Taranis
+Weapon: J5b Phased Prototype Warp Inhibitor I
+
+Name: Mystical Angel
+Security: 3.5
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Hawk
+Weapon: Sabretooth Fury Light Missile
+
+Name: Rustiko
+Security: 1.7
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Enyo
+Weapon: Enyo
+
+Name: alon blackhelm (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Eagle
+Weapon: 250mm Compressed Coil Gun I
+
+
+Destroyed items:
+
+425mm AutoCannon I
+425mm AutoCannon I
+Phased Plasma M, Qty: 46
+Widowmaker Heavy Missile, Qty: 26
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Invulnerability Field I
+Ballistic Deflection Field I
+Medium Armor Repairer I
+Warp Core Stabilizer I
+Warp Core Stabilizer I
+Medium Clarity Ward Booster I (Cargo)
+10MN Afterburner I (Cargo)
+Gyrostabilizer I (Cargo)
+Nuclear M, Qty: 192 (Cargo)
+Proton M, Qty: 2182 (Cargo)
+Thunderbolt Heavy Missile, Qty: 24 (Cargo)
+Widowmaker Heavy Missile, Qty: 310 (Cargo)
+Heavy Missile Launcher I (Cargo)
+Valkyrie I, Qty: 3 (Drone Bay)
+

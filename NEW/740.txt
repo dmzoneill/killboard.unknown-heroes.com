@@ -1,0 +1,34 @@
+2007.05.30 10:23
+
+Victim: killer two
+Alliance: Phalanx Alliance
+Corp: Spectrum Solutions INC
+Destroyed: Minmatar Shuttle
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Mufeater (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Ares
+Weapon: Flameburst Light Missile
+
+Name: Guristas Destructor / Guristas
+
+Name: slayer avenger
+Security: 4.5
+Alliance: DeStInY.
+Corp: Legion Federation
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Veliki Pyotr
+Security: 1.1
+Alliance: DeStInY.
+Corp: The Knights Of Camelot
+Ship: Dominix
+Weapon: Hobgoblin II
+

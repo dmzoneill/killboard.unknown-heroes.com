@@ -1,0 +1,29 @@
+2007.02.03 04:26
+
+Victim: Kaptain Fitz
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Punisher
+System: Uemisaisen
+Security: 0.6
+
+Involved parties:
+
+Name: Rastilin (laid the final blow)
+Security: 3.9
+Alliance: Privateer Alliance
+Corp: Beyond Divinity Inc
+Ship: Astarte
+Weapon: Heavy Neutron Blaster II
+
+
+Destroyed items:
+
+Medium Pulse Laser I
+Medium Pulse Laser I
+Small Nosferatu I
+Xray S
+Xray S
+Small Armor Repairer I
+200mm Reinforced Rolled Tungsten Plates I (Cargo)
+

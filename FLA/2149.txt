@@ -1,0 +1,33 @@
+2007.01.24 23:16
+
+Victim: ISliverI
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Destroyed: Capsule
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Ysabelle nKataros
+Security: 2.5
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Muninn
+Weapon: Compact 'Limos' Assault Missile Bay I
+
+Name: Millis (laid the final blow)
+Security: 1.7
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Deimos
+Weapon: 250mm Railgun II
+
+Name: Chakolina
+Security: 0.3
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Unknown
+Weapon: 200mm Railgun II
+
+

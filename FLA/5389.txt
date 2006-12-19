@@ -1,0 +1,58 @@
+2007.04.28 17:04
+
+Victim: dastommy79
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Destroyed: Vexor
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Screamer
+Security: 1.0
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Flycatcher
+Weapon: Flameburst Light Missile
+
+Name: Reverend Revelator (laid the final blow)
+Security: 1.5
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Brutix
+Weapon: 200mm Compressed Coil Gun I
+
+Name: LeZip
+Security: 1.2
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Capsule
+Weapon: Warp Disruptor I
+
+Name: Hojou
+Security: 0.4
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Incursus
+Weapon: Incursus
+
+Name: Elrid Barnes
+Security: 1.8
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Manticore
+Weapon: 'Arbalest' Cruise Launcher I
+
+
+Destroyed items:
+
+Heavy Ion Blaster I
+Heavy Ion Blaster I
+Antimatter Charge M, Qty: 94
+10MN MicroWarpdrive I
+Warp Disruptor I
+Medium Armor Repairer I
+Armor Kinetic Hardener I
+Armor Explosive Hardener I
+

@@ -1,0 +1,25 @@
+2007.03.29 15:55
+
+Victim: Skysever
+Alliance: None
+Corp: Imperial Academy
+Destroyed: Impairor
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Solomon XI (laid the final blow)
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Caracal
+Weapon: Widowmaker Heavy Missile
+
+
+Destroyed items:
+
+Civilian Gatling Pulse Laser
+Basic Miner
+Veldspar, Qty: 92 (Cargo)
+

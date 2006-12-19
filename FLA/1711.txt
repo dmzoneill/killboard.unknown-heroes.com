@@ -1,0 +1,28 @@
+2007.01.01 16:48
+
+Victim: Serendipity007
+Alliance: Freelancer Alliance
+Corp: X.T.R
+Destroyed: Buzzard
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Murdoch Morf (laid the final blow)
+Security: 1.5
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Jaguar
+Weapon: 200mm AutoCannon II
+
+
+Destroyed items:
+
+Covert Ops Cloaking Device II
+1MN Afterburner II
+Co-Processor II
+Fathom Scanner Probe I, Qty: 40 (Cargo)
+Spook Scanner Probe I, Qty: 18 (Cargo)
+Snoop Scanner Probe I, Qty: 39 (Cargo)
+

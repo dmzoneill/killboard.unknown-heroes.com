@@ -1,0 +1,158 @@
+2007.03.28 21:29
+
+Victim: Hamos
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Destroyed: Raven
+System: H1-J33
+Security: 0.0
+
+Involved parties:
+
+Name: Kurai Amaro
+Security: 3.9
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Maelstrom
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Eelim Garak (laid the final blow)
+Security: 1.3
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Abaddon
+Weapon: Tachyon Beam Laser II
+
+Name: Thyago
+Security: 5.0
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Megathron
+Weapon: Megathron
+
+Name: WildCard
+Security: 4.3
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Maelstrom
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Keflin Geard
+Security: 5.0
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Megathron
+Weapon: Megathron
+
+Name: Lycra
+Security: -0.2
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Tempest
+Weapon: Assault Missile Launcher I
+
+Name: Gorfi tco
+Security: 3.9
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Apocalypse
+Weapon: Tachyon Beam Laser II
+
+Name: Topasio
+Security: 3.1
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Tempest
+Weapon: 1400mm Carbine Howitzer I
+
+Name: Louis DelaBlanche
+Security: 5.0
+Alliance: Chorus of Dawn
+Corp: Cosmic Odyssey
+Ship: Megathron
+Weapon: 425mm Compressed Coil Gun I
+
+Name: mr ioso
+Security: 4.8
+Alliance: Chorus of Dawn
+Corp: Cosmic Odyssey
+Ship: Scorpion
+Weapon: ECM - Spatial Destabilizer II
+
+Name: Primos Gun
+Security: 3.6
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Rokh
+Weapon: 425mm 'Scout' I Accelerator Cannon
+
+Name: 1Of9
+Security: 4.6
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Megathron
+Weapon: 425mm Railgun I
+
+Name: Capt Crazee
+Security: 5.0
+Alliance: Chorus of Dawn
+Corp: Cosmic Odyssey
+Ship: Rokh
+Weapon: 425mm 'Scout' I Accelerator Cannon
+
+Name: derBERG
+Security: 5.0
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Ship: Armageddon
+Weapon: Mega Modulated Energy Beam I
+
+Name: Diego Barbera
+Security: -0.2
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Taranis
+Weapon: Taranis
+
+Name: Lance I
+Security: 4.5
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Prophecy
+Weapon: Focused Medium Beam Laser I
+
+Name: mama guru
+Security: 2.8
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Ship: Enyo
+Weapon: Enyo
+
+Name: khazid
+Security: 5.0
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Ship: Raven
+Weapon: Siege Missile Launcher I
+
+
+Destroyed items:
+
+Heavy Nosferatu I
+Heavy Nosferatu I
+Wrath Cruise Missile, Qty: 23
+Cruise Missile Launcher I
+Large F-S9 Regolith Shield Induction
+X-Large Shield Booster I
+Photon Scattering Field I
+Sensor Booster I
+Ballistic Control System I
+Type-D Power Core Modification: Diagnostic System
+Type-D Power Core Modification: Diagnostic System
+Heat Dissipation Amplifier I (Cargo)
+Kinetic Deflection Amplifier I (Cargo)
+5a Prototype Shield Support I (Cargo)
+Paradise Cruise Missile, Qty: 71 (Cargo)
+Wrath Cruise Missile, Qty: 3692 (Cargo)
+Acolyte I, Qty: 9 (Drone Bay)
+

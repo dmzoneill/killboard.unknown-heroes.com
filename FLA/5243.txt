@@ -1,0 +1,31 @@
+2007.04.27 18:20
+
+Victim: Trigger64
+Alliance: Firmus Ixion
+Corp: Black Avatar
+Destroyed: Taranis
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Shassandra (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Ishkur
+Weapon: Light Neutron Blaster II
+
+Name: Guristas Dismantler / Guristas
+
+
+Destroyed items:
+
+E5 Prototype Energy Vampire
+Light Ion Blaster II
+Void S, Qty: 218
+X5 Prototype I Engine Enervator
+Micro Auxiliary Power Core I
+Void S, Qty: 4637 (Cargo)
+Warrior I (Drone Bay)
+

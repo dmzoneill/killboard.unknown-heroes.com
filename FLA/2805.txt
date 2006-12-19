@@ -1,0 +1,155 @@
+2007.03.10 04:38
+
+Victim: Downeaster
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Destroyed: Brutix
+System: Y-C3EQ
+Security: 0.0
+
+Involved parties:
+
+Name: Aurael Drakewing
+Security: -7.4
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Harpy
+Weapon: Harpy
+
+Name: DeathGrip
+Security: 2.3
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Flycatcher
+Weapon: Foxfire Javelin Rocket
+
+Name: ShadowDemon
+Security: -1.4
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Hawk
+Weapon: Phalanx Javelin Rocket
+
+Name: shadow5150
+Security: 3.8
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Rapier
+Weapon: Valkyrie II
+
+Name: Rif
+Security: 5.0
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Retribution
+Weapon: Retribution
+
+Name: kIM JONGELL
+Security: 4.8
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Harpy
+Weapon: Harpy
+
+Name: Uthreignish
+Security: 5.5
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Wolf
+Weapon: Wolf
+
+Name: xCERBERUS2
+Security: -0.8
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: kezz2411
+Security: 5.3
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Crusader
+Weapon: Crusader
+
+Name: Hansihandyr
+Security: 4.6
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Taranis
+Weapon: Taranis
+
+Name: FireFox McProwler
+Security: 0.0
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Meeat
+Security: 3.7
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Raptor
+Weapon: Bloodclaw Light Missile
+
+Name: MsMephistopheles
+Security: 2.2
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Ishkur
+Weapon: Warrior II
+
+Name: IamnobodyCL
+Security: 5.0
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Crusader
+Weapon: Crusader
+
+Name: SN 1121666 (laid the final blow)
+Security: 0.6
+Alliance: Axiom Empire
+Corp: Regalis Industria Scientia Entreprendre
+Ship: Rifter
+Weapon: 200mm AutoCannon I
+
+Name: merckiller
+Security: 1.0
+Alliance: Xelas Alliance
+Corp: Requiem of Hades
+Ship: Crow
+Weapon: Piranha Light Missile
+
+Name: Talon Kell
+Security: 5.1
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Taranis
+Weapon: Light Electron Blaster II
+
+Name: Criosachille
+Security: 3.4
+Alliance: Xelas Alliance
+Corp: Catalyst Reaction
+Ship: Taranis
+Weapon: Anode Light Neutron Particle Cannon I
+
+
+Destroyed items:
+
+Heavy Neutron Blaster I
+Heavy Neutron Blaster I
+Heavy Neutron Blaster I
+150mm Prototype I Gauss Gun
+Thorium Charge M, Qty: 240
+10MN MicroWarpdrive I
+Stasis Webifier I
+Supplemental Scanning CPU I
+Microcell Nanite Thermic Hardener I
+Armor Explosive Hardener I
+Antimatter Charge M, Qty: 99 (Cargo)
+Antimatter Charge S, Qty: 175 (Cargo)
+Acolyte I, Qty: 3 (Drone Bay)
+Warrior I, Qty: 5 (Drone Bay)
+

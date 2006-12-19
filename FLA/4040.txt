@@ -1,0 +1,125 @@
+2007.04.10 13:50
+
+Victim: END3R 101
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Destroyed: Damnation
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Nukuquqa Hestase
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Crow
+Weapon: Einherji
+
+Name: MrMaggot
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Manticore
+Weapon: Dragonfly
+
+Name: FlobbMkII
+Security: 4.4
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Eris
+Weapon: Dragonfly
+
+Name: ifeelit2
+Security: 5.0
+Alliance: Forces of Freedom
+Corp: Just Cloned Again
+Ship: Ishkur
+Weapon: Warrior II
+
+Name: Teck7
+Security: 1.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Arazu
+Weapon: Hammerhead II
+
+Name: ClogMan (laid the final blow)
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Jaguar
+Weapon: 150mm Light AutoCannon II
+
+Name: Epro
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Vigil
+Weapon: Small Nosferatu I
+
+Name: Bobby Atlas
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Thanatos
+Weapon: Einherji
+
+
+Destroyed items:
+
+Focused Medium Pulse Laser II
+Medium 'Knave' I Energy Drain
+Medium 'Ghoul' Energy Siphon I
+J5 Prototype Warp Inhibitor I
+Damage Control II
+Medium Armor Repairer II
+Medium Armor Repairer II
+Armor Kinetic Hardener II
+Medium Standard Container (Cargo)
+Standard M, Qty: 3 (Cargo)
+Multifrequency M, Qty: 8 (Cargo)
+Cap Booster 800, Qty: 11 (Cargo)
+Maulus Blueprint (Cargo)
+Tormentor Blueprint (Cargo)
+Bantam Blueprint (Cargo)
+Condor Blueprint (Cargo)
+Navitas Blueprint (Cargo)
+Merlin Blueprint (Cargo)
+Tristan Blueprint (Cargo)
+Breacher Blueprint (Cargo)
+Thorax Blueprint (Cargo)
+Raven Blueprint, Qty: 3 (Cargo)
+Apocalypse Blueprint (Cargo)
+Light Neutron Blaster I Blueprint (Cargo)
+EMP M Blueprint (Cargo)
+Scourge Heavy Missile Blueprint (Cargo)
+Juggernaut Torpedo Blueprint (Cargo)
+Medium Armor Maintenance Bot I Blueprint (Cargo)
+Hammerhead I Blueprint (Cargo)
+Guided Missile Precision (Cargo)
+Caldari Battleship (Cargo)
+Presence (Cargo)
+Kinetic Shield Compensation (Cargo)
+Tactical Shield Manipulation (Cargo)
+Turret Destabilization (Cargo)
+Cloaking (Cargo)
+Heavy Drone Operation (Cargo)
+Drone Sharpshooting (Cargo)
+Caldari Drone Specialization (Cargo)
+Drone Interfacing, Qty: 2 (Cargo)
+Drone Navigation (Cargo)
+Gallente Drone Specialization (Cargo)
+Drones (Cargo)
+Scout Drone Operation (Cargo)
+Armor EM Hardener II (Cargo)
+Micro Auxiliary Power Core I Blueprint (Cargo)
+Muon Coil Bolt Array I (Cargo)
+Conflagration M, Qty: 6 (Cargo)
+Scorch M (Cargo)
+Brutix Blueprint (Cargo)
+Ferox Blueprint, Qty: 2 (Cargo)
+Drake Blueprint (Cargo)
+Local Power Plant Manager: Capacitor Flux I (Cargo)
+Cargohold Optimization I Blueprint (Cargo)
+

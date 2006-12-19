@@ -1,0 +1,27 @@
+2006.10.26 01:20
+
+Victim: Dudley1975
+Alliance: None
+Corp: Lemmings Inc
+Destroyed: Kestrel
+System: G-M4I8
+Security: 0.0
+
+Involved parties:
+
+Name: Soliloquil (laid the final blow)
+Security: 3.7
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Moa
+Weapon: Flameburst Light Missile
+
+
+Destroyed items:
+
+Phalanx Rocket, Qty: 26
+Rocket Launcher I
+1MN MicroWarpdrive I
+125mm Railgun II (Cargo)
+Phalanx Rocket, Qty: 316 (Cargo)
+

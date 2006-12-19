@@ -1,0 +1,58 @@
+2007.01.02 07:38
+
+Victim: morgan travis
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Destroyed: Bustard
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Anna Neura
+Security: -0.2
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Arazu
+Weapon: Hammerhead II
+
+Name: boo3916 (laid the final blow)
+Security: 4.5
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: g3cko
+Security: -2.6
+Alliance: None
+Corp: omen.
+Ship: Zealot
+Weapon: Zealot
+
+Name: Evelyn Mulwray
+Security: 0.8
+Alliance: None
+Corp: omen.
+Ship: Dominix
+Weapon: Hobgoblin II
+
+Name: Spinsq
+Security: 0.1
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Dominix
+Weapon: 250mm Railgun II
+
+
+Destroyed items:
+
+Heat Dissipation Amplifier II
+Warp Core Stabilizer I
+Expanded Cargohold I
+Expanded Cargohold I
+Expanded Cargohold I
+Expanded Cargohold I
+Giant Secure Container (Cargo)
+Mobile Laboratory (Cargo)
+

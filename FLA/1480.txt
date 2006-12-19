@@ -1,0 +1,54 @@
+2007.03.14 00:45
+
+Victim: Erikel
+Alliance: Chorus of Dawn
+Corp: Cosmic Odyssey
+Destroyed: Catalyst
+System: O-BDXB
+Security: 0.0
+
+Involved parties:
+
+Name: sakana
+Security: -0.9
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Eris
+Weapon: Eris
+
+Name: RubberDuckey (laid the final blow)
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Blackwater Squadron
+Ship: Raven
+Weapon: Paradise Precision Cruise Missile
+
+Name: iNFoRMaLiTY
+Security: -7.9
+Alliance: Freelancer Alliance
+Corp: Blackwater Squadron
+Ship: Megathron
+Weapon: Megathron
+
+Name: Leonardo Sabrioski
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Crow
+Weapon: Foxfire Rocket
+
+Name: XxSOULxX
+Security: -1.2
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Megathron
+Weapon: Megathron
+
+Name: Downeaster
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Catalyst
+Weapon: Catalyst
+
+

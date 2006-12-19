@@ -1,0 +1,100 @@
+2007.04.09 02:00
+
+Victim: Ramb3z
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Destroyed: Tempest
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Redginald
+Security: 4.5
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Hurricane
+Weapon: Warrior II
+
+Name: END3R 101
+Security: -0.7
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Damnation
+Weapon: Damnation
+
+Name: LUCKY HEADY (laid the final blow)
+Security: -1.7
+Alliance: S.E.R.A
+Corp: Seraphin Technologies
+Ship: Tempest
+Weapon: Valkyrie II
+
+Name: ER0X
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Zealot
+Weapon: Zealot
+
+Name: Rukaz
+Security: 3.1
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Crow
+Weapon: 'Arbalest' Standard Missile Launcher
+
+Name: Myal Terego
+Security: -2.6
+Alliance: S.E.R.A
+Corp: Seraphin Technologies
+Ship: Archon
+Weapon: Einherji
+
+Name: c0rn1
+Security: -2.1
+Alliance: S.E.R.A
+Corp: Seraphin Technologies
+Ship: Nidhoggur
+Weapon: Einherji
+
+Name: Skinny Boy
+Security: 4.1
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Thanatos
+Weapon: Dragonfly
+
+Name: Myndpyre Ryche
+Security: 4.2
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Nighthawk
+Weapon: Heavy Missile Launcher II
+
+Name: Morgena
+Security: -0.8
+Alliance: S.E.R.A
+Corp: Seraphin Technologies
+Ship: Thanatos
+Weapon: Firbolg
+
+
+Destroyed items:
+
+1400mm Howitzer Artillery I
+1400mm Howitzer Artillery I
+1400mm Howitzer Artillery I
+Carbonized Lead L, Qty: 15
+Widowmaker Heavy Missile, Qty: 23
+Havoc Heavy Missile, Qty: 23
+Heavy Missile Launcher I
+Tracking Computer II
+Tracking Computer II
+Gyrostabilizer II
+Damage Control I
+F-89 Synchronized Signal Amplifier
+Tracking Enhancer II
+Tracking Enhancer II
+EMP L, Qty: 944 (Cargo)
+

@@ -1,0 +1,45 @@
+2007.04.04 09:17
+
+Victim: DarkAvenger DK
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Thorax
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Xordus (laid the final blow)
+Security: 0.5
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Armageddon
+Weapon: Mega Modulated Pulse Energy Beam I
+
+Name: Nipplator
+Security: -0.5
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Lorn Zolog
+Security: -1.3
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Armageddon
+Weapon: Dual Heavy Pulse Laser II
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Small 'Ghoul' Energy Siphon I
+Kapteyn Sensor Array Inhibitor I
+Medium Armor Repairer II
+Reactive Plating II
+Adaptive Nano Plating I
+Nanofiber Internal Structure I
+Cap Booster 800, Qty: 8 (Cargo)
+Hobgoblin II, Qty: 4 (Drone Bay)
+

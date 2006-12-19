@@ -1,0 +1,70 @@
+2006.11.09 22:12
+
+Victim: Dazzio
+Alliance: None
+Corp: The Initiative
+Destroyed: Brutix
+System: Ibura
+Security: 0.6
+
+Involved parties:
+
+Name: Seventh Star (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Hound
+Weapon: Wrath Cruise Missile
+
+Name: Formosus Funus
+Security: 3.8
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Jaguar
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: Barukor
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Stiletto
+Weapon: Gremlin Rocket
+
+Name: Skornik
+Security: 3.5
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Celestis
+Weapon: Hammerhead I
+
+Name: kone on
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: Wthor
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Sabre
+Weapon: Sabre
+
+
+Destroyed items:
+
+Medium 'Ghoul' Energy Siphon I
+Medium 'Ghoul' Energy Siphon I
+Void M, Qty: 99
+Cap Recharger I
+10MN MicroWarpdrive I
+'Langour' Drive Disruptor I
+Medium Armor Repairer II
+Medium Armor Repairer II
+Corpse (Cargo)
+Antimatter Charge M, Qty: 4552 (Cargo)
+Void M, Qty: 1066 (Cargo)
+Parallel Weapon Navigation Transmitter (Cargo)
+Advanced 'Limos' Heavy Missile Bay I (Cargo)
+

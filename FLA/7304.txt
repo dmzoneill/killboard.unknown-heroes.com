@@ -1,0 +1,33 @@
+2006.08.07 22:12
+
+Victim: Cassandra Sierra
+Alliance: None
+Corp: ATROX.
+Destroyed: Capsule
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: XxAngelxX
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Crusader
+Weapon: Crusader
+
+Name: Ne0 MaTrIx
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Taranis
+Weapon: 150mm 'Scout' I Accelerator Cannon
+
+Name: DevilSlayer (laid the final blow)
+Security: 3.7
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Crow
+Weapon: Sabretooth Light Missile
+
+

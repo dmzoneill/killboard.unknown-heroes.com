@@ -1,0 +1,24 @@
+2006.10.23 08:24
+
+Victim: Bonnie Makesi
+Alliance: None
+Corp: Science and Trade Institute
+Destroyed: Procurer
+System: Korama
+Security: 0.8
+
+Involved parties:
+
+Name: SleepyOSU (laid the final blow)
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: Sin-X Inc.
+Ship: Vexor
+Weapon: Hammerhead I
+
+
+Destroyed items:
+
+Civilian Shield Booster I
+Acolyte I (Drone Bay)
+

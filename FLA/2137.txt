@@ -1,0 +1,25 @@
+2007.01.24 10:34
+
+Victim: Teck7
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Iteron Mark III
+System: JU-OWQ
+Security: 0.0
+
+Involved parties:
+
+Name: Ahrnyarrr (laid the final blow)
+Security: -10.0
+Alliance: None
+Corp: Swashbucklers
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+
+Destroyed items:
+
+Cynosural Field Generator I
+10MN Afterburner I
+Expanded Cargohold I
+

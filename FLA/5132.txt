@@ -1,0 +1,51 @@
+2007.04.22 04:35
+
+Victim: Unholy Xias
+Alliance: Freelancer Alliance
+Corp: Terminal Velocity Inc.
+Destroyed: Retribution
+System: Jita
+Security: 0.9
+
+Involved parties:
+
+Name: Audemed (laid the final blow)
+Security: -2.0
+Alliance: Privateer Alliance
+Corp: Wraiths Reborn
+Ship: Abaddon
+Weapon: Mega Modulated Pulse Energy Beam I
+
+Name: 0o0Preatorian0o0
+Security: -1.8
+Alliance: Privateer Alliance
+Corp: mUfFiN fAcToRy
+Ship: Cormorant
+Weapon: Cormorant
+
+Name: Aarete
+Security: 0.6
+Alliance: Privateer Alliance
+Corp: Association Of United Bastards
+Ship: Thorax
+Weapon: Thorax
+
+Name: Steakkbone
+Security: 4.6
+Alliance: Privateer Alliance
+Corp: Beyond Divinity Inc
+Ship: Armageddon
+Weapon: Armageddon
+
+
+Destroyed items:
+
+Medium Pulse Laser II
+Scorch S
+Scorch S
+Scorch S
+Dark Blood Adaptive Nano Plating
+Thermic Plating II
+Scorch S, Qty: 8 (Cargo)
+Conflagration S, Qty: 4 (Cargo)
+

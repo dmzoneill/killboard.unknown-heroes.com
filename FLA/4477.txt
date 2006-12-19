@@ -1,0 +1,59 @@
+2007.04.11 09:55
+
+Victim: Sy Sperling
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Drake
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Ronald Speirs
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Nidhoggur
+Weapon: Dragonfly
+
+Name: Eleese (laid the final blow)
+Security: -0.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Dominix
+Weapon: Ogre II
+
+Name: kapten sortebil
+Security: 4.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Raptor
+Weapon: Raptor
+
+Name: AIRB
+Security: 3.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Curse
+Weapon: Balmer Series Targeting Inhibitor I
+
+
+Destroyed items:
+
+Havoc Heavy Missile, Qty: 26
+Thunderbolt Heavy Missile, Qty: 13
+Widowmaker Heavy Missile, Qty: 13
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Large Subordinate Screen Stabilizer I
+'Anointed' I EM Ward Reinforcement
+Invulnerability Field I
+Sensor Booster I
+Ballistic Control System I
+Ballistic Control System I
+Ballistic Control System I
+Scourge Heavy Missile, Qty: 600 (Cargo)
+Widowmaker Heavy Missile, Qty: 218 (Cargo)
+

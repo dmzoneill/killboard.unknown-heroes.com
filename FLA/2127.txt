@@ -1,0 +1,38 @@
+2007.01.23 18:13
+
+Victim: bodyck
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Destroyed: Raven
+System: C4C-Z4
+Security: 0.0
+
+Involved parties:
+
+Name: aadom (laid the final blow)
+Security: 3.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Dominix
+Weapon: Ogre II
+
+
+Destroyed items:
+
+Juggernaut Torpedo, Qty: 12
+ZW-4100 Siege Missile Bay
+ZW-4100 Siege Missile Bay
+ZW-4100 Siege Missile Bay
+Small Tractor Beam I
+Heat Dissipation Field I
+Heat Dissipation Field I
+Heat Dissipation Amplifier I
+Power Diagnostic System I
+Power Diagnostic System I
+Power Diagnostic System I
+Power Diagnostic System I
+Large Capacitor Battery I (Cargo)
+350mm Railgun I (Cargo)
+Heavy Capacitor Booster I (Cargo)
+Berserker I (Cargo)
+

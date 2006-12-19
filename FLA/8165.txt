@@ -1,0 +1,32 @@
+2006.10.23 23:30
+
+Victim: Gangreen
+Alliance: Freelancer Alliance
+Corp: BGG
+Destroyed: Incursus
+System: MI6O-6
+Security: 0.0
+
+Involved parties:
+
+Name: Anominity (laid the final blow)
+Security: 4.7
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Apocalypse
+Weapon: Tachyon Beam Laser II
+
+
+Destroyed items:
+
+75mm 'Scout' I Accelerator Cannon
+75mm Gatling Rail I
+Iridium Charge S, Qty: 358
+200mm 'Scout' I Accelerator Cannon (Cargo)
+Antimatter Charge M, Qty: 30 (Cargo)
+Antimatter Charge S, Qty: 1000 (Cargo)
+Infiltrator I (Cargo)
+'Malkuth' Heavy Missile Launcher I, Qty: 2 (Cargo)
+Type-E Power Core Modification: Diagnostic System (Cargo)
+Type-D Power Core Modification: Diagnostic System, Qty: 2 (Cargo)
+

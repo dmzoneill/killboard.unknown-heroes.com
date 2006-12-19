@@ -1,0 +1,31 @@
+2006.11.24 08:06
+
+Victim: Alpha Dash
+Alliance: Ascendant Frontier
+Corp: Wings of Turul
+Destroyed: Ibis
+System: JU-OWQ
+Security: 0.0
+
+Involved parties:
+
+Name: HUN Riker (laid the final blow)
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Noitaakka
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Thorax
+Weapon: Vespa I
+
+
+Destroyed items:
+
+Basic Miner
+Tritanium (Cargo)
+

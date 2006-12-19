@@ -1,0 +1,44 @@
+2006.11.30 18:11
+
+Victim: HoanNguyen
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Badger Mark II
+System: Torrinos
+Security: 0.5
+
+Involved parties:
+
+Name: Elliott Manchild (laid the final blow)
+Security: -1.6
+Alliance: None
+Corp: omen.
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: starius3
+Security: 1.2
+Alliance: None
+Corp: omen.
+Ship: Ishtar
+Weapon: Warp Disruptor I
+
+Name: Unfortunate Accident
+Security: -1.3
+Alliance: None
+Corp: omen.
+Ship: Ishtar
+Weapon: 125mm Railgun II
+
+Name: Garath Dirk
+Security: -0.9
+Alliance: None
+Corp: omen.
+Ship: Raptor
+Weapon: Rocket Launcher II
+
+
+Destroyed items:
+
+Y-S8 Hydrocarbon I Afterburners
+

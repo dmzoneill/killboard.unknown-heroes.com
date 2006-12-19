@@ -1,0 +1,30 @@
+2007.03.16 11:55
+
+Victim: Ocara Nezus
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Hawk
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: stich626 (laid the final blow)
+Security: -1.9
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Brutix
+Weapon: Heavy Electron Blaster II
+
+
+Destroyed items:
+
+Standard Missile Launcher II
+Standard Missile Launcher II
+Bloodclaw Fury Light Missile, Qty: 144
+Small Shield Extender I
+Small Shield Booster I
+Initiated Warp Jammer I
+Parallel Weapon Navigation Transmitter (Cargo)
+Beta Reactor Control: Diagnostic System I (Cargo)
+

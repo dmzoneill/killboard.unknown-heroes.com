@@ -1,0 +1,40 @@
+2007.03.14 00:46
+
+Victim: Derfel Kadarn
+Alliance: Chorus of Dawn
+Corp: Infinite Style Incorporated
+Destroyed: Capsule
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: digital oxygen (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Keshein
+Security: 3.0
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Ship: Cormorant
+Weapon: Cormorant
+
+Name: FlobbMkII
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Taranis
+Weapon: Taranis
+
+Name: Blair Quawn
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Caracal
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+

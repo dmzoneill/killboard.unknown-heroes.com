@@ -1,0 +1,107 @@
+2007.01.11 20:40
+
+Victim: Feyd Mantis
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Destroyed: Tempest
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: ClogMan
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Raven
+Weapon: 'Limos' Cruise Launcher I
+
+Name: white kight
+Security: 0.3
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Burn Lump
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Caracal
+Weapon: Remote Sensor Dampener I
+
+Name: Inter Fectum
+Security: 1.5
+Alliance: Freelancer Alliance
+Corp: Sin-X Inc.
+Ship: Rifter
+Weapon: Rifter
+
+Name: Kalibrana (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Brutix
+Weapon: Hammerhead I
+
+Name: Korudon
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Caracal
+Weapon: Widowmaker Heavy Missile
+
+Name: Muad' Dib
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Raptor
+Weapon: Raptor
+
+Name: Vertigel Symorain
+Security: 0.7
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Tristan
+Weapon: Sabretooth Light Missile
+
+Name: Barkel
+Security: 0.4
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Scythe
+Weapon: Scythe
+
+Name: Xantheris
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Celestis
+Weapon: Remote Sensor Dampener I
+
+
+Destroyed items:
+
+1200mm Artillery Cannon II
+1200mm Artillery Cannon II
+Medium Energy Neutralizer II
+EMP L, Qty: 15
+Remote Sensor Dampener II
+Sensor Booster II
+Gyrostabilizer II
+Large 'Accommodation' Vestment Reconstructer I
+Light Electron Blaster II (Cargo)
+350mm Railgun I (Cargo)
+Depleted Uranium L, Qty: 951 (Cargo)
+Carbonized Lead L, Qty: 1071 (Cargo)
+Xray L (Cargo)
+Vespa I (Cargo)
+Wasp I, Qty: 2 (Cargo)
+Hornet I (Cargo)
+Microcell Nanite Kinetic Hardener I (Cargo)
+Ballistic Control System I (Cargo)
+Tremor L, Qty: 657 (Cargo)
+XT-9000 Cruise Launcher, Qty: 2 (Cargo)
+Salvager I (Cargo)
+Type-D Power Core Modification: Capacitor Power Relay (Cargo)
+

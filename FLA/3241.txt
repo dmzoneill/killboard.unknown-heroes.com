@@ -1,0 +1,91 @@
+2007.03.21 16:34
+
+Victim: Lord Wipeout
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Destroyed: Drake
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Guristas Exterminator / Guristas
+
+Name: Roxanna Kell
+Security: -1.3
+Alliance: Triumvirate.
+Corp: ViperSquad
+Ship: Cerberus
+Weapon: Terror Assault Missile
+
+Name: PainBall
+Security: -0.9
+Alliance: Triumvirate.
+Corp: ViperSquad
+Ship: Absolution
+Weapon: Absolution
+
+Name: Yushii
+Security: -0.3
+Alliance: Triumvirate.
+Corp: ViperSquad
+Ship: Muninn
+Weapon: 720mm Howitzer Artillery II
+
+Name: K Shara
+Security: 3.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Cerberus
+Weapon: Scourge Fury Heavy Missile
+
+Name: Sith Bandon (laid the final blow)
+Security: 5.0
+Alliance: Triumvirate.
+Corp: ViperSquad
+Ship: Ishtar
+Weapon: Ogre II
+
+Name: eRogue
+Security: 0.0
+Alliance: Triumvirate.
+Corp: ViperSquad
+Ship: Brutix
+Weapon: Heavy Ion Blaster II
+
+Name: Alchem
+Security: 2.9
+Alliance: Triumvirate.
+Corp: ViperSquad
+Ship: Ishtar
+Weapon: Warrior II
+
+Name: WarGod
+Security: 1.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Curse
+Weapon: Valkyrie II
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 56
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Large Shield Extender I
+Ballistic Deflection Field I
+Shield Boost Amplifier II
+Damage Control I
+Large S95a Partial Shield Transporter (Cargo)
+Large Shield Transporter I (Cargo)
+Survey Scanner I (Cargo)
+Small Hull Repairer I (Cargo)
+Medium Murky Energy Transmitter I (Cargo)
+350mm Carbide Railgun I (Cargo)
+Thorium Charge L, Qty: 100 (Cargo)
+Cataclysm Cruise Missile, Qty: 100 (Cargo)
+Ward Console, Qty: 3 (Cargo)
+Power Diagnostic System I (Cargo)
+Warrior I, Qty: 3 (Drone Bay)
+

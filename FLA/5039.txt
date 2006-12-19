@@ -1,0 +1,36 @@
+2007.04.21 04:09
+
+Victim: Primaxin
+Alliance: Freelancer Alliance
+Corp: Harbingers of Sarrow
+Destroyed: Caracal
+System: 2R-CRW
+Security: 0.0
+
+Involved parties:
+
+Name: Chris Reed (laid the final blow)
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Thanatos
+Weapon: Templar
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 62
+Scourge Heavy Missile, Qty: 26
+Havoc Heavy Missile, Qty: 27
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+10MN Afterburner I
+Magnetic Scattering Amplifier I
+Magnetic Scattering Amplifier I (Cargo)
+Ballistic Control System I (Cargo)
+Sabretooth Light Missile, Qty: 400 (Cargo)
+Bloodclaw Light Missile, Qty: 400 (Cargo)
+Widowmaker Heavy Missile, Qty: 400 (Cargo)
+Thunderbolt Heavy Missile, Qty: 400 (Cargo)
+Hornet EC-300, Qty: 2 (Drone Bay)
+

@@ -1,0 +1,19 @@
+2007.03.31 22:20
+
+Victim: CptDelta
+Alliance: S.E.R.A
+Corp: Seraphin Technologies
+Destroyed: Caldari Shuttle
+System: P-2TTL
+Security: 0.0
+
+Involved parties:
+
+Name: alon blackhelm (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Manticore
+Weapon: Cataclysm Precision Cruise Missile
+
+

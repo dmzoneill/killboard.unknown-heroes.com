@@ -1,0 +1,77 @@
+2007.04.01 06:56
+
+Victim: Christopher Cook
+Alliance: Freelancer Alliance
+Corp: Terminal Velocity Inc.
+Destroyed: Nighthawk
+System: 3QE-9Q
+Security: 0.0
+
+Involved parties:
+
+Name: Sexorella hotz
+Security: 2.9
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Brutix
+Weapon: Hammerhead II
+
+Name: Vasili Z (laid the final blow)
+Security: 0.3
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Huginn
+Weapon: Hammerhead II
+
+Name: Lord Revent
+Security: 1.5
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Huginn
+Weapon: Vespa II
+
+Name: Lorn Zolog
+Security: -1.3
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Harbinger
+Weapon: Focused Medium Pulse Laser II
+
+Name: Erikel
+Security: 4.5
+Alliance: Chorus of Dawn
+Corp: Cosmic Odyssey
+Ship: Myrmidon
+Weapon: Wasp I
+
+Name: mr ioso
+Security: 4.4
+Alliance: Chorus of Dawn
+Corp: Cosmic Odyssey
+Ship: Myrmidon
+Weapon: Warrior I
+
+Name: Anomaly21
+Security: -1.0
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Havoc Heavy Missile, Qty: 18
+Thunderbolt Heavy Missile, Qty: 18
+Widowmaker Heavy Missile, Qty: 18
+Scourge Heavy Missile, Qty: 18
+Heavy Missile Launcher II
+Heavy Missile Launcher II
+Medium Shield Booster II
+Explosion Dampening Field II
+Photon Scattering Field II
+Invulnerability Field II
+Ballistic Control System II
+Power Diagnostic System II
+

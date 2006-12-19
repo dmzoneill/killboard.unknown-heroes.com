@@ -1,0 +1,23 @@
+2007.01.05 21:26
+
+Victim: Ren Surkova
+Alliance: The SUdden Death Squad
+Corp: FM Corp
+Destroyed: Ibis
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: SniperMcBob (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Harpy
+Weapon: 125mm Railgun II
+
+
+Destroyed items:
+
+Civilian Gatling Railgun
+

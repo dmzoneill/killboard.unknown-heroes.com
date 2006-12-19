@@ -1,0 +1,27 @@
+2007.01.16 23:11
+
+Victim: Prodigal IV
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Destroyed: Incursus
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: SATAN (laid the final blow)
+Security: -0.7
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Warrior II
+
+
+Destroyed items:
+
+Antimatter Charge S, Qty: 98
+Faint Warp Prohibitor I
+Energized Adaptive Nano Membrane I
+Plutonium Charge S, Qty: 1000 (Cargo)
+Antimatter Charge S, Qty: 47 (Cargo)
+

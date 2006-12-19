@@ -1,0 +1,47 @@
+2007.01.15 19:02
+
+Victim: Belos Taoris
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Catalyst
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Incinate
+Security: 2.6
+Alliance: None
+Corp: 0utbreak
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Leilani Solaris
+Security: -1.6
+Alliance: None
+Corp: 0utbreak
+Ship: Sacrilege
+Weapon: Sacrilege
+
+Name: EnglishBob
+Security: 0.3
+Alliance: None
+Corp: 0utbreak
+Ship: Curse
+Weapon: Scourge Heavy Missile
+
+Name: Vorag (laid the final blow)
+Security: -0.7
+Alliance: None
+Corp: 0utbreak
+Ship: Vagabond
+Weapon: Dual 180mm AutoCannon II
+
+
+Destroyed items:
+
+150mm Railgun I
+Tungsten Charge S, Qty: 200
+Tungsten Charge S, Qty: 1760 (Cargo)
+Antimatter Charge S, Qty: 2000 (Cargo)
+Plutonium Charge S, Qty: 2000 (Cargo)

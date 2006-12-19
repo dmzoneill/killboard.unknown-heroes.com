@@ -1,0 +1,42 @@
+2006.10.09 06:45
+
+Victim: Morfane
+Alliance: None
+Corp: Privateers
+Destroyed: Dominix
+System: Litiura
+Security: 0.5
+
+Involved parties:
+
+Name: alon blackhelm (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Ferox
+Weapon: 250mm Compressed Coil Gun I
+
+Name: Rustiko
+Security: 1.8
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Capsule
+Weapon: TE-2100 Standard Missile Bay
+
+Name: Guristas Saboteur / Guristas
+
+Name: Dyanicia
+Security: 0.3
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Catalyst
+Weapon: Small 'Knave' I Energy Drain
+
+
+Destroyed items:
+
+Heavy Nosferatu I
+100MN MicroWarpdrive II
+J5 Prototype Warp Inhibitor I
+Warden I, Qty: 5 (Drone Bay)
+

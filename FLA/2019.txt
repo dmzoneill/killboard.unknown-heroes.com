@@ -1,0 +1,47 @@
+2007.01.17 17:50
+
+Victim: Carnelian Solus
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Celestis
+System: Elarel
+Security: 0.4
+
+Involved parties:
+
+Name: Snake7474 (laid the final blow)
+Security: -2.6
+Alliance: Xelas Alliance
+Corp: Catalyst Reaction
+Ship: Arbitrator
+Weapon: Hammerhead I
+
+Name: Rico Naginata
+Security: -8.8
+Alliance: Xelas Alliance
+Corp: Catalyst Reaction
+Ship: Merlin
+Weapon: Thorn Rocket
+
+Name: Serpentis Chief Scout / Serpentis Corporation
+
+
+Destroyed items:
+
+Guardian Iron Charge S, Qty: 162
+Piranha Light Missile, Qty: 47
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Assault Missile Launcher I
+Kapteyn Sensor Array Inhibitor I
+Energized Basic Regenerative Plating
+800mm Reinforced Nanofiber Plates I
+Small Armor Repairer I (Cargo)
+Antimatter Charge S, Qty: 100 (Cargo)
+Plutonium Charge S, Qty: 400 (Cargo)
+Lead Charge S, Qty: 100 (Cargo)
+Small Remote Armor Repair System I (Cargo)
+Sabretooth Light Missile, Qty: 200 (Cargo)
+Havoc Heavy Missile, Qty: 100 (Cargo)
+Thunderbolt Heavy Missile, Qty: 114 (Cargo)
+Scourge Heavy Missile, Qty: 100 (Cargo)
+

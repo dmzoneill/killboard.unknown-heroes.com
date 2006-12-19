@@ -1,0 +1,30 @@
+2006.10.11 01:20
+
+Victim: Spellblade
+Alliance: Freelancer Alliance
+Corp: Sin-X Inc.
+Destroyed: Retribution
+System: Isanamo
+Security: 0.6
+
+Involved parties:
+
+Name: urrit (laid the final blow)
+Security: -0.3
+Alliance: None
+Corp: Privateers
+Ship: Rupture
+Weapon: Dual 180mm AutoCannon I
+
+
+Destroyed items:
+
+Medium Beam Laser I
+Dual Light Beam Laser I
+Gamma S
+Gamma S
+Gamma S
+J5b Phased Prototype Warp Inhibitor I
+Energized Thermic Membrane I
+Gamma S, Qty: 2 (Cargo)
+

@@ -1,0 +1,38 @@
+2006.12.24 20:51
+
+Victim: Brom S
+Alliance: None
+Corp: State War Academy
+Destroyed: Caracal
+System: Sujarento
+Security: 0.3
+
+Involved parties:
+
+Name: Bloodclaw Light Missile / Guristas
+
+Name: Compos Mentis (laid the final blow)
+Security: -6.7
+Alliance: Freelancer Alliance
+Corp: X.T.R
+Ship: Cerberus
+Weapon: Scourge Heavy Missile
+
+
+Destroyed items:
+
+Piranha Light Missile, Qty: 47
+Havoc Heavy Missile, Qty: 18
+Thunderbolt Heavy Missile, Qty: 18
+Widowmaker Heavy Missile, Qty: 18
+'Malkuth' Assault Missile Launcher I
+Medium Shield Extender I
+Medium Shield Extender I
+Medium Shield Extender I
+100mm Reinforced Rolled Tungsten Plates I
+150mm Railgun I (Cargo)
+Small Capacitor Booster I (Cargo)
+Sabretooth Light Missile, Qty: 1060 (Cargo)
+Widowmaker Heavy Missile, Qty: 1842 (Cargo)
+'Limos' Rocket Launcher I (Cargo)
+

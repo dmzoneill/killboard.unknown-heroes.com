@@ -1,0 +1,26 @@
+2007.03.01 03:33
+
+Victim: Inter Fectum
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Destroyed: Capsule
+System: V6-NY1
+Security: 0.0
+
+Involved parties:
+
+Name: Zagum Darkfin (laid the final blow)
+Security: 4.2
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Zealot
+Weapon: Heavy Beam Laser II
+
+Name: Funky Feeling
+Security: 4.7
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Eris
+Weapon: 75mm Gatling Rail I
+
+

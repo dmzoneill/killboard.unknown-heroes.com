@@ -1,0 +1,57 @@
+2007.03.28 19:00
+
+Victim: EM00
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Destroyed: Raven
+System: Litiura
+Security: 0.5
+
+Involved parties:
+
+Name: Lennier Cotto (laid the final blow)
+Security: -2.4
+Alliance: Privateer Alliance
+Corp: Mentally Unstable Enterprises
+Ship: Abaddon
+Weapon: Valkyrie II
+
+Name: Serj Darek
+Security: -1.8
+Alliance: Privateer Alliance
+Corp: Mentally Unstable Enterprises
+Ship: Huginn
+Weapon: Valkyrie II
+
+Name: Captain Sonic
+Security: -2.0
+Alliance: Privateer Alliance
+Corp: Mentally Unstable Enterprises
+Ship: Taranis
+Weapon: Taranis
+
+
+Destroyed items:
+
+Heavy Nosferatu I
+Paradise Cruise Missile, Qty: 14
+Devastator Cruise Missile
+Devastator Cruise Missile
+Devastator Cruise Missile
+Devastator Cruise Missile
+Devastator Cruise Missile
+Devastator Cruise Missile
+Devastator Cruise Missile
+'Arbalest' Cruise Launcher I
+'Arbalest' Cruise Launcher I
+'Arbalest' Cruise Launcher I
+'Arbalest' Cruise Launcher I
+Small Tractor Beam I
+Sensor Booster II
+Kinetic Deflection Amplifier II
+Heat Dissipation Amplifier II
+Local Hull Conversion Nanofiber Structure I
+Cataclysm Cruise Missile, Qty: 252 (Cargo)
+Paradise Cruise Missile, Qty: 252 (Cargo)
+Wrath Cruise Missile, Qty: 444 (Cargo)
+

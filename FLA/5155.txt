@@ -1,0 +1,33 @@
+2007.01.25 08:54
+
+Victim: Feke
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Destroyed: Moa
+System: VFK-IV
+Security: 0.0
+
+Involved parties:
+
+Name: Vyndicator (laid the final blow)
+Security: -2.5
+Alliance: None
+Corp: 0utbreak
+Ship: Typhoon
+Weapon: Devastator Cruise Missile
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Medium Nosferatu I
+Heavy Neutron Blaster I
+Heavy Neutron Blaster I
+Heavy Neutron Blaster I
+Heavy Neutron Blaster I
+Antimatter Charge M, Qty: 140
+10MN Afterburner I
+Stasis Webifier I
+Antimatter Charge M, Qty: 500 (Cargo)
+Acolyte I, Qty: 3 (Drone Bay)
+

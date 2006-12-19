@@ -1,0 +1,44 @@
+2006.12.19 05:43
+
+Victim: Azrealsan
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Thorax
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Kasheem Cetanes
+Security: 4.6
+Alliance: None
+Corp: Black Lance
+Ship: Drake
+Weapon: Advanced 'Limos' Heavy Missile Bay I
+
+Name: InnerDrive (laid the final blow)
+Security: 5.0
+Alliance: None
+Corp: Black Lance
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Syath
+Security: 4.6
+Alliance: None
+Corp: Black Lance
+Ship: Typhoon
+Weapon: Berserker I
+
+
+Destroyed items:
+
+Regulated Neutron Phase Cannon I
+150mm Railgun I
+Antimatter Charge M, Qty: 72
+10MN MicroWarpdrive I
+F85 Peripheral Damage System I
+Medium Armor Repairer I
+Armor Kinetic Hardener I
+Armor Thermic Hardener I
+

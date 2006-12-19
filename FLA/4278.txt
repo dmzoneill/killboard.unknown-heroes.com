@@ -1,0 +1,39 @@
+2007.04.06 09:40
+
+Victim: Ramb3z
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Destroyed: Typhoon
+System: JU-OWQ
+Security: 0.0
+
+Involved parties:
+
+Name: stainage (laid the final blow)
+Security: -1.2
+Alliance: None
+Corp: Final-Vendetta
+Ship: Eos
+Weapon: Berserker II
+
+Name: Hornster
+Security: -1.1
+Alliance: None
+Corp: Final-Vendetta
+Ship: Pilgrim
+Weapon: Warrior II
+
+
+Destroyed items:
+
+Heavy Nosferatu I
+Heavy Nosferatu I
+ZW-4100 Siege Missile Bay
+ZW-4100 Siege Missile Bay
+Small Tractor Beam I
+F-b10 Nominal Capacitor Regenerator
+100MN MicroWarpdrive I
+N-Type Kinetic Hardener I
+Voltaic Nanite Thermic Hardener I
+Wasp I, Qty: 2 (Drone Bay)
+

@@ -1,0 +1,81 @@
+2007.03.21 16:21
+
+Victim: Hous Pharteen
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Destroyed: Abaddon
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Yushii
+Security: -0.3
+Alliance: Triumvirate.
+Corp: ViperSquad
+Ship: Muninn
+Weapon: 720mm Howitzer Artillery II
+
+Name: WarGod
+Security: 1.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Curse
+Weapon: Medium Beam Laser II
+
+Name: Sith Bandon
+Security: 5.0
+Alliance: Triumvirate.
+Corp: ViperSquad
+Ship: Ishtar
+Weapon: Ishtar
+
+Name: Roxanna Kell
+Security: -1.3
+Alliance: Triumvirate.
+Corp: ViperSquad
+Ship: Cerberus
+Weapon: Terror Assault Missile
+
+Name: PainBall (laid the final blow)
+Security: -0.9
+Alliance: Triumvirate.
+Corp: ViperSquad
+Ship: Absolution
+Weapon: Heavy Pulse Laser II
+
+Name: Alchem
+Security: 2.9
+Alliance: Triumvirate.
+Corp: ViperSquad
+Ship: Ishtar
+Weapon: Berserker II
+
+Name: eRogue
+Security: 0.0
+Alliance: Triumvirate.
+Corp: ViperSquad
+Ship: Brutix
+Weapon: Valkyrie II
+
+
+Destroyed items:
+
+Mega Pulse Laser II
+Mega Pulse Laser II
+Heavy Nosferatu I
+Heavy Nosferatu I
+Scorch L
+Scorch L
+Scorch L
+Cap Booster 800
+Cap Booster 800
+Cap Booster 800
+Damage Control I
+Heat Sink II
+Armor Thermic Hardener II
+Radio L (Cargo)
+Cap Booster 800, Qty: 11 (Cargo)
+Conflagration L, Qty: 3 (Cargo)
+Hornet I, Qty: 3 (Drone Bay)
+

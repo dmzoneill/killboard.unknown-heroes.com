@@ -1,0 +1,32 @@
+2007.01.23 04:27
+
+Victim: Smofuggra
+Alliance: None
+Corp: State War Academy
+Destroyed: Caracal
+System: Hysera
+Security: 0.4
+
+Involved parties:
+
+Name: Sorlac Aurora (laid the final blow)
+Security: 1.1
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Drake
+Weapon: Hellfire Assault Missile
+
+
+Destroyed items:
+
+Widowmaker Heavy Missile, Qty: 46
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+Medium F-S9 Regolith Shield Induction
+10MN Afterburner I
+Beta Hull Mod Overdrive Injector
+Small 'Knave' I Energy Drain (Cargo)
+150mm Railgun I (Cargo)
+Flameburst Light Missile, Qty: 100 (Cargo)
+

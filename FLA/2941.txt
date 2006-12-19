@@ -1,0 +1,56 @@
+2007.03.17 07:37
+
+Victim: Motaj
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Megathron
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Bloodclaw Light Missile / Guristas
+
+Name: Lord Revent
+Security: 1.0
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Hurricane
+Weapon: XR-3200 Heavy Missile Bay
+
+Name: VDV Kane (laid the final blow)
+Security: 4.7
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Fred Fredburger
+Security: 5.0
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Raptor
+Weapon: Phalanx Rocket
+
+Name: Galaxor
+Security: 5.1
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Harbinger
+Weapon: Heavy Pulse Laser II
+
+Name: Nipplator
+Security: 2.8
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Harbinger
+Weapon: Heavy Modulated Pulse Energy Beam I
+
+Name: Vasili Z
+Security: 0.3
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Myrmidon
+Weapon: Medium Nosferatu I
+
+

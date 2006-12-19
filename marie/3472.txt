@@ -1,0 +1,47 @@
+2007.03.29 03:13
+
+Victim: Kol Skywalker
+Alliance: None
+Corp: Le Moulin Rouge
+Destroyed: Capsule
+System: RQH-MY
+Security: 0.0
+
+Involved parties:
+
+Name: coldkill (laid the final blow)
+Security: 1.9
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Ishkur
+Weapon: Hammerhead II
+
+Name: Darc Kaahar
+Security: -0.1
+Alliance: Freelancer Alliance
+Corp: Feel Good Inc.
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: Marie Veedor
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Merlin
+Weapon: Piranha Light Missile
+
+Name: Llondon Hilton
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: PowerGimp
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Flycatcher
+Weapon: 'Arbalest' Rocket Launcher I
+
+

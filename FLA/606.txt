@@ -1,0 +1,107 @@
+2007.02.12 22:39
+
+Victim: FrankieG
+Alliance: Triumvirate.
+Corp: D00M.
+Destroyed: Harbinger
+System: G-M4I8
+Security: 0.0
+
+Involved parties:
+
+Name: jacass66
+Security: 5.0
+Alliance: None
+Corp: BGG
+Ship: Drake
+Weapon: Hobgoblin II
+
+Name: bidman (laid the final blow)
+Security: 4.7
+Alliance: None
+Corp: BGG
+Ship: Drake
+Weapon: Widowmaker Heavy Missile
+
+Name: Slinktress
+Security: 2.6
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Megathron
+Weapon: Megathron
+
+Name: Tnam
+Security: 1.7
+Alliance: None
+Corp: BGG
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: WolfRavage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: Velithe
+Security: 3.1
+Alliance: None
+Corp: BGG
+Ship: Caracal
+Weapon: Havoc Heavy Missile
+
+Name: Kishan Tor
+Security: 1.6
+Alliance: None
+Corp: BGG
+Ship: Rook
+Weapon: 'Hypnos' Ion Field ECM I
+
+Name: Kyoshisan
+Security: 0.6
+Alliance: None
+Corp: BGG
+Ship: Eris
+Weapon: Eris
+
+Name: malkey
+Security: 4.5
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Hawk
+Weapon: Sabretooth Light Missile
+
+Name: Xantheris
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Taranis
+Weapon: Taranis
+
+Name: Dark Carnage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Crow
+Weapon: Sabretooth Light Missile
+
+
+Destroyed items:
+
+Heavy Afocal Pulse Maser I
+Heavy Anode Pulse Particle Stream I
+Heavy Anode Pulse Particle Stream I
+Heavy Anode Pulse Particle Stream I
+Gamma M
+Gamma M
+10MN MicroWarpdrive II
+X5 Prototype I Engine Enervator
+Cap Booster 400
+Medium Armor Repairer II
+Heat Sink II
+Energized Adaptive Nano Membrane I
+Energized Adaptive Nano Membrane I
+Local Power Plant Manager: Reaction Control I
+Valkyrie I (Drone Bay)
+

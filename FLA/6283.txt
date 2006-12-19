@@ -1,0 +1,47 @@
+2006.11.11 18:37
+
+Victim: Erynion
+Alliance: None
+Corp: StarHunt
+Destroyed: Caldari Shuttle
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Flashh Gorden
+Security: 3.4
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: dinj (laid the final blow)
+Security: 4.7
+Alliance: Freelancer Alliance
+Corp: London Transport
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: LizzyD
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Ishkur
+Weapon: Acolyte II
+
+Name: digital oxygen
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Deimos
+Weapon: Deimos
+
+Name: Gangreen
+Security: 0.1
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Ishkur
+Weapon: Ishkur
+
+

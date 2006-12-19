@@ -1,0 +1,51 @@
+2007.04.16 17:34
+
+Victim: Lord Raptor
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Destroyed: Claw
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Indiano Arko
+Security: 0.6
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Hurricane
+Weapon: 650mm Medium 'Scout' Artillery I
+
+Name: Terdlinger (laid the final blow)
+Security: 4.8
+Alliance: Storm Armada
+Corp: stone grave haulage
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+Name: Reverend Revelator
+Security: 1.5
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: Rimsaw
+Security: 0.0
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Punisher
+Weapon: Punisher
+
+
+Destroyed items:
+
+200mm AutoCannon II
+200mm AutoCannon II
+Small Nosferatu I
+Fleeting Warp Scrambler I
+Local Hull Conversion Overdrive Injector I
+Local Hull Conversion Overdrive Injector I
+Local Hull Conversion Overdrive Injector I
+Beta Hull Mod Overdrive Injector
+

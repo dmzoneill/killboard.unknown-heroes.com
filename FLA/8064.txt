@@ -1,0 +1,33 @@
+2006.10.08 09:28
+
+Victim: Striker Cash
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Destroyed: Crow
+System: X-7OMU
+Security: 0.0
+
+Involved parties:
+
+Name: Kopf
+Security: -2.4
+Alliance: None
+Corp: Sicarri Covenant
+Ship: Flycatcher
+Weapon: Rocket Launcher II
+
+Name: H Zub (laid the final blow)
+Security: -0.8
+Alliance: None
+Corp: Omniscient Order
+Ship: Dominix
+Weapon: Warrior II
+
+
+Destroyed items:
+
+Standard Missile Launcher II
+Bloodclaw Precision Light Missile, Qty: 44
+J5 Prototype Warp Inhibitor I
+Corpse (Cargo)
+

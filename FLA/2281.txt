@@ -1,0 +1,118 @@
+2007.02.04 19:18
+
+Victim: Nya
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Destroyed: Tempest
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: EL TITAN
+Security: 1.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Seldarine (laid the final blow)
+Security: 0.1
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Vagabond
+Weapon: Dual 180mm AutoCannon II
+
+Name: pajzi
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Claw
+Weapon: Claw
+
+Name: Remmington Daniels
+Security: 0.9
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: d0ri5
+Security: 0.1
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: Marschall
+Security: 2.2
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Maule
+Security: 4.7
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Claw
+Weapon: Warp Disruptor I
+
+Name: Sir JoJo
+Security: 2.1
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Rapier
+Weapon: Rapier
+
+Name: Witty Moniker
+Security: -1.2
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: Seth Quantix
+Security: -0.2
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Malediction
+Weapon: Malediction
+
+Name: Angela Dray
+Security: 3.1
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Taranis
+Weapon: Taranis
+
+Name: Beast Hun
+Security: 4.7
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Crusader
+Weapon: Dual Light Pulse Laser II
+
+
+Destroyed items:
+
+1400mm Howitzer Artillery II
+1400mm Howitzer Artillery II
+1400mm Howitzer Artillery II
+1400mm Howitzer Artillery II
+Tremor L
+Tremor L
+Tremor L
+Tremor L
+Widowmaker Heavy Missile, Qty: 34
+XR-3200 Heavy Missile Bay
+Sensor Booster II
+F-90 Positional Sensor Subroutines
+Alumel-Wired I Sensor Augmentation
+Gyrostabilizer II
+Gyrostabilizer II
+Reactor Control Unit II
+Tremor L, Qty: 665 (Cargo)
+Quake L, Qty: 335 (Cargo)
+Acolyte II, Qty: 5 (Drone Bay)
+

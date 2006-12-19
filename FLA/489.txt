@@ -1,0 +1,35 @@
+2007.02.06 05:09
+
+Victim: LadyScarlet
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Destroyed: Crow
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Xantheris (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: KingRizen
+Security: -2.6
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Ship: Crow
+Weapon: Initiated Warp Jammer I
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 42
+Standard Missile Launcher II
+Standard Missile Launcher II
+Fleeting Warp Scrambler I
+Micro Auxiliary Power Core I
+Sabretooth Light Missile, Qty: 301 (Cargo)
+

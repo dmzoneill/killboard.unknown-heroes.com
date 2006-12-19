@@ -1,0 +1,110 @@
+2006.09.15 20:50
+
+Victim: jim6
+Alliance: None
+Corp: Mordu's Elite
+Destroyed: Rifter
+System: EWOK-K
+Security: 0.0
+
+Involved parties:
+
+Name: Hosanna (laid the final blow)
+Security: -1.5
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Cyclone
+Weapon: Thunderbolt Heavy Missile
+
+Name: Shiri elAzarinres
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+Name: movy
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Brutix
+Weapon: 200mm Railgun I
+
+Name: geewiz
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Eris
+Weapon: Eris
+
+Name: Terrorv1z
+Security: 5.1
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Scorpion
+Weapon: Cruise Missile Launcher I
+
+Name: ShiVAs PArAdOXx
+Security: 2.1
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Tempest
+Weapon: SV-2000 Assault Missile Bay
+
+Name: Megan Ryder
+Security: 5.0
+Alliance: CORE.
+Corp: VentureCorp
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Mad Mackem
+Security: -1.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: MFWood
+Security: 5.1
+Alliance: CORE.
+Corp: VentureCorp
+Ship: Typhoon
+Weapon: 1200mm Artillery Cannon II
+
+Name: FotoFlame
+Security: 3.4
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Deimos
+Weapon: Deimos
+
+Name: DARKLING
+Security: 5.1
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Scorpion
+Weapon: Heavy Missile Launcher II
+
+Name: Antoriaset
+Security: 0.3
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Megathron
+Weapon: 425mm Railgun I
+
+Name: 31i73
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Raven
+Weapon: 'Malkuth' Cruise Launcher I
+
+
+Destroyed items:
+
+250mm Light Prototype I Siege Cannon
+Carbonized Lead S, Qty: 25
+Standard Missile Launcher I
+Seeker F.O.F. Light Missile I, Qty: 150 (Cargo)
+

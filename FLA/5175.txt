@@ -1,0 +1,52 @@
+2007.04.23 17:23
+
+Victim: RuLuVdArR
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Tristan
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Mocuker
+Security: 0.2
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Capsule
+Weapon: SV-2000 Assault Missile Bay
+
+Name: Magic Mazuma (laid the final blow)
+Security: 0.1
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Rifter
+Weapon: 150mm Light Gallium I Machine Gun
+
+Name: marakudi
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Punisher
+Weapon: Punisher
+
+Name: Dana Foxworth
+Security: 3.7
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Thrasher
+Weapon: 250mm Light Artillery Cannon I
+
+
+Destroyed items:
+
+150mm Carbide Railgun I
+Antimatter Charge S, Qty: 27
+Plutonium Charge S, Qty: 27
+1MN MicroWarpdrive I
+J5b Phased Prototype Warp Inhibitor I
+Stasis Webifier I
+Quantum Co-Processor I
+Type-D Power Core Modification: Diagnostic System
+Phalanx Rocket, Qty: 40 (Cargo)
+

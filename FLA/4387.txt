@@ -1,0 +1,50 @@
+2007.04.09 01:58
+
+Victim: Hroller McKnutt
+Alliance: Freelancer Alliance
+Corp: ACCORD Industries
+Destroyed: Thorax
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Lunalyia Ryche
+Security: 2.9
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Harbinger
+Weapon: Harbinger
+
+Name: Redginald
+Security: 4.5
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: MIGHTYDWC
+Security: 4.7
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Myrmidon
+Weapon: Ogre II
+
+Name: Myndpyre Ryche (laid the final blow)
+Security: 4.2
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Nighthawk
+Weapon: Scourge Heavy Missile
+
+
+Destroyed items:
+
+Medium Graviton Smartbomb I
+Medium YF-12a Smartbomb
+Medium Rudimentary Concussion Bomb I
+10MN Afterburner II
+Medium Armor Repairer II
+N-Type Explosive Hardener I
+Hammerhead II, Qty: 5 (Drone Bay)
+

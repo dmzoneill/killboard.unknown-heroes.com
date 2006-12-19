@@ -1,0 +1,128 @@
+2006.12.07 08:50
+
+Victim: Dan Boone
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Destroyed: Crane
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: eXtas (laid the final blow)
+Security: 2.2
+Alliance: None
+Corp: Kemono.
+Ship: Huginn
+Weapon: Valkyrie II
+
+Name: Torok Nakaht
+Security: 1.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: Phonix
+Security: 1.8
+Alliance: None
+Corp: Fate.
+Ship: Typhoon
+Weapon: Paradise Cruise Missile
+
+
+Destroyed items:
+
+Salvager I, Qty: 1050
+Small Remote Armor Repair System I
+Small Remote Armor Repair System I
+Small Remote Armor Repair System I
+Small Remote Armor Repair System I
+Small Remote Armor Repair System I
+Small Coaxial Regenerative Projector
+Small Shield Extender I
+10MN MicroWarpdrive I
+Small F-4a Ld-Sulfate I Capacitor Charge Unit
+Small Capacitor Booster I
+Small Capacitor Booster I
+Small Capacitor Booster I
+Small Brief Capacitor Overcharge I
+ECCM - Radar I
+ECCM - Radar I
+ECCM - Radar I
+ECCM - Radar I
+ECCM - Radar I
+Damage Control I
+Small Armor Repairer I
+Small Armor Repairer I
+Small Armor Repairer I
+Small Armor Repairer II
+Civilian Armor Repairer
+'Collateral' Adaptive Nano Plating I
+Adaptive Nano Plating I
+Nanoelectrical Co-Processor I
+Microcell Nanite Reactive Membrane I
+Energized Basic Reactive Plating
+Energized Basic Reflective Plating
+Energized Basic Thermic Plating
+Energized Basic Thermic Plating
+Energized Basic Thermic Plating
+400mm Reinforced Nanofiber Plates I
+400mm Reinforced Nanofiber Plates I
+100mm Reinforced Crystalline Carbonide Plates I
+50mm Reinforced Titanium Plates I
+100mm Reinforced Steel Plates I
+50mm Reinforced Steel Plates I
+50mm Reinforced Nanofiber Plates I
+50mm Reinforced Crystalline Carbonide Plates I
+50mm Reinforced Crystalline Carbonide Plates I
+50mm Reinforced Crystalline Carbonide Plates I
+50mm Reinforced Crystalline Carbonide Plates I
+50mm Reinforced Rolled Tungsten Plates I
+Monopropellant I Hydrazine Boosters, Qty: 3 (Cargo)
+Y-T8 Overcharged Hydrocarbon I Microwarpdrive (Cargo)
+1MN Afterburner I, Qty: 2 (Cargo)
+Lead Charge S, Qty: 1300 (Cargo)
+Sanshas Radio S (Cargo)
+Microwave S, Qty: 10 (Cargo)
+Gamma S (Cargo)
+Multifrequency S, Qty: 8 (Cargo)
+Multifrequency M (Cargo)
+Radio S (Cargo)
+Sanshas Infrared S, Qty: 2 (Cargo)
+Infrared M, Qty: 7 (Cargo)
+Xray S, Qty: 5 (Cargo)
+Cap Booster 75, Qty: 20 (Cargo)
+Cap Booster 25, Qty: 40 (Cargo)
+Cap Booster 50, Qty: 100 (Cargo)
+Warrior I, Qty: 11 (Cargo)
+Hammerhead I, Qty: 2 (Cargo)
+Spiced Wine, Qty: 124 (Cargo)
+Oxygen, Qty: 100 (Cargo)
+Pax Amarria, Qty: 11 (Cargo)
+'Repose' I Core Compensation (Cargo)
+Warp Core Stabilizer I, Qty: 3 (Cargo)
+Giant Secure Container (Cargo)
+Sansha Bronze Tag, Qty: 2 (Cargo)
+Sansha Copper Tag, Qty: 11 (Cargo)
+Sansha Silver Tag (Cargo)
+True Sansha Copper Tag, Qty: 3 (Cargo)
+Bloodclaw Light Missile, Qty: 100 (Cargo)
+Flameburst Light Missile, Qty: 476 (Cargo)
+Piranha Light Missile, Qty: 300 (Cargo)
+Sabretooth Light Missile, Qty: 100 (Cargo)
+Scourge Heavy Missile, Qty: 100 (Cargo)
+Foxfire Rocket, Qty: 200 (Cargo)
+Gremlin Rocket, Qty: 100 (Cargo)
+Exterminator F.O.F. Light Missile I, Qty: 100 (Cargo)
+Republic Fleet Captain Insignia I, Qty: 2 (Cargo)
+Republic Fleet Midshipman Insignia I, Qty: 4 (Cargo)
+Republic Fleet Midshipman Insignia III, Qty: 5 (Cargo)
+Republic Fleet Private Insignia I, Qty: 5 (Cargo)
+Heavy Water, Qty: 521 (Cargo)
+Helium Isotopes, Qty: 3128 (Cargo)
+Liquid Ozone, Qty: 261 (Cargo)
+Strontium Clathrates, Qty: 11 (Cargo)
+1st Tier Overseer's Personal Effects (Cargo)
+5th Tier Overseer's Personal Effects, Qty: 2 (Cargo)
+

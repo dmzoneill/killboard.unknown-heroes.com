@@ -1,0 +1,27 @@
+2006.11.25 00:25
+
+Victim: Akkijee
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Stiletto
+System: E-FIC0
+Security: 0.0
+
+Involved parties:
+
+Name: Elliott Manchild (laid the final blow)
+Security: -1.6
+Alliance: None
+Corp: omen.
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+
+Destroyed items:
+
+'Arbalest' Rocket Launcher I
+1MN MicroWarpdrive II
+Warp Scrambler I
+'Langour' Drive Disruptor I
+Small Armor Repairer II
+

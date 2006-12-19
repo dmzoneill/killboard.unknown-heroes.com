@@ -1,0 +1,41 @@
+2007.03.03 22:50
+
+Victim: sniper luke
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Caracal
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Wessel Jeroen
+Security: -10.0
+Alliance: Fatal Persuasion
+Corp: The Black Rabbits
+Ship: Raptor
+Weapon: Fleeting Warp Scrambler I
+
+Name: DeathBunny II (laid the final blow)
+Security: -4.4
+Alliance: Fatal Persuasion
+Corp: The Black Rabbits
+Ship: Arazu
+Weapon: Valkyrie II
+
+
+Destroyed items:
+
+Widowmaker Heavy Missile, Qty: 24
+Havoc Heavy Missile, Qty: 24
+Heavy Missile Launcher I
+Warp Disruptor I
+Stasis Webifier I
+Type-D Power Core Modification: Reaction Control
+Corpse (Cargo)
+Wasp I, Qty: 3 (Cargo)
+Widowmaker Heavy Missile, Qty: 270 (Cargo)
+Thunderbolt Heavy Missile, Qty: 13 (Cargo)
+Hellhound F.O.F. Heavy Missile I, Qty: 70 (Cargo)
+Eradicator F.O.F. Heavy Missile I, Qty: 100 (Cargo)
+

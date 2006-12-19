@@ -1,0 +1,32 @@
+2007.04.21 01:34
+
+Victim: dastommy79
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Destroyed: Vexor
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Admentus Cor'vion (laid the final blow)
+Security: -0.5
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Ishtar
+Weapon: Ogre II
+
+
+Destroyed items:
+
+Heavy Ion Blaster I
+Heavy Ion Blaster I
+Heavy Ion Blaster I
+Heavy Ion Blaster I
+Antimatter Charge M, Qty: 318
+10MN MicroWarpdrive I
+Initiated Warp Jammer I
+Stasis Webifier I
+Magnetic Field Stabilizer I
+Reactor Control Unit I
+

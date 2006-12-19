@@ -1,0 +1,26 @@
+2006.04.29 12:46
+
+Victim: Z'app
+Alliance: Sparta Alliance
+Corp: The Ghost Riders
+Destroyed: Minmatar Shuttle
+System: 3T7-M8
+Security: 0.0
+
+Involved parties:
+
+Name: Matt Stoner (laid the final blow)
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+Name: Hosanna
+Security: 4.8
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Rupture
+Weapon: 220mm Medium Gallium I Machine Gun
+
+

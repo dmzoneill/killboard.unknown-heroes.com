@@ -1,0 +1,33 @@
+2006.11.08 15:59
+
+Victim: Leathal Weapon
+Alliance: None
+Corp: Beer Guzzling Clowns With Blasters
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Dog Cancer (laid the final blow)
+Security: 1.4
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Crow
+Weapon: Piranha Light Missile
+
+Name: Elfaen Ethenwe
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Rook
+Weapon: Scourge Precision Heavy Missile
+
+Name: Wousr
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Stiletto
+Weapon: Stiletto
+
+

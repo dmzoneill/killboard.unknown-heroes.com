@@ -1,0 +1,73 @@
+2007.03.10 02:31
+
+Victim: Schmeckel
+Alliance: Chorus of Dawn
+Corp: Cosmic Odyssey
+Destroyed: Rifter
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: ventura5
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Flycatcher
+Weapon: Flycatcher
+
+Name: Fugnut (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: WolfRavage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Hyperion
+Weapon: Hyperion
+
+Name: Swanny231
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Thorax
+Weapon: Vespa EC-600
+
+Name: Nil Desperandum
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Lachesis
+Weapon: Lachesis
+
+Name: dastommy79
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Armageddon
+Weapon: Mega Afocal Pulse Maser I
+
+Name: Zattron
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Manticore
+Weapon: 'Arbalest' Cruise Launcher I
+
+Name: Almagar Phog
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Blackbird
+Weapon: ECM - Phase Inverter I
+
+
+Destroyed items:
+
+Warp Core Stabilizer I
+Warp Core Stabilizer I
+

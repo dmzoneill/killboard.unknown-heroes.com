@@ -1,0 +1,34 @@
+2007.04.03 22:27
+
+Victim: fox247
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Destroyed: Flycatcher
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Drako Invictus (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Absolution
+Weapon: Heavy Pulse Laser II
+
+
+Destroyed items:
+
+Flameburst Light Missile, Qty: 120
+'Malkuth' Standard Missile Launcher I
+Standard Missile Launcher I
+'Arbalest' Standard Missile Launcher
+Warp Disruptor I
+800mm Repeating Artillery II (Cargo)
+Large YF-12a Smartbomb (Cargo)
+Flameburst Light Missile, Qty: 1022 (Cargo)
+XT-9000 Cruise Launcher, Qty: 2 (Cargo)
+'Arbalest' Siege Missile Launcher, Qty: 3 (Cargo)
+Warp Disrupt Probe, Qty: 15 (Cargo)
+Capacitor Power Relay I (Cargo)
+

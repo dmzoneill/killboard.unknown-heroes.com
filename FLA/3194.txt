@@ -1,0 +1,44 @@
+2007.03.20 05:56
+
+Victim: Splinter5150
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Destroyed: Raven
+System: YZ-UKA
+Security: 0.0
+
+Involved parties:
+
+Name: Lobster Man (laid the final blow)
+Security: -3.2
+Alliance: None
+Corp: e X i l e
+Ship: Dominix
+Weapon: Praetor II
+
+Name: Drachenlord
+Security: 2.0
+Alliance: None
+Corp: e X i l e
+Ship: Arazu
+Weapon: Acolyte II
+
+
+Destroyed items:
+
+Juggernaut Torpedo, Qty: 72
+'Arbalest' Siege Missile Launcher
+'Arbalest' Siege Missile Launcher
+'Arbalest' Siege Missile Launcher
+Small Tractor Beam I
+Small Tractor Beam I
+Eutectic I Capacitor Charge Array
+Ballistic Deflection Field II
+'Stalwart' I Particle Field Magnifier
+Ballistic Control System II
+Beta Reactor Control: Capacitor Power Relay I
+Beta Reactor Control: Capacitor Power Relay I
+Beta Reactor Control: Capacitor Power Relay I
+Medium YF-12a Smartbomb (Cargo)
+Guristas Palladium Tag (Cargo)
+

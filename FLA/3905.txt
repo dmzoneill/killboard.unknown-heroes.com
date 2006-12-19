@@ -1,0 +1,40 @@
+2007.04.05 21:29
+
+Victim: Riachu
+Alliance: None
+Corp: Science and Trade Institute
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Steven FSB
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Harpy
+Weapon: Harpy
+
+Name: Harkley (laid the final blow)
+Security: 2.3
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Armageddon
+Weapon: Mega Pulse Laser I
+
+Name: Lee Thrace
+Security: 5.0
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Lachesis
+Weapon: Warp Disruptor II
+
+Name: Penal Serge
+Security: 5.0
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Drake
+Weapon: Heavy Missile Launcher II
+
+

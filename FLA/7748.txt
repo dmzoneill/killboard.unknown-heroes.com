@@ -1,0 +1,19 @@
+2006.08.11 04:35
+
+Victim: Zappapapa II
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Iteron Mark III
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Eskobastion (laid the final blow)
+Security: 1.4
+Alliance: None
+Corp: Warped Mining
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+

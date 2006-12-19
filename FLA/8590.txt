@@ -1,0 +1,73 @@
+2006.11.30 23:31
+
+Victim: Lux0r
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Destroyed: Hawk
+System: X36Y-G
+Security: 0.0
+
+Involved parties:
+
+Name: Bhead (laid the final blow)
+Security: 0.1
+Alliance: Center for Disease Creation
+Corp: Black Knight Buccaneers
+Ship: Nemesis
+Weapon: Paradise Cruise Missile
+
+Name: Desas
+Security: 3.8
+Alliance: Center for Disease Creation
+Corp: Black Knight Buccaneers
+Ship: Crow
+Weapon: Fleeting Warp Scrambler I
+
+Name: Z'app
+Security: -0.6
+Alliance: Center for Disease Creation
+Corp: Black Knight Buccaneers
+Ship: Crow
+Weapon: Small Nosferatu I
+
+Name: FyreStrike
+Security: 1.4
+Alliance: Center for Disease Creation
+Corp: Black Knight Buccaneers
+Ship: Crow
+Weapon: Warp Scrambler I
+
+Name: D Bogart
+Security: 0.0
+Alliance: Center for Disease Creation
+Corp: Black Knight Buccaneers
+Ship: Stiletto
+Weapon: Small 'Knave' I Energy Drain
+
+Name: Rogue1004
+Security: 1.4
+Alliance: Center for Disease Creation
+Corp: Black Knight Buccaneers
+Ship: Crow
+Weapon: Standard Missile Launcher I
+
+Name: Gunjam
+Security: 0.2
+Alliance: Center for Disease Creation
+Corp: Black Knight Buccaneers
+Ship: Incursus
+Weapon: 125mm Carbide Railgun I
+
+
+Destroyed items:
+
+Sabretooth Light Missile, Qty: 44
+Bloodclaw Light Missile, Qty: 44
+TE-2100 Standard Missile Bay
+TE-2100 Standard Missile Bay
+Small Shield Booster II
+Fleeting Progressive Warp Scrambler I
+X5 Prototype I Engine Enervator
+Flameburst Light Missile, Qty: 223 (Cargo)
+Bloodclaw Light Missile, Qty: 60 (Cargo)
+

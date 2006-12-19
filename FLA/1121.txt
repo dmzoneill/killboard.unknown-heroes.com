@@ -1,0 +1,57 @@
+2007.03.05 15:15
+
+Victim: ziyuefei
+Alliance: Aftermath Alliance
+Corp: Dark Nebula Gallente Division
+Destroyed: Raven
+System: TEG-SD
+Security: 0.0
+
+Involved parties:
+
+Name: NupNQ
+Security: 4.7
+Alliance: Insurgency
+Corp: Celestial Apocalypse
+Ship: Dominix
+Weapon: Praetor I
+
+Name: Mauy Thai (laid the final blow)
+Security: -1.4
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Curse
+Weapon: Valkyrie II
+
+Name: Serpentis Defender / Serpentis Corporation
+
+Name: Crunchip
+Security: 5.0
+Alliance: Zenith Affinity
+Corp: Netquarter
+Ship: Caracal
+Weapon: Heavy Missile Launcher I
+
+Name: NQDrizzt
+Security: 0.2
+Alliance: Insurgency
+Corp: Celestial Apocalypse
+Ship: Falcon
+Weapon: CZ-4 Concussive Spatial Destabilizer ECM
+
+
+Destroyed items:
+
+Siege Missile Launcher II
+Siege Missile Launcher II
+Siege Missile Launcher II
+Siege Missile Launcher II
+Mjolnir Javelin Torpedo, Qty: 72
+Large Shield Booster II
+Heat Dissipation Field I
+Ballistic Deflection Field II
+F-90 Positional Sensor Subroutines
+N-Type Explosive Hardener I (Cargo)
+Mjolnir Javelin Torpedo, Qty: 1027 (Cargo)
+Berserker SW-900, Qty: 3 (Drone Bay)
+

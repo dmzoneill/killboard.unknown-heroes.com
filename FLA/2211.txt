@@ -1,0 +1,57 @@
+2007.01.28 18:07
+
+Victim: Astoria Tanril
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Maller
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Ka Dargo (laid the final blow)
+Security: 4.4
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon I
+
+Name: RagedyMan
+Security: 1.9
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Nighthawk
+Weapon: Scourge Precision Heavy Missile
+
+Name: Zeram
+Security: 3.3
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: Sir JoJo
+Security: 2.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Huginn
+Weapon: Fleeting Propulsion Inhibitor I
+
+Name: Lucy Fur
+Security: 2.8
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Vagabond
+Weapon: Dark Blood Stasis Webifier
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Infrared S
+Y-S8 Hydrocarbon I Afterburners
+Medium Armor Repairer I
+Heat Sink I
+Thermal Exhaust System I
+Multifrequency S, Qty: 2 (Cargo)
+

@@ -1,0 +1,40 @@
+2006.09.14 22:55
+
+Victim: Zurg Damascus
+Alliance: None
+Corp: Tech 2
+Destroyed: Wolf
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Drakin Korin (laid the final blow)
+Security: -0.5
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Ishtar
+Weapon: Hammerhead II
+
+Name: Elixian
+Security: -2.2
+Alliance: Freelancer Alliance
+Corp: Terminal Velocity Inc.
+Ship: Ishkur
+Weapon: Ishkur
+
+
+Destroyed items:
+
+280mm Howitzer Artillery II
+Depleted Uranium S, Qty: 60
+Warp Disruptor I (Cargo)
+Small Hull Repairer I (Cargo)
+Medium F-RX Prototype I Capacitor Boost (Cargo)
+Depleted Uranium S, Qty: 6580 (Cargo)
+Titanium Sabot S, Qty: 2000 (Cargo)
+Guristas Electrum Tag (Cargo)
+Bloodclaw Light Missile, Qty: 200 (Cargo)
+Capacitor Flux Coil I (Cargo)
+Reactor Control Unit I (Cargo)
+

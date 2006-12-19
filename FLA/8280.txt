@@ -1,0 +1,36 @@
+2006.11.07 13:24
+
+Victim: bigdaddy0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Stabber
+System: Haajinen
+Security: 0.8
+
+Involved parties:
+
+Name: KRULLEN Binazeski (laid the final blow)
+Security: 4.9
+Alliance: None
+Corp: The Initiative
+Ship: Apocalypse
+Weapon: Tachyon Beam Laser II
+
+
+Destroyed items:
+
+Proton S
+Proton S
+Proton S
+Proton S
+Proton S
+Proton S
+Proton M, Qty: 73
+Rocket Launcher I
+10MN Afterburner I
+Warp Core Stabilizer I
+100mm Reinforced Titanium Plates I
+Proton M, Qty: 33 (Cargo)
+Phalanx Rocket, Qty: 10 (Cargo)
+Warrior I (Drone Bay)
+

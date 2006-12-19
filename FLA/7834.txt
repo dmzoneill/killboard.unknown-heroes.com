@@ -1,0 +1,27 @@
+2006.09.07 18:46
+
+Victim: Kremnican
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Crow
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Angelus X (laid the final blow)
+Security: -1.7
+Alliance: Band of Brothers
+Corp: Reikoku
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+Rocket Launcher II
+Thorn Rage Rocket, Qty: 32
+1MN MicroWarpdrive I
+Small Armor Repairer I
+Thorn Rage Rocket, Qty: 880 (Cargo)
+

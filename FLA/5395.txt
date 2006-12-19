@@ -1,0 +1,19 @@
+2007.04.28 20:18
+
+Victim: Dark Carnage
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Capsule
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Kitti Fatale (laid the final blow)
+Security: -3.9
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+

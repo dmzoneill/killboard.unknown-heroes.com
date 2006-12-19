@@ -1,0 +1,53 @@
+2007.04.28 23:47
+
+Victim: wardey
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Punisher
+System: P-2TTL
+Security: 0.0
+
+Involved parties:
+
+Name: LUCKY HEADY
+Security: -1.6
+Alliance: Mercenary Coalition
+Corp: Seraphin Technologies
+Ship: Huginn
+Weapon: Huginn
+
+Name: Enosh Kerrim
+Security: -1.0
+Alliance: Mercenary Coalition
+Corp: Seraphin Technologies
+Ship: Ishtar
+Weapon: 150mm Railgun II
+
+Name: Redginald (laid the final blow)
+Security: 4.5
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Muninn
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Kiyoko Ashikawa
+Security: 2.3
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Jaguar
+Weapon: 200mm AutoCannon II
+
+
+Destroyed items:
+
+Small Nosferatu I
+Small Nosferatu I
+200mm Reinforced Nanofiber Plates I
+Capacitor Power Relay I
+Capacitor Power Relay I
+Cold-Gas I Arcjet Thrusters (Cargo)
+250mm Light Artillery Cannon I (Cargo)
+Stasis Webifier I (Cargo)
+Phased Plasma S, Qty: 700 (Cargo)
+Sabretooth Light Missile, Qty: 44 (Cargo)
+

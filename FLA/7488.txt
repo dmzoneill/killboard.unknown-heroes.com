@@ -1,0 +1,156 @@
+2006.09.09 21:01
+
+Victim: Dave White
+Alliance: None
+Corp: Beagle Corp
+Destroyed: Armageddon
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Kremnican (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Cerberus
+Weapon: Scourge Heavy Missile
+
+Name: Thafesko
+Security: 4.5
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Jumar Coldgin
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+Name: Ione79
+Security: 2.4
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Megathron
+Weapon: Megathron
+
+Name: digital oxygen
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Megathron
+Weapon: Megathron
+
+Name: Wolfman Apocalypse
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Scorpion
+Weapon: XT-9000 Cruise Launcher
+
+Name: Formosus Funus
+Security: 0.7
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Tempest
+Weapon: Tempest
+
+Name: Kiztent
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Rupture
+Weapon: Rupture
+
+Name: Hosanna
+Security: -2.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Stiletto
+Weapon: 150mm Light AutoCannon II
+
+Name: Barsak Kressel
+Security: 1.6
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Ship: Caracal
+Weapon: Thunderbolt Heavy Missile
+
+Name: Gr3G
+Security: -4.1
+Alliance: Freelancer Alliance
+Corp: EVE MegaCorp Association
+Ship: Caracal
+Weapon: Thunderbolt Heavy Missile
+
+Name: Tarrant Arrlock
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Caracal
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+Name: Sixty Ever4
+Security: 2.3
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Maller
+Weapon: Indirect Scanning Dampening Unit I
+
+Name: Oldin Relic
+Security: 1.3
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Moa
+Weapon: Moa
+
+Name: Braxxon
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Eagle
+Weapon: Eagle
+
+Name: Valtaer
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: Terminal Velocity Inc.
+Ship: Blackbird
+Weapon: Thunderbolt Heavy Missile
+
+Name: Th3 HuNt3r
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: EVE MegaCorp Association
+Ship: Blackbird
+Weapon: ECM - Multispectral Jammer I
+
+Name: Rick A
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Blackbird
+Weapon: Initiated Multispectral ECM I
+
+
+Destroyed items:
+
+Mega Anode Particle Stream I
+Mega Anode Particle Stream I
+Mega Anode Particle Stream I
+Standard L
+Standard L
+Standard L
+Standard L
+Medium Remote Armor Repair System I
+Conjunctive Radar ECCM Scanning Array I
+Emergency Damage Control I
+Energized Adaptive Nano Membrane I
+1600mm Reinforced Rolled Tungsten Plates I
+Antimatter Charge L, Qty: 3000 (Cargo)
+Multifrequency L, Qty: 2 (Cargo)
+Radio L, Qty: 7 (Cargo)
+

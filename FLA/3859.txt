@@ -1,0 +1,75 @@
+2007.04.02 22:41
+
+Victim: Dinosaurs Attack
+Alliance: None
+Corp: Imperforated Anus
+Destroyed: Slasher
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Satal Sonshi (laid the final blow)
+Security: 4.5
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery I
+
+Name: nye 2k
+Security: 5.0
+Alliance: None
+Corp: Silver Snake Enterprise
+Ship: Cormorant
+Weapon: 150mm Carbide Railgun I
+
+Name: Karai Kamasu
+Security: 1.4
+Alliance: Insane Asylum
+Corp: The Collective of Ascended Beings
+Ship: Vexor
+Weapon: 150mm Railgun I
+
+Name: Rev Darkwing
+Security: 2.7
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Flycatcher
+Weapon: Rocket Launcher II
+
+Name: Remontoir
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Blackbird
+Weapon: Enfeebling Phase Inversion ECM I
+
+Name: PHIONIX DARKANGEL
+Security: 5.0
+Alliance: Federation Of united Corps
+Corp: DEVEL'S REJECT'S
+Ship: Manticore
+Weapon: 'Limos' Cruise Launcher I
+
+Name: Kerdrak
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Vengeance
+Weapon: Vengeance
+
+Name: DarkAvenger DK
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Thorax
+Weapon: Kapteyn Sensor Array Inhibitor I
+
+Name: CENTUREAN
+Security: 4.2
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Drake
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+

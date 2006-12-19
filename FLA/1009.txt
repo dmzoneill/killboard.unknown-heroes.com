@@ -1,0 +1,160 @@
+2007.03.03 04:54
+
+Victim: Gavtlad
+Alliance: Firmus Ixion
+Corp: KDM Corp
+Destroyed: Harbinger
+System: 3-FKCZ
+Security: 0.0
+
+Involved parties:
+
+Name: Scylla V
+Security: 4.8
+Alliance: Imperial Republic Of the North
+Corp: VentureCorp
+Ship: Capsule
+Weapon: 250mm Railgun II
+
+Name: Minthos
+Security: 2.9
+Alliance: Morsus Mihi
+Corp: 4S Corporation
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: Beldarius
+Security: 5.0
+Alliance: Ekliptika
+Corp: MetaForge
+Ship: Armageddon
+Weapon: Mega Beam Laser II
+
+Name: NATMav
+Security: 1.7
+Alliance: EVE Animal Control
+Corp: F.R.E.E. Explorer
+Ship: Drake
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+Name: JFxSummoner
+Security: 3.6
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+Name: jesia
+Security: 0.0
+Alliance: Pure.
+Corp: Southern Cross Incorporated
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Zimi Vlasic
+Security: 2.6
+Alliance: EVE Animal Control
+Corp: F.R.E.E. Explorer
+Ship: Cyclone
+Weapon: Cyclone
+
+Name: ZEN ichiro
+Security: 4.6
+Alliance: Morsus Mihi
+Corp: Rage of Angels
+Ship: Taranis
+Weapon: Warrior II
+
+Name: POPLUTE
+Security: 3.8
+Alliance: Pure.
+Corp: Obsidian Asylum
+Ship: Stabber
+Weapon: Stabber
+
+Name: KIllA PEET
+Security: 1.0
+Alliance: None
+Corp: Eternal Rising
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Chuck Dawg
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Elfaen Ethenwe
+Security: 1.3
+Alliance: None
+Corp: Eternal Rising
+Ship: Capsule
+Weapon: Standard Missile Launcher II
+
+Name: Apple Boy
+Security: 3.1
+Alliance: RAZOR Alliance
+Corp: Thundercats
+Ship: Capsule
+Weapon: 200mm 'Scout' I Accelerator Cannon
+
+Name: Paltar
+Security: -1.5
+Alliance: None
+Corp: Eternal Rising
+Ship: Celestis
+Weapon: Celestis
+
+Name: Limited Slip
+Security: 1.9
+Alliance: None
+Corp: Eternal Rising
+Ship: Blackbird
+Weapon: Compulsive Multispectral ECM I
+
+Name: Kalarifik
+Security: 2.3
+Alliance: RAZOR Alliance
+Corp: Roving Guns Inc.
+Ship: Crusader
+Weapon: Crusader
+
+Name: Comradical
+Security: 5.1
+Alliance: THE R0CK
+Corp: The Keep
+Ship: Lachesis
+Weapon: 250mm Railgun II
+
+Name: Boliknar (laid the final blow)
+Security: 5.0
+Alliance: Hydra Alliance
+Corp: The Shadow Order
+Ship: Hurricane
+Weapon: 220mm Vulcan AutoCannon II
+
+
+Destroyed items:
+
+Focused Medium Pulse Laser II
+Focused Medium Pulse Laser II
+Focused Medium Pulse Laser II
+Focused Medium Pulse Laser II
+Focused Medium Pulse Laser II
+Heavy Pulse Laser II
+Small Nosferatu I
+Conflagration M
+Conflagration M
+Conflagration M
+Y-T8 Overcharged Hydrocarbon I Microwarpdrive
+X5 Prototype I Engine Enervator
+Damage Control II
+Small Armor Repairer II
+Extruded Heat Sink I
+1600mm Reinforced Rolled Tungsten Plates I
+1600mm Reinforced Rolled Tungsten Plates I
+Reactor Control Unit II
+Scorch M, Qty: 3 (Cargo)
+

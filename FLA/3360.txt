@@ -1,0 +1,44 @@
+2007.03.24 22:22
+
+Victim: SoF Reaperman
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Destroyed: Ferox
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: cyberfax3 (laid the final blow)
+Security: 5.0
+Alliance: None
+Corp: MotorSaikol LadrUNZ
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Flax Nemo
+Security: 5.0
+Alliance: None
+Corp: MotorSaikol LadrUNZ
+Ship: Megathron
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+
+Destroyed items:
+
+250mm Railgun I
+250mm Railgun I
+250mm Railgun I
+Thorium Charge M, Qty: 9
+Antimatter Charge M, Qty: 68
+Heavy Missile Launcher I
+Assault Missile Launcher I
+ECM - Multispectral Jammer I
+Sensor Booster I
+Signal Amplifier I
+Thorium Charge M, Qty: 1998 (Cargo)
+Antimatter Charge M, Qty: 2926 (Cargo)
+Thunderbolt Heavy Missile, Qty: 1964 (Cargo)
+Warrior I (Drone Bay)
+Hornet I (Drone Bay)
+

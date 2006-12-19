@@ -1,0 +1,47 @@
+2006.09.03 17:39
+
+Victim: Dark Warlon
+Alliance: R.I.S.K
+Corp: Yellow Wind
+Destroyed: Capsule
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Jessica McDaniel
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Caracal
+Weapon: 'Malkuth' Assault Missile Launcher I
+
+Name: digital oxygen (laid the final blow)
+Security: 4.1
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Ishkur
+Weapon: Acolyte II
+
+Name: Orangutang
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: London Transport
+Ship: Crow
+Weapon: Warp Disruptor I
+
+Name: KayaYautja
+Security: -9.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Crow
+Weapon: Fleeting Warp Scrambler I
+
+Name: Barukor
+Security: 1.7
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Vigil
+Weapon: Rocket Launcher I
+
+

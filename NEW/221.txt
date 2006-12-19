@@ -1,0 +1,99 @@
+2007.02.09 22:16
+
+Victim: Zap Zaberdine
+Alliance: Triumvirate.
+Corp: D00M.
+Destroyed: Claw
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Xantheris
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Harpy
+Weapon: Harpy
+
+Name: moon wolf
+Security: 5.0
+Alliance: The Foundation.
+Corp: EVE Corporation 160607
+Ship: Harpy
+Weapon: Harpy
+
+Name: Chaser Wolf
+Security: 2.5
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Chimera
+Weapon: Chimera
+
+Name: Valea Silpha
+Security: 2.1
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Rupture
+Weapon: 720mm Howitzer Artillery II
+
+Name: Gangreen
+Security: 0.2
+Alliance: None
+Corp: BGG
+Ship: Taranis
+Weapon: 125mm Railgun II
+
+Name: Burn Lump
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Capsule
+Weapon: 250mm Railgun II
+
+Name: Tnam (laid the final blow)
+Security: 1.7
+Alliance: None
+Corp: BGG
+Ship: Harpy
+Weapon: 150mm Prototype I Gauss Gun
+
+Name: Rick A
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Thrasher
+Weapon: 280mm Howitzer Artillery I
+
+Name: Lux0r
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Hawk
+Weapon: Standard Missile Launcher II
+
+Name: Kryton55
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Merlin
+Weapon: Warp Disruptor I
+
+Name: Dark Carnage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Blackbird
+Weapon: Heavy Missile Launcher I
+
+
+Destroyed items:
+
+Barrage S, Qty: 160
+'Arbalest' Rocket Launcher I
+1MN MicroWarpdrive II
+Small Armor Repairer II
+Energized Reactive Membrane II
+Mark I Modified SS Nanofiber Structure
+Local Hull Conversion Nanofiber Structure I
+Gremlin Rocket, Qty: 269 (Cargo)

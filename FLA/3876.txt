@@ -1,0 +1,69 @@
+2007.04.03 21:34
+
+Victim: Alex Smiff
+Alliance: Aftermath Alliance
+Corp: Pyrrhus Sicarii
+Destroyed: Crusader
+System: 2O9G-D
+Security: 0.0
+
+Involved parties:
+
+Name: Drist
+Security: 4.0
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Dominix
+Weapon: Vespa II
+
+Name: Cho Solo
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Deimos
+Weapon: Hobgoblin II
+
+Name: Slim Jim (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Claw
+Weapon: Flameburst Light Missile
+
+Name: Ramb3z
+Security: 2.1
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Typhoon
+Weapon: Wrath Cruise Missile
+
+Name: Seryius
+Security: 3.4
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Scorpion
+Weapon: Paradise Cruise Missile
+
+Name: Kerdrak
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Curse
+Weapon: Hobgoblin II
+
+Name: Kristian Dugat
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Armageddon
+Weapon: Armageddon
+
+
+Destroyed items:
+
+Dual Light Pulse Laser II
+Scorch S
+1MN MicroWarpdrive I
+Damage Control I
+Inertia Stabilizers I
+

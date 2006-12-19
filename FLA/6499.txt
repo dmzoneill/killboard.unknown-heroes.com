@@ -1,0 +1,47 @@
+2006.11.15 22:02
+
+Victim: Zorth Athall
+Alliance: None
+Corp: Dynamic Lunar Production Syndicate
+Destroyed: Exequror
+System: P-2TTL
+Security: 0.0
+
+Involved parties:
+
+Name: Elfaen Ethenwe (laid the final blow)
+Security: -1.6
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Raven
+Weapon: Mjolnir Javelin Torpedo
+
+Name: Sixty Ever4
+Security: 4.2
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Curse
+Weapon: Hammerhead I
+
+Name: Rede
+Security: -1.2
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Dominix
+Weapon: Hobgoblin II
+
+Name: jacass8496
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Tristan
+Weapon: Acolyte I
+
+
+Destroyed items:
+
+250mm Carbide Railgun I
+Antimatter Charge M, Qty: 160
+Tracking Computer I
+Vespa I, Qty: 2 (Drone Bay)
+

@@ -1,0 +1,27 @@
+2006.12.10 19:58
+
+Victim: Dan Boone
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Destroyed: Osprey
+System: Nonni
+Security: 0.5
+
+Involved parties:
+
+Name: Fjerkenstad (laid the final blow)
+Security: 1.0
+Alliance: None
+Corp: omen.
+Ship: Taranis
+Weapon: Light Neutron Blaster II
+
+
+Destroyed items:
+
+Miner II
+Miner II
+Civilian Shield Booster I
+10MN Afterburner II
+Gamma S (Cargo)
+

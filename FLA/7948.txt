@@ -1,0 +1,26 @@
+2006.10.03 22:57
+
+Victim: Valadeya uthanaras
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Destroyed: Capsule
+System: L-TS8S
+Security: 0.0
+
+Involved parties:
+
+Name: Noobjuice
+Security: -0.7
+Alliance: None
+Corp: Omniscient Order
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: Jessica Radaen (laid the final blow)
+Security: 0.4
+Alliance: None
+Corp: Forever Changes
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+

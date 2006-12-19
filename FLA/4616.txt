@@ -1,0 +1,31 @@
+2007.04.15 10:48
+
+Victim: Keltec
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Merlin
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: StarshipTrooper (laid the final blow)
+Security: 4.1
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Thanatos
+Weapon: Wasp I
+
+
+Destroyed items:
+
+Iron Charge S, Qty: 62
+Flameburst Light Missile, Qty: 35
+Standard Missile Launcher I
+Standard Missile Launcher I
+Small Shield Extender I
+Small Shield Extender I
+Non-Inertial Ballistic Screen Augmentation I
+Iron Charge S, Qty: 420 (Cargo)
+Flameburst Light Missile, Qty: 600 (Cargo)
+

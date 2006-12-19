@@ -1,0 +1,33 @@
+2007.04.18 01:14
+
+Victim: seferas
+Alliance: None
+Corp: State War Academy
+Destroyed: Capsule
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: coldkill
+Security: 1.9
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Brutix
+Weapon: Hobgoblin II
+
+Name: Tran Whistler (laid the final blow)
+Security: 5.3
+Alliance: Freelancer Alliance
+Corp: Harbingers of Sarrow
+Ship: Raptor
+Weapon: Light Ion Blaster I
+
+Name: dastommy79
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Executioner
+Weapon: Executioner
+
+

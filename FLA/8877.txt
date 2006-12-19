@@ -1,0 +1,24 @@
+2006.12.13 20:28
+
+Victim: Phedre Kincaid
+Alliance: Freelancer Alliance
+Corp: Sin-X Inc.
+Destroyed: Buzzard
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Stylaz (laid the final blow)
+Security: 5.0
+Alliance: None
+Corp: omen.
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+
+Destroyed items:
+
+Cynosural Field Generator I
+Liquid Ozone, Qty: 350 (Cargo)
+

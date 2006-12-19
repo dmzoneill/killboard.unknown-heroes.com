@@ -1,0 +1,130 @@
+2007.04.06 09:51
+
+Victim: Xordus
+Alliance: YouWhat
+Corp: Beasts of Burden
+Destroyed: Armageddon
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Cockroach
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Capsule
+Weapon: Tachyon Beam Laser II
+
+Name: Marie Veedor
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Drake
+Weapon: Warrior I
+
+Name: nXus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Drake
+Weapon: Widowmaker Heavy Missile
+
+Name: Kooter1
+Security: 5.0
+Alliance: Federation Of united Corps
+Corp: Solaris Operations
+Ship: Drake
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+Name: truefranco (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Myrmidon
+Weapon: Ogre II
+
+Name: Vartha Trin
+Security: 3.5
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Ferox
+Weapon: Ferox
+
+Name: Gythar
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Drake
+Weapon: Heavy Missile Launcher I
+
+Name: Chekoteh
+Security: 2.7
+Alliance: Freelancer Alliance
+Corp: United Forces
+Ship: Tempest
+Weapon: Devastator Cruise Missile
+
+Name: alpha lead
+Security: 1.5
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Darthirishguy
+Security: 2.1
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: RemusVI
+Security: 4.0
+Alliance: Amen Anera
+Corp: Legion Federation
+Ship: Incursus
+Weapon: Light Ion Blaster II
+
+Name: FlobbMkII
+Security: 4.4
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Celestis
+Weapon: Hornet I
+
+Name: Guristas Nullifier / Guristas
+
+Name: splinter3000
+Security: 5.0
+Alliance: Federation Of united Corps
+Corp: check mate Corp
+Ship: Impairor
+Weapon: Impairor
+
+Name: Danielson1012
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Capsule
+Weapon: ECM - Multispectral Jammer I
+
+
+Destroyed items:
+
+Mega Modulated Pulse Energy Beam I
+Mega Modulated Pulse Energy Beam I
+Mega Modulated Pulse Energy Beam I
+Dual Heavy Modulated Pulse Energy Beam I
+Multifrequency L
+Multifrequency L
+Gamma L
+Warp Disruptor II
+Heavy Electrochemical Capacitor Booster I
+Large Armor Repairer II
+Heat Sink II
+Shadow Serpentis Armor Explosive Hardener
+Microwave L, Qty: 4 (Cargo)
+Cap Booster 800, Qty: 14 (Cargo)
+Heavy Armor Maintenance Bot I, Qty: 3 (Drone Bay)
+

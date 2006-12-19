@@ -1,0 +1,55 @@
+2007.01.28 18:08
+
+Victim: Zattron
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Destroyed: Drake
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Farjung
+Security: -0.2
+Alliance: Band of Brothers
+Corp: TAOSP
+Ship: Dominix
+Weapon: Ogre II
+
+Name: Mr Staberinde (laid the final blow)
+Security: 0.2
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Sleipnir
+Weapon: 425mm AutoCannon II
+
+Name: papaPadla
+Security: 4.1
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Pilgrim
+Weapon: Hornet II
+
+Name: RogerWilco
+Security: 3.3
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Enyo
+Weapon: Enyo
+
+
+Destroyed items:
+
+Terror Assault Missile, Qty: 216
+Prototype Cloaking Device I
+Thunderbolt Heavy Missile, Qty: 22
+XR-3200 Heavy Missile Bay
+XR-3200 Heavy Missile Bay
+Large Shield Booster II
+Warp Disruptor I
+V-M15 Braced Multispectral Shield Matrix
+Power Diagnostic System II
+Cap Booster 800, Qty: 5 (Cargo)
+Widowmaker Heavy Missile, Qty: 376 (Cargo)
+Thunderbolt Heavy Missile, Qty: 871 (Cargo)
+

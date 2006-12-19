@@ -1,0 +1,25 @@
+2007.03.03 00:10
+
+Victim: Jorax
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Vexor
+System: PNQY-Y
+Security: 0.0
+
+Involved parties:
+
+Name: DeathGrip (laid the final blow)
+Security: 2.3
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Archon
+Weapon: Ogre I
+
+
+Destroyed items:
+
+Dual 150mm Railgun I
+Antimatter Charge M, Qty: 266
+Warp Disruptor I
+Stasis Webifier I

@@ -1,0 +1,100 @@
+2006.10.07 01:02
+
+Victim: HCMissile
+Alliance: None
+Corp: Natra Trans-Logistics
+Destroyed: Badger Mark II
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: DarkJester (laid the final blow)
+Security: 0.7
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Tempest
+Weapon: Thunderbolt Heavy Missile
+
+Name: avelution
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Seventh Star
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: Cockroach
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Malediction
+Weapon: Sabretooth Light Missile
+
+Name: jarson
+Security: -0.3
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Claw
+Weapon: Claw
+
+Name: Kismeteer
+Security: 3.4
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Incursus
+Weapon: Incursus
+
+Name: movy
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: Slinktress
+Security: 1.7
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: Scorpio63
+Security: 4.8
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Retribution
+Weapon: Retribution
+
+Name: Ian Storme
+Security: 2.0
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Ship: Ferox
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+Name: Hosanna
+Security: -0.7
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Stiletto
+Weapon: Faint Warp Prohibitor I
+
+Name: Flashh Gorden
+Security: 1.9
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Ship: Ferox
+Weapon: XR-3200 Heavy Missile Bay
+
+
+Destroyed items:
+
+Improved Cloaking Device II
+

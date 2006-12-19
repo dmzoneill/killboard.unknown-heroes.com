@@ -1,0 +1,30 @@
+2006.12.11 17:45
+
+Victim: Lei Linea
+Alliance: BORG Alliance
+Corp: Black Phantom Ops
+Destroyed: Vexor
+System: Archee
+Security: 0.4
+
+Involved parties:
+
+Name: Serpentis Chief Watchman / Serpentis Corporation
+
+Name: Adetia (laid the final blow)
+Security: 4.5
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+
+Destroyed items:
+
+Dual Diode Mining Laser I
+Dual Diode Mining Laser I
+Civilian Shield Booster I
+Civilian Shield Booster I
+Small Armor Repairer I
+Pure Jaspet, Qty: 203 (Cargo)
+

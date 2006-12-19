@@ -1,0 +1,40 @@
+2006.12.29 20:45
+
+Victim: Solis Ragyogas
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Destroyed: Capsule
+System: 7T6P-C
+Security: 0.0
+
+Involved parties:
+
+Name: Kai page
+Security: -0.5
+Alliance: Sani Khal'Vecna
+Corp: coracao ardente
+Ship: Claw
+Weapon: Claw
+
+Name: Puffer
+Security: -1.2
+Alliance: Sani Khal'Vecna
+Corp: WOLFPACK DELTA
+Ship: Claw
+Weapon: Claw
+
+Name: Rolvaag (laid the final blow)
+Security: 1.4
+Alliance: Sani Khal'Vecna
+Corp: Blood Inquisition
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Cyshade
+Security: -1.0
+Alliance: Sani Khal'Vecna
+Corp: Blood Inquisition
+Ship: Crow
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+

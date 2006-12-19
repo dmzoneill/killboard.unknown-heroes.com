@@ -1,0 +1,19 @@
+2006.04.14 16:27
+
+Victim: Laboratus
+Alliance: Freelancer Alliance
+Corp: BGG
+Destroyed: Capsule
+System: Y-1918
+Security: 0.0
+
+Involved parties:
+
+Name: ABURITORU (laid the final blow)
+Security: 3.9
+Alliance: E.R.A
+Corp: Delta team
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+

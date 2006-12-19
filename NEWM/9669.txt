@@ -1,0 +1,26 @@
+2007.05.22 06:24
+
+Victim: lieshou wx
+Alliance: None
+Corp: Sebiestor tribe
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Francois Dubuoi (laid the final blow)
+Security: 1.3
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Flycatcher
+Weapon: Bloodclaw Light Missile
+
+Name: Mufeater
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Ares
+Weapon: Ares
+
+

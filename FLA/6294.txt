@@ -1,0 +1,33 @@
+2006.11.12 00:52
+
+Victim: Karade
+Alliance: None
+Corp: Lemmings Inc
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: movy
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Lachesis
+Weapon: 250mm Railgun II
+
+Name: LizzyD (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Ishkur
+Weapon: 150mm Railgun II
+
+Name: Gangreen
+Security: 0.1
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Ishkur
+Weapon: Ishkur
+
+

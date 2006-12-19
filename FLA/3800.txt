@@ -1,0 +1,88 @@
+2007.04.01 15:17
+
+Victim: Noob Atheart
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Drake
+System: RORZ-H
+Security: 0.0
+
+Involved parties:
+
+Name: Kaar (laid the final blow)
+Security: 0.6
+Alliance: Cult of War
+Corp: Art of War
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Eleese
+Security: -0.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Lachesis
+Weapon: Warp Disruptor II
+
+Name: Dekein
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Rapier
+Weapon: Valkyrie II
+
+Name: abzzo
+Security: 1.7
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Zealot
+Weapon: Zealot
+
+Name: tomlinsonland
+Security: -1.8
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Crow
+Weapon: Crow
+
+Name: Tancred
+Security: 4.8
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Stiletto
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 90
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Large Azeotropic Ward Salubrity I
+10MN MicroWarpdrive I
+Shield Power Relay I
+Shield Power Relay I
+Warp Core Stabilizer I
+Beta Reactor Control: Diagnostic System I
+Shield Power Relay I (Cargo)
+Type-D Power Core Modification: Shield Power Relay (Cargo)
+Local Power Plant Manager: Reaction Shield Power Relay I (Cargo)
+Drones Rigging (Cargo)
+Armor Rigging (Cargo)
+Small Tractor Beam I, Qty: 2 (Cargo)
+Charred Micro Circuit, Qty: 33 (Cargo)
+Tripped Power Circuit, Qty: 38 (Cargo)
+Conductive Polymer, Qty: 15 (Cargo)
+Fried Interface Circuit, Qty: 16 (Cargo)
+Burned Logic Circuit, Qty: 4 (Cargo)
+Damaged Artificial Neural Network, Qty: 6 (Cargo)
+Local Power Plant Manager: Capacity Power Relay I (Cargo)
+Warhead Calefaction Catalyst I Blueprint (Cargo)
+Cargohold Optimization I Blueprint (Cargo)
+Memetic Algorithm Bank I Blueprint (Cargo)
+Core Defence Capacitor Safeguard I Blueprint (Cargo)
+Core Defence Field Purger I Blueprint (Cargo)
+Core Defence Field Extender I Blueprint (Cargo)
+Gravity Capacitor Upgrade I Blueprint (Cargo)
+Hornet I (Drone Bay)
+Hobgoblin I (Drone Bay)
+

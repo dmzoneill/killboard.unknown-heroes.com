@@ -1,0 +1,79 @@
+2007.04.06 21:59
+
+Victim: END3R 101
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Destroyed: Malediction
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Sigos (laid the final blow)
+Security: 3.9
+Alliance: None
+Corp: ORIGIN SYSTEMS
+Ship: Taranis
+Weapon: Light Neutron Blaster II
+
+Name: CENTUREAN
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Drake
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+Name: Hojo Norem
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Capsule
+Weapon: J5b Phased Prototype Warp Inhibitor I
+
+Name: Tiberius Drake
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Unknown
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: mr passie
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Muninn
+Weapon: 720mm Howitzer Artillery II
+
+Name: alpha lead
+Security: 1.5
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Drake
+Weapon: Heavy Missile Launcher I
+
+Name: Skelator0311
+Security: 2.9
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Darthirishguy
+Security: 2.1
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Drake
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+
+Destroyed items:
+
+Scorch S
+1MN MicroWarpdrive II
+Fleeting Warp Scrambler I
+Small Electrochemical Capacitor Booster I
+Nanofiber Internal Structure II
+Small 'Ghoul' Energy Siphon I (Cargo)
+125mm Railgun II, Qty: 2 (Cargo)
+Scorch S, Qty: 3 (Cargo)
+

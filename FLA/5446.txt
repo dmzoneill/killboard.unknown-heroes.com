@@ -1,0 +1,33 @@
+2006.10.03 19:43
+
+Victim: Optoed
+Alliance: R.I.S.K
+Corp: ReD eYe Inc.
+Destroyed: Capsule
+System: XQ-PXU
+Security: 0.0
+
+Involved parties:
+
+Name: Lone flyer (laid the final blow)
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Zealot
+Weapon: Heavy Pulse Laser II
+
+Name: Jumar Coldgin
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+Name: Ione79
+Security: 3.4
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Celestis
+Weapon: Kapteyn Sensor Array Inhibitor I
+
+

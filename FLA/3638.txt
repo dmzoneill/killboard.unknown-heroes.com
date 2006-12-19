@@ -1,0 +1,26 @@
+2007.03.28 12:18
+
+Victim: Sanal Gi
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Capsule
+System: E-Z2ZX
+Security: 0.0
+
+Involved parties:
+
+Name: PMolkenthin
+Security: -0.7
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Arazu
+Weapon: 200mm Railgun II
+
+Name: MegaJ (laid the final blow)
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Pilgrim
+Weapon: Hammerhead II
+
+

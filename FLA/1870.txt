@@ -1,0 +1,38 @@
+2007.01.07 08:30
+
+Victim: Nukuquqa Hestase
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Caracal
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Zalim (laid the final blow)
+Security: 3.4
+Alliance: None
+Corp: Janissaries
+Ship: Nighthawk
+Weapon: Thunderbolt Heavy Missile
+
+Name: Snob Rayne
+Security: -2.0
+Alliance: None
+Corp: Janissaries
+Ship: Dominix
+Weapon: Heavy Unstable Power Fluctuator I
+
+
+Destroyed items:
+
+Thunderbolt Heavy Missile, Qty: 42
+Havoc Heavy Missile, Qty: 21
+Heavy Missile Launcher I
+Heat Dissipation Field I
+Alumel-Wired I Sensor Augmentation
+Mark I Generator Refitting: Reaction Control
+Mark I Generator Refitting: Reaction Control
+Havoc Heavy Missile, Qty: 1000 (Cargo)
+Scourge Heavy Missile, Qty: 1000 (Cargo)
+

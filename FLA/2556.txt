@@ -1,0 +1,28 @@
+2007.02.20 19:16
+
+Victim: Sorlac Aurora
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Ferox
+System: Jita
+Security: 0.9
+
+Involved parties:
+
+Name: Jimmycs83 (laid the final blow)
+Security: -1.3
+Alliance: Privateer Alliance
+Corp: coracao ardente
+Ship: Myrmidon
+Weapon: Heavy Electron Blaster II
+
+
+Destroyed items:
+
+250mm 'Scout' I Accelerator Cannon
+Antimatter Charge M, Qty: 38
+Flameburst Light Missile, Qty: 62
+'Arbalest' Assault Missile Launcher
+Damage Control I
+Lead Charge M, Qty: 1378 (Cargo)
+

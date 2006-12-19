@@ -1,0 +1,98 @@
+2007.05.14 19:19
+
+Victim: Devon Vorberg
+Alliance: None
+Corp: Guys With Strippers
+Destroyed: Dominix
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: cavedog
+Security: 4.4
+Alliance: Event-Horizon
+Corp: Panta-Rhei
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Nikita Fontaine
+Security: 4.9
+Alliance: None
+Corp: g guild
+Ship: Flycatcher
+Weapon: Rocket Launcher II
+
+Name: Alch3mik (laid the final blow)
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Rapier
+Weapon: 720mm Howitzer Artillery II
+
+Name: Chiizukeeki
+Security: 4.0
+Alliance: Imperial Republic Of the North
+Corp: Karjala Inc.
+Ship: Claw
+Weapon: Claw
+
+Name: Drunken Cajun
+Security: 4.8
+Alliance: EVE Animal Control
+Corp: F.R.E.E. Explorer
+Ship: Vengeance
+Weapon: Vengeance
+
+Name: Madd Dok
+Security: 5.2
+Alliance: Imperial Republic Of the North
+Corp: Inversion
+Ship: Purifier
+Weapon: Paradise Cruise Missile
+
+Name: marakudi
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: crazymaz
+Security: 1.4
+Alliance: Frontline.
+Corp: MisFunk Inc.
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+
+Destroyed items:
+
+Mega Modulated Energy Beam I
+Fixed Parallel Link-Capacitor I
+Barton Reactor Capacitor Recharger I
+F-b10 Nominal Capacitor Regenerator
+F-b10 Nominal Capacitor Regenerator
+Radioisotope Explosive Hardener I
+N-Type Explosive Hardener I
+N-Type Thermic Hardener I
+1600mm Reinforced Rolled Tungsten Plates I
+Large F-S9 Regolith Shield Induction (Cargo)
+Large Shield Extender I, Qty: 3 (Cargo)
+X-Large Converse I Deflection Catalyzer (Cargo)
+X-Large Shield Booster I, Qty: 4 (Cargo)
+Large Shield Transporter I, Qty: 2 (Cargo)
+Fixed Parallel Link-Capacitor I (Cargo)
+Small 'Knave' I Energy Drain (Cargo)
+F-S15 Braced Deflection Shield Matrix (Cargo)
+F-293 Nutation Target Coupling (Cargo)
+F-89 Synchronized Signal Amplifier (Cargo)
+Co-Processor I (Cargo)
+Conductive Polymer, Qty: 10 (Cargo)
+Ward Console, Qty: 26 (Cargo)
+Charred Micro Circuit, Qty: 27 (Cargo)
+Malfunctioning Shield Emitter, Qty: 8 (Cargo)
+Burned Logic Circuit, Qty: 13 (Cargo)
+Local Power Plant Manager: Capacity Power Relay I (Cargo)
+Hammerhead I, Qty: 3 (Drone Bay)
+

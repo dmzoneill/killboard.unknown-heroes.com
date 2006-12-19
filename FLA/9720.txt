@@ -1,0 +1,39 @@
+2007.05.27 03:01
+
+Victim: Kvarium Ki
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Destroyed: Stabber
+System: 93PI-4
+Security: 0.0
+
+Involved parties:
+
+Name: Swiftness (laid the final blow)
+Security: -4.6
+Alliance: None
+Corp: VMF-214 Blacksheep
+Ship: Huginn
+Weapon: Thunderbolt Heavy Missile
+
+Name: Leylla Gainsborought
+Security: -9.7
+Alliance: None
+Corp: VMF-214 Blacksheep
+Ship: Curse
+Weapon: Hammerhead I
+
+
+Destroyed items:
+
+Barrage M, Qty: 258
+Bloodclaw Light Missile, Qty: 41
+Upgraded 'Limos' Standard Missile Bay I
+Large Shield Extender II
+10MN MicroWarpdrive I
+J5 Prototype Warp Inhibitor I
+Inertia Stabilizers II
+Nanofiber Internal Structure II
+Corpse, Qty: 6 (Cargo)
+Barrage M, Qty: 2587 (Cargo)
+

@@ -1,0 +1,53 @@
+2007.05.12 19:08
+
+Victim: Ilan Barak
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Destroyed: Myrmidon
+System: Haajinen
+Security: 0.8
+
+Involved parties:
+
+Name: Raffael Ramirez (laid the final blow)
+Security: -1.4
+Alliance: None
+Corp: Mentally Unstable Enterprises
+Ship: Nighthawk
+Weapon: Thunderbolt Heavy Missile
+
+Name: Ronnie Kray
+Security: -1.9
+Alliance: None
+Corp: Mentally Unstable Enterprises
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Lennier Cotto
+Security: -2.1
+Alliance: None
+Corp: Mentally Unstable Enterprises
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Del Boy
+Security: 0.0
+Alliance: None
+Corp: Mentally Unstable Enterprises
+Ship: Crow
+Weapon: Bloodclaw Precision Light Missile
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Medium Nosferatu I
+Medium Nosferatu I
+Heavy Electron Blaster I
+Antimatter Charge M, Qty: 193
+X5 Prototype I Engine Enervator
+Medium Capacitor Booster I
+Medium Armor Repairer I
+Energized Adaptive Nano Membrane I
+Ogre I, Qty: 2 (Drone Bay)
+

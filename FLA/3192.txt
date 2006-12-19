@@ -1,0 +1,33 @@
+2007.03.20 03:20
+
+Victim: Jesnens LoveSlave
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Destroyed: Celestis
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Vasili Z (laid the final blow)
+Security: 0.4
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Hurricane
+Weapon: 425mm AutoCannon II
+
+Name: Xoduse
+Security: 0.5
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Eris
+Weapon: Light Electron Blaster II
+
+
+Destroyed items:
+
+Kapteyn Sensor Array Inhibitor I
+Remote Sensor Dampener I
+Remote Sensor Dampener I
+Remote Sensor Dampener I
+

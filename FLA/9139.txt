@@ -1,0 +1,28 @@
+2006.12.31 18:30
+
+Victim: forever faithless
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Destroyed: Incursus
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Trinity Faetal (laid the final blow)
+Security: -0.8
+Alliance: Firmus Ixion
+Corp: Dark Centuri Inc.
+Ship: Vagabond
+Weapon: Dual 180mm AutoCannon II
+
+
+Destroyed items:
+
+125mm Railgun I
+Limited Light Neutron Blaster I
+Antimatter Charge S, Qty: 231
+Small Shield Booster I
+Power Diagnostic System I
+Acolyte I (Drone Bay)
+

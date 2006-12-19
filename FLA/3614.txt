@@ -1,0 +1,26 @@
+2007.03.27 22:15
+
+Victim: TheZwo
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Destroyed: Capsule
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Diego Barbera (laid the final blow)
+Security: -0.4
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Claw
+Weapon: 250mm Light 'Scout' Artillery I
+
+Name: Longrin
+Security: 2.9
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Stiletto
+Weapon: 250mm Light Artillery Cannon II
+
+

@@ -1,0 +1,26 @@
+2007.04.01 22:43
+
+Victim: tomlinsonland
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Destroyed: Capsule
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: RythemAndStealth
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Arbitrator
+Weapon: Hammerhead II
+
+Name: Deathratt (laid the final blow)
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+

@@ -1,0 +1,65 @@
+2007.03.02 00:05
+
+Victim: Mauy Thai
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Destroyed: Anathema
+System: YZ-LQL
+Security: 0.0
+
+Involved parties:
+
+Name: Asquiro (laid the final blow)
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Thanatos
+Weapon: Dragonfly
+
+Name: LaughingClown
+Security: 1.2
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Rapier
+Weapon: Rapier
+
+Name: Celador Nane
+Security: -2.2
+Alliance: Band of Brothers
+Corp: Reikoku
+Ship: Taranis
+Weapon: Taranis
+
+Name: Aschera
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Reikoku
+Ship: Sabre
+Weapon: 200mm AutoCannon II
+
+Name: Leyalor Esperence
+Security: 2.1
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Sabre
+Weapon: Sabre
+
+Name: Crohnx
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Reikoku
+Ship: Thanatos
+Weapon: Dragonfly
+
+
+Destroyed items:
+
+Covert Ops Cloaking Device II
+Recon Probe Launcher I
+J5 Prototype Warp Inhibitor I
+F-90 Positional Sensor Subroutines
+Beta Hull Mod Nanofiber Structure
+Beta Hull Mod Nanofiber Structure
+Beta Hull Mod Nanofiber Structure
+Snoop Scanner Probe I, Qty: 128 (Cargo)
+

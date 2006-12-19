@@ -1,0 +1,19 @@
+2006.12.11 20:22
+
+Victim: Prodigal IV
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Destroyed: Caldari Shuttle
+System: Torrinos
+Security: 0.5
+
+Involved parties:
+
+Name: Fjerkenstad (laid the final blow)
+Security: 1.0
+Alliance: None
+Corp: omen.
+Ship: Taranis
+Weapon: Light Neutron Blaster II
+
+

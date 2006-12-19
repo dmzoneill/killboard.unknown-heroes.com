@@ -1,0 +1,19 @@
+2006.11.13 08:04
+
+Victim: Beigehornet
+Alliance: None
+Corp: Digital Fury Corporation
+Destroyed: Capsule
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Digioso (laid the final blow)
+Security: 1.3
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Megathron
+Weapon: Domination Large Proton Smartbomb
+
+

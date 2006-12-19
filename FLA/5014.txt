@@ -1,0 +1,31 @@
+2007.04.21 01:33
+
+Victim: The Cade
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Destroyed: Thorax
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Admentus Cor'vion (laid the final blow)
+Security: -0.5
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Ishtar
+Weapon: Ogre II
+
+
+Destroyed items:
+
+Heavy Neutron Blaster I
+Heavy Neutron Blaster I
+Antimatter Charge M, Qty: 149
+Stasis Webifier I
+Small I-a Polarized Armor Regenerator
+Magnetic Field Stabilizer I
+Iridium Charge M, Qty: 800 (Cargo)
+Antimatter Charge M, Qty: 1619 (Cargo)
+Hammerhead I, Qty: 5 (Drone Bay)
+

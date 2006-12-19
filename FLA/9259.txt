@@ -1,0 +1,49 @@
+2007.05.05 18:20
+
+Victim: Sebi Fal
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Rifter
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Kvarium Ki (laid the final blow)
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Rupture
+Weapon: 720mm Howitzer Artillery I
+
+Name: Mocuker1
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Harpy
+Weapon: 125mm Railgun II
+
+Name: Migitis
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: Antipodean inc.
+Ship: Condor
+Weapon: Standard Missile Launcher I
+
+Name: Crushall
+Security: 5.0
+Alliance: The Foundation.
+Corp: NorCorp Security
+Ship: Raven
+Weapon: Cruise Missile Launcher I
+
+
+Destroyed items:
+
+Standard Missile Launcher I
+Standard Missile Launcher I
+1MN MicroWarpdrive I
+Warp Disruptor I
+Stasis Webifier I
+Bloodclaw Light Missile, Qty: 220 (Cargo)
+

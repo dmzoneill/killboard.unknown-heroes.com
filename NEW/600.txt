@@ -1,0 +1,79 @@
+2007.04.22 12:06
+
+Victim: Alitar Semiramis
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Drake
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Guristas Obliterator / Guristas
+
+Name: Bobby Atlas (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Hyperion
+Weapon: Modal Mega Neutron Particle Accelerator I
+
+Name: MrMaggot
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Manticore
+Weapon: Cataclysm Cruise Missile
+
+Name: Mocuker
+Security: 0.2
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Caracal
+Weapon: Flameburst Light Missile
+
+Name: Ghu'ru Talozan
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Celestis
+Weapon: Celestis
+
+Name: Nukuquqa Hestase
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Crow
+Weapon: Sabretooth Light Missile
+
+Name: forever faithless
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Rifter
+Weapon: Rifter
+
+Name: Rev Darkwing
+Security: 2.7
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Claw
+Weapon: Claw
+
+Name: Spartan dax
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Griffin
+Weapon: ECM - Spatial Destabilizer I
+
+
+Destroyed items:
+
+Small Plasma Smartbomb I
+Scourge Heavy Missile, Qty: 70
+'Malkuth' Heavy Missile Launcher I, Qty: 3
+Large Subordinate Screen Stabilizer I, Qty: 2
+Shield Power Relay I
+10MN Afterburner I (Cargo)
+Scourge Heavy Missile, Qty: 9074 (Cargo)

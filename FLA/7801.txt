@@ -1,0 +1,33 @@
+2006.08.30 09:51
+
+Victim: Cockroach
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Gallente Shuttle
+System: F7C-H0
+Security: 0.0
+
+Involved parties:
+
+Name: Zonneschijn
+Security: 4.8
+Alliance: None
+Corp: 0utbreak
+Ship: Ares
+Weapon: Ares
+
+Name: Kujin (laid the final blow)
+Security: 1.7
+Alliance: None
+Corp: 0utbreak
+Ship: Brutix
+Weapon: Heavy Ion Blaster II
+
+Name: Ace Frehley
+Security: 5.0
+Alliance: None
+Corp: 0utbreak
+Ship: Stabber
+Weapon: 220mm Vulcan AutoCannon I
+
+

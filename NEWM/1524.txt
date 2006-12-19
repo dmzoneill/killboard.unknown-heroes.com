@@ -1,0 +1,97 @@
+2007.03.15 16:17
+
+Victim: Jayne Corr
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Destroyed: Tempest
+System: XZH-4X
+Security: 0.0
+
+Involved parties:
+
+Name: ekkertnafnlaust
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Tempest
+Weapon: Tempest
+
+Name: Spartan dax
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Blair Quawn
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Caracal
+Weapon: Hornet I
+
+Name: Ocara Nezus
+Security: 2.4
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Crow
+Weapon: Bloodclaw Fury Light Missile
+
+Name: Ahramaine (laid the final blow)
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Dominix
+Weapon: 350mm Carbide Railgun I
+
+Name: S Dietershagen
+Security: 4.8
+Alliance: Freelancer Alliance
+Corp: The Night Crew
+Ship: Wolf
+Weapon: Wolf
+
+Name: Hal Grigor
+Security: 3.3
+Alliance: Freelancer Alliance
+Corp: The Night Crew
+Ship: Caracal
+Weapon: Widowmaker Heavy Missile
+
+Name: r Cubed
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: The Night Crew
+Ship: Cormorant
+Weapon: Cormorant
+
+Name: Minisoza
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Enyo
+Weapon: Enyo
+
+Name: Khelia
+Security: 0.5
+Alliance: Dusk and Dawn
+Corp: Stardust Heavy Industries
+Ship: Myrmidon
+Weapon: 250mm 'Scout' I Accelerator Cannon
+
+
+Destroyed items:
+
+EMP L
+EMP L
+EMP L
+Tremor L, Qty: 9
+Quake L
+Quake L
+Quake L
+Gyrostabilizer II
+1600mm Reinforced Rolled Tungsten Plates I
+Reactor Control Unit I
+EMP L, Qty: 1950 (Cargo)
+Quake L, Qty: 1972 (Cargo)
+

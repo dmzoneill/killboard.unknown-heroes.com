@@ -1,0 +1,41 @@
+2007.01.30 04:37
+
+Victim: Gen Bang
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Destroyed: Iteron Mark III
+System: Sivala
+Security: 0.6
+
+Involved parties:
+
+Name: Grammador
+Security: 1.2
+Alliance: Privateer Alliance
+Corp: Privateers
+Ship: Drake
+Weapon: Advanced 'Limos' Heavy Missile Bay I
+
+Name: Mave Insectum (laid the final blow)
+Security: -1.8
+Alliance: Privateer Alliance
+Corp: Privateers
+Ship: Stiletto
+Weapon: 200mm AutoCannon II
+
+Name: Raven Owa
+Security: 0.8
+Alliance: Privateer Alliance
+Corp: Privateers
+Ship: Drake
+Weapon: 'Arbalest' Heavy Missile Launcher
+
+
+Destroyed items:
+
+Small Energy Transfer Array I
+125mm Carbide Railgun I
+'Penumbra' I White Noise ECM
+Expanded Cargohold I
+Expanded Cargohold I
+

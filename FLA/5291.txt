@@ -1,0 +1,68 @@
+2007.04.23 18:07
+
+Victim: marakudi
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Destroyed: Maller
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Lord Caine (laid the final blow)
+Security: 4.9
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Chimera
+Weapon: Einherji
+
+Name: Fitz Farseer
+Security: 0.5
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Rupture
+Weapon: Berserker I
+
+Name: Georgenator
+Security: -0.4
+Alliance: Lotka Volterra
+Corp: CRICE Corporation
+Ship: Capsule
+Weapon: Standard Missile Launcher I
+
+Name: Screamer
+Security: 0.8
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Chimera
+Weapon: Einherji
+
+Name: Evil Bunnies
+Security: 0.2
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Blackbird
+Weapon: Heavy Missile Launcher I
+
+Name: Aut Nihil
+Security: 0.1
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Kestrel
+Weapon: Standard Missile Launcher I
+
+
+Destroyed items:
+
+Small Nosferatu I
+Medium Rudimentary Energy Destabilizer I
+125mm Railgun I
+Tungsten Charge S, Qty: 57
+Medium F-4a Ld-Sulfate I Capacitor Charge Unit
+Medium Capacitor Battery I
+Remote Sensor Dampener I
+Medium Armor Repairer I
+Medium Armor Repairer I
+Energized Thermic Membrane I
+Armor Explosive Hardener I
+

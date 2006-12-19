@@ -1,0 +1,60 @@
+2006.09.04 18:45
+
+Victim: reaTh
+Alliance: Band of Brothers
+Corp: Reikoku
+Destroyed: Taranis
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Jumar Coldgin (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+Name: XxAngelxX
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Malediction
+Weapon: Shadow Serpentis Stasis Webifier
+
+Name: keilapuukko
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Eagle
+Weapon: Bloodclaw Light Missile
+
+Name: Ione79
+Security: 2.4
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Taranis
+Weapon: Light Neutron Blaster II
+
+Name: Damfoose
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Caracal
+Weapon: Heavy Missile Launcher I
+
+
+Destroyed items:
+
+Light Ion Blaster II
+Null S, Qty: 240
+Warp Scrambler I
+Warp Scrambler I
+Emergency Damage Control I
+Small Armor Repairer II
+1MN Afterburner II (Cargo)
+Null S, Qty: 2332 (Cargo)
+Reactor Control Unit II, Qty: 9 (Cargo)
+Warrior II (Drone Bay)
+

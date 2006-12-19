@@ -1,0 +1,40 @@
+2007.05.24 18:11
+
+Victim: R4Z0R49
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Badger Mark II
+System: VK-A5G
+Security: 0.0
+
+Involved parties:
+
+Name: Volh (laid the final blow)
+Security: 4.8
+Alliance: Legion of xXDEATHXx
+Corp: OMNYX
+Ship: Curse
+Weapon: Hammerhead II
+
+Name: Phlegma Kars
+Security: -3.4
+Alliance: Legion of xXDEATHXx
+Corp: OMNYX
+Ship: Dominix
+Weapon: Valkyrie II
+
+Name: razdolbay
+Security: 1.8
+Alliance: Legion of xXDEATHXx
+Corp: OMNYX
+Ship: Sabre
+Weapon: Sabre
+
+
+Destroyed items:
+
+Medium Supplemental Barrier Emitter I
+Medium Azeotropic Ward Salubrity I
+Non-Inertial Ballistic Screen Augmentation I
+Warp Core Stabilizer I
+

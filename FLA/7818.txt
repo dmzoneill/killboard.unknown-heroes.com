@@ -1,0 +1,56 @@
+2006.09.03 00:48
+
+Victim: Kiztent
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Destroyed: Typhoon
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Altai Saker (laid the final blow)
+Security: -0.9
+Alliance: None
+Corp: Omniscient Order
+Ship: Armageddon
+Weapon: Mega Pulse Laser II
+
+Name: Furious Raccoon
+Security: 0.5
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Raven
+Weapon: Bane Javelin Torpedo
+
+Name: Crusari
+Security: 5.0
+Alliance: None
+Corp: Omniscient Order
+Ship: Ishtar
+Weapon: Ogre II
+
+Name: H Zub
+Security: -0.8
+Alliance: None
+Corp: Omniscient Order
+Ship: Dominix
+Weapon: Dominix
+
+
+Destroyed items:
+
+800mm Repeating Artillery I
+Juggernaut Torpedo, Qty: 32
+Wrath Cruise Missile, Qty: 40
+'Limos' Cruise Launcher I
+Shock 'Limos' Siege Missile Bay I
+Shock 'Limos' Siege Missile Bay I
+F-b10 Nominal Capacitor Regenerator
+100MN Afterburner I
+Large 'Accommodation' Vestment Reconstructer I
+Energized Thermic Membrane II
+Armor Thermic Hardener I
+Phased Plasma L, Qty: 700 (Cargo)
+Wasp I, Qty: 2 (Drone Bay)
+

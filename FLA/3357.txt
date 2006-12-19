@@ -1,0 +1,68 @@
+2007.03.24 21:30
+
+Victim: dastommy79
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Destroyed: Blackbird
+System: O-BDXB
+Security: 0.0
+
+Involved parties:
+
+Name: moroti (laid the final blow)
+Security: 4.2
+Alliance: THE R0NIN
+Corp: Yakuza Corp
+Ship: Megathron
+Weapon: Neutron Blaster Cannon II
+
+Name: Rugs
+Security: -1.0
+Alliance: THE R0NIN
+Corp: Yakuza Corp
+Ship: Zealot
+Weapon: Zealot
+
+Name: Taurus 595
+Security: 4.6
+Alliance: THE R0NIN
+Corp: Yakuza Corp
+Ship: Tempest
+Weapon: Dual 650mm Repeating Artillery II
+
+Name: JackCo
+Security: 2.2
+Alliance: THE R0NIN
+Corp: Yakuza Corp
+Ship: Hurricane
+Weapon: 425mm Medium 'Scout' Autocannon I
+
+Name: Falconetta
+Security: 5.0
+Alliance: THE R0NIN
+Corp: Yakuza Corp
+Ship: Myrmidon
+Weapon: Myrmidon
+
+Name: LordXL
+Security: -1.0
+Alliance: THE R0NIN
+Corp: Yakuza Corp
+Ship: Dominix
+Weapon: E500 Prototype Energy Vampire
+
+
+Destroyed items:
+
+125mm Railgun II
+Javelin S, Qty: 32
+Thunderbolt Heavy Missile, Qty: 34
+Heavy Missile Launcher I
+Initiated Multispectral ECM I
+Initiated Multispectral ECM I
+Sensor Booster I
+Signal Distortion Amplifier I
+Signal Distortion Amplifier I
+Spike S, Qty: 97 (Cargo)
+Havoc Heavy Missile, Qty: 200 (Cargo)
+

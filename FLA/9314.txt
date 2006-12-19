@@ -1,0 +1,127 @@
+2007.05.07 14:28
+
+Victim: Nexus2010
+Alliance: YouWhat
+Corp: Princeps Corp
+Destroyed: Raven
+System: YKSC-A
+Security: 0.0
+
+Involved parties:
+
+Name: Desidos
+Security: 5.0
+Alliance: None
+Corp: Nordgoetter
+Ship: Rupture
+Weapon: Rupture
+
+Name: Nyack
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: GREY COUNCIL
+Ship: Sabre
+Weapon: Sabre
+
+Name: Nadraas
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: Antipodean inc.
+Ship: Stabber
+Weapon: Thunderbolt Heavy Missile
+
+Name: demotar
+Security: 4.2
+Alliance: Sparta Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Huginn
+Weapon: 'Arbalest' Heavy Missile Launcher
+
+Name: ClogMan
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Wolf
+Weapon: Wolf
+
+Name: Iss Hogai (laid the final blow)
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: GREY COUNCIL
+Ship: Falcon
+Weapon: Havoc Heavy Missile
+
+Name: Kayron Brennan
+Security: 0.7
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Haka Aragon
+Security: 3.6
+Alliance: Sparta Alliance
+Corp: XERCORE
+Ship: Blackbird
+Weapon: Scourge Heavy Missile
+
+Name: Tassill
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: GREY COUNCIL
+Ship: Rapier
+Weapon: Rapier
+
+Name: GBSabre
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: Antipodean inc.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: AnarchistUK
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: United Space Republic
+Ship: Hawk
+Weapon: Standard Missile Launcher I
+
+Name: Modir II
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: Antipodean inc.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Ghu'ru Talozan
+Security: 5.1
+Alliance: Sparta Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Taranis
+Weapon: Warp Disruptor II
+
+Name: 3ungle
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: Antipodean inc.
+Ship: Taranis
+Weapon: Taranis
+
+
+Destroyed items:
+
+Large YF-12a Smartbomb
+Cruise Missile Launcher II
+Cruise Missile Launcher II
+Cataclysm Precision Cruise Missile, Qty: 76
+Initiated Warp Jammer I
+Heavy Electrochemical Capacitor Booster I
+Heat Dissipation Field II
+Ballistic Deflection Field II
+Damage Control II
+Co-Processor II
+Power Diagnostic System II
+Cap Booster 800, Qty: 2 (Cargo)
+Devastator Cruise Missile, Qty: 250 (Cargo)
+Hammerhead I (Drone Bay)
+

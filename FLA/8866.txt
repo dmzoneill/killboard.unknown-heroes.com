@@ -1,0 +1,33 @@
+2006.12.12 22:10
+
+Victim: Sil330
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Capsule
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: siliconix (laid the final blow)
+Security: -1.0
+Alliance: None
+Corp: 0utbreak
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: magic don
+Security: 0.1
+Alliance: None
+Corp: 0utbreak
+Ship: Claw
+Weapon: Claw
+
+Name: kbullet
+Security: -2.3
+Alliance: None
+Corp: 0utbreak
+Ship: Malediction
+Weapon: Malediction
+
+

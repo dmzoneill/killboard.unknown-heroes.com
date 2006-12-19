@@ -1,0 +1,25 @@
+2006.10.14 01:58
+
+Victim: Lauren Gawain
+Alliance: None
+Corp: Center for Advanced Studies
+Destroyed: Velator
+System: EWOK-K
+Security: 0.0
+
+Involved parties:
+
+Name: Nil Desperandum (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Omen
+Weapon: Heavy Pulse Laser II
+
+
+Destroyed items:
+
+Civilian Light Electron Blaster
+Basic Miner
+Tritanium (Cargo)
+

@@ -1,0 +1,33 @@
+2006.12.11 22:02
+
+Victim: Kalibrana
+Alliance: Freelancer Alliance
+Corp: Thors Hammers
+Destroyed: Thorax
+System: 5W3-DG
+Security: 0.0
+
+Involved parties:
+
+Name: David Ryan (laid the final blow)
+Security: -0.2
+Alliance: None
+Corp: Perkone
+Ship: Megathron
+Weapon: Wasp I
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Heavy Neutron Blaster I
+Antimatter Charge M, Qty: 240
+10MN MicroWarpdrive I
+J5b Phased Prototype Warp Inhibitor I
+Small Armor Repairer I
+Magnetic Vortex Stabilizer I
+Warrior II, Qty: 2 (Cargo)
+Acolyte I (Cargo)
+Hobgoblin II (Cargo)
+Hammerhead I (Drone Bay)
+

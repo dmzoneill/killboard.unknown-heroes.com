@@ -1,0 +1,36 @@
+2007.01.20 00:46
+
+Victim: Thiet
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Caracal
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Murdoch Morf
+Security: 0.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Drakin Korin (laid the final blow)
+Security: -1.6
+Alliance: None
+Corp: Eternal Rising
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Sabretooth Light Missile, Qty: 110
+SV-2000 Assault Missile Bay
+'Malkuth' Assault Missile Launcher I
+Medium Shield Booster I
+Stasis Webifier I
+Warrior I (Drone Bay)
+

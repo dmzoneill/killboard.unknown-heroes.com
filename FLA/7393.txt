@@ -1,0 +1,56 @@
+2006.08.31 15:51
+
+Victim: Shzanzia
+Alliance: None
+Corp: GeoTech
+Destroyed: Caracal
+System: K4YZ-Y
+Security: 0.0
+
+Involved parties:
+
+Name: Jumar Coldgin (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+Name: Mirage o
+Security: -0.3
+Alliance: Freelancer Alliance
+Corp: Terminal Velocity Inc.
+Ship: Heretic
+Weapon: Heretic
+
+Name: Drakin Korin
+Security: -4.2
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Vigil
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 64
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+Large Azeotropic Ward Salubrity I
+Ballistic Deflection Field I
+Non-Inertial Ballistic Screen Augmentation I
+Non-Inertial Ballistic Screen Augmentation I
+Non-Inertial Ballistic Screen Augmentation I
+Large Subordinate Screen Stabilizer I (Cargo)
+Shield Recharger I (Cargo)
+Medium Shield Booster I (Cargo)
+Small Shield Booster I (Cargo)
+1MN Afterburner I (Cargo)
+10MN Afterburner I (Cargo)
+Miner II (Cargo)
+Explosion Dampening Field I, Qty: 2 (Cargo)
+Warp Core Stabilizer I (Cargo)
+Expanded Cargohold I (Cargo)
+

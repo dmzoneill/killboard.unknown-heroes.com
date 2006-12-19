@@ -1,0 +1,158 @@
+2007.02.03 22:30
+
+Victim: truefranco
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Destroyed: Raven
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Sir JoJo
+Security: 2.1
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Tempest
+Weapon: Tempest
+
+Name: Darcuese
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Abaddon
+Weapon: Abaddon
+
+Name: Cmdr Sp0ck
+Security: 2.3
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Apocalypse
+Weapon: Apocalypse
+
+Name: WarLi
+Security: 3.8
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: LUKEC
+Security: 0.8
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Rokh
+Weapon: Rokh
+
+Name: Lokan
+Security: 0.9
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Drift Spec
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Dark1
+Security: 3.2
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: jernej
+Security: 4.2
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: tAkErPT (laid the final blow)
+Security: 4.2
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Cerberus
+Weapon: Scourge Heavy Missile
+
+Name: Red Lantern
+Security: 2.5
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Crow
+Weapon: Flameburst Light Missile
+
+Name: Memphisz
+Security: 0.3
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Repiv
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Abaddon
+Weapon: Abaddon
+
+Name: Moyrah
+Security: 3.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Claw
+Weapon: Claw
+
+Name: sageO
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Eagle
+Weapon: Eagle
+
+Name: eyesu
+Security: 3.5
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Seth Quantix
+Security: -0.2
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Crusader
+Weapon: Fleeting Warp Scrambler I
+
+Name: Ragotha
+Security: 1.1
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Raven
+Weapon: Siege Missile Launcher II
+
+Name: Marschall
+Security: 2.2
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Crow
+Weapon: Faint Warp Prohibitor I
+
+
+Destroyed items:
+
+Wrath Cruise Missile, Qty: 62
+'Limos' Cruise Launcher I
+'Limos' Cruise Launcher I
+Photon Scattering Field I
+Sensor Booster II
+Ballistic Control System II
+Ballistic Control System II
+Cataclysm Cruise Missile, Qty: 69 (Cargo)
+Vespa II, Qty: 3 (Drone Bay)
+Valkyrie II, Qty: 2 (Drone Bay)
+

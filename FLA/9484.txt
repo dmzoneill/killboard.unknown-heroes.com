@@ -1,0 +1,44 @@
+2007.05.14 21:04
+
+Victim: lambert butler
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Destroyed: Ishkur
+System: Tamo
+Security: 0.3
+
+Involved parties:
+
+Name: Serj Darek (laid the final blow)
+Security: -1.8
+Alliance: None
+Corp: Mentally Unstable Enterprises
+Ship: Huginn
+Weapon: 650mm Artillery Cannon II
+
+Name: Madboy
+Security: 2.8
+Alliance: None
+Corp: Mentally Unstable Enterprises
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Reggie Kray
+Security: -1.7
+Alliance: None
+Corp: Mentally Unstable Enterprises
+Ship: Arazu
+Weapon: Infiltrator II
+
+
+Destroyed items:
+
+Small Diminishing Power System Drain I
+Small Diminishing Power System Drain I
+1MN Afterburner II
+Warp Scrambler I
+Small Armor Repairer II
+Reactor Control Unit I
+Hammerhead II, Qty: 2 (Drone Bay)
+Hobgoblin II, Qty: 3 (Drone Bay)
+

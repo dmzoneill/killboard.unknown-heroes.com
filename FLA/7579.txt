@@ -1,0 +1,78 @@
+2006.09.21 20:33
+
+Victim: Valentein vanderKGB
+Alliance: Eternal Empire
+Corp: Exil Industries
+Destroyed: Blackbird
+System: J-CIJV
+Security: 0.0
+
+Involved parties:
+
+Name: ShiVAs PArAdOXx
+Security: 2.1
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Tempest
+Weapon: Bloodclaw Light Missile
+
+Name: Needa3
+Security: 4.9
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Rupture
+Weapon: Piranha Light Missile
+
+Name: XxAngelxX
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Armageddon
+Weapon: Mega Modulated Pulse Energy Beam I
+
+Name: Kolombus (laid the final blow)
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Ishkur
+Weapon: 150mm Railgun II
+
+Name: kermitfrog
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Puke
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Crow
+Weapon: Sabretooth Light Missile
+
+Name: jacass66
+Security: 4.8
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Ferox
+Weapon: 'Arbalest' Heavy Missile Launcher
+
+Name: copicus
+Security: 5.2
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Scorpion
+Weapon: ECM - Multispectral Jammer II
+
+
+Destroyed items:
+
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Assault Missile Launcher I
+Medium Shield Booster I
+Warp Core Stabilizer I
+400mm Reinforced Nanofiber Plates I
+Flameburst Light Missile, Qty: 278 (Cargo)
+

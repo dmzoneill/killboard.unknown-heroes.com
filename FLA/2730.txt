@@ -1,0 +1,29 @@
+2007.03.04 03:00
+
+Victim: Aikuchi Hiddensword
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Taranis
+System: DBRN-Z
+Security: 0.0
+
+Involved parties:
+
+Name: Naverin (laid the final blow)
+Security: 5.0
+Alliance: Xelas Alliance
+Corp: Setenta Corp
+Ship: Archon
+Weapon: Brynn's Modified Large Plasma Smartbomb
+
+
+Destroyed items:
+
+Light Ion Blaster I
+Light Ion Blaster I
+Antimatter Charge S, Qty: 92
+J5b Phased Prototype Warp Inhibitor I
+Antimatter Charge S, Qty: 4026 (Cargo)
+Multifrequency M (Cargo)
+Condensed Alloy, Qty: 13 (Cargo)
+

@@ -1,0 +1,33 @@
+2007.01.09 19:47
+
+Victim: Elfaen Ethenwe
+Alliance: None
+Corp: Evil Bandit Organisation
+Destroyed: Crow
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Soldroz (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Eagle
+Weapon: Flameburst Light Missile
+
+Name: Guristas Supremacist / Guristas
+
+
+Destroyed items:
+
+Standard Missile Launcher II
+Standard Missile Launcher II
+Sabretooth Precision Light Missile, Qty: 48
+1MN MicroWarpdrive II
+'Langour' Drive Disruptor I
+Beta Hull Mod Nanofiber Structure
+Beta Hull Mod Nanofiber Structure
+Power Diagnostic System I
+Sabretooth Precision Light Missile, Qty: 478 (Cargo)
+

@@ -1,0 +1,33 @@
+2007.03.12 16:46
+
+Victim: Seuvka
+Alliance: YouWhat
+Corp: Pringles Inc.
+Destroyed: Capsule
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: sakana (laid the final blow)
+Security: -0.9
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Eris
+Weapon: 75mm Gatling Rail II
+
+Name: S Dietershagen
+Security: 4.8
+Alliance: Freelancer Alliance
+Corp: The Night Crew
+Ship: Wolf
+Weapon: 250mm Light Artillery Cannon II
+
+Name: EvilBadger
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Hawk
+Weapon: Fleeting Warp Scrambler I
+
+

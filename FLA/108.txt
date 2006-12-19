@@ -1,0 +1,40 @@
+2007.01.10 23:12
+
+Victim: Major Bates
+Alliance: None
+Corp: Agony Unleashed
+Destroyed: Merlin
+System: X-7OMU
+Security: 0.0
+
+Involved parties:
+
+Name: Dr Andy (laid the final blow)
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Celestis
+Weapon: 200mm Prototype I Gauss Gun
+
+Name: Solarienne
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Manticore
+Weapon: 'Arbalest' Cruise Launcher I
+
+
+Destroyed items:
+
+Light Electron Blaster II
+Light Electron Blaster II
+Null S, Qty: 200
+Thorn Rocket, Qty: 30
+'Malkuth' Rocket Launcher I
+Stasis Webifier I
+'Langour' Drive Disruptor I
+Nanofiber Internal Structure I
+Antimatter Charge S, Qty: 2947 (Cargo)
+Null S, Qty: 553 (Cargo)
+Thorn Rocket, Qty: 4893 (Cargo)
+

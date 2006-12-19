@@ -1,0 +1,56 @@
+2007.05.25 17:24
+
+Victim: command95
+Alliance: None
+Corp: Imperial Academy
+Destroyed: Bestower
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: articz
+Security: -0.5
+Alliance: DeStInY.
+Corp: House Of Aaron
+Ship: Tempest
+Weapon: Tempest
+
+Name: Death Reactor
+Security: -3.5
+Alliance: DeStInY.
+Corp: The Knights Of Camelot
+Ship: Zealot
+Weapon: Zealot
+
+Name: Steven FSB
+Security: 3.5
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Harpy
+Weapon: Harpy
+
+Name: Yesh (laid the final blow)
+Security: 2.7
+Alliance: The Fifth Race
+Corp: Antares Frontier
+Ship: Malediction
+Weapon: Dual Light Beam Laser II
+
+Name: Ember Fox
+Security: 1.6
+Alliance: DeStInY.
+Corp: Fusion Enterprises Ltd
+Ship: Jaguar
+Weapon: Jaguar
+
+
+Destroyed items:
+
+Medium Clarity Ward Booster I
+Medium C5-L Emergency Shield Overload I
+10MN Afterburner I
+Juggernaut Torpedo, Qty: 39000 (Cargo)
+Warp Core Stabilizer I, Qty: 2 (Cargo)
+Giant Secure Container (Cargo)
+

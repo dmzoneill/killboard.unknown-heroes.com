@@ -1,0 +1,57 @@
+2007.05.26 00:48
+
+Victim: dastommy79
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Destroyed: Brutix
+System: O-CNPR
+Security: 0.0
+
+Involved parties:
+
+Name: Raffer Steele (laid the final blow)
+Security: 2.7
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Myrmidon
+Weapon: Heavy Ion Blaster II
+
+Name: Krazor
+Security: 2.7
+Alliance: Storm Armada
+Corp: Virtual Warriors
+Ship: Sabre
+Weapon: Sabre
+
+Name: KtB
+Security: -1.7
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Myrmidon
+Weapon: Myrmidon
+
+Name: Chall
+Security: 2.2
+Alliance: Storm Armada
+Corp: Virtual Warriors
+Ship: Drake
+Weapon: Terror Assault Missile
+
+Name: lethario desrtuction
+Security: 2.3
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Buzzard
+Weapon: Warp Disruptor II
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Heavy Ion Blaster I
+Antimatter Charge M, Qty: 480
+Medium Armor Repairer II
+N-Type Thermic Hardener I
+N-Type Kinetic Hardener I
+Valkyrie I, Qty: 3 (Drone Bay)
+

@@ -1,0 +1,131 @@
+2007.04.21 00:54
+
+Victim: Lyra Sy
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Vulture
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Kvarium Ki
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Capsule
+Weapon: 'Malkuth' Assault Missile Launcher I
+
+Name: DeSantis (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+Name: Bobby Atlas
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Capsule
+Weapon: 250mm Light Artillery Cannon I
+
+Name: Kartock Maar
+Security: 2.1
+Alliance: Freelancer Alliance
+Corp: Harbingers of Sarrow
+Ship: Enyo
+Weapon: Enyo
+
+Name: sparkvolt
+Security: -0.7
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Rifter
+Weapon: Rifter
+
+Name: Nil Desperandum
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Rupture
+Weapon: 425mm Medium Carbine Repeating Cannon I
+
+Name: Kee Ris
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Coercer
+Weapon: Dual Light Beam Laser I
+
+Name: coldkill
+Security: 1.9
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Capsule
+Weapon: Warp Disruptor I
+
+Name: dastommy79
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Thorax
+Weapon: Hammerhead I
+
+Name: other mickey
+Security: 3.2
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Capsule
+Weapon: Hammerhead I
+
+Name: Ghu'ru Talozan
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Unknown
+Weapon: Hammerhead I
+
+Name: Minisoza
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Tristan
+Weapon: Hobgoblin I
+
+Name: Magic Mazuma
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Slasher
+Weapon: 200mm AutoCannon I
+
+Name: Aridante Lemure
+Security: 1.2
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Capsule
+Weapon: Heavy Ion Blaster I
+
+Name: Rhaall
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Capsule
+Weapon: Initiated Warp Jammer I
+
+
+Destroyed items:
+
+250mm Prototype I Gauss Gun, Qty: 3
+Antimatter Charge M, Qty: 47
+Heavy Missile Launcher II
+Large Shield Booster II
+Photon Scattering Field II
+Sensor Booster II, Qty: 2
+Gravimetric Backup Array II
+Magnetic Field Stabilizer II
+Power Diagnostic System II
+Antimatter Charge M, Qty: 2560 (Cargo)
+Thunderbolt Heavy Missile, Qty: 182 (Cargo)
+Hornet II, Qty: 5 (Drone Bay)

@@ -1,0 +1,36 @@
+2007.05.16 13:56
+
+Victim: SleepyJack
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Nemesis
+System: L-C3O7
+Security: 0.0
+
+Involved parties:
+
+Name: SaNoSuKeJavi (laid the final blow)
+Security: -1.9
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+Name: Qirajiii
+Security: 4.4
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Capsule
+Weapon: 150mm Carbide Railgun I
+
+
+Destroyed items:
+
+Improved Cloaking Device II
+Devastator Cruise Missile, Qty: 10
+XT-9000 Cruise Launcher
+XT-9000 Cruise Launcher
+Fixed Parallel Link-Capacitor I
+Alumel-Wired I Sensor Augmentation
+Alumel-Wired I Sensor Augmentation
+

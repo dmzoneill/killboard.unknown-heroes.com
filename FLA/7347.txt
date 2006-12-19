@@ -1,0 +1,56 @@
+2006.08.14 03:38
+
+Victim: Zeus BLaze
+Alliance: Process of Elimination
+Corp: Occassus Republica
+Destroyed: Tempest
+System: X-7OMU
+Security: 0.0
+
+Involved parties:
+
+Name: Weeble Wooble (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Bricker
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Capsule
+Weapon: 250mm 'Scout' I Accelerator Cannon
+
+Name: DeathCoInc
+Security: 0.8
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Downeaster
+Security: 2.7
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Cormorant
+Weapon: Cormorant
+
+
+Destroyed items:
+
+1400mm Howitzer Artillery II
+1400mm Howitzer Artillery II
+1400mm Howitzer Artillery II
+1400mm Howitzer Artillery II
+1400mm Howitzer Artillery II
+EMP L, Qty: 30
+Sensor Booster II
+Tracking Computer II
+Gyrostabilizer II
+Gyrostabilizer II
+Medium Armor Repairer II
+EMP L, Qty: 1791 (Cargo)
+Valkyrie I, Qty: 3 (Drone Bay)
+

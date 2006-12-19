@@ -1,0 +1,47 @@
+2007.03.25 14:31
+
+Victim: StrikerOneSevern
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Destroyed: Rupture
+System: QXW-PV
+Security: 0.0
+
+Involved parties:
+
+Name: Donald Trump (laid the final blow)
+Security: -1.5
+Alliance: Eternal Rapture
+Corp: Temptation inc.
+Ship: Sleipnir
+Weapon: 425mm AutoCannon II
+
+Name: Gliding
+Security: -1.9
+Alliance: Eternal Rapture
+Corp: Quantum Synergies
+Ship: Taranis
+Weapon: Taranis
+
+Name: Ion Bartzabel
+Security: -0.2
+Alliance: Eternal Rapture
+Corp: Temptation inc.
+Ship: Deimos
+Weapon: Deimos
+
+
+Destroyed items:
+
+720mm Howitzer Artillery I
+720mm Howitzer Artillery I
+Phased Plasma M
+Phased Plasma M
+Sabretooth Light Missile, Qty: 22
+TE-2100 Standard Missile Bay
+10MN Afterburner II
+F-90 Positional Sensor Subroutines
+Optical Tracking Computer I
+Gyrostabilizer II
+Phased Plasma M, Qty: 4708 (Cargo)
+

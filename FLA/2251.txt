@@ -1,0 +1,47 @@
+2007.02.01 15:26
+
+Victim: sniper luke
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Blackbird
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Uinein (laid the final blow)
+Security: 5.0
+Alliance: None
+Corp: Constructive Influence
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: jellybird
+Security: 4.6
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Crow
+Weapon: TE-2100 Standard Missile Bay
+
+Name: VeGeT
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Malediction
+Weapon: Standard Missile Launcher I
+
+
+Destroyed items:
+
+Terror Assault Missile, Qty: 144
+Medium Proton Smartbomb I
+Heavy Assault Missile Launcher I
+Warp Scrambler I
+Stasis Webifier I
+'Rash' ECM Emission I
+Initiated Multispectral ECM I
+Initiated Multispectral ECM I
+Warded Gravimetric Backup Cluster I
+Hellfire Assault Missile, Qty: 1000 (Cargo)
+Fulmination Assault Missile, Qty: 950 (Cargo)
+

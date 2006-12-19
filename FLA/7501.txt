@@ -1,0 +1,35 @@
+2006.09.10 16:32
+
+Victim: Mr Beam
+Alliance: R.I.S.K
+Corp: Kin-Dza-Dza Inc.
+Destroyed: Executioner
+System: X-7OMU
+Security: 0.0
+
+Involved parties:
+
+Name: XxAngelxX (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Curse
+Weapon: Vespa II
+
+Name: Laboratus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Vexor
+Weapon: 250mm 'Scout' I Accelerator Cannon
+
+
+Destroyed items:
+
+Gatling Pulse Laser I
+Standard S
+1MN Afterburner I
+Warp Disruptor I
+Damage Control I
+Small Armor Repairer I
+

@@ -1,0 +1,34 @@
+2007.04.19 20:53
+
+Victim: demotar
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Slasher
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: FowlPlayChiken
+Security: 1.2
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Thanatos
+Weapon: Valkyrie II
+
+Name: LiteE (laid the final blow)
+Security: 3.1
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Taranis
+Weapon: Hobgoblin II
+
+
+Destroyed items:
+
+Carbonized Lead S, Qty: 63
+1MN Afterburner I
+Warp Disruptor I
+Warp Core Stabilizer I
+EMP S, Qty: 2287 (Cargo)
+

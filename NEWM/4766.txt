@@ -1,0 +1,32 @@
+2007.04.21 12:44
+
+Victim: Riddim
+Alliance: None
+Corp: Deep Core Mining Inc.
+Destroyed: Ibis
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Mufeater
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Vexor
+Weapon: Hobgoblin II
+
+Name: FlobbMkII (laid the final blow)
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Griffin
+Weapon: Hobgoblin II
+
+
+Destroyed items:
+
+Civilian Gatling Railgun
+Basic Miner
+Tritanium (Cargo)
+

@@ -1,0 +1,60 @@
+2007.05.04 02:22
+
+Victim: Jadrial
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Destroyed: Merlin
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Riket
+Security: 1.7
+Alliance: Vigilance.
+Corp: The Phoenix Rising
+Ship: Megathron
+Weapon: Megathron
+
+Name: Akthuul (laid the final blow)
+Security: 5.0
+Alliance: Storm Armada
+Corp: stone grave haulage
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Vlad Cetes
+Security: 5.0
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Blackbird
+Weapon: FZ-3 Subversive Spatial Destabilizer ECM
+
+Name: Infar Dantenon
+Security: -1.4
+Alliance: Vigilance.
+Corp: CRICE Corporation
+Ship: Deimos
+Weapon: Deimos
+
+Name: Hughwasit
+Security: 1.2
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Griffin
+Weapon: Griffin
+
+Name: Altair Mogwa
+Security: 0.6
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Probe
+Weapon: Parallel Weapon Navigation Transmitter
+
+
+Destroyed items:
+
+Small 'Ghoul' Energy Siphon I
+Warp Disruptor I
+Javelin S, Qty: 840 (Cargo)
+

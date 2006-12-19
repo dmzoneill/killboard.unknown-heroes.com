@@ -1,0 +1,84 @@
+2007.04.18 19:16
+
+Victim: Lokki Deathwish
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Harpy
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Splinter5150 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Ship: Caracal
+Weapon: Bloodclaw Light Missile
+
+Name: The Cade
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Thorax
+Weapon: Thorax
+
+Name: Corovus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Arazu
+Weapon: Valkyrie II
+
+Name: nye 2k
+Security: 5.0
+Alliance: A Few Good Men.
+Corp: Silver Snake Enterprise
+Ship: Caracal
+Weapon: Templar
+
+Name: Laerana
+Security: 0.3
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Vexor
+Weapon: Hammerhead I
+
+Name: Teck7
+Security: 1.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Catalyst
+Weapon: Light Ion Blaster II
+
+Name: Steven FSB
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Chimera
+Weapon: Templar
+
+Name: Sir Appa
+Security: 1.4
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Eris
+Weapon: Templar
+
+Name: Bobby Atlas
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Thanatos
+Weapon: Firbolg
+
+
+Destroyed items:
+
+150mm Railgun II
+150mm Railgun II
+150mm Railgun II
+Prototype Cloaking Device I
+Spike S, Qty: 72
+Spike S, Qty: 9639 (Cargo)
+

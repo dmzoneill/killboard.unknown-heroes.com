@@ -1,0 +1,83 @@
+2007.04.25 06:09
+
+Victim: Miles Aeternus
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Raven
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Screamer (laid the final blow)
+Security: 0.8
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Chimera
+Weapon: Dragonfly
+
+Name: glitterbomb
+Security: -2.1
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Thorax
+Weapon: Vespa I
+
+Name: Gerald Osikawa
+Security: 0.9
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Akthuul
+Security: 5.0
+Alliance: Storm Armada
+Corp: stone grave haulage
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Clain Matta
+Security: 2.1
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Enyo
+Weapon: Enyo
+
+Name: Evil Bunnies
+Security: 0.2
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Blackbird
+Weapon: Bloodclaw Light Missile
+
+Name: Schmeckel
+Security: 2.7
+Alliance: YouWhat
+Corp: Cosmic Odyssey
+Ship: Dominix
+Weapon: Dominix
+
+Name: Altair Mogwa
+Security: 0.6
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Rifter
+Weapon: Sabretooth Light Missile
+
+
+Destroyed items:
+
+Juggernaut Torpedo, Qty: 54
+ZW-4100 Siege Missile Bay
+ZW-4100 Siege Missile Bay
+Small Tractor Beam I
+Small Tractor Beam I
+Ballistic Deflection Field I
+Nanoelectrical Co-Processor I
+Nanoelectrical Co-Processor I
+Ballistic Control System I
+Cross-linked Bolt Array I
+Beta Reactor Control: Diagnostic System I
+Vespa II (Drone Bay)
+

@@ -1,0 +1,62 @@
+2007.05.10 17:11
+
+Victim: Menschikow
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Destroyed: Slasher
+System: VFK-IV
+Security: 0.0
+
+Involved parties:
+
+Name: munia
+Security: 4.6
+Alliance: None
+Corp: Eterne
+Ship: Crusader
+Weapon: Dual Light Pulse Laser II
+
+Name: Scer (laid the final blow)
+Security: 0.1
+Alliance: None
+Corp: Eterne
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+Name: Pheole
+Security: 0.5
+Alliance: None
+Corp: Eterne
+Ship: Stiletto
+Weapon: Gremlin Rocket
+
+Name: DARKAS
+Security: 2.5
+Alliance: None
+Corp: Eterne
+Ship: Crusader
+Weapon: Crusader
+
+Name: Deathtones
+Security: 0.0
+Alliance: None
+Corp: Eterne
+Ship: Taranis
+Weapon: Warp Scrambler II
+
+Name: baubz
+Security: -1.0
+Alliance: None
+Corp: Eterne
+Ship: Taranis
+Weapon: Taranis
+
+
+Destroyed items:
+
+150mm Light 'Scout' Autocannon I
+150mm Light 'Scout' Autocannon I
+Depleted Uranium S, Qty: 320
+Overdrive Injector System II
+Target Painter I, Qty: 4 (Cargo)
+

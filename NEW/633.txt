@@ -1,0 +1,71 @@
+2007.04.27 23:03
+
+Victim: Vendetta X
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Eagle
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: dastommy79
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Thorax
+Weapon: Thorax
+
+Name: coldkill (laid the final blow)
+Security: 1.9
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Ishkur
+Weapon: Hammerhead II
+
+Name: Mocuker
+Security: 0.2
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Kestrel
+Weapon: Piranha Light Missile
+
+Name: unula stricata
+Security: 1.9
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Caracal
+Weapon: Stasis Webifier I
+
+Name: alpha lead
+Security: 2.3
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Antigen Po
+Security: 4.4
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Enyo
+Weapon: Enyo
+
+Name: sir Gunni
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Blackbird
+Weapon: Blackbird
+
+
+Destroyed items:
+
+250mm Railgun II
+Javelin M, Qty: 74
+Havoc Heavy Missile, Qty: 31
+'Malkuth' Heavy Missile Launcher I
+Sensor Booster II, Qty: 2
+Tracking Enhancer II
+Magnetic Field Stabilizer II, Qty: 2
+Havoc Heavy Missile, Qty: 437 (Cargo)

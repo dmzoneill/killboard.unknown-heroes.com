@@ -1,0 +1,87 @@
+2007.02.06 23:16
+
+Victim: Nereidis
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Destroyed: Crow
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Indigo Callypso
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Harpy
+Weapon: Harpy
+
+Name: Hedeon Mishenka
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Coercer
+Weapon: Coercer
+
+Name: Xantheris
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Harpy
+Weapon: Harpy
+
+Name: Kee Ris (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Sacrilege
+Weapon: Heavy Beam Laser II
+
+Name: Mokh'Tar
+Security: 3.7
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Cormorant
+Weapon: 150mm Carbide Railgun I
+
+Name: Solarienne
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Manticore
+Weapon: 'Arbalest' Cruise Launcher I
+
+Name: Night Seeker
+Security: 0.2
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Hound
+Weapon: XT-9000 Cruise Launcher
+
+Name: Lux0r
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Hawk
+Weapon: Standard Missile Launcher II
+
+Name: GandolftheWhite
+Security: -0.9
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Ship: Blackbird
+Weapon: Heavy Missile Launcher I
+
+
+Destroyed items:
+
+TE-2100 Standard Missile Bay
+TE-2100 Standard Missile Bay
+TE-2100 Standard Missile Bay
+J5 Prototype Warp Inhibitor I
+Balmer Series Targeting Inhibitor I
+Local Hull Conversion Inertial Stabilizers I
+Nanofiber Internal Structure II
+Power Diagnostic System II
+Bloodclaw Light Missile, Qty: 2660 (Cargo)
+

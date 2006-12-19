@@ -1,0 +1,30 @@
+2007.05.27 10:53
+
+Victim: whentou
+Alliance: None
+Corp: State War Academy
+Destroyed: Ibis
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Mufeater
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Ares
+Weapon: Ares
+
+Name: Corovus (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+
+Destroyed items:
+
+Civilian Gatling Railgun
+

@@ -1,0 +1,39 @@
+2006.09.28 21:18
+
+Victim: Cazziel
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Destroyed: Taranis
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Mirimon (laid the final blow)
+Security: -2.2
+Alliance: None
+Corp: Beagle Corp
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+Name: Electric Cucumber
+Security: -2.5
+Alliance: None
+Corp: Beagle Corp
+Ship: Malediction
+Weapon: Malediction
+
+
+Destroyed items:
+
+Small 'Knave' I Energy Drain
+Light Ion Blaster II
+Light Ion Blaster II
+Light Ion Blaster II
+Null S, Qty: 222
+Warp Scrambler I
+X5 Prototype I Engine Enervator
+Small Armor Repairer II
+Micro Auxiliary Power Core I
+Null S, Qty: 2000 (Cargo)
+

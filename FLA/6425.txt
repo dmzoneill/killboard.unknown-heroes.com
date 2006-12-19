@@ -1,0 +1,49 @@
+2006.11.13 17:53
+
+Victim: R0ot
+Alliance: Xelas Alliance
+Corp: InNova Tech Inc
+Destroyed: Caracal
+System: IR-WT1
+Security: 0.0
+
+Involved parties:
+
+Name: James Potkukelkka (laid the final blow)
+Security: 0.3
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Flycatcher
+Weapon: Bloodclaw Light Missile
+
+Name: W4RR10R
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Hosanna
+Security: 1.8
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Claw
+Weapon: Claw
+
+Name: Groes Thir
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Taranis
+Weapon: Warrior I
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Havoc Heavy Missile, Qty: 31
+'Malkuth' Heavy Missile Launcher I
+Medium Shield Booster II
+Prototype I Sensor Booster
+Ballistic Control System I
+

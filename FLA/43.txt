@@ -1,0 +1,41 @@
+2007.01.02 08:21
+
+Victim: Fink Fortee
+Alliance: Firmus Ixion
+Corp: KDM Corp
+Destroyed: Wolf
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Dan Boone
+Security: 1.3
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Ferox
+Weapon: Warrior I
+
+Name: thoradh (laid the final blow)
+Security: 4.1
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Raptor
+Weapon: Light Neutron Blaster II
+
+
+Destroyed items:
+
+250mm Light Artillery Cannon II
+250mm Light Artillery Cannon II
+250mm Light Artillery Cannon II
+EMP S, Qty: 16
+Phalanx Rocket, Qty: 30
+J5b Phased Prototype Warp Inhibitor I
+Tracking Enhancer II
+Tracking Enhancer II
+Power Diagnostic System II
+Corpse, Qty: 2 (Cargo)
+Signal Amplifier II (Cargo)
+Beta Reactor Control: Capacitor Power Relay I (Cargo)
+

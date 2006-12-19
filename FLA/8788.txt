@@ -1,0 +1,62 @@
+2006.12.11 23:20
+
+Victim: Stitcher
+Alliance: Freelancer Alliance
+Corp: J.I.T. Enterprises
+Destroyed: Raven
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: boo3916
+Security: 4.1
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Dominix
+Weapon: Berserker II
+
+Name: Zap Zaberdine (laid the final blow)
+Security: 3.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Tempest
+Weapon: Dual 650mm Repeating Artillery II
+
+Name: henryshead
+Security: 5.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Apocalypse
+Weapon: Apocalypse
+
+Name: Teani
+Security: 1.6
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Astarte
+Weapon: Astarte
+
+Name: K Shara
+Security: 3.1
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Rook
+Weapon: BZ-5 Neutralizing Spatial Destabilizer ECM
+
+
+Destroyed items:
+
+Salvager I, Qty: 30
+Juggernaut Torpedo, Qty: 28
+'Malkuth' Siege Missile Launcher I
+'Malkuth' Siege Missile Launcher I
+'Malkuth' Siege Missile Launcher I
+'Arbalest' Siege Missile Launcher
+'Arbalest' Siege Missile Launcher
+Small Tractor Beam I
+Non-Inertial Ballistic Screen Augmentation I
+Non-Inertial Ballistic Screen Augmentation I
+Ballistic Control System I
+Ballistic Control System I
+

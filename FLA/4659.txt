@@ -1,0 +1,19 @@
+2007.04.17 01:36
+
+Victim: FlashSpawn
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Destroyed: Capsule
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Tran Whistler (laid the final blow)
+Security: 5.3
+Alliance: Freelancer Alliance
+Corp: Harbingers of Sarrow
+Ship: Raptor
+Weapon: Thorn Rocket
+
+

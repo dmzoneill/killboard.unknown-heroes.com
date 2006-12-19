@@ -1,0 +1,55 @@
+2006.10.07 02:51
+
+Victim: alon blackhelm
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Destroyed: Eagle
+System: Litiura
+Security: 0.5
+
+Involved parties:
+
+Name: Bfiend (laid the final blow)
+Security: 0.6
+Alliance: None
+Corp: Privateers
+Ship: Vexor
+Weapon: Vespa I
+
+Name: Morfane
+Security: -0.2
+Alliance: None
+Corp: Privateers
+Ship: Taranis
+Weapon: Taranis
+
+
+Destroyed items:
+
+250mm Compressed Coil Gun I
+250mm Compressed Coil Gun I
+250mm Compressed Coil Gun I
+250mm Compressed Coil Gun I
+Antimatter Charge M
+Antimatter Charge M
+Antimatter Charge M
+Antimatter Charge M
+Antimatter Charge M
+Antimatter Charge M
+Iron Charge M
+Iron Charge M
+Iron Charge M
+Iron Charge M
+Scourge Heavy Missile, Qty: 14
+'Arbalest' Heavy Missile Launcher
+'Arbalest' Heavy Missile Launcher
+Medium Shield Booster II
+Y-T8 Overcharged Hydrocarbon I Microwarpdrive
+Invulnerability Field II
+Shielded Gravimetric Backup Cluster I
+Magnetic Field Stabilizer II
+Antimatter Charge M, Qty: 3833 (Cargo)
+Iron Charge M, Qty: 2830 (Cargo)
+Widowmaker Heavy Missile, Qty: 12 (Cargo)
+Scourge Heavy Missile, Qty: 413 (Cargo)
+

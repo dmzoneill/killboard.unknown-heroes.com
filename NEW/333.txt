@@ -1,0 +1,55 @@
+2007.03.12 00:54
+
+Victim: IceFog
+Alliance: None
+Corp: M'8'S
+Destroyed: Manticore
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Nukuquqa Hestase
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Harpy
+Weapon: Harpy
+
+Name: Duser (laid the final blow)
+Security: -1.5
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Rokh
+Weapon: 425mm 'Scout' I Accelerator Cannon
+
+Name: Fzoul
+Security: 2.7
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Stabber
+Weapon: Stabber
+
+Name: Kandread
+Security: 0.6
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Claw
+Weapon: Gremlin Rocket
+
+Name: FlobbMkII
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Taranis
+Weapon: J5 Prototype Warp Inhibitor I
+
+
+Destroyed items:
+
+Improved Cloaking Device II
+Wrath Cruise Missile, Qty: 72
+Cap Recharger II
+Small Capacitor Battery II
+Power Diagnostic System II, Qty: 2
+Wrath Cruise Missile, Qty: 2314 (Cargo)

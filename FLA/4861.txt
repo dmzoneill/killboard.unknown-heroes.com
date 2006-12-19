@@ -1,0 +1,45 @@
+2007.04.18 00:00
+
+Victim: Alski
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Cormorant
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Nethel (laid the final blow)
+Security: 2.1
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Dominix
+Weapon: Berserker II
+
+Name: Vily
+Security: 0.3
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Malediction
+Weapon: Malediction
+
+Name: Lighty
+Security: 4.7
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Vagabond
+Weapon: Vagabond
+
+
+Destroyed items:
+
+125mm Railgun I
+125mm Railgun I
+125mm Railgun I
+125mm Railgun I
+Lead Charge S, Qty: 160
+Piranha Light Missile, Qty: 44
+Upgraded 'Limos' Standard Missile Bay I
+Target Painter I
+Piranha Light Missile, Qty: 172 (Cargo)
+

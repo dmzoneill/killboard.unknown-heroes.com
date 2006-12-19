@@ -1,0 +1,116 @@
+2007.04.11 09:55
+
+Victim: Phoenus
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Destroyed: Vindicator
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: sakana
+Security: -0.9
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Maulus
+Weapon: Kapteyn Sensor Array Inhibitor I
+
+Name: Skull Fire
+Security: 0.8
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Caracal
+Weapon: Caracal
+
+Name: MrMaggot (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Manticore
+Weapon: Firbolg
+
+Name: ANNIHILATER
+Security: 3.3
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Raven
+Weapon: ZW-4100 Siege Missile Bay
+
+Name: ClogMan
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Capsule
+Weapon: Inferno Torpedo
+
+Name: FlobbMkII
+Security: 4.4
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Eris
+Weapon: Einherji
+
+Name: Chuck Dawg
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Capsule
+Weapon: Juggernaut Torpedo
+
+Name: Sy Sperling
+Security: 4.1
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Drake
+Weapon: Hornet I
+
+Name: Teck7
+Security: 1.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Capsule
+Weapon: Vespa II
+
+Name: Rohan V
+Security: 2.1
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Cormorant
+Weapon: 75mm Compressed Coil Gun I
+
+Name: Nukuquqa Hestase
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Crow
+Weapon: Upgraded 'Limos' Standard Missile Bay I
+
+Name: Cockroach
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Malediction
+Weapon: 'Malkuth' Rocket Launcher I
+
+Name: Bobby Atlas
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Thanatos
+Weapon: Firbolg
+
+
+Destroyed items:
+
+Corpum A-Type Medium Nosferatu
+Ion Blaster Cannon II, Qty: 5
+Void L, Qty: 22
+Gist B-Type 100MN MicroWarpdrive
+True Sansha Heavy Capacitor Booster
+Damage Control II
+Draclira's Modified Adaptive Nano Plating
+Shadow Serpentis Magnetic Field Stabilizer
+Corpum A-Type Energized Adaptive Nano Membrane
+Null L, Qty: 300 (Cargo)
+Void L, Qty: 771 (Cargo)

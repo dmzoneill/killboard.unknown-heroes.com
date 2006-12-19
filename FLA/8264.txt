@@ -1,0 +1,41 @@
+2006.11.06 23:45
+
+Victim: Mystical Angel
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Harpy
+System: Haajinen
+Security: 0.8
+
+Involved parties:
+
+Name: TranZferR
+Security: -1.8
+Alliance: None
+Corp: The Initiative
+Ship: Lachesis
+Weapon: Havoc Fury Heavy Missile
+
+Name: Dazzio (laid the final blow)
+Security: -2.0
+Alliance: None
+Corp: The Initiative
+Ship: Thorax
+Weapon: Valkyrie I
+
+
+Destroyed items:
+
+150mm Railgun II
+150mm Railgun II
+150mm Railgun II
+150mm Railgun II
+Antimatter Charge S, Qty: 40
+Small Shield Booster II
+Fixed Parallel Link-Capacitor I
+Magnetic Field Stabilizer II
+'Langour' Drive Disruptor I (Cargo)
+Antimatter Charge S, Qty: 5000 (Cargo)
+Prototype I Sensor Booster (Cargo)
+Spike S, Qty: 3727 (Cargo)
+

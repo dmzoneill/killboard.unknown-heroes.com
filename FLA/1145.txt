@@ -1,0 +1,41 @@
+2007.03.06 23:06
+
+Victim: ladymm
+Alliance: None
+Corp: I-Omniscient-I
+Destroyed: Raven
+System: Alamel
+Security: 0.2
+
+Involved parties:
+
+Name: MohamedLoftie
+Security: -1.0
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Zealot
+Weapon: Zealot
+
+Name: Luxe Ecru (laid the final blow)
+Security: 1.6
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Dominix
+Weapon: Ogre II
+
+
+Destroyed items:
+
+Small Asymmetric Barrier Transpositioner I
+'Arbalest' Siege Missile Launcher
+'Arbalest' Siege Missile Launcher
+'Arbalest' Siege Missile Launcher
+Eutectic I Capacitor Charge Array
+Beta Reactor Control: Shield Power Relay I
+Quantum Co-Processor I
+Multiphasic Bolt Array I
+Power Diagnostic System I
+Inferno Torpedo, Qty: 942 (Cargo)
+Hammerhead I, Qty: 3 (Drone Bay)
+Vespa I (Drone Bay)
+

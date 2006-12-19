@@ -1,0 +1,42 @@
+2007.01.30 14:35
+
+Victim: xinndo jagged
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Destroyed: Badger Mark II
+System: X3-PBC
+Security: 0.0
+
+Involved parties:
+
+Name: maGz
+Security: 2.3
+Alliance: Shroud Of Darkness
+Corp: The Priory
+Ship: Ishtar
+Weapon: Warrior II
+
+Name: rs spyder (laid the final blow)
+Security: -2.7
+Alliance: Shroud Of Darkness
+Corp: The Priory
+Ship: Taranis
+Weapon: 125mm Prototype I Gauss Gun
+
+Name: Waywatcher
+Security: -1.6
+Alliance: Shroud Of Darkness
+Corp: The Priory
+Ship: Dominix
+Weapon: Dominix
+
+
+Destroyed items:
+
+Prototype Cloaking Device I
+10MN Afterburner I
+Nanofiber Internal Structure I
+Nanofiber Internal Structure I
+Burned Logic Circuit, Qty: 160 (Cargo)
+Tripped Power Circuit, Qty: 170 (Cargo)
+

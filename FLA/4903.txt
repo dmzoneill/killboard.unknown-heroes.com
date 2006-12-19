@@ -1,0 +1,26 @@
+2007.04.19 03:07
+
+Victim: StoryTeller d'Wolff
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Destroyed: Capsule
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Coug (laid the final blow)
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Claymore
+Weapon: 720mm Howitzer Artillery II
+
+Name: Myndpyre Ryche
+Security: 4.2
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Hawk
+Weapon: Sabretooth Light Missile
+
+

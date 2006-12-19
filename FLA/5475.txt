@@ -1,0 +1,40 @@
+2006.10.05 23:43
+
+Victim: busta nut
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Tranny
+Security: -0.3
+Alliance: None
+Corp: Ganksters Paradise
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: Kyoshisan
+Security: 0.4
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Enyo
+Weapon: Enyo
+
+Name: Cockroach
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Malediction
+Weapon: Flameburst Light Missile
+
+Name: DarkJester (laid the final blow)
+Security: 0.7
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery I
+
+

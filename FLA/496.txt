@@ -1,0 +1,108 @@
+2007.02.06 22:51
+
+Victim: carraktiker
+Alliance: Triumvirate.
+Corp: D00M.
+Destroyed: Taranis
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Hedeon Mishenka (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Coercer
+Weapon: Medium Pulse Laser II
+
+Name: Shassandra
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Megathron
+Weapon: 425mm Railgun I
+
+Name: Indigo Callypso
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Harpy
+Weapon: Harpy
+
+Name: truefranco
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Mokh'Tar
+Security: 3.7
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Cormorant
+Weapon: 150mm Carbide Railgun I
+
+Name: Kee Ris
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Sacrilege
+Weapon: Sacrilege
+
+Name: GandolftheWhite
+Security: -0.9
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Ship: Blackbird
+Weapon: Scourge Heavy Missile
+
+Name: scuba leah
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Ship: Drake
+Weapon: Heavy Missile Launcher I
+
+Name: Xantheris
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Harpy
+Weapon: Harpy
+
+Name: Solarienne
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Manticore
+Weapon: 'Arbalest' Cruise Launcher I
+
+Name: Lux0r
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Hawk
+Weapon: Standard Missile Launcher II
+
+Name: Dark Carnage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Blackbird
+Weapon: Initiated Multispectral ECM I
+
+
+Destroyed items:
+
+125mm Railgun II
+Spike S, Qty: 80
+1MN MicroWarpdrive I
+Warp Disruptor I
+'Langour' Drive Disruptor I
+Small Armor Repairer II
+Micro Auxiliary Power Core I
+Antimatter Charge S, Qty: 8004 (Cargo)
+Warrior II, Qty: 2 (Drone Bay)
+

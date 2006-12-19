@@ -1,0 +1,33 @@
+2006.09.16 20:31
+
+Victim: Stain Protector
+Alliance: Ascendant Frontier
+Corp: Sha Kharn Corp
+Destroyed: Capsule
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: digital oxygen (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Megathron
+Weapon: 425mm Railgun I
+
+Name: movy
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Taranis
+Weapon: Small 'Knave' I Energy Drain
+
+Name: Novas Wordo
+Security: 2.3
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Rifter
+Weapon: J5 Prototype Warp Inhibitor I
+
+

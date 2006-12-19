@@ -1,0 +1,84 @@
+2007.04.05 00:34
+
+Victim: AuraShock
+Alliance: Freelancer Alliance
+Corp: United Forces
+Destroyed: Rifter
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Joshua Foiritain
+Security: -1.7
+Alliance: Corelum Syndicate
+Corp: Coreli Corporation
+Ship: Vagabond
+Weapon: Corpum A-Type Medium Nosferatu
+
+Name: EVIL SYNNs
+Security: 0.0
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Wolf
+Weapon: 280mm Howitzer Artillery II
+
+Name: Criosachille
+Security: 3.4
+Alliance: Xelas Alliance
+Corp: Catalyst Reaction
+Ship: Taranis
+Weapon: Taranis
+
+Name: Queww
+Security: 5.0
+Alliance: Axiom Empire
+Corp: United Society Starfleet
+Ship: Lachesis
+Weapon: Heavy Missile Launcher II
+
+Name: david23
+Security: 5.0
+Alliance: Xelas Alliance
+Corp: Requiem of Hades
+Ship: Hawk
+Weapon: Standard Missile Launcher I
+
+Name: IamnobodyCL
+Security: 5.0
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Vengeance
+Weapon: Dual Light Beam Laser II
+
+Name: Hunter Vonnegut (laid the final blow)
+Security: 5.0
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Ishkur
+Weapon: 125mm Railgun II
+
+Name: androsix
+Security: 4.7
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Pilgrim
+Weapon: Fleeting Propulsion Inhibitor I
+
+Name: Ditchdoctor
+Security: 5.0
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Stiletto
+Weapon: Warp Disruptor I
+
+
+Destroyed items:
+
+Light Neutron Blaster I
+Antimatter Charge S, Qty: 141
+OE-5200 Rocket Launcher
+Stasis Webifier I
+Overdrive Injector System I
+Overdrive Injector System I
+

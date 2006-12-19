@@ -1,0 +1,26 @@
+2006.11.17 22:47
+
+Victim: Jumar Coldgin
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Destroyed: Capsule
+System: ROIR-Y
+Security: 0.0
+
+Involved parties:
+
+Name: callon
+Security: -1.2
+Alliance: None
+Corp: The Raven Warriors
+Ship: Eris
+Weapon: Eris
+
+Name: Hellspawn666 (laid the final blow)
+Security: 1.2
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Typhoon
+Weapon: Devastator Cruise Missile
+
+

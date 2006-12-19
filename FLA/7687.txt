@@ -1,0 +1,19 @@
+2006.10.01 09:33
+
+Victim: Ryoko
+Alliance: None
+Corp: EVE MegaCorp Association
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Formosus Funus (laid the final blow)
+Security: 1.8
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Rifter
+Weapon: 200mm AutoCannon I
+
+

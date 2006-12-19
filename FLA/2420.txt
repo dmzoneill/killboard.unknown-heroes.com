@@ -1,0 +1,118 @@
+2007.02.09 23:03
+
+Victim: ventura5
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Drake
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Anominity (laid the final blow)
+Security: 4.2
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Abaddon
+Weapon: Tachyon Beam Laser II
+
+Name: Von Kretschmer
+Security: 5.0
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Tempest
+Weapon: Tempest
+
+Name: Misha Mosqito
+Security: 3.3
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Megathron
+Weapon: Megathron
+
+Name: aadom
+Security: 3.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Tempest
+Weapon: 1400mm Carbine Howitzer I
+
+Name: McGin
+Security: -3.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Megathron
+Weapon: Megathron
+
+Name: Darknesss
+Security: 0.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Kakanur
+Security: 1.7
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Archon
+Weapon: Hammerhead I
+
+Name: Ramah
+Security: 5.0
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Archon
+Weapon: Templar
+
+Name: ArchenTheGreat
+Security: -0.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Rokh
+Weapon: Rokh
+
+Name: ukpAgAn
+Security: 5.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Megathron
+Weapon: Megathron
+
+Name: WarGod
+Security: 2.7
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 17
+Thunderbolt Heavy Missile, Qty: 17
+Widowmaker Heavy Missile, Qty: 17
+Havoc Heavy Missile, Qty: 17
+Advanced 'Limos' Heavy Missile Bay I
+Advanced 'Limos' Heavy Missile Bay I
+Advanced 'Limos' Heavy Missile Bay I
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+Medium Clarity Ward Booster I
+Medium F-RX Prototype I Capacitor Boost
+Cap Booster 400
+Cap Booster 400
+Alumel-Wired I Sensor Augmentation
+Additional Thermal Barrier Emitter I
+Viscoelastic EM Ward Salubrity I
+Wavelength Signal Enhancer I
+Cross-linked Bolt Array I
+Mark I Generator Refitting: Diagnostic System
+Mark I Generator Refitting: Diagnostic System
+Cap Booster 400, Qty: 4 (Cargo)
+Widowmaker Heavy Missile, Qty: 195 (Cargo)
+Thunderbolt Heavy Missile, Qty: 886 (Cargo)
+Scourge Heavy Missile, Qty: 1379 (Cargo)
+Havoc Heavy Missile, Qty: 798 (Cargo)
+

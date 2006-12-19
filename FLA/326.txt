@@ -1,0 +1,68 @@
+2007.01.26 00:57
+
+Victim: Litticus Maxamus
+Alliance: The Sundering
+Corp: Emerald Empire
+Destroyed: Caldari Shuttle
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Korudon (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Ferox
+Weapon: 250mm Railgun I
+
+Name: Goca
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Ferox
+Weapon: Thunderbolt Heavy Missile
+
+Name: Valea Silpha
+Security: 1.4
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Huginn
+Weapon: 650mm Artillery Cannon II
+
+Name: ventura5
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Drake
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+Name: digital oxygen
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Megathron
+Weapon: Megathron
+
+Name: PHIONIX DARKANGEL
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Rokh
+Weapon: 425mm Railgun I
+
+Name: Lux0r
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Caracal
+Weapon: Heavy Missile Launcher I
+
+Name: Cobra64
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery I
+
+

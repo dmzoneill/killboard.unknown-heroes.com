@@ -1,0 +1,31 @@
+2007.04.27 15:27
+
+Victim: Terdlinger
+Alliance: Storm Armada
+Corp: stone grave haulage
+Destroyed: Manticore
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Nukuquqa Hestase (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Caracal
+Weapon: Sabretooth Light Missile
+
+
+Destroyed items:
+
+Wrath Cruise Missile, Qty: 40
+XT-9000 Cruise Launcher
+XT-9000 Cruise Launcher
+Warp Disruptor II
+X5 Prototype I Engine Enervator
+Sensor Booster II
+Signal Amplifier II
+Signal Amplifier II
+Wrath Cruise Missile, Qty: 988 (Cargo)
+

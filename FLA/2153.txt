@@ -1,0 +1,44 @@
+2007.01.25 16:48
+
+Victim: Sidrat Flush
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Destroyed: Blackbird
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Andreaz Kotz
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Farjung
+Security: 0.0
+Alliance: Band of Brothers
+Corp: TAOSP
+Ship: Dominix
+Weapon: Warrior II
+
+Name: Valora (laid the final blow)
+Security: 2.3
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+
+Destroyed items:
+
+250mm Railgun I
+250mm Railgun I
+Thunderbolt Heavy Missile, Qty: 26
+Heavy Missile Launcher I
+Stasis Webifier I
+Remote Sensor Dampener I
+Widowmaker Heavy Missile, Qty: 100 (Cargo)
+Thunderbolt Heavy Missile, Qty: 100 (Cargo)
+

@@ -1,0 +1,70 @@
+2006.11.18 22:35
+
+Victim: Evelyn Mulwray
+Alliance: None
+Corp: Beer Guzzling Clowns With Blasters
+Destroyed: Taranis
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: AleXinO Gardon
+Security: 5.0
+Alliance: O X I D E
+Corp: W33D Corp.
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: DrRockIT
+Security: 4.9
+Alliance: Dusk and Dawn
+Corp: Asgard Schiffswerften
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Damhtman
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Hawk
+Weapon: Bloodclaw Precision Light Missile
+
+Name: H3llfire (laid the final blow)
+Security: 3.2
+Alliance: O X I D E
+Corp: W33D Corp.
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: raiiar
+Security: 3.4
+Alliance: O X I D E
+Corp: W33D Corp.
+Ship: Retribution
+Weapon: Medium Pulse Laser II
+
+Name: Weuzor
+Security: 0.0
+Alliance: Dusk and Dawn
+Corp: Asgard Schiffswerften
+Ship: Stiletto
+Weapon: Fleeting Warp Scrambler I
+
+Name: Fr0zt
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Rook
+Weapon: 'Hypnos' Multispectral ECM I
+
+
+Destroyed items:
+
+Light Electron Blaster II
+Light Electron Blaster II
+Null S, Qty: 200
+Phased Monopropellant I Hydrazine Boosters
+Magnetic Field Stabilizer II
+Hobgoblin II, Qty: 2 (Drone Bay)
+

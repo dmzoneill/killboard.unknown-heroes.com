@@ -1,0 +1,32 @@
+2007.01.08 16:31
+
+Victim: Yotam
+Alliance: Privateer Alliance
+Corp: Panzershrek
+Destroyed: Caracal
+System: Jita
+Security: 0.9
+
+Involved parties:
+
+Name: W0LFMAN (laid the final blow)
+Security: 3.0
+Alliance: Freelancer Alliance
+Corp: Caldar Mercenary Syndicate
+Ship: Typhoon
+Weapon: Mjolnir Torpedo
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 104
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+Medium F-S9 Regolith Shield Induction
+Large F-S9 Regolith Shield Induction
+Warp Disruptor I
+Warp Disruptor I
+Power Diagnostic System I
+

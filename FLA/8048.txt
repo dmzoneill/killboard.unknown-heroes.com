@@ -1,0 +1,57 @@
+2006.10.07 09:05
+
+Victim: Noitaakka
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Destroyed: Vexor
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Darknesss (laid the final blow)
+Security: -1.2
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Eos
+Weapon: Ogre II
+
+Name: Liquid General
+Security: 3.4
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Curse
+Weapon: Valkyrie II
+
+Name: boo3916
+Security: 3.8
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Crow
+Weapon: J5 Prototype Warp Inhibitor I
+
+
+Destroyed items:
+
+Small 'Ghoul' Energy Siphon I
+Small 'Ghoul' Energy Siphon I
+Modal Light Ion Particle Accelerator I
+Modal Light Ion Particle Accelerator I
+Antimatter Charge S, Qty: 120
+10MN MicroWarpdrive I
+ECM - Multispectral Jammer II
+Damage Control I
+Shield Recharger I (Cargo)
+Medium Armor Repairer I (Cargo)
+Small Nosferatu I (Cargo)
+ECM Burst I (Cargo)
+Antimatter Charge S, Qty: 492 (Cargo)
+ECM - Spatial Destabilizer I, Qty: 2 (Cargo)
+Tracking Computer I (Cargo)
+Additional Thermal Barrier Emitter I (Cargo)
+Warp Core Stabilizer I (Cargo)
+Guristas Ship Log 524785540 (Cargo)
+Assault Missile Launcher I, Qty: 2 (Cargo)
+Vespa II, Qty: 3 (Drone Bay)
+Hobgoblin II, Qty: 2 (Drone Bay)
+

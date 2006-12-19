@@ -1,0 +1,31 @@
+2007.03.13 06:55
+
+Victim: Nukuquqa Hestase
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Harpy
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Stutka Driver (laid the final blow)
+Security: 4.6
+Alliance: Corelum Syndicate
+Corp: Coreli Corporation
+Ship: Sabre
+Weapon: 200mm AutoCannon II
+
+
+Destroyed items:
+
+150mm Railgun II
+150mm Railgun II
+Spike S, Qty: 30
+F-90 Positional Sensor Subroutines
+Magnetic Field Stabilizer II
+Corpse, Qty: 6 (Cargo)
+Prototype Cloaking Device I (Cargo)
+Javelin S, Qty: 2133 (Cargo)
+Spike S, Qty: 6265 (Cargo)
+

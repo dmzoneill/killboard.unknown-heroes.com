@@ -1,0 +1,39 @@
+2007.03.20 22:24
+
+Victim: chris lares
+Alliance: FATAL Alliance
+Corp: Phantom Squad
+Destroyed: Ares
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Kalibrana (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Catalyst
+Weapon: 150mm Railgun II
+
+Name: Rinsith
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Taranis
+Weapon: Taranis
+
+Name: Kurrency
+Security: 1.1
+Alliance: Freelancer Alliance
+Corp: ACCORD Industries
+Ship: Dominix
+Weapon: Dominix
+
+
+Destroyed items:
+
+Light Electron Blaster II
+Void S, Qty: 400
+Foxfire Rocket, Qty: 30
+

@@ -1,0 +1,19 @@
+2007.01.03 12:13
+
+Victim: Orion Tempest
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Demoria (laid the final blow)
+Security: 1.1
+Alliance: Shroud Of Darkness
+Corp: The Priory
+Ship: Taranis
+Weapon: Light Neutron Blaster II
+
+

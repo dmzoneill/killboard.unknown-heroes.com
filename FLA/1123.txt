@@ -1,0 +1,56 @@
+2007.03.05 15:58
+
+Victim: dadhjjw
+Alliance: None
+Corp: LoneWolf Mining
+Destroyed: Raven
+System: L7-APB
+Security: 0.0
+
+Involved parties:
+
+Name: Serpentis Flotilla Admiral / Serpentis Corporation
+
+Name: NupNQ (laid the final blow)
+Security: 4.7
+Alliance: Insurgency
+Corp: Celestial Apocalypse
+Ship: Dominix
+Weapon: Praetor I
+
+Name: Mauy Thai
+Security: -1.4
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Curse
+Weapon: Valkyrie II
+
+Name: Crunchip
+Security: 5.0
+Alliance: Zenith Affinity
+Corp: Netquarter
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: NQDrizzt
+Security: 0.2
+Alliance: Insurgency
+Corp: Celestial Apocalypse
+Ship: Falcon
+Weapon: Piranha Light Missile
+
+
+Destroyed items:
+
+Juggernaut Torpedo, Qty: 90
+Prototype Cloaking Device I
+'Arbalest' Siege Missile Launcher
+'Arbalest' Siege Missile Launcher
+Large Shield Booster II
+Invulnerability Field I
+Power Diagnostic System I
+Power Diagnostic System I
+Juggernaut Torpedo, Qty: 1677 (Cargo)
+Hammerhead I (Drone Bay)
+Vespa I, Qty: 2 (Drone Bay)
+

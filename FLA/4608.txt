@@ -1,0 +1,36 @@
+2007.04.14 23:10
+
+Victim: Ska Inni
+Alliance: Freelancer Alliance
+Corp: ORIGIN SYSTEMS
+Destroyed: Rifter
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Sedith (laid the final blow)
+Security: 1.7
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Aeon
+Weapon: Vizan's Modified Large EMP Smartbomb
+
+Name: Max Teranous
+Security: -1.2
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Sabre
+Weapon: Sabre
+
+
+Destroyed items:
+
+200mm AutoCannon I
+EMP S, Qty: 90
+1MN MicroWarpdrive I
+Small Capacitor Booster I
+Cap Booster 200
+Small Armor Repairer I
+Cap Booster 200, Qty: 2 (Cargo)
+

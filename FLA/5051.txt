@@ -1,0 +1,36 @@
+2007.04.21 04:13
+
+Victim: Dana Foxworth
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Rifter
+System: 2R-CRW
+Security: 0.0
+
+Involved parties:
+
+Name: Soldur (laid the final blow)
+Security: 5.0
+Alliance: Exuro Mortis
+Corp: Slacker Industries
+Ship: Astarte
+Weapon: Heavy Neutron Blaster II
+
+Name: Elise Randolph
+Security: -1.4
+Alliance: Exuro Mortis
+Corp: The Burning Orphans
+Ship: Crow
+Weapon: Rocket Launcher II
+
+
+Destroyed items:
+
+200mm AutoCannon I
+200mm AutoCannon I
+Phased Plasma S, Qty: 70
+Warp Scrambler I
+Stasis Webifier I
+Small Armor Repairer I
+Nanofiber Internal Structure I
+

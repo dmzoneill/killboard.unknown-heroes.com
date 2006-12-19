@@ -1,0 +1,32 @@
+2007.04.15 10:13
+
+Victim: Keltec
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Caracal
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: StarshipTrooper (laid the final blow)
+Security: 4.1
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Thanatos
+Weapon: Einherji
+
+
+Destroyed items:
+
+200mm Railgun I
+Uranium Charge M, Qty: 80
+Scourge Heavy Missile, Qty: 30
+Heavy Missile Launcher I
+Medium Shield Extender I
+Medium Shield Extender I
+Large Shield Extender I
+Mark I Generator Refitting: Reaction Control
+Uranium Charge M, Qty: 4840 (Cargo)
+Hornet I (Drone Bay)
+

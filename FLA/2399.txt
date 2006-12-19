@@ -1,0 +1,33 @@
+2007.02.09 22:01
+
+Victim: Mikal Drey
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Destroyed: Capsule
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Anna Neura
+Security: -0.8
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Taranis
+Weapon: Small 'Knave' I Energy Drain
+
+Name: ukpAgAn (laid the final blow)
+Security: 5.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Martin Mckenna
+Security: 2.5
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Malediction
+Weapon: Dual Light Pulse Laser II
+
+

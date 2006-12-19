@@ -1,0 +1,30 @@
+2007.01.01 19:43
+
+Victim: Condor vI
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Badger
+System: Yoma
+Security: 0.6
+
+Involved parties:
+
+Name: Fjerkenstad (laid the final blow)
+Security: -1.7
+Alliance: None
+Corp: omen.
+Ship: Taranis
+Weapon: Light Neutron Blaster II
+
+
+Destroyed items:
+
+10MN Afterburner I
+Reactor Control Unit I
+Dread Guristas Warp Scrambler (Cargo)
+ECCM - Omni I (Cargo)
+Guristas Ship Log 573652885 (Cargo)
+Guristas Brass Tag (Cargo)
+'Arbalest' Siege Missile Launcher (Cargo)
+Power Diagnostic System I, Qty: 2 (Cargo)
+

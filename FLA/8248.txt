@@ -1,0 +1,23 @@
+2006.11.06 00:49
+
+Victim: Fenix Storm
+Alliance: Freelancer Alliance
+Corp: Abandoned Resolve Corporation
+Destroyed: Iteron Mark V
+System: Uemisaisen
+Security: 0.6
+
+Involved parties:
+
+Name: Yarek Balear (laid the final blow)
+Security: -1.8
+Alliance: None
+Corp: The Initiative
+Ship: Brutix
+Weapon: Heavy Electron Blaster II
+
+
+Destroyed items:
+
+Cap Recharger I
+

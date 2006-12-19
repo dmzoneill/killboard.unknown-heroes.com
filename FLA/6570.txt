@@ -1,0 +1,26 @@
+2006.11.18 19:46
+
+Victim: Riwe drids
+Alliance: FREGE Alliance
+Corp: Lords of Maelstrom
+Destroyed: Caldari Shuttle
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Almagar Phog
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Raptor
+Weapon: Raptor
+
+Name: Grifter Treysik (laid the final blow)
+Security: 4.1
+Alliance: Freelancer Alliance
+Corp: Caldar Mercenary Syndicate
+Ship: Ishkur
+Weapon: 125mm Prototype I Gauss Gun
+
+

@@ -1,0 +1,55 @@
+2007.02.24 21:34
+
+Victim: Dr Andy
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Destroyed: Myrmidon
+System: X-7OMU
+Security: 0.0
+
+Involved parties:
+
+Name: Major Bates (laid the final blow)
+Security: 5.0
+Alliance: Agony Empire
+Corp: Agony Unleashed
+Ship: Myrmidon
+Weapon: Hammerhead II
+
+Name: Unit 1
+Security: 2.4
+Alliance: Agony Empire
+Corp: Agony Unleashed
+Ship: Celestis
+Weapon: Warrior II
+
+Name: Evesham
+Security: 5.0
+Alliance: Agony Empire
+Corp: Agony Unleashed
+Ship: Harpy
+Weapon: Harpy
+
+Name: Rain Finale
+Security: 0.8
+Alliance: Agony Empire
+Corp: Agony Unleashed
+Ship: Hurricane
+Weapon: Valkyrie II
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Heavy Ion Blaster I
+Antimatter Charge M, Qty: 91
+Stasis Webifier I
+Cap Booster 400
+Prototype I Sensor Booster
+Medium I-a Polarized Armor Regenerator
+Radioisotope Explosive Hardener I
+Antimatter Charge M, Qty: 3200 (Cargo)
+Cap Booster 400, Qty: 14 (Cargo)
+Warrior II, Qty: 2 (Drone Bay)
+Hammerhead II, Qty: 4 (Drone Bay)
+

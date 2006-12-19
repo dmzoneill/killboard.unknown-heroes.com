@@ -1,0 +1,99 @@
+2007.03.21 13:34
+
+Victim: kelvinc
+Alliance: None
+Corp: Roid Vandals
+Destroyed: Raven
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Guristas Inferno / Guristas
+
+Name: Jurushy (laid the final blow)
+Security: 4.9
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Hurricane
+Weapon: Hobgoblin II
+
+Name: volly
+Security: 3.1
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Curse
+Weapon: Hammerhead II
+
+Name: The Ali
+Security: -3.2
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Angie Mitchell
+Security: 0.6
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Heretic
+Weapon: Heretic
+
+Name: Eelim Garak
+Security: 1.3
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Curse
+Weapon: Valkyrie II
+
+Name: jedimeister
+Security: -1.8
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: IsmaelYU5 Iluvatar
+Security: 5.0
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Taranis
+Weapon: Taranis
+
+Name: SwordsOfLight
+Security: 4.9
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Raptor
+Weapon: Raptor
+
+Name: Damfoose
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Raven
+Weapon: Raven
+
+Name: Frostbeule
+Security: 2.9
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Stiletto
+Weapon: Stiletto
+
+
+Destroyed items:
+
+Juggernaut Torpedo, Qty: 34
+Mjolnir Torpedo, Qty: 34
+ZW-4100 Siege Missile Bay
+ZW-4100 Siege Missile Bay
+Small Tractor Beam I
+Kinetic Deflection Amplifier I
+Shield Boost Amplifier I
+Shielded Gravimetric Backup Cluster I
+Ballistic Control System I
+Type-D Power Core Modification: Diagnostic System
+Juggernaut Torpedo, Qty: 534 (Cargo)
+Vespa I, Qty: 3 (Drone Bay)
+

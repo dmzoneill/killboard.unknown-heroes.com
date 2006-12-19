@@ -1,0 +1,38 @@
+2007.03.06 20:43
+
+Victim: RToad
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Destroyed: Caracal
+System: E-BWUU
+Security: 0.0
+
+Involved parties:
+
+Name: Fjury
+Security: 5.0
+Alliance: Xelas Alliance
+Corp: Rytiri Lva
+Ship: Stabber
+Weapon: Stabber
+
+Name: Kahor (laid the final blow)
+Security: -2.0
+Alliance: Corelum Syndicate
+Corp: Coreli Corporation
+Ship: Stabber
+Weapon: Flameburst Light Missile
+
+
+Destroyed items:
+
+Widowmaker Heavy Missile, Qty: 26
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+Large Azeotropic Ward Salubrity I
+Invulnerability Field I
+Sensor Booster I
+Piranha Light Missile, Qty: 4949 (Cargo)
+Widowmaker Heavy Missile, Qty: 1752 (Cargo)
+Warrior I (Drone Bay)
+

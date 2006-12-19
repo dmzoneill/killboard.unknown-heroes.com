@@ -1,0 +1,33 @@
+2007.03.25 00:04
+
+Victim: EvilBadger
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Hawk
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: MASTER PSI (laid the final blow)
+Security: 3.6
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Ship: Harbinger
+Weapon: Heavy Pulse Laser II
+
+
+Destroyed items:
+
+Gremlin Rocket, Qty: 14
+Rocket Launcher II
+Rocket Launcher II
+Catalyzed Cold-Gas I Arcjet Thrusters
+Fleeting Warp Scrambler I
+Power Diagnostic System II
+Power Diagnostic System II
+Micro Auxiliary Power Core I (Cargo)
+Phalanx Rocket, Qty: 4856 (Cargo)
+Gremlin Rocket, Qty: 6676 (Cargo)
+Foxfire Rocket, Qty: 1719 (Cargo)
+

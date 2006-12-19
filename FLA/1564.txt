@@ -1,0 +1,94 @@
+2007.03.17 02:29
+
+Victim: Stutka Driver
+Alliance: Corelum Syndicate
+Corp: Coreli Corporation
+Destroyed: Sabre
+System: O-BDXB
+Security: 0.0
+
+Involved parties:
+
+Name: Fugnut
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Drake
+Weapon: Thunderbolt Heavy Missile
+
+Name: Sethiol
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Ship: Drake
+Weapon: Havoc Heavy Missile
+
+Name: Danielson1012
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Drake
+Weapon: Havoc Heavy Missile
+
+Name: coldkill
+Security: 1.8
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: ventura5 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Flycatcher
+Weapon: Bloodclaw Precision Light Missile
+
+Name: Sanal Gi
+Security: 1.1
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Raven
+Weapon: XT-9000 Cruise Launcher
+
+Name: RubberDuckey
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Blackwater Squadron
+Ship: Raven
+Weapon: Cruise Missile Launcher II
+
+Name: GEOFFTRIN RYNE
+Security: 5.0
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Raven
+Weapon: 'Arbalest' Cruise Launcher I
+
+Name: Cephias Caine
+Security: 2.9
+Alliance: The Sundering
+Corp: Steel Battalion
+Ship: Blackbird
+Weapon: 'Umbra' I White Noise ECM
+
+Name: Briscoe
+Security: 4.0
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Moa
+Weapon: 250mm Railgun II
+
+
+Destroyed items:
+
+200mm AutoCannon II
+200mm AutoCannon II
+200mm AutoCannon II
+200mm AutoCannon II
+Barrage S, Qty: 300
+Warp Disrupt Probe, Qty: 10
+Interdiction Sphere Launcher I
+Gistii A-Type 1MN MicroWarpdrive
+Local Hull Conversion Inertial Stabilizers I
+

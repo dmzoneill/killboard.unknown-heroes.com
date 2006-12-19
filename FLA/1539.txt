@@ -1,0 +1,33 @@
+2007.03.15 22:43
+
+Victim: Phran Za
+Alliance: Chorus of Dawn
+Corp: Infinite Style Incorporated
+Destroyed: Harpy
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Skull Fire (laid the final blow)
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Rokh
+Weapon: Large 'Vehemence' I Shockwave Charge
+
+
+Destroyed items:
+
+150mm Carbide Railgun I
+Uranium Charge S, Qty: 40
+Sabretooth Light Missile, Qty: 42
+1MN MicroWarpdrive I
+Dread Guristas Magnetic Scattering Amplifier
+Target Painter I
+'Acolyth' Signal Booster
+Linear Flux Stabilizer
+Uranium Charge S, Qty: 3110 (Cargo)
+Flameburst Light Missile, Qty: 249 (Cargo)
+Sabretooth Light Missile, Qty: 220 (Cargo)
+

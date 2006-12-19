@@ -1,0 +1,30 @@
+2007.05.14 15:17
+
+Victim: Ocara Nezus
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Hawk
+System: G-M4I8
+Security: 0.0
+
+Involved parties:
+
+Name: Aurix Lexico (laid the final blow)
+Security: -1.3
+Alliance: Exuro Mortis
+Corp: The Burning Orphans
+Ship: Sabre
+Weapon: 125mm Gatling AutoCannon II
+
+
+Destroyed items:
+
+Standard Missile Launcher II
+Standard Missile Launcher II
+Bloodclaw Precision Light Missile, Qty: 98
+1MN MicroWarpdrive I
+Warp Disruptor II
+X5 Prototype I Engine Enervator
+Mark I Generator Refitting: Diagnostic System
+Bloodclaw Precision Light Missile, Qty: 200 (Cargo)
+

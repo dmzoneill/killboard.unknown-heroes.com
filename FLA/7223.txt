@@ -1,0 +1,86 @@
+2006.04.28 14:42
+
+Victim: HoboLovin
+Alliance: Northern Freedom Coalition
+Corp: Warped Mining
+Destroyed: Dominix
+System: 3T7-M8
+Security: 0.0
+
+Involved parties:
+
+Name: Matt Stoner (laid the final blow)
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+Name: Mac Spliff
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Immortal Serial Killers
+Ship: Brutix
+Weapon: Hammerhead II
+
+Name: Powergel
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Astromech Assassins
+Ship: Scorpion
+Weapon: Devastator Cruise Missile
+
+Name: Cazziel
+Security: 1.8
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Dominix
+Weapon: Praetor I
+
+Name: LC Sulla
+Security: 3.1
+Alliance: Freelancer Alliance
+Corp: Royal Flying Aces
+Ship: Raven
+Weapon: Wrath Cruise Missile
+
+Name: Hosanna
+Security: 4.8
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Rupture
+Weapon: Rupture
+
+Name: Csaba RQ
+Security: 2.1
+Alliance: Freelancer Alliance
+Corp: Corp 101
+Ship: Blackbird
+Weapon: Blackbird
+
+Name: Eugen Ladder
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: Erasers inc.
+Ship: Apocalypse
+Weapon: Apocalypse
+
+Name: Andy Lancer
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Deimos
+Weapon: Deimos
+
+
+Destroyed items:
+
+Dual 250mm Prototype I Gauss Gun
+Tungsten Charge L, Qty: 320
+Fixed Parallel Link-Capacitor I
+100MN Afterburner I
+Medium Tapered Capacitor Infusion I
+Large Armor Repairer I
+Wasp I, Qty: 7 (Drone Bay)
+Vespa I, Qty: 9 (Drone Bay)
+

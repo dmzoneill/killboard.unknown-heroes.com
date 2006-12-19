@@ -1,0 +1,79 @@
+2007.02.01 15:24
+
+Victim: darkviron
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Destroyed: Ferox
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: jernej
+Security: 4.2
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Sleipnir
+Weapon: Sleipnir
+
+Name: Sir JoJo
+Security: 2.1
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Muninn
+Weapon: Muninn
+
+Name: tAkErPT
+Security: 4.2
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Cerberus
+Weapon: Scourge Heavy Missile
+
+Name: Drift Spec (laid the final blow)
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Muninn
+Weapon: 720mm Howitzer Artillery II
+
+Name: ChuckNorris CRO
+Security: -0.3
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Muninn
+Weapon: Muninn
+
+Name: Tholarim
+Security: 3.6
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Absolution
+Weapon: Heavy Beam Laser II
+
+Name: Puls4r
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Muninn
+Weapon: 650mm Artillery Cannon II
+
+Name: Claviger
+Security: 2.1
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Rapier
+Weapon: 720mm Prototype I Siege Cannon
+
+
+Destroyed items:
+
+Widowmaker Heavy Missile, Qty: 82
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+Large Subordinate Screen Stabilizer I
+Invulnerability Field I
+'Anointed' I EM Ward Reinforcement
+Ballistic Control System I
+Beta Reactor Control: Diagnostic System I
+

@@ -1,0 +1,50 @@
+2007.04.20 03:21
+
+Victim: Ragnar Janysgold
+Alliance: Freelancer Alliance
+Corp: N.A.S.A.
+Destroyed: Typhoon
+System: YZ-UKA
+Security: 0.0
+
+Involved parties:
+
+Name: Guristas Demolisher / Guristas
+
+Name: Lord Revent (laid the final blow)
+Security: 1.1
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Sexorella hotz
+Security: 3.2
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Thorax
+Weapon: Hammerhead II
+
+Name: Bishata
+Security: 1.1
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Malediction
+Weapon: Sabretooth Light Missile
+
+
+Destroyed items:
+
+1200mm Heavy 'Scout' Artillery I
+Titanium Sabot L, Qty: 13
+'Arbalest' Cruise Launcher I
+XT-9000 Cruise Launcher
+XT-9000 Cruise Launcher
+XT-9000 Cruise Launcher
+Drone Link Augmentor I
+Eutectic I Capacitor Charge Array
+Cap Recharger II
+N-Type Kinetic Hardener I
+Power Diagnostic System I
+Hammerhead I, Qty: 3 (Drone Bay)
+

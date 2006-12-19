@@ -1,0 +1,19 @@
+2006.10.28 18:44
+
+Victim: varaal
+Alliance: None
+Corp: State War Academy
+Destroyed: Capsule
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: 31i73 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Megathron
+Weapon: Domination Large Proton Smartbomb
+
+

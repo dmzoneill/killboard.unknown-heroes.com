@@ -1,0 +1,33 @@
+2006.10.05 19:40
+
+Victim: Enigma08
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Destroyed: Capsule
+System: Jita
+Security: 0.9
+
+Involved parties:
+
+Name: Jeryk Aquila
+Security: 0.2
+Alliance: None
+Corp: Privateers
+Ship: Rifter
+Weapon: Rifter
+
+Name: Onin Ra (laid the final blow)
+Security: 1.1
+Alliance: None
+Corp: Privateers
+Ship: Megathron
+Weapon: 425mm 'Scout' I Accelerator Cannon
+
+Name: Unexpected
+Security: -0.5
+Alliance: None
+Corp: Privateers
+Ship: Arbitrator
+Weapon: Stasis Webifier I
+
+

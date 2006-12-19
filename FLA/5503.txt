@@ -1,0 +1,43 @@
+2006.10.06 22:14
+
+Victim: Max Spada
+Alliance: None
+Corp: Privateers
+Destroyed: Wolf
+System: Litiura
+Security: 0.5
+
+Involved parties:
+
+Name: Kritas (laid the final blow)
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Ferox
+Weapon: Bloodclaw Light Missile
+
+Name: Mystical Angel
+Security: 3.5
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Capsule
+Weapon: Standard Missile Launcher II
+
+Name: Jaig Maldara
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Unknown
+Weapon: Hornet II
+
+
+Destroyed items:
+
+200mm AutoCannon II
+200mm AutoCannon II
+Barrage S, Qty: 111
+1MN Afterburner II
+Small Armor Repairer II
+Corpse (Cargo)
+Barrage S, Qty: 1396 (Cargo)
+

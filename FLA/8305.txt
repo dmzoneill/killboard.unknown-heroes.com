@@ -1,0 +1,49 @@
+2006.11.07 22:59
+
+Victim: Codinius
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Brutix
+System: Isinokka
+Security: 0.7
+
+Involved parties:
+
+Name: TranZferR (laid the final blow)
+Security: -1.8
+Alliance: None
+Corp: The Initiative
+Ship: Arazu
+Weapon: Valkyrie II
+
+Name: Dazzio
+Security: -2.0
+Alliance: None
+Corp: The Initiative
+Ship: Lachesis
+Weapon: Advanced 'Limos' Heavy Missile Bay I
+
+Name: Balatar
+Security: 1.2
+Alliance: None
+Corp: The Initiative
+Ship: Curse
+Weapon: Tracking Disruptor II
+
+
+Destroyed items:
+
+150mm Railgun I
+150mm Railgun I
+250mm Carbide Railgun I
+Tungsten Charge M, Qty: 160
+10MN Afterburner I
+Stasis Webifier I
+Tracking Computer I
+Armor Kinetic Hardener I
+Small Graviton Smartbomb I (Cargo)
+150mm Carbide Railgun I (Cargo)
+Iridium Charge S, Qty: 644 (Cargo)
+Tungsten Charge M, Qty: 540 (Cargo)
+Hammerhead I, Qty: 5 (Drone Bay)
+

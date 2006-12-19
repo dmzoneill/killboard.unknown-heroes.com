@@ -1,0 +1,33 @@
+2007.03.02 06:17
+
+Victim: SoulAvenger
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Destroyed: Bestower
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Maefly (laid the final blow)
+Security: 0.2
+Alliance: None
+Corp: Bottomfeeders Inc
+Ship: Megathron
+Weapon: 425mm 'Scout' I Accelerator Cannon
+
+Name: Atomic Mayhem
+Security: -0.8
+Alliance: None
+Corp: Bottomfeeders Inc
+Ship: Pilgrim
+Weapon: Parallel Weapon Navigation Transmitter
+
+
+Destroyed items:
+
+Expanded Cargohold I
+Alpha Hull Mod Expanded Cargo
+Alpha Hull Mod Expanded Cargo
+Tritanium, Qty: 605855 (Cargo)
+

@@ -1,0 +1,59 @@
+2007.03.07 01:07
+
+Victim: Argentus Orsus
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Punisher
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Roule
+Security: -5.3
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Vagabond
+Weapon: Warp Disruptor II
+
+Name: xVx Skillgannon
+Security: 0.4
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: WarGod (laid the final blow)
+Security: -0.3
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Curse
+Weapon: Berserker II
+
+Name: Anna Neura
+Security: -0.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Curse
+Weapon: Faint Warp Prohibitor I
+
+Name: Ambassador Wolf
+Security: 0.0
+Alliance: Privateer Alliance
+Corp: Fate.
+Ship: Pilgrim
+Weapon: Remote Sensor Dampener I
+
+
+Destroyed items:
+
+Small Nosferatu I
+Thorium Charge S, Qty: 63
+1MN Afterburner I
+Warp Scrambler I
+Small Armor Repairer I
+200mm Reinforced Titanium Plates I
+Reactor Control Unit I
+Plutonium Charge S, Qty: 20 (Cargo)
+Tungsten Charge S, Qty: 300 (Cargo)
+

@@ -1,0 +1,71 @@
+2007.02.18 19:31
+
+Victim: Kali Lin
+Alliance: None
+Corp: L.Blade Associates
+Destroyed: Harbinger
+System: O1Y-ED
+Security: 0.0
+
+Involved parties:
+
+Name: rappter (laid the final blow)
+Security: -1.2
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Deimos
+Weapon: Heavy Neutron Blaster II
+
+Name: 3M TA3
+Security: -1.9
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+Name: Barukor
+Security: 3.0
+Alliance: None
+Corp: BGG
+Ship: Claw
+Weapon: Claw
+
+Name: Muad' Dib
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Raptor
+Weapon: Bloodclaw Light Missile
+
+Name: Jesnens LoveSlave
+Security: -0.3
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Helios
+Weapon: Faint Warp Prohibitor I
+
+
+Destroyed items:
+
+Medium Pulse Laser II
+Medium Pulse Laser II
+Heavy Modal Laser I
+Heavy Modal Laser I
+10MN Afterburner II
+10MN MicroWarpdrive I
+'Deluge' ECM Burst I
+Medium Armor Repairer II
+Inertia Stabilizers I
+Medium Hull Repairer I (Cargo)
+Medium Proton Smartbomb I, Qty: 2 (Cargo)
+Gamma S (Cargo)
+Xray M, Qty: 2 (Cargo)
+Gamma M (Cargo)
+Ultraviolet S, Qty: 4 (Cargo)
+Standard M (Cargo)
+Radio M (Cargo)
+Infrared S, Qty: 2 (Cargo)
+Microwave M, Qty: 3 (Cargo)
+Conflagration S, Qty: 2 (Cargo)
+Induced Signal Distortion Amplifier I (Cargo)
+

@@ -1,0 +1,40 @@
+2007.01.21 20:36
+
+Victim: Stitcher
+Alliance: Freelancer Alliance
+Corp: J.I.T. Enterprises
+Destroyed: Blackbird
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: TheAvatar
+Security: -0.3
+Alliance: None
+Corp: 0utbreak
+Ship: Vagabond
+Weapon: Warrior II
+
+Name: SwindonBadger (laid the final blow)
+Security: 5.0
+Alliance: None
+Corp: 0utbreak
+Ship: Sabre
+Weapon: 200mm AutoCannon II
+
+
+Destroyed items:
+
+Havoc Heavy Missile, Qty: 27
+Widowmaker Heavy Missile, Qty: 27
+Thunderbolt Heavy Missile, Qty: 27
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+ECM - Spatial Destabilizer I
+Induced Ion Field ECM I
+Supplemental Scanning CPU I
+Signal Amplifier I
+Signal Amplifier I
+

@@ -1,0 +1,30 @@
+2006.10.09 06:33
+
+Victim: Dyanicia
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Thorax
+System: Litiura
+Security: 0.5
+
+Involved parties:
+
+Name: Morfane (laid the final blow)
+Security: -0.2
+Alliance: None
+Corp: Privateers
+Ship: Dominix
+Weapon: Ogre I
+
+Name: Guristas Saboteur / Guristas
+
+
+Destroyed items:
+
+Anode Ion Particle Cannon I
+Anode Ion Particle Cannon I
+Antimatter Charge M, Qty: 450
+10MN MicroWarpdrive I
+Small Armor Repairer I
+Insulated Stabilizer Array I
+

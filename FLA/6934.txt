@@ -1,0 +1,19 @@
+2006.12.14 06:13
+
+Victim: WAR23
+Alliance: None
+Corp: Perkone
+Destroyed: Gallente Shuttle
+System: WUZ-WM
+Security: 0.0
+
+Involved parties:
+
+Name: DeSantis (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Falcon
+Weapon: Scourge Heavy Missile
+
+

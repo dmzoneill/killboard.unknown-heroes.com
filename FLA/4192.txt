@@ -1,0 +1,105 @@
+2007.04.03 22:26
+
+Victim: Dana Foxworth
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Tempest
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: ammargal (laid the final blow)
+Security: 5.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Abaddon
+Weapon: Mega Pulse Laser II
+
+Name: Darknesss
+Security: 0.3
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Megathron
+Weapon: Megathron
+
+Name: the willyb
+Security: 0.1
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Hyperion
+Weapon: Hyperion
+
+Name: Kalissa
+Security: 0.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Raven
+Weapon: Mjolnir Javelin Torpedo
+
+Name: hardgit
+Security: 4.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Astarte
+Weapon: Astarte
+
+Name: ste thegreat
+Security: 3.1
+Alliance: Triumvirate.
+Corp: Wreckless Abandon
+Ship: Absolution
+Weapon: Absolution
+
+Name: THX 1138
+Security: 2.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Megathron
+Weapon: Heavy Diminishing Power System Drain I
+
+Name: Argyle Jones
+Security: -1.0
+Alliance: Triumvirate.
+Corp: Wreckless Abandon
+Ship: Sleipnir
+Weapon: Sleipnir
+
+Name: Wildhog
+Security: 5.1
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Claw
+Weapon: Claw
+
+Name: fox247
+Security: 2.1
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Flycatcher
+Weapon: Flameburst Light Missile
+
+Name: taylor04
+Security: 3.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Curse
+Weapon: Warrior II
+
+
+Destroyed items:
+
+800mm Heavy 'Scout' Repeating Artillery I
+800mm Heavy 'Scout' Repeating Artillery I
+Heavy Nosferatu I
+EMP L, Qty: 216
+100MN Afterburner I
+Sensor Booster I
+Damage Control I
+Large Armor Repairer II
+Microcell Nanite Explosive Hardener I
+EMP L, Qty: 1630 (Cargo)
+Phased Plasma L, Qty: 2103 (Cargo)
+Cap Booster 800, Qty: 11 (Cargo)
+Hammerhead I, Qty: 2 (Drone Bay)
+

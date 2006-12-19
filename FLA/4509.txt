@@ -1,0 +1,50 @@
+2007.04.12 04:44
+
+Victim: Wicked Pissah
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Maller
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Sauron Starcrusher
+Security: 3.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Wladomir Jed
+Security: 3.7
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Rook
+Weapon: Scourge Heavy Missile
+
+Name: Feterous Jolin
+Security: -2.3
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: Ronald Speirs (laid the final blow)
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Nidhoggur
+Weapon: Einherji
+
+
+Destroyed items:
+
+Medium Graviton Smartbomb I
+Medium Graviton Smartbomb I
+Cap Recharger I
+Medium Armor Repairer I
+Power Diagnostic System I
+Power Diagnostic System I
+Radio M, Qty: 5 (Cargo)
+

@@ -1,0 +1,70 @@
+2006.10.05 20:22
+
+Victim: SpaceSlag
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Viator
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Vily
+Security: -1.6
+Alliance: None
+Corp: Lilium Venture Initiative
+Ship: Heretic
+Weapon: Heretic
+
+Name: Kuentai
+Security: -4.4
+Alliance: None
+Corp: Beagle Corp
+Ship: Claw
+Weapon: Claw
+
+Name: Ujio Noki (laid the final blow)
+Security: 1.4
+Alliance: None
+Corp: Beagle Corp
+Ship: Claw
+Weapon: 150mm Light AutoCannon II
+
+Name: Valhalior
+Security: 2.8
+Alliance: None
+Corp: Beagle Corp
+Ship: Harpy
+Weapon: Harpy
+
+Name: Napolie
+Security: 0.1
+Alliance: None
+Corp: Beagle Corp
+Ship: Ares
+Weapon: Ares
+
+Name: Dave White
+Security: -3.2
+Alliance: None
+Corp: Beagle Corp
+Ship: Raptor
+Weapon: Rocket Launcher II
+
+
+Destroyed items:
+
+ML-3 Amphilotite Mining Probe
+ECM - Multispectral Jammer I
+Small Capacitor Battery I (Cargo)
+Small I-a Polarized Armor Regenerator (Cargo)
+Cap Booster 25, Qty: 110 (Cargo)
+Warrior I (Cargo)
+Hammerhead I, Qty: 2 (Cargo)
+Mining Drone I, Qty: 2 (Cargo)
+Covetor (Cargo)
+Kernite Mining Crystal I, Qty: 5 (Cargo)
+Spodumain Mining Crystal I (Cargo)
+Dynasty Ring (Cargo)
+Mercoxit Mining Crystal I (Cargo)
+

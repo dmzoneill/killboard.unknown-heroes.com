@@ -1,0 +1,33 @@
+2007.03.03 12:54
+
+Victim: Reiv
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Destroyed: Capsule
+System: F7C-H0
+Security: 0.0
+
+Involved parties:
+
+Name: VirkMaN (laid the final blow)
+Security: 0.2
+Alliance: None
+Corp: Temptation inc.
+Ship: Sleipnir
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Gesthar Malvani
+Security: 4.8
+Alliance: None
+Corp: Temptation inc.
+Ship: Flycatcher
+Weapon: Foxfire Rocket
+
+Name: Valdir Mustafar
+Security: -1.8
+Alliance: None
+Corp: Temptation inc.
+Ship: Huginn
+Weapon: Faint Warp Prohibitor I
+
+

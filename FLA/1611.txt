@@ -1,0 +1,96 @@
+2007.03.18 10:00
+
+Victim: Lord Revent
+Alliance: YouWhat
+Corp: Beasts of Burden
+Destroyed: Tempest
+System: XZH-4X
+Security: 0.0
+
+Involved parties:
+
+Name: rappter (laid the final blow)
+Security: -0.4
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Deimos
+Weapon: Heavy Neutron Blaster II
+
+Name: Jesnen
+Security: -1.4
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Sacrilege
+Weapon: Terror Assault Missile
+
+Name: tiita
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Abaddon
+Weapon: Vespa II
+
+Name: Apoccolipse
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Feel Good Inc.
+Ship: Celestis
+Weapon: Celestis
+
+Name: Tassill
+Security: 5.0
+Alliance: Zenith Affinity
+Corp: GREY COUNCIL
+Ship: Scimitar
+Weapon: 280mm Howitzer Artillery II
+
+Name: MrMaggot
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Hawk
+Weapon: Sabretooth Light Missile
+
+Name: death1023
+Security: 2.9
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Hyperion
+Weapon: Hyperion
+
+Name: FlobbMkII
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+Name: Bobby Atlas
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Megathron
+Weapon: 'Arbalest' Cruise Launcher I
+
+
+Destroyed items:
+
+1400mm Howitzer Artillery II
+1400mm Howitzer Artillery II
+1400mm Howitzer Artillery II
+1400mm Howitzer Artillery II
+1400mm Howitzer Artillery II
+1400mm Howitzer Artillery II
+EMP L, Qty: 10
+Widowmaker Heavy Missile, Qty: 28
+Advanced 'Limos' Heavy Missile Bay I
+Advanced 'Limos' Heavy Missile Bay I
+Large Shield Booster II
+Invulnerability Field I
+Sensor Booster II
+Tracking Computer II
+Gyrostabilizer II
+Gyrostabilizer II
+Tremor L, Qty: 2982 (Cargo)
+Widowmaker Heavy Missile, Qty: 334 (Cargo)
+

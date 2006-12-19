@@ -1,0 +1,36 @@
+2006.10.06 23:15
+
+Victim: TheSmokeGoesUp
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Destroyed: Crow
+System: Jita
+Security: 0.9
+
+Involved parties:
+
+Name: Danno (laid the final blow)
+Security: -1.9
+Alliance: None
+Corp: Privateers
+Ship: Apocalypse
+Weapon: Tachyon Beam Laser II
+
+Name: USMCRush
+Security: -1.3
+Alliance: None
+Corp: Privateers
+Ship: Unknown
+Weapon: 150mm Railgun II
+
+
+Destroyed items:
+
+'Limos' Rocket Launcher I
+1MN MicroWarpdrive II
+J5b Phased Prototype Warp Inhibitor I
+Small I-a Polarized Armor Regenerator
+100mm Reinforced Rolled Tungsten Plates I
+Thorn Rocket, Qty: 2010 (Cargo)
+Gremlin Rocket, Qty: 100 (Cargo)
+

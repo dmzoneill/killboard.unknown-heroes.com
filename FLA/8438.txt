@@ -1,0 +1,26 @@
+2006.11.18 06:57
+
+Victim: Lux0r
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Destroyed: Capsule
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: GoLdeN BoY
+Security: 1.7
+Alliance: None
+Corp: Beer Guzzling Clowns With Blasters
+Ship: Malediction
+Weapon: Malediction
+
+Name: TheManEatingMonkey (laid the final blow)
+Security: 0.8
+Alliance: None
+Corp: Beer Guzzling Clowns With Blasters
+Ship: Jaguar
+Weapon: 200mm AutoCannon II
+
+

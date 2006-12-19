@@ -1,0 +1,31 @@
+2007.04.12 19:59
+
+Victim: coldman soulreaper
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Destroyed: Iteron Mark IV
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Fitz Farseer (laid the final blow)
+Security: 0.4
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Drake
+Weapon: Havoc Heavy Missile
+
+Name: Spitfire5769
+Security: 4.5
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Raven
+Weapon: Cataclysm Cruise Missile
+
+
+Destroyed items:
+
+Warp Core Stabilizer I
+Warp Core Stabilizer I
+

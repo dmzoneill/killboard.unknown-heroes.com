@@ -1,0 +1,55 @@
+2007.03.25 20:18
+
+Victim: Chuck Dawg
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Destroyed: Crow
+System: DY-F70
+Security: 0.0
+
+Involved parties:
+
+Name: Magnelien (laid the final blow)
+Security: 4.3
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: MOS EISLEY
+Security: 3.9
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Flycatcher
+Weapon: Thorn Rocket
+
+Name: Frostbeule
+Security: 2.9
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Myrmidon
+Weapon: Hobgoblin II
+
+Name: istasi
+Security: -0.4
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Fuzzy Something
+Security: 4.6
+Alliance: Chorus of Dawn
+Corp: Cosmic Odyssey
+Ship: Hawk
+Weapon: Rocket Launcher II
+
+
+Destroyed items:
+
+'Malkuth' Rocket Launcher I
+'Malkuth' Rocket Launcher I
+'Malkuth' Rocket Launcher I
+Initiated Warp Jammer I
+Local Power Plant Manager: Capacity Power Relay I
+

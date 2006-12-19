@@ -1,0 +1,19 @@
+2007.03.03 01:29
+
+Victim: Moderskid
+Alliance: Xelas Alliance
+Corp: Deadzone Innovation Enterprises
+Destroyed: Badger Mark II
+System: Z30S-A
+Security: 0.0
+
+Involved parties:
+
+Name: Inter Fectum (laid the final blow)
+Security: 2.0
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Jaguar
+Weapon: 150mm Light AutoCannon II
+
+

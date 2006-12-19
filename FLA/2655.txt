@@ -1,0 +1,120 @@
+2007.03.01 03:31
+
+Victim: Inter Fectum
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Destroyed: Hurricane
+System: V6-NY1
+Security: 0.0
+
+Involved parties:
+
+Name: Low Blow (laid the final blow)
+Security: 3.1
+Alliance: Band of Brothers
+Corp: Black Eclipse Corp
+Ship: Zealot
+Weapon: Heavy Beam Laser II
+
+Name: Nick Curso
+Security: -0.3
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Zealot
+Weapon: Zealot
+
+Name: Flavius Renatus
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Claw
+Weapon: Claw
+
+Name: Zagum Darkfin
+Security: 4.2
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Zealot
+Weapon: Zealot
+
+Name: Polydectes
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Crusader
+Weapon: Crusader
+
+Name: Dark1
+Security: 3.3
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Claw
+Weapon: Claw
+
+Name: V8i Theo
+Security: 4.6
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Crow
+Weapon: Thorn Rocket
+
+Name: Menth
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Reikoku
+Ship: Zealot
+Weapon: Heavy Beam Laser II
+
+Name: Funky Feeling
+Security: 4.7
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Eris
+Weapon: Eris
+
+Name: Leyalor Esperence
+Security: 2.1
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Sabre
+Weapon: Sabre
+
+Name: Tasha Bailey
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Reikoku
+Ship: Taranis
+Weapon: Taranis
+
+Name: LadyScarlet
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Eagle
+Weapon: Scourge Heavy Missile
+
+Name: V8i Smitty
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Crow
+Weapon: Flameburst Light Missile
+
+
+Destroyed items:
+
+220mm Vulcan AutoCannon II
+220mm Vulcan AutoCannon II
+220mm Vulcan AutoCannon II
+Medium 'Ghoul' Energy Siphon I
+Barrage M, Qty: 213
+Medium Electrochemical Capacitor Booster I
+Cap Booster 800
+Damage Control II
+Medium Armor Repairer II
+N-Type Explosive Hardener I
+EMP M, Qty: 520 (Cargo)
+Cap Booster 800 (Cargo)
+Barrage M, Qty: 1942 (Cargo)
+Hail M, Qty: 1500 (Cargo)
+

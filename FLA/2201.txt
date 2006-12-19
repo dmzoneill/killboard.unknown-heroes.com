@@ -1,0 +1,62 @@
+2007.01.28 18:05
+
+Victim: Simon Monkoto
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Scorpion
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Pyrotesea
+Security: 4.6
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Hyperion
+Weapon: Hyperion
+
+Name: Beast Hun (laid the final blow)
+Security: 4.7
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Abaddon
+Weapon: Tachyon Beam Laser II
+
+Name: Letum Omnis
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Hyperion
+Weapon: Hyperion
+
+Name: Memphisz
+Security: 0.3
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Tempest
+Weapon: Tempest
+
+Name: Valora
+Security: 2.4
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Vagabond
+Weapon: Vagabond
+
+
+Destroyed items:
+
+Heavy Nosferatu I
+Heavy Nosferatu I
+Wrath Cruise Missile, Qty: 44
+'Limos' Cruise Launcher I
+ECM - Phase Inverter I
+ECM - Phase Inverter I
+FZ-3 Subversive Spatial Destabilizer ECM
+Remote Sensor Dampener I
+Remote Sensor Dampener I
+Signal Distortion Amplifier II
+Type-D Power Core Modification: Diagnostic System
+Power Diagnostic System I
+

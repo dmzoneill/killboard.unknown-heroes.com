@@ -1,0 +1,25 @@
+2006.12.08 21:55
+
+Victim: LegallyDead
+Alliance: The SUdden Death Squad
+Corp: FM Corp
+Destroyed: Condor
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: LiBraga (laid the final blow)
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Hawk
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+'Malkuth' Rocket Launcher I
+Phased Monopropellant I Hydrazine Boosters
+Small Peroxide I Capacitor Power Cell
+

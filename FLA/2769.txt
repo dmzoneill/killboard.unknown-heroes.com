@@ -1,0 +1,82 @@
+2007.03.06 02:00
+
+Victim: Shiftless
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Drake
+System: YZ-LQL
+Security: 0.0
+
+Involved parties:
+
+Name: Gustav Blackknight
+Security: 5.3
+Alliance: Exuro Mortis
+Corp: The Burning Orphans
+Ship: Rifter
+Weapon: Firbolg
+
+Name: Hauth
+Security: 5.2
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Crusader
+Weapon: Einherji
+
+Name: Aelena Thraant (laid the final blow)
+Security: 5.0
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Thanatos
+Weapon: Dragonfly
+
+Name: Rif
+Security: 5.0
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Retribution
+Weapon: Retribution
+
+Name: Dominixa
+Security: 5.0
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Rapier
+Weapon: Low Frequency Sensor Suppressor I
+
+Name: Troubadour
+Security: -1.6
+Alliance: Exuro Mortis
+Corp: Slacker Industries
+Ship: Thanatos
+Weapon: Einherji
+
+Name: Maxit0
+Security: 0.7
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Caracal
+Weapon: Heavy Missile Launcher II
+
+Name: Corbin Thoth
+Security: 5.0
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Thanatos
+Weapon: Dragonfly
+
+
+Destroyed items:
+
+Havoc Heavy Missile, Qty: 128
+Thunderbolt Heavy Missile, Qty: 64
+Advanced 'Limos' Heavy Missile Bay I
+Advanced 'Limos' Heavy Missile Bay I
+Large F-S9 Regolith Shield Induction
+'Langour' Drive Disruptor I
+Invulnerability Field I
+Partial Weapon Navigation
+Beta Reactor Control: Reaction Control I
+Scourge Heavy Missile, Qty: 200 (Cargo)
+Acolyte I, Qty: 3 (Drone Bay)
+

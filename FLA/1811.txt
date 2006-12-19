@@ -1,0 +1,38 @@
+2007.01.05 22:42
+
+Victim: Samiloth Justinian
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Crow
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Heinky (laid the final blow)
+Security: 2.5
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Abaddon
+Weapon: Hammerhead II
+
+Name: SATAN
+Security: -0.9
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Cruise Missile Launcher II
+
+
+Destroyed items:
+
+E5 Prototype Energy Vampire
+Rocket Launcher II
+Rocket Launcher II
+Thorn Rage Rocket, Qty: 29
+Phased Monopropellant I Hydrazine Boosters
+Faint Epsilon Warp Prohibitor I
+Nanofiber Internal Structure I
+Nanofiber Internal Structure I
+Type-D Power Core Modification: Capacitor Power Relay
+

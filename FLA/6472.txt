@@ -1,0 +1,19 @@
+2006.11.14 22:22
+
+Victim: Elendi
+Alliance: None
+Corp: State War Academy
+Destroyed: Caldari Shuttle
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: DanyD (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+

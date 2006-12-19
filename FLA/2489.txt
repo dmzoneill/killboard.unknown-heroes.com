@@ -1,0 +1,79 @@
+2007.02.15 19:38
+
+Victim: Teck7
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Lachesis
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Topasio
+Security: 2.5
+Alliance: None
+Corp: Princeps Corp
+Ship: Tempest
+Weapon: Tempest
+
+Name: Cronos01 (laid the final blow)
+Security: 2.6
+Alliance: None
+Corp: Princeps Corp
+Ship: Armageddon
+Weapon: Dual Heavy Pulse Laser II
+
+Name: Kraiven
+Security: 5.0
+Alliance: None
+Corp: Princeps Corp
+Ship: Megathron
+Weapon: Ion Blaster Cannon II
+
+Name: Devylman
+Security: 3.7
+Alliance: None
+Corp: Princeps Corp
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Primos Gun
+Security: 1.1
+Alliance: None
+Corp: Princeps Corp
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+Name: Ashurian
+Security: 2.6
+Alliance: None
+Corp: Princeps Corp
+Ship: Rupture
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: KaKaShI
+Security: 3.1
+Alliance: None
+Corp: Princeps Corp
+Ship: Blackbird
+Weapon: ECM - Multispectral Jammer II
+
+
+Destroyed items:
+
+Spike S, Qty: 40
+Scourge Heavy Missile, Qty: 31
+Havoc Heavy Missile, Qty: 30
+XR-3200 Heavy Missile Bay
+Advanced 'Limos' Heavy Missile Bay I
+Initiated Warp Jammer I
+Cap Booster 400
+Indirect Scanning Dampening Unit I
+Remote Sensor Dampener II
+Remote Sensor Dampener II
+Medium Armor Repairer II
+Armor Explosive Hardener II
+Spike S, Qty: 160 (Cargo)
+Hobgoblin II (Drone Bay)
+Vespa II (Drone Bay)
+

@@ -1,0 +1,35 @@
+2006.11.19 10:28
+
+Victim: Knight Picard
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Destroyed: Iteron Mark V
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: xEntriq (laid the final blow)
+Security: 0.0
+Alliance: None
+Corp: omen.
+Ship: Taranis
+Weapon: Light Neutron Blaster II
+
+Name: Rann Antares
+Security: 5.0
+Alliance: None
+Corp: omen.
+Ship: Eris
+Weapon: Eris
+
+
+Destroyed items:
+
+Cap Recharger I
+10MN Afterburner II
+'Stoic' Core Equalizer I
+Warp Core Stabilizer I
+Tristan (Cargo)
+Expanded Cargohold I, Qty: 2 (Cargo)
+

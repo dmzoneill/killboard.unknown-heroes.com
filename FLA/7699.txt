@@ -1,0 +1,28 @@
+2006.02.27 10:49
+
+Victim: Cockroach
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Malediction
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Mosaic Artefact (laid the final blow)
+Security: -1.4
+Alliance: NBSI Alliance
+Corp: Occassus Republica
+Ship: Deimos
+Weapon: Heavy Ion Blaster II
+
+
+Destroyed items:
+
+Dual Light Pulse Laser II
+Radio S
+Piranha Light Missile, Qty: 38
+1MN MicroWarpdrive II
+Bloodclaw Light Missile, Qty: 475 (Cargo)
+Piranha Light Missile, Qty: 520 (Cargo)
+

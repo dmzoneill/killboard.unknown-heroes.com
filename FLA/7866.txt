@@ -1,0 +1,27 @@
+2006.09.18 02:28
+
+Victim: Luke Lamarr
+Alliance: Freelancer Alliance
+Corp: Terminal Velocity Inc.
+Destroyed: Blackbird
+System: SS-GED
+Security: 0.0
+
+Involved parties:
+
+Name: Farscape Hw (laid the final blow)
+Security: 1.5
+Alliance: None
+Corp: Solidline Enterprise
+Ship: Deimos
+Weapon: Heavy Neutron Blaster II
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Heavy Missile Launcher I
+Medium Shield Booster I
+Invulnerability Field I
+ECM - Multispectral Jammer I
+

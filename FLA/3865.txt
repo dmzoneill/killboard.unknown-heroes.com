@@ -1,0 +1,39 @@
+2007.04.03 04:12
+
+Victim: Rahzorus
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Destroyed: Kestrel
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Deathratt (laid the final blow)
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Ship: Caracal
+Weapon: Thunderbolt Heavy Missile
+
+Name: Bobby Atlas
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Hyperion
+Weapon: Modal Mega Neutron Particle Accelerator I
+
+Name: Ashr
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Rook
+Weapon: Heavy Missile Launcher II
+
+
+Destroyed items:
+
+Cap Recharger I
+Expanded Cargohold I
+Expanded Cargohold I
+

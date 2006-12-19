@@ -1,0 +1,47 @@
+2007.02.12 00:01
+
+Victim: Dragonbitch
+Alliance: None
+Corp: Agony Unleashed
+Destroyed: Stabber
+System: 5ZXX-K
+Security: 0.0
+
+Involved parties:
+
+Name: Kasahara
+Security: -0.2
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Stabber
+Weapon: Stabber
+
+Name: Solarienne
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+Name: Father Abel
+Security: 5.1
+Alliance: None
+Corp: Caldari Independent Navy Reserve
+Ship: Rokh
+Weapon: 425mm Railgun II
+
+Name: Night Seeker (laid the final blow)
+Security: 0.2
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Hound
+Weapon: Devastator Cruise Missile
+
+
+Destroyed items:
+
+EMP M, Qty: 184
+Warp Disruptor I
+Inertia Stabilizers I
+Inertia Stabilizers I
+

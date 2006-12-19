@@ -1,0 +1,52 @@
+2007.04.09 17:37
+
+Victim: marakudi
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Destroyed: Crow
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Joshua Foiritain (laid the final blow)
+Security: -1.7
+Alliance: Corelum Syndicate
+Corp: Coreli Corporation
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Max Teranous
+Security: -1.2
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Claw
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: FA Avenger
+Security: 2.9
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+Name: Eleese
+Security: -0.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Lachesis
+Weapon: Remote Sensor Dampener II
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 71
+'Malkuth' Standard Missile Launcher I
+'Malkuth' Standard Missile Launcher I
+'Malkuth' Standard Missile Launcher I
+1MN MicroWarpdrive II
+Small Capacitor Battery II
+Micro Auxiliary Power Core I
+Nanofiber Internal Structure II
+Nanofiber Internal Structure II
+

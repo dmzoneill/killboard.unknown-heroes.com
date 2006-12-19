@@ -1,0 +1,38 @@
+2007.04.02 15:29
+
+Victim: Alianore
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Destroyed: Maulus
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Spacebar (laid the final blow)
+Security: 2.1
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Hurricane
+Weapon: 425mm AutoCannon II
+
+Name: Shraek
+Security: 1.4
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Sabre
+Weapon: 150mm Light AutoCannon II
+
+
+Destroyed items:
+
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+125mm Railgun I
+1MN Afterburner I
+Nanofiber Internal Structure I
+

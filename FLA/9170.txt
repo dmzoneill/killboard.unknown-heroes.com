@@ -1,0 +1,74 @@
+2007.05.02 12:56
+
+Victim: lethario desrtuction
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Crow
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Nukuquqa Hestase
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Kestrel
+Weapon: Sabretooth Light Missile
+
+Name: Marie Veedor
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Merlin
+Weapon: Merlin
+
+Name: Kayron Brennan
+Security: 0.6
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Merlin
+Weapon: Merlin
+
+Name: FlobbMkII
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Incursus
+Weapon: Incursus
+
+Name: alpha lead (laid the final blow)
+Security: 2.4
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Merlin
+Weapon: Piranha Light Missile
+
+Name: silvrhawk
+Security: 4.8
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Coercer
+Weapon: Coercer
+
+Name: Mufeater
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Tristan
+Weapon: Tristan
+
+
+Destroyed items:
+
+Standard Missile Launcher II
+Piranha Precision Light Missile, Qty: 41
+Reactor Control Unit II
+Fleeting Progressive Warp Scrambler I (Cargo)
+Signal Amplifier I (Cargo)
+Mobile Small Warp Disruptor I (Cargo)
+Multiphasic Bolt Array I (Cargo)
+Foxfire Rocket, Qty: 30 (Cargo)
+Bloodclaw Precision Light Missile, Qty: 672 (Cargo)
+Sabretooth Precision Light Missile, Qty: 155 (Cargo)
+

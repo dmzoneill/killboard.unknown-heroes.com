@@ -1,0 +1,72 @@
+2007.04.22 05:28
+
+Victim: Teh Juicyfruit
+Alliance: YouWhat
+Corp: Artificial Horizons
+Destroyed: Hawk
+System: DO6H-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Nukuquqa Hestase
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Kestrel
+Weapon: Sabretooth Light Missile
+
+Name: Antigen Po
+Security: 4.4
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Thorax
+Weapon: Vespa I
+
+Name: Mufeater (laid the final blow)
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Vexor
+Weapon: Hobgoblin II
+
+Name: Kvarium Ki
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Breacher
+Weapon: Breacher
+
+Name: Bobby Atlas
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Celestis
+Weapon: Celestis
+
+Name: TroNaaR
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Tristan
+Weapon: Tristan
+
+Name: Val Dauphen
+Security: 3.7
+Alliance: Freelancer Alliance
+Corp: Devious - Special Forces G.H.O.S.T Fleet Delta
+Ship: Kestrel
+Weapon: Piranha Light Missile
+
+
+Destroyed items:
+
+Standard Missile Launcher II
+Standard Missile Launcher II
+Bloodclaw Precision Light Missile, Qty: 50
+Warp Core Stabilizer I, Qty: 2 (Cargo)
+Bloodclaw Precision Light Missile, Qty: 299 (Cargo)
+Flameburst Precision Light Missile, Qty: 269 (Cargo)
+Piranha Precision Light Missile, Qty: 500 (Cargo)
+Sabretooth Precision Light Missile, Qty: 500 (Cargo)
+

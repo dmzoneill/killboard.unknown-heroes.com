@@ -1,0 +1,76 @@
+2007.01.28 18:08
+
+Victim: Swanny231
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Destroyed: Raven
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Valora
+Security: 2.4
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Vagabond
+Weapon: Warrior II
+
+Name: Memphisz (laid the final blow)
+Security: 0.3
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Lucy Fur
+Security: 2.8
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Letum Omnis
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Hyperion
+Weapon: 425mm Railgun II
+
+Name: Okeanos
+Security: 0.3
+Alliance: Band of Brothers
+Corp: TAOSP
+Ship: Arazu
+Weapon: Phased Muon Sensor Disruptor I
+
+
+Destroyed items:
+
+Medium 'Ghoul' Energy Siphon I
+Cruise Missile Launcher II
+Cruise Missile Launcher II
+Siege Missile Launcher II
+Siege Missile Launcher II
+Siege Missile Launcher II
+Siege Missile Launcher II
+Paradise Fury Cruise Missile
+Paradise Fury Cruise Missile
+Paradise Fury Cruise Missile
+Paradise Fury Cruise Missile
+Paradise Fury Cruise Missile
+Paradise Fury Cruise Missile
+Paradise Fury Cruise Missile
+Paradise Fury Cruise Missile
+Bane Javelin Torpedo, Qty: 12
+Juggernaut Javelin Torpedo, Qty: 12
+X-Large Shield Booster II
+F-90 Positional Sensor Subroutines
+Magnetic Scattering Amplifier II
+Emergency Damage Control I
+Type-D Attenuation Signal Augmentation
+Co-Processor II
+Ballistic Control System II
+Power Diagnostic System II
+Paradise Fury Cruise Missile, Qty: 996 (Cargo)
+

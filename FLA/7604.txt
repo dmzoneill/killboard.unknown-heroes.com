@@ -1,0 +1,61 @@
+2006.09.24 12:30
+
+Victim: Jenessa
+Alliance: Triumvirate.
+Corp: D00M.
+Destroyed: Capsule
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: kone on (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Sabre
+Weapon: 200mm AutoCannon II
+
+Name: Kolombus
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Ishkur
+Weapon: X5 Prototype I Engine Enervator
+
+Name: Gangreen
+Security: 0.1
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Incursus
+Weapon: 150mm Carbide Railgun I
+
+Name: Karas Rabus
+Security: 4.1
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Huginn
+Weapon: X5 Prototype I Engine Enervator
+
+Name: Hava StormBringerr
+Security: 1.7
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Malediction
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: Francis Verdictio
+Security: 4.5
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Taranis
+Weapon: 125mm Railgun II
+
+Name: Clansman
+Security: 5.0
+Alliance: None
+Corp: Ganksters Paradise
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+

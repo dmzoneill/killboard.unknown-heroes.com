@@ -1,0 +1,51 @@
+2007.03.11 18:28
+
+Victim: wilson ll
+Alliance: Freelancer Alliance
+Corp: Feel Good Inc.
+Destroyed: Scorpion
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: The Ali
+Security: -3.2
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: volly
+Security: 3.0
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Curse
+Weapon: Hammerhead II
+
+Name: obiele
+Security: 5.0
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Crusader
+Weapon: Dual Light Beam Laser II
+
+Name: Amok'Trueborn' Pryde (laid the final blow)
+Security: -1.6
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+E500 Prototype Energy Vampire
+E500 Prototype Energy Vampire
+Ballistic Deflection Field II
+Compulsive Multispectral ECM I
+Compulsive Multispectral ECM I
+Phased Weapon Navigation Array Generation Extron
+Ballistic Control System II
+Ballistic Control System II
+

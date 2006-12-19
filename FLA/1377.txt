@@ -1,0 +1,40 @@
+2007.03.11 23:25
+
+Victim: Erikel
+Alliance: Chorus of Dawn
+Corp: Cosmic Odyssey
+Destroyed: Capsule
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Fugnut
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Drake
+Weapon: Thunderbolt Heavy Missile
+
+Name: Nil Desperandum (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Lachesis
+Weapon: 250mm Carbide Railgun I
+
+Name: Kargh
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Thorax
+Weapon: Faint Epsilon Warp Prohibitor I
+
+Name: Illesa
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Caracal
+Weapon: Heavy Missile Launcher I
+
+

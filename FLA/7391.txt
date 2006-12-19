@@ -1,0 +1,27 @@
+2006.08.31 06:25
+
+Victim: COJOi
+Alliance: Lotka Volterra
+Corp: Shinra
+Destroyed: Claw
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Noitaakka (laid the final blow)
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Raven
+Weapon: Vespa II
+
+
+Destroyed items:
+
+Catalyzed Cold-Gas I Arcjet Thrusters
+J5 Prototype Warp Inhibitor I
+Fleeting Progressive Warp Scrambler I (Cargo)
+Mega Pulse Laser II (Cargo)
+EMP S, Qty: 5247 (Cargo)
+

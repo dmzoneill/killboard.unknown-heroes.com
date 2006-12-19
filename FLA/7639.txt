@@ -1,0 +1,40 @@
+2006.09.29 13:01
+
+Victim: Alain Lamar
+Alliance: Electus Matari
+Corp: unite the nations
+Destroyed: Ferox
+System: 9UY4-H
+Security: 0.0
+
+Involved parties:
+
+Name: Sansha's Slave Lord / True Power
+
+Name: zoturi (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Vagabond
+Weapon: Dual 180mm AutoCannon II
+
+
+Destroyed items:
+
+Antimatter Charge M, Qty: 17
+Thunderbolt Heavy Missile, Qty: 21
+Advanced 'Limos' Heavy Missile Bay I
+Advanced 'Limos' Heavy Missile Bay I
+Advanced 'Limos' Heavy Missile Bay I
+Large Shield Booster II
+V-M15 Braced Multispectral Shield Matrix
+'Anointed' I EM Ward Reinforcement
+'Stoic' Core Equalizer I
+'Halcyon' Core Equalizer I
+Heavy Modal Pulse Laser I (Cargo)
+Antimatter Charge M, Qty: 220 (Cargo)
+Plutonium Charge M, Qty: 245 (Cargo)
+Scourge Heavy Missile, Qty: 500 (Cargo)
+Widowmaker Heavy Missile, Qty: 500 (Cargo)
+Thunderbolt Heavy Missile, Qty: 1315 (Cargo)
+

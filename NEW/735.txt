@@ -1,0 +1,29 @@
+2007.05.30 10:06
+
+Victim: MA Learnig
+Alliance: None
+Corp: State War Academy
+Destroyed: Ibis
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Commander Paul (laid the final blow)
+Security: 5.0
+Alliance: DeStInY.
+Corp: People's Front Of Judea
+Ship: Myrmidon
+Weapon: 425mm AutoCannon II
+
+Name: Mufeater
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Ares
+Weapon: Ares
+
+
+Destroyed items:
+
+Basic Miner

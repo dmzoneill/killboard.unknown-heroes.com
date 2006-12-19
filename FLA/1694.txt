@@ -1,0 +1,96 @@
+2007.01.01 05:19
+
+Victim: Goca
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Destroyed: Raven
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Scythus Aratan
+Security: 4.2
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: SATAN (laid the final blow)
+Security: -1.0
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+Name: DHB WildCat
+Security: -1.9
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Wrath Cruise Missile
+
+Name: Arnold Swartzenegger
+Security: -0.7
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Warrior II
+
+Name: Guristas Obliterator / Guristas
+
+Name: Evil Pookie
+Security: 4.3
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Cataclysm Cruise Missile
+
+Name: Simon Monkoto
+Security: 2.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Dominix
+Weapon: Warden I
+
+Name: Mr Testy
+Security: 5.0
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+Name: Lil' Buddy
+Security: 0.2
+Alliance: None
+Corp: The Unpodable Supermen
+Ship: Flycatcher
+Weapon: Bloodclaw Light Missile
+
+Name: Kusarigama
+Security: 3.8
+Alliance: None
+Corp: Brutor tribe
+Ship: Sabre
+Weapon: 'Langour' Drive Disruptor I
+
+
+Destroyed items:
+
+Siege Missile Launcher II
+Siege Missile Launcher II
+Siege Missile Launcher II
+Siege Missile Launcher II
+Inferno Javelin Torpedo, Qty: 16
+Mjolnir Javelin Torpedo, Qty: 16
+V-M15 Braced Multispectral Shield Matrix
+V-M15 Braced Multispectral Shield Matrix
+Shield Boost Amplifier I
+Ballistic Control System II
+Ballistic Control System II
+Ballistic Control System II
+Inferno Javelin Torpedo, Qty: 958 (Cargo)
+Mjolnir Javelin Torpedo, Qty: 997 (Cargo)
+Hornet EC-300 (Drone Bay)
+Vespa EC-600, Qty: 7 (Drone Bay)
+

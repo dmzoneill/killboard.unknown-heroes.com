@@ -1,0 +1,40 @@
+2007.03.05 00:06
+
+Victim: Tara Black
+Alliance: Freelancer Alliance
+Corp: Harbingers of Sarrow
+Destroyed: Cerberus
+System: X-7OMU
+Security: 0.0
+
+Involved parties:
+
+Name: taylor04 (laid the final blow)
+Security: 2.7
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Sleipnir
+Weapon: 425mm AutoCannon II
+
+Name: Heidi Gabs
+Security: -1.6
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Heretic
+Weapon: Heretic
+
+
+Destroyed items:
+
+'Arbalest' Heavy Assault Missile Launcher I
+'Arbalest' Heavy Assault Missile Launcher I
+'Arbalest' Heavy Assault Missile Launcher I
+Medium Shield Booster II
+Fleeting Progressive Warp Scrambler I
+Photon Scattering Field II
+Invulnerability Field II
+Ballistic Control System II
+Ballistic Control System II
+Torrent Assault Missile, Qty: 4792 (Cargo)
+Terror Assault Missile, Qty: 4750 (Cargo)
+

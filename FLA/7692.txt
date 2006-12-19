@@ -1,0 +1,31 @@
+2006.10.01 19:28
+
+Victim: Allexxus
+Alliance: Black Sun Alliance
+Corp: SUN INDUSTRIES PTY LtD
+Destroyed: Inquisitor
+System: Korama
+Security: 0.8
+
+Involved parties:
+
+Name: Wousr (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Rifter
+Weapon: 250mm Light Prototype I Siege Cannon
+
+
+Destroyed items:
+
+Phalanx Rocket, Qty: 19
+Thorn Rocket, Qty: 19
+'Limos' Rocket Launcher I
+'Limos' Rocket Launcher I
+'Limos' Rocket Launcher I
+Barton Reactor Capacitor Recharger I
+1MN MicroWarpdrive I
+Small Armor Repairer I
+Thorn Rocket, Qty: 187 (Cargo)
+

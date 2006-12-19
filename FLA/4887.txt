@@ -1,0 +1,26 @@
+2007.04.18 15:01
+
+Victim: Val Dauphen
+Alliance: Freelancer Alliance
+Corp: Devious - Special Forces G.H.O.S.T Fleet Delta
+Destroyed: Kestrel
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Fitz Farseer (laid the final blow)
+Security: 0.5
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Hound
+Weapon: Paradise Cruise Missile
+
+
+Destroyed items:
+
+Piranha Light Missile, Qty: 127
+TE-2100 Standard Missile Bay
+Standard Missile Launcher I
+Stasis Webifier I
+

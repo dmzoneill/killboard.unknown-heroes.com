@@ -1,0 +1,42 @@
+2007.03.03 17:09
+
+Victim: Primaxin
+Alliance: Freelancer Alliance
+Corp: Harbingers of Sarrow
+Destroyed: Exequror
+System: Yoma
+Security: 0.6
+
+Involved parties:
+
+Name: Kai page
+Security: -1.0
+Alliance: None
+Corp: coracao ardente
+Ship: Jaguar
+Weapon: Phalanx Rocket
+
+Name: Leikeze Mrotserif (laid the final blow)
+Security: -1.7
+Alliance: None
+Corp: coracao ardente
+Ship: Thorax
+Weapon: Hammerhead I
+
+Name: Velt Lhasar
+Security: 0.0
+Alliance: None
+Corp: coracao ardente
+Ship: Malediction
+Weapon: Malediction
+
+
+Destroyed items:
+
+Medium 'Ghoul' Energy Siphon I
+200mm Compressed Coil Gun I
+Antimatter Charge M, Qty: 80
+Remote Sensor Dampener II
+Type-D Altered SS Nanofiber Structure
+Type-D Altered SS Nanofiber Structure
+

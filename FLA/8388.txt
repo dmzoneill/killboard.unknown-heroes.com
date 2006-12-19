@@ -1,0 +1,64 @@
+2006.11.14 22:54
+
+Victim: Verild
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Destroyed: Rook
+System: O-N8XZ
+Security: 0.0
+
+Involved parties:
+
+Name: Captain Rickdick
+Security: -0.6
+Alliance: None
+Corp: Bad Karma.
+Ship: Raven
+Weapon: Siege Missile Launcher II
+
+Name: Skully Maltoon (laid the final blow)
+Security: -1.0
+Alliance: None
+Corp: Bad Karma.
+Ship: Raven
+Weapon: Mjolnir Javelin Torpedo
+
+Name: mr hydeuk
+Security: 4.9
+Alliance: None
+Corp: Bad Karma.
+Ship: Raven
+Weapon: Mjolnir Javelin Torpedo
+
+Name: Mordocik
+Security: -0.6
+Alliance: None
+Corp: Bad Karma.
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Calmdown
+Security: -0.9
+Alliance: None
+Corp: Bad Karma.
+Ship: Huginn
+Weapon: Phased Weapon Navigation Array Generation Extron
+
+
+Destroyed items:
+
+Piranha Light Missile, Qty: 48
+'Arbalest' Standard Missile Launcher
+Assault Missile Launcher II
+Bloodclaw Precision Light Missile, Qty: 80
+Sabretooth Precision Light Missile, Qty: 80
+ECM - Multispectral Jammer II
+Sensor Booster II
+1600mm Reinforced Rolled Tungsten Plates I
+Stasis Webifier I (Cargo)
+250mm Railgun I, Qty: 8 (Cargo)
+Gravimetric Backup Array I, Qty: 11 (Cargo)
+Piranha Light Missile, Qty: 931 (Cargo)
+Flameburst Light Missile, Qty: 958 (Cargo)
+Sabretooth Precision Light Missile, Qty: 491 (Cargo)
+

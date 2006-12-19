@@ -1,0 +1,32 @@
+2007.04.15 14:21
+
+Victim: Grim Faust
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Hound
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Terdlinger (laid the final blow)
+Security: 4.8
+Alliance: Storm Armada
+Corp: stone grave haulage
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+Name: LeZip
+Security: 1.1
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Kestrel
+Weapon: Standard Missile Launcher I
+
+
+Destroyed items:
+
+1MN MicroWarpdrive I
+Nanofiber Internal Structure I
+Wrath Cruise Missile, Qty: 200 (Cargo)
+

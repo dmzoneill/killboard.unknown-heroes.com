@@ -1,0 +1,58 @@
+2007.03.31 07:09
+
+Victim: Helraizer
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Helios
+System: P-2TTL
+Security: 0.0
+
+Involved parties:
+
+Name: Rhayvn (laid the final blow)
+Security: 4.5
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Abaddon
+Weapon: Tachyon Beam Laser II
+
+Name: Ferocious FeAr
+Security: 1.5
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Eagle
+Weapon: Eagle
+
+Name: Lady Rania
+Security: -8.3
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Steve Dave
+Security: 4.1
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: Wladomir Jed
+Security: 3.7
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Rook
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+Name: Lorn Zolog
+Security: -1.3
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Curse
+Weapon: Remote Sensor Dampener II
+
+
+Destroyed items:
+
+Limited Memory Augmentation - Beta (Cargo)
+

@@ -1,0 +1,29 @@
+2006.10.10 03:19
+
+Victim: alon blackhelm
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Destroyed: Ferox
+System: Piak
+Security: 0.7
+
+Involved parties:
+
+Name: Danno (laid the final blow)
+Security: -1.4
+Alliance: None
+Corp: Privateers
+Ship: Vexor
+Weapon: 200mm Railgun II
+
+
+Destroyed items:
+
+250mm Compressed Coil Gun I
+Antimatter Charge M, Qty: 22
+Widowmaker Heavy Missile, Qty: 29
+XR-3200 Heavy Missile Bay
+Large Shield Booster II
+Dread Guristas Warp Disruptor
+Invulnerability Field II
+

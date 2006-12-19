@@ -1,0 +1,60 @@
+2007.04.06 06:53
+
+Victim: Skull Fire
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Caracal
+System: X-7OMU
+Security: 0.0
+
+Involved parties:
+
+Name: Rain Finale
+Security: 0.9
+Alliance: Agony Empire
+Corp: Agony Unleashed
+Ship: Hurricane
+Weapon: Hellfire Assault Missile
+
+Name: Risako
+Security: 0.4
+Alliance: Agony Empire
+Corp: Agony Unleashed
+Ship: Taranis
+Weapon: Taranis
+
+Name: Miyau (laid the final blow)
+Security: 3.6
+Alliance: Agony Empire
+Corp: Agony Unleashed
+Ship: Caracal
+Weapon: Terror Assault Missile
+
+Name: Dez Erichs
+Security: 1.4
+Alliance: Agony Empire
+Corp: Agony Unleashed
+Ship: Crow
+Weapon: Thorn Rocket
+
+Name: Choran
+Security: 5.0
+Alliance: Agony Empire
+Corp: Agony Unleashed
+Ship: Myrmidon
+Weapon: Heavy Electron Blaster II
+
+
+Destroyed items:
+
+Prototype Cloaking Device I
+Widowmaker Heavy Missile, Qty: 27
+Havoc Heavy Missile, Qty: 27
+Heavy Missile Launcher I
+Sensor Booster I
+Ballistic Control System I
+Large 'Notos' Explosive Charge I, Qty: 2 (Cargo)
+200mm Railgun I (Cargo)
+Havoc Heavy Missile, Qty: 267 (Cargo)
+Thunderbolt Heavy Missile, Qty: 266 (Cargo)
+

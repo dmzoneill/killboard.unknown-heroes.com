@@ -1,0 +1,153 @@
+2007.02.09 23:04
+
+Victim: Slinktress
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Destroyed: Dominix
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Ramah
+Security: 5.0
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Archon
+Weapon: Templar
+
+Name: Ceapio
+Security: 1.2
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Laarz
+Security: -3.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: aadom
+Security: 3.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Tempest
+Weapon: 1400mm Gallium I Cannon
+
+Name: Misha Mosqito
+Security: 3.3
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Von Kretschmer (laid the final blow)
+Security: 5.0
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Elliott Manchild
+Security: -1.8
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Machariel
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Darknesss
+Security: 0.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: ukpAgAn
+Security: 5.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Jester87
+Security: 1.5
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Eagle
+Weapon: Eagle
+
+Name: cptblood
+Security: 2.3
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: ArchenTheGreat
+Security: -0.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Rokh
+Weapon: 425mm Compressed Coil Gun I
+
+Name: boo3916
+Security: 4.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Rokh
+Weapon: 425mm 'Scout' I Accelerator Cannon
+
+Name: Pistonbroke
+Security: 0.5
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Rokh
+Weapon: 425mm Railgun II
+
+Name: Anominity
+Security: 4.2
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Abaddon
+Weapon: Tachyon Beam Laser II
+
+Name: WarGod
+Security: 2.7
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: David Godfrey
+Security: 3.7
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Thanatos
+Weapon: Templar
+
+Name: Assassin 2
+Security: 5.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Eris
+Weapon: 75mm Gatling Rail II
+
+
+Destroyed items:
+
+Tachyon Beam Laser I
+Tachyon Beam Laser I
+Tachyon Modulated Energy Beam I
+E5 Prototype Energy Vampire
+Cap Recharger I
+F-b10 Nominal Capacitor Regenerator
+100MN MicroWarpdrive I
+Type-D Attenuation Signal Augmentation
+Nanofiber Internal Structure I
+Reactor Control Unit I
+Reactor Control Unit I
+Ogre I, Qty: 3 (Drone Bay)
+

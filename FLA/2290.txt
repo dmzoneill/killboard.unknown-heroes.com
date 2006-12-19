@@ -1,0 +1,101 @@
+2007.02.04 19:44
+
+Victim: wrecker300
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Scorpion
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: EL TITAN (laid the final blow)
+Security: 1.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Vagabond
+Weapon: Dual 180mm AutoCannon II
+
+Name: Drift Spec
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Muninn
+Weapon: Muninn
+
+Name: LUKEC
+Security: 0.8
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Dominix
+Weapon: Ogre II
+
+Name: Puls4r
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Muninn
+Weapon: Muninn
+
+Name: Beast Hun
+Security: 4.7
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Crusader
+Weapon: Crusader
+
+Name: Sir JoJo
+Security: 2.1
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Rapier
+Weapon: Rapier
+
+Name: Remmington Daniels
+Security: 0.9
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Marschall
+Security: 2.2
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Angela Dray
+Security: 3.1
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Taranis
+Weapon: Taranis
+
+Name: Kraust
+Security: 4.8
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: Seth Quantix
+Security: -0.2
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Malediction
+Weapon: 'Arbalest' Standard Missile Launcher
+
+
+Destroyed items:
+
+Heavy Nosferatu I
+Wrath Cruise Missile, Qty: 18
+'Malkuth' Cruise Launcher I
+ECM - Multispectral Jammer I
+Compulsive Multispectral ECM I
+Damage Control I
+Ballistic Control System I
+Wrath Cruise Missile, Qty: 1000 (Cargo)
+Vespa I, Qty: 2 (Drone Bay)
+

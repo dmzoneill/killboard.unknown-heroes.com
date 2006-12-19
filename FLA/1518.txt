@@ -1,0 +1,68 @@
+2007.03.15 03:38
+
+Victim: Vasili Z
+Alliance: YouWhat
+Corp: Beasts of Burden
+Destroyed: Capsule
+System: XZH-4X
+Security: 0.0
+
+Involved parties:
+
+Name: Korudon
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: DeviantAnt
+Security: 4.0
+Alliance: The Sundering
+Corp: ironwood ink
+Ship: Ishkur
+Weapon: 150mm Railgun II
+
+Name: Sovo
+Security: -0.6
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Thrasher
+Weapon: Thrasher
+
+Name: TNT 1 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: The Night Crew
+Ship: Kestrel
+Weapon: Flameburst Light Missile
+
+Name: Malicel
+Security: 2.5
+Alliance: The Sundering
+Corp: ironwood ink
+Ship: Incursus
+Weapon: 125mm 'Scout' I Accelerator Cannon
+
+Name: FlobbMkII
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+Name: Danielson1012
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Drake
+Weapon: Advanced 'Limos' Heavy Missile Bay I
+
+Name: Blair Quawn
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Caracal
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+

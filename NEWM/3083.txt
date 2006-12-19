@@ -1,0 +1,53 @@
+2007.03.24 18:21
+
+Victim: Fellswoop
+Alliance: YouWhat
+Corp: Beasts of Burden
+Destroyed: Punisher
+System: XZH-4X
+Security: 0.0
+
+Involved parties:
+
+Name: sakana
+Security: -0.9
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Astarte
+Weapon: Heavy Neutron Blaster II
+
+Name: Ninjitsuki
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Harpy
+Weapon: Harpy
+
+Name: Burn Lump (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Drake
+Weapon: Bloodclaw Light Missile
+
+Name: deela
+Security: 0.6
+Alliance: Freelancer Alliance
+Corp: J.I.T. Enterprises
+Ship: Caracal
+Weapon: Stasis Webifier I
+
+
+Destroyed items:
+
+Gatling Pulse Laser I
+Gatling Pulse Laser I
+Small Nosferatu I
+Multifrequency S
+1MN MicroWarpdrive I
+J5b Phased Prototype Warp Inhibitor I
+Small Armor Repairer I
+Nanofiber Internal Structure I
+Overdrive Injector System I
+Overdrive Injector System I
+

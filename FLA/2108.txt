@@ -1,0 +1,57 @@
+2007.01.20 23:13
+
+Victim: Nova Paradise
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Drake
+System: Otou
+Security: 0.3
+
+Involved parties:
+
+Name: ChipMo
+Security: -1.7
+Alliance: None
+Corp: The Rat Pack
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Naichi (laid the final blow)
+Security: -9.9
+Alliance: None
+Corp: Gen'ei Ryodan
+Ship: Thorax
+Weapon: Light Neutron Blaster II
+
+Name: Gelban Fisto
+Security: -2.9
+Alliance: None
+Corp: The Rat Pack
+Ship: Purifier
+Weapon: Paradise Cruise Missile
+
+Name: Lucius Vesp
+Security: 0.0
+Alliance: None
+Corp: The Rat Pack
+Ship: Rupture
+Weapon: 200mm AutoCannon II
+
+Name: Serpentis Chief Watchman / Serpentis Corporation
+
+
+Destroyed items:
+
+Terror Assault Missile, Qty: 90
+Hellfire Assault Missile, Qty: 180
+'Arbalest' Heavy Assault Missile Launcher I
+'Arbalest' Heavy Assault Missile Launcher I
+Large Shield Extender II
+Large Shield Booster II
+Medium Brief Capacitor Overcharge I
+Ballistic Control System II
+Ballistic Control System II
+Reactor Control Unit II
+Terror Assault Missile, Qty: 950 (Cargo)
+Fulmination Assault Missile, Qty: 750 (Cargo)
+

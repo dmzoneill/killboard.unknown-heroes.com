@@ -1,0 +1,34 @@
+2007.04.28 12:29
+
+Victim: Kimett
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Flycatcher
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Savak (laid the final blow)
+Security: 0.2
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Armageddon
+Weapon: Dual Heavy Anode Pulse Particle Stream I
+
+Name: Wraithstorm
+Security: 3.1
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Dominix
+Weapon: Ogre II
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 84
+'Malkuth' Standard Missile Launcher I, Qty: 2
+TE-2100 Standard Missile Bay
+Small Shield Booster II
+1MN Afterburner II
+Bloodclaw Light Missile, Qty: 683 (Cargo)

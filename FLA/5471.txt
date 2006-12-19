@@ -1,0 +1,36 @@
+2006.10.05 20:55
+
+Victim: Cordelia Simonova
+Alliance: None
+Corp: Privateers
+Destroyed: Blackbird
+System: Sobaseki
+Security: 0.8
+
+Involved parties:
+
+Name: Drakin Korin (laid the final blow)
+Security: 3.2
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Ishtar
+Weapon: Hammerhead II
+
+Name: DarkJester
+Security: 0.7
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Rupture
+Weapon: 425mm AutoCannon I
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 116
+'Malkuth' Assault Missile Launcher I
+'Malkuth' Assault Missile Launcher I
+'Malkuth' Assault Missile Launcher I
+'Langour' Drive Disruptor I
+ECM - Multispectral Jammer I
+Bloodclaw Light Missile, Qty: 270 (Cargo)
+

@@ -1,0 +1,72 @@
+2006.07.31 20:26
+
+Victim: Dave White
+Alliance: None
+Corp: Beagle Corp
+Destroyed: Stabber
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Bez
+Security: 1.4
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Harpy
+Weapon: Harpy
+
+Name: jacass66
+Security: 5.3
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Caracal
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+Name: brian crainie (laid the final blow)
+Security: 1.0
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Brutix
+Weapon: 250mm Prototype I Gauss Gun
+
+Name: TheBelgarion
+Security: 3.8
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Fr0zt
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Hawk
+Weapon: Sabretooth Precision Light Missile
+
+Name: Corovus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: THeOThErs
+Ship: Nemesis
+Weapon: 'Arbalest' Cruise Launcher I
+
+Name: Aaron Zebulun
+Security: -2.3
+Alliance: Freelancer Alliance
+Corp: Independent Frontiers
+Ship: Thorax
+Weapon: Thorax
+
+
+Destroyed items:
+
+220mm Vulcan AutoCannon I
+220mm Vulcan AutoCannon I
+EMP M, Qty: 83
+Thunderbolt Heavy Missile, Qty: 29
+'Malkuth' Heavy Missile Launcher I
+Large F-S9 Regolith Shield Induction
+Gyrostabilizer II
+Hobgoblin II (Drone Bay)
+

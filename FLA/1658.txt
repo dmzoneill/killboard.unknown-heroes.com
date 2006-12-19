@@ -1,0 +1,36 @@
+2007.03.19 20:55
+
+Victim: Galaxor
+Alliance: YouWhat
+Corp: Beasts of Burden
+Destroyed: Arbitrator
+System: XZH-4X
+Security: 0.0
+
+Involved parties:
+
+Name: Illesa (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Stabber
+Weapon: Fulmination Assault Missile
+
+Name: Lucy Fire1
+Security: -0.4
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Capsule
+Weapon: Assault Missile Launcher I
+
+
+Destroyed items:
+
+Small Nosferatu I
+Small Nosferatu I
+10MN Afterburner I
+Medium Armor Repairer I
+Energized Adaptive Nano Membrane I
+1600mm Reinforced Nanofiber Plates I
+Reactor Control Unit I
+

@@ -1,0 +1,19 @@
+2006.10.07 18:16
+
+Victim: Elden Myrck
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Destroyed: Capsule
+System: Elonaya
+Security: 0.7
+
+Involved parties:
+
+Name: Morfane (laid the final blow)
+Security: -0.2
+Alliance: None
+Corp: Privateers
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+

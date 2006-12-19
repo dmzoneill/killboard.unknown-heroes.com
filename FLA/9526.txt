@@ -1,0 +1,33 @@
+2007.05.14 14:20
+
+Victim: Galitha
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Destroyed: Hulk
+System: Tartoken
+Security: 0.1
+
+Involved parties:
+
+Name: AlexeiShtukov (laid the final blow)
+Security: 3.3
+Alliance: None
+Corp: SPARTAN Peacekeeping Force
+Ship: Moa
+Weapon: Anode Electron Particle Cannon I
+
+Name: Thorn Rocket / Guristas
+
+
+Destroyed items:
+
+Strip Miner I
+Gistii A-Type Small Shield Booster
+Eutectic I Capacitor Charge Array
+Ditrigonal Thermal Barrier Crystallization I
+Mining Laser Upgrade I
+Mining Laser Upgrade I
+Concentrated Veldspar, Qty: 15083 (Cargo)
+Veldspar, Qty: 24724 (Cargo)
+Vespa I, Qty: 3 (Drone Bay)
+

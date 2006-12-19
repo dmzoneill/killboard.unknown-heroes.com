@@ -1,0 +1,29 @@
+2007.01.06 07:23
+
+Victim: Inter Fectum
+Alliance: Freelancer Alliance
+Corp: Sin-X Inc.
+Destroyed: Stabber
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: zeitza ta (laid the final blow)
+Security: 1.8
+Alliance: None
+Corp: ROMANIA Renegades
+Ship: Dominix
+Weapon: Berserker I
+
+
+Destroyed items:
+
+Dual 180mm AutoCannon I
+EMP M, Qty: 157
+Flameburst Light Missile, Qty: 60
+Compact 'Limos' Assault Missile Bay I
+SV-2000 Assault Missile Bay
+10MN MicroWarpdrive I
+EMP M, Qty: 4992 (Cargo)
+

@@ -1,0 +1,40 @@
+2006.10.06 18:21
+
+Victim: Raindogg
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Destroyed: Capsule
+System: G-M4I8
+Security: 0.0
+
+Involved parties:
+
+Name: sulky
+Security: 0.4
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Retribution
+Weapon: Dual Light Beam Laser II
+
+Name: Hosanna
+Security: -0.7
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: Lone flyer (laid the final blow)
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Zealot
+Weapon: Heavy Pulse Laser II
+
+Name: Karas Rabus
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Huginn
+Weapon: Assault Missile Launcher II
+
+

@@ -1,0 +1,30 @@
+2006.10.18 03:00
+
+Victim: KriegDrachen
+Alliance: Freelancer Alliance
+Corp: Abandoned Resolve Corporation
+Destroyed: Claw
+System: ZOYW-O
+Security: 0.0
+
+Involved parties:
+
+Name: Tatzlwurm (laid the final blow)
+Security: 0.0
+Alliance: None
+Corp: Viziam
+Ship: Absolution
+Weapon: Heavy Pulse Laser II
+
+
+Destroyed items:
+
+200mm AutoCannon II
+200mm AutoCannon II
+Gremlin Rocket, Qty: 26
+1MN MicroWarpdrive I
+F85 Peripheral Damage System I
+Small Armor Repairer II
+200mm Reinforced Rolled Tungsten Plates I
+Barrage S, Qty: 1458 (Cargo)
+

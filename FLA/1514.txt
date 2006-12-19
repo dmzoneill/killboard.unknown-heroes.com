@@ -1,0 +1,42 @@
+2007.03.15 03:37
+
+Victim: Galaxor
+Alliance: YouWhat
+Corp: Beasts of Burden
+Destroyed: Punisher
+System: XZH-4X
+Security: 0.0
+
+Involved parties:
+
+Name: Korudon
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: xinndo jagged (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Drake
+Weapon: Havoc Heavy Missile
+
+Name: Blair Quawn
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Caracal
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+
+Destroyed items:
+
+Dual Light Pulse Laser II
+Dual Light Pulse Laser II
+Small 'Knave' I Energy Drain
+Energized Adaptive Nano Membrane I
+Conflagration S, Qty: 2 (Cargo)
+Scorch S (Cargo)
+

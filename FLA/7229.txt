@@ -1,0 +1,65 @@
+2006.04.29 22:38
+
+Victim: Terence Trout
+Alliance: Northern Freedom Coalition
+Corp: Warped Mining
+Destroyed: Vexor
+System: 3T7-M8
+Security: 0.0
+
+Involved parties:
+
+Name: CelticWarrior (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Lords Of Guile
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery I
+
+Name: Shiri elAzarinres
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Caracal
+Weapon: SV-2000 Assault Missile Bay
+
+Name: keilapuukko
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Harpy
+Weapon: Harpy
+
+Name: Minesweeper
+Security: 0.8
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Rupture
+Weapon: Widowmaker Heavy Missile
+
+Name: kymis
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Enyo
+Weapon: Enyo
+
+Name: Hosanna
+Security: 4.8
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Rupture
+Weapon: Rupture
+
+
+Destroyed items:
+
+200mm Railgun II
+200mm Railgun II
+200mm Railgun II
+200mm Railgun II
+Antimatter Charge M, Qty: 144
+'Langour' Drive Disruptor I
+Medium Armor Repairer I
+Dual-sheathed Thermic Plating I
+

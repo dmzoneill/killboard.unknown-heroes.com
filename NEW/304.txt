@@ -1,0 +1,105 @@
+2007.03.04 18:06
+
+Victim: runers
+Alliance: Xelas Alliance
+Corp: Requiem of Hades
+Destroyed: Thorax
+System: PNQY-Y
+Security: 0.0
+
+Involved parties:
+
+Name: Recon One (laid the final blow)
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Infinite Improbability Inc
+Ship: Harbinger
+Weapon: Heavy Beam Laser II
+
+Name: DANGEROUS
+Security: 3.6
+Alliance: Dusk and Dawn
+Corp: Omega Enterprises
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: Dana Foxworth
+Security: 3.2
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Rupture
+Weapon: Rupture
+
+Name: Sinder Ohm
+Security: 5.1
+Alliance: Dusk and Dawn
+Corp: Infinite Improbability Inc
+Ship: Enyo
+Weapon: Enyo
+
+Name: NOObbody
+Security: 3.3
+Alliance: Dusk and Dawn
+Corp: The X-Trading Company
+Ship: Rupture
+Weapon: Rupture
+
+Name: Darth Element
+Security: 3.9
+Alliance: Dusk and Dawn
+Corp: Cataclysm Enterprises
+Ship: Celestis
+Weapon: Vespa I
+
+Name: DeathGrip
+Security: 2.3
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Archon
+Weapon: Archon
+
+Name: Silberstein
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Konstrukteure der Zukunft
+Ship: Enyo
+Weapon: Warp Disruptor I
+
+Name: Branwell
+Security: 3.9
+Alliance: Dusk and Dawn
+Corp: Infinite Improbability Inc
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Ariebos
+Security: -1.0
+Alliance: Dusk and Dawn
+Corp: Momentum.
+Ship: Hurricane
+Weapon: Warrior II
+
+Name: mrrabit
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Thrasher
+Weapon: Thrasher
+
+Name: DeadDuck
+Security: 4.9
+Alliance: Dusk and Dawn
+Corp: Omega Enterprises
+Ship: Harbinger
+Weapon: Focused Medium Pulse Laser II
+
+
+Destroyed items:
+
+Heavy Neutron Blaster I
+Damage Control I
+Small I-a Polarized Armor Regenerator
+Energized Adaptive Nano Membrane I
+1600mm Reinforced Steel Plates I
+Reactor Control Unit I
+Hammerhead I, Qty: 2 (Drone Bay)

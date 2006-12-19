@@ -1,0 +1,72 @@
+2007.04.26 23:57
+
+Victim: Imaginary Number
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Arbitrator
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: ZeroGrav (laid the final blow)
+Security: 3.1
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Konson
+Security: 3.7
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Retribution
+Weapon: Gatling Pulse Laser II
+
+Name: Bothius
+Security: 0.4
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Taranis
+Weapon: Taranis
+
+Name: Athanasios Anastasiou
+Security: 5.0
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Crow
+Weapon: Fleeting Warp Scrambler I
+
+Name: Vlad Cetes
+Security: 5.0
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Raven
+Weapon: Vespa I
+
+Name: tomuch
+Security: 2.9
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Celestis
+Weapon: Widowmaker Heavy Missile
+
+Name: Evil Bunnies
+Security: 0.3
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Blackbird
+Weapon: Induced Multispectral ECM I
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Medium Nosferatu I
+Flameburst Light Missile, Qty: 55
+J5b Phased Prototype Warp Inhibitor I
+Medium Inefficient Armor Repair Unit
+Flameburst Light Missile, Qty: 268 (Cargo)
+Bloodclaw Light Missile, Qty: 300 (Cargo)
+Hobgoblin I, Qty: 2 (Drone Bay)
+

@@ -1,0 +1,54 @@
+2006.11.18 14:52
+
+Victim: Scallarnite
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Destroyed: Apocalypse
+System: Torrinos
+Security: 0.5
+
+Involved parties:
+
+Name: Elliott Manchild (laid the final blow)
+Security: -1.9
+Alliance: None
+Corp: omen.
+Ship: Dominix
+Weapon: Berserker II
+
+
+Destroyed items:
+
+Miner II
+Miner II
+Antimatter Charge M, Qty: 72
+Flameburst Light Missile, Qty: 62
+FZ-3 Subversive Spatial Destabilizer ECM
+Gauss Field Balancer I
+Warp Core Stabilizer I
+Survey Scanner I (Cargo)
+Warp Scrambler I (Cargo)
+Miner II (Cargo)
+Miner I (Cargo)
+Small Armor Repairer I (Cargo)
+Small Hull Repairer I, Qty: 2 (Cargo)
+Small Energy Transfer Array I, Qty: 2 (Cargo)
+Small Energy Neutralizer I, Qty: 2 (Cargo)
+Small Graviton Smartbomb I (Cargo)
+125mm Compressed Coil Gun I (Cargo)
+125mm Railgun I, Qty: 2 (Cargo)
+Thorium Charge S, Qty: 100 (Cargo)
+Tungsten Charge S, Qty: 100 (Cargo)
+Antimatter Charge S, Qty: 300 (Cargo)
+Iron Charge S, Qty: 100 (Cargo)
+Cap Booster 50, Qty: 10 (Cargo)
+ECM - Multispectral Jammer I (Cargo)
+ECCM - Gravimetric I (Cargo)
+ECCM Projector I (Cargo)
+Guristas Ship Log 175568934 (Cargo)
+Guristas Ship Log 108634544 (Cargo)
+Standard Missile Launcher I (Cargo)
+Basic Expanded Cargohold, Qty: 4 (Cargo)
+Infiltrator I (Drone Bay)
+Hornet I (Drone Bay)
+

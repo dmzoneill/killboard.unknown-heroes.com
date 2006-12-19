@@ -1,0 +1,159 @@
+2007.03.22 22:14
+
+Victim: Astorothe
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Destroyed: Prophecy
+System: KU5R-W
+Security: 0.0
+
+Involved parties:
+
+Name: Gunship
+Security: 4.5
+Alliance: FATAL Alliance
+Corp: FATAL REVELATIONS
+Ship: Huginn
+Weapon: Scourge Heavy Missile
+
+Name: Dyden Nemor
+Security: -1.6
+Alliance: FATAL Alliance
+Corp: Black Reign
+Ship: Sabre
+Weapon: Sabre
+
+Name: CiRFiS
+Security: 2.6
+Alliance: FATAL Alliance
+Corp: FATAL REVELATIONS
+Ship: Hurricane
+Weapon: Infiltrator I
+
+Name: Magic Bob
+Security: 5.0
+Alliance: FATAL Alliance
+Corp: FATAL REVELATIONS
+Ship: Huginn
+Weapon: Warrior II
+
+Name: Fire Forager
+Security: 2.1
+Alliance: FATAL Alliance
+Corp: FATAL REVELATIONS
+Ship: Taranis
+Weapon: Warrior II
+
+Name: Badboy K
+Security: 4.4
+Alliance: FATAL Alliance
+Corp: FATAL REVELATIONS
+Ship: Hurricane
+Weapon: Widowmaker Heavy Missile
+
+Name: Einheriar Glad (laid the final blow)
+Security: 5.0
+Alliance: FATAL Alliance
+Corp: FATAL REVELATIONS
+Ship: Sabre
+Weapon: 250mm Light Artillery Cannon II
+
+Name: Durka Tim
+Security: 2.1
+Alliance: FATAL Alliance
+Corp: Black Reign
+Ship: Eagle
+Weapon: Eagle
+
+Name: IG72
+Security: 1.4
+Alliance: FATAL Alliance
+Corp: Black Reign
+Ship: Cyclone
+Weapon: Cyclone
+
+Name: Kujo Yoritsune
+Security: 5.0
+Alliance: FATAL Alliance
+Corp: FATAL REVELATIONS
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: Trent Nadrin
+Security: 1.9
+Alliance: FATAL Alliance
+Corp: FATAL REVELATIONS
+Ship: Huginn
+Weapon: Huginn
+
+Name: Bravo 20
+Security: 5.0
+Alliance: FATAL Alliance
+Corp: FATAL REVELATIONS
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Enchantres
+Security: 5.0
+Alliance: FATAL Alliance
+Corp: FATAL REVELATIONS
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: 00Dead
+Security: 4.8
+Alliance: FATAL Alliance
+Corp: FATAL REVELATIONS
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Kyar
+Security: 4.1
+Alliance: FATAL Alliance
+Corp: FATAL REVELATIONS
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: 12XSPEED
+Security: 2.2
+Alliance: FATAL Alliance
+Corp: Black Reign
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: TinmanSAC
+Security: 2.8
+Alliance: FATAL Alliance
+Corp: FATAL REVELATIONS
+Ship: Arazu
+Weapon: Hammerhead II
+
+Name: Ranok Thal
+Security: 0.8
+Alliance: FATAL Alliance
+Corp: Black Reign
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Silent Killers
+Security: 1.7
+Alliance: FATAL Alliance
+Corp: FATAL REVELATIONS
+Ship: Rifter
+Weapon: Small Nosferatu I
+
+
+Destroyed items:
+
+Heavy Pulse Laser I
+Microwave M
+Multifrequency M
+Multifrequency M
+Multifrequency M
+Prototype Cloaking Device I
+Cap Recharger I
+Cap Recharger I
+Multifrequency M (Cargo)
+Radio M, Qty: 5 (Cargo)
+Microwave M, Qty: 3 (Cargo)
+

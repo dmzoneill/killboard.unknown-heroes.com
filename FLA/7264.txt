@@ -1,0 +1,26 @@
+2006.07.12 17:06
+
+Victim: Monkey nut
+Alliance: Sparta Alliance
+Corp: Lynx Frontier Inc.
+Destroyed: Capsule
+System: N2IS-B
+Security: 0.0
+
+Involved parties:
+
+Name: Jumar Coldgin (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: TwilightMadcat
+Security: -2.1
+Alliance: Imperial Republic Of the North
+Corp: Port Royal Independent Kontractors
+Ship: Taranis
+Weapon: Small 'Knave' I Energy Drain
+
+

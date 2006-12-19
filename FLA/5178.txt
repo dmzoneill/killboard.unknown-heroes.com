@@ -1,0 +1,48 @@
+2007.04.23 18:07
+
+Victim: Georgenator
+Alliance: Lotka Volterra
+Corp: CRICE Corporation
+Destroyed: Kestrel
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Nike Calistar
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Kestrel
+Weapon: Stasis Webifier I
+
+Name: Mocuker (laid the final blow)
+Security: 0.2
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Kestrel
+Weapon: Piranha Light Missile
+
+Name: marakudi
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Maller
+Weapon: 125mm Railgun I
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 35
+Sabretooth Light Missile, Qty: 35
+Standard Missile Launcher I
+Standard Missile Launcher I
+Standard Missile Launcher I
+Cap Recharger I
+1MN MicroWarpdrive I
+Nanofiber Internal Structure I
+250mm Light Artillery Cannon I, Qty: 3 (Cargo)
+Fusion S, Qty: 738 (Cargo)
+Bloodclaw Light Missile, Qty: 24 (Cargo)
+Nanofiber Internal Structure I (Cargo)
+

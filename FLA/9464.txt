@@ -1,0 +1,31 @@
+2007.05.14 19:44
+
+Victim: Migrate
+Alliance: None
+Corp: Special Operations Command
+Destroyed: Velator
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Steven FSB
+Security: 3.4
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Harpy
+Weapon: Harpy
+
+Name: Chiizukeeki (laid the final blow)
+Security: 4.0
+Alliance: Imperial Republic Of the North
+Corp: Karjala Inc.
+Ship: Claw
+Weapon: 150mm Light AutoCannon II
+
+
+Destroyed items:
+
+Basic Miner
+Tritanium (Cargo)
+

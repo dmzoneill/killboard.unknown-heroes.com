@@ -1,0 +1,164 @@
+2007.05.07 18:12
+
+Victim: Enochia Starr
+Alliance: FATAL Alliance
+Corp: KarWal Corporation
+Destroyed: Drake
+System: F7C-H0
+Security: 0.0
+
+Involved parties:
+
+Name: Confessor
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: Lynx Frontier Inc.
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Xpod85
+Security: 0.3
+Alliance: The Foundation.
+Corp: NorCorp Security
+Ship: Abaddon
+Weapon: Acolyte II
+
+Name: duece duece
+Security: 5.0
+Alliance: The Foundation.
+Corp: NorCorp Security
+Ship: Megathron
+Weapon: Ogre II
+
+Name: MrRommel
+Security: 5.0
+Alliance: Darklite Alliance
+Corp: Darklite inc
+Ship: Sleipnir
+Weapon: Sleipnir
+
+Name: Dakaris Zulu
+Security: 5.0
+Alliance: CORE.
+Corp: Red 42
+Ship: Rokh
+Weapon: Rokh
+
+Name: Lee Thrace
+Security: 3.4
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Myrmidon
+Weapon: Myrmidon
+
+Name: Varalonia
+Security: 3.0
+Alliance: Darklite Alliance
+Corp: Darklite inc
+Ship: Tempest
+Weapon: Tempest
+
+Name: Nightbird
+Security: 0.8
+Alliance: Sparta Alliance
+Corp: Neogen Industries
+Ship: Ishkur
+Weapon: Infiltrator II
+
+Name: Kayron Brennan (laid the final blow)
+Security: 0.7
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Caracal
+Weapon: Widowmaker Heavy Missile
+
+Name: Asran Zara
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: United Space Republic
+Ship: Hound
+Weapon: Hound
+
+Name: AnarchistUK
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: United Space Republic
+Ship: Hawk
+Weapon: Bloodclaw Light Missile
+
+Name: Skittish
+Security: 0.8
+Alliance: Sparta Alliance
+Corp: Synergy Evolved
+Ship: Cormorant
+Weapon: Cormorant
+
+Name: Reconciliation
+Security: -0.8
+Alliance: Sparta Alliance
+Corp: Black Knight Buccaneers
+Ship: Vulture
+Weapon: Vulture
+
+Name: JanSVK
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: GREY COUNCIL
+Ship: Raptor
+Weapon: Raptor
+
+Name: Memnanan
+Security: 1.2
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Stabber
+Weapon: Stabber
+
+Name: tropic89
+Security: 0.3
+Alliance: Sparta Alliance
+Corp: Lynx Frontier Inc.
+Ship: Cormorant
+Weapon: 150mm Railgun II
+
+Name: Pharago
+Security: 1.0
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: The Ironfist
+Security: 5.0
+Alliance: None
+Corp: Nordgoetter
+Ship: Flycatcher
+Weapon: 'Langour' Drive Disruptor I
+
+Name: Haka Aragon
+Security: 3.6
+Alliance: Sparta Alliance
+Corp: XERCORE
+Ship: Blackbird
+Weapon: Scourge Heavy Missile
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 120
+Heavy Missile Launcher II
+Heavy Missile Launcher II
+Heavy Missile Launcher II
+Heavy Missile Launcher II
+Heavy Missile Launcher II
+Heavy Missile Launcher II
+Large Shield Extender II
+Heat Dissipation Amplifier II
+Kinetic Deflection Amplifier II
+Kinetic Deflection Amplifier II
+Warp Core Stabilizer I
+Warp Core Stabilizer I
+Warp Core Stabilizer I
+Shield Power Relay II, Qty: 2 (Cargo)
+Ballistic Control System II (Cargo)
+

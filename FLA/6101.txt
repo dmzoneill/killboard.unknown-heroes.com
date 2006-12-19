@@ -1,0 +1,86 @@
+2006.11.07 22:27
+
+Victim: Nathan W
+Alliance: None
+Corp: Beer Guzzling Clowns With Blasters
+Destroyed: Hawk
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: jacass66
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Ferox
+Weapon: Ferox
+
+Name: Scorpio63 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Vengeance
+Weapon: Medium Pulse Laser II
+
+Name: TiMeZeRo225
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: J.I.T. Enterprises
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+Name: Dog Cancer
+Security: 1.4
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Crow
+Weapon: Sabretooth Light Missile
+
+Name: Velithe
+Security: 2.0
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: LC Sulla
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Crow
+Weapon: 'Langour' Drive Disruptor I
+
+Name: Rangercameron2
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Megathron
+Weapon: Bloodclaw Light Missile
+
+Name: brian crainie
+Security: 2.7
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Dominix
+Weapon: Dread Guristas ECM Multispectral Jammer
+
+Name: Cat1977
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Executioner
+Weapon: Executioner
+
+
+Destroyed items:
+
+Standard Missile Launcher II
+Standard Missile Launcher II
+Standard Missile Launcher II
+Bloodclaw Precision Light Missile, Qty: 91
+Cold-Gas I Arcjet Thrusters
+Photon Scattering Field II
+Prototype I Sensor Booster
+'Stoic' Core Equalizer I
+

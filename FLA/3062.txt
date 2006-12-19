@@ -1,0 +1,40 @@
+2007.03.23 20:49
+
+Victim: mr icestone
+Alliance: None
+Corp: Center for Advanced Studies
+Destroyed: Capsule
+System: QXW-PV
+Security: 0.0
+
+Involved parties:
+
+Name: KriegDrachen
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Sabre
+Weapon: 200mm AutoCannon II
+
+Name: Tiberius Drake (laid the final blow)
+Security: 4.2
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Brutix
+Weapon: 250mm Carbide Railgun I
+
+Name: Weeble Wooble
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Eris
+Weapon: 125mm Railgun II
+
+Name: mr passie
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Jaguar
+Weapon: Jaguar
+
+

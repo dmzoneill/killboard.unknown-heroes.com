@@ -1,0 +1,29 @@
+2007.04.11 09:54
+
+Victim: Vladamir Sokov
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Caracal
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Phoenus (laid the final blow)
+Security: 0.4
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Vindicator
+Weapon: Ion Blaster Cannon II
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 79
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Y-S8 Hydrocarbon I Afterburners
+Scourge Heavy Missile, Qty: 1000 (Cargo)
+

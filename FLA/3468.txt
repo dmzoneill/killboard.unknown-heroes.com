@@ -1,0 +1,31 @@
+2007.03.29 03:10
+
+Victim: Jake Laser
+Alliance: None
+Corp: Republic Military School
+Destroyed: Reaper
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: mishkof
+Security: 5.0
+Alliance: None
+Corp: Emerald Empire
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: AlexeiShtukov (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Ship: Thorax
+Weapon: Light Neutron Blaster II
+
+
+Destroyed items:
+
+Civilian Gatling Autocannon
+Tritanium (Cargo)
+

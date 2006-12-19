@@ -1,0 +1,25 @@
+2006.12.07 13:12
+
+Victim: James Potkukelkka
+Alliance: Freelancer Alliance
+Corp: BGG
+Destroyed: Heron
+System: O-CNPR
+Security: 0.0
+
+Involved parties:
+
+Name: Admiral Goberius (laid the final blow)
+Security: 4.2
+Alliance: Establishment
+Corp: The Establishment
+Ship: Sabre
+Weapon: 200mm AutoCannon II
+
+
+Destroyed items:
+
+Recon Probe Launcher I
+1MN MicroWarpdrive I
+Snoop Scanner Probe I, Qty: 8 (Cargo)
+

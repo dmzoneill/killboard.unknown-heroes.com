@@ -1,0 +1,98 @@
+2007.03.12 03:29
+
+Victim: Jonas123
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Destroyed: Ferox
+System: L-TS8S
+Security: 0.0
+
+Involved parties:
+
+Name: Unit 1
+Security: 2.6
+Alliance: Agony Empire
+Corp: Agony Unleashed
+Ship: Megathron
+Weapon: Ogre I
+
+Name: Joss Sparq
+Security: 0.5
+Alliance: Agony Empire
+Corp: Agony Unleashed
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Miyau
+Security: 3.2
+Alliance: Agony Empire
+Corp: Agony Unleashed
+Ship: Caracal
+Weapon: Terror Assault Missile
+
+Name: Choran (laid the final blow)
+Security: 5.0
+Alliance: Agony Empire
+Corp: Agony Unleashed
+Ship: Dominix
+Weapon: Berserker I
+
+Name: Vitelius
+Security: 4.1
+Alliance: Agony Empire
+Corp: Agony Unleashed
+Ship: Cormorant
+Weapon: Cormorant
+
+Name: HarWoo
+Security: 1.8
+Alliance: Agony Empire
+Corp: Agony Unleashed
+Ship: Kestrel
+Weapon: J5b Phased Prototype Warp Inhibitor I
+
+Name: Skybait2020
+Security: 0.2
+Alliance: Agony Empire
+Corp: Agony Unleashed
+Ship: Kestrel
+Weapon: Thorn Rocket
+
+Name: Dranearian
+Security: 0.2
+Alliance: Phobos Alliance
+Corp: The Ninja Coalition
+Ship: Merlin
+Weapon: Merlin
+
+Name: JaeWoo
+Security: 0.1
+Alliance: None
+Corp: Pator Tech School
+Ship: Rifter
+Weapon: Rifter
+
+Name: Risako
+Security: 0.3
+Alliance: Agony Empire
+Corp: Agony Unleashed
+Ship: Taranis
+Weapon: J5 Prototype Warp Inhibitor I
+
+
+Destroyed items:
+
+Small 'Knave' I Energy Drain
+Modal Neutron Particle Accelerator I
+Modal Neutron Particle Accelerator I
+Modal Neutron Particle Accelerator I
+Antimatter Charge M, Qty: 139
+Y-S8 Hydrocarbon I Afterburners
+Prototype I Sensor Booster
+Insulated Stabilizer Array I
+Local Power Plant Manager: Reaction Control I
+Antimatter Charge M, Qty: 1252 (Cargo)
+Piranha Light Missile, Qty: 593 (Cargo)
+Sabretooth Light Missile, Qty: 500 (Cargo)
+Infiltrator I (Drone Bay)
+

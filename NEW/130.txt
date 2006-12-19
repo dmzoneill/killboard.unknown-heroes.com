@@ -1,0 +1,146 @@
+2007.01.20 01:25
+
+Victim: boo3916
+Alliance: Triumvirate.
+Corp: D00M.
+Destroyed: Raven
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: LTSmash (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+Name: Sils wife
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Brutix
+Weapon: Brutix
+
+Name: Korudon
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: digital oxygen
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Megathron
+Weapon: Megathron
+
+Name: Parmenion 96
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+Name: GrandMastaXP
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Cerberus
+Weapon: Terror Assault Missile
+
+Name: Esvi Adhorsen
+Security: 2.1
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Raven
+Weapon: Juggernaut Torpedo
+
+Name: Nya
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Goca
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Raven
+Weapon: Mjolnir Javelin Torpedo
+
+Name: Damfoose
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Scorpion
+Weapon: Scorpion
+
+Name: Seventh Star
+Security: 5.0
+Alliance: None
+Corp: BGG
+Ship: Scorpion
+Weapon: Cataclysm Cruise Missile
+
+Name: Alayssi Mey
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Swindy
+Security: 1.4
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Harpy
+Weapon: Harpy
+
+Name: John Linski
+Security: 2.7
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Caracal
+Weapon: Sabretooth Light Missile
+
+Name: Nukuquqa Hestase
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Caracal
+Weapon: Thunderbolt Heavy Missile
+
+Name: wrecker300
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Drake
+Weapon: Widowmaker Heavy Missile
+
+
+Destroyed items:
+
+Bane Torpedo, Qty: 36
+Juggernaut Torpedo, Qty: 18
+Siege Missile Launcher II, Qty: 4
+X-Large Shield Booster II
+Heavy Electrochemical Capacitor Booster I
+F85 Peripheral Damage System I
+Quantum Co-Processor I
+Ballistic Control System II
+Power Diagnostic System II, Qty: 2
+J5 Prototype Warp Inhibitor I (Cargo)
+Dread Guristas Iron Charge S, Qty: 800 (Cargo)
+Cap Booster 800, Qty: 12 (Cargo)
+Juggernaut Torpedo, Qty: 173 (Cargo)
+Mjolnir Torpedo, Qty: 69 (Cargo)
+'Collateral' Adaptive Nano Plating I (Cargo)
+Heat Sink II (Cargo)
+Prototype Cloaking Device I (Cargo)
+Spike S, Qty: 170 (Cargo)
+Bane Javelin Torpedo, Qty: 8 (Cargo)
+Valkyrie II (Drone Bay)

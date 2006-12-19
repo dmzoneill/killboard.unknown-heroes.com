@@ -1,0 +1,25 @@
+2006.11.24 00:31
+
+Victim: XTerm1986
+Alliance: None
+Corp: Purgatorial Janitors Inc.
+Destroyed: Badger
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: roboto212 (laid the final blow)
+Security: -0.5
+Alliance: Freelancer Alliance
+Corp: Sin-X Inc.
+Ship: Taranis
+Weapon: Light Neutron Blaster II
+
+
+Destroyed items:
+
+150mm 'Scout' I Accelerator Cannon
+Uranium Charge S, Qty: 40
+Civilian Shield Booster I
+

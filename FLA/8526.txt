@@ -1,0 +1,37 @@
+2006.11.25 21:38
+
+Victim: Solarienne
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Destroyed: Thrasher
+System: X-7OMU
+Security: 0.0
+
+Involved parties:
+
+Name: Ifni (laid the final blow)
+Security: -1.2
+Alliance: None
+Corp: Developmental Neogenics Amalgamated
+Ship: Crusader
+Weapon: Dual Light Beam Laser II
+
+Name: Sergio Ling
+Security: 3.4
+Alliance: Maelstrom Alliance
+Corp: Standard Operations Building Services
+Ship: Capsule
+Weapon: Light Electron Blaster II
+
+
+Destroyed items:
+
+280mm Gallium I Cannon
+280mm Howitzer Artillery I
+280mm Howitzer Artillery I
+Fusion S, Qty: 36
+Initiated Warp Jammer I
+Gyrostabilizer II
+Fusion S, Qty: 9882 (Cargo)
+EMP S, Qty: 9813 (Cargo)
+

@@ -1,0 +1,41 @@
+2007.04.03 01:42
+
+Victim: Sha'ara Sha'amashira
+Alliance: Freelancer Alliance
+Corp: J.I.T. Enterprises
+Destroyed: Claw
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Vily (laid the final blow)
+Security: 0.3
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Rahzorus
+Security: 0.9
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: War Bear
+Security: 2.8
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Stiletto
+Weapon: 'Arbalest' Standard Missile Launcher
+
+
+Destroyed items:
+
+200mm AutoCannon II
+Gremlin Rocket, Qty: 30
+'Arbalest' Rocket Launcher I
+Small Armor Repairer II
+Type-D Altered SS Overdrive Injector
+

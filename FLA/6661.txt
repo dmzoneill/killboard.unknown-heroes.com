@@ -1,0 +1,113 @@
+2006.11.23 06:45
+
+Victim: Aragorn Elesar
+Alliance: The Sani Sabik
+Corp: Omniscient Order
+Destroyed: Armageddon
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Bricker (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Deimos
+Weapon: Hammerhead I
+
+Name: Capt Cali
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: London Transport
+Ship: Raven
+Weapon: Cataclysm Cruise Missile
+
+Name: toonsterpw
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Danielson1012
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Harpy
+Weapon: Harpy
+
+Name: Saka Mizuno
+Security: 3.5
+Alliance: Interstellar Starbase Syndicate
+Corp: The Graduates
+Ship: Unknown
+Weapon: 425mm 'Scout' I Accelerator Cannon
+
+Name: Slinktress
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Megathron
+Weapon: Megathron
+
+Name: Fugnut
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Crow
+Weapon: Gremlin Rocket
+
+Name: TroNaaR
+Security: 4.1
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Blackbird
+Weapon: Havoc Heavy Missile
+
+Name: KriegDrachen
+Security: 0.4
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: Weeble Wooble
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Deimos
+Weapon: Deimos
+
+Name: Tarphon
+Security: 2.4
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Thorax
+Weapon: Fleeting Warp Scrambler I
+
+
+Destroyed items:
+
+Tachyon Beam Laser II
+Tachyon Beam Laser II
+Tachyon Beam Laser II
+Tachyon Beam Laser II
+Multifrequency L
+Multifrequency L
+Multifrequency L
+Multifrequency L
+Sensor Booster II
+Sensor Booster II
+Tracking Computer II
+Medium Inefficient Armor Repair Unit
+Heat Sink II
+Tracking Enhancer II
+Xray L, Qty: 7 (Cargo)
+Infrared L, Qty: 7 (Cargo)
+Aurora L, Qty: 3 (Cargo)
+Vespa II, Qty: 4 (Drone Bay)
+Warrior I, Qty: 2 (Drone Bay)
+Hobgoblin II (Drone Bay)
+Light Armor Maintenance Bot I, Qty: 3 (Drone Bay)
+

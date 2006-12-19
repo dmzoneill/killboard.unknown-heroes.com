@@ -1,0 +1,19 @@
+2007.02.12 00:37
+
+Victim: Ciaphas Khaine
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Destroyed: Capsule
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Minisoza (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Brutix
+Weapon: 250mm Railgun II
+
+

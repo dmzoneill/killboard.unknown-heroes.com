@@ -1,0 +1,124 @@
+2007.03.24 18:37
+
+Victim: CENTUREAN
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Destroyed: Rifter
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Murphy (laid the final blow)
+Security: -1.4
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Harbinger
+Weapon: Heavy Beam Laser II
+
+Name: Rasczaak
+Security: 2.2
+Alliance: Axiom Empire
+Corp: Fenix Reloaded
+Ship: Crow
+Weapon: Bloodclaw Precision Light Missile
+
+Name: Zheraf
+Security: 5.0
+Alliance: Axiom Empire
+Corp: Fenix Reloaded
+Ship: Merlin
+Weapon: Bloodclaw Light Missile
+
+Name: bonombonom
+Security: 1.2
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Crow
+Weapon: Piranha Light Missile
+
+Name: Katka Filova
+Security: 0.8
+Alliance: Axiom Empire
+Corp: Regalis Industria Scientia Entreprendre
+Ship: Stiletto
+Weapon: 'Arbalest' Standard Missile Launcher
+
+Name: DeathGrip
+Security: 3.2
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Crow
+Weapon: Thorn Javelin Rocket
+
+Name: ZAX0236
+Security: 5.0
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Flycatcher
+Weapon: Standard Missile Launcher II
+
+Name: Sadness
+Security: 4.8
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Maulus
+Weapon: Remote Sensor Dampener I
+
+Name: Richard Biegewald
+Security: 5.0
+Alliance: Axiom Empire
+Corp: United Society Starfleet
+Ship: Wolf
+Weapon: Standard Missile Launcher I
+
+Name: Mr Siman
+Security: 1.2
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Merlin
+Weapon: 75mm Gatling Rail I
+
+Name: Mongo Peck
+Security: 4.9
+Alliance: Xelas Alliance
+Corp: Requiem of Hades
+Ship: Curse
+Weapon: Medium Nosferatu II
+
+Name: Hunter Vonnegut
+Security: 5.0
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: Dr Traker
+Security: 1.1
+Alliance: Axiom Empire
+Corp: Fenix Reloaded
+Ship: Rifter
+Weapon: 200mm AutoCannon I
+
+Name: Deerhoof
+Security: 0.8
+Alliance: Axiom Empire
+Corp: United Society Starfleet
+Ship: Wolf
+Weapon: Warp Disruptor II
+
+Name: Baranof
+Security: 5.0
+Alliance: Axiom Empire
+Corp: United Society Starfleet
+Ship: Ishkur
+Weapon: 125mm Railgun II
+
+
+Destroyed items:
+
+Prototype Cloaking Device I
+Nanofiber Internal Structure I
+Type-D Power Core Modification: Diagnostic System
+Type-D Power Core Modification: Diagnostic System
+

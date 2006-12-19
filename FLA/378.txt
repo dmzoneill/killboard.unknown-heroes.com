@@ -1,0 +1,70 @@
+2007.01.29 06:41
+
+Victim: Tument
+Alliance: Apocalyptica.
+Corp: THE LEGION OF STEEL WARRIORS....
+Destroyed: Punisher
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: WolfRavage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Hyperion
+Weapon: Hyperion
+
+Name: Teck7 (laid the final blow)
+Security: 0.8
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ishtar
+Weapon: Hammerhead II
+
+Name: Averenor
+Security: 3.7
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Megathron
+Weapon: Megathron
+
+Name: Danielson1012
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Moa
+Weapon: 250mm Carbide Railgun I
+
+Name: truefranco
+Security: -0.5
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Kandread
+Security: 0.6
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Iskla
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Caracal
+Weapon: Heavy Missile Launcher I
+
+
+Destroyed items:
+
+Medium Beam Laser I
+Multifrequency S
+1MN Afterburner I
+Nanofiber Internal Structure I
+Reactor Control Unit I
+Reactor Control Unit I
+

@@ -1,0 +1,67 @@
+2006.11.14 09:09
+
+Victim: Zxcyyhs
+Alliance: Interstellar Starbase Syndicate
+Corp: Old Galactic Earth Regiment
+Destroyed: Ferox
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Elfaen Ethenwe (laid the final blow)
+Security: 0.2
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Raven
+Weapon: Inferno Javelin Torpedo
+
+Name: SleepyOSU
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: Sin-X Inc.
+Ship: Ishkur
+Weapon: Hobgoblin I
+
+Name: Almagar Phog
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Blackbird
+Weapon: Medium Nosferatu I
+
+Name: Anatolli Korenchken
+Security: 5.0
+Alliance: CORE.
+Corp: AUS Corporation
+Ship: Scorpion
+Weapon: Ogre I
+
+Name: DevilSlayer
+Security: 4.0
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Thunderbolt Heavy Missile, Qty: 55
+Advanced 'Limos' Heavy Missile Bay I
+Advanced 'Limos' Heavy Missile Bay I
+Advanced 'Limos' Heavy Missile Bay I
+Large C5-L Emergency Shield Overload I
+Induced Multispectral ECM I
+'Repose' I Core Compensation
+Ballistic Control System I
+Medium Armor Repairer I (Cargo)
+E5 Prototype Energy Vampire (Cargo)
+Ditrigonal Thermal Barrier Crystallization I (Cargo)
+ECM - Spatial Destabilizer I (Cargo)
+CZ-4 Concussive Spatial Destabilizer ECM (Cargo)
+Omni Positional ECCM Sensor System I (Cargo)
+Thunderbolt Heavy Missile, Qty: 835 (Cargo)
+Widowmaker Heavy Missile, Qty: 801 (Cargo)
+

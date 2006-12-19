@@ -1,0 +1,36 @@
+2007.05.04 00:46
+
+Victim: Terdlinger
+Alliance: Storm Armada
+Corp: stone grave haulage
+Destroyed: Manticore
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Kvarium Ki
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Rapier
+Weapon: Rapier
+
+Name: Ilan Barak (laid the final blow)
+Security: 4.2
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Thorax
+Weapon: Hobgoblin I
+
+
+Destroyed items:
+
+Improved Cloaking Device II
+Wrath Cruise Missile, Qty: 21
+'Arbalest' Cruise Launcher I
+'Arbalest' Cruise Launcher I
+Warp Disruptor II
+X5 Prototype I Engine Enervator
+Signal Amplifier II
+

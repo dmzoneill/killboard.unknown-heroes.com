@@ -1,0 +1,52 @@
+2007.03.08 01:33
+
+Victim: Deadcover V
+Alliance: Chorus of Dawn
+Corp: Infinite Style Incorporated
+Destroyed: Incursus
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Jonas123
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Ferox
+Weapon: 'Arbalest' Assault Missile Launcher
+
+Name: Swanny231
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Thorax
+Weapon: Thorax
+
+Name: Jorax (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Myrmidon
+Weapon: Warrior II
+
+Name: WolfRavage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: Osyc
+Security: 2.6
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Stabber
+Weapon: Stasis Webifier I
+
+
+Destroyed items:
+
+1MN Afterburner I
+Warp Core Stabilizer I
+

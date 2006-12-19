@@ -1,0 +1,142 @@
+2007.02.09 22:44
+
+Victim: Minisoza
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Myrmidon
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: XxAngelxX
+Security: -2.8
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Abaddon
+Weapon: Abaddon
+
+Name: Misha Mosqito
+Security: 3.3
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Megathron
+Weapon: Megathron
+
+Name: Ceapio
+Security: 1.2
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Tempest
+Weapon: Tempest
+
+Name: Darknesss
+Security: 0.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Megathron
+Weapon: Megathron
+
+Name: WarGod
+Security: 2.7
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Von Kretschmer
+Security: 5.0
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Tempest
+Weapon: Tempest
+
+Name: ukpAgAn
+Security: 5.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Megathron
+Weapon: Megathron
+
+Name: ArchenTheGreat
+Security: -0.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Rokh
+Weapon: Rokh
+
+Name: Nevermore
+Security: 4.6
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Megathron
+Weapon: Megathron
+
+Name: Anna Neura
+Security: -0.8
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Taranis
+Weapon: Taranis
+
+Name: Laarz
+Security: -3.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Tempest
+Weapon: Tempest
+
+Name: boo3916 (laid the final blow)
+Security: 4.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Rokh
+Weapon: 425mm 'Scout' I Accelerator Cannon
+
+Name: Pistonbroke
+Security: 0.5
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Rokh
+Weapon: Rokh
+
+Name: Elliott Manchild
+Security: -1.8
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Machariel
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Ramah
+Security: 5.0
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Archon
+Weapon: Einherji
+
+
+Destroyed items:
+
+150mm Railgun II
+150mm Railgun II
+150mm Railgun II
+Antimatter Charge S
+Antimatter Charge S
+Antimatter Charge S
+Antimatter Charge S
+Antimatter Charge S
+Fleeting Warp Scrambler I
+'Langour' Drive Disruptor I
+Sensor Booster II
+Medium Armor Repairer II
+Medium Armor Repairer II
+Energized Adaptive Nano Membrane II
+Armor Explosive Hardener II
+Nanofiber Internal Structure I
+Antimatter Charge S, Qty: 760 (Cargo)
+Cap Booster 400, Qty: 20 (Cargo)
+Spike S, Qty: 1532 (Cargo)
+Ogre II, Qty: 3 (Drone Bay)
+Hobgoblin II (Drone Bay)
+Warrior II (Drone Bay)
+

@@ -1,0 +1,26 @@
+2007.04.11 13:26
+
+Victim: ConXtionS
+Alliance: Freelancer Alliance
+Corp: The Night Crew
+Destroyed: Tristan
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Sivona (laid the final blow)
+Security: -1.1
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Eos
+Weapon: Hobgoblin II
+
+
+Destroyed items:
+
+Small Proton Smartbomb I
+1MN MicroWarpdrive I
+Nanofiber Internal Structure I
+Overdrive Injector System I
+

@@ -1,0 +1,26 @@
+2006.11.07 09:47
+
+Victim: Son Nolan
+Alliance: Freelancer Alliance
+Corp: Feel Good Inc.
+Destroyed: Tormentor
+System: Oipo
+Security: 0.8
+
+Involved parties:
+
+Name: Balatar (laid the final blow)
+Security: 1.2
+Alliance: None
+Corp: The Initiative
+Ship: Zealot
+Weapon: Heavy Pulse Laser II
+
+Name: KRULLEN Binazeski
+Security: 4.9
+Alliance: None
+Corp: The Initiative
+Ship: Curse
+Weapon: Medium Nosferatu II
+
+

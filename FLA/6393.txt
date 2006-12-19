@@ -1,0 +1,26 @@
+2006.11.13 10:05
+
+Victim: kmo salure
+Alliance: None
+Corp: Science and Trade Institute
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Rowan Chiquar
+Security: 4.4
+Alliance: Forces of Freedom
+Corp: The Knights of the New Republic
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Almagar Phog (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Raptor
+Weapon: Bloodclaw Light Missile
+
+

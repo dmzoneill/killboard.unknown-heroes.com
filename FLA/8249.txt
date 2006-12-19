@@ -1,0 +1,29 @@
+2006.11.06 07:29
+
+Victim: Formosus Funus
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Destroyed: Thrasher
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Optic Nerve (laid the final blow)
+Security: 1.9
+Alliance: None
+Corp: Omniscient Order
+Ship: Dominix
+Weapon: Berserker II
+
+
+Destroyed items:
+
+250mm Light Artillery Cannon I
+250mm Light Artillery Cannon I
+250mm Light Artillery Cannon I
+250mm Light Artillery Cannon I
+Small 'Knave' I Energy Drain
+Titanium Sabot S, Qty: 110
+Small Armor Repairer I
+

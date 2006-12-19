@@ -1,0 +1,33 @@
+2007.04.01 06:14
+
+Victim: dastommy79
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Destroyed: Capsule
+System: 85-B52
+Security: 0.0
+
+Involved parties:
+
+Name: Nipplator
+Security: -0.9
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Harbinger
+Weapon: Focused Medium Pulse Laser II
+
+Name: Lord Revent
+Security: 1.5
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Huginn
+Weapon: Widowmaker Heavy Missile
+
+Name: Vasili Z (laid the final blow)
+Security: 0.3
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Huginn
+Weapon: Widowmaker Precision Heavy Missile
+
+

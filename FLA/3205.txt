@@ -1,0 +1,40 @@
+2007.03.21 01:59
+
+Victim: seryhgyu
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Destroyed: Incursus
+System: OWXT-5
+Security: 0.0
+
+Involved parties:
+
+Name: PainBall
+Security: -0.9
+Alliance: Triumvirate.
+Corp: ViperSquad
+Ship: Absolution
+Weapon: Warrior II
+
+Name: Roule (laid the final blow)
+Security: -4.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Claw
+Weapon: 200mm AutoCannon II
+
+Name: Kurt Cobain
+Security: -0.4
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Crusader
+Weapon: Crusader
+
+
+Destroyed items:
+
+150mm Railgun I
+Antimatter Charge S, Qty: 58
+J5 Prototype Warp Inhibitor I
+Inertia Stabilizers I
+

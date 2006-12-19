@@ -1,0 +1,33 @@
+2007.01.01 02:24
+
+Victim: Quofeous
+Alliance: None
+Corp: Digital Fury Corporation
+Destroyed: Ishkur
+System: 7T6P-C
+Security: 0.0
+
+Involved parties:
+
+Name: avelution (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Ishkur
+Weapon: Light Ion Blaster II
+
+
+Destroyed items:
+
+150mm Carbide Railgun I
+150mm Carbide Railgun I
+Thorium Charge S, Qty: 37
+Cold-Gas I Arcjet Thrusters
+Warp Disruptor I
+X5 Prototype I Engine Enervator
+F85 Peripheral Damage System I
+Small Armor Repairer II
+Radioisotope Explosive Hardener I
+Light Electron Blaster II (Cargo)
+Iridium Charge S, Qty: 1000 (Cargo)
+

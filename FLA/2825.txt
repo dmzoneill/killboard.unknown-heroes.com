@@ -1,0 +1,87 @@
+2007.03.10 20:21
+
+Victim: Loograsch
+Alliance: Freelancer Alliance
+Corp: United Forces
+Destroyed: Thorax
+System: O-CNPR
+Security: 0.0
+
+Involved parties:
+
+Name: Donis
+Security: -1.4
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Zealot
+Weapon: Zealot
+
+Name: Daff Punk (laid the final blow)
+Security: -1.2
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Thorax
+Weapon: Heavy Ion Blaster I
+
+Name: Ashurian
+Security: 2.6
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Arbitrator
+Weapon: Hammerhead I
+
+Name: Kaulu
+Security: 3.1
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Caracal
+Weapon: Bloodclaw Light Missile
+
+Name: Utlaen
+Security: 5.0
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Flycatcher
+Weapon: Bloodclaw Light Missile
+
+Name: Lady64bits
+Security: 5.0
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Incursus
+Weapon: Incursus
+
+Name: Lur Helder
+Security: 3.4
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Celestis
+Weapon: Celestis
+
+Name: Topasio
+Security: 2.3
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Stabber
+Weapon: Medium Nosferatu I
+
+Name: Gorfi tco
+Security: 4.0
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Prophecy
+Weapon: Prophecy
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Light Neutron Blaster II
+Light Neutron Blaster II
+10MN MicroWarpdrive I
+Stasis Webifier I
+Microcell Nanite Explosive Hardener I
+Radioisotope Explosive Hardener I
+1600mm Reinforced Crystalline Carbonide Plates I
+Hammerhead I, Qty: 2 (Drone Bay)
+

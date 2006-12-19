@@ -1,0 +1,40 @@
+2006.11.11 09:56
+
+Victim: Imperator Tazak
+Alliance: None
+Corp: Marquie-X Corp
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Micheal Ross
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Flycatcher
+Weapon: Bloodclaw Light Missile
+
+Name: Almagar Phog (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Blackbird
+Weapon: Flameburst Light Missile
+
+Name: LizzyD
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: Drin
+Security: 0.1
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Wolf
+Weapon: Wolf
+
+

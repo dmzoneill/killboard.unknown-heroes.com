@@ -1,0 +1,40 @@
+2007.01.30 00:51
+
+Victim: Yara Kis
+Alliance: None
+Corp: Garoun Investment Bank
+Destroyed: Caldari Shuttle
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Teck7 (laid the final blow)
+Security: 0.8
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ishtar
+Weapon: Warrior II
+
+Name: wrecker300
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Hawk
+Weapon: Standard Missile Launcher I
+
+Name: Thiet
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Kestrel
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+Name: Feke
+Security: 4.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Moa
+Weapon: 250mm 'Scout' I Accelerator Cannon
+
+

@@ -1,0 +1,44 @@
+2007.03.13 18:35
+
+Victim: Tregaron
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Destroyed: Crow
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Amok'Trueborn' Pryde (laid the final blow)
+Security: -1.6
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Malediction
+Weapon: Sabretooth Light Missile
+
+Name: volly
+Security: 3.1
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Curse
+Weapon: Warrior II
+
+Name: Gordon Red
+Security: 2.0
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Heretic
+Weapon: Heretic
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 124
+TE-2100 Standard Missile Bay
+F-b10 Nominal Capacitor Regenerator
+1MN MicroWarpdrive II
+Warp Disruptor II
+Local Hull Conversion Inertial Stabilizers I
+Inertia Stabilizers I
+Inertia Stabilizers I
+

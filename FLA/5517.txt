@@ -1,0 +1,79 @@
+2006.10.07 00:27
+
+Victim: Angelis666
+Alliance: Ghosts of Retribution
+Corp: Polytope
+Destroyed: Probe
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: jarson
+Security: -0.3
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Claw
+Weapon: Claw
+
+Name: Scorpio63
+Security: 4.8
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Retribution
+Weapon: Retribution
+
+Name: movy
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Ishkur
+Weapon: 125mm Railgun II
+
+Name: Kyoshisan
+Security: 0.4
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Enyo
+Weapon: 125mm Railgun II
+
+Name: Seventh Star (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Jaguar
+Weapon: 250mm Light Artillery Cannon II
+
+Name: Kismeteer
+Security: 3.4
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Incursus
+Weapon: 150mm Railgun I
+
+Name: forator2
+Security: 3.5
+Alliance: O X I D E
+Corp: W33D Corp.
+Ship: Taranis
+Weapon: Taranis
+
+Name: DarkJester
+Security: 0.7
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery I
+
+
+Destroyed items:
+
+Prototype I Freight Sensors
+Small Armor Repairer I
+720mm Howitzer Artillery I (Cargo)
+Quantum Co-Processor I (Cargo)
+Guristas Ship Log 398560763 (Cargo)
+Guristas Ship Log 524785540 (Cargo)
+Guristas Ship Log 312887432 (Cargo)
+Guristas Silver Tag (Cargo)
+

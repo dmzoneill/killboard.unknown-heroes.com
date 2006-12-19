@@ -1,0 +1,26 @@
+2007.03.31 09:52
+
+Victim: dccbx
+Alliance: Freelancer Alliance
+Corp: Blackwater Squadron
+Destroyed: Capsule
+System: P-2TTL
+Security: 0.0
+
+Involved parties:
+
+Name: Ferocious FeAr
+Security: 1.5
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+Name: Tripline (laid the final blow)
+Security: 1.4
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+

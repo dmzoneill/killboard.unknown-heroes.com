@@ -1,0 +1,26 @@
+2006.11.06 18:18
+
+Victim: Tal'Ra
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Executioner
+System: Haajinen
+Security: 0.8
+
+Involved parties:
+
+Name: Balatar
+Security: 1.2
+Alliance: None
+Corp: The Initiative
+Ship: Apocalypse
+Weapon: Tachyon Beam Laser II
+
+Name: KRULLEN Binazeski (laid the final blow)
+Security: 4.9
+Alliance: None
+Corp: The Initiative
+Ship: Apocalypse
+Weapon: Tachyon Beam Laser II
+
+

@@ -1,0 +1,49 @@
+2007.03.22 19:27
+
+Victim: Tregaron
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Destroyed: Stabber
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: zeitza ta (laid the final blow)
+Security: 0.5
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Astarte
+Weapon: Heavy Neutron Blaster II
+
+Name: Snuggles theTerrible
+Security: 5.0
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Vulture
+Weapon: 'Arbalest' Assault Missile Launcher
+
+Name: WarGod
+Security: 1.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Curse
+Weapon: Medium Nosferatu II
+
+Name: Sith Bandon
+Security: 5.0
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Ishtar
+Weapon: 75mm Gatling Rail II
+
+
+Destroyed items:
+
+220mm Vulcan AutoCannon I
+220mm Vulcan AutoCannon I
+Fusion M, Qty: 98
+10MN MicroWarpdrive I
+Gyrostabilizer II
+EMP M, Qty: 1000 (Cargo)
+

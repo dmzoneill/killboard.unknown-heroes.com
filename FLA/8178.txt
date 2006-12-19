@@ -1,0 +1,58 @@
+2006.10.26 16:52
+
+Victim: Preying Mantis
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Destroyed: Typhoon
+System: Litiura
+Security: 0.5
+
+Involved parties:
+
+Name: Ronnie Kray
+Security: -1.8
+Alliance: None
+Corp: Mentally Unstable Enterprises
+Ship: Raven
+Weapon: Wrath Cruise Missile
+
+Name: mad killer
+Security: -2.2
+Alliance: None
+Corp: Mentally Unstable Enterprises
+Ship: Prophecy
+Weapon: Prophecy
+
+Name: Lennier Cotto (laid the final blow)
+Security: -1.9
+Alliance: None
+Corp: Mentally Unstable Enterprises
+Ship: Armageddon
+Weapon: Mega Pulse Laser II
+
+Name: Jack Phox
+Security: 2.8
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Capsule
+Weapon: J5 Prototype Warp Inhibitor I
+
+
+Destroyed items:
+
+Heavy 'Knave' I Energy Drain
+Heavy 'Knave' I Energy Drain
+Heavy 'Knave' I Energy Drain
+Juggernaut Torpedo, Qty: 13
+ZW-4100 Siege Missile Bay
+ZW-4100 Siege Missile Bay
+ECM - Multispectral Jammer II
+Sensor Booster II
+Small Armor Repairer II
+F-b10 Nominal Capacitor Regenerator (Cargo)
+Juggernaut Torpedo, Qty: 465 (Cargo)
+Mjolnir Torpedo, Qty: 469 (Cargo)
+Bane Torpedo, Qty: 470 (Cargo)
+Hornet II, Qty: 8 (Drone Bay)
+Vespa II, Qty: 2 (Drone Bay)
+

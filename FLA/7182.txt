@@ -1,0 +1,106 @@
+2006.12.30 22:01
+
+Victim: Drakin Korin
+Alliance: None
+Corp: Evil Bandit Organisation
+Destroyed: Eagle
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Grim Faust
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery I
+
+Name: Bobby Atlas
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Hyperion
+Weapon: Hyperion
+
+Name: Sorlac Aurora
+Security: 4.7
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Drake
+Weapon: Widowmaker Heavy Missile
+
+Name: Admiral Hunter (laid the final blow)
+Security: 3.8
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Megathron
+Weapon: Ion Blaster Cannon I
+
+Name: Soldroz
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Hojo Norem
+Security: 3.1
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Ferox
+Weapon: Valkyrie I
+
+Name: Xantheris
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Taranis
+Weapon: Taranis
+
+Name: Stitcher
+Security: 3.1
+Alliance: Freelancer Alliance
+Corp: J.I.T. Enterprises
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: izJan
+Security: 2.5
+Alliance: O X I D E
+Corp: W33D Corp.
+Ship: Griffin
+Weapon: Languid Phase Inversion ECM I
+
+Name: ninev0lts
+Security: 2.3
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Brutix
+Weapon: Heavy Electron Blaster I
+
+Name: John Linski
+Security: 2.1
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Merlin
+Weapon: Standard Missile Launcher I
+
+Name: Denaris1
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Raven
+Weapon: 'Malkuth' Cruise Launcher I
+
+
+Destroyed items:
+
+Prototype Cloaking Device I
+Spike M, Qty: 27
+Tracking Computer II
+Tracking Computer II
+Tracking Enhancer II
+Magnetic Field Stabilizer II
+Spike M, Qty: 5183 (Cargo)
+

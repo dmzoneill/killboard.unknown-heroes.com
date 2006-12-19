@@ -1,0 +1,45 @@
+2007.04.29 13:56
+
+Victim: Damfoose
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Manticore
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Topasio
+Security: 3.6
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Claw
+Weapon: Claw
+
+Name: AnmmnA
+Security: 5.0
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Crow
+Weapon: Flameburst Light Missile
+
+Name: Edone (laid the final blow)
+Security: 3.9
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Raptor
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+Improved Cloaking Device II
+Cataclysm Cruise Missile, Qty: 18
+Devastator Cruise Missile, Qty: 18
+Paradise Cruise Missile, Qty: 18
+Scan Probe Launcher I
+'Limos' Cruise Launcher I
+Remote Sensor Dampener I
+Prototype I Sensor Booster
+Type-D Power Core Modification: Reaction Control
+

@@ -1,0 +1,45 @@
+2006.12.12 21:39
+
+Victim: Wolf333
+Alliance: Freelancer Alliance
+Corp: THeOThErs
+Destroyed: Caracal
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Saal Iverson
+Security: 4.4
+Alliance: None
+Corp: 0utbreak
+Ship: Megathron
+Weapon: Megathron
+
+Name: Tadis
+Security: 1.1
+Alliance: None
+Corp: 0utbreak
+Ship: Megathron
+Weapon: Megathron
+
+Name: MOS DEF (laid the final blow)
+Security: 0.9
+Alliance: None
+Corp: 0utbreak
+Ship: Rokh
+Weapon: 425mm Railgun II
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 30
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Compulsive Multispectral ECM I
+'Hypnos' Ion Field ECM I
+Remote Sensor Dampener I
+Sensor Booster I
+Ballistic Control System I
+Acolyte I (Drone Bay)
+

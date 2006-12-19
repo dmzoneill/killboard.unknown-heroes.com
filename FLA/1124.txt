@@ -1,0 +1,39 @@
+2007.03.05 17:32
+
+Victim: vivianus
+Alliance: Xelas Alliance
+Corp: Fallen Angel's
+Destroyed: Raven
+System: C-FER9
+Security: 0.0
+
+Involved parties:
+
+Name: Serpentis Chief Defender / Serpentis Corporation
+
+Name: sakana (laid the final blow)
+Security: -0.9
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Astarte
+Weapon: Heavy Ion Blaster II
+
+
+Destroyed items:
+
+Bane Torpedo, Qty: 48
+ZW-4100 Siege Missile Bay
+ZW-4100 Siege Missile Bay
+ZW-4100 Siege Missile Bay
+ZW-4100 Siege Missile Bay
+Large C5-L Emergency Shield Overload I
+F-b10 Nominal Capacitor Regenerator
+Ditrigonal Thermal Barrier Crystallization I
+5a Prototype Shield Support I
+Ballistic Control System I
+Local Power Plant Manager: Diagnostic System I
+Local Power Plant Manager: Diagnostic System I
+Local Power Plant Manager: Diagnostic System I
+Bane Torpedo, Qty: 1498 (Cargo)
+Juggernaut Torpedo, Qty: 108 (Cargo)
+

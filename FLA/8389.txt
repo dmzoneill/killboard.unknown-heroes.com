@@ -1,0 +1,57 @@
+2006.11.14 22:55
+
+Victim: Jumar Coldgin
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Destroyed: Eagle
+System: O-N8XZ
+Security: 0.0
+
+Involved parties:
+
+Name: mr hydeuk (laid the final blow)
+Security: 4.9
+Alliance: None
+Corp: Bad Karma.
+Ship: Raven
+Weapon: Bane Javelin Torpedo
+
+Name: Skully Maltoon
+Security: -1.0
+Alliance: None
+Corp: Bad Karma.
+Ship: Raven
+Weapon: Siege Missile Launcher II
+
+Name: Mordocik
+Security: -0.6
+Alliance: None
+Corp: Bad Karma.
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Calmdown
+Security: -0.9
+Alliance: None
+Corp: Bad Karma.
+Ship: Huginn
+Weapon: 720mm Howitzer Artillery II
+
+
+Destroyed items:
+
+250mm Railgun II
+250mm Railgun II
+Javelin M, Qty: 58
+Sabretooth Precision Light Missile, Qty: 74
+Medium Shield Booster II
+10MN Afterburner II
+Sensor Booster II
+Magnetic Field Stabilizer II
+10MN Afterburner I (Cargo)
+Initiated Multispectral ECM I (Cargo)
+Spike M, Qty: 1021 (Cargo)
+Sabretooth Precision Light Missile, Qty: 214 (Cargo)
+Piranha Precision Light Missile, Qty: 175 (Cargo)
+Power Diagnostic System II (Cargo)
+

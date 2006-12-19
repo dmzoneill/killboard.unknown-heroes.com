@@ -1,0 +1,61 @@
+2007.04.09 00:35
+
+Victim: Cockroach
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Prophecy
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: END3R 101 (laid the final blow)
+Security: -0.7
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Chimera
+Weapon: Dragonfly
+
+Name: Redginald
+Security: 4.5
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: Spacebar
+Security: 2.1
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: Robet Katrix
+Security: 2.1
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Chimera
+Weapon: Dragonfly
+
+
+Destroyed items:
+
+Heavy Pulse Laser II
+Heavy Pulse Laser II
+Focused Medium Pulse Laser II
+Medium Diminishing Power System Drain I
+Conflagration M
+Conflagration M
+Conflagration M
+Conflagration M
+Y-T8 Overcharged Hydrocarbon I Microwarpdrive
+Faint Warp Prohibitor I
+Medium Armor Repairer II
+Heat Sink II
+Heat Sink II
+Energized Adaptive Nano Membrane II
+Xray M, Qty: 4 (Cargo)
+Conflagration M, Qty: 4 (Cargo)
+Scorch M, Qty: 4 (Cargo)
+Hornet I, Qty: 4 (Drone Bay)
+

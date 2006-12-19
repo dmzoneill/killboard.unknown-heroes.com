@@ -1,0 +1,30 @@
+2007.04.21 03:13
+
+Victim: arthell
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Destroyed: Iteron Mark V
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Stradivarious (laid the final blow)
+Security: 3.8
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+
+Destroyed items:
+
+Light Neutron Blaster I
+Iron Charge S, Qty: 67
+Medium Azeotropic Ward Salubrity I
+Medium Azeotropic Ward Salubrity I
+Medium Azeotropic Ward Salubrity I
+Fleeting Progressive Warp Scrambler I
+50mm Reinforced Nanofiber Plates I
+Iron Charge S, Qty: 320 (Cargo)
+

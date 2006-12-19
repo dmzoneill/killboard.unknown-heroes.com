@@ -1,0 +1,45 @@
+2007.04.11 00:59
+
+Victim: ConXtionS
+Alliance: Freelancer Alliance
+Corp: The Night Crew
+Destroyed: Thorax
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Rif (laid the final blow)
+Security: 5.0
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Harbinger
+Weapon: Heavy Beam Laser I
+
+Name: Hunter Vonnegut
+Security: 5.0
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Ishkur
+Weapon: Hobgoblin II
+
+Name: shadow5150
+Security: 5.0
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Rapier
+Weapon: Warrior II
+
+
+Destroyed items:
+
+200mm Carbide Railgun I
+200mm Carbide Railgun I
+200mm Carbide Railgun I
+Antimatter Charge M, Qty: 160
+Stasis Webifier I
+Prototype I Sensor Booster
+Small Armor Repairer I
+400mm Reinforced Rolled Tungsten Plates I
+Antimatter Charge M, Qty: 2988 (Cargo)
+

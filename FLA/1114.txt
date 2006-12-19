@@ -1,0 +1,50 @@
+2007.03.05 04:58
+
+Victim: H4ontheblock
+Alliance: United Confederation of Corporations
+Corp: The Valour
+Destroyed: Drake
+System: Alparena
+Security: 0.1
+
+Involved parties:
+
+Name: NoLuckNumber2
+Security: -0.9
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Megathron
+Weapon: Megathron
+
+Name: VoYvod (laid the final blow)
+Security: -1.1
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Armageddon
+Weapon: Dual Heavy Pulse Laser I
+
+Name: Jesnen
+Security: -1.1
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Sacrilege
+Weapon: Sacrilege
+
+Name: skitz blitz
+Security: -1.5
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Wolf
+Weapon: Wolf
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 112
+'Malkuth' Heavy Missile Launcher I
+Cap Booster 800
+Magnetic Scattering Amplifier I
+Ballistic Control System I
+Ballistic Control System I
+Scourge Heavy Missile, Qty: 1979 (Cargo)
+

@@ -1,0 +1,84 @@
+2007.03.19 05:26
+
+Victim: Sovo
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Destroyed: Stabber
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Erikel
+Security: 4.6
+Alliance: Chorus of Dawn
+Corp: Cosmic Odyssey
+Ship: Megathron
+Weapon: Megathron
+
+Name: Balcura
+Security: 5.0
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Sexorella hotz
+Security: 5.0
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Raven
+Weapon: XT-9000 Cruise Launcher
+
+Name: Lord Revent
+Security: 1.1
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Maelstrom
+Weapon: 800mm Repeating Artillery II
+
+Name: Fred Fredburger (laid the final blow)
+Security: 5.0
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Megathron
+Weapon: Modal Mega Ion Particle Accelerator I
+
+Name: Xoduse
+Security: 0.4
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Hyperion
+Weapon: Ion Blaster Cannon II
+
+Name: Vasili Z
+Security: 0.4
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Huginn
+Weapon: Target Painter II
+
+Name: VDV Bru37
+Security: 5.0
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Raven
+Weapon: Heavy Diminishing Power System Drain I
+
+Name: Nipplator
+Security: 2.9
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Armageddon
+Weapon: Armageddon
+
+
+Destroyed items:
+
+Phased Plasma M, Qty: 88
+Widowmaker Heavy Missile, Qty: 56
+Stasis Webifier I
+Inertia Stabilizers I
+Inertia Stabilizers I
+Phased Plasma M, Qty: 965 (Cargo)
+

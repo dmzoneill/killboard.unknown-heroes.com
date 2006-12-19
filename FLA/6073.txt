@@ -1,0 +1,33 @@
+2006.11.06 23:27
+
+Victim: Galleim Hartook
+Alliance: Ethereal Dawn
+Corp: Aristotle Enterprises
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Hosanna (laid the final blow)
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Jaguar
+Weapon: 200mm AutoCannon II
+
+Name: Preying Mantis
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Harpy
+Weapon: Harpy
+
+Name: Flashh Gorden
+Security: 3.1
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Ship: Kestrel
+Weapon: Upgraded 'Limos' Standard Missile Bay I
+
+

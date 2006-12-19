@@ -1,0 +1,135 @@
+2006.12.12 20:14
+
+Victim: Mirandian
+Alliance: Guardian Federation
+Corp: The Guardian Agency
+Destroyed: Caracal
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Sidrat Flush
+Security: 1.1
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Ferox
+Weapon: Havoc Heavy Missile
+
+Name: Zha'doom
+Security: 3.7
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Armageddon
+Weapon: Tachyon Modulated Energy Beam I
+
+Name: Onyx Soulbane
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Elite frontier group
+Ship: Ferox
+Weapon: Ferox
+
+Name: Samiloth Justinian
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Super Homer (laid the final blow)
+Security: 1.1
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Manticore
+Weapon: Devastator Cruise Missile
+
+Name: Luna Nilaya
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Ferox
+Weapon: Ferox
+
+Name: pROMp
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Feel Good Inc.
+Ship: Celestis
+Weapon: 200mm Compressed Coil Gun I
+
+Name: brian crainie
+Security: 3.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Megathron
+Weapon: Megathron
+
+Name: J1NX
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Ferox
+Weapon: Ferox
+
+Name: Overman
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Brutix
+Weapon: Brutix
+
+Name: Thafesko
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Condor
+Weapon: Thorn Rocket
+
+Name: WolfRavage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Dominix
+Weapon: 350mm Railgun I
+
+Name: lambert butler
+Security: -0.5
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Vexor
+Weapon: 150mm Railgun I
+
+Name: Racle duMer
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Raven
+Weapon: Raven
+
+Name: Magmus Fieldgore
+Security: 4.4
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Sacrilege
+Weapon: Warp Disruptor I
+
+Name: Chalimar
+Security: 1.2
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Arazu
+Weapon: Phased Muon Sensor Disruptor I
+
+
+Destroyed items:
+
+Sabretooth Light Missile, Qty: 138
+SV-2000 Assault Missile Bay, Qty: 3
+Large F-S9 Regolith Shield Induction
+Photon Scattering Field I
+V-M15 Braced Multispectral Shield Matrix, Qty: 2
+Sabretooth Light Missile, Qty: 655 (Cargo)
+Piranha Light Missile, Qty: 700 (Cargo)
+Flameburst Light Missile, Qty: 1937 (Cargo)
+Infiltrator I (Drone Bay)

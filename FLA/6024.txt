@@ -1,0 +1,36 @@
+2006.11.06 08:10
+
+Victim: Tatzlwurm
+Alliance: None
+Corp: Tyrants
+Destroyed: Vexor
+System: OWXT-5
+Security: 0.0
+
+Involved parties:
+
+Name: Spellblade (laid the final blow)
+Security: 2.8
+Alliance: Freelancer Alliance
+Corp: Sin-X Inc.
+Ship: Nightmare
+Weapon: Ogre II
+
+
+Destroyed items:
+
+Medium Nosferatu I
+125mm Railgun II
+Dual 150mm Railgun II
+Antimatter Charge S, Qty: 63
+10MN MicroWarpdrive I
+Damage Control I
+Medium Armor Repairer II
+Gyrostabilizer II (Cargo)
+F85 Peripheral Damage System I (Cargo)
+Antimatter Charge S, Qty: 4157 (Cargo)
+N-Type Kinetic Hardener I (Cargo)
+Drone Link Augmentor I (Cargo)
+Hobgoblin II, Qty: 2 (Drone Bay)
+Valkyrie II, Qty: 3 (Drone Bay)
+

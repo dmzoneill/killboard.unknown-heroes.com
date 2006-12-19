@@ -1,0 +1,113 @@
+2007.04.18 01:06
+
+Victim: Bothius
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Myrmidon
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: coldkill
+Security: 1.9
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Brutix
+Weapon: Hobgoblin II
+
+Name: xinndo jagged
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Drake
+Weapon: Havoc Heavy Missile
+
+Name: Anndy
+Security: 3.8
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Kvarium Ki
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Stabber
+Weapon: Stabber
+
+Name: Alex Hinkelmann (laid the final blow)
+Security: 0.3
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Tran Whistler
+Security: 5.3
+Alliance: Freelancer Alliance
+Corp: Harbingers of Sarrow
+Ship: Raptor
+Weapon: Raptor
+
+Name: Kayron Brennan
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Merlin
+Weapon: Merlin
+
+Name: Kartock Maar
+Security: 2.1
+Alliance: Freelancer Alliance
+Corp: Harbingers of Sarrow
+Ship: Celestis
+Weapon: Celestis
+
+Name: sparkvolt
+Security: -0.7
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Rifter
+Weapon: Small Nosferatu I
+
+Name: arthell
+Security: 2.9
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Celestis
+Weapon: Indirect Scanning Dampening Unit I
+
+Name: Teck7
+Security: 1.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Incursus
+Weapon: 280mm Howitzer Artillery I
+
+Name: Magic Mazuma
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Rifter
+Weapon: Rifter
+
+
+Destroyed items:
+
+Medium 'Ghoul' Energy Siphon I
+Medium 'Ghoul' Energy Siphon I
+Modal Electron Particle Accelerator I
+Antimatter Charge M, Qty: 397
+Y-T8 Overcharged Hydrocarbon I Microwarpdrive
+Warp Disruptor II
+X5 Prototype I Engine Enervator
+Conjunctive Magnetometric ECCM Scanning Array I
+Damage Control II
+Medium Armor Repairer II
+Magnetic Field Stabilizer II
+Energized Adaptive Nano Membrane II
+Lead Charge M, Qty: 1000 (Cargo)
+Valkyrie I, Qty: 4 (Drone Bay)
+

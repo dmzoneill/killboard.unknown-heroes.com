@@ -1,0 +1,82 @@
+2007.03.17 14:25
+
+Victim: Logand Delta
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Destroyed: Drake
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Donald Trump
+Security: -1.7
+Alliance: Eternal Rapture
+Corp: Temptation inc.
+Ship: Tempest
+Weapon: Tempest
+
+Name: ArmyOfMe
+Security: -1.5
+Alliance: Eternal Rapture
+Corp: Exotic Dancers Club
+Ship: Astarte
+Weapon: Astarte
+
+Name: Handon Guild
+Security: -2.9
+Alliance: Eternal Rapture
+Corp: Exotic Dancers Club
+Ship: Tempest
+Weapon: Tempest
+
+Name: VirkMaN
+Security: -1.1
+Alliance: Eternal Rapture
+Corp: Temptation inc.
+Ship: Nighthawk
+Weapon: Havoc Heavy Missile
+
+Name: Jiviva
+Security: -4.4
+Alliance: Eternal Rapture
+Corp: Exotic Dancers Club
+Ship: Ferox
+Weapon: Scourge Heavy Missile
+
+Name: blh 42 (laid the final blow)
+Security: -3.6
+Alliance: Eternal Rapture
+Corp: Exotic Dancers Club
+Ship: Megathron
+Weapon: Ion Blaster Cannon II
+
+Name: GodWin cadela
+Security: -1.8
+Alliance: Eternal Rapture
+Corp: Exotic Dancers Club
+Ship: Absolution
+Weapon: Absolution
+
+Name: Jack Archer
+Security: -1.7
+Alliance: Eternal Rapture
+Corp: Quantum Synergies
+Ship: Dominix
+Weapon: Dominix
+
+
+Destroyed items:
+
+E50 Prototype Energy Vampire
+Scourge Heavy Missile, Qty: 90
+Widowmaker Heavy Missile, Qty: 32
+Thunderbolt Heavy Missile, Qty: 30
+Advanced 'Limos' Heavy Missile Bay I
+Advanced 'Limos' Heavy Missile Bay I
+Advanced 'Limos' Heavy Missile Bay I
+Heat Dissipation Amplifier II
+Beta Reactor Control: Capacitor Power Relay I
+Scourge Heavy Missile, Qty: 4000 (Cargo)
+Hammerhead I (Drone Bay)
+

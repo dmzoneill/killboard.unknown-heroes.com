@@ -1,0 +1,26 @@
+2007.01.20 22:31
+
+Victim: MrBrightSide
+Alliance: None
+Corp: State War Academy
+Destroyed: Caldari Shuttle
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: dastommy79 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Thorax
+Weapon: Heavy Ion Blaster I
+
+Name: Chuck Dawg
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Blackbird
+Weapon: Warp Disruptor I
+
+

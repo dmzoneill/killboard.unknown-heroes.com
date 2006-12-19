@@ -1,0 +1,33 @@
+2007.04.13 21:09
+
+Victim: Lorth
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Destroyed: Stiletto
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: ClogMan (laid the final blow)
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Drake
+Weapon: Widowmaker Heavy Missile
+
+Name: Ska Inni
+Security: 0.7
+Alliance: Freelancer Alliance
+Corp: ORIGIN SYSTEMS
+Ship: Hurricane
+Weapon: Hurricane
+
+
+Destroyed items:
+
+Antimatter Charge S, Qty: 139
+Nanofiber Internal Structure I
+Capacitor Power Relay I
+Mark I Generator Refitting: Capacitor Power Relay
+Antimatter Charge S, Qty: 240 (Cargo)

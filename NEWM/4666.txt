@@ -1,0 +1,109 @@
+2007.04.17 20:37
+
+Victim: Steve Dave
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Destroyed: Nighthawk
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Burn Lump (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Chimera
+Weapon: Templar
+
+Name: Teck7
+Security: 1.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ares
+Weapon: Einherji
+
+Name: Kee Ris
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Sacrilege
+Weapon: Templar
+
+Name: Kaand
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Thorax
+Weapon: Hammerhead I
+
+Name: Kayron Brennan
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Merlin
+Weapon: Firbolg
+
+Name: dastommy79
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Executioner
+Weapon: Executioner
+
+Name: ClogMan
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Wolf
+Weapon: Dragonfly
+
+Name: Alski
+Security: 3.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Cormorant
+Weapon: 125mm Railgun I
+
+Name: alon blackhelm
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Chimera
+Weapon: Dragonfly
+
+Name: Steven FSB
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Chimera
+Weapon: Templar
+
+Name: Bobby Atlas
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Thanatos
+Weapon: Einherji
+
+Name: Guristas Inferno / Guristas
+
+
+Destroyed items:
+
+Prototype Cloaking Device I
+Heavy Missile Launcher II
+Heavy Missile Launcher II
+Heavy Missile Launcher II
+Scourge Precision Heavy Missile, Qty: 115
+Thunderbolt Precision Heavy Missile, Qty: 39
+Havoc Precision Heavy Missile, Qty: 38
+Invulnerability Field II
+Damage Control II
+Ballistic Control System II
+Ballistic Control System II
+Havoc Heavy Missile, Qty: 3023 (Cargo)
+Scourge Fury Heavy Missile, Qty: 344 (Cargo)
+Havoc Precision Heavy Missile, Qty: 220 (Cargo)
+Thunderbolt Precision Heavy Missile, Qty: 226 (Cargo)
+

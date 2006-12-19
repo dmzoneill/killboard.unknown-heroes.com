@@ -1,0 +1,26 @@
+2007.01.19 02:38
+
+Victim: Dra0cht
+Alliance: None
+Corp: Pator Tech School
+Destroyed: Caldari Shuttle
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: drakonarik (laid the final blow)
+Security: 1.7
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: digital oxygen
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Taranis
+Weapon: Acolyte II
+
+

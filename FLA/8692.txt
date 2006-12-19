@@ -1,0 +1,46 @@
+2006.12.07 04:58
+
+Victim: OmeTakeda
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Ishtar
+System: EWOK-K
+Security: 0.0
+
+Involved parties:
+
+Name: Avoid (laid the final blow)
+Security: -1.9
+Alliance: The Sani Sabik
+Corp: Omniscient Order
+Ship: Myrmidon
+Weapon: Ogre II
+
+Name: Vmir Gallahasen
+Security: 5.0
+Alliance: The Sani Sabik
+Corp: Omniscient Order
+Ship: Hyperion
+Weapon: Hyperion
+
+Name: Noobjuice
+Security: -0.8
+Alliance: The Sani Sabik
+Corp: Omniscient Order
+Ship: Claw
+Weapon: Claw
+
+
+Destroyed items:
+
+Light Neutron Blaster II
+Null S, Qty: 74
+F-b10 Nominal Capacitor Regenerator
+Faint Warp Prohibitor I
+X5 Prototype I Engine Enervator
+Alumel-Wired I Sensor Augmentation
+Medium Armor Repairer II
+Null S, Qty: 3873 (Cargo)
+Warden I, Qty: 2 (Drone Bay)
+Warrior II, Qty: 3 (Drone Bay)
+

@@ -1,0 +1,26 @@
+2006.07.17 09:56
+
+Victim: execc
+Alliance: Sparta Alliance
+Corp: Lynx Frontier Inc.
+Destroyed: Executioner
+System: CZDJ-1
+Security: 0.0
+
+Involved parties:
+
+Name: armslave (laid the final blow)
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Black Lance
+Ship: Megathron
+Weapon: 425mm Prototype I Gauss Gun
+
+Name: TheBelgarion
+Security: 3.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Caracal
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+

@@ -1,0 +1,19 @@
+2007.03.04 15:50
+
+Victim: unit4
+Alliance: Xelas Alliance
+Corp: Nemesis Industries
+Destroyed: Capsule
+System: C-N4OD
+Security: 0.0
+
+Involved parties:
+
+Name: Gardeful (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Hawk
+Weapon: Bloodclaw Light Missile
+
+

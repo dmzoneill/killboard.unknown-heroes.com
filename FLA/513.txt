@@ -1,0 +1,39 @@
+2007.02.08 00:46
+
+Victim: Steiner
+Alliance: Veto Corp
+Corp: Veto.
+Destroyed: Rook
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Jesnen (laid the final blow)
+Security: -0.8
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Apocalypse
+Weapon: Tachyon Beam Laser II
+
+Name: deela
+Security: 0.6
+Alliance: Freelancer Alliance
+Corp: J.I.T. Enterprises
+Ship: Capsule
+Weapon: Heavy Missile Launcher I
+
+
+Destroyed items:
+
+Torrent Assault Missile, Qty: 300
+Fulmination Assault Missile, Qty: 300
+Medium Nosferatu I
+'Arbalest' Heavy Assault Missile Launcher I
+ECM - Multispectral Jammer II
+ECM - Multispectral Jammer II
+Sensor Booster II
+Signal Distortion Amplifier I
+Torrent Assault Missile, Qty: 2886 (Cargo)
+Fulmination Assault Missile, Qty: 2943 (Cargo)
+

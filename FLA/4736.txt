@@ -1,0 +1,55 @@
+2007.04.20 23:22
+
+Victim: MakkAnzy
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Destroyed: Crow
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Kayron Brennan (laid the final blow)
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Caracal
+Weapon: Thunderbolt Heavy Missile
+
+Name: Dark Carnage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Crow
+Weapon: 'Langour' Drive Disruptor I
+
+Name: Nina Kinuichi
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Omen
+Weapon: Omen
+
+Name: Cockroach
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Zealot
+Weapon: Focused Medium Pulse Laser II
+
+
+Destroyed items:
+
+125mm Railgun II
+Antimatter Charge S, Qty: 80
+Phalanx Rocket, Qty: 58
+'Arbalest' Rocket Launcher I
+'Arbalest' Rocket Launcher I
+Catalyzed Cold-Gas I Arcjet Thrusters
+Warp Disruptor I
+'Langour' Drive Disruptor I
+Ballistic Control System II
+Capacitor Power Relay I
+Antimatter Charge S, Qty: 617 (Cargo)
+Phalanx Rocket, Qty: 900 (Cargo)
+

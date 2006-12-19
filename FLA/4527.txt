@@ -1,0 +1,56 @@
+2007.04.13 01:17
+
+Victim: DeSantis
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Falcon
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Hunter Vonnegut
+Security: 5.0
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Ishkur
+Weapon: Hobgoblin II
+
+Name: Janice Malstrom (laid the final blow)
+Security: 1.2
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Ishkur
+Weapon: 150mm Railgun II
+
+Name: Lady Vanquish
+Security: 4.2
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Stiletto
+Weapon: 200mm AutoCannon II
+
+
+Destroyed items:
+
+Spook Scanner Probe I, Qty: 11
+ECM - Multispectral Jammer II
+'Hypnos' Ion Field ECM I
+Co-Processor II
+Co-Processor II
+Large Shield Booster II (Cargo)
+10MN MicroWarpdrive I (Cargo)
+Warp Disruptor I (Cargo)
+Damage Control I (Cargo)
+Medium Armor Repairer II (Cargo)
+X5 Prototype I Engine Enervator (Cargo)
+'Langour' Drive Disruptor I (Cargo)
+Explosion Dampening Amplifier II (Cargo)
+Kinetic Deflection Amplifier II (Cargo)
+Magnetic Scattering Amplifier II (Cargo)
+800mm Reinforced Crystalline Carbonide Plates I (Cargo)
+Liquid Ozone, Qty: 250 (Cargo)
+Ferret Scanner Probe I, Qty: 31 (Cargo)
+Observator Deep Space Probe I, Qty: 16 (Cargo)
+Fathom Scanner Probe I, Qty: 31 (Cargo)
+

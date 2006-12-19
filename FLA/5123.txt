@@ -1,0 +1,46 @@
+2007.04.17 02:43
+
+Victim: Eliphal
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Destroyed: Thorax
+System: Jita
+Security: 0.9
+
+Involved parties:
+
+Name: ANDREI GATIRUS (laid the final blow)
+Security: 5.0
+Alliance: Privateer Alliance
+Corp: Wraiths Reborn
+Ship: Harbinger
+Weapon: Heavy Pulse Laser II
+
+Name: Audemed
+Security: -2.0
+Alliance: Privateer Alliance
+Corp: Wraiths Reborn
+Ship: Stabber Fleet Issue
+Weapon: Sabretooth Light Missile
+
+Name: Stone Burner
+Security: 1.2
+Alliance: Privateer Alliance
+Corp: Privateers
+Ship: Celestis
+Weapon: Indirect Scanning Dampening Unit I
+
+
+Destroyed items:
+
+Heavy Ion Blaster I
+Heavy Ion Blaster I
+Heavy Ion Blaster I
+Heavy Ion Blaster I
+Antimatter Charge M, Qty: 426
+10MN MicroWarpdrive I
+Medium Armor Repairer I
+Triple-sheathed Adaptive Nano Plating I
+Antimatter Charge M, Qty: 400 (Cargo)
+Hammerhead I, Qty: 3 (Drone Bay)
+

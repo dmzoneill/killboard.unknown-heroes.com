@@ -1,0 +1,64 @@
+2007.02.18 20:58
+
+Victim: Ocara Nezus
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Hawk
+System: O-N8XZ
+Security: 0.0
+
+Involved parties:
+
+Name: Heritor
+Security: 5.0
+Alliance: None
+Corp: The Wailing Doom
+Ship: Cormorant
+Weapon: 150mm Compressed Coil Gun I
+
+Name: Shushu Barberious (laid the final blow)
+Security: 1.5
+Alliance: None
+Corp: The Wailing Doom
+Ship: Catalyst
+Weapon: 125mm Railgun I
+
+Name: Eratem
+Security: 0.6
+Alliance: None
+Corp: The Wailing Doom
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Freddy Jnr
+Security: -1.7
+Alliance: None
+Corp: The Wailing Doom
+Ship: Cyclone
+Weapon: Flameburst Light Missile
+
+Name: Bishman82
+Security: -0.1
+Alliance: None
+Corp: The Wailing Doom
+Ship: Celestis
+Weapon: Celestis
+
+Name: Nexus Oblivion
+Security: 2.4
+Alliance: None
+Corp: The Wailing Doom
+Ship: Blackbird
+Weapon: 'Hypnos' Multispectral ECM I
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 116
+Small Supplemental Barrier Emitter I
+Small Converse I Deflection Catalyzer
+F-b10 Nominal Capacitor Regenerator
+J5 Prototype Warp Inhibitor I
+Nanofiber Internal Structure I
+Bloodclaw Light Missile, Qty: 1397 (Cargo)
+

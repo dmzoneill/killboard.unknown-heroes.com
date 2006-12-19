@@ -1,0 +1,50 @@
+2007.03.23 07:26
+
+Victim: DarkAvenger DK
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Punisher
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Sexorella hotz (laid the final blow)
+Security: 5.0
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+Name: Lord Revent
+Security: 1.5
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Hurricane
+Weapon: Vespa II
+
+Name: shadowxp99
+Security: 3.8
+Alliance: Freelancer Alliance
+Corp: Harbingers of Sarrow
+Ship: Unknown
+Weapon: Raven
+
+Name: Vasili Z
+Security: 0.4
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Rapier
+Weapon: Fleeting Propulsion Inhibitor I
+
+
+Destroyed items:
+
+Medium Pulse Laser II
+Medium Pulse Laser II
+Small 'Ghoul' Energy Siphon I
+Multifrequency S
+Multifrequency S
+J5b Phased Prototype Warp Inhibitor I
+Scorch S (Cargo)
+

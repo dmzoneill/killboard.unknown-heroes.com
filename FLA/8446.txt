@@ -1,0 +1,36 @@
+2006.11.18 22:22
+
+Victim: Hosanna
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Destroyed: Stiletto
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Tatzlwurm (laid the final blow)
+Security: 0.3
+Alliance: None
+Corp: Tyrants
+Ship: Pilgrim
+Weapon: Hobgoblin II
+
+Name: Wolfmax
+Security: -3.0
+Alliance: None
+Corp: Janissaries
+Ship: Unknown
+Weapon: ECM - Multispectral Jammer I
+
+
+Destroyed items:
+
+150mm Light AutoCannon II
+150mm Light AutoCannon II
+Barrage S, Qty: 32
+Catalyzed Cold-Gas I Arcjet Thrusters
+Corpse (Cargo)
+EMP S, Qty: 703 (Cargo)
+Barrage S, Qty: 532 (Cargo)
+

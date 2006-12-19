@@ -1,0 +1,68 @@
+2006.09.29 23:46
+
+Victim: Elum 6
+Alliance: None
+Corp: Agony Unleashed
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Cockroach
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Vengeance
+Weapon: Medium Beam Laser II
+
+Name: Tri Ounou
+Security: 4.2
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Stabber
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Scorpio63 (laid the final blow)
+Security: 4.4
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Apocalypse
+Weapon: Mega Beam Laser I
+
+Name: BladeMos
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Basilisk
+Weapon: Basilisk
+
+Name: Svottesen
+Security: 4.3
+Alliance: None
+Corp: Ganksters Paradise
+Ship: Rook
+Weapon: Advanced 'Limos' Heavy Missile Bay I
+
+Name: Kismeteer
+Security: 3.3
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Incursus
+Weapon: Warp Scrambler I
+
+Name: Karas Rabus
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: Drakin Korin
+Security: 2.1
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Deimos
+Weapon: Heavy Ion Blaster II
+
+

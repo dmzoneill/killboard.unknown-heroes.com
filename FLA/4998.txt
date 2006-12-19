@@ -1,0 +1,34 @@
+2007.04.21 00:52
+
+Victim: coldkill
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Destroyed: Thorax
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Terdlinger (laid the final blow)
+Security: 4.9
+Alliance: Storm Armada
+Corp: stone grave haulage
+Ship: Thanatos
+Weapon: Templar
+
+Name: Raffer Steele
+Security: 2.6
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Thanatos
+Weapon: Templar
+
+
+Destroyed items:
+
+Void M, Qty: 68
+10MN MicroWarpdrive I
+Warp Disruptor I
+Medium Armor Repairer II
+Hammerhead II, Qty: 2 (Drone Bay)
+

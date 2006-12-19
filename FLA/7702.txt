@@ -1,0 +1,19 @@
+2006.04.07 08:35
+
+Victim: TheBelgarion
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Destroyed: Capsule
+System: VFK-IV
+Security: 0.0
+
+Involved parties:
+
+Name: Roofish (laid the final blow)
+Security: 1.9
+Alliance: Dominion Empire
+Corp: Valiant Logistics Inc.
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+

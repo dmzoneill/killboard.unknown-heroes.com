@@ -1,0 +1,82 @@
+2007.04.21 04:10
+
+Victim: Sol'Kanar
+Alliance: Exuro Mortis
+Corp: Slacker Industries
+Destroyed: Tempest
+System: 2R-CRW
+Security: 0.0
+
+Involved parties:
+
+Name: OrbiteronAir (laid the final blow)
+Security: 5.0
+Alliance: SECUWAY.
+Corp: SecuWay
+Ship: Raven
+Weapon: Cataclysm Cruise Missile
+
+Name: eagleeye d4l
+Security: 1.6
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Thorax
+Weapon: Light Neutron Blaster I
+
+Name: Oslo
+Security: 0.7
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Absolution
+Weapon: Absolution
+
+Name: Gemini Hypernova
+Security: 1.1
+Alliance: The Sundering
+Corp: ironwood ink
+Ship: Capsule
+Weapon: Mega Anode Particle Stream I
+
+Name: Skull Fire
+Security: 0.8
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Capsule
+Weapon: 250mm Prototype I Gauss Gun
+
+Name: Ghu'ru Talozan
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Celestis
+Weapon: Celestis
+
+Name: arthell
+Security: 2.9
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Ishkur
+Weapon: Warrior I
+
+Name: GEOFFTRIN RYNE
+Security: 5.0
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Caracal
+Weapon: Widowmaker Heavy Missile
+
+
+Destroyed items:
+
+800mm Heavy Prototype I Repeating Siege Cannon
+800mm Heavy Prototype I Repeating Siege Cannon
+E500 Prototype Energy Vampire
+EMP L, Qty: 45
+100MN MicroWarpdrive II
+Sensor Booster I
+Damage Control II
+1600mm Reinforced Rolled Tungsten Plates I
+EMP L, Qty: 285 (Cargo)
+Warrior I, Qty: 2 (Drone Bay)
+Medium Armor Maintenance Bot I, Qty: 5 (Drone Bay)
+

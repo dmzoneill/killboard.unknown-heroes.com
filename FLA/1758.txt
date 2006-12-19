@@ -1,0 +1,59 @@
+2007.01.02 19:05
+
+Victim: Soldroz
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Destroyed: Crow
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Arnold Swartzenegger (laid the final blow)
+Security: -0.6
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Warrior II
+
+Name: Evil Pookie
+Security: 4.3
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Warrior II
+
+Name: Captain Rickdick
+Security: -0.2
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Cataclysm Precision Cruise Missile
+
+Name: Kusarigama
+Security: 3.8
+Alliance: None
+Corp: Brutor tribe
+Ship: Sabre
+Weapon: 125mm Gatling AutoCannon II
+
+Name: Janice Malstrom
+Security: -1.7
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Taranis
+Weapon: Taranis
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 84
+Standard Missile Launcher II
+Standard Missile Launcher II
+F-b10 Nominal Capacitor Regenerator
+Gistii A-Type 1MN MicroWarpdrive
+Fleeting Warp Scrambler I
+Local Hull Conversion Inertial Stabilizers I
+Power Diagnostic System II
+Mobile Small Warp Disruptor I (Cargo)
+

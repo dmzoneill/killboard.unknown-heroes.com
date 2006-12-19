@@ -1,0 +1,47 @@
+2006.10.28 16:00
+
+Victim: Soliloquil
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Destroyed: Moa
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Torok Nakaht
+Security: 2.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Murdoch Morf
+Security: 0.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+Name: GoLdeN BoY (laid the final blow)
+Security: 0.9
+Alliance: None
+Corp: Beer Guzzling Clowns With Blasters
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+200mm Railgun I
+Dread Guristas Iridium Charge M, Qty: 142
+Flameburst Light Missile, Qty: 59
+'Arbalest' Assault Missile Launcher
+'Malkuth' Assault Missile Launcher I
+10MN Afterburner I
+Warp Scrambler I
+Stasis Webifier I
+Dread Guristas Iridium Charge M, Qty: 568 (Cargo)
+Lead Charge M, Qty: 2000 (Cargo)
+Flameburst Light Missile, Qty: 840 (Cargo)
+

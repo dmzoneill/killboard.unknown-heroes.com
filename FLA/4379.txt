@@ -1,0 +1,86 @@
+2007.04.09 01:55
+
+Victim: Korudon
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Dominix
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: c0rn1 (laid the final blow)
+Security: -2.1
+Alliance: S.E.R.A
+Corp: Seraphin Technologies
+Ship: Nidhoggur
+Weapon: Einherji
+
+Name: Skinny Boy
+Security: 4.1
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Thanatos
+Weapon: Einherji
+
+Name: Ale Tricio
+Security: 2.1
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Archon
+Weapon: Einherji
+
+Name: Menf
+Security: 2.1
+Alliance: S.E.R.A
+Corp: Seraphin Technologies
+Ship: Chimera
+Weapon: Einherji
+
+Name: Waagaa Ktlehr
+Security: -1.1
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Aeon
+Weapon: Ogre I
+
+Name: Nowereman
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Spacebar
+Security: 2.1
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Jaguar
+Weapon: Faint Warp Prohibitor I
+
+Name: Nethel
+Security: 2.1
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Dominix
+Weapon: Medium 'Knave' I Energy Drain
+
+
+Destroyed items:
+
+Large Rudimentary Concussion Bomb I
+Large Rudimentary Concussion Bomb I
+350mm Railgun I
+350mm Railgun I
+Iron Charge L, Qty: 160
+Large Azeotropic Ward Salubrity I
+Fixed Parallel Link-Capacitor I
+Damage Control I
+Armor Kinetic Hardener I
+Voltaic Nanite Thermic Hardener I
+N-Type Explosive Hardener I
+Capacitor Power Relay I
+Hornet I, Qty: 4 (Drone Bay)
+Wasp I, Qty: 4 (Drone Bay)
+Hammerhead I, Qty: 5 (Drone Bay)
+

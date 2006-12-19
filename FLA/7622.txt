@@ -1,0 +1,32 @@
+2006.09.26 01:56
+
+Victim: MIGHTYDWC
+Alliance: Ascendant Frontier
+Corp: Sha Kharn Corp
+Destroyed: Taranis
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Supernaut 20k (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Harpy
+Weapon: Light Neutron Blaster II
+
+
+Destroyed items:
+
+125mm Railgun II
+Antimatter Charge S, Qty: 62
+Warp Disruptor I
+Magnetic Field Stabilizer II
+Corpse, Qty: 4 (Cargo)
+Antimatter Charge S, Qty: 1095 (Cargo)
+Multifrequency S (Cargo)
+Spike S, Qty: 1000 (Cargo)
+Type-D Power Core Modification: Diagnostic System (Cargo)
+Vespa I (Drone Bay)
+

@@ -1,0 +1,35 @@
+2006.10.05 01:53
+
+Victim: Quirinias
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Destroyed: Caracal
+System: Ibura
+Security: 0.6
+
+Involved parties:
+
+Name: Caol (laid the final blow)
+Security: 0.0
+Alliance: None
+Corp: Privateers
+Ship: Stabber
+Weapon: 220mm Vulcan AutoCannon I
+
+
+Destroyed items:
+
+Widowmaker Heavy Missile, Qty: 14
+Heavy Missile Launcher I
+Invulnerability Field I
+Cap Booster 100
+Cap Booster 100
+Warp Core Stabilizer I
+Patterned Stasis Web I (Cargo)
+Small Nosferatu I, Qty: 6 (Cargo)
+Warp Core Stabilizer I, Qty: 5 (Cargo)
+Ballistic Control System I (Cargo)
+Thunderbolt Heavy Missile, Qty: 332 (Cargo)
+Hornet I (Drone Bay)
+Acolyte I (Drone Bay)
+

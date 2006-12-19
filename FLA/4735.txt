@@ -1,0 +1,47 @@
+2007.04.20 23:05
+
+Victim: Lokki Deathwish
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Caldari Shuttle
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Dark Carnage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Crow
+Weapon: Sabretooth Precision Light Missile
+
+Name: Cockroach (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Zealot
+Weapon: Focused Medium Pulse Laser II
+
+Name: nye 2k
+Security: 5.0
+Alliance: A Few Good Men.
+Corp: Silver Snake Enterprise
+Ship: Caracal
+Weapon: Heavy Missile Launcher I
+
+Name: RythemAndStealth
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Vengeance
+Weapon: Dual Light Pulse Laser II
+
+Name: Kayron Brennan
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Caracal
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+

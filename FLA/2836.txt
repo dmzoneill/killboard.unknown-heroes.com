@@ -1,0 +1,92 @@
+2007.03.10 21:56
+
+Victim: bjugis
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Thorax
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Thyago
+Security: 5.0
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Megathron
+Weapon: 425mm Railgun I
+
+Name: Tenter Masion (laid the final blow)
+Security: -1.3
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Ship: Apocalypse
+Weapon: Tachyon Beam Laser II
+
+Name: Garaya
+Security: 1.2
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Ferox
+Weapon: Ferox
+
+Name: Apoc77
+Security: 5.0
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Rokh
+Weapon: 425mm Railgun II
+
+Name: Galaran Vaygr
+Security: 4.3
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Scorpion
+Weapon: Cataclysm Cruise Missile
+
+Name: MASTER PSI
+Security: 3.1
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Ship: Apocalypse
+Weapon: Mega Beam Laser I
+
+Name: Major Pompington
+Security: 4.9
+Alliance: Chorus of Dawn
+Corp: Cosmic Odyssey
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: YOGOgoesEVERYWHERE
+Security: 5.0
+Alliance: Chorus of Dawn
+Corp: Cosmic Odyssey
+Ship: Celestis
+Weapon: Heavy Missile Launcher I
+
+Name: Votac
+Security: 2.9
+Alliance: Chorus of Dawn
+Corp: Infinite Style Incorporated
+Ship: Raven
+Weapon: 350mm 'Scout' I Accelerator Cannon
+
+Name: Slith Sabrao
+Security: 4.8
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Apocalypse
+Weapon: Apocalypse
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Limited Neutron Blaster I
+Limited Neutron Blaster I
+Antimatter Charge M, Qty: 228
+10MN MicroWarpdrive I
+Stasis Webifier I
+Power Diagnostic System I
+

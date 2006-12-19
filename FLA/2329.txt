@@ -1,0 +1,42 @@
+2007.02.06 03:09
+
+Victim: ventura5
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Flycatcher
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: LadyScarlet (laid the final blow)
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Cerberus
+Weapon: Scourge Heavy Missile
+
+
+Destroyed items:
+
+Standard Missile Launcher II
+Standard Missile Launcher II
+Warp Disrupt Probe
+Warp Disrupt Probe
+Warp Disrupt Probe
+Warp Disrupt Probe
+Warp Disrupt Probe
+Warp Disrupt Probe
+Warp Disrupt Probe
+Warp Disrupt Probe
+Interdiction Sphere Launcher I
+Bloodclaw Precision Light Missile, Qty: 46
+Piranha Precision Light Missile, Qty: 46
+Fixed Parallel Link-Capacitor I
+Viscoelastic EM Ward Salubrity I
+Additional Thermal Barrier Emitter I
+Bloodclaw Light Missile, Qty: 78 (Cargo)
+Sabretooth Fury Light Missile, Qty: 841 (Cargo)
+Piranha Fury Light Missile, Qty: 923 (Cargo)
+Piranha Precision Light Missile, Qty: 818 (Cargo)
+

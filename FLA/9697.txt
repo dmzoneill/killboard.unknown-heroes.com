@@ -1,0 +1,33 @@
+2007.05.25 13:32
+
+Victim: MYM JUO
+Alliance: None
+Corp: State War Academy
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Steven FSB (laid the final blow)
+Security: 3.5
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: Death Reactor
+Security: -3.5
+Alliance: DeStInY.
+Corp: The Knights Of Camelot
+Ship: Zealot
+Weapon: Heavy Pulse Laser II
+
+Name: wollykins2
+Security: 1.8
+Alliance: 3asy Company
+Corp: Welsh Commanders
+Ship: Harpy
+Weapon: OE-5200 Rocket Launcher
+
+

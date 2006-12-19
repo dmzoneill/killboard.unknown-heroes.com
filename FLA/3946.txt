@@ -1,0 +1,68 @@
+2007.04.07 08:04
+
+Victim: Kabanuga
+Alliance: None
+Corp: S.P.Q.R
+Destroyed: Rupture
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: kakakarr
+Security: 2.8
+Alliance: DeStInY.
+Corp: The Knights Of Camelot
+Ship: Megathron
+Weapon: Berserker I
+
+Name: Spangie (laid the final blow)
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Asgard Schiffswerften
+Ship: Nighthawk
+Weapon: Widowmaker Heavy Missile
+
+Name: Sir Pip
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Cataclysm Enterprises
+Ship: Sabre
+Weapon: Sabre
+
+Name: Wallyx
+Security: 4.5
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Armageddon
+Weapon: Initiated Multispectral ECM I
+
+Name: Francois Dubuoi
+Security: 1.2
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Raptor
+Weapon: Raptor
+
+Name: kakakarrr
+Security: -1.2
+Alliance: DeStInY.
+Corp: The Knights Of Camelot
+Ship: Rifter
+Weapon: Rifter
+
+
+Destroyed items:
+
+Dual 180mm AutoCannon II
+Dual 180mm AutoCannon II
+Dual 180mm AutoCannon II
+Phased Plasma M, Qty: 431
+Heavy Missile Launcher I
+'Langour' Drive Disruptor I
+800mm Reinforced Rolled Tungsten Plates I
+Barrage M, Qty: 1200 (Cargo)
+Havoc Heavy Missile, Qty: 441 (Cargo)
+Warrior I (Drone Bay)
+Acolyte I, Qty: 2 (Drone Bay)
+

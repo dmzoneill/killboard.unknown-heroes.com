@@ -1,0 +1,27 @@
+2007.02.04 05:14
+
+Victim: talonmaster77
+Alliance: None
+Corp: The Capital Consortium
+Destroyed: Burst
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: dastommy79 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Blackbird
+Weapon: Flameburst Light Missile
+
+
+Destroyed items:
+
+125mm Gatling AutoCannon I
+Proton S, Qty: 163
+Warp Disruptor I
+Warp Disruptor I
+Proton S, Qty: 1668 (Cargo)
+

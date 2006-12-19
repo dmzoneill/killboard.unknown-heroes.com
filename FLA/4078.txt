@@ -1,0 +1,37 @@
+2007.04.14 04:06
+
+Victim: Valourium Trigger
+Alliance: None
+Corp: Sun War Academy
+Destroyed: Caracal
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Prodigal IV (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Ship: Dominix
+Weapon: Ogre II
+
+Name: Demondrew
+Security: 0.7
+Alliance: O X I D E
+Corp: Majestic Technology
+Ship: Rupture
+Weapon: Vespa I
+
+
+Destroyed items:
+
+Terror Assault Missile, Qty: 900
+Scourge Heavy Missile, Qty: 30
+Heavy Assault Missile Launcher I
+Cap Recharger I
+10MN Afterburner I
+Ballistic Control System I
+Scourge Heavy Missile, Qty: 60 (Cargo)
+Terror Assault Missile, Qty: 1300 (Cargo)
+

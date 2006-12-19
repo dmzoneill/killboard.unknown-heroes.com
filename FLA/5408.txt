@@ -1,0 +1,43 @@
+2007.04.28 23:48
+
+Victim: Shassandra
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Ishkur
+System: P-2TTL
+Security: 0.0
+
+Involved parties:
+
+Name: Redginald (laid the final blow)
+Security: 4.5
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Muninn
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Feterous Jolin
+Security: -2.3
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Harpy
+Weapon: Harpy
+
+Name: xCERBERUS2
+Security: -0.6
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Huginn
+Weapon: Warp Disruptor II
+
+
+Destroyed items:
+
+Light Neutron Blaster II
+Null S, Qty: 108
+J5 Prototype Warp Inhibitor I
+X5 Prototype I Engine Enervator
+Small Armor Repairer II
+N-Type Explosive Hardener I
+Medium Armor Maintenance Bot I (Drone Bay)
+

@@ -1,0 +1,46 @@
+2007.04.11 09:53
+
+Victim: Teck7
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Arazu
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Eleese (laid the final blow)
+Security: -0.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Dominix
+Weapon: Ogre II
+
+Name: AIRB
+Security: 3.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Curse
+Weapon: Kapteyn Sensor Array Inhibitor I
+
+
+Destroyed items:
+
+250mm 'Scout' I Accelerator Cannon
+Uranium Charge M, Qty: 20
+Widowmaker Heavy Missile
+Widowmaker Heavy Missile
+Widowmaker Heavy Missile
+Widowmaker Heavy Missile
+Widowmaker Heavy Missile
+10MN Afterburner I
+J5 Prototype Warp Inhibitor I
+Medium Electrochemical Capacitor Booster I
+Medium Armor Repairer II
+Energized Thermic Membrane I
+Armor Explosive Hardener II
+Thunderbolt Heavy Missile, Qty: 200 (Cargo)
+Widowmaker Heavy Missile, Qty: 192 (Cargo)
+Liquid Ozone, Qty: 300 (Cargo)
+Hammerhead II (Drone Bay)
+

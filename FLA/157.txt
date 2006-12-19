@@ -1,0 +1,26 @@
+2007.01.14 21:31
+
+Victim: Jenny Leon
+Alliance: None
+Corp: Odin Templar
+Destroyed: Capsule
+System: X-7OMU
+Security: 0.0
+
+Involved parties:
+
+Name: Kasahara (laid the final blow)
+Security: -0.9
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Stiletto
+Weapon: 200mm AutoCannon I
+
+Name: Scorpio63
+Security: 5.0
+Alliance: NxT LeveL
+Corp: Nexus Legion
+Ship: Apocalypse
+Weapon: Mega Afocal Pulse Maser I
+
+

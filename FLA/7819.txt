@@ -1,0 +1,79 @@
+2006.09.03 00:49
+
+Victim: digital oxygen
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Destroyed: Thorax
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Altai Saker
+Security: -0.9
+Alliance: None
+Corp: Omniscient Order
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: mier
+Security: 1.2
+Alliance: None
+Corp: Sicarri Covenant
+Ship: Taranis
+Weapon: Taranis
+
+Name: Crusari
+Security: 5.0
+Alliance: None
+Corp: Omniscient Order
+Ship: Ishtar
+Weapon: 125mm Railgun II
+
+Name: Furious Raccoon
+Security: 0.5
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Raven
+Weapon: Acolyte I
+
+Name: Jessica Radaen (laid the final blow)
+Security: 0.4
+Alliance: None
+Corp: Forever Changes
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Noobjuice
+Security: -1.6
+Alliance: None
+Corp: Omniscient Order
+Ship: Claw
+Weapon: Claw
+
+Name: Elric TheWhite
+Security: 0.7
+Alliance: None
+Corp: Omniscient Order
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+Name: ElGuapo
+Security: 3.8
+Alliance: None
+Corp: Omniscient Order
+Ship: Ares
+Weapon: Ares
+
+
+Destroyed items:
+
+Heavy Electron Blaster I
+Heavy Electron Blaster I
+Heavy Electron Blaster I
+Heavy Electron Blaster I
+Antimatter Charge M, Qty: 179
+10MN MicroWarpdrive I
+Stasis Webifier I
+Energized Adaptive Nano Membrane II
+

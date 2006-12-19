@@ -1,0 +1,25 @@
+2007.01.04 05:02
+
+Victim: Jarling Fang
+Alliance: Privateer Alliance
+Corp: Privateers
+Destroyed: Kestrel
+System: Jita
+Security: 0.9
+
+Involved parties:
+
+Name: Nova Paradise (laid the final blow)
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 60
+Standard Missile Launcher I
+Warp Scrambler I
+

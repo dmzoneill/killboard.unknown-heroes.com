@@ -1,0 +1,24 @@
+2006.11.03 13:29
+
+Victim: Gorram Reaver
+Alliance: None
+Corp: Center for Advanced Studies
+Destroyed: Velator
+System: RO0-AF
+Security: 0.0
+
+Involved parties:
+
+Name: Noitaakka (laid the final blow)
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Ishtar
+Weapon: Valkyrie II
+
+
+Destroyed items:
+
+Civilian Light Electron Blaster
+Basic Miner
+

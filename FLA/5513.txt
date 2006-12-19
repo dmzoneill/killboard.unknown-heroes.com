@@ -1,0 +1,61 @@
+2006.10.07 00:11
+
+Victim: Mobiius
+Alliance: None
+Corp: Deep Core Mining Inc.
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: jarson
+Security: -0.3
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Claw
+Weapon: 'Arbalest' Rocket Launcher I
+
+Name: Seventh Star
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Jaguar
+Weapon: Upgraded 'Limos' Standard Missile Bay I
+
+Name: movy (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Ishkur
+Weapon: 125mm Railgun II
+
+Name: forator2
+Security: 3.5
+Alliance: O X I D E
+Corp: W33D Corp.
+Ship: Taranis
+Weapon: Light Electron Blaster II
+
+Name: Kyoshisan
+Security: 0.4
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Enyo
+Weapon: Initiated Warp Jammer I
+
+Name: Kismeteer
+Security: 3.4
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Incursus
+Weapon: Warp Disruptor I
+
+Name: GrandMastaXP
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Hawk
+Weapon: Standard Missile Launcher II
+
+

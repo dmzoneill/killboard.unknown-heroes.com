@@ -1,0 +1,33 @@
+2007.03.10 17:25
+
+Victim: evilempire3
+Alliance: Chorus of Dawn
+Corp: Cosmic Odyssey
+Destroyed: Capsule
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Jonas123 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Ferox
+Weapon: 250mm 'Scout' I Accelerator Cannon
+
+Name: Banishment
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Sin-X Inc.
+Ship: Incursus
+Weapon: Incursus
+
+Name: other mickey
+Security: 2.9
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Ares
+Weapon: J5 Prototype Warp Inhibitor I
+
+

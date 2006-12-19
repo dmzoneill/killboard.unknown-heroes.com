@@ -1,0 +1,81 @@
+2006.12.11 20:50
+
+Victim: mrrabit
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Rupture
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Darknesss (laid the final blow)
+Security: -0.4
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Megathron
+Weapon: Neutron Blaster Cannon II
+
+Name: simcor
+Security: -1.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Megathron
+Weapon: Megathron
+
+Name: WarGod
+Security: -2.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Tempest
+Weapon: ECM - Multispectral Jammer II
+
+Name: Spaced Skunk
+Security: 0.0
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Typhoon
+Weapon: Typhoon
+
+Name: boo3916
+Security: 4.1
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Dominix
+Weapon: Dominix
+
+Name: Zap Zaberdine
+Security: 3.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Tempest
+Weapon: X5 Prototype I Engine Enervator
+
+Name: taylor04
+Security: -1.9
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Teani
+Security: 1.6
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Astarte
+Weapon: Heavy Neutron Blaster II
+
+
+Destroyed items:
+
+Small 'Ghoul' Energy Siphon I
+Small Nosferatu I
+Small Energy Neutralizer I
+Widowmaker Heavy Missile, Qty: 30
+Heavy Missile Launcher I
+10MN MicroWarpdrive I
+'Langour' Drive Disruptor I
+Energized Basic Adaptive Nano Plating
+Widowmaker Heavy Missile, Qty: 266 (Cargo)
+Havoc Heavy Missile, Qty: 334 (Cargo)
+Scourge Heavy Missile, Qty: 703 (Cargo)

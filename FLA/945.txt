@@ -1,0 +1,59 @@
+2007.02.27 22:49
+
+Victim: Bogwoppit
+Alliance: Band of Brothers
+Corp: Reikoku
+Destroyed: Vigil
+System: YZ-LQL
+Security: 0.0
+
+Involved parties:
+
+Name: Xantheris
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Harpy
+Weapon: Harpy
+
+Name: coldkill (laid the final blow)
+Security: 1.8
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Ishkur
+Weapon: 125mm Railgun II
+
+Name: RedRose01
+Security: 0.3
+Alliance: Freelancer Alliance
+Corp: Feel Good Inc.
+Ship: Retribution
+Weapon: Medium Pulse Laser II
+
+Name: Praetorian Mardou
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Crow
+Weapon: Warp Disruptor II
+
+Name: Ocara Nezus
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Hawk
+Weapon: Initiated Warp Jammer I
+
+
+Destroyed items:
+
+150mm Light AutoCannon I
+150mm Light AutoCannon I
+Nuclear S, Qty: 204
+Gremlin Rocket, Qty: 24
+Rocket Launcher I
+1MN MicroWarpdrive I
+Nanofiber Internal Structure I
+Nanofiber Internal Structure I
+Nuclear S, Qty: 444 (Cargo)
+

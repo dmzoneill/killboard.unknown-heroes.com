@@ -1,0 +1,31 @@
+2006.10.31 15:12
+
+Victim: Jumar Coldgin
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Destroyed: Crow
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Mir0n Cosma (laid the final blow)
+Security: 1.0
+Alliance: None
+Corp: NEXT LEVEL
+Ship: Vagabond
+Weapon: 220mm Medium 'Scout' Autocannon I
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 43
+TE-2100 Standard Missile Bay
+TE-2100 Standard Missile Bay
+Catalyzed Cold-Gas I Arcjet Thrusters
+Initiated Warp Jammer I
+Stasis Webifier I
+Damage Control I
+Bloodclaw Light Missile, Qty: 162 (Cargo)
+Piranha Fury Light Missile, Qty: 200 (Cargo)
+

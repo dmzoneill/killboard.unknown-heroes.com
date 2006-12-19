@@ -1,0 +1,66 @@
+2006.11.08 21:02
+
+Victim: Zions Ghost
+Alliance: Freelance Blood Alliance
+Corp: New Dawn Corporation
+Destroyed: Rifter
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: sunik
+Security: 4.7
+Alliance: Dusk and Dawn
+Corp: Black Lance
+Ship: Caracal
+Weapon: ECM - Multispectral Jammer I
+
+Name: Narny
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: LizzyD
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: al3x andra
+Security: 4.2
+Alliance: O X I D E
+Corp: W33D Corp.
+Ship: Rupture
+Weapon: Thunderbolt Heavy Missile
+
+Name: danutza2006
+Security: 3.4
+Alliance: O X I D E
+Corp: W33D Corp.
+Ship: Thorax
+Weapon: Infiltrator I
+
+Name: Kristinne (laid the final blow)
+Security: 0.3
+Alliance: O X I D E
+Corp: W33D Corp.
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+Name: haker2001
+Security: 1.0
+Alliance: O X I D E
+Corp: W33D Corp.
+Ship: Caracal
+Weapon: Heavy Missile Launcher I
+
+
+Destroyed items:
+
+Medium Subordinate Screen Stabilizer I
+1MN MicroWarpdrive I
+

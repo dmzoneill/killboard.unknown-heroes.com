@@ -1,0 +1,76 @@
+2007.03.02 00:12
+
+Victim: william kronos
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Caracal
+System: YZ-LQL
+Security: 0.0
+
+Involved parties:
+
+Name: EL TITAN (laid the final blow)
+Security: 1.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Machariel
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Coranor
+Security: 4.0
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Tempest
+Weapon: Heavy Missile Launcher I
+
+Name: fire 59
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Kaijou
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Rokh
+Weapon: 425mm 'Scout' I Accelerator Cannon
+
+Name: Empero
+Security: 0.2
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Apocalypse
+Weapon: Mega Modulated Energy Beam I
+
+Name: LaughingClown
+Security: 1.2
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Rapier
+Weapon: Target Painter II
+
+Name: Mankind mkII
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Reikoku
+Ship: Manticore
+Weapon: Indirect Scanning Dampening Unit I
+
+Name: Lord WarATron
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Pilgrim
+Weapon: Medium Diminishing Power System Drain I
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 120
+Advanced 'Limos' Heavy Missile Bay I
+Advanced 'Limos' Heavy Missile Bay I
+Cap Recharger I
+Scourge Heavy Missile, Qty: 483 (Cargo)
+

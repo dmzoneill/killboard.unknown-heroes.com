@@ -1,0 +1,64 @@
+2006.12.26 19:59
+
+Victim: Onyx Soulbane
+Alliance: Freelancer Alliance
+Corp: Elite frontier group
+Destroyed: Drake
+System: OWXT-5
+Security: 0.0
+
+Involved parties:
+
+Name: Siavash IR
+Security: 5.0
+Alliance: Kith of Venal
+Corp: Solidline Enterprise
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: lt blacklotus (laid the final blow)
+Security: 0.7
+Alliance: Kith of Venal
+Corp: Solidline Enterprise
+Ship: Muninn
+Weapon: 720mm Howitzer Artillery II
+
+Name: SoMoSo
+Security: 5.0
+Alliance: Kith of Venal
+Corp: Solidline Enterprise
+Ship: Eagle
+Weapon: Eagle
+
+Name: h3llrayser
+Security: 0.3
+Alliance: Kith of Venal
+Corp: Solidline Enterprise
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+Name: Dire Guristas Inferno / Guristas
+
+Name: Lucifer demon
+Security: 5.0
+Alliance: Kith of Venal
+Corp: Solidline Enterprise
+Ship: Buzzard
+Weapon: Standard Missile Launcher II
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 9
+Thunderbolt Heavy Missile, Qty: 9
+'Arbalest' Heavy Missile Launcher
+'Arbalest' Heavy Missile Launcher
+Heavy Missile Launcher II
+Large Shield Extender II
+Large C5-L Emergency Shield Overload I
+Invulnerability Field II
+Ballistic Control System II
+Power Diagnostic System II
+Power Diagnostic System II
+Warrior I, Qty: 3 (Drone Bay)
+

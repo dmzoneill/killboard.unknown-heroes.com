@@ -1,0 +1,46 @@
+2007.01.15 14:07
+
+Victim: GrandMastaXP
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Crow
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: WarGod (laid the final blow)
+Security: 1.6
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Curse
+Weapon: Medium Pulse Laser II
+
+Name: XxAngelxX
+Security: 5.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Curse
+Weapon: Curse
+
+Name: Shock Wave
+Security: 3.2
+Alliance: None
+Corp: e X i l e
+Ship: Crusader
+Weapon: Crusader
+
+
+Destroyed items:
+
+Small 'Knave' I Energy Drain
+Bloodclaw Light Missile, Qty: 49
+Standard Missile Launcher II
+1MN MicroWarpdrive II
+Beta Reactor Control: Capacitor Power Relay I
+Sabretooth Light Missile, Qty: 447 (Cargo)
+Bloodclaw Light Missile, Qty: 572 (Cargo)
+Sabretooth Precision Light Missile, Qty: 500 (Cargo)
+Sabretooth Fury Light Missile, Qty: 500 (Cargo)
+Piranha Precision Light Missile, Qty: 500 (Cargo)
+

@@ -1,0 +1,72 @@
+2007.04.21 00:58
+
+Victim: MrMaggot
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Raven
+System: Ibura
+Security: 0.6
+
+Involved parties:
+
+Name: kribensis74 (laid the final blow)
+Security: -1.2
+Alliance: Privateer Alliance
+Corp: Serial Killers
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Druuge
+Security: -1.3
+Alliance: Privateer Alliance
+Corp: Huff Technologies
+Ship: Hurricane
+Weapon: Hobgoblin II
+
+Name: Vaster
+Security: 3.7
+Alliance: Privateer Alliance
+Corp: Sicarri Covenant
+Ship: Tempest
+Weapon: Tempest
+
+Name: Hillbilly Jack
+Security: 5.0
+Alliance: Privateer Alliance
+Corp: Huff Technologies
+Ship: Dominix
+Weapon: Praetor II
+
+Name: Audemed
+Security: -1.9
+Alliance: Privateer Alliance
+Corp: Wraiths Reborn
+Ship: Stabber Fleet Issue
+Weapon: Sabretooth Light Missile
+
+Name: Hettar
+Security: -0.7
+Alliance: Privateer Alliance
+Corp: Huff Technologies
+Ship: Megathron
+Weapon: Ogre II
+
+Name: Felszemu Wunabe
+Security: 0.0
+Alliance: Privateer Alliance
+Corp: g3n3ral
+Ship: Moa
+Weapon: Moa
+
+
+Destroyed items:
+
+Cataclysm Cruise Missile, Qty: 96
+'Arbalest' Cruise Launcher I, Qty: 4
+Large Shield Booster II
+Heat Dissipation Field II
+5a Prototype Shield Support I
+Ballistic Control System II
+Power Diagnostic System II
+Hammerhead II, Qty: 2 (Drone Bay)
+Warrior II, Qty: 2 (Drone Bay)

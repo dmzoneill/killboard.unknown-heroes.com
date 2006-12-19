@@ -1,0 +1,81 @@
+2007.03.26 22:42
+
+Victim: Pacala
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Dominix
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: PainBall
+Security: -0.9
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Absolution
+Weapon: Absolution
+
+Name: Shaleen
+Security: 2.1
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Astarte
+Weapon: Valkyrie II
+
+Name: Naldo
+Security: -2.6
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Absolution
+Weapon: Absolution
+
+Name: Yushii
+Security: -0.3
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Vagabond
+Weapon: Dual 180mm AutoCannon II
+
+Name: Stooboy (laid the final blow)
+Security: 1.2
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Myrmidon
+Weapon: Hammerhead II
+
+Name: Kari Pekka
+Security: 1.8
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Stabber
+Weapon: Stabber
+
+Name: eRogue
+Security: 0.0
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Thorax
+Weapon: Thorax
+
+Name: Cold Gorilla
+Security: 0.5
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Heretic
+Weapon: Heretic
+
+
+Destroyed items:
+
+Drone Link Augmentor I
+'Hypnos' Multispectral ECM I
+'Hypnos' Multispectral ECM I
+'Hypnos' Multispectral ECM I
+Sensor Booster I
+Energized Adaptive Nano Membrane I
+Voltaic Nanite Explosive Hardener I
+1600mm Reinforced Rolled Tungsten Plates I
+Warrior II, Qty: 3 (Drone Bay)
+Warden I, Qty: 3 (Drone Bay)
+

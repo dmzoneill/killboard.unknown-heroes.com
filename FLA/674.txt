@@ -1,0 +1,19 @@
+2007.02.15 17:55
+
+Victim: Tsunami Pilot
+Alliance: None
+Corp: Hedion University
+Destroyed: Capsule
+System: EWOK-K
+Security: 0.0
+
+Involved parties:
+
+Name: Xantheris (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Taranis
+Weapon: 75mm Gatling Rail II
+
+

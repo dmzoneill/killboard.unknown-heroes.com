@@ -1,0 +1,65 @@
+2006.12.18 23:14
+
+Victim: Kalibrana
+Alliance: Freelancer Alliance
+Corp: Thors Hammers
+Destroyed: Iteron Mark IV
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: WarGod (laid the final blow)
+Security: -1.8
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Hurricane
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: ammargal
+Security: 4.8
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Harbinger
+Weapon: Harbinger
+
+Name: K Shara
+Security: 3.2
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Lord KesH
+Security: 2.8
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: Zap Zaberdine
+Security: 3.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Hurricane
+Weapon: Dual 180mm AutoCannon II
+
+Name: Pistonbroke
+Security: -1.4
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Crow
+Weapon: Crow
+
+
+Destroyed items:
+
+Small Tractor Beam I
+Cap Recharger I
+Induced Multispectral ECM I
+Alpha Hull Mod Expanded Cargo
+Expanded Cargohold I
+Pyerite, Qty: 103432 (Cargo)
+Giant Secure Container, Qty: 3 (Cargo)
+Huge Secure Container (Cargo)
+

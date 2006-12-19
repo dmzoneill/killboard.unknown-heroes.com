@@ -1,0 +1,33 @@
+2007.05.15 19:21
+
+Victim: Darius Katana
+Alliance: None
+Corp: Imperial Academy
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Ocara Nezus (laid the final blow)
+Security: 1.5
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Crow
+Weapon: Bloodclaw Precision Light Missile
+
+Name: Nikita Fontaine
+Security: 4.9
+Alliance: None
+Corp: g guild
+Ship: Flycatcher
+Weapon: Rocket Launcher II
+
+Name: Draco sar
+Security: -1.5
+Alliance: None
+Corp: g guild
+Ship: Huginn
+Weapon: Stasis Webifier II
+
+

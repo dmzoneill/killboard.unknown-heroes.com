@@ -1,0 +1,26 @@
+2007.03.21 16:34
+
+Victim: forever faithless
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Destroyed: Condor
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Yushii (laid the final blow)
+Security: -0.3
+Alliance: Triumvirate.
+Corp: ViperSquad
+Ship: Muninn
+Weapon: 720mm Howitzer Artillery II
+
+Name: WarGod
+Security: 1.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Curse
+Weapon: Medium Beam Laser II
+
+

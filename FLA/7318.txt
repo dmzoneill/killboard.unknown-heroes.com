@@ -1,0 +1,37 @@
+2006.08.10 17:09
+
+Victim: Kai'Ckul
+Alliance: None
+Corp: Dai Dai Hai
+Destroyed: Cerberus
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Carl tabot (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Raven
+Weapon: Paradise Precision Cruise Missile
+
+Name: Aueryn
+Security: 2.3
+Alliance: Forces of Freedom
+Corp: Dice Macross
+Ship: Vengeance
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+Improved Cloaking Device II
+Eradicator F.O.F. Heavy Missile I, Qty: 124
+'Arbalest' Heavy Missile Launcher
+Large Shield Booster II
+F-S8 Relativistic Deflection Shield Induction
+Shield Boost Amplifier I
+Ballistic Control System II
+Cap Booster 800, Qty: 16 (Cargo)
+

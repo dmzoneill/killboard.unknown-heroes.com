@@ -1,0 +1,68 @@
+2007.04.07 16:40
+
+Victim: Ginkgo Biluba
+Alliance: Guinea Pigs
+Corp: La Stere
+Destroyed: Jaguar
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: JesusOfSuburbia
+Security: 3.0
+Alliance: Dusk and Dawn
+Corp: Asgard Schiffswerften
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: Jarath Abyss
+Security: 4.2
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Ship: Thorax
+Weapon: 150mm Railgun II
+
+Name: Sir Pip
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Cataclysm Enterprises
+Ship: Sabre
+Weapon: 'Langour' Drive Disruptor I
+
+Name: kanu
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Asgard Schiffswerften
+Ship: Crow
+Weapon: Bloodclaw Precision Light Missile
+
+Name: fducky
+Security: 5.0
+Alliance: Darklite inc Alliance
+Corp: Darklite inc
+Ship: Caracal
+Weapon: Thunderbolt Heavy Missile
+
+Name: dastommy79 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Vexor
+Weapon: Heavy Ion Blaster I
+
+Name: Wallyx
+Security: 4.5
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Armageddon
+Weapon: Heavy Nosferatu I
+
+Name: Jack Thurner
+Security: 2.6
+Alliance: DeStInY.
+Corp: Fusion Enterprises Ltd
+Ship: Armageddon
+Weapon: Bouncer I
+
+

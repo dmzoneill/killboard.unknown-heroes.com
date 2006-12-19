@@ -1,0 +1,33 @@
+2007.03.30 20:42
+
+Victim: Untamed Fury
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Destroyed: Capsule
+System: 3QE-9Q
+Security: 0.0
+
+Involved parties:
+
+Name: Echelon Carter (laid the final blow)
+Security: 1.5
+Alliance: None
+Corp: SpaceBalls Navy
+Ship: Brutix
+Weapon: Heavy Electron Blaster II
+
+Name: airspace
+Security: 2.9
+Alliance: None
+Corp: SpaceBalls Navy
+Ship: Celestis
+Weapon: Celestis
+
+Name: Rinkos Alaine
+Security: 4.6
+Alliance: None
+Corp: SpaceBalls Navy
+Ship: Myrmidon
+Weapon: J5 Prototype Warp Inhibitor I
+
+

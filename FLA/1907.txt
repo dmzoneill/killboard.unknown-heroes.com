@@ -1,0 +1,19 @@
+2007.01.10 03:10
+
+Victim: Fenix Storm
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Destroyed: Capsule
+System: JU-OWQ
+Security: 0.0
+
+Involved parties:
+
+Name: MEISTERderPUPPEN (laid the final blow)
+Security: 0.1
+Alliance: None
+Corp: Deep Core Mining Inc.
+Ship: Sabre
+Weapon: 150mm Light 'Scout' Autocannon I
+
+

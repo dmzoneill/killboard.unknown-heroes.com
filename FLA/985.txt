@@ -1,0 +1,90 @@
+2007.03.02 15:09
+
+Victim: Funky Feeling
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Destroyed: Ishtar
+System: YVBE-E
+Security: 0.0
+
+Involved parties:
+
+Name: Tregaron (laid the final blow)
+Security: 1.7
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Cyclone
+Weapon: Valkyrie II
+
+Name: marian chu
+Security: -0.1
+Alliance: None
+Corp: Shadow of the Colossus
+Ship: Tempest
+Weapon: Tempest
+
+Name: IroN HiDE
+Security: -1.6
+Alliance: Against ALL Authorities
+Corp: Black Lancee
+Ship: Hawk
+Weapon: Bloodclaw Light Missile
+
+Name: Abe LeRoy
+Security: 1.8
+Alliance: Morsus Mihi
+Corp: Shiva
+Ship: Crow
+Weapon: Crow
+
+Name: Oceana
+Security: 5.0
+Alliance: Against ALL Authorities
+Corp: Black Lance
+Ship: Cyclone
+Weapon: Cyclone
+
+Name: Sicarius
+Security: -1.0
+Alliance: RAZOR Alliance
+Corp: Thundercats
+Ship: Flycatcher
+Weapon: Sabretooth Light Missile
+
+Name: Frogydog
+Security: -4.2
+Alliance: RAZOR Alliance
+Corp: Thundercats
+Ship: Crow
+Weapon: Crow
+
+Name: Mistrall
+Security: 0.8
+Alliance: Against ALL Authorities
+Corp: Black Lance
+Ship: Falcon
+Weapon: BZ-5 Neutralizing Spatial Destabilizer ECM
+
+
+Destroyed items:
+
+220mm Vulcan AutoCannon II
+Corpum A-Type Medium Nosferatu
+Corpum A-Type Medium Nosferatu
+Medium Diminishing Power System Drain I
+Small Energy Neutralizer II
+Dual 150mm Railgun II
+Dual 150mm Railgun II
+Barrage M, Qty: 80
+Cap Recharger II
+Shadow Serpentis 10MN MicroWarpdrive
+10MN MicroWarpdrive II
+Warp Disruptor II
+Dread Guristas Warp Disruptor
+Phased Muon Sensor Disruptor I
+Dark Blood Medium Armor Repairer
+Dark Blood Armor Explosive Hardener
+Local Hull Conversion Nanofiber Structure I
+Dark Blood Power Diagnostic System
+Warrior II (Drone Bay)
+

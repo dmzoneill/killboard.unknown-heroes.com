@@ -1,0 +1,64 @@
+2006.11.13 04:34
+
+Victim: DONJUAN v
+Alliance: Eternal Empire
+Corp: Tarnak inc.
+Destroyed: Stabber
+System: OWXT-5
+Security: 0.0
+
+Involved parties:
+
+Name: Slinktress (laid the final blow)
+Security: 2.1
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Megathron
+Weapon: Megathron
+
+Name: Kismeteer
+Security: 4.1
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Enyo
+Weapon: Light Ion Blaster II
+
+Name: Dog Cancer
+Security: 1.4
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: MonwrathDisortium
+Security: -1.1
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Typhoon
+Weapon: Phased Weapon Navigation Array Generation Extron
+
+Name: Grifter Treysik
+Security: 3.1
+Alliance: Freelancer Alliance
+Corp: Caldar Mercenary Syndicate
+Ship: Raven
+Weapon: 'Arbalest' Siege Missile Launcher
+
+Name: Guristas Mortifier / Guristas
+
+
+Destroyed items:
+
+220mm Vulcan AutoCannon I
+220mm Vulcan AutoCannon I
+220mm Vulcan AutoCannon I
+EMP M, Qty: 98
+Sabretooth Light Missile, Qty: 52
+Assault Missile Launcher I
+Assault Missile Launcher I
+10MN MicroWarpdrive I
+Medium Armor Repairer I
+Large Shield Extender I (Cargo)
+Large Shield Booster I (Cargo)
+Dual 250mm Railgun I (Cargo)
+

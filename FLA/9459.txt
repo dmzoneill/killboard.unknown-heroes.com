@@ -1,0 +1,49 @@
+2007.05.14 05:54
+
+Victim: Duncan Fulford
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Destroyed: Raven
+System: Tartoken
+Security: 0.1
+
+Involved parties:
+
+Name: boo3916 (laid the final blow)
+Security: 1.7
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Eos
+Weapon: Heavy Ion Blaster II
+
+Name: Guristas Destructor / Guristas
+
+
+Destroyed items:
+
+Salvager I
+Wrath Cruise Missile, Qty: 96
+'Arbalest' Cruise Launcher I
+'Arbalest' Cruise Launcher I
+'Arbalest' Cruise Launcher I
+Small Tractor Beam I
+Large Shield Extender II
+V-M15 Braced Multispectral Shield Matrix
+Heat Dissipation Amplifier II
+Dread Guristas Kinetic Deflection Amplifier
+Damage Control II
+Beta Reactor Control: Diagnostic System I
+Beta Reactor Control: Diagnostic System I
+Beta Reactor Control: Diagnostic System I
+Medium Shield Booster I (Cargo)
+Medium Shield Transporter I (Cargo)
+Small Nosferatu I, Qty: 2 (Cargo)
+Medium Proton Smartbomb I (Cargo)
+Plutonium Charge M, Qty: 100 (Cargo)
+Defender I, Qty: 100 (Cargo)
+ECCM - Gravimetric I (Cargo)
+ECCM Projector I (Cargo)
+Wrath Cruise Missile, Qty: 826 (Cargo)
+Charred Micro Circuit, Qty: 4 (Cargo)
+Vespa II, Qty: 2 (Drone Bay)
+

@@ -1,0 +1,27 @@
+2006.10.09 02:44
+
+Victim: Elixian
+Alliance: None
+Corp: Abandon All Hope
+Destroyed: Catalyst
+System: E-FIC0
+Security: 0.0
+
+Involved parties:
+
+Name: Kaleenia (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Terminal Velocity Inc.
+Ship: Badger
+Weapon: 125mm Railgun II
+
+
+Destroyed items:
+
+150mm 'Scout' I Accelerator Cannon
+150mm Railgun I
+150mm Railgun I
+F-b10 Nominal Capacitor Regenerator
+Gyrostabilizer I
+

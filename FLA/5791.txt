@@ -1,0 +1,110 @@
+2006.10.20 21:48
+
+Victim: Fist
+Alliance: None
+Corp: Jokers
+Destroyed: Nighthawk
+System: 2R-CRW
+Security: 0.0
+
+Involved parties:
+
+Name: Munch
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Armageddon
+Weapon: Vespa II
+
+Name: Vindication
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Muninn
+Weapon: Hobgoblin II
+
+Name: Ione79
+Security: 3.7
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Megathron
+Weapon: Ogre I
+
+Name: 8ObliVioN8
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Eagle
+Weapon: Sabretooth Light Missile
+
+Name: fastwind
+Security: 5.0
+Alliance: CORE.
+Corp: VentureCorp
+Ship: Megathron
+Weapon: Megathron
+
+Name: d4ve
+Security: 4.6
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Dominix
+Weapon: Berserker I
+
+Name: Andre Klein (laid the final blow)
+Security: 5.0
+Alliance: The Pentagram
+Corp: SecuWay
+Ship: Cerberus
+Weapon: Widowmaker Heavy Missile
+
+Name: digital oxygen
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Deimos
+Weapon: Valkyrie II
+
+Name: Haiyooo
+Security: -4.9
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: kermitfrog
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: geewiz
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Arazu
+Weapon: Arazu
+
+Name: Sabetstorm
+Security: 3.0
+Alliance: The Pentagram
+Corp: Omega Armada
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+
+Destroyed items:
+
+Antimatter Charge S, Qty: 40
+Scourge Heavy Missile, Qty: 72
+Invulnerability Field II
+Pseudoelectron Containment Field I
+Ballistic Control System II
+Antimatter Charge S, Qty: 698 (Cargo)
+Thunderbolt Heavy Missile, Qty: 2484 (Cargo)
+Havoc Heavy Missile, Qty: 2493 (Cargo)
+Scourge Heavy Missile, Qty: 2479 (Cargo)
+Eradicator F.O.F. Heavy Missile I, Qty: 700 (Cargo)
+Hobgoblin I, Qty: 3 (Drone Bay)
+

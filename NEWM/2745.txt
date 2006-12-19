@@ -1,0 +1,39 @@
+2007.03.04 18:06
+
+Victim: Kimett
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Caracal
+System: PNQY-Y
+Security: 0.0
+
+Involved parties:
+
+Name: Veshta Yoshida (laid the final blow)
+Security: 3.5
+Alliance: Xelas Alliance
+Corp: Mining Bytes Inc.
+Ship: Harbinger
+Weapon: Heavy Pulse Laser II
+
+Name: Tridik
+Security: 5.0
+Alliance: Xelas Alliance
+Corp: Bombshell Cartel
+Ship: Drake
+Weapon: Warrior I
+
+
+Destroyed items:
+
+Terror Assault Missile, Qty: 276
+Torrent Assault Missile, Qty: 276
+Heavy Assault Missile Launcher I
+Heavy Assault Missile Launcher I
+Heavy Assault Missile Launcher I
+Heavy Assault Missile Launcher I
+Medium Shield Extender I
+Sensor Booster I
+Torrent Assault Missile, Qty: 1395 (Cargo)
+Terror Assault Missile, Qty: 4064 (Cargo)
+

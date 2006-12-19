@@ -1,0 +1,66 @@
+2006.12.17 14:42
+
+Victim: Lev Arris
+Alliance: None
+Corp: Riverstone Corp
+Destroyed: Badger Mark II
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: TwilightMadcat (laid the final blow)
+Security: -0.5
+Alliance: Imperial Republic Of the North
+Corp: Port Royal Independent Kontractors
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Alfred Einstein
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: TroNaaR
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: Fahad
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Harpy
+Weapon: Light Neutron Blaster II
+
+Name: Pocok Peti
+Security: 4.5
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Myrmidon
+Weapon: Warp Disruptor I
+
+Name: Martin Mckenna
+Security: 1.8
+Alliance: DeStInY.
+Corp: Caldari Navy Raiders
+Ship: Vengeance
+Weapon: Medium Pulse Laser II
+
+
+Destroyed items:
+
+Small EMP Smartbomb I
+Light Electron Blaster I
+Antimatter Charge S, Qty: 185
+Medium Shield Extender I
+Small Shield Extender I
+Shield Recharger I
+ECM - Multispectral Jammer I
+Warp Core Stabilizer I
+Nanofiber Internal Structure I
+

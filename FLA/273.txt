@@ -1,0 +1,82 @@
+2007.01.20 21:26
+
+Victim: Harpo
+Alliance: None
+Corp: Deep Core Mining Inc.
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Badtrance
+Security: 5.0
+Alliance: NxT LeveL
+Corp: Nexus Legion
+Ship: Hawk
+Weapon: Bloodclaw Light Missile
+
+Name: Chuck Dawg
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Blackbird
+Weapon: Thunderbolt Heavy Missile
+
+Name: Super Homer (laid the final blow)
+Security: 1.7
+Alliance: NxT LeveL
+Corp: Nexus Legion
+Ship: Caracal
+Weapon: Thunderbolt Heavy Missile
+
+Name: Scorpio63
+Security: 5.0
+Alliance: NxT LeveL
+Corp: Nexus Legion
+Ship: Omen
+Weapon: Havoc Heavy Missile
+
+Name: seidar
+Security: 4.7
+Alliance: NxT LeveL
+Corp: Nexus Legion
+Ship: Thorax
+Weapon: Thorax
+
+Name: dastommy79
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Thorax
+Weapon: Warp Disruptor I
+
+Name: Rocinantae
+Security: 5.0
+Alliance: NxT LeveL
+Corp: The 5 Amigo's LLC.
+Ship: Scorpion
+Weapon: Stasis Webifier I
+
+Name: Midiana
+Security: -1.4
+Alliance: NxT LeveL
+Corp: Nexus Legion
+Ship: Vexor
+Weapon: Fleeting Warp Scrambler I
+
+Name: Jack Cannon
+Security: 5.0
+Alliance: NxT LeveL
+Corp: The 5 Amigo's LLC.
+Ship: Daredevil
+Weapon: Daredevil
+
+Name: DarkJester
+Security: 0.9
+Alliance: NxT LeveL
+Corp: Nexus Legion
+Ship: Hurricane
+Weapon: 425mm AutoCannon I
+
+

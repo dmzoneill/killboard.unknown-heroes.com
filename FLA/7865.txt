@@ -1,0 +1,19 @@
+2006.09.17 04:50
+
+Victim: MagicMos
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Destroyed: Capsule
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: SleepyOSU (laid the final blow)
+Security: 1.9
+Alliance: Freelancer Alliance
+Corp: Sin-X Inc.
+Ship: Megathron
+Weapon: 425mm Railgun I
+
+

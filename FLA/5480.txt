@@ -1,0 +1,30 @@
+2006.10.06 10:20
+
+Victim: Na'no
+Alliance: None
+Corp: Privateers
+Destroyed: Caracal
+System: Jita
+Security: 0.9
+
+Involved parties:
+
+Name: GrandMastaXP (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Hawk
+Weapon: Sabretooth Fury Light Missile
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 42
+Sabretooth Light Missile, Qty: 126
+10MN Afterburner I
+Shield Power Relay I (Cargo)
+Aurora S (Cargo)
+Sabretooth Light Missile, Qty: 1775 (Cargo)
+Flameburst Light Missile, Qty: 17 (Cargo)
+Bloodclaw Light Missile, Qty: 1473 (Cargo)
+

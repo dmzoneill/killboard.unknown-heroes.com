@@ -1,0 +1,26 @@
+2007.03.28 00:37
+
+Victim: Black Vine
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Destroyed: Capsule
+System: P-2TTL
+Security: 0.0
+
+Involved parties:
+
+Name: Phoenus (laid the final blow)
+Security: 0.4
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Ka'lorn Font'a
+Security: 4.1
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Abaddon
+Weapon: Tachyon Beam Laser II
+
+

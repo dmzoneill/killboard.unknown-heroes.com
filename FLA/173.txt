@@ -1,0 +1,76 @@
+2007.01.16 08:45
+
+Victim: Erimk
+Alliance: None
+Corp: X.T.R
+Destroyed: Raven
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: darkviron
+Security: 3.2
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Drake
+Weapon: Hobgoblin II
+
+Name: Ireiw wocad
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Feel Good Inc.
+Ship: Raven
+Weapon: Juggernaut Torpedo
+
+Name: reeves ll (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Raven
+Weapon: Mjolnir Torpedo
+
+Name: FlobbMkII
+Security: 3.3
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Ishkur
+Weapon: Hobgoblin II
+
+Name: Inter Fectum
+Security: 1.6
+Alliance: Freelancer Alliance
+Corp: Sin-X Inc.
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: Alezra
+Security: 1.3
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ishkur
+Weapon: Hobgoblin II
+
+Name: Chuck Dawg
+Security: 2.1
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Blackbird
+Weapon: Flameburst Light Missile
+
+
+Destroyed items:
+
+Mjolnir Torpedo, Qty: 48
+'Malkuth' Siege Missile Launcher I
+'Malkuth' Siege Missile Launcher I
+X-Large C5-L Emergency Shield Overload I
+Dread Guristas Heat Dissipation Field
+'Anointed' I EM Ward Reinforcement
+V-M15 Braced Multispectral Shield Matrix
+Cross-linked Bolt Array I
+Ballistic Control System I
+Ballistic Control System I
+Mark I Generator Refitting: Diagnostic System
+Hammerhead I, Qty: 3 (Drone Bay)
+

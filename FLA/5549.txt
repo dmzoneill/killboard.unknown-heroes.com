@@ -1,0 +1,77 @@
+2006.10.07 22:18
+
+Victim: Clive
+Alliance: None
+Corp: Soprano Corp
+Destroyed: Thorax
+System: B-9C24
+Security: 0.0
+
+Involved parties:
+
+Name: W4RR10R
+Security: 0.4
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+Name: Hosanna (laid the final blow)
+Security: -0.7
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Wolf
+Weapon: 280mm Howitzer Artillery II
+
+Name: Jumar Coldgin
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+Name: Tri Ounou
+Security: 4.5
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Stabber
+Weapon: Stabber
+
+Name: Minesweeper
+Security: 3.1
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: Karas Rabus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: Noitaakka
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Brutix
+Weapon: ECM - Multispectral Jammer II
+
+Name: Bolinar
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Dominix
+Weapon: 'Hypnos' Multispectral ECM I
+
+
+Destroyed items:
+
+Anode Ion Particle Cannon I
+Anode Ion Particle Cannon I
+Antimatter Charge M, Qty: 348
+Ballistic Deflection Field I
+Magnetic Vortex Stabilizer I
+Antimatter Charge M, Qty: 2000 (Cargo)
+

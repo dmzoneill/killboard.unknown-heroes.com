@@ -1,0 +1,50 @@
+2007.01.07 02:01
+
+Victim: Chuck Dawg
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Destroyed: Drake
+System: Piak
+Security: 0.7
+
+Involved parties:
+
+Name: taylor04 (laid the final blow)
+Security: 0.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Armageddon
+Weapon: Dual Heavy Pulse Laser II
+
+Name: Jenessa
+Security: 1.1
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Muninn
+Weapon: Muninn
+
+Name: Elliott Manchild
+Security: -2.9
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Sleipnir
+Weapon: 220mm Vulcan AutoCannon II
+
+
+Destroyed items:
+
+Thunderbolt Heavy Missile, Qty: 30
+Scourge Heavy Missile, Qty: 60
+Widowmaker Heavy Missile, Qty: 30
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+Warp Disruptor I
+Stasis Webifier I
+V-M15 Braced Multispectral Shield Matrix
+Invulnerability Field I
+Ballistic Control System I
+Beta Reactor Control: Diagnostic System I
+Scourge Heavy Missile, Qty: 272 (Cargo)
+

@@ -1,0 +1,73 @@
+2007.05.23 10:45
+
+Victim: PhoenixDK
+Alliance: Firmus Ixion
+Corp: Hunters Agency
+Destroyed: Eos
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: articz
+Security: -0.3
+Alliance: DeStInY.
+Corp: House Of Aaron
+Ship: Tempest
+Weapon: Tempest
+
+Name: slayer avenger (laid the final blow)
+Security: 4.5
+Alliance: DeStInY.
+Corp: Legion Federation
+Ship: Caracal
+Weapon: Thunderbolt Heavy Missile
+
+Name: MaceWindu666
+Security: 5.1
+Alliance: Event-Horizon
+Corp: Panta-Rhei
+Ship: Myrmidon
+Weapon: Vespa II
+
+Name: Corovus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Unknown
+Weapon: 'Arbalest' Cruise Launcher I
+
+Name: Porky
+Security: 2.3
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Crow
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+Name: Alch3mik
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Arazu
+Weapon: 250mm Prototype I Gauss Gun
+
+
+Destroyed items:
+
+Heavy Ion Blaster II
+Heavy Ion Blaster II
+Heavy Ion Blaster II
+Heavy Ion Blaster II
+Heavy Ion Blaster II
+Null M, Qty: 340
+Warp Disruptor II
+Cap Booster 800
+Sensor Booster II
+Damage Control II
+Medium Armor Repairer II
+Energized Adaptive Nano Membrane II
+Valkyrie II, Qty: 4 (Drone Bay)
+Berserker II, Qty: 3 (Drone Bay)
+Warrior II, Qty: 2 (Drone Bay)
+Medium Armor Maintenance Bot I, Qty: 2 (Drone Bay)
+

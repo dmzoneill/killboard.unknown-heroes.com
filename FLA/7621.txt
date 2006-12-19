@@ -1,0 +1,26 @@
+2006.09.25 22:19
+
+Victim: Admiral Love
+Alliance: Ascendant Frontier
+Corp: Sha Kharn Corp
+Destroyed: Capsule
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Braxxon (laid the final blow)
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+Name: TasKu
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Thorax
+Weapon: 200mm Railgun I
+
+

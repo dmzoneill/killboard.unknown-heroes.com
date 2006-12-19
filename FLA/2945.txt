@@ -1,0 +1,57 @@
+2007.03.17 08:02
+
+Victim: tzar1024
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Destroyed: Rifter
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Nipplator
+Security: 2.8
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Harbinger
+Weapon: Harbinger
+
+Name: Galaxor (laid the final blow)
+Security: 5.1
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Harbinger
+Weapon: Heavy Pulse Laser II
+
+Name: Vim Longhill
+Security: 4.6
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Crow
+Weapon: Crow
+
+Name: Vasili Z
+Security: 0.3
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Myrmidon
+Weapon: Warrior II
+
+Name: Fred Fredburger
+Security: 5.0
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Raptor
+Weapon: Rocket Launcher II
+
+
+Destroyed items:
+
+150mm Light AutoCannon I
+Small Nosferatu I
+Phased Plasma S, Qty: 94
+1MN MicroWarpdrive I
+Warp Disruptor I
+Power Diagnostic System I
+Titanium Sabot S, Qty: 1000 (Cargo)
+

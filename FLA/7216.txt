@@ -1,0 +1,154 @@
+2006.04.21 23:42
+
+Victim: DJ BASIL
+Alliance: E.R.A
+Corp: Delta team
+Destroyed: Vagabond
+System: 2R-CRW
+Security: 0.0
+
+Involved parties:
+
+Name: DarkJester (laid the final blow)
+Security: 0.2
+Alliance: The Nexus Alliance
+Corp: Universal-Corp
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery I
+
+Name: XxAngelxX
+Security: 5.0
+Alliance: Northern Freedom Coalition
+Corp: Digital Fury Corporation
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Malrock
+Security: 2.4
+Alliance: The Nexus Alliance
+Corp: Universal-Corp
+Ship: Megathron
+Weapon: Target Painter I
+
+Name: Jumar Coldgin
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Raven
+Weapon: 'Arbalest' Cruise Launcher I
+
+Name: Twin X
+Security: 2.5
+Alliance: Northern Freedom Coalition
+Corp: GeoTech
+Ship: Harpy
+Weapon: Harpy
+
+Name: fastwind
+Security: 5.0
+Alliance: Northern Freedom Coalition
+Corp: Deep Space Logistics
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: Nende
+Security: 5.0
+Alliance: Serenus Letum
+Corp: Ashen Lion Mining and Production Consortium
+Ship: Harpy
+Weapon: Harpy
+
+Name: Drakin Korin
+Security: 1.4
+Alliance: The Nexus Alliance
+Corp: DNLS Solutions
+Ship: Caracal
+Weapon: Thunderbolt Heavy Missile
+
+Name: Protonz
+Security: 5.0
+Alliance: None
+Corp: X-Factor Industries
+Ship: Armageddon
+Weapon: 720mm Prototype I Siege Cannon
+
+Name: Benzyl Alkonium
+Security: 0.7
+Alliance: The Nexus Alliance
+Corp: DNLS Solutions
+Ship: Caracal
+Weapon: Hammerhead I
+
+Name: AXi0S
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Freelancer Union
+Ship: Dominix
+Weapon: Dominix
+
+Name: Goktar illiat
+Security: 5.0
+Alliance: Northern Freedom Coalition
+Corp: Independent Frontiers
+Ship: Brutix
+Weapon: Infiltrator I
+
+Name: Greenblood
+Security: 0.5
+Alliance: The Nexus Alliance
+Corp: Universal-Corp
+Ship: Vexor
+Weapon: Vexor
+
+Name: Pembo
+Security: 4.7
+Alliance: Freelancer Alliance
+Corp: Freelancer Union
+Ship: Thorax
+Weapon: 150mm Railgun II
+
+Name: Hosanna
+Security: 4.8
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Rupture
+Weapon: Rupture
+
+Name: Mind Storm
+Security: 2.0
+Alliance: Northern Freedom Coalition
+Corp: Digital Fury Corporation
+Ship: Caracal
+Weapon: Bloodclaw Light Missile
+
+Name: Ringill
+Security: 2.8
+Alliance: Serenus Letum
+Corp: Ashen Lion Mining and Production Consortium
+Ship: Maller
+Weapon: Focused Medium Pulse Laser II
+
+Name: Ozzie Asrail
+Security: 4.7
+Alliance: Northern Freedom Coalition
+Corp: GeoTech
+Ship: Harpy
+Weapon: 150mm Prototype I Gauss Gun
+
+
+Destroyed items:
+
+220mm Medium Gallium I Machine Gun
+220mm Medium Gallium I Machine Gun
+220mm Medium Gallium I Machine Gun
+Medium 'Ghoul' Energy Siphon I
+Large Shield Extender II
+Warp Disruptor I
+Gyrostabilizer II
+Warp Core Stabilizer I
+Warp Core Stabilizer I
+EMP M, Qty: 5017 (Cargo)
+Energized Adaptive Nano Membrane II (Cargo)
+'Arbalest' Cruise Launcher I (Cargo)
+Warrior II, Qty: 2 (Drone Bay)
+

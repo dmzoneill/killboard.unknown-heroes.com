@@ -1,0 +1,25 @@
+2006.08.10 01:29
+
+Victim: Confessor
+Alliance: None
+Corp: Lynx Frontier Inc.
+Destroyed: Pilgrim
+System: CZDJ-1
+Security: 0.0
+
+Involved parties:
+
+Name: Zappapapa II (laid the final blow)
+Security: 2.8
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Dominix
+Weapon: Ogre II
+
+
+Destroyed items:
+
+Fleeting Warp Scrambler I
+Balmer Series Targeting Inhibitor I
+Medium Armor Repairer II
+

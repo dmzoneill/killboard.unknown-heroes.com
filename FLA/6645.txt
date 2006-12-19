@@ -1,0 +1,45 @@
+2006.11.22 16:01
+
+Victim: the willyb
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Destroyed: Taranis
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Ricarda M (laid the final blow)
+Security: 2.8
+Alliance: Dusk and Dawn
+Corp: Asgard Schiffswerften
+Ship: Osprey
+Weapon: Warrior I
+
+Name: roboto212
+Security: -0.5
+Alliance: Freelancer Alliance
+Corp: Sin-X Inc.
+Ship: Unknown
+Weapon: Light Neutron Blaster II
+
+Name: Mars Bar
+Security: -0.1
+Alliance: None
+Corp: Sugar Ninjas
+Ship: Impairor
+Weapon: Civilian Gatling Pulse Laser
+
+
+Destroyed items:
+
+Light Neutron Blaster II
+Void S, Qty: 75
+1MN MicroWarpdrive I
+Fleeting Warp Scrambler I
+Micro Auxiliary Power Core I
+Light Neutron Blaster II (Cargo)
+Torpedoes (Cargo)
+Heavy Missiles (Cargo)
+Power Diagnostic System I (Cargo)
+

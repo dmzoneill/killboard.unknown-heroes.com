@@ -1,0 +1,75 @@
+2006.10.15 00:05
+
+Victim: Lord Violent
+Alliance: None
+Corp: Syndicate Of Shadows
+Destroyed: Jaguar
+System: 3QE-9Q
+Security: 0.0
+
+Involved parties:
+
+Name: Paltar
+Security: 0.4
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Megathron
+Weapon: Megathron
+
+Name: Napolie
+Security: -0.2
+Alliance: R0ADKILL
+Corp: Beagle Corp
+Ship: Enyo
+Weapon: 125mm Railgun II
+
+Name: vladdy2
+Security: 3.5
+Alliance: CORE.
+Corp: VentureCorp
+Ship: Scorpion
+Weapon: Cataclysm Precision Cruise Missile
+
+Name: Nende
+Security: 5.0
+Alliance: None
+Corp: Ashen Lion Mining and Production Consortium
+Ship: Eagle
+Weapon: Eagle
+
+Name: Fimbule Winter
+Security: 4.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: nickiy (laid the final blow)
+Security: 5.0
+Alliance: None
+Corp: Ashen Lion Mining and Production Consortium
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Needa3
+Security: 4.6
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Stabber
+Weapon: Assault Missile Launcher I
+
+
+Destroyed items:
+
+150mm Light AutoCannon II
+150mm Light AutoCannon II
+Barrage S, Qty: 240
+Thorn Rocket, Qty: 30
+'Arbalest' Rocket Launcher I
+200mm AutoCannon II, Qty: 2 (Cargo)
+Gyrostabilizer II (Cargo)
+EMP S, Qty: 2352 (Cargo)
+Barrage S, Qty: 2413 (Cargo)
+Phalanx Rocket, Qty: 750 (Cargo)
+Foxfire Rocket, Qty: 750 (Cargo)
+

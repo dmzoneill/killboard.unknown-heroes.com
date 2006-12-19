@@ -1,0 +1,26 @@
+2007.03.04 17:17
+
+Victim: Kalico
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Destroyed: Capsule
+System: 9-VO0Q
+Security: 0.0
+
+Involved parties:
+
+Name: Natheniel
+Security: 4.0
+Alliance: Xelas Alliance
+Corp: Fallen Angel's
+Ship: Taranis
+Weapon: Light Neutron Blaster II
+
+Name: Grayhem (laid the final blow)
+Security: 1.8
+Alliance: Xelas Alliance
+Corp: 7th Space Cavalry
+Ship: Hawk
+Weapon: Bloodclaw Fury Light Missile
+
+

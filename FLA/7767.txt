@@ -1,0 +1,30 @@
+2006.08.16 17:30
+
+Victim: Laboratus
+Alliance: Freelancer Alliance
+Corp: BGG
+Destroyed: Brutix
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: PainBall (laid the final blow)
+Security: 2.3
+Alliance: Process of Elimination
+Corp: Occassus Republica
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Sato Yuki
+Security: -1.8
+Alliance: Process of Elimination
+Corp: Occassus Republica
+Ship: Claw
+Weapon: Claw
+
+
+Destroyed items:
+
+Heavy Ion Blaster I
+

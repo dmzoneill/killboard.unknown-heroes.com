@@ -1,0 +1,81 @@
+2007.05.02 00:11
+
+Victim: coldkill
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Destroyed: Thorax
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Ghost Hughdidit (laid the final blow)
+Security: 3.1
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Thanatos
+Weapon: Dragonfly
+
+Name: Akthuul
+Security: 5.0
+Alliance: Storm Armada
+Corp: stone grave haulage
+Ship: Crow
+Weapon: Sabretooth Light Missile
+
+Name: Lyra Sy
+Security: 5.0
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Iteron Mark V
+Weapon: 250mm Compressed Coil Gun I
+
+Name: Lokki Deathwish
+Security: 2.6
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Raven
+Weapon: Cruise Missile Launcher I
+
+Name: Bic Drax
+Security: 3.7
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Dominix
+Weapon: Ogre II
+
+Name: Savak
+Security: 0.9
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Unknown
+Weapon: Dual Heavy Pulse Laser I
+
+Name: Vlad Cetes
+Security: 5.0
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Raven
+Weapon: Siege Missile Launcher II
+
+Name: Altair Mogwa
+Security: 0.6
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Probe
+Weapon: Parallel Weapon Navigation Transmitter
+
+
+Destroyed items:
+
+Heavy Neutron Blaster II
+Heavy Neutron Blaster II
+Heavy Neutron Blaster II
+Void M, Qty: 320
+Y-T8 Overcharged Hydrocarbon I Microwarpdrive
+Warp Disruptor I
+Y-S8 Hydrocarbon I Afterburners (Cargo)
+Stasis Webifier I (Cargo)
+Ballistic Control System I, Qty: 2 (Cargo)
+Void M, Qty: 960 (Cargo)
+

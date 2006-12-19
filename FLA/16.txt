@@ -1,0 +1,55 @@
+2007.01.01 16:50
+
+Victim: Calishere
+Alliance: None
+Corp: Caldari Provisions
+Destroyed: Flycatcher
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Indigo Callypso
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+Name: Iulian1977 (laid the final blow)
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Armageddon
+Weapon: Mega Beam Laser II
+
+Name: Akkijee
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Unknown
+Weapon: ZW-4100 Siege Missile Bay
+
+Name: Weeble Wooble
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Unknown
+Weapon: Bouncer I
+
+
+Destroyed items:
+
+Prototype Cloaking Device I
+Bloodclaw Light Missile, Qty: 74
+'Malkuth' Standard Missile Launcher I
+'Malkuth' Standard Missile Launcher I
+'Malkuth' Standard Missile Launcher I
+Faint Epsilon Warp Prohibitor I
+Co-Processor II
+Eutectic I Capacitor Charge Array (Cargo)
+Bloodclaw Light Missile, Qty: 1828 (Cargo)
+'Arbalest' Heavy Missile Launcher (Cargo)
+Advanced 'Limos' Heavy Missile Bay I, Qty: 2 (Cargo)
+Warp Disrupt Probe, Qty: 30 (Cargo)
+

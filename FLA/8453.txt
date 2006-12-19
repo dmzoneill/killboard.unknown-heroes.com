@@ -1,0 +1,43 @@
+2006.11.19 02:14
+
+Victim: Tri Ounou
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Destroyed: Muninn
+System: Torrinos
+Security: 0.5
+
+Involved parties:
+
+Name: Elliott Manchild
+Security: -1.9
+Alliance: None
+Corp: omen.
+Ship: Tempest
+Weapon: Tempest
+
+Name: Unfortunate Accident (laid the final blow)
+Security: -1.5
+Alliance: None
+Corp: omen.
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+
+Destroyed items:
+
+650mm Artillery Cannon II
+650mm Artillery Cannon II
+Tremor M, Qty: 18
+Sabretooth Light Missile, Qty: 72
+Piranha Light Missile, Qty: 72
+'Arbalest' Assault Missile Launcher
+'Arbalest' Assault Missile Launcher
+Gyrostabilizer II
+Gyrostabilizer II
+Tracking Enhancer II
+Tracking Enhancer II
+EMP M, Qty: 20 (Cargo)
+Tremor M, Qty: 1886 (Cargo)
+Piranha Light Missile, Qty: 1565 (Cargo)
+

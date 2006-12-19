@@ -1,0 +1,19 @@
+2006.10.25 22:17
+
+Victim: Bulles
+Alliance: None
+Corp: NEXT LEVEL
+Destroyed: Capsule
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Digioso (laid the final blow)
+Security: 1.3
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Megathron
+Weapon: Domination Large Proton Smartbomb
+
+

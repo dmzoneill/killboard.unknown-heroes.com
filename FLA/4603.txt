@@ -1,0 +1,30 @@
+2007.04.14 22:21
+
+Victim: Skull Fire
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Raven
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Minmatar Control Tower Medium / Eternity INC. (laid the final blow)
+
+
+Destroyed items:
+
+250mm Compressed Coil Gun I
+250mm Carbide Railgun I
+Plutonium Charge M, Qty: 66
+'Arbalest' Siege Missile Launcher
+'Arbalest' Siege Missile Launcher
+'Arbalest' Siege Missile Launcher
+Large Shield Extender II
+Cap Booster 800
+1600mm Reinforced Rolled Tungsten Plates I
+Mark I Generator Refitting: Reaction Control
+Plutonium Charge M, Qty: 1403 (Cargo)
+Inferno Torpedo, Qty: 84 (Cargo)
+Mjolnir Torpedo, Qty: 306 (Cargo)
+

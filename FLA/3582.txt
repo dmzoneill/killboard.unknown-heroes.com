@@ -1,0 +1,83 @@
+2007.03.27 13:49
+
+Victim: alon blackhelm
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Destroyed: Myrmidon
+System: 7D-0SQ
+Security: 0.0
+
+Involved parties:
+
+Name: Stolz82
+Security: 5.0
+Alliance: YouWhat
+Corp: Dark Rising Shadow
+Ship: Raven
+Weapon: Hammerhead I
+
+Name: michi2004
+Security: -2.5
+Alliance: YouWhat
+Corp: Dark Rising Shadow
+Ship: Caracal
+Weapon: Thunderbolt Heavy Missile
+
+Name: Son
+Security: 5.0
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Sabre
+Weapon: 250mm Light Artillery Cannon II
+
+Name: Topasio
+Security: 3.1
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Rupture
+Weapon: Rupture
+
+Name: yekard (laid the final blow)
+Security: 5.0
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Huginn
+Weapon: Havoc Heavy Missile
+
+Name: grim devilin
+Security: 3.9
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Hawk
+Weapon: Thorn Javelin Rocket
+
+Name: 1Of9
+Security: 4.6
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Pilgrim
+Weapon: Hammerhead I
+
+Name: MOS EISLEY
+Security: 3.9
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Dominix
+Weapon: Dominix
+
+
+Destroyed items:
+
+E50 Prototype Energy Vampire
+250mm Compressed Coil Gun I
+250mm Compressed Coil Gun I
+250mm Compressed Coil Gun I
+Antimatter Charge M, Qty: 91
+10MN Afterburner II
+Warp Disruptor I
+Sensor Booster II
+Tracking Computer II
+Medium Armor Repairer II
+Armor Thermic Hardener I
+Vespa II, Qty: 5 (Drone Bay)
+

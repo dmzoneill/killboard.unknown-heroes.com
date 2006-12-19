@@ -1,0 +1,59 @@
+2007.01.28 18:10
+
+Victim: Lux0r
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Destroyed: Hawk
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Biosourcy
+Security: 4.8
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Jaguar
+Weapon: 150mm Light AutoCannon II
+
+Name: Puls4r (laid the final blow)
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Jaguar
+Weapon: 250mm Light Artillery Cannon II
+
+Name: Ka Dargo
+Security: 4.4
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Havvok
+Security: 1.9
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Dominix
+Weapon: 250mm 'Scout' I Accelerator Cannon
+
+Name: RagedyMan
+Security: 1.9
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Nighthawk
+Weapon: Heavy Missile Launcher II
+
+
+Destroyed items:
+
+Standard Missile Launcher II
+Standard Missile Launcher II
+Standard Missile Launcher II
+Bloodclaw Precision Light Missile, Qty: 96
+Small Shield Booster II
+1MN Afterburner II
+Type-D Attenuation Signal Augmentation
+Flameburst Light Missile, Qty: 200 (Cargo)
+Bloodclaw Precision Light Missile, Qty: 250 (Cargo)
+

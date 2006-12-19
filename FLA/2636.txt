@@ -1,0 +1,43 @@
+2007.02.27 22:51
+
+Victim: SoF Reaperman
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Destroyed: Harpy
+System: YZ-LQL
+Security: 0.0
+
+Involved parties:
+
+Name: Crux Australis (laid the final blow)
+Security: -0.7
+Alliance: Band of Brothers
+Corp: Reikoku
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Addicus Zed
+Security: 2.1
+Alliance: Band of Brothers
+Corp: Reikoku
+Ship: Harpy
+Weapon: Harpy
+
+Name: Bogwoppit
+Security: 0.1
+Alliance: Band of Brothers
+Corp: Reikoku
+Ship: Unknown
+Weapon: Hobgoblin I
+
+
+Destroyed items:
+
+Light Ion Blaster I
+Light Ion Blaster I
+Antimatter Charge S, Qty: 63
+Phased Monopropellant I Hydrazine Boosters
+Sensor Booster I
+Phalanx Rocket, Qty: 1944 (Cargo)
+Gremlin Rocket, Qty: 1000 (Cargo)
+

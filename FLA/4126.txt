@@ -1,0 +1,68 @@
+2007.04.02 09:50
+
+Victim: Kateryne
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Destroyed: Maelstrom
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Tomas Ysidro
+Security: 1.3
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Myrmidon
+Weapon: Myrmidon
+
+Name: Rhayvn (laid the final blow)
+Security: 4.5
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Armageddon
+Weapon: Berserker I
+
+Name: Spacebar
+Security: 2.1
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Hurricane
+Weapon: Hobgoblin I
+
+Name: Dol Amroth
+Security: 0.2
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Ehre86
+Security: 0.6
+Alliance: YouWhat
+Corp: Dark Rising Shadow
+Ship: Capsule
+Weapon: XT-9000 Cruise Launcher
+
+Name: Irishwrath
+Security: 3.9
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Arazu
+Weapon: Arazu
+
+
+Destroyed items:
+
+1400mm Howitzer Artillery I
+1400mm Howitzer Artillery I
+1400mm Howitzer Artillery I
+Nuclear L, Qty: 57
+Sensor Booster II
+Tracking Computer II
+Tracking Computer II
+Tracking Computer II
+Beta Reactor Control: Diagnostic System I
+Beta Reactor Control: Reaction Control I
+Garde I, Qty: 4 (Drone Bay)
+

@@ -1,0 +1,71 @@
+2007.01.08 00:40
+
+Victim: sakana
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Destroyed: Megathron
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Arnold Swartzenegger
+Security: -0.2
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Warrior II
+
+Name: Heinky
+Security: 2.7
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Abaddon
+Weapon: Tachyon Beam Laser II
+
+Name: SATAN (laid the final blow)
+Security: -0.8
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+Name: Masta Killa
+Security: -1.7
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Cruise Missile Launcher II
+
+Name: duece duece
+Security: 5.0
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Maelstrom
+Weapon: Maelstrom
+
+Name: ETS4ME
+Security: 0.7
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+Name: Captain Rickdick
+Security: 0.0
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Capsule
+Weapon: Remote Sensor Dampener II
+
+
+Destroyed items:
+
+425mm Railgun I
+425mm Compressed Coil Gun I
+Antimatter Charge L, Qty: 58
+F-90 Positional Sensor Subroutines
+Magnetic Field Stabilizer II
+Microcell Nanite Explosive Hardener I
+Hobgoblin I, Qty: 10 (Drone Bay)
+

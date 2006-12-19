@@ -1,0 +1,36 @@
+2007.04.16 04:52
+
+Victim: Kayron Brennan
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Destroyed: Caracal
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: FowlPlayChiken (laid the final blow)
+Security: 1.2
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Thanatos
+Weapon: Berserker II
+
+Name: Sir Appa
+Security: 1.4
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Unknown
+Weapon: Hornet I
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 29
+Thunderbolt Heavy Missile, Qty: 52
+Advanced 'Limos' Heavy Missile Bay I
+Heavy Missile Launcher I
+Ballistic Control System I
+Thunderbolt Heavy Missile, Qty: 1319 (Cargo)
+Scourge Heavy Missile, Qty: 3225 (Cargo)
+

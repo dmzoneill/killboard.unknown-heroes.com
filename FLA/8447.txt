@@ -1,0 +1,54 @@
+2006.11.19 00:24
+
+Victim: Slinktress
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Destroyed: Megathron
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Hellspawn666
+Security: 1.2
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Typhoon
+Weapon: Ogre II
+
+Name: callonious
+Security: 0.6
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Curse
+Weapon: Vespa II
+
+Name: callon (laid the final blow)
+Security: -1.2
+Alliance: None
+Corp: The Raven Warriors
+Ship: Eris
+Weapon: Flameburst Light Missile
+
+
+Destroyed items:
+
+Quad Anode Light Particle Stream I
+Quad Anode Light Particle Stream I
+425mm Railgun I
+425mm Railgun I
+425mm Railgun I
+425mm Railgun I
+Iridium Charge L, Qty: 80
+Radio M
+Radio M
+Cap Recharger I
+Cap Recharger I
+100MN Afterburner I
+Large 'Accommodation' Vestment Reconstructer I
+Energized Regenerative Membrane I
+Armor Thermic Hardener I
+Armor Kinetic Hardener I
+Iridium Charge L, Qty: 1106 (Cargo)
+Hammerhead II (Drone Bay)
+

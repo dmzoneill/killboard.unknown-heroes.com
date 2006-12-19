@@ -1,0 +1,38 @@
+2007.01.16 09:40
+
+Victim: Almagar Phog
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Destroyed: Scorpion
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: ZUDD
+Security: 4.0
+Alliance: None
+Corp: Omniscient Order
+Ship: Ishtar
+Weapon: Wasp II
+
+Name: Noobjuice (laid the final blow)
+Security: -0.6
+Alliance: None
+Corp: Omniscient Order
+Ship: Typhoon
+Weapon: Paradise Cruise Missile
+
+
+Destroyed items:
+
+Heavy 'Knave' I Energy Drain
+Large 'Notos' Explosive Charge I
+Initiated Multispectral ECM I
+Initiated Multispectral ECM I
+Induced Multispectral ECM I
+'Hypnos' Multispectral ECM I
+F-90 Positional Sensor Subroutines
+Large Automated I Carapace Restoration
+Mobile Small Warp Disruptor I (Cargo)
+

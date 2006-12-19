@@ -1,0 +1,33 @@
+2007.04.08 19:45
+
+Victim: Scoutkill
+Alliance: None
+Corp: State War Academy
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Jarath Abyss (laid the final blow)
+Security: 4.2
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Ship: Thorax
+Weapon: 200mm Railgun II
+
+Name: AlexeiShtukov
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: Kristian Dugat
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Retribution
+Weapon: Medium Pulse Laser II
+
+

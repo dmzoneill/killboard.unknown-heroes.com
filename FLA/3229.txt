@@ -1,0 +1,68 @@
+2007.03.21 15:17
+
+Victim: Darc Kaahar
+Alliance: Freelancer Alliance
+Corp: Feel Good Inc.
+Destroyed: Vexor
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Jurushy (laid the final blow)
+Security: 4.9
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Hurricane
+Weapon: Ogre II
+
+Name: The Ali
+Security: -3.2
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: IsmaelYU5 Iluvatar
+Security: 5.0
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Taranis
+Weapon: 150mm Railgun II
+
+Name: volly
+Security: 3.1
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Curse
+Weapon: Warrior II
+
+Name: Eelim Garak
+Security: 1.3
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Curse
+Weapon: Hobgoblin II
+
+Name: Angie Mitchell
+Security: 0.6
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Heretic
+Weapon: Phased Muon Sensor Disruptor I
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Medium Nosferatu I
+Light Neutron Blaster I
+Light Neutron Blaster I
+10MN Afterburner II
+J5 Prototype Warp Inhibitor I
+Stasis Webifier I
+Damage Control I
+Medium Armor Repairer II
+Energized Adaptive Nano Membrane I
+400mm Reinforced Titanium Plates I
+

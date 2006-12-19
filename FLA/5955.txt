@@ -1,0 +1,44 @@
+2006.11.02 14:23
+
+Victim: Noh Chek'na
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Destroyed: Raven
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Ocara Nezus (laid the final blow)
+Security: 0.7
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Raven
+Weapon: Wrath Cruise Missile
+
+
+Destroyed items:
+
+Cruise Missile Launcher II
+Cruise Missile Launcher II
+Cataclysm Precision Cruise Missile, Qty: 20
+Phased Muon Sensor Disruptor I
+Phased Muon Sensor Disruptor I
+Sensor Booster II
+Local Hull Conversion Inertial Stabilizers I
+Local Hull Conversion Inertial Stabilizers I
+125mm Gatling AutoCannon II, Qty: 2 (Cargo)
+Ballistic Deflection Field II (Cargo)
+Vespa II (Cargo)
+Hammerhead I (Cargo)
+1600mm Reinforced Rolled Tungsten Plates I (Cargo)
+Ballistic Control System II, Qty: 3 (Cargo)
+Thunderbolt Heavy Missile, Qty: 734 (Cargo)
+Interdiction Sphere Launcher I (Cargo)
+Wrath Precision Cruise Missile, Qty: 894 (Cargo)
+Paradise Fury Cruise Missile, Qty: 905 (Cargo)
+Cataclysm Precision Cruise Missile, Qty: 893 (Cargo)
+Tripped Power Circuit, Qty: 4 (Cargo)
+Hornet II, Qty: 3 (Drone Bay)
+Infiltrator II (Drone Bay)
+

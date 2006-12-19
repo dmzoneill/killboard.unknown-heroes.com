@@ -1,0 +1,26 @@
+2007.03.10 12:00
+
+Victim: Karehb
+Alliance: YouWhat
+Corp: Princeps Corp
+Destroyed: Capsule
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: sakana (laid the final blow)
+Security: -0.9
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Eris
+Weapon: 75mm Gatling Rail II
+
+Name: Vile rat
+Security: 5.0
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Thorax
+Weapon: Initiated Warp Jammer I
+
+

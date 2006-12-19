@@ -1,0 +1,41 @@
+2007.01.31 05:48
+
+Victim: Johnny Gurkha
+Alliance: None
+Corp: Corporate Fornication
+Destroyed: Moa
+System: Enderailen
+Security: 0.4
+
+Involved parties:
+
+Name: Sorlac Aurora (laid the final blow)
+Security: 1.4
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Caracal
+Weapon: Torrent Assault Missile
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Medium 'Vehemence' I Shockwave Charge
+Heavy Ion Blaster I
+Antimatter Charge M, Qty: 102
+Medium Shield Extender I
+Medium Shield Extender I
+J5 Prototype Warp Inhibitor I
+Shield Power Relay I
+Shield Power Relay I
+Shield Power Relay I
+Small Hull Repairer I (Cargo)
+Dread Guristas Thorium Charge S, Qty: 1000 (Cargo)
+Tracking Computer I (Cargo)
+Dread Guristas Silver Tag (Cargo)
+Piranha Light Missile, Qty: 295 (Cargo)
+Flameburst Light Missile, Qty: 362 (Cargo)
+Thunderbolt Heavy Missile, Qty: 1902 (Cargo)
+Serpent F.O.F. Light Missile I, Qty: 100 (Cargo)
+Standard Missile Launcher I (Cargo)
+

@@ -1,0 +1,47 @@
+2006.09.01 23:15
+
+Victim: Kyoshisan
+Alliance: Freelancer Alliance
+Corp: BGG
+Destroyed: Capsule
+System: JU-OWQ
+Security: 0.0
+
+Involved parties:
+
+Name: s0litaire (laid the final blow)
+Security: 0.2
+Alliance: None
+Corp: Torment.
+Ship: Muninn
+Weapon: 720mm Howitzer Artillery II
+
+Name: DeathTrip
+Security: 5.2
+Alliance: None
+Corp: 0utbreak
+Ship: Eagle
+Weapon: 250mm Prototype I Gauss Gun
+
+Name: Dr Ping
+Security: 5.0
+Alliance: None
+Corp: 0utbreak
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: mr cheech
+Security: 5.0
+Alliance: None
+Corp: 0utbreak
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+Name: Memoi
+Security: -0.2
+Alliance: None
+Corp: 0utbreak
+Ship: Astarte
+Weapon: 250mm Railgun II
+
+

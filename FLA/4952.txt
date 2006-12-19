@@ -1,0 +1,43 @@
+2007.04.20 14:37
+
+Victim: Rohan V
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Blackbird
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Trooper B99 (laid the final blow)
+Security: 1.1
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Cabadrin
+Security: 3.8
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Ishtar
+Weapon: X5 Prototype I Engine Enervator
+
+Name: ZAPPEL
+Security: 2.5
+Alliance: Mercenary Coalition
+Corp: Seraphin Technologies
+Ship: Myrmidon
+Weapon: Faint Warp Prohibitor I
+
+
+Destroyed items:
+
+150mm Carbide Railgun I
+Thorium Charge S, Qty: 9
+Sabretooth Light Missile, Qty: 45
+'Malkuth' Assault Missile Launcher I
+ECM - Multispectral Jammer I
+Prototype I Sensor Booster
+Warp Core Stabilizer I
+

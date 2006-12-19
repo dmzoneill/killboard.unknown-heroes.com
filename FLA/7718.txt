@@ -1,0 +1,50 @@
+2006.05.02 00:27
+
+Victim: TheBelgarion
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Caracal
+System: 3T7-M8
+Security: 0.0
+
+Involved parties:
+
+Name: Arcon
+Security: 1.0
+Alliance: Sparta Alliance
+Corp: Turanic Raiders
+Ship: Raven
+Weapon: Wrath Precision Cruise Missile
+
+Name: Fletcher Vardy (laid the final blow)
+Security: 4.4
+Alliance: Sparta Alliance
+Corp: T.E.C II
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+Name: Allistar Mckeon
+Security: 2.1
+Alliance: Northern Freedom Coalition
+Corp: GalacTECH Unlimited
+Ship: Raven
+Weapon: Cruise Missile Launcher I
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 26
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Large Azeotropic Ward Salubrity I
+Heat Dissipation Field I
+Kinetic Deflection Amplifier I
+Target Painter I
+Ballistic Control System I
+Ballistic Control System I
+Large Shield Extender I (Cargo)
+Warp Core Stabilizer I (Cargo)
+Ballistic Control System I, Qty: 8 (Cargo)
+Scourge Heavy Missile, Qty: 4830 (Cargo)
+

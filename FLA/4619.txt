@@ -1,0 +1,57 @@
+2007.04.15 19:15
+
+Victim: Cockroach
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Retribution
+System: K4YZ-Y
+Security: 0.0
+
+Involved parties:
+
+Name: FrankieG (laid the final blow)
+Security: -0.9
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: SaNoSuKeJavi
+Security: -1.9
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Taranis
+Weapon: Taranis
+
+Name: Himphotep 87
+Security: 1.5
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Taranis
+Weapon: Warrior II
+
+Name: Topasio
+Security: 3.1
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Rifter
+Weapon: Rifter
+
+Name: Nemesys 8
+Security: 4.3
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Hawk
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+Medium Pulse Laser II
+Small 'Arup' I Remote Bulwark Reconstruction
+1MN MicroWarpdrive II
+Energized Adaptive Nano Membrane II
+Radioisotope Thermic Hardener I
+Radio S, Qty: 4 (Cargo)
+Scorch S, Qty: 5 (Cargo)
+

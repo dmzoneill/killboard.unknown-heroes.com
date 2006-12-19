@@ -1,0 +1,40 @@
+2006.11.13 16:42
+
+Victim: JimmyCS
+Alliance: None
+Corp: Venom.
+Destroyed: Iteron Mark IV
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: LizzyD (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Ishkur
+Weapon: 150mm Railgun II
+
+Name: LiBraga
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Eagle
+Weapon: Eagle
+
+Name: Darth Hound
+Security: 1.7
+Alliance: Schism.
+Corp: Fatalix Inc.
+Ship: Thrasher
+Weapon: Thrasher
+
+Name: Scorpio63
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Vengeance
+Weapon: 'Arbalest' Standard Missile Launcher
+
+

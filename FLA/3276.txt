@@ -1,0 +1,32 @@
+2007.03.22 19:08
+
+Victim: Saan Motak
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Vexor
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Sith Bandon
+Security: 5.0
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Ishtar
+Weapon: Hammerhead II
+
+Name: ellamea (laid the final blow)
+Security: 5.0
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+
+Destroyed items:
+
+10MN Afterburner I
+Stasis Webifier I
+Medium Armor Repairer II
+

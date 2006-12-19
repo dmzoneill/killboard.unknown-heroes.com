@@ -1,0 +1,26 @@
+2007.03.13 21:39
+
+Victim: Tallianna Avenkarde
+Alliance: YouWhat
+Corp: Beasts of Burden
+Destroyed: Capsule
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Minisoza (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Enyo
+Weapon: 150mm Railgun II
+
+Name: MrMaggot
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Hawk
+Weapon: TE-2100 Standard Missile Bay
+
+

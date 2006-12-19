@@ -1,0 +1,33 @@
+2007.04.19 19:41
+
+Victim: Kuentai
+Alliance: Corelum Syndicate
+Corp: Coreli Corporation
+Destroyed: Sabre
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: DeSantis (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+
+Destroyed items:
+
+150mm Light AutoCannon II
+150mm Light AutoCannon II
+150mm Light AutoCannon II
+Barrage S, Qty: 240
+Warp Disrupt Probe, Qty: 10
+Interdiction Sphere Launcher I
+1MN MicroWarpdrive II
+Fleeting Warp Scrambler I
+Beta Hull Mod Overdrive Injector
+Light Neutron Blaster II (Cargo)
+Standard Missile Launcher II, Qty: 2 (Cargo)
+

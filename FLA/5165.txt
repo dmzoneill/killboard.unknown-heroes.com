@@ -1,0 +1,50 @@
+2007.01.28 05:11
+
+Victim: Ducimus Daimon
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Raven
+System: J1AU-9
+Security: 0.0
+
+Involved parties:
+
+Name: Guristas Eradicator / Guristas
+
+Name: P1rate Dave (laid the final blow)
+Security: 0.9
+Alliance: None
+Corp: 0utbreak
+Ship: Typhoon
+Weapon: Ogre I
+
+Name: Vyndicator
+Security: -2.5
+Alliance: None
+Corp: 0utbreak
+Ship: Typhoon
+Weapon: Praetor I
+
+
+Destroyed items:
+
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Juggernaut Torpedo, Qty: 36
+'Arbalest' Siege Missile Launcher
+'Arbalest' Siege Missile Launcher
+Small Tractor Beam I
+Large Shield Extender II
+Ballistic Deflection Field I
+Ballistic Deflection Field I
+Kinetic Deflection Amplifier II
+Ballistic Control System II
+Power Diagnostic System II
+Medium Rudimentary Concussion Bomb I (Cargo)
+Dread Guristas 250mm Railgun (Cargo)
+Dread Guristas Iron Charge M, Qty: 1000 (Cargo)
+Dread Guristas Kinetic Deflection Amplifier (Cargo)
+

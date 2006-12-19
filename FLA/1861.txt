@@ -1,0 +1,52 @@
+2007.01.07 02:26
+
+Victim: Swindy
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Crow
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Masta Killa
+Security: -1.7
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Warrior II
+
+Name: Captain Rickdick (laid the final blow)
+Security: -0.1
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+Name: SATAN
+Security: -0.9
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Cruise Missile Launcher II
+
+Name: Lemlins Craken
+Security: -0.3
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Heavy Diminishing Power System Drain I
+
+Name: Dire Guristas Despoiler / Guristas
+
+
+Destroyed items:
+
+125mm Prototype I Gauss Gun
+'Malkuth' Standard Missile Launcher I
+1MN MicroWarpdrive II
+J5 Prototype Warp Inhibitor I
+Capacitor Power Relay I
+Capacitor Power Relay I
+Antimatter Charge S, Qty: 2000 (Cargo)
+

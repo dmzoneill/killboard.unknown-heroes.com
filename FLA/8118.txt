@@ -1,0 +1,28 @@
+2006.10.11 02:08
+
+Victim: Micheal Ross
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Destroyed: Raptor
+System: Alikara
+Security: 0.7
+
+Involved parties:
+
+Name: hero88 (laid the final blow)
+Security: -1.9
+Alliance: None
+Corp: Privateers
+Ship: Ishkur
+Weapon: Hammerhead II
+
+
+Destroyed items:
+
+125mm Railgun I
+125mm Compressed Coil Gun I
+Antimatter Charge S, Qty: 35
+Bloodclaw Light Missile, Qty: 64
+Fleeting Warp Scrambler I
+Cross-linked Bolt Array I
+

@@ -1,0 +1,57 @@
+2006.10.23 10:31
+
+Victim: Bloodst0ne
+Alliance: Kith of Venal
+Corp: Solidline Enterprise
+Destroyed: Deimos
+System: VPLL-N
+Security: 0.0
+
+Involved parties:
+
+Name: Vcbdjuu
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: Feel Good Inc.
+Ship: Capsule
+Weapon: 'Arbalest' Siege Missile Launcher
+
+Name: llewre caro
+Security: 4.5
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Raven
+Weapon: Bane Torpedo
+
+Name: Lkin Kce (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Raven
+Weapon: Juggernaut Torpedo
+
+Name: Guristas Destroyer / Guristas
+
+Name: cceiber
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Raven
+Weapon: Juggernaut Torpedo
+
+
+Destroyed items:
+
+Antimatter Charge M, Qty: 480
+10MN MicroWarpdrive II
+Magnetic Field Stabilizer II
+Magnetic Field Stabilizer II
+Eutectic I Capacitor Charge Array (Cargo)
+Cap Recharger II (Cargo)
+F-b10 Nominal Capacitor Regenerator, Qty: 3 (Cargo)
+Medium Armor Repairer II (Cargo)
+Antimatter Charge M, Qty: 1589 (Cargo)
+Guristas Diamond Tag (Cargo)
+Dread Guristas Diamond Tag (Cargo)
+'Arbalest' Cruise Launcher I (Cargo)
+

@@ -1,0 +1,34 @@
+2007.01.22 17:44
+
+Victim: Sidrat Flush
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Destroyed: Blackbird
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: WarGod (laid the final blow)
+Security: 1.4
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Curse
+Weapon: Berserker II
+
+
+Destroyed items:
+
+200mm Railgun I
+150mm Railgun I
+Antimatter Charge S, Qty: 39
+Iron Charge M, Qty: 80
+1MN MicroWarpdrive I
+ECM - Multispectral Jammer I
+ECM - Multispectral Jammer I
+Remote Sensor Dampener I
+Tracking Disruptor I
+Overdrive Injector System I
+Overdrive Injector System I
+Iron Charge M, Qty: 198 (Cargo)
+

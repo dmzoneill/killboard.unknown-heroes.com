@@ -1,0 +1,26 @@
+2007.03.25 00:07
+
+Victim: Drake Smith
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Destroyed: Osprey
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Hunter Roshak (laid the final blow)
+Security: 4.4
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Armageddon
+Weapon: Ogre I
+
+
+Destroyed items:
+
+Heavy Missile Launcher I
+Large Shield Booster I
+ECM - Multispectral Jammer I
+Inertia Stabilizers I
+

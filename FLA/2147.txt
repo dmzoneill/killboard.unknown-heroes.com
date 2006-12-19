@@ -1,0 +1,33 @@
+2007.01.24 23:13
+
+Victim: Korudon
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Capsule
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Space Debris
+Security: 1.2
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Unknown
+Weapon: 250mm Light Prototype I Siege Cannon
+
+Name: Harry Stoteles (laid the final blow)
+Security: 3.3
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Apocalypse
+Weapon: Mega Beam Laser II
+
+Name: Miss Dominatrix
+Security: 2.1
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Crow
+Weapon: Standard Missile Launcher I
+
+

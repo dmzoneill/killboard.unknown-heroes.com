@@ -1,0 +1,23 @@
+2007.03.27 15:40
+
+Victim: marlbl
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Destroyed: Condor
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Gordon Red (laid the final blow)
+Security: 2.0
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Heretic
+Weapon: Dual Light Beam Laser II
+
+
+Destroyed items:
+
+E500 Prototype Energy Vampire (Cargo)
+

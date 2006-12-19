@@ -1,0 +1,169 @@
+2007.03.10 04:59
+
+Victim: Sanal Gi
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Scorpion
+System: O1Y-ED
+Security: 0.0
+
+Involved parties:
+
+Name: ShadowDemon
+Security: -1.4
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Hawk
+Weapon: Hawk
+
+Name: Uthreignish
+Security: 5.5
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Wolf
+Weapon: Wolf
+
+Name: PsychNerD
+Security: 0.7
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Wolf
+Weapon: Wolf
+
+Name: xCERBERUS2
+Security: -0.8
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Criosachille
+Security: 3.4
+Alliance: Xelas Alliance
+Corp: Catalyst Reaction
+Ship: Taranis
+Weapon: Taranis
+
+Name: ZAX0236
+Security: 5.0
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Flycatcher
+Weapon: Sabretooth Precision Light Missile
+
+Name: Rif
+Security: 5.0
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Retribution
+Weapon: Dual Afocal Light Maser I
+
+Name: kezz2411 (laid the final blow)
+Security: 5.3
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Crusader
+Weapon: Dual Light Beam Laser II
+
+Name: kabayn
+Security: 5.0
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: kIM JONGELL
+Security: 4.8
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Harpy
+Weapon: Harpy
+
+Name: FireFox McProwler
+Security: 0.0
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Crow
+Weapon: Thorn Rocket
+
+Name: Hunter Vonnegut
+Security: 5.0
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Ishkur
+Weapon: Hobgoblin II
+
+Name: shadow5150
+Security: 3.8
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Rapier
+Weapon: Rapier
+
+Name: IamnobodyCL
+Security: 5.0
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Crusader
+Weapon: Crusader
+
+Name: Aurael Drakewing
+Security: -7.4
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Harpy
+Weapon: Harpy
+
+Name: DeathGrip
+Security: 2.3
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Flycatcher
+Weapon: Foxfire Javelin Rocket
+
+Name: Hansihandyr
+Security: 4.6
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Taranis
+Weapon: Taranis
+
+Name: Monticore D'Muertos
+Security: 5.0
+Alliance: Axiom Empire
+Corp: United Society Starfleet
+Ship: Raptor
+Weapon: Thorn Javelin Rocket
+
+Name: merckiller
+Security: 1.0
+Alliance: Xelas Alliance
+Corp: Requiem of Hades
+Ship: Crow
+Weapon: Crow
+
+Name: CulVar
+Security: 1.9
+Alliance: Axiom Empire
+Corp: Regalis Industria Scientia Entreprendre
+Ship: Rifter
+Weapon: Standard Missile Launcher I
+
+Name: Talon Kell
+Security: 5.1
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Taranis
+Weapon: Taranis
+
+
+Destroyed items:
+
+Heavy 'Knave' I Energy Drain
+Cataclysm Cruise Missile, Qty: 44
+'Limos' Cruise Launcher I
+Stasis Webifier I
+Capacitor Flux Coil I
+Ogre I (Drone Bay)
+Hammerhead II (Drone Bay)
+

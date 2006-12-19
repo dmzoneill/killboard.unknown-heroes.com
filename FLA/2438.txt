@@ -1,0 +1,28 @@
+2007.02.10 19:45
+
+Victim: Kerdrak
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Destroyed: Malediction
+System: DO6H-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Zungen (laid the final blow)
+Security: 5.0
+Alliance: Red Moon Federation
+Corp: Confederation of Red Moon
+Ship: Myrmidon
+Weapon: Berserker II
+
+
+Destroyed items:
+
+Gatling Pulse Laser II
+Gremlin Rocket, Qty: 30
+'Arbalest' Rocket Launcher I
+Catalyzed Cold-Gas I Arcjet Thrusters
+Multifrequency S (Cargo)
+Gremlin Rocket, Qty: 360 (Cargo)
+

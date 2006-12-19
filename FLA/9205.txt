@@ -1,0 +1,60 @@
+2007.05.02 00:04
+
+Victim: Corovus
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Destroyed: Incursus
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Screamer (laid the final blow)
+Security: 1.0
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Chimera
+Weapon: Berserker I
+
+Name: Gerald Osikawa
+Security: 0.9
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Caracal
+Weapon: Heavy Missile Launcher I
+
+Name: Ghost Hughdidit
+Security: 3.1
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Thanatos
+Weapon: Hornet II
+
+Name: Akthuul
+Security: 5.0
+Alliance: Storm Armada
+Corp: stone grave haulage
+Ship: Crow
+Weapon: Hammerhead I
+
+Name: sammual
+Security: -2.6
+Alliance: Vigilance.
+Corp: The Phoenix Rising
+Ship: Drake
+Weapon: Heavy Missile Launcher I
+
+Name: Bic Drax
+Security: 3.7
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Dominix
+Weapon: Stasis Webifier I
+
+
+Destroyed items:
+
+Antimatter Charge S, Qty: 80
+Stasis Webifier I
+150mm Railgun I (Cargo)
+

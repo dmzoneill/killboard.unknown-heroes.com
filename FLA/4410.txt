@@ -1,0 +1,48 @@
+2007.04.09 15:11
+
+Victim: ConXtionS
+Alliance: Freelancer Alliance
+Corp: The Night Crew
+Destroyed: Iteron Mark IV
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: FA Avenger (laid the final blow)
+Security: 2.9
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+10MN Afterburner II
+Carbonized Lead L, Qty: 1311 (Cargo)
+EMP L, Qty: 2000 (Cargo)
+Nuclear L, Qty: 2000 (Cargo)
+Phased Plasma L, Qty: 2000 (Cargo)
+Proton L, Qty: 1035 (Cargo)
+Titanium Sabot L, Qty: 2000 (Cargo)
+Cap Booster 400, Qty: 43 (Cargo)
+Bane Torpedo, Qty: 9056 (Cargo)
+Inferno Torpedo, Qty: 5336 (Cargo)
+Juggernaut Torpedo, Qty: 100 (Cargo)
+Giant Secure Container (Cargo)
+Barrage S, Qty: 1877 (Cargo)
+Spike M, Qty: 368 (Cargo)
+Thunderbolt Heavy Missile, Qty: 389 (Cargo)
+Scourge Heavy Missile, Qty: 4510 (Cargo)
+Snoop Scanner Probe I, Qty: 9 (Cargo)
+Spook Scanner Probe I, Qty: 4 (Cargo)
+Fathom Scanner Probe I, Qty: 3 (Cargo)
+Scordite Mining Crystal I, Qty: 18 (Cargo)
+Spodumain Mining Crystal I, Qty: 6 (Cargo)
+Scordite Mining Crystal II, Qty: 2 (Cargo)
+Veldspar Mining Crystal I, Qty: 6 (Cargo)
+Pyroxeres Mining Crystal I, Qty: 6 (Cargo)
+Veldspar Mining Crystal II (Cargo)
+Pyroxeres Mining Crystal II, Qty: 2 (Cargo)
+

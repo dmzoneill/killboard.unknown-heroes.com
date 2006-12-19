@@ -1,0 +1,26 @@
+2006.09.16 21:21
+
+Victim: Shaitis
+Alliance: None
+Corp: Beagle Corp
+Destroyed: Capsule
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: UnAimedPlayer (laid the final blow)
+Security: 1.7
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Ship: Jaguar
+Weapon: Thorn Rocket
+
+Name: Nende
+Security: 5.0
+Alliance: None
+Corp: Ashen Lion Mining and Production Consortium
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+

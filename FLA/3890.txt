@@ -1,0 +1,19 @@
+2007.04.04 18:15
+
+Victim: WasteManagement
+Alliance: None
+Corp: Center for Advanced Studies
+Destroyed: Amarr Shuttle
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: ClogMan (laid the final blow)
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Thrasher
+Weapon: 280mm Howitzer Artillery II
+
+

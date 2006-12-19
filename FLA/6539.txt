@@ -1,0 +1,44 @@
+2006.11.16 17:23
+
+Victim: Murdoch Morf
+Alliance: Triumvirate.
+Corp: D00M.
+Destroyed: Thrasher
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: MAD D0G (laid the final blow)
+Security: -2.6
+Alliance: None
+Corp: Ganksters Paradise
+Ship: Raven
+Weapon: Mjolnir Javelin Torpedo
+
+Name: Huehnerbein
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Cataclysm Enterprises
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Karas Rabus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Huginn
+Weapon: Assault Missile Launcher II
+
+
+Destroyed items:
+
+280mm Howitzer Artillery II
+280mm Howitzer Artillery II
+280mm Howitzer Artillery II
+280mm Howitzer Artillery II
+280mm Howitzer Artillery II
+Tremor S, Qty: 30
+Proton S, Qty: 2000 (Cargo)
+Tremor S, Qty: 3523 (Cargo)
+

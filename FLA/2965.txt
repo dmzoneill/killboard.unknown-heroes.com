@@ -1,0 +1,52 @@
+2007.03.17 21:08
+
+Victim: Ninjitsuki
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Destroyed: Rokh
+System: F7C-H0
+Security: 0.0
+
+Involved parties:
+
+Name: Donald Trump (laid the final blow)
+Security: -1.7
+Alliance: Eternal Rapture
+Corp: Temptation inc.
+Ship: Tempest
+Weapon: 1200mm Artillery Cannon II
+
+Name: Gliding
+Security: -1.9
+Alliance: Eternal Rapture
+Corp: Quantum Synergies
+Ship: Hyperion
+Weapon: Hammerhead II
+
+Name: C Duggan
+Security: -4.4
+Alliance: Eternal Rapture
+Corp: Exotic Dancers Club
+Ship: Raptor
+Weapon: Foxfire Rocket
+
+Name: R3voLveR
+Security: 0.4
+Alliance: Eternal Rapture
+Corp: Quantum Synergies
+Ship: Atron
+Weapon: Warp Disruptor I
+
+
+Destroyed items:
+
+425mm Compressed Coil Gun I
+425mm Compressed Coil Gun I
+Antimatter Charge L, Qty: 160
+Invulnerability Field I
+Photon Scattering Field I
+Sensor Booster II
+Tracking Enhancer II
+Insulated Stabilizer Array I
+Magnetic Field Stabilizer II
+

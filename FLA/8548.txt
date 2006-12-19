@@ -1,0 +1,60 @@
+2006.11.27 01:40
+
+Victim: Duana
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Vagabond
+System: E-FIC0
+Security: 0.0
+
+Involved parties:
+
+Name: Dirtball
+Security: 2.4
+Alliance: None
+Corp: Kemono.
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Mang0o
+Security: -3.9
+Alliance: None
+Corp: Kemono.
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Kabalevsky
+Security: -1.8
+Alliance: None
+Corp: Kemono.
+Ship: Typhoon
+Weapon: Bane Torpedo
+
+Name: Kin'Tarr
+Security: 1.1
+Alliance: None
+Corp: The Salieri Society
+Ship: Typhoon
+Weapon: Fleeting Warp Scrambler I
+
+Name: Crax McGee (laid the final blow)
+Security: -2.1
+Alliance: None
+Corp: Kemono.
+Ship: Dominix
+Weapon: Berserker II
+
+
+Destroyed items:
+
+220mm Vulcan AutoCannon II
+220mm Vulcan AutoCannon II
+220mm Vulcan AutoCannon II
+Phased Plasma M, Qty: 168
+Large Shield Extender II
+Large Shield Extender II
+Shield Power Relay I
+Phased Plasma M, Qty: 4225 (Cargo)
+Bloodclaw Light Missile, Qty: 351 (Cargo)
+Hornet I (Drone Bay)
+

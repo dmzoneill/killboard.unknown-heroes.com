@@ -1,0 +1,82 @@
+2007.02.27 22:18
+
+Victim: Tailn
+Alliance: Firmus Ixion
+Corp: Black Avatar
+Destroyed: Capsule
+System: 3-FKCZ
+Security: 0.0
+
+Involved parties:
+
+Name: TerminalVelocity
+Security: 4.9
+Alliance: Morsus Mihi
+Corp: Shiva
+Ship: Harpy
+Weapon: 125mm Prototype I Gauss Gun
+
+Name: Argento Wolf
+Security: 2.2
+Alliance: Pure.
+Corp: J.H.E.N.R
+Ship: Crusader
+Weapon: Dual Light Beam Laser II
+
+Name: Jerik Runehammer (laid the final blow)
+Security: 0.0
+Alliance: Pure.
+Corp: Obsidian Asylum
+Ship: Muninn
+Weapon: 720mm Howitzer Artillery II
+
+Name: Beneerages
+Security: 5.0
+Alliance: Morsus Mihi
+Corp: Free-Space-Ranger
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+Name: Plague Black
+Security: 4.5
+Alliance: Morsus Mihi
+Corp: 4S Corporation
+Ship: Jaguar
+Weapon: 200mm AutoCannon II
+
+Name: she1
+Security: 5.0
+Alliance: Pure.
+Corp: Dragons United
+Ship: Stiletto
+Weapon: 'Arbalest' Rocket Launcher I
+
+Name: Stealth0rz
+Security: 0.0
+Alliance: CORE.
+Corp: Knights of The Round
+Ship: Daredevil
+Weapon: 150mm Light AutoCannon II
+
+Name: Lanmi
+Security: 5.0
+Alliance: Morsus Mihi
+Corp: 4S Corporation
+Ship: Crow
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+Name: KriegDrachen
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Sabre
+Weapon: 150mm Light AutoCannon II
+
+Name: Jagodinac
+Security: 5.0
+Alliance: Morsus Mihi
+Corp: 4S Corporation
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+

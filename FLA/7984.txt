@@ -1,0 +1,19 @@
+2006.10.05 12:27
+
+Victim: rockerguy
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Destroyed: Capsule
+System: Isanamo
+Security: 0.6
+
+Involved parties:
+
+Name: Na'no (laid the final blow)
+Security: 0.0
+Alliance: None
+Corp: Privateers
+Ship: Caracal
+Weapon: Bloodclaw Light Missile
+
+

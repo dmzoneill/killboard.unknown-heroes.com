@@ -1,0 +1,77 @@
+2007.01.19 03:21
+
+Victim: alon blackhelm
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Destroyed: Drake
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Gaia's Wrath
+Security: 4.7
+Alliance: None
+Corp: Exanimo Inc
+Ship: Hyperion
+Weapon: Berserker I
+
+Name: Spinsq (laid the final blow)
+Security: -0.6
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Raven
+Weapon: Mjolnir Rage Torpedo
+
+Name: Misha Mosqito
+Security: 2.4
+Alliance: None
+Corp: Exanimo Inc
+Ship: Myrmidon
+Weapon: Myrmidon
+
+Name: Athlete
+Security: 1.0
+Alliance: None
+Corp: Exanimo Inc
+Ship: Hyperion
+Weapon: Electron Blaster Cannon II
+
+Name: StellaBlue
+Security: 0.0
+Alliance: None
+Corp: Exanimo Inc
+Ship: Arazu
+Weapon: Indirect Scanning Dampening Unit I
+
+Name: Mithras Romanus
+Security: 0.0
+Alliance: None
+Corp: Exanimo Inc
+Ship: Lachesis
+Weapon: Phased Muon Sensor Disruptor I
+
+Name: Jaysun Myst
+Security: 0.5
+Alliance: None
+Corp: Exanimo Inc
+Ship: Blackbird
+Weapon: ECM - Spatial Destabilizer I
+
+
+Destroyed items:
+
+Medium 'Ghoul' Energy Siphon I
+Havoc Heavy Missile, Qty: 40
+'Arbalest' Heavy Missile Launcher
+'Arbalest' Heavy Missile Launcher
+'Arbalest' Heavy Missile Launcher
+Large Shield Booster II
+10MN Afterburner II
+Initiated Warp Jammer I
+Invulnerability Field II
+Power Diagnostic System II
+Havoc Heavy Missile, Qty: 475 (Cargo)
+Widowmaker Heavy Missile, Qty: 576 (Cargo)
+Acolyte I, Qty: 3 (Drone Bay)
+

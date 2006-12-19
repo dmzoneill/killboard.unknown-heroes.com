@@ -1,0 +1,40 @@
+2007.02.16 20:17
+
+Victim: Fragzeline
+Alliance: Privateer Alliance
+Corp: Righteous Choirboys
+Destroyed: Apocalypse
+System: Kaaputenen
+Security: 0.8
+
+Involved parties:
+
+Name: tiita
+Security: 1.8
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Armageddon
+Weapon: Vespa II
+
+Name: Nammi (laid the final blow)
+Security: 0.0
+Alliance: X-PACT
+Corp: Eye of God
+Ship: Hurricane
+Weapon: 425mm AutoCannon I
+
+Name: rappter
+Security: -1.3
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Capsule
+Weapon: 'Langour' Drive Disruptor I
+
+Name: Trulaine
+Security: -1.9
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Arazu
+Weapon: Arazu
+
+

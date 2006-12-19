@@ -1,0 +1,19 @@
+2006.11.06 15:01
+
+Victim: yantuk
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Destroyed: Capsule
+System: Haajinen
+Security: 0.8
+
+Involved parties:
+
+Name: Balatar (laid the final blow)
+Security: 1.2
+Alliance: None
+Corp: The Initiative
+Ship: Apocalypse
+Weapon: Tachyon Beam Laser II
+
+

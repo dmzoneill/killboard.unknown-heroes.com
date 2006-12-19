@@ -1,0 +1,94 @@
+2006.09.09 02:57
+
+Victim: Kadran
+Alliance: Eternal Empire
+Corp: Spectral Armada
+Destroyed: Thrasher
+System: J-CIJV
+Security: 0.0
+
+Involved parties:
+
+Name: Valtaer
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: Terminal Velocity Inc.
+Ship: Harpy
+Weapon: Harpy
+
+Name: MiA Greasy
+Security: -1.0
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Crusader
+Weapon: Crusader
+
+Name: Weeble Wooble (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Taranis
+Weapon: 125mm Railgun II
+
+Name: Bricker
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Thorax
+Weapon: Thorax
+
+Name: Downeaster
+Security: 3.5
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Thorax
+Weapon: Thorax
+
+Name: KriegDrachen
+Security: 0.4
+Alliance: Freelancer Alliance
+Corp: Abandoned Resolve Corporation
+Ship: Punisher
+Weapon: Punisher
+
+Name: Jessica McDaniel
+Security: 0.4
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Caracal
+Weapon: Initiated Multispectral ECM I
+
+Name: Galron Zuma
+Security: 1.7
+Alliance: Freelancer Alliance
+Corp: Terminal Velocity Inc.
+Ship: Rifter
+Weapon: Rifter
+
+Name: Christopher Cook
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Terminal Velocity Inc.
+Ship: Rifter
+Weapon: 200mm AutoCannon I
+
+Name: Arnim
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: Terminal Velocity Inc.
+Ship: Hawk
+Weapon: Standard Missile Launcher I
+
+
+Destroyed items:
+
+280mm 'Scout' Artillery I
+280mm 'Scout' Artillery I
+280mm 'Scout' Artillery I
+EMP S, Qty: 30
+Thorn Rocket, Qty: 30
+'Limos' Rocket Launcher I
+1MN MicroWarpdrive I
+Carbonized Lead S, Qty: 5000 (Cargo)
+Thorn Rocket, Qty: 1920 (Cargo)
+

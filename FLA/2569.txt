@@ -1,0 +1,38 @@
+2007.02.22 22:22
+
+Victim: EvilBadger
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Hawk
+System: Aubenall
+Security: 0.4
+
+Involved parties:
+
+Name: GATLER (laid the final blow)
+Security: -5.2
+Alliance: None
+Corp: Die Ritter der Kokosnuss
+Ship: Hurricane
+Weapon: 220mm Vulcan AutoCannon II
+
+
+Destroyed items:
+
+Thorn Rocket
+Thorn Rocket
+Thorn Rocket
+Thorn Rocket
+Thorn Rocket
+Thorn Rocket
+'Arbalest' Rocket Launcher I
+'Arbalest' Rocket Launcher I
+'Arbalest' Rocket Launcher I
+Medium Shield Extender II
+Power Diagnostic System II
+Ballistic Control System I (Cargo)
+Gremlin Rocket, Qty: 6100 (Cargo)
+Phalanx Rocket, Qty: 4893 (Cargo)
+Foxfire Rocket, Qty: 7118 (Cargo)
+Salvager I (Cargo)
+

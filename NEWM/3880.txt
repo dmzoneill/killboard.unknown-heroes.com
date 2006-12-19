@@ -1,0 +1,120 @@
+2007.04.03 22:29
+
+Victim: boo3916
+Alliance: Triumvirate.
+Corp: D00M.
+Destroyed: Dominix
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Mocuker (laid the final blow)
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+Name: Jonkai
+Security: -3.8
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Hyperion
+Weapon: Hyperion
+
+Name: Darthirishguy
+Security: 2.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Raven
+Weapon: Wrath Cruise Missile
+
+Name: Bunds
+Security: 5.2
+Alliance: Insane Asylum
+Corp: PILGRIMS
+Ship: Cerberus
+Weapon: Thunderbolt Heavy Missile
+
+Name: Kaand
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: ConXtionS
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: The Night Crew
+Ship: Brutix
+Weapon: Vespa II
+
+Name: Korudon
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Dominix
+Weapon: 350mm Railgun I
+
+Name: Njord V
+Security: -0.3
+Alliance: Freelancer Alliance
+Corp: Blackwater Squadron
+Ship: Wolf
+Weapon: Wolf
+
+Name: Solomon XI
+Security: 0.7
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Caracal
+Weapon: Thunderbolt Heavy Missile
+
+Name: dastommy79
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Condor
+Weapon: 'Malkuth' Rocket Launcher I
+
+Name: Denaris1
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Ferox
+Weapon: 250mm 'Scout' I Accelerator Cannon
+
+Name: icstunna
+Security: 0.9
+Alliance: Federation Of united Corps
+Corp: Drunken Ship Mates
+Ship: Incursus
+Weapon: Small Nosferatu I
+
+Name: Rohan V
+Security: 2.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Blackbird
+Weapon: ECM - Multispectral Jammer I
+
+
+Destroyed items:
+
+E500 Prototype Energy Vampire
+Medium Nosferatu II
+250mm Railgun II
+250mm Railgun II
+250mm Railgun II
+Antimatter Charge M, Qty: 94
+Heavy Electrochemical Capacitor Booster I
+Energized Adaptive Nano Membrane II
+Armor Kinetic Hardener II
+Armor Thermic Hardener II
+Cap Booster 800, Qty: 8 (Cargo)
+Warrior II, Qty: 4 (Drone Bay)
+Hammerhead II, Qty: 3 (Drone Bay)
+Ogre II, Qty: 3 (Drone Bay)
+

@@ -1,0 +1,69 @@
+2007.04.10 02:54
+
+Victim: FlobbMkII
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Catalyst
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Yokujin
+Security: -1.4
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+Name: Dominixa
+Security: 5.0
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: shadow5150
+Security: 5.0
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Rapier
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: Lady Vanquish (laid the final blow)
+Security: 4.2
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Stiletto
+Weapon: 200mm AutoCannon II
+
+Name: Frank Monkey
+Security: -0.1
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Taranis
+Weapon: Taranis
+
+Name: Korran Delan
+Security: 4.8
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Moa
+Weapon: Moa
+
+Name: Zayk
+Security: 3.5
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Heretic
+Weapon: Tracking Disruptor I
+
+
+Destroyed items:
+
+125mm Railgun I, Qty: 6
+Antimatter Charge S, Qty: 355
+Warp Scrambler I
+Sensor Booster I
+Magnetic Field Stabilizer I
+Iron Charge S, Qty: 891 (Cargo)

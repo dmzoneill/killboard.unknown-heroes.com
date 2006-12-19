@@ -1,0 +1,37 @@
+2007.01.20 13:59
+
+Victim: Gythar
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Moa
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Murdoch Morf (laid the final blow)
+Security: 0.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: xlop
+Security: -1.2
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+
+Destroyed items:
+
+250mm Railgun I
+Bloodclaw Light Missile, Qty: 56
+Assault Missile Launcher I
+Shield Boost Amplifier I
+Magnetic Field Stabilizer I
+Magnetic Field Stabilizer I
+Iron Charge M, Qty: 4080 (Cargo)
+Sabretooth Light Missile, Qty: 1940 (Cargo)
+

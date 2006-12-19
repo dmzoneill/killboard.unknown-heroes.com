@@ -1,0 +1,50 @@
+2007.04.04 06:40
+
+Victim: Trinitty
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Destroyed: Iteron Mark V
+System: N2IS-B
+Security: 0.0
+
+Involved parties:
+
+Name: Xordus
+Security: 0.5
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Armageddon
+Weapon: Mega Modulated Pulse Energy Beam I
+
+Name: Nipplator
+Security: -0.5
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Armageddon
+Weapon: Mega Modulated Pulse Energy Beam I
+
+Name: Lorn Zolog (laid the final blow)
+Security: -1.3
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Armageddon
+Weapon: Dual Heavy Pulse Laser II
+
+Name: Anomaly21
+Security: -1.0
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Flycatcher
+Weapon: Thorn Rocket
+
+
+Destroyed items:
+
+Prototype Cloaking Device I
+1MN MicroWarpdrive I
+Expanded Cargohold I
+Expanded Cargohold I
+Expanded Cargohold I
+Expanded Cargohold I
+Reactor Array (Cargo)
+

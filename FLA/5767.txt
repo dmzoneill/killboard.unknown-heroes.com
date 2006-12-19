@@ -1,0 +1,33 @@
+2006.10.16 20:08
+
+Victim: Shevarash
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Destroyed: Stiletto
+System: Uemisaisen
+Security: 0.6
+
+Involved parties:
+
+Name: Goca (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Raven
+Weapon: Large YF-12a Smartbomb
+
+
+Destroyed items:
+
+150mm Light Carbine Repeating Cannon I
+Titanium Sabot S, Qty: 87
+Gremlin Rocket, Qty: 26
+'Malkuth' Rocket Launcher I
+1MN MicroWarpdrive I
+'Langour' Drive Disruptor I
+Damage Control I
+Small Armor Repairer I
+Bookmark (Cargo)
+Titanium Sabot S, Qty: 781 (Cargo)
+Proton S, Qty: 1000 (Cargo)
+

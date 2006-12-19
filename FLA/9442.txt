@@ -1,0 +1,30 @@
+2007.05.14 13:08
+
+Victim: 77scout77
+Alliance: None
+Corp: Perkone
+Destroyed: Ibis
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Ocara Nezus (laid the final blow)
+Security: 1.5
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Crow
+Weapon: Bloodclaw Precision Light Missile
+
+Name: Francois Dubuoi
+Security: 1.3
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Crow
+Weapon: 'Arbalest' Standard Missile Launcher
+
+
+Destroyed items:
+
+Tritanium (Cargo)
+

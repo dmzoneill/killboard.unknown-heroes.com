@@ -1,0 +1,38 @@
+2007.03.21 18:32
+
+Victim: airspace
+Alliance: Privateer Alliance
+Corp: SpaceBalls Navy
+Destroyed: Myrmidon
+System: Oipo
+Security: 0.8
+
+Involved parties:
+
+Name: Raindeth (laid the final blow)
+Security: 5.0
+Alliance: None
+Corp: FACTION Inc.
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+Name: marakudi
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Hawk
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+Heavy Electron Blaster II
+Heavy Electron Blaster II
+Cap Booster 800
+F85 Peripheral Damage System I
+Medium Armor Repairer II
+Voltaic Nanite Kinetic Hardener I
+Cap Booster 800, Qty: 3 (Cargo)
+Ogre II (Drone Bay)
+Praetor II (Drone Bay)
+

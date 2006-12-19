@@ -1,0 +1,26 @@
+2007.03.14 10:39
+
+Victim: Napalmius
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Destroyed: Capsule
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Cockroach (laid the final blow)
+Security: 4.8
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Zealot
+Weapon: Focused Medium Pulse Laser II
+
+Name: SoF Reaperman
+Security: 4.4
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Blackbird
+Weapon: Heavy Missile Launcher I
+
+

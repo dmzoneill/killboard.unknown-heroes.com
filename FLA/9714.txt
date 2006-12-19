@@ -1,0 +1,34 @@
+2007.05.26 09:59
+
+Victim: Cobra64
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Scythe
+System: QBZO-R
+Security: 0.1
+
+Involved parties:
+
+Name: Wusel (laid the final blow)
+Security: 4.2
+Alliance: The Volition Cult
+Corp: Freedom for All
+Ship: Eris
+Weapon: Thorn Rocket
+
+Name: DCCNightMare
+Security: 4.1
+Alliance: Endless Horizon
+Corp: RAUMPATROUILLE
+Ship: Sabre
+Weapon: X5 Prototype I Engine Enervator
+
+
+Destroyed items:
+
+Prototype Cloaking Device I
+Medium Shield Booster I
+Magnetic Scattering Amplifier I
+Warp Core Stabilizer I
+Warp Core Stabilizer I
+

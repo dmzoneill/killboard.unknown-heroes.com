@@ -1,0 +1,46 @@
+2007.02.28 04:20
+
+Victim: RythemAndStealth
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Destroyed: Vengeance
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Ryysa
+Security: -2.0
+Alliance: Privateer Alliance
+Corp: North Face Force
+Ship: Huginn
+Weapon: Huginn
+
+Name: eXtas (laid the final blow)
+Security: 1.6
+Alliance: Privateer Alliance
+Corp: Kemono.
+Ship: Typhoon
+Weapon: Hobgoblin II
+
+Name: Val Amon
+Security: 3.1
+Alliance: Privateer Alliance
+Corp: Kemono.
+Ship: Arazu
+Weapon: Arazu
+
+
+Destroyed items:
+
+Dual Light Pulse Laser II
+Dual Light Pulse Laser II
+Multifrequency S
+Multifrequency S
+1MN MicroWarpdrive I
+Prototype I Sensor Booster
+Damage Control II
+Small Armor Repairer II
+Energized Adaptive Nano Membrane II
+Mobile Small Warp Disruptor I (Cargo)
+

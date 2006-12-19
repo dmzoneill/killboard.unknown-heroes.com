@@ -1,0 +1,94 @@
+2007.04.19 13:06
+
+Victim: Sha'ara Sha'amashira
+Alliance: Freelancer Alliance
+Corp: J.I.T. Enterprises
+Destroyed: Typhoon
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Savak (laid the final blow)
+Security: -0.2
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Armageddon
+Weapon: Dual Heavy Anode Pulse Particle Stream I
+
+Name: Spitfire5769
+Security: 4.5
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Zealot
+Weapon: Zealot
+
+Name: lethario desrtuction
+Security: 2.1
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Crow
+Weapon: Bloodclaw Precision Light Missile
+
+
+Destroyed items:
+
+Juggernaut Torpedo
+Juggernaut Torpedo
+Juggernaut Torpedo
+Juggernaut Torpedo
+ZW-4100 Siege Missile Bay
+ZW-4100 Siege Missile Bay
+Drone Link Augmentor I
+Eutectic I Capacitor Charge Array
+Eutectic I Capacitor Charge Array
+LiF Fueled I Booster Rockets
+Energized Magnetic Membrane I
+N-Type Thermic Hardener I
+1600mm Reinforced Rolled Tungsten Plates I
+Small Standard Container (Cargo)
+Medium C5-L Emergency Shield Overload I (Cargo)
+425mm AutoCannon II, Qty: 2 (Cargo)
+X5 Prototype I Engine Enervator (Cargo)
+Patterned Stasis Web I (Cargo)
+Dread Guristas Heat Dissipation Field (Cargo)
+'Anointed' I EM Ward Reinforcement (Cargo)
+Dread Guristas Photon Scattering Field (Cargo)
+Hornet II, Qty: 7 (Cargo)
+Harvester Mining Drone (Cargo)
+Rupture Blueprint (Cargo)
+Wasp I Blueprint (Cargo)
+Mining Director (Cargo)
+Additional Thermal Barrier Emitter I (Cargo)
+'Halcyon' Core Equalizer I (Cargo)
+Energized Adaptive Nano Membrane I, Qty: 2 (Cargo)
+Armor Kinetic Hardener I (Cargo)
+Armor Thermic Hardener I (Cargo)
+Armor Explosive Hardener I (Cargo)
+Cynosural Field Generator I (Cargo)
+Guristas Ship Log 365764054, Qty: 2 (Cargo)
+Guristas Ship Log 398560763 (Cargo)
+Guristas Ship Log 524785540, Qty: 2 (Cargo)
+Guristas Ship Log 534987422, Qty: 6 (Cargo)
+Guristas Ship Log 573652885, Qty: 8 (Cargo)
+Guristas Silver Tag, Qty: 2 (Cargo)
+Guristas Bronze Tag (Cargo)
+Guristas Crystal Tag, Qty: 6 (Cargo)
+Guristas Gold Tag (Cargo)
+Guristas Palladium Tag, Qty: 3 (Cargo)
+'Arbalest' Siege Missile Launcher, Qty: 3 (Cargo)
+Tripped Power Circuit, Qty: 35 (Cargo)
+Damaged Artificial Neural Network, Qty: 29 (Cargo)
+Scorched Telemetry Processor, Qty: 87 (Cargo)
+Fried Interface Circuit, Qty: 98 (Cargo)
+Conductive Polymer, Qty: 46 (Cargo)
+Burned Logic Circuit, Qty: 106 (Cargo)
+Charred Micro Circuit, Qty: 90 (Cargo)
+Ward Console, Qty: 89 (Cargo)
+Malfunctioning Shield Emitter, Qty: 73 (Cargo)
+Mark I Generator Refitting: Diagnostic System, Qty: 6 (Cargo)
+Local Power Plant Manager: Diagnostic System I, Qty: 4 (Cargo)
+Local Power Plant Manager: Capacitor Flux I (Cargo)
+Local Power Plant Manager: Reaction Control I, Qty: 3 (Cargo)
+Berserker I, Qty: 2 (Drone Bay)
+

@@ -1,0 +1,26 @@
+2006.10.09 20:00
+
+Victim: Laboratus
+Alliance: Freelancer Alliance
+Corp: BGG
+Destroyed: Probe
+System: Piak
+Security: 0.7
+
+Involved parties:
+
+Name: Sean Dillon (laid the final blow)
+Security: 1.5
+Alliance: None
+Corp: Privateers
+Ship: Raven
+Weapon: Cataclysm Cruise Missile
+
+
+Destroyed items:
+
+Fixed Parallel Link-Capacitor I
+1MN MicroWarpdrive I
+'Stoic' Core Equalizer I
+'Stoic' Core Equalizer I
+

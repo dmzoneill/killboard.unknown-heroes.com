@@ -1,0 +1,33 @@
+2006.11.11 17:38
+
+Victim: Chaka're
+Alliance: None
+Corp: Royal Amarr Institute
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Formosus Funus
+Security: 3.8
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Jaguar
+Weapon: Fleeting Propulsion Inhibitor I
+
+Name: dinj
+Security: 4.7
+Alliance: Freelancer Alliance
+Corp: London Transport
+Ship: Crow
+Weapon: Flameburst Light Missile
+
+Name: Gangreen (laid the final blow)
+Security: 0.1
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Ishkur
+Weapon: 125mm Railgun I
+
+

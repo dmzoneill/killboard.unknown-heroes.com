@@ -1,0 +1,40 @@
+2007.03.14 00:24
+
+Victim: Jaqu
+Alliance: None
+Corp: The Scope
+Destroyed: Gallente Shuttle
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: EvilBadger
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Hawk
+Weapon: Gremlin Rocket
+
+Name: marakudi (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Raven
+Weapon: Wrath Cruise Missile
+
+Name: shadowxp99
+Security: 3.7
+Alliance: Freelancer Alliance
+Corp: Harbingers of Sarrow
+Ship: Raven
+Weapon: XT-9000 Cruise Launcher
+
+Name: Ahramaine
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Dominix
+Weapon: 350mm Carbide Railgun I
+
+

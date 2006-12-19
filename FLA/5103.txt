@@ -1,0 +1,164 @@
+2007.04.22 20:00
+
+Victim: Slinktress
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Destroyed: Thorax
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Vendetta X
+Security: 0.6
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Eagle
+Weapon: Eagle
+
+Name: Savak
+Security: 0.0
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Apocalypse
+Weapon: Apocalypse
+
+Name: Raffer Steele
+Security: 2.7
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Hyperion
+Weapon: Hyperion
+
+Name: Dana Marillis
+Security: 3.6
+Alliance: Storm Armada
+Corp: stone grave haulage
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Larshus Magrus
+Security: 5.0
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Caracal
+Weapon: Thunderbolt Heavy Missile
+
+Name: Iron Guerilla
+Security: 0.9
+Alliance: Lotka Volterra
+Corp: CRICE Corporation
+Ship: Claw
+Weapon: Claw
+
+Name: Mysteriosome
+Security: 0.6
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Vexor
+Weapon: Vexor
+
+Name: LeZip (laid the final blow)
+Security: 1.2
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Evil Bunnies
+Security: 0.2
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Blackbird
+Weapon: Scourge Heavy Missile
+
+Name: Ran Fujimiya
+Security: 0.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Raptor
+Weapon: Raptor
+
+Name: Seamus O'Malley
+Security: 0.8
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Kestrel
+Weapon: Warp Disruptor I
+
+Name: Alitar Semiramis
+Security: 0.8
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Merlin
+Weapon: Merlin
+
+Name: Kinora Wynn
+Security: 0.2
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Rupture
+Weapon: Thunderbolt Heavy Missile
+
+Name: Ralin Bek
+Security: 1.3
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Rifter
+Weapon: Rifter
+
+Name: padshiiangel
+Security: 5.0
+Alliance: Firmus Ixion
+Corp: Black Avatar
+Ship: Raven
+Weapon: Siege Missile Launcher II
+
+Name: Vlad Cetes
+Security: 4.9
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Raven
+Weapon: ZW-4100 Siege Missile Bay
+
+Name: LordMordred
+Security: 0.1
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Curse
+Weapon: Medium Unstable Power Fluctuator I
+
+Name: Krell Thannar
+Security: 0.3
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Executioner
+Weapon: Small Nosferatu I
+
+Name: Elrid Barnes
+Security: 1.7
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Thorax
+Weapon: Thorax
+
+Name: Aut Nihil
+Security: 0.1
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Kestrel
+Weapon: Standard Missile Launcher I
+
+
+Destroyed items:
+
+Focused Medium Beam Laser I
+Focused Medium Beam Laser I
+Focused Medium Beam Laser I
+Small Energy Neutralizer I
+Multifrequency M
+Multifrequency M
+Prototype I Sensor Booster
+Damage Control II
+Warp Core Stabilizer I
+

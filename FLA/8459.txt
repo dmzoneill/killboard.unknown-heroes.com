@@ -1,0 +1,25 @@
+2006.11.19 05:22
+
+Victim: MrMaggot
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Destroyed: Badger Mark II
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Defhammer (laid the final blow)
+Security: 0.8
+Alliance: None
+Corp: FM Corp
+Ship: Megathron
+Weapon: Large EMP Smartbomb I
+
+
+Destroyed items:
+
+Magnetic Scattering Amplifier I
+Basic Magnetic Scattering Amplifier
+'Accord' I Core Compensation
+

@@ -1,0 +1,52 @@
+2007.03.13 17:52
+
+Victim: Sylvia McGregor
+Alliance: YouWhat
+Corp: SteelVipers
+Destroyed: Incursus
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: ninev0lts
+Security: -1.2
+Alliance: None
+Corp: Corehounds
+Ship: Caracal
+Weapon: Hammerhead I
+
+Name: Cyrila Wolf (laid the final blow)
+Security: -2.2
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Stiletto
+Weapon: 200mm AutoCannon II
+
+Name: a51 duke1406
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Myrmidon
+Weapon: Hammerhead II
+
+Name: Alianore
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Catalyst
+Weapon: Catalyst
+
+Name: ifeelit2
+Security: 5.0
+Alliance: Forces of Freedom
+Corp: Just Cloned Again
+Ship: Hyperion
+Weapon: Dual 250mm Railgun I
+
+
+Destroyed items:
+
+1MN Afterburner I
+J5 Prototype Warp Inhibitor I
+Capacitor Power Relay I

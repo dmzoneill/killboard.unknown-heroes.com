@@ -1,0 +1,87 @@
+2006.10.04 05:29
+
+Victim: Ioi Jejc
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Destroyed: Raven
+System: 5S-KXA
+Security: 0.0
+
+Involved parties:
+
+Name: Guristas Destructor / Guristas
+
+Name: Ezal
+Security: -1.7
+Alliance: None
+Corp: Beagle Corp
+Ship: Taranis
+Weapon: Warrior I
+
+Name: Dearwin (laid the final blow)
+Security: -2.4
+Alliance: None
+Corp: Beagle Corp
+Ship: Ishkur
+Weapon: Acolyte II
+
+Name: UnSiViLiZeD
+Security: -1.6
+Alliance: None
+Corp: Beagle Corp
+Ship: Enyo
+Weapon: Enyo
+
+Name: Roule
+Security: -5.1
+Alliance: None
+Corp: Beagle Corp
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: Vily
+Security: -1.6
+Alliance: None
+Corp: Lilium Venture Initiative
+Ship: Heretic
+Weapon: Heretic
+
+Name: Okoral
+Security: 1.2
+Alliance: None
+Corp: Beagle Corp
+Ship: Rifter
+Weapon: Rifter
+
+Name: Zatharas
+Security: -4.8
+Alliance: None
+Corp: Beagle Corp
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: War chylde
+Security: 0.4
+Alliance: None
+Corp: Beagle Corp
+Ship: Rifter
+Weapon: Rifter
+
+
+Destroyed items:
+
+Juggernaut Torpedo, Qty: 30
+'Arbalest' Siege Missile Launcher
+'Arbalest' Siege Missile Launcher
+'Arbalest' Siege Missile Launcher
+Small Tractor Beam I
+Eutectic I Capacitor Charge Array
+Invulnerability Field I
+Ballistic Deflection Field I
+Ballistic Control System II
+Ballistic Control System II
+Eutectic I Capacitor Charge Array (Cargo)
+350mm Railgun I, Qty: 2 (Cargo)
+XT-9000 Cruise Launcher (Cargo)
+Hammerhead I (Drone Bay)
+

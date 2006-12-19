@@ -1,0 +1,60 @@
+2007.03.22 10:08
+
+Victim: alex spbs
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Raven
+System: PZOZ-K
+Security: 0.0
+
+Involved parties:
+
+Name: Elliott Manchild
+Security: -1.1
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: ArchenTheGreat (laid the final blow)
+Security: 0.5
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Megathron
+Weapon: Wasp II
+
+
+Destroyed items:
+
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Juggernaut Torpedo
+Juggernaut Torpedo
+Juggernaut Torpedo
+Juggernaut Torpedo
+Juggernaut Torpedo
+Juggernaut Torpedo
+Juggernaut Torpedo
+Juggernaut Torpedo
+Large Coaxial Regenerative Projector
+ZW-4100 Siege Missile Bay
+ZW-4100 Siege Missile Bay
+ZW-4100 Siege Missile Bay
+ZW-4100 Siege Missile Bay
+Large F-S9 Regolith Shield Induction
+X-Large C5-L Emergency Shield Overload I
+Non-Inertial Ballistic Screen Augmentation I
+Non-Inertial Ballistic Screen Augmentation I
+Ballistic Control System I
+Mark I Generator Refitting: Diagnostic System
+Juggernaut Torpedo, Qty: 2644 (Cargo)
+Datacore - Hydromagnetic Physics, Qty: 4 (Cargo)
+Esoteric Tuner Data Interface Blueprint (Cargo)
+Armor Blocks, Qty: 96 (Cargo)
+Power Couplings, Qty: 54 (Cargo)
+Vespa I (Drone Bay)
+

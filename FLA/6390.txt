@@ -1,0 +1,47 @@
+2006.11.13 08:22
+
+Victim: Happatai
+Alliance: None
+Corp: University of Caille
+Destroyed: Imicus
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: freestrike
+Security: 5.9
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Almagar Phog (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Raptor
+Weapon: Bloodclaw Light Missile
+
+Name: Sobar
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Ishkur
+Weapon: 125mm Railgun II
+
+Name: Azeroth Uluntil
+Security: 0.4
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Crow
+Weapon: Faint Warp Prohibitor I
+
+
+Destroyed items:
+
+Warp Core Stabilizer I
+Warp Core Stabilizer I
+Armor Kinetic Hardener I, Qty: 2 (Cargo)
+Armor Thermic Hardener I (Cargo)
+

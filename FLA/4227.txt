@@ -1,0 +1,72 @@
+2007.04.04 18:54
+
+Victim: Ramb3z
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Destroyed: Typhoon
+System: A-HZYL
+Security: 0.0
+
+Involved parties:
+
+Name: James Snowscoran
+Security: -4.2
+Alliance: Corelum Syndicate
+Corp: Coreli Corporation
+Ship: Raven
+Weapon: Infiltrator I
+
+Name: Kahor (laid the final blow)
+Security: -1.6
+Alliance: Corelum Syndicate
+Corp: Coreli Corporation
+Ship: Typhoon
+Weapon: Juggernaut Torpedo
+
+Name: Arcazz
+Security: -0.6
+Alliance: Corelum Syndicate
+Corp: Coreli Corporation
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: Joshua Foiritain
+Security: -1.7
+Alliance: Corelum Syndicate
+Corp: Coreli Corporation
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Hong Jiansen
+Security: 2.0
+Alliance: Corelum Syndicate
+Corp: Coreli Corporation
+Ship: Taranis
+Weapon: Taranis
+
+Name: Akira Miyamoto
+Security: 4.0
+Alliance: Corelum Syndicate
+Corp: Coreli Corporation
+Ship: Pilgrim
+Weapon: Vespa II
+
+
+Destroyed items:
+
+Heavy Diminishing Power System Drain I
+Heavy Diminishing Power System Drain I
+Devastator Cruise Missile, Qty: 12
+Paradise Cruise Missile, Qty: 12
+Cataclysm Cruise Missile, Qty: 12
+XT-9000 Cruise Launcher
+Quad LiF Fueled I Booster Rockets
+Warp Disruptor I
+'Hypnos' Multispectral ECM I
+Large 'Accommodation' Vestment Reconstructer I
+Large 'Accommodation' Vestment Reconstructer I
+Radioisotope Thermic Hardener I
+N-Type Explosive Hardener I
+N-Type Kinetic Hardener I
+Cap Booster 800, Qty: 5 (Cargo)
+

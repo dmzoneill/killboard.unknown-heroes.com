@@ -1,0 +1,19 @@
+2007.04.21 23:25
+
+Victim: icstunna
+Alliance: Federation Of united Corps
+Corp: Drunken Ship Mates
+Destroyed: Incursus
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: demotar (laid the final blow)
+Security: 4.1
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Stabber
+Weapon: Thunderbolt Heavy Missile
+
+

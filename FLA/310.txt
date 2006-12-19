@@ -1,0 +1,42 @@
+2007.01.24 09:30
+
+Victim: Ugluuk
+Alliance: Privateer Alliance
+Corp: Beyond Divinity Inc
+Destroyed: Merlin
+System: Jita
+Security: 0.9
+
+Involved parties:
+
+Name: NeoShocker
+Security: 3.0
+Alliance: R0ADKILL
+Corp: Foundation
+Ship: Ferox
+Weapon: Widowmaker Heavy Missile
+
+Name: Nova Paradise (laid the final blow)
+Security: 1.2
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: white kight
+Security: 1.6
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+
+Destroyed items:
+
+Void S, Qty: 177
+Phalanx Rocket, Qty: 36
+Medium F-S9 Regolith Shield Induction
+Fleeting Warp Scrambler I
+X5 Prototype I Engine Enervator
+Micro Auxiliary Power Core I
+

@@ -1,0 +1,26 @@
+2006.11.20 17:06
+
+Victim: Elliott Manchild
+Alliance: None
+Corp: omen.
+Destroyed: Capsule
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Tri Ounou
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: Bad Borris (laid the final blow)
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+

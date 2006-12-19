@@ -1,0 +1,29 @@
+2007.03.15 22:13
+
+Victim: Rev Darkwing
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Flycatcher
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Sholle (laid the final blow)
+Security: 3.0
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Sabre
+Weapon: 150mm Light AutoCannon II
+
+
+Destroyed items:
+
+Foxfire Rocket, Qty: 60
+Rocket Launcher I
+Rocket Launcher I
+'Limos' Rocket Launcher I
+Interdiction Sphere Launcher I
+Phased Muon Sensor Disruptor I
+Warp Disrupt Probe, Qty: 20 (Cargo)
+

@@ -1,0 +1,33 @@
+2007.04.01 22:36
+
+Victim: Loograsch
+Alliance: Freelancer Alliance
+Corp: United Forces
+Destroyed: Incursus
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: ER0X (laid the final blow)
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: Witch Doctor
+Security: 0.1
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Arazu
+Weapon: 250mm Railgun II
+
+
+Destroyed items:
+
+125mm 'Scout' I Accelerator Cannon
+Iridium Charge S, Qty: 196
+Magnetic Field Stabilizer I
+Iridium Charge S, Qty: 4992 (Cargo)
+

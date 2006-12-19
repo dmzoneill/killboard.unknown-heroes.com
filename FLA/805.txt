@@ -1,0 +1,72 @@
+2007.02.22 00:12
+
+Victim: Zungen
+Alliance: Red Moon Federation
+Corp: Confederation of Red Moon
+Destroyed: Thorax
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: XxSOULxX
+Security: -1.2
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Thorax
+Weapon: Hammerhead II
+
+Name: truefranco
+Security: 2.1
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Flycatcher
+Weapon: Bloodclaw Light Missile
+
+Name: Yseult Atreus
+Security: 1.4
+Alliance: None
+Corp: BGG
+Ship: Huginn
+Weapon: Scourge Heavy Missile
+
+Name: demotar
+Security: 3.4
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Rapier
+Weapon: Rapier
+
+Name: drakonarik
+Security: 3.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Vexor
+Weapon: Medium Nosferatu I
+
+Name: Kaand (laid the final blow)
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Myrmidon
+Weapon: Ogre II
+
+Name: Kalibrana
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Helios
+Weapon: Induced Multispectral ECM I
+
+
+Destroyed items:
+
+Heavy Ion Blaster II
+Heavy Ion Blaster II
+Heavy Ion Blaster II
+Null M, Qty: 120
+Fleeting Warp Scrambler I
+Mark I Modified SS Inertial Stabilizers
+Type-D Altered SS Inertial Stabilizers
+Infiltrator II, Qty: 2 (Drone Bay)
+

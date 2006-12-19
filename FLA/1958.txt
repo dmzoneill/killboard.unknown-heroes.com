@@ -1,0 +1,37 @@
+2007.01.12 18:22
+
+Victim: Ocara Nezus
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Crow
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Crucifier (laid the final blow)
+Security: 0.3
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: ETS4ME
+Security: 0.7
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: 50W Infectious Power System Malfunction
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 38
+'Malkuth' Standard Missile Launcher I
+'Malkuth' Standard Missile Launcher I
+1MN MicroWarpdrive I
+Initiated Harmonic Warp Jammer I
+Type-D Power Core Modification: Diagnostic System
+Mark I Generator Refitting: Capacitor Power Relay
+Bloodclaw Light Missile, Qty: 1329 (Cargo)
+

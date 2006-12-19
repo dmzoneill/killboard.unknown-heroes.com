@@ -1,0 +1,41 @@
+2007.04.08 04:18
+
+Victim: Trigger64
+Alliance: Firmus Ixion
+Corp: Black Avatar
+Destroyed: Taranis
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Rhokel
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: The Night Crew
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: Weeble Wooble
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Megathron
+Weapon: Valkyrie I
+
+Name: Asa Gunnarsson (laid the final blow)
+Security: 0.2
+Alliance: Freelancer Alliance
+Corp: ACCORD Industries
+Ship: Drake
+Weapon: Havoc Heavy Missile
+
+
+Destroyed items:
+
+Null S, Qty: 70
+J5 Prototype Warp Inhibitor I
+Magnetic Field Stabilizer II
+Micro Auxiliary Power Core I
+Null S, Qty: 4964 (Cargo)
+

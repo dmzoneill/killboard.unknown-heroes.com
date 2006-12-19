@@ -1,0 +1,72 @@
+2007.03.17 21:17
+
+Victim: Admiral Hunter
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Enyo
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Eelim Garak
+Security: 1.3
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Sacrilege
+Weapon: Sacrilege
+
+Name: mama guru
+Security: 2.8
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Ship: Apocalypse
+Weapon: Tachyon Beam Laser II
+
+Name: 1Of9 (laid the final blow)
+Security: 4.9
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Megathron
+Weapon: 425mm Prototype I Gauss Gun
+
+Name: der kohle
+Security: -0.4
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Barak Smaug
+Security: 4.6
+Alliance: Chorus of Dawn
+Corp: Cosmic Odyssey
+Ship: Huginn
+Weapon: 'Malkuth' Assault Missile Launcher I
+
+Name: IsmaelYU5 Iluvatar
+Security: 5.0
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Taranis
+Weapon: 125mm Railgun II
+
+Name: EveStarHunter
+Security: 4.9
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Stabber
+Weapon: 220mm Vulcan AutoCannon I
+
+
+Destroyed items:
+
+125mm Railgun II
+125mm Railgun II
+125mm Railgun II
+125mm Railgun II
+Small Armor Repairer II
+Type-D Power Core Modification: Capacitor Power Relay
+Corpse (Cargo)
+Acolyte II (Drone Bay)
+

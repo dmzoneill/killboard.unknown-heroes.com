@@ -1,0 +1,77 @@
+2006.11.05 20:36
+
+Victim: RedFall
+Alliance: None
+Corp: Irreligion
+Destroyed: Caracal
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Foot M
+Security: 3.4
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+Name: Ian Storme (laid the final blow)
+Security: 2.8
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Ship: Raven
+Weapon: Wrath Cruise Missile
+
+Name: Marp
+Security: 4.2
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Ship: Ferox
+Weapon: 250mm Prototype I Gauss Gun
+
+Name: Aerfen
+Security: 1.9
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Ship: Rupture
+Weapon: Rupture
+
+Name: coldkill
+Security: 0.8
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: XxSOULxX
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Ship: Thorax
+Weapon: Thorax
+
+Name: MAXZY
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Ship: Hawk
+Weapon: Standard Missile Launcher II
+
+
+Destroyed items:
+
+Widowmaker Heavy Missile, Qty: 66
+Thunderbolt Heavy Missile, Qty: 33
+Havoc Heavy Missile, Qty: 33
+Scourge Heavy Missile, Qty: 33
+Advanced 'Limos' Heavy Missile Bay I
+Advanced 'Limos' Heavy Missile Bay I
+Advanced 'Limos' Heavy Missile Bay I
+Advanced 'Limos' Heavy Missile Bay I
+Ship Scanner I
+Faint Epsilon Warp Prohibitor I
+Compulsive Multispectral ECM I
+Widowmaker Heavy Missile, Qty: 114 (Cargo)
+Scourge Heavy Missile, Qty: 158 (Cargo)
+

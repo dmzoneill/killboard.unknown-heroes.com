@@ -1,0 +1,47 @@
+2007.03.02 00:48
+
+Victim: Teck7
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Capsule
+System: YZ-LQL
+Security: 0.0
+
+Involved parties:
+
+Name: Tarhess
+Security: -4.0
+Alliance: Aftermath Alliance
+Corp: Master Miners
+Ship: Raptor
+Weapon: Flameburst Light Missile
+
+Name: LaughingClown (laid the final blow)
+Security: 1.2
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Rapier
+Weapon: 720mm Howitzer Artillery II
+
+Name: Cmdr Sp0ck
+Security: 2.4
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Crusader
+Weapon: Crusader
+
+Name: Orion Gawaine
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Helios
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: Mankind mkII
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Reikoku
+Ship: Manticore
+Weapon: 'Limos' Cruise Launcher I
+
+

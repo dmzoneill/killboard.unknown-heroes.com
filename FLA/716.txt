@@ -1,0 +1,61 @@
+2007.02.18 03:48
+
+Victim: Largos Blade
+Alliance: None
+Corp: L.Blade Associates
+Destroyed: Drake
+System: O1Y-ED
+Security: 0.0
+
+Involved parties:
+
+Name: Pixnator (laid the final blow)
+Security: -1.0
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Raven
+Weapon: Inferno Javelin Torpedo
+
+Name: ivan rumanov
+Security: 0.3
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Cerberus
+Weapon: Scourge Fury Heavy Missile
+
+Name: Serpentis Baron / Serpentis Corporation
+
+Name: dentist bob
+Security: -3.1
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Omen
+Weapon: Omen
+
+Name: Jesnen
+Security: 0.3
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Dominix
+Weapon: Praetor II
+
+Name: Jesnens LoveSlave
+Security: -0.3
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Helios
+Weapon: Faint Warp Prohibitor I
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 72
+Heavy Missile Launcher I
+Heavy Missile Launcher II
+Fixed Parallel Link-Capacitor I
+10MN Afterburner II
+Invulnerability Field I
+Shield Boost Amplifier I
+Medium Armor Repairer I
+Ballistic Control System II
+

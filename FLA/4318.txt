@@ -1,0 +1,27 @@
+2007.04.07 21:36
+
+Victim: Daressek
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Rifter
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Kuentai (laid the final blow)
+Security: -5.8
+Alliance: Corelum Syndicate
+Corp: Coreli Corporation
+Ship: Sabre
+Weapon: 150mm Light AutoCannon II
+
+
+Destroyed items:
+
+250mm Light Artillery Cannon I
+Carbonized Lead S, Qty: 25
+Nanofiber Internal Structure I
+Mark I Generator Refitting: Capacitor Power Relay
+Local Power Plant Manager: Capacity Power Relay I
+

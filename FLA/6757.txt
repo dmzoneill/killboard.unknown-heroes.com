@@ -1,0 +1,30 @@
+2006.11.26 16:18
+
+Victim: night darkness
+Alliance: None
+Corp: omen.
+Destroyed: Malediction
+System: Torrinos
+Security: 0.5
+
+Involved parties:
+
+Name: Solarienne (laid the final blow)
+Security: 4.8
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Thrasher
+Weapon: Foxfire Rocket
+
+
+Destroyed items:
+
+Dual Light Pulse Laser II
+Dual Light Pulse Laser II
+Multifrequency S
+Multifrequency S
+Small Armor Repairer II
+200mm Reinforced Steel Plates II
+Micro Auxiliary Power Core I
+Radio S, Qty: 3 (Cargo)
+

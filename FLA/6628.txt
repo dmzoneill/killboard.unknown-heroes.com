@@ -1,0 +1,25 @@
+2006.11.21 01:32
+
+Victim: Remanent
+Alliance: The SUdden Death Squad
+Corp: FM Corp
+Destroyed: Condor
+System: O1Y-ED
+Security: 0.0
+
+Involved parties:
+
+Name: Esk Esme (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 40
+Standard Missile Launcher I
+Small Capacitor Battery II
+

@@ -1,0 +1,41 @@
+2006.11.07 12:55
+
+Victim: Formosus Funus
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Destroyed: Jaguar
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: boo3916
+Security: 4.5
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Crow
+Weapon: Crow
+
+Name: munia (laid the final blow)
+Security: 5.1
+Alliance: None
+Corp: LDK
+Ship: Crusader
+Weapon: Dual Light Pulse Laser II
+
+Name: Lord KesH
+Security: 3.7
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Tempest
+Weapon: Tempest
+
+
+Destroyed items:
+
+Tremor S, Qty: 13
+Foxfire Rocket, Qty: 30
+'Langour' Drive Disruptor I
+Tremor S, Qty: 4326 (Cargo)
+Quake S, Qty: 4825 (Cargo)
+

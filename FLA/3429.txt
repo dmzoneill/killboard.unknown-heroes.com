@@ -1,0 +1,44 @@
+2007.03.26 03:26
+
+Victim: Kelevraen
+Alliance: None
+Corp: Earned In Blood
+Destroyed: Brutix
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Tom McCash (laid the final blow)
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Asgard Schiffswerften
+Ship: Erebus
+Weapon: Aurora Ominae
+
+Name: Tregaron
+Security: 2.3
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+Heavy Ion Blaster II
+Heavy Ion Blaster II
+Null M, Qty: 219
+Initiated Warp Jammer I
+Medium Capacitor Booster I
+Cap Booster 800
+Medium Armor Repairer II
+Magnetic Field Stabilizer II
+N-Type Explosive Hardener I
+N-Type Thermic Hardener I
+N-Type Kinetic Hardener I
+E50 Prototype Energy Vampire (Cargo)
+Ballistic Control System II (Cargo)
+Void M, Qty: 3000 (Cargo)
+Null M, Qty: 3042 (Cargo)
+

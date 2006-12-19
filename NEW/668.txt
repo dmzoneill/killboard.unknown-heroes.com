@@ -1,0 +1,40 @@
+2007.05.05 12:18
+
+Victim: cacye
+Alliance: Vigilance Infinitas
+Corp: The Phoenix Rising
+Destroyed: Condor
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: James Potkukelkka
+Security: 0.2
+Alliance: Imperial Republic Of the North
+Corp: Karjala Inc.
+Ship: Flycatcher
+Weapon: Bloodclaw Light Missile
+
+Name: Matt Stoner (laid the final blow)
+Security: 3.5
+Alliance: Imperial Republic Of the North
+Corp: Karjala Inc.
+Ship: Drake
+Weapon: Widowmaker Heavy Missile
+
+Name: ClogMan
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Stabber
+Weapon: Stabber
+
+
+Destroyed items:
+
+125mm Railgun II
+Iron Charge S, Qty: 55
+Prototype Cloaking Device I
+Sensor Booster I
+Iron Charge S, Qty: 3569 (Cargo)

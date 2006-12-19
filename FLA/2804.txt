@@ -1,0 +1,75 @@
+2007.03.10 04:31
+
+Victim: Kelter Highfire
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Capsule
+System: Z-Y7R7
+Security: 0.0
+
+Involved parties:
+
+Name: IamnobodyCL
+Security: 5.0
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Crusader
+Weapon: Dual Light Beam Laser II
+
+Name: PsychNerD
+Security: 0.7
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Wolf
+Weapon: Foxfire Rocket
+
+Name: kIM JONGELL
+Security: 4.8
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: kezz2411
+Security: 5.3
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Crusader
+Weapon: Dual Light Beam Laser II
+
+Name: kabayn (laid the final blow)
+Security: 5.0
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Jaguar
+Weapon: 200mm AutoCannon II
+
+Name: merckiller
+Security: 1.0
+Alliance: Xelas Alliance
+Corp: Requiem of Hades
+Ship: Crow
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+Name: ZAX0236
+Security: 5.0
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Flycatcher
+Weapon: Standard Missile Launcher II
+
+Name: Monticore D'Muertos
+Security: 5.0
+Alliance: Axiom Empire
+Corp: United Society Starfleet
+Ship: Raptor
+Weapon: Rocket Launcher II
+
+Name: KILLOR
+Security: 4.3
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Taranis
+Weapon: Warp Disruptor II
+
+

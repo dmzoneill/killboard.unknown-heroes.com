@@ -1,0 +1,38 @@
+2007.04.02 19:52
+
+Victim: Dyne Elapse
+Alliance: Privateer Alliance
+Corp: Privateers
+Destroyed: Rupture
+System: Perimeter
+Security: 1.0
+
+Involved parties:
+
+Name: Kaerion Skywalker
+Security: 0.1
+Alliance: Freelancer Alliance
+Corp: Harbingers of Sarrow
+Ship: Raven
+Weapon: Hornet II
+
+Name: Miko Keller (laid the final blow)
+Security: 0.4
+Alliance: Freelancer Alliance
+Corp: Harbingers of Sarrow
+Ship: Dominix
+Weapon: Ogre II
+
+
+Destroyed items:
+
+Dual 180mm AutoCannon I
+EMP M, Qty: 200
+Warp Disruptor I
+Gyrostabilizer I
+Damage Control I
+400mm Reinforced Steel Plates I
+800mm Reinforced Steel Plates I
+EMP M, Qty: 952 (Cargo)
+Hobgoblin I, Qty: 3 (Drone Bay)
+

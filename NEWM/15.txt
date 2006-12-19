@@ -1,0 +1,148 @@
+2007.01.01 16:50
+
+Victim: Darknesss
+Alliance: Triumvirate.
+Corp: D00M.
+Destroyed: Dominix
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Iulian1977
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Cat1977
+Security: 4.7
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Megathron
+Weapon: Megathron
+
+Name: Esvi Adhorsen (laid the final blow)
+Security: 0.8
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Caracal
+Weapon: Thunderbolt Heavy Missile
+
+Name: Mocuker
+Security: 0.8
+Alliance: Freelancer Alliance
+Corp: X.T.R
+Ship: Raven
+Weapon: Raven
+
+Name: Chalimar
+Security: 1.4
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Arazu
+Weapon: Arazu
+
+Name: Kremnican
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Blackbird
+Weapon: 'Hypnos' Multispectral ECM I
+
+Name: Zizz
+Security: 3.2
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Dominix
+Weapon: Dominix
+
+Name: Demarcus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Crow
+Weapon: Sabretooth Light Missile
+
+Name: Alayssi Mey
+Security: 3.5
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Merlin
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+Name: mr passie
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: Soldroz
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Raven
+Weapon: 'Arbalest' Siege Missile Launcher
+
+Name: SniperMcBob
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Blackbird
+Weapon: 75mm Gatling Rail II
+
+Name: Jorax
+Security: 4.2
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Brutix
+Weapon: Heavy Ion Blaster I
+
+Name: Goca
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Blackbird
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+Name: Eacham Graeme
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Falcon
+Weapon: ECM - Ion Field Projector II
+
+Name: Black Tear
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Ship: Caracal
+Weapon: Heavy Missile Launcher I
+
+
+Destroyed items:
+
+E500 Prototype Energy Vampire
+E500 Prototype Energy Vampire
+Recon Probe Launcher I
+Cap Booster 800
+Cap Booster 800
+Cap Booster 800
+Cap Booster 800
+Medium Armor Repairer II
+Local Hull Conversion Inertial Stabilizers I
+Type-D Altered SS Nanofiber Structure
+Eutectic I Capacitor Charge Array (Cargo)
+F-b10 Nominal Capacitor Regenerator (Cargo)
+Dual Heavy Pulse Laser II (Cargo)
+Dread Guristas Thorium Charge M, Qty: 923 (Cargo)
+F-90 Positional Sensor Subroutines, Qty: 2 (Cargo)
+1600mm Reinforced Rolled Tungsten Plates I (Cargo)
+Fathom Scanner Probe I, Qty: 30 (Cargo)
+Spook Scanner Probe I, Qty: 4 (Cargo)
+Salvager I (Cargo)
+Local Power Plant Manager: Diagnostic System I (Cargo)
+Ogre II, Qty: 2 (Drone Bay)
+

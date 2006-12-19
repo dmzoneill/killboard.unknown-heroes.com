@@ -1,0 +1,31 @@
+2007.04.17 02:48
+
+Victim: Enochios
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Vengeance
+System: Jita
+Security: 0.9
+
+Involved parties:
+
+Name: ANDREI GATIRUS (laid the final blow)
+Security: 5.0
+Alliance: Privateer Alliance
+Corp: Wraiths Reborn
+Ship: Harbinger
+Weapon: Heavy Pulse Laser II
+
+
+Destroyed items:
+
+Dual Light Beam Laser II
+Gleam S
+Gleam S
+J5b Phased Prototype Warp Inhibitor I
+F-89 Synchronized Signal Amplifier
+Nocxium, Qty: 131 (Cargo)
+Zydrine, Qty: 24 (Cargo)
+Isogen, Qty: 575 (Cargo)
+Megacyte, Qty: 10 (Cargo)
+

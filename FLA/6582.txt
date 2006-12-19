@@ -1,0 +1,36 @@
+2006.11.18 22:23
+
+Victim: LegallyDead
+Alliance: None
+Corp: FM Corp
+Destroyed: Megathron
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Formosus Funus
+Security: 3.8
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Tempest
+Weapon: Tempest
+
+Name: Grim Faust (laid the final blow)
+Security: 4.7
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Tempest
+Weapon: 800mm Repeating Artillery I
+
+
+Destroyed items:
+
+Large 'Vehemence' I Shockwave Charge
+Large 'Notos' Explosive Charge I
+Large YF-12a Smartbomb
+Large YF-12a Smartbomb
+Large Rudimentary Concussion Bomb I
+Large Plasma Smartbomb I
+F-b10 Nominal Capacitor Regenerator
+

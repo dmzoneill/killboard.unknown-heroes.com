@@ -1,0 +1,65 @@
+2006.12.12 21:49
+
+Victim: Rede
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Destroyed: Caracal
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Leilani Solaris
+Security: -1.4
+Alliance: None
+Corp: 0utbreak
+Ship: Armageddon
+Weapon: Mega Beam Laser II
+
+Name: ScoRpS
+Security: 1.9
+Alliance: None
+Corp: 0utbreak
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Saal Iverson (laid the final blow)
+Security: 4.4
+Alliance: None
+Corp: 0utbreak
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: whisk
+Security: -0.5
+Alliance: None
+Corp: 0utbreak
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Mindlles
+Security: -0.1
+Alliance: None
+Corp: 0utbreak
+Ship: Megathron
+Weapon: 350mm Railgun II
+
+Name: Tadis
+Security: 1.1
+Alliance: None
+Corp: 0utbreak
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 90
+Heavy Missile Launcher I
+Large Clarity Ward Booster I
+Ballistic Deflection Field I
+Ballistic Deflection Field I
+Heat Dissipation Field I
+Supplemental Scanning CPU I
+Scourge Heavy Missile, Qty: 615 (Cargo)
+

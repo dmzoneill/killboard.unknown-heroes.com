@@ -1,0 +1,19 @@
+2006.11.18 07:10
+
+Victim: Maefly
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Destroyed: Capsule
+System: Yoma
+Security: 0.6
+
+Involved parties:
+
+Name: xEntriq (laid the final blow)
+Security: -1.7
+Alliance: None
+Corp: omen.
+Ship: Ishtar
+Weapon: Warrior II
+
+

@@ -1,0 +1,26 @@
+2007.05.15 21:13
+
+Victim: Chicura
+Alliance: None
+Corp: State War Academy
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Ocara Nezus (laid the final blow)
+Security: 1.5
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Crow
+Weapon: Bloodclaw Precision Light Missile
+
+Name: Vel'Kethor
+Security: -2.8
+Alliance: DeStInY.
+Corp: House Of Aaron
+Ship: Malediction
+Weapon: TE-2100 Standard Missile Bay
+
+

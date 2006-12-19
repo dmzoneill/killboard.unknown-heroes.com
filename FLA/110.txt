@@ -1,0 +1,29 @@
+2007.01.10 23:19
+
+Victim: Nova Z
+Alliance: None
+Corp: Agony Unleashed
+Destroyed: Rifter
+System: X-7OMU
+Security: 0.0
+
+Involved parties:
+
+Name: Solarienne (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+
+Destroyed items:
+
+250mm Light Artillery Cannon I
+Small Nosferatu I
+EMP S, Qty: 36
+1MN Afterburner I
+Stasis Webifier I
+Gyrostabilizer I
+Nanofiber Internal Structure I
+

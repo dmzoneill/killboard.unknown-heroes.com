@@ -1,0 +1,26 @@
+2007.01.11 20:26
+
+Victim: Inter Fectum
+Alliance: Freelancer Alliance
+Corp: Sin-X Inc.
+Destroyed: Capsule
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: MEISTERderPUPPEN (laid the final blow)
+Security: 0.1
+Alliance: None
+Corp: Deep Core Mining Inc.
+Ship: Sabre
+Weapon: 150mm Light 'Scout' Autocannon I
+
+Name: MAD D0G
+Security: -1.3
+Alliance: None
+Corp: Caldari Provisions
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+

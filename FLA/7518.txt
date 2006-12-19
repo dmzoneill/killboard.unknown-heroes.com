@@ -1,0 +1,76 @@
+2006.09.11 10:03
+
+Victim: Joudas
+Alliance: None
+Corp: 0utbreak
+Destroyed: Vagabond
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Eck Stavo (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Elite frontier group
+Ship: Thanatos
+Weapon: Templar
+
+Name: Onyx Soulbane
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Elite frontier group
+Ship: Raven
+Weapon: Wrath Cruise Missile
+
+Name: jacass66
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Scorpion
+Weapon: Wrath Cruise Missile
+
+Name: GrandMastaXP
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Moa
+Weapon: Moa
+
+Name: Damfoose
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Caracal
+Weapon: Widowmaker Heavy Missile
+
+Name: Dire Guristas Inferno / Guristas
+
+Name: Phlox Kitara
+Security: 2.1
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Falcon
+Weapon: ECM - Multispectral Jammer II
+
+Name: Drakin Korin
+Security: -1.1
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Ishtar
+Weapon: 'Hypnos' Multispectral ECM I
+
+
+Destroyed items:
+
+Dual 180mm AutoCannon II
+Dual 180mm AutoCannon II
+Medium 'Knave' I Energy Drain
+Barrage M, Qty: 300
+10MN MicroWarpdrive II
+Warp Core Stabilizer I
+Warp Core Stabilizer I
+EMP M, Qty: 1224 (Cargo)
+Barrage M, Qty: 321 (Cargo)
+Warrior I (Drone Bay)
+

@@ -1,0 +1,96 @@
+2007.04.28 21:10
+
+Victim: Antigen Po
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Destroyed: Celestis
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Indiano Arko
+Security: 0.6
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: Caffeine Junkie (laid the final blow)
+Security: -3.8
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Raven
+Weapon: Devastator Precision Cruise Missile
+
+Name: Reverend Revelator
+Security: 1.5
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Brutix
+Weapon: 200mm Compressed Coil Gun I
+
+Name: Hojou
+Security: 0.4
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Incursus
+Weapon: 125mm Carbide Railgun I
+
+Name: nyricia
+Security: 1.7
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Caracal
+Weapon: Heavy Missile Launcher I
+
+Name: RyMcQeN I
+Security: 4.3
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Manticore
+Weapon: Cruise Missile Launcher II
+
+Name: Loti
+Security: -0.3
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Nighthawk
+Weapon: Heavy Missile Launcher II
+
+Name: Fitz Farseer
+Security: 0.5
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Rupture
+Weapon: Rupture
+
+Name: Evil Bunnies
+Security: 0.3
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Blackbird
+Weapon: Induced Multispectral ECM I
+
+Name: Aut Nihil
+Security: 0.1
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Kestrel
+Weapon: Standard Missile Launcher I
+
+
+Destroyed items:
+
+Small Nosferatu I
+200mm Railgun I
+200mm Railgun I
+200mm Railgun I
+Iridium Charge M, Qty: 146
+Remote Sensor Dampener I
+Remote Sensor Dampener I
+Armor Explosive Hardener I
+Capacitor Power Relay I
+Iridium Charge M, Qty: 1760 (Cargo)
+Antimatter Charge M, Qty: 2000 (Cargo)
+

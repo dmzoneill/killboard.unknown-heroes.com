@@ -1,0 +1,82 @@
+2007.04.14 13:57
+
+Victim: Arvo Henderson
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Destroyed: Ishtar
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: General Cane (laid the final blow)
+Security: 0.3
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Vagabond
+Weapon: 425mm AutoCannon II
+
+Name: The Ali
+Security: -3.1
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Thadeus Thorn
+Security: 3.7
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Crusader
+Weapon: Crusader
+
+Name: Taschenflak
+Security: 4.8
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Raptor
+Weapon: Raptor
+
+Name: Longrin
+Security: 3.2
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: Amok'Trueborn' Pryde
+Security: -1.4
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Crusader
+Weapon: Crusader
+
+Name: Ridoc
+Security: 2.9
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Taranis
+Weapon: 125mm Railgun II
+
+Name: V2GBR
+Security: 5.0
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Raptor
+Weapon: 125mm Railgun II
+
+
+Destroyed items:
+
+Light Neutron Blaster II
+Light Neutron Blaster II
+Null S, Qty: 146
+10MN Afterburner II
+J5b Phased Prototype Warp Inhibitor I
+Medium F-RX Prototype I Capacitor Boost
+Omnidirectional Tracking Link I
+Medium Armor Repairer II
+Energized Magnetic Membrane II
+Berserker II, Qty: 4 (Drone Bay)
+Wasp I, Qty: 2 (Drone Bay)
+

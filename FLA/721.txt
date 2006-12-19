@@ -1,0 +1,38 @@
+2007.02.18 05:55
+
+Victim: Christina Bamar
+Alliance: Agony Empire
+Corp: Agony Unleashed
+Destroyed: Stabber
+System: ROIR-Y
+Security: 0.0
+
+Involved parties:
+
+Name: Ashr
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Cerberus
+Weapon: Scourge Heavy Missile
+
+Name: DeathCoInc (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+Dual 180mm AutoCannon II
+Dual 180mm AutoCannon II
+Barrage M, Qty: 152
+Widowmaker Heavy Missile, Qty: 27
+Advanced 'Limos' Heavy Missile Bay I
+Large Supplemental Barrier Emitter I
+Inertia Stabilizers I
+Phased Plasma M, Qty: 1968 (Cargo)
+Havoc Heavy Missile, Qty: 500 (Cargo)
+

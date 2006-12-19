@@ -1,0 +1,128 @@
+2007.03.25 00:06
+
+Victim: Grey Badger
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Destroyed: Raven
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Vesspasiano
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Dominix
+Weapon: Ogre II
+
+Name: Tiberius Drake
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Brutix
+Weapon: Hammerhead I
+
+Name: Drako Invictus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Absolution
+Weapon: Widowmaker Fury Heavy Missile
+
+Name: Jonas123
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Rokh
+Weapon: Rokh
+
+Name: ConXtionS
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: The Night Crew
+Ship: Thorax
+Weapon: Thorax
+
+Name: JaiMaster
+Security: 2.7
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Typhoon
+Weapon: Vespa II
+
+Name: Deathratt
+Security: 4.7
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Ship: Blackbird
+Weapon: Scourge Heavy Missile
+
+Name: hydro2900 (laid the final blow)
+Security: 2.6
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Ship: Catalyst
+Weapon: 150mm Railgun I
+
+Name: Zephia
+Security: -8.7
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Omen
+Weapon: Medium Nosferatu I
+
+Name: TNT 1
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: The Night Crew
+Ship: Hawk
+Weapon: Bloodclaw Light Missile
+
+Name: HYT gangster
+Security: 1.5
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Claw
+Weapon: Claw
+
+Name: Iss Hogai
+Security: 5.0
+Alliance: Zenith Affinity
+Corp: GREY COUNCIL
+Ship: Caracal
+Weapon: Havoc Heavy Missile
+
+Name: Minisoza
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ishkur
+Weapon: Ishkur
+
+
+Destroyed items:
+
+Siege Missile Launcher II
+Siege Missile Launcher II
+Siege Missile Launcher II
+Siege Missile Launcher II
+Siege Missile Launcher II
+X-Large C5-L Emergency Shield Overload I
+'Anointed' I EM Ward Reinforcement
+Invulnerability Field II
+Sensor Booster I
+Power Diagnostic System I
+Power Diagnostic System I
+Power Diagnostic System I
+425mm Railgun II, Qty: 4 (Cargo)
+Hobgoblin II (Cargo)
+Tracking Enhancer II (Cargo)
+Sensor Booster II (Cargo)
+'Orion' Tracking CPU I (Cargo)
+Magnetic Field Stabilizer II (Cargo)
+Spike L, Qty: 1222 (Cargo)
+Javelin L, Qty: 1357 (Cargo)
+Valkyrie II, Qty: 2 (Drone Bay)
+Infiltrator II, Qty: 3 (Drone Bay)
+

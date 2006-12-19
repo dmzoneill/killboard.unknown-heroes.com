@@ -1,0 +1,44 @@
+2007.04.18 05:00
+
+Victim: xinndo jagged
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Destroyed: Caracal
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Hazmat 69 (laid the final blow)
+Security: -1.6
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Thanatos
+Weapon: Firbolg
+
+Name: Admentus Cor'vion
+Security: -0.5
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Taranis
+Weapon: Taranis
+
+Name: MeanG
+Security: 3.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Thanatos
+Weapon: Firbolg
+
+
+Destroyed items:
+
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Medium Shield Extender II
+Medium Shield Extender II
+10MN Afterburner I
+Kapteyn Sensor Array Inhibitor I
+Indirect Scanning Dampening Unit I
+Havoc Heavy Missile, Qty: 1000 (Cargo)
+

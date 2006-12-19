@@ -1,0 +1,114 @@
+2007.03.30 13:37
+
+Victim: Erilynn
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Destroyed: Falcon
+System: C4C-Z4
+Security: 0.0
+
+Involved parties:
+
+Name: Lizzon
+Security: 5.0
+Alliance: Guardian Federation
+Corp: KULT Production
+Ship: Megathron
+Weapon: Megathron
+
+Name: Vialis
+Security: 5.0
+Alliance: Event-Horizon
+Corp: easyCredits
+Ship: Megathron
+Weapon: Megathron
+
+Name: stehrle
+Security: 5.0
+Alliance: Freelancer Coalition
+Corp: BINFORD
+Ship: Wolf
+Weapon: Wolf
+
+Name: Seleene
+Security: -1.8
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Nyx
+Weapon: Nyx
+
+Name: enDstaTioN (laid the final blow)
+Security: 3.0
+Alliance: Event-Horizon
+Corp: Parental Advisory
+Ship: Thorax
+Weapon: Limited Ion Blaster I
+
+Name: Braineater
+Security: 3.9
+Alliance: Freelancer Coalition
+Corp: BINFORD
+Ship: Stabber
+Weapon: Stabber
+
+Name: Stahlwolle
+Security: 5.0
+Alliance: Event-Horizon
+Corp: easyCredits
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Cinzano Bianco
+Security: 2.8
+Alliance: None
+Corp: Jade Phoenix Deutschland
+Ship: Stabber
+Weapon: Stabber
+
+Name: Shila VanDark
+Security: 3.4
+Alliance: Event-Horizon
+Corp: Neues Intergalaktisches Commonwealth
+Ship: Thorax
+Weapon: Thorax
+
+Name: EM00
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Caracal
+Weapon: Havoc Heavy Missile
+
+Name: Claude Equel
+Security: 3.0
+Alliance: Phoenix Allianz
+Corp: Jagdkommando
+Ship: Crusader
+Weapon: Dual Light Pulse Laser II
+
+Name: Kolute
+Security: 4.9
+Alliance: Freelancer Coalition
+Corp: BINFORD
+Ship: Unknown
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: Edward Hadon
+Security: 2.5
+Alliance: Guardian Federation
+Corp: Chemical Industry Company
+Ship: Raven
+Weapon: Shock 'Limos' Siege Missile Bay I
+
+
+Destroyed items:
+
+Heavy Missile Launcher II
+Heavy Missile Launcher II
+Large Shield Extender II
+Large Shield Booster II
+Cap Recharger II
+Co-Processor II
+Partial Hull Conversion Inertial Stabilizers
+Capacitor Power Relay I
+

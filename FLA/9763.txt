@@ -1,0 +1,33 @@
+2007.06.02 02:21
+
+Victim: Karai Kamasu
+Alliance: Freelancer Alliance
+Corp: The Collective of Ascended Beings
+Destroyed: Capsule
+System: M9U-75
+Security: 0.0
+
+Involved parties:
+
+Name: Peanut Swsh (laid the final blow)
+Security: 5.0
+Alliance: SMASH Alliance
+Corp: Antares Fleet Yards
+Ship: Sabre
+Weapon: 150mm Light 'Scout' Autocannon I
+
+Name: Chung Pow
+Security: 5.0
+Alliance: SMASH Alliance
+Corp: Point-Zero
+Ship: Hawk
+Weapon: Flameburst Light Missile
+
+Name: Fiin
+Security: 2.4
+Alliance: SMASH Alliance
+Corp: Point-Zero
+Ship: Enyo
+Weapon: Enyo
+
+

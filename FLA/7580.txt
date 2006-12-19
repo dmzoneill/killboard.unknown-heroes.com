@@ -1,0 +1,95 @@
+2006.09.21 20:40
+
+Victim: Arcturus mendrek
+Alliance: None
+Corp: Eternal Mercenaries
+Destroyed: Rifter
+System: L-TS8S
+Security: 0.0
+
+Involved parties:
+
+Name: kermitfrog (laid the final blow)
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Needa3
+Security: 4.9
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Rupture
+Weapon: Piranha Light Missile
+
+Name: Puke
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Crow
+Weapon: 'Langour' Drive Disruptor I
+
+Name: XxAngelxX
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Armageddon
+Weapon: Dual Heavy Modulated Pulse Energy Beam I
+
+Name: Kolombus
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Ishkur
+Weapon: 150mm Railgun II
+
+Name: copicus
+Security: 5.2
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Scorpion
+Weapon: Cruise Missile Launcher II
+
+Name: casama
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Apocalypse
+Weapon: Tachyon Beam Laser II
+
+Name: ShiVAs PArAdOXx
+Security: 2.1
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Kismeteer
+Security: 3.2
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Thorax
+Weapon: Stasis Webifier I
+
+Name: Davey Locke
+Security: 2.1
+Alliance: CORE.
+Corp: VentureCorp
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Ageha
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Apocalypse
+Weapon: Mega Pulse Laser II
+
+
+Destroyed items:
+
+Titanium Sabot S, Qty: 649 (Cargo)
+Gleaming Alloy (Cargo)
+Condensed Alloy (Cargo)
+

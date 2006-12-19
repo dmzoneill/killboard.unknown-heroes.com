@@ -1,0 +1,98 @@
+2007.03.28 12:16
+
+Victim: Sanal Gi
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Badger Mark II
+System: E-Z2ZX
+Security: 0.0
+
+Involved parties:
+
+Name: PMolkenthin (laid the final blow)
+Security: -0.7
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Arazu
+Weapon: Warrior II
+
+Name: MegaJ
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Pilgrim
+Weapon: Ogre II
+
+
+Destroyed items:
+
+10MN Afterburner II
+Invulnerability Field I
+Heat Dissipation Amplifier I
+Magnetic Scattering Amplifier I
+Warp Core Stabilizer I
+X-Large C5-L Emergency Shield Overload I, Qty: 2 (Cargo)
+Large C5-L Emergency Shield Overload I (Cargo)
+Monopropellant I Hydrazine Boosters, Qty: 2 (Cargo)
+10MN Afterburner II (Cargo)
+Prototype I Freight Sensors, Qty: 3 (Cargo)
+Ta3 Perfunctory Vessel Probe (Cargo)
+Speculative Ship Identifier I (Cargo)
+Survey Scanner I, Qty: 7 (Cargo)
+Residual Survey Scanner I, Qty: 2 (Cargo)
+Warp Disruptor I, Qty: 5 (Cargo)
+Warp Scrambler I, Qty: 10 (Cargo)
+Miner I, Qty: 3 (Cargo)
+Damage Control I, Qty: 3 (Cargo)
+Small Capacitor Battery I, Qty: 4 (Cargo)
+Small Ld-Acid Capacitor Battery I (Cargo)
+Small Armor Repairer I, Qty: 3 (Cargo)
+Medium Automated Structural Restoration (Cargo)
+Medium Hull Repairer I, Qty: 7 (Cargo)
+Stasis Webifier I, Qty: 4 (Cargo)
+Small Energy Transfer Array I, Qty: 16 (Cargo)
+Small Nosferatu I, Qty: 7 (Cargo)
+Small Energy Neutralizer I, Qty: 6 (Cargo)
+Small Proton Smartbomb I, Qty: 3 (Cargo)
+150mm Railgun I, Qty: 3 (Cargo)
+350mm Railgun I (Cargo)
+Heavy Ion Blaster I, Qty: 5 (Cargo)
+Anode Mega Electron Particle Cannon I (Cargo)
+Small Capacitor Booster I, Qty: 6 (Cargo)
+Ballistic Deflection Field I, Qty: 4 (Cargo)
+Ditrigonal Thermal Barrier Crystallization I, Qty: 2 (Cargo)
+Ogre I, Qty: 5 (Cargo)
+Hobgoblin II, Qty: 8 (Cargo)
+Warrior I, Qty: 2 (Cargo)
+Hornet I (Cargo)
+Infiltrator I, Qty: 3 (Cargo)
+Hammerhead I, Qty: 8 (Cargo)
+Berserker I, Qty: 2 (Cargo)
+Initiated Multispectral ECM I, Qty: 6 (Cargo)
+ECM - Spatial Destabilizer I, Qty: 6 (Cargo)
+ECM - Multispectral Jammer I, Qty: 10 (Cargo)
+Incremental Magnetometric ECCM Scanning Array I (Cargo)
+Remote Sensor Dampener I, Qty: 13 (Cargo)
+Tracking Link I, Qty: 2 (Cargo)
+Type-D Attenuation Signal Augmentation, Qty: 4 (Cargo)
+Sensor Booster I, Qty: 10 (Cargo)
+Scattering ECCM Projector I (Cargo)
+Balmer Series Targeting Inhibitor I (Cargo)
+Tracking Disruptor I, Qty: 7 (Cargo)
+Ancillary Ballistic Screen Stabilizer I (Cargo)
+F-S8 Relativistic Deflection Shield Induction (Cargo)
+Explosion Dampening Amplifier I (Cargo)
+Small I-ax Regenerative Projector (Cargo)
+Medium Remote Armor Repair System I, Qty: 3 (Cargo)
+Energized Basic Reactive Plating, Qty: 3 (Cargo)
+200mm Reinforced Steel Plates I, Qty: 3 (Cargo)
+100mm Reinforced Nanofiber Plates I, Qty: 2 (Cargo)
+Shield Boost Amplifier I, Qty: 10 (Cargo)
+Ballistic Control System I, Qty: 4 (Cargo)
+Snoop Scanner Probe I, Qty: 83 (Cargo)
+Recon Probe Launcher I, Qty: 3 (Cargo)
+Shock 'Limos' Siege Missile Bay I, Qty: 6 (Cargo)
+Type-D Altered SS Expanded Cargo (Cargo)
+Power Diagnostic System I, Qty: 20 (Cargo)
+Capacitor Flux Coil I, Qty: 8 (Cargo)
+

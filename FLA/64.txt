@@ -1,0 +1,51 @@
+2007.01.04 05:06
+
+Victim: Drakin Korin
+Alliance: Privateer Alliance
+Corp: Evil Bandit Organisation
+Destroyed: Raptor
+System: Jita
+Security: 0.9
+
+Involved parties:
+
+Name: Nova Paradise (laid the final blow)
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+Name: Countdown
+Security: -0.7
+Alliance: The UnAssociated
+Corp: Disciples Of The Night
+Ship: Harbinger
+Weapon: Heavy Pulse Laser II
+
+Name: SpiritOne
+Security: 1.7
+Alliance: The UnAssociated
+Corp: Disciples Of The Night
+Ship: Harbinger
+Weapon: Peripheral Weapon Navigation Diameter
+
+Name: Havoc AQM
+Security: 5.0
+Alliance: The UnAssociated
+Corp: Disciples Of The Night
+Ship: Armageddon
+Weapon: Mega Pulse Laser II
+
+
+Destroyed items:
+
+125mm Railgun II
+Antimatter Charge S, Qty: 31
+Upgraded 'Limos' Standard Missile Bay I
+1MN MicroWarpdrive II
+Beta Reactor Control: Capacitor Power Relay I
+Antimatter Charge S, Qty: 1952 (Cargo)
+Piranha Light Missile, Qty: 238 (Cargo)
+Serpent F.O.F. Light Missile I, Qty: 31 (Cargo)
+

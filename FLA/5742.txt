@@ -1,0 +1,41 @@
+2006.10.14 00:42
+
+Victim: Dudley1975
+Alliance: None
+Corp: Lemmings Inc
+Destroyed: Kestrel
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: GrandMastaXP
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: Preying Mantis (laid the final blow)
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: Cobra Raider
+Security: -2.4
+Alliance: Imperial Republic Of the North
+Corp: Port Royal Independent Kontractors
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+
+Destroyed items:
+
+Phalanx Rocket, Qty: 30
+Rocket Launcher I
+Rocket Launcher I
+Stasis Webifier I
+Phalanx Rocket, Qty: 630 (Cargo)
+

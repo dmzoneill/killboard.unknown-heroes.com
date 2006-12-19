@@ -1,0 +1,68 @@
+2007.02.06 22:07
+
+Victim: Kalibrana
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Destroyed: Brutix
+System: Tennen
+Security: 0.9
+
+Involved parties:
+
+Name: Dittatore (laid the final blow)
+Security: 0.0
+Alliance: Privateer Alliance
+Corp: Chuskarl's Family
+Ship: Prophecy
+Weapon: Focused Medium Beam Laser I
+
+Name: chuskarl brother
+Security: -1.7
+Alliance: Privateer Alliance
+Corp: Chuskarl's Family
+Ship: Rapier
+Weapon: Rapier
+
+Name: YuZa DFAAS
+Security: -0.2
+Alliance: Privateer Alliance
+Corp: Chuskarl's Family
+Ship: Arazu
+Weapon: Valkyrie II
+
+Name: Chuskarl's Grandfather
+Security: -0.9
+Alliance: Privateer Alliance
+Corp: Chuskarl's Family
+Ship: Curse
+Weapon: Vespa I
+
+Name: X3me
+Security: -0.4
+Alliance: Privateer Alliance
+Corp: Chuskarl's Family
+Ship: Taranis
+Weapon: Taranis
+
+Name: Fairy Orthodox
+Security: 1.1
+Alliance: Privateer Alliance
+Corp: Chuskarl's Family
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+Heavy Neutron Blaster II
+Heavy Neutron Blaster II
+Heavy Neutron Blaster II
+Heavy Neutron Blaster II
+Heavy Neutron Blaster II
+Antimatter Charge M, Qty: 160
+ECM - Multispectral Jammer II
+Medium Armor Repairer II
+Energized Reactive Membrane I
+Antimatter Charge M, Qty: 2440 (Cargo)
+Hammerhead II, Qty: 5 (Drone Bay)
+

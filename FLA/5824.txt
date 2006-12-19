@@ -1,0 +1,64 @@
+2006.10.23 15:22
+
+Victim: Hellspawn666
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Destroyed: Jaguar
+System: OWXT-5
+Security: 0.0
+
+Involved parties:
+
+Name: coldkill (laid the final blow)
+Security: 0.8
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Megathron
+Weapon: 425mm Railgun I
+
+Name: Ian Storme
+Security: 2.9
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Ship: Merlin
+Weapon: Bloodclaw Light Missile
+
+Name: LC Sulla
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Raptor
+Weapon: Upgraded 'Limos' Standard Missile Bay I
+
+Name: menace ace
+Security: 3.3
+Alliance: Freelancer Alliance
+Corp: Royal Flying Aces
+Ship: Brutix
+Weapon: Vespa II
+
+Name: Ogrimm Surak
+Security: 0.8
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Incursus
+Weapon: Incursus
+
+Name: Aeryn Calbert
+Security: 1.6
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Scorpion
+Weapon: 'Hypnos' Multispectral ECM I
+
+
+Destroyed items:
+
+200mm AutoCannon II
+Barrage S, Qty: 76
+J5 Prototype Warp Inhibitor I
+Initiated Harmonic Warp Jammer I
+Small Armor Repairer II
+Gyrostabilizer II (Cargo)
+1600mm Reinforced Rolled Tungsten Plates I (Cargo)
+

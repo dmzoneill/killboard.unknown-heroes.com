@@ -1,0 +1,84 @@
+2007.04.20 02:48
+
+Victim: velusip
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Destroyed: Vengeance
+System: F7C-H0
+Security: 0.0
+
+Involved parties:
+
+Name: Frist
+Security: 1.3
+Alliance: FATAL Alliance
+Corp: Equilibrium LLC
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Orryc (laid the final blow)
+Security: -0.6
+Alliance: FATAL Alliance
+Corp: Equilibrium LLC
+Ship: Thorax
+Weapon: Heavy Ion Blaster II
+
+Name: CENGIZHAN
+Security: 2.8
+Alliance: FATAL Alliance
+Corp: Equilibrium LLC
+Ship: Malediction
+Weapon: Malediction
+
+Name: Dog Solitude
+Security: 0.0
+Alliance: FATAL Alliance
+Corp: Equilibrium LLC
+Ship: Harbinger
+Weapon: Focused Medium Pulse Laser II
+
+Name: Kelishnikov
+Security: -3.5
+Alliance: FATAL Alliance
+Corp: Equilibrium LLC
+Ship: Flycatcher
+Weapon: Thorn Javelin Rocket
+
+Name: Chezaka
+Security: 2.2
+Alliance: FATAL Alliance
+Corp: Equilibrium LLC
+Ship: Arazu
+Weapon: Arazu
+
+Name: Lord Regnier
+Security: 0.9
+Alliance: FATAL Alliance
+Corp: FATAL REVELATIONS
+Ship: Ares
+Weapon: Ares
+
+Name: wettestwillie
+Security: 0.1
+Alliance: None
+Corp: Aliastra
+Ship: Ishkur
+Weapon: Hobgoblin II
+
+
+Destroyed items:
+
+Flameburst Light Missile, Qty: 40
+Standard Missile Launcher I
+F-b10 Nominal Capacitor Regenerator
+Warp Core Stabilizer I
+Energized Basic Reactive Plating
+Medium 'Atonement' I Ward Projector (Cargo)
+Fixed Parallel Link-Capacitor I (Cargo)
+Warp Scrambler I (Cargo)
+F85 Peripheral Damage System I, Qty: 2 (Cargo)
+Remote Sensor Booster I (Cargo)
+Energized Basic Magnetic Plating (Cargo)
+Armor Kinetic Hardener I, Qty: 2 (Cargo)
+Local Power Plant Manager: Diagnostic System I (Cargo)
+

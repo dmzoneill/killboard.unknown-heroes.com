@@ -1,0 +1,146 @@
+2007.02.09 22:31
+
+Victim: Jisela
+Alliance: Freelancer Alliance
+Corp: Feel Good Inc.
+Destroyed: Scorpion
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Misha Mosqito
+Security: 3.3
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Megathron
+Weapon: Megathron
+
+Name: Lord KesH
+Security: 2.5
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Maelstrom
+Weapon: Maelstrom
+
+Name: Anominity
+Security: 4.2
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Abaddon
+Weapon: Tachyon Beam Laser II
+
+Name: Ceapio
+Security: 1.2
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Tempest
+Weapon: Tempest
+
+Name: cptblood
+Security: 2.3
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Darknesss
+Security: 0.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Laarz
+Security: -3.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: NightWolfe
+Security: 5.0
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: xlop (laid the final blow)
+Security: -1.8
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Abaddon
+Weapon: Tachyon Beam Laser II
+
+Name: Elliott Manchild
+Security: -1.8
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Machariel
+Weapon: Machariel
+
+Name: ArchenTheGreat
+Security: -0.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Rokh
+Weapon: Rokh
+
+Name: Pistonbroke
+Security: 0.5
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Rokh
+Weapon: Rokh
+
+Name: Jester87
+Security: 1.5
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Eagle
+Weapon: Eagle
+
+Name: ukpAgAn
+Security: 5.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: WarGod
+Security: 2.7
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Vagabond
+Weapon: XR-3200 Heavy Missile Bay
+
+Name: Assassin 2
+Security: 5.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Crow
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: aadom
+Security: 3.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Tempest
+Weapon: 1400mm Gallium I Cannon
+
+
+Destroyed items:
+
+Heavy Nosferatu I
+Devastator Cruise Missile, Qty: 37
+Cruise Missile Launcher I
+Cruise Missile Launcher I
+Large F-S9 Regolith Shield Induction
+Large F-S9 Regolith Shield Induction
+J5 Prototype Warp Inhibitor I
+J5 Prototype Warp Inhibitor I
+ECM - Multispectral Jammer II
+ECM - Multispectral Jammer II
+'Hypnos' Signal Distortion Amplifier I
+Hammerhead I, Qty: 3 (Drone Bay)
+

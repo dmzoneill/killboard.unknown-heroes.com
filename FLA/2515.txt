@@ -1,0 +1,31 @@
+2007.02.17 15:52
+
+Victim: mr passie
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Destroyed: Jaguar
+System: KLY-C0
+Security: 0.0
+
+Involved parties:
+
+Name: Mining Maxx (laid the final blow)
+Security: 5.0
+Alliance: None
+Corp: Coherent Light
+Ship: Absolution
+Weapon: Heavy Pulse Laser II
+
+
+Destroyed items:
+
+150mm Light AutoCannon II
+150mm Light AutoCannon II
+Hail S, Qty: 27
+Bloodclaw Light Missile, Qty: 31
+'Malkuth' Standard Missile Launcher I
+1MN MicroWarpdrive II
+J5b Phased Prototype Warp Inhibitor I
+Power Diagnostic System II
+Hail S, Qty: 1760 (Cargo)
+

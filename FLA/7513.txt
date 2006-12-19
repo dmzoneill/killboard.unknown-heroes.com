@@ -1,0 +1,145 @@
+2006.09.10 21:57
+
+Victim: the willyb
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Destroyed: Megathron
+System: G-M4I8
+Security: 0.0
+
+Involved parties:
+
+Name: MentalM
+Security: 5.2
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Zealot
+Weapon: Zealot
+
+Name: DARKLING
+Security: 5.1
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Eagle
+Weapon: Eagle
+
+Name: vladdy2
+Security: 3.4
+Alliance: CORE.
+Corp: VentureCorp
+Ship: Huginn
+Weapon: Huginn
+
+Name: Shiri elAzarinres
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Caracal
+Weapon: Thunderbolt Heavy Missile
+
+Name: Fahad
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Eagle
+Weapon: Piranha Light Missile
+
+Name: Taffun
+Security: 2.8
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Wolf
+Weapon: Wolf
+
+Name: D2O HeavyWater
+Security: -1.6
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Scorpion
+Weapon: Wrath Cruise Missile
+
+Name: Zimi Vlasic
+Security: 0.2
+Alliance: EVE Animal Control
+Corp: F.R.E.E. Explorer
+Ship: Wolf
+Weapon: Wolf
+
+Name: Kev Lar
+Security: -0.1
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Sabre
+Weapon: Sabre
+
+Name: DDaisy
+Security: 4.6
+Alliance: CORE.
+Corp: VentureCorp
+Ship: Lachesis
+Weapon: Thunderbolt Heavy Missile
+
+Name: Valtaer (laid the final blow)
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: Terminal Velocity Inc.
+Ship: Moa
+Weapon: 250mm Compressed Coil Gun I
+
+Name: kermitfrog
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Serin Lore
+Security: 0.2
+Alliance: CORE.
+Corp: AUS Corporation
+Ship: Retribution
+Weapon: Retribution
+
+Name: NATMav
+Security: 5.0
+Alliance: EVE Animal Control
+Corp: F.R.E.E. Explorer
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Puke
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Ravyxx
+Security: 5.2
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Taranis
+Weapon: Taranis
+
+Name: Karnovsky
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Sabre
+Weapon: Sabre
+
+
+Destroyed items:
+
+425mm Railgun II
+425mm Railgun II
+425mm Railgun II
+425mm Railgun II
+425mm Railgun II
+Spike L, Qty: 200
+Sensor Booster II
+Sensor Booster II
+Tracking Enhancer II
+Spike L, Qty: 1999 (Cargo)
+Warrior I, Qty: 2 (Drone Bay)
+

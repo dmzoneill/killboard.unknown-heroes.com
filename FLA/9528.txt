@@ -1,0 +1,19 @@
+2007.05.16 13:25
+
+Victim: Bodica
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Destroyed: Capsule
+System: JU-OWQ
+Security: 0.0
+
+Involved parties:
+
+Name: Flaming Candle (laid the final blow)
+Security: 4.8
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Arazu
+Weapon: 250mm Compressed Coil Gun I
+
+

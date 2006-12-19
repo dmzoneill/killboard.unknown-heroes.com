@@ -1,0 +1,60 @@
+2006.11.12 18:01
+
+Victim: Farali
+Alliance: None
+Corp: Demogorgon's Army
+Destroyed: Crusader
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Durante Alighieri
+Security: 2.8
+Alliance: Schism.
+Corp: New Light
+Ship: Caracal
+Weapon: Thunderbolt Heavy Missile
+
+Name: Guristas Terrorist / Guristas
+
+Name: Wousr
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: LizzyD
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Ishkur
+Weapon: 150mm Railgun II
+
+Name: forator2
+Security: 3.9
+Alliance: O X I D E
+Corp: W33D Corp.
+Ship: Ishkur
+Weapon: Infiltrator II
+
+Name: Kristinne (laid the final blow)
+Security: 0.3
+Alliance: O X I D E
+Corp: W33D Corp.
+Ship: Ares
+Weapon: Light Ion Blaster II
+
+
+Destroyed items:
+
+Dual Light Pulse Laser II
+Dual Light Pulse Laser II
+Ultraviolet S
+Phased Monopropellant I Hydrazine Boosters
+'Langour' Drive Disruptor I
+Small Armor Repairer I
+Shield Emission Systems (Cargo)
+Scorch S, Qty: 2 (Cargo)
+

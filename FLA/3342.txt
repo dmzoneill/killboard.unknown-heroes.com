@@ -1,0 +1,67 @@
+2007.03.23 21:52
+
+Victim: Mauy Thai
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Destroyed: Curse
+System: O-ZXUV
+Security: 0.0
+
+Involved parties:
+
+Name: VirkMaN (laid the final blow)
+Security: -1.1
+Alliance: Eternal Rapture
+Corp: Temptation inc.
+Ship: Absolution
+Weapon: Heavy Pulse Laser II
+
+Name: hezitationkillz
+Security: -1.4
+Alliance: Eternal Rapture
+Corp: Temptation inc.
+Ship: Retribution
+Weapon: Medium Pulse Laser II
+
+Name: Jack Archer
+Security: -1.7
+Alliance: Eternal Rapture
+Corp: Quantum Synergies
+Ship: Myrmidon
+Weapon: Heavy Ion Blaster II
+
+Name: GodWin cadela
+Security: -1.7
+Alliance: Eternal Rapture
+Corp: Exotic Dancers Club
+Ship: Hurricane
+Weapon: Dual 180mm AutoCannon II
+
+Name: Evil Ted
+Security: -4.4
+Alliance: Eternal Rapture
+Corp: Exotic Dancers Club
+Ship: Raven
+Weapon: Cruise Missile Launcher II
+
+Name: C Duggan
+Security: -4.4
+Alliance: Eternal Rapture
+Corp: Exotic Dancers Club
+Ship: Lachesis
+Weapon: 'Arbalest' Rocket Launcher I
+
+
+Destroyed items:
+
+Medium Nosferatu II
+Large F-S9 Regolith Shield Induction
+Medium Shield Booster II
+Medium Shield Booster II
+Y-T8 Overcharged Hydrocarbon I Microwarpdrive
+Dark Blood Warp Disruptor
+Balmer Series Targeting Inhibitor I
+Nanofiber Internal Structure II
+Nanofiber Internal Structure II
+Overdrive Injector System I
+

@@ -1,0 +1,99 @@
+2006.08.12 22:27
+
+Victim: Cockroach
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Apocalypse
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: john roe (laid the final blow)
+Security: -4.4
+Alliance: None
+Corp: Beagle Corp
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Jouno
+Security: -1.4
+Alliance: None
+Corp: Beagle Corp
+Ship: Megathron
+Weapon: Megathron
+
+Name: UnSiViLiZeD
+Security: 0.2
+Alliance: None
+Corp: Beagle Corp
+Ship: Megathron
+Weapon: Megathron
+
+Name: Valerian Xavier
+Security: 2.4
+Alliance: None
+Corp: Beagle Corp
+Ship: Megathron
+Weapon: Megathron
+
+Name: faithan
+Security: -9.8
+Alliance: None
+Corp: Beagle Corp
+Ship: Megathron
+Weapon: Megathron
+
+Name: Kheo Sen
+Security: 2.2
+Alliance: None
+Corp: Beagle Corp
+Ship: Typhoon
+Weapon: Typhoon
+
+Name: Roule
+Security: -7.1
+Alliance: None
+Corp: Beagle Corp
+Ship: Rapier
+Weapon: 'Arbalest' Standard Missile Launcher
+
+Name: Tynicas
+Security: 0.3
+Alliance: None
+Corp: Beagle Corp
+Ship: Ferox
+Weapon: Piranha Light Missile
+
+Name: Chewan Mesa
+Security: 5.0
+Alliance: None
+Corp: Beagle Corp
+Ship: Falcon
+Weapon: ECM - Multispectral Jammer II
+
+
+Destroyed items:
+
+Tachyon Beam Laser II
+Tachyon Beam Laser II
+Prototype Cloaking Device I
+Aurora L
+Aurora L
+Sensor Booster II
+Heat Sink II
+Signal Amplifier II
+'Repose' I Core Compensation
+'Accord' I Core Compensation
+Gleam L, Qty: 3 (Cargo)
+Thunderbolt Heavy Missile, Qty: 514 (Cargo)
+Scourge Heavy Missile, Qty: 180 (Cargo)
+Havoc Heavy Missile, Qty: 90 (Cargo)
+Widowmaker Heavy Missile, Qty: 197 (Cargo)
+Hydra F.O.F. Heavy Missile I, Qty: 30 (Cargo)
+Eradicator F.O.F. Heavy Missile I, Qty: 100 (Cargo)
+Stalker F.O.F. Heavy Missile I, Qty: 430 (Cargo)
+Hellhound F.O.F. Heavy Missile I, Qty: 65 (Cargo)
+Hobgoblin I (Drone Bay)
+Acolyte I, Qty: 4 (Drone Bay)
+

@@ -1,0 +1,29 @@
+2006.12.20 01:12
+
+Victim: Speed Devil
+Alliance: None
+Corp: Liberty Rogues
+Destroyed: Vexor
+System: Pelille
+Security: 0.2
+
+Involved parties:
+
+Name: dastommy79 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Ferox
+Weapon: Thunderbolt Heavy Missile
+
+
+Destroyed items:
+
+Heavy Electron Blaster I
+Heavy Neutron Blaster I
+Antimatter Charge M, Qty: 247
+Warp Scrambler I
+Energized Reactive Membrane I
+Antimatter Charge M, Qty: 641 (Cargo)
+Vespa I (Drone Bay)
+

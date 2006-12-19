@@ -1,0 +1,143 @@
+2007.04.17 20:59
+
+Victim: Vlad Cetes
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Raven
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Burn Lump
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Crow
+Weapon: Crow
+
+Name: Teck7
+Security: 1.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ares
+Weapon: Firbolg
+
+Name: dastommy79
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Executioner
+Weapon: Modal Light Ion Particle Accelerator I
+
+Name: Kayron Brennan (laid the final blow)
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Thanatos
+Weapon: Dragonfly
+
+Name: ClogMan
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Wolf
+Weapon: Wolf
+
+Name: Rhaall
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Crucifier
+Weapon: Dragonfly
+
+Name: The Cade
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Thorax
+Weapon: Thorax
+
+Name: Minisoza
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Taranis
+Weapon: Taranis
+
+Name: Green Back
+Security: 2.1
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Stabber
+Weapon: Stabber
+
+Name: Alski
+Security: 3.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Cormorant
+Weapon: Cormorant
+
+Name: Sir Appa
+Security: 1.4
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Ishkur
+Weapon: Hornet I
+
+Name: Magic Mazuma
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Rifter
+Weapon: Rifter
+
+Name: wagg
+Security: 2.6
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Tristan
+Weapon: Hobgoblin I
+
+Name: Steven FSB
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Chimera
+Weapon: Templar
+
+Name: Bobby Atlas
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Thanatos
+Weapon: Dragonfly
+
+
+Destroyed items:
+
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Juggernaut Torpedo, Qty: 18
+Siege Missile Launcher II
+Siege Missile Launcher II
+Siege Missile Launcher II
+Siege Missile Launcher II
+Siege Missile Launcher II
+X-Large Clarity Ward Booster I
+Invulnerability Field II
+Ballistic Control System II
+Ballistic Control System II
+Ballistic Control System II
+Mjolnir Torpedo, Qty: 694 (Cargo)
+Juggernaut Torpedo, Qty: 1060 (Cargo)
+Mjolnir Rage Torpedo, Qty: 500 (Cargo)
+Inferno Rage Torpedo, Qty: 500 (Cargo)
+Bane Rage Torpedo, Qty: 500 (Cargo)
+Berserker TP-900 (Drone Bay)
+

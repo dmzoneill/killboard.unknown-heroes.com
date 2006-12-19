@@ -1,0 +1,49 @@
+2007.02.25 03:51
+
+Victim: Viper ShizzIe
+Alliance: Corelum Syndicate
+Corp: Coreli Corporation
+Destroyed: Enyo
+System: YZ-LQL
+Security: 0.0
+
+Involved parties:
+
+Name: MileHigh 11 (laid the final blow)
+Security: 4.2
+Alliance: Dusk and Dawn
+Corp: Omega Enterprises
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+Name: Xantheris
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Taranis
+Weapon: Taranis
+
+Name: UP LATE
+Security: 4.7
+Alliance: Dusk and Dawn
+Corp: Omega Enterprises
+Ship: Eagle
+Weapon: Thunderbolt Heavy Missile
+
+Name: truefranco
+Security: 2.1
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Flycatcher
+Weapon: Flycatcher
+
+
+Destroyed items:
+
+150mm Railgun II
+Antimatter Charge S, Qty: 36
+J5 Prototype Warp Inhibitor I
+Capacitor Power Relay I
+Capacitor Power Relay I
+Spike S, Qty: 3589 (Cargo)
+

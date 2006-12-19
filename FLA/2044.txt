@@ -1,0 +1,60 @@
+2007.01.19 00:40
+
+Victim: Thafesko
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Destroyed: Condor
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Darknesss (laid the final blow)
+Security: 0.5
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Megathron
+Weapon: Ogre II
+
+Name: boo3916
+Security: 4.6
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Dominix
+Weapon: Dominix
+
+Name: WarGod
+Security: 1.7
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Tempest
+Weapon: Hobgoblin II
+
+Name: Unfortunate Accident
+Security: -1.9
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: ArchenTheGreat
+Security: -2.2
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Dominix
+Weapon: Ogre II
+
+
+Destroyed items:
+
+Thorn Rocket
+Thorn Rocket
+Thorn Rocket
+Thorn Rocket
+Thorn Rocket
+Thorn Rocket
+Thorn Rocket
+'Malkuth' Rocket Launcher I
+'Malkuth' Rocket Launcher I
+Thorn Rocket, Qty: 3915 (Cargo)
+

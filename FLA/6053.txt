@@ -1,0 +1,83 @@
+2006.11.06 20:04
+
+Victim: Ducc1
+Alliance: Interstellar Starbase Syndicate
+Corp: MC Cubed Inc
+Destroyed: Crow
+System: X-7OMU
+Security: 0.0
+
+Involved parties:
+
+Name: Preying Mantis
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Harpy
+Weapon: Harpy
+
+Name: LC Sulla
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Cerberus
+Weapon: Scourge Heavy Missile
+
+Name: TiMeZeRo225 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: J.I.T. Enterprises
+Ship: Raven
+Weapon: Cataclysm Cruise Missile
+
+Name: jacass66
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Scorpion
+Weapon: Heavy Missile Launcher II
+
+Name: Slinktress
+Security: 2.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Enyo
+Weapon: Enyo
+
+Name: Scorpio63
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Vengeance
+Weapon: Vengeance
+
+Name: LizzyD
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: Flashh Gorden
+Security: 3.1
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Ship: Kestrel
+Weapon: Upgraded 'Limos' Standard Missile Bay I
+
+Name: Elfaen Ethenwe
+Security: -0.1
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Rook
+Weapon: Heavy Missile Launcher II
+
+
+Destroyed items:
+
+Antimatter Charge S, Qty: 77
+Bloodclaw Light Missile, Qty: 43
+'Malkuth' Standard Missile Launcher I
+1MN MicroWarpdrive I
+Exterminator F.O.F. Light Missile I, Qty: 250 (Cargo)
+

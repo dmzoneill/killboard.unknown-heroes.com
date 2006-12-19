@@ -1,0 +1,29 @@
+2006.12.30 09:46
+
+Victim: ioanna06
+Alliance: None
+Corp: Science and Trade Institute
+Destroyed: Kestrel
+System: Dantumi
+Security: 0.4
+
+Involved parties:
+
+Name: Korudon (laid the final blow)
+Security: 4.5
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Guristas Nihilist / Guristas
+
+
+Destroyed items:
+
+Flameburst Light Missile, Qty: 36
+Standard Missile Launcher I
+Standard Missile Launcher I
+Small Shield Transporter I (Cargo)
+Prototype I Freight Sensors (Cargo)
+

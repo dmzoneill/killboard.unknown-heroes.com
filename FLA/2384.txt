@@ -1,0 +1,43 @@
+2007.02.09 10:54
+
+Victim: Mokh'Tar
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Destroyed: Rupture
+System: CZDJ-1
+Security: 0.0
+
+Involved parties:
+
+Name: Imran (laid the final blow)
+Security: 1.2
+Alliance: None
+Corp: Fate.
+Ship: Sabre
+Weapon: 200mm AutoCannon II
+
+Name: Adrianna Utani
+Security: -1.3
+Alliance: None
+Corp: Fate.
+Ship: Sabre
+Weapon: Sabre
+
+
+Destroyed items:
+
+Dual 180mm AutoCannon I
+Dual 180mm AutoCannon I
+Dual 180mm AutoCannon I
+Dual 180mm AutoCannon I
+Medium Nosferatu I
+EMP M, Qty: 136
+Phased Plasma M, Qty: 85
+Initiated Warp Jammer I
+Medium Armor Repairer I
+Medium Armor Repairer I
+Voltaic Nanite Explosive Hardener I
+N-Type Thermic Hardener I
+N-Type Kinetic Hardener I
+Sabretooth Light Missile, Qty: 400 (Cargo)
+

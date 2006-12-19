@@ -1,0 +1,31 @@
+2007.05.18 17:46
+
+Victim: Tanta
+Alliance: None
+Corp: State War Academy
+Destroyed: Ibis
+System: G-M4I8
+Security: 0.0
+
+Involved parties:
+
+Name: wardey
+Security: 0.6
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Crusader
+Weapon: Crusader
+
+Name: Ocara Nezus (laid the final blow)
+Security: 1.5
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+Civilian Gatling Railgun
+Tritanium (Cargo)
+

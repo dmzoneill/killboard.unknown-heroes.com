@@ -1,0 +1,19 @@
+2007.01.14 18:19
+
+Victim: Timepilot
+Alliance: The ARR0W Project
+Corp: The Forsakened Few
+Destroyed: Caldari Shuttle
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: sakana (laid the final blow)
+Security: -1.3
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Taranis
+Weapon: 125mm 'Scout' I Accelerator Cannon
+
+

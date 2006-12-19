@@ -1,0 +1,35 @@
+2007.04.09 17:32
+
+Victim: Frantico
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Destroyed: Crusader
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Furnis (laid the final blow)
+Security: 3.5
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Raven
+Weapon: Wrath Cruise Missile
+
+Name: Shassandra
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Taranis
+Weapon: Taranis
+
+
+Destroyed items:
+
+Dual Light Pulse Laser II
+Dual Light Pulse Laser II
+Conflagration S
+Conflagration S
+Warp Disruptor I
+Capacitor Power Relay I
+

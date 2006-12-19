@@ -1,0 +1,29 @@
+2007.03.03 21:34
+
+Victim: SoF Reaperman
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Destroyed: Harpy
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: FrankieG (laid the final blow)
+Security: -1.0
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Curse
+Weapon: Hobgoblin I
+
+
+Destroyed items:
+
+Light Neutron Blaster I
+Antimatter Charge S, Qty: 160
+Gremlin Rocket, Qty: 30
+1MN MicroWarpdrive I
+Warp Disruptor I
+Tracking Enhancer I
+Antimatter Charge S, Qty: 6636 (Cargo)
+

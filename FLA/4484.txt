@@ -1,0 +1,81 @@
+2007.04.11 13:26
+
+Victim: Chuck Dawg
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Destroyed: Raven
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Eleese
+Security: -0.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Dominix
+Weapon: Ogre II
+
+Name: Sivona (laid the final blow)
+Security: -1.1
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Eos
+Weapon: Heavy Ion Blaster II
+
+Name: Shraek
+Security: 1.4
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Sabre
+Weapon: Sabre
+
+Name: The Ali
+Security: -3.2
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Amok'Trueborn' Pryde
+Security: -1.5
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Huginn
+Weapon: Valkyrie II
+
+Name: Gordon Red
+Security: 2.1
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Heretic
+Weapon: Heretic
+
+Name: volly
+Security: 3.7
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Curse
+Weapon: Thunderbolt Heavy Missile
+
+Name: Ridoc
+Security: 2.9
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Taranis
+Weapon: Fleeting Warp Scrambler I
+
+
+Destroyed items:
+
+Heavy Nosferatu I
+Juggernaut Torpedo, Qty: 10
+'Malkuth' Siege Missile Launcher I
+Invulnerability Field I
+V-M15 Braced Multispectral Shield Matrix
+V-M15 Braced Multispectral Shield Matrix
+'Stalwart' I Particle Field Magnifier
+Ballistic Control System I
+Ballistic Control System I
+Power Diagnostic System I
+

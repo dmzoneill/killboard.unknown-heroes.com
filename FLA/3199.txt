@@ -1,0 +1,65 @@
+2007.03.20 21:55
+
+Victim: Eleri Bree
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Destroyed: Taranis
+System: O-N8XZ
+Security: 0.0
+
+Involved parties:
+
+Name: Lazifax
+Security: 5.0
+Alliance: None
+Corp: MotorSaikol LadrUNZ
+Ship: Maelstrom
+Weapon: 800mm Repeating Artillery II
+
+Name: Zanicchi (laid the final blow)
+Security: 5.0
+Alliance: None
+Corp: MotorSaikol LadrUNZ
+Ship: Stabber
+Weapon: Flameburst Light Missile
+
+Name: F1RSTBL00D
+Security: -1.8
+Alliance: None
+Corp: MotorSaikol LadrUNZ
+Ship: Stabber
+Weapon: Stabber
+
+Name: Vengarioth Skullshanks
+Security: -1.9
+Alliance: None
+Corp: Bikini Girls with Machine Guns
+Ship: Rapier
+Weapon: Phased Muon Sensor Disruptor I
+
+Name: Bogen Mandrangus
+Security: 1.9
+Alliance: None
+Corp: MotorSaikol LadrUNZ
+Ship: Armageddon
+Weapon: Armageddon
+
+
+Destroyed items:
+
+Prototype Cloaking Device I
+Phased Monopropellant I Hydrazine Boosters
+X5 Prototype I Engine Enervator
+Micro Auxiliary Power Core I
+Type-D Altered SS Nanofiber Structure
+125mm Railgun II, Qty: 2 (Cargo)
+Antimatter Charge M, Qty: 100 (Cargo)
+Prototype I Sensor Booster, Qty: 5 (Cargo)
+Standard Missiles (Cargo)
+Cruise Missiles (Cargo)
+Heavy Missiles (Cargo)
+Archaeology (Cargo)
+Hacking (Cargo)
+Limited Cybernetic Subprocessor - Beta, Qty: 5 (Cargo)
+Warrior II (Drone Bay)
+

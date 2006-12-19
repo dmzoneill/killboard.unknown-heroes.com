@@ -1,0 +1,45 @@
+2006.09.29 23:34
+
+Victim: Michus Danether
+Alliance: None
+Corp: Aristotle Enterprises
+Destroyed: Merlin
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Scorpio63
+Security: 4.4
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Apocalypse
+Weapon: Mega Beam Laser I
+
+Name: DarkJester (laid the final blow)
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery I
+
+Name: Swanny231
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Raven
+Weapon: Cruise Missile Launcher II
+
+
+Destroyed items:
+
+125mm Carbide Railgun I
+125mm Carbide Railgun I
+Antimatter Charge S, Qty: 80
+Flameburst Light Missile, Qty: 40
+Standard Missile Launcher I
+Compulsive Ion Field ECM I
+Damage Control I
+Antimatter Charge S, Qty: 709 (Cargo)
+Flameburst Light Missile, Qty: 376 (Cargo)
+

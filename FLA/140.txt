@@ -1,0 +1,115 @@
+2007.01.14 00:21
+
+Victim: Crucifier
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Destroyed: Vagabond
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: sakana (laid the final blow)
+Security: -1.3
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Megathron
+Weapon: 425mm Prototype I Gauss Gun
+
+Name: Damfoose
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Unknown
+Weapon: 250mm Railgun II
+
+Name: Gwaihir
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Chimera
+Weapon: Dragonfly
+
+Name: Nya
+Security: 2.1
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Boris Nikolaovitch
+Security: 3.4
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Rapier
+Weapon: Rapier
+
+Name: Odinegras
+Security: 4.1
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Megathron
+Weapon: Indirect Scanning Dampening Unit I
+
+Name: TroNaaR
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Celestis
+Weapon: 250mm 'Scout' I Accelerator Cannon
+
+Name: Kandread
+Security: 0.6
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Capsule
+Weapon: 250mm Light Artillery Cannon II
+
+Name: mr passie
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Wolf
+Weapon: 280mm Howitzer Artillery II
+
+Name: WolfRavage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Brutix
+Weapon: Regulated Neutron Phase Cannon I
+
+Name: Cobra64
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery I
+
+
+Destroyed items:
+
+220mm Vulcan AutoCannon II
+220mm Vulcan AutoCannon II
+Barrage M, Qty: 64
+Large Shield Extender II
+Domination 10MN MicroWarpdrive
+Dark Blood Warp Disruptor
+Gyrostabilizer II
+Local Hull Conversion Inertial Stabilizers I
+Local Hull Conversion Inertial Stabilizers I
+Local Hull Conversion Nanofiber Structure I
+Corpse (Cargo)
+Eutectic I Capacitor Charge Array (Cargo)
+Gistii A-Type 1MN MicroWarpdrive (Cargo)
+Small 'Ghoul' Energy Siphon I (Cargo)
+Ballistic Deflection Field II (Cargo)
+EMP M, Qty: 1431 (Cargo)
+Remote Sensor Dampener II (Cargo)
+Ballistic Control System II (Cargo)
+Snoop Scanner Probe I, Qty: 9 (Cargo)
+Cruise Missile Launcher II, Qty: 2 (Cargo)
+Local Hull Conversion Inertial Stabilizers I (Cargo)
+Warrior II, Qty: 2 (Drone Bay)
+Hobgoblin II (Drone Bay)
+

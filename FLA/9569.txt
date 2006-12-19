@@ -1,0 +1,29 @@
+2007.05.18 18:59
+
+Victim: Kayron Brennan
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Destroyed: Merlin
+System: G-M4I8
+Security: 0.0
+
+Involved parties:
+
+Name: Begemot UA (laid the final blow)
+Security: -0.5
+Alliance: None
+Corp: State War Academy
+Ship: Drake
+Weapon: Torrent Assault Missile
+
+Name: Guristas Assassin / Guristas
+
+
+Destroyed items:
+
+Antimatter Charge S, Qty: 176
+Thorn Rocket, Qty: 12
+Medium Shield Extender II
+Reactor Control Unit I
+Thorn Rocket, Qty: 1940 (Cargo)
+

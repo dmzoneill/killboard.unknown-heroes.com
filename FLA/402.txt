@@ -1,0 +1,54 @@
+2007.01.31 07:50
+
+Victim: chargeur
+Alliance: None
+Corp: Tarnak inc.
+Destroyed: Punisher
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Weeble Wooble (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Catalyst
+Weapon: 150mm Railgun II
+
+Name: Feke
+Security: 4.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Moa
+Weapon: Standard Missile Launcher I
+
+Name: Teck7
+Security: 0.8
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ishtar
+Weapon: Hammerhead II
+
+Name: MrMaggot
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Hawk
+Weapon: Piranha Light Missile
+
+
+Destroyed items:
+
+Dual Modal Light Laser I
+Dual Modal Light Laser I
+Multifrequency S
+Warp Disruptor I
+Small Armor Repairer I
+Co-Processor I
+Medium Capacitor Booster I (Cargo)
+Antimatter Charge M, Qty: 100 (Cargo)
+Cap Booster 75, Qty: 24 (Cargo)
+Hammerhead I (Cargo)
+ECM - Spatial Destabilizer I (Cargo)
+

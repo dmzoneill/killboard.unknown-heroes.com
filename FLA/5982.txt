@@ -1,0 +1,29 @@
+2006.11.05 04:52
+
+Victim: Annalyn M
+Alliance: FREGE Alliance
+Corp: MASS HOMICIDE
+Destroyed: Ishkur
+System: O-CNPR
+Security: 0.0
+
+Involved parties:
+
+Name: Enochios (laid the final blow)
+Security: 1.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Retribution
+Weapon: Medium Pulse Laser II
+
+
+Destroyed items:
+
+Anode Light Ion Particle Cannon I
+Anode Light Ion Particle Cannon I
+Antimatter Charge S, Qty: 240
+Small Armor Repairer II
+Antimatter Charge S, Qty: 1760 (Cargo)
+Hobgoblin II, Qty: 2 (Drone Bay)
+Hammerhead II (Drone Bay)
+

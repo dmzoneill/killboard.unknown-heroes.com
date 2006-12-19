@@ -1,0 +1,27 @@
+2006.12.01 01:19
+
+Victim: Neaokod
+Alliance: None
+Corp: omen.
+Destroyed: Taranis
+System: RO0-AF
+Security: 0.0
+
+Involved parties:
+
+Name: Puz'ZaW (laid the final blow)
+Security: 1.9
+Alliance: Freelancer Alliance
+Corp: Thors Hammers
+Ship: Cyclone
+Weapon: Vespa I
+
+
+Destroyed items:
+
+Light Neutron Blaster II
+Phased Monopropellant I Hydrazine Boosters
+X5 Prototype I Engine Enervator
+Signal Amplifier II
+Void S, Qty: 2000 (Cargo)
+

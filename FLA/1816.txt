@@ -1,0 +1,96 @@
+2007.01.05 23:05
+
+Victim: Darkspin
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Raven
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Heinky
+Security: 2.5
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Abaddon
+Weapon: Abaddon
+
+Name: Masta Killa (laid the final blow)
+Security: -1.7
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Paradise Fury Cruise Missile
+
+Name: Scythus Aratan
+Security: 4.4
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Captain Rickdick
+Security: -0.1
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Cruise Missile Launcher II
+
+Name: Lemlins Craken
+Security: -0.4
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Remote Sensor Dampener II
+
+Name: DHB WildCat
+Security: -1.4
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Wrath Cruise Missile
+
+Name: Janice Malstrom
+Security: -1.7
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Taranis
+Weapon: Taranis
+
+Name: Mordocik
+Security: -0.7
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Typhoon
+Weapon: Typhoon
+
+Name: heavensfire
+Security: 3.1
+Alliance: None
+Corp: United Allies
+Ship: Stiletto
+Weapon: Small 'Knave' I Energy Drain
+
+Name: MeanStreak
+Security: -0.2
+Alliance: None
+Corp: Caldari Provisions
+Ship: Sabre
+Weapon: X5 Prototype I Engine Enervator
+
+Name: ETS4ME
+Security: 0.6
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Cruise Missile Launcher II
+
+Name: BLOOD THIRSTY
+Security: -0.2
+Alliance: None
+Corp: Imperial Academy
+Ship: Heretic
+Weapon: X5 Prototype I Engine Enervator
+
+

@@ -1,0 +1,19 @@
+2006.11.14 08:10
+
+Victim: ds227
+Alliance: None
+Corp: State War Academy
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: SleepyOSU (laid the final blow)
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: Sin-X Inc.
+Ship: Ishkur
+Weapon: Warrior I
+
+

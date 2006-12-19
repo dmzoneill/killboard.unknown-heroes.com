@@ -1,0 +1,35 @@
+2007.04.23 17:23
+
+Victim: Magic Mazuma
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Destroyed: Rifter
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: nyricia (laid the final blow)
+Security: 1.5
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Fitz Farseer
+Security: 0.5
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Rupture
+Weapon: Thunderbolt Heavy Missile
+
+
+Destroyed items:
+
+150mm Light Gallium I Machine Gun
+Depleted Uranium S, Qty: 144
+1MN Afterburner I
+Stasis Webifier I
+Damage Control I
+Depleted Uranium S, Qty: 2339 (Cargo)
+

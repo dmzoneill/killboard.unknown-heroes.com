@@ -1,0 +1,156 @@
+2006.12.12 20:03
+
+Victim: Castor IV
+Alliance: None
+Corp: 0utbreak
+Destroyed: Raven
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Racle duMer
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+Name: Stitcher
+Security: 3.0
+Alliance: Freelancer Alliance
+Corp: J.I.T. Enterprises
+Ship: Armageddon
+Weapon: Tachyon Beam Laser I
+
+Name: yagamurth
+Security: 2.8
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Rokh
+Weapon: Rokh
+
+Name: Rick A
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Zha'doom
+Security: 3.7
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Armageddon
+Weapon: Tachyon Anode Particle Stream I
+
+Name: Admiral Hunter
+Security: 3.2
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Dominix
+Weapon: Infiltrator II
+
+Name: Sidrat Flush
+Security: 1.1
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Ferox
+Weapon: Thunderbolt Heavy Missile
+
+Name: Onyx Soulbane
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Elite frontier group
+Ship: Ferox
+Weapon: Ferox
+
+Name: Hosanna
+Security: 4.7
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery I
+
+Name: dastommy79 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Armageddon
+Weapon: Tachyon Modulated Energy Beam I
+
+Name: Preying Mantis
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Moa
+Weapon: 250mm 'Scout' I Accelerator Cannon
+
+Name: Samiloth Justinian
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Caracal
+Weapon: Bloodclaw Light Missile
+
+Name: Corovus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: THeOThErs
+Ship: Nemesis
+Weapon: 150mm Railgun II
+
+Name: Bad Borris
+Security: 4.8
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Sadine
+Security: 3.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Ferox
+Weapon: 200mm Railgun I
+
+Name: Overman
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Brutix
+Weapon: Heavy Electron Blaster I
+
+Name: Xantheris
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: pROMp
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Feel Good Inc.
+Ship: Celestis
+Weapon: Celestis
+
+
+Destroyed items:
+
+Dual 250mm Railgun I
+Iron Charge L, Qty: 160
+Cataclysm Cruise Missile, Qty: 42
+Wrath Cruise Missile, Qty: 21
+XT-9000 Cruise Launcher
+XT-9000 Cruise Launcher
+ECM - Multispectral Jammer II
+ECM - Multispectral Jammer II
+Sensor Booster II
+Muon Coil Bolt Array I
+Ballistic Control System II
+Power Diagnostic System II
+Cataclysm Cruise Missile, Qty: 763 (Cargo)
+Warrior I, Qty: 3 (Drone Bay)
+Hammerhead I, Qty: 2 (Drone Bay)
+

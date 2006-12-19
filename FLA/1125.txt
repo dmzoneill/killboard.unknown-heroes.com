@@ -1,0 +1,44 @@
+2007.03.05 17:34
+
+Victim: Wollaston
+Alliance: Xelas Alliance
+Corp: Fallen Angel's
+Destroyed: Raven
+System: C-FER9
+Security: 0.0
+
+Involved parties:
+
+Name: sakana (laid the final blow)
+Security: -0.9
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Astarte
+Weapon: Heavy Ion Blaster II
+
+Name: Serpentis Flotilla Admiral / Serpentis Corporation
+
+
+Destroyed items:
+
+Bane Torpedo
+Bane Torpedo
+Bane Torpedo
+Bane Torpedo
+Bane Torpedo
+Bane Torpedo
+Bane Torpedo
+'Arbalest' Siege Missile Launcher
+'Arbalest' Siege Missile Launcher
+'Arbalest' Siege Missile Launcher
+'Arbalest' Siege Missile Launcher
+F-b10 Nominal Capacitor Regenerator
+V-M15 Braced Multispectral Shield Matrix
+Ditrigonal Thermal Barrier Crystallization I
+Ditrigonal Thermal Barrier Crystallization I
+'Stalwart' I Particle Field Magnifier
+Ballistic Control System I
+Cross-linked Bolt Array I
+Beta Reactor Control: Diagnostic System I
+Bane Torpedo, Qty: 1950 (Cargo)
+

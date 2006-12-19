@@ -1,0 +1,26 @@
+2007.03.05 18:36
+
+Victim: labgrbn
+Alliance: None
+Corp: Perkone
+Destroyed: Capsule
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Micheal Ross (laid the final blow)
+Security: 3.4
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Flycatcher
+Weapon: Bloodclaw Precision Light Missile
+
+Name: SoF Reaperman
+Security: 4.4
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Manticore
+Weapon: XT-9000 Cruise Launcher
+
+

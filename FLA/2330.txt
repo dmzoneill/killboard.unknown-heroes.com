@@ -1,0 +1,63 @@
+2007.02.06 03:09
+
+Victim: dastommy79
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Destroyed: Thorax
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Bogwad
+Security: 4.8
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Claw
+Weapon: Claw
+
+Name: Gilad Pellaeon (laid the final blow)
+Security: 4.7
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Pilgrim
+Weapon: Valkyrie II
+
+Name: Okuden
+Security: 1.6
+Alliance: Band of Brothers
+Corp: Black Eclipse Corp
+Ship: Deimos
+Weapon: Deimos
+
+Name: Gazmus
+Security: 0.8
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Taranis
+Weapon: Taranis
+
+Name: Leyalor Esperence
+Security: 2.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Sabre
+Weapon: Sabre
+
+Name: Funky Feeling
+Security: 4.6
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Myrmidon
+Weapon: Myrmidon
+
+
+Destroyed items:
+
+Heavy Ion Blaster I
+Antimatter Charge M, Qty: 303
+Tracking Disruptor I
+Medium Armor Repairer I
+Energized Magnetic Membrane I
+Energized Reactive Membrane I
+

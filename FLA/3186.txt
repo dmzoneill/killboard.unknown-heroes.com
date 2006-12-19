@@ -1,0 +1,61 @@
+2007.03.20 00:40
+
+Victim: Loograsch
+Alliance: Freelancer Alliance
+Corp: United Forces
+Destroyed: Dominix
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Guristas Annihilator / Guristas
+
+Name: Velsharoon (laid the final blow)
+Security: -9.9
+Alliance: None
+Corp: Endgame.
+Ship: Dominix
+Weapon: Ogre II
+
+Name: infraX
+Security: -1.7
+Alliance: None
+Corp: Endgame.
+Ship: Dominix
+Weapon: Ogre II
+
+Name: Arkani Gera
+Security: -9.8
+Alliance: None
+Corp: The Movement
+Ship: Curse
+Weapon: Hammerhead II
+
+
+Destroyed items:
+
+350mm 'Scout' I Accelerator Cannon
+Uranium Charge L, Qty: 153
+Prototype Cloaking Device I
+N-Type Thermic Hardener I
+1600mm Reinforced Rolled Tungsten Plates I
+Large F-S9 Regolith Shield Induction, Qty: 2 (Cargo)
+Supplemental Screen Generator I (Cargo)
+F-b10 Nominal Capacitor Regenerator (Cargo)
+Eutectic I Capacitor Charge Array, Qty: 2 (Cargo)
+Barton Reactor Capacitor Recharger I (Cargo)
+Fixed Parallel Link-Capacitor I, Qty: 2 (Cargo)
+Medium Partial E95b Power Conduit (Cargo)
+Dual 250mm Railgun I, Qty: 7 (Cargo)
+Plutonium Charge L, Qty: 80 (Cargo)
+Uranium Charge L, Qty: 147 (Cargo)
+'Malkuth' Cruise Launcher I (Cargo)
+ZW-4100 Siege Missile Bay (Cargo)
+Signal Distortion Amplifier I (Cargo)
+Beta Reactor Control: Reaction Control I (Cargo)
+Type-D Power Core Modification: Reaction Control (Cargo)
+Valkyrie I, Qty: 6 (Drone Bay)
+Hornet I, Qty: 9 (Drone Bay)
+Wasp I, Qty: 2 (Drone Bay)
+

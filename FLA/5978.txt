@@ -1,0 +1,50 @@
+2006.11.04 22:21
+
+Victim: Lynk
+Alliance: Xelas Alliance
+Corp: Pod Squad
+Destroyed: Ishtar
+System: Aunenen
+Security: 0.4
+
+Involved parties:
+
+Name: MonwrathDisortium (laid the final blow)
+Security: -1.9
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Celestis
+Weapon: Valkyrie II
+
+Name: SiriusCrow
+Security: -1.5
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Caracal
+Weapon: Warrior II
+
+Name: Yarsida
+Security: 1.1
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Moa
+Weapon: Moa
+
+Name: Kidd Billups
+Security: -3.0
+Alliance: Insurgency
+Corp: Celestial Apocalypse
+Ship: Prophecy
+Weapon: Fleeting Warp Scrambler I
+
+
+Destroyed items:
+
+Medium Pulse Laser II
+Medium Pulse Laser II
+E5 Prototype Energy Vampire
+10MN Afterburner II
+Fleeting Warp Scrambler I
+ECM - Multispectral Jammer II
+Armor Explosive Hardener II
+

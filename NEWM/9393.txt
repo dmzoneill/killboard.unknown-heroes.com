@@ -1,0 +1,26 @@
+2007.05.11 13:41
+
+Victim: FlobbMkII
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Capsule
+System: L-TS8S
+Security: 0.0
+
+Involved parties:
+
+Name: eXtas (laid the final blow)
+Security: 1.9
+Alliance: None
+Corp: BURN EDEN
+Ship: Rapier
+Weapon: 720mm Howitzer Artillery II
+
+Name: Pokerizer
+Security: 1.7
+Alliance: None
+Corp: BURN EDEN
+Ship: Rapier
+Weapon: Fleeting Propulsion Inhibitor I
+
+

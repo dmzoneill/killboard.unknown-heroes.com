@@ -1,0 +1,29 @@
+2007.01.17 19:45
+
+Victim: Xantheris
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Destroyed: Harpy
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Charlie Crocodile (laid the final blow)
+Security: 3.0
+Alliance: Firmus Ixion
+Corp: Imperium Technologies
+Ship: Absolution
+Weapon: Heavy Pulse Laser II
+
+
+Destroyed items:
+
+150mm Railgun II
+150mm Railgun II
+Javelin S, Qty: 70
+Sensor Booster II
+Magnetic Field Stabilizer II
+Javelin S, Qty: 277 (Cargo)
+Spike S, Qty: 913 (Cargo)
+

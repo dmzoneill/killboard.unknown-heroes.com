@@ -1,0 +1,42 @@
+2006.11.18 03:45
+
+Victim: menace ace
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Destroyed: Cormorant
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Paltar
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+Name: Elfaen Ethenwe (laid the final blow)
+Security: -1.6
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Raven
+Weapon: Mjolnir Javelin Torpedo
+
+Name: digital oxygen
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Tristan
+Weapon: Small Nosferatu I
+
+
+Destroyed items:
+
+125mm Railgun II
+125mm Railgun II
+125mm Railgun II
+125mm Railgun II
+125mm Railgun II
+Antimatter Charge S, Qty: 80
+

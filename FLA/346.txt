@@ -1,0 +1,88 @@
+2007.01.27 12:50
+
+Victim: Maxisorius
+Alliance: None
+Corp: Caldari Provisions
+Destroyed: Caracal
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Marie Veedor
+Security: 4.5
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Mufeater
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Ishkur
+Weapon: Hornet I
+
+Name: Jorax
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Enyo
+Weapon: Enyo
+
+Name: Nukuquqa Hestase
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Caracal
+Weapon: Piranha Light Missile
+
+Name: Rick A
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Blackbird
+Weapon: ECM - Multispectral Jammer I
+
+Name: Spartan dax (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Drake
+Weapon: Thunderbolt Heavy Missile
+
+Name: SniperMcBob
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Blackbird
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+Name: MrMaggot
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Scorpion
+Weapon: 'Arbalest' Cruise Launcher I
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 60
+Gremlin Rocket, Qty: 30
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Small Shield Booster I
+Small Shield Booster I
+125mm Railgun I (Cargo)
+Cap Booster 50, Qty: 10 (Cargo)
+Defender I, Qty: 100 (Cargo)
+Warrior I (Cargo)
+Sabretooth Light Missile, Qty: 181 (Cargo)
+Piranha Light Missile, Qty: 1970 (Cargo)
+Bloodclaw Light Missile, Qty: 704 (Cargo)
+Flameburst Light Missile, Qty: 760 (Cargo)
+Gremlin Rocket, Qty: 55 (Cargo)
+Assault Missile Launcher I (Cargo)
+Hornet I (Drone Bay)
+

@@ -1,0 +1,42 @@
+2007.04.20 23:40
+
+Victim: Terdlinger
+Alliance: Storm Armada
+Corp: stone grave haulage
+Destroyed: Hawk
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: dastommy79 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+Name: Kee Ris
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Armageddon
+Weapon: Tachyon Modal Laser I
+
+Name: The Cade
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Thorax
+Weapon: Thorax
+
+
+Destroyed items:
+
+Standard Missile Launcher II
+Standard Missile Launcher II
+X5 Prototype I Engine Enervator
+Sensor Booster II
+Ballistic Control System II
+Bloodclaw Light Missile, Qty: 200 (Cargo)
+

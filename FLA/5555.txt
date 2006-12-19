@@ -1,0 +1,30 @@
+2006.10.07 23:51
+
+Victim: lotoflaught II
+Alliance: None
+Corp: Turanic Raiders
+Destroyed: Punisher
+System: O-N8XZ
+Security: 0.0
+
+Involved parties:
+
+Name: Kyoshisan (laid the final blow)
+Security: 0.4
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Enyo
+Weapon: 125mm Railgun II
+
+
+Destroyed items:
+
+Dual Afocal Pulse Maser I
+Dual Afocal Pulse Maser I
+Medium Anode Pulse Particle Stream I
+Ultraviolet S
+Ultraviolet S
+Warp Core Stabilizer I
+Small Nosferatu I (Cargo)
+Energy Emission Systems (Cargo)
+

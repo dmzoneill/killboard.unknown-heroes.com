@@ -1,0 +1,106 @@
+2007.03.15 02:03
+
+Victim: Rellazi
+Alliance: YouWhat
+Corp: Beasts of Burden
+Destroyed: Anathema
+System: XZH-4X
+Security: 0.0
+
+Involved parties:
+
+Name: Skull Fire
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Rokh
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+Name: FlobbMkII
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Taranis
+Weapon: Taranis
+
+Name: JaiMaster (laid the final blow)
+Security: 2.7
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Typhoon
+Weapon: Cataclysm Precision Cruise Missile
+
+Name: Smiles Jr
+Security: 2.3
+Alliance: Freelancer Alliance
+Corp: The Night Crew
+Ship: Bellicose
+Weapon: Bloodclaw Light Missile
+
+Name: DeviantAnt
+Security: 4.0
+Alliance: The Sundering
+Corp: ironwood ink
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: xinndo jagged
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Drake
+Weapon: Heavy Missile Launcher II
+
+Name: ventura5
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Drake
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+Name: Sethiol
+Security: 3.5
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Ship: Drake
+Weapon: 'Arbalest' Heavy Missile Launcher
+
+Name: Katsumi Ito
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Tristan
+Weapon: 'Malkuth' Rocket Launcher I
+
+Name: Clavain Treesmighter
+Security: 2.0
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Blackbird
+Weapon: Heavy Missile Launcher I
+
+Name: BelinuS
+Security: 4.8
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Scorpion
+Weapon: Cruise Missile Launcher I
+
+
+Destroyed items:
+
+Codebreaker I
+Codebreaker I
+Codebreaker I
+Codebreaker I
+Codebreaker I
+Codebreaker I
+Covert Ops Cloaking Device II
+Monopropellant I Hydrazine Boosters
+Inertia Stabilizers I
+Inertia Stabilizers I
+Radar Quest Probe, Qty: 10 (Cargo)
+Gravimetric Quest Probe, Qty: 2 (Cargo)
+Radar Pursuit Probe, Qty: 2 (Cargo)
+Ladar Quest Probe, Qty: 10 (Cargo)
+

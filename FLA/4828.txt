@@ -1,0 +1,37 @@
+2007.04.16 20:45
+
+Victim: JB KungFu
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Destroyed: Badger Mark II
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Rukaz (laid the final blow)
+Security: 3.1
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Seamus O'Malley
+Security: 0.8
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Kestrel
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+Prototype Cloaking Device I
+Inertia Stabilizers I
+Expanded Cargohold I
+Expanded Cargohold I
+Caldari Shuttle (Cargo)
+ECCM - Omni I (Cargo)
+Piercing ECCM Emitter I (Cargo)
+Local Power Plant Manager: Reaction Control I (Cargo)
+

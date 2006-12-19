@@ -1,0 +1,19 @@
+2006.11.13 02:43
+
+Victim: qualite
+Alliance: None
+Corp: State War Academy
+Destroyed: Capsule
+System: J-CIJV
+Security: 0.0
+
+Involved parties:
+
+Name: Elfaen Ethenwe (laid the final blow)
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Cerberus
+Weapon: Havoc Heavy Missile
+
+

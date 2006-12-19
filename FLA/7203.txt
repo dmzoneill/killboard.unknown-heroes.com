@@ -1,0 +1,61 @@
+2006.02.20 20:07
+
+Victim: The Champion
+Alliance: Ascendant Frontier
+Corp: Vanguard Frontiers
+Destroyed: Capsule
+System: O-N8XZ
+Security: 0.0
+
+Involved parties:
+
+Name: Cockroach (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Vengeance
+Weapon: Medium Beam Laser II
+
+Name: purefied2
+Security: 5.0
+Alliance: Ekliptika
+Corp: Svea Rike
+Ship: Hawk
+Weapon: Hawk
+
+Name: Vmir Gallahasen
+Security: 2.1
+Alliance: Ekliptika
+Corp: Cereal Killerz
+Ship: Eris
+Weapon: 125mm Railgun II
+
+Name: AXi0S
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Freelancer Union
+Ship: Taranis
+Weapon: Taranis
+
+Name: Sepsi
+Security: 5.0
+Alliance: Ekliptika
+Corp: DFCK Inc.
+Ship: Hawk
+Weapon: 150mm Prototype I Gauss Gun
+
+Name: Tycalos
+Security: 3.6
+Alliance: None
+Corp: Nomina Sacra Sapientia
+Ship: Vengeance
+Weapon: Dual Light Beam Laser II
+
+Name: Jimmycs83
+Security: 4.5
+Alliance: United Confederation of Corporations
+Corp: Production Inc
+Ship: Ishkur
+Weapon: Fleeting Warp Scrambler I
+
+

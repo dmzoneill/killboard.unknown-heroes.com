@@ -1,0 +1,35 @@
+2006.11.21 07:11
+
+Victim: Evelyn Mulwray
+Alliance: None
+Corp: Beer Guzzling Clowns With Blasters
+Destroyed: Taranis
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: SleepyOSU
+Security: 4.8
+Alliance: Freelancer Alliance
+Corp: Sin-X Inc.
+Ship: Capsule
+Weapon: Small 'Knave' I Energy Drain
+
+Name: No Merceeee (laid the final blow)
+Security: 2.3
+Alliance: Freelancer Alliance
+Corp: Sin-X Inc.
+Ship: Tristan
+Weapon: 150mm Carbide Railgun I
+
+
+Destroyed items:
+
+Small 'Knave' I Energy Drain
+Light Electron Blaster II
+Null S, Qty: 176
+Phased Monopropellant I Hydrazine Boosters
+Magnetic Field Stabilizer II
+'Arbalest' Cruise Launcher I (Cargo)
+

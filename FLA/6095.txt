@@ -1,0 +1,59 @@
+2006.11.07 15:15
+
+Victim: GoLdeN BoY
+Alliance: None
+Corp: Beer Guzzling Clowns With Blasters
+Destroyed: Vagabond
+System: KLY-C0
+Security: 0.0
+
+Involved parties:
+
+Name: Noitaakka (laid the final blow)
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Ishtar
+Weapon: Light Ion Blaster II
+
+Name: Hosanna
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Claw
+Weapon: Claw
+
+Name: Jumar Coldgin
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Eagle
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+220mm Vulcan AutoCannon II
+220mm Vulcan AutoCannon II
+220mm Vulcan AutoCannon II
+Medium 'Ghoul' Energy Siphon I
+EMP M, Qty: 237
+Large F-S9 Regolith Shield Induction
+Gyrostabilizer II
+Gyrostabilizer II
+Large Azeotropic Ward Salubrity I (Cargo)
+Dual Light Pulse Laser II (Cargo)
+1400mm Carbine Howitzer I (Cargo)
+Damage Control I (Cargo)
+Small Armor Repairer II (Cargo)
+Titanium Sabot L, Qty: 3 (Cargo)
+EMP M, Qty: 928 (Cargo)
+Multifrequency S (Cargo)
+Radio S, Qty: 4 (Cargo)
+Juggernaut Torpedo, Qty: 6 (Cargo)
+Heat Sink II (Cargo)
+Conflagration S, Qty: 2 (Cargo)
+Type-D Power Core Modification: Reaction Control (Cargo)
+Local Power Plant Manager: Reaction Control I (Cargo)
+Hobgoblin II, Qty: 3 (Drone Bay)
+

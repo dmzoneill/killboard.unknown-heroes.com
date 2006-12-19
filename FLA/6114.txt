@@ -1,0 +1,26 @@
+2006.11.08 15:42
+
+Victim: Bobroglaz
+Alliance: R.I.S.K
+Corp: Russian Specnaz
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Wousr
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: Elfaen Ethenwe (laid the final blow)
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Rook
+Weapon: Scourge Precision Heavy Missile
+
+

@@ -1,0 +1,49 @@
+2006.12.05 00:11
+
+Victim: Skornik
+Alliance: Freelancer Alliance
+Corp: BGG
+Destroyed: Megathron
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: WarGod
+Security: -1.6
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Dominix
+Weapon: Heavy 'Knave' I Energy Drain
+
+Name: Jimmycs83 (laid the final blow)
+Security: -2.5
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Megathron
+Weapon: Electron Blaster Cannon II
+
+Name: Kalissa
+Security: -0.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Crow
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+
+Destroyed items:
+
+E500 Prototype Energy Vampire
+Modal Mega Ion Particle Accelerator I
+Modal Mega Ion Particle Accelerator I
+Anode Mega Neutron Particle Cannon I
+Anode Mega Neutron Particle Cannon I
+Antimatter Charge L, Qty: 222
+Small Tractor Beam I
+Eutectic I Capacitor Charge Array
+Eutectic I Capacitor Charge Array
+Stasis Webifier I
+Microcell Nanite Thermic Hardener I
+Armor Kinetic Hardener I
+Hornet II, Qty: 2 (Drone Bay)
+

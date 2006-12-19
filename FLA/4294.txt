@@ -1,0 +1,70 @@
+2007.04.06 23:56
+
+Victim: Rhaven
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Destroyed: Ferox
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Stradivarious
+Security: 3.6
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Rapier
+Weapon: Valkyrie II
+
+Name: Spacebar
+Security: 2.1
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Hurricane
+Weapon: Sabretooth Light Missile
+
+Name: Dekein
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Crypt Layer
+Security: 3.6
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Taranis
+Weapon: Taranis
+
+Name: Rukaz
+Security: 3.1
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Vily (laid the final blow)
+Security: 0.3
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Flycatcher
+Weapon: Bloodclaw Light Missile
+
+Name: Dol Baran
+Security: 0.0
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Heretic
+Weapon: Heretic
+
+
+Destroyed items:
+
+Heavy Neutron Blaster I
+Antimatter Charge M, Qty: 131
+J5b Phased Prototype Warp Inhibitor I
+Type-D Power Core Modification: Shield Power Relay
+Tracking Enhancer II
+Havoc Heavy Missile, Qty: 1000 (Cargo)
+

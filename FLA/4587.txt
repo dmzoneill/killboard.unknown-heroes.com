@@ -1,0 +1,33 @@
+2007.04.14 21:15
+
+Victim: Korudon
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Thorax
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Minmatar Control Tower / Elite Storm Enterprises (laid the final blow)
+
+Name: Ghost Hughdidit
+Security: 3.1
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Thanatos
+Weapon: Templar
+
+
+Destroyed items:
+
+200mm Carbide Railgun I
+Antimatter Charge M, Qty: 320
+Damage Control I
+Medium Armor Repairer I
+Magnetic Field Stabilizer I
+Iron Charge M, Qty: 600 (Cargo)
+Lead Charge M, Qty: 600 (Cargo)
+Antimatter Charge M, Qty: 1193 (Cargo)
+Hammerhead I, Qty: 5 (Drone Bay)
+

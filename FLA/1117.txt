@@ -1,0 +1,72 @@
+2007.03.05 10:39
+
+Victim: Origin UnKnown
+Alliance: Privateer Alliance
+Corp: Serial Killers
+Destroyed: Tempest
+System: Poinen
+Security: 0.6
+
+Involved parties:
+
+Name: Hockney (laid the final blow)
+Security: 1.6
+Alliance: Exquisite Malevolence
+Corp: Mercenary Forces
+Ship: Rapier
+Weapon: Rapier
+
+Name: Alexander Mani
+Security: 1.6
+Alliance: Exquisite Malevolence
+Corp: Mercenary Forces
+Ship: Eagle
+Weapon: Heavy Missile Launcher II
+
+Name: Dexter Rast
+Security: 2.0
+Alliance: Exquisite Malevolence
+Corp: Mercenary Forces
+Ship: Huginn
+Weapon: Valkyrie II
+
+Name: El Yatta
+Security: 0.4
+Alliance: Exquisite Malevolence
+Corp: Mercenary Forces
+Ship: Lachesis
+Weapon: Thunderbolt Heavy Missile
+
+Name: Riho
+Security: -0.9
+Alliance: Exquisite Malevolence
+Corp: Red Wrath
+Ship: Astarte
+Weapon: Warp Disruptor II
+
+Name: Tregaron
+Security: 1.7
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Cyclone
+Weapon: Warp Disruptor II
+
+
+Destroyed items:
+
+Dual 650mm Prototype I Repeating Siege Cannon
+Dual 650mm Prototype I Repeating Siege Cannon
+Dual 650mm Prototype I Repeating Siege Cannon
+Dual 650mm Prototype I Repeating Siege Cannon
+Heavy Diminishing Power System Drain I
+Heavy 'Ghoul' Energy Siphon I
+Fusion L, Qty: 282
+LiF Fueled I Booster Rockets
+X5 Prototype I Engine Enervator
+Cap Booster 800
+Cap Booster 800
+Armor Kinetic Hardener II
+Armor Explosive Hardener II
+Armor Thermic Hardener II
+Phased Plasma L, Qty: 1460 (Cargo)
+

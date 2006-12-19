@@ -1,0 +1,26 @@
+2007.05.25 11:00
+
+Victim: MYM JUO
+Alliance: None
+Corp: State War Academy
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Steven FSB (laid the final blow)
+Security: 3.5
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: MrMajIc
+Security: 0.8
+Alliance: Imperial Republic Of the North
+Corp: VentureCorp
+Ship: Unknown
+Weapon: 200mm AutoCannon II
+
+

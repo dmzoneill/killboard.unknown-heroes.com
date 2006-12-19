@@ -1,0 +1,55 @@
+2007.05.05 18:16
+
+Victim: glitterbomb
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Incursus
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Kvarium Ki
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Rupture
+Weapon: Rupture
+
+Name: Giamilton (laid the final blow)
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: Synergy Evolved
+Ship: Ares
+Weapon: 75mm Gatling Rail II
+
+Name: Mocuker1
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Harpy
+Weapon: Standard Missile Launcher I
+
+Name: Iss Hogai
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: GREY COUNCIL
+Ship: Taranis
+Weapon: Taranis
+
+Name: JanSVK
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: GREY COUNCIL
+Ship: Raptor
+Weapon: Patterned Stasis Web I
+
+
+Destroyed items:
+
+150mm Railgun II
+Spike S, Qty: 36
+1MN MicroWarpdrive I
+Iron Charge M, Qty: 221 (Cargo)
+Spike S, Qty: 120 (Cargo)
+

@@ -1,0 +1,58 @@
+2007.02.21 21:48
+
+Victim: Kerdrak
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Destroyed: Armageddon
+System: 3QE-9Q
+Security: 0.0
+
+Involved parties:
+
+Name: Neurotica
+Security: -1.7
+Alliance: None
+Corp: Developmental Neogenics Amalgamated
+Ship: Deimos
+Weapon: Deimos
+
+Name: One Percent (laid the final blow)
+Security: -6.2
+Alliance: None
+Corp: Developmental Neogenics Amalgamated
+Ship: Cerberus
+Weapon: Terror Assault Missile
+
+Name: hellwarrior
+Security: 0.2
+Alliance: None
+Corp: Finite Horizon
+Ship: Typhoon
+Weapon: Devastator Cruise Missile
+
+Name: Draconian
+Security: -6.1
+Alliance: None
+Corp: Developmental Neogenics Amalgamated
+Ship: Taranis
+Weapon: Taranis
+
+
+Destroyed items:
+
+Mega Pulse Laser I
+Mega Pulse Laser I
+Mega Pulse Laser I
+Heavy Nosferatu I
+Multifrequency L
+Multifrequency L
+Cap Recharger I
+Heavy F-RX Prototype I Capacitor Boost
+Energized Adaptive Nano Membrane I
+Capacitor Power Relay I
+Mark I Generator Refitting: Reaction Control
+Mark I Generator Refitting: Reaction Control
+Cap Booster 800, Qty: 10 (Cargo)
+Wasp I (Drone Bay)
+Ogre I, Qty: 3 (Drone Bay)
+

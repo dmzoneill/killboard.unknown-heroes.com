@@ -1,0 +1,81 @@
+2007.01.12 21:19
+
+Victim: Kiwi Sunn
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Destroyed: Raven
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Bloodclaw Light Missile / Guristas (laid the final blow)
+
+Name: Crucifier
+Security: 0.3
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: MAD D0G
+Security: -1.3
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Janice Malstrom
+Security: -1.7
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Taranis
+Weapon: Taranis
+
+Name: Connen
+Security: 0.3
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Vigil
+Weapon: J5b Phased Prototype Warp Inhibitor I
+
+
+Destroyed items:
+
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Juggernaut Torpedo
+Juggernaut Torpedo
+Juggernaut Torpedo
+Juggernaut Torpedo
+Siege Missile Launcher I
+'Malkuth' Siege Missile Launcher I
+ZW-4100 Siege Missile Bay
+X-Large C5-L Emergency Shield Overload I
+100MN Afterburner I
+Ballistic Deflection Field I
+Non-Inertial Ballistic Screen Augmentation I
+Heat Dissipation Field I
+Shield Recharger I (Cargo)
+Cargo Scanner I, Qty: 2 (Cargo)
+Ship Scanner I, Qty: 2 (Cargo)
+Miner I (Cargo)
+Small Energy Neutralizer I, Qty: 2 (Cargo)
+Medium Proton Smartbomb I (Cargo)
+ECM Burst I (Cargo)
+Juggernaut Torpedo, Qty: 191 (Cargo)
+ECM - Multispectral Jammer I (Cargo)
+Kinetic Deflection Amplifier I (Cargo)
+Devastator Cruise Missile, Qty: 100 (Cargo)
+Dragon F.O.F. Cruise Missile I, Qty: 100 (Cargo)
+Siege Missile Launcher I (Cargo)
+Assault Missile Launcher I (Cargo)
+Burned Logic Circuit, Qty: 2 (Cargo)
+Ward Console, Qty: 5 (Cargo)
+Malfunctioning Shield Emitter, Qty: 6 (Cargo)
+Type-D Power Core Modification: Capacitor Flux (Cargo)
+

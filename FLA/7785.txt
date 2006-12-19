@@ -1,0 +1,97 @@
+2006.08.26 22:10
+
+Victim: jacass66
+Alliance: Freelancer Alliance
+Corp: BGG
+Destroyed: Raven
+System: Z0-TJW
+Security: 0.0
+
+Involved parties:
+
+Name: Turiya Flesharrower
+Security: -1.2
+Alliance: None
+Corp: Beagle Corp
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: UnSiViLiZeD
+Security: -2.5
+Alliance: None
+Corp: Beagle Corp
+Ship: Megathron
+Weapon: Bouncer I
+
+Name: Renault
+Security: 0.8
+Alliance: None
+Corp: Beagle Corp
+Ship: Capsule
+Weapon: 425mm Railgun I
+
+Name: Jouno
+Security: -1.5
+Alliance: None
+Corp: Beagle Corp
+Ship: Megathron
+Weapon: Bouncer I
+
+Name: Garm SD (laid the final blow)
+Security: 4.2
+Alliance: None
+Corp: Beagle Corp
+Ship: Megathron
+Weapon: 425mm Carbide Railgun I
+
+Name: Tanpres
+Security: -2.3
+Alliance: None
+Corp: Beagle Corp
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Dave White
+Security: -3.0
+Alliance: None
+Corp: Beagle Corp
+Ship: Armageddon
+Weapon: Bouncer I
+
+Name: Roule
+Security: -8.0
+Alliance: None
+Corp: Beagle Corp
+Ship: Rapier
+Weapon: 'Arbalest' Standard Missile Launcher
+
+Name: HippoKing
+Security: 2.0
+Alliance: None
+Corp: Beagle Corp
+Ship: Falcon
+Weapon: BZ-5 Neutralizing Spatial Destabilizer ECM
+
+Name: Chewan Mesa
+Security: -0.3
+Alliance: None
+Corp: Beagle Corp
+Ship: Falcon
+Weapon: ECM - Multispectral Jammer II
+
+
+Destroyed items:
+
+Bane Torpedo, Qty: 22
+Mjolnir Torpedo, Qty: 22
+'Arbalest' Siege Missile Launcher
+'Arbalest' Siege Missile Launcher
+Invulnerability Field I
+Cap Booster 800
+Cap Booster 800
+Cap Booster 800
+Cap Booster 800
+Magnetic Scattering Amplifier I
+Mjolnir Torpedo, Qty: 446 (Cargo)
+Hornet II, Qty: 2 (Drone Bay)
+

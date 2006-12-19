@@ -1,0 +1,33 @@
+2007.01.28 20:41
+
+Victim: Tholarim
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Destroyed: Capsule
+System: J-CIJV
+Security: 0.0
+
+Involved parties:
+
+Name: alon blackhelm (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Rokh
+Weapon: 425mm Carbide Railgun I
+
+Name: Shinoobie
+Security: 3.8
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Vulture
+Weapon: Garde I
+
+Name: Ather Ialeas
+Security: 4.4
+Alliance: Imperial Republic Of the North
+Corp: Karjala Inc.
+Ship: Armageddon
+Weapon: Mega Beam Laser II
+
+

@@ -1,0 +1,32 @@
+2006.09.11 23:28
+
+Victim: TheBelgarion
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Condor
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Dred Cartman (laid the final blow)
+Security: 1.4
+Alliance: R.I.S.K
+Corp: FIGHTER'S WITHOUT RULES
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+Name: Sergejus Clegg
+Security: 2.0
+Alliance: R.I.S.K
+Corp: The First Foundation
+Ship: Taranis
+Weapon: Taranis
+
+
+Destroyed items:
+
+Thorn Rocket, Qty: 30
+'Malkuth' Rocket Launcher I
+Warp Scrambler I
+

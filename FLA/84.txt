@@ -1,0 +1,29 @@
+2007.01.07 03:53
+
+Victim: Clive Russell
+Alliance: None
+Corp: SniggWaffe
+Destroyed: Stabber
+System: Agoze
+Security: 0.2
+
+Involved parties:
+
+Name: Atarkus (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+
+Destroyed items:
+
+220mm Vulcan AutoCannon I
+220mm Vulcan AutoCannon I
+'Malkuth' Assault Missile Launcher I
+'Malkuth' Assault Missile Launcher I
+'Langour' Drive Disruptor I
+Medium Armor Repairer I
+Capacitor Power Relay I
+

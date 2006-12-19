@@ -1,0 +1,30 @@
+2006.10.06 12:45
+
+Victim: myfirst
+Alliance: Freelancer Alliance
+Corp: Abandoned Resolve Corporation
+Destroyed: Iteron Mark III
+System: Jita
+Security: 0.9
+
+Involved parties:
+
+Name: Danno (laid the final blow)
+Security: -1.9
+Alliance: None
+Corp: Privateers
+Ship: Lachesis
+Weapon: Heavy Neutron Blaster II
+
+
+Destroyed items:
+
+150mm Railgun I
+Iron Charge S, Qty: 26
+Small Tractor Beam I
+Medium C5-L Emergency Shield Overload I
+10MN Afterburner I
+Magnetic Scattering Amplifier I
+Nanofiber Internal Structure I, Qty: 2 (Cargo)
+Mark I Modified SS Expanded Cargo (Cargo)
+

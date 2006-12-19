@@ -1,0 +1,40 @@
+2007.03.22 01:45
+
+Victim: Amon Fire
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Destroyed: Capsule
+System: Y-C3EQ
+Security: 0.0
+
+Involved parties:
+
+Name: Acidictadpole
+Security: 1.2
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Harpy
+Weapon: Light Neutron Blaster II
+
+Name: doc627
+Security: 5.0
+Alliance: Axiom Empire
+Corp: United Society Starfleet
+Ship: Harpy
+Weapon: 125mm Railgun II
+
+Name: dOG2314 (laid the final blow)
+Security: 5.0
+Alliance: Axiom Empire
+Corp: United Society Starfleet
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: Mongo Peck
+Security: 4.9
+Alliance: Xelas Alliance
+Corp: Requiem of Hades
+Ship: Taranis
+Weapon: 125mm Railgun II
+
+

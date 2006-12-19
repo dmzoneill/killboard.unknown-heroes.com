@@ -1,0 +1,47 @@
+2007.03.03 04:55
+
+Victim: Raketefrau
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Capsule
+System: 75FA-Z
+Security: 0.0
+
+Involved parties:
+
+Name: Shamis Orzoz (laid the final blow)
+Security: -8.5
+Alliance: Pandemic Legion
+Corp: Sniggerdly
+Ship: Muninn
+Weapon: 720mm Howitzer Artillery II
+
+Name: m00s3m4n
+Security: -6.5
+Alliance: Pandemic Legion
+Corp: SniggWaffe
+Ship: Stiletto
+Weapon: Fleeting Warp Scrambler I
+
+Name: Hulka
+Security: -1.7
+Alliance: Pandemic Legion
+Corp: Sniggerdly
+Ship: Crow
+Weapon: Warp Disruptor I
+
+Name: Archronus Savillar
+Security: 5.0
+Alliance: Pandemic Legion
+Corp: Archron Dusyfe Industries
+Ship: Stiletto
+Weapon: Fleeting Warp Scrambler I
+
+Name: Altrex Stoppel
+Security: -7.3
+Alliance: Pandemic Legion
+Corp: SniggWaffe
+Ship: Stiletto
+Weapon: Fleeting Warp Scrambler I
+
+

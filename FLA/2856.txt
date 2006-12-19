@@ -1,0 +1,26 @@
+2007.03.12 20:07
+
+Victim: TroNaaR
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Capsule
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Nkalv
+Security: -2.8
+Alliance: Chorus of Dawn
+Corp: Free Lapland
+Ship: Sabre
+Weapon: 200mm AutoCannon II
+
+Name: Son (laid the final blow)
+Security: 5.0
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Sabre
+Weapon: 250mm Light Artillery Cannon II
+
+

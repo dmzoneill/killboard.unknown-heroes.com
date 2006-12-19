@@ -1,0 +1,56 @@
+2007.05.07 13:06
+
+Victim: Evil Bunnies
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Blackbird
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Kayron Brennan (laid the final blow)
+Security: 0.7
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Caracal
+Weapon: Bloodclaw Light Missile
+
+Name: MrMaggot
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Caracal
+Weapon: Warrior I
+
+Name: Argentus Orsus
+Security: 2.4
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Malediction
+Weapon: Malediction
+
+Name: Nukuquqa Hestase
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Crow
+Weapon: 'Arbalest' Standard Missile Launcher
+
+Name: Aridante Lemure
+Security: 1.2
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Celestis
+Weapon: Remote Sensor Dampener I
+
+
+Destroyed items:
+
+Advanced 'Limos' Heavy Missile Bay I
+Advanced 'Limos' Heavy Missile Bay I
+FZ-3 Subversive Spatial Destabilizer ECM
+Halting Phase Inversion ECM I
+Type-D Attenuation Signal Augmentation
+'Hypnos' Signal Distortion Amplifier I
+

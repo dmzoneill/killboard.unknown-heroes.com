@@ -1,0 +1,89 @@
+2007.04.09 16:37
+
+Victim: Strobelix
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Dominix
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Stradivarious
+Security: 3.7
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Nidhoggur
+Weapon: Firbolg
+
+Name: Crayathan (laid the final blow)
+Security: 2.7
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Nidhoggur
+Weapon: Dragonfly
+
+Name: Waagaa Ktlehr
+Security: -1.1
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Aeon
+Weapon: Dragonfly
+
+Name: Eleese
+Security: -0.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Lachesis
+Weapon: Hobgoblin II
+
+Name: Rukaz
+Security: 3.1
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Odda
+Security: 4.4
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Thanatos
+Weapon: Dragonfly
+
+Name: Dol Amroth
+Security: 0.2
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Thanatos
+Weapon: Templar
+
+Name: Chris Reed
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Arazu
+Weapon: Hobgoblin II
+
+Name: Crovan
+Security: 2.8
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Taranis
+Weapon: 125mm Railgun II
+
+
+Destroyed items:
+
+350mm Prototype I Gauss Gun, Qty: 2
+Iron Charge M, Qty: 32
+Lead Charge L, Qty: 66
+Large Shield Extender I
+Eutectic I Capacitor Charge Array
+100MN Afterburner I
+Medium F-RX Prototype I Capacitor Boost
+Radioisotope Thermic Hardener I
+Iron Charge M, Qty: 994 (Cargo)
+Cap Booster 800, Qty: 11 (Cargo)
+Hammerhead I, Qty: 8 (Drone Bay)
+Medium Shield Maintenance Bot I, Qty: 5 (Drone Bay)

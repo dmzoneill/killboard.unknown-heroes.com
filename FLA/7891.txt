@@ -1,0 +1,69 @@
+2006.09.25 22:14
+
+Victim: Drysdin Callystrin
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Destroyed: Cyclone
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Ferocious FeAr (laid the final blow)
+Security: 5.0
+Alliance: Ascendant Frontier
+Corp: Sha Kharn Corp
+Ship: Raven
+Weapon: Valkyrie II
+
+Name: SLADGE BRUTY
+Security: -1.8
+Alliance: Ascendant Frontier
+Corp: Sha Kharn Corp
+Ship: Sleipnir
+Weapon: Sleipnir
+
+Name: Tomic
+Security: 5.0
+Alliance: Ascendant Frontier
+Corp: Celestial Fleet
+Ship: Flycatcher
+Weapon: Piranha Light Missile
+
+Name: Drift Spec
+Security: 5.0
+Alliance: Ascendant Frontier
+Corp: Sha Kharn Corp
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Sha Kharn
+Security: 5.0
+Alliance: Ascendant Frontier
+Corp: Sha Kharn Corp
+Ship: Crow
+Weapon: 'Arbalest' Standard Missile Launcher
+
+Name: Trev Kachanov
+Security: 5.0
+Alliance: Ascendant Frontier
+Corp: Sha Kharn Corp
+Ship: Curse
+Weapon: ECM - Multispectral Jammer II
+
+
+Destroyed items:
+
+425mm AutoCannon I
+425mm AutoCannon I
+425mm AutoCannon I
+Carbonized Lead M, Qty: 65
+Widowmaker Heavy Missile, Qty: 29
+Havoc Heavy Missile, Qty: 28
+Large C5-L Emergency Shield Overload I
+10MN Afterburner I
+'Langour' Drive Disruptor I
+'Copasetic' I Particle Field Acceleration
+Gyrostabilizer I
+Gyrostabilizer I
+

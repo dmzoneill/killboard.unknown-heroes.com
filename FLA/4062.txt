@@ -1,0 +1,23 @@
+2007.04.12 12:25
+
+Victim: Aguisa
+Alliance: None
+Corp: Center for Advanced Studies
+Destroyed: Velator
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Mizerik (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Raven
+Weapon: Juggernaut Torpedo
+
+
+Destroyed items:
+
+Civilian Light Electron Blaster
+

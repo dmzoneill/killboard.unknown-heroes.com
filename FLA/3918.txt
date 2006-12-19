@@ -1,0 +1,118 @@
+2007.04.05 23:28
+
+Victim: Sith Bandon
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Destroyed: Myrmidon
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Sicario
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Raven
+Weapon: Wrath Cruise Missile
+
+Name: Prodigal IV (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Ship: Dominix
+Weapon: Ogre II
+
+Name: Seryius
+Security: 3.4
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Scorpion
+Weapon: Paradise Cruise Missile
+
+Name: Zephyrante
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Capsule
+Weapon: Thunderbolt Heavy Missile
+
+Name: Tana'Ari
+Security: -0.2
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Ship: Wolf
+Weapon: Wolf
+
+Name: Vesspasiano
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Taranis
+Weapon: Taranis
+
+Name: Kristian Dugat
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Retribution
+Weapon: Medium Pulse Laser II
+
+Name: Hamos
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Eagle
+Weapon: Eagle
+
+Name: Drako Invictus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Damnation
+Weapon: Damnation
+
+Name: Cho Solo
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Ares
+Weapon: Foxfire Rocket
+
+Name: Ninjitsuki
+Security: 0.1
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Harpy
+Weapon: Upgraded 'Limos' Standard Missile Bay I
+
+Name: AaLaA
+Security: 4.5
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Eris
+Weapon: 150mm Carbide Railgun I
+
+Name: Raseron
+Security: 4.5
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Myrmidon
+Weapon: 250mm Carbide Railgun I
+
+
+Destroyed items:
+
+Light Neutron Blaster II
+Light Neutron Blaster II
+Light Neutron Blaster II
+Null S, Qty: 194
+10MN MicroWarpdrive II
+Warp Disruptor II
+Fleeting Propulsion Inhibitor I
+Medium Capacitor Booster II
+Medium Armor Repairer II
+1600mm Reinforced Rolled Tungsten Plates I
+Cap Booster 800, Qty: 10 (Cargo)
+Null S, Qty: 2383 (Cargo)
+

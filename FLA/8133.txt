@@ -1,0 +1,23 @@
+2006.10.16 22:45
+
+Victim: Excaluber X
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Destroyed: Impairor
+System: Torrinos
+Security: 0.5
+
+Involved parties:
+
+Name: ArchenTheGreat (laid the final blow)
+Security: -1.2
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Thorax
+Weapon: Heavy Ion Blaster II
+
+
+Destroyed items:
+
+Civilian Gatling Pulse Laser
+

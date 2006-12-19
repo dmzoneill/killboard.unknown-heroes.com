@@ -1,0 +1,33 @@
+2007.03.16 23:23
+
+Victim: Timboru
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Destroyed: Capsule
+System: Y-C3EQ
+Security: 0.0
+
+Involved parties:
+
+Name: Hinderburg (laid the final blow)
+Security: 4.2
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Wolf
+Weapon: 150mm Light AutoCannon II
+
+Name: Gorfi tco
+Security: 3.9
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Heretic
+Weapon: Sabretooth Light Missile
+
+Name: ZIQUET
+Security: 4.8
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Enyo
+Weapon: Enyo
+
+

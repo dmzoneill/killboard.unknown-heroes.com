@@ -1,0 +1,67 @@
+2007.03.19 05:35
+
+Victim: Danielson1012
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Destroyed: Moa
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Lord Revent (laid the final blow)
+Security: 1.1
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Maelstrom
+Weapon: 800mm Repeating Artillery II
+
+Name: Nipplator
+Security: 2.9
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Xoduse
+Security: 0.4
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Hyperion
+Weapon: Hyperion
+
+Name: zigzag429
+Security: 0.3
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Sabre
+Weapon: Sabre
+
+Name: Vasili Z
+Security: 0.4
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Huginn
+Weapon: Widowmaker Heavy Missile
+
+
+Destroyed items:
+
+250mm 'Scout' I Accelerator Cannon
+Antimatter Charge M, Qty: 71
+Widowmaker Heavy Missile, Qty: 28
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Medium Clarity Ward Booster I
+Prototype I Sensor Booster
+Tracking Enhancer I
+Magnetic Field Stabilizer II
+Power Diagnostic System I
+Thorium Charge M, Qty: 200 (Cargo)
+Antimatter Charge M, Qty: 297 (Cargo)
+Dread Guristas Tungsten Charge M, Qty: 200 (Cargo)
+Dread Guristas Thorium Charge M, Qty: 400 (Cargo)
+Havoc Heavy Missile, Qty: 100 (Cargo)
+Widowmaker Heavy Missile, Qty: 40 (Cargo)
+Thunderbolt Heavy Missile, Qty: 100 (Cargo)
+

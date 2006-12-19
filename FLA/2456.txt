@@ -1,0 +1,26 @@
+2007.02.13 02:20
+
+Victim: Ashr
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Destroyed: Capsule
+System: MZ1E-P
+Security: 0.0
+
+Involved parties:
+
+Name: Zungen (laid the final blow)
+Security: 5.0
+Alliance: Red Moon Federation
+Corp: Confederation of Red Moon
+Ship: Myrmidon
+Weapon: Heavy Ion Blaster II
+
+Name: Stain Protector
+Security: 0.1
+Alliance: Red Moon Federation
+Corp: Confederation of Red Moon
+Ship: Ares
+Weapon: Warp Disruptor I
+
+

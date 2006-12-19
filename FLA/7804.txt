@@ -1,0 +1,61 @@
+2006.09.01 09:55
+
+Victim: Cockroach
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Apocalypse
+System: O-N8XZ
+Security: 0.0
+
+Involved parties:
+
+Name: Sith Bandon
+Security: 0.6
+Alliance: Ascendant Frontier
+Corp: Celestial Fleet
+Ship: Ishtar
+Weapon: 75mm Gatling Rail II
+
+Name: EMP0RIA
+Security: 1.9
+Alliance: Process of Elimination
+Corp: Occassus Republica
+Ship: Caracal
+Weapon: 'Hypnos' Multispectral ECM I
+
+Name: SLADGE BRUTY (laid the final blow)
+Security: -1.8
+Alliance: Ascendant Frontier
+Corp: Sha Kharn Corp
+Ship: Sleipnir
+Weapon: 425mm AutoCannon II
+
+Name: Penelope Grey
+Security: 2.9
+Alliance: Process of Elimination
+Corp: Occassus Republica
+Ship: Capsule
+Weapon: Initiated Warp Jammer I
+
+
+Destroyed items:
+
+Dark Blood Large EMP Smartbomb
+Blood Infrared M
+Dark Blood Radio M
+Prototype Cloaking Device I
+XR-3200 Heavy Missile Bay
+100MN Afterburner II
+Large 'Accommodation' Vestment Reconstructer I
+Warp Core Stabilizer I
+Tachyon Beam Laser II, Qty: 2 (Cargo)
+Ultraviolet L, Qty: 5 (Cargo)
+Microwave L, Qty: 5 (Cargo)
+Radio L, Qty: 5 (Cargo)
+Gamma L, Qty: 5 (Cargo)
+Infrared L, Qty: 5 (Cargo)
+N-Type EM Hardener I (Cargo)
+Eradicator F.O.F. Heavy Missile I, Qty: 313 (Cargo)
+Hellhound F.O.F. Heavy Missile I, Qty: 20 (Cargo)
+Hornet I, Qty: 2 (Drone Bay)
+

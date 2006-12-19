@@ -1,0 +1,47 @@
+2007.03.06 23:14
+
+Victim: Narcotic XIII
+Alliance: None
+Corp: I-Omniscient-I
+Destroyed: Osprey
+System: Alamel
+Security: 0.2
+
+Involved parties:
+
+Name: MohamedLoftie (laid the final blow)
+Security: -1.0
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Zealot
+Weapon: Heavy Pulse Laser II
+
+Name: Luxe Ecru
+Security: 1.4
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Dominix
+Weapon: J5 Prototype Warp Inhibitor I
+
+
+Destroyed items:
+
+Medium 'Atonement' I Ward Projector
+F-b10 Nominal Capacitor Regenerator
+F-b10 Nominal Capacitor Regenerator
+F-b10 Nominal Capacitor Regenerator
+Mark I Generator Refitting: Capacitor Power Relay
+Mark I Generator Refitting: Capacitor Power Relay
+Large F-S9 Regolith Shield Induction (Cargo)
+X-Large Clarity Ward Booster I (Cargo)
+Eutectic I Capacitor Charge Array (Cargo)
+Hobgoblin I, Qty: 4 (Cargo)
+Shield Boost Amplifier I (Cargo)
+Dark Compound, Qty: 26 (Cargo)
+Lustering Alloy, Qty: 16 (Cargo)
+Scourge Heavy Missile, Qty: 100 (Cargo)
+Hellhound F.O.F. Heavy Missile I, Qty: 100 (Cargo)
+'Arbalest' Siege Missile Launcher, Qty: 2 (Cargo)
+Light Shield Maintenance Bot I (Cargo)
+Power Diagnostic System I (Cargo)
+

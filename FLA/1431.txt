@@ -1,0 +1,40 @@
+2007.03.13 09:45
+
+Victim: CrazyGuy Hauler
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Destroyed: Capsule
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Jokull (laid the final blow)
+Security: 2.6
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Lachesis
+Weapon: 250mm Railgun II
+
+Name: Khelia
+Security: 0.5
+Alliance: Dusk and Dawn
+Corp: Stardust Heavy Industries
+Ship: Myrmidon
+Weapon: 250mm 'Scout' I Accelerator Cannon
+
+Name: XxSOULxX
+Security: -1.2
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Thorax
+Weapon: Warp Disruptor I
+
+Name: Vesspasiano
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Myrmidon
+Weapon: Remote Sensor Dampener I
+
+

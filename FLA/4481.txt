@@ -1,0 +1,32 @@
+2007.04.11 13:17
+
+Victim: ConXtionS
+Alliance: Freelancer Alliance
+Corp: The Night Crew
+Destroyed: Velator
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Shraek (laid the final blow)
+Security: 1.4
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Sabre
+Weapon: 150mm Light AutoCannon II
+
+Name: Sivona
+Security: -1.1
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Eos
+Weapon: Eos
+
+
+Destroyed items:
+
+Civilian Light Electron Blaster
+Basic Miner
+Tritanium (Cargo)
+

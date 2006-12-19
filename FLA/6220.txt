@@ -1,0 +1,53 @@
+2006.11.10 19:58
+
+Victim: kiss amamll
+Alliance: None
+Corp: School of Applied Knowledge
+Destroyed: Ibis
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Elfaen Ethenwe (laid the final blow)
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: bidman
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Ferox
+Weapon: SV-2000 Assault Missile Bay
+
+Name: Fr0zt
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Rook
+Weapon: Heavy Missile Launcher II
+
+Name: Dog Cancer
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Crow
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: De'Zori
+Security: 5.0
+Alliance: None
+Corp: PILGRIMS
+Ship: Manticore
+Weapon: Cruise Missile Launcher II
+
+
+Destroyed items:
+
+Civilian Gatling Railgun
+Basic Miner
+Tritanium (Cargo)
+

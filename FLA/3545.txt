@@ -1,0 +1,50 @@
+2007.03.26 09:15
+
+Victim: ANNIHILATER
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Destroyed: Thorax
+System: Jita
+Security: 0.9
+
+Involved parties:
+
+Name: sinickal
+Security: -1.1
+Alliance: Privateer Alliance
+Corp: The IMorral MAjority
+Ship: Astarte
+Weapon: Astarte
+
+Name: Druuge (laid the final blow)
+Security: -1.3
+Alliance: Privateer Alliance
+Corp: Huff Technologies
+Ship: Hurricane
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Jemz
+Security: 0.8
+Alliance: Privateer Alliance
+Corp: The Green Banana Corporation
+Ship: Malediction
+Weapon: Dual Light Pulse Laser II
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Light Neutron Blaster II
+Light Neutron Blaster II
+Void S, Qty: 160
+'Langour' Drive Disruptor I
+Medium Armor Repairer II
+Warp Core Stabilizer I
+Warp Core Stabilizer I
+Mark I Modified SS Inertial Stabilizers
+Mark I Modified SS Overdrive Injector
+Light Neutron Blaster II, Qty: 2 (Cargo)
+Radioisotope Thermic Hardener I (Cargo)
+Radioisotope Explosive Hardener I (Cargo)
+Void S, Qty: 1000 (Cargo)
+

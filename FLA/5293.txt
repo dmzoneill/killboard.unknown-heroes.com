@@ -1,0 +1,36 @@
+2007.04.23 18:07
+
+Victim: Aneroi
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Destroyed: Executioner
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: LeZip (laid the final blow)
+Security: 1.2
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+Name: Evil Bunnies
+Security: 0.2
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Blackbird
+Weapon: Scourge Heavy Missile
+
+
+Destroyed items:
+
+Dual Light Beam Laser I
+Infrared S
+Warp Disruptor I
+Heat Sink I
+Capacitor Power Relay I
+Gamma S (Cargo)
+Radio S, Qty: 2 (Cargo)
+

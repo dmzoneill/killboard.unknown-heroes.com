@@ -1,0 +1,33 @@
+2006.10.14 23:21
+
+Victim: Athlete
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Destroyed: Thorax
+System: F-NMX6
+Security: 0.0
+
+Involved parties:
+
+Name: W4RR10R (laid the final blow)
+Security: 1.1
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Megathron
+Weapon: Ogre I
+
+
+Destroyed items:
+
+Medium Nosferatu II
+Heavy Electron Blaster II
+Heavy Electron Blaster II
+Heavy Electron Blaster II
+Null M, Qty: 378
+10MN MicroWarpdrive I
+Warp Disruptor I (Cargo)
+Consumer Electronics, Qty: 40 (Cargo)
+Frozen Food, Qty: 40 (Cargo)
+800mm Reinforced Titanium Plates I (Cargo)
+Null M, Qty: 145 (Cargo)
+

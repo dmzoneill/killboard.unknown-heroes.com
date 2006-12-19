@@ -1,0 +1,33 @@
+2007.05.06 00:12
+
+Victim: ZeroGrav
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Capsule
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Jandeera
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: Lynx Frontier Inc.
+Ship: Eris
+Weapon: Eris
+
+Name: Kvarium Ki (laid the final blow)
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Thrasher
+Weapon: 280mm Howitzer Artillery I
+
+Name: Haka Aragon
+Security: 3.5
+Alliance: Sparta Alliance
+Corp: XERCORE
+Ship: Caracal
+Weapon: Heavy Missile Launcher I
+
+

@@ -1,0 +1,66 @@
+2006.10.09 21:33
+
+Victim: Z'Doc
+Alliance: None
+Corp: State War Academy
+Destroyed: Ibis
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Nil Desperandum (laid the final blow)
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Omen
+Weapon: Heavy Anode Pulse Particle Stream I
+
+Name: Hosanna
+Security: -0.7
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Wolf
+Weapon: 280mm Howitzer Artillery II
+
+Name: Lady Vanquish
+Security: -0.2
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Stabber
+Weapon: 720mm Howitzer Artillery I
+
+Name: jarson
+Security: -0.3
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Claw
+Weapon: Fleeting Warp Scrambler I
+
+Name: TheManEatingMonkey
+Security: 0.2
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Kev Lar
+Security: 0.0
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Ares
+Weapon: 150mm Railgun II
+
+Name: DanyD
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Ship: Crow
+Weapon: TE-2100 Standard Missile Bay
+
+
+Destroyed items:
+
+Basic Miner
+Tritanium (Cargo)
+

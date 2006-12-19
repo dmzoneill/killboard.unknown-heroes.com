@@ -1,0 +1,19 @@
+2006.04.29 01:36
+
+Victim: TheBelgarion
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Capsule
+System: 3T7-M8
+Security: 0.0
+
+Involved parties:
+
+Name: Arise Davidian (laid the final blow)
+Security: 1.5
+Alliance: Northern Freedom Coalition
+Corp: AUS Corporation
+Ship: Thorax
+Weapon: 250mm Prototype I Gauss Gun
+
+

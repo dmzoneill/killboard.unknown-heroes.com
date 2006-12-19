@@ -1,0 +1,47 @@
+2006.09.30 06:04
+
+Victim: Lost Temeraire
+Alliance: None
+Corp: The Black Arms
+Destroyed: Osprey
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Trendsetter
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Flycatcher
+Weapon: Bloodclaw Light Missile
+
+Name: Weeble Wooble
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Taranis
+Weapon: Taranis
+
+Name: Jungels
+Security: 0.0
+Alliance: Imperial Republic Of the North
+Corp: Port Royal Independent Kontractors
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: toonsterpw (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Vagabond
+Weapon: 425mm AutoCannon II
+
+
+Destroyed items:
+
+Miner I
+Miner I
+Mining Drone I, Qty: 6 (Cargo)
+Warp Core Stabilizer I, Qty: 3 (Cargo)
+

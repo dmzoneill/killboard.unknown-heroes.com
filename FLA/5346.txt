@@ -1,0 +1,65 @@
+2007.04.26 02:25
+
+Victim: TroNaaR
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Taranis
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Shraek (laid the final blow)
+Security: 1.4
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Sabre
+Weapon: 150mm Light AutoCannon II
+
+Name: McEvil
+Security: 2.8
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Taranis
+Weapon: Taranis
+
+Name: Bleh131
+Security: -2.8
+Alliance: Firmus Ixion
+Corp: Dark Centuri Inc.
+Ship: Taranis
+Weapon: Warrior II
+
+Name: War Bear
+Security: 2.8
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: Tomas Ysidro
+Security: 1.7
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Astarte
+Weapon: Astarte
+
+Name: OutKast669
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+
+Destroyed items:
+
+Small 'Ghoul' Energy Siphon I
+125mm Railgun II
+75mm Gatling Rail II
+75mm Gatling Rail II
+Spike S, Qty: 247
+Initiated Warp Jammer I
+Mark I Modified SS Overdrive Injector
+Warrior II (Drone Bay)
+

@@ -1,0 +1,158 @@
+2007.03.05 02:51
+
+Victim: Darcstar
+Alliance: Aftermath Alliance
+Corp: Dark Nebula Gallente Division
+Destroyed: Dominix
+System: YZ-LQL
+Security: 0.0
+
+Involved parties:
+
+Name: Caarnji
+Security: -1.9
+Alliance: Dusk and Dawn
+Corp: ECP Rogues
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: GBSabre
+Security: 5.0
+Alliance: Zenith Affinity
+Corp: The Edge Foundation
+Ship: Raven
+Weapon: Devastator Fury Cruise Missile
+
+Name: Teck7
+Security: 1.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Lachesis
+Weapon: Lachesis
+
+Name: Flinx Evenstar
+Security: -1.2
+Alliance: Dusk and Dawn
+Corp: Momentum.
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: Torquemanda Corteaz
+Security: 3.9
+Alliance: Dusk and Dawn
+Corp: Infinite Improbability Inc
+Ship: Taranis
+Weapon: Taranis
+
+Name: Sigel Mantua
+Security: -6.3
+Alliance: The Foundation.
+Corp: The Gentlemens Social Club
+Ship: Sacrilege
+Weapon: Sacrilege
+
+Name: Asariasha
+Security: 4.6
+Alliance: Dusk and Dawn
+Corp: Cataclysm Enterprises
+Ship: Taranis
+Weapon: Taranis
+
+Name: Dirtee Girl
+Security: 0.1
+Alliance: Dusk and Dawn
+Corp: Omega Enterprises
+Ship: Taranis
+Weapon: Taranis
+
+Name: magarethe (laid the final blow)
+Security: 0.2
+Alliance: Dusk and Dawn
+Corp: Die Apokalyptischen Reiter
+Ship: Rifter
+Weapon: 200mm AutoCannon II
+
+Name: Easterwood
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Infinite Improbability Inc
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+Name: Cecilia Walsh
+Security: 3.6
+Alliance: Dusk and Dawn
+Corp: Cataclysm Enterprises
+Ship: Curse
+Weapon: Hammerhead II
+
+Name: Fout Debiele
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Cataclysm Enterprises
+Ship: Myrmidon
+Weapon: Myrmidon
+
+Name: Blue Sassley
+Security: -0.5
+Alliance: Dusk and Dawn
+Corp: Momentum.
+Ship: Ferox
+Weapon: Thunderbolt Fury Heavy Missile
+
+Name: Selina VanHool
+Security: 0.8
+Alliance: Dusk and Dawn
+Corp: Cataclysm Enterprises
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Xantheris
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Harpy
+Weapon: Harpy
+
+Name: Smeik
+Security: 3.8
+Alliance: Dusk and Dawn
+Corp: Tri Optimum
+Ship: Claw
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: Bigfood
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Cataclysm Enterprises
+Ship: Lachesis
+Weapon: Indirect Scanning Dampening Unit I
+
+Name: viper zulu
+Security: 4.2
+Alliance: Dusk and Dawn
+Corp: Omega Enterprises
+Ship: Thanatos
+Weapon: Warp Disruptor II
+
+Name: Frau Formaggio
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Helios
+Weapon: ECM - Multispectral Jammer II
+
+
+Destroyed items:
+
+Large Proton Smartbomb I
+Large Proton Smartbomb I
+Improved Cloaking Device II
+V-M15 Braced Multispectral Shield Matrix
+Inertia Stabilizers I
+Inertia Stabilizers I
+Nanofiber Internal Structure I
+Nanofiber Internal Structure I
+Hammerhead I, Qty: 2 (Drone Bay)
+Hobgoblin I, Qty: 4 (Drone Bay)
+

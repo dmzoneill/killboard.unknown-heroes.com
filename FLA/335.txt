@@ -1,0 +1,47 @@
+2007.01.26 19:49
+
+Victim: Waraak
+Alliance: None
+Corp: Croatian Star Alliance
+Destroyed: Capsule
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Sils wife (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Brutix
+Weapon: 200mm Railgun II
+
+Name: Minisoza
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Enyo
+Weapon: 125mm Railgun II
+
+Name: Valea Silpha
+Security: 1.5
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Huginn
+Weapon: Heavy Missile Launcher I
+
+Name: Praetorian Mardou
+Security: 4.5
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Hawk
+Weapon: Standard Missile Launcher I
+
+Name: Dusky 4ET
+Security: 5.0
+Alliance: Guardian Federation
+Corp: KULT Production
+Ship: Taranis
+Weapon: Faint Warp Prohibitor I
+
+

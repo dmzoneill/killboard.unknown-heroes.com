@@ -1,0 +1,19 @@
+2006.12.12 20:07
+
+Victim: Zonneschijn
+Alliance: None
+Corp: 0utbreak
+Destroyed: Capsule
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Super Homer (laid the final blow)
+Security: 1.1
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Manticore
+Weapon: Devastator Cruise Missile
+
+

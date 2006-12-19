@@ -1,0 +1,161 @@
+2007.03.29 05:08
+
+Victim: Gating Corss
+Alliance: Aftermath Alliance
+Corp: Dark Nebula Gallente Division
+Destroyed: Dominix
+System: LIWW-P
+Security: 0.0
+
+Involved parties:
+
+Name: Serpentis Chief Guard / Serpentis Corporation
+
+Name: ChefAce
+Security: 1.4
+Alliance: Sparta Alliance
+Corp: Lacedaemon.
+Ship: Thorax
+Weapon: Thorax
+
+Name: Jeepus
+Security: 4.5
+Alliance: Sparta Alliance
+Corp: Black Knight Buccaneers
+Ship: Sabre
+Weapon: Sabre
+
+Name: Nagor Surin
+Security: 3.1
+Alliance: Sparta Alliance
+Corp: Lynx Frontier Inc.
+Ship: Thrasher
+Weapon: 250mm Light Artillery Cannon I
+
+Name: Accipiter Cooperii
+Security: 3.7
+Alliance: Sparta Alliance
+Corp: Dreamscape
+Ship: Ishkur
+Weapon: Hammerhead I
+
+Name: MIDER
+Security: 3.2
+Alliance: Dusk and Dawn
+Corp: ClanKillers
+Ship: Taranis
+Weapon: Warrior II
+
+Name: darkfuntime
+Security: 2.5
+Alliance: Dusk and Dawn
+Corp: ClanKillers
+Ship: Claw
+Weapon: Claw
+
+Name: Nightbird (laid the final blow)
+Security: 0.5
+Alliance: Serenity Fallen
+Corp: Neogen Industries
+Ship: Ishkur
+Weapon: Light Ion Blaster II
+
+Name: Skull Fire
+Security: 0.8
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Caracal
+Weapon: Warrior II
+
+Name: Skytex
+Security: 1.8
+Alliance: Sparta Alliance
+Corp: Synergy Evolved
+Ship: Kestrel
+Weapon: Sabretooth Light Missile
+
+Name: Tassill
+Security: 5.0
+Alliance: None
+Corp: GREY COUNCIL
+Ship: Scimitar
+Weapon: Scimitar
+
+Name: Teebee
+Security: 3.8
+Alliance: Sparta Alliance
+Corp: XERCORE
+Ship: Thorax
+Weapon: Thorax
+
+Name: Calistron
+Security: 0.4
+Alliance: Sparta Alliance
+Corp: Lacedaemon.
+Ship: Flycatcher
+Weapon: Thorn Rocket
+
+Name: Syn Snowball
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: Synergy Evolved
+Ship: Raptor
+Weapon: Foxfire Javelin Rocket
+
+Name: Nemafow
+Security: 3.2
+Alliance: None
+Corp: Antipodean inc.
+Ship: Raptor
+Weapon: Raptor
+
+Name: SignalNine
+Security: 0.5
+Alliance: Sparta Alliance
+Corp: Lynx Frontier Inc.
+Ship: Malediction
+Weapon: Malediction
+
+Name: Starbucks Partner
+Security: 5.0
+Alliance: None
+Corp: Antipodean inc.
+Ship: Taranis
+Weapon: Warrior II
+
+Name: Isaac Orion
+Security: 4.8
+Alliance: Sparta Alliance
+Corp: Dreamscape
+Ship: Capsule
+Weapon: Phased Muon Sensor Disruptor I
+
+Name: Giamilton
+Security: 4.6
+Alliance: Sparta Alliance
+Corp: Synergy Evolved
+Ship: Ares
+Weapon: Ares
+
+Name: LLago Cesarii
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: Synergy Evolved
+Ship: Claw
+Weapon: Gremlin Javelin Rocket
+
+
+Destroyed items:
+
+Heavy Anode Particle Stream I
+E500 Prototype Energy Vampire
+Prototype Cloaking Device I
+Sensor Booster I
+Large 'Accommodation' Vestment Reconstructer I
+Warp Core Stabilizer I
+N-Type Thermic Hardener I
+N-Type Kinetic Hardener I
+Microcell Nanite EM Hardener I (Cargo)
+Wasp II, Qty: 7 (Drone Bay)
+Berserker II, Qty: 3 (Drone Bay)
+

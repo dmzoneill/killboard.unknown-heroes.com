@@ -1,0 +1,47 @@
+2007.05.05 19:11
+
+Victim: Ariun Pyrosyn
+Alliance: Vigilance Infinitas
+Corp: The Phoenix Rising
+Destroyed: Capsule
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Kvarium Ki
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Rupture
+Weapon: Assault Missile Launcher I
+
+Name: Antigen Po (laid the final blow)
+Security: 4.7
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Taranis
+Weapon: 125mm Railgun II
+
+Name: Kayron Brennan
+Security: 0.7
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Merlin
+Weapon: Thorn Rocket
+
+Name: ClogMan
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Stabber
+Weapon: Dual 180mm AutoCannon II
+
+Name: Undeadas2
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Raptor
+Weapon: Raptor
+
+

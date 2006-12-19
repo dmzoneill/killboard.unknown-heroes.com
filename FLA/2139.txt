@@ -1,0 +1,47 @@
+2007.01.24 22:42
+
+Victim: RToad
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Destroyed: Ferox
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: WarGod
+Security: 1.4
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Curse
+Weapon: Ogre II
+
+Name: taylor04 (laid the final blow)
+Security: 0.4
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Curse
+Weapon: Valkyrie II
+
+Name: boo3916
+Security: 4.7
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Eos
+Weapon: 'Hypnos' Multispectral ECM I
+
+
+Destroyed items:
+
+125mm Carbide Railgun I
+Antimatter Charge S, Qty: 75
+Scourge Heavy Missile, Qty: 80
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+Large Azeotropic Ward Salubrity I
+Large Azeotropic Ward Salubrity I
+Ballistic Deflection Field I
+Shield Power Relay I
+Microcell Nanite EM Hardener I (Cargo)
+

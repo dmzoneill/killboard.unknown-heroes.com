@@ -1,0 +1,56 @@
+2007.03.30 20:41
+
+Victim: Untamed Fury
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Destroyed: Caracal
+System: 3QE-9Q
+Security: 0.0
+
+Involved parties:
+
+Name: Echelon Carter (laid the final blow)
+Security: 1.5
+Alliance: None
+Corp: SpaceBalls Navy
+Ship: Brutix
+Weapon: Heavy Electron Blaster II
+
+Name: Rinkos Alaine
+Security: 4.6
+Alliance: None
+Corp: SpaceBalls Navy
+Ship: Myrmidon
+Weapon: Wasp I
+
+Name: stich626
+Security: -2.1
+Alliance: None
+Corp: SpaceBalls Navy
+Ship: Brutix
+Weapon: Brutix
+
+Name: airspace
+Security: 2.9
+Alliance: None
+Corp: SpaceBalls Navy
+Ship: Celestis
+Weapon: Warrior II
+
+
+Destroyed items:
+
+Prototype Cloaking Device I
+Widowmaker Heavy Missile, Qty: 54
+Heavy Missile Launcher I
+Warp Disruptor I
+Heat Dissipation Field I
+Energized Adaptive Nano Membrane I
+Barton Reactor Capacitor Recharger I (Cargo)
+Light Neutron Blaster I (Cargo)
+250mm Compressed Coil Gun I (Cargo)
+250mm Railgun I (Cargo)
+Sensor Booster I (Cargo)
+Widowmaker Heavy Missile, Qty: 1864 (Cargo)
+Heavy Missile Launcher I (Cargo)
+

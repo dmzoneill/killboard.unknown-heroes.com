@@ -1,0 +1,38 @@
+2006.11.13 01:49
+
+Victim: jacass8496
+Alliance: Freelancer Alliance
+Corp: BGG
+Destroyed: Enyo
+System: O1Y-ED
+Security: 0.0
+
+Involved parties:
+
+Name: JMcClane
+Security: 3.0
+Alliance: None
+Corp: Dark-Rising
+Ship: Thorax
+Weapon: Thorax
+
+Name: Boogiez (laid the final blow)
+Security: -0.4
+Alliance: None
+Corp: Dark-Rising
+Ship: Thorax
+Weapon: Light Neutron Blaster II
+
+
+Destroyed items:
+
+125mm Railgun II
+Spike S, Qty: 221
+1MN MicroWarpdrive I
+Small Armor Repairer I
+'Accord' I Core Compensation
+Quad Light Beam Laser I (Cargo)
+1600mm Reinforced Crystalline Carbonide Plates I (Cargo)
+Mobile Small Warp Disruptor I (Cargo)
+Hobgoblin I (Drone Bay)
+

@@ -1,0 +1,144 @@
+2007.03.07 20:16
+
+Victim: Xio Wu
+Alliance: Myriad Alliance
+Corp: Four Rings
+Destroyed: Hurricane
+System: XZH-4X
+Security: 0.0
+
+Involved parties:
+
+Name: nerak thgink (laid the final blow)
+Security: 4.8
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Vexor
+Weapon: 250mm Prototype I Gauss Gun
+
+Name: Hlaron
+Security: 1.2
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Celestis
+Weapon: Hobgoblin I
+
+Name: Angeles
+Security: 5.0
+Alliance: Prime Orbital Systems
+Corp: ZiTek Deepspace Explorations
+Ship: Thorax
+Weapon: Thorax
+
+Name: ardik
+Security: 3.0
+Alliance: None
+Corp: Green Screwdriver Industries
+Ship: Flycatcher
+Weapon: Thorn Rocket
+
+Name: El Gopher
+Security: 5.0
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Malediction
+Weapon: Dual Light Pulse Laser II
+
+Name: brainball
+Security: 2.5
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Incursus
+Weapon: Incursus
+
+Name: Doan Eidos
+Security: 1.1
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Celestis
+Weapon: Celestis
+
+Name: Krun VanHalen
+Security: 1.2
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Claw
+Weapon: Claw
+
+Name: Kiledan Darkmoon
+Security: 5.0
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Celestis
+Weapon: Celestis
+
+Name: VoYvod
+Security: -1.3
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Coercer
+Weapon: Medium Beam Laser I
+
+Name: Quurst
+Security: 3.8
+Alliance: GoonSwarm
+Corp: Duragon Pioneer Group
+Ship: Harpy
+Weapon: Harpy
+
+Name: J Connor
+Security: 0.0
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Capsule
+Weapon: Heavy Neutron Blaster I
+
+Name: Andre Carnegi
+Security: 1.5
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Merlin
+Weapon: Bloodclaw Light Missile
+
+Name: Serpentis Captain / Serpentis Corporation
+
+Name: Alex Sidoroff
+Security: 0.2
+Alliance: Curse Alliance
+Corp: ORIGIN SYSTEMS
+Ship: Merlin
+Weapon: 75mm Gatling Rail I
+
+Name: Zancle
+Security: 0.8
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Vigil
+Weapon: Warp Disruptor I
+
+Name: WheelsofSupriseSex
+Security: 0.0
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Merlin
+Weapon: Merlin
+
+
+Destroyed items:
+
+220mm Vulcan AutoCannon II
+220mm Vulcan AutoCannon II
+50W Infectious Power System Malfunction
+Barrage M, Qty: 240
+Y-T8 Overcharged Hydrocarbon I Microwarpdrive
+Beta Hull Mod Inertial Stabilizers
+Beta Hull Mod Nanofiber Structure
+Beta Hull Mod Nanofiber Structure
+Medium Armor Repairer I (Cargo)
+Shadow Antimatter Charge L, Qty: 1000 (Cargo)
+Praetor I (Cargo)
+Shadow Serpentis Sensor Booster (Cargo)
+Gauss Field Balancer I (Cargo)
+Shadow Serpentis Crystal Tag (Cargo)
+Expanded Cargohold I (Cargo)
+

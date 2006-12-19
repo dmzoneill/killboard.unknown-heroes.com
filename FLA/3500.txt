@@ -1,0 +1,54 @@
+2007.03.31 16:15
+
+Victim: Ingersoll
+Alliance: None
+Corp: Kingfisher Industries
+Destroyed: Caldari Shuttle
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: pipvac
+Security: 2.7
+Alliance: DeStInY.
+Corp: Sacred Templars
+Ship: Taranis
+Weapon: Taranis
+
+Name: RisingDragon (laid the final blow)
+Security: 0.3
+Alliance: DeStInY.
+Corp: House Of Aaron
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: kakakarrr
+Security: -1.2
+Alliance: DeStInY.
+Corp: The Knights Of Camelot
+Ship: Rifter
+Weapon: Thorn Rocket
+
+Name: Cristina MG
+Security: 5.0
+Alliance: DeStInY.
+Corp: Fusion Enterprises Ltd
+Ship: Malediction
+Weapon: Malediction
+
+Name: dastommy79
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Condor
+Weapon: 'Malkuth' Rocket Launcher I
+
+Name: Tim Helmert
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Asgard Schiffswerften
+Ship: Crusader
+Weapon: Dual Light Beam Laser II
+
+

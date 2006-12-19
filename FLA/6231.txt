@@ -1,0 +1,68 @@
+2006.11.10 20:48
+
+Victim: Odinegras
+Alliance: None
+Corp: StarHunt
+Destroyed: Iteron Mark II
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: al3x andra (laid the final blow)
+Security: 4.3
+Alliance: O X I D E
+Corp: W33D Corp.
+Ship: Cyclone
+Weapon: 650mm Artillery Cannon I
+
+Name: H3llfire
+Security: 2.6
+Alliance: O X I D E
+Corp: W33D Corp.
+Ship: Moa
+Weapon: Scourge Heavy Missile
+
+Name: LizzyD
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: bidman
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Ferox
+Weapon: 250mm Compressed Coil Gun I
+
+Name: Elfaen Ethenwe
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Crow
+Weapon: Piranha Light Missile
+
+Name: Dog Cancer
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Crow
+Weapon: Standard Missile Launcher I
+
+Name: Almagar Phog
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Blackbird
+Weapon: Compact 'Limos' Assault Missile Bay I
+
+
+Destroyed items:
+
+Cap Recharger I
+Cap Recharger I
+10MN Afterburner I
+Giant Secure Container (Cargo)
+

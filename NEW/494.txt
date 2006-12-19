@@ -1,0 +1,58 @@
+2007.04.04 06:26
+
+Victim: Kiyamoh
+Alliance: None
+Corp: Aliastra
+Destroyed: Megathron
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: RubberDuckey
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Blackwater Squadron
+Ship: Raven
+Weapon: Hammerhead II
+
+Name: toonsterpw
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: FlobbMkII (laid the final blow)
+Security: 4.4
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Eris
+Weapon: Templar
+
+Name: Njord V
+Security: -0.3
+Alliance: Freelancer Alliance
+Corp: Blackwater Squadron
+Ship: Capsule
+Weapon: Remote Sensor Dampener I
+
+Name: Bobby Atlas
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Thanatos
+Weapon: Templar
+
+
+Destroyed items:
+
+350mm Railgun I
+425mm Railgun II, Qty: 2
+Antimatter Charge L, Qty: 190
+Cap Recharger II
+Damage Control II
+Medium Armor Repairer I, Qty: 2
+Armor Thermic Hardener II
+Antimatter Charge L, Qty: 2253 (Cargo)
+Hobgoblin II, Qty: 2 (Drone Bay)

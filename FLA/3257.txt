@@ -1,0 +1,26 @@
+2007.03.21 23:53
+
+Victim: TordenSkiold
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Destroyed: Iteron Mark V
+System: Osmeden
+Security: 0.7
+
+Involved parties:
+
+Name: Lillegutt (laid the final blow)
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Ship: Armageddon
+Weapon: Dual Heavy Pulse Laser II
+
+
+Destroyed items:
+
+Tungsten Charge S, Qty: 40
+Warp Core Stabilizer I
+Expanded Cargohold I
+Tungsten Charge S, Qty: 399 (Cargo)
+

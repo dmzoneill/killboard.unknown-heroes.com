@@ -1,0 +1,25 @@
+2007.03.16 21:49
+
+Victim: Blud Eyes
+Alliance: Pax Familia
+Corp: EnTech
+Destroyed: Cormorant
+System: Hysera
+Security: 0.4
+
+Involved parties:
+
+Name: Japanx (laid the final blow)
+Security: 1.8
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Ferox
+Weapon: Modal Ion Particle Accelerator I
+
+
+Destroyed items:
+
+Salvager I, Qty: 18
+Small Tractor Beam I
+Cap Recharger II
+

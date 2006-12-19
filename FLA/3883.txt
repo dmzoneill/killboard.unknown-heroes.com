@@ -1,0 +1,26 @@
+2007.04.04 03:13
+
+Victim: Alathir
+Alliance: None
+Corp: State War Academy
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Untamed Fury (laid the final blow)
+Security: 1.2
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Hurricane
+Weapon: 720mm Howitzer Artillery II
+
+Name: alon blackhelm
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Myrmidon
+Weapon: Myrmidon
+
+

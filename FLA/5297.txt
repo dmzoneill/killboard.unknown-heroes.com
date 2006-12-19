@@ -1,0 +1,40 @@
+2007.04.23 18:09
+
+Victim: Magic Mazuma
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Destroyed: Capsule
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Erik Morkai
+Security: -1.3
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Crusader
+Weapon: Crusader
+
+Name: Lord Caine (laid the final blow)
+Security: 4.9
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Vexor
+Weapon: Light Neutron Blaster II
+
+Name: Rimsaw
+Security: 0.0
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Maller
+Weapon: Focused Medium Beam Laser I
+
+Name: Evil Bunnies
+Security: 0.2
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Blackbird
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+

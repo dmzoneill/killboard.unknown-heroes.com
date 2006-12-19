@@ -1,0 +1,33 @@
+2006.11.19 00:46
+
+Victim: Scorpio63
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Destroyed: Capsule
+System: Torrinos
+Security: 0.5
+
+Involved parties:
+
+Name: xEntriq (laid the final blow)
+Security: -1.7
+Alliance: None
+Corp: omen.
+Ship: Deimos
+Weapon: Heavy Neutron Blaster II
+
+Name: starius3
+Security: 1.2
+Alliance: None
+Corp: omen.
+Ship: Taranis
+Weapon: 150mm Railgun II
+
+Name: Captain Alcatraz
+Security: -2.4
+Alliance: None
+Corp: omen.
+Ship: Crusader
+Weapon: Patterned Stasis Web I
+
+

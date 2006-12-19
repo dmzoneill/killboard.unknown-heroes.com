@@ -1,0 +1,33 @@
+2006.11.22 16:23
+
+Victim: the willyb
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: roboto212 (laid the final blow)
+Security: -0.5
+Alliance: Freelancer Alliance
+Corp: Sin-X Inc.
+Ship: Enyo
+Weapon: Light Neutron Blaster II
+
+Name: Scumbalina
+Security: 1.3
+Alliance: Freelancer Alliance
+Corp: Sin-X Inc.
+Ship: Blackbird
+Weapon: Standard Missile Launcher I
+
+Name: Helavus
+Security: 1.9
+Alliance: O X I D E
+Corp: MAJORITY
+Ship: Claw
+Weapon: J5b Phased Prototype Warp Inhibitor I
+
+

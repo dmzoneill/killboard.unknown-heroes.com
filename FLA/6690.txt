@@ -1,0 +1,67 @@
+2006.11.24 20:24
+
+Victim: SteffBojo
+Alliance: United Connection's
+Corp: Ratio Decidendi
+Destroyed: Cyclone
+System: JC-YX8
+Security: 0.0
+
+Involved parties:
+
+Name: Elfaen Ethenwe (laid the final blow)
+Security: -1.6
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Raven
+Weapon: Inferno Javelin Torpedo
+
+Name: Midiana
+Security: 1.1
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Ishtar
+Weapon: Praetor I
+
+Name: Scorpio63
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Prophecy
+Weapon: Prophecy
+
+Name: Vapour Boy
+Security: 3.8
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: TasKu
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Ishtar
+Weapon: Ishtar
+
+Name: LizzyD
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Dominix
+Weapon: Compulsive Multispectral ECM I
+
+
+Destroyed items:
+
+720mm Howitzer Artillery II
+720mm Howitzer Artillery II
+Titanium Sabot M, Qty: 15
+Scourge Heavy Missile, Qty: 68
+'Arbalest' Heavy Missile Launcher
+Ditrigonal Thermal Barrier Crystallization I
+Shield Boost Amplifier I
+Titanium Sabot M, Qty: 4805 (Cargo)
+Shield Boost Amplifier I (Cargo)
+Scourge Heavy Missile, Qty: 3296 (Cargo)
+

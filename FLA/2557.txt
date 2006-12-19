@@ -1,0 +1,49 @@
+2007.02.20 19:19
+
+Victim: Ghu'ru Talozan
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Myrmidon
+System: Jita
+Security: 0.9
+
+Involved parties:
+
+Name: Jimmycs83 (laid the final blow)
+Security: -1.3
+Alliance: Privateer Alliance
+Corp: coracao ardente
+Ship: Myrmidon
+Weapon: Ogre I
+
+Name: DarthJesseBob
+Security: 1.4
+Alliance: Privateer Alliance
+Corp: Sicarri Covenant
+Ship: Unknown
+Weapon: Light Ion Blaster II
+
+Name: General Pain
+Security: -0.7
+Alliance: Privateer Alliance
+Corp: Sicarri Covenant
+Ship: Raptor
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+
+Destroyed items:
+
+E50 Prototype Energy Vampire
+Heavy Electron Blaster II
+Void M, Qty: 91
+X5 Prototype I Engine Enervator
+Medium Electrochemical Capacitor Booster I
+Conjunctive Magnetometric ECCM Scanning Array I
+Adaptive Nano Plating II
+N-Type Thermic Hardener I
+425mm AutoCannon I, Qty: 2 (Cargo)
+Null S, Qty: 420 (Cargo)
+Void M, Qty: 1445 (Cargo)
+Hobgoblin II, Qty: 2 (Drone Bay)
+Warrior II, Qty: 3 (Drone Bay)
+

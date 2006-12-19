@@ -1,0 +1,54 @@
+2006.11.27 21:08
+
+Victim: SuXaR
+Alliance: Firmus Ixion
+Corp: KDM Corp
+Destroyed: Rapier
+System: K-L690
+Security: 0.0
+
+Involved parties:
+
+Name: Preying Mantis (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Huginn
+Weapon: Thunderbolt Fury Heavy Missile
+
+Name: Narny
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Hawk
+Weapon: Piranha Fury Light Missile
+
+Name: TasKu
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Taranis
+Weapon: Taranis
+
+
+Destroyed items:
+
+720mm Howitzer Artillery II
+EMP M
+EMP M
+EMP M
+EMP M
+EMP M
+EMP M
+EMP M
+Fleeting Warp Scrambler I
+Initiated Warp Jammer I
+ECM - Multispectral Jammer II
+Alumel-Wired I Sensor Augmentation
+Medium Automated I Carapace Restoration (Cargo)
+Fleeting Propulsion Inhibitor I (Cargo)
+Fusion M, Qty: 150 (Cargo)
+EMP M, Qty: 446 (Cargo)
+ECM - Multispectral Jammer II (Cargo)
+Power Diagnostic System II, Qty: 2 (Cargo)
+

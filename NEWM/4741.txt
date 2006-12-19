@@ -1,0 +1,42 @@
+2007.04.20 23:40
+
+Victim: slorai
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Moa
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: The Cade
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Thorax
+Weapon: Thorax
+
+Name: Kee Ris (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Armageddon
+Weapon: Mega Modulated Pulse Energy Beam I
+
+
+Destroyed items:
+
+250mm Carbide Railgun I
+250mm Carbide Railgun I
+250mm Carbide Railgun I
+Antimatter Charge M, Qty: 31
+Bloodclaw Light Missile, Qty: 106
+'Arbalest' Assault Missile Launcher
+'Arbalest' Assault Missile Launcher
+Medium Shield Booster II
+Barton Reactor Capacitor Recharger I
+Barton Reactor Capacitor Recharger I
+Magnetic Vortex Stabilizer I
+Power Diagnostic System I
+Antimatter Charge M, Qty: 5609 (Cargo)
+

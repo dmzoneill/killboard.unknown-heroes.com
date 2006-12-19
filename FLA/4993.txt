@@ -1,0 +1,47 @@
+2007.04.21 00:51
+
+Victim: The Cade
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Destroyed: Thorax
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Terdlinger (laid the final blow)
+Security: 4.9
+Alliance: Storm Armada
+Corp: stone grave haulage
+Ship: Raven
+Weapon: Juggernaut Torpedo
+
+Name: Savak
+Security: -0.2
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Apocalypse
+Weapon: Apocalypse
+
+Name: Raffer Steele
+Security: 2.6
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Thanatos
+Weapon: Firbolg
+
+
+Destroyed items:
+
+Heavy Neutron Blaster I
+Heavy Neutron Blaster I
+Antimatter Charge M, Qty: 157
+10MN MicroWarpdrive I
+Magnetic Field Stabilizer I
+Type-D Power Core Modification: Capacitor Power Relay
+Reactor Control Unit I
+Antimatter Charge M, Qty: 1823 (Cargo)
+Phalanx Rocket, Qty: 29 (Cargo)
+'Arbalest' Rocket Launcher I (Cargo)
+Nanofiber Internal Structure I (Cargo)
+

@@ -1,0 +1,26 @@
+2007.03.13 05:58
+
+Victim: misterioso
+Alliance: Chorus of Dawn
+Corp: Cosmic Odyssey
+Destroyed: Capsule
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Flying Underpants (laid the final blow)
+Security: 0.2
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Enyo
+Weapon: Light Ion Blaster II
+
+Name: Danielson1012
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Drake
+Weapon: Advanced 'Limos' Heavy Missile Bay I
+
+

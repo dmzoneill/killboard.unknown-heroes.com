@@ -1,0 +1,46 @@
+2007.03.23 06:20
+
+Victim: Shaeba
+Alliance: None
+Corp: Blackguard Brigade
+Destroyed: Hurricane
+System: IZ-AOB
+Security: 0.0
+
+Involved parties:
+
+Name: darkviron
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Drake
+Weapon: Hobgoblin II
+
+Name: Kiara Diepp (laid the final blow)
+Security: -1.9
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Drake
+Weapon: Thunderbolt Heavy Missile
+
+Name: Jesnen
+Security: -1.3
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Vengeance
+Weapon: Vengeance
+
+
+Destroyed items:
+
+220mm Medium Gallium I Machine Gun
+220mm Medium Gallium I Machine Gun
+220mm Medium Gallium I Machine Gun
+EMP M, Qty: 69
+Scourge Heavy Missile, Qty: 36
+Heavy Missile Launcher I
+10MN MicroWarpdrive I
+800mm Reinforced Rolled Tungsten Plates I
+EMP M, Qty: 124 (Cargo)
+Scourge Heavy Missile, Qty: 437 (Cargo)
+

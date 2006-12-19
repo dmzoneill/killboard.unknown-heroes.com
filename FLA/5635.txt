@@ -1,0 +1,26 @@
+2006.10.09 14:52
+
+Victim: alte2
+Alliance: None
+Corp: Federal Navy Academy
+Destroyed: Velator
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Severa Crest (laid the final blow)
+Security: 1.9
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Ship: Muninn
+Weapon: 720mm Howitzer Artillery II
+
+Name: Sol Angla
+Security: 2.8
+Alliance: Imperial Republic Of the North
+Corp: Port Royal Independent Kontractors
+Ship: Rupture
+Weapon: 650mm Medium Gallium I Cannon
+
+

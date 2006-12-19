@@ -1,0 +1,49 @@
+2007.04.30 20:11
+
+Victim: Stitcher
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Destroyed: Hawk
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: sammual (laid the final blow)
+Security: -2.8
+Alliance: None
+Corp: The Phoenix Rising
+Ship: Ferox
+Weapon: Thunderbolt Heavy Missile
+
+Name: Screamer
+Security: 1.0
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Manticore
+Weapon: Cruise Missile Launcher II
+
+Name: KtB
+Security: -1.9
+Alliance: None
+Corp: The Phoenix Rising
+Ship: Tristan
+Weapon: Tristan
+
+Name: Ralin Bek
+Security: 1.4
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Capsule
+Weapon: Stasis Webifier I
+
+
+Destroyed items:
+
+Standard Missile Launcher II
+Standard Missile Launcher II
+Bloodclaw Precision Light Missile, Qty: 44
+Warp Scrambler I
+Fleeting Propulsion Inhibitor I
+Local Hull Conversion Inertial Stabilizers I
+

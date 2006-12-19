@@ -1,0 +1,32 @@
+2007.03.04 17:49
+
+Victim: General Pain
+Alliance: Privateer Alliance
+Corp: Sicarri Covenant
+Destroyed: Raptor
+System: Jita
+Security: 0.9
+
+Involved parties:
+
+Name: Nova Paradise (laid the final blow)
+Security: 2.9
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+
+Destroyed items:
+
+125mm Railgun II
+125mm Railgun II
+Spike S, Qty: 65
+Bloodclaw Light Missile, Qty: 72
+Standard Missile Launcher I
+Warp Disruptor I
+Stasis Webifier I
+Capacitor Power Relay I
+Capacitor Power Relay I
+Spike S, Qty: 640 (Cargo)
+

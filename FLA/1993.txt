@@ -1,0 +1,81 @@
+2007.01.14 16:48
+
+Victim: darkviron
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Destroyed: Raven
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Bloodclaw Light Missile / Guristas
+
+Name: Captain Rickdick (laid the final blow)
+Security: 0.1
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+Name: DHB WildCat
+Security: -1.2
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+Name: Persona Alta
+Security: 0.5
+Alliance: None
+Corp: Viziam
+Ship: Capsule
+Weapon: J5b Phased Prototype Warp Inhibitor I
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Medium Nosferatu I
+Juggernaut Torpedo, Qty: 74
+ZW-4100 Siege Missile Bay
+ZW-4100 Siege Missile Bay
+ZW-4100 Siege Missile Bay
+ZW-4100 Siege Missile Bay
+Large Azeotropic Ward Salubrity I
+X-Large Clarity Ward Booster I
+100MN Afterburner I
+'Anointed' I EM Ward Reinforcement
+Invulnerability Field I
+Emergency Damage Control I
+Cross-linked Bolt Array I
+Power Diagnostic System I
+Power Diagnostic System I
+Large Shield Extender I (Cargo)
+X-Large Clarity Ward Booster I (Cargo)
+X-Large Shield Booster I (Cargo)
+Cargo Scanner I (Cargo)
+Miner I (Cargo)
+Asymmetric Energy Succor I (Cargo)
+Small Nosferatu I (Cargo)
+Dual 250mm Carbide Railgun I (Cargo)
+150mm 'Scout' I Accelerator Cannon (Cargo)
+Antimatter Charge S, Qty: 100 (Cargo)
+Uranium Charge L, Qty: 100 (Cargo)
+Defender I, Qty: 100 (Cargo)
+Juggernaut Torpedo, Qty: 987 (Cargo)
+ECM - Spatial Destabilizer I (Cargo)
+ECM - Multispectral Jammer I (Cargo)
+Signal Amplifier I (Cargo)
+Supplemental Scanning CPU I (Cargo)
+Co-Processor I (Cargo)
+'Accord' I Core Compensation (Cargo)
+Sabretooth Light Missile, Qty: 100 (Cargo)
+Eradicator F.O.F. Heavy Missile I, Qty: 100 (Cargo)
+Rocket Launcher I (Cargo)
+Siege Missile Launcher I (Cargo)
+'Malkuth' Heavy Missile Launcher I (Cargo)
+Assault Missile Launcher I (Cargo)
+'Malkuth' Assault Missile Launcher I (Cargo)
+Hammerhead I, Qty: 2 (Drone Bay)
+

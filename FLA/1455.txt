@@ -1,0 +1,26 @@
+2007.03.13 19:02
+
+Victim: DeathMarshellKerensky
+Alliance: YouWhat
+Corp: Beasts of Burden
+Destroyed: Capsule
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: WolfRavage (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Hyperion
+Weapon: 425mm Railgun I
+
+Name: r Cubed
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: The Night Crew
+Ship: Scorpion
+Weapon: Kapteyn Sensor Array Inhibitor I
+
+

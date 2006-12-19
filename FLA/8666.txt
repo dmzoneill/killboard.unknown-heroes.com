@@ -1,0 +1,40 @@
+2006.12.06 00:40
+
+Victim: dinj
+Alliance: Freelancer Alliance
+Corp: London Transport
+Destroyed: Hawk
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Ambassador Wolf
+Security: 0.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Retribution
+Weapon: Retribution
+
+Name: Jenessa (laid the final blow)
+Security: 2.2
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Lachesis
+Weapon: 250mm Carbide Railgun I
+
+
+Destroyed items:
+
+Sabretooth Light Missile, Qty: 50
+Standard Missile Launcher II
+Standard Missile Launcher II
+Standard Missile Launcher II
+Standard Missile Launcher II
+Bloodclaw Precision Light Missile, Qty: 100
+Eutectic I Capacitor Charge Array
+Cross-linked Bolt Array I
+Sabretooth Light Missile, Qty: 100 (Cargo)
+Wrath Cruise Missile, Qty: 2000 (Cargo)
+Bloodclaw Precision Light Missile, Qty: 40 (Cargo)
+

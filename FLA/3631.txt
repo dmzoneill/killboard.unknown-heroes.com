@@ -1,0 +1,29 @@
+2007.03.28 08:19
+
+Victim: Corovus
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Destroyed: Nemesis
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: illusha (laid the final blow)
+Security: -5.8
+Alliance: The SUdden Death Squad
+Corp: Halfwits
+Ship: Myrmidon
+Weapon: Warrior II
+
+
+Destroyed items:
+
+Spike S, Qty: 30
+Cataclysm Cruise Missile, Qty: 40
+'Arbalest' Cruise Launcher I
+'Arbalest' Cruise Launcher I
+Micro Auxiliary Power Core I
+Spike S, Qty: 543 (Cargo)
+Devastator Cruise Missile, Qty: 592 (Cargo)
+

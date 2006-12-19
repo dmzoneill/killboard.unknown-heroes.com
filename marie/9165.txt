@@ -1,0 +1,26 @@
+2007.05.02 03:45
+
+Victim: JadeSihaya
+Alliance: Storm Armada
+Corp: stone grave haulage
+Destroyed: Caldari Shuttle
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: FlobbMkII (laid the final blow)
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Eris
+Weapon: Light Ion Blaster II
+
+Name: Marie Veedor
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Caracal
+Weapon: Sabretooth Light Missile
+
+

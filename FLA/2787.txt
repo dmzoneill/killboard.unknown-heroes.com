@@ -1,0 +1,74 @@
+2007.03.07 01:33
+
+Victim: Mauy Thai
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Destroyed: Pilgrim
+System: YZ-LQL
+Security: 0.0
+
+Involved parties:
+
+Name: Slartibart'fast
+Security: 4.7
+Alliance: Xelas Alliance
+Corp: Rytiri Lva
+Ship: Harbinger
+Weapon: Harbinger
+
+Name: Maxit0
+Security: 1.3
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Caracal
+Weapon: Heavy Missile Launcher II
+
+Name: Lithel
+Security: -3.8
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Harbinger
+Weapon: Harbinger
+
+Name: Nevrin Derth (laid the final blow)
+Security: 5.0
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+Name: Fjury
+Security: 5.0
+Alliance: Xelas Alliance
+Corp: Rytiri Lva
+Ship: Rifter
+Weapon: 200mm AutoCannon I
+
+Name: MilaNoCZ
+Security: 5.0
+Alliance: Xelas Alliance
+Corp: Rytiri Lva
+Ship: Moa
+Weapon: Assault Missile Launcher I
+
+
+Destroyed items:
+
+Covert Ops Cloaking Device II
+Dread Guristas Medium Shield Booster
+Dark Blood Warp Disruptor
+Patterned Stasis Web I
+Inertia Stabilizers I
+Nanofiber Internal Structure I
+Medium C5-L Emergency Shield Overload I (Cargo)
+Medium Diminishing Power System Drain I, Qty: 3 (Cargo)
+Ditrigonal Thermal Barrier Crystallization I (Cargo)
+Ogre II (Cargo)
+Valkyrie II, Qty: 7 (Cargo)
+Wasp II (Cargo)
+Energized Adaptive Nano Membrane II, Qty: 3 (Cargo)
+Armor Thermic Hardener II (Cargo)
+800mm Reinforced Titanium Plates I (Cargo)
+Local Hull Conversion Overdrive Injector I (Cargo)
+Valkyrie II, Qty: 3 (Drone Bay)
+

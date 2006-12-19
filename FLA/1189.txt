@@ -1,0 +1,57 @@
+2007.03.08 06:44
+
+Victim: JJ Mercenary
+Alliance: None
+Corp: Sabrewulfe Technologies
+Destroyed: Hurricane
+System: Maut
+Security: 0.2
+
+Involved parties:
+
+Name: Serpentis Chief Protector / Serpentis Corporation
+
+Name: Moridin Bashere (laid the final blow)
+Security: -0.8
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Ship: Rupture
+Weapon: Warrior II
+
+
+Destroyed items:
+
+220mm Vulcan AutoCannon I
+220mm Vulcan AutoCannon I
+E50 Prototype Energy Vampire
+Phased Plasma M, Qty: 236
+Scourge Heavy Missile, Qty: 44
+Heavy Missile Launcher I
+J5 Prototype Warp Inhibitor I
+Patterned Stasis Web I
+Tracking Disruptor I
+Gyrostabilizer I
+Energized Basic Thermic Plating
+Nanofiber Internal Structure I
+Small Shield Booster I (Cargo)
+Medium Shield Booster I (Cargo)
+Monopropellant I Hydrazine Boosters (Cargo)
+1MN Afterburner I, Qty: 2 (Cargo)
+Rock-Scanning Sensor Array I (Cargo)
+Medium Capacitor Battery I, Qty: 2 (Cargo)
+Small Hull Repairer I (Cargo)
+Medium Hull Repairer I (Cargo)
+Stasis Webifier I, Qty: 3 (Cargo)
+Small Energy Neutralizer I, Qty: 2 (Cargo)
+Heavy Ion Blaster I, Qty: 2 (Cargo)
+Phased Plasma M, Qty: 3823 (Cargo)
+Uranium Charge M, Qty: 100 (Cargo)
+Thorium Charge M, Qty: 100 (Cargo)
+Remote Sensor Dampener I (Cargo)
+Tracking Link I, Qty: 2 (Cargo)
+Signal Amplifier I (Cargo)
+200mm Reinforced Titanium Plates I (Cargo)
+200mm Reinforced Nanofiber Plates I (Cargo)
+Serpentis Ship Log 598549355 (Cargo)
+Scourge Heavy Missile, Qty: 857 (Cargo)
+

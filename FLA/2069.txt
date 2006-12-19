@@ -1,0 +1,41 @@
+2007.01.19 22:49
+
+Victim: Kateryne
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Destroyed: Kestrel
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Chaser Wolf (laid the final blow)
+Security: 1.8
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Crow
+Weapon: Thorn Rocket
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 35
+Standard Missile Launcher I
+Standard Missile Launcher I
+Small Subordinate Screen Stabilizer I
+Cold-Gas I Arcjet Thrusters
+Micro Auxiliary Power Core I
+Ballistic Control System I
+Corpse, Qty: 2 (Cargo)
+Phased Monopropellant I Hydrazine Boosters (Cargo)
+Medium Pulse Laser II (Cargo)
+Dual Light Pulse Laser II, Qty: 2 (Cargo)
+Small Armor Repairer II (Cargo)
+Gamma S, Qty: 2 (Cargo)
+Multifrequency S, Qty: 4 (Cargo)
+Standard S, Qty: 2 (Cargo)
+Vespa I, Qty: 2 (Cargo)
+Micro Auxiliary Power Core I (Cargo)
+Conflagration S (Cargo)
+Target Painter I (Cargo)
+

@@ -1,0 +1,25 @@
+2007.01.01 22:47
+
+Victim: darkmyth
+Alliance: Freelancer Alliance
+Corp: X.T.R
+Destroyed: Prorator
+System: Oipo
+Security: 0.8
+
+Involved parties:
+
+Name: Fjerkenstad (laid the final blow)
+Security: -1.7
+Alliance: None
+Corp: omen.
+Ship: Taranis
+Weapon: Light Neutron Blaster II
+
+
+Destroyed items:
+
+Beta Hull Mod Expanded Cargo
+Beta Hull Mod Expanded Cargo
+Mexallon, Qty: 55000 (Cargo)
+

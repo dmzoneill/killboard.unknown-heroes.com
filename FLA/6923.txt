@@ -1,0 +1,156 @@
+2006.12.12 21:10
+
+Victim: TheAvatar
+Alliance: None
+Corp: 0utbreak
+Destroyed: Vagabond
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Loore (laid the final blow)
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Megathron
+Weapon: 425mm 'Scout' I Accelerator Cannon
+
+Name: Oldin Relic
+Security: 1.4
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Eagle
+Weapon: Eagle
+
+Name: Fahad
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Megathron
+Weapon: Megathron
+
+Name: Admiral Hunter
+Security: 3.2
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+Name: movy
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Vexor
+Weapon: Hornet I
+
+Name: Kolombus
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Thanatos
+Weapon: Firbolg
+
+Name: SinBin
+Security: 5.1
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Taranis
+Weapon: Hornet II
+
+Name: sulky
+Security: 1.1
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Kcyx
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Megathron
+Weapon: Megathron
+
+Name: J1NX
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Ferox
+Weapon: Ferox
+
+Name: TwilightMadcat
+Security: -1.1
+Alliance: Imperial Republic Of the North
+Corp: Port Royal Independent Kontractors
+Ship: Taranis
+Weapon: Taranis
+
+Name: GrandMastaXP
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+Name: d4ve
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Dominix
+Weapon: 'Abandon' Targeting Disruptor I
+
+Name: bidman
+Security: 4.7
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Blackbird
+Weapon: ECM - Multispectral Jammer I
+
+Name: Teck7
+Security: 0.8
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Lachesis
+Weapon: Remote Sensor Dampener II
+
+Name: Super Homer
+Security: 1.1
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Manticore
+Weapon: XT-9000 Cruise Launcher
+
+Name: Munch
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Armageddon
+Weapon: Tachyon Beam Laser II
+
+Name: Killer Angel
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: J.I.T. Enterprises
+Ship: Raven
+Weapon: Shock 'Limos' Siege Missile Bay I
+
+
+Destroyed items:
+
+Dual 180mm AutoCannon II
+Dual 180mm AutoCannon II
+220mm Vulcan AutoCannon II
+220mm Vulcan AutoCannon II
+Corpum A-Type Medium Nosferatu
+Barrage M, Qty: 66
+Large Shield Extender II
+Large Shield Extender II
+10MN MicroWarpdrive II
+Dark Blood Warp Disruptor
+Gyrostabilizer II
+425mm Railgun II, Qty: 3 (Cargo)
+Berserker II (Cargo)
+Sensor Booster II (Cargo)
+Barrage M, Qty: 4540 (Cargo)
+

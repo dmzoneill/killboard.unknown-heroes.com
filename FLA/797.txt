@@ -1,0 +1,26 @@
+2007.02.21 18:20
+
+Victim: Paulicia
+Alliance: None
+Corp: Coalition of Inter-Galactic Addicted Rodents
+Destroyed: Gallente Shuttle
+System: K4YZ-Y
+Security: 0.0
+
+Involved parties:
+
+Name: Daressek
+Security: 3.7
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Raptor
+Weapon: Fleeting Warp Scrambler I
+
+Name: Sanal Gi (laid the final blow)
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ferox
+Weapon: 250mm 'Scout' I Accelerator Cannon
+
+

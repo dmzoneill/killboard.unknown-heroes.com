@@ -1,0 +1,38 @@
+2006.09.09 14:58
+
+Victim: filin
+Alliance: R.I.S.K
+Corp: Yellow Wind
+Destroyed: Merlin
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Jumar Coldgin (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Harpy
+Weapon: 125mm Railgun II
+
+Name: Ione79
+Security: 2.4
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Taranis
+Weapon: Hobgoblin II
+
+
+Destroyed items:
+
+Piranha Light Missile, Qty: 32
+Standard Missile Launcher I
+Standard Missile Launcher I
+'Langour' Drive Disruptor I
+Monopropellant I Hydrazine Boosters (Cargo)
+100mm Reinforced Rolled Tungsten Plates I (Cargo)
+Piranha Light Missile, Qty: 1920 (Cargo)
+OE-5200 Rocket Launcher (Cargo)
+'Malkuth' Rocket Launcher I (Cargo)
+

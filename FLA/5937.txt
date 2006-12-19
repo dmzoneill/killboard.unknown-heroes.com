@@ -1,0 +1,45 @@
+2006.10.30 12:43
+
+Victim: Cosh
+Alliance: None
+Corp: NEXT LEVEL
+Destroyed: Vagabond
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Noitaakka (laid the final blow)
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Raven
+Weapon: Vespa II
+
+Name: Hosanna
+Security: 0.6
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: Wousr
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Stiletto
+Weapon: Fleeting Progressive Warp Scrambler I
+
+
+Destroyed items:
+
+220mm Vulcan AutoCannon II
+220mm Vulcan AutoCannon II
+220mm Vulcan AutoCannon II
+EMP M, Qty: 70
+Large Shield Extender II
+Gyrostabilizer II
+Warp Core Stabilizer I
+Gyrostabilizer II (Cargo)
+Barrage M, Qty: 1662 (Cargo)
+

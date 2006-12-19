@@ -1,0 +1,56 @@
+2007.04.27 16:08
+
+Victim: Bob Arko
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Rifter
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: white kight
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Nukuquqa Hestase (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Korudon
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Thorax
+Weapon: Vespa I
+
+Name: FlobbMkII
+Security: 4.4
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Eris
+Weapon: Light Ion Blaster II
+
+
+Destroyed items:
+
+150mm Light Gallium I Machine Gun
+150mm Light AutoCannon I
+Phased Plasma S, Qty: 53
+Flameburst Light Missile, Qty: 26
+J5 Prototype Warp Inhibitor I
+100mm Reinforced Rolled Tungsten Plates I
+Overdrive Injector System I
+Indirect Scanning Dampening Unit I (Cargo)
+F-90 Positional Sensor Subroutines (Cargo)
+Flameburst Light Missile, Qty: 120 (Cargo)
+Paradise Cruise Missile, Qty: 212 (Cargo)
+Wrath Cruise Missile, Qty: 250 (Cargo)
+Overdrive Injector System II (Cargo)
+

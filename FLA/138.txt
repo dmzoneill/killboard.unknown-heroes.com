@@ -1,0 +1,32 @@
+2007.01.13 23:16
+
+Victim: trilock
+Alliance: None
+Corp: State War Academy
+Destroyed: Cormorant
+System: Tama
+Security: 0.3
+
+Involved parties:
+
+Name: Sorlac Aurora (laid the final blow)
+Security: 3.3
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Caracal
+Weapon: Torrent Assault Missile
+
+
+Destroyed items:
+
+200mm Light Gallium I Machine Gun
+150mm Compressed Coil Gun I
+Fusion S, Qty: 23
+Piranha Light Missile, Qty: 38
+'Malkuth' Standard Missile Launcher I
+100mm Reinforced Rolled Tungsten Plates I
+Small Energy Transfer Array I (Cargo)
+Tungsten Charge S, Qty: 435 (Cargo)
+Guristas Ship Log 398560763 (Cargo)
+Piranha Light Missile, Qty: 455 (Cargo)
+

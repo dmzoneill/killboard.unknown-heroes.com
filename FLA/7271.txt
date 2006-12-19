@@ -1,0 +1,76 @@
+2006.07.13 16:14
+
+Victim: Nizdaar
+Alliance: Sparta Alliance
+Corp: GalacTECH Unlimited
+Destroyed: Thorax
+System: U-TJ7Y
+Security: 0.0
+
+Involved parties:
+
+Name: Jumar Coldgin
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Harpy
+Weapon: Harpy
+
+Name: Leafo (laid the final blow)
+Security: -0.3
+Alliance: Mercenary Coalition
+Corp: North Star Networks
+Ship: Cerberus
+Weapon: Scourge Heavy Missile
+
+Name: Matt Stoner
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Caracal
+Weapon: Bloodclaw Light Missile
+
+Name: Bolinar
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Dominix
+Weapon: Induced Multispectral ECM I
+
+Name: Shiri elAzarinres
+Security: 4.1
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Kestrel
+Weapon: J5b Phased Prototype Warp Inhibitor I
+
+Name: Wladomir Jed
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: North Star Networks
+Ship: Hawk
+Weapon: Upgraded 'Limos' Standard Missile Bay I
+
+Name: Narmer
+Security: 6.4
+Alliance: Mercenary Coalition
+Corp: North Star Networks
+Ship: Falcon
+Weapon: 'Umbra' I White Noise ECM
+
+Name: Eleese
+Security: 1.3
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Ishtar
+Weapon: Ishtar
+
+
+Destroyed items:
+
+Heavy Neutron Blaster I
+Thorium Charge M, Qty: 75
+10MN MicroWarpdrive I
+Warp Disruptor I
+Medium Armor Repairer I
+

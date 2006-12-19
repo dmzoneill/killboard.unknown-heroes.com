@@ -1,0 +1,40 @@
+2006.08.14 04:17
+
+Victim: Seonae
+Alliance: None
+Corp: GalacTECH Unlimited
+Destroyed: Ares
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: A'ruhn
+Security: 2.4
+Alliance: Freelancer Alliance
+Corp: EVE MegaCorp Association
+Ship: Vexor
+Weapon: Initiated Harmonic Warp Jammer I
+
+Name: Jessica McDaniel
+Security: -0.4
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Caracal
+Weapon: Acolyte I
+
+Name: Th3 HuNt3r (laid the final blow)
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: EVE MegaCorp Association
+Ship: Raven
+Weapon: Wrath Cruise Missile
+
+
+Destroyed items:
+
+125mm Railgun II
+Thorium Charge S, Qty: 85
+'Malkuth' Standard Missile Launcher I
+Seeker F.O.F. Light Missile I, Qty: 1147 (Cargo)
+

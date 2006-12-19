@@ -1,0 +1,30 @@
+2007.03.22 19:26
+
+Victim: Frau Formaggio
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Blackbird
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Yushii (laid the final blow)
+Security: -0.3
+Alliance: Triumvirate.
+Corp: ViperSquad
+Ship: Vagabond
+Weapon: Dual 180mm AutoCannon II
+
+
+Destroyed items:
+
+'Malkuth' Heavy Assault Missile Launcher I
+Heavy Assault Missile Launcher I
+ECM - Spatial Destabilizer II
+Conjunctive Gravimetric ECCM Scanning Array I
+Kapteyn Sensor Array Inhibitor I
+Compulsive Signal Distortion Amplifier I
+'Hypnos' Signal Distortion Amplifier I
+Fulmination Assault Missile, Qty: 100 (Cargo)
+

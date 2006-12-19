@@ -1,0 +1,30 @@
+2006.09.23 05:07
+
+Victim: HY 32tec
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Destroyed: Moa
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Jovius Marginus (laid the final blow)
+Security: -0.4
+Alliance: Firmus Ixion
+Corp: Black Avatar
+Ship: Vagabond
+Weapon: Dual 180mm AutoCannon II
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Medium Nosferatu I
+Medium Nosferatu I
+Widowmaker Heavy Missile, Qty: 25
+Advanced 'Limos' Heavy Missile Bay I
+Invulnerability Field I
+Invulnerability Field I
+Acolyte I, Qty: 3 (Drone Bay)
+

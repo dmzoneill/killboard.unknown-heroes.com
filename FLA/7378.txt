@@ -1,0 +1,74 @@
+2006.08.27 21:42
+
+Victim: Raste
+Alliance: Lotka Volterra
+Corp: Shinra
+Destroyed: Tempest
+System: WUZ-WM
+Security: 0.0
+
+Involved parties:
+
+Name: Kolombus
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Thanatos
+Weapon: Einherji
+
+Name: Demarcus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Rook
+Weapon: Widowmaker Precision Heavy Missile
+
+Name: jacass66
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Thanatos
+Weapon: Templar
+
+Name: Kazagaroth
+Security: -0.4
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Tempest
+Weapon: Tempest
+
+Name: Kiztent (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Tempest
+Weapon: Wrath Cruise Missile
+
+Name: shekat khlorblaster
+Security: 1.8
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Thorax
+Weapon: Warp Disruptor I
+
+Name: Wolfman Apocalypse
+Security: 4.1
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Scorpion
+Weapon: Compulsive Multispectral ECM I
+
+
+Destroyed items:
+
+1400mm 'Scout' Artillery I
+1400mm 'Scout' Artillery I
+Carbonized Lead L, Qty: 27
+Devastator Cruise Missile, Qty: 18
+F-90 Positional Sensor Subroutines
+Gyrostabilizer II
+Tracking Enhancer II
+Tracking Enhancer II
+Devastator Cruise Missile, Qty: 1020 (Cargo)
+Warrior I (Drone Bay)
+

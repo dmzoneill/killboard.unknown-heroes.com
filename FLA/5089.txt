@@ -1,0 +1,33 @@
+2007.04.22 01:25
+
+Victim: Kaand
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Thorax
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Orange Species (laid the final blow)
+Security: -2.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Ragnarok
+Weapon: Gjallarhorn
+
+
+Destroyed items:
+
+Heavy Neutron Blaster I
+Heavy Neutron Blaster I
+Antimatter Charge M, Qty: 160
+10MN MicroWarpdrive I
+Stasis Webifier I
+Small Armor Repairer I
+Energized Adaptive Nano Membrane I
+Energized Reactive Membrane I
+Reactor Control Unit I
+Antimatter Charge M, Qty: 3098 (Cargo)
+Hammerhead I, Qty: 2 (Drone Bay)
+

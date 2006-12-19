@@ -1,0 +1,53 @@
+2007.02.02 22:48
+
+Victim: GrandMastaXP
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Drake
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Dire Guristas Despoiler / Guristas
+
+Name: Murdoch Morf (laid the final blow)
+Security: 1.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Typhoon
+Weapon: Ogre I
+
+
+Destroyed items:
+
+Terror Assault Missile, Qty: 528
+XT-2800 Heavy Assault Missile Launcher I
+XT-2800 Heavy Assault Missile Launcher I
+Large Shield Booster II
+Heat Dissipation Field II
+Ballistic Deflection Field II
+Shield Boost Amplifier I
+Ballistic Control System II
+Large Shield Booster I, Qty: 3 (Cargo)
+Large Murky Shield Screen Transmitter I (Cargo)
+Cap Recharger I, Qty: 2 (Cargo)
+Fixed Parallel Link-Capacitor I (Cargo)
+Cargo Scanner I (Cargo)
+Ship Scanner I (Cargo)
+Small Hull Repairer I (Cargo)
+Medium Energy Transfer Array I (Cargo)
+Small Proton Smartbomb I, Qty: 2 (Cargo)
+350mm Railgun I (Cargo)
+Medium F-RX Prototype I Capacitor Boost (Cargo)
+ECCM - Gravimetric I (Cargo)
+Guristas Ship Log 524785540 (Cargo)
+Cruise Missile Launcher I (Cargo)
+Damaged Artificial Neural Network (Cargo)
+Malfunctioning Shield Emitter, Qty: 7 (Cargo)
+Tripped Power Circuit, Qty: 8 (Cargo)
+Ward Console, Qty: 5 (Cargo)
+Power Diagnostic System I, Qty: 2 (Cargo)
+Type-D Power Core Modification: Diagnostic System (Cargo)
+Hornet I, Qty: 4 (Drone Bay)
+

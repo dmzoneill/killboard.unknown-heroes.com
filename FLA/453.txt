@@ -1,0 +1,54 @@
+2007.02.04 05:56
+
+Victim: arsuf
+Alliance: Apocalyptica.
+Corp: Palatinii Sacri Legio
+Destroyed: Arbitrator
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: GuerillaMan
+Security: 4.3
+Alliance: Insane Asylum
+Corp: PILGRIMS
+Ship: Rokh
+Weapon: Rokh
+
+Name: dastommy79 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Blackbird
+Weapon: Flameburst Light Missile
+
+Name: talonmaster77
+Security: 0.6
+Alliance: None
+Corp: The Capital Consortium
+Ship: Catalyst
+Weapon: Warp Disruptor I
+
+
+Destroyed items:
+
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Small Remote Armor Repair System I
+10MN Afterburner I
+Initiated Warp Jammer I
+Stasis Webifier I
+Tracking Disruptor I
+400mm Reinforced Nanofiber Plates I
+400mm Reinforced Nanofiber Plates I
+400mm Reinforced Steel Plates I
+'Malkuth' Heavy Missile Launcher I (Cargo)
+Burned Logic Circuit, Qty: 5 (Cargo)
+Acolyte I, Qty: 3 (Drone Bay)
+Vespa I (Drone Bay)
+

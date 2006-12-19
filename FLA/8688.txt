@@ -1,0 +1,49 @@
+2006.12.06 22:17
+
+Victim: Bobby Atlas
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Megathron
+System: 3QE-9Q
+Security: 0.0
+
+Involved parties:
+
+Name: Kandoria
+Security: -0.5
+Alliance: Establishment
+Corp: The Establishment
+Ship: Raven
+Weapon: Mjolnir Torpedo
+
+Name: Goberth Ludwig (laid the final blow)
+Security: 4.9
+Alliance: Establishment
+Corp: The Establishment
+Ship: Dominix
+Weapon: Ogre II
+
+Name: Khorgal
+Security: 0.2
+Alliance: Establishment
+Corp: The Establishment
+Ship: Crow
+Weapon: 'Arbalest' Rocket Launcher I
+
+
+Destroyed items:
+
+425mm Prototype I Gauss Gun
+425mm Prototype I Gauss Gun
+425mm Prototype I Gauss Gun
+425mm Prototype I Gauss Gun
+Uranium Charge L, Qty: 60
+Cap Booster 800
+Incremental Magnetometric ECCM Scanning Array I
+Armor Kinetic Hardener II
+Armor Kinetic Hardener II
+N-Type Thermic Hardener I
+Uranium Charge L, Qty: 4743 (Cargo)
+Plutonium Charge L, Qty: 1077 (Cargo)
+Cap Booster 800, Qty: 12 (Cargo)
+

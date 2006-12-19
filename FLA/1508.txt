@@ -1,0 +1,30 @@
+2007.03.15 01:48
+
+Victim: ZAX0236
+Alliance: Axiom Empire
+Corp: United Society Starfleet
+Destroyed: Crow
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Tregaron (laid the final blow)
+Security: 2.0
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Thrasher
+Weapon: 200mm AutoCannon II
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 124
+Standard Missile Launcher II
+F-b10 Nominal Capacitor Regenerator
+1MN MicroWarpdrive II
+Warp Disruptor II
+Local Hull Conversion Inertial Stabilizers I
+Local Hull Conversion Inertial Stabilizers I
+Local Hull Conversion Inertial Stabilizers I
+

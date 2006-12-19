@@ -1,0 +1,35 @@
+2007.03.06 21:22
+
+Victim: happy wen
+Alliance: Xelas Alliance
+Corp: Fallen Angel's
+Destroyed: Raven
+System: O-PNSN
+Security: 0.0
+
+Involved parties:
+
+Name: Mauy Thai (laid the final blow)
+Security: -1.4
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Curse
+Weapon: Valkyrie II
+
+Name: Serpentis Grand Admiral / Serpentis Corporation
+
+
+Destroyed items:
+
+Juggernaut Torpedo, Qty: 36
+ZW-4100 Siege Missile Bay
+ZW-4100 Siege Missile Bay
+X-Large C5-L Emergency Shield Overload I
+F-b10 Nominal Capacitor Regenerator
+Heat Dissipation Field II
+Nanoelectrical Co-Processor
+Mark I Generator Refitting: Diagnostic System
+Mjolnir Torpedo, Qty: 500 (Cargo)
+Vespa I, Qty: 3 (Drone Bay)
+Valkyrie I (Drone Bay)
+

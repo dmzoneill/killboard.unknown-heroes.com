@@ -1,0 +1,33 @@
+2007.03.11 05:06
+
+Victim: DisGuyzCrAzY
+Alliance: United Confederation of Corporations
+Corp: Industrial Warlords
+Destroyed: Capsule
+System: 7D-0SQ
+Security: 0.0
+
+Involved parties:
+
+Name: arthell (laid the final blow)
+Security: 2.9
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Ishkur
+Weapon: 150mm Carbide Railgun I
+
+Name: Cyrila Wolf
+Security: -2.2
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: Xerxes Vorian
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Punisher
+Weapon: Punisher
+
+

@@ -1,0 +1,26 @@
+2007.04.08 19:14
+
+Victim: Seros Kal
+Alliance: None
+Corp: Imperial Academy
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Meh'lindi
+Security: 4.4
+Alliance: Darklite inc Alliance
+Corp: Darklite inc
+Ship: Enyo
+Weapon: 150mm Railgun II
+
+Name: Jarath Abyss (laid the final blow)
+Security: 4.2
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Ship: Thorax
+Weapon: 200mm Railgun II
+
+

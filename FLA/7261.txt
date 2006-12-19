@@ -1,0 +1,33 @@
+2006.07.12 14:10
+
+Victim: otr99
+Alliance: Sparta Alliance
+Corp: Red Monkey Faction
+Destroyed: Capsule
+System: 3T7-M8
+Security: 0.0
+
+Involved parties:
+
+Name: Jumar Coldgin (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: Akkijee
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Jaguar
+Weapon: 200mm AutoCannon II
+
+Name: Ione79
+Security: 2.4
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Taranis
+Weapon: Taranis
+
+

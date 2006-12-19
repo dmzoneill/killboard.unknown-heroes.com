@@ -1,0 +1,47 @@
+2006.12.06 16:03
+
+Victim: Formosus Funus
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Destroyed: Rupture
+System: Mara
+Security: 0.4
+
+Involved parties:
+
+Name: noktamid (laid the final blow)
+Security: -9.1
+Alliance: iPOD Alliance
+Corp: Bambooule
+Ship: Arazu
+Weapon: Hammerhead II
+
+Name: Htrag
+Security: -9.7
+Alliance: Caldari Deep Space Industral
+Corp: Caldari Deep Space Navy
+Ship: Typhoon
+Weapon: Heavy Diminishing Power System Drain I
+
+Name: SFShootme
+Security: -2.3
+Alliance: Caldari Deep Space Industral
+Corp: Caldari Deep Space Ventures
+Ship: Ferox
+Weapon: Hornet I
+
+
+Destroyed items:
+
+220mm Medium Prototype I Automatic Cannon
+Dual 180mm Gallium I Machine Gun
+220mm Medium 'Scout' Autocannon I
+EMP M, Qty: 72
+'Arbalest' Assault Missile Launcher
+'Arbalest' Assault Missile Launcher
+Y-S8 Hydrocarbon I Afterburners
+J5 Prototype Warp Inhibitor I
+N-Type Explosive Hardener I
+Fusion M, Qty: 1870 (Cargo)
+Bloodclaw Light Missile, Qty: 116 (Cargo)
+

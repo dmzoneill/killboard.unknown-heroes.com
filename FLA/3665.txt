@@ -1,0 +1,47 @@
+2007.03.28 20:05
+
+Victim: Brin Milo
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Destroyed: Cormorant
+System: P-2TTL
+Security: 0.0
+
+Involved parties:
+
+Name: numbers (laid the final blow)
+Security: 4.1
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Zealot
+Weapon: Heavy Beam Laser II
+
+Name: Nuwa
+Security: 1.4
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Eris
+Weapon: Eris
+
+Name: Wladomir Jed
+Security: 3.7
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Rook
+Weapon: ECM - Multispectral Jammer II
+
+
+Destroyed items:
+
+Light Neutron Blaster I
+Light Neutron Blaster I
+Light Neutron Blaster I
+Plutonium Charge S, Qty: 400
+Foxfire Rocket, Qty: 30
+Barton Reactor Capacitor Recharger I
+1MN MicroWarpdrive I
+J5b Phased Prototype Warp Inhibitor I
+Remote Sensor Dampener I
+Plutonium Charge S, Qty: 17280 (Cargo)
+Foxfire Rocket, Qty: 2970 (Cargo)
+

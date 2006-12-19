@@ -1,0 +1,40 @@
+2007.05.21 20:55
+
+Victim: Eliptic
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Kvarium Ki (laid the final blow)
+Security: 2.3
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Muninn
+Weapon: 720mm Howitzer Artillery II
+
+Name: silent uk
+Security: 2.5
+Alliance: DeStInY.
+Corp: Sacred Templars
+Ship: Heretic
+Weapon: Sabretooth Light Missile
+
+Name: Dibbes
+Security: 0.1
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Taranis
+Weapon: Taranis
+
+Name: Miss Sparkles
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Griffin
+Weapon: Upgraded 'Limos' Standard Missile Bay I
+
+

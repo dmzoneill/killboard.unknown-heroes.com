@@ -1,0 +1,33 @@
+2007.04.10 09:20
+
+Victim: johanladon
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Destroyed: Damnation
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Sedith (laid the final blow)
+Security: 1.7
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Aeon
+Weapon: Dragonfly
+
+
+Destroyed items:
+
+Heavy Pulse Laser II
+Heavy Pulse Laser II
+Heavy Pulse Laser II
+Xray M
+'Langour' Drive Disruptor I
+Medium Electrochemical Capacitor Booster I
+Medium Armor Repairer II
+Energized Adaptive Nano Membrane II
+Armor Thermic Hardener II
+Armor Kinetic Hardener II
+Xray M, Qty: 2 (Cargo)
+

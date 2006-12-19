@@ -1,0 +1,33 @@
+2007.02.08 00:43
+
+Victim: Rhaall
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Crucifier
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: sopmac1
+Security: -1.5
+Alliance: Veto Corp
+Corp: Veto. Academy
+Ship: Prophecy
+Weapon: Prophecy
+
+Name: Brisi (laid the final blow)
+Security: 0.9
+Alliance: Veto Corp
+Corp: Veto.
+Ship: Absolution
+Weapon: Heavy Pulse Laser II
+
+
+Destroyed items:
+
+Small Nosferatu I
+'Langour' Drive Disruptor I
+Energized Adaptive Nano Membrane I
+Inertia Stabilizers I
+

@@ -1,0 +1,31 @@
+2006.10.06 21:28
+
+Victim: Quninella
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Destroyed: Vexor
+System: Sobaseki
+Security: 0.8
+
+Involved parties:
+
+Name: Onin Ra (laid the final blow)
+Security: 1.1
+Alliance: None
+Corp: Privateers
+Ship: Megathron
+Weapon: 425mm 'Scout' I Accelerator Cannon
+
+
+Destroyed items:
+
+Small 'Knave' I Energy Drain
+150mm Railgun I
+Iridium Charge S, Qty: 40
+Basic Damage Control
+Warp Disruptor I (Cargo)
+Iridium Charge S, Qty: 339 (Cargo)
+Hobgoblin I (Drone Bay)
+Warrior I (Drone Bay)
+Hornet I, Qty: 3 (Drone Bay)
+

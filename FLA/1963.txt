@@ -1,0 +1,39 @@
+2007.01.12 23:50
+
+Victim: white kight
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Blackbird
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: SATAN (laid the final blow)
+Security: -0.8
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+Name: Captain Rickdick
+Security: 0.1
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Cruise Missile Launcher II
+
+
+Destroyed items:
+
+Thunderbolt Heavy Missile, Qty: 30
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Stasis Webifier I
+Stasis Webifier I
+Induced Multispectral ECM I
+Induced Multispectral ECM I
+Sensor Booster I
+Thunderbolt Heavy Missile, Qty: 30 (Cargo)
+Widowmaker Heavy Missile, Qty: 29 (Cargo)
+

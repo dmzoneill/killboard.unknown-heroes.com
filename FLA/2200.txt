@@ -1,0 +1,36 @@
+2007.01.28 18:05
+
+Victim: arthell
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Destroyed: Celestis
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: EL TITAN (laid the final blow)
+Security: 1.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Vagabond
+Weapon: Dual 180mm AutoCannon II
+
+Name: RagedyMan
+Security: 1.9
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Nighthawk
+Weapon: Heavy Missile Launcher II
+
+
+Destroyed items:
+
+Small Nosferatu I
+Small Nosferatu I
+Medium Remote Armor Repair System I
+F-90 Positional Sensor Subroutines
+Medium Armor Repairer I
+800mm Reinforced Steel Plates I
+Hobgoblin I, Qty: 2 (Drone Bay)
+

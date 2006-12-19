@@ -1,0 +1,49 @@
+2007.03.11 10:04
+
+Victim: NesheresH
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Destroyed: Cyclone
+System: E-Z2ZX
+Security: 0.0
+
+Involved parties:
+
+Name: ZIQUET
+Security: 4.6
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Thorax
+Weapon: Hammerhead I
+
+Name: Rinkos Alaine (laid the final blow)
+Security: 5.0
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Thorax
+Weapon: Regulated Ion Phase Cannon I
+
+Name: drakandu
+Security: 0.8
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Blackbird
+Weapon: Heavy Missile Launcher I
+
+
+Destroyed items:
+
+720mm Prototype I Siege Cannon
+720mm Prototype I Siege Cannon
+720mm Gallium I Cannon
+Nuclear M, Qty: 13
+Carbonized Lead M, Qty: 11
+Thunderbolt Heavy Missile, Qty: 94
+'Malkuth' Heavy Missile Launcher I
+Kapteyn Sensor Array Inhibitor I
+Optical Tracking Computer I
+Monopulse Tracking Mechanism I
+Cross-Lateral Gyrostabilizer I
+Cross-Lateral Gyrostabilizer I
+Cross-Lateral Gyrostabilizer I
+

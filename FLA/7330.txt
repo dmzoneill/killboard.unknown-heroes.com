@@ -1,0 +1,39 @@
+2006.08.11 14:35
+
+Victim: Oli4Oli4
+Alliance: Ascendant Frontier
+Corp: The Syndicate Inc
+Destroyed: Rifter
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Carl tabot (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Raven
+Weapon: Inferno Javelin Torpedo
+
+Name: Ghu'ru Talozan
+Security: 2.9
+Alliance: None
+Corp: Quasar Industries
+Ship: Ishkur
+Weapon: Ishkur
+
+
+Destroyed items:
+
+125mm Gatling AutoCannon I
+125mm Gatling AutoCannon I
+EMP S, Qty: 200
+Phased Plasma S, Qty: 117
+Rocket Launcher I
+'Langour' Drive Disruptor I
+Warp Core Stabilizer I
+EMP S, Qty: 1129 (Cargo)
+Phased Plasma S, Qty: 883 (Cargo)
+Foxfire Rocket, Qty: 372 (Cargo)
+

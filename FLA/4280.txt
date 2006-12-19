@@ -1,0 +1,53 @@
+2007.04.06 09:50
+
+Victim: Danielson1012
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Destroyed: Blackbird
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Anomaly21 (laid the final blow)
+Security: -1.0
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Xordus
+Security: 0.5
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Nipplator
+Security: -0.5
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Sexorella hotz
+Security: 2.8
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Stiletto
+Weapon: Warp Disruptor II
+
+
+Destroyed items:
+
+250mm 'Scout' I Accelerator Cannon
+Havoc Heavy Missile, Qty: 31
+'Malkuth' Heavy Missile Launcher I
+Medium C5-L Emergency Shield Overload I
+ECM - Multispectral Jammer I
+Alumel-Wired I Sensor Augmentation
+Induced Signal Distortion Amplifier I
+Antimatter Charge M, Qty: 100 (Cargo)
+Iron Charge M, Qty: 60 (Cargo)
+Scourge Heavy Missile, Qty: 150 (Cargo)
+

@@ -1,0 +1,44 @@
+2007.04.29 03:33
+
+Victim: Admentus Cor'vion
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Destroyed: Taranis
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: FlobbMkII
+Security: 4.4
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Capsule
+Weapon: Light Ion Blaster II
+
+Name: Bobby Atlas
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Celestis
+Weapon: Thunderbolt Heavy Missile
+
+Name: Nukuquqa Hestase (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Crow
+Weapon: Piranha Light Missile
+
+
+Destroyed items:
+
+Iron Charge S, Qty: 61
+Phased Monopropellant I Hydrazine Boosters
+X5 Prototype I Engine Enervator
+Micro Auxiliary Power Core I
+Antimatter Charge S, Qty: 1447 (Cargo)
+Dread Guristas Iron Charge S, Qty: 1000 (Cargo)
+Iron Charge S, Qty: 2157 (Cargo)
+Javelin S, Qty: 750 (Cargo)
+Spike S, Qty: 750 (Cargo)

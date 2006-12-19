@@ -1,0 +1,41 @@
+2007.03.03 22:09
+
+Victim: Mouser Maze
+Alliance: Freelancer Alliance
+Corp: The Night Crew
+Destroyed: Raven
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: zeroh (laid the final blow)
+Security: -6.4
+Alliance: Fatal Persuasion
+Corp: The Black Rabbits
+Ship: Typhoon
+Weapon: Mjolnir Torpedo
+
+Name: DeathBunny II
+Security: -4.4
+Alliance: Fatal Persuasion
+Corp: The Black Rabbits
+Ship: Arazu
+Weapon: Phased Muon Sensor Disruptor I
+
+
+Destroyed items:
+
+Heavy Diminishing Power System Drain I
+Heavy Diminishing Power System Drain I
+Mjolnir Torpedo, Qty: 13
+Devastator Cruise Missile, Qty: 19
+Paradise Cruise Missile, Qty: 19
+'Arbalest' Cruise Launcher I
+'Arbalest' Cruise Launcher I
+'Arbalest' Siege Missile Launcher
+Shield Boost Amplifier I
+Power Diagnostic System II
+Juggernaut Torpedo, Qty: 3600 (Cargo)
+Devastator Cruise Missile, Qty: 360 (Cargo)
+

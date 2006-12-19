@@ -1,0 +1,38 @@
+2007.04.14 13:32
+
+Victim: Jarath Abyss
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Destroyed: Thorax
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Milo Deadstar
+Security: -0.5
+Alliance: None
+Corp: Exit 13
+Ship: Myrmidon
+Weapon: Warrior II
+
+Name: Hans Blix (laid the final blow)
+Security: 1.0
+Alliance: None
+Corp: Exit 13
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+
+Destroyed items:
+
+200mm Railgun II
+200mm Railgun II
+Spike M, Qty: 240
+Sensor Booster II
+N-Type Thermic Hardener I
+Armor Kinetic Hardener I
+Beta Reactor Control: Reaction Control I
+Antimatter Charge M, Qty: 1000 (Cargo)
+Javelin M, Qty: 931 (Cargo)
+

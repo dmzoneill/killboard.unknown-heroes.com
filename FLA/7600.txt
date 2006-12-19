@@ -1,0 +1,30 @@
+2006.09.24 10:48
+
+Victim: boo3916
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Destroyed: Crow
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Cockroach (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Vengeance
+Weapon: Medium Beam Laser II
+
+Name: Francis Verdictio
+Security: 4.5
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Taranis
+Weapon: 125mm Railgun II
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 39
+

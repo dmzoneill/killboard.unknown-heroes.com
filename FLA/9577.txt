@@ -1,0 +1,33 @@
+2007.05.19 08:12
+
+Victim: zhangxigen
+Alliance: None
+Corp: School of Applied Knowledge
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Ocara Nezus (laid the final blow)
+Security: 1.5
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Crow
+Weapon: Bloodclaw Fury Light Missile
+
+Name: wardey
+Security: 0.6
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Crusader
+Weapon: Dual Light Beam Laser II
+
+Name: Amarrian Bringer
+Security: 1.3
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Malediction
+Weapon: Upgraded 'Limos' Standard Missile Bay I
+
+

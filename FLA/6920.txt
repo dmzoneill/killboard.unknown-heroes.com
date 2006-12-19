@@ -1,0 +1,75 @@
+2006.12.12 20:40
+
+Victim: Castor IV
+Alliance: None
+Corp: 0utbreak
+Destroyed: Capsule
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Rustiko
+Security: 4.7
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Helios
+Weapon: Hornet I
+
+Name: Banishment (laid the final blow)
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Sin-X Inc.
+Ship: Incursus
+Weapon: 150mm Railgun I
+
+Name: Wolf333
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: THeOThErs
+Ship: Caracal
+Weapon: Heavy Missile Launcher I
+
+Name: Tiree
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Punisher
+Weapon: Remote Sensor Dampener I
+
+Name: Super Homer
+Security: 1.1
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Manticore
+Weapon: XT-9000 Cruise Launcher
+
+Name: Kremnican
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Blackbird
+Weapon: XR-3200 Heavy Missile Bay
+
+Name: Karnovsky
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Unknown
+Weapon: 200mm AutoCannon II
+
+Name: GrandMastaXP
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Eagle
+Weapon: Target Painter II
+
+Name: Gery Zon
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Veturi
+Ship: Lachesis
+Weapon: Low Frequency Sensor Suppressor I
+
+

@@ -1,0 +1,145 @@
+2007.05.06 02:09
+
+Victim: Wraithstorm
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Thanatos
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Akuma Ichiro
+Security: 4.9
+Alliance: RAZOR Alliance
+Corp: Cutting Edge Incorporated
+Ship: Archon
+Weapon: Templar
+
+Name: Intensity Green
+Security: -1.4
+Alliance: RAZOR Alliance
+Corp: Cutting Edge Incorporated
+Ship: Thanatos
+Weapon: Einherji
+
+Name: Catherina sforza (laid the final blow)
+Security: 1.3
+Alliance: RAZOR Alliance
+Corp: Cutting Edge Incorporated
+Ship: Thanatos
+Weapon: Templar
+
+Name: Lonagan
+Security: 0.0
+Alliance: RAZOR Alliance
+Corp: Cutting Edge Incorporated
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Chequrself
+Security: -0.4
+Alliance: RAZOR Alliance
+Corp: Cutting Edge Incorporated
+Ship: Hyperion
+Weapon: Ion Blaster Cannon II
+
+Name: Elven Star
+Security: 1.7
+Alliance: RAZOR Alliance
+Corp: Cutting Edge Incorporated
+Ship: Archon
+Weapon: Dragonfly
+
+Name: Centura
+Security: 3.9
+Alliance: RAZOR Alliance
+Corp: Cutting Edge Incorporated
+Ship: Megathron
+Weapon: Megathron
+
+Name: Ernest Graefenberg
+Security: -1.0
+Alliance: RAZOR Alliance
+Corp: Cutting Edge Incorporated
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+Name: Captain Irregardless
+Security: 0.7
+Alliance: RAZOR Alliance
+Corp: DAB
+Ship: Megathron
+Weapon: Warrior II
+
+Name: pylons38
+Security: 4.9
+Alliance: RAZOR Alliance
+Corp: Cutting Edge Incorporated
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Crushall
+Security: 5.0
+Alliance: The Foundation.
+Corp: NorCorp Security
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+Name: UberDefDef
+Security: -1.2
+Alliance: RAZOR Alliance
+Corp: Roving Guns Inc.
+Ship: Curse
+Weapon: Warrior II
+
+Name: Baddias Mongo
+Security: 1.5
+Alliance: RAZOR Alliance
+Corp: Cutting Edge Incorporated
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: haz zard
+Security: -2.3
+Alliance: The Foundation.
+Corp: Cornerstone Unlimited
+Ship: Thorax
+Weapon: Light Electron Blaster II
+
+Name: Mufeater
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Nemesis
+Weapon: 125mm Railgun II
+
+Name: xHomicide
+Security: 3.3
+Alliance: RAZOR Alliance
+Corp: Cutting Edge Incorporated
+Ship: Stiletto
+Weapon: Warp Disruptor II
+
+Name: Princess Dread
+Security: 5.0
+Alliance: RAZOR Alliance
+Corp: Cutting Edge Incorporated
+Ship: Falcon
+Weapon: 'Hypnos' Ion Field ECM I
+
+
+Destroyed items:
+
+Drone Control Unit I
+Armor Explosive Hardener II
+Armor Kinetic Hardener II
+Curator I, Qty: 37 (Drone Bay)
+Ogre II, Qty: 6 (Drone Bay)
+Hammerhead I, Qty: 30 (Drone Bay)
+Hobgoblin I, Qty: 4 (Drone Bay)
+Einherji, Qty: 2 (Drone Bay)
+Firbolg (Drone Bay)
+Dragonfly (Drone Bay)
+Templar, Qty: 4 (Drone Bay)
+

@@ -1,0 +1,47 @@
+2007.03.14 18:14
+
+Victim: Xoduse
+Alliance: YouWhat
+Corp: Beasts of Burden
+Destroyed: Celestis
+System: XZH-4X
+Security: 0.0
+
+Involved parties:
+
+Name: mrrabit (laid the final blow)
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Tempest
+Weapon: 1400mm Carbine Howitzer I
+
+Name: Admiral Hunter
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Capsule
+Weapon: Fleeting Warp Scrambler I
+
+Name: alon blackhelm
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Myrmidon
+Weapon: Myrmidon
+
+Name: Muad' Dib
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Stiletto
+Weapon: Fleeting Warp Scrambler I
+
+
+Destroyed items:
+
+250mm 'Scout' I Accelerator Cannon, Qty: 2
+Iridium Charge M, Qty: 69
+'Langour' Drive Disruptor I
+Remote Sensor Dampener II, Qty: 2
+Antimatter Charge M, Qty: 4698 (Cargo)

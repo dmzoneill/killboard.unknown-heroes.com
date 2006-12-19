@@ -1,0 +1,75 @@
+2006.11.18 20:20
+
+Victim: Minira Rocha
+Alliance: The OSS
+Corp: OMEGA DIRECTIVE
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Aquamundi
+Security: 2.9
+Alliance: Dusk and Dawn
+Corp: Asgard Schiffswerften
+Ship: Taranis
+Weapon: Taranis
+
+Name: Gamer1K
+Security: 4.6
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Crow
+Weapon: Crow
+
+Name: Almagar Phog (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Raptor
+Weapon: 125mm Railgun II
+
+Name: Grifter Treysik
+Security: 4.1
+Alliance: Freelancer Alliance
+Corp: Caldar Mercenary Syndicate
+Ship: Ishkur
+Weapon: 125mm Prototype I Gauss Gun
+
+Name: raiiar
+Security: 3.4
+Alliance: O X I D E
+Corp: W33D Corp.
+Ship: Retribution
+Weapon: Retribution
+
+Name: astasinou
+Security: 4.6
+Alliance: O X I D E
+Corp: W33D Corp.
+Ship: Crow
+Weapon: 'Arbalest' Standard Missile Launcher
+
+Name: RheinKraft10
+Security: 3.9
+Alliance: Dusk and Dawn
+Corp: Asgard Schiffswerften
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+Name: Marvel Master
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Asgard Schiffswerften
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+Name: Durante Alighieri
+Security: 0.0
+Alliance: Schism.
+Corp: New Light
+Ship: Caracal
+Weapon: Heavy Missile Launcher I
+
+

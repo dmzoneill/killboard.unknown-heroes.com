@@ -1,0 +1,44 @@
+2006.08.18 23:31
+
+Victim: Cazziel
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Destroyed: Megathron
+System: 3T7-M8
+Security: 0.0
+
+Involved parties:
+
+Name: PoeRath (laid the final blow)
+Security: -2.2
+Alliance: Ascendant Frontier
+Corp: Celestial Fleet
+Ship: Sabre
+Weapon: 125mm Gatling AutoCannon II
+
+Name: IcoLo
+Security: 0.6
+Alliance: Ascendant Frontier
+Corp: Celestial Fleet
+Ship: Deimos
+Weapon: Deimos
+
+
+Destroyed items:
+
+425mm 'Scout' I Accelerator Cannon
+425mm 'Scout' I Accelerator Cannon
+425mm 'Scout' I Accelerator Cannon
+425mm 'Scout' I Accelerator Cannon
+425mm 'Scout' I Accelerator Cannon
+Thorium Charge L, Qty: 86
+Supplemental Scanning CPU I
+Tracking Disruptor I
+Tracking Disruptor I
+Magnetic Field Stabilizer II
+Radioisotope Kinetic Hardener I
+N-Type Kinetic Hardener I
+N-Type Thermic Hardener I
+Eutectic I Capacitor Charge Array, Qty: 2 (Cargo)
+Small Tractor Beam I (Cargo)
+

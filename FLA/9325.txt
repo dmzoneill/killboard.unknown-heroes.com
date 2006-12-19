@@ -1,0 +1,141 @@
+2007.05.07 18:14
+
+Victim: Angie Mitchell
+Alliance: YouWhat
+Corp: SteelVipers
+Destroyed: Crusader
+System: F7C-H0
+Security: 0.0
+
+Involved parties:
+
+Name: Confessor
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: Lynx Frontier Inc.
+Ship: Armageddon
+Weapon: Tachyon Beam Laser II
+
+Name: Lee Thrace
+Security: 3.4
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Myrmidon
+Weapon: 250mm Railgun II
+
+Name: Memnanan
+Security: 1.2
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Stabber
+Weapon: Stabber
+
+Name: Asran Zara
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: United Space Republic
+Ship: Hound
+Weapon: Paradise Cruise Missile
+
+Name: tropic89
+Security: 0.3
+Alliance: Sparta Alliance
+Corp: Lynx Frontier Inc.
+Ship: Cormorant
+Weapon: 150mm Railgun II
+
+Name: Dakaris Zulu
+Security: 5.0
+Alliance: CORE.
+Corp: Red 42
+Ship: Rokh
+Weapon: 425mm Compressed Coil Gun I
+
+Name: MrRommel
+Security: 5.0
+Alliance: Darklite Alliance
+Corp: Darklite inc
+Ship: Sleipnir
+Weapon: 650mm Artillery Cannon II
+
+Name: xXPlAyARaMzXx (laid the final blow)
+Security: -0.4
+Alliance: Dusk and Dawn
+Corp: ClanKillers
+Ship: Jaguar
+Weapon: 200mm AutoCannon II
+
+Name: sako1963
+Security: 5.0
+Alliance: The Foundation.
+Corp: NorCorp Security
+Ship: Raven
+Weapon: XT-9000 Cruise Launcher
+
+Name: duece duece
+Security: 5.0
+Alliance: The Foundation.
+Corp: NorCorp Security
+Ship: Megathron
+Weapon: Warp Disruptor II
+
+Name: The Ironfist
+Security: 5.0
+Alliance: None
+Corp: Nordgoetter
+Ship: Flycatcher
+Weapon: 'Langour' Drive Disruptor I
+
+Name: Reconciliation
+Security: -0.8
+Alliance: Sparta Alliance
+Corp: Black Knight Buccaneers
+Ship: Vulture
+Weapon: Heavy Missile Launcher II
+
+Name: Pharago
+Security: 1.0
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Caracal
+Weapon: Heavy Missile Launcher I
+
+Name: Kayron Brennan
+Security: 0.7
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Caracal
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+Name: Iss Hogai
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: GREY COUNCIL
+Ship: Falcon
+Weapon: 'Umbra' I White Noise ECM
+
+Name: Calvinus Maximus
+Security: 5.1
+Alliance: None
+Corp: Black Sheeps
+Ship: Cerberus
+Weapon: Heavy Missile Launcher II
+
+
+Destroyed items:
+
+Dual Light Beam Laser II
+Dual Light Beam Laser II
+Dual Light Beam Laser II
+Infrared S
+Infrared S
+Infrared S
+Infrared S
+Cap Booster 150
+Cap Booster 150
+Small Armor Repairer II
+Micro Auxiliary Power Core I
+Nanofiber Internal Structure II
+Overdrive Injector System II
+Cap Booster 150, Qty: 12 (Cargo)
+

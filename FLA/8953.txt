@@ -1,0 +1,26 @@
+2006.12.21 04:21
+
+Victim: MonwrathDisortium
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Destroyed: Slasher
+System: Torrinos
+Security: 0.5
+
+Involved parties:
+
+Name: Kar'Dargo (laid the final blow)
+Security: 2.7
+Alliance: None
+Corp: omen.
+Ship: Drake
+Weapon: Widowmaker Heavy Missile
+
+
+Destroyed items:
+
+150mm Light AutoCannon II
+150mm Light AutoCannon II
+Monopropellant I Hydrazine Boosters
+'Langour' Drive Disruptor I (Cargo)
+

@@ -1,0 +1,92 @@
+2006.07.13 19:21
+
+Victim: Brexe
+Alliance: OPUS Alliance
+Corp: SecuWay
+Destroyed: Stabber
+System: VFK-IV
+Security: 0.0
+
+Involved parties:
+
+Name: Jumar Coldgin
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Harpy
+Weapon: Harpy
+
+Name: Aquamundi
+Security: 2.8
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Enyo
+Weapon: Enyo
+
+Name: Courtney Brown (laid the final blow)
+Security: 1.5
+Alliance: Freelancer Alliance
+Corp: KHM Corporation
+Ship: Ferox
+Weapon: Widowmaker Heavy Missile
+
+Name: Nina Mires
+Security: 4.2
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Taranis
+Weapon: Taranis
+
+Name: Matt Stoner
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Caracal
+Weapon: Bloodclaw Light Missile
+
+Name: Bolinar
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Thorax
+Weapon: Thorax
+
+Name: MFWood
+Security: 5.1
+Alliance: CORE.
+Corp: VentureCorp
+Ship: Typhoon
+Weapon: 'Arbalest' Siege Missile Launcher
+
+Name: Ione79
+Security: 2.4
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Taranis
+Weapon: Taranis
+
+Name: Ne0 MaTrIx
+Security: 2.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Celestis
+Weapon: Kapteyn Sensor Array Inhibitor I
+
+Name: LiBraga
+Security: 5.0
+Alliance: CORE.
+Corp: Project Gemini
+Ship: Rook
+Weapon: Heavy Missile Launcher II
+
+
+Destroyed items:
+
+650mm Artillery Cannon I
+Phased Plasma M, Qty: 23
+Widowmaker Heavy Missile, Qty: 30
+Thunderbolt Heavy Missile, Qty: 30
+V-M15 Braced Multispectral Shield Matrix
+Magnetic Scattering Amplifier I
+Energized Basic Adaptive Nano Plating
+

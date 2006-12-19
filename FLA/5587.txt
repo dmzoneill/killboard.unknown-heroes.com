@@ -1,0 +1,33 @@
+2006.10.08 14:59
+
+Victim: Commander XXX
+Alliance: Ghosts of Retribution
+Corp: Polytope
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Cockroach
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Retribution
+Weapon: Medium Beam Laser II
+
+Name: Nil Desperandum (laid the final blow)
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Omen
+Weapon: Heavy Pulse Laser II
+
+Name: Larkonis Trassler
+Security: -1.9
+Alliance: None
+Corp: g guild
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+

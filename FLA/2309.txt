@@ -1,0 +1,58 @@
+2007.02.05 19:54
+
+Victim: Tiberius Drake
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Destroyed: Brutix
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Dracorimus (laid the final blow)
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Armageddon
+Weapon: Mega Pulse Laser II
+
+Name: Puls4r
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Claymore
+Weapon: Sabretooth Light Missile
+
+Name: Ria Sotori
+Security: 3.9
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Rokh
+Weapon: Rokh
+
+Name: Sexual Chocolate
+Security: 2.5
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Muninn
+Weapon: Muninn
+
+
+Destroyed items:
+
+250mm Railgun I
+250mm Railgun I
+250mm Railgun I
+Iron Charge M, Qty: 55
+Tungsten Charge M, Qty: 40
+Drone Link Augmentor I
+F-b10 Nominal Capacitor Regenerator
+10MN Afterburner I
+Sensor Booster I
+Medium Armor Repairer I
+Magnetic Field Stabilizer I
+Energized Adaptive Nano Membrane I
+Reactor Control Unit I
+Lead Charge M, Qty: 500 (Cargo)
+Iron Charge M, Qty: 119 (Cargo)
+

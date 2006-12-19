@@ -1,0 +1,30 @@
+2007.03.29 03:09
+
+Victim: Syllke Aronstein
+Alliance: None
+Corp: Le Moulin Rouge
+Destroyed: Ishkur
+System: RQH-MY
+Security: 0.0
+
+Involved parties:
+
+Name: Jorax (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Myrmidon
+Weapon: Warrior II
+
+
+Destroyed items:
+
+Small 'Knave' I Energy Drain
+Light Neutron Blaster II
+Light Neutron Blaster II
+Antimatter Charge S, Qty: 60
+1MN MicroWarpdrive I
+Energized Reactive Membrane II
+Local Hull Conversion Overdrive Injector I
+Antimatter Charge S, Qty: 1994 (Cargo)
+

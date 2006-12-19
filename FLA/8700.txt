@@ -1,0 +1,27 @@
+2006.12.07 16:49
+
+Victim: Ismeteer
+Alliance: Freelancer Alliance
+Corp: BGG
+Destroyed: Incursus
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Crax McGee (laid the final blow)
+Security: -2.5
+Alliance: Anarchy Empire
+Corp: Celtic Anarchy
+Ship: Dominix
+Weapon: Berserker II
+
+
+Destroyed items:
+
+Light Neutron Blaster I
+Light Neutron Blaster I
+1MN MicroWarpdrive I
+Stasis Webifier I
+Co-Processor I
+

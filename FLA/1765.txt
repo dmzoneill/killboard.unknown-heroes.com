@@ -1,0 +1,71 @@
+2007.01.02 19:35
+
+Victim: Goca
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Destroyed: Raven
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Captain Rickdick
+Security: -0.2
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Cruise Missile Launcher II
+
+Name: Evil Pookie
+Security: 4.3
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Wrath Cruise Missile
+
+Name: Arnold Swartzenegger (laid the final blow)
+Security: -0.6
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+Name: Janice Malstrom
+Security: -1.7
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Taranis
+Weapon: 125mm Railgun II
+
+Name: MEISTERderPUPPEN
+Security: 0.1
+Alliance: None
+Corp: Deep Core Mining Inc.
+Ship: Sabre
+Weapon: 125mm Light 'Scout' Autocannon I
+
+
+Destroyed items:
+
+Siege Missile Launcher II
+Siege Missile Launcher II
+Siege Missile Launcher II
+Inferno Javelin Torpedo, Qty: 38
+Mjolnir Javelin Torpedo, Qty: 38
+X-Large Shield Booster II
+X-Large Shield Booster II
+X-Large Shield Booster II
+X-Large Shield Booster II
+X-Large Shield Booster II
+'Anointed' I EM Ward Reinforcement
+Invulnerability Field I
+Quantum Co-Processor I
+Ballistic Control System II
+Power Diagnostic System II
+Inferno Torpedo, Qty: 700 (Cargo)
+Mjolnir Torpedo, Qty: 300 (Cargo)
+Juggernaut Torpedo, Qty: 100 (Cargo)
+Mjolnir Rage Torpedo, Qty: 500 (Cargo)
+Juggernaut Javelin Torpedo, Qty: 1000 (Cargo)
+Hammerhead I, Qty: 7 (Drone Bay)
+

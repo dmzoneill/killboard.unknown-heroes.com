@@ -1,0 +1,45 @@
+2006.10.07 15:24
+
+Victim: DisTyler
+Alliance: R.I.S.K
+Corp: Russian Specnaz
+Destroyed: Hawk
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Mr Harmonica (laid the final blow)
+Security: 5.0
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+Name: Lashrac Sigil
+Security: 3.3
+Alliance: None
+Corp: Blackguard Brigade
+Ship: Dominix
+Weapon: Berserker II
+
+Name: dastommy79
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Caracal
+Weapon: Piranha Light Missile
+
+
+Destroyed items:
+
+Standard Missile Launcher II
+Standard Missile Launcher II
+Flameburst Fury Light Missile, Qty: 50
+Gistii A-Type Small Shield Booster
+AGM I Capacitor Charge Array
+1MN Afterburner II
+'Anointed' I EM Ward Reinforcement
+Ballistic Control System II
+Piranha Fury Light Missile, Qty: 192 (Cargo)
+

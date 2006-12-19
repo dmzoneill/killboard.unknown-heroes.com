@@ -1,0 +1,45 @@
+2006.11.09 14:53
+
+Victim: jacass66
+Alliance: Freelancer Alliance
+Corp: BGG
+Destroyed: Enyo
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: taylor04 (laid the final blow)
+Security: -1.8
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Lord KesH
+Security: 2.7
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Vagabond
+Weapon: 425mm AutoCannon II
+
+Name: KrTo
+Security: 2.5
+Alliance: None
+Corp: Beer Guzzling Clowns With Blasters
+Ship: Dominix
+Weapon: E500 Prototype Energy Vampire
+
+
+Destroyed items:
+
+125mm Railgun I
+125mm Railgun I
+125mm Railgun I
+Antimatter Charge S, Qty: 58
+1MN Afterburner II
+Sensor Booster II
+Small Armor Repairer II
+Energized Adaptive Nano Membrane II
+Armor Explosive Hardener II
+

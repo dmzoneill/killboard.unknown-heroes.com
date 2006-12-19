@@ -1,0 +1,94 @@
+2006.10.23 20:06
+
+Victim: X Kent
+Alliance: R.I.S.K
+Corp: Russian Specnaz
+Destroyed: Caracal
+System: MI6O-6
+Security: 0.0
+
+Involved parties:
+
+Name: Commander BroudMoore
+Security: 5.0
+Alliance: None
+Corp: Ashen Lion Mining and Production Consortium
+Ship: Pilgrim
+Weapon: Warrior II
+
+Name: Josh Causto
+Security: 0.4
+Alliance: None
+Corp: Fatalix Inc.
+Ship: Enyo
+Weapon: Light Neutron Blaster II
+
+Name: GrandMastaXP
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Raven
+Weapon: Cruise Missile Launcher II
+
+Name: Loore
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Megathron
+Weapon: Valkyrie I
+
+Name: fastwind
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: VentureCorp
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: LizzyD (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Dominix
+Weapon: Wasp I
+
+Name: Minesweeper
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: Callifrey Galliente
+Security: 0.4
+Alliance: Forces of Freedom
+Corp: Dark Phoenix Corporation
+Ship: Osprey
+Weapon: Osprey
+
+Name: FraXy
+Security: 0.7
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Dominix
+Weapon: Compulsive Multispectral ECM I
+
+Name: Don Marcus
+Security: -0.1
+Alliance: Freelancer Alliance
+Corp: Sin-X Inc.
+Ship: Capsule
+Weapon: BZ-5 Neutralizing Spatial Destabilizer ECM
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 66
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+Compact 'Limos' Assault Missile Bay I
+Large Subordinate Screen Stabilizer I
+Large Subordinate Screen Stabilizer I
+V-M15 Braced Multispectral Shield Matrix
+Bloodclaw Light Missile, Qty: 1034 (Cargo)
+Scourge Heavy Missile, Qty: 5032 (Cargo)
+

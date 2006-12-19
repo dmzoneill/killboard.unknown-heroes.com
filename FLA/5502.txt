@@ -1,0 +1,102 @@
+2006.10.06 21:54
+
+Victim: Nathan W
+Alliance: None
+Corp: PILGRIMS
+Destroyed: Crow
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: GrandMastaXP
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Hawk
+Weapon: Standard Missile Launcher II
+
+Name: Jumar Coldgin
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Eagle
+Weapon: Assault Missile Launcher II
+
+Name: Drakin Korin
+Security: 3.2
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Ishtar
+Weapon: Fleeting Warp Scrambler I
+
+Name: Zheraf (laid the final blow)
+Security: 5.0
+Alliance: O X I D E
+Corp: Nuevos Horizontes
+Ship: Caracal
+Weapon: Bloodclaw Precision Light Missile
+
+Name: W4RR10R
+Security: 0.4
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Deimos
+Weapon: Valkyrie II
+
+Name: Preying Mantis
+Security: 4.8
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Typhoon
+Weapon: Bane Torpedo
+
+Name: movy
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Ishkur
+Weapon: 125mm Railgun II
+
+Name: TasKu
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Thorax
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: Rev Darkwing
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Blackbird
+Weapon: ECM - Multispectral Jammer I
+
+Name: Karas Rabus
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Huginn
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: Hosanna
+Security: -0.7
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Stiletto
+Weapon: Faint Warp Prohibitor I
+
+Name: DarkJester
+Security: 0.7
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Tempest
+Weapon: Berserker SW-900
+
+
+Destroyed items:
+
+Small F-S9 Regolith Shield Induction
+Catalyzed Cold-Gas I Arcjet Thrusters
+Bloodclaw Light Missile, Qty: 487 (Cargo)
+

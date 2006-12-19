@@ -1,0 +1,40 @@
+2006.11.13 18:29
+
+Victim: BLESSED NAME
+Alliance: THE H0RDE
+Corp: MoonRabbit Council
+Destroyed: Punisher
+System: 75FA-Z
+Security: 0.0
+
+Involved parties:
+
+Name: Hosanna
+Security: 1.8
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Claw
+Weapon: Claw
+
+Name: W4RR10R
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Groes Thir
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Taranis
+Weapon: Light Neutron Blaster II
+
+Name: James Potkukelkka (laid the final blow)
+Security: 0.3
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Flycatcher
+Weapon: Bloodclaw Light Missile
+
+

@@ -1,0 +1,31 @@
+2007.04.18 01:07
+
+Victim: Rhaall
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Crucifier
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Sholle (laid the final blow)
+Security: 1.3
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Sabre
+Weapon: 200mm AutoCannon II
+
+Name: Frostbeule
+Security: 3.4
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Sabre
+Weapon: Sabre
+
+
+Destroyed items:
+
+1MN Afterburner I
+Energized Adaptive Nano Membrane I
+

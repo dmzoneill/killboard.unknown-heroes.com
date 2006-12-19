@@ -1,0 +1,26 @@
+2007.03.11 12:57
+
+Victim: Xarax Sparow
+Alliance: YouWhat
+Corp: SteelVipers
+Destroyed: Capsule
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Caranthir
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Huginn
+Weapon: 720mm Howitzer Artillery II
+
+Name: FlobbMkII (laid the final blow)
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+

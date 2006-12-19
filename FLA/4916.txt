@@ -1,0 +1,38 @@
+2007.04.19 21:48
+
+Victim: Darkspin
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Badger Mark II
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Primos Gun (laid the final blow)
+Security: 4.1
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Myrmidon
+Weapon: Ogre I
+
+Name: KaKaShI
+Security: 4.2
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Rapier
+Weapon: Stasis Webifier II
+
+Name: SaNoSuKeJavi
+Security: -1.8
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Taranis
+Weapon: Taranis
+
+
+Destroyed items:
+
+Dread Guristas Cloaking Device
+Retriever, Qty: 2 (Cargo)
+

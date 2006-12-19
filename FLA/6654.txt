@@ -1,0 +1,26 @@
+2006.11.23 04:37
+
+Victim: Lain's Dad
+Alliance: None
+Corp: Imperial Academy
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Simon Monkoto (laid the final blow)
+Security: -0.7
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Caracal
+Weapon: Thunderbolt Heavy Missile
+
+Name: Jaig Maldara
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Flycatcher
+Weapon: Flycatcher
+
+

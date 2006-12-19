@@ -1,0 +1,26 @@
+2007.02.04 19:45
+
+Victim: wrecker300
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Capsule
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Beast Hun (laid the final blow)
+Security: 4.7
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Crusader
+Weapon: Dual Light Pulse Laser II
+
+Name: Seth Quantix
+Security: -0.2
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Malediction
+Weapon: Warp Disruptor II
+
+

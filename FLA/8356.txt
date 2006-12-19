@@ -1,0 +1,24 @@
+2006.11.12 03:05
+
+Victim: shekat khlorblaster
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Destroyed: Velator
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: jacass8496 (laid the final blow)
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Enyo
+Weapon: 150mm Compressed Coil Gun I
+
+
+Destroyed items:
+
+Civilian Light Electron Blaster
+Basic Miner
+

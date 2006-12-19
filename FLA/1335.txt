@@ -1,0 +1,26 @@
+2007.03.11 05:07
+
+Victim: Drazzil
+Alliance: United Confederation of Corporations
+Corp: Mindstar Technology
+Destroyed: Gallente Shuttle
+System: Z-Y7R7
+Security: 0.0
+
+Involved parties:
+
+Name: Muad' Dib
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Stiletto
+Weapon: Bloodclaw Light Missile
+
+Name: iNFoRMaLiTY (laid the final blow)
+Security: -8.0
+Alliance: Freelancer Alliance
+Corp: Blackwater Squadron
+Ship: Megathron
+Weapon: 425mm Railgun I
+
+

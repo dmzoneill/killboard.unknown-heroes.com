@@ -1,0 +1,44 @@
+2006.07.25 12:43
+
+Victim: Pheole
+Alliance: None
+Corp: LDK
+Destroyed: Stiletto
+System: JU-OWQ
+Security: 0.0
+
+Involved parties:
+
+Name: Draca Longen
+Security: 1.4
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Scorpion
+Weapon: Wasp I
+
+Name: Rytir (laid the final blow)
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Zealot
+Weapon: Heavy Pulse Laser II
+
+Name: Cazziel
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Celestis
+Weapon: Celestis
+
+
+Destroyed items:
+
+200mm AutoCannon II
+200mm AutoCannon II
+Barrage S, Qty: 35
+'Malkuth' Rocket Launcher I
+1MN MicroWarpdrive I
+Stasis Webifier I
+Micro Auxiliary Power Core I
+Barrage S, Qty: 2836 (Cargo)
+

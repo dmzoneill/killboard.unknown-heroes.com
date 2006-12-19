@@ -1,0 +1,42 @@
+2007.03.27 12:53
+
+Victim: Nafagen
+Alliance: Freelancer Alliance
+Corp: Harbingers of Sarrow
+Destroyed: Raven
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: The Ali
+Security: -3.2
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: volly
+Security: 3.2
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Curse
+Weapon: Hammerhead II
+
+Name: Eelim Garak (laid the final blow)
+Security: 1.3
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Curse
+Weapon: Vespa II
+
+
+Destroyed items:
+
+Siege Missile Launcher I
+Siege Missile Launcher I
+Cap Recharger I
+Invulnerability Field I
+Invulnerability Field I
+Invulnerability Field I
+

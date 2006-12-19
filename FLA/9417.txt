@@ -1,0 +1,26 @@
+2007.05.12 18:58
+
+Victim: Ophea
+Alliance: Freelancer Alliance
+Corp: The Collective of Ascended Beings
+Destroyed: Capsule
+System: Haajinen
+Security: 0.8
+
+Involved parties:
+
+Name: Lennier Cotto
+Security: -2.1
+Alliance: None
+Corp: Mentally Unstable Enterprises
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Ronnie Kray (laid the final blow)
+Security: -1.9
+Alliance: None
+Corp: Mentally Unstable Enterprises
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+

@@ -1,0 +1,33 @@
+2006.09.07 17:24
+
+Victim: Hosanna
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Destroyed: Capsule
+System: Mara
+Security: 0.4
+
+Involved parties:
+
+Name: Damien Smith
+Security: -10.
+Alliance: None
+Corp: Turbulent
+Ship: Megathron
+Weapon: 350mm 'Scout' I Accelerator Cannon
+
+Name: adie67
+Security: -9.8
+Alliance: None
+Corp: Turbulent
+Ship: Raven
+Weapon: Juggernaut Javelin Torpedo
+
+Name: ArtemisEntreri (laid the final blow)
+Security: -10.
+Alliance: None
+Corp: Turbulent
+Ship: Absolution
+Weapon: Heavy Pulse Laser II
+
+

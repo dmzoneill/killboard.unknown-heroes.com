@@ -1,0 +1,40 @@
+2007.03.08 23:00
+
+Victim: freevents
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Destroyed: Capsule
+System: XZH-4X
+Security: 0.0
+
+Involved parties:
+
+Name: Dark Carnage (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Quurst
+Security: 3.8
+Alliance: GoonSwarm
+Corp: Duragon Pioneer Group
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: Muad' Dib
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Stiletto
+Weapon: Bloodclaw Light Missile
+
+Name: Puz'ZaW
+Security: 2.7
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Stiletto
+Weapon: J5 Prototype Warp Inhibitor I
+
+

@@ -1,0 +1,100 @@
+2007.03.17 14:12
+
+Victim: Ocara Nezus
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Raven
+System: XZH-4X
+Security: 0.0
+
+Involved parties:
+
+Name: blh 42
+Security: -3.6
+Alliance: Eternal Rapture
+Corp: Exotic Dancers Club
+Ship: Megathron
+Weapon: Megathron
+
+Name: Chode Rizoum
+Security: -1.9
+Alliance: Eternal Rapture
+Corp: Temptation inc.
+Ship: Maelstrom
+Weapon: Berserker SW-900
+
+Name: ArmyOfMe
+Security: -1.5
+Alliance: Eternal Rapture
+Corp: Exotic Dancers Club
+Ship: Astarte
+Weapon: Valkyrie II
+
+Name: Handon Guild
+Security: -2.9
+Alliance: Eternal Rapture
+Corp: Exotic Dancers Club
+Ship: Tempest
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: Jack Archer (laid the final blow)
+Security: -1.7
+Alliance: Eternal Rapture
+Corp: Quantum Synergies
+Ship: Dominix
+Weapon: Wasp II
+
+Name: Corelatis Platoon Leader / Serpentis
+
+Name: GodWin cadela
+Security: -1.8
+Alliance: Eternal Rapture
+Corp: Exotic Dancers Club
+Ship: Absolution
+Weapon: Absolution
+
+Name: VirkMaN
+Security: -1.1
+Alliance: Eternal Rapture
+Corp: Temptation inc.
+Ship: Nighthawk
+Weapon: Hornet II
+
+Name: Jiviva
+Security: -4.4
+Alliance: Eternal Rapture
+Corp: Exotic Dancers Club
+Ship: Ferox
+Weapon: Scourge Heavy Missile
+
+
+Destroyed items:
+
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Inferno Torpedo, Qty: 43
+'Malkuth' Siege Missile Launcher I
+Siege Missile Launcher I
+Large Azeotropic Ward Salubrity I
+X-Large C5-L Emergency Shield Overload I
+100MN Afterburner I
+Prototype I Sensor Booster
+Ballistic Control System I
+Ballistic Control System I
+Overdrive Injector System I
+Mark I Generator Refitting: Diagnostic System
+Type-D Power Core Modification: Capacitor Power Relay
+Large Capacitor Battery I (Cargo)
+Large Armor Repairer I (Cargo)
+Juggernaut Torpedo, Qty: 1096 (Cargo)
+Hornet I (Cargo)
+1600mm Reinforced Steel Plates I (Cargo)
+1600mm Reinforced Titanium Plates I (Cargo)
+Damaged Artificial Neural Network, Qty: 2 (Cargo)
+Armor Plates, Qty: 3 (Cargo)
+Vespa I, Qty: 5 (Drone Bay)
+

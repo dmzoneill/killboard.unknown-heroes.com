@@ -1,0 +1,40 @@
+2006.10.21 22:28
+
+Victim: Spike Diesel
+Alliance: None
+Corp: Sebiestor tribe
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Needa3
+Security: 4.8
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Jaguar
+Weapon: 280mm Howitzer Artillery II
+
+Name: Zha'doom
+Security: 2.8
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Coercer
+Weapon: Dual Anode Light Particle Stream I
+
+Name: DarkJester (laid the final blow)
+Security: 0.7
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery I
+
+Name: Formosus Funus
+Security: 2.9
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Jaguar
+Weapon: Jaguar
+
+

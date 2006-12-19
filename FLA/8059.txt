@@ -1,0 +1,53 @@
+2006.10.07 19:20
+
+Victim: TasKu
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Destroyed: Thorax
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Pistonbroke
+Security: -2.1
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Rook
+Weapon: Scourge Heavy Missile
+
+Name: Athlete
+Security: -3.8
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Megathron
+Weapon: Megathron
+
+Name: Bos Noskcaj (laid the final blow)
+Security: -4.1
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Scorpion
+Weapon: Cataclysm Cruise Missile
+
+Name: Kalissa
+Security: 1.8
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Chimera
+Weapon: Firbolg
+
+
+Destroyed items:
+
+200mm Railgun I
+200mm Railgun I
+200mm Railgun I
+Iridium Charge M, Qty: 249
+10MN MicroWarpdrive I
+J5 Prototype Warp Inhibitor I
+Insulated Stabilizer Array I
+Magnetic Vortex Stabilizer I
+Antimatter Charge M, Qty: 1000 (Cargo)
+Iridium Charge M, Qty: 1004 (Cargo)
+

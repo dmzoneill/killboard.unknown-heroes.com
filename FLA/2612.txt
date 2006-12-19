@@ -1,0 +1,93 @@
+2007.02.27 00:30
+
+Victim: Skull Fire
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Raven
+System: YZ-LQL
+Security: 0.0
+
+Involved parties:
+
+Name: MilaNoCZ (laid the final blow)
+Security: 5.0
+Alliance: Xelas Alliance
+Corp: Rytiri Lva
+Ship: Drake
+Weapon: Hornet I
+
+Name: Lady Vanquish
+Security: 3.3
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Raven
+Weapon: 'Malkuth' Siege Missile Launcher I
+
+Name: Balltazore Anubis
+Security: 5.0
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Hurricane
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+Name: Aschera
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Reikoku
+Ship: Sabre
+Weapon: Templar
+
+Name: Tarhess
+Security: -4.0
+Alliance: Aftermath Alliance
+Corp: Master Miners
+Ship: Raptor
+Weapon: Raptor
+
+Name: Mithylos
+Security: -3.3
+Alliance: Aftermath Alliance
+Corp: Master Miners
+Ship: Unknown
+Weapon: Rocket Launcher I
+
+Name: Biggknife
+Security: -1.3
+Alliance: Xelas Alliance
+Corp: Mining Bytes Inc.
+Ship: Unknown
+Weapon: Civilian Light Electron Blaster
+
+Name: NobodyGood
+Security: 3.1
+Alliance: Aftermath Alliance
+Corp: Master Miners
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Crohnx
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Reikoku
+Ship: Thanatos
+Weapon: Templar
+
+
+Destroyed items:
+
+250mm 'Scout' I Accelerator Cannon
+Paradise Cruise Missile, Qty: 9
+Devastator Cruise Missile, Qty: 10
+Wrath Cruise Missile, Qty: 10
+Large Shield Extender II
+100MN MicroWarpdrive I
+Alumel-Wired I Sensor Augmentation
+Emergency Damage Control I
+1600mm Reinforced Rolled Tungsten Plates I
+1600mm Reinforced Rolled Tungsten Plates I
+Ballistic Control System I
+Antimatter Charge M, Qty: 168 (Cargo)
+Paradise Cruise Missile, Qty: 228 (Cargo)
+Devastator Cruise Missile, Qty: 270 (Cargo)
+Vespa I (Drone Bay)
+

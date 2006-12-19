@@ -1,0 +1,36 @@
+2006.11.16 14:02
+
+Victim: James Potkukelkka
+Alliance: Freelancer Alliance
+Corp: BGG
+Destroyed: Flycatcher
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: d1amond (laid the final blow)
+Security: 3.5
+Alliance: None
+Corp: omen.
+Ship: Raven
+Weapon: Inferno Javelin Torpedo
+
+Name: Jimmycs83
+Security: -1.0
+Alliance: None
+Corp: Venom.
+Ship: Taranis
+Weapon: Warrior II
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 137
+TE-2100 Standard Missile Bay
+Standard Missile Launcher II
+Standard Missile Launcher II
+Bloodclaw Precision Light Missile, Qty: 98
+Bloodclaw Light Missile, Qty: 452 (Cargo)
+Warp Disrupt Probe, Qty: 20 (Cargo)
+

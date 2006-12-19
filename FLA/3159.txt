@@ -1,0 +1,30 @@
+2007.03.25 20:27
+
+Victim: Gliding
+Alliance: Eternal Rapture
+Corp: Quantum Synergies
+Destroyed: Taranis
+System: F7C-H0
+Security: 0.0
+
+Involved parties:
+
+Name: HYT gangster (laid the final blow)
+Security: 1.5
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Claw
+Weapon: 150mm Light AutoCannon II
+
+
+Destroyed items:
+
+Small 'Knave' I Energy Drain
+Light Neutron Blaster II
+Light Neutron Blaster II
+Void S, Qty: 80
+Magnetic Field Stabilizer II
+Micro Auxiliary Power Core I
+Overdrive Injector System I
+Hobgoblin II (Drone Bay)
+

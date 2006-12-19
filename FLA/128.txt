@@ -1,0 +1,60 @@
+2007.01.12 16:47
+
+Victim: WarGod
+Alliance: Triumvirate.
+Corp: D00M.
+Destroyed: Curse
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Goca (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Raven
+Weapon: Inferno Javelin Torpedo
+
+Name: Mauy Thai
+Security: -1.5
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Capsule
+Weapon: Medium 'Knave' I Energy Drain
+
+Name: Soldroz
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Raven
+Weapon: Indirect Scanning Dampening Unit I
+
+Name: Sidrat Flush
+Security: 1.6
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Capsule
+Weapon: Remote Sensor Dampener I
+
+Name: GeekWarrior
+Security: 4.5
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Rokh
+Weapon: 425mm 'Scout' I Accelerator Cannon
+
+
+Destroyed items:
+
+Medium Nosferatu II
+10MN MicroWarpdrive II
+Fleeting Warp Scrambler I
+ECM - Multispectral Jammer II
+Nanofiber Internal Structure I
+Nanofiber Internal Structure I
+Nanofiber Internal Structure I
+Ballistic Deflection Field II (Cargo)
+Surgical Strike (Cargo)
+Conflagration S (Cargo)
+

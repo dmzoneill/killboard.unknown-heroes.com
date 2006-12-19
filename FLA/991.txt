@@ -1,0 +1,71 @@
+2007.03.02 15:33
+
+Victim: Renegade HCI
+Alliance: Band of Brothers
+Corp: Black Eclipse Corp
+Destroyed: Malediction
+System: R3W-XU
+Security: 0.0
+
+Involved parties:
+
+Name: Tregaron
+Security: 1.7
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Cyclone
+Weapon: Valkyrie II
+
+Name: Sgt Anti
+Security: -0.5
+Alliance: Against ALL Authorities
+Corp: Black Lance
+Ship: Eagle
+Weapon: Eagle
+
+Name: IroN HiDE
+Security: -1.6
+Alliance: Against ALL Authorities
+Corp: Black Lance
+Ship: Hawk
+Weapon: Bloodclaw Light Missile
+
+Name: Sir Oni
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Cataclysm Enterprises
+Ship: Crow
+Weapon: Shadow Serpentis Warp Disruptor
+
+Name: Marvel Master
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Asgard Schiffswerften
+Ship: Crow
+Weapon: Fleeting Warp Scrambler I
+
+Name: Sicarius
+Security: -1.0
+Alliance: RAZOR Alliance
+Corp: Thundercats
+Ship: Flycatcher
+Weapon: Sabretooth Light Missile
+
+Name: Frogydog (laid the final blow)
+Security: -4.2
+Alliance: RAZOR Alliance
+Corp: Thundercats
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+Dual Light Pulse Laser II
+Gremlin Rocket, Qty: 60
+Rocket Launcher II
+Small Automated I Carapace Restoration
+Dark Blood Energized Adaptive Nano Membrane
+Micro Auxiliary Power Core I
+Gremlin Rocket, Qty: 283 (Cargo)
+

@@ -1,0 +1,32 @@
+2007.04.10 19:30
+
+Victim: DrunkenOne
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Destroyed: Rifter
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Dark Carnage (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Scorpion
+Weapon: Large Rudimentary Concussion Bomb I
+
+
+Destroyed items:
+
+150mm Light AutoCannon I
+Small Nosferatu I
+EMP S, Qty: 221
+Warp Scrambler I
+Stasis Webifier I
+Small Armor Repairer I
+Capacitor Power Relay I
+Fusion S, Qty: 926 (Cargo)
+Signal Amplifier II (Cargo)
+Phalanx Rocket, Qty: 30 (Cargo)
+

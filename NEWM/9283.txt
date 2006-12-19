@@ -1,0 +1,88 @@
+2007.05.06 02:15
+
+Victim: Kinora Wynn
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Rupture
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Lonagan
+Security: 0.0
+Alliance: RAZOR Alliance
+Corp: Cutting Edge Incorporated
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Ernest Graefenberg (laid the final blow)
+Security: -1.0
+Alliance: RAZOR Alliance
+Corp: Cutting Edge Incorporated
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+Name: Baddias Mongo
+Security: 1.5
+Alliance: RAZOR Alliance
+Corp: Cutting Edge Incorporated
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: haz zard
+Security: -2.3
+Alliance: The Foundation.
+Corp: Cornerstone Unlimited
+Ship: Thorax
+Weapon: Thorax
+
+Name: Catherina sforza
+Security: 1.3
+Alliance: RAZOR Alliance
+Corp: Cutting Edge Incorporated
+Ship: Thanatos
+Weapon: Dragonfly
+
+Name: Mufeater
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Nemesis
+Weapon: Paradise Cruise Missile
+
+Name: xHomicide
+Security: 3.3
+Alliance: RAZOR Alliance
+Corp: Cutting Edge Incorporated
+Ship: Stiletto
+Weapon: Warp Disruptor II
+
+Name: pylons38
+Security: 4.9
+Alliance: RAZOR Alliance
+Corp: Cutting Edge Incorporated
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: UberDefDef
+Security: -1.2
+Alliance: RAZOR Alliance
+Corp: Roving Guns Inc.
+Ship: Curse
+Weapon: Remote Sensor Dampener II
+
+
+Destroyed items:
+
+650mm Artillery Cannon I
+650mm Artillery Cannon I
+Titanium Sabot M, Qty: 34
+10MN MicroWarpdrive I
+Monopulse Tracking Mechanism I
+Gyrostabilizer I
+Gyrostabilizer I
+Tracking Enhancer I
+Energized Adaptive Nano Membrane I
+Titanium Sabot M, Qty: 965 (Cargo)
+

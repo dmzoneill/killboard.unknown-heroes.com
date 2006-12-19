@@ -1,0 +1,42 @@
+2006.09.04 13:18
+
+Victim: Turq
+Alliance: None
+Corp: GalacTECH Unlimited
+Destroyed: Claw
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Noitaakka (laid the final blow)
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Raven
+Weapon: Wrath Cruise Missile
+
+Name: Dr Lucian
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Abandoned Resolve Corporation
+Ship: Caracal
+Weapon: Vespa I
+
+
+Destroyed items:
+
+150mm Light AutoCannon II
+Barrage S, Qty: 160
+'Arbalest' Rocket Launcher I
+1MN MicroWarpdrive II
+J5b Phased Prototype Warp Inhibitor I
+Small Armor Repairer II
+Small Nosferatu I (Cargo)
+150mm 'Scout' I Accelerator Cannon (Cargo)
+Astrogeology (Cargo)
+Acceleration Control (Cargo)
+Hail S, Qty: 2000 (Cargo)
+Phalanx Rocket, Qty: 1927 (Cargo)
+Foxfire Rocket, Qty: 300 (Cargo)
+

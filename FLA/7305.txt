@@ -1,0 +1,49 @@
+2006.08.07 22:12
+
+Victim: Cassandra Sierra
+Alliance: None
+Corp: ATROX.
+Destroyed: Iteron Mark V
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: XxAngelxX (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Crusader
+Weapon: Dual Light Beam Laser II
+
+Name: Ne0 MaTrIx
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Taranis
+Weapon: Taranis
+
+Name: DevilSlayer
+Security: 3.7
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Crow
+Weapon: Sabretooth Light Missile
+
+
+Destroyed items:
+
+Large Hybrid Turret (Cargo)
+Rapid Launch (Cargo)
+Caldari Battleship (Cargo)
+Clarity (Cargo)
+Deep Core Mining, Qty: 2 (Cargo)
+Refinery Efficiency (Cargo)
+Scientific Networking (Cargo)
+Energy Grid Upgrades (Cargo)
+Shield Management (Cargo)
+Sensor Linking (Cargo)
+Diplomacy (Cargo)
+Negotiation (Cargo)
+Connections (Cargo)
+

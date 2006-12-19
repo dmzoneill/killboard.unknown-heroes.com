@@ -1,0 +1,107 @@
+2007.03.31 09:51
+
+Victim: dccbx
+Alliance: Freelancer Alliance
+Corp: Blackwater Squadron
+Destroyed: Typhoon
+System: P-2TTL
+Security: 0.0
+
+Involved parties:
+
+Name: Bl00Dzor (laid the final blow)
+Security: 1.5
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Tempest Fleet Issue
+Weapon: Tempest Fleet Issue
+
+Name: Rhayvn
+Security: 4.5
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Abaddon
+Weapon: Abaddon
+
+Name: Prankster
+Security: 2.0
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Tomas Ysidro
+Security: 1.3
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Megathron
+Weapon: Megathron
+
+Name: ICoraxI
+Security: 1.1
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Rokh
+Weapon: Rokh
+
+Name: Sortaja83
+Security: 0.1
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: ZaKma
+Security: -0.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Megathron
+Weapon: Megathron
+
+Name: Weilbull
+Security: 2.9
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Megathron
+Weapon: Megathron
+
+Name: Green Leaner
+Security: 2.1
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Tempest
+Weapon: Tempest
+
+Name: angelena
+Security: 4.5
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Megathron
+Weapon: Megathron
+
+Name: Brasema
+Security: 3.0
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Megathron
+Weapon: Megathron
+
+
+Destroyed items:
+
+Wrath Cruise Missile
+Wrath Cruise Missile
+Wrath Cruise Missile
+Wrath Cruise Missile
+Wrath Cruise Missile
+Wrath Cruise Missile
+'Arbalest' Cruise Launcher I
+'Arbalest' Cruise Launcher I
+'Arbalest' Cruise Launcher I
+'Arbalest' Cruise Launcher I
+Eutectic I Capacitor Charge Array
+Eutectic I Capacitor Charge Array
+Eutectic I Capacitor Charge Array
+1600mm Reinforced Nanofiber Plates I
+1600mm Reinforced Nanofiber Plates I
+

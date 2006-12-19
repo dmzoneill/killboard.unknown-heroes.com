@@ -1,0 +1,72 @@
+2007.04.23 18:05
+
+Victim: Ghu'ru Talozan
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Catalyst
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: LeZip
+Security: 1.2
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+Name: sgtdark (laid the final blow)
+Security: 5.0
+Alliance: Storm Armada
+Corp: stone grave haulage
+Ship: Chimera
+Weapon: Einherji
+
+Name: nyricia
+Security: 1.5
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Evil Bunnies
+Security: 0.2
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Blackbird
+Weapon: Scourge Heavy Missile
+
+Name: Lord Caine
+Security: 4.9
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Vexor
+Weapon: Einherji
+
+Name: Rimsaw
+Security: 0.0
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Maller
+Weapon: Maller
+
+Name: Screamer
+Security: 0.8
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Chimera
+Weapon: Einherji
+
+
+Destroyed items:
+
+150mm Railgun I
+150mm Railgun I
+150mm Railgun I
+150mm Railgun I
+Antimatter Charge S, Qty: 70
+Magnetic Field Stabilizer I
+Nanofiber Internal Structure I
+Antimatter Charge S, Qty: 200 (Cargo)
+

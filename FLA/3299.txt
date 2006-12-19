@@ -1,0 +1,52 @@
+2007.03.22 19:27
+
+Victim: Jehutty
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Destroyed: Cerberus
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: WarGod (laid the final blow)
+Security: 1.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Curse
+Weapon: Praetor II
+
+Name: vyperpit
+Security: 4.6
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Vagabond
+Weapon: Dual 180mm AutoCannon II
+
+Name: Sith Bandon
+Security: 5.0
+Alliance: Triumvirate.
+Corp: ViperSquad
+Ship: Ishtar
+Weapon: Hammerhead II
+
+Name: XxAngelxX
+Security: -1.8
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Curse
+Weapon: Valkyrie II
+
+
+Destroyed items:
+
+Havoc Heavy Missile, Qty: 20
+Scourge Heavy Missile, Qty: 20
+Heavy Missile Launcher II
+Thunderbolt Fury Heavy Missile, Qty: 20
+Large Shield Extender II
+Large Shield Booster II
+Ballistic Control System II
+Widowmaker Heavy Missile, Qty: 2614 (Cargo)
+Havoc Heavy Missile, Qty: 5348 (Cargo)
+

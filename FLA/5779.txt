@@ -1,0 +1,38 @@
+2006.10.18 18:27
+
+Victim: The Forsak3n
+Alliance: R.I.S.K
+Corp: ReD eYe Inc.
+Destroyed: Incursus
+System: O-N8XZ
+Security: 0.0
+
+Involved parties:
+
+Name: Karas Rabus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Huginn
+Weapon: Flameburst Precision Light Missile
+
+Name: Jumar Coldgin (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+Name: W4RR10R
+Security: 1.2
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Megathron
+Weapon: Initiated Multispectral ECM I
+
+
+Destroyed items:
+
+Tungsten Charge S, Qty: 73
+Small Shield Booster I
+

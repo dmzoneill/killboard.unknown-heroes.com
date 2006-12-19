@@ -1,0 +1,25 @@
+2007.03.23 05:50
+
+Victim: truefranco
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Destroyed: Crow
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: One Percent (laid the final blow)
+Security: -4.0
+Alliance: None
+Corp: Developmental Neogenics Amalgamated
+Ship: Flycatcher
+Weapon: Thorn Rocket
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 40
+Standard Missile Launcher II
+Bloodclaw Light Missile, Qty: 1745 (Cargo)
+

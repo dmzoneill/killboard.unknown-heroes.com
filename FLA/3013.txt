@@ -1,0 +1,56 @@
+2007.03.22 07:06
+
+Victim: meisterjedi
+Alliance: None
+Corp: Armee der Finsternis
+Destroyed: Apocalypse
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Tassill
+Security: 5.0
+Alliance: Zenith Affinity
+Corp: GREY COUNCIL
+Ship: Claw
+Weapon: Einherji
+
+Name: FlobbMkII
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Taranis
+Weapon: Taranis
+
+Name: Shuttlemaster (laid the final blow)
+Security: 5.0
+Alliance: Zenith Affinity
+Corp: GREY COUNCIL
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+Name: Dr Milyardo
+Security: 1.2
+Alliance: Zenith Affinity
+Corp: GREY COUNCIL
+Ship: Thanatos
+Weapon: Dragonfly
+
+
+Destroyed items:
+
+Mega Pulse Laser II
+Mega Pulse Laser II
+Mega Pulse Laser II
+Conflagration L
+Conflagration L
+Conflagration L
+Conflagration L
+Conflagration L
+Fleeting Propulsion Inhibitor I
+F-90 Positional Sensor Subroutines
+F-90 Positional Sensor Subroutines
+Armor Explosive Hardener II
+F-90 Positional Sensor Subroutines (Cargo)
+

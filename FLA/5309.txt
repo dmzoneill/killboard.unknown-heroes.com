@@ -1,0 +1,55 @@
+2007.04.24 02:06
+
+Victim: Aridante Lemure
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Destroyed: Thorax
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Savak
+Security: 0.2
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Punisher
+Weapon: Punisher
+
+Name: Akthuul (laid the final blow)
+Security: 5.0
+Alliance: Storm Armada
+Corp: stone grave haulage
+Ship: Thanatos
+Weapon: Firbolg
+
+Name: RyMcQeN I
+Security: 4.2
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+Name: Konson
+Security: 3.7
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Vengeance
+Weapon: Vengeance
+
+Name: Ghost Hughdidit
+Security: 3.1
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Thanatos
+Weapon: Firbolg
+
+
+Destroyed items:
+
+Antimatter Charge M, Qty: 200
+Warp Scrambler I
+Magnetic Field Stabilizer I
+Basic Inertia Stabilizers
+Nanofiber Internal Structure I
+

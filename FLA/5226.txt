@@ -1,0 +1,26 @@
+2007.04.27 09:11
+
+Victim: Andirose
+Alliance: None
+Corp: State War Academy
+Destroyed: Capsule
+System: F7C-H0
+Security: 0.0
+
+Involved parties:
+
+Name: Koi Yokuma (laid the final blow)
+Security: 0.4
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Catalyst
+Weapon: 150mm Railgun I
+
+Name: Lizzon
+Security: 5.0
+Alliance: Guardian Federation
+Corp: KULT Production
+Ship: Arazu
+Weapon: X5 Prototype I Engine Enervator
+
+

@@ -1,0 +1,52 @@
+2007.03.27 23:33
+
+Victim: Shiftless
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Drake
+System: Z-Y7R7
+Security: 0.0
+
+Involved parties:
+
+Name: Asmodi (laid the final blow)
+Security: -2.6
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Pilgrim
+Weapon: Hammerhead II
+
+Name: Neily
+Security: 4.6
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Megathron
+Weapon: Hobgoblin II
+
+Name: MOS EISLEY
+Security: 3.9
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Dominix
+Weapon: Dominix
+
+Name: istasi
+Security: 0.3
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Magnelien
+Security: 4.3
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Crow
+Weapon: Gremlin Rocket
+
+
+Destroyed items:
+
+Advanced 'Limos' Heavy Missile Bay I
+Ballistic Control System I
+

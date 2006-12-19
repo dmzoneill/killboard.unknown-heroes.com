@@ -1,0 +1,19 @@
+2006.11.06 23:32
+
+Victim: Rhaall
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Destroyed: Crucifier
+System: Haajinen
+Security: 0.8
+
+Involved parties:
+
+Name: TranZferR (laid the final blow)
+Security: -1.8
+Alliance: None
+Corp: The Initiative
+Ship: Lachesis
+Weapon: Havoc Fury Heavy Missile
+
+

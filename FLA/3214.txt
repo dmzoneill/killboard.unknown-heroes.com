@@ -1,0 +1,28 @@
+2007.03.21 05:21
+
+Victim: Aranon Ogronios
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Bustard
+System: MZ1E-P
+Security: 0.0
+
+Involved parties:
+
+Name: Catbear (laid the final blow)
+Security: 1.9
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Malediction
+Weapon: Dual Light Pulse Laser II
+
+
+Destroyed items:
+
+Small Tractor Beam I
+Medium Shield Booster II
+Expanded Cargohold II
+Expanded Cargohold II
+Expanded Cargohold II
+Giant Secure Container, Qty: 4 (Cargo)
+

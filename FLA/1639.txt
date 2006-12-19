@@ -1,0 +1,78 @@
+2007.03.19 01:57
+
+Victim: zigzag429
+Alliance: YouWhat
+Corp: Beasts of Burden
+Destroyed: Hurricane
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Weeble Wooble
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Megathron
+Weapon: Megathron
+
+Name: KiNgShiZzLe
+Security: 5.0
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+Name: Logand Delta
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Ship: Drake
+Weapon: Widowmaker Heavy Missile
+
+Name: Zattron (laid the final blow)
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: ISpydeRI
+Security: 5.0
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+Name: Blaze Forerunner
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Drake
+Weapon: Havoc Heavy Missile
+
+
+Destroyed items:
+
+720mm Carbine Howitzer I
+720mm Carbine Howitzer I
+650mm Medium Prototype I Siege Cannon
+650mm Medium Gallium I Cannon
+EMP M
+EMP M
+EMP M
+EMP M
+EMP M
+Scourge Heavy Missile, Qty: 30
+Thunderbolt Heavy Missile, Qty: 26
+Heavy Missile Launcher I
+XR-3200 Heavy Missile Bay
+Medium Capacitor Booster I
+Tracking Computer I
+Tracking Disruptor I
+N-Type Thermic Hardener I
+Cap Booster 400, Qty: 17 (Cargo)
+Havoc Heavy Missile, Qty: 358 (Cargo)
+Thunderbolt Heavy Missile, Qty: 358 (Cargo)
+Acolyte I, Qty: 6 (Drone Bay)
+

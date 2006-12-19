@@ -1,0 +1,37 @@
+2006.10.28 17:03
+
+Victim: Kuentai
+Alliance: R0ADKILL
+Corp: Beagle Corp
+Destroyed: Claw
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: 31i73 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Megathron
+Weapon: Large Rudimentary Concussion Bomb I
+
+
+Destroyed items:
+
+150mm Light AutoCannon II
+150mm Light AutoCannon II
+Barrage S, Qty: 160
+Bloodclaw Light Missile, Qty: 42
+'Malkuth' Standard Missile Launcher I
+Catalyzed Cold-Gas I Arcjet Thrusters
+Faint Epsilon Warp Prohibitor I
+Small Armor Repairer II
+200mm Reinforced Rolled Tungsten Plates I
+Eutectic I Capacitor Charge Array, Qty: 2 (Cargo)
+Catalyzed Cold-Gas I Arcjet Thrusters (Cargo)
+Barrage S, Qty: 1848 (Cargo)
+Hail S, Qty: 1732 (Cargo)
+Bloodclaw Light Missile, Qty: 236 (Cargo)
+Sabretooth Light Missile, Qty: 15 (Cargo)
+

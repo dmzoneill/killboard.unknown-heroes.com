@@ -1,0 +1,26 @@
+2007.03.22 19:15
+
+Victim: tost
+Alliance: Triumvirate.
+Corp: ViperSquad
+Destroyed: Capsule
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Diablo 2k6 (laid the final blow)
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Vexor
+Weapon: Ogre I
+
+Name: DarkAvenger DK
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Punisher
+Weapon: Small 'Ghoul' Energy Siphon I
+
+

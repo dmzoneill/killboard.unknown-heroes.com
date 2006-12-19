@@ -1,0 +1,44 @@
+2007.04.08 19:09
+
+Victim: Capricorn 0ne
+Alliance: None
+Corp: Dixie minig corp
+Destroyed: Ibis
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Meh'lindi
+Security: 4.4
+Alliance: Darklite inc Alliance
+Corp: Darklite inc
+Ship: Enyo
+Weapon: Enyo
+
+Name: Jarath Abyss (laid the final blow)
+Security: 4.2
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Ship: Thorax
+Weapon: 200mm Railgun II
+
+Name: suddenshock
+Security: 4.0
+Alliance: Darklite inc Alliance
+Corp: Darklite inc
+Ship: Hawk
+Weapon: 150mm Railgun I
+
+Name: sunshine nl
+Security: 1.9
+Alliance: Darklite inc Alliance
+Corp: Darklite inc
+Ship: Blackbird
+Weapon: 'Malkuth' Assault Missile Launcher I
+
+
+Destroyed items:
+
+Tritanium (Cargo)
+

@@ -1,0 +1,34 @@
+2007.03.15 04:20
+
+Victim: Shaqr Fain
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Destroyed: Catalyst
+System: MJYW-3
+Security: 0.0
+
+Involved parties:
+
+Name: RubberDuckey (laid the final blow)
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Blackwater Squadron
+Ship: Curse
+Weapon: Hammerhead II
+
+
+Destroyed items:
+
+Light Neutron Blaster I
+Light Neutron Blaster I
+Light Neutron Blaster I
+Light Ion Blaster I
+Light Ion Blaster I
+Iron Charge S, Qty: 120
+1MN MicroWarpdrive I
+Low Frequency Sensor Suppressor I
+Small Armor Repairer I
+Lead Charge S, Qty: 620 (Cargo)
+Warrior I (Cargo)
+Hornet EC-300 (Drone Bay)
+

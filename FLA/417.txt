@@ -1,0 +1,19 @@
+2007.02.01 01:11
+
+Victim: Recarttas
+Alliance: None
+Corp: Caldari Provisions
+Destroyed: Capsule
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Teck7 (laid the final blow)
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ishtar
+Weapon: 150mm Railgun II
+
+

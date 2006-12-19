@@ -1,0 +1,178 @@
+2007.02.09 22:00
+
+Victim: Kalibrana
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Destroyed: Hyperion
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Elliott Manchild (laid the final blow)
+Security: -1.8
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Machariel
+Weapon: 1400mm Howitzer Artillery II
+
+Name: ukpAgAn
+Security: 5.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Misha Mosqito
+Security: 3.3
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Megathron
+Weapon: Megathron
+
+Name: ArchenTheGreat
+Security: -0.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Rokh
+Weapon: Rokh
+
+Name: Lord KesH
+Security: 2.5
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Maelstrom
+Weapon: Maelstrom
+
+Name: Anominity
+Security: 4.2
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Abaddon
+Weapon: Abaddon
+
+Name: McGin
+Security: -3.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Megathron
+Weapon: Megathron
+
+Name: xlop
+Security: -1.8
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Abaddon
+Weapon: Abaddon
+
+Name: NightWolfe
+Security: 5.0
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Megathron
+Weapon: Megathron
+
+Name: Ceapio
+Security: 1.2
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: boo3916
+Security: 4.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Rokh
+Weapon: Rokh
+
+Name: Darknesss
+Security: 0.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Megathron
+Weapon: Megathron
+
+Name: Jester87
+Security: 1.5
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Eagle
+Weapon: Eagle
+
+Name: Pistonbroke
+Security: 0.5
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Rokh
+Weapon: Rokh
+
+Name: aadom
+Security: 3.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Tempest
+Weapon: Piranha Light Missile
+
+Name: Martin Mckenna
+Security: 2.5
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Malediction
+Weapon: Warp Disruptor I
+
+Name: Nevermore
+Security: 4.6
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Megathron
+Weapon: Infiltrator II
+
+Name: Assassin 2
+Security: 5.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Crow
+Weapon: Bloodclaw Fury Light Missile
+
+Name: cptblood
+Security: 2.3
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Jenessa
+Security: 1.2
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Rapier
+Weapon: 720mm Howitzer Artillery II
+
+Name: WarGod
+Security: 2.7
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Vagabond
+Weapon: Vagabond
+
+
+Destroyed items:
+
+Large Rudimentary Concussion Bomb I
+Large 'Solace' I Remote Bulwark Reconstruction
+Eutectic I Capacitor Charge Array
+Heavy F-RX Prototype I Capacitor Boost
+Medium Electrochemical Capacitor Booster I
+Heavy Electrochemical Capacitor Booster I
+Cap Booster 200
+Cap Booster 200
+Cap Booster 200
+Cap Booster 800
+Cap Booster 800
+Cap Booster 800
+1600mm Reinforced Rolled Tungsten Plates I
+1600mm Reinforced Rolled Tungsten Plates I
+Cap Booster 800, Qty: 12 (Cargo)
+Cap Booster 200, Qty: 36 (Cargo)
+

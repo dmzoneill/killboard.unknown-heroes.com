@@ -1,0 +1,44 @@
+2007.03.10 17:24
+
+Victim: evilempire3
+Alliance: Chorus of Dawn
+Corp: Cosmic Odyssey
+Destroyed: Caldari Shuttle
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Jonas123 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Ferox
+Weapon: 250mm Compressed Coil Gun I
+
+Name: other mickey
+Security: 2.9
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Ares
+Weapon: Ares
+
+Name: Banishment
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Sin-X Inc.
+Ship: Incursus
+Weapon: 125mm Railgun I
+
+Name: Probita
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Thorax
+Weapon: Heavy Ion Blaster I
+
+
+Destroyed items:
+
+High Speed Maneuvering (Cargo)
+

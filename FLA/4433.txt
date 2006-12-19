@@ -1,0 +1,70 @@
+2007.04.10 04:25
+
+Victim: Skull Fire
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Scorpion
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: FowlPlayChiken
+Security: 1.2
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Thanatos
+Weapon: Firbolg
+
+Name: Ronald Speirs
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Nidhoggur
+Weapon: Firbolg
+
+Name: bsspewer (laid the final blow)
+Security: 2.5
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Archon
+Weapon: Templar
+
+Name: Queldonus
+Security: 2.6
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Nidhoggur
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: Nethel
+Security: 2.1
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Dominix
+Weapon: Initiated Warp Jammer I
+
+
+Destroyed items:
+
+Uranium Charge L, Qty: 137
+Devastator Cruise Missile, Qty: 12
+Cataclysm Cruise Missile, Qty: 15
+Paradise Cruise Missile, Qty: 13
+Wrath Cruise Missile, Qty: 12
+'Arbalest' Cruise Launcher I
+'Arbalest' Cruise Launcher I
+'Arbalest' Cruise Launcher I
+Large Shield Extender II
+Quad LiF Fueled I Booster Rockets
+X5 Prototype I Engine Enervator
+'Hypnos' Multispectral ECM I
+'Hypnos' Multispectral ECM I
+Alumel-Wired I Sensor Augmentation
+Mark I Generator Refitting: Diagnostic System
+Uranium Charge L, Qty: 680 (Cargo)
+Paradise Cruise Missile, Qty: 976 (Cargo)
+Wasp I (Drone Bay)
+Berserker I (Drone Bay)
+Ogre I (Drone Bay)
+

@@ -1,0 +1,40 @@
+2007.03.15 18:09
+
+Victim: Fellswoop
+Alliance: YouWhat
+Corp: Beasts of Burden
+Destroyed: Capsule
+System: XZH-4X
+Security: 0.0
+
+Involved parties:
+
+Name: Ocara Nezus
+Security: 2.4
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Crow
+Weapon: Bloodclaw Fury Light Missile
+
+Name: WolfRavage (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Hyperion
+Weapon: 425mm Railgun I
+
+Name: r Cubed
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: The Night Crew
+Ship: Cormorant
+Weapon: J5b Phased Prototype Warp Inhibitor I
+
+Name: SoF Reaperman
+Security: 4.4
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Blackbird
+Weapon: Heavy Missile Launcher I
+
+

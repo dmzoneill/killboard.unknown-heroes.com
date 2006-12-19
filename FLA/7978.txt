@@ -1,0 +1,28 @@
+2006.10.05 07:25
+
+Victim: SpaceSlag
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Caracal
+System: Isanamo
+Security: 0.6
+
+Involved parties:
+
+Name: Pure Blood (laid the final blow)
+Security: 0.0
+Alliance: None
+Corp: Privateers
+Ship: Bellicose
+Weapon: 200mm AutoCannon II
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 30
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Large Shield Booster I
+ECM - Multispectral Jammer I (Cargo)
+Scourge Heavy Missile, Qty: 7350 (Cargo)
+

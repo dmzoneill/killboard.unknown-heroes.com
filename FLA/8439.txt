@@ -1,0 +1,45 @@
+2006.11.18 07:04
+
+Victim: DanyD
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Destroyed: Blackbird
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: GoLdeN BoY
+Security: 1.7
+Alliance: None
+Corp: Beer Guzzling Clowns With Blasters
+Ship: Malediction
+Weapon: Malediction
+
+Name: Torok Nakaht
+Security: 2.2
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Claw
+Weapon: Claw
+
+Name: TheManEatingMonkey (laid the final blow)
+Security: 0.8
+Alliance: None
+Corp: Beer Guzzling Clowns With Blasters
+Ship: Jaguar
+Weapon: 200mm AutoCannon II
+
+
+Destroyed items:
+
+250mm Railgun I
+Scourge Heavy Missile, Qty: 60
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Medium Converse I Deflection Catalyzer
+Fleeting Warp Scrambler I
+ECM - Multispectral Jammer I
+Prototype I Sensor Booster
+Target Painter I
+

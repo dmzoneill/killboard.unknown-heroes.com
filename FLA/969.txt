@@ -1,0 +1,60 @@
+2007.03.01 06:10
+
+Victim: DemoIition
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Destroyed: Manticore
+System: YZ-LQL
+Security: 0.0
+
+Involved parties:
+
+Name: Nagor Surin (laid the final blow)
+Security: 3.0
+Alliance: Sparta Alliance
+Corp: Lynx Frontier Inc.
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Giamilton
+Security: 4.0
+Alliance: Serenity Fallen
+Corp: Synergy Evolved
+Ship: Ares
+Weapon: Ares
+
+Name: hydraSlav
+Security: 2.3
+Alliance: Serenity Fallen
+Corp: Synergy Evolved
+Ship: Taranis
+Weapon: Taranis
+
+Name: Father Calistas
+Security: 5.0
+Alliance: Zenith Affinity
+Corp: Antipodean inc.
+Ship: Rupture
+Weapon: 'Malkuth' Rocket Launcher I
+
+Name: sakana
+Security: -0.9
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Taranis
+Weapon: Fleeting Warp Scrambler I
+
+
+Destroyed items:
+
+Improved Cloaking Device II
+Paradise Cruise Missile, Qty: 13
+Wrath Cruise Missile, Qty: 11
+'Arbalest' Cruise Launcher I
+'Limos' Cruise Launcher I
+'Limos' Cruise Launcher I
+Target Painter I
+Nanofiber Internal Structure I
+Paradise Cruise Missile, Qty: 997 (Cargo)
+Devastator Cruise Missile, Qty: 309 (Cargo)
+

@@ -1,0 +1,44 @@
+2007.03.18 07:29
+
+Victim: Great Jugger
+Alliance: YouWhat
+Corp: SteelVipers
+Destroyed: Rapier
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Shuttlemaster (laid the final blow)
+Security: 5.0
+Alliance: Zenith Affinity
+Corp: GREY COUNCIL
+Ship: Pilgrim
+Weapon: Wasp II
+
+Name: Skull Fire
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Merlin
+Weapon: Merlin
+
+
+Destroyed items:
+
+650mm Artillery Cannon II
+650mm Artillery Cannon II
+EMP M
+EMP M
+EMP M
+EMP M
+EMP M
+EMP M
+Large Shield Extender II
+10MN MicroWarpdrive I
+J5 Prototype Warp Inhibitor I
+X5 Prototype I Engine Enervator
+Sensor Booster II
+Nanofiber Internal Structure I
+Tremor M, Qty: 379 (Cargo)
+

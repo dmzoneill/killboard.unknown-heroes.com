@@ -1,0 +1,82 @@
+2007.01.18 05:10
+
+Victim: Gorns Raflazar
+Alliance: Firmus Ixion
+Corp: Xoth Inc
+Destroyed: Slasher
+System: ED-L9T
+Security: 0.0
+
+Involved parties:
+
+Name: Vindication
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Wolf
+Weapon: 280mm Howitzer Artillery II
+
+Name: Arfy (laid the final blow)
+Security: 4.0
+Alliance: Imperial Republic Of the North
+Corp: Port Royal Independent Kontractors
+Ship: Vulture
+Weapon: 250mm Railgun II
+
+Name: Tarphon
+Security: 2.6
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Raptor
+Weapon: Raptor
+
+Name: Real Darkling
+Security: 3.4
+Alliance: Imperial Republic Of the North
+Corp: MetaForge
+Ship: Hawk
+Weapon: Thorn Javelin Rocket
+
+Name: Eutectic
+Security: 5.2
+Alliance: Imperial Republic Of the North
+Corp: VentureCorp
+Ship: Ishkur
+Weapon: 150mm Railgun II
+
+Name: Rascle
+Security: 2.8
+Alliance: Imperial Republic Of the North
+Corp: MetaForge
+Ship: Raptor
+Weapon: Warp Disruptor I
+
+Name: NATMav
+Security: 3.2
+Alliance: EVE Animal Control
+Corp: F.R.E.E. Explorer
+Ship: Crow
+Weapon: Indirect Scanning Dampening Unit I
+
+Name: Karnovsky
+Security: 4.6
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Claw
+Weapon: Claw
+
+Name: Erfurt
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: MetaForge
+Ship: Raptor
+Weapon: Raptor
+
+
+Destroyed items:
+
+75mm Gatling Rail I
+75mm Gatling Rail I
+1MN MicroWarpdrive I
+Overdrive Injector System I
+

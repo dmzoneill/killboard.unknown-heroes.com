@@ -1,0 +1,132 @@
+2007.03.05 21:07
+
+Victim: Blaste Corss
+Alliance: Aftermath Alliance
+Corp: Dark Nebula Gallente Division
+Destroyed: Dominix
+System: 006-L3
+Security: 0.0
+
+Involved parties:
+
+Name: Hedeon Mishenka
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Coercer
+Weapon: Medium Pulse Laser II
+
+Name: william kronos (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Dana Foxworth
+Security: 3.2
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Rupture
+Weapon: Rupture
+
+Name: Puz'ZaW
+Security: 2.7
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Claw
+Weapon: Claw
+
+Name: bjugis
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Thorax
+Weapon: Warrior I
+
+Name: Cyrila Wolf
+Security: -2.3
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Rupture
+Weapon: Rupture
+
+Name: Daressek
+Security: 3.7
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Kestrel
+Weapon: Bloodclaw Light Missile
+
+Name: misscoda
+Security: 3.7
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Blackbird
+Weapon: ECM - White Noise Generator II
+
+Name: Muad' Dib
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Malediction
+Weapon: Malediction
+
+Name: Tiberius Drake
+Security: 4.1
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Ishkur
+Weapon: Hobgoblin II
+
+Name: Ocara Nezus
+Security: 2.3
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Hawk
+Weapon: Bloodclaw Precision Light Missile
+
+Name: Hallonet
+Security: 0.3
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Thorax
+Weapon: Vespa I
+
+Name: Patch86
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Celestis
+Weapon: Remote Sensor Dampener I
+
+
+Destroyed items:
+
+Heavy Beam Laser I
+Heavy Anode Particle Stream I
+E500 Prototype Energy Vampire
+Small Tractor Beam I
+Sensor Booster I
+Warp Core Stabilizer I
+N-Type Thermic Hardener I
+N-Type Thermic Hardener I
+N-Type Kinetic Hardener I
+1600mm Reinforced Rolled Tungsten Plates I
+100MN MicroWarpdrive I (Cargo)
+100MN Afterburner I (Cargo)
+Regulated Mega Neutron Phase Cannon I (Cargo)
+Ion Blaster Cannon I (Cargo)
+425mm Railgun I (Cargo)
+Cap Booster 800 (Cargo)
+Radioisotope Explosive Hardener I (Cargo)
+N-Type Thermic Hardener I, Qty: 2 (Cargo)
+Armor EM Hardener I (Cargo)
+Microcell Nanite EM Hardener I (Cargo)
+N-Type EM Hardener I (Cargo)
+Voltaic Nanite Explosive Hardener I (Cargo)
+1600mm Reinforced Nanofiber Plates I (Cargo)
+1600mm Reinforced Steel Plates I, Qty: 5 (Cargo)
+Berserker I, Qty: 4 (Drone Bay)
+Wasp II, Qty: 3 (Drone Bay)
+

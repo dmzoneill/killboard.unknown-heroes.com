@@ -1,0 +1,19 @@
+2007.02.04 21:22
+
+Victim: Kaptain Fitz
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Caldari Shuttle
+System: Yoma
+Security: 0.6
+
+Involved parties:
+
+Name: Pure Blood (laid the final blow)
+Security: -0.3
+Alliance: Privateer Alliance
+Corp: Privateers
+Ship: Rupture
+Weapon: Dual 180mm AutoCannon I
+
+

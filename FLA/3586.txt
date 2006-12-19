@@ -1,0 +1,68 @@
+2007.03.27 14:26
+
+Victim: Vendetta V
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Destroyed: Drake
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Musician
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Tempest
+Weapon: Tempest
+
+Name: Gavax (laid the final blow)
+Security: -1.7
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Deimos
+Weapon: Heavy Ion Blaster II
+
+Name: MegaJ
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Huginn
+Weapon: Huginn
+
+Name: tomlinsonland
+Security: -1.8
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Crow
+Weapon: Crow
+
+Name: Loomina
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Eris
+Weapon: Acolyte II
+
+
+Destroyed items:
+
+Widowmaker Heavy Missile, Qty: 66
+Thunderbolt Heavy Missile, Qty: 33
+Advanced 'Limos' Heavy Missile Bay I
+Advanced 'Limos' Heavy Missile Bay I
+Advanced 'Limos' Heavy Missile Bay I
+Large F-S9 Regolith Shield Induction
+Shield Recharger II
+Medium Shield Extender I (Cargo)
+10MN MicroWarpdrive I, Qty: 2 (Cargo)
+Basic Shield Power Relay, Qty: 2 (Cargo)
+Shield Power Relay I, Qty: 2 (Cargo)
+Medium Armor Repairer I (Cargo)
+Small Nosferatu I (Cargo)
+'Anointed' I EM Ward Reinforcement, Qty: 4 (Cargo)
+Invulnerability Field I (Cargo)
+Shield Management (Cargo)
+Thunderbolt Heavy Missile, Qty: 502 (Cargo)
+Advanced 'Limos' Heavy Missile Bay I (Cargo)
+

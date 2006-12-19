@@ -1,0 +1,29 @@
+2007.04.25 23:58
+
+Victim: Xenofur
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Vigil
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Robet Katrix (laid the final blow)
+Security: 2.2
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Scorpion
+Weapon: Devastator Precision Cruise Missile
+
+
+Destroyed items:
+
+75mm Gatling Rail I
+Antimatter Charge S, Qty: 200
+1MN MicroWarpdrive I
+Stasis Webifier I
+Overdrive Injector System I
+Overdrive Injector System I
+Iron Charge S, Qty: 400 (Cargo)
+

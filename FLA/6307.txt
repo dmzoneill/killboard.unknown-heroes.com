@@ -1,0 +1,52 @@
+2006.11.12 03:02
+
+Victim: Princess Felatio
+Alliance: None
+Corp: Intergalactic Securities Corporation
+Destroyed: Ibis
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: MAD D0G
+Security: -0.6
+Alliance: None
+Corp: Ganksters Paradise
+Ship: Caracal
+Weapon: Widowmaker Heavy Missile
+
+Name: Elfaen Ethenwe (laid the final blow)
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Rustiko
+Security: 3.8
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Thorax
+Weapon: 150mm Railgun I
+
+Name: Zachariah Barnette
+Security: 0.8
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Ship: Caracal
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+Name: Bad Borris
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Ship: Caracal
+Weapon: Advanced 'Limos' Heavy Missile Bay I
+
+
+Destroyed items:
+
+Civilian Gatling Railgun
+Basic Miner
+

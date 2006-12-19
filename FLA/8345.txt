@@ -1,0 +1,33 @@
+2006.11.10 01:47
+
+Victim: Domosan
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Destroyed: Capsule
+System: J1AU-9
+Security: 0.0
+
+Involved parties:
+
+Name: Iceman DK (laid the final blow)
+Security: 1.0
+Alliance: None
+Corp: Dark-Rising
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Boogiez
+Security: 0.5
+Alliance: None
+Corp: Dark-Rising
+Ship: Thorax
+Weapon: Thorax
+
+Name: JMcClane
+Security: 4.8
+Alliance: None
+Corp: Dark-Rising
+Ship: Vexor
+Weapon: Light Ion Blaster II
+
+

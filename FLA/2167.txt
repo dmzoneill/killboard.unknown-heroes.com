@@ -1,0 +1,37 @@
+2007.01.28 00:24
+
+Victim: Po1ysorbate
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Badger Mark II
+System: MZ1E-P
+Security: 0.0
+
+Involved parties:
+
+Name: Iceman DK (laid the final blow)
+Security: 1.4
+Alliance: None
+Corp: Righteous Choirboys
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Boogiez
+Security: 1.4
+Alliance: None
+Corp: Righteous Choirboys
+Ship: Crow
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: JMcClane
+Security: 4.3
+Alliance: None
+Corp: Righteous Choirboys
+Ship: Crow
+Weapon: TE-2100 Standard Missile Bay
+
+
+Destroyed items:
+
+Expanded Cargohold I
+

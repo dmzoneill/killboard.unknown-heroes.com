@@ -1,0 +1,54 @@
+2007.03.20 01:41
+
+Victim: Clavain Treesmighter
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Destroyed: Hawk
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: DarkAlpha (laid the final blow)
+Security: -0.2
+Alliance: YouWhat
+Corp: Pringles Inc.
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+Name: Wodanonline
+Security: 4.6
+Alliance: YouWhat
+Corp: Pringles Inc.
+Ship: Purifier
+Weapon: Paradise Cruise Missile
+
+Name: Blood Ravennn
+Security: 3.7
+Alliance: YouWhat
+Corp: Pringles Inc.
+Ship: Nemesis
+Weapon: 'Arbalest' Cruise Launcher I
+
+Name: SteVewojo
+Security: 5.0
+Alliance: YouWhat
+Corp: Pringles Inc.
+Ship: Pilgrim
+Weapon: Vespa II
+
+
+Destroyed items:
+
+Sabretooth Light Missile, Qty: 90
+Piranha Light Missile, Qty: 45
+Bloodclaw Light Missile, Qty: 45
+TE-2100 Standard Missile Bay
+TE-2100 Standard Missile Bay
+TE-2100 Standard Missile Bay
+Small Shield Booster II
+1MN Afterburner II
+J5 Prototype Warp Inhibitor I
+Patterned Stasis Web I
+Bloodclaw Light Missile, Qty: 458 (Cargo)
+

@@ -1,0 +1,32 @@
+2007.02.16 22:03
+
+Victim: stich626
+Alliance: None
+Corp: Princeps Corp
+Destroyed: Thorax
+System: Jita
+Security: 0.9
+
+Involved parties:
+
+Name: Sorlac Aurora (laid the final blow)
+Security: 2.1
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ferox
+Weapon: Fulmination Assault Missile
+
+
+Destroyed items:
+
+Heavy Electron Blaster II
+Heavy Electron Blaster II
+Warp Disruptor I
+'Langour' Drive Disruptor I
+Pseudoelectron Containment Field I
+Medium Armor Repairer II
+Energized Reactive Membrane I
+Energized Magnetic Membrane I
+Null M, Qty: 2636 (Cargo)
+Hammerhead I, Qty: 3 (Drone Bay)
+

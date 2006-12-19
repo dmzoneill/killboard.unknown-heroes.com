@@ -1,0 +1,29 @@
+2007.05.14 16:37
+
+Victim: Ocara Nezus
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Caracal
+System: Tartoken
+Security: 0.1
+
+Involved parties:
+
+Name: Madboy (laid the final blow)
+Security: 2.8
+Alliance: None
+Corp: Mentally Unstable Enterprises
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+
+Destroyed items:
+
+Sabretooth Light Missile, Qty: 52
+'Malkuth' Assault Missile Launcher I
+Assault Missile Launcher I
+10MN MicroWarpdrive I
+Stasis Webifier I
+Ballistic Control System I
+Mark I Generator Refitting: Diagnostic System
+

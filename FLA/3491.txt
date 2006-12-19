@@ -1,0 +1,33 @@
+2007.03.31 01:26
+
+Victim: RTwo DTwo
+Alliance: None
+Corp: Federal Navy Academy
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Untamed Fury (laid the final blow)
+Security: 1.1
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+Name: Kulok
+Security: 5.0
+Alliance: O X I D E
+Corp: W33D Corp.
+Ship: Ishkur
+Weapon: Warp Disruptor I
+
+Name: Hopeless EQUILIBRIUM
+Security: -2.4
+Alliance: O X I D E
+Corp: W33D Corp.
+Ship: Crusader
+Weapon: Crusader
+
+

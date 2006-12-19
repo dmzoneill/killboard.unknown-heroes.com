@@ -1,0 +1,29 @@
+2006.10.05 15:26
+
+Victim: Foot M
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Destroyed: Caracal
+System: Litiura
+Security: 0.5
+
+Involved parties:
+
+Name: Onin Ra (laid the final blow)
+Security: 1.1
+Alliance: None
+Corp: Privateers
+Ship: Megathron
+Weapon: 425mm 'Scout' I Accelerator Cannon
+
+
+Destroyed items:
+
+Widowmaker Heavy Missile, Qty: 31
+'Malkuth' Heavy Missile Launcher I
+Medium Shield Booster II
+Type-D Attenuation Signal Augmentation
+Scourge Heavy Missile, Qty: 854 (Cargo)
+Widowmaker Heavy Missile, Qty: 753 (Cargo)
+Acolyte I (Drone Bay)
+

@@ -1,0 +1,27 @@
+2007.04.12 06:26
+
+Victim: Laerana
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Vexor
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Vily (laid the final blow)
+Security: 0.3
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Maller
+Weapon: Focused Medium Pulse Laser II
+
+
+Destroyed items:
+
+Medium Electrochemical Capacitor Booster I
+Remote Sensor Booster I
+Medium Armor Repairer I
+Armor Kinetic Hardener I
+Hornet I, Qty: 3 (Drone Bay)
+

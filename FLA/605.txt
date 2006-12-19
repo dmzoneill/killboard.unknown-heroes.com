@@ -1,0 +1,101 @@
+2007.02.12 20:39
+
+Victim: Adrianna Utani
+Alliance: None
+Corp: Fate.
+Destroyed: Sabre
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Solarienne (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+Name: Praetorian Mardou
+Security: 4.8
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+Name: Minisoza
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: MohamedLoftie
+Security: -1.2
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Malediction
+Weapon: Malediction
+
+Name: forever faithless
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Harpy
+Weapon: Harpy
+
+Name: Illesa
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Arazu
+Weapon: 250mm Railgun II
+
+Name: Inter Fectum
+Security: 1.9
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Jaguar
+Weapon: 150mm Light AutoCannon II
+
+Name: WolfRavage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: Zoltan Prime
+Security: 1.2
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Atron
+Weapon: J5b Phased Prototype Warp Inhibitor I
+
+Name: Weeble Wooble
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Deimos
+Weapon: Heavy Ion Blaster II
+
+
+Destroyed items:
+
+200mm AutoCannon II
+200mm AutoCannon II
+200mm AutoCannon II
+200mm AutoCannon II
+200mm AutoCannon II
+Barrage S, Qty: 300
+Gremlin Rocket, Qty: 30
+'Arbalest' Rocket Launcher I
+1MN MicroWarpdrive II
+Faint Warp Prohibitor I
+Fleeting Propulsion Inhibitor I
+Photonic CPU Enhancer I, Qty: 2 (Cargo)
+Hail S, Qty: 9980 (Cargo)
+Barrage S, Qty: 7653 (Cargo)
+TE-2100 Standard Missile Bay (Cargo)
+Interdiction Sphere Launcher I (Cargo)
+

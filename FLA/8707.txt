@@ -1,0 +1,31 @@
+2006.12.08 15:45
+
+Victim: Formosus Funus
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Destroyed: Rupture
+System: Mara
+Security: 0.4
+
+Involved parties:
+
+Name: Midori Sakura (laid the final blow)
+Security: -0.7
+Alliance: Privateer Alliance
+Corp: Privateers
+Ship: Myrmidon
+Weapon: Anode Ion Particle Cannon I
+
+
+Destroyed items:
+
+Dual 180mm Carbine Repeating Cannon I
+220mm Medium Prototype I Automatic Cannon
+220mm Medium Prototype I Automatic Cannon
+EMP M, Qty: 86
+'Arbalest' Assault Missile Launcher
+J5 Prototype Warp Inhibitor I
+Patterned Stasis Web I
+N-Type Kinetic Hardener I
+Sabretooth Light Missile, Qty: 821 (Cargo)
+

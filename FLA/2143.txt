@@ -1,0 +1,19 @@
+2007.01.24 23:09
+
+Victim: Gythar
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Destroyed: Griffin
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Millis (laid the final blow)
+Security: 1.7
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Deimos
+Weapon: 250mm Railgun II
+
+

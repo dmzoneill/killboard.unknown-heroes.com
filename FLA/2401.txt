@@ -1,0 +1,97 @@
+2007.02.09 22:06
+
+Victim: Burn Lump
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Destroyed: Ferox
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Elliott Manchild
+Security: -1.8
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Machariel
+Weapon: 1400mm Howitzer Artillery II
+
+Name: XxAngelxX (laid the final blow)
+Security: -2.8
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Abaddon
+Weapon: Tachyon Beam Laser II
+
+Name: Misha Mosqito
+Security: 3.3
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Martin Mckenna
+Security: 2.5
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Malediction
+Weapon: Malediction
+
+Name: Anna Neura
+Security: -0.8
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Taranis
+Weapon: Fleeting Warp Scrambler I
+
+Name: xlop
+Security: -1.8
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Abaddon
+Weapon: Tachyon Beam Laser II
+
+Name: NightWolfe
+Security: 5.0
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: j3bus
+Security: 3.1
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+Name: Zap Zaberdine
+Security: 3.1
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Claw
+Weapon: Fleeting Warp Scrambler I
+
+Name: WarGod
+Security: 2.7
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Assassin 2
+Security: 5.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Crow
+Weapon: J5 Prototype Warp Inhibitor I
+
+
+Destroyed items:
+
+Small Energy Neutralizer I
+Indirect Scanning Dampening Unit I
+Sensor Booster I
+Signal Amplifier I
+Magnetic Field Stabilizer I
+

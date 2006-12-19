@@ -1,0 +1,44 @@
+2007.05.01 04:12
+
+Victim: Red Thunder
+Alliance: Mass Destruction.
+Corp: Biohazzard Task Force
+Destroyed: Muninn
+System: Vlillirier
+Security: 0.3
+
+Involved parties:
+
+Name: Draconian Arcane (laid the final blow)
+Security: -2.5
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Cyclone
+Weapon: Widowmaker Heavy Missile
+
+Name: The Cade
+Security: 1.6
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Brutix
+Weapon: Brutix
+
+Name: Koi Yokuma
+Security: 0.4
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Thorax
+Weapon: Hammerhead I
+
+
+Destroyed items:
+
+220mm Vulcan AutoCannon II
+220mm Vulcan AutoCannon II
+Medium Nosferatu II
+Barrage M, Qty: 46
+10MN MicroWarpdrive I
+Energized Adaptive Nano Membrane I
+N-Type Explosive Hardener I
+N-Type Kinetic Hardener I
+

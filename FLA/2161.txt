@@ -1,0 +1,37 @@
+2007.01.26 06:29
+
+Victim: Teck7
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Thorax
+System: OWXT-5
+Security: 0.0
+
+Involved parties:
+
+Name: Vyndicator
+Security: -2.5
+Alliance: None
+Corp: 0utbreak
+Ship: Typhoon
+Weapon: Devastator Cruise Missile
+
+Name: P1rate Dave (laid the final blow)
+Security: 0.9
+Alliance: None
+Corp: 0utbreak
+Ship: Typhoon
+Weapon: Valkyrie II
+
+
+Destroyed items:
+
+Light Neutron Blaster II
+Null S, Qty: 447
+Initiated Harmonic Warp Jammer I
+Medium F-RX Prototype I Capacitor Boost
+Medium Armor Repairer I
+Armor Explosive Hardener I
+Armor Kinetic Hardener I
+Null S, Qty: 980 (Cargo)
+

@@ -1,0 +1,19 @@
+2006.01.20 23:50
+
+Victim: William Tapkins
+Alliance: None
+Corp: Imperial Academy
+Destroyed: Caldari Shuttle
+System: P3EN-E
+Security: 0.0
+
+Involved parties:
+
+Name: Cockroach (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Armageddon
+Weapon: Mega Beam Laser II
+
+

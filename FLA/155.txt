@@ -1,0 +1,28 @@
+2007.01.14 20:17
+
+Victim: Si Raven
+Alliance: None
+Corp: Agony Unleashed
+Destroyed: Griffin
+System: X-7OMU
+Security: 0.0
+
+Involved parties:
+
+Name: Solarienne (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+
+Destroyed items:
+
+75mm Gatling Rail I
+Sabretooth Light Missile, Qty: 40
+Standard Missile Launcher I
+ECM - Spatial Destabilizer I
+Signal Distortion Amplifier I
+Iridium Charge S, Qty: 765 (Cargo)
+

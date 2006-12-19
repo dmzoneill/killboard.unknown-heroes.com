@@ -1,0 +1,54 @@
+2007.05.18 17:30
+
+Victim: Drider Deluxe
+Alliance: None
+Corp: Caldari Navy Raiders
+Destroyed: Retribution
+System: 93PI-4
+Security: 0.0
+
+Involved parties:
+
+Name: pipvac
+Security: 2.7
+Alliance: DeStInY.
+Corp: Sacred Templars
+Ship: Eris
+Weapon: Acolyte II
+
+Name: Corovus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+Name: SleepyJack (laid the final blow)
+Security: 2.3
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Myrmidon
+Weapon: Wasp I
+
+Name: Death Reactor
+Security: -3.4
+Alliance: DeStInY.
+Corp: The Knights Of Camelot
+Ship: Capsule
+Weapon: X5 Prototype I Engine Enervator
+
+
+Destroyed items:
+
+Dual Light Pulse Laser II
+Dual Light Pulse Laser II
+Dual Light Pulse Laser II
+Scorch S
+Scorch S
+Scorch S
+1MN Afterburner II
+Small Armor Repairer II
+Heat Sink II
+Heat Sink II
+Multifrequency S, Qty: 4 (Cargo)
+

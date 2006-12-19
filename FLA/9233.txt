@@ -1,0 +1,60 @@
+2007.05.04 18:30
+
+Victim: Corovus
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Destroyed: Arazu
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Primos Gun (laid the final blow)
+Security: 4.3
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Myrmidon
+Weapon: Berserker I
+
+Name: Topasio
+Security: 3.6
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Rupture
+Weapon: Small Nosferatu I
+
+Name: Rubens22
+Security: 2.7
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Ares
+Weapon: Ares
+
+Name: Rinkos Alaine
+Security: 5.0
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Eos
+Weapon: Eos
+
+Name: Kaulu
+Security: 3.4
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Blackbird
+Weapon: ECM - Ion Field Projector II
+
+
+Destroyed items:
+
+200mm Compressed Coil Gun I
+Iridium Charge M, Qty: 54
+Covert Ops Cloaking Device II
+Thunderbolt Heavy Missile, Qty: 25
+Warp Disruptor II
+Remote Sensor Dampener II
+Remote Sensor Dampener II
+Medium Armor Repairer II
+Beta Reactor Control: Capacitor Power Relay I
+Beta Reactor Control: Capacitor Power Relay I
+

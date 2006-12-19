@@ -1,0 +1,26 @@
+2007.03.31 17:13
+
+Victim: da Smokedawg
+Alliance: None
+Corp: Science and Trade Institute
+Destroyed: Caldari Shuttle
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Muaddib69 (laid the final blow)
+Security: 5.0
+Alliance: O X I D E
+Corp: Nuevos Horizontes
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: dastommy79
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+

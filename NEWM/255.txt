@@ -1,0 +1,111 @@
+2007.01.20 04:27
+
+Victim: ciapek
+Alliance: Firmus Ixion
+Corp: Dark Centuri Inc.
+Destroyed: Maller
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: KriegDrachen
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Sabre
+Weapon: Sabre
+
+Name: alon blackhelm
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Myrmidon
+Weapon: Myrmidon
+
+Name: Xantheris (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Enyo
+Weapon: Sabretooth Light Missile
+
+Name: Jaig Maldara
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Flycatcher
+Weapon: Bloodclaw Light Missile
+
+Name: Lux0r
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Hawk
+Weapon: Bloodclaw Precision Light Missile
+
+Name: Jester87
+Security: 1.3
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+Name: Jorax
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Thorax
+Weapon: Thorax
+
+Name: dastommy79
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Harpy
+Weapon: Harpy
+
+Name: Ayrin Soun
+Security: 5.0
+Alliance: O X I D E
+Corp: BLUE EAGLES
+Ship: Hawk
+Weapon: Piranha Light Missile
+
+Name: digital oxygen
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Astarte
+Weapon: Heavy Ion Blaster II
+
+Name: Nukuquqa Hestase
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Blackbird
+Weapon: Small Nosferatu I
+
+Name: Akathrielah
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Moa
+Weapon: Modal Ion Particle Accelerator I
+
+
+Destroyed items:
+
+Medium Beam Laser II
+Medium Beam Laser II
+Medium Beam Laser II
+Medium Beam Laser II
+Multifrequency S
+Warp Disruptor I
+Stasis Webifier I
+Medium Armor Repairer II
+Heat Sink II
+'Mendicant' Signal Booster I
+Energized Adaptive Nano Membrane I
+Capacitor Power Relay I
+

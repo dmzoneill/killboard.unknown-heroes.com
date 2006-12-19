@@ -1,0 +1,73 @@
+2006.11.26 00:45
+
+Victim: meriacou
+Alliance: None
+Corp: Imperial Shipment
+Destroyed: Augoror
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Corovus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: THeOThErs
+Ship: Nemesis
+Weapon: Nemesis
+
+Name: Hosanna
+Security: 3.1
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Valadeya uthanaras (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Blackbird
+Weapon: Thunderbolt Heavy Missile
+
+Name: Eskiban Vlasic
+Security: 5.0
+Alliance: EVE Animal Control
+Corp: F.R.E.E. Explorer
+Ship: Eris
+Weapon: Eris
+
+Name: Anatolli Korenchken
+Security: 5.0
+Alliance: CORE.
+Corp: AUS Corporation
+Ship: Raptor
+Weapon: Bloodclaw Light Missile
+
+Name: Tri Ounou
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: Jumar Coldgin
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Rook
+Weapon: 'Hypnos' Multispectral ECM I
+
+Name: FrankieG
+Security: -0.5
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Scorpion
+Weapon: 'Arbalest' Siege Missile Launcher
+
+
+Destroyed items:
+
+Small Hull Repairer I
+400mm Reinforced Steel Plates I
+

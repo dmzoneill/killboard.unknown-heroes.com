@@ -1,0 +1,33 @@
+2006.11.10 18:05
+
+Victim: ICEMAN2806
+Alliance: None
+Corp: Marquie-X Corp
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Dog Cancer (laid the final blow)
+Security: 1.4
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: H3llfire
+Security: 2.6
+Alliance: O X I D E
+Corp: W33D Corp.
+Ship: Moa
+Weapon: 250mm Compressed Coil Gun I
+
+Name: Darth Hound
+Security: 1.6
+Alliance: Schism.
+Corp: Fatalix Inc.
+Ship: Inquisitor
+Weapon: Peripheral Weapon Navigation Diameter
+
+

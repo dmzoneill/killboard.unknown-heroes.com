@@ -1,0 +1,55 @@
+2007.02.09 21:08
+
+Victim: truefranco
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Destroyed: Stabber
+System: K4YZ-Y
+Security: 0.0
+
+Involved parties:
+
+Name: Zap Zaberdine (laid the final blow)
+Security: 3.1
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: cptblood
+Security: 2.3
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Ceapio
+Security: 1.2
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Misha Mosqito
+Security: 3.3
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+
+Destroyed items:
+
+Hellfire Assault Missile, Qty: 300
+220mm Vulcan AutoCannon I
+220mm Vulcan AutoCannon I
+220mm Vulcan AutoCannon I
+E50 Prototype Energy Vampire
+'Arbalest' Heavy Assault Missile Launcher I
+10MN MicroWarpdrive II
+X5 Prototype I Engine Enervator
+Nanofiber Internal Structure I
+Nanofiber Internal Structure I
+EMP M, Qty: 1659 (Cargo)
+Hellfire Assault Missile, Qty: 445 (Cargo)
+

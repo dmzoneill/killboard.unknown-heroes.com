@@ -1,0 +1,63 @@
+2007.01.12 00:00
+
+Victim: Paltar
+Alliance: None
+Corp: Evil Bandit Organisation
+Destroyed: Taranis
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Nya (laid the final blow)
+Security: 2.1
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Muninn
+Weapon: 720mm Howitzer Artillery II
+
+Name: Xantheris
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Harpy
+Weapon: Harpy
+
+Name: malkey
+Security: 3.5
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Ferox
+Weapon: 200mm Railgun I
+
+Name: Lux0r
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Hawk
+Weapon: Standard Missile Launcher II
+
+Name: CENTUREAN
+Security: 2.3
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Ferox
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+
+Destroyed items:
+
+125mm Railgun II
+125mm Railgun II
+Iridium Charge S, Qty: 80
+Gistii A-Type 1MN MicroWarpdrive
+Fleeting Warp Scrambler I
+Local Hull Conversion Inertial Stabilizers I
+'Langour' Drive Disruptor I (Cargo)
+Sensor Booster II (Cargo)
+Spike S, Qty: 2500 (Cargo)
+Bloodclaw Light Missile, Qty: 74 (Cargo)
+TE-2100 Standard Missile Bay (Cargo)
+Beta Hull Mod Nanofiber Structure (Cargo)
+Hobgoblin II, Qty: 2 (Drone Bay)
+

@@ -1,0 +1,41 @@
+2007.02.26 02:01
+
+Victim: Jeni Ka
+Alliance: None
+Corp: Republic Military School
+Destroyed: Rupture
+System: Hek
+Security: 0.5
+
+Involved parties:
+
+Name: Tregaron (laid the final blow)
+Security: 1.6
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Cyclone
+Weapon: 220mm Medium Carbine Repeating Cannon I
+
+
+Destroyed items:
+
+650mm Medium Gallium I Cannon
+650mm Medium Gallium I Cannon
+Proton M, Qty: 40
+Scourge Heavy Missile, Qty: 24
+Advanced 'Limos' Heavy Missile Bay I
+Large Azeotropic Ward Salubrity I
+10MN Afterburner II
+Counterbalanced Weapon Mounts I
+Counterbalanced Weapon Mounts I
+Mark I Modified SS Inertial Stabilizers
+Type-D Power Core Modification: Diagnostic System
+Local Power Plant Manager: Reaction Control I
+Medium Shield Booster I (Cargo)
+Miner I (Cargo)
+Medium Hull Repairer I (Cargo)
+Titanium Sabot M, Qty: 100 (Cargo)
+Proton M, Qty: 102 (Cargo)
+Havoc Heavy Missile, Qty: 106 (Cargo)
+'Malkuth' Standard Missile Launcher I (Cargo)
+

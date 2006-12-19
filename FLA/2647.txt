@@ -1,0 +1,33 @@
+2007.02.28 20:45
+
+Victim: Xantheris
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Destroyed: Taranis
+System: YZ-LQL
+Security: 0.0
+
+Involved parties:
+
+Name: MilaNoCZ (laid the final blow)
+Security: 5.0
+Alliance: Xelas Alliance
+Corp: Rytiri Lva
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: norman protector
+Security: 5.0
+Alliance: Xelas Alliance
+Corp: Fallen Angel's
+Ship: Vexor
+Weapon: Infiltrator I
+
+
+Destroyed items:
+
+Light Ion Blaster II
+Null S, Qty: 99
+1MN MicroWarpdrive I
+Inertia Stabilizers I
+

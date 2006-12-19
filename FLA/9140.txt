@@ -1,0 +1,102 @@
+2006.04.23 09:42
+
+Victim: Tonno
+Alliance: None
+Corp: The Hidden Court
+Destroyed: Scorpion
+System: M-OEE8
+Security: 0.0
+
+Involved parties:
+
+Name: Bubblalickus (laid the final blow)
+Security: 5.0
+Alliance: None
+Corp: F.R.E.E. Explorer
+Ship: Raven
+Weapon: Paradise Precision Cruise Missile
+
+Name: Gazmus
+Security: 2.1
+Alliance: Dusk and Dawn
+Corp: Euphoria Released
+Ship: Cerberus
+Weapon: Scourge Heavy Missile
+
+Name: AcriQuo
+Security: 4.2
+Alliance: Dusk and Dawn
+Corp: Euphoria Released
+Ship: Vexor
+Weapon: Vexor
+
+Name: Kamin Hawk
+Security: 5.0
+Alliance: Northern Freedom Coalition
+Corp: AUS Corporation
+Ship: Maller
+Weapon: Maller
+
+Name: Beigehornet
+Security: 4.7
+Alliance: Northern Freedom Coalition
+Corp: AUS Corporation
+Ship: Ferox
+Weapon: Ferox
+
+Name: Farscape Hw
+Security: 2.4
+Alliance: None
+Corp: Solidline Enterprise
+Ship: Flycatcher
+Weapon: Flycatcher
+
+Name: Wthor
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Dream Warriors Defence Alliance
+Ship: Caracal
+Weapon: Widowmaker Heavy Missile
+
+Name: Tolin Dorden
+Security: -0.3
+Alliance: Dusk and Dawn
+Corp: Euphoria Released
+Ship: Crow
+Weapon: Thorn Rocket
+
+
+Destroyed items:
+
+Large 'Vehemence' I Shockwave Charge
+Juggernaut Torpedo, Qty: 16
+Scourge Heavy Missile, Qty: 33
+Wrath Cruise Missile, Qty: 20
+'Limos' Cruise Launcher I
+Advanced 'Limos' Heavy Missile Bay I
+XLarge Clarity Ward Booster I
+Ballistic Deflection Field II
+Explosion Dampening Field II
+Photon Scattering Field II
+ECM - Multispectral Jammer I
+ECM - Spatial Destabilizer I
+'Stoic' Core Equalizer I
+1600mm Reinforced Rolled Tungsten Plates I
+Supplemental Screen Generator I (Cargo)
+Medium Capacitor Battery I (Cargo)
+Small Energy Neutralizer I (Cargo)
+Antimatter Charge S, Qty: 16 (Cargo)
+Plutonium Charge S, Qty: 1100 (Cargo)
+ECCM - Omni I (Cargo)
+Signal Amplifier I (Cargo)
+ECCM Projector I (Cargo)
+Widowmaker Heavy Missile, Qty: 381 (Cargo)
+Scourge Heavy Missile, Qty: 558 (Cargo)
+Wrath Cruise Missile, Qty: 247 (Cargo)
+Devastator Cruise Missile, Qty: 301 (Cargo)
+Cataclysm Cruise Missile, Qty: 81 (Cargo)
+'Malkuth' Heavy Missile Launcher I (Cargo)
+Assault Missile Launcher I (Cargo)
+Praetor I (Drone Bay)
+Berserker I (Drone Bay)
+

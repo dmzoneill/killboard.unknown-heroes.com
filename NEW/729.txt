@@ -1,0 +1,36 @@
+2007.05.30 07:50
+
+Victim: Jikwon lee
+Alliance: None
+Corp: Paladines
+Destroyed: Velator
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Mufeater
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Ares
+Weapon: Ares
+
+Name: articz (laid the final blow)
+Security: -0.5
+Alliance: DeStInY.
+Corp: The Knights Of Camelot
+Ship: Tempest
+Weapon: Dual 650mm 'Scout' Repeating Artillery I
+
+Name: Veliki Pyotr
+Security: 1.1
+Alliance: DeStInY.
+Corp: The Knights Of Camelot
+Ship: Dominix
+Weapon: Warp Disruptor II
+
+
+Destroyed items:
+
+Advanced Weapon Upgrades (Cargo)

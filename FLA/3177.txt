@@ -1,0 +1,31 @@
+2007.03.19 08:51
+
+Victim: reddaz
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Destroyed: Crusader
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Distun (laid the final blow)
+Security: 0.1
+Alliance: Guinea Pigs
+Corp: La Stere
+Ship: Typhoon
+Weapon: Hammerhead I
+
+
+Destroyed items:
+
+Dual Light Beam Laser I
+Dual Light Beam Laser I
+Multifrequency S
+Multifrequency S
+Multifrequency S
+1MN MicroWarpdrive I
+Capacitor Power Relay I
+Capacitor Power Relay I
+Antimatter Charge S, Qty: 45 (Cargo)
+

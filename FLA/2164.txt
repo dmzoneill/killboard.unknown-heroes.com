@@ -1,0 +1,88 @@
+2007.01.26 21:47
+
+Victim: Maggallus
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Destroyed: Blackbird
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Chewan Mesa
+Security: 2.2
+Alliance: None
+Corp: Beagle Corp
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: C0wgirl
+Security: 1.2
+Alliance: None
+Corp: Beagle Corp
+Ship: Taranis
+Weapon: Taranis
+
+Name: Rachel Melach
+Security: -0.3
+Alliance: None
+Corp: Beagle Corp
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: Phenom Fighter
+Security: -0.8
+Alliance: None
+Corp: Beagle Corp
+Ship: Crow
+Weapon: Crow
+
+Name: Ultroth
+Security: -1.0
+Alliance: None
+Corp: Beagle Corp
+Ship: Claw
+Weapon: Claw
+
+Name: Sophia Stormbringer (laid the final blow)
+Security: 0.7
+Alliance: None
+Corp: Beagle Corp
+Ship: Crusader
+Weapon: Dual Light Pulse Laser II
+
+Name: Ronwe
+Security: -2.4
+Alliance: None
+Corp: Beagle Corp
+Ship: Taranis
+Weapon: Taranis
+
+Name: DAEM0N
+Security: 4.6
+Alliance: None
+Corp: Beagle Corp
+Ship: Malediction
+Weapon: Malediction
+
+Name: Iorya Dragon
+Security: -0.5
+Alliance: None
+Corp: Beagle Corp
+Ship: Taranis
+Weapon: X5 Prototype I Engine Enervator
+
+
+Destroyed items:
+
+Small Nosferatu I
+Scourge Heavy Missile, Qty: 53
+Heavy Missile Launcher I
+ECM - Ion Field Projector II
+ECM - Phase Inverter II
+ECM - Multispectral Jammer II
+Sensor Booster I
+Sensor Booster I
+Emergency Damage Control I
+800mm Reinforced Steel Plates I
+

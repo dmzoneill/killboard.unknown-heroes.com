@@ -1,0 +1,40 @@
+2007.03.26 02:05
+
+Victim: Nya
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Destroyed: Muninn
+System: DY-F70
+Security: 0.0
+
+Involved parties:
+
+Name: Mr MA
+Security: 3.5
+Alliance: Chorus of Dawn
+Corp: Cosmic Odyssey
+Ship: Myrmidon
+Weapon: Ogre I
+
+Name: mr ioso (laid the final blow)
+Security: 4.8
+Alliance: Chorus of Dawn
+Corp: Cosmic Odyssey
+Ship: Myrmidon
+Weapon: Ogre I
+
+
+Destroyed items:
+
+720mm Howitzer Artillery II
+720mm Howitzer Artillery II
+720mm Howitzer Artillery II
+'Malkuth' Rocket Launcher I
+'Arbalest' Standard Missile Launcher
+Large C5-L Emergency Shield Overload I
+Alumel-Wired I Sensor Augmentation
+Pneumatic Stabilization Actuator I
+Reactor Control Unit II
+Tremor M, Qty: 650 (Cargo)
+Sabretooth Light Missile, Qty: 236 (Cargo)
+

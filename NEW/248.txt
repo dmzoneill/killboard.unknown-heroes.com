@@ -1,0 +1,31 @@
+2007.02.18 12:20
+
+Victim: ClogMan
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Destroyed: Brutix
+System: Litiura
+Security: 0.5
+
+Involved parties:
+
+Name: Del Boy (laid the final blow)
+Security: -1.4
+Alliance: Privateer Alliance
+Corp: Mentally Unstable Enterprises
+Ship: Tempest
+Weapon: Dual 425mm AutoCannon II
+
+
+Destroyed items:
+
+Medium Nosferatu II, Qty: 2
+Heavy Electron Blaster II
+Antimatter Charge M, Qty: 178
+Initiated Warp Jammer I
+Stasis Webifier I
+Energized Adaptive Nano Membrane I, Qty: 2
+Armor Thermic Hardener I
+Armor Explosive Hardener II
+Iron Charge M, Qty: 2656 (Cargo)
+Cap Booster 800, Qty: 7 (Cargo)

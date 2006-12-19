@@ -1,0 +1,40 @@
+2007.02.28 20:45
+
+Victim: Fjury
+Alliance: Xelas Alliance
+Corp: Rytiri Lva
+Destroyed: Thrasher
+System: YZ-LQL
+Security: 0.0
+
+Involved parties:
+
+Name: Xantheris (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+Name: Jorax
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Capsule
+Weapon: Warp Scrambler I
+
+Name: mr passie
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Hurricane
+Weapon: 720mm Howitzer Artillery II
+
+
+Destroyed items:
+
+150mm Light AutoCannon I, Qty: 2
+EMP S, Qty: 302
+1MN MicroWarpdrive I
+'Langour' Drive Disruptor I
+EMP S, Qty: 1206 (Cargo)

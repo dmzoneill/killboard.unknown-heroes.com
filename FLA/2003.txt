@@ -1,0 +1,37 @@
+2007.01.16 09:07
+
+Victim: Kelter Highfire
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Merlin
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Noobjuice
+Security: -0.6
+Alliance: None
+Corp: Omniscient Order
+Ship: Typhoon
+Weapon: Hobgoblin II
+
+Name: ZUDD (laid the final blow)
+Security: 4.0
+Alliance: None
+Corp: Omniscient Order
+Ship: Ishtar
+Weapon: Warden I
+
+
+Destroyed items:
+
+Light Neutron Blaster I
+Lead Charge S, Qty: 80
+Thorn Rocket, Qty: 30
+Rocket Launcher I
+Rocket Launcher I
+Stasis Webifier I
+Compulsive Multispectral ECM I
+Magnetic Field Stabilizer I
+

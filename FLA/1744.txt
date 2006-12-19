@@ -1,0 +1,42 @@
+2007.01.02 08:07
+
+Victim: john malikhi
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Destroyed: Megathron
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Berndarmin (laid the final blow)
+Security: 5.0
+Alliance: Firmus Ixion
+Corp: KDM Corp
+Ship: Thorax
+Weapon: Hammerhead I
+
+Name: Dire Guristas Infiltrator / Guristas
+
+Name: Fink Fortee
+Security: 4.7
+Alliance: Firmus Ixion
+Corp: KDM Corp
+Ship: Wolf
+Weapon: 250mm Light Artillery Cannon II
+
+
+Destroyed items:
+
+350mm Carbide Railgun I
+350mm Carbide Railgun I
+350mm Carbide Railgun I
+Uranium Charge L, Qty: 142
+Juggernaut Torpedo, Qty: 17
+Barton Reactor Capacitor Recharger I
+F-b10 Nominal Capacitor Regenerator
+Magnetic Field Stabilizer I
+Armor Kinetic Hardener I
+1600mm Reinforced Rolled Tungsten Plates I
+Juggernaut Torpedo, Qty: 1207 (Cargo)
+

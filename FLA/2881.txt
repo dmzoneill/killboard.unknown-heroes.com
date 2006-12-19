@@ -1,0 +1,25 @@
+2007.03.14 03:47
+
+Victim: Sandy Stormwolf
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Badger Mark II
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Hamatitio (laid the final blow)
+Security: 3.1
+Alliance: None
+Corp: Fate.
+Ship: Vagabond
+Weapon: Dual 180mm AutoCannon II
+
+
+Destroyed items:
+
+Miner II
+Small Hull Repairer I
+Massive Scordite, Qty: 14290 (Cargo)
+

@@ -1,0 +1,26 @@
+2006.11.07 14:18
+
+Victim: Exo 7
+Alliance: Interstellar Starbase Syndicate
+Corp: KHAOS-BLADE
+Destroyed: Minmatar Shuttle
+System: P-2TTL
+Security: 0.0
+
+Involved parties:
+
+Name: Hosanna (laid the final blow)
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Claw
+Weapon: Gremlin Rocket
+
+Name: Dog Cancer
+Security: 1.4
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Crow
+Weapon: Sabretooth Light Missile
+
+

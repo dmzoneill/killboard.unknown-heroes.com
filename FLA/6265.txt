@@ -1,0 +1,41 @@
+2006.11.11 16:04
+
+Victim: Korih
+Alliance: None
+Corp: State War Academy
+Destroyed: Bantam
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Formosus Funus
+Security: 3.8
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Jaguar
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: dinj (laid the final blow)
+Security: 4.7
+Alliance: Freelancer Alliance
+Corp: London Transport
+Ship: Crow
+Weapon: Flameburst Light Missile
+
+
+Destroyed items:
+
+Large Shield Extender I (Cargo)
+Medium Ohm Capacitor Reserve I (Cargo)
+Small Armor Repairer I (Cargo)
+350mm Railgun I, Qty: 2 (Cargo)
+Medium Capacitor Booster I (Cargo)
+Plutonium Charge L, Qty: 100 (Cargo)
+Uranium Charge L, Qty: 100 (Cargo)
+Lead Charge S, Qty: 100 (Cargo)
+Phoenix F.O.F. Cruise Missile I, Qty: 100 (Cargo)
+'Arbalest' Cruise Launcher I (Cargo)
+Siege Missile Launcher I (Cargo)
+Capacitor Power Relay I (Cargo)
+

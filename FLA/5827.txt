@@ -1,0 +1,129 @@
+2006.10.23 20:00
+
+Victim: Jaunder Sunstar
+Alliance: R.I.S.K
+Corp: GOLDEN TAURUS
+Destroyed: Megathron
+System: MI6O-6
+Security: 0.0
+
+Involved parties:
+
+Name: dinj (laid the final blow)
+Security: 3.5
+Alliance: Freelancer Alliance
+Corp: London Transport
+Ship: Raven
+Weapon: Vespa I
+
+Name: FireFoxx80
+Security: 0.6
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Raven
+Weapon: Wrath Cruise Missile
+
+Name: Foot M
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: casama
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Apocalypse
+Weapon: Apocalypse
+
+Name: DDaisy
+Security: 4.7
+Alliance: Imperial Republic Of the North
+Corp: VentureCorp
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: W4RR10R
+Security: 1.8
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Thorax
+Weapon: Valkyrie I
+
+Name: Tas Devil
+Security: 5.0
+Alliance: Forces of Freedom
+Corp: JUDGE DREAD Inc.
+Ship: Archon
+Weapon: Einherji
+
+Name: AceMace
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Raven
+Weapon: Cruise Missile Launcher II
+
+Name: betabob
+Security: 4.1
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: D2O HeavyWater
+Security: 2.8
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Scorpion
+Weapon: Paradise Cruise Missile
+
+Name: d4ve
+Security: 4.6
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Archon
+Weapon: Einherji
+
+Name: Azeroth Uluntil
+Security: 1.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Capsule
+Weapon: 250mm Railgun II
+
+Name: Slinktress
+Security: 2.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Ishkur
+Weapon: Faint Warp Prohibitor I
+
+Name: Damfoose
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Scorpion
+Weapon: ECM - Phase Inverter II
+
+
+Destroyed items:
+
+Regulated Mega Neutron Phase Cannon I
+Regulated Mega Neutron Phase Cannon I
+Regulated Mega Neutron Phase Cannon I
+Regulated Mega Neutron Phase Cannon I
+Regulated Mega Neutron Phase Cannon I
+Antimatter Charge L, Qty: 320
+Quad LiF Fueled I Booster Rockets
+Fleeting Propulsion Inhibitor I
+Sensor Booster II
+Damage Control I
+Large Armor Repairer II
+Magnetic Field Stabilizer II
+Energized Adaptive Nano Membrane II
+Antimatter Charge L, Qty: 2364 (Cargo)
+Hammerhead II, Qty: 3 (Drone Bay)
+Hobgoblin II, Qty: 9 (Drone Bay)
+

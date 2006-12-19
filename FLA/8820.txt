@@ -1,0 +1,130 @@
+2006.12.12 20:36
+
+Victim: Slinktress
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Destroyed: Megathron
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Tadis
+Security: 1.1
+Alliance: None
+Corp: 0utbreak
+Ship: Megathron
+Weapon: Megathron
+
+Name: siliconix
+Security: -1.0
+Alliance: None
+Corp: 0utbreak
+Ship: Tempest
+Weapon: Tempest
+
+Name: Pilgrippa
+Security: -1.4
+Alliance: None
+Corp: 0utbreak
+Ship: Megathron
+Weapon: Megathron
+
+Name: Sarsha
+Security: 4.8
+Alliance: None
+Corp: 0utbreak
+Ship: Rokh
+Weapon: Rokh
+
+Name: Saal Iverson
+Security: 4.4
+Alliance: None
+Corp: 0utbreak
+Ship: Megathron
+Weapon: Megathron
+
+Name: neur0n
+Security: -1.3
+Alliance: None
+Corp: 0utbreak
+Ship: Tempest
+Weapon: Tempest
+
+Name: James Damar
+Security: 1.8
+Alliance: None
+Corp: 0utbreak
+Ship: Rokh
+Weapon: Rokh
+
+Name: MOS DEF (laid the final blow)
+Security: 0.9
+Alliance: None
+Corp: 0utbreak
+Ship: Rokh
+Weapon: 425mm Railgun II
+
+Name: Mindlles
+Security: -0.1
+Alliance: None
+Corp: 0utbreak
+Ship: Megathron
+Weapon: Megathron
+
+Name: KilRoy076
+Security: -1.6
+Alliance: None
+Corp: 0utbreak
+Ship: Tempest
+Weapon: Tempest
+
+Name: whisk
+Security: -0.5
+Alliance: None
+Corp: 0utbreak
+Ship: Tempest
+Weapon: Tempest
+
+Name: superscarface
+Security: 2.5
+Alliance: None
+Corp: 0utbreak
+Ship: Abaddon
+Weapon: Abaddon
+
+Name: ALPHA12125
+Security: 1.7
+Alliance: None
+Corp: 0utbreak
+Ship: Megathron
+Weapon: Megathron
+
+Name: Leilani Solaris
+Security: -1.4
+Alliance: None
+Corp: 0utbreak
+Ship: Armageddon
+Weapon: Mega Beam Laser II
+
+
+Destroyed items:
+
+Quad Light Beam Laser I
+Quad Light Beam Laser I
+Ion Blaster Cannon I
+Antimatter Charge L, Qty: 103
+Multifrequency M
+Multifrequency M
+100MN MicroWarpdrive I
+Cap Booster 800
+Cap Booster 800
+Cap Booster 800
+Cap Booster 800
+Large 'Accommodation' Vestment Reconstructer I
+Secure Gravimetric Backup Cluster I
+N-Type Thermic Hardener I
+N-Type Explosive Hardener I
+Cap Booster 800, Qty: 17 (Cargo)
+Hammerhead II (Drone Bay)
+

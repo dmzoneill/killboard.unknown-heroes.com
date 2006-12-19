@@ -1,0 +1,26 @@
+2006.09.14 16:25
+
+Victim: Matt Stoner
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Destroyed: Capsule
+System: 0V0R-R
+Security: 0.0
+
+Involved parties:
+
+Name: PoeRath (laid the final blow)
+Security: -0.8
+Alliance: Ascendant Frontier
+Corp: Celestial Fleet
+Ship: Sabre
+Weapon: 125mm Gatling AutoCannon II
+
+Name: Armarnian Angel
+Security: 2.3
+Alliance: Ascendant Frontier
+Corp: Sha Kharn Corp
+Ship: Raptor
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+

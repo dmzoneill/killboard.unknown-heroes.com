@@ -1,0 +1,92 @@
+2007.02.13 18:49
+
+Victim: Iog Krugar
+Alliance: None
+Corp: The Rising Stars
+Destroyed: Dominix
+System: RQH-MY
+Security: 0.0
+
+Involved parties:
+
+Name: rappter
+Security: -1.3
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Deimos
+Weapon: Heavy Ion Blaster II
+
+Name: Pixnator (laid the final blow)
+Security: -1.4
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Raven
+Weapon: Inferno Javelin Torpedo
+
+Name: ivan rumanov
+Security: -0.6
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Cerberus
+Weapon: Thunderbolt Fury Heavy Missile
+
+Name: Jesnen
+Security: 0.2
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Dominix
+Weapon: Praetor II
+
+Name: Kiara Diepp
+Security: -1.4
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: 4queens
+Security: -1.1
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Njord V
+Security: -0.3
+Alliance: The Sundering
+Corp: Harbingers of Sarrow
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: Jesnens LoveSlave
+Security: -0.3
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Helios
+Weapon: Phased Muon Sensor Disruptor I
+
+
+Destroyed items:
+
+Heavy Diminishing Power System Drain I
+Heavy Diminishing Power System Drain I
+Small Tractor Beam I
+LiF Fueled I Booster Rockets
+Initiated Warp Jammer I
+Cap Booster 800
+Cap Booster 800
+'Abandon' Targeting Disruptor I
+Large Armor Repairer II
+Energized Adaptive Nano Membrane II
+Armor Explosive Hardener II
+Armor Thermic Hardener II
+Fixed Parallel Link-Capacitor I (Cargo)
+Cap Booster 800, Qty: 16 (Cargo)
+Metal Scraps, Qty: 2 (Cargo)
+Scorched Telemetry Processor, Qty: 4 (Cargo)
+Charred Micro Circuit, Qty: 10 (Cargo)
+Valkyrie II, Qty: 3 (Drone Bay)
+Warden I, Qty: 3 (Drone Bay)
+Ogre I, Qty: 2 (Drone Bay)
+Medium Armor Maintenance Bot I, Qty: 2 (Drone Bay)
+

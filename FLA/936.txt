@@ -1,0 +1,102 @@
+2007.02.27 19:32
+
+Victim: Alamaritus Ballentec
+Alliance: Pure.
+Corp: Eve Defence Force
+Destroyed: Cormorant
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: EM00
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Caracal
+Weapon: Havoc Heavy Missile
+
+Name: DarkAvenger DK (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Raven
+Weapon: Wrath Cruise Missile
+
+Name: Esk Esme
+Security: 1.1
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Flycatcher
+Weapon: Foxfire Javelin Rocket
+
+Name: sakana
+Security: -0.9
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Taranis
+Weapon: 75mm Gatling Rail I
+
+Name: HempHog
+Security: 0.3
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Maller
+Weapon: 250mm 'Scout' I Accelerator Cannon
+
+Name: Zarkovich
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Taranis
+Weapon: Small Nosferatu I
+
+Name: Siliya
+Security: 3.4
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Ishkur
+Weapon: Warrior II
+
+Name: marakudi
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Drake
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+Name: Remontoir
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Blackbird
+Weapon: ECM - Multispectral Jammer II
+
+Name: Lancelot Wellborn
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Myrmidon
+Weapon: Dread Guristas Warp Disruptor
+
+Name: A'ruhn
+Security: 3.7
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Purifier
+Weapon: 'Limos' Cruise Launcher I
+
+
+Destroyed items:
+
+150mm Railgun I
+150mm Railgun I
+150mm Railgun I
+150mm Railgun I
+150mm Railgun I
+Antimatter Charge S, Qty: 160
+J5b Phased Prototype Warp Inhibitor I
+Stasis Webifier I
+Reactor Control Unit I
+Antimatter Charge S, Qty: 19823 (Cargo)
+

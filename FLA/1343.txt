@@ -1,0 +1,61 @@
+2007.03.11 09:54
+
+Victim: Fred Fredburger
+Alliance: YouWhat
+Corp: Beasts of Burden
+Destroyed: Gallente Shuttle
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Osyc
+Security: 2.6
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Wolf
+Weapon: Wolf
+
+Name: EM00 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Caracal
+Weapon: Warrior I
+
+Name: Nukuquqa Hestase
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Harpy
+Weapon: Harpy
+
+Name: Alekseyev Karrde
+Security: 1.9
+Alliance: Forces of Freedom
+Corp: The Royal Guard
+Ship: Celestis
+Weapon: Celestis
+
+Name: tiita
+Security: 2.3
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Blackbird
+Weapon: Heavy Missile Launcher I
+
+Name: Tripwire
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Celestis
+Weapon: Remote Sensor Dampener II
+
+Name: FlobbMkII
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Taranis
+Weapon: Taranis
+
+

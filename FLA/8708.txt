@@ -1,0 +1,48 @@
+2006.12.08 18:54
+
+Victim: SleepyJack
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Caracal
+System: Piak
+Security: 0.7
+
+Involved parties:
+
+Name: Unfortunate Accident (laid the final blow)
+Security: -1.3
+Alliance: None
+Corp: omen.
+Ship: Dominix
+Weapon: Ogre II
+
+Name: Elliott Manchild
+Security: -1.6
+Alliance: None
+Corp: omen.
+Ship: Taranis
+Weapon: Fleeting Warp Scrambler I
+
+Name: Fjerkenstad
+Security: 1.0
+Alliance: None
+Corp: omen.
+Ship: Taranis
+Weapon: Initiated Warp Jammer I
+
+
+Destroyed items:
+
+Havoc Heavy Missile, Qty: 48
+'Malkuth' Heavy Missile Launcher I
+Fleeting Warp Scrambler I
+Compulsive Multispectral ECM I
+ECCM - Omni I
+Magnetic Scattering Amplifier I
+Shield Recharger I (Cargo)
+Survey Scanner I (Cargo)
+Small Capacitor Battery I (Cargo)
+F-S15 Braced Deflection Shield Matrix (Cargo)
+Plutonium Charge S, Qty: 200 (Cargo)
+'Malkuth' Standard Missile Launcher I (Cargo)
+

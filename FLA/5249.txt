@@ -1,0 +1,40 @@
+2007.04.28 04:03
+
+Victim: lukane
+Alliance: Xelas Alliance
+Corp: Nemesis Industries
+Destroyed: Capsule
+System: F7C-H0
+Security: 0.0
+
+Involved parties:
+
+Name: Black DeathRain
+Security: 1.6
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Hawk
+Weapon: Flameburst Fury Light Missile
+
+Name: The Cade (laid the final blow)
+Security: 1.9
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: sparkvolt
+Security: -0.7
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Jaguar
+Weapon: 150mm Light AutoCannon II
+
+Name: Militis Kolosok
+Security: 1.1
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+

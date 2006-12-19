@@ -1,0 +1,39 @@
+2007.04.06 06:52
+
+Victim: colmen
+Alliance: None
+Corp: Killers Network
+Destroyed: Punisher
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Kaerion Skywalker (laid the final blow)
+Security: 0.1
+Alliance: Freelancer Alliance
+Corp: Harbingers of Sarrow
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Guristas Wrecker / Guristas
+
+Name: Rock Slag
+Security: 5.0
+Alliance: THE R0CK
+Corp: The Keep
+Ship: Thrasher
+Weapon: 250mm Light Artillery Cannon I
+
+
+Destroyed items:
+
+Dual Modal Pulse Laser I
+Gatling Pulse Laser I
+Xray S
+Microwave S
+Small Capacitor Battery I
+Small Armor Repairer I
+Local Power Plant Manager: Reaction Shield Flux I
+Small Armor Repairer I (Cargo)
+

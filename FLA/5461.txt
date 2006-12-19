@@ -1,0 +1,29 @@
+2006.10.05 09:47
+
+Victim: hero88
+Alliance: None
+Corp: Privateers
+Destroyed: Enyo
+System: Isanamo
+Security: 0.6
+
+Involved parties:
+
+Name: jacass66 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Brutix
+Weapon: 250mm 'Scout' I Accelerator Cannon
+
+
+Destroyed items:
+
+E5 Prototype Energy Vampire
+Light Ion Blaster II
+Light Ion Blaster II
+Light Ion Blaster II
+Null S, Qty: 106
+1MN Afterburner II
+Armor Explosive Hardener II
+

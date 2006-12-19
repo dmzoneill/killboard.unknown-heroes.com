@@ -1,0 +1,74 @@
+2007.01.28 19:33
+
+Victim: Spartan dax
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Destroyed: Drake
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Farjung
+Security: -0.2
+Alliance: Band of Brothers
+Corp: TAOSP
+Ship: Dominix
+Weapon: Ogre II
+
+Name: Ka Dargo (laid the final blow)
+Security: 4.4
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon I
+
+Name: Memphisz
+Security: 0.3
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Tempest
+Weapon: Tempest
+
+Name: papaPadla
+Security: 4.1
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Pilgrim
+Weapon: Hornet II
+
+Name: RogerWilco
+Security: 3.3
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Enyo
+Weapon: Enyo
+
+Name: DTee
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Crow
+Weapon: 125mm Compressed Coil Gun I
+
+
+Destroyed items:
+
+Scourge Heavy Missile
+Scourge Heavy Missile
+Scourge Heavy Missile
+Scourge Heavy Missile
+Scourge Heavy Missile
+Scourge Heavy Missile
+Thunderbolt Heavy Missile, Qty: 12
+XR-3200 Heavy Missile Bay
+Advanced 'Limos' Heavy Missile Bay I
+Large F-S9 Regolith Shield Induction
+V-M15 Braced Multispectral Shield Matrix
+F-90 Positional Sensor Subroutines
+Additional Thermal Barrier Emitter I
+Local Power Plant Manager: Reaction Shield Power Relay I
+Emergency Damage Control I
+Thunderbolt Heavy Missile, Qty: 11 (Cargo)
+Widowmaker Heavy Missile, Qty: 2202 (Cargo)
+

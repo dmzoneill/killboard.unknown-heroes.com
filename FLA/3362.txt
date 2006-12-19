@@ -1,0 +1,34 @@
+2007.03.24 22:37
+
+Victim: Baja Bently
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Destroyed: Manticore
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: MIGHTYDWC (laid the final blow)
+Security: 4.7
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Taranis
+Weapon: 125mm Railgun II
+
+
+Destroyed items:
+
+Cruise Missile Launcher II
+Cruise Missile Launcher II
+Paradise Fury Cruise Missile, Qty: 21
+Stasis Webifier I
+Supplemental Scanning CPU I
+Prototype I Sensor Booster
+Wavelength Signal Enhancer I
+Overdrive Injector System I
+Paradise Cruise Missile, Qty: 133 (Cargo)
+Wrath Cruise Missile, Qty: 99 (Cargo)
+Berserker SW-900 (Cargo)
+Paradise Fury Cruise Missile, Qty: 118 (Cargo)
+

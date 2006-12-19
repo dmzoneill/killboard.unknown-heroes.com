@@ -1,0 +1,52 @@
+2007.04.29 04:56
+
+Victim: Averenor
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Destroyed: Thorax
+System: 93PI-4
+Security: 0.0
+
+Involved parties:
+
+Name: Sphalerite (laid the final blow)
+Security: 0.7
+Alliance: None
+Corp: Developmental Neogenics Amalgamated
+Ship: Maelstrom
+Weapon: 800mm Repeating Artillery II
+
+Name: Candy
+Security: -1.9
+Alliance: None
+Corp: Developmental Neogenics Amalgamated
+Ship: Apocalypse
+Weapon: Apocalypse
+
+Name: XZeRo
+Security: -1.7
+Alliance: None
+Corp: Developmental Neogenics Amalgamated
+Ship: Myrmidon
+Weapon: Warp Disruptor II
+
+Name: Spike 68
+Security: 0.8
+Alliance: None
+Corp: Developmental Neogenics Amalgamated
+Ship: Hyperion
+Weapon: Ion Blaster Cannon II
+
+
+Destroyed items:
+
+Antimatter Charge M, Qty: 160
+Cynosural Field Generator I
+10MN MicroWarpdrive I
+Fleeting Propulsion Inhibitor I
+Energized Adaptive Nano Membrane I
+Energized Adaptive Nano Membrane I
+Heavy Neutron Blaster I (Cargo)
+Iridium Charge M, Qty: 2000 (Cargo)
+Hammerhead II, Qty: 5 (Drone Bay)
+

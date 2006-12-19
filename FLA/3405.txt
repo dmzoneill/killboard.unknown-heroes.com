@@ -1,0 +1,33 @@
+2007.03.25 19:44
+
+Victim: Poolboy
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Destroyed: Capsule
+System: OWXT-5
+Security: 0.0
+
+Involved parties:
+
+Name: Riddick KHK
+Security: 5.0
+Alliance: None
+Corp: Pitch Black Incorporated
+Ship: Wolf
+Weapon: Rocket Launcher II
+
+Name: Eudoric Delmar (laid the final blow)
+Security: 5.0
+Alliance: Triumvirate.
+Corp: ViperSquad
+Ship: Stiletto
+Weapon: 200mm AutoCannon II
+
+Name: rahmat mirko
+Security: 0.2
+Alliance: None
+Corp: Pitch Black Incorporated
+Ship: Hawk
+Weapon: Hawk
+
+

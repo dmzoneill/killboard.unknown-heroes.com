@@ -1,0 +1,101 @@
+2007.03.21 22:06
+
+Victim: Shassandra
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Thorax
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Mr Moonwatcher
+Security: 4.9
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Taranis
+Weapon: Initiated Warp Jammer I
+
+Name: MC Alfritz
+Security: 3.7
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Muninn
+Weapon: Muninn
+
+Name: Vim Longhill
+Security: 4.6
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Drake
+Weapon: Scourge Fury Heavy Missile
+
+Name: wph0r (laid the final blow)
+Security: 4.5
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Drake
+Weapon: Thunderbolt Heavy Missile
+
+Name: Lycra
+Security: -0.2
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Stabber
+Weapon: Stabber
+
+Name: Apoc77
+Security: 5.0
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Rook
+Weapon: Bloodclaw Light Missile
+
+Name: Santa Claw
+Security: 2.4
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Claw
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+Name: Helmi
+Security: 3.1
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Rupture
+Weapon: Rupture
+
+Name: terrak
+Security: 1.1
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Cyclone
+Weapon: 425mm AutoCannon I
+
+Name: Thyrion Paulus
+Security: 4.9
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Sacrilege
+Weapon: Focused Medium Pulse Laser II
+
+Name: GordonShumway
+Security: 0.7
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Flycatcher
+Weapon: Rocket Launcher II
+
+
+Destroyed items:
+
+Dual 150mm 'Scout' I Accelerator Cannon
+Dual 150mm 'Scout' I Accelerator Cannon
+Dual 150mm 'Scout' I Accelerator Cannon
+Dual 150mm 'Scout' I Accelerator Cannon
+Thorium Charge M, Qty: 621
+10MN MicroWarpdrive I
+Medium Armor Repairer I
+Armor Thermic Hardener I
+Armor Explosive Hardener I
+

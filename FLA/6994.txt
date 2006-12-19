@@ -1,0 +1,102 @@
+2006.12.18 23:16
+
+Victim: Lynx Ogiana
+Alliance: OPUS Alliance
+Corp: Wings of Twilight
+Destroyed: Ferox
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Munch
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Stefu
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Mr Harmonica
+Security: 4.8
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Megathron
+Weapon: Neutron Blaster Cannon II
+
+Name: fincormack
+Security: 4.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Astarte
+Weapon: Astarte
+
+Name: Terrorv1z
+Security: 5.1
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Eagle
+Weapon: Bloodclaw Light Missile
+
+Name: dastommy79 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: geewiz
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Eris
+Weapon: Eris
+
+Name: Antoriaset
+Security: 0.7
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Hawk
+Weapon: Hawk
+
+Name: d4ve
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Malediction
+Weapon: Malediction
+
+Name: Real Darkling
+Security: 2.9
+Alliance: Imperial Republic Of the North
+Corp: MetaForge
+Ship: Hawk
+Weapon: Rocket Launcher II
+
+Name: Gokil
+Security: 3.7
+Alliance: Imperial Republic Of the North
+Corp: MetaForge
+Ship: Raven
+Weapon: ZW-4100 Siege Missile Bay
+
+
+Destroyed items:
+
+Salvager I, Qty: 30
+Widowmaker Heavy Missile, Qty: 128
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+Small Tractor Beam I
+Ballistic Control System I
+Power Diagnostic System I
+Power Diagnostic System I
+Power Diagnostic System I
+Acolyte I, Qty: 5 (Drone Bay)
+

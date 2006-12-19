@@ -1,0 +1,41 @@
+2006.11.11 23:08
+
+Victim: Jehovah Cooper
+Alliance: Interstellar Starbase Syndicate
+Corp: The Graduates
+Destroyed: Caracal
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Pacala (laid the final blow)
+Security: 3.7
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Dominix
+Weapon: Berserker II
+
+Name: D2O HeavyWater
+Security: 4.6
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 122
+'Malkuth' Assault Missile Launcher I
+'Malkuth' Assault Missile Launcher I
+'Malkuth' Assault Missile Launcher I
+Large Shield Extender I
+Warp Disruptor I
+Stasis Webifier I
+Ballistic Control System I
+Mining Drone I (Cargo)
+Faint Phase Inversion ECM I (Cargo)
+Ancillary Ballistic Screen Stabilizer I (Cargo)
+Warrior I (Drone Bay)
+

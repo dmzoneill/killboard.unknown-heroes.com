@@ -1,0 +1,32 @@
+2007.04.17 16:07
+
+Victim: Arrow Jumpdrive
+Alliance: Privateer Alliance
+Corp: Sicarri Covenant
+Destroyed: Claw
+System: Urlen
+Security: 1.0
+
+Involved parties:
+
+Name: Ghu'ru Talozan (laid the final blow)
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ishtar
+Weapon: Warrior II
+
+
+Destroyed items:
+
+200mm AutoCannon II
+200mm AutoCannon II
+EMP S, Qty: 33
+Phased Monopropellant I Hydrazine Boosters
+J5 Prototype Warp Inhibitor I
+Damage Control I
+200mm Reinforced Nanofiber Plates I
+Beta Reactor Control: Capacitor Power Relay I
+EMP S, Qty: 700 (Cargo)
+Barrage S, Qty: 464 (Cargo)
+

@@ -1,0 +1,38 @@
+2006.11.26 08:19
+
+Victim: GoLdeN BoY
+Alliance: None
+Corp: Beer Guzzling Clowns With Blasters
+Destroyed: Vagabond
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: MACXAD (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Ship: Tempest
+Weapon: 800mm Repeating Artillery II
+
+
+Destroyed items:
+
+220mm Vulcan AutoCannon II
+220mm Vulcan AutoCannon II
+Hail M, Qty: 102
+Sabretooth Light Missile, Qty: 66
+Y-T8 Overcharged Hydrocarbon I Microwarpdrive
+Faint Warp Prohibitor I
+Gyrostabilizer II
+Gyrostabilizer II (Cargo)
+Medium Asymmetric Energy Succor I (Cargo)
+Barrage M, Qty: 2225 (Cargo)
+Hail M, Qty: 1460 (Cargo)
+Sabretooth Light Missile, Qty: 1404 (Cargo)
+Standard Missile Launcher I (Cargo)
+'Malkuth' Standard Missile Launcher I (Cargo)
+Advanced 'Limos' Heavy Missile Bay I, Qty: 2 (Cargo)
+'Arbalest' Assault Missile Launcher (Cargo)
+

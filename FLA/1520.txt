@@ -1,0 +1,66 @@
+2007.03.15 03:57
+
+Victim: Vasili Z
+Alliance: YouWhat
+Corp: Beasts of Burden
+Destroyed: Breacher
+System: XZH-4X
+Security: 0.0
+
+Involved parties:
+
+Name: FlobbMkII (laid the final blow)
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+Name: Blair Quawn
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Korudon
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Crow
+Weapon: Stasis Webifier I
+
+Name: Smiles Jr
+Security: 2.3
+Alliance: Freelancer Alliance
+Corp: The Night Crew
+Ship: Bellicose
+Weapon: Bloodclaw Light Missile
+
+Name: Sovo
+Security: -0.6
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Thrasher
+Weapon: Thrasher
+
+Name: Katsumi Ito
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Tristan
+Weapon: 'Malkuth' Rocket Launcher I
+
+Name: Danielson1012
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Drake
+Weapon: Advanced 'Limos' Heavy Missile Bay I
+
+
+Destroyed items:
+
+1MN MicroWarpdrive I
+Faint Epsilon Warp Prohibitor I
+

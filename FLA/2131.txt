@@ -1,0 +1,27 @@
+2007.01.23 18:57
+
+Victim: AaLaA
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Destroyed: Helios
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: WarGod (laid the final blow)
+Security: 1.4
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Curse
+Weapon: Hobgoblin II
+
+
+Destroyed items:
+
+Fathom Scanner Probe I, Qty: 14
+Barton Reactor Capacitor Recharger I
+Fixed Parallel Link-Capacitor I
+Cold-Gas I Arcjet Thrusters
+Snoop Scanner Probe I, Qty: 35 (Cargo)
+

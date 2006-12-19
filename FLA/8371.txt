@@ -1,0 +1,62 @@
+2006.11.13 16:45
+
+Victim: bidman
+Alliance: Freelancer Alliance
+Corp: BGG
+Destroyed: Raven
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Jimmycs83 (laid the final blow)
+Security: -1.0
+Alliance: None
+Corp: Venom.
+Ship: Megathron
+Weapon: Neutron Blaster Cannon II
+
+Name: GoLdeN BoY
+Security: 1.7
+Alliance: None
+Corp: Beer Guzzling Clowns With Blasters
+Ship: Scorpion
+Weapon: Hobgoblin I
+
+Name: john taylor2
+Security: 2.9
+Alliance: None
+Corp: Venom.
+Ship: Dominix
+Weapon: Ogre I
+
+Name: Roluthas
+Security: 0.1
+Alliance: None
+Corp: Beer Guzzling Clowns With Blasters
+Ship: Capsule
+Weapon: Heavy Missile Launcher I
+
+Name: frederico handani
+Security: 0.0
+Alliance: None
+Corp: Beer Guzzling Clowns With Blasters
+Ship: Megathron
+Weapon: Megathron
+
+
+Destroyed items:
+
+Cynosural Field Generator I
+Siege Missile Launcher II
+Siege Missile Launcher II
+Siege Missile Launcher II
+Sensor Booster II
+Sensor Booster II
+Sensor Booster II
+Magnetic Scattering Amplifier II
+Ballistic Control System II
+Tungsten Charge M, Qty: 500 (Cargo)
+Iron Charge M, Qty: 1803 (Cargo)
+Juggernaut Javelin Torpedo, Qty: 404 (Cargo)
+

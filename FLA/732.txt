@@ -1,0 +1,45 @@
+2007.02.18 20:14
+
+Victim: DoGzy
+Alliance: United Confederation of Corporations
+Corp: Mindstar Technology
+Destroyed: Anathema
+System: RQH-MY
+Security: 0.0
+
+Involved parties:
+
+Name: Ghu'ru Talozan
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: Daressek (laid the final blow)
+Security: 3.7
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Raptor
+Weapon: Sabretooth Light Missile
+
+
+Destroyed items:
+
+Codebreaker I
+Codebreaker I
+Codebreaker I
+Codebreaker I
+Codebreaker I
+Codebreaker I
+Analyzer I
+Analyzer I
+Analyzer I
+Analyzer I
+Analyzer I
+Analyzer I
+Catalyzed Cold-Gas I Arcjet Thrusters
+Mark I Modified SS Inertial Stabilizers
+Radar Comb Probe, Qty: 17 (Cargo)
+Radar Quest Probe, Qty: 42 (Cargo)
+

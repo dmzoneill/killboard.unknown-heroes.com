@@ -1,0 +1,38 @@
+2006.12.17 02:06
+
+Victim: Jaysun Myst
+Alliance: None
+Corp: Exanimo Inc
+Destroyed: Kestrel
+System: 93PI-4
+Security: 0.0
+
+Involved parties:
+
+Name: FrankieG
+Security: -0.4
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Stabber
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Hosanna (laid the final blow)
+Security: 4.7
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+
+Destroyed items:
+
+Piranha Light Missile, Qty: 42
+'Malkuth' Standard Missile Launcher I
+Warp Scrambler I
+Inertia Stabilizers I
+Inertia Stabilizers I
+Ballistic Control System I (Cargo)
+Piranha Light Missile, Qty: 258 (Cargo)
+Havoc Heavy Missile, Qty: 970 (Cargo)
+Heavy Missile Launcher I (Cargo)
+

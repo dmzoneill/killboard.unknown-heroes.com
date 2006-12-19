@@ -1,0 +1,104 @@
+2007.04.18 10:50
+
+Victim: freek
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Destroyed: Myrmidon
+System: OWXT-5
+Security: 0.0
+
+Involved parties:
+
+Name: Zylatis
+Security: 5.0
+Alliance: EVE Animal Control
+Corp: The Inner Legion
+Ship: Vulture
+Weapon: Hornet II
+
+Name: Nukuquqa Hestase
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Manticore
+Weapon: Devastator Cruise Missile
+
+Name: Mufeater (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Brutix
+Weapon: Anode Neutron Particle Cannon I
+
+Name: Saan Motak
+Security: 1.4
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Myrmidon
+Weapon: Heavy Electron Blaster I
+
+Name: Splinter5150
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Ship: Caracal
+Weapon: Bloodclaw Light Missile
+
+Name: MrMaggot
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Manticore
+Weapon: Devastator Cruise Missile
+
+Name: mrrabit
+Security: 4.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Cyclone
+Weapon: Cyclone
+
+Name: Keltec
+Security: 0.2
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Lee Thrace
+Security: 5.0
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Deimos
+Weapon: Hammerhead II
+
+Name: Rohan V
+Security: 2.1
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Cormorant
+Weapon: Cormorant
+
+Name: other mickey
+Security: 3.2
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Rifter
+Weapon: Fleeting Progressive Warp Scrambler I
+
+
+Destroyed items:
+
+Dual 180mm 'Scout' Autocannon I
+220mm Medium 'Scout' Autocannon I
+Medium Diminishing Power System Drain I
+Nuclear M, Qty: 103
+10MN MicroWarpdrive II
+Fleeting Propulsion Inhibitor I
+Medium Electrochemical Capacitor Booster I
+Cap Booster 800
+Medium Armor Repairer II, Qty: 2
+Armor Thermic Hardener II
+Depleted Uranium M, Qty: 3000 (Cargo)
+Nuclear M, Qty: 2456 (Cargo)
+Proton M, Qty: 3000 (Cargo)

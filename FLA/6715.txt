@@ -1,0 +1,47 @@
+2006.11.25 19:29
+
+Victim: Jack Paladin
+Alliance: Knights Of Syndicate
+Corp: GALCOM
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Shiri elAzarinres (laid the final blow)
+Security: 0.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+Name: Durante Alighieri
+Security: 2.8
+Alliance: Schism.
+Corp: New Light
+Ship: Harpy
+Weapon: 150mm Compressed Coil Gun I
+
+Name: Tri Ounou
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Jaguar
+Weapon: 'Arbalest' Rocket Launcher I
+
+Name: casama
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Vengeance
+Weapon: Medium Beam Laser II
+
+Name: Rebecca Tanglebloom
+Security: 3.8
+Alliance: Imperial Republic Of the North
+Corp: Port Royal Independent Kontractors
+Ship: Vengeance
+Weapon: J5 Prototype Warp Inhibitor I
+
+

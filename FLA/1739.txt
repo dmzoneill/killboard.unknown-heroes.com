@@ -1,0 +1,26 @@
+2007.01.02 06:05
+
+Victim: Solis Ragyogas
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Destroyed: Capsule
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: K Shara (laid the final blow)
+Security: 4.7
+Alliance: None
+Corp: Deep Core Mining Inc.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Anna Neura
+Security: -0.2
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Arazu
+Weapon: 200mm Railgun II
+
+

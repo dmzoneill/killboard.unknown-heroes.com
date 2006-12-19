@@ -1,0 +1,84 @@
+2007.03.13 01:20
+
+Victim: Downeaster
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Destroyed: Blackbird
+System: MJYW-3
+Security: 0.0
+
+Involved parties:
+
+Name: DeathGrip
+Security: 2.3
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Flycatcher
+Weapon: Foxfire Javelin Rocket
+
+Name: ZAX0236
+Security: 5.0
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Flycatcher
+Weapon: 'Langour' Drive Disruptor I
+
+Name: Zerefin
+Security: 5.0
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Malediction
+Weapon: Malediction
+
+Name: Selnix
+Security: 5.0
+Alliance: Aftermath Alliance
+Corp: Master Miners
+Ship: Eris
+Weapon: Foxfire Javelin Rocket
+
+Name: Popsikle (laid the final blow)
+Security: -0.1
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Sabre
+Weapon: 200mm AutoCannon II
+
+Name: IamnobodyCL
+Security: 5.0
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Crusader
+Weapon: Crusader
+
+Name: Criosachille
+Security: 3.5
+Alliance: Xelas Alliance
+Corp: Catalyst Reaction
+Ship: Taranis
+Weapon: Taranis
+
+Name: El Coyote
+Security: 3.4
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Merlin
+Weapon: Sabretooth Light Missile
+
+Name: Issaqua
+Security: -1.1
+Alliance: None
+Corp: Constructive Influence
+Ship: Rifter
+Weapon: Rifter
+
+
+Destroyed items:
+
+Widowmaker Heavy Missile, Qty: 35
+'Malkuth' Assault Missile Launcher I
+ECM - Phase Inverter I
+ECM - Spatial Destabilizer I, Qty: 2 (Cargo)
+ECM - Multispectral Jammer I, Qty: 2 (Cargo)
+Widowmaker Heavy Missile, Qty: 100 (Cargo)
+

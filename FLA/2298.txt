@@ -1,0 +1,95 @@
+2007.02.05 16:09
+
+Victim: Spartan dax
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Destroyed: Blackbird
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Isabel Sweet
+Security: -1.4
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Apocalypse
+Weapon: Tachyon Beam Laser II
+
+Name: ExTrEmM OCL
+Security: 0.8
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Okuden (laid the final blow)
+Security: 1.6
+Alliance: Band of Brothers
+Corp: Black Eclipse Corp
+Ship: Hyperion
+Weapon: 425mm Railgun I
+
+Name: Hazrat Izza
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Armageddon
+Weapon: Tachyon Beam Laser II
+
+Name: Repiv
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Bodhi D
+Security: -0.2
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Ria Sotori
+Security: 3.9
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Rokh
+Weapon: 425mm Railgun II
+
+Name: Remmington Daniels
+Security: 1.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+Name: Meja
+Security: 2.3
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Myrmidon
+Weapon: Target Painter II
+
+Name: CLEISTHENES2
+Security: -0.9
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Maelstrom
+Weapon: 1400mm Howitzer Artillery II
+
+
+Destroyed items:
+
+Small 'Arup' I Remote Bulwark Reconstruction
+Thunderbolt Heavy Missile, Qty: 96
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+Induced Multispectral ECM I
+'Hypnos' Multispectral ECM I
+Remote Sensor Dampener I
+Initiated Signal Distortion Amplifier I
+Initiated Signal Distortion Amplifier I
+Thunderbolt Heavy Missile, Qty: 559 (Cargo)
+

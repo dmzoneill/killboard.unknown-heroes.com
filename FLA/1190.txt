@@ -1,0 +1,26 @@
+2007.03.08 07:24
+
+Victim: HellRazior
+Alliance: Xelas Alliance
+Corp: Catalyst Reaction
+Destroyed: Capsule
+System: XZH-4X
+Security: 0.0
+
+Involved parties:
+
+Name: EM00 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Caracal
+Weapon: Widowmaker Heavy Missile
+
+Name: Magnus Crane
+Security: 3.7
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+

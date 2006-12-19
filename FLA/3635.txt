@@ -1,0 +1,33 @@
+2007.03.28 10:07
+
+Victim: Drin
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Destroyed: Minmatar Shuttle
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: MegaJ (laid the final blow)
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Pilgrim
+Weapon: Ogre II
+
+Name: Myndpyre Ryche
+Security: 4.2
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Nighthawk
+Weapon: Heavy Missile Launcher II
+
+Name: PMolkenthin
+Security: -0.7
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Arazu
+Weapon: Dark Blood Warp Disruptor
+
+

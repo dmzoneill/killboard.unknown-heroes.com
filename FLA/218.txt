@@ -1,0 +1,29 @@
+2007.01.18 08:39
+
+Victim: Choran
+Alliance: None
+Corp: Agony Unleashed
+Destroyed: Badger Mark II
+System: X-7OMU
+Security: 0.0
+
+Involved parties:
+
+Name: Weeble Wooble (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+
+Destroyed items:
+
+Small Tractor Beam I
+Medium Subordinate Screen Stabilizer I
+'Anointed' I EM Ward Reinforcement
+'Deluge' ECM Burst I
+Warp Core Stabilizer I
+Expanded Cargohold I
+Arkonor, Qty: 333 (Cargo)
+

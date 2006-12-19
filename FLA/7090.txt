@@ -1,0 +1,53 @@
+2006.12.26 00:40
+
+Victim: Reccaryu
+Alliance: None
+Corp: Loc-Nar
+Destroyed: Dominix
+System: Amamake
+Security: 0.4
+
+Involved parties:
+
+Name: W0LFMAN (laid the final blow)
+Security: 3.5
+Alliance: Freelancer Alliance
+Corp: Caldar Mercenary Syndicate
+Ship: Typhoon
+Weapon: Mjolnir Torpedo
+
+Name: Silentpain
+Security: -0.7
+Alliance: None
+Corp: The Flaming Sideburn's
+Ship: Unknown
+Weapon: XT-9000 Cruise Launcher
+
+Name: Angel Shatterer / Archangels
+
+Name: Raiga88
+Security: -2.8
+Alliance: The Shadow Ascension
+Corp: Acheron Vanguard Armada
+Ship: Vengeance
+Weapon: Small 'Ghoul' Energy Siphon I
+
+
+Destroyed items:
+
+Modal Mega Electron Particle Accelerator I
+Modal Mega Electron Particle Accelerator I
+Modal Mega Electron Particle Accelerator I
+Modal Mega Electron Particle Accelerator I
+Antimatter Charge L, Qty: 127
+100MN MicroWarpdrive I
+Heavy Electrochemical Capacitor Booster I
+Alumel-Wired I Sensor Augmentation
+Large Armor Repairer II
+Armor Thermic Hardener II
+1600mm Reinforced Rolled Tungsten Plates I
+Antimatter Charge L, Qty: 729 (Cargo)
+Berserker II, Qty: 2 (Drone Bay)
+Hobgoblin II, Qty: 2 (Drone Bay)
+Warrior II (Drone Bay)
+

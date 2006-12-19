@@ -1,0 +1,96 @@
+2006.11.30 23:25
+
+Victim: Jenessa
+Alliance: Triumvirate.
+Corp: D00M.
+Destroyed: Flycatcher
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Sil330 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Eagle
+Weapon: 250mm 'Scout' I Accelerator Cannon
+
+Name: Heero Yuy
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Absolution
+Weapon: Faint Warp Prohibitor I
+
+Name: Rick A
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Ferox
+Weapon: Flameburst Light Missile
+
+Name: Minesweeper
+Security: 4.2
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: coldkill
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Megathron
+Weapon: Paradise Cruise Missile
+
+Name: cathedrall
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Raven
+Weapon: 250mm Prototype I Gauss Gun
+
+Name: Moszu
+Security: 1.5
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Ship: Ferox
+Weapon: 250mm Railgun I
+
+Name: MonwrathDisortium
+Security: 0.4
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Tristan
+Weapon: Tristan
+
+Name: Skornik
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Megathron
+Weapon: E500 Prototype Energy Vampire
+
+Name: Puz'ZaW
+Security: 1.9
+Alliance: Freelancer Alliance
+Corp: Thors Hammers
+Ship: Rupture
+Weapon: Dual 180mm AutoCannon I
+
+Name: Fr0zt
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Rook
+Weapon: 'Hypnos' Multispectral ECM I
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 84
+Upgraded 'Limos' Standard Missile Bay I
+Medium Clarity Ward Booster I
+Bloodclaw Light Missile, Qty: 307 (Cargo)
+

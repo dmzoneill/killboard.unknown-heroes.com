@@ -1,0 +1,26 @@
+2007.04.09 02:00
+
+Victim: Solomon XI
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Destroyed: Capsule
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Myndpyre Ryche (laid the final blow)
+Security: 4.2
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Nighthawk
+Weapon: Scourge Heavy Missile
+
+Name: Lunalyia Ryche
+Security: 2.9
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Harbinger
+Weapon: Harbinger
+
+

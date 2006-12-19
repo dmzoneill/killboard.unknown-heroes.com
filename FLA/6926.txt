@@ -1,0 +1,30 @@
+2006.12.12 23:42
+
+Victim: Zun1t0n1u7833A
+Alliance: None
+Corp: Borgnine Systems
+Destroyed: Kestrel
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: James Potkukelkka (laid the final blow)
+Security: 0.3
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Flycatcher
+Weapon: Bloodclaw Precision Light Missile
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 51
+Standard Missile Launcher I
+'Malkuth' Standard Missile Launcher I
+Small Shield Extender I
+Small Shield Extender I
+Small Shield Extender I
+Damage Control I
+Serpent F.O.F. Light Missile I, Qty: 56 (Cargo)
+

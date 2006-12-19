@@ -1,0 +1,66 @@
+2007.04.19 21:02
+
+Victim: Art Alexakis
+Alliance: None
+Corp: Odyssey Inc.
+Destroyed: Drake
+System: Kubinen
+Security: 0.4
+
+Involved parties:
+
+Name: jag
+Security: 2.3
+Alliance: None
+Corp: SWAT corp vs DKI corp
+Ship: Megathron
+Weapon: Hammerhead I
+
+Name: RayTruz (laid the final blow)
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+Name: Gathnia
+Security: -1.9
+Alliance: None
+Corp: PARABELUM-Project
+Ship: Thorax
+Weapon: Vespa EC-600
+
+Name: Umit Davala
+Security: 0.8
+Alliance: None
+Corp: Corpus PCG
+Ship: Stabber
+Weapon: Piranha Light Missile
+
+Name: Dark Flare
+Security: -2.7
+Alliance: None
+Corp: Corpus PCG
+Ship: Stabber
+Weapon: Warrior I
+
+Name: Guristas Anarchist / Guristas
+
+
+Destroyed items:
+
+Medium Graviton Smartbomb I
+Bloodclaw Light Missile, Qty: 45
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Assault Missile Launcher I
+Large Shield Booster I
+Cap Recharger I
+Invulnerability Field I
+Signal Amplifier I
+Ballistic Control System I
+Inertia Stabilizers I
+Cap Booster 800, Qty: 5 (Cargo)
+

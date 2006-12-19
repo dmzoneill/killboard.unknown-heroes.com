@@ -1,0 +1,19 @@
+2007.04.21 20:12
+
+Victim: Dureth
+Alliance: None
+Corp: Aliastra
+Destroyed: Capsule
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: TroNaaR (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Taranis
+Weapon: 75mm Gatling Rail II
+
+

@@ -1,0 +1,56 @@
+2007.05.07 19:30
+
+Victim: Screamer
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Manticore
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: haz zard
+Security: -2.3
+Alliance: The Foundation.
+Corp: Cornerstone Unlimited
+Ship: Ares
+Weapon: Ares
+
+Name: wardey
+Security: 1.9
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Omen
+Weapon: Omen
+
+Name: Neverdream
+Security: 3.7
+Alliance: The Foundation.
+Corp: NorCorp Security
+Ship: Ares
+Weapon: Thorn Rocket
+
+Name: ClogMan (laid the final blow)
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Wolf
+Weapon: 280mm Howitzer Artillery II
+
+Name: Cockroach
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Zealot
+Weapon: Zealot
+
+
+Destroyed items:
+
+Improved Cloaking Device II
+Cruise Missile Launcher II, Qty: 2
+Warp Disruptor I
+Stasis Webifier II
+Sensor Booster II
+Signal Amplifier I
+Co-Processor I

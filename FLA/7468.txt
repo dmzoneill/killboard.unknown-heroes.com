@@ -1,0 +1,47 @@
+2006.09.08 21:32
+
+Victim: Braenca
+Alliance: None
+Corp: Unethical Heroes
+Destroyed: Capsule
+System: EWOK-K
+Security: 0.0
+
+Involved parties:
+
+Name: Jumar Coldgin (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: fincormack
+Security: 2.3
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Enyo
+Weapon: 150mm Railgun II
+
+Name: 8ObliVioN8
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Raptor
+Weapon: Standard Missile Launcher II
+
+Name: Hosanna
+Security: -2.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Stiletto
+Weapon: Fleeting Warp Scrambler I
+
+Name: Commander Stringer
+Security: 1.8
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Rifter
+Weapon: 280mm Howitzer Artillery II
+
+

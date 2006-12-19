@@ -1,0 +1,33 @@
+2007.03.20 00:06
+
+Victim: Vr0ngar
+Alliance: None
+Corp: Republic Military School
+Destroyed: Capsule
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Clavain Treesmighter (laid the final blow)
+Security: 2.1
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Hawk
+Weapon: Sabretooth Light Missile
+
+Name: demotar
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Claw
+Weapon: 280mm Carbine Howitzer I
+
+Name: Cmdr Slain
+Security: 4.1
+Alliance: Galactic-Federation
+Corp: Dark Storm Syndicate
+Ship: Vigil
+Weapon: 125mm Compressed Coil Gun I
+
+

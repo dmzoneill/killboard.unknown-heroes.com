@@ -1,0 +1,61 @@
+2006.10.14 01:32
+
+Victim: Guided Bullets
+Alliance: None
+Corp: The Dragonriders of EVE
+Destroyed: Caldari Shuttle
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: movy
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Enyo
+Weapon: Enyo
+
+Name: TheBelgarion (laid the final blow)
+Security: 4.4
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: other mickey
+Security: 0.8
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Celestis
+Weapon: 200mm Railgun I
+
+Name: dccbx
+Security: 2.0
+Alliance: Freelancer Alliance
+Corp: X.T.R
+Ship: Cyclone
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+Name: Valadeya uthanaras
+Security: 4.1
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Armageddon
+Weapon: Mega Beam Laser I
+
+Name: Formosus Funus
+Security: 2.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Tempest
+Weapon: 1400mm Gallium I Cannon
+
+Name: Flashh Gorden
+Security: 2.0
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Ship: Ferox
+Weapon: Heavy Missile Launcher II
+
+

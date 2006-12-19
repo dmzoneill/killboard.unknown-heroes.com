@@ -1,0 +1,60 @@
+2006.08.16 19:09
+
+Victim: Anya Kirik
+Alliance: Freelancer Alliance
+Corp: J.I.T. Enterprises
+Destroyed: Rifter
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: AHAPXUCT (laid the final blow)
+Security: -1.8
+Alliance: R.I.S.K
+Corp: SolaR KillerS
+Ship: Prophecy
+Weapon: Heavy Pulse Laser II
+
+Name: Scer
+Security: 5.0
+Alliance: None
+Corp: LDK
+Ship: Taranis
+Weapon: Fleeting Progressive Warp Scrambler I
+
+Name: Sergejus Clegg
+Security: 1.8
+Alliance: R.I.S.K
+Corp: The First Foundation
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+Name: WhItEDeD
+Security: 0.8
+Alliance: R.I.S.K
+Corp: The First Foundation
+Ship: Thorax
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: Sadith
+Security: 1.4
+Alliance: R.I.S.K
+Corp: RUS-SAGA
+Ship: Tempest
+Weapon: Heavy Diminishing Power System Drain I
+
+Name: Romanuld
+Security: 0.3
+Alliance: R.I.S.K
+Corp: NODEX Game Group
+Ship: Megathron
+Weapon: 425mm Prototype I Gauss Gun
+
+
+Destroyed items:
+
+1MN Afterburner I
+Warp Core Stabilizer I
+Warp Core Stabilizer I
+

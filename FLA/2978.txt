@@ -1,0 +1,73 @@
+2007.03.18 05:33
+
+Victim: Tara Black
+Alliance: Freelancer Alliance
+Corp: Harbingers of Sarrow
+Destroyed: Raven
+System: YA0-XJ
+Security: 0.0
+
+Involved parties:
+
+Name: mafutero (laid the final blow)
+Security: -1.4
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Typhoon
+Weapon: Mjolnir Torpedo
+
+Name: Xordus
+Security: 1.3
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Harbinger
+Weapon: Valkyrie II
+
+Name: Balcura
+Security: 4.9
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Slaqr
+Security: 1.6
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Arbitrator
+Weapon: Vespa I
+
+Name: Nipplator
+Security: 2.9
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Harbinger
+Weapon: Harbinger
+
+Name: Xoduse
+Security: 0.2
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Eris
+Weapon: Eris
+
+Name: Diego Barbera
+Security: -0.6
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Claw
+Weapon: Claw
+
+Name: Lord Revent
+Security: 1.0
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Stiletto
+Weapon: Stiletto
+
+
+Destroyed items:
+
+Large C5-L Emergency Shield Overload I
+Ballistic Control System I
+

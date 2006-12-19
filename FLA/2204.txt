@@ -1,0 +1,66 @@
+2007.01.28 18:05
+
+Victim: Hantaris
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Destroyed: Dominix
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Mr Staberinde
+Security: 0.2
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Sleipnir
+Weapon: Sleipnir
+
+Name: Nira Li (laid the final blow)
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Harbinger
+Weapon: Focused Medium Pulse Laser II
+
+Name: Pyrotesea
+Security: 4.6
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Hyperion
+Weapon: 425mm Railgun II
+
+Name: Zeram
+Security: 3.3
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Jaguar
+Weapon: 280mm Carbine Howitzer I
+
+Name: Havvok
+Security: 1.9
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Dominix
+Weapon: ECM - Multispectral Jammer II
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Medium Nosferatu I
+Medium Nosferatu I
+Modal Mega Electron Particle Accelerator I
+Antimatter Charge L, Qty: 162
+Heavy F-RX Prototype I Capacitor Boost
+Sensor Booster I
+Large Inefficient Armor Repair Unit
+Large Inefficient Armor Repair Unit
+N-Type Thermic Hardener I
+N-Type Kinetic Hardener I
+Reactor Control Unit I
+Antimatter Charge L, Qty: 2150 (Cargo)
+Cap Booster 800, Qty: 12 (Cargo)
+Wasp I (Drone Bay)
+Hammerhead I, Qty: 2 (Drone Bay)
+

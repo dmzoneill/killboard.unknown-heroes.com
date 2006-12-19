@@ -1,0 +1,28 @@
+2006.12.01 08:34
+
+Victim: SleepyOSU
+Alliance: Freelancer Alliance
+Corp: Sin-X Inc.
+Destroyed: Ishkur
+System: O-N8XZ
+Security: 0.0
+
+Involved parties:
+
+Name: Aphotic Raven (laid the final blow)
+Security: 1.6
+Alliance: Eternal Empire
+Corp: Spectral Armada
+Ship: Thorax
+Weapon: Light Neutron Blaster II
+
+
+Destroyed items:
+
+Light Ion Blaster II
+Void S, Qty: 111
+1MN Afterburner II
+X5 Prototype I Engine Enervator
+Energized Adaptive Nano Membrane I
+Void S, Qty: 1500 (Cargo)
+

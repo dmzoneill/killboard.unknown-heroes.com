@@ -1,0 +1,49 @@
+2007.03.28 00:35
+
+Victim: Black Vine
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Destroyed: Scorpion
+System: P-2TTL
+Security: 0.0
+
+Involved parties:
+
+Name: Ka'lorn Font'a (laid the final blow)
+Security: 4.1
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Abaddon
+Weapon: Tachyon Beam Laser II
+
+Name: Phoenus
+Security: 0.4
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Crow
+Weapon: Upgraded 'Limos' Standard Missile Bay I
+
+
+Destroyed items:
+
+250mm Railgun I
+250mm Railgun I
+Tungsten Charge M, Qty: 38
+Bane Torpedo, Qty: 36
+Cruise Missile Launcher I
+Siege Missile Launcher I
+Siege Missile Launcher I
+Large Neutron Saturation Injector I
+Warp Disruptor I
+Stasis Webifier I
+V-M15 Braced Multispectral Shield Matrix
+ECM - Multispectral Jammer II
+ECM - Multispectral Jammer II
+F-S8 Relativistic Deflection Shield Induction
+Power Diagnostic System I
+Power Diagnostic System I
+Medium Hull Repairer I (Cargo)
+Tungsten Charge M, Qty: 781 (Cargo)
+Bane Torpedo, Qty: 887 (Cargo)
+Devastator Cruise Missile, Qty: 355 (Cargo)
+

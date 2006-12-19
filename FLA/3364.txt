@@ -1,0 +1,74 @@
+2007.03.24 22:39
+
+Victim: AlexeiShtukov
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Destroyed: Caracal
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Genrom (laid the final blow)
+Security: 4.5
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Ishtar
+Weapon: Ogre II
+
+Name: Spacebar
+Security: 2.1
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Sleipnir
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Cassidy Yates
+Security: -0.7
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Absolution
+Weapon: Warrior II
+
+Name: Ferocious FeAr
+Security: 1.5
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Nighthawk
+Weapon: Scourge Fury Heavy Missile
+
+Name: Grantavious
+Security: 2.6
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Eagle
+Weapon: Heavy Neutron Blaster II
+
+Name: Redginald
+Security: 4.5
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Hurricane
+Weapon: Balmer Series Targeting Inhibitor I
+
+Name: Ale Tricio
+Security: 2.2
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Curse
+Weapon: Valkyrie II
+
+
+Destroyed items:
+
+Thunderbolt Heavy Missile, Qty: 34
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Shield Recharger I
+Invulnerability Field I
+Scourge Heavy Missile, Qty: 590 (Cargo)
+Havoc Heavy Missile, Qty: 210 (Cargo)
+Thunderbolt Heavy Missile, Qty: 437 (Cargo)
+Widowmaker Heavy Missile, Qty: 340 (Cargo)
+

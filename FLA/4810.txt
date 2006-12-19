@@ -1,0 +1,63 @@
+2007.04.16 03:31
+
+Victim: Christopher Cook
+Alliance: Freelancer Alliance
+Corp: Terminal Velocity Inc.
+Destroyed: Blackbird
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Ehxo
+Security: 4.9
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Rupture
+Weapon: Hobgoblin II
+
+Name: Genrom
+Security: 4.5
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Arazu
+Weapon: Arazu
+
+Name: Admentus Cor'vion
+Security: -0.5
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Taranis
+Weapon: Taranis
+
+Name: Witch Doctor (laid the final blow)
+Security: 0.1
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Hyperion
+Weapon: Ion Blaster Cannon II
+
+Name: FowlPlayChiken
+Security: 1.2
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Thanatos
+Weapon: Berserker II
+
+Name: Waagaa Ktlehr
+Security: -0.1
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Aeon
+Weapon: Gotan's Modified Warp Disruptor
+
+
+Destroyed items:
+
+Thunderbolt Heavy Missile, Qty: 35
+Widowmaker Heavy Missile, Qty: 35
+ECM - Multispectral Jammer II
+ECM - Multispectral Jammer II
+Ballistic Control System I
+Widowmaker Heavy Missile, Qty: 1965 (Cargo)
+

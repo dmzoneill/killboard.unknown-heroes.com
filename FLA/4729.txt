@@ -1,0 +1,19 @@
+2007.04.20 20:07
+
+Victim: FA Avenger
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Destroyed: Capsule
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Korudon (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Megathron
+Weapon: Large EMP Smartbomb I
+
+

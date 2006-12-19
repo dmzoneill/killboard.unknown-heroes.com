@@ -1,0 +1,46 @@
+2006.10.09 18:07
+
+Victim: pROMp
+Alliance: Freelancer Alliance
+Corp: Feel Good Inc.
+Destroyed: Celestis
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Kiyoshi Aphelion
+Security: 3.5
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Darknesss
+Security: -1.1
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Megathron
+Weapon: Megathron
+
+Name: David Godfrey (laid the final blow)
+Security: 4.1
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Thanatos
+Weapon: Templar
+
+
+Destroyed items:
+
+Plutonium Charge M, Qty: 61
+Havoc Heavy Missile, Qty: 50
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+10MN Afterburner I
+V-M15 Braced Multispectral Shield Matrix
+Indirect Scanning Dampening Unit I
+Damage Control I
+Havoc Heavy Missile, Qty: 825 (Cargo)
+Hobgoblin II (Drone Bay)
+

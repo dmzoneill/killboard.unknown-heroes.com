@@ -1,0 +1,38 @@
+2007.03.22 19:07
+
+Victim: Almagar Phog
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Destroyed: Blackbird
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Yushii (laid the final blow)
+Security: -0.3
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Vagabond
+Weapon: Dual 180mm AutoCannon II
+
+Name: lt blacklotus
+Security: 0.8
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Scourge Heavy Missile, Qty: 30
+Thunderbolt Heavy Missile, Qty: 31
+'Malkuth' Heavy Missile Launcher I
+ECM - Phase Inverter I
+Induced Ion Field ECM I
+Prototype I Sensor Booster
+Hellhound F.O.F. Heavy Missile I, Qty: 100 (Cargo)
+Eradicator F.O.F. Heavy Missile I, Qty: 100 (Cargo)
+

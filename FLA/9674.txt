@@ -1,0 +1,120 @@
+2007.05.22 18:29
+
+Victim: Johny Quango
+Alliance: Praesidium Libertatis
+Corp: adeptus gattacus
+Destroyed: Flycatcher
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: silent uk
+Security: 2.5
+Alliance: DeStInY.
+Corp: Sacred Templars
+Ship: Heretic
+Weapon: Heretic
+
+Name: Serzath (laid the final blow)
+Security: 5.0
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Commander XXX
+Security: 0.9
+Alliance: DeStInY.
+Corp: The Knights Of Camelot
+Ship: Myrmidon
+Weapon: Myrmidon
+
+Name: Teham Edori
+Security: 4.7
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Prophecy
+Weapon: Prophecy
+
+Name: articz
+Security: -0.3
+Alliance: DeStInY.
+Corp: House Of Aaron
+Ship: Tempest
+Weapon: Tempest
+
+Name: Joachim R
+Security: 3.3
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Moa
+Weapon: 250mm Railgun II
+
+Name: dishdoshski
+Security: 0.3
+Alliance: DeStInY.
+Corp: The Knights Of Camelot
+Ship: Hawk
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+Name: Zhang Ziyi
+Security: 3.5
+Alliance: RAZOR Alliance
+Corp: Thundercats
+Ship: Zealot
+Weapon: Zealot
+
+Name: Veliki Pyotr
+Security: 1.7
+Alliance: DeStInY.
+Corp: The Knights Of Camelot
+Ship: Dominix
+Weapon: Heavy Diminishing Power System Drain I
+
+Name: Osiris Warp
+Security: 2.2
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Harpy
+Weapon: Harpy
+
+Name: Ocara Nezus
+Security: 1.5
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Crow
+Weapon: 'Arbalest' Standard Missile Launcher
+
+Name: Matchitehew
+Security: 0.5
+Alliance: DeStInY.
+Corp: The Knights Of Camelot
+Ship: Drake
+Weapon: Heavy Missile Launcher I
+
+Name: FawKa
+Security: 2.1
+Alliance: Imperial Republic Of the North
+Corp: Old Farts
+Ship: Eos
+Weapon: Modal Ion Particle Accelerator I
+
+Name: Corovus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Manticore
+Weapon: 'Arbalest' Cruise Launcher I
+
+
+Destroyed items:
+
+Thorn Rocket, Qty: 70
+Phalanx Rocket, Qty: 30
+'Limos' Rocket Launcher I
+Catalyzed Cold-Gas I Arcjet Thrusters
+X5 Prototype I Engine Enervator
+F85 Peripheral Damage System I (Cargo)
+'Malkuth' Rocket Launcher I, Qty: 3 (Cargo)
+

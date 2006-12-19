@@ -1,0 +1,49 @@
+2007.04.01 14:27
+
+Victim: Cpt Tyreal
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Destroyed: Brutix
+System: P-2TTL
+Security: 0.0
+
+Involved parties:
+
+Name: Rhayvn (laid the final blow)
+Security: 4.5
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Abaddon
+Weapon: Tachyon Beam Laser II
+
+Name: Sarkone
+Security: 4.5
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Tempest
+Weapon: Tempest
+
+Name: Eleese
+Security: -0.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Lachesis
+Weapon: Lachesis
+
+
+Destroyed items:
+
+200mm Prototype I Gauss Gun
+200mm Prototype I Gauss Gun
+Antimatter Charge M, Qty: 40
+N-Type Kinetic Hardener I
+N-Type Kinetic Hardener I
+Radioisotope Thermic Hardener I
+250mm 'Scout' I Accelerator Cannon (Cargo)
+Antimatter Charge M, Qty: 3953 (Cargo)
+Weapon Upgrades (Cargo)
+Minmatar Cruiser (Cargo)
+Leadership (Cargo)
+Guristas Ship Log 534987422 (Cargo)
+Beta Reactor Control: Diagnostic System I, Qty: 2 (Cargo)
+

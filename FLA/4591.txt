@@ -1,0 +1,71 @@
+2007.04.14 21:47
+
+Victim: Rev Darkwing
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Flycatcher
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: s73v3n2k (laid the final blow)
+Security: 5.0
+Alliance: FATAL Alliance
+Corp: UK Corp
+Ship: Raven
+Weapon: Wrath Cruise Missile
+
+Name: Bravo 20
+Security: 5.0
+Alliance: FATAL Alliance
+Corp: FATAL REVELATIONS
+Ship: Ferox
+Weapon: Ferox
+
+Name: Patro
+Security: -1.4
+Alliance: FATAL Alliance
+Corp: Free Mercenaries Union
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Ardpirate
+Security: 1.8
+Alliance: FATAL Alliance
+Corp: FATAL REVELATIONS
+Ship: Absolution
+Weapon: Absolution
+
+Name: Jack Remeau
+Security: 5.0
+Alliance: FATAL Alliance
+Corp: FATAL REVELATIONS
+Ship: Rokh
+Weapon: Rokh
+
+Name: IAN8
+Security: 5.0
+Alliance: FATAL Alliance
+Corp: The JORG Corporation
+Ship: Raven
+Weapon: 'Limos' Cruise Launcher I
+
+
+Destroyed items:
+
+Prototype Cloaking Device I
+Gremlin Rocket, Qty: 69
+Rocket Launcher II
+Rocket Launcher II
+Rocket Launcher II
+Rocket Launcher II
+Warp Disrupt Probe, Qty: 9
+Small Shield Extender I
+Small Shield Booster I
+1MN MicroWarpdrive I
+Phased Muon Sensor Disruptor I
+Basic Kinetic Deflection Amplifier
+Nanomechanical CPU Enhancer I
+Warp Disrupt Probe, Qty: 5 (Cargo)
+

@@ -1,0 +1,51 @@
+2007.02.06 05:46
+
+Victim: Mufeater
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Destroyed: Ishkur
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Sexual Chocolate
+Security: 2.5
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Muninn
+Weapon: Muninn
+
+Name: sageO (laid the final blow)
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+Name: Issabella
+Security: 2.6
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Johnny cruz
+Security: 2.8
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Taranis
+Weapon: Light Neutron Blaster II
+
+
+Destroyed items:
+
+Small 'Knave' I Energy Drain
+Antimatter Charge S, Qty: 77
+1MN Afterburner II
+Small Armor Repairer II
+Energized Adaptive Nano Membrane II
+Micro Auxiliary Power Core I
+Antimatter Charge S, Qty: 1179 (Cargo)
+Hornet I, Qty: 4 (Drone Bay)
+

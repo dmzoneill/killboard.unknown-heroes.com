@@ -1,0 +1,137 @@
+2007.01.28 18:04
+
+Victim: jernej
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Destroyed: Tempest
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: darkviron
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Drake
+Weapon: Hobgoblin II
+
+Name: Spartan dax
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Drake
+Weapon: Thunderbolt Heavy Missile
+
+Name: Hojo Norem
+Security: 3.2
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Ferox
+Weapon: Valkyrie I
+
+Name: LTSmash
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Ship: Raven
+Weapon: Raven
+
+Name: Goca (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Ferox
+Weapon: Thunderbolt Heavy Missile
+
+Name: Zattron
+Security: 3.7
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Drake
+Weapon: Thunderbolt Heavy Missile
+
+Name: arthell
+Security: 2.8
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Celestis
+Weapon: Hobgoblin I
+
+Name: Feke
+Security: 4.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Thorax
+Weapon: Thorax
+
+Name: demotar
+Security: 1.8
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Caracal
+Weapon: Thunderbolt Heavy Missile
+
+Name: Praetorian Mardou
+Security: 4.5
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Hawk
+Weapon: Standard Missile Launcher I
+
+Name: Sanal Gi
+Security: -0.6
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Scorpion
+Weapon: Induced Multispectral ECM I
+
+Name: Darkspin
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Scorpion
+Weapon: 350mm Compressed Coil Gun I
+
+Name: Myst Stark
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Capsule
+Weapon: 150mm Railgun I
+
+Name: Wicked Pissah
+Security: 0.1
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Blackbird
+Weapon: Standard Missile Launcher I
+
+Name: Lux0r
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Hawk
+Weapon: Low Frequency Sensor Suppressor I
+
+
+Destroyed items:
+
+1400mm Howitzer Artillery II
+1400mm Howitzer Artillery II
+1400mm Howitzer Artillery II
+1400mm Howitzer Artillery II
+Medium 'Gremlin' Power Core Disruptor I
+Medium I-ax Regenerative Projector
+Quake L, Qty: 30
+Gyrostabilizer II
+Medium I-a Polarized Armor Regenerator
+Republic Fleet Titanium Sabot L, Qty: 158 (Cargo)
+Nuclear L, Qty: 826 (Cargo)
+Quake L, Qty: 540 (Cargo)
+Infiltrator II (Drone Bay)
+Valkyrie II (Drone Bay)
+Hornet II, Qty: 2 (Drone Bay)
+Hornet I (Drone Bay)
+Acolyte II, Qty: 2 (Drone Bay)
+

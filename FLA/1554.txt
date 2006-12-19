@@ -1,0 +1,23 @@
+2007.03.16 15:31
+
+Victim: Morderku
+Alliance: None
+Corp: Hedion University
+Destroyed: Impairor
+System: O-CNPR
+Security: 0.0
+
+Involved parties:
+
+Name: Gargh Ahhwell (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+
+Destroyed items:
+
+Basic Miner
+

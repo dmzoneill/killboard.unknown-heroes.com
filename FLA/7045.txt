@@ -1,0 +1,30 @@
+2006.12.22 16:28
+
+Victim: Kai page
+Alliance: Sani Khal'Vecna
+Corp: coracao ardente
+Destroyed: Claw
+System: 3T7-M8
+Security: 0.0
+
+Involved parties:
+
+Name: DimaZzz (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Raven
+Weapon: Vespa II
+
+Name: Guristas Extinguisher / Guristas
+
+
+Destroyed items:
+
+200mm AutoCannon II
+Barrage S, Qty: 43
+1MN MicroWarpdrive I
+Adaptive Nano Plating II
+Micro Auxiliary Power Core I
+Phased Plasma S, Qty: 2382 (Cargo)
+

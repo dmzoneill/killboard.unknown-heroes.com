@@ -1,0 +1,28 @@
+2006.10.06 22:14
+
+Victim: Mystical Angel
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Hawk
+System: Litiura
+Security: 0.5
+
+Involved parties:
+
+Name: Max Spada (laid the final blow)
+Security: -1.7
+Alliance: None
+Corp: Privateers
+Ship: Wolf
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+Standard Missile Launcher II
+Standard Missile Launcher II
+Standard Missile Launcher II
+Sabretooth Fury Light Missile, Qty: 43
+'Anointed' I EM Ward Reinforcement
+Co-Processor I
+

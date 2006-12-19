@@ -1,0 +1,75 @@
+2007.01.08 00:42
+
+Victim: BladeMos
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Destroyed: Raven
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Arnold Swartzenegger
+Security: -0.2
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Warrior II
+
+Name: ETS4ME (laid the final blow)
+Security: 0.7
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+Name: Captain Rickdick
+Security: 0.0
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Capsule
+Weapon: Cruise Missile Launcher II
+
+Name: Masta Killa
+Security: -1.7
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+Name: duece duece
+Security: 5.0
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Maelstrom
+Weapon: Maelstrom
+
+Name: SATAN
+Security: -0.8
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+Name: heavensfire
+Security: 3.1
+Alliance: None
+Corp: United Allies
+Ship: Stiletto
+Weapon: Small 'Knave' I Energy Drain
+
+
+Destroyed items:
+
+Juggernaut Torpedo, Qty: 14
+Wrath Cruise Missile, Qty: 23
+XT-9000 Cruise Launcher
+Shock 'Limos' Siege Missile Bay I
+Large F-S9 Regolith Shield Induction
+X-Large C5-L Emergency Shield Overload I
+Ballistic Deflection Field I
+Gravimetric Backup Array I
+Mark I Generator Refitting: Reaction Control
+Wrath Cruise Missile, Qty: 6838 (Cargo)
+Vespa I (Drone Bay)
+

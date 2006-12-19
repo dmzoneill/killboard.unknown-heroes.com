@@ -1,0 +1,34 @@
+2007.02.20 06:11
+
+Victim: Alician
+Alliance: None
+Corp: League of the Tiger and Tentacle
+Destroyed: Iteron Mark III
+System: MJYW-3
+Security: 0.0
+
+Involved parties:
+
+Name: Weeble Wooble (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Skull Fire
+Security: 0.7
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Caracal
+Weapon: J5 Prototype Warp Inhibitor I
+
+
+Destroyed items:
+
+Expanded Cargohold I
+Expanded Cargohold I
+Spirits, Qty: 54397 (Cargo)
+Huge Secure Container (Cargo)
+Giant Secure Container, Qty: 2 (Cargo)
+

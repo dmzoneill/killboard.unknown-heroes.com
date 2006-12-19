@@ -1,0 +1,26 @@
+2006.11.14 21:39
+
+Victim: Tyridiann
+Alliance: None
+Corp: GeoTech
+Destroyed: Capsule
+System: X-7OMU
+Security: 0.0
+
+Involved parties:
+
+Name: Karas Rabus (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Huginn
+Weapon: Sabretooth Precision Light Missile
+
+Name: Verild
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Rook
+Weapon: Assault Missile Launcher II
+
+

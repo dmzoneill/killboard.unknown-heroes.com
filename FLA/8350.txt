@@ -1,0 +1,65 @@
+2006.11.10 14:52
+
+Victim: Ariana Fiedala
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Chimera
+System: Aunenen
+Security: 0.4
+
+Involved parties:
+
+Name: Fade McKenzie (laid the final blow)
+Security: -10.0
+Alliance: Blood Raiders Alliance
+Corp: Murder-Death-Kill
+Ship: Raven
+Weapon: Bane Torpedo
+
+Name: Xaeon
+Security: -9.4
+Alliance: Blood Raiders Alliance
+Corp: Murder-Death-Kill
+Ship: Megathron
+Weapon: Megathron
+
+Name: Krantz
+Security: -10.0
+Alliance: Blood Raiders Alliance
+Corp: Murder-Death-Kill
+Ship: Megathron
+Weapon: Initiated Warp Jammer I
+
+Name: Anderson
+Security: -10.0
+Alliance: Blood Raiders Alliance
+Corp: Murder-Death-Kill
+Ship: Tempest
+Weapon: Dual 650mm Repeating Artillery II
+
+Name: Cloudis
+Security: -1.5
+Alliance: Blood Raiders Alliance
+Corp: Murder-Death-Kill
+Ship: Eagle
+Weapon: Eagle
+
+Name: Felix Tigris
+Security: -4.1
+Alliance: Blood Raiders Alliance
+Corp: Murder-Death-Kill
+Ship: Dominix
+Weapon: Medium 'Knave' I Energy Drain
+
+
+Destroyed items:
+
+Drone Control Unit I
+Drone Link Augmentor I
+Invulnerability Field II
+Heat Dissipation Amplifier II
+Shield Boost Amplifier I
+Signal Amplifier II
+Signal Amplifier II
+Warp Core Stabilizer I
+

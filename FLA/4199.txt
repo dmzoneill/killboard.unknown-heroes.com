@@ -1,0 +1,68 @@
+2007.04.03 22:31
+
+Victim: Mocuker
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Destroyed: Raven
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Darknesss (laid the final blow)
+Security: 0.3
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Megathron
+Weapon: Neutron Blaster Cannon II
+
+Name: THX 1138
+Security: 2.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Megathron
+Weapon: Ogre II
+
+Name: Kalissa
+Security: 0.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Raven
+Weapon: Mjolnir Javelin Torpedo
+
+Name: ste thegreat
+Security: 3.1
+Alliance: Triumvirate.
+Corp: Wreckless Abandon
+Ship: Absolution
+Weapon: Absolution
+
+Name: the willyb
+Security: 0.1
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Hyperion
+Weapon: Ogre II
+
+Name: Murdoch Morf
+Security: 2.5
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+Mjolnir Torpedo, Qty: 10
+Paradise Cruise Missile, Qty: 63
+'Arbalest' Cruise Launcher I
+'Arbalest' Siege Missile Launcher
+Magnetic Scattering Amplifier I
+Shield Boost Amplifier I
+Multi Sensor Backup Array I
+Ballistic Control System I
+Beta Reactor Control: Capacitor Power Relay I
+Beta Reactor Control: Capacitor Power Relay I
+Paradise Cruise Missile, Qty: 7335 (Cargo)
+

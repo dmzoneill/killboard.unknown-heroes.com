@@ -1,0 +1,24 @@
+2006.10.30 22:35
+
+Victim: shiskabob
+Alliance: Freelancer Alliance
+Corp: Sin-X Inc.
+Destroyed: Ibis
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: avelution (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Hawk
+Weapon: Piranha Light Missile
+
+
+Destroyed items:
+
+Civilian Gatling Railgun
+Tritanium (Cargo)
+

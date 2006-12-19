@@ -1,0 +1,28 @@
+2006.11.16 04:41
+
+Victim: Sanguinaire
+Alliance: GoonSwarm
+Corp: GoonWaffe
+Destroyed: Caracal
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: menace ace (laid the final blow)
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Astarte
+Weapon: Heavy Ion Blaster II
+
+
+Destroyed items:
+
+Passive Targeter I
+Scourge Heavy Missile, Qty: 27
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Invulnerability Field I
+Scourge Heavy Missile, Qty: 1034 (Cargo)
+

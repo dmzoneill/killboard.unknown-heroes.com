@@ -1,0 +1,28 @@
+2006.12.19 21:38
+
+Victim: Jorax
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Thorax
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: boo3916 (laid the final blow)
+Security: 4.3
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Dominix
+Weapon: 250mm Railgun II
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Heavy Ion Blaster I, Qty: 2
+Antimatter Charge M, Qty: 297
+Warp Scrambler I
+Medium Armor Repairer I
+Armor Kinetic Hardener I
+Mark I Generator Refitting: Diagnostic System

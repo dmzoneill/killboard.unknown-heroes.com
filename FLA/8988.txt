@@ -1,0 +1,33 @@
+2006.12.26 12:43
+
+Victim: MonwrathDisortium
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Destroyed: Deimos
+System: Passari
+Security: 0.4
+
+Involved parties:
+
+Name: Gr0n0s (laid the final blow)
+Security: -10.0
+Alliance: None
+Corp: Dirty Filthy Perverts
+Ship: Dominix
+Weapon: Ogre I
+
+Name: Guristas Nihilist / Guristas
+
+
+Destroyed items:
+
+200mm Compressed Coil Gun I
+Antimatter Charge M, Qty: 90
+Spike S, Qty: 52
+Y-T8 Overcharged Hydrocarbon I Microwarpdrive
+Medium Electrochemical Capacitor Booster I
+Pseudoelectron Containment Field I
+Magnetic Field Stabilizer II
+Cap Booster 400, Qty: 11 (Cargo)
+Spike S, Qty: 420 (Cargo)
+

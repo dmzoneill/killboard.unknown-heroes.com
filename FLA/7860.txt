@@ -1,0 +1,69 @@
+2006.09.14 16:24
+
+Victim: Matt Stoner
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Destroyed: Raven
+System: 0V0R-R
+Security: 0.0
+
+Involved parties:
+
+Name: Confessor
+Security: 1.9
+Alliance: Ascendant Frontier
+Corp: Lynx Frontier Inc.
+Ship: Pilgrim
+Weapon: Hammerhead II
+
+Name: Tomic
+Security: 5.0
+Alliance: Ascendant Frontier
+Corp: Celestial Fleet
+Ship: Caracal
+Weapon: Thunderbolt Heavy Missile
+
+Name: PoeRath (laid the final blow)
+Security: -0.8
+Alliance: Ascendant Frontier
+Corp: Celestial Fleet
+Ship: Sabre
+Weapon: 125mm Gatling AutoCannon II
+
+Name: Kanonus
+Security: -1.0
+Alliance: Ascendant Frontier
+Corp: Celestial Fleet
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Guristas Supremacist / Guristas
+
+Name: Armarnian Angel
+Security: 2.3
+Alliance: Ascendant Frontier
+Corp: Sha Kharn Corp
+Ship: Raptor
+Weapon: Raptor
+
+
+Destroyed items:
+
+E500 Prototype Energy Vampire
+Bane Torpedo, Qty: 31
+'Arbalest' Siege Missile Launcher
+'Arbalest' Siege Missile Launcher
+Siege Missile Launcher II
+Siege Missile Launcher II
+Siege Missile Launcher II
+Juggernaut Javelin Torpedo, Qty: 22
+Invulnerability Field II
+Ballistic Control System II
+'Langour' Drive Disruptor I (Cargo)
+Medium Electrochemical Capacitor Booster I (Cargo)
+Inferno Torpedo, Qty: 180 (Cargo)
+Bane Torpedo, Qty: 177 (Cargo)
+Juggernaut Torpedo, Qty: 1220 (Cargo)
+Warp Disrupt Probe, Qty: 4 (Cargo)
+Juggernaut Rage Torpedo, Qty: 196 (Cargo)
+

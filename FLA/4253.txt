@@ -1,0 +1,23 @@
+2007.04.05 12:41
+
+Victim: Darth Arthur
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Destroyed: Inquisitor
+System: ROIR-Y
+Security: 0.0
+
+Involved parties:
+
+Name: Amok'Trueborn' Pryde (laid the final blow)
+Security: -1.5
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Huginn
+Weapon: 650mm Artillery Cannon II
+
+
+Destroyed items:
+
+Cynosural Field Generator I
+

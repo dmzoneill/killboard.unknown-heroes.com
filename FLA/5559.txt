@@ -1,0 +1,33 @@
+2006.10.08 00:07
+
+Victim: Reythe
+Alliance: United Confederation of Corporations
+Corp: The Valour
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Nil Desperandum
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Omen
+Weapon: Heavy Pulse Laser II
+
+Name: Barukor (laid the final blow)
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Wolf
+Weapon: 200mm AutoCannon II
+
+Name: Needa3
+Security: 5.0
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Rupture
+Weapon: 650mm Artillery Cannon I
+
+

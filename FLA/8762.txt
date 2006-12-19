@@ -1,0 +1,96 @@
+2006.12.11 08:01
+
+Victim: Osiriss
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Iteron Mark V
+System: Tamo
+Security: 0.3
+
+Involved parties:
+
+Name: Rann Antares (laid the final blow)
+Security: 4.3
+Alliance: None
+Corp: omen.
+Ship: Ishtar
+Weapon: Ogre II
+
+
+Destroyed items:
+
+Small Shield Extender I
+Small Shield Booster I
+10MN Afterburner II
+Pyerite, Qty: 11209 (Cargo)
+Bookmark (Cargo)
+Medium Shield Extender I (Cargo)
+Small Shield Booster I (Cargo)
+Medium Shield Transporter I (Cargo)
+Cap Recharger I (Cargo)
+LiF Fueled I Booster Rockets (Cargo)
+100MN Afterburner I (Cargo)
+Warp Disruptor I (Cargo)
+Faint Warp Prohibitor I, Qty: 2 (Cargo)
+Tachyon Beam Laser I, Qty: 3 (Cargo)
+Miner II (Cargo)
+1200mm Artillery Cannon II, Qty: 2 (Cargo)
+Shield Power Relay I (Cargo)
+Small Ld-Acid Capacitor Battery I (Cargo)
+Small Capacitor Battery I (Cargo)
+Small Armor Repairer I, Qty: 2 (Cargo)
+Medium Hull Repairer I (Cargo)
+Heavy Nosferatu I (Cargo)
+Small Nosferatu I (Cargo)
+Medium Energy Neutralizer II, Qty: 2 (Cargo)
+Medium Tapered Capacitor Infusion I (Cargo)
+Small Capacitor Booster I, Qty: 3 (Cargo)
+ECM Burst I (Cargo)
+Iridium Charge S, Qty: 100 (Cargo)
+Radio L, Qty: 3 (Cargo)
+Defender I, Qty: 100 (Cargo)
+Inferno Torpedo, Qty: 232 (Cargo)
+Hammerhead I (Cargo)
+Vespa II, Qty: 6 (Cargo)
+Mining Drone I, Qty: 2 (Cargo)
+Induced Ion Field ECM I (Cargo)
+Signal Amplifier II, Qty: 3 (Cargo)
+Data Sheets, Qty: 10 (Cargo)
+Enriched Uranium, Qty: 10 (Cargo)
+F-S8 Relativistic Deflection Shield Induction (Cargo)
+Magnetic Scattering Amplifier I (Cargo)
+'Stoic' Core Equalizer I (Cargo)
+Warp Core Stabilizer I (Cargo)
+Energized Reactive Membrane I (Cargo)
+Energized Magnetic Membrane II (Cargo)
+Energized Thermic Membrane II (Cargo)
+Energized Reactive Membrane II (Cargo)
+Giant Secure Container (Cargo)
+Guristas Silver Tag (Cargo)
+Quake L, Qty: 1461 (Cargo)
+Foxfire Rocket, Qty: 100 (Cargo)
+Gremlin Rocket, Qty: 100 (Cargo)
+Hedbergite, Qty: 472 (Cargo)
+Kernite, Qty: 29 (Cargo)
+Azure Plagioclase, Qty: 327 (Cargo)
+Solid Pyroxeres, Qty: 134 (Cargo)
+Pyroxeres, Qty: 272 (Cargo)
+Massive Scordite, Qty: 116 (Cargo)
+Dense Veldspar, Qty: 203 (Cargo)
+Concentrated Veldspar, Qty: 16 (Cargo)
+Covetor (Cargo)
+Kernite Mining Crystal II, Qty: 5 (Cargo)
+Hedbergite Mining Crystal I (Cargo)
+Modulated Deep Core Strip Miner II, Qty: 3 (Cargo)
+Rocket Launcher I (Cargo)
+Shock 'Limos' Siege Missile Bay I, Qty: 2 (Cargo)
+Siege Missile Launcher I (Cargo)
+XR-3200 Heavy Missile Bay (Cargo)
+SV-2000 Assault Missile Bay (Cargo)
+Assault Missile Launcher I, Qty: 2 (Cargo)
+Mining Laser Upgrade I (Cargo)
+Mark I Modified SS Nanofiber Structure, Qty: 2 (Cargo)
+Nanofiber Internal Structure I, Qty: 2 (Cargo)
+Expanded Cargohold I, Qty: 4 (Cargo)
+Power Diagnostic System II (Cargo)
+

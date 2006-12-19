@@ -1,0 +1,68 @@
+2007.03.13 22:21
+
+Victim: Meglomaniac
+Alliance: YouWhat
+Corp: Cloud Ring Real Estate Agency
+Destroyed: Gallente Shuttle
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Khelia (laid the final blow)
+Security: 0.5
+Alliance: Dusk and Dawn
+Corp: Stardust Heavy Industries
+Ship: Myrmidon
+Weapon: 250mm 'Scout' I Accelerator Cannon
+
+Name: Terapie
+Security: 4.7
+Alliance: The Insomniacs
+Corp: Mucho Dolor
+Ship: Eris
+Weapon: Light Ion Blaster II
+
+Name: Drist
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Ferox
+Weapon: Widowmaker Heavy Missile
+
+Name: Alianore
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Maulus
+Weapon: Maulus
+
+Name: ninev0lts
+Security: -1.2
+Alliance: None
+Corp: Corehounds
+Ship: Caracal
+Weapon: Heavy Missile Launcher I
+
+Name: ifeelit2
+Security: 5.0
+Alliance: Forces of Freedom
+Corp: Just Cloned Again
+Ship: Hyperion
+Weapon: Dual 250mm Railgun I
+
+Name: Sirlene Akaro
+Security: 3.0
+Alliance: The Insomniacs
+Corp: Mucho Dolor
+Ship: Ferox
+Weapon: Heavy Missile Launcher I
+
+Name: Lonely Killer
+Security: 4.5
+Alliance: The Insomniacs
+Corp: Mucho Dolor
+Ship: Dominix
+Weapon: Heavy 'Knave' I Energy Drain
+
+

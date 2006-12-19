@@ -1,0 +1,33 @@
+2007.04.27 15:53
+
+Victim: Fitz Farseer
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Rifter
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Shassandra (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Ishkur
+Weapon: Light Neutron Blaster II
+
+Name: FlobbMkII
+Security: 4.4
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Eris
+Weapon: Eris
+
+
+Destroyed items:
+
+150mm 'Scout' I Accelerator Cannon
+Antimatter Charge S, Qty: 67
+Cold-Gas I Arcjet Thrusters
+Warp Disruptor I
+Mark I Generator Refitting: Capacitor Power Relay

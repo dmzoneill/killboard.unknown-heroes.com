@@ -1,0 +1,70 @@
+2007.03.04 22:14
+
+Victim: Thorlik Talon
+Alliance: None
+Corp: Bottomfeeders Inc
+Destroyed: Raptor
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Epro (laid the final blow)
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Maelstrom
+Weapon: 1400mm Howitzer Artillery I
+
+Name: Cockroach
+Security: 4.7
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Prophecy
+Weapon: Prophecy
+
+Name: iNFoRMaLiTY
+Security: -8.0
+Alliance: Freelancer Alliance
+Corp: Harbingers of Sarrow
+Ship: Megathron
+Weapon: 425mm Railgun I
+
+Name: SoF Reaperman
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Manticore
+Weapon: XT-9000 Cruise Launcher
+
+Name: RubberDuckey
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Harbingers of Sarrow
+Ship: Curse
+Weapon: Warp Disruptor II
+
+Name: Mizerik
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Blackbird
+Weapon: 'Malkuth' Assault Missile Launcher I
+
+Name: Duser
+Security: -1.9
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Taranis
+Weapon: 'Langour' Drive Disruptor I
+
+
+Destroyed items:
+
+150mm Compressed Coil Gun I
+Tungsten Charge S, Qty: 40
+Prototype Cloaking Device I
+Gremlin Rocket, Qty: 30
+Rocket Launcher I
+J5 Prototype Warp Inhibitor I
+J5b Phased Prototype Warp Inhibitor I

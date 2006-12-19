@@ -1,0 +1,47 @@
+2007.05.05 19:09
+
+Victim: Ariun Pyrosyn
+Alliance: Vigilance Infinitas
+Corp: The Phoenix Rising
+Destroyed: Caldari Shuttle
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Kvarium Ki
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Rupture
+Weapon: Rupture
+
+Name: Mocuker1
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Harpy
+Weapon: Harpy
+
+Name: Kayron Brennan (laid the final blow)
+Security: 0.7
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Merlin
+Weapon: Thorn Rocket
+
+Name: Quninella
+Security: 1.1
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Thorax
+Weapon: 200mm Railgun I
+
+Name: Undeadas2
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Raptor
+Weapon: Raptor
+
+

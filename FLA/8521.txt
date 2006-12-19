@@ -1,0 +1,25 @@
+2006.11.25 13:30
+
+Victim: Barqs
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Harpy
+System: Torrinos
+Security: 0.5
+
+Involved parties:
+
+Name: Elliott Manchild (laid the final blow)
+Security: -1.6
+Alliance: None
+Corp: omen.
+Ship: Taranis
+Weapon: Light Neutron Blaster II
+
+
+Destroyed items:
+
+Antimatter Charge S, Qty: 32
+Tracking Computer II
+Magnetic Field Stabilizer II
+

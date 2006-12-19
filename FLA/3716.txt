@@ -1,0 +1,32 @@
+2007.03.30 15:47
+
+Victim: Pocok Peti
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Destroyed: Arbitrator
+System: HHK-VL
+Security: 0.0
+
+Involved parties:
+
+Name: stich626 (laid the final blow)
+Security: -2.1
+Alliance: None
+Corp: SpaceBalls Navy
+Ship: Brutix
+Weapon: Hammerhead I
+
+
+Destroyed items:
+
+Dual Light Pulse Laser II
+Medium Nosferatu I
+Warp Disruptor I
+Damage Control I
+Medium Armor Repairer II
+N-Type Thermic Hardener I
+N-Type Kinetic Hardener I
+Guardian Tungsten Charge S, Qty: 998 (Cargo)
+Conflagration S (Cargo)
+Hobgoblin II, Qty: 4 (Drone Bay)
+

@@ -1,0 +1,31 @@
+2006.11.27 17:01
+
+Victim: judon
+Alliance: The SUdden Death Squad
+Corp: FM Corp
+Destroyed: Impairor
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: NOCLUE
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Sin-X Inc.
+Ship: Raven
+Weapon: 'Arbalest' Cruise Launcher I
+
+Name: WolfRavage (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Dominix
+Weapon: Wasp I
+
+
+Destroyed items:
+
+Civilian Gatling Pulse Laser
+Basic Miner
+

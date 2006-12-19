@@ -1,0 +1,55 @@
+2006.10.21 05:30
+
+Victim: AHAPXUCT
+Alliance: R.I.S.K
+Corp: SolaR KillerS
+Destroyed: Thorax
+System: X-7OMU
+Security: 0.0
+
+Involved parties:
+
+Name: Jester87 (laid the final blow)
+Security: 4.5
+Alliance: Mordus Angels
+Corp: Bladerunners
+Ship: Cerberus
+Weapon: Scourge Heavy Missile
+
+Name: digital oxygen
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Deimos
+Weapon: Deimos
+
+Name: Danielson1012
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Crow
+Weapon: Rocket Launcher II
+
+Name: Fugnut
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Crow
+Weapon: 'Limos' Rocket Launcher I
+
+Name: Swanny231
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Raptor
+Weapon: Foxfire Rocket
+
+
+Destroyed items:
+
+200mm Carbide Railgun I
+200mm Railgun I
+F85 Peripheral Damage System I
+Hornet I, Qty: 2 (Drone Bay)
+Vespa I (Drone Bay)
+

@@ -1,0 +1,141 @@
+2007.02.06 03:37
+
+Victim: Fugnut
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Destroyed: Raven
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: EL TITAN
+Security: 1.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Okuden
+Security: 1.6
+Alliance: Band of Brothers
+Corp: Black Eclipse Corp
+Ship: Deimos
+Weapon: Deimos
+
+Name: Seldarine
+Security: 0.1
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Vagabond
+Weapon: Warrior II
+
+Name: Sexual Chocolate
+Security: 2.5
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Taranis
+Weapon: Taranis
+
+Name: Leyalor Esperence
+Security: 2.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Sabre
+Weapon: Sabre
+
+Name: Dark1
+Security: 3.3
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Muninn
+Weapon: Muninn
+
+Name: Gilad Pellaeon
+Security: 4.7
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Pilgrim
+Weapon: Valkyrie II
+
+Name: Flavius Renatus
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: Gazmus
+Security: 0.8
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Taranis
+Weapon: Taranis
+
+Name: Bogwad
+Security: 4.8
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Claw
+Weapon: Claw
+
+Name: Polydectes
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Heretic
+Weapon: Heretic
+
+Name: Nick Curso
+Security: -0.3
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Crusader
+Weapon: Crusader
+
+Name: Kaijou
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Capsule
+Weapon: Standard Missile Launcher II
+
+Name: LadyScarlet (laid the final blow)
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Cerberus
+Weapon: Scourge Heavy Missile
+
+Name: Funky Feeling
+Security: 4.6
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Myrmidon
+Weapon: 75mm Gatling Rail II
+
+Name: CLEISTHENES2
+Security: -0.9
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Capsule
+Weapon: 150mm Light AutoCannon II
+
+
+Destroyed items:
+
+Iron Charge L, Qty: 61
+Wrath Cruise Missile, Qty: 12
+Cataclysm Cruise Missile, Qty: 12
+XT-9000 Cruise Launcher
+XT-9000 Cruise Launcher
+X-Large C5-L Emergency Shield Overload I
+V-M15 Braced Multispectral Shield Matrix
+Damage Control I
+1600mm Reinforced Rolled Tungsten Plates I
+Ballistic Control System I
+Paradise Cruise Missile, Qty: 500 (Cargo)
+Devastator Cruise Missile, Qty: 430 (Cargo)
+Cataclysm Cruise Missile, Qty: 464 (Cargo)
+Wrath Cruise Missile, Qty: 802 (Cargo)
+

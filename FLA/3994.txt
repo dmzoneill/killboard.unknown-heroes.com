@@ -1,0 +1,30 @@
+2007.04.08 19:09
+
+Victim: Scoutkill
+Alliance: None
+Corp: State War Academy
+Destroyed: Ibis
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Vesspasiano (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Megathron
+Weapon: 425mm Compressed Coil Gun I
+
+Name: Wallyx
+Security: 4.5
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Armageddon
+Weapon: Dual Heavy Modulated Pulse Energy Beam I
+
+
+Destroyed items:
+
+Basic Miner
+

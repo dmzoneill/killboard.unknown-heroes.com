@@ -1,0 +1,53 @@
+2007.04.03 06:38
+
+Victim: c0rn1
+Alliance: S.E.R.A
+Corp: Seraphin Technologies
+Destroyed: Caracal
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Kooter1 (laid the final blow)
+Security: 5.0
+Alliance: Federation Of united Corps
+Corp: Solaris Operations
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: misscoda
+Security: 4.5
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Raven
+Weapon: Wrath Cruise Missile
+
+Name: Bobby Atlas
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Hyperion
+Weapon: Valkyrie II
+
+Name: Rohan V
+Security: 2.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Blackbird
+Weapon: Sabretooth Light Missile
+
+Name: FlobbMkII
+Security: 4.4
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Eris
+Weapon: Light Electron Blaster II
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 68
+Advanced 'Limos' Heavy Missile Bay I, Qty: 4
+Large F-S9 Regolith Shield Induction
+Ballistic Control System I, Qty: 2

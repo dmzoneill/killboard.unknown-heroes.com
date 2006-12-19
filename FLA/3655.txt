@@ -1,0 +1,84 @@
+2007.03.28 15:16
+
+Victim: Tristian Andross
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Megathron
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Tjakka
+Security: 0.5
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Ishtar
+Weapon: Praetor II
+
+Name: WildCard (laid the final blow)
+Security: 4.3
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Vagabond
+Weapon: Dual 180mm AutoCannon II
+
+Name: The Ali
+Security: -3.2
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Frostbeule
+Security: 2.9
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Sabre
+Weapon: 150mm Light AutoCannon II
+
+Name: Sorju Mai
+Security: -0.3
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Lachesis
+Weapon: Widowmaker Heavy Missile
+
+Name: volly
+Security: 3.2
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Curse
+Weapon: Warrior II
+
+Name: Gordon Red
+Security: 2.0
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Heretic
+Weapon: Heretic
+
+Name: Eelim Garak
+Security: 1.3
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Curse
+Weapon: Warp Disruptor II
+
+
+Destroyed items:
+
+425mm 'Scout' I Accelerator Cannon
+425mm 'Scout' I Accelerator Cannon
+425mm 'Scout' I Accelerator Cannon
+425mm 'Scout' I Accelerator Cannon
+Antimatter Charge L, Qty: 120
+Scourge Heavy Missile, Qty: 32
+Heavy Missile Launcher I
+F-b10 Nominal Capacitor Regenerator
+F-b10 Nominal Capacitor Regenerator
+N-Type Kinetic Hardener I
+N-Type Kinetic Hardener I
+Scourge Heavy Missile, Qty: 211 (Cargo)
+Wasp I, Qty: 4 (Drone Bay)
+

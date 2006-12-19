@@ -1,0 +1,115 @@
+2007.05.12 09:21
+
+Victim: Karai Kamasu
+Alliance: Freelancer Alliance
+Corp: The Collective of Ascended Beings
+Destroyed: Iteron Mark III
+System: ROIR-Y
+Security: 0.0
+
+Involved parties:
+
+Name: Juha85 (laid the final blow)
+Security: 1.0
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Lorn Zolog
+Security: -0.8
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Armageddon
+Weapon: Phased Weapon Navigation Array Generation Extron
+
+Name: Nipplator
+Security: -0.4
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Malediction
+Weapon: Malediction
+
+Name: DarkNeo
+Security: 5.2
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Pilgrim
+Weapon: Hammerhead II
+
+Name: Clouse Cloud
+Security: -1.9
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Megathron
+Weapon: Modal Mega Ion Particle Accelerator I
+
+Name: Xordus
+Security: 1.0
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Armageddon
+Weapon: Warp Disruptor II
+
+Name: Exitao
+Security: 5.0
+Alliance: YouWhat
+Corp: Cosmic Odyssey
+Ship: Ares
+Weapon: Warp Disruptor I
+
+
+Destroyed items:
+
+Small Tractor Beam I
+Expanded Cargohold I
+Expanded Cargohold I
+Incursus, Qty: 2 (Cargo)
+Large Shield Extender I (Cargo)
+Cold-Gas I Arcjet Thrusters (Cargo)
+1MN MicroWarpdrive I (Cargo)
+Warp Disruptor I, Qty: 2 (Cargo)
+Warp Scrambler I, Qty: 3 (Cargo)
+EP-S Gaussian I Excavation Pulse (Cargo)
+Medium Capacitor Battery I, Qty: 7 (Cargo)
+Medium Armor Repairer I, Qty: 4 (Cargo)
+Small Armor Repairer I, Qty: 10 (Cargo)
+'Langour' Drive Disruptor I, Qty: 2 (Cargo)
+Stasis Webifier I (Cargo)
+Medium Energy Transfer Array I (Cargo)
+Small Energy Transfer Array I, Qty: 2 (Cargo)
+Medium Nosferatu I (Cargo)
+Small Energy Neutralizer I (Cargo)
+5W Infectious Power System Malfunction (Cargo)
+150mm Railgun I, Qty: 5 (Cargo)
+Light Neutron Blaster I (Cargo)
+250mm Carbide Railgun I (Cargo)
+250mm Railgun I, Qty: 4 (Cargo)
+75mm Gatling Rail I, Qty: 8 (Cargo)
+Dual 150mm Railgun I (Cargo)
+Heavy Neutron Blaster I, Qty: 4 (Cargo)
+Passive Targeter I (Cargo)
+Tungsten Charge M, Qty: 6000 (Cargo)
+Mining Drone I, Qty: 5 (Cargo)
+'Gloom' I White Noise ECM (Cargo)
+ECM - Spatial Destabilizer I (Cargo)
+ECCM - Gravimetric I (Cargo)
+Missile Projection (Cargo)
+Caldari Cruiser (Cargo)
+High Speed Maneuvering (Cargo)
+Co-Processor I, Qty: 2 (Cargo)
+Kinetic Deflection Amplifier I (Cargo)
+N-Type Thermic Membrane I (Cargo)
+Energized Adaptive Nano Membrane I (Cargo)
+N-Type Magnetic Membrane I (Cargo)
+Cruise Missile Launcher I (Cargo)
+Shock 'Limos' Siege Missile Bay I (Cargo)
+Standard Missile Launcher I, Qty: 6 (Cargo)
+'Malkuth' Assault Missile Launcher I (Cargo)
+Assault Missile Launcher I, Qty: 2 (Cargo)
+Salvager I (Cargo)
+Light Armor Maintenance Bot I, Qty: 8 (Cargo)
+Nanofiber Internal Structure I, Qty: 3 (Cargo)
+Expanded Cargohold I, Qty: 5 (Cargo)
+Capacitor Power Relay I, Qty: 3 (Cargo)
+

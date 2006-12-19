@@ -1,0 +1,30 @@
+2006.11.22 10:44
+
+Victim: Datanian
+Alliance: None
+Corp: The Good Fellas
+Destroyed: Ishkur
+System: Mateber
+Security: 0.3
+
+Involved parties:
+
+Name: Hosanna (laid the final blow)
+Security: 2.9
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+
+Destroyed items:
+
+Light Electron Blaster II
+Light Ion Blaster II
+Null S, Qty: 308
+Phased Monopropellant I Hydrazine Boosters
+J5b Phased Prototype Warp Inhibitor I
+Damage Control I
+Small Armor Repairer II
+Null S, Qty: 1680 (Cargo)
+

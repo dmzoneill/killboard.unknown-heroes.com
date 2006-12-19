@@ -1,0 +1,38 @@
+2007.01.28 18:05
+
+Victim: Mr Kilgore
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Destroyed: Huginn
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: EL TITAN (laid the final blow)
+Security: 1.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Vagabond
+Weapon: Dual 180mm AutoCannon II
+
+Name: Lucy Fur
+Security: 2.8
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Vagabond
+Weapon: Domination Warp Disruptor
+
+
+Destroyed items:
+
+425mm Medium Carbine Repeating Cannon I
+425mm Medium Carbine Repeating Cannon I
+Widowmaker Heavy Missile, Qty: 44
+XR-3200 Heavy Missile Bay
+10MN MicroWarpdrive I
+X5 Prototype I Engine Enervator
+X5 Prototype I Engine Enervator
+Signal Amplifier II
+Acolyte EV-300, Qty: 2 (Drone Bay)
+

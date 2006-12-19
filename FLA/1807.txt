@@ -1,0 +1,33 @@
+2007.01.05 22:41
+
+Victim: ninev0lts
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Destroyed: Caracal
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Scythus Aratan (laid the final blow)
+Security: 4.4
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Armageddon
+Weapon: Tachyon Beam Laser II
+
+
+Destroyed items:
+
+Widowmaker Heavy Missile, Qty: 26
+Havoc Heavy Missile, Qty: 26
+Advanced 'Limos' Heavy Missile Bay I
+Advanced 'Limos' Heavy Missile Bay I
+Advanced 'Limos' Heavy Missile Bay I
+Medium Converse I Deflection Catalyzer
+F-b10 Nominal Capacitor Regenerator
+J5 Prototype Warp Inhibitor I
+Ballistic Control System I
+Havoc Heavy Missile, Qty: 3322 (Cargo)
+Scourge Heavy Missile, Qty: 3278 (Cargo)
+

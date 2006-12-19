@@ -1,0 +1,102 @@
+2006.12.12 21:48
+
+Victim: Kryton55
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Raven
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Tadis
+Security: 1.1
+Alliance: None
+Corp: 0utbreak
+Ship: Megathron
+Weapon: Megathron
+
+Name: siliconix (laid the final blow)
+Security: -1.0
+Alliance: None
+Corp: 0utbreak
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Sarsha
+Security: 4.8
+Alliance: None
+Corp: 0utbreak
+Ship: Rokh
+Weapon: Rokh
+
+Name: MOS DEF
+Security: 0.9
+Alliance: None
+Corp: 0utbreak
+Ship: Rokh
+Weapon: Rokh
+
+Name: Pilgrippa
+Security: -1.4
+Alliance: None
+Corp: 0utbreak
+Ship: Megathron
+Weapon: Megathron
+
+Name: Leilani Solaris
+Security: -1.4
+Alliance: None
+Corp: 0utbreak
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: whisk
+Security: -0.5
+Alliance: None
+Corp: 0utbreak
+Ship: Tempest
+Weapon: Tempest
+
+Name: superscarface
+Security: 2.5
+Alliance: None
+Corp: 0utbreak
+Ship: Abaddon
+Weapon: Abaddon
+
+Name: ScoRpS
+Security: 1.9
+Alliance: None
+Corp: 0utbreak
+Ship: Tempest
+Weapon: Tempest
+
+Name: Mindlles
+Security: -0.1
+Alliance: None
+Corp: 0utbreak
+Ship: Megathron
+Weapon: Megathron
+
+
+Destroyed items:
+
+Heavy Nosferatu I
+Heavy Nosferatu I
+Mjolnir Torpedo, Qty: 15
+Inferno Torpedo, Qty: 15
+Cataclysm Cruise Missile, Qty: 20
+Paradise Cruise Missile, Qty: 38
+'Limos' Cruise Launcher I
+'Limos' Cruise Launcher I
+'Limos' Cruise Launcher I
+Cruise Missile Launcher I
+Large F-S9 Regolith Shield Induction
+Large F-S9 Regolith Shield Induction
+Shield Power Relay I
+Inferno Torpedo, Qty: 148 (Cargo)
+Mjolnir Torpedo, Qty: 33 (Cargo)
+Wrath Cruise Missile, Qty: 424 (Cargo)
+Cataclysm Cruise Missile, Qty: 6 (Cargo)
+

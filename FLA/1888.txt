@@ -1,0 +1,37 @@
+2007.01.08 00:38
+
+Victim: John Linski
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Caracal
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Heinky (laid the final blow)
+Security: 2.7
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Abaddon
+Weapon: Tachyon Beam Laser II
+
+Name: ETS4ME
+Security: 0.7
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Cruise Missile Launcher II
+
+
+Destroyed items:
+
+Thunderbolt Heavy Missile, Qty: 29
+Havoc Heavy Missile, Qty: 29
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Local Power Plant Manager: Diagnostic System I
+Widowmaker Heavy Missile, Qty: 60 (Cargo)
+Havoc Heavy Missile, Qty: 57 (Cargo)
+Scourge Heavy Missile, Qty: 94 (Cargo)
+

@@ -1,0 +1,67 @@
+2006.11.09 02:14
+
+Victim: Corwin Rathe
+Alliance: None
+Corp: DesFlynne Holdings FLC
+Destroyed: Caracal
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Micheal Ross
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Flycatcher
+Weapon: Bloodclaw Light Missile
+
+Name: Fimbule Winter
+Security: 4.1
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Claw
+Weapon: Bloodclaw Light Missile
+
+Name: Cletus Graeme
+Security: 2.8
+Alliance: Mordus Angels
+Corp: Bladerunners
+Ship: Moa
+Weapon: Moa
+
+Name: Drokkar Mal'aule
+Security: 0.0
+Alliance: Mordus Angels
+Corp: Federation of Friends and Stuff
+Ship: Hawk
+Weapon: X5 Prototype I Engine Enervator
+
+Name: Lonely Killer (laid the final blow)
+Security: 4.4
+Alliance: The Insomniacs
+Corp: Mucho Dolor
+Ship: Dominix
+Weapon: Ogre II
+
+Name: wessam
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Crow
+Weapon: Sabretooth Light Missile
+
+
+Destroyed items:
+
+Havoc Heavy Missile, Qty: 96
+'Malkuth' Heavy Missile Launcher I
+'Arbalest' Assault Missile Launcher
+'Arbalest' Assault Missile Launcher
+Large Shield Extender I
+'Anointed' I EM Ward Reinforcement
+Invulnerability Field I
+Ballistic Control System I
+Havoc Heavy Missile, Qty: 1131 (Cargo)
+Acolyte I (Drone Bay)
+

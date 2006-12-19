@@ -1,0 +1,26 @@
+2007.03.30 05:36
+
+Victim: Bvzhnwe
+Alliance: Hell Hounds
+Corp: Rising Sun LTD
+Destroyed: Capsule
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: coldkill (laid the final blow)
+Security: 1.9
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Imaginary Number
+Security: 3.8
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ferox
+Weapon: Standard Missile Launcher I
+
+

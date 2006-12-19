@@ -1,0 +1,114 @@
+2006.08.26 22:09
+
+Victim: Kheo Sen
+Alliance: None
+Corp: Beagle Corp
+Destroyed: Typhoon
+System: Z0-TJW
+Security: 0.0
+
+Involved parties:
+
+Name: XxAngelxX
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Armageddon
+Weapon: Hammerhead I
+
+Name: MementoMortis
+Security: 1.5
+Alliance: None
+Corp: Deadly Alliance
+Ship: Raven
+Weapon: Heavy Nosferatu I
+
+Name: Bolinar (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Ishtar
+Weapon: 150mm Railgun II
+
+Name: 8ObliVioN8
+Security: 4.9
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Raptor
+Weapon: Raptor
+
+Name: bidman
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Ferox
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+Name: Barukor
+Security: 1.7
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Thrasher
+Weapon: Thrasher
+
+Name: General Novartic
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Rupture
+Weapon: Hornet I
+
+Name: Valtaer
+Security: 3.3
+Alliance: Freelancer Alliance
+Corp: Terminal Velocity Inc.
+Ship: Capsule
+Weapon: Warrior I
+
+Name: Kodiak GER
+Security: 5.0
+Alliance: None
+Corp: Decadence.
+Ship: Vengeance
+Weapon: X5 Prototype I Engine Enervator
+
+Name: PhybreOptyk
+Security: 3.4
+Alliance: Chorus of Dawn
+Corp: Black Knight Buccaneers
+Ship: Blackbird
+Weapon: Initiated Multispectral ECM I
+
+Name: casama
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Zealot
+Weapon: Zealot
+
+Name: Syris Jones
+Security: 4.2
+Alliance: Imperial Republic Of the North
+Corp: Port Royal Independent Kontractors
+Ship: Capsule
+Weapon: 150mm Railgun II
+
+
+Destroyed items:
+
+Dual 650mm 'Scout' Repeating Artillery I
+Dual 650mm 'Scout' Repeating Artillery I
+Heavy Nosferatu I
+500W Infectious Power System Malfunction
+500W Infectious Power System Malfunction
+X5 Prototype I Engine Enervator
+Emergency Damage Control I
+Armor Kinetic Hardener II
+Armor Explosive Hardener II
+1600mm Reinforced Rolled Tungsten Plates I
+Ditrigonal Thermal Barrier Crystallization I (Cargo)
+EMP L, Qty: 2961 (Cargo)
+Fusion L, Qty: 1547 (Cargo)
+Acolyte I, Qty: 2 (Drone Bay)
+Berserker I, Qty: 6 (Drone Bay)
+

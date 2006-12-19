@@ -1,0 +1,83 @@
+2007.04.20 23:51
+
+Victim: Skull Fire
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Badger
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: WhiteSnake
+Security: 3.5
+Alliance: Terror In The System
+Corp: Generals Of Destruction Syndicate
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Scorpion Sting
+Security: -0.5
+Alliance: Terror In The System
+Corp: Generals Of Destruction Syndicate
+Ship: Rapier
+Weapon: 720mm Howitzer Artillery II
+
+Name: kosmal
+Security: 2.2
+Alliance: Terror In The System
+Corp: Generals Of Destruction Syndicate
+Ship: Hawk
+Weapon: Bloodclaw Light Missile
+
+Name: Morgul Ze (laid the final blow)
+Security: 0.1
+Alliance: Terror In The System
+Corp: Dark Entropy
+Ship: Moa
+Weapon: 250mm Prototype I Gauss Gun
+
+Name: Alaria
+Security: 0.0
+Alliance: Terror In The System
+Corp: Generals Of Destruction Syndicate
+Ship: Flycatcher
+Weapon: Bloodclaw Light Missile
+
+Name: Gordian Knott
+Security: 4.8
+Alliance: Terror In The System
+Corp: Generals Of Destruction Syndicate
+Ship: Raptor
+Weapon: Flameburst Light Missile
+
+Name: Skyly
+Security: -3.0
+Alliance: Terror In The System
+Corp: Generals Of Destruction Syndicate
+Ship: Hurricane
+Weapon: Heavy Missile Launcher II
+
+Name: Zandra Bran
+Security: -0.2
+Alliance: Terror In The System
+Corp: Generals Of Destruction Syndicate
+Ship: Myrmidon
+Weapon: Heavy Electron Blaster II
+
+Name: Andrew1138
+Security: 1.5
+Alliance: Terror In The System
+Corp: Generals Of Destruction Syndicate
+Ship: Taranis
+Weapon: J5 Prototype Warp Inhibitor I
+
+
+Destroyed items:
+
+Small Shield Extender I
+Medium F-S9 Regolith Shield Induction
+Mechanical Parts, Qty: 710 (Cargo)
+Enriched Uranium, Qty: 100 (Cargo)
+Heavy Water, Qty: 1776 (Cargo)
+

@@ -1,0 +1,68 @@
+2007.01.02 04:12
+
+Victim: Weeble Wooble
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Destroyed: Dominix
+System: MXX5-9
+Security: 0.0
+
+Involved parties:
+
+Name: Evil Pookie
+Security: 4.3
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Warrior II
+
+Name: Masta Killa (laid the final blow)
+Security: -1.9
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Devastator Fury Cruise Missile
+
+Name: Arnold Swartzenegger
+Security: -0.6
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Vespa II
+
+Name: MetalI
+Security: 2.4
+Alliance: None
+Corp: Aliastra
+Ship: Vigil
+Weapon: Stasis Webifier I
+
+Name: MEISTERderPUPPEN
+Security: 0.1
+Alliance: None
+Corp: Deep Core Mining Inc.
+Ship: Unknown
+Weapon: Fleeting Progressive Warp Scrambler I
+
+
+Destroyed items:
+
+Medium 'Ghoul' Energy Siphon I
+Medium 'Ghoul' Energy Siphon I
+Medium 'Ghoul' Energy Siphon I
+E500 Prototype Energy Vampire
+J5b Phased Prototype Warp Inhibitor I
+Invulnerability Field I
+Viscoelastic EM Ward Salubrity I
+Large 'Accommodation' Vestment Reconstructer I
+Shadow Serpentis Adaptive Nano Plating
+N-Type Kinetic Hardener I
+N-Type Thermic Hardener I
+1600mm Reinforced Rolled Tungsten Plates I
+Hornet I, Qty: 2 (Cargo)
+N-Type Explosive Hardener I (Cargo)
+N-Type Thermic Hardener I (Cargo)
+Hail M, Qty: 858 (Cargo)
+Berserker I (Drone Bay)
+Valkyrie II (Drone Bay)
+

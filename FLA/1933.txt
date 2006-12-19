@@ -1,0 +1,65 @@
+2007.01.11 20:24
+
+Victim: Inter Fectum
+Alliance: Freelancer Alliance
+Corp: Sin-X Inc.
+Destroyed: Cyclone
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: DHB WildCat
+Security: -1.2
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Warrior II
+
+Name: MEISTERderPUPPEN
+Security: 0.1
+Alliance: None
+Corp: Deep Core Mining Inc.
+Ship: Sabre
+Weapon: Sabre
+
+Name: Feyd Mantis (laid the final blow)
+Security: 2.6
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Tempest
+Weapon: 1200mm Artillery Cannon II
+
+Name: Arnold Swartzenegger
+Security: 0.0
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Remote Sensor Dampener II
+
+Name: MAD D0G
+Security: -1.3
+Alliance: None
+Corp: Caldari Provisions
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: heavensfire
+Security: 3.1
+Alliance: None
+Corp: United Allies
+Ship: Pilgrim
+Weapon: J5b Phased Prototype Warp Inhibitor I
+
+
+Destroyed items:
+
+Medium 'Ghoul' Energy Siphon I
+Medium Nosferatu I
+Phased Plasma M, Qty: 20
+EMP M, Qty: 51
+'Hypnos' Ion Field ECM I
+F-12 Nonlinear Tracking Processor
+Pneumatic Stabilization Actuator I
+Hornet I, Qty: 4 (Drone Bay)
+

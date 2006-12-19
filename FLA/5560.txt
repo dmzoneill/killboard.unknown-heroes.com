@@ -1,0 +1,89 @@
+2006.10.08 00:08
+
+Victim: piloris bisantime
+Alliance: Galactic Aphelion
+Corp: Res Publica
+Destroyed: Caldari Shuttle
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: avelution
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: TheBelgarion (laid the final blow)
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Rustiko
+Security: 1.8
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Enyo
+Weapon: Bloodclaw Light Missile
+
+Name: kone on
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Stiletto
+Weapon: Warp Disruptor I
+
+Name: StarCrash
+Security: 0.7
+Alliance: R i s e
+Corp: Shadow Gypsies
+Ship: Claw
+Weapon: Warp Disruptor I
+
+Name: Slinktress
+Security: 1.7
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Ishkur
+Weapon: Light Ion Blaster I
+
+Name: Paltar
+Security: 0.4
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Hojo Norem
+Security: 2.6
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Caracal
+Weapon: ECM - Multispectral Jammer I
+
+Name: Drakin Korin
+Security: 3.2
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Blackbird
+Weapon: ECM - Multispectral Jammer I
+
+Name: DarkJester
+Security: 0.7
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Vigil
+Weapon: Standard Missile Launcher I
+
+Name: Barukor
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Wolf
+Weapon: 200mm AutoCannon II
+
+

@@ -1,0 +1,28 @@
+2007.04.17 00:08
+
+Victim: Tok Ra
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Destroyed: Helios
+System: 85-B52
+Security: 0.0
+
+Involved parties:
+
+Name: Christopher Cook (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Terminal Velocity Inc.
+Ship: Raven
+Weapon: Juggernaut Torpedo
+
+
+Destroyed items:
+
+Snoop Scanner Probe I, Qty: 39
+Catalyzed Cold-Gas I Arcjet Thrusters
+J5b Phased Prototype Warp Inhibitor I
+Nanofiber Internal Structure I
+Snoop Scanner Probe I, Qty: 39 (Cargo)
+Spook Scanner Probe I, Qty: 48 (Cargo)
+

@@ -1,0 +1,46 @@
+2007.03.03 17:57
+
+Victim: the killers
+Alliance: None
+Corp: Deep Core Mining Inc.
+Destroyed: Ibis
+System: YZ-LQL
+Security: 0.0
+
+Involved parties:
+
+Name: digital oxygen (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Taranis
+Weapon: Light Electron Blaster II
+
+Name: Aikuchi Hiddensword
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Taranis
+Weapon: Light Ion Blaster I
+
+Name: Doktor Soet
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: The X-Trading Company
+Ship: Ares
+Weapon: 75mm Gatling Rail II
+
+Name: Litho Frogfoot
+Security: -3.0
+Alliance: Dusk and Dawn
+Corp: moon7empler
+Ship: Taranis
+Weapon: Taranis
+
+
+Destroyed items:
+
+Civilian Gatling Railgun
+Basic Miner
+Tritanium (Cargo)
+

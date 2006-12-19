@@ -1,0 +1,26 @@
+2007.03.10 07:37
+
+Victim: Santerion
+Alliance: None
+Corp: KHAOS-BLADE
+Destroyed: Capsule
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Sovo (laid the final blow)
+Security: -0.6
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Rupture
+Weapon: 650mm Artillery Cannon I
+
+Name: Drako Invictus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Malediction
+Weapon: Gremlin Rocket
+
+

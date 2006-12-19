@@ -1,0 +1,54 @@
+2006.09.25 14:16
+
+Victim: Yertus Plight
+Alliance: Freelancer Alliance
+Corp: Elite frontier group
+Destroyed: Megathron
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Riddlock (laid the final blow)
+Security: 1.7
+Alliance: Ascendant Frontier
+Corp: Sha Kharn Corp
+Ship: Sleipnir
+Weapon: 720mm Howitzer Artillery II
+
+Name: Sulfon
+Security: 3.3
+Alliance: Ascendant Frontier
+Corp: Sha Kharn Corp
+Ship: Lachesis
+Weapon: Lachesis
+
+Name: Drift Spec
+Security: 5.0
+Alliance: Ascendant Frontier
+Corp: Sha Kharn Corp
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Jessica Jones
+Security: 3.4
+Alliance: Ascendant Frontier
+Corp: Sha Kharn Corp
+Ship: Raptor
+Weapon: Raptor
+
+
+Destroyed items:
+
+Heavy Diminishing Power System Drain I
+Heavy Diminishing Power System Drain I
+Heavy Neutron Blaster I
+Heavy Neutron Blaster I
+Heavy Neutron Blaster I
+Antimatter Charge M, Qty: 304
+Eutectic I Capacitor Charge Array
+Cap Recharger II
+Large Armor Repairer II
+'Accord' I Core Compensation
+N-Type Explosive Hardener I
+

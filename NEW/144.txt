@@ -1,0 +1,114 @@
+2007.01.26 18:03
+
+Victim: Foxor
+Alliance: Band of Brothers
+Corp: Reikoku
+Destroyed: Taranis
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Nukuquqa Hestase
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Caracal
+Weapon: Thunderbolt Heavy Missile
+
+Name: tehnomage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Crusader
+Weapon: Crusader
+
+Name: Specalistin
+Security: -1.1
+Alliance: Guardian Federation
+Corp: KULT Production
+Ship: Moa
+Weapon: Moa
+
+Name: sakana
+Security: -1.2
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Taranis
+Weapon: 125mm 'Scout' I Accelerator Cannon
+
+Name: mr passie
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery I
+
+Name: SniperMcBob (laid the final blow)
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Blackbird
+Weapon: Havoc Heavy Missile
+
+Name: Quninella
+Security: 0.7
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Thorax
+Weapon: 200mm Compressed Coil Gun I
+
+Name: Odinegras
+Security: 4.5
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Megathron
+Weapon: Kapteyn Sensor Array Inhibitor I
+
+Name: Stitcher
+Security: 3.5
+Alliance: Freelancer Alliance
+Corp: J.I.T. Enterprises
+Ship: Scorpion
+Weapon: Halting Phase Inversion ECM I
+
+Name: Steinkalt
+Security: 5.0
+Alliance: Guardian Federation
+Corp: KULT Production
+Ship: Crow
+Weapon: Upgraded 'Limos' Standard Missile Bay I
+
+Name: SleepyJack
+Security: 1.2
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Blackbird
+Weapon: Initiated Multispectral ECM I
+
+Name: Parmenion 96
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Ship: Raven
+Weapon: 'Arbalest' Siege Missile Launcher
+
+Name: Akathrielah
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Moa
+Weapon: SV-2000 Assault Missile Bay
+
+
+Destroyed items:
+
+Small Nosferatu I
+75mm Gatling Rail II
+Antimatter Charge S, Qty: 140
+J5 Prototype Warp Inhibitor I
+X5 Prototype I Engine Enervator
+Small Armor Repairer II
+Magnetic Field Stabilizer I
+Antimatter Charge S, Qty: 1146 (Cargo)
+Siege Missile Launcher II (Cargo)

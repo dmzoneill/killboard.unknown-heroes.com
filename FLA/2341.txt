@@ -1,0 +1,51 @@
+2007.02.06 03:36
+
+Victim: Jaig Maldara
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Destroyed: Cormorant
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Funky Feeling (laid the final blow)
+Security: 4.6
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Myrmidon
+Weapon: Wasp I
+
+Name: Leyalor Esperence
+Security: 2.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Sabre
+Weapon: Sabre
+
+Name: Polydectes
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Heretic
+Weapon: Warp Disruptor I
+
+
+Destroyed items:
+
+150mm Railgun II
+150mm Railgun II
+150mm Railgun II
+150mm Railgun II
+150mm Railgun II
+Javelin S, Qty: 201
+'Arbalest' Rocket Launcher I
+Sensor Booster II
+Tracking Computer II
+Guristas Lead Charge S, Qty: 500 (Cargo)
+Guristas Iridium Charge S, Qty: 500 (Cargo)
+Dread Guristas Iron Charge S, Qty: 683 (Cargo)
+Uranium Charge S, Qty: 3000 (Cargo)
+Foxfire Rocket, Qty: 500 (Cargo)
+Phalanx Rocket, Qty: 500 (Cargo)
+

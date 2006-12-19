@@ -1,0 +1,66 @@
+2007.03.16 17:07
+
+Victim: WolfRavage
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Destroyed: Hyperion
+System: XZH-4X
+Security: 0.0
+
+Involved parties:
+
+Name: Ion Bartzabel (laid the final blow)
+Security: -0.3
+Alliance: Eternal Rapture
+Corp: Temptation inc.
+Ship: Dominix
+Weapon: Berserker II
+
+Name: VirkMaN
+Security: -1.0
+Alliance: Eternal Rapture
+Corp: Temptation inc.
+Ship: Hurricane
+Weapon: 425mm AutoCannon II
+
+Name: Handon Guild
+Security: -2.9
+Alliance: Eternal Rapture
+Corp: Exotic Dancers Club
+Ship: Hurricane
+Weapon: 650mm Artillery Cannon II
+
+Name: GodWin cadela
+Security: -1.8
+Alliance: Eternal Rapture
+Corp: Exotic Dancers Club
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: hezitationkillz
+Security: -1.5
+Alliance: Eternal Rapture
+Corp: Temptation inc.
+Ship: Rook
+Weapon: Havoc Heavy Missile
+
+Name: Nazg0th
+Security: 0.8
+Alliance: Eternal Rapture
+Corp: Temptation inc.
+Ship: Dominix
+Weapon: Praetor I
+
+
+Destroyed items:
+
+425mm Railgun I
+425mm Railgun I
+425mm Railgun I
+Iridium Charge L, Qty: 148
+Large I-ax Regenerative Projector
+Tracking Computer II
+Tracking Enhancer II
+Magnetic Field Stabilizer II
+Vespa II, Qty: 2 (Drone Bay)
+

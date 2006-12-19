@@ -1,0 +1,60 @@
+2006.11.08 20:11
+
+Victim: Spazm
+Alliance: None
+Corp: Tranquility Quickening Syndrome
+Destroyed: Malediction
+System: 3QE-9Q
+Security: 0.0
+
+Involved parties:
+
+Name: Capt Cali (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: London Transport
+Ship: Cerberus
+Weapon: Havoc Heavy Missile
+
+Name: Verild
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Rook
+Weapon: Sabretooth Precision Light Missile
+
+Name: Karas Rabus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Huginn
+Weapon: Sabretooth Precision Light Missile
+
+Name: Jumar Coldgin
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Eagle
+Weapon: Eagle
+
+Name: Tri Ounou
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Stiletto
+Weapon: Stiletto
+
+
+Destroyed items:
+
+Dual Light Beam Laser II
+Multifrequency S
+Multifrequency S
+Foxfire Rocket, Qty: 58
+Rocket Launcher II
+1MN MicroWarpdrive I
+Warp Scrambler I
+Small Armor Repairer I
+Phalanx Rocket, Qty: 4037 (Cargo)
+Foxfire Rocket, Qty: 1513 (Cargo)
+

@@ -1,0 +1,34 @@
+2007.01.03 23:40
+
+Victim: Kryton55
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Merlin
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Heinky
+Security: 2.4
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Abaddon
+Weapon: Tachyon Beam Laser II
+
+Name: SATAN (laid the final blow)
+Security: -0.9
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 34
+Barton Reactor Capacitor Recharger I
+1MN MicroWarpdrive I
+Warp Scrambler I
+Stasis Webifier I
+

@@ -1,0 +1,112 @@
+2007.03.02 23:31
+
+Victim: SurionPT
+Alliance: THE H0RDE
+Corp: Cricas Portuguese Korp
+Destroyed: Harpy
+System: D4KU-5
+Security: 0.0
+
+Involved parties:
+
+Name: Tregaron
+Security: 1.7
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Manticore
+Weapon: Peripheral Weapon Navigation Diameter
+
+Name: Samiloth Justinian
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: EvilBadger (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Hawk
+Weapon: Gremlin Rocket
+
+Name: Dark Carnage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Crow
+Weapon: Standard Missile Launcher I
+
+Name: sowo
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Drake
+Weapon: Thunderbolt Heavy Missile
+
+Name: Ashlore
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Raptor
+Weapon: Thorn Rage Rocket
+
+Name: bjugis
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Thorax
+Weapon: Heavy Neutron Blaster I
+
+Name: Tiberius Drake
+Security: 4.1
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: NesheresH
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Reaper
+Weapon: Reaper
+
+Name: Jorax
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Vexor
+Weapon: Dual 150mm Railgun I
+
+Name: Hamos
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Scorpion
+Weapon: Cruise Missile Launcher I
+
+Name: Cho Solo
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Taranis
+Weapon: Taranis
+
+Name: Aken Ator
+Security: 1.8
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Ferox
+Weapon: XR-3200 Heavy Missile Bay
+
+
+Destroyed items:
+
+Light Neutron Blaster II, Qty: 2
+Null S, Qty: 160
+1MN MicroWarpdrive I
+J5 Prototype Warp Inhibitor I
+'Langour' Drive Disruptor I
+Sensor Booster II
+Reactor Control Unit I

@@ -1,0 +1,62 @@
+2007.02.15 20:26
+
+Victim: Sarnia 0ne
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Raven
+System: U-TJ7Y
+Security: 0.0
+
+Involved parties:
+
+Name: Juggernaut Torpedo / Guristas (laid the final blow)
+
+Name: Lilan Kahn
+Security: -0.4
+Alliance: None
+Corp: The Littlest Hobos
+Ship: Crusader
+Weapon: Crusader
+
+Name: Karazack
+Security: 1.0
+Alliance: None
+Corp: The Littlest Hobos
+Ship: Claw
+Weapon: Claw
+
+Name: Meera Sarda
+Security: 0.6
+Alliance: None
+Corp: The Littlest Hobos
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Davik Kurchek
+Security: -0.3
+Alliance: None
+Corp: The Littlest Hobos
+Ship: Crow
+Weapon: Sabretooth Light Missile
+
+
+Destroyed items:
+
+Salvager I, Qty: 36
+Juggernaut Torpedo, Qty: 13
+Paradise Cruise Missile, Qty: 16
+'Arbalest' Siege Missile Launcher
+Siege Missile Launcher I
+Small Tractor Beam I
+Large Shield Extender I
+Shield Power Relay I
+Shield Power Relay I
+Shield Recharger I (Cargo)
+Medium Shield Booster I (Cargo)
+Mjolnir Torpedo, Qty: 1959 (Cargo)
+Juggernaut Torpedo, Qty: 219 (Cargo)
+Bane Torpedo, Qty: 1072 (Cargo)
+Sensor Booster I (Cargo)
+Shield Flux Coil I (Cargo)
+Heavy Shield Maintenance Bot I (Drone Bay)
+

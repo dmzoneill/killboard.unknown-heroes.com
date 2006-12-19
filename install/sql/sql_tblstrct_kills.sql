@@ -1,0 +1,20 @@
+CREATE TABLE `kb3_kills` (
+  `kll_id` int(11) NOT NULL auto_increment,
+  `kll_timestamp` datetime NOT NULL default '0000-00-00 00:00:00',
+  `kll_victim_id` int(6) NOT NULL default '0',
+  `kll_all_id` int(3) NOT NULL default '0',
+  `kll_crp_id` int(6) NOT NULL default '0',
+  `kll_ship_id` int(3) NOT NULL default '0',
+  `kll_system_id` int(4) NOT NULL default '0',
+  `kll_fb_all_id` int(3) default NULL,
+  `kll_fb_crp_id` int(6) default NULL,
+  `kll_fb_plt_id` int(6) default NULL,
+  `kll_points` int(11) NOT NULL default '0',
+  PRIMARY KEY  (`kll_id`),
+  KEY `kll_ship_id` (`kll_ship_id`),
+  KEY `kll_victim_id` (`kll_victim_id`),
+  KEY `kll_timestamp` (`kll_timestamp`),
+  KEY `kll_all_id` (`kll_all_id`),
+  KEY `kll_crp_id` (`kll_crp_id`),
+  KEY `kll_system_id` (`kll_system_id`)
+) TYPE=MyISAM;

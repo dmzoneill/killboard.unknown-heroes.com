@@ -1,0 +1,34 @@
+2007.01.26 06:56
+
+Victim: Thiet
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Merlin
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: P1rate Dave (laid the final blow)
+Security: 0.9
+Alliance: None
+Corp: 0utbreak
+Ship: Typhoon
+Weapon: Inferno Torpedo
+
+Name: Vyndicator
+Security: -2.5
+Alliance: None
+Corp: 0utbreak
+Ship: Typhoon
+Weapon: Wasp I
+
+
+Destroyed items:
+
+Small 'Knave' I Energy Drain
+'Limos' Rocket Launcher I
+1MN MicroWarpdrive I
+Corpse (Cargo)
+Gremlin Rocket, Qty: 1776 (Cargo)
+

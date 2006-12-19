@@ -1,0 +1,66 @@
+2007.04.03 15:07
+
+Victim: alpha lead
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Drake
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Scourge Heavy Missile / Guristas
+
+Name: Debian Executer
+Security: 3.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Hurricane
+Weapon: Hammerhead II
+
+Name: Tomas Ysidro
+Security: 1.3
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Myrmidon
+Weapon: Ogre II
+
+Name: MegaJ
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Pilgrim
+Weapon: Hammerhead II
+
+Name: Sivona (laid the final blow)
+Security: -1.1
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Eos
+Weapon: Heavy Ion Blaster II
+
+Name: ZaKma
+Security: -0.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Wolf
+Weapon: 250mm Light Artillery Cannon II
+
+Name: Rukaz
+Security: 3.1
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Sabre
+Weapon: 125mm Gatling AutoCannon II
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 46
+'Malkuth' Heavy Missile Launcher I, Qty: 4
+XR-3200 Heavy Missile Bay
+F-S8 Relativistic Deflection Shield Induction
+Kinetic Deflection Amplifier I, Qty: 2
+Type-D Power Core Modification: Diagnostic System
+Medium Shield Transporter I (Cargo)
+Medium Tapered Capacitor Infusion I (Cargo)

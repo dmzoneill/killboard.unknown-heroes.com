@@ -1,0 +1,28 @@
+2007.04.22 01:24
+
+Victim: Quninella
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Destroyed: Thorax
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Orange Species (laid the final blow)
+Security: -2.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Ragnarok
+Weapon: Gjallarhorn
+
+
+Destroyed items:
+
+200mm Compressed Coil Gun I
+250mm Railgun I
+Dread Guristas Iron Charge M, Qty: 120
+Medium Armor Repairer I
+Inertia Stabilizers I
+Iron Charge M, Qty: 920 (Cargo)
+

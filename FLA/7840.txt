@@ -1,0 +1,47 @@
+2006.09.09 21:02
+
+Victim: Gery Zon
+Alliance: Freelancer Alliance
+Corp: Veturi
+Destroyed: Crow
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Tynicas (laid the final blow)
+Security: 0.1
+Alliance: None
+Corp: Beagle Corp
+Ship: Ferox
+Weapon: Piranha Light Missile
+
+Name: john roe
+Security: -1.9
+Alliance: None
+Corp: Beagle Corp
+Ship: Tempest
+Weapon: Warrior II
+
+Name: Electric Cucumber
+Security: -2.0
+Alliance: None
+Corp: Beagle Corp
+Ship: Armageddon
+Weapon: Bouncer I
+
+Name: Dearwin
+Security: 1.0
+Alliance: None
+Corp: Beagle Corp
+Ship: Dominix
+Weapon: Heavy Nosferatu I
+
+
+Destroyed items:
+
+Thorn Rocket, Qty: 16
+Fleeting Progressive Warp Scrambler I
+F85 Peripheral Damage System I
+Thorn Rocket, Qty: 4813 (Cargo)
+

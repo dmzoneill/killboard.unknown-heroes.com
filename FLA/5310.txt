@@ -1,0 +1,95 @@
+2007.04.24 02:06
+
+Victim: dastommy79
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Destroyed: Thorax
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Savak
+Security: 0.2
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Punisher
+Weapon: Einherji
+
+Name: Akthuul (laid the final blow)
+Security: 5.0
+Alliance: Storm Armada
+Corp: stone grave haulage
+Ship: Thanatos
+Weapon: Dragonfly
+
+Name: RyMcQeN I
+Security: 4.2
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+Name: privateer32
+Security: 5.1
+Alliance: Federation Of united Corps
+Corp: Legion of Corpses
+Ship: Flycatcher
+Weapon: Bloodclaw Light Missile
+
+Name: Lokki Deathwish
+Security: 2.5
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Ferox
+Weapon: Scourge Heavy Missile
+
+Name: Elrid Barnes
+Security: 1.7
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Moa
+Weapon: Moa
+
+Name: Evil Bunnies
+Security: 0.2
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Blackbird
+Weapon: Scourge Heavy Missile
+
+Name: Konson
+Security: 3.7
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Vengeance
+Weapon: Vengeance
+
+Name: Mysteriosome
+Security: 0.6
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Vexor
+Weapon: Heavy Ion Blaster I
+
+Name: Ghost Hughdidit
+Security: 3.1
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Thanatos
+Weapon: Dragonfly
+
+
+Destroyed items:
+
+Heavy Ion Blaster I
+Heavy Ion Blaster I
+Antimatter Charge M, Qty: 252
+Warp Disruptor I
+Magnetic Field Stabilizer I
+1600mm Reinforced Steel Plates I
+Reactor Control Unit I
+Reactor Control Unit I
+Hammerhead I, Qty: 2 (Cargo)
+Acolyte I (Cargo)
+

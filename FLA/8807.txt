@@ -1,0 +1,98 @@
+2006.12.12 20:05
+
+Victim: dastommy79
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Destroyed: Armageddon
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Quarantine
+Security: 4.7
+Alliance: None
+Corp: 0utbreak
+Ship: Tempest
+Weapon: Tempest
+
+Name: whisk
+Security: -0.5
+Alliance: None
+Corp: 0utbreak
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: siliconix
+Security: -1.0
+Alliance: None
+Corp: 0utbreak
+Ship: Tempest
+Weapon: Tempest
+
+Name: Sarsha
+Security: 4.8
+Alliance: None
+Corp: 0utbreak
+Ship: Rokh
+Weapon: Rokh
+
+Name: ScoRpS (laid the final blow)
+Security: 1.9
+Alliance: None
+Corp: 0utbreak
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: ALPHA12125
+Security: 1.7
+Alliance: None
+Corp: 0utbreak
+Ship: Megathron
+Weapon: 425mm Carbide Railgun I
+
+Name: MOS DEF
+Security: 0.9
+Alliance: None
+Corp: 0utbreak
+Ship: Rokh
+Weapon: 425mm Railgun II
+
+Name: James Damar
+Security: 1.8
+Alliance: None
+Corp: 0utbreak
+Ship: Rokh
+Weapon: 350mm Railgun II
+
+Name: Saal Iverson
+Security: 4.4
+Alliance: None
+Corp: 0utbreak
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Zonneschijn
+Security: 4.9
+Alliance: None
+Corp: 0utbreak
+Ship: Scorpion
+Weapon: ECM - White Noise Generator II
+
+
+Destroyed items:
+
+Tachyon Modulated Energy Beam I
+Tachyon Modulated Energy Beam I
+Tachyon Modulated Energy Beam I
+Radio L
+Radio L
+Sensor Booster II
+'Orion' Tracking CPU I
+Heat Sink II
+Tracking Enhancer II
+1600mm Reinforced Steel Plates I
+Type-D Power Core Modification: Reaction Control
+Multifrequency L, Qty: 4 (Cargo)
+Ogre I, Qty: 5 (Drone Bay)
+

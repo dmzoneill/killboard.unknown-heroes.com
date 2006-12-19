@@ -1,0 +1,72 @@
+2006.11.25 19:44
+
+Victim: MoTiGaR
+Alliance: None
+Corp: Order of The Black Rose
+Destroyed: Atron
+System: 5-FGQI
+Security: 0.0
+
+Involved parties:
+
+Name: Elfaen Ethenwe
+Security: -1.6
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Raven
+Weapon: Mjolnir Javelin Torpedo
+
+Name: Almagar Phog (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Blackbird
+Weapon: Flameburst Light Missile
+
+Name: Mekarae
+Security: 0.1
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Sacrilege
+Weapon: Sacrilege
+
+Name: yagamurth
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Cerberus
+Weapon: 'Arbalest' Heavy Missile Launcher
+
+Name: brian crainie
+Security: 2.8
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Megathron
+Weapon: FZ-3 Subversive Spatial Destabilizer ECM
+
+Name: Wthor
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: TasKu
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Thorax
+Weapon: Thorax
+
+Name: Narny
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Raven
+Weapon: Cruise Missile Launcher II
+
+
+Destroyed items:
+
+Cold-Gas I Arcjet Thrusters
+

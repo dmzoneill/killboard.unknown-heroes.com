@@ -1,0 +1,27 @@
+2007.04.19 17:42
+
+Victim: Burn Lump
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Destroyed: Crow
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Vily (laid the final blow)
+Security: 0.3
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Malediction
+Weapon: Dual Light Beam Laser II
+
+
+Destroyed items:
+
+Iridium Charge S, Qty: 66
+Rocket Launcher II
+Thorn Rage Rocket, Qty: 26
+'Langour' Drive Disruptor I
+Stasis Webifier I
+Thorn Rocket, Qty: 9400 (Cargo)

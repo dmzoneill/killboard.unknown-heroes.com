@@ -1,0 +1,19 @@
+2006.11.16 04:40
+
+Victim: Barukor
+Alliance: Freelancer Alliance
+Corp: BGG
+Destroyed: Capsule
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Elfaen Ethenwe (laid the final blow)
+Security: -1.6
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Cerberus
+Weapon: Havoc Heavy Missile
+
+

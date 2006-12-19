@@ -1,0 +1,19 @@
+2006.09.27 22:05
+
+Victim: alte2
+Alliance: None
+Corp: Federal Navy Academy
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Mcwlad (laid the final blow)
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Ship: Apocalypse
+Weapon: Mega Beam Laser II
+
+

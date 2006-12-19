@@ -1,0 +1,26 @@
+2007.01.11 16:03
+
+Victim: Koetje II
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Rifter
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Evil Pookie (laid the final blow)
+Security: 4.6
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Cataclysm Cruise Missile
+
+
+Destroyed items:
+
+Barton Reactor Capacitor Recharger I
+1MN MicroWarpdrive I
+Nanofiber Internal Structure I
+Reactor Control Unit I
+Bloodclaw Light Missile, Qty: 204 (Cargo)

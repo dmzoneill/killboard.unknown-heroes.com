@@ -1,0 +1,26 @@
+2007.02.14 10:54
+
+Victim: Amon Fire
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Destroyed: Caldari Shuttle
+System: Kaaputenen
+Security: 0.8
+
+Involved parties:
+
+Name: Hei'di (laid the final blow)
+Security: -1.0
+Alliance: Privateer Alliance
+Corp: Tempt Fate
+Ship: Jaguar
+Weapon: Foxfire Rocket
+
+Name: JMcClane
+Security: 3.8
+Alliance: Privateer Alliance
+Corp: Righteous Choirboys
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+

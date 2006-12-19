@@ -1,0 +1,33 @@
+2007.03.11 04:55
+
+Victim: ThomasBranic
+Alliance: United Confederation of Corporations
+Corp: Industrial Warlords
+Destroyed: Capsule
+System: 7D-0SQ
+Security: 0.0
+
+Involved parties:
+
+Name: Cyrila Wolf
+Security: -2.2
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: arthell
+Security: 2.9
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: Chuck Dawg (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+

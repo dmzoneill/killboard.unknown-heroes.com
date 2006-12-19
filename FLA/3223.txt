@@ -1,0 +1,53 @@
+2007.03.21 14:29
+
+Victim: Mizerik
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Destroyed: Raven
+System: XCBK-X
+Security: 0.0
+
+Involved parties:
+
+Name: Guristas Supremacist / Guristas
+
+Name: naamira
+Security: 2.2
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Zealot
+Weapon: Zealot
+
+Name: Pytorion BE (laid the final blow)
+Security: -1.8
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+
+Destroyed items:
+
+Juggernaut Torpedo, Qty: 12
+Wrath Cruise Missile, Qty: 16
+'Arbalest' Cruise Launcher I
+'Limos' Cruise Launcher I
+'Arbalest' Siege Missile Launcher
+Small Tractor Beam I
+Eutectic I Capacitor Charge Array
+Ballistic Deflection Field I
+Mark I Generator Refitting: Diagnostic System
+Local Power Plant Manager: Diagnostic System I
+Local Power Plant Manager: Diagnostic System I
+Shield Flux Coil I
+Large Clarity Ward Booster I (Cargo)
+Large S95a Partial Shield Transporter (Cargo)
+Medium Energy Transfer Array I (Cargo)
+Medium Partial E95b Power Conduit (Cargo)
+Medium Capacitor Booster I (Cargo)
+Juggernaut Torpedo, Qty: 270 (Cargo)
+Wrath Cruise Missile, Qty: 150 (Cargo)
+Siege Missile Launcher I (Cargo)
+Hornet I (Drone Bay)
+Warrior I (Drone Bay)
+

@@ -1,0 +1,64 @@
+2007.05.09 12:55
+
+Victim: Nukuquqa Hestase
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Caracal
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Indiano Arko
+Security: 0.6
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Hurricane
+Weapon: Warrior II
+
+Name: Steve Dave (laid the final blow)
+Security: 4.1
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Raptor
+Weapon: Light Neutron Blaster II
+
+Name: CulVar
+Security: 5.0
+Alliance: Axiom Empire
+Corp: Regalis Industria Scientia Entreprendre
+Ship: Crow
+Weapon: Bloodclaw Precision Light Missile
+
+Name: xBeneGesseritx
+Security: 5.0
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Claw
+Weapon: Claw
+
+Name: lethario desrtuction
+Security: 2.2
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Hawk
+Weapon: Bloodclaw Fury Light Missile
+
+Name: EVIL SYNNs
+Security: 0.0
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Sabre
+Weapon: Sabre
+
+
+Destroyed items:
+
+Piranha Light Missile, Qty: 56
+Sabretooth Light Missile, Qty: 67
+Assault Missile Launcher I, Qty: 2
+Large Azeotropic Ward Salubrity I
+Large F-S9 Regolith Shield Induction
+Alumel-Wired I Sensor Augmentation
+Ballistic Control System II, Qty: 2
+Acolyte I, Qty: 2 (Drone Bay)

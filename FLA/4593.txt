@@ -1,0 +1,76 @@
+2007.04.14 21:48
+
+Victim: Green Raven
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Destroyed: Caracal
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Theseuss
+Security: 5.0
+Alliance: FATAL Alliance
+Corp: Black Reign
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: kDaser
+Security: 2.8
+Alliance: FATAL Alliance
+Corp: FATAL REVELATIONS
+Ship: Harbinger
+Weapon: Harbinger
+
+Name: erad nok
+Security: 5.0
+Alliance: FATAL Alliance
+Corp: UK Corp
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: Nyteshade
+Security: 5.0
+Alliance: FATAL Alliance
+Corp: FATAL REVELATIONS
+Ship: Hurricane
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Varah
+Security: 3.1
+Alliance: FATAL Alliance
+Corp: FATAL REVELATIONS
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: 00Dead (laid the final blow)
+Security: 5.0
+Alliance: FATAL Alliance
+Corp: FATAL REVELATIONS
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Lycurgus Belenus
+Security: 2.8
+Alliance: FATAL Alliance
+Corp: FATAL REVELATIONS
+Ship: Megathron
+Weapon: Megathron
+
+
+Destroyed items:
+
+Widowmaker Heavy Missile, Qty: 28
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+Large Azeotropic Ward Salubrity I
+Medium Shield Extender I
+Medium Shield Extender I
+Sensor Booster I
+Ballistic Control System I
+Havoc Heavy Missile, Qty: 1068 (Cargo)
+Scourge Heavy Missile, Qty: 1000 (Cargo)
+Hornet I (Drone Bay)
+

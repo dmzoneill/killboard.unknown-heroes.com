@@ -1,0 +1,47 @@
+2007.01.03 10:49
+
+Victim: Nukuquqa Hestase
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Caracal
+System: J1AU-9
+Security: 0.0
+
+Involved parties:
+
+Name: kojackUcigashu (laid the final blow)
+Security: 4.8
+Alliance: None
+Corp: ROMANIA Renegades
+Ship: Astarte
+Weapon: Heavy Neutron Blaster II
+
+Name: zeitza ta
+Security: 1.8
+Alliance: None
+Corp: ROMANIA Renegades
+Ship: Dominix
+Weapon: Berserker I
+
+Name: Striker Cash
+Security: 4.4
+Alliance: None
+Corp: ROMANIA Renegades
+Ship: Falcon
+Weapon: Havoc Heavy Missile
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 68
+Sabretooth Light Missile, Qty: 64
+'Arbalest' Assault Missile Launcher
+'Arbalest' Assault Missile Launcher
+'Arbalest' Assault Missile Launcher
+Large Subordinate Screen Stabilizer I
+10MN Afterburner II
+'Langour' Drive Disruptor I
+Nanofiber Internal Structure I
+Flameburst Light Missile, Qty: 554 (Cargo)
+Piranha Light Missile, Qty: 418 (Cargo)
+

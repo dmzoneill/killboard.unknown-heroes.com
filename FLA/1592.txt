@@ -1,0 +1,47 @@
+2007.03.17 18:56
+
+Victim: Nemesys 8
+Alliance: YouWhat
+Corp: Princeps Corp
+Destroyed: Capsule
+System: OWXT-5
+Security: 0.0
+
+Involved parties:
+
+Name: DeathCoInc
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Pressman1966
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Rick A
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Celestis
+Weapon: Celestis
+
+Name: Ashr (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Falcon
+Weapon: Thunderbolt Heavy Missile
+
+Name: Shassandra
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Myrmidon
+Weapon: J5 Prototype Warp Inhibitor I
+
+

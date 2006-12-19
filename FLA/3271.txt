@@ -1,0 +1,37 @@
+2007.03.22 16:58
+
+Victim: HYT gangster
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Destroyed: Stabber
+System: XZH-4X
+Security: 0.0
+
+Involved parties:
+
+Name: istasi (laid the final blow)
+Security: -1.7
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Myrmidon
+Weapon: Wasp I
+
+
+Destroyed items:
+
+220mm Vulcan AutoCannon I
+Nuclear M, Qty: 136
+Havoc Heavy Missile
+Havoc Heavy Missile
+Havoc Heavy Missile
+Havoc Heavy Missile
+Havoc Heavy Missile
+Havoc Heavy Missile
+Havoc Heavy Missile
+Havoc Heavy Missile
+Large Shield Extender I
+10MN MicroWarpdrive I
+Damage Control I
+Reactor Control Unit I
+EMP M, Qty: 4100 (Cargo)
+

@@ -1,0 +1,33 @@
+2007.01.15 18:59
+
+Victim: drakonarik
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Capsule
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: whisk (laid the final blow)
+Security: -0.2
+Alliance: None
+Corp: 0utbreak
+Ship: Vagabond
+Weapon: Dual 180mm AutoCannon II
+
+Name: Vorag
+Security: -0.7
+Alliance: None
+Corp: 0utbreak
+Ship: Vagabond
+Weapon: True Sansha Warp Disruptor
+
+Name: EnglishBob
+Security: 0.3
+Alliance: None
+Corp: 0utbreak
+Ship: Curse
+Weapon: J5 Prototype Warp Inhibitor I
+
+

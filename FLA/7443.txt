@@ -1,0 +1,40 @@
+2006.09.05 17:24
+
+Victim: Pugnna
+Alliance: R.I.S.K
+Corp: ReD eYe Inc.
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Hosanna
+Security: -2.4
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Claw
+Weapon: Claw
+
+Name: Ne0 MaTrIx
+Security: 2.4
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Taranis
+Weapon: 75mm Gatling Rail II
+
+Name: XxAngelxX (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Malediction
+Weapon: Dual Light Pulse Laser II
+
+Name: Verild
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Hawk
+Weapon: TE-2100 Standard Missile Bay
+
+

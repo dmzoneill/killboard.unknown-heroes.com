@@ -1,0 +1,68 @@
+2007.02.19 18:01
+
+Victim: Rapid Velo
+Alliance: None
+Corp: State War Academy
+Destroyed: Merlin
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Prodigal IV (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Ship: Megathron
+Weapon: Regulated Mega Neutron Phase Cannon I
+
+Name: Kerdrak
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Harbinger
+Weapon: Heavy Pulse Laser I
+
+Name: izJan
+Security: 3.9
+Alliance: O X I D E
+Corp: W33D Corp.
+Ship: Crow
+Weapon: Bloodclaw Precision Light Missile
+
+Name: bidman
+Security: 4.7
+Alliance: None
+Corp: BGG
+Ship: Drake
+Weapon: 'Arbalest' Heavy Missile Launcher
+
+Name: Wousr
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Claw
+Weapon: J5b Phased Prototype Warp Inhibitor I
+
+Name: DarkAvenger DK
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Merlin
+Weapon: Merlin
+
+Name: Dark Carnage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Drake
+Weapon: Heavy Missile Launcher I
+
+
+Destroyed items:
+
+150mm Railgun I
+Bloodclaw Light Missile, Qty: 62
+Standard Missile Launcher I
+Small Shield Booster I
+

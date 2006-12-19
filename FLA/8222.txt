@@ -1,0 +1,63 @@
+2006.11.05 17:45
+
+Victim: Codename Mera
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Rupture
+System: Oipo
+Security: 0.8
+
+Involved parties:
+
+Name: Jambo (laid the final blow)
+Security: -2.0
+Alliance: None
+Corp: The Initiative
+Ship: Armageddon
+Weapon: Mega Pulse Laser II
+
+Name: TranZferR
+Security: -1.8
+Alliance: None
+Corp: The Initiative
+Ship: Lachesis
+Weapon: Lachesis
+
+Name: spirea
+Security: 4.9
+Alliance: None
+Corp: The Initiative
+Ship: Armageddon
+Weapon: Mega Pulse Laser II
+
+Name: Balatar
+Security: 1.2
+Alliance: None
+Corp: The Initiative
+Ship: Curse
+Weapon: Acolyte II
+
+Name: Yarek Balear
+Security: -1.8
+Alliance: None
+Corp: The Initiative
+Ship: Dominix
+Weapon: E500 Prototype Energy Vampire
+
+
+Destroyed items:
+
+720mm Howitzer Artillery I
+220mm Vulcan AutoCannon I
+Phased Plasma M, Qty: 105
+Small Armor Repairer I
+Medium Shield Booster I (Cargo)
+Barton Reactor Capacitor Recharger I (Cargo)
+Medium Rudimentary Concussion Bomb I (Cargo)
+Phased Plasma M, Qty: 1791 (Cargo)
+Learning (Cargo)
+Spatial Awareness (Cargo)
+Iron Will (Cargo)
+Explosion Dampening Amplifier I (Cargo)
+Small Remote Armor Repair System I (Cargo)
+

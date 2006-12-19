@@ -1,0 +1,36 @@
+2006.09.09 21:01
+
+Victim: Kiztent
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Destroyed: Rupture
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Robet Katrix (laid the final blow)
+Security: -0.8
+Alliance: None
+Corp: Beagle Corp
+Ship: Raven
+Weapon: Valkyrie II
+
+Name: UnSiViLiZeD
+Security: -3.0
+Alliance: None
+Corp: Beagle Corp
+Ship: Megathron
+Weapon: 425mm Railgun I
+
+
+Destroyed items:
+
+650mm Artillery Cannon I
+Nuclear M, Qty: 40
+Heavy Missile Launcher I
+J5b Phased Prototype Warp Inhibitor I
+Stasis Webifier I
+Widowmaker Heavy Missile, Qty: 65 (Cargo)
+Vespa I, Qty: 2 (Drone Bay)
+

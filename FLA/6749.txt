@@ -1,0 +1,40 @@
+2006.11.26 05:11
+
+Victim: Yoater
+Alliance: None
+Corp: Mining Bytes Inc.
+Destroyed: Jaguar
+System: M2-CF1
+Security: 0.0
+
+Involved parties:
+
+Name: Red Viper (laid the final blow)
+Security: 4.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Vexor
+Weapon: Modal Light Neutron Particle Accelerator I
+
+Name: SiriusCrow
+Security: -0.7
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Typhoon
+Weapon: J5 Prototype Warp Inhibitor I
+
+
+Destroyed items:
+
+280mm Howitzer Artillery I
+280mm Howitzer Artillery I
+280mm Howitzer Artillery I
+Depleted Uranium S, Qty: 9
+Small Shield Extender I
+Small Shield Booster II
+Stasis Webifier I
+Counterbalanced Weapon Mounts I
+Phased Plasma S, Qty: 1922 (Cargo)
+ECM - Multispectral Jammer II, Qty: 2 (Cargo)
+Heat Dissipation Amplifier II (Cargo)
+

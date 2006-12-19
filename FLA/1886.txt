@@ -1,0 +1,39 @@
+2007.01.08 00:36
+
+Victim: ventura5
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Caracal
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Heinky (laid the final blow)
+Security: 2.7
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Abaddon
+Weapon: Tachyon Beam Laser II
+
+Name: Masta Killa
+Security: -1.7
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Cruise Missile Launcher II
+
+
+Destroyed items:
+
+Thunderbolt Heavy Missile, Qty: 57
+'Malkuth' Heavy Missile Launcher I
+Invulnerability Field I
+ECM - Multispectral Jammer I
+ECM - Multispectral Jammer I
+Damage Control I
+Mark I Generator Refitting: Diagnostic System
+Havoc Heavy Missile, Qty: 750 (Cargo)
+Thunderbolt Heavy Missile, Qty: 582 (Cargo)
+Acolyte I (Drone Bay)
+

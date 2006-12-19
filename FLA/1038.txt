@@ -1,0 +1,33 @@
+2007.03.03 20:34
+
+Victim: Riddinike
+Alliance: None
+Corp: Science and Trade Institute
+Destroyed: Capsule
+System: YZ-LQL
+Security: 0.0
+
+Involved parties:
+
+Name: Cmdr Jameson
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Infinite Improbability Inc
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: Galenea Moreau (laid the final blow)
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Infinite Improbability Inc
+Ship: Hawk
+Weapon: Bloodclaw Light Missile
+
+Name: sowo
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Drake
+Weapon: Heavy Missile Launcher I
+
+

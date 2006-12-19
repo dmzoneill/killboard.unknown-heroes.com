@@ -1,0 +1,50 @@
+2006.10.20 20:13
+
+Victim: Fr0zt
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Destroyed: Caracal
+System: KLY-C0
+Security: 0.0
+
+Involved parties:
+
+Name: On Edge (laid the final blow)
+Security: -0.5
+Alliance: None
+Corp: Final-Vendetta
+Ship: Apocalypse
+Weapon: Tachyon Beam Laser II
+
+Name: j0nb0y
+Security: 1.5
+Alliance: None
+Corp: Final-Vendetta
+Ship: Armageddon
+Weapon: Mega Modulated Pulse Energy Beam I
+
+Name: Lunanie
+Security: 5.0
+Alliance: None
+Corp: Final-Vendetta
+Ship: Flycatcher
+Weapon: Bloodclaw Light Missile
+
+Name: stargazzer
+Security: 2.8
+Alliance: None
+Corp: Final-Vendetta
+Ship: Zealot
+Weapon: Patterned Stasis Web I
+
+
+Destroyed items:
+
+Heavy Missile Launcher II
+Heavy Missile Launcher II
+Heavy Missile Launcher II
+Phased Muon Sensor Disruptor I
+F-90 Positional Sensor Subroutines
+Scourge Heavy Missile, Qty: 680 (Cargo)
+Thunderbolt Heavy Missile, Qty: 1000 (Cargo)
+

@@ -1,0 +1,65 @@
+2006.10.04 01:25
+
+Victim: entropykaos
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Destroyed: Raven
+System: EWOK-K
+Security: 0.0
+
+Involved parties:
+
+Name: H Zub (laid the final blow)
+Security: -0.8
+Alliance: None
+Corp: Omniscient Order
+Ship: Dominix
+Weapon: Praetor I
+
+Name: Mitchman
+Security: 0.0
+Alliance: None
+Corp: Omniscient Order
+Ship: Typhoon
+Weapon: Bane Torpedo
+
+Name: ElGuapo
+Security: 4.1
+Alliance: None
+Corp: Omniscient Order
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Noobjuice
+Security: -0.7
+Alliance: None
+Corp: Omniscient Order
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: Maximinus Thrax
+Security: 0.8
+Alliance: None
+Corp: The Scope
+Ship: Megathron
+Weapon: Megathron
+
+
+Destroyed items:
+
+Juggernaut Torpedo, Qty: 26
+'Malkuth' Siege Missile Launcher I
+'Malkuth' Siege Missile Launcher I
+Large Shield Extender II
+Heat Dissipation Field II
+Ballistic Deflection Field II
+Ballistic Deflection Field II
+Warp Core Stabilizer I
+Warp Core Stabilizer I
+Ballistic Deflection Field II (Cargo)
+'Arbalest' Cruise Launcher I (Cargo)
+Small Tractor Beam I (Cargo)
+Mark I Generator Refitting: Diagnostic System, Qty: 2 (Cargo)
+Power Diagnostic System II (Cargo)
+Vespa I, Qty: 7 (Drone Bay)
+

@@ -1,0 +1,61 @@
+2007.04.25 20:40
+
+Victim: Seamus O'Malley
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Capsule
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Leto Nyx
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: Neogen Industries
+Ship: Ares
+Weapon: Ares
+
+Name: Scapa
+Security: 4.9
+Alliance: CORE.
+Corp: Red 42
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: R4Z0R49 (laid the final blow)
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: Feel Good Inc.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Ketch Kan
+Security: 4.0
+Alliance: Sparta Alliance
+Corp: Lynx Frontier Inc.
+Ship: Eris
+Weapon: 250mm Light Artillery Cannon I
+
+Name: jondow
+Security: 4.8
+Alliance: Sparta Alliance
+Corp: Lynx Frontier Inc.
+Ship: Caracal
+Weapon: Heavy Missile Launcher I
+
+Name: Sephron Kintaka
+Security: 4.0
+Alliance: Sparta Alliance
+Corp: Lynx Frontier Inc.
+Ship: Hyperion
+Weapon: Modal Mega Ion Particle Accelerator I
+
+Name: Kayron Brennan
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Caracal
+Weapon: Heavy Missile Launcher I
+
+

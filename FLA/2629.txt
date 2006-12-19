@@ -1,0 +1,42 @@
+2007.02.27 18:14
+
+Victim: R4Z0R49
+Alliance: Freelancer Alliance
+Corp: Feel Good Inc.
+Destroyed: Manticore
+System: I-CUVX
+Security: 0.0
+
+Involved parties:
+
+Name: pajzi (laid the final blow)
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Claw
+Weapon: 150mm Light AutoCannon II
+
+Name: DAViiD
+Security: -0.6
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Taranis
+Weapon: 125mm Railgun II
+
+Name: Isabel Sweet
+Security: -1.3
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Crusader
+Weapon: Crusader
+
+
+Destroyed items:
+
+Wrath Cruise Missile, Qty: 56
+XT-9000 Cruise Launcher
+'Malkuth' Cruise Launcher I
+Fleeting Progressive Warp Scrambler I
+Quantum Co-Processor I
+Local Power Plant Manager: Reaction Control I
+

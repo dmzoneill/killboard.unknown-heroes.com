@@ -1,0 +1,55 @@
+2007.04.20 23:18
+
+Victim: Aridante Lemure
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Destroyed: Typhoon
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Warp Scrambling Battery / Eternity INC.
+
+Name: Debian Executer (laid the final blow)
+Security: 3.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Sleipnir
+Weapon: 425mm AutoCannon II
+
+Name: Waagaa Ktlehr
+Security: 0.5
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Aeon
+Weapon: Ogre I
+
+Name: Dekein
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Rapier
+Weapon: Valkyrie II
+
+
+Destroyed items:
+
+720mm Howitzer Artillery I
+Carbonized Lead M, Qty: 18
+Juggernaut Torpedo
+Juggernaut Torpedo
+Juggernaut Torpedo
+Medium Tapered Capacitor Infusion I
+Heavy Capacitor Booster I
+Cap Booster 800
+Cap Booster 800
+Energized Adaptive Nano Membrane I
+1600mm Reinforced Crystalline Carbonide Plates I
+1600mm Reinforced Steel Plates I
+1600mm Reinforced Steel Plates I
+Carbonized Lead M, Qty: 1245 (Cargo)
+Cap Booster 800, Qty: 10 (Cargo)
+Bane Torpedo, Qty: 200 (Cargo)
+Wasp I, Qty: 7 (Drone Bay)
+

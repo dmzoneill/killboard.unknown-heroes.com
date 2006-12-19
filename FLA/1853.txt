@@ -1,0 +1,53 @@
+2007.01.07 01:12
+
+Victim: Jester87
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Destroyed: Cerberus
+System: Aunenen
+Security: 0.4
+
+Involved parties:
+
+Name: Darknesss (laid the final blow)
+Security: -0.1
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Megathron
+Weapon: Ogre II
+
+Name: Elliott Manchild
+Security: -2.8
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Sleipnir
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Jenessa
+Security: 1.1
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Muninn
+Weapon: Thunderbolt Heavy Missile
+
+Name: THX 1138
+Security: 1.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Rokh
+Weapon: Hammerhead II
+
+
+Destroyed items:
+
+Heavy Missile Launcher II
+Heavy Missile Launcher II
+Havoc Fury Heavy Missile, Qty: 18
+Invulnerability Field II
+Ballistic Control System II
+Power Diagnostic System II
+Power Diagnostic System II
+Thunderbolt Heavy Missile, Qty: 1103 (Cargo)
+Scourge Heavy Missile, Qty: 3169 (Cargo)
+Havoc Fury Heavy Missile, Qty: 1356 (Cargo)
+

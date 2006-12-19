@@ -1,0 +1,70 @@
+2007.04.03 20:32
+
+Victim: Esk Esme
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Destroyed: Manticore
+System: CCP-US
+Security: 0.0
+
+Involved parties:
+
+Name: Amok'Trueborn' Pryde (laid the final blow)
+Security: -1.5
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Huginn
+Weapon: Sabretooth Light Missile
+
+Name: Gordon Red
+Security: 2.1
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Heretic
+Weapon: Heretic
+
+Name: Drak d'Amral
+Security: -1.0
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: Castor GAC
+Security: -2.7
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Claw
+Weapon: Piranha Light Missile
+
+Name: Wingleader Teerts
+Security: 4.6
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Curse
+Weapon: Indirect Scanning Dampening Unit I
+
+Name: Tarr Mahoud
+Security: 5.0
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Curse
+Weapon: Medium 'Knave' I Energy Drain
+
+Name: Sorju Mai
+Security: -0.3
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Lachesis
+Weapon: XR-3200 Heavy Missile Bay
+
+
+Destroyed items:
+
+'Arbalest' Cruise Launcher I
+'Arbalest' Cruise Launcher I
+Low Frequency Sensor Suppressor I
+Phased Muon Sensor Disruptor I
+Prototype I Sensor Booster
+Power Diagnostic System II
+

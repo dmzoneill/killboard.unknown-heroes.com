@@ -1,0 +1,30 @@
+2006.11.25 13:19
+
+Victim: iggsterC
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Caracal
+System: Torrinos
+Security: 0.5
+
+Involved parties:
+
+Name: Elliott Manchild (laid the final blow)
+Security: -1.6
+Alliance: None
+Corp: omen.
+Ship: Taranis
+Weapon: 125mm Railgun II
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 96
+Advanced 'Limos' Heavy Missile Bay I
+Advanced 'Limos' Heavy Missile Bay I
+10MN Afterburner I
+Stasis Webifier I
+Stasis Webifier I
+Ballistic Control System I
+Scourge Heavy Missile, Qty: 1475 (Cargo)
+

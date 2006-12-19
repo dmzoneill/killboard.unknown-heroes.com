@@ -1,0 +1,94 @@
+2006.12.12 21:47
+
+Victim: Barukor
+Alliance: Freelancer Alliance
+Corp: BGG
+Destroyed: Tempest
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: whisk
+Security: -0.5
+Alliance: None
+Corp: 0utbreak
+Ship: Tempest
+Weapon: Tempest
+
+Name: Mindlles
+Security: -0.1
+Alliance: None
+Corp: 0utbreak
+Ship: Megathron
+Weapon: Megathron
+
+Name: ScoRpS
+Security: 1.9
+Alliance: None
+Corp: 0utbreak
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: MOS DEF
+Security: 0.9
+Alliance: None
+Corp: 0utbreak
+Ship: Rokh
+Weapon: Rokh
+
+Name: Pilgrippa
+Security: -1.4
+Alliance: None
+Corp: 0utbreak
+Ship: Megathron
+Weapon: Megathron
+
+Name: superscarface
+Security: 2.5
+Alliance: None
+Corp: 0utbreak
+Ship: Abaddon
+Weapon: Abaddon
+
+Name: Tadis
+Security: 1.1
+Alliance: None
+Corp: 0utbreak
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Leilani Solaris
+Security: -1.4
+Alliance: None
+Corp: 0utbreak
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: siliconix (laid the final blow)
+Security: -1.0
+Alliance: None
+Corp: 0utbreak
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+
+Destroyed items:
+
+1400mm Howitzer Artillery I
+1400mm Howitzer Artillery I
+1400mm Howitzer Artillery I
+1400mm Howitzer Artillery I
+Carbonized Lead L, Qty: 24
+Paradise Cruise Missile, Qty: 19
+'Limos' Cruise Launcher I
+Sensor Booster II
+'Orion' Tracking CPU I
+Gyrostabilizer II
+Reactor Control Unit I
+Carbonized Lead L, Qty: 988 (Cargo)
+EMP L, Qty: 1000 (Cargo)
+Paradise Cruise Missile, Qty: 1000 (Cargo)
+Devastator Cruise Missile, Qty: 1000 (Cargo)
+Vespa I, Qty: 3 (Drone Bay)
+

@@ -1,0 +1,37 @@
+2007.04.21 05:11
+
+Victim: Bobby Atlas
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Thrasher
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Gerald Osikawa
+Security: 0.9
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: OneHawk (laid the final blow)
+Security: 3.8
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Raven
+Weapon: Cataclysm Cruise Missile
+
+
+Destroyed items:
+
+250mm Light Artillery Cannon I
+250mm Light Artillery Cannon I
+Fusion S, Qty: 96
+Sabretooth Light Missile, Qty: 38
+Standard Missile Launcher I
+Cap Recharger I
+Nanofiber Internal Structure I
+Fusion S, Qty: 1000 (Cargo)
+

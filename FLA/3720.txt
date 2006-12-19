@@ -1,0 +1,40 @@
+2007.03.30 20:29
+
+Victim: MagicMos
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Destroyed: Rifter
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: NoWeR
+Security: 4.5
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Olli (laid the final blow)
+Security: -0.1
+Alliance: S.E.R.A
+Corp: Seraphin Technologies
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Max Teranous
+Security: -1.2
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Claw
+Weapon: 200mm AutoCannon II
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 42
+'Malkuth' Standard Missile Launcher I
+Photonic CPU Enhancer I
+Bloodclaw Light Missile, Qty: 1958 (Cargo)
+

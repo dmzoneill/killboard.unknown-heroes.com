@@ -1,0 +1,114 @@
+2007.03.22 19:20
+
+Victim: Thanat Ithos
+Alliance: Freelancer Alliance
+Corp: United Forces
+Destroyed: Dominix
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Yushii
+Security: -0.3
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: WarGod
+Security: 1.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Curse
+Weapon: Medium Nosferatu II
+
+Name: vyperpit
+Security: 4.6
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Vagabond
+Weapon: Dual 180mm AutoCannon II
+
+Name: Sith Bandon
+Security: 5.0
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Ishtar
+Weapon: Ishtar
+
+Name: PainBall (laid the final blow)
+Security: -0.9
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Absolution
+Weapon: Heavy Pulse Laser II
+
+Name: Murdoch Morf
+Security: 1.4
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Taranis
+Weapon: Taranis
+
+Name: Snuggles theTerrible
+Security: 5.0
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Vulture
+Weapon: Vulture
+
+Name: XxAngelxX
+Security: -1.8
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Curse
+Weapon: Curse
+
+Name: zeitza ta
+Security: 0.5
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Astarte
+Weapon: Astarte
+
+Name: shots17
+Security: -1.3
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Zealot
+Weapon: Zealot
+
+Name: QuaDamaGe
+Security: 4.3
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Arazu
+Weapon: Warp Disruptor II
+
+Name: Alchem
+Security: 2.9
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Ishtar
+Weapon: Ishtar
+
+
+Destroyed items:
+
+350mm Railgun I
+350mm Railgun I
+200mm Railgun I
+Plutonium Charge L, Qty: 156
+Plutonium Charge M, Qty: 80
+Drone Link Augmentor I
+Fixed Parallel Link-Capacitor I
+Fixed Parallel Link-Capacitor I
+Large I-a Polarized Armor Regenerator
+Armor Kinetic Hardener I
+Armor Kinetic Hardener I
+1600mm Reinforced Rolled Tungsten Plates I
+Plutonium Charge M, Qty: 300 (Cargo)
+Hammerhead I, Qty: 5 (Drone Bay)
+Berserker I, Qty: 5 (Drone Bay)
+

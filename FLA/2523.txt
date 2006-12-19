@@ -1,0 +1,29 @@
+2007.02.18 13:48
+
+Victim: Mercurous
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Rifter
+System: Osmon
+Security: 0.7
+
+Involved parties:
+
+Name: Agricola Augusta (laid the final blow)
+Security: 2.7
+Alliance: Privateer Alliance
+Corp: Multiversal Enterprise Inc.
+Ship: Jaguar
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+150mm Light AutoCannon II
+150mm Light AutoCannon II
+EMP S, Qty: 121
+X5 Prototype I Engine Enervator
+Small Automated I Carapace Restoration
+EMP S, Qty: 8432 (Cargo)
+ECCM - Ladar I (Cargo)
+

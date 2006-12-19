@@ -1,0 +1,31 @@
+2006.12.20 12:25
+
+Victim: MonstersCorpse
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Destroyed: Scythe
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Murdoch Morf (laid the final blow)
+Security: 0.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Cerberus
+Weapon: Scourge Fury Heavy Missile
+
+Name: aadom
+Security: 2.8
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Eos
+Weapon: Eos
+
+
+Destroyed items:
+
+Warp Core Stabilizer I
+Warp Core Stabilizer I
+

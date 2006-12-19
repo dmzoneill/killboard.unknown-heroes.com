@@ -1,0 +1,33 @@
+2007.05.16 19:39
+
+Victim: SleepyJack
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Capsule
+System: O-CNPR
+Security: 0.0
+
+Involved parties:
+
+Name: Topasio (laid the final blow)
+Security: 4.5
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Hurricane
+Weapon: 220mm Medium Prototype I Automatic Cannon
+
+Name: Al3xAndr4
+Security: 0.1
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Heretic
+Weapon: Heretic
+
+Name: Travieso
+Security: -2.5
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Stiletto
+Weapon: Stiletto
+
+

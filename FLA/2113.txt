@@ -1,0 +1,50 @@
+2007.01.21 17:53
+
+Victim: trotsve
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Raven
+System: 3T7-M8
+Security: 0.0
+
+Involved parties:
+
+Name: aadom
+Security: 3.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Myrmidon
+Weapon: Myrmidon
+
+Name: WarGod (laid the final blow)
+Security: 1.4
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Curse
+Weapon: Infiltrator II
+
+
+Destroyed items:
+
+Juggernaut Torpedo, Qty: 27
+ZW-4100 Siege Missile Bay
+ZW-4100 Siege Missile Bay
+Fixed Parallel Link-Capacitor I
+Non-Inertial Ballistic Screen Augmentation I
+Ballistic Control System II
+Ballistic Control System II
+Mark I Generator Refitting: Diagnostic System
+Mark I Generator Refitting: Diagnostic System
+Beta Reactor Control: Diagnostic System I
+Large Shield Extender I (Cargo)
+Ship Scanner I, Qty: 2 (Cargo)
+Small Capacitor Booster I (Cargo)
+Photon Scattering Field I (Cargo)
+Thorium Charge S, Qty: 100 (Cargo)
+Obliterator F.O.F. Cruise Missile I, Qty: 100 (Cargo)
+Cruise Missile Launcher I (Cargo)
+Siege Missile Launcher I (Cargo)
+Ward Console, Qty: 2 (Cargo)
+Scorched Telemetry Processor, Qty: 2 (Cargo)
+Vespa I, Qty: 2 (Drone Bay)
+

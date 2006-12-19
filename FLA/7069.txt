@@ -1,0 +1,26 @@
+2006.12.24 05:36
+
+Victim: Ganjica
+Alliance: None
+Corp: State War Academy
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Gnobe
+Security: 0.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Taranis
+Weapon: Taranis
+
+Name: TroNaaR (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ishkur
+Weapon: 125mm Railgun II
+
+

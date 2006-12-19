@@ -1,0 +1,41 @@
+2007.02.10 02:21
+
+Victim: Dingo bb8r
+Alliance: None
+Corp: Agony Unleashed
+Destroyed: Thorax
+System: X-7OMU
+Security: 0.0
+
+Involved parties:
+
+Name: Kasahara (laid the final blow)
+Security: -0.2
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Stabber
+Weapon: 220mm Vulcan AutoCannon I
+
+
+Destroyed items:
+
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+125mm Railgun II
+125mm Railgun II
+125mm Railgun II
+125mm Railgun II
+Antimatter Charge S, Qty: 60
+Spike S, Qty: 57
+Y-T8 Overcharged Hydrocarbon I Microwarpdrive
+Warp Disruptor I
+Adaptive Nano Plating I
+Nanofiber Internal Structure I
+Overdrive Injector System I
+Antimatter Charge S, Qty: 1071 (Cargo)
+Hammerhead I (Drone Bay)
+

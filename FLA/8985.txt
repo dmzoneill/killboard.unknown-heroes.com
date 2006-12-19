@@ -1,0 +1,40 @@
+2006.12.26 01:34
+
+Victim: nXus
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Destroyed: Capsule
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Mutix Oinomed
+Security: -0.5
+Alliance: None
+Corp: Princeps Corp
+Ship: Thorax
+Weapon: Heavy Ion Blaster I
+
+Name: Terell (laid the final blow)
+Security: 4.2
+Alliance: None
+Corp: Princeps Corp
+Ship: Celestis
+Weapon: Dual 150mm Railgun II
+
+Name: Rubens22
+Security: 3.4
+Alliance: None
+Corp: Princeps Corp
+Ship: Celestis
+Weapon: Thunderbolt Heavy Missile
+
+Name: Donis
+Security: 5.0
+Alliance: None
+Corp: Princeps Corp
+Ship: Thorax
+Weapon: Thorax
+
+

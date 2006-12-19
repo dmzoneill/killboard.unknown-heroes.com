@@ -1,0 +1,136 @@
+2007.02.27 16:40
+
+Victim: Crax McGee
+Alliance: Anarchy Empire
+Corp: Celtic Anarchy
+Destroyed: Hurricane
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: DarkAvenger DK (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Raven
+Weapon: Infiltrator I
+
+Name: JaiMaster
+Security: 2.6
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Typhoon
+Weapon: Dual 425mm AutoCannon II
+
+Name: Toxic Traveller
+Security: 4.4
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Raven
+Weapon: Inferno Torpedo
+
+Name: Marie Veedor
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: EM00
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Caracal
+Weapon: Havoc Heavy Missile
+
+Name: Zarkovich
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Taranis
+Weapon: Taranis
+
+Name: Remontoir
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Blackbird
+Weapon: Scourge Heavy Missile
+
+Name: Mr Kilgore
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Rapier
+Weapon: Rapier
+
+Name: Deathratt
+Security: 4.7
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Ship: Blackbird
+Weapon: 'Umbra' I White Noise ECM
+
+Name: Esk Esme
+Security: 1.1
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Flycatcher
+Weapon: Gremlin Javelin Rocket
+
+Name: Keapon Laffin
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Thorax
+Weapon: Heavy Ion Blaster I
+
+Name: HempHog
+Security: 0.3
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Maller
+Weapon: 250mm 'Scout' I Accelerator Cannon
+
+Name: Sy Sperling
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Moa
+Weapon: Medium Nosferatu I
+
+Name: SoulAvenger
+Security: 3.7
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Crusader
+Weapon: Stasis Webifier I
+
+Name: Siliya
+Security: 3.4
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Ishkur
+Weapon: J5b Phased Prototype Warp Inhibitor I
+
+
+Destroyed items:
+
+Medium Nosferatu II
+Hail M, Qty: 240
+Large Shield Extender II
+Fleeting Warp Scrambler I
+X5 Prototype I Engine Enervator
+Beta Hull Mod Inertial Stabilizers
+Beta Hull Mod Inertial Stabilizers
+Shadow Serpentis 100MN Afterburner (Cargo)
+Fleeting Warp Scrambler I (Cargo)
+Light Ion Blaster II (Cargo)
+Magnetic Field Stabilizer II (Cargo)
+Mobile Small Warp Disruptor I (Cargo)
+Shadow Serpentis Crystal Tag (Cargo)
+Hail M, Qty: 3756 (Cargo)
+Small Tractor Beam I (Cargo)
+Valkyrie II, Qty: 3 (Drone Bay)
+

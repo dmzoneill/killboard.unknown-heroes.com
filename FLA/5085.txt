@@ -1,0 +1,45 @@
+2007.04.22 01:25
+
+Victim: Lala Ru
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Dominix
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Orange Species (laid the final blow)
+Security: -2.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Ragnarok
+Weapon: Gjallarhorn
+
+
+Destroyed items:
+
+Heavy Nosferatu I
+Heavy Nosferatu I
+Heavy Nosferatu I
+Heavy Energy Neutralizer I
+Heavy Energy Neutralizer I
+Drone Link Augmentor I
+Heavy Capacitor Booster I
+Cap Booster 800
+Cap Booster 800
+Cap Booster 800
+Cap Booster 800
+Drone Navigation Computer I
+Drone Navigation Computer I
+Omnidirectional Tracking Link I
+Large Armor Repairer I
+1600mm Reinforced Steel Plates I
+Reactor Control Unit I
+Reactor Control Unit I
+Reactor Control Unit I
+Cap Booster 800, Qty: 18 (Cargo)
+Ogre I, Qty: 2 (Drone Bay)
+Wasp I, Qty: 3 (Drone Bay)
+Praetor I, Qty: 2 (Drone Bay)
+

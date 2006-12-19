@@ -1,0 +1,33 @@
+2006.11.10 21:22
+
+Victim: Maxdre2256
+Alliance: FREGE Alliance
+Corp: Dust Echoes
+Destroyed: Capsule
+System: B-DBYQ
+Security: 0.0
+
+Involved parties:
+
+Name: James Potkukelkka
+Security: 0.2
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Flycatcher
+Weapon: Bloodclaw Light Missile
+
+Name: Minesweeper (laid the final blow)
+Security: 3.7
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Jaguar
+Weapon: 250mm Light 'Scout' Artillery I
+
+Name: Zalamus
+Security: 4.2
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Ishkur
+Weapon: Fleeting Warp Scrambler I
+
+

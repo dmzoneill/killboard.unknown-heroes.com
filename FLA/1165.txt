@@ -1,0 +1,45 @@
+2007.03.07 23:39
+
+Victim: Meglomaniac
+Alliance: YouWhat
+Corp: Cloud Ring Real Estate Agency
+Destroyed: Ibis
+System: XZH-4X
+Security: 0.0
+
+Involved parties:
+
+Name: VoYvod
+Security: -1.3
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Coercer
+Weapon: Medium Beam Laser I
+
+Name: Jesnen (laid the final blow)
+Security: -1.5
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Coercer
+Weapon: Medium Beam Laser I
+
+Name: Exotic Callgirl
+Security: 0.0
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Vigil
+Weapon: Foxfire Rocket
+
+Name: Fvahnqroxt Pnarzjeld
+Security: 3.0
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Jaguar
+Weapon: 200mm AutoCannon II
+
+
+Destroyed items:
+
+Civilian Gatling Railgun
+Tritanium (Cargo)
+

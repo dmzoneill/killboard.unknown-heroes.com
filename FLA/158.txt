@@ -1,0 +1,19 @@
+2007.01.15 00:50
+
+Victim: Kathryn Mcbride
+Alliance: None
+Corp: The Scope
+Destroyed: Amarr Shuttle
+System: JU-OWQ
+Security: 0.0
+
+Involved parties:
+
+Name: Downeaster (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Kestrel
+Weapon: Phalanx Rocket
+
+

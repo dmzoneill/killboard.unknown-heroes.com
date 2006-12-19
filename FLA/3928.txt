@@ -1,0 +1,19 @@
+2007.04.06 06:50
+
+Victim: Uhmari
+Alliance: None
+Corp: Imperial Shipment
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Kaerion Skywalker (laid the final blow)
+Security: 0.1
+Alliance: Freelancer Alliance
+Corp: Harbingers of Sarrow
+Ship: Caracal
+Weapon: Havoc Heavy Missile
+
+

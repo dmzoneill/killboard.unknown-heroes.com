@@ -1,0 +1,26 @@
+2007.03.22 09:59
+
+Victim: cord
+Alliance: YouWhat
+Corp: Pringles Inc.
+Destroyed: Manticore
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: truefranco (laid the final blow)
+Security: 4.7
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Ishtar
+Weapon: Hobgoblin II
+
+
+Destroyed items:
+
+Improved Cloaking Device II
+Indirect Scanning Dampening Unit I
+Parallel Weapon Navigation Transmitter
+Wrath Cruise Missile, Qty: 500 (Cargo)
+

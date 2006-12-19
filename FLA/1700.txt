@@ -1,0 +1,70 @@
+2007.01.01 15:51
+
+Victim: Sattracer
+Alliance: Freelancer Alliance
+Corp: X.T.R
+Destroyed: Buzzard
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: the willyb (laid the final blow)
+Security: -2.1
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Hyperion
+Weapon: Ion Blaster Cannon II
+
+Name: Axl Alien
+Security: -1.7
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Harpy
+Weapon: Harpy
+
+Name: Drakin Korin
+Security: -0.7
+Alliance: None
+Corp: Evil Bandit Organisation
+Ship: Lachesis
+Weapon: Fleeting Warp Scrambler I
+
+Name: Murdoch Morf
+Security: 1.5
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: Kru5ty
+Security: -1.8
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Vagabond
+Weapon: Acolyte I
+
+Name: Darknesss
+Security: -0.5
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Dominix
+Weapon: Heavy 'Ghoul' Energy Siphon I
+
+Name: Calishere
+Security: 0.1
+Alliance: None
+Corp: Caldari Provisions
+Ship: Flycatcher
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+
+Destroyed items:
+
+Covert Ops Cloaking Device II
+Snoop Scanner Probe I, Qty: 195
+Recon Probe Launcher I
+Fixed Parallel Link-Capacitor I
+'Mendicant' Signal Booster I
+Fathom Scanner Probe I, Qty: 78 (Cargo)
+

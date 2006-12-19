@@ -1,0 +1,32 @@
+2007.03.31 05:47
+
+Victim: Joss Sparq
+Alliance: Agony Empire
+Corp: Agony Unleashed
+Destroyed: Capsule
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Inter Fectum
+Security: 2.3
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Muninn
+Weapon: 720mm Howitzer Artillery II
+
+Name: Nukuquqa Hestase (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: Osyc
+Security: 2.8
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Claw
+Weapon: 150mm Light AutoCannon II
+

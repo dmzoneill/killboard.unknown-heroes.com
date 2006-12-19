@@ -1,0 +1,33 @@
+2007.02.18 03:03
+
+Victim: Dickins Cider
+Alliance: None
+Corp: Vendetta Incorporated
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Grimes NC (laid the final blow)
+Security: 4.5
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: ventura5
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Raptor
+Weapon: 75mm Gatling Rail II
+
+Name: Matrixcvd
+Security: 3.6
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Caracal
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+

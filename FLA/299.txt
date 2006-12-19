@@ -1,0 +1,56 @@
+2007.01.24 04:34
+
+Victim: Zygdriel
+Alliance: None
+Corp: Agony Unleashed
+Destroyed: Cormorant
+System: X-7OMU
+Security: 0.0
+
+Involved parties:
+
+Name: digital oxygen (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Weeble Wooble
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: DrElJefeMD
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Kandread
+Security: 0.6
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Satal Sonshi
+Security: 3.0
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery I
+
+
+Destroyed items:
+
+150mm Railgun II
+150mm Railgun II
+Spike S, Qty: 156
+Sensor Booster I
+Tracking Computer II
+Tracking Computer II
+

@@ -1,0 +1,55 @@
+2007.02.06 05:10
+
+Victim: Moridin Bashere
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Destroyed: Bellicose
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: EL TITAN (laid the final blow)
+Security: 1.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Vagabond
+Weapon: Hobgoblin II
+
+Name: sageO
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+Name: Issabella
+Security: 2.6
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Drake
+Weapon: Stalker F.O.F. Heavy Missile I
+
+Name: Sexual Chocolate
+Security: 2.5
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Muninn
+Weapon: Muninn
+
+
+Destroyed items:
+
+280mm Howitzer Artillery II
+Phased Plasma S
+Thunderbolt Heavy Missile, Qty: 25
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+Large Azeotropic Ward Salubrity I
+10MN MicroWarpdrive I
+J5 Prototype Warp Inhibitor I
+Basic Nanofiber Internal Structure
+Havoc Heavy Missile, Qty: 932 (Cargo)
+Thunderbolt Heavy Missile, Qty: 1406 (Cargo)
+

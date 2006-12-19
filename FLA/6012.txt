@@ -1,0 +1,33 @@
+2006.11.05 23:01
+
+Victim: Bvzhnwe
+Alliance: Interstellar Starbase Syndicate
+Corp: Old Galactic Earth Regiment
+Destroyed: Capsule
+System: J-CIJV
+Security: 0.0
+
+Involved parties:
+
+Name: Formosus Funus
+Security: 3.5
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Thrasher
+Weapon: 250mm Light Artillery Cannon I
+
+Name: Wthor (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Sabre
+Weapon: 250mm Light Artillery Cannon II
+
+Name: Scorpio63
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Retribution
+Weapon: Medium Pulse Laser II
+
+

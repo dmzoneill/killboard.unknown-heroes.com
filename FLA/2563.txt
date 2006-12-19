@@ -1,0 +1,56 @@
+2007.02.21 13:01
+
+Victim: Kalran'a Aki
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Typhoon
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Guristas Executor / Guristas
+
+Name: Donald Trump (laid the final blow)
+Security: -1.9
+Alliance: None
+Corp: Temptation inc.
+Ship: Hurricane
+Weapon: 425mm AutoCannon II
+
+Name: Fraile Cloudsinger
+Security: 4.8
+Alliance: Agony Empire
+Corp: Agony Unleashed
+Ship: Dominix
+Weapon: Berserker I
+
+
+Destroyed items:
+
+1400mm Carbine Howitzer I
+1400mm Carbine Howitzer I
+1400mm Carbine Howitzer I
+1400mm Carbine Howitzer I
+Phased Plasma L, Qty: 33
+Scourge Heavy Missile, Qty: 66
+Advanced 'Limos' Heavy Missile Bay I
+Advanced 'Limos' Heavy Missile Bay I
+Advanced 'Limos' Heavy Missile Bay I
+Advanced 'Limos' Heavy Missile Bay I
+Large Azeotropic Ward Salubrity I
+Large Shield Booster II
+Multi Sensor Backup Array I
+Wavelength Signal Enhancer I
+Ballistic Control System I
+Ballistic Control System I
+Medium Armor Repairer I, Qty: 2 (Cargo)
+Phased Plasma L, Qty: 732 (Cargo)
+Nanomechanical CPU Enhancer I (Cargo)
+Scourge Heavy Missile, Qty: 1085 (Cargo)
+Havoc Heavy Missile, Qty: 100 (Cargo)
+Cataclysm Cruise Missile, Qty: 100 (Cargo)
+Hydra F.O.F. Heavy Missile I, Qty: 100 (Cargo)
+Siege Missile Launcher I (Cargo)
+Power Diagnostic System I (Cargo)
+

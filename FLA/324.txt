@@ -1,0 +1,26 @@
+2007.01.25 21:04
+
+Victim: red kross
+Alliance: None
+Corp: Federal Navy Academy
+Destroyed: Gallente Shuttle
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: GrandMastaXP (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+Name: wrecker300
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Hawk
+Weapon: Upgraded 'Limos' Standard Missile Bay I
+
+

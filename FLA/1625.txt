@@ -1,0 +1,31 @@
+2007.03.18 16:20
+
+Victim: Zentura
+Alliance: None
+Corp: School of Applied Knowledge
+Destroyed: Ibis
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Gargh Ahhwell (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: STOP SPAMMING
+Security: 0.0
+Alliance: None
+Corp: Republic Military School
+Ship: Reaper
+Weapon: Civilian Gatling Autocannon
+
+
+Destroyed items:
+
+Basic Miner
+Tritanium (Cargo)
+

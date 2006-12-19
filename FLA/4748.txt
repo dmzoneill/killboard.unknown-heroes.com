@@ -1,0 +1,44 @@
+2007.04.21 00:51
+
+Victim: Hojou
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Tristan
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Kee Ris
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Coercer
+Weapon: Coercer
+
+Name: Bobby Atlas (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Thrasher
+Weapon: 250mm Light Artillery Cannon I
+
+Name: Minisoza
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Tristan
+Weapon: 75mm Gatling Rail I
+
+
+Destroyed items:
+
+125mm Railgun I
+Sabretooth Light Missile, Qty: 31
+Standard Missile Launcher I
+Warp Disruptor I
+Stasis Webifier I
+200mm Reinforced Nanofiber Plates I
+Beta Reactor Control: Reaction Control I
+Iridium Charge M, Qty: 20 (Cargo)
+

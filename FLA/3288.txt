@@ -1,0 +1,79 @@
+2007.03.22 19:15
+
+Victim: Diablo 2k6
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Destroyed: Vexor
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Yushii
+Security: -0.3
+Alliance: Triumvirate.
+Corp: ViperSquad
+Ship: Vagabond
+Weapon: Dual 180mm AutoCannon II
+
+Name: vyperpit (laid the final blow)
+Security: 4.6
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Vagabond
+Weapon: Dual 180mm AutoCannon II
+
+Name: Alchem
+Security: 2.9
+Alliance: Triumvirate.
+Corp: ViperSquad
+Ship: Ishtar
+Weapon: Berserker II
+
+Name: PainBall
+Security: -0.9
+Alliance: Triumvirate.
+Corp: ViperSquad
+Ship: Absolution
+Weapon: Heavy Pulse Laser II
+
+Name: zeitza ta
+Security: 0.5
+Alliance: Triumvirate.
+Corp: ViperSquad
+Ship: Astarte
+Weapon: Astarte
+
+Name: XxAngelxX
+Security: -1.8
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Curse
+Weapon: Medium Nosferatu II
+
+Name: lt blacklotus
+Security: 0.8
+Alliance: Triumvirate.
+Corp: ViperSquad
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: WarGod
+Security: 1.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Curse
+Weapon: Medium Nosferatu II
+
+
+Destroyed items:
+
+Light Neutron Blaster II
+Light Neutron Blaster II
+Void S, Qty: 80
+Stasis Webifier I
+Medium Capacitor Booster I
+Tracking Enhancer II
+Cap Booster 800, Qty: 4 (Cargo)
+Void S, Qty: 2034 (Cargo)
+

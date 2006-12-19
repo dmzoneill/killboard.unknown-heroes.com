@@ -1,0 +1,121 @@
+2007.05.18 22:02
+
+Victim: Aster Loop
+Alliance: Freelancer Alliance
+Corp: The Collective of Ascended Beings
+Destroyed: Omen
+System: EWOK-K
+Security: 0.0
+
+Involved parties:
+
+Name: Hinderburg
+Security: 4.7
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Huginn
+Weapon: Huginn
+
+Name: Travieso
+Security: -2.5
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: SaNoSuKeJavi
+Security: -1.8
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Dominix
+Weapon: Hobgoblin II
+
+Name: Rinkos Alaine
+Security: 5.0
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Taranis
+Weapon: Taranis
+
+Name: Lady64bits
+Security: 5.0
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Dival
+Security: 5.0
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Huginn
+Weapon: Huginn
+
+Name: Kraiven
+Security: 5.0
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Raptor
+Weapon: Raptor
+
+Name: Deep Moondark (laid the final blow)
+Security: 0.3
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Rook
+Weapon: Flameburst Precision Light Missile
+
+Name: karbun kell
+Security: 0.2
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Sabre
+Weapon: Sabre
+
+Name: Arrissy
+Security: 5.0
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Crow
+Weapon: Phalanx Rage Rocket
+
+Name: Dyana
+Security: 4.6
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Dominix
+Weapon: Berserker I
+
+Name: Threllia
+Security: 0.5
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Malediction
+Weapon: Malediction
+
+Name: stich626
+Security: -0.7
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Brutix
+Weapon: Warp Disruptor II
+
+
+Destroyed items:
+
+Dual Light Beam Laser I
+Dual Light Beam Laser I
+Medium Beam Laser I
+Xray S
+Xray S
+'Malkuth' Heavy Missile Launcher I
+Eutectic I Capacitor Charge Array
+Medium Armor Repairer II
+Energized Adaptive Nano Membrane II
+Microwave S, Qty: 4 (Cargo)
+Gamma S, Qty: 4 (Cargo)
+Infrared S, Qty: 4 (Cargo)
+Widowmaker Heavy Missile, Qty: 1434 (Cargo)
+Scourge Heavy Missile, Qty: 1000 (Cargo)
+Hobgoblin I (Drone Bay)
+

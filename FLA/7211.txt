@@ -1,0 +1,39 @@
+2006.04.07 18:27
+
+Victim: tantaluss
+Alliance: Fallen Souls
+Corp: Dark-Rising
+Destroyed: Nemesis
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: kasbah
+Security: 1.0
+Alliance: Freelancer Alliance
+Corp: Freelancer Union
+Ship: Dominix
+Weapon: Warrior I
+
+Name: TheBelgarion (laid the final blow)
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+
+Destroyed items:
+
+Antimatter Charge S, Qty: 196
+Cataclysm Cruise Missile, Qty: 18
+J5 Prototype Warp Inhibitor I
+Sensor Booster II
+DDO Photometry I Targeting Interference
+Micro Auxiliary Power Core I
+Antimatter Charge S, Qty: 8 (Cargo)
+Plutonium Charge S, Qty: 40 (Cargo)
+Lead Charge S, Qty: 186 (Cargo)
+Paradise Cruise Missile, Qty: 19 (Cargo)
+

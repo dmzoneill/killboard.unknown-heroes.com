@@ -1,0 +1,44 @@
+2007.04.06 09:40
+
+Victim: Elena Morkovka
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Destroyed: Raptor
+System: JU-OWQ
+Security: 0.0
+
+Involved parties:
+
+Name: Hornster (laid the final blow)
+Security: -1.1
+Alliance: None
+Corp: Final-Vendetta
+Ship: Pilgrim
+Weapon: Warrior II
+
+Name: stainage
+Security: -1.2
+Alliance: None
+Corp: Final-Vendetta
+Ship: Eos
+Weapon: Fleeting Warp Scrambler I
+
+
+Destroyed items:
+
+Light Electron Blaster II
+Thorn Rocket
+Thorn Rocket
+Thorn Rocket
+Thorn Rocket
+Thorn Rocket
+Thorn Rocket
+Thorn Rocket
+Rocket Launcher II
+Phased Monopropellant I Hydrazine Boosters
+Fleeting Warp Scrambler I
+Type-D Altered SS Nanofiber Structure
+Iron Charge S, Qty: 1984 (Cargo)
+Vespa I, Qty: 5 (Cargo)
+Thorn Rocket, Qty: 4917 (Cargo)
+

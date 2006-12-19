@@ -1,0 +1,67 @@
+2006.11.05 20:26
+
+Victim: Cybang
+Alliance: R.I.S.K
+Corp: Russian Specnaz
+Destroyed: Condor
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: MAXZY (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Ship: Hawk
+Weapon: Bloodclaw Light Missile
+
+Name: coldkill
+Security: 0.8
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Ishkur
+Weapon: Hammerhead II
+
+Name: XxSOULxX
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Ship: Thorax
+Weapon: Hammerhead II
+
+Name: roboto212
+Security: -0.4
+Alliance: Freelancer Alliance
+Corp: Sin-X Inc.
+Ship: Ares
+Weapon: 'Arbalest' Rocket Launcher I
+
+Name: Ferrymann
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Ship: Merlin
+Weapon: Initiated Warp Jammer I
+
+Name: Botched
+Security: 0.1
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Ship: Crucifier
+Weapon: Warp Disruptor I
+
+Name: Aerfen
+Security: 1.9
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Ship: Rupture
+Weapon: 720mm Gallium I Cannon
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 42
+1MN Afterburner I
+Bloodclaw Light Missile, Qty: 416 (Cargo)
+

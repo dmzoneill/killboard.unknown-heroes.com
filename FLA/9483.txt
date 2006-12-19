@@ -1,0 +1,59 @@
+2007.05.14 20:42
+
+Victim: Ophea
+Alliance: Freelancer Alliance
+Corp: The Collective of Ascended Beings
+Destroyed: Thorax
+System: Tartoken
+Security: 0.1
+
+Involved parties:
+
+Name: Madboy
+Security: 2.8
+Alliance: None
+Corp: Mentally Unstable Enterprises
+Ship: Vagabond
+Weapon: Thunderbolt Heavy Missile
+
+Name: Serj Darek
+Security: -1.8
+Alliance: None
+Corp: Mentally Unstable Enterprises
+Ship: Huginn
+Weapon: Valkyrie II
+
+Name: Reggie Kray
+Security: -1.7
+Alliance: None
+Corp: Mentally Unstable Enterprises
+Ship: Arazu
+Weapon: Acolyte II
+
+Name: Captain Sonic
+Security: -2.1
+Alliance: None
+Corp: Mentally Unstable Enterprises
+Ship: Thorax
+Weapon: Valkyrie I
+
+Name: Del Boy (laid the final blow)
+Security: -1.2
+Alliance: None
+Corp: Mentally Unstable Enterprises
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+
+Destroyed items:
+
+Small 'Knave' I Energy Drain
+Heavy Electron Blaster I
+Antimatter Charge M, Qty: 549
+'Langour' Drive Disruptor I
+Medium Inefficient Armor Repair Unit
+Energized Basic Reactive Plating
+1600mm Reinforced Rolled Tungsten Plates I
+Antimatter Charge M, Qty: 5000 (Cargo)
+Hammerhead II, Qty: 2 (Drone Bay)
+

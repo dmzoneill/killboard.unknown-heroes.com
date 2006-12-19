@@ -1,0 +1,50 @@
+2006.09.12 22:50
+
+Victim: Streff
+Alliance: YouWhat
+Corp: Artificial Horizons
+Destroyed: Vexor
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: JackCo
+Security: 5.0
+Alliance: R i s e
+Corp: WAFFLES Inc.
+Ship: Maller
+Weapon: Maller
+
+Name: Valtaer
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: Terminal Velocity Inc.
+Ship: Moa
+Weapon: Moa
+
+Name: Rugs
+Security: 2.7
+Alliance: R i s e
+Corp: WAFFLES Inc.
+Ship: Retribution
+Weapon: Dual Light Beam Laser II
+
+Name: Sun Takkara (laid the final blow)
+Security: 5.0
+Alliance: R i s e
+Corp: GREY COUNCIL
+Ship: Ferox
+Weapon: Thunderbolt Heavy Missile
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Anode Neutron Particle Cannon I
+Anode Neutron Particle Cannon I
+Thorium Charge M, Qty: 107
+Initiated Harmonic Warp Jammer I
+X5 Prototype I Engine Enervator
+'Repose' I Core Compensation
+

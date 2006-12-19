@@ -1,0 +1,26 @@
+2007.05.07 22:40
+
+Victim: stich626
+Alliance: YouWhat
+Corp: Princeps Corp
+Destroyed: Capsule
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Argentus Orsus
+Security: 2.4
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Malediction
+Weapon: Malediction
+
+Name: haz zard (laid the final blow)
+Security: -2.3
+Alliance: The Foundation.
+Corp: Cornerstone Unlimited
+Ship: Ishkur
+Weapon: Light Electron Blaster II
+
+

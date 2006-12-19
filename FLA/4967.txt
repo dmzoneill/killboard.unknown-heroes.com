@@ -1,0 +1,69 @@
+2007.04.20 23:12
+
+Victim: Mocuker
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Destroyed: Drake
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Konson (laid the final blow)
+Security: 3.7
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Thanatos
+Weapon: Templar
+
+Name: Shihaya xi
+Security: 0.4
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Drake
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+Name: tomuch
+Security: 2.9
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Enyo
+Weapon: Enyo
+
+Name: Savak
+Security: -0.2
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Armageddon
+Weapon: Dual Heavy Anode Pulse Particle Stream I
+
+Name: Raffer Steele
+Security: 2.6
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Thanatos
+Weapon: Templar
+
+Name: Bothius
+Security: 0.4
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Arazu
+Weapon: Remote Sensor Dampener II
+
+
+Destroyed items:
+
+Thunderbolt Heavy Missile, Qty: 95
+Advanced 'Limos' Heavy Missile Bay I
+Advanced 'Limos' Heavy Missile Bay I
+Advanced 'Limos' Heavy Missile Bay I
+Advanced 'Limos' Heavy Missile Bay I
+F-b10 Nominal Capacitor Regenerator
+F-b10 Nominal Capacitor Regenerator
+V-M15 Braced Multispectral Shield Matrix
+Photon Scattering Field I
+Cross-linked Bolt Array I
+Beta Reactor Control: Capacitor Power Relay I
+Thunderbolt Heavy Missile, Qty: 7986 (Cargo)
+

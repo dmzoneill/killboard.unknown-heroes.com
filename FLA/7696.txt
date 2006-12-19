@@ -1,0 +1,41 @@
+2006.01.02 13:38
+
+Victim: Cockroach
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Sacrilege
+System: N-HSK0
+Security: 0.0
+
+Involved parties:
+
+Name: Amthrianius (laid the final blow)
+Security: 4.1
+Alliance: The Five
+Corp: Arcane Technologies
+Ship: Zealot
+Weapon: Heavy Pulse Laser II
+
+
+Destroyed items:
+
+Focused Medium Beam Laser II
+Focused Medium Beam Laser II
+Heavy Beam Laser II
+Multifrequency M
+Multifrequency M
+Havoc Heavy Missile, Qty: 12
+XR-3200 Heavy Missile Bay
+J5 Prototype Warp Inhibitor I
+Tracking Computer II
+'Skadi' Coolant System I
+Large Shield Extender I (Cargo)
+Gamma M, Qty: 4 (Cargo)
+Widowmaker Heavy Missile, Qty: 56 (Cargo)
+Havoc Heavy Missile, Qty: 47 (Cargo)
+Cataclysm Cruise Missile, Qty: 100 (Cargo)
+Hellhound F.O.F. Heavy Missile I, Qty: 139 (Cargo)
+Stalker F.O.F. Heavy Missile I, Qty: 85 (Cargo)
+Cruise Missile Launcher I (Cargo)
+'Malkuth' Siege Missile Launcher I (Cargo)
+

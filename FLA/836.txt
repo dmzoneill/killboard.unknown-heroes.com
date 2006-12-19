@@ -1,0 +1,85 @@
+2007.02.24 00:01
+
+Victim: GloryHole
+Alliance: None
+Corp: Exxon Mobil
+Destroyed: Viator
+System: Oulley
+Security: 0.3
+
+Involved parties:
+
+Name: skitz blitz (laid the final blow)
+Security: -1.3
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Dominix
+Weapon: Ogre II
+
+Name: Jesnen
+Security: -0.2
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Sacrilege
+Weapon: Sacrilege
+
+Name: VoYvod
+Security: -0.3
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Vengeance
+Weapon: Warp Disruptor I
+
+
+Destroyed items:
+
+10MN MicroWarpdrive I
+Prototype I Freight Sensors
+Inertia Stabilizers I
+Nanofiber Internal Structure I
+Small Standard Container (Cargo)
+Fixed Parallel Link-Capacitor I, Qty: 3 (Cargo)
+10MN Afterburner II (Cargo)
+LiF Fueled I Booster Rockets (Cargo)
+1MN Afterburner II (Cargo)
+10MN MicroWarpdrive I (Cargo)
+Fleeting Progressive Warp Scrambler I (Cargo)
+Initiated Harmonic Warp Jammer I (Cargo)
+Focused Medium Pulse Laser II, Qty: 5 (Cargo)
+Dual Light Pulse Laser II, Qty: 6 (Cargo)
+Small Armor Repairer II, Qty: 2 (Cargo)
+Large Armor Repairer II (Cargo)
+Large 'Accommodation' Vestment Reconstructer I, Qty: 4 (Cargo)
+'Langour' Drive Disruptor I (Cargo)
+Medium Nosferatu II (Cargo)
+Small 'Knave' I Energy Drain, Qty: 2 (Cargo)
+Radio M, Qty: 5 (Cargo)
+Multifrequency S, Qty: 6 (Cargo)
+Gamma L, Qty: 7 (Cargo)
+Reactive Plating II (Cargo)
+Ogre I, Qty: 5 (Cargo)
+Bouncer I, Qty: 5 (Cargo)
+Heat Sink II (Cargo)
+Tracking Enhancer II (Cargo)
+Balmer Series Targeting Inhibitor I, Qty: 4 (Cargo)
+Blaque Voucher, Qty: 5 (Cargo)
+Shadow Serpentis Energized Reactive Membrane (Cargo)
+1600mm Reinforced Rolled Tungsten Plates I, Qty: 3 (Cargo)
+Prototype Cloaking Device I (Cargo)
+Gleam S, Qty: 4 (Cargo)
+Aurora S, Qty: 4 (Cargo)
+Conflagration S, Qty: 6 (Cargo)
+Conflagration M, Qty: 4 (Cargo)
+Scorch S, Qty: 6 (Cargo)
+Scorch M, Qty: 7 (Cargo)
+Phalanx Rocket, Qty: 1000 (Cargo)
+Jaspet Mining Crystal I, Qty: 2 (Cargo)
+Rocket Launcher II, Qty: 2 (Cargo)
+Salvager I (Cargo)
+Omnidirectional Tracking Link I, Qty: 2 (Cargo)
+Small Tractor Beam I, Qty: 2 (Cargo)
+Broken Drone Transceiver (Cargo)
+Charred Micro Circuit, Qty: 4 (Cargo)
+Type-D Altered SS Overdrive Injector (Cargo)
+Local Power Plant Manager: Diagnostic System I (Cargo)
+

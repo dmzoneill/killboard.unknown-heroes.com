@@ -1,0 +1,19 @@
+2007.03.03 18:41
+
+Victim: ahnik
+Alliance: Privateer Alliance
+Corp: TunDraGon
+Destroyed: Capsule
+System: Jita
+Security: 0.9
+
+Involved parties:
+
+Name: Sorlac Aurora (laid the final blow)
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Rokh
+Weapon: Anode Mega Neutron Particle Cannon I
+
+

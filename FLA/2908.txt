@@ -1,0 +1,59 @@
+2007.03.16 03:02
+
+Victim: Skull Fire
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Moa
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Xordus (laid the final blow)
+Security: 0.9
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Omen
+Weapon: Focused Medium Pulse Laser II
+
+Name: Lord Revent
+Security: 1.0
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Scythe
+Weapon: Scythe
+
+Name: Xoduse
+Security: 0.2
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Blackbird
+Weapon: Havoc Heavy Missile
+
+Name: Fellswoop
+Security: 1.8
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Maller
+Weapon: Maller
+
+
+Destroyed items:
+
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Antimatter Charge M, Qty: 36
+Widowmaker Heavy Missile, Qty: 30
+10MN MicroWarpdrive I
+J5 Prototype Warp Inhibitor I
+Alumel-Wired I Sensor Augmentation
+Gyrostabilizer I
+Damage Control I
+Power Diagnostic System I
+Antimatter Charge M, Qty: 400 (Cargo)
+Thunderbolt Heavy Missile, Qty: 150 (Cargo)
+

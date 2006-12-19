@@ -1,0 +1,50 @@
+2007.01.17 19:13
+
+Victim: Walkin' Dude
+Alliance: None
+Corp: Republic Military School
+Destroyed: Rifter
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Night Seeker (laid the final blow)
+Security: 0.1
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Hound
+Weapon: Devastator Cruise Missile
+
+Name: WhiteBearAQM
+Security: 1.4
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Rapier
+Weapon: Warrior II
+
+Name: Gtok
+Security: -0.1
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Hyperion
+Weapon: Hyperion
+
+
+Destroyed items:
+
+150mm Light AutoCannon II
+150mm Light AutoCannon II
+EMP S, Qty: 158
+Phalanx Rocket, Qty: 30
+1MN MicroWarpdrive I
+Fleeting Progressive Warp Scrambler I
+200mm Reinforced Rolled Tungsten Plates I
+Nanofiber Internal Structure I
+Uranium Charge S, Qty: 40 (Cargo)
+Astrometric Pinpointing (Cargo)
+Signal Dispersion (Cargo)
+Barrage S, Qty: 1000 (Cargo)
+Hail S, Qty: 987 (Cargo)
+Power Diagnostic System I (Cargo)
+

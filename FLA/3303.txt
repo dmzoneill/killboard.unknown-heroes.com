@@ -1,0 +1,90 @@
+2007.03.22 19:29
+
+Victim: Darthirishguy
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Raven
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: PainBall
+Security: -0.9
+Alliance: Triumvirate.
+Corp: ViperSquad
+Ship: Absolution
+Weapon: Heavy Pulse Laser II
+
+Name: shots17
+Security: -1.3
+Alliance: Triumvirate.
+Corp: ViperSquad
+Ship: Zealot
+Weapon: Zealot
+
+Name: WarGod
+Security: 1.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Curse
+Weapon: Berserker II
+
+Name: Snuggles theTerrible (laid the final blow)
+Security: 5.0
+Alliance: Triumvirate.
+Corp: ViperSquad
+Ship: Vulture
+Weapon: 250mm Railgun II
+
+Name: Alchem
+Security: 2.9
+Alliance: Triumvirate.
+Corp: ViperSquad
+Ship: Ishtar
+Weapon: Ishtar
+
+Name: Sith Bandon
+Security: 5.0
+Alliance: Triumvirate.
+Corp: ViperSquad
+Ship: Ishtar
+Weapon: Ishtar
+
+
+Destroyed items:
+
+Juggernaut Torpedo
+Juggernaut Torpedo
+Juggernaut Torpedo
+Juggernaut Torpedo
+Juggernaut Torpedo
+Juggernaut Torpedo
+Mjolnir Torpedo
+Mjolnir Torpedo
+Mjolnir Torpedo
+Mjolnir Torpedo
+ZW-4100 Siege Missile Bay
+ZW-4100 Siege Missile Bay
+'Malkuth' Siege Missile Launcher I
+Small Tractor Beam I
+Ditrigonal Thermal Barrier Crystallization I
+Heat Dissipation Field I
+Beta Reactor Control: Diagnostic System I
+Beta Reactor Control: Diagnostic System I
+Beta Reactor Control: Diagnostic System I
+Large Shield Extender I (Cargo)
+Large 'Atonement' I Ward Projector (Cargo)
+Large S95a Partial Shield Transporter (Cargo)
+Dual 250mm 'Scout' I Accelerator Cannon (Cargo)
+Medium F-RX Prototype I Capacitor Boost (Cargo)
+Bane Torpedo, Qty: 100 (Cargo)
+Mjolnir Torpedo, Qty: 46 (Cargo)
+Extra Gravimetric ECCM Scanning Array I (Cargo)
+Beta Reactor Control: Diagnostic System I (Cargo)
+Local Power Plant Manager: Diagnostic System I (Cargo)
+Type-D Power Core Modification: Capacitor Power Relay (Cargo)
+Local Power Plant Manager: Capacity Power Relay I (Cargo)
+Mark I Generator Refitting: Capacitor Flux (Cargo)
+Local Power Plant Manager: Reaction Control I (Cargo)
+

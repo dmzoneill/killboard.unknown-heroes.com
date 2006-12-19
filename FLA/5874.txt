@@ -1,0 +1,139 @@
+2006.10.24 21:17
+
+Victim: lightningskull
+Alliance: Process of Elimination
+Corp: The Wild Bunch
+Destroyed: Dominix
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Vindication
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Severa Crest
+Security: 3.5
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Ageha
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Armageddon
+Weapon: Tachyon Beam Laser II
+
+Name: Megan Ryder
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: VentureCorp
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Flashh Gorden
+Security: 2.4
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Ione79
+Security: 3.7
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: FotoFlame
+Security: 3.6
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Deimos
+Weapon: Deimos
+
+Name: Maoam Druban
+Security: 0.9
+Alliance: Chorus of Dawn
+Corp: Independent Frontiers
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+Name: Mr Harmonica (laid the final blow)
+Security: 5.0
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Raven
+Weapon: Mjolnir Javelin Torpedo
+
+Name: Omega27
+Security: -1.5
+Alliance: None
+Corp: Blackguard Brigade
+Ship: Maller
+Weapon: Focused Medium Pulse Laser II
+
+Name: geewiz
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Eagle
+Weapon: 'Arbalest' Assault Missile Launcher
+
+Name: AceMace
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Harpy
+Weapon: Bloodclaw Light Missile
+
+Name: Kolombus
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Lachesis
+Weapon: Flameburst Light Missile
+
+Name: Uncle Fester
+Security: 5.2
+Alliance: Imperial Republic Of the North
+Corp: VentureCorp
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+
+Destroyed items:
+
+Heavy Nosferatu I
+Heavy Nosferatu I
+Heavy Nosferatu I
+Small Nosferatu I
+Barton Reactor Capacitor Recharger I
+Cap Recharger I
+LiF Fueled I Booster Rockets
+Medium Armor Repairer I
+Morphite, Qty: 62 (Cargo)
+Large Shield Extender II (Cargo)
+F-b10 Nominal Capacitor Regenerator (Cargo)
+650mm Artillery Cannon II (Cargo)
+X5 Prototype I Engine Enervator (Cargo)
+425mm Prototype I Gauss Gun (Cargo)
+Photon Scattering Field I, Qty: 2 (Cargo)
+'Anointed' I EM Ward Reinforcement, Qty: 2 (Cargo)
+Thermic Plating I (Cargo)
+Compulsive Ion Field ECM I (Cargo)
+ECCM - Omni I, Qty: 3 (Cargo)
+Large Hybrid Turret (Cargo)
+'Abandon' Targeting Disruptor I (Cargo)
+Voltaic Nanite Kinetic Hardener I (Cargo)
+Power Diagnostic System II (Cargo)
+Hammerhead I, Qty: 3 (Drone Bay)
+Hornet I (Drone Bay)
+Wasp I (Drone Bay)
+

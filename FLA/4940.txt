@@ -1,0 +1,42 @@
+2007.04.20 05:44
+
+Victim: Iguanoid
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Manticore
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Elrid Barnes
+Security: 1.6
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Harpy
+Weapon: Harpy
+
+Name: Gerald Osikawa (laid the final blow)
+Security: 0.9
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Akthuul
+Security: 5.0
+Alliance: Storm Armada
+Corp: stone grave haulage
+Ship: Falcon
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+
+Destroyed items:
+
+Wrath Cruise Missile, Qty: 21
+XT-9000 Cruise Launcher
+XT-9000 Cruise Launcher
+Prototype I Sensor Booster
+Prototype I Sensor Booster
+Wrath Cruise Missile, Qty: 391 (Cargo)
+

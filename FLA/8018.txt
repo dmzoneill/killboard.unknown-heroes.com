@@ -1,0 +1,65 @@
+2006.10.06 00:28
+
+Victim: Argentus Orsus
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Omen
+System: Litiura
+Security: 0.5
+
+Involved parties:
+
+Name: Onin Ra (laid the final blow)
+Security: 1.1
+Alliance: None
+Corp: Privateers
+Ship: Megathron
+Weapon: 425mm 'Scout' I Accelerator Cannon
+
+Name: SLAPNUTZ
+Security: -1.8
+Alliance: None
+Corp: Privateers
+Ship: Tempest
+Weapon: Paradise Cruise Missile
+
+Name: Kaykun
+Security: 5.0
+Alliance: None
+Corp: Privateers
+Ship: Tempest
+Weapon: Warrior I
+
+Name: Morfane
+Security: -0.2
+Alliance: None
+Corp: Privateers
+Ship: Taranis
+Weapon: Taranis
+
+Name: Caol
+Security: 5.0
+Alliance: None
+Corp: Privateers
+Ship: Stabber
+Weapon: 220mm Vulcan AutoCannon I
+
+Name: Danno
+Security: -1.9
+Alliance: None
+Corp: Privateers
+Ship: Apocalypse
+Weapon: Apocalypse
+
+
+Destroyed items:
+
+Microwave M
+Cold-Gas I Arcjet Thrusters
+Stasis Webifier I
+Small 'Accommodation' Vestment Reconstructer I
+200mm Reinforced Nanofiber Plates I
+Gamma S (Cargo)
+Multifrequency S (Cargo)
+Hobgoblin I, Qty: 3 (Cargo)
+

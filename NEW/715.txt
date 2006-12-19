@@ -1,0 +1,36 @@
+2007.05.11 13:39
+
+Victim: FlobbMkII
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Eris
+System: L-TS8S
+Security: 0.0
+
+Involved parties:
+
+Name: eXtas
+Security: 1.9
+Alliance: None
+Corp: BURN EDEN
+Ship: Rapier
+Weapon: Valkyrie II
+
+Name: Pokerizer (laid the final blow)
+Security: 1.7
+Alliance: None
+Corp: BURN EDEN
+Ship: Rapier
+Weapon: Hammerhead II
+
+
+Destroyed items:
+
+1MN MicroWarpdrive II (Cargo)
+E5 Prototype Energy Vampire (Cargo)
+Light Ion Blaster II (Cargo)
+Small Secure Container (Cargo)
+Null S, Qty: 4872 (Cargo)
+Warp Disrupt Probe, Qty: 19 (Cargo)
+Interdiction Sphere Launcher I (Cargo)
+Overdrive Injector System II (Cargo)

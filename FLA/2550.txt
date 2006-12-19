@@ -1,0 +1,45 @@
+2007.02.20 02:57
+
+Victim: Sorlac Aurora
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Drake
+System: Uedama
+Security: 0.5
+
+Involved parties:
+
+Name: Pitt (laid the final blow)
+Security: 1.3
+Alliance: Privateer Alliance
+Corp: Loot
+Ship: Hurricane
+Weapon: 425mm AutoCannon II
+
+Name: Colt Python
+Security: -2.0
+Alliance: Privateer Alliance
+Corp: Loot
+Ship: Pilgrim
+Weapon: Vespa I
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 54
+Havoc Heavy Missile, Qty: 17
+Thunderbolt Heavy Missile, Qty: 18
+Advanced 'Limos' Heavy Missile Bay I
+Advanced 'Limos' Heavy Missile Bay I
+Advanced 'Limos' Heavy Missile Bay I
+Advanced 'Limos' Heavy Missile Bay I
+Advanced 'Limos' Heavy Missile Bay I
+Large F-S9 Regolith Shield Induction
+Warp Disruptor I
+Shield Power Relay I
+Shield Power Relay I
+Shield Power Relay I
+Widowmaker Heavy Missile, Qty: 1000 (Cargo)
+Scourge Heavy Missile, Qty: 898 (Cargo)
+Havoc Heavy Missile, Qty: 897 (Cargo)
+

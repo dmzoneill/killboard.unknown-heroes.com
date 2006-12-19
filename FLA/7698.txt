@@ -1,0 +1,31 @@
+2006.01.27 23:03
+
+Victim: Cockroach
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Vengeance
+System: Hakonen
+Security: 0.3
+
+Involved parties:
+
+Name: Caldari Sentry Gun I / Caldari Navy (laid the final blow)
+
+
+Destroyed items:
+
+Medium Beam Laser II
+Medium Beam Laser II
+Multifrequency S
+Seeker F.O.F. Light Missile I, Qty: 45
+TE-2100 Standard Missile Bay
+1MN Afterburner II
+Faint Warp Prohibitor I
+Sensor Booster II
+X5 Prototype I Engine Enervator (Cargo)
+Xray S, Qty: 2 (Cargo)
+Infrared S, Qty: 2 (Cargo)
+Bloodclaw Light Missile, Qty: 100 (Cargo)
+Piranha Light Missile, Qty: 144 (Cargo)
+Seeker F.O.F. Light Missile I, Qty: 54 (Cargo)
+

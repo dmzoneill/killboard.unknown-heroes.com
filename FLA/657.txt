@@ -1,0 +1,122 @@
+2007.02.14 22:57
+
+Victim: Neomir
+Alliance: None
+Corp: State War Academy
+Destroyed: Manticore
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Zephyrante
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Hyperion
+Weapon: Regulated Mega Ion Phase Cannon I
+
+Name: Elena Morkovka
+Security: 1.4
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Flycatcher
+Weapon: Thorn Javelin Rocket
+
+Name: Indigo Callypso
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Crow
+Weapon: Thorn Rocket
+
+Name: rabodeamor
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Raptor
+Weapon: Raptor
+
+Name: Burn Lump (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Enyo
+Weapon: 125mm Railgun II
+
+Name: Arvo Henderson
+Security: 3.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Taranis
+Weapon: Warrior II
+
+Name: ISliverI
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Arazu
+Weapon: 200mm Railgun II
+
+Name: Ocara Nezus
+Security: 2.8
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Hawk
+Weapon: Standard Missile Launcher I
+
+Name: Lancelot Wellborn
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Crow
+Weapon: Warp Disruptor I
+
+Name: Kerdrak
+Security: 4.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Curse
+Weapon: Fleeting Warp Scrambler I
+
+Name: Jonas123
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Drake
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+Name: IMercy
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Thorax
+Weapon: 125mm Railgun I
+
+Name: Dark Carnage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Gila
+Weapon: Compact 'Limos' Assault Missile Bay I
+
+Name: Cho Solo
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Thorax
+Weapon: Initiated Warp Jammer I
+
+
+Destroyed items:
+
+Anode Light Neutron Particle Cannon I
+Wrath Cruise Missile, Qty: 23
+Paradise Cruise Missile, Qty: 23
+XT-9000 Cruise Launcher
+XT-9000 Cruise Launcher
+Co-Processor II
+Plutonium Charge S, Qty: 1920 (Cargo)
+Wrath Cruise Missile, Qty: 454 (Cargo)
+Paradise Cruise Missile, Qty: 477 (Cargo)
+

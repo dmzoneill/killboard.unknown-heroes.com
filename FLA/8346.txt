@@ -1,0 +1,41 @@
+2006.11.10 03:45
+
+Victim: Averenor
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Destroyed: Iteron Mark IV
+System: J1AU-9
+Security: 0.0
+
+Involved parties:
+
+Name: JMcClane (laid the final blow)
+Security: 4.8
+Alliance: None
+Corp: Dark-Rising
+Ship: Vexor
+Weapon: Valkyrie II
+
+Name: Boogiez
+Security: 0.5
+Alliance: None
+Corp: Dark-Rising
+Ship: Thorax
+Weapon: Valkyrie II
+
+Name: Guristas Revolter / Guristas
+
+
+Destroyed items:
+
+Medium Shield Extender I
+Medium Subordinate Screen Stabilizer I
+1MN Afterburner I
+F-b10 Nominal Capacitor Regenerator (Cargo)
+Miner II (Cargo)
+E500 Prototype Energy Vampire (Cargo)
+350mm 'Scout' I Accelerator Cannon (Cargo)
+200mm Railgun I (Cargo)
+Assault Missile Launcher I (Cargo)
+Small Tractor Beam I (Cargo)
+

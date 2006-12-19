@@ -1,0 +1,84 @@
+2007.01.28 17:38
+
+Victim: HYT gangster
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Destroyed: Typhoon
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Memphisz
+Security: 0.3
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Tempest
+Weapon: Tempest
+
+Name: jernej
+Security: 4.2
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Tempest
+Weapon: Infiltrator II
+
+Name: Letum Omnis (laid the final blow)
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Hyperion
+Weapon: 425mm Railgun II
+
+Name: Beast Hun
+Security: 4.7
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Abaddon
+Weapon: Tachyon Beam Laser II
+
+Name: Pyrotesea
+Security: 4.6
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Hyperion
+Weapon: Hyperion
+
+Name: Marschall
+Security: 2.1
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Bobbeh
+Security: -0.2
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Capsule
+Weapon: 1400mm Howitzer Artillery II
+
+
+Destroyed items:
+
+Heavy Nosferatu I
+Heavy Nosferatu I
+Scourge Heavy Missile, Qty: 25
+Wrath Cruise Missile, Qty: 17
+'Malkuth' Cruise Launcher I
+Heavy Missile Launcher I
+100MN MicroWarpdrive I
+Heavy Capacitor Booster I
+Large Armor Repairer I
+1600mm Reinforced Steel Plates I
+1600mm Reinforced Steel Plates I
+Nanofiber Internal Structure I
+Power Diagnostic System I
+Cap Recharger I, Qty: 4 (Cargo)
+1200mm Artillery Cannon I, Qty: 3 (Cargo)
+Cap Booster 800, Qty: 10 (Cargo)
+Armor Kinetic Hardener I, Qty: 2 (Cargo)
+Armor Thermic Hardener I (Cargo)
+Wrath Cruise Missile, Qty: 2095 (Cargo)
+Berserker I, Qty: 2 (Drone Bay)
+

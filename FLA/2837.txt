@@ -1,0 +1,159 @@
+2007.03.10 21:57
+
+Victim: truefranco
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Destroyed: Flycatcher
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: mama guru
+Security: 2.8
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Ship: Apocalypse
+Weapon: Apocalypse
+
+Name: Tanya Kovacs
+Security: 5.1
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+Name: evilempire3 (laid the final blow)
+Security: -0.8
+Alliance: Chorus of Dawn
+Corp: Cosmic Odyssey
+Ship: Armageddon
+Weapon: Dual Heavy Beam Laser II
+
+Name: 1Of9
+Security: 4.7
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Megathron
+Weapon: Megathron
+
+Name: Vespero
+Security: 0.0
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: wph0r
+Security: 4.4
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Rokh
+Weapon: Rokh
+
+Name: Eelim Garak
+Security: 1.3
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Sacrilege
+Weapon: Sacrilege
+
+Name: Nkalv
+Security: -2.6
+Alliance: Chorus of Dawn
+Corp: Free Lapland
+Ship: Sabre
+Weapon: Sabre
+
+Name: sliver 0xD
+Security: -1.8
+Alliance: Chorus of Dawn
+Corp: Infinite Style Incorporated
+Ship: Megathron
+Weapon: Megathron
+
+Name: mr ioso
+Security: 4.8
+Alliance: Chorus of Dawn
+Corp: Cosmic Odyssey
+Ship: Scorpion
+Weapon: 'Malkuth' Cruise Launcher I
+
+Name: WildCard
+Security: 4.6
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Drake
+Weapon: Advanced 'Limos' Heavy Missile Bay I
+
+Name: Votac
+Security: 2.9
+Alliance: Chorus of Dawn
+Corp: Infinite Style Incorporated
+Ship: Raven
+Weapon: XT-9000 Cruise Launcher
+
+Name: Vim Longhill
+Security: 4.6
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Rokh
+Weapon: 425mm Railgun II
+
+Name: Varban II
+Security: 1.8
+Alliance: Chorus of Dawn
+Corp: Infinite Style Incorporated
+Ship: Arazu
+Weapon: 200mm Compressed Coil Gun I
+
+Name: Thyago
+Security: 5.0
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Megathron
+Weapon: 425mm Railgun I
+
+Name: Tenter Masion
+Security: -1.3
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Ship: Apocalypse
+Weapon: Apocalypse
+
+Name: StarCaptain Joanna
+Security: -0.1
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Slith Sabrao
+Security: 4.8
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Apocalypse
+Weapon: Apocalypse
+
+Name: Santa Claw
+Security: 2.4
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+
+Destroyed items:
+
+75mm Gatling Rail II
+Spike S, Qty: 200
+Bloodclaw Light Missile, Qty: 132
+Upgraded 'Limos' Standard Missile Bay I
+Upgraded 'Limos' Standard Missile Bay I
+Upgraded 'Limos' Standard Missile Bay I
+Warp Disrupt Probe, Qty: 10
+Eutectic I Capacitor Charge Array
+1MN MicroWarpdrive II
+Inertia Stabilizers I
+Piranha Light Missile, Qty: 403 (Cargo)
+

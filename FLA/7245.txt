@@ -1,0 +1,47 @@
+2006.05.18 05:06
+
+Victim: tbow10
+Alliance: Sparta Alliance
+Corp: ATROX.
+Destroyed: Blackbird
+System: A4L-A2
+Security: 0.0
+
+Involved parties:
+
+Name: Qanael Radlari
+Security: 1.1
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: DeSantis (laid the final blow)
+Security: 1.6
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+Name: CelticWarrior
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Lords Of Guile
+Ship: Tempest
+Weapon: Foxfire Rocket
+
+Name: ShyLion
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Lords Of Guile
+Ship: Scorpion
+Weapon: FZ-3 Subversive Spatial Destabilizer ECM
+
+
+Destroyed items:
+
+Sabretooth Light Missile, Qty: 51
+Widowmaker Heavy Missile, Qty: 22
+ECM - Spatial Destabilizer I
+Widowmaker Heavy Missile, Qty: 289 (Cargo)
+

@@ -1,0 +1,34 @@
+2007.04.17 10:35
+
+Victim: coldman soulreaper
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Destroyed: Catalyst
+System: Otsasai
+Security: 0.3
+
+Involved parties:
+
+Name: Wrath Cruise Missile / Cataclysm Enterprises (laid the final blow)
+
+
+Destroyed items:
+
+Salvager I
+Salvager I
+Small Tractor Beam I
+1MN Afterburner I
+Expanded Cargohold I
+Small Shield Booster I (Cargo)
+Medium Hull Repairer I (Cargo)
+Small Nosferatu I (Cargo)
+125mm Railgun I (Cargo)
+Medium Capacitor Booster I (Cargo)
+Plutonium Charge S, Qty: 200 (Cargo)
+ECM - Multispectral Jammer I (Cargo)
+Malfunctioning Shield Emitter (Cargo)
+Charred Micro Circuit, Qty: 12 (Cargo)
+Conductive Polymer (Cargo)
+Tripped Power Circuit, Qty: 6 (Cargo)
+Damaged Artificial Neural Network, Qty: 3 (Cargo)
+

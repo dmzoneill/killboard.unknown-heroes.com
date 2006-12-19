@@ -1,0 +1,64 @@
+2007.03.25 20:09
+
+Victim: Vesspasiano
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Destroyed: Dominix
+System: F7C-H0
+Security: 0.0
+
+Involved parties:
+
+Name: Solid Wilko
+Security: -1.7
+Alliance: Eternal Rapture
+Corp: Quantum Synergies
+Ship: Capsule
+Weapon: 425mm AutoCannon II
+
+Name: blh 42 (laid the final blow)
+Security: -3.5
+Alliance: Eternal Rapture
+Corp: Exotic Dancers Club
+Ship: Dominix
+Weapon: Berserker I
+
+Name: Major Digger
+Security: 5.0
+Alliance: Eternal Rapture
+Corp: Exotic Dancers Club
+Ship: Harbinger
+Weapon: Hobgoblin I
+
+Name: Ion Bartzabel
+Security: -0.2
+Alliance: Eternal Rapture
+Corp: Temptation inc.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Gliding
+Security: -1.9
+Alliance: Eternal Rapture
+Corp: Quantum Synergies
+Ship: Unknown
+Weapon: Warp Disruptor I
+
+
+Destroyed items:
+
+Salvager I, Qty: 36
+Medium Nosferatu I
+Medium Nosferatu I
+Medium Nosferatu I
+Quad LiF Fueled I Booster Rockets
+Initiated Warp Jammer I
+N-Type Thermic Hardener I
+1600mm Reinforced Rolled Tungsten Plates I
+Eutectic I Capacitor Charge Array (Cargo)
+Cap Booster 800, Qty: 5 (Cargo)
+XR-3200 Heavy Missile Bay, Qty: 2 (Cargo)
+Valkyrie II, Qty: 3 (Drone Bay)
+Hobgoblin II (Drone Bay)
+Ogre II (Drone Bay)
+

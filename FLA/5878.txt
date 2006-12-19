@@ -1,0 +1,19 @@
+2006.10.25 14:37
+
+Victim: Pham Neewan
+Alliance: None
+Corp: Center for Advanced Studies
+Destroyed: Gallente Shuttle
+System: F7C-H0
+Security: 0.0
+
+Involved parties:
+
+Name: Formosus Funus (laid the final blow)
+Security: 3.1
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Wolf
+Weapon: 150mm Light AutoCannon II
+
+

@@ -1,0 +1,39 @@
+2006.12.15 22:44
+
+Victim: Morkt Drakt
+Alliance: The OSS
+Corp: Black Omega Security
+Destroyed: Sabre
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Goca (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Raven
+Weapon: Inferno Javelin Torpedo
+
+
+Destroyed items:
+
+250mm Light Artillery Cannon II
+250mm Light Artillery Cannon II
+Depleted Uranium S, Qty: 200
+Prototype Cloaking Device I
+Recon Probe Launcher I
+Interdiction Sphere Launcher I
+J5 Prototype Warp Inhibitor I
+'Langour' Drive Disruptor I
+F-90 Positional Sensor Subroutines
+Inertia Stabilizers I
+Nanofiber Internal Structure I
+Large Shield Extender II (Cargo)
+Cynosural Field Generator I (Cargo)
+'Arbalest' Cruise Launcher I, Qty: 3 (Cargo)
+Salvager I (Cargo)
+Warp Disrupt Probe, Qty: 21 (Cargo)
+Local Hull Conversion Overdrive Injector I (Cargo)
+

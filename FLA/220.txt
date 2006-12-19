@@ -1,0 +1,136 @@
+2007.01.19 00:38
+
+Victim: Teani
+Alliance: Triumvirate.
+Corp: D00M.
+Destroyed: Astarte
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: ISliverI (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Myrmidon
+Weapon: Hammerhead II
+
+Name: white kight
+Security: 1.1
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Drake
+Weapon: Widowmaker Heavy Missile
+
+Name: Mildeww
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Raven
+Weapon: Wrath Cruise Missile
+
+Name: Marie Veedor
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Ferox
+Weapon: Scourge Heavy Missile
+
+Name: Esvi Adhorsen
+Security: 2.1
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Ferox
+Weapon: Ferox
+
+Name: Kryton55
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Blackbird
+Weapon: Thunderbolt Heavy Missile
+
+Name: Cobra64
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery I
+
+Name: wrecker300
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Capsule
+Weapon: 'Limos' Cruise Launcher I
+
+Name: SniperMcBob
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Capsule
+Weapon: Heavy Missile Launcher I
+
+Name: Sasham
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Hedeon Mishenka
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Vengeance
+Weapon: X5 Prototype I Engine Enervator
+
+Name: Barkel
+Security: 0.4
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Scythe
+Weapon: Scythe
+
+Name: Thafesko
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Condor
+Weapon: Thorn Rocket
+
+Name: Kateryne
+Security: -0.6
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Armageddon
+Weapon: Dual Heavy Beam Laser I
+
+Name: Elgcaress
+Security: 3.2
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Incursus
+Weapon: 75mm Gatling Rail I
+
+Name: Downeaster
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Blackbird
+Weapon: Induced Ion Field ECM I
+
+
+Destroyed items:
+
+Heavy Ion Blaster II
+Heavy Ion Blaster II
+Heavy Neutron Blaster II
+Void M, Qty: 475
+Damage Control II
+Energized Adaptive Nano Membrane II
+Armor Explosive Hardener II
+Void M, Qty: 1326 (Cargo)
+Valkyrie II, Qty: 2 (Drone Bay)
+

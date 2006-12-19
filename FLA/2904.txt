@@ -1,0 +1,94 @@
+2007.03.15 22:25
+
+Victim: Corovus
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Destroyed: Vexor
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Sholle
+Security: 3.0
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Sabre
+Weapon: Sabre
+
+Name: Eelim Garak
+Security: 1.3
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Sacrilege
+Weapon: Sacrilege
+
+Name: Alizarin Crimson
+Security: -1.3
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Crusader
+Weapon: Dual Light Pulse Laser II
+
+Name: Phran Za
+Security: 1.5
+Alliance: Chorus of Dawn
+Corp: Infinite Style Incorporated
+Ship: Harpy
+Weapon: Harpy
+
+Name: Longrin
+Security: 2.8
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: Helmi (laid the final blow)
+Security: 3.0
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Blackbird
+Weapon: Bloodclaw Light Missile
+
+Name: Magnelien
+Security: 4.2
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Raptor
+Weapon: Bloodclaw Light Missile
+
+Name: Elfe
+Security: 4.3
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Bellicose
+Weapon: Flameburst Light Missile
+
+Name: Deadcover V
+Security: 0.7
+Alliance: Chorus of Dawn
+Corp: Infinite Style Incorporated
+Ship: Thorax
+Weapon: Thorax
+
+Name: istasi
+Security: -5.6
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Celestis
+Weapon: Kapteyn Sensor Array Inhibitor I
+
+
+Destroyed items:
+
+Medium Nosferatu I
+150mm Railgun II
+150mm Railgun II
+Fleeting Warp Scrambler I
+F85 Peripheral Damage System I
+Lead Charge S, Qty: 1000 (Cargo)
+Antimatter Charge S, Qty: 321 (Cargo)
+Hammerhead II, Qty: 3 (Drone Bay)
+Hobgoblin II, Qty: 2 (Drone Bay)
+

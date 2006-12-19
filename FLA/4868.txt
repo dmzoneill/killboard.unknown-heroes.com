@@ -1,0 +1,103 @@
+2007.04.18 02:43
+
+Victim: xinndo jagged
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Destroyed: Drake
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Terdlinger (laid the final blow)
+Security: 4.8
+Alliance: Storm Armada
+Corp: stone grave haulage
+Ship: Thanatos
+Weapon: Templar
+
+Name: Arikas Talendar
+Security: 5.0
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Konson
+Security: 3.7
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Retribution
+Weapon: Einherji
+
+Name: thedeadcows
+Security: 0.1
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Prophecy
+Weapon: Prophecy
+
+Name: Fitz Farseer
+Security: 0.5
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Hound
+Weapon: Devastator Cruise Missile
+
+Name: Karmi
+Security: 1.6
+Alliance: Storm Armada
+Corp: stone grave haulage
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Wraithstorm
+Security: 3.1
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Arazu
+Weapon: 200mm Railgun II
+
+Name: tomuch
+Security: 2.9
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Kestrel
+Weapon: Piranha Light Missile
+
+Name: Screamer
+Security: 0.4
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Chimera
+Weapon: Einherji
+
+Name: Ghost Hughdidit
+Security: 3.1
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Thanatos
+Weapon: Templar
+
+
+Destroyed items:
+
+Improved Cloaking Device II
+Heavy Missile Launcher II
+Heavy Missile Launcher II
+Heavy Missile Launcher II
+Heavy Missile Launcher II
+Havoc Precision Heavy Missile, Qty: 103
+Large Shield Extender II
+Large Shield Extender II
+Alumel-Wired I Sensor Augmentation
+Alumel-Wired I Sensor Augmentation
+Phased Weapon Navigation Array Generation Extron
+Inertia Stabilizers I
+Mark I Generator Refitting: Capacitor Power Relay
+Widowmaker Heavy Missile, Qty: 500 (Cargo)
+Havoc Heavy Missile, Qty: 1005 (Cargo)
+Thunderbolt Heavy Missile, Qty: 1025 (Cargo)
+Havoc Fury Heavy Missile, Qty: 564 (Cargo)
+Havoc Precision Heavy Missile, Qty: 1165 (Cargo)
+

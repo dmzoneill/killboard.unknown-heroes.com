@@ -1,0 +1,33 @@
+2006.10.06 14:00
+
+Victim: lo'ming
+Alliance: None
+Corp: Privateers
+Destroyed: Capsule
+System: Sobaseki
+Security: 0.8
+
+Involved parties:
+
+Name: DarkJester (laid the final blow)
+Security: 0.7
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Tempest
+Weapon: 800mm Repeating Artillery I
+
+Name: Formosus Funus
+Security: 2.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Rifter
+Weapon: 200mm Light 'Scout' Autocannon I
+
+Name: Drakin Korin
+Security: 3.2
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Ishtar
+Weapon: Fleeting Propulsion Inhibitor I
+
+

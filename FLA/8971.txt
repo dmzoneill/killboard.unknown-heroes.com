@@ -1,0 +1,39 @@
+2006.12.24 02:36
+
+Victim: TiMeZeRo225
+Alliance: Freelancer Alliance
+Corp: J.I.T. Enterprises
+Destroyed: Crow
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Bill Preston (laid the final blow)
+Security: 5.0
+Alliance: Interstellar Alcohol Conglomerate
+Corp: FIRMA
+Ship: Arazu
+Weapon: 250mm Railgun II
+
+Name: Calishere
+Security: 0.1
+Alliance: Interstellar Alcohol Conglomerate
+Corp: FIRMA
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+Salvager I, Qty: 30
+Bloodclaw Light Missile, Qty: 78
+Standard Missile Launcher I
+Standard Missile Launcher I
+1MN MicroWarpdrive I
+J5b Phased Prototype Warp Inhibitor I
+X5 Prototype I Engine Enervator
+Nanofiber Internal Structure I
+Nanofiber Internal Structure I
+Bloodclaw Light Missile, Qty: 2379 (Cargo)
+

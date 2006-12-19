@@ -1,0 +1,19 @@
+2007.05.14 20:04
+
+Victim: Kayron Brennan
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Destroyed: Capsule
+System: Tartoken
+Security: 0.1
+
+Involved parties:
+
+Name: Serj Darek (laid the final blow)
+Security: -1.8
+Alliance: None
+Corp: Mentally Unstable Enterprises
+Ship: Huginn
+Weapon: 650mm Artillery Cannon II
+
+

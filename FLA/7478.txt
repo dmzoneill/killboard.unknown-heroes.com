@@ -1,0 +1,42 @@
+2006.09.09 14:58
+
+Victim: Sarshoy
+Alliance: R.I.S.K
+Corp: The First Foundation
+Destroyed: Kestrel
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Jumar Coldgin
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Harpy
+Weapon: Harpy
+
+Name: Ione79
+Security: 2.4
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Taranis
+Weapon: Taranis
+
+Name: Shiri elAzarinres (laid the final blow)
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Blackbird
+Weapon: Thunderbolt Heavy Missile
+
+
+Destroyed items:
+
+Foxfire Rocket, Qty: 16
+'Malkuth' Rocket Launcher I
+'Malkuth' Rocket Launcher I
+'Repose' I Core Compensation
+100mm Reinforced Rolled Tungsten Plates I
+Phalanx Rocket, Qty: 20 (Cargo)
+

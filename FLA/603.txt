@@ -1,0 +1,19 @@
+2007.02.12 19:22
+
+Victim: Cans Unleashed
+Alliance: None
+Corp: Republic Military School
+Destroyed: Capsule
+System: I30-3A
+Security: 0.0
+
+Involved parties:
+
+Name: Teck7 (laid the final blow)
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ares
+Weapon: 125mm Railgun II
+
+

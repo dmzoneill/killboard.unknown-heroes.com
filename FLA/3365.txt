@@ -1,0 +1,118 @@
+2007.03.24 22:39
+
+Victim: Lynndia
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Destroyed: Drake
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Spacebar
+Security: 2.1
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Sleipnir
+Weapon: Sleipnir
+
+Name: Ferocious FeAr
+Security: 1.5
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Nighthawk
+Weapon: Scourge Fury Heavy Missile
+
+Name: Redginald (laid the final blow)
+Security: 4.5
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Hurricane
+Weapon: 425mm AutoCannon II
+
+Name: Grantavious
+Security: 2.6
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Eagle
+Weapon: Eagle
+
+Name: Ale Tricio
+Security: 2.2
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Curse
+Weapon: Valkyrie II
+
+Name: Eleese
+Security: -0.8
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Eos
+Weapon: Eos
+
+Name: Cassidy Yates
+Security: -0.7
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Absolution
+Weapon: Warrior II
+
+Name: Stuart Ward
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Wolf
+Weapon: Wolf
+
+Name: Ant5010
+Security: 1.7
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Enyo
+Weapon: Enyo
+
+Name: Olli
+Security: -0.1
+Alliance: S.E.R.A
+Corp: Seraphin Technologies
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Genrom
+Security: 4.5
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Ishtar
+Weapon: Ogre II
+
+Name: MIGHTYDWC
+Security: 4.7
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Taranis
+Weapon: Warp Disruptor II
+
+Name: 50 Isk
+Security: 1.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Rook
+Weapon: ECM - White Noise Generator II
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 28
+Havoc Heavy Missile, Qty: 14
+Widowmaker Heavy Missile, Qty: 14
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+'Anointed' I EM Ward Reinforcement
+Remote Sensor Dampener I
+Ballistic Control System I
+Havoc Heavy Missile, Qty: 2916 (Cargo)
+Thunderbolt Heavy Missile, Qty: 124 (Cargo)
+

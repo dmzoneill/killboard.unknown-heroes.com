@@ -1,0 +1,42 @@
+2006.12.12 16:38
+
+Victim: Mokh'Tar
+Alliance: Freelancer Alliance
+Corp: Caldar Mercenary Syndicate
+Destroyed: Blackbird
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: kojackUcigashu (laid the final blow)
+Security: 4.7
+Alliance: Kith of Venal
+Corp: Solidline Enterprise
+Ship: Megathron
+Weapon: Ion Blaster Cannon II
+
+Name: Ahile
+Security: 3.4
+Alliance: Kith of Venal
+Corp: Solidline Enterprise
+Ship: Dominix
+Weapon: Dominix
+
+Name: Syox
+Security: -0.5
+Alliance: Kith of Venal
+Corp: Solidline Enterprise
+Ship: Dominix
+Weapon: Faint Warp Prohibitor I
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 29
+Thunderbolt Heavy Missile, Qty: 29
+Heavy Missile Launcher I
+Initiated Multispectral ECM I
+Prototype I Sensor Booster
+Thunderbolt Heavy Missile, Qty: 250 (Cargo)
+

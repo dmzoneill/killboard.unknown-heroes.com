@@ -1,0 +1,34 @@
+2007.05.27 22:03
+
+Victim: Spartan dax
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Destroyed: Blackbird
+System: 93PI-4
+Security: 0.0
+
+Involved parties:
+
+Name: forever faithless (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Arbitrator
+Weapon: Hammerhead I
+
+
+Destroyed items:
+
+Widowmaker Heavy Missile, Qty: 72
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+10MN MicroWarpdrive I
+ECM - Spatial Destabilizer I
+ECM - Multispectral Jammer I
+ECM - Multispectral Jammer I
+ECM - Ion Field Projector I
+Signal Distortion Amplifier I
+Signal Distortion Amplifier I
+Scourge Heavy Missile, Qty: 641 (Cargo)
+Widowmaker Heavy Missile, Qty: 171 (Cargo)
+

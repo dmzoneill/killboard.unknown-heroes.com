@@ -1,0 +1,51 @@
+2006.12.30 15:53
+
+Victim: Kisgardjr
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Destroyed: Rifter
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: WarGod
+Security: 1.2
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: xlop
+Security: -1.1
+Alliance: None
+Corp: omen.
+Ship: Typhoon
+Weapon: XT-9000 Cruise Launcher
+
+Name: Murdoch Morf (laid the final blow)
+Security: 1.4
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Rupture
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: taylor04
+Security: -0.5
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Curse
+Weapon: Valkyrie II
+
+
+Destroyed items:
+
+200mm AutoCannon I
+200mm AutoCannon I
+200mm AutoCannon I
+Small Nosferatu I
+Proton S, Qty: 95
+1MN MicroWarpdrive I
+Stasis Webifier I
+Invulnerability Field I
+

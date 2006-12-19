@@ -1,0 +1,23 @@
+2006.08.10 19:49
+
+Victim: CorpPunishment
+Alliance: Knights Of the Southerncross
+Corp: A.W.M
+Destroyed: Badger Mark II
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Carl tabot (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Raven
+Weapon: Cataclysm Fury Cruise Missile
+
+
+Destroyed items:
+
+Medium Shield Booster I
+

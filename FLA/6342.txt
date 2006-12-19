@@ -1,0 +1,106 @@
+2006.11.12 17:16
+
+Victim: Ben'Garran
+Alliance: None
+Corp: Ministry of War
+Destroyed: Apocalypse
+System: KLY-C0
+Security: 0.0
+
+Involved parties:
+
+Name: Mezikk
+Security: 0.3
+Alliance: Dusk and Dawn
+Corp: Infinite Improbability Inc
+Ship: Ishkur
+Weapon: Light Ion Blaster II
+
+Name: Infestor (laid the final blow)
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Absolution
+Weapon: Heavy Pulse Laser II
+
+Name: Munch
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Zealot
+Weapon: Zealot
+
+Name: W4RR10R
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: HazaMonZo
+Security: 1.1
+Alliance: Dusk and Dawn
+Corp: Infinite Improbability Inc
+Ship: Crow
+Weapon: 'Arbalest' Rocket Launcher I
+
+Name: geewiz
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Eagle
+Weapon: Sabretooth Light Missile
+
+Name: sulky
+Security: 0.5
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Retribution
+Weapon: Retribution
+
+Name: Groes Thir
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Taranis
+Weapon: Taranis
+
+Name: casama
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Heretic
+Weapon: Heretic
+
+Name: Moominer
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Curse
+Weapon: Hammerhead II
+
+Name: Milkminer
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Curse
+Weapon: Hammerhead II
+
+
+Destroyed items:
+
+Dual Modulated Heavy Energy Beam I
+Heavy Diminishing Power System Drain I
+Heavy Diminishing Power System Drain I
+Standard L
+Standard L
+Standard L
+Large Shield Booster I
+Warp Scrambler I
+Fleeting Propulsion Inhibitor I
+Heavy F-RX Prototype I Capacitor Boost
+Damage Control I
+'Halcyon' Core Equalizer I
+1600mm Reinforced Rolled Tungsten Plates I
+Vespa I (Drone Bay)
+

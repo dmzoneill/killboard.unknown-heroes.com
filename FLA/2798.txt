@@ -1,0 +1,27 @@
+2007.03.08 13:40
+
+Victim: Marie Veedor
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Tristan
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: GoLdeN BoY (laid the final blow)
+Security: -1.0
+Alliance: None
+Corp: Zero.
+Ship: Dominix
+Weapon: Hobgoblin II
+
+
+Destroyed items:
+
+Small 'Knave' I Energy Drain
+1MN MicroWarpdrive I
+J5 Prototype Warp Inhibitor I
+'Langour' Drive Disruptor I
+Nanofiber Internal Structure I
+

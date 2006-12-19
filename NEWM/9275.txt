@@ -1,0 +1,19 @@
+2007.05.05 08:09
+
+Victim: Andy Beck
+Alliance: None
+Corp: State War Academy
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Mufeater (laid the final blow)
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Vexor
+Weapon: Anode Ion Particle Cannon I
+
+

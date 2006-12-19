@@ -1,0 +1,46 @@
+2007.04.14 19:41
+
+Victim: Ehxo
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Destroyed: Crow
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: wardey (laid the final blow)
+Security: 1.9
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Armageddon
+Weapon: Wasp I
+
+Name: Certech
+Security: 4.1
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Ship: Maelstrom
+Weapon: Vespa II
+
+Name: Falke
+Security: 2.1
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Capsule
+Weapon: Paradise Cruise Missile
+
+
+Destroyed items:
+
+Standard Missile Launcher II
+Standard Missile Launcher II
+Medium Shield Extender II
+1MN MicroWarpdrive II
+Micro Auxiliary Power Core I
+Beta Hull Mod Overdrive Injector
+X5 Prototype I Engine Enervator (Cargo)
+Bloodclaw Light Missile, Qty: 291 (Cargo)
+'Malkuth' Standard Missile Launcher I, Qty: 3 (Cargo)
+Overdrive Injector System I (Cargo)
+

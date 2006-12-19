@@ -1,0 +1,47 @@
+2007.03.02 00:13
+
+Victim: william kronos
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Capsule
+System: YZ-LQL
+Security: 0.0
+
+Involved parties:
+
+Name: fire 59 (laid the final blow)
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: LaughingClown
+Security: 1.2
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Rapier
+Weapon: Target Painter II
+
+Name: Lord WarATron
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Pilgrim
+Weapon: Fleeting Warp Scrambler I
+
+Name: Lizaa
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Reikoku
+Ship: Scorpion
+Weapon: ECM - Spatial Destabilizer II
+
+Name: Aschera
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Reikoku
+Ship: Sabre
+Weapon: 200mm AutoCannon II
+
+

@@ -1,0 +1,125 @@
+2007.03.18 20:18
+
+Victim: Primos Gun
+Alliance: YouWhat
+Corp: Princeps Corp
+Destroyed: Drake
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Chekoteh
+Security: 2.4
+Alliance: Freelancer Alliance
+Corp: United Forces
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery I
+
+Name: De'Zori
+Security: 5.0
+Alliance: Insane Asylum
+Corp: PILGRIMS
+Ship: Unknown
+Weapon: Raven
+
+Name: Arbitrus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Ship: Scorpion
+Weapon: Paradise Cruise Missile
+
+Name: reddaz (laid the final blow)
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Crusader
+Weapon: Dual Light Beam Laser I
+
+Name: Lucy Fire1
+Security: -0.4
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Dominix
+Weapon: Vespa II
+
+Name: Mr Omniblivion
+Security: -0.9
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Ship: Harbinger
+Weapon: Harbinger
+
+Name: mr passie
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: Denaris1
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Harpy
+Weapon: Harpy
+
+Name: Ilvarin Brui
+Security: 3.4
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: Tregaron
+Security: 2.3
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Stiletto
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+Name: Indigo Callypso
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Crow
+Weapon: Fleeting Warp Scrambler I
+
+Name: Dire Guristas Nullifier / Guristas
+
+Name: truefranco
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Rapier
+Weapon: 650mm Artillery Cannon II
+
+
+Destroyed items:
+
+Hellfire Rage Assault Missile, Qty: 32
+Torrent Rage Assault Missile, Qty: 20
+Heavy Assault Missile Launcher II
+Heavy Assault Missile Launcher II
+Heavy Assault Missile Launcher II
+Heavy Assault Missile Launcher II
+Y-T8 Overcharged Hydrocarbon I Microwarpdrive
+Warp Disruptor I
+Heat Dissipation Field I
+Ballistic Deflection Field I
+Invulnerability Field I
+Mark I Modified SS Nanofiber Structure
+Power Diagnostic System I
+Damage Control I (Cargo)
+Non-Inertial Ballistic Screen Augmentation I (Cargo)
+Invulnerability Field I (Cargo)
+Ditrigonal Thermal Barrier Crystallization I (Cargo)
+Large 'Solace' I Remote Bulwark Reconstruction (Cargo)
+'Arbalest' Cruise Launcher I, Qty: 2 (Cargo)
+'Limos' Cruise Launcher I (Cargo)
+Torrent Rage Assault Missile, Qty: 106 (Cargo)
+Hellfire Javelin Assault Missile, Qty: 499 (Cargo)
+Terror Assault Missile, Qty: 958 (Cargo)
+Acolyte I, Qty: 4 (Drone Bay)
+

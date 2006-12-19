@@ -1,0 +1,46 @@
+2007.01.11 20:43
+
+Victim: Muad' Dib
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Destroyed: Raptor
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Arnold Swartzenegger (laid the final blow)
+Security: 0.0
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+Name: MAD D0G
+Security: -1.3
+Alliance: None
+Corp: Caldari Provisions
+Ship: Crow
+Weapon: Faint Warp Prohibitor I
+
+Name: DHB WildCat
+Security: -1.2
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Warrior II
+
+
+Destroyed items:
+
+75mm Gatling Rail II
+Bloodclaw Light Missile, Qty: 75
+Standard Missile Launcher I
+1MN MicroWarpdrive I
+Fleeting Warp Scrambler I
+X5 Prototype I Engine Enervator
+Nanofiber Internal Structure I
+Local Power Plant Manager: Capacity Power Relay I
+Local Power Plant Manager: Capacity Power Relay I
+Lead Charge S, Qty: 571 (Cargo)
+

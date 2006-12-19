@@ -1,0 +1,42 @@
+2007.02.28 20:45
+
+Victim: Jorax
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Ishkur
+System: YZ-LQL
+Security: 0.0
+
+Involved parties:
+
+Name: MilaNoCZ (laid the final blow)
+Security: 5.0
+Alliance: Xelas Alliance
+Corp: Rytiri Lva
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: norman protector
+Security: 5.0
+Alliance: Xelas Alliance
+Corp: Fallen Angel's
+Ship: Vexor
+Weapon: Anode Light Neutron Particle Cannon I
+
+Name: Fjury
+Security: 5.0
+Alliance: Xelas Alliance
+Corp: Rytiri Lva
+Ship: Thrasher
+Weapon: Thrasher
+
+
+Destroyed items:
+
+Small Nosferatu I
+Light Ion Blaster I
+Antimatter Charge S, Qty: 146
+1MN MicroWarpdrive I
+Stasis Webifier I
+Energized Adaptive Nano Membrane I
+Warrior I, Qty: 2 (Drone Bay)

@@ -1,0 +1,60 @@
+2007.04.02 15:30
+
+Victim: Cabadrin
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Destroyed: Ishkur
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Cho Solo (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Deimos
+Weapon: Limited Neutron Blaster I
+
+Name: Wicked Pissah
+Security: 1.1
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Capsule
+Weapon: Heavy Pulse Laser I
+
+Name: marakudi
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Crow
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+Name: Sheriff Badden
+Security: 0.5
+Alliance: Amen Anera
+Corp: Legion Federation
+Ship: Capsule
+Weapon: Dual Light Pulse Laser I
+
+Name: nye 2k
+Security: 5.0
+Alliance: None
+Corp: Silver Snake Enterprise
+Ship: Unknown
+Weapon: Induced Multispectral ECM I
+
+
+Destroyed items:
+
+150mm Railgun II
+150mm Railgun II
+Iridium Charge S, Qty: 57
+Monopropellant I Hydrazine Boosters
+Warp Disruptor I
+Small Armor Repairer II
+Micro Auxiliary Power Core I
+Antimatter Charge S, Qty: 592 (Cargo)
+Uranium Charge S, Qty: 734 (Cargo)
+Hornet II (Drone Bay)
+

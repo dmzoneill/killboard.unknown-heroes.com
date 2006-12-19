@@ -1,0 +1,26 @@
+2006.11.05 05:04
+
+Victim: Redflare
+Alliance: None
+Corp: Deep Core Mining Inc.
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Gamesguy (laid the final blow)
+Security: -1.1
+Alliance: O X I D E
+Corp: Reunited
+Ship: Malediction
+Weapon: Gatling Pulse Laser II
+
+Name: DevilSlayer
+Security: 4.0
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Curse
+Weapon: E50 Prototype Energy Vampire
+
+

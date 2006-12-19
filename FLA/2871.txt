@@ -1,0 +1,42 @@
+2007.03.13 12:26
+
+Victim: Jillian Cross
+Alliance: Freelancer Alliance
+Corp: United Forces
+Destroyed: Drake
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Mjabi
+Security: 0.0
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Absolution
+Weapon: Absolution
+
+Name: Dire Guristas Demolisher / Guristas
+
+Name: Tjakka (laid the final blow)
+Security: 0.7
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Arazu
+Weapon: Hammerhead I
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 16
+'Malkuth' Heavy Missile Launcher I
+Advanced 'Limos' Heavy Missile Bay I
+Large Shield Extender I
+Large Shield Extender I
+Ballistic Deflection Field I
+Ballistic Deflection Field I
+Additional Thermal Barrier Emitter I
+Additional Thermal Barrier Emitter I
+Ballistic Control System I
+Ballistic Control System I
+

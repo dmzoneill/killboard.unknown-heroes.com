@@ -1,0 +1,30 @@
+2007.03.28 19:40
+
+Victim: Bobby Atlas
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Rifter
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Diego Barbera (laid the final blow)
+Security: -0.2
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+
+Destroyed items:
+
+200mm AutoCannon I
+200mm AutoCannon I
+Phased Plasma S, Qty: 64
+Depleted Uranium S, Qty: 98
+'Arbalest' Standard Missile Launcher
+1MN Afterburner I
+Warp Disruptor I
+Nanofiber Internal Structure I
+

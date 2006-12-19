@@ -1,0 +1,26 @@
+2007.05.14 13:40
+
+Victim: 77scout77
+Alliance: None
+Corp: Perkone
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Marie Veedor (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Thorax
+Weapon: 250mm Compressed Coil Gun I
+
+Name: wardey
+Security: 0.6
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Punisher
+Weapon: Punisher
+
+

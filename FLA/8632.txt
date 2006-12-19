@@ -1,0 +1,33 @@
+2006.12.03 23:24
+
+Victim: SleepyOSU
+Alliance: Freelancer Alliance
+Corp: Sin-X Inc.
+Destroyed: Brutix
+System: Torrinos
+Security: 0.5
+
+Involved parties:
+
+Name: burning raven (laid the final blow)
+Security: 5.0
+Alliance: None
+Corp: omen.
+Ship: Unknown
+Weapon: Scourge Fury Heavy Missile
+
+
+Destroyed items:
+
+Heavy Electron Blaster I
+Heavy Ion Blaster I
+Antimatter Charge M, Qty: 741
+10MN Afterburner I
+Stasis Webifier I
+Medium Capacitor Booster I
+Medium Automated I Carapace Restoration
+Medium Automated I Carapace Restoration
+Armor Explosive Hardener I
+Antimatter Charge M, Qty: 646 (Cargo)
+Cap Booster 800, Qty: 10 (Cargo)
+

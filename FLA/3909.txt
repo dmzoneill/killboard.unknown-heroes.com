@@ -1,0 +1,47 @@
+2007.04.05 21:41
+
+Victim: Prncess Allie
+Alliance: None
+Corp: Federal Navy Academy
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Steven FSB
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Harpy
+Weapon: Harpy
+
+Name: Untamed Fury (laid the final blow)
+Security: 1.2
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Hurricane
+Weapon: 720mm Howitzer Artillery II
+
+Name: Penal Serge
+Security: 5.0
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Drake
+Weapon: Warrior II
+
+Name: alon blackhelm
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Myrmidon
+Weapon: Heavy Electron Blaster II
+
+Name: Lee Thrace
+Security: 5.0
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Lachesis
+Weapon: Warp Disruptor II
+
+

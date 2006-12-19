@@ -1,0 +1,137 @@
+2006.06.26 21:37
+
+Victim: Heimdal
+Alliance: Free Space Alliance
+Corp: New Light
+Destroyed: Ferox
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Mcwlad
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Ship: Absolution
+Weapon: Heavy Beam Laser II
+
+Name: DARKLING
+Security: 5.1
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Eagle
+Weapon: Eagle
+
+Name: TriggerHippy (laid the final blow)
+Security: 0.4
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Muninn
+Weapon: 425mm AutoCannon II
+
+Name: Alch3mik
+Security: 4.1
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Antonio Lupolian
+Security: 1.6
+Alliance: Dusk and Dawn
+Corp: Infinite Improbability Inc
+Ship: Crow
+Weapon: Crow
+
+Name: Loore
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Harpy
+Weapon: Harpy
+
+Name: Newcleus2000
+Security: 0.1
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Taranis
+Weapon: Taranis
+
+Name: freestrike
+Security: 5.8
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Flycatcher
+Weapon: Bloodclaw Light Missile
+
+Name: fincormack
+Security: 1.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Taranis
+Weapon: Taranis
+
+Name: Sealord
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Blackbird
+Weapon: Havoc Heavy Missile
+
+Name: Aquamundi
+Security: 2.8
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Enyo
+Weapon: 150mm Railgun II
+
+Name: TonFTP
+Security: 1.1
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: marcouk2
+Security: 3.4
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Taranis
+Weapon: Taranis
+
+Name: MentalM
+Security: 5.2
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Hawk
+Weapon: Hawk
+
+Name: Zentarion
+Security: 4.9
+Alliance: Cho-Arrim-Coalition
+Corp: Thundercats
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+
+Destroyed items:
+
+250mm Compressed Coil Gun I
+250mm Compressed Coil Gun I
+Plutonium Charge M, Qty: 40
+Bloodclaw Light Missile, Qty: 207
+SV-2000 Assault Missile Bay
+SV-2000 Assault Missile Bay
+Large Azeotropic Ward Salubrity I
+Medium C5-L Emergency Shield Overload I
+Warp Disruptor I, Qty: 3 (Cargo)
+Damage Control I (Cargo)
+250mm Compressed Coil Gun I (Cargo)
+Limited Light Neutron Blaster I (Cargo)
+Passive Targeting Array I (Cargo)
+Plutonium Charge M, Qty: 892 (Cargo)
+Ancillary Ballistic Screen Stabilizer I, Qty: 4 (Cargo)
+Heat Dissipation Amplifier I (Cargo)
+Widowmaker Heavy Missile, Qty: 1078 (Cargo)
+

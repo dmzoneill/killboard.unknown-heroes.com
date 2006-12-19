@@ -1,0 +1,35 @@
+2007.01.25 15:57
+
+Victim: Drako Invictus
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Destroyed: Crusader
+System: L-C3O7
+Security: 0.0
+
+Involved parties:
+
+Name: P1rate Dave
+Security: 0.9
+Alliance: None
+Corp: 0utbreak
+Ship: Typhoon
+Weapon: Bane Torpedo
+
+Name: kbullet (laid the final blow)
+Security: -2.2
+Alliance: None
+Corp: 0utbreak
+Ship: Malediction
+Weapon: Dual Light Beam Laser II
+
+
+Destroyed items:
+
+Dual Light Pulse Laser II
+Dual Light Pulse Laser II
+Dual Light Pulse Laser II
+Scorch S
+Scorch S
+1MN MicroWarpdrive II
+

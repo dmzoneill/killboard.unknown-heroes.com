@@ -1,0 +1,33 @@
+2007.01.30 14:36
+
+Victim: xinndo jagged
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Destroyed: Capsule
+System: X3-PBC
+Security: 0.0
+
+Involved parties:
+
+Name: rs spyder (laid the final blow)
+Security: -2.7
+Alliance: Shroud Of Darkness
+Corp: The Priory
+Ship: Taranis
+Weapon: Warrior II
+
+Name: maGz
+Security: 2.3
+Alliance: Shroud Of Darkness
+Corp: The Priory
+Ship: Ishtar
+Weapon: Dark Blood Warp Disruptor
+
+Name: Waywatcher
+Security: -1.6
+Alliance: Shroud Of Darkness
+Corp: The Priory
+Ship: Dominix
+Weapon: True Sansha Warp Disruptor
+
+

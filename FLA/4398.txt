@@ -1,0 +1,81 @@
+2007.04.09 02:35
+
+Victim: Logand Delta
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Destroyed: Tristan
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Redginald
+Security: 4.5
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Hurricane
+Weapon: Warrior II
+
+Name: ER0X
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Zealot
+Weapon: Zealot
+
+Name: END3R 101
+Security: -0.7
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Damnation
+Weapon: Damnation
+
+Name: Spacebar
+Security: 2.1
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: DrunkenOne (laid the final blow)
+Security: -0.5
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+Name: MIGHTYDWC
+Security: 4.7
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Myrmidon
+Weapon: Medium 'Ghoul' Energy Siphon I
+
+Name: Luthair StoneDog
+Security: -2.7
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Thanatos
+Weapon: Einherji
+
+Name: Karille
+Security: -1.6
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Maulus
+Weapon: Remote Sensor Dampener I
+
+
+Destroyed items:
+
+150mm 'Scout' I Accelerator Cannon
+Lead Charge S, Qty: 22
+Bloodclaw Light Missile, Qty: 34
+Standard Missile Launcher I
+Compulsive Multispectral ECM I
+Nanoelectrical Co-Processor I
+Beta Reactor Control: Diagnostic System I
+Plutonium Charge S, Qty: 100 (Cargo)
+Tungsten Charge S, Qty: 300 (Cargo)
+Warrior I (Drone Bay)
+

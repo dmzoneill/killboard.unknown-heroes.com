@@ -1,0 +1,53 @@
+2007.03.21 05:38
+
+Victim: Chingu
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Destroyed: Crusader
+System: MJYW-3
+Security: 0.0
+
+Involved parties:
+
+Name: death1023
+Security: 3.0
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Drake
+Weapon: Widowmaker Heavy Missile
+
+Name: BlackIce68 (laid the final blow)
+Security: 5.0
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: KriegDrachen
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Sabre
+Weapon: 150mm Light AutoCannon II
+
+Name: Cubic
+Security: 1.8
+Alliance: The Sundering
+Corp: ironwood ink
+Ship: Dominix
+Weapon: Warp Disruptor I
+
+
+Destroyed items:
+
+Dual Light Pulse Laser II
+Dual Light Pulse Laser II
+Dual Light Pulse Laser II
+Ultraviolet S
+Ultraviolet S
+Ultraviolet S
+Ultraviolet S
+1MN MicroWarpdrive I
+Small Armor Repairer II
+Beta Reactor Control: Diagnostic System I
+

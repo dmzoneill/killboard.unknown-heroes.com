@@ -1,0 +1,26 @@
+2007.04.21 01:33
+
+Victim: sparkvolt
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Destroyed: Rifter
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Admentus Cor'vion (laid the final blow)
+Security: -0.5
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Ishtar
+Weapon: Ogre II
+
+
+Destroyed items:
+
+Small Nosferatu I
+'Malkuth' Standard Missile Launcher I
+Warp Scrambler I
+Piranha Light Missile, Qty: 458 (Cargo)
+

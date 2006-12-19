@@ -1,0 +1,32 @@
+2007.03.12 01:26
+
+Victim: digital oxygen
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Destroyed: Deimos
+System: XZH-4X
+Security: 0.0
+
+Involved parties:
+
+Name: Minmatar Control Tower / Federation of Synthetic Persons (laid the final blow)
+
+
+Destroyed items:
+
+Heavy Electron Blaster II
+Heavy Electron Blaster II
+Null M, Qty: 800
+Phased Muon Sensor Disruptor I
+Medium Armor Repairer II
+Magnetic Field Stabilizer II
+Energized Adaptive Nano Membrane II
+Microcell Nanite Explosive Hardener I
+Electron Blaster Cannon II (Cargo)
+Berserker II, Qty: 2 (Cargo)
+Praetor II (Cargo)
+Warrior II, Qty: 3 (Cargo)
+Infiltrator II (Cargo)
+Hammerhead II (Cargo)
+Valkyrie II, Qty: 3 (Drone Bay)
+

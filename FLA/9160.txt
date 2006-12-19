@@ -1,0 +1,44 @@
+2007.05.02 00:13
+
+Victim: Hughwasit
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Kestrel
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Corovus (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Nemesis
+Weapon: Cataclysm Cruise Missile
+
+Name: Jin Steele
+Security: 2.3
+Alliance: Imperial Republic Of the North
+Corp: Port Royal Independent Kontractors
+Ship: Capsule
+Weapon: 720mm Howitzer Artillery II
+
+Name: Galaxyes
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: VentureCorp
+Ship: Rook
+Weapon: Heavy Missile Launcher II
+
+
+Destroyed items:
+
+Sabretooth Light Missile, Qty: 40
+Gremlin Rocket, Qty: 30
+OE-5200 Rocket Launcher
+Standard Missile Launcher I
+1MN Afterburner I
+Stasis Webifier I
+Power Diagnostic System I
+Sabretooth Light Missile, Qty: 423 (Cargo)
+

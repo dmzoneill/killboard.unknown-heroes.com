@@ -1,0 +1,71 @@
+2007.04.20 06:47
+
+Victim: Simon Monkoto
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Scorpion
+System: Perimeter
+Security: 1.0
+
+Involved parties:
+
+Name: Audemed
+Security: 0.0
+Alliance: Privateer Alliance
+Corp: Wraiths Reborn
+Ship: Stabber Fleet Issue
+Weapon: Stabber Fleet Issue
+
+Name: Stone Burner
+Security: 1.2
+Alliance: Privateer Alliance
+Corp: Privateers
+Ship: Celestis
+Weapon: Celestis
+
+Name: ae1 (laid the final blow)
+Security: 0.7
+Alliance: Privateer Alliance
+Corp: The IMorral MAjority
+Ship: Scorpion
+Weapon: Paradise Cruise Missile
+
+Name: Aarete
+Security: 0.6
+Alliance: Privateer Alliance
+Corp: Association Of United Bastards
+Ship: Thorax
+Weapon: Medium 'Knave' I Energy Drain
+
+Name: Bipo
+Security: 0.0
+Alliance: Privateer Alliance
+Corp: Association Of United Bastards
+Ship: Thorax
+Weapon: Light Neutron Blaster II
+
+Name: Baji Core
+Security: 2.3
+Alliance: Privateer Alliance
+Corp: Privateers
+Ship: Myrmidon
+Weapon: Warp Disruptor II
+
+
+Destroyed items:
+
+Large Graviton Smartbomb I
+Wrath Cruise Missile, Qty: 42
+'Limos' Cruise Launcher I
+Induced Multispectral ECM I
+Induced Multispectral ECM I
+Induced Multispectral ECM I
+Induced Multispectral ECM I
+Prototype I Sensor Booster
+Prototype I Sensor Booster
+Induced Signal Distortion Amplifier I
+Local Power Plant Manager: Diagnostic System I
+Local Power Plant Manager: Diagnostic System I
+Hammerhead II (Cargo)
+Wrath Cruise Missile, Qty: 709 (Cargo)
+

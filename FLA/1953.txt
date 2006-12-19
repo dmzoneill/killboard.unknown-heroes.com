@@ -1,0 +1,37 @@
+2007.01.12 18:01
+
+Victim: Toxic Traveller
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Destroyed: Caracal
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: ETS4ME (laid the final blow)
+Security: 0.7
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Wrath Cruise Missile
+
+Name: Crucifier
+Security: 0.3
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+
+Destroyed items:
+
+Thunderbolt Heavy Missile, Qty: 51
+Scourge Heavy Missile, Qty: 26
+Heat Dissipation Amplifier I
+Target Painter I
+Type-D Power Core Modification: Shield Flux
+Type-D Power Core Modification: Shield Flux
+Scourge Heavy Missile, Qty: 183 (Cargo)
+Widowmaker Heavy Missile, Qty: 80 (Cargo)
+

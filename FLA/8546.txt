@@ -1,0 +1,26 @@
+2006.11.26 17:23
+
+Victim: noba
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Destroyed: Capsule
+System: Esubara
+Security: 0.2
+
+Involved parties:
+
+Name: Rheinkraft (laid the final blow)
+Security: -8.3
+Alliance: None
+Corp: The Sausage Smuggling Syndicate
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Harvey Skywarker
+Security: -10.0
+Alliance: None
+Corp: The Sausage Smuggling Syndicate
+Ship: Sacrilege
+Weapon: Focused Medium Pulse Laser II
+
+

@@ -1,0 +1,38 @@
+2007.02.03 13:29
+
+Victim: nightshade81
+Alliance: None
+Corp: Deep Core Mining Inc.
+Destroyed: Thorax
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: MrMaggot (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Thanatos
+Weapon: Einherji
+
+Name: jacass66
+Security: 5.0
+Alliance: None
+Corp: BGG
+Ship: Thanatos
+Weapon: Einherji
+
+
+Destroyed items:
+
+Small Tractor Beam I
+Large Subordinate Screen Stabilizer I
+Damage Control I
+Medium Armor Repairer I
+Warp Core Stabilizer I
+Emergency Damage Control I (Cargo)
+Beta Reactor Control: Reaction Control I (Cargo)
+Beta Reactor Control: Shield Flux I (Cargo)
+Hammerhead I (Drone Bay)
+

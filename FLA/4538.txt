@@ -1,0 +1,26 @@
+2007.04.13 16:18
+
+Victim: RayTruz
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Capsule
+System: F7C-H0
+Security: 0.0
+
+Involved parties:
+
+Name: Magnelien
+Security: 4.5
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Flycatcher
+Weapon: Bloodclaw Light Missile
+
+Name: Barak Smaug (laid the final blow)
+Security: 4.7
+Alliance: YouWhat
+Corp: Cosmic Odyssey
+Ship: Hurricane
+Weapon: 220mm Vulcan AutoCannon II
+
+

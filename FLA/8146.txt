@@ -1,0 +1,55 @@
+2006.10.18 08:19
+
+Victim: Lkin Kce
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Destroyed: Badger Mark II
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Sith Bandon (laid the final blow)
+Security: 0.1
+Alliance: Process of Elimination
+Corp: Viper  Squad
+Ship: Arazu
+Weapon: 250mm Railgun II
+
+Name: EMP0RIA
+Security: 3.5
+Alliance: Process of Elimination
+Corp: Viper  Squad
+Ship: Cerberus
+Weapon: Scourge Heavy Missile
+
+Name: Penelope Grey
+Security: 2.5
+Alliance: Process of Elimination
+Corp: Viper  Squad
+Ship: Crow
+Weapon: Piranha Light Missile
+
+
+Destroyed items:
+
+Medium Shield Extender I
+10MN Afterburner I
+Warp Core Stabilizer I
+Warp Core Stabilizer I
+Large F-S9 Regolith Shield Induction, Qty: 16 (Cargo)
+Eutectic I Capacitor Charge Array, Qty: 8 (Cargo)
+Initiated Harmonic Warp Jammer I (Cargo)
+350mm Railgun I, Qty: 90 (Cargo)
+350mm Carbide Railgun I, Qty: 8 (Cargo)
+V-M15 Braced Multispectral Shield Matrix (Cargo)
+Hornet I, Qty: 2 (Cargo)
+Ballistic Control System I (Cargo)
+Guristas Silver Tag (Cargo)
+'Arbalest' Cruise Launcher I, Qty: 3 (Cargo)
+'Arbalest' Siege Missile Launcher (Cargo)
+Power Diagnostic System I, Qty: 3 (Cargo)
+Beta Reactor Control: Capacitor Power Relay I, Qty: 6 (Cargo)
+Local Power Plant Manager: Reaction Control I, Qty: 3 (Cargo)
+Beta Reactor Control: Reaction Control I, Qty: 4 (Cargo)
+

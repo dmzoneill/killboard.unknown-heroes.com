@@ -1,0 +1,19 @@
+2006.04.04 22:57
+
+Victim: TheBelgarion
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Draycar Hazaran (laid the final blow)
+Security: 1.7
+Alliance: Ascendant Frontier
+Corp: eXceed Inc.
+Ship: Thrasher
+Weapon: 280mm Howitzer Artillery II
+
+

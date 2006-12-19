@@ -1,0 +1,38 @@
+2007.04.10 09:32
+
+Victim: Rohan V
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Caracal
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Sedith (laid the final blow)
+Security: 1.7
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Aeon
+Weapon: Firbolg
+
+Name: Ran Fujimiya
+Security: 0.5
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Eagle
+Weapon: Eagle
+
+
+Destroyed items:
+
+Torrent Assault Missile, Qty: 810
+Heavy Assault Missile Launcher I
+Heavy Assault Missile Launcher I
+Medium Subordinate Screen Stabilizer I
+Medium Clarity Ward Booster I
+Invulnerability Field I
+Mark I Generator Refitting: Diagnostic System
+Torrent Assault Missile, Qty: 1765 (Cargo)
+Warrior I (Drone Bay)
+

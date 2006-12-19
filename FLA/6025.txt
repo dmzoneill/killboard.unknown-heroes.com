@@ -1,0 +1,33 @@
+2006.11.06 09:27
+
+Victim: saltywood
+Alliance: None
+Corp: Federal Navy Academy
+Destroyed: Capsule
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Verild (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Rook
+Weapon: Bloodclaw Precision Light Missile
+
+Name: Noitaakka
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Ishtar
+Weapon: 'Hypnos' Multispectral ECM I
+
+Name: LC Sulla
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Cerberus
+Weapon: Heavy Missile Launcher II
+
+

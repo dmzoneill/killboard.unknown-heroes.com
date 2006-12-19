@@ -1,0 +1,49 @@
+2007.04.23 17:22
+
+Victim: Mocuker
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Destroyed: Caracal
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Screamer (laid the final blow)
+Security: 0.8
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Chimera
+Weapon: Einherji
+
+Name: Savak
+Security: 0.2
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Fitz Farseer
+Security: 0.5
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Rupture
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+
+Destroyed items:
+
+Flameburst Light Missile, Qty: 65
+Thunderbolt Heavy Missile, Qty: 58
+Advanced 'Limos' Heavy Missile Bay I
+SV-2000 Assault Missile Bay
+10MN MicroWarpdrive I
+'Langour' Drive Disruptor I
+1MN MicroWarpdrive I (Cargo)
+Initiated Warp Jammer I (Cargo)
+Small Nosferatu I (Cargo)
+Piranha Light Missile, Qty: 5000 (Cargo)
+Flameburst Light Missile, Qty: 1054 (Cargo)
+Thunderbolt Heavy Missile, Qty: 9723 (Cargo)
+Capacitor Power Relay I (Cargo)
+

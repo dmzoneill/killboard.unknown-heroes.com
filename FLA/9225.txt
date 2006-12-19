@@ -1,0 +1,54 @@
+2007.05.04 18:51
+
+Victim: Kvarium Ki
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Destroyed: Capsule
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Koshedei (laid the final blow)
+Security: 0.5
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Myrmidon
+Weapon: 250mm Railgun I
+
+Name: Castor GAC
+Security: -2.5
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Claw
+Weapon: Claw
+
+Name: mafutero
+Security: 0.2
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Crow
+Weapon: TE-2100 Standard Missile Bay
+
+Name: Sarinas
+Security: 1.5
+Alliance: YouWhat
+Corp: Pringles Inc.
+Ship: Stiletto
+Weapon: 150mm Light AutoCannon II
+
+Name: Rubens22
+Security: 2.7
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Ares
+Weapon: Upgraded 'Limos' Standard Missile Bay I
+
+Name: Norath84
+Security: 5.0
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Celestis
+Weapon: 150mm Railgun I
+
+

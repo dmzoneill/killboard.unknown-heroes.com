@@ -1,0 +1,35 @@
+2007.04.21 18:10
+
+Victim: Sha'ara Sha'amashira
+Alliance: Freelancer Alliance
+Corp: J.I.T. Enterprises
+Destroyed: Rifter
+System: K4YZ-Y
+Security: 0.0
+
+Involved parties:
+
+Name: Kuentai
+Security: -5.8
+Alliance: Corelum Syndicate
+Corp: Coreli Corporation
+Ship: Sabre
+Weapon: Sabre
+
+Name: The Splendour (laid the final blow)
+Security: 2.7
+Alliance: Corelum Syndicate
+Corp: Coreli Corporation
+Ship: Claw
+Weapon: 150mm Light AutoCannon II
+
+
+Destroyed items:
+
+Prototype Cloaking Device I
+Stasis Webifier I
+Small Armor Repairer I
+Warp Core Stabilizer I
+Inertia Stabilizers I
+Capacitor Power Relay I (Cargo)
+

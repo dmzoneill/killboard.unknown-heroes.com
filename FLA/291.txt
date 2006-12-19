@@ -1,0 +1,26 @@
+2007.01.22 13:55
+
+Victim: Beliala
+Alliance: Lotka Volterra
+Corp: UK Corp
+Destroyed: Capsule
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: ThomasXP
+Security: 2.7
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Griffin
+Weapon: Griffin
+
+Name: CENTUREAN (laid the final blow)
+Security: 3.2
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Ferox
+Weapon: Medium Rudimentary Concussion Bomb I
+
+

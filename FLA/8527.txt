@@ -1,0 +1,100 @@
+2006.11.26 05:10
+
+Victim: MonwrathDisortium
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Destroyed: Dominix
+System: M2-CF1
+Security: 0.0
+
+Involved parties:
+
+Name: EwokPoacher (laid the final blow)
+Security: -0.3
+Alliance: Anarchy Empire
+Corp: Nubs.
+Ship: Megathron
+Weapon: Neutron Blaster Cannon II
+
+Name: Agent 24
+Security: -0.2
+Alliance: None
+Corp: Mining Bytes Inc.
+Ship: Thorax
+Weapon: Thorax
+
+Name: SK Rooster
+Security: -2.4
+Alliance: Anarchy Empire
+Corp: Team Americas
+Ship: Megathron
+Weapon: Megathron
+
+Name: HOKO
+Security: -1.9
+Alliance: Anarchy Empire
+Corp: Nubs.
+Ship: Vexor
+Weapon: Valkyrie II
+
+Name: Kazuki Fuse
+Security: -1.4
+Alliance: Anarchy Empire
+Corp: Nubs.
+Ship: Dominix
+Weapon: Ogre I
+
+Name: Gromik
+Security: -3.0
+Alliance: None
+Corp: Mining Bytes Inc.
+Ship: Thrasher
+Weapon: Thrasher
+
+Name: Yoater
+Security: -2.9
+Alliance: None
+Corp: Mining Bytes Inc.
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: Deadly Huntress
+Security: -6.7
+Alliance: None
+Corp: Mining Bytes Inc.
+Ship: Retribution
+Weapon: Retribution
+
+Name: Weirda
+Security: -1.9
+Alliance: Anarchy Empire
+Corp: Queens of the Stone Age
+Ship: Claymore
+Weapon: Claymore
+
+Name: Akissej Retluoc
+Security: -2.8
+Alliance: None
+Corp: Mining Bytes Inc.
+Ship: Blackbird
+Weapon: ECM - Multispectral Jammer I
+
+
+Destroyed items:
+
+E500 Prototype Energy Vampire
+Heavy 'Knave' I Energy Drain
+Heavy 'Knave' I Energy Drain
+Phased Muon Sensor Disruptor I
+Phased Muon Sensor Disruptor I
+Phased Muon Sensor Disruptor I
+F-90 Positional Sensor Subroutines
+Medium Armor Repairer II
+Energized Adaptive Nano Membrane I
+1600mm Reinforced Rolled Tungsten Plates I
+Cap Booster 800, Qty: 12 (Cargo)
+Sensor Booster II (Cargo)
+Valkyrie II, Qty: 3 (Drone Bay)
+Hobgoblin II (Drone Bay)
+Heavy Armor Maintenance Bot I, Qty: 2 (Drone Bay)
+

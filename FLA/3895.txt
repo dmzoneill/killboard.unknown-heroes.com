@@ -1,0 +1,36 @@
+2007.04.05 04:22
+
+Victim: Jorela
+Alliance: None
+Corp: Eureka Industries
+Destroyed: Catalyst
+System: Hevrice
+Security: 0.4
+
+Involved parties:
+
+Name: Darc Kaahar (laid the final blow)
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Feel Good Inc.
+Ship: Enyo
+Weapon: Anode Light Ion Particle Cannon I
+
+Name: Serpentis Soldier / Serpentis Corporation
+
+
+Destroyed items:
+
+Regulated Light Neutron Phase Cannon I
+150mm 'Scout' I Accelerator Cannon
+125mm 'Scout' I Accelerator Cannon
+Light Ion Blaster I
+Uranium Charge S, Qty: 113
+Plutonium Charge S, Qty: 80
+Civilian Shield Booster I
+100mm Reinforced Steel Plates I
+100mm Reinforced Steel Plates I
+Small Shield Booster I (Cargo)
+Stasis Webifier I (Cargo)
+Mining Drone I (Drone Bay)
+

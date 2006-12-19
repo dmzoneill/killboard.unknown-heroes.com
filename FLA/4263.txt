@@ -1,0 +1,43 @@
+2007.04.05 18:42
+
+Victim: Vesspasiano
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Destroyed: Myrmidon
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: airspace (laid the final blow)
+Security: 2.9
+Alliance: None
+Corp: SpaceBalls Navy
+Ship: Myrmidon
+Weapon: Ogre II
+
+Name: stich626
+Security: -2.1
+Alliance: None
+Corp: SpaceBalls Navy
+Ship: Heretic
+Weapon: Medium Pulse Laser II
+
+Name: Morgan Redthorn
+Security: 2.3
+Alliance: None
+Corp: SpaceBalls Navy
+Ship: Blackbird
+Weapon: Compulsive Multispectral ECM I
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Medium Nosferatu I
+10MN MicroWarpdrive I
+Medium Electrochemical Capacitor Booster I
+Medium Automated I Carapace Restoration
+Armor Kinetic Hardener II
+Cap Booster 400, Qty: 13 (Cargo)
+

@@ -1,0 +1,30 @@
+2007.04.08 06:35
+
+Victim: Rev Darkwing
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Cormorant
+System: P-2TTL
+Security: 0.0
+
+Involved parties:
+
+Name: Rhayvn (laid the final blow)
+Security: 4.5
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Abaddon
+Weapon: Tachyon Beam Laser II
+
+
+Destroyed items:
+
+125mm Railgun I
+125mm Railgun I
+125mm Railgun I
+Thorium Charge S, Qty: 190
+Bloodclaw Light Missile, Qty: 28
+Standard Missile Launcher I
+Small Shield Booster I
+Sensor Booster I
+

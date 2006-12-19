@@ -1,0 +1,36 @@
+2007.03.21 05:47
+
+Victim: Skull Fire
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Badger
+System: QXW-PV
+Security: 0.0
+
+Involved parties:
+
+Name: Lorn Zolog (laid the final blow)
+Security: -0.8
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Harbinger
+Weapon: Heavy Pulse Laser II
+
+
+Destroyed items:
+
+1MN MicroWarpdrive I
+Warp Core Stabilizer I
+Large Shield Extender II, Qty: 3 (Cargo)
+1MN MicroWarpdrive I, Qty: 2 (Cargo)
+10MN MicroWarpdrive I (Cargo)
+Large 'Vehemence' I Shockwave Charge, Qty: 2 (Cargo)
+Large Rudimentary Concussion Bomb I, Qty: 2 (Cargo)
+Heavy Electrochemical Capacitor Booster I, Qty: 3 (Cargo)
+Juggernaut Torpedo, Qty: 2000 (Cargo)
+Praetor I (Cargo)
+Infiltrator II, Qty: 4 (Cargo)
+Cynosural Field Theory (Cargo)
+Warp Core Stabilizer I, Qty: 2 (Cargo)
+'Arbalest' Siege Missile Launcher, Qty: 8 (Cargo)
+

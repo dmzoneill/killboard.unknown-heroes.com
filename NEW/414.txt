@@ -1,0 +1,38 @@
+2007.03.22 08:00
+
+Victim: FlobbMkII
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Taranis
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Galaxor
+Security: 5.1
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Armageddon
+Weapon: Ogre II
+
+Name: Rasier (laid the final blow)
+Security: 4.7
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Crusader
+Weapon: Dual Light Pulse Laser II
+
+
+Destroyed items:
+
+Small Nosferatu I
+Light Neutron Blaster II, Qty: 2
+Void S, Qty: 62
+Catalyzed Cold-Gas I Arcjet Thrusters
+J5 Prototype Warp Inhibitor I
+'Langour' Drive Disruptor I
+Inertia Stabilizers I, Qty: 2
+J5b Phased Prototype Warp Inhibitor I (Cargo)
+Upgraded 'Limos' Standard Missile Bay I (Cargo)
+Hobgoblin II (Drone Bay)

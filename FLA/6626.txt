@@ -1,0 +1,26 @@
+2006.11.20 22:42
+
+Victim: Miss d1amond
+Alliance: None
+Corp: omen.
+Destroyed: Capsule
+System: RO0-AF
+Security: 0.0
+
+Involved parties:
+
+Name: Tri Ounou (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Stabber
+Weapon: Sabretooth Light Missile
+
+Name: Esk Esme
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+

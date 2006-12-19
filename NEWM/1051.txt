@@ -1,0 +1,114 @@
+2007.03.04 04:47
+
+Victim: Waterproof Freak
+Alliance: FATAL Alliance
+Corp: FATAL REVELATIONS
+Destroyed: Slasher
+System: C-N4OD
+Security: 0.0
+
+Involved parties:
+
+Name: Desas
+Security: 4.0
+Alliance: Sparta Alliance
+Corp: Black Knight Buccaneers
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: probablecause
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Infinite Improbability Inc
+Ship: Enyo
+Weapon: Enyo
+
+Name: UP LATE (laid the final blow)
+Security: 4.7
+Alliance: Dusk and Dawn
+Corp: Omega Enterprises
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+Name: Nukuquqa Hestase
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Catalyst
+Weapon: Catalyst
+
+Name: Teck7
+Security: 1.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ares
+Weapon: Flameburst Light Missile
+
+Name: jondow
+Security: 4.0
+Alliance: Sparta Alliance
+Corp: Lynx Frontier Inc.
+Ship: Kestrel
+Weapon: Standard Missile Launcher I
+
+Name: demotar
+Security: 3.5
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Hound
+Weapon: 'Limos' Cruise Launcher I
+
+Name: Simon Monkoto
+Security: 3.7
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Hawk
+Weapon: Standard Missile Launcher II
+
+Name: Renax
+Security: 2.9
+Alliance: Dusk and Dawn
+Corp: Omega Enterprises
+Ship: Sabre
+Weapon: 150mm Light AutoCannon II
+
+Name: KateLice
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: Lynx Frontier Inc.
+Ship: Rapier
+Weapon: X5 Prototype I Engine Enervator
+
+Name: Joe Blow
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Omega Enterprises
+Ship: Damnation
+Weapon: 'Arbalest' Heavy Missile Launcher
+
+Name: GS Armada
+Security: 3.4
+Alliance: Dusk and Dawn
+Corp: ECP Rogues
+Ship: Crow
+Weapon: TE-2100 Standard Missile Bay
+
+Name: EIectra
+Security: -1.4
+Alliance: Dusk and Dawn
+Corp: Decadence.
+Ship: Eris
+Weapon: Standard Missile Launcher II
+
+Name: Dark Carnage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Crow
+Weapon: X5 Prototype I Engine Enervator
+
+
+Destroyed items:
+
+Inertia Stabilizers I
+

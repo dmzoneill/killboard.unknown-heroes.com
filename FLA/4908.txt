@@ -1,0 +1,39 @@
+2007.04.19 19:54
+
+Victim: Melchior Drognah
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Tormentor
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: RuLuVdArR
+Security: 0.0
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Incursus
+Weapon: Incursus
+
+Name: Vlad Cetes (laid the final blow)
+Security: 4.7
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Raven
+Weapon: Juggernaut Torpedo
+
+Name: Elrid Barnes
+Security: 1.6
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Harpy
+Weapon: 125mm Carbide Railgun I
+
+
+Destroyed items:
+
+Salvager I, Qty: 36
+1MN MicroWarpdrive I
+Nanofiber Internal Structure I
+

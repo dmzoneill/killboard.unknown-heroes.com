@@ -1,0 +1,49 @@
+2007.03.30 23:01
+
+Victim: Max Teranous
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Destroyed: Claw
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: CDR Hallgimur (laid the final blow)
+Security: -4.4
+Alliance: Amen Anera
+Corp: Legion Federation
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Minisoza
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ishkur
+Weapon: Warrior II
+
+Name: Shagginator
+Security: -1.7
+Alliance: Amen Anera
+Corp: Legion Federation
+Ship: Unknown
+Weapon: Modal Mega Ion Particle Accelerator I
+
+
+Destroyed items:
+
+150mm Light AutoCannon II
+200mm AutoCannon II
+200mm AutoCannon II
+Barrage S, Qty: 34
+'Arbalest' Rocket Launcher I
+Faint Warp Prohibitor I
+F85 Peripheral Damage System I
+200mm Reinforced Rolled Tungsten Plates I
+Beta Hull Mod Overdrive Injector
+Large Shield Extender II (Cargo)
+EMP S, Qty: 2341 (Cargo)
+Tracking Enhancer II (Cargo)
+Barrage S, Qty: 1454 (Cargo)
+

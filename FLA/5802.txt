@@ -1,0 +1,61 @@
+2006.10.21 22:26
+
+Victim: Ballbess
+Alliance: R.I.S.K
+Corp: ReD eYe Inc.
+Destroyed: Tristan
+System: L-TS8S
+Security: 0.0
+
+Involved parties:
+
+Name: Hojo Norem (laid the final blow)
+Security: 2.8
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: RADEMAR
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Ship: Vengeance
+Weapon: 'Malkuth' Rocket Launcher I
+
+Name: Seventh Star
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Sabre
+Weapon: 250mm Light Artillery Cannon II
+
+Name: Mystical Angel
+Security: 4.2
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Harpy
+Weapon: 125mm Prototype I Gauss Gun
+
+Name: ISliverI
+Security: 4.7
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: Fugnut
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Crow
+Weapon: 'Limos' Rocket Launcher I
+
+
+Destroyed items:
+
+Light Ion Blaster I
+Antimatter Charge S, Qty: 120
+Small Armor Repairer I
+Antimatter Charge S, Qty: 760 (Cargo)
+

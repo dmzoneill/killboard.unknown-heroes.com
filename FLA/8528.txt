@@ -1,0 +1,33 @@
+2006.11.26 05:11
+
+Victim: Red Viper
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Destroyed: Capsule
+System: M2-CF1
+Security: 0.0
+
+Involved parties:
+
+Name: Elric Tvar
+Security: 1.1
+Alliance: Anarchy Empire
+Corp: Nubs.
+Ship: Falcon
+Weapon: 250mm Railgun II
+
+Name: Gromik (laid the final blow)
+Security: -3.0
+Alliance: None
+Corp: Mining Bytes Inc.
+Ship: Thrasher
+Weapon: 280mm Howitzer Artillery I
+
+Name: Deadly Huntress
+Security: -6.7
+Alliance: None
+Corp: Mining Bytes Inc.
+Ship: Retribution
+Weapon: Medium Pulse Laser II
+
+

@@ -1,0 +1,44 @@
+2006.11.03 21:17
+
+Victim: cceiber
+Alliance: Freelancer Alliance
+Corp: Feel Good Inc.
+Destroyed: Caracal
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Angel Vengen
+Security: 4.0
+Alliance: Freelancer Alliance
+Corp: Caldar Mercenary Syndicate
+Ship: Omen
+Weapon: Omen
+
+Name: Apoccolipse
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Wolf
+Weapon: 280mm Howitzer Artillery II
+
+Name: Swanny231 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Raven
+Weapon: Juggernaut Javelin Torpedo
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Scourge Heavy Missile, Qty: 60
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Photon Scattering Field I
+Sensor Booster I
+Scourge Heavy Missile, Qty: 180 (Cargo)
+

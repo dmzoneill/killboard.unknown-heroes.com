@@ -1,0 +1,104 @@
+2007.01.11 20:51
+
+Victim: MEISTERderPUPPEN
+Alliance: None
+Corp: Deep Core Mining Inc.
+Destroyed: Sabre
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: ClogMan (laid the final blow)
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Raven
+Weapon: Cataclysm Cruise Missile
+
+Name: Burn Lump
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Caracal
+Weapon: Widowmaker Heavy Missile
+
+Name: Korudon
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Maller
+Weapon: Warp Disruptor I
+
+Name: Xantheris
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Celestis
+Weapon: Remote Sensor Dampener I
+
+Name: Mokh'Tar
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: Caldar Mercenary Syndicate
+Ship: Blackbird
+Weapon: Sabretooth Light Missile
+
+Name: Ocara Nezus
+Security: 1.6
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Barkel
+Security: 0.4
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Scythe
+Weapon: 280mm Howitzer Artillery I
+
+Name: Vertigel Symorain
+Security: 0.7
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Tristan
+Weapon: Warp Disruptor I
+
+Name: Rhaall
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: X.T.R
+Ship: Crucifier
+Weapon: Warp Disruptor I
+
+Name: Inter Fectum
+Security: 1.5
+Alliance: Freelancer Alliance
+Corp: Sin-X Inc.
+Ship: Rifter
+Weapon: Rifter
+
+
+Destroyed items:
+
+125mm Light 'Scout' Autocannon I
+125mm Gatling AutoCannon II
+125mm Gatling AutoCannon II
+EMP S, Qty: 200
+Interdiction Sphere Launcher I
+'Langour' Drive Disruptor I
+'Langour' Drive Disruptor I
+400mm Reinforced Rolled Tungsten Plates I
+650mm Medium Gallium I Cannon (Cargo)
+E500 Prototype Energy Vampire (Cargo)
+EMP S, Qty: 305 (Cargo)
+Faint Phase Inversion ECM I (Cargo)
+Remote Sensor Dampener II, Qty: 2 (Cargo)
+Ballistic Control System II (Cargo)
+Cruise Missile Launcher II, Qty: 2 (Cargo)
+Advanced 'Limos' Heavy Missile Bay I, Qty: 4 (Cargo)
+XR-3200 Heavy Missile Bay (Cargo)
+Type-D Power Core Modification: Diagnostic System (Cargo)
+Mark I Generator Refitting: Diagnostic System (Cargo)
+

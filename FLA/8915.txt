@@ -1,0 +1,49 @@
+2006.12.19 05:25
+
+Victim: Darkspin
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Raven
+System: 5W3-DG
+Security: 0.0
+
+Involved parties:
+
+Name: Elfaen Ethenwe
+Security: -3.2
+Alliance: None
+Corp: Evil Bandit Organisation
+Ship: Rook
+Weapon: Heavy Missile Launcher II
+
+Name: Paltar (laid the final blow)
+Security: 0.2
+Alliance: None
+Corp: Evil Bandit Organisation
+Ship: Taranis
+Weapon: Light Neutron Blaster II
+
+
+Destroyed items:
+
+Juggernaut Torpedo, Qty: 15
+'Arbalest' Cruise Launcher I
+'Arbalest' Siege Missile Launcher
+'Arbalest' Siege Missile Launcher
+Small Tractor Beam I
+X-Large C5-L Emergency Shield Overload I
+X-Large C5-L Emergency Shield Overload I
+X-Large C5-L Emergency Shield Overload I
+X-Large C5-L Emergency Shield Overload I
+X-Large C5-L Emergency Shield Overload I
+F-S8 Relativistic Deflection Shield Induction
+Dread Guristas Magnetic Scattering Amplifier
+Muon Coil Bolt Array I
+Medium Shield Extender I (Cargo)
+Defender I, Qty: 100 (Cargo)
+Juggernaut Torpedo, Qty: 1081 (Cargo)
+Guristas Ship Log 534987422 (Cargo)
+Wrath Cruise Missile, Qty: 489 (Cargo)
+Hammerhead I, Qty: 2 (Drone Bay)
+Ogre I (Drone Bay)
+

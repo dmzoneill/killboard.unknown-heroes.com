@@ -1,0 +1,26 @@
+2007.01.17 06:45
+
+Victim: Ruckuss
+Alliance: None
+Corp: Deep Core Mining Inc.
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Xantheris (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: g3cko
+Security: -2.6
+Alliance: THE R0CK
+Corp: The Keep
+Ship: Crow
+Weapon: Standard Missile Launcher I
+
+

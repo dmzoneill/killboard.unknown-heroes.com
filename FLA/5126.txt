@@ -1,0 +1,37 @@
+2007.04.17 05:05
+
+Victim: Enochios
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Harbinger
+System: Jita
+Security: 0.9
+
+Involved parties:
+
+Name: Audemed (laid the final blow)
+Security: -2.0
+Alliance: Privateer Alliance
+Corp: Wraiths Reborn
+Ship: Armageddon
+Weapon: Wasp I
+
+
+Destroyed items:
+
+Heavy Pulse Laser II
+Heavy Pulse Laser II
+Heavy Pulse Laser II
+Heavy Pulse Laser II
+Conflagration M
+Conflagration M
+Conflagration M
+Conflagration M
+Warp Disruptor II
+Stasis Webifier I
+Supplemental Scanning CPU I
+Heat Sink II
+Heat Sink II
+Signal Amplifier I
+Signal Amplifier I
+

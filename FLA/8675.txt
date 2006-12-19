@@ -1,0 +1,19 @@
+2006.12.06 20:17
+
+Victim: Minesweeper
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Destroyed: Capsule
+System: YZ-LQL
+Security: 0.0
+
+Involved parties:
+
+Name: Toppar Wear (laid the final blow)
+Security: 2.2
+Alliance: Insurgency
+Corp: Celestial Apocalypse
+Ship: Taranis
+Weapon: 125mm Railgun II
+
+

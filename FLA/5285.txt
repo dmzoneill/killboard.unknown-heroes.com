@@ -1,0 +1,62 @@
+2007.04.23 17:29
+
+Victim: Dana Foxworth
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Thrasher
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Savak
+Security: 0.2
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: nyricia (laid the final blow)
+Security: 1.5
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Screamer
+Security: 0.8
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Chimera
+Weapon: Firbolg
+
+Name: Georgenator
+Security: -0.4
+Alliance: Lotka Volterra
+Corp: CRICE Corporation
+Ship: Kestrel
+Weapon: Standard Missile Launcher I
+
+Name: Aut Nihil
+Security: 0.1
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Kestrel
+Weapon: Standard Missile Launcher I
+
+
+Destroyed items:
+
+250mm Light Artillery Cannon I
+250mm Light Artillery Cannon I
+250mm Light Artillery Cannon I
+250mm Light Artillery Cannon I
+Fusion S, Qty: 104
+Sabretooth Light Missile, Qty: 40
+Standard Missile Launcher I
+1MN MicroWarpdrive I
+Small Brief Capacitor Overcharge I
+Cap Booster 200
+Nanofiber Internal Structure I
+Cap Booster 200, Qty: 9 (Cargo)
+

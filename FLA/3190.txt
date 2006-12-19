@@ -1,0 +1,42 @@
+2007.03.20 02:39
+
+Victim: Venkat Tulari
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Raven
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Vasili Z
+Security: 0.4
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: Lord Revent (laid the final blow)
+Security: 1.1
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Hurricane
+Weapon: 425mm AutoCannon II
+
+Name: Xoduse
+Security: 0.5
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Eris
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+
+Destroyed items:
+
+XT-9000 Cruise Launcher
+XT-9000 Cruise Launcher
+Small Tractor Beam I
+Warp Core Stabilizer I
+Ballistic Control System I
+Power Diagnostic System I
+

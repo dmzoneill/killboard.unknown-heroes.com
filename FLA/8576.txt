@@ -1,0 +1,51 @@
+2006.11.29 22:56
+
+Victim: Noitaakka
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Destroyed: Ishtar
+System: 9R4-EJ
+Security: 0.0
+
+Involved parties:
+
+Name: Valtaer
+Security: 4.0
+Alliance: Insurgency
+Corp: Celestial Apocalypse
+Ship: Eagle
+Weapon: Piranha Light Missile
+
+Name: Skorp (laid the final blow)
+Security: 2.6
+Alliance: Insurgency
+Corp: Celestial Apocalypse
+Ship: Vagabond
+Weapon: 425mm AutoCannon II
+
+Name: moregan
+Security: 2.0
+Alliance: Insurgency
+Corp: Celestial Apocalypse
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+
+Destroyed items:
+
+Medium Diminishing Power System Drain I
+Light Ion Blaster II
+Y-T8 Overcharged Hydrocarbon I Microwarpdrive
+Dread Guristas Warp Disruptor
+'Hypnos' Multispectral ECM I
+'Hypnos' Multispectral ECM I
+Internal Force Field Array I
+800mm Reinforced Crystalline Carbonide Plates I
+Void S, Qty: 1289 (Cargo)
+Vespa II, Qty: 2 (Drone Bay)
+Warrior II, Qty: 5 (Drone Bay)
+Ogre I, Qty: 2 (Drone Bay)
+Valkyrie II, Qty: 2 (Drone Bay)
+Berserker I, Qty: 2 (Drone Bay)
+Wasp I, Qty: 2 (Drone Bay)
+

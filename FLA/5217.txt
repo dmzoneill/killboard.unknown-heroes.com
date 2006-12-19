@@ -1,0 +1,19 @@
+2007.04.27 05:13
+
+Victim: Grape Juice
+Alliance: None
+Corp: Clandestine Vector
+Destroyed: Condor
+System: Aunenen
+Security: 0.4
+
+Involved parties:
+
+Name: The Cade (laid the final blow)
+Security: 1.9
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Brutix
+Weapon: Anode Neutron Particle Cannon I
+
+

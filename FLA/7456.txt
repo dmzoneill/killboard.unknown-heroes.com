@@ -1,0 +1,80 @@
+2006.09.06 02:07
+
+Victim: Turiya Flesharrower
+Alliance: None
+Corp: Beagle Corp
+Destroyed: Omen
+System: A4L-A2
+Security: 0.0
+
+Involved parties:
+
+Name: Traxex (laid the final blow)
+Security: 0.9
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Rupture
+Weapon: 720mm Howitzer Artillery II
+
+Name: Karnovsky
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Sabre
+Weapon: Sabre
+
+Name: steve gates
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Taranis
+Weapon: Warp Disruptor I
+
+Name: Valtaer
+Security: 3.5
+Alliance: Freelancer Alliance
+Corp: Terminal Velocity Inc.
+Ship: Capsule
+Weapon: TE-2100 Standard Missile Bay
+
+Name: Cobra Raider
+Security: -4.6
+Alliance: Imperial Republic Of the North
+Corp: Port Royal Independent Kontractors
+Ship: Vigil
+Weapon: Vigil
+
+Name: Inora Aknaria
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Incursus
+Weapon: Stasis Webifier I
+
+Name: Dingus Rx
+Security: 2.3
+Alliance: Imperial Republic Of the North
+Corp: Port Royal Independent Kontractors
+Ship: Taranis
+Weapon: Warp Disruptor I
+
+
+Destroyed items:
+
+Focused Medium Pulse Laser I
+Focused Medium Pulse Laser I
+Medium 'Knave' I Energy Drain
+Multifrequency M
+Multifrequency M
+J5 Prototype Warp Inhibitor I
+Stasis Webifier I
+Damage Control I
+Small Armor Repairer II
+Heat Sink I
+800mm Reinforced Steel Plates I
+Cap Recharger I (Cargo)
+Antimatter Charge M, Qty: 2000 (Cargo)
+Vespa I, Qty: 2 (Cargo)
+Ballistic Control System I (Cargo)
+Cruise Missile Launcher I, Qty: 5 (Cargo)
+

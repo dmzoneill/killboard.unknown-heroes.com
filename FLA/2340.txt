@@ -1,0 +1,44 @@
+2007.02.06 03:36
+
+Victim: DarkAvenger DK
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Blackbird
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Gilad Pellaeon
+Security: 4.7
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Pilgrim
+Weapon: Valkyrie II
+
+Name: Funky Feeling (laid the final blow)
+Security: 4.6
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Myrmidon
+Weapon: Wasp I
+
+Name: Sexual Chocolate
+Security: 2.5
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Taranis
+Weapon: Warrior II
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 78
+Heavy Missile Launcher I
+'Hypnos' Ion Field ECM I
+FZ-3 Subversive Spatial Destabilizer ECM
+Omni Positional ECCM Sensor System I
+Medium Armor Repairer I
+Power Diagnostic System I
+Scourge Heavy Missile, Qty: 982 (Cargo)
+

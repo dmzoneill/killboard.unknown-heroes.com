@@ -1,0 +1,106 @@
+2006.10.23 20:13
+
+Victim: LizzyD
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Destroyed: Dominix
+System: MI6O-6
+Security: 0.0
+
+Involved parties:
+
+Name: CDUB
+Security: 0.0
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Megathron
+Weapon: Megathron
+
+Name: Teani (laid the final blow)
+Security: 3.5
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: WarGod
+Security: -1.6
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Trebor Slater
+Security: 4.6
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Typhoon
+Weapon: Typhoon
+
+Name: NightWolfe
+Security: 5.0
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Tempest
+Weapon: Tempest
+
+Name: Ceapio
+Security: 5.0
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Malediction
+Weapon: Rocket Launcher II
+
+Name: Darknesss
+Security: -1.2
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Megathron
+Weapon: 425mm Railgun I
+
+Name: simcor
+Security: -1.9
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Falcon
+Weapon: ECM - Ion Field Projector II
+
+Name: boo3916
+Security: 4.1
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Raven
+Weapon: Siege Missile Launcher II
+
+Name: Pistonbroke
+Security: -2.0
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Scorpion
+Weapon: Heavy 'Ghoul' Energy Siphon I
+
+Name: Anominity
+Security: 4.7
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Apocalypse
+Weapon: Tachyon Beam Laser II
+
+
+Destroyed items:
+
+Heavy 'Knave' I Energy Drain
+Heavy 'Ghoul' Energy Siphon I
+Heavy 'Ghoul' Energy Siphon I
+Large Rudimentary Concussion Bomb I
+Small Tractor Beam I
+Eutectic I Capacitor Charge Array
+Prototype I Sensor Booster
+Drone Navigation Computer I
+Omnidirectional Tracking Link I
+Large 'Accommodation' Vestment Reconstructer I
+N-Type Kinetic Hardener I
+N-Type Thermic Hardener I
+N-Type Thermic Hardener I
+Wasp I, Qty: 9 (Drone Bay)
+

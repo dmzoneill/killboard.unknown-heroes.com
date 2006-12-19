@@ -1,0 +1,54 @@
+2007.05.03 03:41
+
+Victim: kanic
+Alliance: None
+Corp: Aliastra
+Destroyed: Megathron
+System: Aunenen
+Security: 0.4
+
+Involved parties:
+
+Name: ForeverKnight
+Security: -0.4
+Alliance: RAZOR Alliance
+Corp: Thundercats
+Ship: Typhoon
+Weapon: Wasp II
+
+Name: Fo Shizz
+Security: 0.4
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Typhoon
+Weapon: Heavy Nosferatu I
+
+Name: teeknuckles
+Security: -0.1
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Cyclone
+Weapon: Cyclone
+
+Name: Beirut Papa (laid the final blow)
+Security: 2.3
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Blackbird
+Weapon: Thunderbolt Heavy Missile
+
+Name: Guristas Silencer / Guristas
+
+Name: Koi Yokuma
+Security: 0.4
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Thorax
+Weapon: 150mm Railgun I
+
+
+Destroyed items:
+
+Drone Navigation (Cargo)
+'Arbalest' Cruise Launcher I, Qty: 2 (Cargo)
+

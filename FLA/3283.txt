@@ -1,0 +1,67 @@
+2007.03.22 19:13
+
+Victim: Janthor Elim
+Alliance: Freelancer Alliance
+Corp: United Forces
+Destroyed: Maller
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: XxAngelxX
+Security: -1.8
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Curse
+Weapon: Warrior II
+
+Name: Snuggles theTerrible
+Security: 5.0
+Alliance: Triumvirate.
+Corp: ViperSquad
+Ship: Vulture
+Weapon: Vulture
+
+Name: lt blacklotus
+Security: 0.8
+Alliance: Triumvirate.
+Corp: ViperSquad
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Sith Bandon
+Security: 5.0
+Alliance: Triumvirate.
+Corp: ViperSquad
+Ship: Ishtar
+Weapon: Ogre II
+
+Name: shots17
+Security: -1.3
+Alliance: Triumvirate.
+Corp: ViperSquad
+Ship: Zealot
+Weapon: Zealot
+
+Name: Alchem (laid the final blow)
+Security: 2.9
+Alliance: Triumvirate.
+Corp: ViperSquad
+Ship: Ishtar
+Weapon: Berserker II
+
+
+Destroyed items:
+
+200mm AutoCannon I
+200mm AutoCannon I
+200mm AutoCannon I
+Medium Nosferatu I
+Proton S, Qty: 96
+'Langour' Drive Disruptor I
+Medium I-a Polarized Armor Regenerator
+Voltaic Nanite Thermic Hardener I
+N-Type Kinetic Hardener I
+Proton S, Qty: 1900 (Cargo)
+

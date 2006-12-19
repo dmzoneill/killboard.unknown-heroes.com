@@ -1,0 +1,38 @@
+2006.11.21 07:11
+
+Victim: SleepyOSU
+Alliance: Freelancer Alliance
+Corp: Sin-X Inc.
+Destroyed: Ishkur
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: GoLdeN BoY (laid the final blow)
+Security: 1.8
+Alliance: None
+Corp: Beer Guzzling Clowns With Blasters
+Ship: Crusader
+Weapon: Medium Pulse Laser II
+
+Name: Evelyn Mulwray
+Security: 0.4
+Alliance: None
+Corp: Beer Guzzling Clowns With Blasters
+Ship: Taranis
+Weapon: Light Electron Blaster II
+
+Name: Guristas Supremacist / Guristas
+
+
+Destroyed items:
+
+Small Nosferatu I
+Small 'Knave' I Energy Drain
+1MN MicroWarpdrive I
+Small Armor Repairer II
+Radioisotope Thermic Hardener I
+N-Type Explosive Hardener I
+Hobgoblin I (Drone Bay)
+

@@ -1,0 +1,33 @@
+2007.04.14 21:49
+
+Victim: Jack Remeau
+Alliance: FATAL Alliance
+Corp: FATAL REVELATIONS
+Destroyed: Capsule
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Galliano Gazzimi (laid the final blow)
+Security: 2.7
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Zarkovich
+Security: 3.9
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Caracal
+Weapon: Havoc Heavy Missile
+
+Name: Vipereus
+Security: 2.9
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Vigil
+Weapon: Bloodclaw Light Missile
+
+

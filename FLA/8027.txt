@@ -1,0 +1,29 @@
+2006.10.06 05:28
+
+Victim: Ogrimm Surak
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Destroyed: Vexor
+System: Renyn
+Security: 0.9
+
+Involved parties:
+
+Name: Bfiend (laid the final blow)
+Security: 0.6
+Alliance: None
+Corp: Privateers
+Ship: Vexor
+Weapon: Vespa I
+
+
+Destroyed items:
+
+Small 'Knave' I Energy Drain
+Heavy Neutron Blaster I
+Iron Charge M, Qty: 144
+Stasis Webifier I
+Energized Reactive Membrane I
+Iron Charge M, Qty: 480 (Cargo)
+Hammerhead I, Qty: 3 (Drone Bay)
+

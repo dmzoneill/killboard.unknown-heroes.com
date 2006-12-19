@@ -1,0 +1,109 @@
+2007.02.27 16:26
+
+Victim: Donald Trump
+Alliance: None
+Corp: Temptation inc.
+Destroyed: Tempest
+System: 0V0R-R
+Security: 0.0
+
+Involved parties:
+
+Name: DarkAvenger DK
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Raven
+Weapon: Wrath Cruise Missile
+
+Name: Marie Veedor (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: JaiMaster
+Security: 2.6
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Typhoon
+Weapon: Dual 425mm AutoCannon II
+
+Name: Toxic Traveller
+Security: 4.4
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Raven
+Weapon: Juggernaut Torpedo
+
+Name: Zarkovich
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Taranis
+Weapon: Taranis
+
+Name: marakudi
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Drake
+Weapon: Warrior II
+
+Name: Remontoir
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Blackbird
+Weapon: Widowmaker Heavy Missile
+
+Name: EM00
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Caracal
+Weapon: Havoc Heavy Missile
+
+Name: Deathratt
+Security: 4.7
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Ship: Blackbird
+Weapon: Thunderbolt Heavy Missile
+
+Name: SoulAvenger
+Security: 3.7
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Crusader
+Weapon: Stasis Webifier I
+
+Name: Esk Esme
+Security: 1.1
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Flycatcher
+Weapon: Rocket Launcher II
+
+
+Destroyed items:
+
+E500 Prototype Energy Vampire
+E500 Prototype Energy Vampire
+EMP L, Qty: 308
+Heavy Electrochemical Capacitor Booster I
+Damage Control II
+Large Armor Repairer II
+Energized Adaptive Nano Membrane II
+Eutectic I Capacitor Charge Array (Cargo)
+220mm Vulcan AutoCannon II (Cargo)
+Large Armor Repairer II (Cargo)
+250mm Railgun II, Qty: 3 (Cargo)
+Invulnerability Field II (Cargo)
+Armor Thermic Hardener II (Cargo)
+Fried Interface Circuit, Qty: 6 (Cargo)
+Malfunctioning Shield Emitter, Qty: 4 (Cargo)
+Beta Reactor Control: Diagnostic System I (Cargo)
+Warrior II (Drone Bay)
+

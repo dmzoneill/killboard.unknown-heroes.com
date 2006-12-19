@@ -1,0 +1,129 @@
+2007.05.04 18:50
+
+Victim: Kvarium Ki
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Destroyed: Blackbird
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Santa Claw
+Security: 2.5
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Sabre
+Weapon: Sabre
+
+Name: Cardassius
+Security: 4.2
+Alliance: Mercenary Coalition
+Corp: Seraphin Technologies
+Ship: Megathron
+Weapon: Megathron
+
+Name: mafutero
+Security: 0.2
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Nalratus
+Security: 2.7
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Brutix
+Weapon: 250mm Compressed Coil Gun I
+
+Name: aggro (laid the final blow)
+Security: 1.1
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Lithel
+Security: -2.1
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Abaddon
+Weapon: Mega Modulated Energy Beam I
+
+Name: Koshedei
+Security: 0.5
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Myrmidon
+Weapon: 250mm Railgun I
+
+Name: Sarinas
+Security: 1.5
+Alliance: YouWhat
+Corp: Pringles Inc.
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: Aut Nihil
+Security: 0.1
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Thorax
+Weapon: Thorax
+
+Name: Longrin
+Security: 3.2
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Tempest
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+Name: Mia Starbright
+Security: -4.6
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Norath84
+Security: 5.0
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Celestis
+Weapon: Celestis
+
+Name: Yarr Harr
+Security: -0.9
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Harbinger
+Weapon: Harbinger
+
+Name: antrax sydd
+Security: 1.5
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Rupture
+Weapon: Rupture
+
+Name: Neily
+Security: 5.0
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Flycatcher
+Weapon: ECM - Multispectral Jammer II
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 19
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Warp Disruptor I
+Remote Sensor Dampener I
+Sensor Booster I
+Small Armor Repairer I
+Thunderbolt Heavy Missile, Qty: 120 (Cargo)
+

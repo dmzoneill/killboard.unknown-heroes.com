@@ -1,0 +1,40 @@
+2007.03.11 17:28
+
+Victim: korialstrasz66
+Alliance: None
+Corp: KHAOS-BLADE
+Destroyed: Caldari Shuttle
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Tsukasa Tenyo (laid the final blow)
+Security: 4.1
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Scorpion
+Weapon: Large 'Notos' Explosive Charge I
+
+Name: Sethiol
+Security: 3.5
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Ship: Caracal
+Weapon: Advanced 'Limos' Heavy Missile Bay I
+
+Name: Mouser Maze
+Security: 1.0
+Alliance: Freelancer Alliance
+Corp: The Night Crew
+Ship: Caracal
+Weapon: Heavy Missile Launcher I
+
+Name: Kaand
+Security: 3.4
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Megathron
+Weapon: Ion Blaster Cannon II
+
+

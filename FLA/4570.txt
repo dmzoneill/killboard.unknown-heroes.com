@@ -1,0 +1,122 @@
+2007.04.14 19:11
+
+Victim: Count Vladvon
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Badger Mark II
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Indiano Arko (laid the final blow)
+Security: 0.6
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Hurricane
+Weapon: 650mm Medium 'Scout' Artillery I
+
+Name: Reverend Revelator
+Security: 1.5
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Ishkur
+Weapon: Firbolg
+
+Name: LeZip
+Security: 1.1
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Kestrel
+Weapon: Einherji
+
+Name: nyricia
+Security: 1.3
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Caracal
+Weapon: Widowmaker Heavy Missile
+
+Name: Altair Mogwa
+Security: 0.7
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Stabber
+Weapon: 220mm Vulcan AutoCannon I
+
+Name: Elrid Barnes
+Security: 1.5
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Thorax
+Weapon: Medium Nosferatu I
+
+Name: Vlad Cetes
+Security: 4.5
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Raven
+Weapon: Siege Missile Launcher II
+
+Name: Ghost Hughdidit
+Security: 3.1
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Thanatos
+Weapon: Firbolg
+
+
+Destroyed items:
+
+Small Shield Booster I
+Small Shield Booster I
+'Accord' I Core Compensation
+Cap Recharger I, Qty: 12 (Cargo)
+Dual Heavy Pulse Laser I, Qty: 2 (Cargo)
+Mega Pulse Laser I, Qty: 6 (Cargo)
+Miner II, Qty: 6 (Cargo)
+Miner I, Qty: 3 (Cargo)
+Medium Armor Repairer I, Qty: 4 (Cargo)
+Medium Hull Repairer I, Qty: 3 (Cargo)
+X5 Prototype I Engine Enervator (Cargo)
+Multifrequency L (Cargo)
+Radio M, Qty: 5 (Cargo)
+Multifrequency M, Qty: 5 (Cargo)
+Infrared S, Qty: 2 (Cargo)
+Infrared L, Qty: 9 (Cargo)
+Inferno Torpedo, Qty: 10 (Cargo)
+Mjolnir Torpedo (Cargo)
+Acolyte I, Qty: 5 (Cargo)
+Berserker I, Qty: 3 (Cargo)
+Heat Sink II (Cargo)
+Co-Processor I, Qty: 4 (Cargo)
+Nanoelectrical Co-Processor I (Cargo)
+Armor Explosive Hardener II (Cargo)
+Giant Secure Container (Cargo)
+Guristas Ship Log 534987422, Qty: 3 (Cargo)
+Guristas Ship Log 573652885 (Cargo)
+Guristas Ship Log 524785540, Qty: 2 (Cargo)
+Guristas Crystal Tag, Qty: 3 (Cargo)
+Guristas Gold Tag (Cargo)
+Conflagration L, Qty: 11 (Cargo)
+Scourge Heavy Missile, Qty: 100 (Cargo)
+Havoc Heavy Missile, Qty: 1866 (Cargo)
+Cataclysm Cruise Missile, Qty: 400 (Cargo)
+Paradise Cruise Missile, Qty: 300 (Cargo)
+Wrath Cruise Missile, Qty: 100 (Cargo)
+Thorn Rocket, Qty: 4 (Cargo)
+Onyx Ochre, Qty: 2 (Cargo)
+Pure Jaspet, Qty: 74 (Cargo)
+'Malkuth' Cruise Launcher I, Qty: 3 (Cargo)
+Salvager I (Cargo)
+Berserker SW-900 (Cargo)
+Basic Expanded Cargohold, Qty: 3 (Cargo)
+Power Diagnostic System I, Qty: 7 (Cargo)
+Mark I Generator Refitting: Diagnostic System, Qty: 4 (Cargo)
+Type-D Power Core Modification: Diagnostic System, Qty: 2 (Cargo)
+Beta Reactor Control: Reaction Control I (Cargo)
+Type-D Power Core Modification: Reaction Control, Qty: 2 (Cargo)
+Reactor Control Unit I, Qty: 6 (Cargo)
+Heavy Assault Missile Launcher I, Qty: 2 (Cargo)
+XT-2800 Heavy Assault Missile Launcher I (Cargo)
+

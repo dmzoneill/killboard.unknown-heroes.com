@@ -1,0 +1,61 @@
+2006.11.12 19:01
+
+Victim: IamRay
+Alliance: None
+Corp: Cult of Ray
+Destroyed: Reaper
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: MentalM (laid the final blow)
+Security: 5.2
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: Josh Causto
+Security: 1.9
+Alliance: Schism.
+Corp: Fatalix Inc.
+Ship: Ishkur
+Weapon: 125mm Railgun II
+
+Name: freestrike
+Security: 5.9
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+Name: W4RR10R
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Crow
+Weapon: TE-2100 Standard Missile Bay
+
+Name: Kristinne
+Security: 0.3
+Alliance: O X I D E
+Corp: W33D Corp.
+Ship: Ares
+Weapon: Light Ion Blaster II
+
+Name: Elfaen Ethenwe
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Daredevil
+Weapon: 125mm Railgun II
+
+Name: AleXinO Gardon
+Security: 5.0
+Alliance: O X I D E
+Corp: W33D Corp.
+Ship: Caracal
+Weapon: Target Painter I
+
+

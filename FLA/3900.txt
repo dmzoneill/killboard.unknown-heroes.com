@@ -1,0 +1,33 @@
+2007.04.05 18:42
+
+Victim: Elo Haul
+Alliance: None
+Corp: Imperial Academy
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: SpikehBoy
+Security: 0.4
+Alliance: Forces of Freedom
+Corp: Band of the Red Hand
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: alon blackhelm (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Myrmidon
+Weapon: Heavy Neutron Blaster II
+
+Name: Mattezinho
+Security: 0.7
+Alliance: Forces of Freedom
+Corp: The Patriot Society
+Ship: Drake
+Weapon: Thunderbolt Heavy Missile
+
+

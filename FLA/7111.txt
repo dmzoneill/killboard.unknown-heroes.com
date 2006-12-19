@@ -1,0 +1,35 @@
+2006.12.26 20:08
+
+Victim: h3llrayser
+Alliance: Kith of Venal
+Corp: Solidline Enterprise
+Destroyed: Crow
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: nossler (laid the final blow)
+Security: 4.4
+Alliance: Freelancer Alliance
+Corp: X.T.R
+Ship: Raven
+Weapon: Paradise Precision Cruise Missile
+
+Name: Damfoose
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Capsule
+Weapon: XT-9000 Cruise Launcher
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 48
+Standard Missile Launcher II
+Inertia Stabilizers I
+ECM - Spatial Destabilizer II (Cargo)
+Piranha Light Missile, Qty: 499 (Cargo)
+Bloodclaw Light Missile, Qty: 89 (Cargo)
+

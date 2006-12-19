@@ -1,0 +1,46 @@
+2007.02.27 14:19
+
+Victim: Mikal Drey
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Destroyed: Hurricane
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Donald Trump
+Security: -1.8
+Alliance: None
+Corp: Temptation inc.
+Ship: Tempest
+Weapon: Tempest
+
+Name: hezitationkillz (laid the final blow)
+Security: -1.6
+Alliance: None
+Corp: Temptation inc.
+Ship: Tempest
+Weapon: Valkyrie II
+
+
+Destroyed items:
+
+Torrent Assault Missile, Qty: 492
+220mm Vulcan AutoCannon II
+220mm Vulcan AutoCannon II
+220mm Vulcan AutoCannon II
+EMP M, Qty: 236
+'Malkuth' Heavy Assault Missile Launcher I
+'Malkuth' Heavy Assault Missile Launcher I
+X5 Prototype I Engine Enervator
+F-392 Baker Nunn Targeting Scrambler
+Medium Armor Repairer II
+Armor Explosive Hardener II
+Armor Thermic Hardener II
+Armor Kinetic Hardener II
+EMP M, Qty: 138 (Cargo)
+Hail M, Qty: 1798 (Cargo)
+Fulmination Assault Missile, Qty: 300 (Cargo)
+Torrent Assault Missile, Qty: 345 (Cargo)
+

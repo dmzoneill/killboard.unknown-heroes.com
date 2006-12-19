@@ -1,0 +1,71 @@
+2007.03.19 18:36
+
+Victim: Major Pompington
+Alliance: Chorus of Dawn
+Corp: Cosmic Odyssey
+Destroyed: Crow
+System: 2P-4LS
+Security: 0.0
+
+Involved parties:
+
+Name: Grimes NC
+Security: 4.8
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: Tregaron (laid the final blow)
+Security: 2.3
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Claw
+Weapon: 200mm AutoCannon II
+
+Name: Shassandra
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Taranis
+Weapon: Taranis
+
+Name: misscoda
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Blackbird
+Weapon: Thunderbolt Heavy Missile
+
+Name: Ma'kal
+Security: 4.6
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Raptor
+Weapon: Raptor
+
+Name: Jamirie
+Security: 0.7
+Alliance: The Sundering
+Corp: ironwood ink
+Ship: Malediction
+Weapon: Fleeting Propulsion Inhibitor I
+
+Name: Cockroach
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Prophecy
+Weapon: Heavy Pulse Laser II
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 43
+Upgraded 'Limos' Standard Missile Bay I
+Upgraded 'Limos' Standard Missile Bay I
+Fleeting Warp Scrambler I
+Sensor Booster II
+Inertia Stabilizers I
+Inertia Stabilizers I
+

@@ -1,0 +1,23 @@
+2007.03.02 06:18
+
+Victim: Howard199
+Alliance: Freelancer Alliance
+Corp: Feel Good Inc.
+Destroyed: Ibis
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Maefly (laid the final blow)
+Security: 0.2
+Alliance: None
+Corp: Bottomfeeders Inc
+Ship: Megathron
+Weapon: 425mm 'Scout' I Accelerator Cannon
+
+
+Destroyed items:
+
+Basic Miner
+

@@ -1,0 +1,83 @@
+2007.04.21 20:33
+
+Victim: Vendetta X
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Arazu
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Kvarium Ki
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Breacher
+Weapon: Breacher
+
+Name: The Cade
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Cormorant
+Weapon: 125mm Carbide Railgun I
+
+Name: Kayron Brennan (laid the final blow)
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Tetrahagel
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Thorax
+Weapon: Thorax
+
+Name: coldkill
+Security: 1.9
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Ishkur
+Weapon: Hobgoblin II
+
+Name: Recon Alpha
+Security: 3.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Xenofur
+Security: 3.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Vigil
+Weapon: Vigil
+
+Name: other mickey
+Security: 3.2
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Thrasher
+Weapon: Upgraded 'Limos' Standard Missile Bay I
+
+
+Destroyed items:
+
+250mm Railgun II
+Passive Targeting Array I
+Covert Ops Cloaking Device II
+Warp Disruptor II
+Warp Disruptor II
+Remote Sensor Dampener II
+Remote Sensor Dampener II
+Sensor Booster II
+Energized Adaptive Nano Membrane II
+Armor Explosive Hardener II
+Spike M, Qty: 1890 (Cargo)
+Valkyrie II (Drone Bay)
+

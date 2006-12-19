@@ -1,0 +1,106 @@
+2006.10.23 20:16
+
+Victim: Ceapio
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Destroyed: Malediction
+System: MI6O-6
+Security: 0.0
+
+Involved parties:
+
+Name: freestrike
+Security: 5.9
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Eagle
+Weapon: Eagle
+
+Name: Loore
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Megathron
+Weapon: XR-3200 Heavy Missile Bay
+
+Name: GrandMastaXP
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Raven
+Weapon: Cruise Missile Launcher II
+
+Name: Reason Taki
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Moa
+Weapon: 250mm Railgun II
+
+Name: Megan Ryder
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: VentureCorp
+Ship: Megathron
+Weapon: Megathron
+
+Name: W4RR10R
+Security: 1.8
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Capsule
+Weapon: Valkyrie I
+
+Name: tyrol
+Security: 3.4
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Megathron
+Weapon: Hornet II
+
+Name: jacass66 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Thanatos
+Weapon: Dragonfly
+
+Name: arthell
+Security: 1.4
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Vexor
+Weapon: Dual 150mm Railgun I
+
+Name: Malkius
+Security: 1.7
+Alliance: Forces of Freedom
+Corp: JUDGE DREAD Inc.
+Ship: Raven
+Weapon: Siege Missile Launcher I
+
+Name: Gamer1K
+Security: 3.9
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Rook
+Weapon: XR-3200 Heavy Missile Bay
+
+Name: Blockade LeBrun
+Security: 1.7
+Alliance: Forces of Freedom
+Corp: Eth3real
+Ship: Dominix
+Weapon: 'Hypnos' Ion Field ECM I
+
+
+Destroyed items:
+
+Gatling Pulse Laser II
+Gatling Pulse Laser II
+Scorch S
+J5b Phased Prototype Warp Inhibitor I
+Damage Control I
+Heat Sink II
+Ultraviolet S, Qty: 3 (Cargo)
+

@@ -1,0 +1,26 @@
+2006.11.07 00:38
+
+Victim: Djihn
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Badger
+System: Elonaya
+Security: 0.7
+
+Involved parties:
+
+Name: Yarek Balear (laid the final blow)
+Security: -1.8
+Alliance: None
+Corp: The Initiative
+Ship: Brutix
+Weapon: Heavy Ion Blaster II
+
+
+Destroyed items:
+
+Bane Torpedo, Qty: 5000 (Cargo)
+Inferno Torpedo, Qty: 5000 (Cargo)
+Subordinate Ballistic Screen Stabilizer (Cargo)
+Wrath Cruise Missile, Qty: 2000 (Cargo)
+

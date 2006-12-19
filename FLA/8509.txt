@@ -1,0 +1,27 @@
+2006.11.25 00:49
+
+Victim: KriegDrachen
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Destroyed: Stiletto
+System: E-FIC0
+Security: 0.0
+
+Involved parties:
+
+Name: Elliott Manchild (laid the final blow)
+Security: -1.6
+Alliance: None
+Corp: omen.
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+
+Destroyed items:
+
+250mm Light Artillery Cannon II
+Tremor S, Qty: 17
+150mm Light AutoCannon II, Qty: 2 (Cargo)
+Barrage S, Qty: 80 (Cargo)
+Capacitor Power Relay I (Cargo)
+

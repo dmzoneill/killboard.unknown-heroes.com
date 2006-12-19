@@ -1,0 +1,64 @@
+2006.11.12 20:01
+
+Victim: GBoS
+Alliance: Lacuna Viators Imperium
+Corp: SAS Strike Team
+Destroyed: Thorax
+System: G-M4I8
+Security: 0.0
+
+Involved parties:
+
+Name: Midiana
+Security: 1.1
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Ishtar
+Weapon: Valkyrie II
+
+Name: Zachariah Barnette
+Security: 0.8
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Ship: Caracal
+Weapon: Havoc Heavy Missile
+
+Name: Formosus Funus
+Security: 3.8
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: Bad Borris
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: LizzyD (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Ishkur
+Weapon: Hobgoblin II
+
+Name: Wousr
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Stiletto
+Weapon: Stiletto
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Light Ion Blaster II
+Light Ion Blaster II
+Light Ion Blaster II
+Void S, Qty: 360
+Medium Armor Repairer I
+Void S, Qty: 1423 (Cargo)
+

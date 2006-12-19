@@ -1,0 +1,59 @@
+2007.03.16 17:03
+
+Victim: darkviron
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Destroyed: Ferox
+System: XZH-4X
+Security: 0.0
+
+Involved parties:
+
+Name: Ion Bartzabel (laid the final blow)
+Security: -0.3
+Alliance: Eternal Rapture
+Corp: Temptation inc.
+Ship: Dominix
+Weapon: Wasp II
+
+Name: Nazg0th
+Security: 0.8
+Alliance: Eternal Rapture
+Corp: Temptation inc.
+Ship: Dominix
+Weapon: Valkyrie II
+
+Name: VirkMaN
+Security: -1.0
+Alliance: Eternal Rapture
+Corp: Temptation inc.
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: hezitationkillz
+Security: -1.5
+Alliance: Eternal Rapture
+Corp: Temptation inc.
+Ship: Rook
+Weapon: Advanced 'Limos' Heavy Missile Bay I
+
+Name: GodWin cadela
+Security: -1.8
+Alliance: Eternal Rapture
+Corp: Exotic Dancers Club
+Ship: Hurricane
+Weapon: Scourge Heavy Missile
+
+
+Destroyed items:
+
+Widowmaker Heavy Missile, Qty: 151
+'Arbalest' Heavy Missile Launcher
+'Arbalest' Heavy Missile Launcher
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+V-M15 Braced Multispectral Shield Matrix
+Quantum Co-Processor I
+Ballistic Control System I
+Mobile Medium Warp Disruptor I (Cargo)
+

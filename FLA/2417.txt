@@ -1,0 +1,106 @@
+2007.02.09 23:02
+
+Victim: Scotticus
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Destroyed: Cyclone
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Darknesss
+Security: 0.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: ArchenTheGreat
+Security: -0.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Rokh
+Weapon: Rokh
+
+Name: Von Kretschmer (laid the final blow)
+Security: 5.0
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Ceapio
+Security: 1.2
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Misha Mosqito
+Security: 3.3
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Megathron
+Weapon: Megathron
+
+Name: aadom
+Security: 3.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Tempest
+Weapon: Tempest
+
+Name: Jester87
+Security: 1.5
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Eagle
+Weapon: Eagle
+
+Name: Lord KesH
+Security: 2.5
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Claw
+Weapon: 150mm Light AutoCannon II
+
+Name: WarGod
+Security: 2.7
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Vagabond
+Weapon: XR-3200 Heavy Missile Bay
+
+Name: cptblood
+Security: 2.3
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: ammargal
+Security: 5.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Archon
+Weapon: Heavy 'Ghoul' Energy Siphon I
+
+
+Destroyed items:
+
+650mm Medium Prototype I Siege Cannon
+650mm Medium 'Scout' Artillery I
+650mm Medium 'Scout' Artillery I
+Titanium Sabot M, Qty: 51
+Flameburst Light Missile, Qty: 64
+'Arbalest' Assault Missile Launcher
+'Arbalest' Assault Missile Launcher
+Medium C5-L Emergency Shield Overload I
+10MN Afterburner II
+Viscoelastic EM Ward Salubrity I
+Extruded Heat Sink I
+Beta Reactor Control: Diagnostic System I
+Flameburst Light Missile, Qty: 5000 (Cargo)
+Warrior I, Qty: 2 (Drone Bay)
+

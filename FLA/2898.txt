@@ -1,0 +1,128 @@
+2007.03.15 04:20
+
+Victim: RubberDuckey
+Alliance: Freelancer Alliance
+Corp: Blackwater Squadron
+Destroyed: Curse
+System: MJYW-3
+Security: 0.0
+
+Involved parties:
+
+Name: Callistus (laid the final blow)
+Security: -2.8
+Alliance: Corelum Syndicate
+Corp: Coreli Corporation
+Ship: Taranis
+Weapon: Light Neutron Blaster II
+
+Name: DeathGrip
+Security: 2.3
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Flycatcher
+Weapon: Foxfire Javelin Rocket
+
+Name: Omar Shakti
+Security: 5.0
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Taranis
+Weapon: Hobgoblin II
+
+Name: Duncan Hines
+Security: 5.0
+Alliance: Xelas Alliance
+Corp: Bombshell Cartel
+Ship: Crow
+Weapon: Crow
+
+Name: KILLOR
+Security: 4.3
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Succubus
+Weapon: Succubus
+
+Name: Hauth
+Security: 5.2
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Vengeance
+Weapon: Vengeance
+
+Name: Selnix
+Security: 5.0
+Alliance: Aftermath Alliance
+Corp: Master Miners
+Ship: Eris
+Weapon: Rocket Launcher II
+
+Name: Bedrock
+Security: 0.2
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: Baranof
+Security: 5.0
+Alliance: Axiom Empire
+Corp: United Society Starfleet
+Ship: Eris
+Weapon: X5 Prototype I Engine Enervator
+
+Name: doc627
+Security: 5.0
+Alliance: Axiom Empire
+Corp: United Society Starfleet
+Ship: Crow
+Weapon: Flameburst Light Missile
+
+Name: Zyta Eke
+Security: 3.3
+Alliance: Xelas Alliance
+Corp: Bombshell Cartel
+Ship: Crusader
+Weapon: Gatling Pulse Laser II
+
+Name: SN 1121666
+Security: 0.7
+Alliance: Axiom Empire
+Corp: Regalis Industria Scientia Entreprendre
+Ship: Rifter
+Weapon: Standard Missile Launcher I
+
+Name: Mongo Peck
+Security: 4.9
+Alliance: Xelas Alliance
+Corp: Requiem of Hades
+Ship: Taranis
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: Criosachille
+Security: 3.5
+Alliance: Xelas Alliance
+Corp: Catalyst Reaction
+Ship: Taranis
+Weapon: Taranis
+
+Name: 3141592653589793238462
+Security: 1.2
+Alliance: Axiom Empire
+Corp: Regalis Industria Scientia Entreprendre
+Ship: Kestrel
+Weapon: Standard Missile Launcher I
+
+
+Destroyed items:
+
+Medium Nosferatu II
+E50 Prototype Energy Vampire
+Medium Capacitor Booster II
+Tracking Disruptor II
+Medium Armor Repairer II
+Co-Processor II
+Energized Thermic Membrane II
+Cap Booster 800, Qty: 8 (Cargo)
+

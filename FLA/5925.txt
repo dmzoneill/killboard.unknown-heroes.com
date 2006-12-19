@@ -1,0 +1,33 @@
+2006.10.29 02:11
+
+Victim: Arduous Path
+Alliance: None
+Corp: State War Academy
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Hosanna (laid the final blow)
+Security: 0.6
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Thrasher
+Weapon: 280mm Howitzer Artillery II
+
+Name: Audri Fisher
+Security: -0.7
+Alliance: THE R0CK
+Corp: The Keep
+Ship: Cormorant
+Weapon: 125mm Railgun II
+
+Name: Liquid Neon
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Crow
+Weapon: Standard Missile Launcher I
+
+

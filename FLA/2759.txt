@@ -1,0 +1,26 @@
+2007.03.05 18:54
+
+Victim: Micheal Ross
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Destroyed: Capsule
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Infra Nitzu
+Security: 1.9
+Alliance: None
+Corp: Finite Horizon
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: Thaard Bof't (laid the final blow)
+Security: -9.1
+Alliance: None
+Corp: Developmental Neogenics Amalgamated
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+

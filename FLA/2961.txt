@@ -1,0 +1,83 @@
+2007.03.17 17:39
+
+Victim: Ardwar Raysrad
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Drake
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Guristas Destructor / Guristas
+
+Name: SaNoSuKeJavi
+Security: -2.0
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Thorax
+Weapon: Hammerhead I
+
+Name: Primos Gun
+Security: 2.9
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Drake
+Weapon: Hellfire Javelin Assault Missile
+
+Name: ZIQUET (laid the final blow)
+Security: 4.8
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Thorax
+Weapon: Heavy Ion Blaster I
+
+Name: drakandu
+Security: 1.0
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Rupture
+Weapon: Small 'Ghoul' Energy Siphon I
+
+Name: Silit
+Security: 2.5
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Thorax
+Weapon: Thorax
+
+Name: Hinderburg
+Security: 4.2
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Wolf
+Weapon: Wolf
+
+Name: Himphotep 87
+Security: 0.4
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Rifter
+Weapon: Rifter
+
+Name: Diego Barbera
+Security: -0.6
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Capsule
+Weapon: 250mm Light Prototype I Siege Cannon
+
+
+Destroyed items:
+
+Scourge Heavy Missile
+Scourge Heavy Missile
+Scourge Heavy Missile
+Standard Missile Launcher I
+Heavy Missile Launcher I
+Large Shield Extender I
+Large Azeotropic Ward Salubrity I
+Ballistic Deflection Field I
+Ballistic Control System I
+Type-D Altered SS Overdrive Injector
+

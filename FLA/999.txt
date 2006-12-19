@@ -1,0 +1,164 @@
+2007.03.02 23:45
+
+Victim: kribensis74
+Alliance: Privateer Alliance
+Corp: Serial Killers
+Destroyed: Drake
+System: Jita
+Security: 0.9
+
+Involved parties:
+
+Name: Wilvarin Sense
+Security: 3.1
+Alliance: RAZOR Alliance
+Corp: Thundercats
+Ship: Taranis
+Weapon: Taranis
+
+Name: Drakona Malchon (laid the final blow)
+Security: 5.0
+Alliance: Morsus Mihi
+Corp: Free-Space-Ranger
+Ship: Rupture
+Weapon: Havoc Heavy Missile
+
+Name: Josey Whales
+Security: 1.0
+Alliance: RAZOR Alliance
+Corp: Thundercats
+Ship: Caracal
+Weapon: Scourge Precision Heavy Missile
+
+Name: RoDs84
+Security: 3.1
+Alliance: RAZOR Alliance
+Corp: DAB
+Ship: Harpy
+Weapon: Harpy
+
+Name: Plague Black
+Security: 4.5
+Alliance: Morsus Mihi
+Corp: 4S Corporation
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: Lonagan
+Security: 4.9
+Alliance: RAZOR Alliance
+Corp: Cutting Edge Incorporated
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Goktar illiat
+Security: 3.2
+Alliance: RAZOR Alliance
+Corp: DAB
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Puz'ZaW
+Security: 2.7
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Claw
+Weapon: Claw
+
+Name: Maverick McDougel
+Security: 4.9
+Alliance: Morsus Mihi
+Corp: Shiva
+Ship: Raptor
+Weapon: Foxfire Rocket
+
+Name: Niffer Mac
+Security: 5.0
+Alliance: RAZOR Alliance
+Corp: Roving Guns Inc.
+Ship: Hawk
+Weapon: Bloodclaw Precision Light Missile
+
+Name: Chuck Dawg
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Merlin
+Weapon: Merlin
+
+Name: Rahlon
+Security: 3.6
+Alliance: RAZOR Alliance
+Corp: Roving Guns Inc.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: CrazyWombat
+Security: 3.0
+Alliance: Morsus Mihi
+Corp: hirr
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: razzerman
+Security: 5.0
+Alliance: Morsus Mihi
+Corp: Rage of Angels
+Ship: Taranis
+Weapon: Fleeting Warp Scrambler I
+
+Name: Manalish
+Security: 5.0
+Alliance: Morsus Mihi
+Corp: Shiva
+Ship: Malediction
+Weapon: Sabretooth Light Missile
+
+Name: Jahah Smith
+Security: 5.0
+Alliance: Morsus Mihi
+Corp: Shiva
+Ship: Malediction
+Weapon: Malediction
+
+Name: Maestr0
+Security: 4.9
+Alliance: RAZOR Alliance
+Corp: Cutting Edge Incorporated
+Ship: Taranis
+Weapon: Taranis
+
+Name: Lieutenant Obvious
+Security: 4.9
+Alliance: RAZOR Alliance
+Corp: Thundercats
+Ship: Celestis
+Weapon: Sabretooth Light Missile
+
+Name: jhon triton
+Security: -0.3
+Alliance: None
+Corp: Shadow Reapers
+Ship: Unknown
+Weapon: Standard Missile Launcher I
+
+Name: Commander Xevon
+Security: -0.2
+Alliance: None
+Corp: Oxide Academy
+Ship: Cormorant
+Weapon: Standard Missile Launcher I
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 80
+Advanced 'Limos' Heavy Missile Bay I
+Advanced 'Limos' Heavy Missile Bay I
+Advanced 'Limos' Heavy Missile Bay I
+Large Shield Extender II
+Invulnerability Field I
+Invulnerability Field I
+Ballistic Control System II
+Ballistic Control System II
+

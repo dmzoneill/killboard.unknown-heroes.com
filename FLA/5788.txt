@@ -1,0 +1,68 @@
+2006.10.20 04:24
+
+Victim: rs spyder
+Alliance: None
+Corp: Tarnak inc.
+Destroyed: Vexor
+System: ROIR-Y
+Security: 0.0
+
+Involved parties:
+
+Name: ForceAttuned Krogoth
+Security: 0.6
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Pilgrim
+Weapon: Infiltrator II
+
+Name: Marano
+Security: 3.7
+Alliance: Imperial Republic Of the North
+Corp: Port Royal Independent Kontractors
+Ship: Hawk
+Weapon: Fleeting Warp Scrambler I
+
+Name: Domunos (laid the final blow)
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Arazu
+Weapon: 250mm Railgun II
+
+Name: Undia alNudius
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Eris
+Weapon: Warrior II
+
+Name: Weeble Wooble
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Unknown
+Weapon: Heavy Ion Blaster II
+
+Name: Xazier
+Security: -5.7
+Alliance: Imperial Republic Of the North
+Corp: Port Royal Independent Kontractors
+Ship: Blackbird
+Weapon: Widowmaker Heavy Missile
+
+
+Destroyed items:
+
+Small Nosferatu I
+125mm Compressed Coil Gun I
+125mm Compressed Coil Gun I
+125mm Compressed Coil Gun I
+Antimatter Charge S, Qty: 144
+ECM - Multispectral Jammer I
+Warp Core Stabilizer I
+1600mm Reinforced Steel Plates I
+Antimatter Charge S, Qty: 600 (Cargo)
+Hobgoblin I (Drone Bay)
+Valkyrie I, Qty: 2 (Drone Bay)
+

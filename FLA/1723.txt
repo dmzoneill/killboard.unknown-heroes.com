@@ -1,0 +1,30 @@
+2007.01.01 21:52
+
+Victim: Ireiw wocad
+Alliance: Freelancer Alliance
+Corp: Feel Good Inc.
+Destroyed: Ibis
+System: Torrinos
+Security: 0.5
+
+Involved parties:
+
+Name: TasKu
+Security: 5.0
+Alliance: None
+Corp: Nexus Legion
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: SoulScourge (laid the final blow)
+Security: -1.5
+Alliance: None
+Corp: omen.
+Ship: Tempest Fleet Issue
+Weapon: 1400mm Howitzer Artillery II
+
+
+Destroyed items:
+
+Civilian Gatling Railgun
+

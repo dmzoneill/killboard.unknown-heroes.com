@@ -1,0 +1,59 @@
+2006.12.10 01:27
+
+Victim: Corovus
+Alliance: Freelancer Alliance
+Corp: THeOThErs
+Destroyed: Enyo
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: simcor (laid the final blow)
+Security: -1.9
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Astarte
+Weapon: Heavy Neutron Blaster II
+
+Name: Darknesss
+Security: -0.2
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Megathron
+Weapon: Ogre II
+
+Name: taylor04
+Security: -1.9
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Pistonbroke
+Security: -1.4
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Raven
+Weapon: Cruise Missile Launcher II
+
+Name: Jimmycs83
+Security: -2.3
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Dominix
+Weapon: Fleeting Warp Scrambler I
+
+
+Destroyed items:
+
+150mm Railgun II
+150mm Railgun II
+Spike S, Qty: 40
+1MN Afterburner II
+Fleeting Propulsion Inhibitor I
+Energized Reactive Membrane II
+Antimatter Charge S, Qty: 81 (Cargo)
+Spike S, Qty: 1450 (Cargo)
+Light Armor Maintenance Bot I (Drone Bay)
+

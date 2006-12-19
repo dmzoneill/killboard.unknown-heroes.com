@@ -1,0 +1,104 @@
+2006.08.12 22:17
+
+Victim: Bolinar
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Destroyed: Megathron
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: john roe
+Security: -4.4
+Alliance: None
+Corp: Beagle Corp
+Ship: Tempest
+Weapon: Tempest
+
+Name: Valerian Xavier
+Security: 2.4
+Alliance: None
+Corp: Beagle Corp
+Ship: Megathron
+Weapon: Megathron
+
+Name: Ricky Baby
+Security: 2.9
+Alliance: None
+Corp: Beagle Corp
+Ship: Unknown
+Weapon: 425mm Carbide Railgun I
+
+Name: Jouno
+Security: -1.4
+Alliance: None
+Corp: Beagle Corp
+Ship: Megathron
+Weapon: Megathron
+
+Name: UnSiViLiZeD
+Security: 0.2
+Alliance: None
+Corp: Beagle Corp
+Ship: Megathron
+Weapon: Megathron
+
+Name: Roule
+Security: -7.1
+Alliance: None
+Corp: Beagle Corp
+Ship: Rapier
+Weapon: Stasis Webifier I
+
+Name: Kheo Sen
+Security: 2.2
+Alliance: None
+Corp: Beagle Corp
+Ship: Typhoon
+Weapon: Heavy Nosferatu I
+
+Name: Tynicas (laid the final blow)
+Security: 0.3
+Alliance: None
+Corp: Beagle Corp
+Ship: Ferox
+Weapon: Sabretooth Light Missile
+
+Name: faithan
+Security: -9.8
+Alliance: None
+Corp: Beagle Corp
+Ship: Megathron
+Weapon: 425mm Railgun I
+
+Name: Iorya Dragon
+Security: -1.2
+Alliance: None
+Corp: Beagle Corp
+Ship: Unknown
+Weapon: 425mm Railgun I
+
+Name: Chewan Mesa
+Security: 5.0
+Alliance: None
+Corp: Beagle Corp
+Ship: Falcon
+Weapon: ECM - Multispectral Jammer II
+
+
+Destroyed items:
+
+425mm 'Scout' I Accelerator Cannon
+425mm 'Scout' I Accelerator Cannon
+425mm 'Scout' I Accelerator Cannon
+Thorium Charge L, Qty: 37
+'Penumbra' I White Noise ECM
+Sensor Booster II
+Magnetic Field Stabilizer II
+Energized Adaptive Nano Membrane II
+Thorium Charge L, Qty: 790 (Cargo)
+Antimatter Charge L, Qty: 2225 (Cargo)
+Ogre I, Qty: 2 (Drone Bay)
+Berserker I, Qty: 2 (Drone Bay)
+

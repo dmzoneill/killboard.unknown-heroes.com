@@ -1,0 +1,26 @@
+2006.10.02 17:06
+
+Victim: V0rador
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Destroyed: Capsule
+System: 93PI-4
+Security: 0.0
+
+Involved parties:
+
+Name: Jumar Coldgin (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+Name: James Potkukelkka
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Flycatcher
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+

@@ -1,0 +1,47 @@
+2007.05.25 18:32
+
+Victim: GigiLevier
+Alliance: Phalanx Alliance
+Corp: G.S.B.G
+Destroyed: Caldari Shuttle
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Steven FSB
+Security: 3.5
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Harpy
+Weapon: Harpy
+
+Name: Yesh (laid the final blow)
+Security: 2.7
+Alliance: The Fifth Race
+Corp: Antares Frontier
+Ship: Malediction
+Weapon: Dual Light Beam Laser II
+
+Name: wollykins2
+Security: 1.8
+Alliance: 3asy Company
+Corp: Welsh Commanders
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: alon blackhelm
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Myrmidon
+Weapon: Myrmidon
+
+Name: Corovus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Manticore
+Weapon: 'Arbalest' Cruise Launcher I
+
+

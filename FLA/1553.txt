@@ -1,0 +1,67 @@
+2007.03.16 07:10
+
+Victim: Keflin Geard
+Alliance: YouWhat
+Corp: Artificial Horizons
+Destroyed: Vexor
+System: O-BDXB
+Security: 0.0
+
+Involved parties:
+
+Name: Cyrila Wolf
+Security: -2.2
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Muninn
+Weapon: Muninn
+
+Name: Villwrath
+Security: 3.5
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Hyperion
+Weapon: Neutron Blaster Cannon II
+
+Name: Jaig Maldara (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Rokh
+Weapon: 425mm 'Scout' I Accelerator Cannon
+
+Name: Imaginary Number
+Security: 3.7
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Prophecy
+Weapon: Prophecy
+
+Name: death1023
+Security: 2.9
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Enyo
+Weapon: Warp Disruptor I
+
+Name: RubberDuckey
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Blackwater Squadron
+Ship: Raven
+Weapon: Cruise Missile Launcher II
+
+
+Destroyed items:
+
+Small 'Knave' I Energy Drain
+Small 'Knave' I Energy Drain
+Medium Nosferatu I
+10MN MicroWarpdrive I
+Initiated Warp Jammer I
+Damage Control I
+Medium Inefficient Armor Repair Unit
+Capacitor Power Relay I
+Valkyrie II, Qty: 2 (Drone Bay)
+Vespa II (Drone Bay)
+

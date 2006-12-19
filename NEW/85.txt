@@ -1,0 +1,22 @@
+2007.01.08 00:50
+
+Victim: Kurator
+Alliance: Triumvirate.
+Corp: omen.
+Destroyed: Ibis
+System: Jita
+Security: 0.9
+
+Involved parties:
+
+Name: drullir (laid the final blow)
+Security: 3.5
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Thorax
+Weapon: Anode Ion Particle Cannon I
+
+
+Destroyed items:
+
+Civilian Gatling Railgun

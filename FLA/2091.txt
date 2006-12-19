@@ -1,0 +1,35 @@
+2007.01.20 00:48
+
+Victim: Dark Carnage
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Blackbird
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: ukpAgAn (laid the final blow)
+Security: 5.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Phrixus Zephyr
+Security: 0.8
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Arazu
+Weapon: Phased Muon Sensor Disruptor I
+
+
+Destroyed items:
+
+Thunderbolt Heavy Missile, Qty: 9
+Heavy Missile Launcher I
+Cap Recharger I
+ECM - Multispectral Jammer I
+ECM - Multispectral Jammer I
+Thunderbolt Heavy Missile, Qty: 1484 (Cargo)
+

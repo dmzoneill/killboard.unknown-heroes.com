@@ -1,0 +1,61 @@
+2007.05.06 15:53
+
+Victim: Sebi Fal
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Capsule
+System: 3T7-M8
+Security: 0.0
+
+Involved parties:
+
+Name: Jandeera
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: Lynx Frontier Inc.
+Ship: Eris
+Weapon: Eris
+
+Name: Skittish (laid the final blow)
+Security: 0.8
+Alliance: Sparta Alliance
+Corp: Synergy Evolved
+Ship: Cormorant
+Weapon: 150mm Railgun II
+
+Name: Jessica Jones
+Security: 4.3
+Alliance: Sparta Alliance
+Corp: Lynx Frontier Inc.
+Ship: Cormorant
+Weapon: 125mm Railgun I
+
+Name: Zorger
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: Black Knight Buccaneers
+Ship: Merlin
+Weapon: Warp Disruptor I
+
+Name: Kayron Brennan
+Security: 0.7
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Merlin
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+Name: JanSVK
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: GREY COUNCIL
+Ship: Raptor
+Weapon: OE-5200 Rocket Launcher
+
+Name: AnarchistUK
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: United Space Republic
+Ship: Hawk
+Weapon: Remote Sensor Dampener I
+
+

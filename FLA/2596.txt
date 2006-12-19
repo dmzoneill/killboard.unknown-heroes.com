@@ -1,0 +1,168 @@
+2007.02.25 21:26
+
+Victim: Slinktress
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Destroyed: Helios
+System: 3-FKCZ
+Security: 0.0
+
+Involved parties:
+
+Name: Command0
+Security: 4.8
+Alliance: Firmus Ixion
+Corp: Imperium Technologies
+Ship: Armageddon
+Weapon: Tachyon Beam Laser II
+
+Name: Deacon Hasp
+Security: -0.2
+Alliance: Firmus Ixion
+Corp: Hunters Agency
+Ship: Wolf
+Weapon: 280mm Howitzer Artillery II
+
+Name: Bersagliere (laid the final blow)
+Security: 4.9
+Alliance: Firmus Ixion
+Corp: Legionari
+Ship: Cormorant
+Weapon: 125mm Railgun I
+
+Name: Wyndwhisper
+Security: 5.0
+Alliance: Digital Renegades
+Corp: Digital Fury Corporation
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: Cicero Varrus
+Security: 5.0
+Alliance: Firmus Ixion
+Corp: Black Avatar
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: Yim Ho
+Security: 0.0
+Alliance: Digital Renegades
+Corp: Digital Fury Corporation
+Ship: Celestis
+Weapon: 250mm 'Scout' I Accelerator Cannon
+
+Name: ace togge
+Security: 4.7
+Alliance: Requiem-Aeternam
+Corp: The Legion.
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: Badboy Geezer
+Security: 0.2
+Alliance: Firmus Ixion
+Corp: Legionari
+Ship: Celestis
+Weapon: Heavy Missile Launcher I
+
+Name: Akh Panthura
+Security: 3.0
+Alliance: Firmus Ixion
+Corp: Xoth Inc
+Ship: Harpy
+Weapon: Harpy
+
+Name: alelsk
+Security: 3.6
+Alliance: Firmus Ixion
+Corp: Legionari
+Ship: Vexor
+Weapon: 125mm Railgun II
+
+Name: Tslin Urquell
+Security: 1.9
+Alliance: Firmus Ixion
+Corp: The Clearwater Society
+Ship: Brutix
+Weapon: 200mm Railgun II
+
+Name: Vulthier
+Security: 4.0
+Alliance: Firmus Ixion
+Corp: Hunters Agency
+Ship: Cormorant
+Weapon: 125mm Railgun II
+
+Name: Freelanc3r
+Security: 5.0
+Alliance: Firmus Ixion
+Corp: Xoth Inc
+Ship: Enyo
+Weapon: Faint Warp Prohibitor I
+
+Name: iulixxi
+Security: 5.0
+Alliance: Firmus Ixion
+Corp: Xoth Inc
+Ship: Hawk
+Weapon: Standard Missile Launcher I
+
+Name: Tor'sar Yen
+Security: 5.0
+Alliance: Firmus Ixion
+Corp: Imperium Technologies
+Ship: Stiletto
+Weapon: 200mm AutoCannon II
+
+Name: Pimp Mustafa
+Security: 1.6
+Alliance: Firmus Ixion
+Corp: Hunters Agency
+Ship: Manticore
+Weapon: 'Limos' Cruise Launcher I
+
+Name: Peirato
+Security: 1.9
+Alliance: Requiem-Aeternam
+Corp: The Legion.
+Ship: Caracal
+Weapon: 'Arbalest' Assault Missile Launcher
+
+Name: Neutrino Sunset
+Security: 4.6
+Alliance: Firmus Ixion
+Corp: KDM Corp
+Ship: Stiletto
+Weapon: 150mm Light Gallium I Machine Gun
+
+Name: Gilgamoth
+Security: 4.3
+Alliance: Firmus Ixion
+Corp: Imperium Technologies
+Ship: Rapier
+Weapon: Faint Warp Prohibitor I
+
+Name: Chirinako
+Security: 5.0
+Alliance: Firmus Ixion
+Corp: Legionari
+Ship: Ferox
+Weapon: Heavy Missile Launcher I
+
+Name: Aroft
+Security: 3.9
+Alliance: Firmus Ixion
+Corp: KDM Corp
+Ship: Flycatcher
+Weapon: Standard Missile Launcher II
+
+
+Destroyed items:
+
+Covert Ops Cloaking Device II
+'Repose' I Core Compensation
+Warp Core Stabilizer I
+Small Hull Repairer I (Cargo)
+Snoop Scanner Probe I, Qty: 60 (Cargo)
+Warrior I (Drone Bay)
+

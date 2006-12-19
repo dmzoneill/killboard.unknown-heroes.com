@@ -1,0 +1,102 @@
+2006.09.06 01:57
+
+Victim: Robet Katrix
+Alliance: None
+Corp: Beagle Corp
+Destroyed: Blackbird
+System: A4L-A2
+Security: 0.0
+
+Involved parties:
+
+Name: wessam
+Security: 3.9
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Cerberus
+Weapon: Scourge Heavy Missile
+
+Name: Galron Zuma
+Security: 1.6
+Alliance: Freelancer Alliance
+Corp: Terminal Velocity Inc.
+Ship: Thorax
+Weapon: Thorax
+
+Name: marcouk2
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Curse
+Weapon: Infiltrator II
+
+Name: Taffun (laid the final blow)
+Security: 2.8
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Sleipnir
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Eskiban Vlasic
+Security: 5.0
+Alliance: EVE Animal Control
+Corp: F.R.E.E. Explorer
+Ship: Celestis
+Weapon: Celestis
+
+Name: steve gates
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Taranis
+Weapon: Taranis
+
+Name: Valtaer
+Security: 3.5
+Alliance: Freelancer Alliance
+Corp: Terminal Velocity Inc.
+Ship: Merlin
+Weapon: TE-2100 Standard Missile Bay
+
+Name: Traxex
+Security: 0.9
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Rupture
+Weapon: Rupture
+
+Name: Lashrac Sigil
+Security: 2.7
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Ishtar
+Weapon: Fleeting Progressive Warp Scrambler I
+
+Name: Inora Aknaria
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Incursus
+Weapon: Warp Disruptor I
+
+Name: Christopher Cook
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Terminal Velocity Inc.
+Ship: Rifter
+Weapon: Warp Disruptor I
+
+
+Destroyed items:
+
+Thunderbolt Heavy Missile, Qty: 53
+'Malkuth' Heavy Missile Launcher I
+FZ-3 Subversive Spatial Destabilizer ECM
+FZ-3 Subversive Spatial Destabilizer ECM
+ECM - Multispectral Jammer I
+ECM - Multispectral Jammer I
+Prototype I Sensor Booster
+400mm Reinforced Rolled Tungsten Plates I
+Havoc Heavy Missile, Qty: 568 (Cargo)
+Thunderbolt Heavy Missile, Qty: 618 (Cargo)
+

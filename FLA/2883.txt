@@ -1,0 +1,28 @@
+2007.03.14 18:14
+
+Victim: Admiral Hunter
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Taranis
+System: XZH-4X
+Security: 0.0
+
+Involved parties:
+
+Name: Xoduse (laid the final blow)
+Security: 0.0
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Celestis
+Weapon: Warrior II
+
+
+Destroyed items:
+
+Light Electron Blaster II
+Null S, Qty: 181
+Fleeting Warp Scrambler I
+Stasis Webifier I
+Small Armor Repairer II
+Inertia Stabilizers I
+

@@ -1,0 +1,35 @@
+2007.02.11 20:05
+
+Victim: RastaMan06
+Alliance: Kith of Venal
+Corp: Die Trying
+Destroyed: Manticore
+System: 5ZXX-K
+Security: 0.0
+
+Involved parties:
+
+Name: Solarienne (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+Name: Captain Spleefoo
+Security: -2.7
+Alliance: Kith of Venal
+Corp: Die Trying
+Ship: Dominix
+Weapon: Dual 150mm Railgun II
+
+
+Destroyed items:
+
+Cataclysm Cruise Missile, Qty: 72
+Low Frequency Sensor Suppressor I
+Ballistic Control System II
+Local Power Plant Manager: Reaction Control I
+Devastator Cruise Missile, Qty: 620 (Cargo)
+Paradise Cruise Missile, Qty: 569 (Cargo)
+

@@ -1,0 +1,33 @@
+2007.03.05 00:22
+
+Victim: Meeat
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Destroyed: Capsule
+System: 3WE-KY
+Security: 0.0
+
+Involved parties:
+
+Name: Takeshi Nuwen (laid the final blow)
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: The X-Trading Company
+Ship: Crow
+Weapon: Bloodclaw Precision Light Missile
+
+Name: Xantheris
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: Selina VanHool
+Security: 0.8
+Alliance: Dusk and Dawn
+Corp: Cataclysm Enterprises
+Ship: Crow
+Weapon: Fleeting Warp Scrambler I
+
+

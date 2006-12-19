@@ -1,0 +1,30 @@
+2007.04.16 03:30
+
+Victim: Hojou
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Thorax
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Minmatar Control Tower / Di-Tron Heavy Industries (laid the final blow)
+
+
+Destroyed items:
+
+Dual 150mm Railgun I
+Dual 150mm Railgun I
+200mm Railgun I
+Iridium Charge M, Qty: 364
+Large Shield Extender I
+Y-S8 Hydrocarbon I Afterburners
+Magnetic Scattering Amplifier I
+Small Armor Repairer I
+Insulated Stabilizer Array I
+Iridium Charge M, Qty: 2520 (Cargo)
+Tactical Shield Manipulation (Cargo)
+Heavy Drone Operation (Cargo)
+Vespa I, Qty: 2 (Drone Bay)
+

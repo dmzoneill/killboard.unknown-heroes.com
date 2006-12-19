@@ -1,0 +1,51 @@
+2006.09.29 10:50
+
+Victim: Noitaakka
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Destroyed: Raven
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Darknesss
+Security: 0.8
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Megathron
+Weapon: Ogre II
+
+Name: GoLdeN BoY (laid the final blow)
+Security: -1.1
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Typhoon
+Weapon: Ogre I
+
+Name: Trebor Slater
+Security: 4.5
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Typhoon
+Weapon: Havoc Heavy Missile
+
+
+Destroyed items:
+
+Heavy 'Knave' I Energy Drain
+Paradise Cruise Missile, Qty: 19
+Devastator Cruise Missile, Qty: 19
+XT-9000 Cruise Launcher
+XT-9000 Cruise Launcher
+XT-9000 Cruise Launcher
+J5b Phased Prototype Warp Inhibitor I
+J5 Prototype Warp Inhibitor I
+Parallel Weapon Navigation Transmitter
+Emergency Damage Control I
+Armor Explosive Hardener I
+Vespa II, Qty: 2 (Cargo)
+Paradise Cruise Missile, Qty: 453 (Cargo)
+Devastator Cruise Missile, Qty: 360 (Cargo)
+Ogre II (Drone Bay)
+

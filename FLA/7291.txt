@@ -1,0 +1,26 @@
+2006.07.25 23:26
+
+Victim: Talon Karrad
+Alliance: None
+Corp: Shillelagh Corp.
+Destroyed: Velator
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Barukor
+Security: 1.6
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Vigil
+Weapon: Vigil
+
+Name: Kismeteer (laid the final blow)
+Security: 2.8
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Incursus
+Weapon: Light Electron Blaster I
+
+

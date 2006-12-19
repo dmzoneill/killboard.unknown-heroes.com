@@ -1,0 +1,79 @@
+2006.12.07 00:55
+
+Victim: BigLos9
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Abaddon
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Darknesss
+Security: 0.5
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Megathron
+Weapon: Ogre II
+
+Name: XxAngelxX (laid the final blow)
+Security: 5.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Pilgrim
+Weapon: Vespa II
+
+
+Destroyed items:
+
+Multifrequency L
+Multifrequency L
+Multifrequency L
+Radio L
+Cataclysm Cruise Missile, Qty: 16
+Cruise Missile Launcher I
+Kapteyn Sensor Array Inhibitor I
+Radioisotope Adaptive Nano Membrane I
+1600mm Reinforced Crystalline Carbonide Plates I
+1600mm Reinforced Crystalline Carbonide Plates I
+1600mm Reinforced Crystalline Carbonide Plates I
+Medium Armor Repairer I (Cargo)
+'Langour' Drive Disruptor I (Cargo)
+Multifrequency L (Cargo)
+Radio L, Qty: 2 (Cargo)
+Infiltrator I, Qty: 18 (Cargo)
+Slasher Blueprint (Cargo)
+1MN Afterburner I Blueprint (Cargo)
+ECM - Spatial Destabilizer I Blueprint (Cargo)
+ECM - Phase Inverter I Blueprint (Cargo)
+Heavy Beam Laser I Blueprint (Cargo)
+Cruise Missile Launcher I Blueprint (Cargo)
+Standard Missile Launcher I Blueprint (Cargo)
+Stasis Webifier I Blueprint (Cargo)
+Small Energy Transfer Array I Blueprint (Cargo)
+Bloodclaw Light Missile Blueprint (Cargo)
+Iron Charge L Blueprint (Cargo)
+Microwave S Blueprint (Cargo)
+Radio S Blueprint (Cargo)
+Standard M Blueprint (Cargo)
+Ultraviolet S Blueprint (Cargo)
+Gamma S Blueprint (Cargo)
+Acolyte I Blueprint (Cargo)
+Secure Gravimetric Backup Cluster I (Cargo)
+FoF Missiles (Cargo)
+Gallente Industrial (Cargo)
+Kernite Processing (Cargo)
+Refinery Efficiency (Cargo)
+Armor Rigging (Cargo)
+Energy Weapon Rigging (Cargo)
+Weapon Disruption (Cargo)
+Electronics Upgrades (Cargo)
+Combat Drone Operation (Cargo)
+High Speed Maneuvering (Cargo)
+Warp Core Stabilizer I (Cargo)
+Co-Processor I Blueprint (Cargo)
+Mining Laser Upgrade I (Cargo)
+Cybernetic Subprocessor - Basic (Cargo)
+Expanded Cargohold I, Qty: 3 (Cargo)
+Infiltrator I, Qty: 3 (Drone Bay)
+

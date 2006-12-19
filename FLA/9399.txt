@@ -1,0 +1,44 @@
+2007.05.12 05:10
+
+Victim: dastommy79
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Destroyed: Thorax
+System: LT-DRO
+Security: 0.0
+
+Involved parties:
+
+Name: uoY delliK (laid the final blow)
+Security: -1.6
+Alliance: FATAL Alliance
+Corp: FATAL REVELATIONS
+Ship: Thrasher
+Weapon: 280mm Howitzer Artillery II
+
+Name: Pat Bello
+Security: 4.0
+Alliance: FATAL Alliance
+Corp: FATAL REVELATIONS
+Ship: Harpy
+Weapon: Harpy
+
+Name: Silent Killers
+Security: 3.6
+Alliance: FATAL Alliance
+Corp: FATAL REVELATIONS
+Ship: Capsule
+Weapon: 250mm Light Artillery Cannon II
+
+
+Destroyed items:
+
+Heavy Ion Blaster I
+Heavy Ion Blaster I
+Heavy Ion Blaster I
+Heavy Ion Blaster I
+Antimatter Charge M, Qty: 338
+Warp Disruptor I
+Stasis Webifier I
+1600mm Reinforced Rolled Tungsten Plates I
+

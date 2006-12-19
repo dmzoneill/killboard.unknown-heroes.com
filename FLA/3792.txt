@@ -1,0 +1,26 @@
+2007.04.01 12:10
+
+Victim: Isotaan Ephraim
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Destroyed: Condor
+System: P-2TTL
+Security: 0.0
+
+Involved parties:
+
+Name: abzzo (laid the final blow)
+Security: 1.7
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Zealot
+Weapon: Focused Medium Pulse Laser II
+
+Name: Xune
+Security: -8.9
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Archon
+Weapon: Firbolg
+
+

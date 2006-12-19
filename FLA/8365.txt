@@ -1,0 +1,19 @@
+2006.11.12 20:37
+
+Victim: Byd Ree
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Capsule
+System: Onne
+Security: 0.4
+
+Involved parties:
+
+Name: Stearic Camphor (laid the final blow)
+Security: -9.7
+Alliance: None
+Corp: Righteous-Indignation
+Ship: Thorax
+Weapon: Light Neutron Blaster II
+
+

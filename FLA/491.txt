@@ -1,0 +1,35 @@
+2007.02.06 05:51
+
+Victim: Havvok
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Destroyed: Raptor
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Sorlac Aurora (laid the final blow)
+Security: 1.2
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Rokh
+Weapon: 425mm 'Scout' I Accelerator Cannon
+
+Name: truefranco
+Security: 0.4
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Capsule
+Weapon: Standard Missile Launcher II
+
+
+Destroyed items:
+
+Antimatter Charge S, Qty: 80
+Bloodclaw Light Missile, Qty: 84
+1MN MicroWarpdrive I
+Stasis Webifier I
+Damage Control I (Cargo)
+'Malkuth' Heavy Missile Launcher I, Qty: 2 (Cargo)
+

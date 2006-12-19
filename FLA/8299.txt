@@ -1,0 +1,40 @@
+2006.11.07 19:29
+
+Victim: Wotlankor
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Destroyed: Caracal
+System: Haajinen
+Security: 0.8
+
+Involved parties:
+
+Name: spirea (laid the final blow)
+Security: 4.9
+Alliance: None
+Corp: The Initiative
+Ship: Apocalypse
+Weapon: Tachyon Beam Laser II
+
+Name: TranZferR
+Security: -1.8
+Alliance: None
+Corp: The Initiative
+Ship: Lachesis
+Weapon: Lachesis
+
+Name: KRULLEN Binazeski
+Security: 4.9
+Alliance: None
+Corp: The Initiative
+Ship: Curse
+Weapon: Tracking Disruptor II
+
+
+Destroyed items:
+
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+10MN Afterburner I
+Scourge Heavy Missile, Qty: 1649 (Cargo)
+

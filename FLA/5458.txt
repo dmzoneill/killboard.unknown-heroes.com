@@ -1,0 +1,38 @@
+2006.10.04 21:04
+
+Victim: Cal Shayd
+Alliance: None
+Corp: State War Academy
+Destroyed: Merlin
+System: Isanamo
+Security: 0.6
+
+Involved parties:
+
+Name: Formosus Funus (laid the final blow)
+Security: 2.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Rifter
+Weapon: 200mm Light 'Scout' Autocannon I
+
+Name: Guristas Plunderer / Guristas
+
+
+Destroyed items:
+
+Iron Charge S, Qty: 41
+Sabretooth Light Missile
+Civilian Shield Booster I
+Small Hull Repairer I
+Small Armor Repairer I
+Civilian Shield Booster I (Cargo)
+Small Energy Transfer Array I, Qty: 2 (Cargo)
+Small Energy Neutralizer I, Qty: 2 (Cargo)
+125mm Railgun I (Cargo)
+Iron Charge S, Qty: 957 (Cargo)
+Plutonium Charge S, Qty: 100 (Cargo)
+ECCM - Omni I (Cargo)
+Sabretooth Light Missile, Qty: 586 (Cargo)
+Bloodclaw Light Missile, Qty: 100 (Cargo)
+

@@ -1,0 +1,88 @@
+2007.04.10 20:54
+
+Victim: marakudi
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Destroyed: Drake
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Meat Sauce
+Security: 3.7
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Arazu
+Weapon: Arazu
+
+Name: shadow5150
+Security: 5.0
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Rapier
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: Korran Delan (laid the final blow)
+Security: 4.8
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Moa
+Weapon: 200mm Railgun I
+
+Name: Icy One
+Security: 3.6
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Hawk
+Weapon: Bloodclaw Precision Light Missile
+
+Name: EVIL SYNNs
+Security: 0.0
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Rapier
+Weapon: Rapier
+
+Name: Rif
+Security: 5.0
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Harbinger
+Weapon: Hammerhead II
+
+Name: NobodyGood
+Security: -4.6
+Alliance: Aftermath Alliance
+Corp: Master Miners
+Ship: Eris
+Weapon: Standard Missile Launcher I
+
+Name: Yokujin
+Security: -1.4
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Unknown
+Weapon: Standard Missile Launcher II
+
+
+Destroyed items:
+
+Terror Assault Missile, Qty: 294
+Medium 'Ghoul' Energy Siphon I
+Scourge Heavy Missile, Qty: 29
+Heavy Missile Launcher I
+XR-3200 Heavy Missile Bay
+Heavy Missile Launcher II
+Advanced 'Limos' Heavy Missile Bay I
+Scourge Fury Heavy Missile, Qty: 80
+F-b10 Nominal Capacitor Regenerator
+10MN MicroWarpdrive I
+Kinetic Deflection Amplifier I
+Damage Control II
+Ballistic Control System II
+Inertia Stabilizers I
+Corpse, Qty: 2 (Cargo)
+Scourge Heavy Missile, Qty: 625 (Cargo)
+'Arbalest' Rocket Launcher I (Cargo)
+

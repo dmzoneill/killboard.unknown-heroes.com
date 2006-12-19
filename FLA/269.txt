@@ -1,0 +1,50 @@
+2007.01.20 20:56
+
+Victim: Harpo
+Alliance: None
+Corp: Deep Core Mining Inc.
+Destroyed: Harbinger
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Jester87 (laid the final blow)
+Security: 1.3
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+Name: dastommy79
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Thorax
+Weapon: Warp Disruptor I
+
+Name: Chuck Dawg
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Blackbird
+Weapon: Thunderbolt Heavy Missile
+
+
+Destroyed items:
+
+Focused Medium Pulse Laser II
+Focused Medium Pulse Laser II
+Focused Medium Pulse Laser II
+Focused Medium Pulse Laser II
+Medium Nosferatu I
+Multifrequency M
+Multifrequency M
+Multifrequency M
+J5 Prototype Warp Inhibitor I
+X5 Prototype I Engine Enervator
+Medium Armor Repairer II
+Heat Sink II
+Heat Sink II
+Radioisotope Explosive Hardener I
+

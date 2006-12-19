@@ -1,0 +1,41 @@
+2006.11.24 21:57
+
+Victim: Simon Monkoto
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Dominix
+System: EWOK-K
+Security: 0.0
+
+Involved parties:
+
+Name: Elliott Manchild (laid the final blow)
+Security: -1.6
+Alliance: None
+Corp: omen.
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Garath Dirk
+Security: -0.9
+Alliance: None
+Corp: omen.
+Ship: Raptor
+Weapon: Thorn Rocket
+
+
+Destroyed items:
+
+350mm Railgun I
+350mm Railgun I
+Iridium Charge L, Qty: 114
+Cap Recharger I
+Barton Reactor Capacitor Recharger I
+Target Painter I
+Medium I-a Polarized Armor Regenerator
+Armor Thermic Hardener I
+Armor Kinetic Hardener I
+Armor Explosive Hardener I
+Infiltrator I, Qty: 4 (Drone Bay)
+Ogre I (Drone Bay)
+

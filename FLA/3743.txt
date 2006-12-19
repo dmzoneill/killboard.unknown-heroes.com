@@ -1,0 +1,26 @@
+2007.03.31 01:13
+
+Victim: Sagami Ayase
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Capsule
+System: P-2TTL
+Security: 0.0
+
+Involved parties:
+
+Name: Zoen'kah (laid the final blow)
+Security: 0.0
+Alliance: Mercenary Coalition
+Corp: Mercenary Coalition Holding Corp
+Ship: Sabre
+Weapon: 150mm Light AutoCannon II
+
+Name: War Bear
+Security: 2.8
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Stiletto
+Weapon: Stiletto
+
+

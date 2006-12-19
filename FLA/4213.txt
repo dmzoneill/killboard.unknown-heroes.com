@@ -1,0 +1,33 @@
+2007.04.04 05:38
+
+Victim: darkviron
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Destroyed: Capsule
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Vasili Z (laid the final blow)
+Security: 0.3
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Sleipnir
+Weapon: 425mm AutoCannon II
+
+Name: Mannateen
+Security: 0.0
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Ship: Unknown
+Weapon: Stiletto
+
+Name: Anomaly21
+Security: -1.0
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Flycatcher
+Weapon: Fleeting Warp Scrambler I
+
+

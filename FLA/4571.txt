@@ -1,0 +1,68 @@
+2007.04.14 19:28
+
+Victim: Aridante Lemure
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Destroyed: Dominix
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Shadowjet
+Security: -1.3
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Nighthawk
+Weapon: Scourge Heavy Missile
+
+Name: Rukaz
+Security: 3.1
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: FA Avenger
+Security: 2.9
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Eleese (laid the final blow)
+Security: -0.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Dominix
+Weapon: Berserker II
+
+Name: Ehxo
+Security: 4.9
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Crow
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: Warp Disruption Battery / Eternity INC.
+
+
+Destroyed items:
+
+Heavy Nosferatu I
+Heavy Nosferatu I
+Heavy Nosferatu I
+Medium Nosferatu I
+Small Energy Neutralizer I
+Drone Link Augmentor I
+100MN Afterburner I
+Omnidirectional Tracking Link I
+Omnidirectional Tracking Link I
+Omnidirectional Tracking Link I
+Large Armor Repairer I
+Energized Adaptive Nano Membrane I
+1600mm Reinforced Crystalline Carbonide Plates I
+1600mm Reinforced Crystalline Carbonide Plates I
+Ogre I, Qty: 2 (Drone Bay)
+Warden I, Qty: 3 (Drone Bay)
+

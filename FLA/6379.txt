@@ -1,0 +1,23 @@
+2006.11.13 04:25
+
+Victim: chow chow
+Alliance: None
+Corp: Center for Advanced Studies
+Destroyed: Velator
+System: JU-OWQ
+Security: 0.0
+
+Involved parties:
+
+Name: Lord Balroth (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Absolution
+Weapon: Heavy Pulse Laser II
+
+
+Destroyed items:
+
+Basic Miner
+

@@ -1,0 +1,113 @@
+2007.03.05 10:42
+
+Victim: CodeWraith
+Alliance: Privateer Alliance
+Corp: Serial Killers
+Destroyed: Armageddon
+System: Poinen
+Security: 0.6
+
+Involved parties:
+
+Name: Riho
+Security: -0.9
+Alliance: Exquisite Malevolence
+Corp: Red Wrath
+Ship: Astarte
+Weapon: Hammerhead II
+
+Name: MasterJon
+Security: 3.5
+Alliance: Exquisite Malevolence
+Corp: Mad Cow Disease
+Ship: Drake
+Weapon: Hornet II
+
+Name: Alexander Mani
+Security: 1.6
+Alliance: Exquisite Malevolence
+Corp: Mercenary Forces
+Ship: Eagle
+Weapon: Eagle
+
+Name: Dexter Rast (laid the final blow)
+Security: 2.0
+Alliance: Exquisite Malevolence
+Corp: Mercenary Forces
+Ship: Huginn
+Weapon: Havoc Heavy Missile
+
+Name: El Yatta
+Security: 0.4
+Alliance: Exquisite Malevolence
+Corp: Mercenary Forces
+Ship: Lachesis
+Weapon: Warrior II
+
+Name: DeadRow
+Security: 0.0
+Alliance: Exquisite Malevolence
+Corp: Magnificent Beavers
+Ship: Myrmidon
+Weapon: Berserker II
+
+Name: AshrakTheWhite
+Security: -0.5
+Alliance: Exquisite Malevolence
+Corp: Red Wrath
+Ship: Eos
+Weapon: Eos
+
+Name: SYTonALL
+Security: 1.9
+Alliance: Exquisite Malevolence
+Corp: Mercenary Forces
+Ship: Claw
+Weapon: Claw
+
+Name: Ryx Bratsilaken
+Security: -1.9
+Alliance: Exquisite Malevolence
+Corp: Magnificent Beavers
+Ship: Vagabond
+Weapon: Hobgoblin II
+
+Name: Hockney
+Security: 1.6
+Alliance: Exquisite Malevolence
+Corp: Mercenary Forces
+Ship: Rapier
+Weapon: Warrior II
+
+Name: JOSEPHx
+Security: 0.0
+Alliance: Exquisite Malevolence
+Corp: Mercenary Forces
+Ship: Curse
+Weapon: Indirect Scanning Dampening Unit I
+
+Name: Tregaron
+Security: 1.7
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Cyclone
+Weapon: 650mm Artillery Cannon II
+
+
+Destroyed items:
+
+Dual Heavy Pulse Laser II
+Dual Heavy Pulse Laser II
+Heavy Nosferatu I
+Conflagration L
+Conflagration L
+Conflagration L
+Conflagration L
+Warp Disruptor I
+Sensor Booster I
+Heat Sink II
+1600mm Reinforced Rolled Tungsten Plates I
+Capacitor Power Relay I
+Multifrequency L, Qty: 7 (Cargo)
+Scorch L, Qty: 4 (Cargo)
+

@@ -1,0 +1,19 @@
+2007.01.28 07:00
+
+Victim: RadicalXV
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Destroyed: Capsule
+System: N-Q5PW
+Security: 0.0
+
+Involved parties:
+
+Name: Satal Sonshi (laid the final blow)
+Security: 3.2
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Rupture
+Weapon: 650mm Medium Gallium I Cannon
+
+

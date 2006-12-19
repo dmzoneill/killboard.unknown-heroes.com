@@ -1,0 +1,29 @@
+2006.10.10 17:52
+
+Victim: Ella Darkstar
+Alliance: None
+Corp: State War Academy
+Destroyed: Incursus
+System: O-CNPR
+Security: 0.0
+
+Involved parties:
+
+Name: James Potkukelkka (laid the final blow)
+Security: 0.2
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Flycatcher
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+Antimatter Charge S, Qty: 394
+1MN Afterburner I
+Warp Scrambler I
+'Langour' Drive Disruptor I
+Magnetic Field Stabilizer I
+Stasis Webifier I (Cargo)
+Antimatter Charge S, Qty: 2172 (Cargo)
+

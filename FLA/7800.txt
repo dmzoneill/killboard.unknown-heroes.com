@@ -1,0 +1,68 @@
+2006.08.30 01:26
+
+Victim: Downeaster
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Destroyed: Badger Mark II
+System: X-7OMU
+Security: 0.0
+
+Involved parties:
+
+Name: Apocalyptical (laid the final blow)
+Security: 4.1
+Alliance: Ascendant Frontier
+Corp: Sha Kharn Corp
+Ship: Megathron
+Weapon: Ion Blaster Cannon II
+
+Name: Drift Spec
+Security: 5.0
+Alliance: Ascendant Frontier
+Corp: Sha Kharn Corp
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: TheLast0ne
+Security: 5.0
+Alliance: Ascendant Frontier
+Corp: THE LEGION OF STEEL WARRIORS....
+Ship: Hawk
+Weapon: Flameburst Light Missile
+
+Name: Tomic
+Security: 5.0
+Alliance: Ascendant Frontier
+Corp: Celestial Fleet
+Ship: Flycatcher
+Weapon: Sabretooth Light Missile
+
+Name: Metacannibal
+Security: 2.1
+Alliance: Ascendant Frontier
+Corp: Sha Kharn Corp
+Ship: Sacrilege
+Weapon: Focused Medium Pulse Laser II
+
+Name: ecky
+Security: 5.0
+Alliance: Ascendant Frontier
+Corp: Celestial Fleet
+Ship: Vengeance
+Weapon: Medium Pulse Laser II
+
+Name: Retnik
+Security: 2.0
+Alliance: Ascendant Frontier
+Corp: THE LEGION OF STEEL WARRIORS....
+Ship: Thorax
+Weapon: Initiated Warp Jammer I
+
+
+Destroyed items:
+
+10MN Afterburner I
+Warp Core Stabilizer I
+Warp Core Stabilizer I
+Warp Core Stabilizer I
+

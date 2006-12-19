@@ -1,0 +1,27 @@
+2007.04.24 22:53
+
+Victim: Sha'ara Sha'amashira
+Alliance: Freelancer Alliance
+Corp: J.I.T. Enterprises
+Destroyed: Cyclone
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Minmatar Control Tower / Elite Storm Enterprises (laid the final blow)
+
+
+Destroyed items:
+
+720mm Howitzer Artillery II
+Tremor M, Qty: 10
+'Orion' Tracking CPU I
+'Orion' Tracking CPU I
+'Orion' Tracking CPU I
+Gyrostabilizer II
+Tracking Enhancer II
+Tracking Enhancer II
+Tremor M, Qty: 3956 (Cargo)
+Vespa I, Qty: 4 (Drone Bay)
+

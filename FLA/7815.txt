@@ -1,0 +1,60 @@
+2006.09.03 00:42
+
+Victim: Th3 HuNt3r
+Alliance: Freelancer Alliance
+Corp: EVE MegaCorp Association
+Destroyed: Rifter
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Jessica Radaen
+Security: 0.4
+Alliance: None
+Corp: Forever Changes
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: ElGuapo
+Security: 3.8
+Alliance: None
+Corp: Omniscient Order
+Ship: Ares
+Weapon: Piranha Light Missile
+
+Name: Gaia's Wrath (laid the final blow)
+Security: 5.0
+Alliance: None
+Corp: CHOSEN FATE
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+Name: Crusari
+Security: 5.0
+Alliance: None
+Corp: Omniscient Order
+Ship: Ishtar
+Weapon: 125mm Railgun II
+
+Name: mier
+Security: 1.2
+Alliance: None
+Corp: Sicarri Covenant
+Ship: Taranis
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: Noobjuice
+Security: -1.6
+Alliance: None
+Corp: Omniscient Order
+Ship: Claw
+Weapon: 150mm Light AutoCannon II
+
+
+Destroyed items:
+
+Limited Light Ion Blaster I
+Regulated Light Ion Phase Cannon I
+1MN MicroWarpdrive I
+

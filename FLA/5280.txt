@@ -1,0 +1,32 @@
+2007.04.23 17:23
+
+Victim: Rhaall
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Executioner
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: sgtdark (laid the final blow)
+Security: 5.0
+Alliance: Storm Armada
+Corp: stone grave haulage
+Ship: Chimera
+Weapon: Einherji
+
+Name: Screamer
+Security: 0.8
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Chimera
+Weapon: Einherji
+
+
+Destroyed items:
+
+Small Nosferatu I
+1MN MicroWarpdrive I
+Capacitor Power Relay I
+

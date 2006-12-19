@@ -1,0 +1,40 @@
+2006.12.29 19:02
+
+Victim: Xantheris
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Destroyed: Taranis
+System: Torrinos
+Security: 0.5
+
+Involved parties:
+
+Name: Moandor (laid the final blow)
+Security: -2.2
+Alliance: None
+Corp: omen.
+Ship: Raptor
+Weapon: Flameburst Light Missile
+
+Name: Kar'Dargo
+Security: 2.7
+Alliance: None
+Corp: omen.
+Ship: Raven
+Weapon: Cataclysm Cruise Missile
+
+
+Destroyed items:
+
+Small 'Knave' I Energy Drain
+Light Electron Blaster II
+Light Electron Blaster II
+Null S, Qty: 156
+1MN MicroWarpdrive I
+Warp Scrambler I
+Magnetic Field Stabilizer II
+Nanofiber Internal Structure I
+Void S, Qty: 431 (Cargo)
+Null S, Qty: 293 (Cargo)
+Acolyte I (Drone Bay)
+

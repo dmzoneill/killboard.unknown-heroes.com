@@ -1,0 +1,33 @@
+2007.03.25 18:19
+
+Victim: 1YPS
+Alliance: FATAL Alliance
+Corp: FATAL REVELATIONS
+Destroyed: Minmatar Shuttle
+System: FD53-H
+Security: 0.0
+
+Involved parties:
+
+Name: Burn Lump (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: Malicel
+Security: 2.7
+Alliance: The Sundering
+Corp: ironwood ink
+Ship: Enyo
+Weapon: Enyo
+
+Name: Nya
+Security: 3.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Muninn
+Weapon: 'Malkuth' Rocket Launcher I
+
+

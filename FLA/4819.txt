@@ -1,0 +1,50 @@
+2007.04.16 10:17
+
+Victim: Thorvald Finnin
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Destroyed: Cormorant
+System: Magiko
+Security: 0.9
+
+Involved parties:
+
+Name: 5layer
+Security: 4.6
+Alliance: Privateer Alliance
+Corp: Beyond Divinity Inc
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Arkaiser (laid the final blow)
+Security: -1.8
+Alliance: Privateer Alliance
+Corp: Beyond Divinity Inc
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: iron maiden
+Security: -1.5
+Alliance: Privateer Alliance
+Corp: Beyond Divinity Inc
+Ship: Lachesis
+Weapon: Scourge Heavy Missile
+
+
+Destroyed items:
+
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+280mm Howitzer Artillery I
+125mm Railgun I
+Iron Charge S, Qty: 80
+Phased Weapon Navigation Array Generation Extron
+Arch Angel Proton S, Qty: 984 (Cargo)
+Iron Charge S, Qty: 6838 (Cargo)
+Oxygen, Qty: 60 (Cargo)
+Gremlin Rocket, Qty: 9754 (Cargo)
+

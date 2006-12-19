@@ -1,0 +1,26 @@
+2007.04.05 22:33
+
+Victim: logosmani
+Alliance: None
+Corp: Aliastra
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Penal Serge (laid the final blow)
+Security: 5.0
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Drake
+Weapon: Thunderbolt Fury Heavy Missile
+
+Name: Steven FSB
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Harpy
+Weapon: Harpy
+
+

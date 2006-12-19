@@ -1,0 +1,49 @@
+2006.10.18 18:26
+
+Victim: Aust D'Lian
+Alliance: R.I.S.K
+Corp: ReD eYe Inc.
+Destroyed: Kestrel
+System: O-N8XZ
+Security: 0.0
+
+Involved parties:
+
+Name: Jumar Coldgin (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+Name: James Potkukelkka
+Security: 0.2
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Flycatcher
+Weapon: Upgraded 'Limos' Standard Missile Bay I
+
+Name: kookos
+Security: 2.9
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Crusader
+Weapon: Dual Light Pulse Laser II
+
+Name: Tri Ounou
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Jaguar
+Weapon: Jaguar
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 80
+Flameburst Light Missile, Qty: 40
+Standard Missile Launcher I
+Magnetic Scattering Amplifier I
+Flameburst Light Missile, Qty: 520 (Cargo)
+Rocket Launcher I, Qty: 2 (Cargo)
+

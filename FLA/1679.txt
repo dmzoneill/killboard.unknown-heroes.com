@@ -1,0 +1,40 @@
+2007.03.20 20:24
+
+Victim: Malificient
+Alliance: None
+Corp: Junk Systems Inc.
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Kalico (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Claw
+Weapon: 250mm Light Artillery Cannon II
+
+Name: Cho Solo
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Deimos
+Weapon: 150mm Railgun II
+
+Name: AaLaA
+Security: 4.5
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Ares
+Weapon: Small 'Knave' I Energy Drain
+
+Name: Kintaris Zulu
+Security: 5.0
+Alliance: CORE.
+Corp: Red 42
+Ship: Blackbird
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+

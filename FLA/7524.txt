@@ -1,0 +1,52 @@
+2006.09.12 19:42
+
+Victim: 666DooM666
+Alliance: None
+Corp: Stardust Heavy Industries
+Destroyed: Kestrel
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Erlir
+Security: 0.6
+Alliance: Freelancer Alliance
+Corp: Veturi
+Ship: Enyo
+Weapon: Enyo
+
+Name: jacass66 (laid the final blow)
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Brutix
+Weapon: Hornet II
+
+Name: Hosanna
+Security: -1.6
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Bellicose
+Weapon: Compact 'Limos' Assault Missile Bay I
+
+Name: Drakin Korin
+Security: -0.8
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Ishtar
+Weapon: Fleeting Warp Scrambler I
+
+Name: Cockroach
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Vengeance
+Weapon: Medium Beam Laser II
+
+
+Destroyed items:
+
+1MN Afterburner I
+Bookmark, Qty: 2 (Cargo)
+

@@ -1,0 +1,47 @@
+2006.10.08 20:50
+
+Victim: Firid Soulbane
+Alliance: None
+Corp: Empyreum
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: jarson (laid the final blow)
+Security: -0.3
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Claw
+Weapon: 200mm AutoCannon II
+
+Name: Needa3
+Security: 5.0
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Jaguar
+Weapon: 280mm Howitzer Artillery II
+
+Name: Gangreen
+Security: 0.1
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Incursus
+Weapon: 125mm 'Scout' I Accelerator Cannon
+
+Name: Formosus Funus
+Security: 2.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Wolf
+Weapon: 200mm Light 'Scout' Autocannon I
+
+Name: DanyD
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Ship: Crow
+Weapon: 'Langour' Drive Disruptor I
+
+

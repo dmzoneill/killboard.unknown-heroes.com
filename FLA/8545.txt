@@ -1,0 +1,34 @@
+2006.11.26 16:53
+
+Victim: Strobelix
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Brutix
+System: Piak
+Security: 0.7
+
+Involved parties:
+
+Name: Elliott Manchild (laid the final blow)
+Security: -1.6
+Alliance: None
+Corp: omen.
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+
+Destroyed items:
+
+250mm Prototype I Gauss Gun
+250mm Prototype I Gauss Gun
+150mm Railgun II
+Antimatter Charge M, Qty: 28
+Medium 'Solace' I Remote Bulwark Reconstruction
+Voltaic Nanite Thermic Hardener I
+Antimatter Charge M, Qty: 3500 (Cargo)
+Iridium Charge M, Qty: 2762 (Cargo)
+Antimatter Charge S, Qty: 1861 (Cargo)
+Antimatter Charge M Blueprint (Cargo)
+Iridium Charge M Blueprint, Qty: 2 (Cargo)
+Uranium Charge M Blueprint (Cargo)
+

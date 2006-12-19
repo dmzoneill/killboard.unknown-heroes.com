@@ -1,0 +1,54 @@
+2007.04.03 00:35
+
+Victim: Replicator Swordstalker
+Alliance: Freelancer Alliance
+Corp: ACCORD Industries
+Destroyed: Capsule
+System: F7C-H0
+Security: 0.0
+
+Involved parties:
+
+Name: Magnelien
+Security: 4.3
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Crow
+Weapon: Gremlin Rocket
+
+Name: Erikel
+Security: 4.5
+Alliance: YouWhat
+Corp: Cosmic Odyssey
+Ship: Myrmidon
+Weapon: Myrmidon
+
+Name: Thyago (laid the final blow)
+Security: 5.0
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Ishkur
+Weapon: Hobgoblin II
+
+Name: evilempire0
+Security: -0.5
+Alliance: YouWhat
+Corp: Cosmic Odyssey
+Ship: Caracal
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+Name: Lord Revent
+Security: 1.2
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Hound
+Weapon: XT-9000 Cruise Launcher
+
+Name: Lakastre
+Security: 0.6
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Curse
+Weapon: J5 Prototype Warp Inhibitor I
+
+

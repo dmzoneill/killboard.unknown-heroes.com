@@ -1,0 +1,42 @@
+2006.10.07 19:20
+
+Victim: Lone flyer
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Destroyed: Zealot
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Kalissa (laid the final blow)
+Security: 1.8
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Chimera
+Weapon: Firbolg
+
+Name: Murdoch Morf
+Security: 2.8
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+Heavy Pulse Laser II
+Scorch M
+Y-S8 Hydrocarbon I Afterburners
+Pseudoelectron Containment Field I
+Medium 'Accommodation' Vestment Reconstructer I
+Heat Sink II
+Heat Sink II
+Energized Thermic Membrane I
+Fleeting Warp Scrambler I (Cargo)
+Infrared M (Cargo)
+Multifrequency M, Qty: 2 (Cargo)
+Scorch M, Qty: 2 (Cargo)
+Conflagration M, Qty: 3 (Cargo)
+

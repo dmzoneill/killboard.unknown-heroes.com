@@ -1,0 +1,119 @@
+2007.02.24 06:00
+
+Victim: Malus Mortis
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Destroyed: Thrasher
+System: 9-VO0Q
+Security: 0.0
+
+Involved parties:
+
+Name: Ahramaine
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Thorax
+Weapon: Thorax
+
+Name: Nukuquqa Hestase
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Catalyst
+Weapon: Catalyst
+
+Name: KriegDrachen
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Sabre
+Weapon: Fleeting Propulsion Inhibitor I
+
+Name: ventura5
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Raptor
+Weapon: Raptor
+
+Name: Swanny231
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Crow
+Weapon: Piranha Light Missile
+
+Name: DeathCoInc
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Raptor
+Weapon: Raptor
+
+Name: Xantheris (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+Name: Skull Fire
+Security: 0.7
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: digital oxygen
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Ares
+Weapon: Ares
+
+Name: Space Chi
+Security: 1.8
+Alliance: Zenith Affinity
+Corp: The Edge Foundation
+Ship: Deimos
+Weapon: Heavy Neutron Blaster II
+
+Name: Flying Underpants
+Security: 0.2
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Enyo
+Weapon: Initiated Warp Jammer I
+
+Name: 3ungle
+Security: 5.0
+Alliance: Zenith Affinity
+Corp: Antipodean inc.
+Ship: Helios
+Weapon: Phased Muon Sensor Disruptor I
+
+
+Destroyed items:
+
+Salvager I, Qty: 72
+280mm Howitzer Artillery II, Qty: 3
+1MN MicroWarpdrive I
+Mark I Modified SS Inertial Stabilizers, Qty: 2
+10MN MicroWarpdrive I (Cargo)
+100MN Afterburner I (Cargo)
+Large Ld-Acid Capacitor Battery I (Cargo)
+Large Peroxide I Capacitor Power Cell (Cargo)
+Large F-4a Ld-Sulfate I Capacitor Charge Unit (Cargo)
+Large Armor Repairer I (Cargo)
+Large Inefficient Armor Repair Unit (Cargo)
+425mm Railgun I (Cargo)
+Thorium Charge L, Qty: 100 (Cargo)
+Tungsten Charge L, Qty: 100 (Cargo)
+Uranium Charge L, Qty: 100 (Cargo)
+Large Remote Armor Repair System I (Cargo)
+Armor Explosive Hardener I (Cargo)
+Quake S, Qty: 100 (Cargo)
+Fried Interface Circuit, Qty: 9 (Cargo)
+Conductive Polymer, Qty: 3 (Cargo)
+Tripped Power Circuit, Qty: 10 (Cargo)

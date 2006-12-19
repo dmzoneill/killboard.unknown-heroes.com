@@ -1,0 +1,65 @@
+2007.03.30 20:20
+
+Victim: Shadowjet
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Destroyed: Crow
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Weeble Wooble (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Kerdrak
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Vengeance
+Weapon: Vengeance
+
+Name: william kronos
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Caracal
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+Name: Logand Delta
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Ship: Drake
+Weapon: 'Arbalest' Heavy Missile Launcher
+
+Name: Korudon
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Brutix
+Weapon: 200mm Railgun I
+
+Name: Drako Invictus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Absolution
+Weapon: Warrior TP-300
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 96
+Standard Missile Launcher II
+Local Power Plant Manager: Capacity Power Relay I
+200mm AutoCannon II, Qty: 5 (Cargo)
+Sabretooth Light Missile, Qty: 497 (Cargo)
+Piranha Light Missile, Qty: 498 (Cargo)
+Bloodclaw Light Missile, Qty: 1000 (Cargo)
+Flameburst Light Missile, Qty: 499 (Cargo)
+

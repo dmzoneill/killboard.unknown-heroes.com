@@ -1,0 +1,76 @@
+2006.11.16 22:59
+
+Victim: jacass66
+Alliance: Freelancer Alliance
+Corp: BGG
+Destroyed: Thanatos
+System: O-CNPR
+Security: 0.0
+
+Involved parties:
+
+Name: H Zub (laid the final blow)
+Security: 0.0
+Alliance: The Sani Sabik
+Corp: Omniscient Order
+Ship: Dominix
+Weapon: Ogre II
+
+Name: Noobjuice
+Security: -1.8
+Alliance: The Sani Sabik
+Corp: Omniscient Order
+Ship: Typhoon
+Weapon: Wasp I
+
+Name: Elric TheWhite
+Security: -0.1
+Alliance: The Sani Sabik
+Corp: Omniscient Order
+Ship: Typhoon
+Weapon: Typhoon
+
+Name: Elgan
+Security: -0.8
+Alliance: The Sani Sabik
+Corp: Omniscient Order
+Ship: Zealot
+Weapon: Zealot
+
+Name: panman
+Security: 2.7
+Alliance: None
+Corp: Deep Core Mining Inc.
+Ship: Megathron
+Weapon: Warrior II
+
+Name: Crusari
+Security: 5.0
+Alliance: The Sani Sabik
+Corp: Omniscient Order
+Ship: Megathron
+Weapon: Faint Warp Prohibitor I
+
+
+Destroyed items:
+
+Drone Control Unit I
+Drone Control Unit I
+Heavy F-RX Prototype I Capacitor Boost
+Sensor Booster II
+Sensor Booster II
+Capital Armor Repairer I
+Capital Armor Repairer I
+Armor Explosive Hardener II
+Armor Kinetic Hardener II
+Oxygen Isotopes, Qty: 13401 (Cargo)
+Hornet II, Qty: 20 (Drone Bay)
+Wasp I, Qty: 2 (Drone Bay)
+Hammerhead I, Qty: 2 (Drone Bay)
+Ogre I, Qty: 3 (Drone Bay)
+Mining Drone I, Qty: 11 (Drone Bay)
+Einherji (Drone Bay)
+Templar, Qty: 2 (Drone Bay)
+Medium Armor Maintenance Bot I, Qty: 17 (Drone Bay)
+Medium Shield Maintenance Bot I, Qty: 10 (Drone Bay)
+

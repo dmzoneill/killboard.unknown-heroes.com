@@ -1,0 +1,40 @@
+2006.11.26 02:56
+
+Victim: fuer bewn
+Alliance: None
+Corp: Ggame Online Corp
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Zimi Vlasic (laid the final blow)
+Security: 0.8
+Alliance: EVE Animal Control
+Corp: F.R.E.E. Explorer
+Ship: Rupture
+Weapon: 650mm Artillery Cannon II
+
+Name: dastommy79
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Merlin
+Weapon: 150mm Railgun I
+
+Name: Trucidio
+Security: 5.0
+Alliance: None
+Corp: MetaForge
+Ship: Ishkur
+Weapon: 125mm Railgun II
+
+Name: NATMav
+Security: 2.2
+Alliance: EVE Animal Control
+Corp: F.R.E.E. Explorer
+Ship: Manticore
+Weapon: Phased Weapon Navigation Array Generation Extron
+
+

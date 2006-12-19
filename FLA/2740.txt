@@ -1,0 +1,117 @@
+2007.03.04 17:16
+
+Victim: Kalico
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Destroyed: Typhoon
+System: 9-VO0Q
+Security: 0.0
+
+Involved parties:
+
+Name: DimitriFin
+Security: 5.0
+Alliance: Xelas Alliance
+Corp: 7th Space Cavalry
+Ship: Megathron
+Weapon: Heavy 'Knave' I Energy Drain
+
+Name: Guacamol
+Security: 4.6
+Alliance: Xelas Alliance
+Corp: 7th Space Cavalry
+Ship: Sacrilege
+Weapon: Hornet I
+
+Name: Veshta Yoshida
+Security: 3.5
+Alliance: Xelas Alliance
+Corp: Mining Bytes Inc.
+Ship: Harbinger
+Weapon: Focused Medium Pulse Laser II
+
+Name: Strelook
+Security: -0.5
+Alliance: Xelas Alliance
+Corp: Requiem of Hades
+Ship: Tempest
+Weapon: Dual 650mm Repeating Artillery II
+
+Name: Natheniel
+Security: 4.0
+Alliance: Xelas Alliance
+Corp: Fallen Angel's
+Ship: Taranis
+Weapon: Taranis
+
+Name: Tolan
+Security: 3.3
+Alliance: Xelas Alliance
+Corp: Setenta Corp
+Ship: Curse
+Weapon: Valkyrie II
+
+Name: raptor 1982
+Security: 5.0
+Alliance: Xelas Alliance
+Corp: Nemesis Industries
+Ship: Enyo
+Weapon: Light Ion Blaster I
+
+Name: Grayhem (laid the final blow)
+Security: 1.8
+Alliance: Xelas Alliance
+Corp: 7th Space Cavalry
+Ship: Hawk
+Weapon: Bloodclaw Fury Light Missile
+
+Name: Reinhant
+Security: -1.1
+Alliance: Xelas Alliance
+Corp: Requiem of Hades
+Ship: Curse
+Weapon: Valkyrie II
+
+Name: Bruce Bannon
+Security: 0.5
+Alliance: Xelas Alliance
+Corp: Mining Bytes Inc.
+Ship: Moa
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: Califax Oman
+Security: -5.4
+Alliance: Xelas Alliance
+Corp: Mining Bytes Inc.
+Ship: Flycatcher
+Weapon: Gremlin Rocket
+
+Name: ericAmerica
+Security: 4.9
+Alliance: Xelas Alliance
+Corp: Fallen Angel's
+Ship: Rifter
+Weapon: Rifter
+
+
+Destroyed items:
+
+800mm Repeating Artillery II
+800mm Repeating Artillery II
+Titanium Sabot L, Qty: 172
+Mjolnir Torpedo, Qty: 16
+Havoc Heavy Missile, Qty: 31
+'Arbalest' Siege Missile Launcher
+'Arbalest' Siege Missile Launcher
+Advanced 'Limos' Heavy Missile Bay I
+Quad LiF Fueled I Booster Rockets
+Supplemental Scanning CPU I
+Parallel Weapon Navigation Transmitter
+Damage Control I
+Large Armor Repairer II
+N-Type Thermic Hardener I
+N-Type Kinetic Hardener I
+Titanium Sabot L, Qty: 1146 (Cargo)
+Mjolnir Torpedo, Qty: 272 (Cargo)
+Havoc Heavy Missile, Qty: 1551 (Cargo)
+

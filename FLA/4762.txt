@@ -1,0 +1,45 @@
+2007.04.21 10:59
+
+Victim: Tushani
+Alliance: None
+Corp: Kamikaze Inc.
+Destroyed: Sabre
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Mufeater (laid the final blow)
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Vexor
+Weapon: Heavy Ion Blaster I
+
+Name: FlobbMkII
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Unknown
+Weapon: ECM - Multispectral Jammer I
+
+Name: Bstrawed2
+Security: 0.0
+Alliance: 3asy Company
+Corp: Plundering Penguins
+Ship: Unknown
+Weapon: Standard Missile Launcher I
+
+
+Destroyed items:
+
+250mm Light Artillery Cannon II
+250mm Light Artillery Cannon II
+250mm Light Artillery Cannon II
+EMP S, Qty: 84
+Warp Disrupt Probe, Qty: 10
+Tracking Computer II
+Carbonized Lead S, Qty: 427 (Cargo)
+Quake S, Qty: 352 (Cargo)
+Warp Disrupt Probe, Qty: 8 (Cargo)
+

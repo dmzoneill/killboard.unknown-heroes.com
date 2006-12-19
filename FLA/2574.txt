@@ -1,0 +1,52 @@
+2007.02.23 17:30
+
+Victim: Ghu'ru Talozan
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Ishkur
+System: Sivala
+Security: 0.6
+
+Involved parties:
+
+Name: h4x0 (laid the final blow)
+Security: -1.8
+Alliance: Privateer Alliance
+Corp: The IMorral MAjority
+Ship: Malediction
+Weapon: Dual Light Pulse Laser II
+
+Name: Legacy Stern
+Security: -1.9
+Alliance: Privateer Alliance
+Corp: Privateers
+Ship: Stabber
+Weapon: Stabber
+
+Name: McLiey
+Security: 2.5
+Alliance: Privateer Alliance
+Corp: Tempt Fate
+Ship: Taranis
+Weapon: Taranis
+
+Name: Ninon Lanclos
+Security: 3.7
+Alliance: Privateer Alliance
+Corp: Tempt Fate
+Ship: Celestis
+Weapon: Celestis
+
+
+Destroyed items:
+
+E5 Prototype Energy Vampire
+Light Electron Blaster II
+Light Electron Blaster II
+Null S, Qty: 370
+1MN MicroWarpdrive I
+Patterned Stasis Web I
+Energized Adaptive Nano Membrane I
+N-Type Explosive Hardener I
+Null S, Qty: 1358 (Cargo)
+

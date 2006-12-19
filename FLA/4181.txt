@@ -1,0 +1,68 @@
+2007.04.03 19:56
+
+Victim: Mikal Drey
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Destroyed: Claw
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Draximus Cane
+Security: -0.4
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Olli (laid the final blow)
+Security: -0.1
+Alliance: S.E.R.A
+Corp: Seraphin Technologies
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Enosh Kerrim
+Security: -1.8
+Alliance: S.E.R.A
+Corp: Seraphin Technologies
+Ship: Astarte
+Weapon: Heavy Ion Blaster II
+
+Name: 4SG GillHead
+Security: 5.0
+Alliance: S.E.R.A
+Corp: Seraphin Technologies
+Ship: Malediction
+Weapon: Malediction
+
+Name: Nuwa
+Security: 1.4
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Lachesis
+Weapon: Widowmaker Heavy Missile
+
+Name: Steve Dave
+Security: 4.1
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Hawk
+Weapon: Sabretooth Light Missile
+
+Name: Lady Rania
+Security: -8.3
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Huginn
+Weapon: Advanced 'Limos' Heavy Missile Bay I
+
+Name: ZaKma
+Security: -0.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Wolf
+Weapon: Fleeting Warp Scrambler I
+
+

@@ -1,0 +1,29 @@
+2007.03.06 20:27
+
+Victim: Illesa
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Destroyed: Stiletto
+System: 3WE-KY
+Security: 0.0
+
+Involved parties:
+
+Name: fnar g (laid the final blow)
+Security: -6.2
+Alliance: Corelum Syndicate
+Corp: Coreli Corporation
+Ship: Rifter
+Weapon: 150mm Light AutoCannon II
+
+
+Destroyed items:
+
+150mm Light AutoCannon II
+150mm Light AutoCannon II
+Barrage S, Qty: 126
+Eutectic I Capacitor Charge Array
+1MN MicroWarpdrive II
+J5 Prototype Warp Inhibitor I
+Barrage S, Qty: 4003 (Cargo)
+

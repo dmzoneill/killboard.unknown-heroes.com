@@ -1,0 +1,53 @@
+2007.04.22 05:29
+
+Victim: Teh Juicyfruit
+Alliance: YouWhat
+Corp: Artificial Horizons
+Destroyed: Capsule
+System: DO6H-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Tran Whistler (laid the final blow)
+Security: 5.3
+Alliance: Freelancer Alliance
+Corp: Harbingers of Sarrow
+Ship: Caracal
+Weapon: Flameburst Light Missile
+
+Name: Bobby Atlas
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Celestis
+Weapon: Heavy Missile Launcher I
+
+Name: Kvarium Ki
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Breacher
+Weapon: Breacher
+
+Name: Nukuquqa Hestase
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Kestrel
+Weapon: Sabretooth Light Missile
+
+Name: TroNaaR
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Tristan
+Weapon: Tristan
+
+Name: Val Dauphen
+Security: 3.7
+Alliance: Freelancer Alliance
+Corp: Devious - Special Forces G.H.O.S.T Fleet Delta
+Ship: Kestrel
+Weapon: Standard Missile Launcher I
+

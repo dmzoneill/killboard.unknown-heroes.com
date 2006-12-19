@@ -1,0 +1,35 @@
+2007.03.25 21:29
+
+Victim: Tannach
+Alliance: None
+Corp: The Littlest Hobos
+Destroyed: Lachesis
+System: Uedama
+Security: 0.5
+
+Involved parties:
+
+Name: Kaerion Skywalker (laid the final blow)
+Security: 0.1
+Alliance: Freelancer Alliance
+Corp: Harbingers of Sarrow
+Ship: Raven
+Weapon: Cataclysm Fury Cruise Missile
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Medium Nosferatu I
+Widowmaker Heavy Missile, Qty: 16
+Advanced 'Limos' Heavy Missile Bay I
+Warp Disruptor I
+Warp Disruptor I
+Cap Booster 800
+Remote Sensor Dampener II
+Remote Sensor Dampener II
+Sensor Booster II
+Cap Booster 800, Qty: 2 (Cargo)
+Hobgoblin II, Qty: 3 (Drone Bay)
+Vespa II (Drone Bay)
+

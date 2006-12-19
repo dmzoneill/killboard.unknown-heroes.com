@@ -1,0 +1,61 @@
+2006.08.08 17:02
+
+Victim: jondow
+Alliance: None
+Corp: Lynx Frontier Inc.
+Destroyed: Iteron Mark IV
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Jumar Coldgin
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Harpy
+Weapon: Harpy
+
+Name: Zalamus (laid the final blow)
+Security: 1.5
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Dominix
+Weapon: Wasp I
+
+Name: Ione79
+Security: 3.2
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Ishkur
+Weapon: Ishkur
+
+
+Destroyed items:
+
+Ballistic Deflection Field I
+Small Supplemental Barrier Emitter I, Qty: 2 (Cargo)
+Large Supplemental Barrier Emitter I (Cargo)
+Large F-S9 Regolith Shield Induction, Qty: 3 (Cargo)
+Large Azeotropic Ward Salubrity I (Cargo)
+Large Shield Extender I, Qty: 3 (Cargo)
+Barton Reactor Capacitor Recharger I, Qty: 2 (Cargo)
+Y-S8 Hydrocarbon I Afterburners (Cargo)
+10MN MicroWarpdrive I, Qty: 2 (Cargo)
+Warp Scrambler I, Qty: 2 (Cargo)
+Small Energy Neutralizer I (Cargo)
+Medium Energy Neutralizer I, Qty: 2 (Cargo)
+125mm Railgun II, Qty: 2 (Cargo)
+FZ-3 Subversive Spatial Destabilizer ECM (Cargo)
+ECM - Phase Inverter I (Cargo)
+ECM - White Noise Generator I, Qty: 3 (Cargo)
+ECCM - Ladar I (Cargo)
+Prototype I Sensor Booster, Qty: 4 (Cargo)
+Hawk (Cargo)
+Shield Boost Amplifier I (Cargo)
+Type-D Altered SS Nanofiber Structure, Qty: 5 (Cargo)
+Nanofiber Internal Structure I, Qty: 2 (Cargo)
+Expanded Cargohold I, Qty: 2 (Cargo)
+Capacitor Power Relay I, Qty: 5 (Cargo)
+Local Power Plant Manager: Reaction Control I (Cargo)
+

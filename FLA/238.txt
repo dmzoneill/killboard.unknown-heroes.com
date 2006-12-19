@@ -1,0 +1,164 @@
+2007.01.19 23:46
+
+Victim: Chaser Wolf
+Alliance: Triumvirate.
+Corp: D00M.
+Destroyed: Crow
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Sils wife
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Brutix
+Weapon: Brutix
+
+Name: Kandread (laid the final blow)
+Security: 0.6
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Burn Lump
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Ferox
+Weapon: Ferox
+
+Name: mrrabit
+Security: 3.1
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Thrasher
+Weapon: Thrasher
+
+Name: movy
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Eris
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+Name: Steven FSB
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Moa
+Weapon: 250mm 'Scout' I Accelerator Cannon
+
+Name: Teck7
+Security: 0.8
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Lachesis
+Weapon: Hammerhead I
+
+Name: Malkius
+Security: 1.9
+Alliance: Forces of Freedom
+Corp: JUDGE DREAD Inc.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Rev Darkwing
+Security: 2.6
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Raven
+Weapon: Vespa I
+
+Name: Chiera
+Security: 0.8
+Alliance: CORE.
+Corp: Red 42
+Ship: Unknown
+Weapon: 250mm Railgun I
+
+Name: Koetje II
+Security: 2.8
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Rifter
+Weapon: Initiated Warp Jammer I
+
+Name: Kateryne
+Security: -0.6
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Kestrel
+Weapon: Rocket Launcher II
+
+Name: Kee Ris
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Crusader
+Weapon: Crusader
+
+Name: Minisoza
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Celestis
+Weapon: 200mm 'Scout' I Accelerator Cannon
+
+Name: Xantheris
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Celestis
+Weapon: Remote Sensor Dampener I
+
+Name: Tnam
+Security: 0.2
+Alliance: None
+Corp: BGG
+Ship: Vigil
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: Thiet
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Raven
+Weapon: 'Arbalest' Cruise Launcher I
+
+Name: Strobelix
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Thorax
+Weapon: 'Langour' Drive Disruptor I
+
+Name: Sidrat Flush
+Security: 1.7
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Kestrel
+Weapon: Remote Sensor Dampener I
+
+Name: Quiomi
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Ferox
+Weapon: 'Arbalest' Heavy Missile Launcher
+
+
+Destroyed items:
+
+E5 Prototype Energy Vampire
+Thorn Rocket, Qty: 80
+Rocket Launcher II
+Rocket Launcher II
+1MN MicroWarpdrive II
+Small Armor Repairer II
+200mm Reinforced Rolled Tungsten Plates I
+Micro Auxiliary Power Core I
+Thorn Rocket, Qty: 736 (Cargo)
+

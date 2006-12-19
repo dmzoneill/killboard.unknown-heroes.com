@@ -1,0 +1,29 @@
+2007.02.05 19:53
+
+Victim: EM00
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Destroyed: Incursus
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Flavius Renatus (laid the final blow)
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Sleipnir
+Weapon: 650mm Artillery Cannon II
+
+
+Destroyed items:
+
+Light Ion Blaster I
+Light Ion Blaster I
+Antimatter Charge S, Qty: 120
+Small Shield Extender I
+Capacitor Power Relay I
+Capacitor Power Relay I
+Antimatter Charge S, Qty: 4482 (Cargo)
+

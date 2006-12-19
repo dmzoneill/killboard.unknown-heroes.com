@@ -1,0 +1,106 @@
+2007.03.11 12:48
+
+Victim: fLitSer
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Destroyed: Myrmidon
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: ClogMan (laid the final blow)
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Mufeater
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Megathron
+Weapon: Vespa II
+
+Name: Illesa
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Caracal
+Weapon: Warrior TP-300
+
+Name: Praetorian Mardou
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Rokh
+Weapon: Cataclysm Cruise Missile
+
+Name: Kargh
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Thorax
+Weapon: 200mm Railgun I
+
+Name: Nukuquqa Hestase
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Harpy
+Weapon: Harpy
+
+Name: Altanzar
+Security: 4.5
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Ship: Capsule
+Weapon: Light Neutron Blaster II
+
+Name: Tetrahagel
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Thorax
+Weapon: Thorax
+
+Name: Caranthir
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Huginn
+Weapon: 720mm Howitzer Artillery II
+
+Name: MrMaggot
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Hawk
+Weapon: Sabretooth Light Missile
+
+Name: a51 duke1406
+Security: -0.2
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Myrmidon
+Weapon: Hammerhead II
+
+Name: FlobbMkII
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Taranis
+Weapon: J5 Prototype Warp Inhibitor I
+
+
+Destroyed items:
+
+Light Ion Blaster II
+Antimatter Charge S, Qty: 110
+Medium Capacitor Booster I
+Medium Armor Repairer II
+Armor Explosive Hardener I
+Cap Booster 800, Qty: 12 (Cargo)
+Ogre II (Drone Bay)
+

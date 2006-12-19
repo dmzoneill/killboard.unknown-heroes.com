@@ -1,0 +1,52 @@
+2007.03.25 20:06
+
+Victim: ConXtionS
+Alliance: Freelancer Alliance
+Corp: The Night Crew
+Destroyed: Atron
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Yushii (laid the final blow)
+Security: -0.3
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Vagabond
+Weapon: Dual 180mm AutoCannon II
+
+Name: Riddick KHK
+Security: 5.0
+Alliance: None
+Corp: Pitch Black Incorporated
+Ship: Wolf
+Weapon: Fleeting Progressive Warp Scrambler I
+
+Name: Electric Cucumber
+Security: -1.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Claw
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+Name: Alchem
+Security: 2.9
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Ishtar
+Weapon: 150mm Railgun II
+
+Name: Sith Bandon
+Security: 5.0
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Ishtar
+Weapon: J5 Prototype Warp Inhibitor I
+
+
+Destroyed items:
+
+1MN MicroWarpdrive I
+Warp Core Stabilizer I
+

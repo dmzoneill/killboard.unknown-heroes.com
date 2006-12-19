@@ -1,0 +1,156 @@
+2007.01.29 22:12
+
+Victim: kaitamm
+Alliance: None
+Corp: Perkone
+Destroyed: Raven
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Jorax
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Myrmidon
+Weapon: Ogre I
+
+Name: Kee Ris
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Retribution
+Weapon: Retribution
+
+Name: Teck7
+Security: 0.8
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ishtar
+Weapon: Hammerhead II
+
+Name: Dark Carnage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Drake
+Weapon: Sabretooth Light Missile
+
+Name: jonos syclarin
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: Kappas.
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Celestis
+Weapon: Hammerhead I
+
+Name: Wousr
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Rupture
+Weapon: Rupture
+
+Name: arthell
+Security: 2.8
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Celestis
+Weapon: Hobgoblin I
+
+Name: Illesa
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Wolf
+Weapon: Wolf
+
+Name: malkey
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Blackbird
+Weapon: Widowmaker Heavy Missile
+
+Name: Prodigal IV
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Ship: Incursus
+Weapon: Incursus
+
+Name: Lux0r
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Caracal
+Weapon: Bloodclaw Light Missile
+
+Name: Tiberius Drake
+Security: 2.8
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Thorax
+Weapon: Thorax
+
+Name: WolfRavage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Hyperion
+Weapon: Hyperion
+
+Name: xinndo jagged (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Drake
+Weapon: Havoc Heavy Missile
+
+Name: Weeble Wooble
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Catalyst
+Weapon: Catalyst
+
+Name: deela
+Security: 0.6
+Alliance: Freelancer Alliance
+Corp: J.I.T. Enterprises
+Ship: Blackbird
+Weapon: Induced Ion Field ECM I
+
+Name: Xantheris
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: Wicked Pissah
+Security: 0.1
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Blackbird
+Weapon: Blackbird
+
+
+Destroyed items:
+
+E500 Prototype Energy Vampire
+Mjolnir Torpedo, Qty: 64
+'Arbalest' Siege Missile Launcher, Qty: 2
+Small Tractor Beam I
+Large Shield Booster II
+Ditrigonal Thermal Barrier Crystallization I
+Phased Weapon Navigation Array Generation Extron
+Ballistic Control System II
+Power Diagnostic System I

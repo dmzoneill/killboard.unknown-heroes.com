@@ -1,0 +1,106 @@
+2007.04.12 23:06
+
+Victim: Atarkus
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Viator
+System: F7C-H0
+Security: 0.0
+
+Involved parties:
+
+Name: evilempire3
+Security: -1.3
+Alliance: YouWhat
+Corp: Cosmic Odyssey
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Louis DelaBlanche
+Security: 5.0
+Alliance: YouWhat
+Corp: Cosmic Odyssey
+Ship: Myrmidon
+Weapon: Berserker I
+
+Name: Blaxi
+Security: 5.0
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Cyclone
+Weapon: Cyclone
+
+Name: Magnelien (laid the final blow)
+Security: 4.5
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Flycatcher
+Weapon: Bloodclaw Light Missile
+
+Name: Fumer
+Security: 2.1
+Alliance: YouWhat
+Corp: Free Lapland
+Ship: Blackbird
+Weapon: Blackbird
+
+Name: Tamoko
+Security: 4.2
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Arbitrator
+Weapon: Hammerhead I
+
+Name: Neleva
+Security: 2.2
+Alliance: None
+Corp: R.H. Umbrella Corporation
+Ship: Rifter
+Weapon: Rifter
+
+Name: Azekial
+Security: 3.2
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Dominix
+Weapon: Ogre I
+
+
+Destroyed items:
+
+Prototype Cloaking Device I
+Large F-S9 Regolith Shield Induction
+Type-D Altered SS Inertial Stabilizers
+Megacyte, Qty: 35 (Cargo)
+Isogen, Qty: 223215 (Cargo)
+Zydrine, Qty: 2190 (Cargo)
+Nocxium, Qty: 93397 (Cargo)
+Large F-S9 Regolith Shield Induction, Qty: 3 (Cargo)
+X-Large Shield Booster II, Qty: 8 (Cargo)
+Small Shield Booster II, Qty: 2 (Cargo)
+10MN Afterburner II, Qty: 2 (Cargo)
+10MN MicroWarpdrive II (Cargo)
+1MN Afterburner II (Cargo)
+Miner II, Qty: 16 (Cargo)
+Heavy Nosferatu I (Cargo)
+Heavy 'Ghoul' Energy Siphon I (Cargo)
+Ballistic Deflection Field II, Qty: 2 (Cargo)
+Heat Dissipation Field II, Qty: 2 (Cargo)
+Invulnerability Field II (Cargo)
+Jury Rigging (Cargo)
+Electromagnetic Physics (Cargo)
+Graviton Physics (Cargo)
+Co-Processor II, Qty: 5 (Cargo)
+'Halcyon' Core Equalizer I (Cargo)
+'Stoic' Core Equalizer I (Cargo)
+Prototype Cloaking Device I, Qty: 4 (Cargo)
+Shield Boost Amplifier I, Qty: 19 (Cargo)
+Giant Secure Container (Cargo)
+Ballistic Control System II, Qty: 2 (Cargo)
+Strip Miner I, Qty: 2 (Cargo)
+Siege Missile Launcher II, Qty: 6 (Cargo)
+Juggernaut Javelin Torpedo, Qty: 1576 (Cargo)
+Cybernetic Subprocessor - Basic, Qty: 2 (Cargo)
+Memory Augmentation - Basic, Qty: 2 (Cargo)
+Power Diagnostic System II, Qty: 4 (Cargo)
+

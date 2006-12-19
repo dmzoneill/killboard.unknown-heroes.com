@@ -1,0 +1,40 @@
+2007.02.18 16:26
+
+Victim: Suliht
+Alliance: Aftermath Alliance
+Corp: Total Mayhem.
+Destroyed: Capsule
+System: YZ-LQL
+Security: 0.0
+
+Involved parties:
+
+Name: Moonorbiter (laid the final blow)
+Security: 0.0
+Alliance: Dusk and Dawn
+Corp: Decadence.
+Ship: Taranis
+Weapon: Light Electron Blaster II
+
+Name: Kaelen Mosar
+Security: 0.6
+Alliance: Dusk and Dawn
+Corp: Decadence.
+Ship: Raptor
+Weapon: Bloodclaw Light Missile
+
+Name: musch
+Security: 3.5
+Alliance: Dusk and Dawn
+Corp: Decadence.
+Ship: Caracal
+Weapon: Remote Sensor Dampener II
+
+Name: Samiloth Justinian
+Security: 4.4
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Manticore
+Weapon: 'Arbalest' Cruise Launcher I
+
+

@@ -1,0 +1,28 @@
+2007.03.12 07:32
+
+Victim: sliver 0xD
+Alliance: Chorus of Dawn
+Corp: Infinite Style Incorporated
+Destroyed: Osprey
+System: MJYW-3
+Security: 0.0
+
+Involved parties:
+
+Name: Bobby Atlas (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Moros
+Weapon: Warden I
+
+
+Destroyed items:
+
+Gistii A-Type Small Shield Transporter
+Cap Recharger I
+Cap Recharger I
+Large Peroxide I Capacitor Power Cell
+Co-Processor II
+Co-Processor II
+

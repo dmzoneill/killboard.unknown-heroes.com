@@ -1,0 +1,45 @@
+2007.02.08 00:44
+
+Victim: Dark Carnage
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Crow
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: sopmac1
+Security: -1.5
+Alliance: Veto Corp
+Corp: Veto. Academy
+Ship: Prophecy
+Weapon: Focused Medium Pulse Laser II
+
+Name: xbreaka (laid the final blow)
+Security: -1.9
+Alliance: Veto Corp
+Corp: Veto. Academy
+Ship: Huginn
+Weapon: Scourge Heavy Missile
+
+Name: Kalek Astroth
+Security: -1.1
+Alliance: Veto Corp
+Corp: Veto. Academy
+Ship: Harbinger
+Weapon: Hornet EC-300
+
+
+Destroyed items:
+
+Sabretooth Light Missile, Qty: 34
+Standard Missile Launcher I
+Standard Missile Launcher I
+Standard Missile Launcher I
+1MN MicroWarpdrive I
+Faint Epsilon Warp Prohibitor I
+X5 Prototype I Engine Enervator
+Inertia Stabilizers I
+Mark I Generator Refitting: Capacitor Power Relay
+

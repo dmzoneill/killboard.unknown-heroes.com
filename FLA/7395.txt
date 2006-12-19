@@ -1,0 +1,118 @@
+2006.08.31 21:23
+
+Victim: Swordstake
+Alliance: Band of Brothers
+Corp: Reikoku
+Destroyed: Cerberus
+System: GME-PQ
+Security: 0.0
+
+Involved parties:
+
+Name: Mirauder (laid the final blow)
+Security: 1.0
+Alliance: None
+Corp: Dark Horizons
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Uncle Fester
+Security: 5.3
+Alliance: CORE.
+Corp: VentureCorp
+Ship: Huginn
+Weapon: Thunderbolt Heavy Missile
+
+Name: PuppetmasterX
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Deimos
+Weapon: Heavy Ion Blaster II
+
+Name: Rickerman
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Shinoobie
+Security: 3.8
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Rook
+Weapon: Assault Missile Launcher I
+
+Name: Vespula
+Security: -1.1
+Alliance: None
+Corp: Blackguard Brigade
+Ship: Crusader
+Weapon: Crusader
+
+Name: Luthien Firefoot
+Security: 2.3
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+Name: Karina Harington
+Security: -1.3
+Alliance: Imperial Republic Of the North
+Corp: Port Royal Independent Kontractors
+Ship: Malediction
+Weapon: Malediction
+
+Name: XxAngelxX
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Curse
+Weapon: Medium Diminishing Power System Drain I
+
+Name: Micheal Ross
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+Name: FotoFlame
+Security: 3.3
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Ishtar
+Weapon: ECM - Multispectral Jammer II
+
+Name: Formosus Funus
+Security: -0.4
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Vigil
+Weapon: Stasis Webifier I
+
+Name: DDaisy
+Security: 4.5
+Alliance: CORE.
+Corp: VentureCorp
+Ship: Deimos
+Weapon: Deimos
+
+
+Destroyed items:
+
+Heavy Missile Launcher II
+Heavy Missile Launcher II
+Heavy Missile Launcher II
+Thunderbolt Fury Heavy Missile, Qty: 116
+Large Shield Booster II
+Photon Scattering Field II
+Ballistic Control System II
+J5b Phased Prototype Warp Inhibitor I, Qty: 2 (Cargo)
+200mm AutoCannon II (Cargo)
+Small Nosferatu I, Qty: 2 (Cargo)
+Thunderbolt Fury Heavy Missile, Qty: 1910 (Cargo)
+Nanofiber Internal Structure I (Cargo)
+

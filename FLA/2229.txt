@@ -1,0 +1,40 @@
+2007.01.28 18:21
+
+Victim: Simon Monkoto
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Capsule
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: dr shark
+Security: 1.8
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Unknown
+Weapon: 720mm Howitzer Artillery II
+
+Name: Repiv (laid the final blow)
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Unknown
+Weapon: Bloodclaw Light Missile
+
+Name: Angela Dray
+Security: 3.1
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Unknown
+Weapon: 125mm Railgun II
+
+Name: Puls4r
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Unknown
+Weapon: 250mm Light Artillery Cannon II
+
+

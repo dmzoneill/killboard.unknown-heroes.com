@@ -1,0 +1,33 @@
+2006.10.07 23:53
+
+Victim: Adour
+Alliance: None
+Corp: Caldari Provisions
+Destroyed: Capsule
+System: L-TS8S
+Security: 0.0
+
+Involved parties:
+
+Name: Nil Desperandum
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Omen
+Weapon: Heavy Pulse Laser II
+
+Name: Malkius (laid the final blow)
+Security: 1.7
+Alliance: Forces of Freedom
+Corp: JUDGE DREAD Inc.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: TasKu
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Taranis
+Weapon: 125mm Railgun II
+
+

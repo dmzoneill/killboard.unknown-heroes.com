@@ -1,0 +1,73 @@
+2007.04.27 13:12
+
+Victim: Fitz Farseer
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Typhoon
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Radica
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Deimos
+Weapon: Deimos
+
+Name: Marie Veedor (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: white kight
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Drake
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+Name: Samiloth Justinian
+Security: 5.0
+Alliance: Dark Matter Coalition
+Corp: Ascent of Ages
+Ship: Manticore
+Weapon: 'Arbalest' Cruise Launcher I
+
+Name: Nukuquqa Hestase
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Crow
+Weapon: Upgraded 'Limos' Standard Missile Bay I
+
+Name: FlobbMkII
+Security: 4.4
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Eris
+Weapon: Eris
+
+Name: Rhaall
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Capsule
+Weapon: Warp Scrambler I
+
+
+Destroyed items:
+
+Large 'Vehemence' I Shockwave Charge
+Large 'Notos' Explosive Charge I
+Large 'Notos' Explosive Charge I
+Medium 'Vehemence' I Shockwave Charge
+Large Shield Extender I
+Warp Core Stabilizer I
+1600mm Reinforced Steel Plates I
+Berserker I, Qty: 2 (Drone Bay)
+Hammerhead I, Qty: 2 (Drone Bay)
+

@@ -1,0 +1,39 @@
+2007.01.13 08:26
+
+Victim: sy99999
+Alliance: None
+Corp: Perkone
+Destroyed: Condor
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Goca
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Drake
+Weapon: Havoc Heavy Missile
+
+Name: alon blackhelm (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Thorax
+Weapon: 250mm Railgun II
+
+Name: Xantheris
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Celestis
+Weapon: Celestis
+
+Name: Guristas Wrecker / Guristas
+
+
+Destroyed items:
+
+Tracking Enhancer I
+

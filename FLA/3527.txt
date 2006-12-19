@@ -1,0 +1,38 @@
+2007.04.01 22:42
+
+Victim: Shraek
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Destroyed: Stiletto
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: hydro2900
+Security: 2.9
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Ship: Catalyst
+Weapon: Catalyst
+
+Name: Chekoteh (laid the final blow)
+Security: 2.7
+Alliance: Freelancer Alliance
+Corp: United Forces
+Ship: Stabber
+Weapon: 425mm AutoCannon I
+
+
+Destroyed items:
+
+200mm AutoCannon II
+200mm AutoCannon II
+Small Nosferatu I
+Barrage S, Qty: 35
+1MN MicroWarpdrive II
+Warp Disruptor II
+Fleeting Propulsion Inhibitor I
+Type-D Altered SS Overdrive Injector
+Type-D Altered SS Overdrive Injector
+

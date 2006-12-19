@@ -1,0 +1,51 @@
+2007.03.28 22:17
+
+Victim: Lucy Fire1
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Destroyed: Dominix
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: H Zub (laid the final blow)
+Security: -1.5
+Alliance: Privateer Alliance
+Corp: Captain Morgan Society
+Ship: Myrmidon
+Weapon: Ogre II
+
+Name: Vilhelm Tell
+Security: -0.8
+Alliance: Privateer Alliance
+Corp: Captain Morgan Society
+Ship: Sleipnir
+Weapon: Sleipnir
+
+Name: Captain Thunk
+Security: -2.1
+Alliance: Privateer Alliance
+Corp: Captain Morgan Society
+Ship: Harbinger
+Weapon: Harbinger
+
+
+Destroyed items:
+
+Heavy Nosferatu I
+Drone Link Augmentor I
+Drone Link Augmentor I
+Warp Disruptor II
+Drone Navigation Computer I
+Omnidirectional Tracking Link I
+Damage Control II
+Medium Armor Repairer II
+N-Type Explosive Hardener I
+N-Type Thermic Hardener I
+Cap Booster 800, Qty: 6 (Cargo)
+Vespa II (Drone Bay)
+Wasp I, Qty: 3 (Drone Bay)
+Berserker I, Qty: 3 (Drone Bay)
+Hornet II, Qty: 4 (Drone Bay)
+

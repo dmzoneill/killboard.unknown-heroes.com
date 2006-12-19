@@ -1,0 +1,28 @@
+2007.02.06 13:55
+
+Victim: Lux0r
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Destroyed: Crow
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Assassin 2 (laid the final blow)
+Security: 5.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Curse
+Weapon: Hobgoblin II
+
+
+Destroyed items:
+
+Small Nosferatu I
+Standard Missile Launcher II
+Standard Missile Launcher II
+Bloodclaw Fury Light Missile, Qty: 100
+1MN MicroWarpdrive I
+Stasis Webifier I
+

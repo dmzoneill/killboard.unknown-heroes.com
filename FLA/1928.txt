@@ -1,0 +1,28 @@
+2007.01.11 20:22
+
+Victim: Vertigel Symorain
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Destroyed: Tristan
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: DHB WildCat (laid the final blow)
+Security: -1.2
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Wrath Cruise Missile
+
+
+Destroyed items:
+
+Light Ion Blaster I
+Light Ion Blaster I
+Antimatter Charge S, Qty: 120
+Warp Disruptor I
+Stasis Webifier I
+Antimatter Charge S, Qty: 40 (Cargo)
+

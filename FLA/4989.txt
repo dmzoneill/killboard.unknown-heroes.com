@@ -1,0 +1,82 @@
+2007.04.21 00:07
+
+Victim: Nina Kinuichi
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Destroyed: Omen
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Savak
+Security: -0.2
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Terdlinger
+Security: 4.9
+Alliance: Storm Armada
+Corp: stone grave haulage
+Ship: Raven
+Weapon: Einherji
+
+Name: Katchin (laid the final blow)
+Security: 2.1
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Muninn
+Weapon: 720mm Howitzer Artillery II
+
+Name: Kkmar Jheren
+Security: -1.5
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Malediction
+Weapon: Malediction
+
+Name: Stradivarious
+Security: 3.8
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Lyra Sy
+Security: 5.0
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Vulture
+Weapon: Heavy Missile Launcher II
+
+Name: Vendetta X
+Security: 0.6
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Arazu
+Weapon: 250mm Railgun II
+
+Name: Raffer Steele
+Security: 2.6
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Thanatos
+Weapon: Einherji
+
+
+Destroyed items:
+
+Heavy Beam Laser I
+Heavy Beam Laser I
+Heavy Beam Laser I
+Focused Medium Beam Laser I
+Radio M
+Radio M
+Heat Sink II
+Heat Sink II
+Power Diagnostic System I
+Ultraviolet M, Qty: 4 (Cargo)
+Microwave M, Qty: 4 (Cargo)
+

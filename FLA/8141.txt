@@ -1,0 +1,19 @@
+2006.10.17 17:39
+
+Victim: Dr Mengel
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Destroyed: Capsule
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Wousr (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Sleipnir
+Weapon: 720mm Howitzer Artillery II
+
+

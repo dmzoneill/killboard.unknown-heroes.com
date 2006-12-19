@@ -1,0 +1,41 @@
+2007.04.19 21:41
+
+Victim: coldkill
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Destroyed: Thorax
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: FowlPlayChiken (laid the final blow)
+Security: 1.2
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Thanatos
+Weapon: Einherji
+
+Name: demotar
+Security: 4.1
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Capsule
+Weapon: Rupture
+
+Name: Cabadrin
+Security: 3.8
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Ishtar
+Weapon: Medium Diminishing Power System Drain I
+
+
+Destroyed items:
+
+Heavy Neutron Blaster II
+Void M, Qty: 148
+Y-T8 Overcharged Hydrocarbon I Microwarpdrive
+X5 Prototype I Engine Enervator
+Magnetic Field Stabilizer II
+

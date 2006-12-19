@@ -1,0 +1,19 @@
+2006.04.19 00:49
+
+Victim: Ismeteer
+Alliance: Freelancer Alliance
+Corp: BGG
+Destroyed: Capsule
+System: Egghelende
+Security: 0.4
+
+Involved parties:
+
+Name: Perenor (laid the final blow)
+Security: -1.0
+Alliance: Stella Nova United
+Corp: Rave Technologies Inc.
+Ship: Malediction
+Weapon: Dual Light Pulse Laser II
+
+

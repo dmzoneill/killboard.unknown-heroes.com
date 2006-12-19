@@ -1,0 +1,40 @@
+2007.03.12 21:55
+
+Victim: Cockroach
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Capsule
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Thyago (laid the final blow)
+Security: 5.0
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Megathron
+Weapon: 425mm Railgun I
+
+Name: Vrivona
+Security: 0.0
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Claw
+Weapon: Claw
+
+Name: Diego Barbera
+Security: -0.5
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Claw
+Weapon: Fleeting Warp Scrambler I
+
+Name: Daggoth Sajuuk
+Security: 4.8
+Alliance: YouWhat
+Corp: Pringles Inc.
+Ship: Vengeance
+Weapon: J5 Prototype Warp Inhibitor I
+
+

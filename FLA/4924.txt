@@ -1,0 +1,44 @@
+2007.04.20 00:28
+
+Victim: Magic Mazuma
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Destroyed: Scythe
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: lethario desrtuction (laid the final blow)
+Security: 2.1
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Raven
+Weapon: Wrath Cruise Missile
+
+Name: Savak
+Security: -0.2
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Armageddon
+Weapon: Hammerhead I
+
+Name: G wyvern
+Security: 0.0
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Myrmidon
+Weapon: Dual 150mm Railgun I
+
+
+Destroyed items:
+
+Dual 180mm AutoCannon I
+Dual 180mm AutoCannon I
+Dual 180mm AutoCannon I
+Depleted Uranium M, Qty: 175
+10MN Afterburner I
+Damage Control I
+Power Diagnostic System I
+Depleted Uranium M, Qty: 1886 (Cargo)
+

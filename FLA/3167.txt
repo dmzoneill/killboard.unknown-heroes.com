@@ -1,0 +1,79 @@
+2007.03.19 05:27
+
+Victim: Skull Fire
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Scorpion
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Xordus
+Security: 1.4
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Armageddon
+Weapon: Dual Heavy Modulated Pulse Energy Beam I
+
+Name: Xoduse (laid the final blow)
+Security: 0.4
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Hyperion
+Weapon: Ion Blaster Cannon II
+
+Name: Lord Revent
+Security: 1.1
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Maelstrom
+Weapon: Maelstrom
+
+Name: Sexorella hotz
+Security: 5.0
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Raven
+Weapon: Wrath Cruise Missile
+
+Name: Fred Fredburger
+Security: 5.0
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Megathron
+Weapon: Megathron
+
+Name: Nipplator
+Security: 2.9
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Balcura
+Security: 5.0
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+
+Destroyed items:
+
+425mm Compressed Coil Gun I
+Plutonium Charge L, Qty: 33
+Cataclysm Cruise Missile, Qty: 19
+Devastator Cruise Missile, Qty: 19
+Paradise Cruise Missile, Qty: 19
+XT-9000 Cruise Launcher
+XT-9000 Cruise Launcher
+Large Shield Extender II
+X5 Prototype I Engine Enervator
+Alumel-Wired I Sensor Augmentation
+Type-D Power Core Modification: Diagnostic System
+Uranium Charge L, Qty: 300 (Cargo)
+Plutonium Charge L, Qty: 177 (Cargo)
+Wrath Cruise Missile, Qty: 266 (Cargo)
+Cataclysm Cruise Missile, Qty: 266 (Cargo)
+

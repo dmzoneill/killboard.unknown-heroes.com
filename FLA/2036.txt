@@ -1,0 +1,34 @@
+2007.01.19 00:38
+
+Victim: Hedeon Mishenka
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Vengeance
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: XxAngelxX
+Security: 5.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Armageddon
+Weapon: Ogre I
+
+Name: Unfortunate Accident (laid the final blow)
+Security: -1.9
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Hurricane
+Weapon: 220mm Vulcan AutoCannon II
+
+
+Destroyed items:
+
+E5 Prototype Energy Vampire
+Gleam S
+1MN Afterburner II
+Faint Warp Prohibitor I
+Small Armor Repairer II
+

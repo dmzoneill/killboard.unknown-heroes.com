@@ -1,0 +1,55 @@
+2007.02.06 05:58
+
+Victim: nXus
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Destroyed: Blackbird
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: EL TITAN (laid the final blow)
+Security: 1.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Vagabond
+Weapon: Dual 180mm AutoCannon II
+
+Name: CLEISTHENES2
+Security: -0.9
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Claw
+Weapon: Foxfire Rocket
+
+Name: d0ri5
+Security: 0.1
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Heretic
+Weapon: Medium Pulse Laser I
+
+Name: Johnny cruz
+Security: 2.8
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Taranis
+Weapon: J5 Prototype Warp Inhibitor I
+
+
+Destroyed items:
+
+Medium YF-12a Smartbomb
+Thunderbolt Heavy Missile, Qty: 27
+10MN MicroWarpdrive I
+Indirect Scanning Dampening Unit I
+Supplemental Scanning CPU I
+'Mendicant' Signal Booster I
+Invulnerability Field I (Cargo)
+EMP M, Qty: 976 (Cargo)
+Thunderbolt Heavy Missile, Qty: 140 (Cargo)
+Heavy Missile Launcher I, Qty: 2 (Cargo)
+Overdrive Injector System I (Cargo)
+Reactor Control Unit I (Cargo)
+

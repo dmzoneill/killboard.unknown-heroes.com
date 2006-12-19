@@ -1,0 +1,32 @@
+2007.01.17 10:14
+
+Victim: Kateryne
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Destroyed: Stabber
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: WarGod (laid the final blow)
+Security: 1.7
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Curse
+Weapon: Berserker II
+
+
+Destroyed items:
+
+Dual 180mm Gallium I Machine Gun
+Dual 180mm Gallium I Machine Gun
+220mm Medium Carbine Repeating Cannon I
+Medium Nosferatu I
+EMP M, Qty: 245
+400mm Reinforced Rolled Tungsten Plates I
+Type-D Altered SS Nanofiber Structure
+1MN MicroWarpdrive I (Cargo)
+Defender I, Qty: 40 (Cargo)
+Initiated Multispectral ECM I (Cargo)
+

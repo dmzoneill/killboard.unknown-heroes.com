@@ -1,0 +1,36 @@
+2006.10.25 23:21
+
+Victim: GrandMastaXP
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Raptor
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Akhenat0n (laid the final blow)
+Security: 4.9
+Alliance: None
+Corp: NEXT LEVEL
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Cosh
+Security: 3.5
+Alliance: None
+Corp: NEXT LEVEL
+Ship: Vagabond
+Weapon: Vagabond
+
+
+Destroyed items:
+
+125mm Carbide Railgun I
+Antimatter Charge S, Qty: 130
+Gremlin Rocket, Qty: 18
+Thorn Rocket, Qty: 17
+1MN MicroWarpdrive II
+Faint Epsilon Warp Prohibitor I
+Patterned Stasis Web I
+

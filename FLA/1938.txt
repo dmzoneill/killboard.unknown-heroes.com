@@ -1,0 +1,32 @@
+2007.01.11 22:53
+
+Victim: Lux0r
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Destroyed: Manticore
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Drakin Korin (laid the final blow)
+Security: -0.8
+Alliance: None
+Corp: Evil Bandit Organisation
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Paltar
+Security: -1.7
+Alliance: None
+Corp: Evil Bandit Organisation
+Ship: Taranis
+Weapon: Taranis
+
+
+Destroyed items:
+
+'Arbalest' Cruise Launcher I
+'Arbalest' Cruise Launcher I
+Type-D Attenuation Signal Augmentation
+

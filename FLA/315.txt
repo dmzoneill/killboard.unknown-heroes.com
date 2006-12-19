@@ -1,0 +1,93 @@
+2007.01.25 01:18
+
+Victim: Teani
+Alliance: Triumvirate.
+Corp: D00M.
+Destroyed: Taranis
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: ventura5
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Flycatcher
+Weapon: Bloodclaw Precision Light Missile
+
+Name: Fugnut
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Drake
+Weapon: Advanced 'Limos' Heavy Missile Bay I
+
+Name: Sorlac Aurora (laid the final blow)
+Security: 1.3
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Rokh
+Weapon: 425mm 'Scout' I Accelerator Cannon
+
+Name: Swanny231
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Raven
+Weapon: Bane Javelin Torpedo
+
+Name: Loki Lokason
+Security: -4.8
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Rupture
+Weapon: Rupture
+
+Name: Valea Silpha
+Security: 1.4
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Huginn
+Weapon: X5 Prototype I Engine Enervator
+
+Name: Mauy Thai
+Security: -1.5
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Curse
+Weapon: Valkyrie II
+
+Name: digital oxygen
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Megathron
+Weapon: Megathron
+
+Name: Xantheris
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Blackbird
+Weapon: FZ-3 Subversive Spatial Destabilizer ECM
+
+Name: Mokh'Tar
+Security: 3.7
+Alliance: Freelancer Alliance
+Corp: Caldar Mercenary Syndicate
+Ship: Blackbird
+Weapon: Initiated Multispectral ECM I
+
+
+Destroyed items:
+
+E5 Prototype Energy Vampire
+Light Ion Blaster II
+Light Ion Blaster II
+1MN MicroWarpdrive II
+Fleeting Warp Scrambler I
+Small Armor Repairer II
+Magnetic Field Stabilizer II
+Void S, Qty: 176 (Cargo)
+

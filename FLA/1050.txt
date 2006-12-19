@@ -1,0 +1,68 @@
+2007.03.04 04:43
+
+Victim: Zanadar84
+Alliance: FATAL Alliance
+Corp: FATAL REVELATIONS
+Destroyed: Capsule
+System: RE-C26
+Security: 0.0
+
+Involved parties:
+
+Name: Desas
+Security: 4.0
+Alliance: Sparta Alliance
+Corp: Black Knight Buccaneers
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Xantheris (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Enyo
+Weapon: Light Neutron Blaster II
+
+Name: probablecause
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Infinite Improbability Inc
+Ship: Enyo
+Weapon: Fleeting Warp Scrambler I
+
+Name: Teck7
+Security: 1.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ares
+Weapon: TE-2100 Standard Missile Bay
+
+Name: Simon Monkoto
+Security: 3.7
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Hawk
+Weapon: Standard Missile Launcher II
+
+Name: Renax
+Security: 2.9
+Alliance: Dusk and Dawn
+Corp: Omega Enterprises
+Ship: Sabre
+Weapon: 150mm Light AutoCannon II
+
+Name: GS Armada
+Security: 3.4
+Alliance: Dusk and Dawn
+Corp: ECP Rogues
+Ship: Crow
+Weapon: Faint Warp Prohibitor I
+
+Name: Dark Carnage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Crow
+Weapon: X5 Prototype I Engine Enervator
+
+

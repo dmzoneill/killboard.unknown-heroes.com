@@ -1,0 +1,96 @@
+2007.03.25 17:19
+
+Victim: Dunbar Regan
+Alliance: None
+Corp: Chaos Coalition
+Destroyed: Ferox
+System: Z-Y7R7
+Security: 0.0
+
+Involved parties:
+
+Name: Jonas123 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Rokh
+Weapon: 425mm Carbide Railgun I
+
+Name: Vesspasiano
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Dominix
+Weapon: Ogre II
+
+Name: RythemAndStealth
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Omen
+Weapon: Infiltrator I
+
+Name: Skull Fire
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Scorpion
+Weapon: Cataclysm Cruise Missile
+
+Name: HYT gangster
+Security: 1.5
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Claw
+Weapon: Claw
+
+Name: darkviron
+Security: 2.8
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Blackbird
+Weapon: Widowmaker Heavy Missile
+
+Name: marakudi
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Hawk
+Weapon: Phalanx Rocket
+
+Name: Vesspasiano
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Dominix
+Weapon: Ogre II
+
+Name: RythemAndStealth
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Omen
+Weapon: Infiltrator I
+
+Name: Skull Fire
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Scorpion
+Weapon: Cataclysm Cruise Missile
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Prototype Cloaking Device I
+Thunderbolt Heavy Missile, Qty: 30
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+X-Large Shield Booster I
+Heat Dissipation Field II
+Ballistic Deflection Field II
+Ballistic Control System I
+Ballistic Control System I
+Ballistic Control System II
+

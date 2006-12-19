@@ -1,0 +1,50 @@
+2007.03.07 00:03
+
+Victim: Kelter Highfire
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Rokh
+System: Isinokka
+Security: 0.7
+
+Involved parties:
+
+Name: babylonstew
+Security: 4.1
+Alliance: Privateer Alliance
+Corp: Caldari Scouting and Intel Group
+Ship: Hyperion
+Weapon: Infiltrator II
+
+Name: Agent2 Holtze (laid the final blow)
+Security: -0.8
+Alliance: Privateer Alliance
+Corp: Caldari Scouting and Intel Group
+Ship: Dominix
+Weapon: Ogre II
+
+Name: Vex Volare
+Security: 2.6
+Alliance: Privateer Alliance
+Corp: Caldari Scouting and Intel Group
+Ship: Stabber
+Weapon: Stabber
+
+
+Destroyed items:
+
+425mm Prototype I Gauss Gun
+425mm Prototype I Gauss Gun
+425mm Prototype I Gauss Gun
+425mm Prototype I Gauss Gun
+Antimatter Charge L, Qty: 78
+Large Shield Extender II
+Large Shield Extender II
+Shield Recharger II
+Magnetic Field Stabilizer II
+Magnetic Field Stabilizer II
+Beta Reactor Control: Diagnostic System I
+Beta Reactor Control: Diagnostic System I
+Antimatter Charge L, Qty: 1680 (Cargo)
+Vespa I, Qty: 2 (Drone Bay)
+

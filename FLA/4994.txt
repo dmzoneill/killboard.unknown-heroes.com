@@ -1,0 +1,64 @@
+2007.04.21 00:51
+
+Victim: Cockroach
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Vengeance
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Terdlinger
+Security: 4.9
+Alliance: Storm Armada
+Corp: stone grave haulage
+Ship: Raven
+Weapon: Templar
+
+Name: Lyra Sy (laid the final blow)
+Security: 5.0
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Vulture
+Weapon: Havoc Heavy Missile
+
+Name: Hughwasit
+Security: 1.2
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Unknown
+Weapon: Einherji
+
+Name: Raffer Steele
+Security: 2.6
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Thanatos
+Weapon: Templar
+
+Name: Ghost Hughdidit
+Security: 3.1
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Thanatos
+Weapon: Dragonfly
+
+Name: Bothius
+Security: 0.4
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Arazu
+Weapon: Arazu
+
+
+Destroyed items:
+
+Piranha Light Missile, Qty: 32
+1MN MicroWarpdrive II
+J5 Prototype Warp Inhibitor I
+Small Armor Repairer II
+Multifrequency S (Cargo)
+Conflagration S (Cargo)
+Bloodclaw Light Missile, Qty: 142 (Cargo)
+

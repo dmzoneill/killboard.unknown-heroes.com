@@ -1,0 +1,26 @@
+2006.10.04 05:52
+
+Victim: Wel'Hung
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Destroyed: Capsule
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Zatharas
+Security: -4.8
+Alliance: None
+Corp: Beagle Corp
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Vily (laid the final blow)
+Security: -1.6
+Alliance: None
+Corp: Lilium Venture Initiative
+Ship: Heretic
+Weapon: Dual Light Beam Laser II
+
+

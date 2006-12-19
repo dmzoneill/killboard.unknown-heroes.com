@@ -1,0 +1,47 @@
+2007.01.20 20:09
+
+Victim: Capt Armada
+Alliance: None
+Corp: 133rd Ghost Wing
+Destroyed: Ares
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Marvel Master
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Asgard Schiffswerften
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Jester87 (laid the final blow)
+Security: 1.3
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+Name: Maltroc
+Security: 4.1
+Alliance: Dusk and Dawn
+Corp: Asgard Schiffswerften
+Ship: Sabre
+Weapon: Sabre
+
+Name: Ramireza
+Security: -0.2
+Alliance: Dusk and Dawn
+Corp: Asgard Schiffswerften
+Ship: Arazu
+Weapon: Remote Sensor Dampener II
+
+
+Destroyed items:
+
+Beta Hull Mod Inertial Stabilizers
+Inertia Stabilizers I
+Inertia Stabilizers I
+Inertia Stabilizers I
+

@@ -1,0 +1,41 @@
+2006.10.11 19:47
+
+Victim: Capt English
+Alliance: None
+Corp: Privateers
+Destroyed: Kestrel
+System: Sobaseki
+Security: 0.8
+
+Involved parties:
+
+Name: Drakin Korin (laid the final blow)
+Security: 1.9
+Alliance: None
+Corp: Ganksters Paradise
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+Name: trakli
+Security: 4.3
+Alliance: None
+Corp: Ganksters Paradise
+Ship: Arazu
+Weapon: 250mm Railgun II
+
+Name: Slinktress
+Security: 1.7
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Ishkur
+Weapon: Faint Warp Prohibitor I
+
+
+Destroyed items:
+
+Phalanx Rocket, Qty: 86
+'Malkuth' Rocket Launcher I
+'Malkuth' Rocket Launcher I
+'Malkuth' Rocket Launcher I
+Foxfire Rocket, Qty: 400 (Cargo)
+

@@ -1,0 +1,41 @@
+2006.09.03 00:48
+
+Victim: Hosanna
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Destroyed: Stiletto
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Noobjuice (laid the final blow)
+Security: -1.6
+Alliance: None
+Corp: Omniscient Order
+Ship: Claw
+Weapon: 200mm AutoCannon II
+
+Name: Elric TheWhite
+Security: 0.7
+Alliance: None
+Corp: Omniscient Order
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: mier
+Security: 1.2
+Alliance: None
+Corp: Sicarri Covenant
+Ship: Taranis
+Weapon: Taranis
+
+
+Destroyed items:
+
+150mm Light AutoCannon II
+EMP S, Qty: 80
+Phased Plasma S, Qty: 94
+Thorn Rocket, Qty: 30
+Warp Scrambler I
+

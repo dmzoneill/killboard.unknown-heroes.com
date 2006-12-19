@@ -1,0 +1,61 @@
+2006.11.10 14:15
+
+Victim: Nil Desperandum
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Scorpion
+System: Aunenen
+Security: 0.4
+
+Involved parties:
+
+Name: Xaeon
+Security: -9.4
+Alliance: Blood Raiders Alliance
+Corp: Murder-Death-Kill
+Ship: Megathron
+Weapon: Megathron
+
+Name: Anderson
+Security: -9.9
+Alliance: Blood Raiders Alliance
+Corp: Murder-Death-Kill
+Ship: Tempest
+Weapon: Tempest
+
+Name: Cloudis (laid the final blow)
+Security: -0.8
+Alliance: Blood Raiders Alliance
+Corp: Murder-Death-Kill
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+Name: Grape Juice
+Security: -9.1
+Alliance: Blood Raiders Alliance
+Corp: Murder-Death-Kill
+Ship: Scorpion
+Weapon: ECM - Multispectral Jammer I
+
+Name: Felix Tigris
+Security: -4.0
+Alliance: Blood Raiders Alliance
+Corp: Murder-Death-Kill
+Ship: Dominix
+Weapon: Induced Multispectral ECM I
+
+
+Destroyed items:
+
+Devastator Cruise Missile, Qty: 23
+XT-9000 Cruise Launcher
+ECM - Spatial Destabilizer II
+ECM - Multispectral Jammer I
+ECM - Multispectral Jammer I
+Sensor Booster I
+Sensor Booster I
+Warp Core Stabilizer I
+Warp Core Stabilizer I
+Cataclysm Cruise Missile, Qty: 1354 (Cargo)
+Wrath Cruise Missile, Qty: 400 (Cargo)
+

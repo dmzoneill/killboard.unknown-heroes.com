@@ -1,0 +1,74 @@
+2007.03.27 14:54
+
+Victim: ivan rumanov
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Moa
+System: 7D-0SQ
+Security: 0.0
+
+Involved parties:
+
+Name: Stolz82 (laid the final blow)
+Security: 5.0
+Alliance: YouWhat
+Corp: Dark Rising Shadow
+Ship: Raven
+Weapon: Inferno Torpedo
+
+Name: 1Of9
+Security: 4.6
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Pilgrim
+Weapon: Hammerhead I
+
+Name: michi2004
+Security: -2.5
+Alliance: YouWhat
+Corp: Dark Rising Shadow
+Ship: Caracal
+Weapon: Thunderbolt Heavy Missile
+
+Name: yekard
+Security: 5.0
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Huginn
+Weapon: Heavy Missile Launcher I
+
+Name: DrZarkov667
+Security: 0.2
+Alliance: YouWhat
+Corp: Dark Rising Shadow
+Ship: Thrasher
+Weapon: TE-2100 Standard Missile Bay
+
+Name: MOS EISLEY
+Security: 3.9
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Dominix
+Weapon: Wasp EC-900
+
+Name: Bischoff
+Security: 1.7
+Alliance: YouWhat
+Corp: Dark Rising Shadow
+Ship: Raven
+Weapon: Cruise Missile Launcher I
+
+Name: Baobhan Sith
+Security: 0.4
+Alliance: YouWhat
+Corp: Dark Rising Shadow
+Ship: Ferox
+Weapon: Heavy Missile Launcher I
+
+
+Destroyed items:
+
+250mm Compressed Coil Gun I
+Prototype I Sensor Booster
+Tracking Computer I
+

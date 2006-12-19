@@ -1,0 +1,61 @@
+2007.04.04 20:34
+
+Victim: Son Nolan
+Alliance: Freelancer Alliance
+Corp: Feel Good Inc.
+Destroyed: Capsule
+System: FIO1-8
+Security: 0.0
+
+Involved parties:
+
+Name: Gordon Red
+Security: 2.1
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Heretic
+Weapon: Phalanx Rocket
+
+Name: Taschenflak
+Security: 4.7
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Raptor
+Weapon: Raptor
+
+Name: fichtenhannes (laid the final blow)
+Security: 5.0
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Rupture
+Weapon: 720mm Howitzer Artillery II
+
+Name: Yve Steel
+Security: -0.6
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Malediction
+Weapon: Malediction
+
+Name: RoFu
+Security: 0.1
+Alliance: YouWhat
+Corp: Dark Rising Shadow
+Ship: Kestrel
+Weapon: TE-2100 Standard Missile Bay
+
+Name: Maria Salvador
+Security: 0.9
+Alliance: YouWhat
+Corp: Dark Rising Shadow
+Ship: Caracal
+Weapon: 'Malkuth' Assault Missile Launcher I
+
+Name: Juha85
+Security: 0.0
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Harpy
+Weapon: Harpy
+
+

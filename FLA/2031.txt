@@ -1,0 +1,35 @@
+2007.01.18 21:06
+
+Victim: Hermithoth
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Vexor
+System: X-7OMU
+Security: 0.0
+
+Involved parties:
+
+Name: Darknesss (laid the final blow)
+Security: 0.5
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Myrmidon
+Weapon: Ogre II
+
+
+Destroyed items:
+
+150mm 'Scout' I Accelerator Cannon
+Antimatter Charge S, Qty: 80
+Drone Link Augmentor I
+Medium Capacitor Booster I
+Sensor Booster I
+Drone Navigation Computer I
+Medium Inefficient Armor Repair Unit
+800mm Reinforced Crystalline Carbonide Plates I
+10MN Afterburner I (Cargo)
+Antimatter Charge S, Qty: 2840 (Cargo)
+Cap Booster 400, Qty: 28 (Cargo)
+Salvager I (Cargo)
+Medium Shield Maintenance Bot I, Qty: 2 (Drone Bay)
+

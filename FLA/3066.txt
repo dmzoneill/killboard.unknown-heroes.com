@@ -1,0 +1,26 @@
+2007.03.23 21:07
+
+Victim: SynTx
+Alliance: None
+Corp: 4StR4L rid3R2
+Destroyed: Capsule
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: demotar (laid the final blow)
+Security: 4.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Rapier
+Weapon: Valkyrie II
+
+Name: Daressek
+Security: 3.7
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Flycatcher
+Weapon: Fleeting Warp Scrambler I
+
+

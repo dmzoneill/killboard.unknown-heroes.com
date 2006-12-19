@@ -1,0 +1,19 @@
+2007.03.03 23:42
+
+Victim: Sethiol
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Destroyed: Caldari Shuttle
+System: OWXT-5
+Security: 0.0
+
+Involved parties:
+
+Name: Infra Nitzu (laid the final blow)
+Security: 1.9
+Alliance: None
+Corp: Finite Horizon
+Ship: Hurricane
+Weapon: 425mm AutoCannon II
+
+

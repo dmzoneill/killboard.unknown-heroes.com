@@ -1,0 +1,51 @@
+2006.10.04 05:08
+
+Victim: Sixty Ever4
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Covetor
+System: J1AU-9
+Security: 0.0
+
+Involved parties:
+
+Name: Vily
+Security: -1.6
+Alliance: None
+Corp: Lilium Venture Initiative
+Ship: Heretic
+Weapon: Dual Light Beam Laser II
+
+Name: Zatharas (laid the final blow)
+Security: -4.8
+Alliance: None
+Corp: Beagle Corp
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Ezal
+Security: -1.7
+Alliance: None
+Corp: Beagle Corp
+Ship: Taranis
+Weapon: Taranis
+
+Name: UnSiViLiZeD
+Security: -1.6
+Alliance: None
+Corp: Beagle Corp
+Ship: Enyo
+Weapon: Hobgoblin II
+
+Name: Roule
+Security: -5.1
+Alliance: None
+Corp: Beagle Corp
+Ship: Jaguar
+Weapon: 200mm AutoCannon II
+
+
+Destroyed items:
+
+N-Type Regenerative Membrane I
+

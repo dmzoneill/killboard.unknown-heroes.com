@@ -1,0 +1,153 @@
+2006.10.09 22:24
+
+Victim: carraktiker
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Destroyed: Dominix
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: DarkJester
+Security: 0.7
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Tempest
+Weapon: Thunderbolt Heavy Missile
+
+Name: Valadeya uthanaras (laid the final blow)
+Security: 3.7
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Armageddon
+Weapon: Mega Beam Laser I
+
+Name: Nil Desperandum
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Omen
+Weapon: Heavy Pulse Laser II
+
+Name: Mr Harmonica
+Security: 5.0
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Cerberus
+Weapon: Scourge Precision Heavy Missile
+
+Name: Uncle Fester
+Security: 5.2
+Alliance: CORE.
+Corp: VentureCorp
+Ship: Huginn
+Weapon: Huginn
+
+Name: Demarcus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Ferox
+Weapon: Thunderbolt Heavy Missile
+
+Name: Xian Zhi
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Harpy
+Weapon: Harpy
+
+Name: Lizzy Silver
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Kev Lar
+Security: 0.0
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Ares
+Weapon: Ares
+
+Name: Cornhullio
+Security: 4.7
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Cpt Carrigan
+Security: 0.8
+Alliance: Forces of Freedom
+Corp: Dark Phoenix Corporation
+Ship: Caracal
+Weapon: Sabretooth Light Missile
+
+Name: DanyD
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: canis maxamus
+Security: 0.2
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Catalyst
+Weapon: 125mm Railgun I
+
+Name: r Cubed
+Security: 3.7
+Alliance: Forces of Freedom
+Corp: The Night Crew
+Ship: Blackbird
+Weapon: Piranha Light Missile
+
+Name: StarCrash
+Security: 0.7
+Alliance: R i s e
+Corp: Shadow Gypsies
+Ship: Stiletto
+Weapon: Foxfire Rocket
+
+Name: jarson
+Security: -0.3
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Claw
+Weapon: 200mm AutoCannon II
+
+Name: Lady Vanquish
+Security: -0.2
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Stabber
+Weapon: Stabber
+
+Name: R4Z0R49
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: Feel Good Inc.
+Ship: Merlin
+Weapon: Merlin
+
+
+Destroyed items:
+
+Heavy Nosferatu I
+250mm Railgun II
+250mm Railgun II
+Stasis Webifier I
+Heavy Electrochemical Capacitor Booster I
+ECM - Multispectral Jammer I
+Damage Control I
+N-Type Thermic Hardener I
+N-Type Explosive Hardener I
+Antimatter Charge M, Qty: 1476 (Cargo)
+Warrior II, Qty: 8 (Drone Bay)
+Ogre II, Qty: 3 (Drone Bay)
+

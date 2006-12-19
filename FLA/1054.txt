@@ -1,0 +1,111 @@
+2007.03.04 06:07
+
+Victim: Mang Vilaban
+Alliance: Corelum Syndicate
+Corp: Coreli Corporation
+Destroyed: Hyperion
+System: 75FA-Z
+Security: 0.0
+
+Involved parties:
+
+Name: Confessor (laid the final blow)
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: Lynx Frontier Inc.
+Ship: Armageddon
+Weapon: Tachyon Modulated Energy Beam I
+
+Name: Jandeera
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: Lynx Frontier Inc.
+Ship: Arazu
+Weapon: Acolyte II
+
+Name: Lady LeJean
+Security: 4.9
+Alliance: Sparta Alliance
+Corp: Lacedaemon.
+Ship: Curse
+Weapon: Valkyrie II
+
+Name: Demolition Gunit
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: Lacedaemon.
+Ship: Drake
+Weapon: Havoc Heavy Missile
+
+Name: Syn Snowball
+Security: 4.8
+Alliance: Serenity Fallen
+Corp: Synergy Evolved
+Ship: Raptor
+Weapon: Raptor
+
+Name: Dark Carnage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Crow
+Weapon: Faint Epsilon Warp Prohibitor I
+
+Name: SSgt Sniper2
+Security: 0.9
+Alliance: Sparta Alliance
+Corp: In Excess Enterprises
+Ship: Rifter
+Weapon: Gremlin Rocket
+
+Name: KateLice
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: Lynx Frontier Inc.
+Ship: Ares
+Weapon: Flameburst Light Missile
+
+Name: LLago Cesarii
+Security: 4.9
+Alliance: Serenity Fallen
+Corp: Synergy Evolved
+Ship: Claw
+Weapon: 'Arbalest' Standard Missile Launcher
+
+Name: Sgt Napalm
+Security: 0.5
+Alliance: Serenity Fallen
+Corp: Synergy Evolved
+Ship: Harpy
+Weapon: Thorn Javelin Rocket
+
+Name: Skytex
+Security: 1.6
+Alliance: Serenity Fallen
+Corp: Synergy Evolved
+Ship: Merlin
+Weapon: Merlin
+
+Name: Xantheris
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Enyo
+Weapon: Enyo
+
+
+Destroyed items:
+
+Ion Blaster Cannon II
+Ion Blaster Cannon II
+Ion Blaster Cannon II
+Quad LiF Fueled I Booster Rockets
+X5 Prototype I Engine Enervator
+Heavy Electrochemical Capacitor Booster I
+Energized Adaptive Nano Membrane II
+Cap Booster 800, Qty: 10 (Cargo)
+Tracking Enhancer II (Cargo)
+Medium Secure Container (Cargo)
+Null L, Qty: 1802 (Cargo)
+Void L, Qty: 1600 (Cargo)
+

@@ -1,0 +1,40 @@
+2006.10.17 15:19
+
+Victim: DLightman
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Destroyed: Fenrir
+System: Piak
+Security: 0.7
+
+Involved parties:
+
+Name: taylor04
+Security: -2.1
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: aadom
+Security: 2.7
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Tempest
+Weapon: Tempest
+
+Name: cptblood
+Security: 0.8
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Claw
+Weapon: Claw
+
+Name: Mithras Romanus (laid the final blow)
+Security: 4.8
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Vexor
+Weapon: Valkyrie II
+
+

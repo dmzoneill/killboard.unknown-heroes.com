@@ -1,0 +1,50 @@
+2007.03.03 04:59
+
+Victim: Lahrahna
+Alliance: Firmus Ixion
+Corp: KDM Corp
+Destroyed: Vigil
+System: 3-FKCZ
+Security: 0.0
+
+Involved parties:
+
+Name: Amarazo
+Security: 0.1
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Minthos (laid the final blow)
+Security: 2.9
+Alliance: Morsus Mihi
+Corp: 4S Corporation
+Ship: Hurricane
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Chuck Dawg
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Drake
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+
+Destroyed items:
+
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Iron Charge S, Qty: 140
+Standard Missile Launcher I
+Cap Recharger I
+Warp Disruptor I
+Capacitor Power Relay I
+Capacitor Power Relay I
+Iron Charge S, Qty: 400 (Cargo)
+Warrior I (Cargo)
+

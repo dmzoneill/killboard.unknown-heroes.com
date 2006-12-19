@@ -1,0 +1,32 @@
+2007.01.03 06:02
+
+Victim: nXus
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Destroyed: Hawk
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Jovius Marginus (laid the final blow)
+Security: -0.3
+Alliance: Firmus Ixion
+Corp: Black Avatar
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+
+Destroyed items:
+
+Defender I, Qty: 10
+Sabretooth Light Missile, Qty: 45
+'Arbalest' Standard Missile Launcher
+'Arbalest' Standard Missile Launcher
+Ballistic Control System I
+Type-D Altered SS Overdrive Injector
+Defender I, Qty: 690 (Cargo)
+Flameburst Light Missile, Qty: 44 (Cargo)
+Piranha Light Missile, Qty: 2987 (Cargo)
+Assault Missile Launcher I (Cargo)
+

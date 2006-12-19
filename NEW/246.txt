@@ -1,0 +1,50 @@
+2007.02.18 03:37
+
+Victim: FrankieG
+Alliance: None
+Corp: Zero.
+Destroyed: Claw
+System: O-N8XZ
+Security: 0.0
+
+Involved parties:
+
+Name: Goca (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Ferox
+Weapon: Thunderbolt Heavy Missile
+
+Name: ventura5
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Flycatcher
+Weapon: Piranha Precision Light Missile
+
+Name: FlobbMkII
+Security: 4.0
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Catalyst
+Weapon: 125mm Railgun II
+
+Name: Nukuquqa Hestase
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Caracal
+Weapon: Thunderbolt Heavy Missile
+
+
+Destroyed items:
+
+200mm AutoCannon II, Qty: 2
+Barrage S, Qty: 120
+Foxfire Rocket, Qty: 30
+'Arbalest' Rocket Launcher I
+1MN MicroWarpdrive I
+J5 Prototype Warp Inhibitor I
+Hammerhead II, Qty: 5 (Cargo)
+Foxfire Rocket, Qty: 887 (Cargo)

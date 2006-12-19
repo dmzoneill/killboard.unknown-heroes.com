@@ -1,0 +1,30 @@
+2006.10.30 03:46
+
+Victim: SPartukus
+Alliance: None
+Corp: White Knights Of Darkness
+Destroyed: Condor
+System: OWXT-5
+Security: 0.0
+
+Involved parties:
+
+Name: olusion
+Security: 4.4
+Alliance: Freelancer Alliance
+Corp: London Transport
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Zachariah Barnette (laid the final blow)
+Security: 0.2
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Ship: Thorax
+Weapon: Heavy Neutron Blaster I
+
+
+Destroyed items:
+
+Speculative Ship Identifier I
+

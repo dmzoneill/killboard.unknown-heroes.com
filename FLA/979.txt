@@ -1,0 +1,140 @@
+2007.03.02 01:17
+
+Victim: Lord Cyric
+Alliance: None
+Corp: 0utbreak
+Destroyed: Curse
+System: 7V-KHW
+Security: 0.0
+
+Involved parties:
+
+Name: DerHund Erste (laid the final blow)
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Brutix
+Weapon: 250mm Railgun II
+
+Name: Zimi Vlasic
+Security: 2.6
+Alliance: EVE Animal Control
+Corp: F.R.E.E. Explorer
+Ship: Cyclone
+Weapon: Cyclone
+
+Name: LonliVietBoiZ
+Security: 5.0
+Alliance: The ARR0W Project
+Corp: The Arrow Project
+Ship: Megathron
+Weapon: Warp Disruptor I
+
+Name: Anatolli Korenchken
+Security: 5.0
+Alliance: CORE.
+Corp: AUS Corporation
+Ship: Moa
+Weapon: Piranha Light Missile
+
+Name: Habraka
+Security: -1.8
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Zealot
+Weapon: Zealot
+
+Name: Aranamus Geltai
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Heretic
+Weapon: Heretic
+
+Name: mPistoleroZ
+Security: 4.5
+Alliance: RAZOR Alliance
+Corp: Mythos Corp
+Ship: Hawk
+Weapon: Sabretooth Light Missile
+
+Name: Diss Champ
+Security: 5.1
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Maller
+Weapon: Focused Medium Pulse Laser II
+
+Name: Comradical
+Security: 5.1
+Alliance: THE R0CK
+Corp: The Keep
+Ship: Lachesis
+Weapon: Havoc Heavy Missile
+
+Name: PaNoSNaVy
+Security: 4.5
+Alliance: RAZOR Alliance
+Corp: Maza Nostra
+Ship: Hawk
+Weapon: Piranha Light Missile
+
+Name: Plague Black
+Security: 4.5
+Alliance: Morsus Mihi
+Corp: 4S Corporation
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: Dameclese
+Security: 5.0
+Alliance: Morsus Mihi
+Corp: hirr
+Ship: Cormorant
+Weapon: 250mm Light Artillery Cannon I
+
+Name: Audri Fisher
+Security: 1.1
+Alliance: THE R0CK
+Corp: The Keep
+Ship: Harpy
+Weapon: Light Neutron Blaster II
+
+Name: Puz'ZaW
+Security: 2.7
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Claw
+Weapon: Fleeting Warp Scrambler I
+
+Name: Manonamission
+Security: 5.1
+Alliance: Morsus Mihi
+Corp: Shiva
+Ship: Curse
+Weapon: Medium Diminishing Power System Drain I
+
+Name: Comrad1
+Security: 5.0
+Alliance: THE R0CK
+Corp: The Keep
+Ship: Flycatcher
+Weapon: Standard Missile Launcher II
+
+Name: Atreus Minmatarius
+Security: 2.6
+Alliance: Schism.
+Corp: Fatalix Inc.
+Ship: Rupture
+Weapon: 650mm Artillery Cannon II
+
+
+Destroyed items:
+
+Medium Nosferatu II
+50W Infectious Power System Malfunction
+SV-2000 Assault Missile Bay
+Large Shield Extender II
+Remote Sensor Dampener II
+Local Hull Conversion Nanofiber Structure I
+

@@ -1,0 +1,33 @@
+2006.11.14 17:04
+
+Victim: Jarvis rodriguez
+Alliance: None
+Corp: GalacTECH Unlimited
+Destroyed: Capsule
+System: Aunenen
+Security: 0.4
+
+Involved parties:
+
+Name: jacass66
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Dominix
+Weapon: Bouncer I
+
+Name: Elfaen Ethenwe (laid the final blow)
+Security: -1.3
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Raven
+Weapon: Inferno Javelin Torpedo
+
+Name: MAD D0G
+Security: -2.3
+Alliance: None
+Corp: Ganksters Paradise
+Ship: Raven
+Weapon: Mjolnir Javelin Torpedo
+
+

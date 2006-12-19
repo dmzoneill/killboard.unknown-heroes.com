@@ -1,0 +1,60 @@
+2007.05.06 02:06
+
+Victim: Sebi Fal
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Rifter
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Baddias Mongo
+Security: 1.5
+Alliance: RAZOR Alliance
+Corp: Cutting Edge Incorporated
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: UberDefDef (laid the final blow)
+Security: -1.2
+Alliance: RAZOR Alliance
+Corp: Roving Guns Inc.
+Ship: Curse
+Weapon: Warrior II
+
+Name: haz zard
+Security: -2.3
+Alliance: The Foundation.
+Corp: Cornerstone Unlimited
+Ship: Thorax
+Weapon: Thorax
+
+Name: Mufeater
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Nemesis
+Weapon: Low Frequency Sensor Suppressor I
+
+Name: Lonagan
+Security: 0.0
+Alliance: RAZOR Alliance
+Corp: Cutting Edge Incorporated
+Ship: Armageddon
+Weapon: Warrior II
+
+Name: Princess Dread
+Security: 5.0
+Alliance: RAZOR Alliance
+Corp: Cutting Edge Incorporated
+Ship: Falcon
+Weapon: Languid Phase Inversion ECM I
+
+
+Destroyed items:
+
+Flameburst Light Missile, Qty: 40
+Standard Missile Launcher I
+Defender I, Qty: 100 (Cargo)
+

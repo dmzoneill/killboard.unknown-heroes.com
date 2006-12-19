@@ -1,0 +1,42 @@
+2006.11.29 22:15
+
+Victim: Augiro
+Alliance: Anarchy Empire
+Corp: Nubs.
+Destroyed: Caracal
+System: Pakkonen
+Security: 0.4
+
+Involved parties:
+
+Name: Formosus Funus (laid the final blow)
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Wolf
+Weapon: 150mm Light AutoCannon II
+
+Name: Guristas Despoiler / Guristas
+
+
+Destroyed items:
+
+Flameburst Light Missile, Qty: 74
+'Malkuth' Assault Missile Launcher I
+'Malkuth' Assault Missile Launcher I
+'Malkuth' Assault Missile Launcher I
+Large Subordinate Screen Stabilizer I
+Large Subordinate Screen Stabilizer I
+Medium Clarity Ward Booster I
+10MN Afterburner I
+Small Brief Capacitor Overcharge I
+Small Shield Extender I (Cargo)
+Rifter Blueprint (Cargo)
+Foxfire Rocket Blueprint, Qty: 12 (Cargo)
+Scourge Heavy Missile Blueprint, Qty: 3 (Cargo)
+Widowmaker Heavy Missile Blueprint, Qty: 6 (Cargo)
+Precious Alloy, Qty: 12 (Cargo)
+Sheen Compound, Qty: 11 (Cargo)
+Motley Compound (Cargo)
+Warrior I, Qty: 2 (Drone Bay)
+

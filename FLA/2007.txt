@@ -1,0 +1,43 @@
+2007.01.16 23:10
+
+Victim: Prodigal IV
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Destroyed: Megathron
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: SATAN (laid the final blow)
+Security: -0.7
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+Name: Arnold Swartzenegger
+Security: 0.1
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+
+Destroyed items:
+
+425mm Prototype I Gauss Gun
+425mm Prototype I Gauss Gun
+425mm Prototype I Gauss Gun
+Antimatter Charge L, Qty: 153
+'Arbalest' Assault Missile Launcher
+Eutectic I Capacitor Charge Array
+Magnetic Vortex Stabilizer I
+N-Type Kinetic Hardener I
+N-Type Kinetic Hardener I
+N-Type Thermic Hardener I
+Beta Reactor Control: Capacitor Power Relay I
+Antimatter Charge L, Qty: 5226 (Cargo)
+Bloodclaw Light Missile, Qty: 989 (Cargo)
+Ogre II (Drone Bay)
+

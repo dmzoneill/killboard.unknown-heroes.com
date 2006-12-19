@@ -1,0 +1,171 @@
+2007.03.08 03:52
+
+Victim: Lord Revent
+Alliance: YouWhat
+Corp: Beasts of Burden
+Destroyed: Tempest
+System: XZH-4X
+Security: 0.0
+
+Involved parties:
+
+Name: MagicalMako
+Security: 0.9
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Hurricane
+Weapon: Compact 'Limos' Assault Missile Bay I
+
+Name: Drakenheim Reinmueller
+Security: 2.8
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Harbinger
+Weapon: Heavy Beam Laser II
+
+Name: Eyeshadow (laid the final blow)
+Security: 5.0
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+Name: 13th
+Security: 4.4
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Sartris Lunula
+Security: 3.6
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Drake
+Weapon: Heavy Assault Missile Launcher II
+
+Name: eddyc
+Security: 1.8
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Harbinger
+Weapon: Focused Medium Pulse Laser II
+
+Name: Xoduse
+Security: -0.3
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Megathron
+Weapon: Megathron
+
+Name: SeasonToRisk
+Security: 4.9
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Rupture
+Weapon: Rupture
+
+Name: Sidd Torginn
+Security: 4.9
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Claw
+Weapon: Faint Warp Prohibitor I
+
+Name: Silistria
+Security: 0.6
+Alliance: GoonSwarm
+Corp: Black Omega Security
+Ship: Raptor
+Weapon: Raptor
+
+Name: Miriyaka
+Security: 5.0
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Blackbird
+Weapon: ECM - Phase Inverter II
+
+Name: Travellian
+Security: 0.0
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Stabber
+Weapon: Stabber
+
+Name: Tulthix
+Security: 1.6
+Alliance: GoonSwarm
+Corp: Ultrapolite Socialites
+Ship: Rupture
+Weapon: Rupture
+
+Name: Snowden Vel
+Security: 3.9
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Capsule
+Weapon: OE-5200 Rocket Launcher
+
+Name: VoYvod
+Security: -1.3
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Coercer
+Weapon: Medium Beam Laser I
+
+Name: Vanst Keal
+Security: 1.8
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Unknown
+Weapon: Light Ion Blaster I
+
+Name: Aryas Storm
+Security: 0.4
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Blackbird
+Weapon: Scourge Heavy Missile
+
+Name: Jrug
+Security: 2.9
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Maulus
+Weapon: Maulus
+
+Name: Monopthalmus
+Security: 2.3
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Celestis
+Weapon: 250mm Compressed Coil Gun I
+
+Name: Contez
+Security: 3.8
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Ares
+Weapon: Ares
+
+Name: Yan CanCook
+Security: 0.9
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Myrmidon
+Weapon: X5 Prototype I Engine Enervator
+
+
+Destroyed items:
+
+Large Proton Smartbomb I
+Large Graviton Smartbomb I
+Heavy Electrochemical Capacitor Booster I
+Heavy Electrochemical Capacitor Booster I
+Damage Control I
+Nanoelectrical Co-Processor I
+1600mm Reinforced Nanofiber Plates I
+1600mm Reinforced Crystalline Carbonide Plates I
+Phased Plasma L, Qty: 2452 (Cargo)
+

@@ -1,0 +1,32 @@
+2007.02.02 13:21
+
+Victim: Akmel Delan
+Alliance: None
+Corp: Goa'uld Serpent Guards
+Destroyed: Minmatar Shuttle
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Cockroach
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Purifier
+Weapon: Devastator Cruise Missile
+
+Name: Nukuquqa Hestase (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Catalyst
+Weapon: 125mm Railgun I
+
+Name: Hedeon Mishenka
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Coercer
+Weapon: Coercer
+

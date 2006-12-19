@@ -1,0 +1,50 @@
+2007.01.01 16:59
+
+Victim: Miss d1amond
+Alliance: None
+Corp: omen.
+Destroyed: Cheetah
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Indigo Callypso (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Damfoose
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Eagle
+Weapon: Eagle
+
+Name: Valadeya uthanaras
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Unknown
+Weapon: Tachyon Beam Laser II
+
+Name: Black Tear
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Ship: Caracal
+Weapon: Heavy Missile Launcher I
+
+
+Destroyed items:
+
+Snoop Scanner Probe I, Qty: 115
+Low Frequency Sensor Suppressor I
+Co-Processor II
+Co-Processor II
+125mm Railgun II, Qty: 2 (Cargo)
+Ferret Scanner Probe I, Qty: 80 (Cargo)
+Observator Deep Space Probe I, Qty: 2 (Cargo)
+

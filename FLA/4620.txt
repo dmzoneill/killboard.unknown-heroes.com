@@ -1,0 +1,26 @@
+2007.04.15 19:19
+
+Victim: Cockroach
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Capsule
+System: K4YZ-Y
+Security: 0.0
+
+Involved parties:
+
+Name: SaNoSuKeJavi (laid the final blow)
+Security: -1.9
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+Name: Himphotep 87
+Security: 1.5
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+

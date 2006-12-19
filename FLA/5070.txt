@@ -1,0 +1,44 @@
+2007.04.21 19:56
+
+Victim: Kvarium Ki
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Destroyed: Breacher
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: LeZip
+Security: 1.1
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Drake
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+Name: OneHawk (laid the final blow)
+Security: 3.8
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Rupture
+Weapon: 425mm Medium 'Scout' Autocannon I
+
+Name: Savak
+Security: 0.0
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Armageddon
+Weapon: Armageddon
+
+
+Destroyed items:
+
+200mm Light Carbine Repeating Cannon I
+Gremlin Rocket, Qty: 21
+'Malkuth' Rocket Launcher I
+1MN MicroWarpdrive I
+Small Ld-Acid Capacitor Battery I
+Micro Auxiliary Power Core I
+Phalanx Rocket, Qty: 440 (Cargo)
+Gremlin Rocket, Qty: 160 (Cargo)
+

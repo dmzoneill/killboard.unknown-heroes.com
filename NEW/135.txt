@@ -1,0 +1,27 @@
+2007.01.20 13:01
+
+Victim: Burn Lump
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Destroyed: Taranis
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Murdoch Morf (laid the final blow)
+Security: 0.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Vagabond
+Weapon: Hobgoblin II
+
+
+Destroyed items:
+
+Light Ion Blaster II
+Antimatter Charge S, Qty: 33
+1MN MicroWarpdrive I
+Small Armor Repairer II
+Nanofiber Internal Structure I
+Antimatter Charge S, Qty: 641 (Cargo)

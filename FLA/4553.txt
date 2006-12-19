@@ -1,0 +1,45 @@
+2007.04.14 08:11
+
+Victim: Skull Fire
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Caracal
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Tomas Ysidro (laid the final blow)
+Security: 1.5
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Eos
+Weapon: Ogre II
+
+Name: FowlPlayChiken
+Security: 1.2
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Thanatos
+Weapon: Berserker II
+
+Name: Queldonus
+Security: 3.3
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Nidhoggur
+Weapon: Firbolg
+
+
+Destroyed items:
+
+Torrent Assault Missile, Qty: 90
+Terror Assault Missile, Qty: 90
+XT-2800 Heavy Assault Missile Launcher I
+XT-2800 Heavy Assault Missile Launcher I
+10MN Afterburner I
+Warp Disruptor I
+Sensor Booster I
+Widowmaker Heavy Missile, Qty: 185 (Cargo)
+Fulmination Assault Missile, Qty: 114 (Cargo)
+

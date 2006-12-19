@@ -1,0 +1,63 @@
+2007.04.18 03:49
+
+Victim: Alex Hinkelmann
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Destroyed: Caracal
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: lethario desrtuction (laid the final blow)
+Security: 2.1
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Drake
+Weapon: Scourge Fury Heavy Missile
+
+Name: Shihaya xi
+Security: 0.3
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Drake
+Weapon: Terror Assault Missile
+
+Name: Athanasios Anastasiou
+Security: 5.0
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Hurricane
+Weapon: Hurricane
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 40
+Flameburst Light Missile, Qty: 40
+Heavy Missile Launcher I
+Large Shield Extender I
+Medium Shield Booster I
+Magnetic Scattering Amplifier I
+Power Diagnostic System I
+Cap Recharger I (Cargo)
+Medium Capacitor Battery I (Cargo)
+Medium Armor Repairer I (Cargo)
+Medium Graviton Smartbomb I (Cargo)
+200mm Railgun I (Cargo)
+350mm Railgun I (Cargo)
+Uranium Charge M, Qty: 100 (Cargo)
+Defender I, Qty: 100 (Cargo)
+'Prayer' Targeting Annex I (Cargo)
+Heavy Assault Missile Specialization (Cargo)
+Heat Dissipation Amplifier I (Cargo)
+Piranha Light Missile, Qty: 239 (Cargo)
+Flameburst Light Missile (Cargo)
+Bloodclaw Light Missile, Qty: 483 (Cargo)
+Scourge Heavy Missile, Qty: 568 (Cargo)
+Standard Missile Launcher I (Cargo)
+Power Diagnostic System I (Cargo)
+Local Power Plant Manager: Capacitor Flux I (Cargo)
+Reactor Control Unit I (Cargo)
+Vespa I (Drone Bay)
+

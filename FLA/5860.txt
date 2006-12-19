@@ -1,0 +1,83 @@
+2006.10.24 20:13
+
+Victim: CDUB
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Destroyed: Megathron
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: geewiz
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Megathron
+Weapon: Megathron
+
+Name: bidman
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Raven
+Weapon: Hobgoblin II
+
+Name: JumpRat
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Nighthawk
+Weapon: Thunderbolt Heavy Missile
+
+Name: freestrike
+Security: 5.9
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Vulture
+Weapon: Warrior I
+
+Name: W4RR10R (laid the final blow)
+Security: 1.8
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Ishkur
+Weapon: Valkyrie II
+
+Name: Maoam Druban
+Security: 0.9
+Alliance: Chorus of Dawn
+Corp: Independent Frontiers
+Ship: Moa
+Weapon: Moa
+
+Name: DARKLING
+Security: 5.1
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Scorpion
+Weapon: Heavy Missile Launcher II
+
+Name: tyrol
+Security: 3.4
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Scorpion
+Weapon: Cataclysm Cruise Missile
+
+
+Destroyed items:
+
+Ion Blaster Cannon II
+Ion Blaster Cannon II
+Neutron Blaster Cannon II
+Neutron Blaster Cannon II
+Antimatter Charge L, Qty: 480
+Juggernaut Torpedo, Qty: 15
+F-b10 Nominal Capacitor Regenerator
+F-b10 Nominal Capacitor Regenerator
+100MN MicroWarpdrive II
+Large Armor Repairer II
+Magnetic Field Stabilizer II
+Berserker I (Drone Bay)
+

@@ -1,0 +1,109 @@
+2007.03.03 04:54
+
+Victim: Raketefrau
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Caracal
+System: 75FA-Z
+Security: 0.0
+
+Involved parties:
+
+Name: Shamis Orzoz
+Security: -8.5
+Alliance: Pandemic Legion
+Corp: Sniggerdly
+Ship: Muninn
+Weapon: Bloodclaw Light Missile
+
+Name: Superbus Maximus
+Security: -1.6
+Alliance: Pandemic Legion
+Corp: Sniggerdly
+Ship: Sleipnir
+Weapon: Sleipnir
+
+Name: Thatch (laid the final blow)
+Security: -0.1
+Alliance: Pandemic Legion
+Corp: SniggWaffe
+Ship: Rupture
+Weapon: Flameburst Light Missile
+
+Name: Jormunrekk
+Security: -0.9
+Alliance: Pandemic Legion
+Corp: North Eastern Swat
+Ship: Hurricane
+Weapon: 650mm Artillery Cannon II
+
+Name: Baroti
+Security: -1.0
+Alliance: Pandemic Legion
+Corp: Sniggerdly
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: mazzilliu
+Security: -8.0
+Alliance: Pandemic Legion
+Corp: Sniggerdly
+Ship: Sabre
+Weapon: Sabre
+
+Name: m00s3m4n
+Security: -6.5
+Alliance: Pandemic Legion
+Corp: SniggWaffe
+Ship: Stiletto
+Weapon: 250mm Light Artillery Cannon II
+
+Name: Danthomir
+Security: -6.6
+Alliance: Pandemic Legion
+Corp: SniggWaffe
+Ship: Rifter
+Weapon: Sabretooth Light Missile
+
+Name: Hulka
+Security: -1.7
+Alliance: Pandemic Legion
+Corp: Sniggerdly
+Ship: Crow
+Weapon: Warp Disruptor I
+
+Name: Caledric
+Security: -0.5
+Alliance: Pandemic Legion
+Corp: SniggWaffe
+Ship: Curse
+Weapon: E50 Prototype Energy Vampire
+
+Name: Amun Ra1
+Security: -0.8
+Alliance: Pandemic Legion
+Corp: Sniggerdly
+Ship: Taranis
+Weapon: Faint Warp Prohibitor I
+
+Name: Altrex Stoppel
+Security: -7.3
+Alliance: Pandemic Legion
+Corp: SniggWaffe
+Ship: Stiletto
+Weapon: Fleeting Warp Scrambler I
+
+
+Destroyed items:
+
+Thunderbolt Heavy Missile, Qty: 54
+'Arbalest' Heavy Missile Launcher
+'Arbalest' Heavy Missile Launcher
+XR-3200 Heavy Missile Bay
+XR-3200 Heavy Missile Bay
+'Anointed' I EM Ward Reinforcement
+'Anointed' I EM Ward Reinforcement
+Dread Guristas Dual 250mm Railgun (Cargo)
+Thunderbolt Heavy Missile, Qty: 2039 (Cargo)
+Vespa I (Drone Bay)
+

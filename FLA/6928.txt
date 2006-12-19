@@ -1,0 +1,110 @@
+2006.12.13 02:44
+
+Victim: P1rate Dave
+Alliance: None
+Corp: 0utbreak
+Destroyed: Sabre
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Rede
+Security: -0.6
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: alon blackhelm (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Drake
+Weapon: Widowmaker Heavy Missile
+
+Name: Preying Mantis
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Moa
+Weapon: Flameburst Light Missile
+
+Name: Teck7
+Security: 0.8
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Lachesis
+Weapon: Lachesis
+
+Name: bidman
+Security: 4.7
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Blackbird
+Weapon: ECM - Multispectral Jammer I
+
+Name: Boris Nikolaovitch
+Security: 3.3
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Rapier
+Weapon: 720mm Howitzer Artillery II
+
+Name: Kappas.
+Security: 3.5
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Taranis
+Weapon: Taranis
+
+Name: tyrol
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Lachesis
+Weapon: 150mm Railgun II
+
+Name: movy
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Vexor
+Weapon: Vexor
+
+Name: Megan Ryder
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: VentureCorp
+Ship: Lachesis
+Weapon: Heavy Missile Launcher II
+
+Name: Kcyx
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Megathron
+Weapon: 425mm 'Scout' I Accelerator Cannon
+
+Name: Fahad
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Megathron
+Weapon: 350mm Railgun II
+
+
+Destroyed items:
+
+200mm AutoCannon II
+200mm AutoCannon II
+200mm AutoCannon II
+200mm AutoCannon II
+Barrage S, Qty: 240
+Interdiction Sphere Launcher I
+Medium Shield Extender II
+Fleeting Warp Scrambler I
+Fleeting Propulsion Inhibitor I
+Barrage S, Qty: 3930 (Cargo)
+Warp Disrupt Probe, Qty: 39 (Cargo)
+

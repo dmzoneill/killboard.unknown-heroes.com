@@ -1,0 +1,33 @@
+2006.11.25 01:05
+
+Victim: Garath Dirk
+Alliance: None
+Corp: omen.
+Destroyed: Raptor
+System: E-FIC0
+Security: 0.0
+
+Involved parties:
+
+Name: KriegDrachen (laid the final blow)
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Claw
+Weapon: 150mm Light AutoCannon II
+
+
+Destroyed items:
+
+Small Nosferatu I
+Small Nosferatu I
+Thorn Rocket, Qty: 68
+Rocket Launcher II
+1MN MicroWarpdrive II
+Initiated Warp Jammer I
+Patterned Stasis Web I
+Small Armor Repairer II
+Light Neutron Blaster II (Cargo)
+Modulated Strip Miner II (Cargo)
+Phalanx Javelin Rocket, Qty: 5000 (Cargo)
+

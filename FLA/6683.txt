@@ -1,0 +1,23 @@
+2006.11.24 18:42
+
+Victim: limpy bint
+Alliance: None
+Corp: Itchy logistics
+Destroyed: Condor
+System: 85-B52
+Security: 0.0
+
+Involved parties:
+
+Name: dastommy79 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Blackbird
+Weapon: Scourge Heavy Missile
+
+
+Destroyed items:
+
+Warp Core Stabilizer I
+

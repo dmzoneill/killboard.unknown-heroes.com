@@ -1,0 +1,37 @@
+2006.10.05 21:43
+
+Victim: dastommy79
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Destroyed: Caracal
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Talsarius
+Security: -2.1
+Alliance: R.I.S.K
+Corp: SolaR KillerS
+Ship: Deimos
+Weapon: Heavy Ion Blaster II
+
+Name: 098765 (laid the final blow)
+Security: 3.9
+Alliance: R.I.S.K
+Corp: The First Foundation
+Ship: Scorpion
+Weapon: Wrath Cruise Missile
+
+
+Destroyed items:
+
+Sabretooth Light Missile, Qty: 41
+Piranha Light Missile, Qty: 75
+Assault Missile Launcher I
+Assault Missile Launcher I
+Medium Shield Booster I
+Sensor Booster I
+Ballistic Control System I
+Piranha Light Missile, Qty: 851 (Cargo)
+

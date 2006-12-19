@@ -1,0 +1,61 @@
+2006.11.08 20:39
+
+Victim: Voxe Kraayen
+Alliance: None
+Corp: 76th Special Task Force
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: bidman (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Harpy
+Weapon: Foxfire Rocket
+
+Name: H3llfire
+Security: 2.5
+Alliance: O X I D E
+Corp: W33D Corp.
+Ship: Moa
+Weapon: 250mm Compressed Coil Gun I
+
+Name: Narny
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Harpy
+Weapon: Harpy
+
+Name: LizzyD
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: Elfaen Ethenwe
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Rook
+Weapon: Heavy Missile Launcher II
+
+Name: Dog Cancer
+Security: 1.4
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Crow
+Weapon: Standard Missile Launcher I
+
+Name: De'Zori
+Security: 5.0
+Alliance: None
+Corp: PILGRIMS
+Ship: Ferox
+Weapon: Heavy Missile Launcher II
+
+

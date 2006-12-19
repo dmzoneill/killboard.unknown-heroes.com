@@ -1,0 +1,63 @@
+2007.04.15 05:42
+
+Victim: xinndo jagged
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Destroyed: Drake
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Redginald (laid the final blow)
+Security: 4.5
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Thanatos
+Weapon: Einherji
+
+Name: bsspewer
+Security: 2.5
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Archon
+Weapon: Firbolg
+
+Name: DarkAlpha
+Security: -1.0
+Alliance: YouWhat
+Corp: Pringles Inc.
+Ship: Cerberus
+Weapon: Widowmaker Heavy Missile
+
+Name: AIRB
+Security: 3.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Falcon
+Weapon: Havoc Precision Heavy Missile
+
+Name: FowlPlayChiken
+Security: 1.2
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Thanatos
+Weapon: Einherji
+
+
+Destroyed items:
+
+Havoc Heavy Missile, Qty: 192
+Heavy Missile Launcher II
+Heavy Missile Launcher II
+Heavy Missile Launcher II
+Invulnerability Field II
+Sensor Booster I
+Sensor Booster I
+Target Painter I
+Inertia Stabilizers I
+Type-D Power Core Modification: Capacitor Power Relay
+Scourge Heavy Missile, Qty: 400 (Cargo)
+Havoc Heavy Missile, Qty: 663 (Cargo)
+Widowmaker Precision Heavy Missile, Qty: 110 (Cargo)
+

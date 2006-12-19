@@ -1,0 +1,24 @@
+2007.04.27 09:23
+
+Victim: Jay Lefay
+Alliance: None
+Corp: Federal Navy Academy
+Destroyed: Velator
+System: F7C-H0
+Security: 0.0
+
+Involved parties:
+
+Name: Koi Yokuma (laid the final blow)
+Security: 0.4
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Catalyst
+Weapon: 150mm Railgun I
+
+
+Destroyed items:
+
+Basic Miner
+Tritanium (Cargo)
+

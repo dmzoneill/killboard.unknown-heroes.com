@@ -1,0 +1,45 @@
+2007.04.19 16:16
+
+Victim: Corovus
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Destroyed: Celestis
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Savak
+Security: -0.2
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Armageddon
+Weapon: Dual Heavy Anode Pulse Particle Stream I
+
+Name: Indiano Arko (laid the final blow)
+Security: 0.6
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Hurricane
+Weapon: Warrior II
+
+Name: tomuch
+Security: 2.9
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Enyo
+Weapon: Enyo
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Dual 150mm Railgun II
+Remote Sensor Dampener II
+Medium Armor Repairer II
+Magnetic Field Stabilizer II
+400mm Reinforced Rolled Tungsten Plates I
+Iron Charge M, Qty: 3720 (Cargo)
+Acolyte I, Qty: 2 (Drone Bay)
+Infiltrator I, Qty: 2 (Drone Bay)
+

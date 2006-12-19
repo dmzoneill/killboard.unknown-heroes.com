@@ -1,0 +1,26 @@
+2006.09.25 14:16
+
+Victim: Yertus Plight
+Alliance: Freelancer Alliance
+Corp: Elite frontier group
+Destroyed: Capsule
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Drift Spec (laid the final blow)
+Security: 5.0
+Alliance: Ascendant Frontier
+Corp: Sha Kharn Corp
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Jessica Jones
+Security: 3.4
+Alliance: Ascendant Frontier
+Corp: Sha Kharn Corp
+Ship: Raptor
+Weapon: Raptor
+
+

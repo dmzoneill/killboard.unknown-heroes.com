@@ -1,0 +1,31 @@
+2007.01.15 19:03
+
+Victim: Deathbringer III
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Destroyed: Reaper
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Vorag (laid the final blow)
+Security: -0.7
+Alliance: None
+Corp: 0utbreak
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Waut
+Security: 4.5
+Alliance: None
+Corp: 0utbreak
+Ship: Crow
+Weapon: Gremlin Rocket
+
+
+Destroyed items:
+
+Civilian Gatling Autocannon
+Tritanium (Cargo)
+

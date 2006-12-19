@@ -1,0 +1,36 @@
+2006.12.25 17:10
+
+Victim: AlexeiShtukov
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Destroyed: Harpy
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Elliott Manchild (laid the final blow)
+Security: -2.0
+Alliance: None
+Corp: omen.
+Ship: Typhoon
+Weapon: Berserker II
+
+
+Destroyed items:
+
+125mm Railgun II
+125mm Railgun II
+Antimatter Charge S, Qty: 217
+Sabretooth Light Missile, Qty: 39
+Standard Missile Launcher I
+Initiated Warp Jammer I
+Magnetic Field Stabilizer II
+Ship Scanner I (Cargo)
+Medium Capacitor Booster I (Cargo)
+Antimatter Charge S, Qty: 736 (Cargo)
+Uranium Charge M, Qty: 100 (Cargo)
+Infiltrator I (Cargo)
+Energized Basic Reactive Plating (Cargo)
+Sabretooth Light Missile (Cargo)
+

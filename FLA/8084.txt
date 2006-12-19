@@ -1,0 +1,26 @@
+2006.10.09 03:47
+
+Victim: Barsak Kressel
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Destroyed: Raptor
+System: Oipo
+Security: 0.8
+
+Involved parties:
+
+Name: Danno (laid the final blow)
+Security: -1.4
+Alliance: None
+Corp: Privateers
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+
+Destroyed items:
+
+Dread Guristas Iron Charge S, Qty: 80
+Phalanx Rocket, Qty: 30
+Phalanx Rocket, Qty: 494 (Cargo)
+Gremlin Rocket, Qty: 492 (Cargo)
+

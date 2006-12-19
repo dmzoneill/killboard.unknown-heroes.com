@@ -1,0 +1,33 @@
+2007.04.23 17:30
+
+Victim: Dana Foxworth
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Capsule
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Georgenator (laid the final blow)
+Security: -0.4
+Alliance: Lotka Volterra
+Corp: CRICE Corporation
+Ship: Kestrel
+Weapon: Bloodclaw Light Missile
+
+Name: Savak
+Security: 0.2
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Armageddon
+Weapon: Mega Modulated Energy Beam I
+
+Name: Aut Nihil
+Security: 0.1
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Kestrel
+Weapon: Standard Missile Launcher I
+
+

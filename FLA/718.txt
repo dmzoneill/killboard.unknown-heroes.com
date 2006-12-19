@@ -1,0 +1,44 @@
+2007.02.18 04:13
+
+Victim: Grenadyr
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Destroyed: Cormorant
+System: RP2-OQ
+Security: 0.0
+
+Involved parties:
+
+Name: Jack Greyson (laid the final blow)
+Security: 4.8
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Flycatcher
+Weapon: Flameburst Light Missile
+
+Name: Skull Fire
+Security: 0.6
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Raven
+Weapon: Wrath Cruise Missile
+
+Name: Weeble Wooble
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Deimos
+Weapon: Deimos
+
+
+Destroyed items:
+
+Salvager I, Qty: 18
+10MN Afterburner I
+Invulnerability Field I
+Expanded Cargohold I
+Serpentis Palladium Tag (Cargo)
+Contaminated Lorentz Fluid, Qty: 14 (Cargo)
+Conductive Polymer, Qty: 12 (Cargo)
+Tripped Power Circuit, Qty: 12 (Cargo)
+

@@ -1,0 +1,129 @@
+2007.04.30 06:15
+
+Victim: Ilan Barak
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Destroyed: Badger Mark II
+System: O-CNPR
+Security: 0.0
+
+Involved parties:
+
+Name: Green Leaner (laid the final blow)
+Security: 2.4
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Muninn
+Weapon: 720mm Howitzer Artillery II
+
+Name: Myndpyre Ryche
+Security: 4.2
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Flycatcher
+Weapon: Bloodclaw Light Missile
+
+Name: Dol Amroth
+Security: 0.2
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: kIM JONGELL
+Security: 4.4
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Harpy
+Weapon: Harpy
+
+Name: Tomas Ysidro
+Security: 1.8
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Taranis
+Weapon: 125mm Railgun II
+
+Name: Lister Black
+Security: 4.8
+Alliance: Aftermath Alliance
+Corp: Pyrrhus Sicarii
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: xBeneGesseritx
+Security: 5.0
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Huginn
+Weapon: Sabretooth Light Missile
+
+Name: TKane
+Security: 0.0
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Ishkur
+Weapon: Warrior II
+
+Name: Pilk
+Security: 3.3
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Falcon
+Weapon: 'Hypnos' Multispectral ECM I
+
+Name: NightHawk VenGarden
+Security: 1.2
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Curse
+Weapon: 50W Infectious Power System Malfunction
+
+Name: Chingu
+Security: 3.0
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Malediction
+Weapon: Malediction
+
+Name: Bedrock
+Security: 0.0
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Zealot
+Weapon: Heavy Pulse Laser II
+
+
+Destroyed items:
+
+Medium Shield Extender I
+Magnetic Scattering Amplifier I
+Magnetic Scattering Amplifier I
+Warp Core Stabilizer I
+Warp Core Stabilizer I
+Small Shield Extender I, Qty: 12 (Cargo)
+Medium Shield Extender I, Qty: 4 (Cargo)
+Medium Shield Booster I, Qty: 6 (Cargo)
+Cap Recharger I, Qty: 6 (Cargo)
+1MN MicroWarpdrive I, Qty: 6 (Cargo)
+1MN Afterburner I, Qty: 6 (Cargo)
+Warp Disruptor I, Qty: 4 (Cargo)
+Gyrostabilizer I, Qty: 8 (Cargo)
+Damage Control I, Qty: 6 (Cargo)
+Medium Armor Repairer I, Qty: 6 (Cargo)
+Stasis Webifier I, Qty: 4 (Cargo)
+Medium Nosferatu I, Qty: 4 (Cargo)
+Small Nosferatu I, Qty: 8 (Cargo)
+Heavy Electron Blaster I, Qty: 16 (Cargo)
+Heavy Ion Blaster I, Qty: 16 (Cargo)
+Invulnerability Field I, Qty: 6 (Cargo)
+Depleted Uranium S, Qty: 20000 (Cargo)
+Phased Plasma M, Qty: 10000 (Cargo)
+Hammerhead I, Qty: 20 (Cargo)
+Crow (Cargo)
+Energized Adaptive Nano Membrane I, Qty: 4 (Cargo)
+Energized Reflective Membrane I, Qty: 6 (Cargo)
+Ballistic Control System I, Qty: 6 (Cargo)
+Nanofiber Internal Structure I, Qty: 4 (Cargo)
+Capacitor Power Relay I, Qty: 10 (Cargo)
+

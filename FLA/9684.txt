@@ -1,0 +1,65 @@
+2007.05.23 16:01
+
+Victim: CG56
+Alliance: Vigilance Infinitas
+Corp: mUfFiN fAcToRy
+Destroyed: Stabber
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: silent uk
+Security: 2.5
+Alliance: DeStInY.
+Corp: Sacred Templars
+Ship: Heretic
+Weapon: Heretic
+
+Name: Bonkers2000
+Security: -0.5
+Alliance: DeStInY.
+Corp: The Knights Of Camelot
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+Name: Kotori
+Security: -0.2
+Alliance: DeStInY.
+Corp: Sacred Templars
+Ship: Claw
+Weapon: Claw
+
+Name: Lost Hope (laid the final blow)
+Security: 0.0
+Alliance: DeStInY.
+Corp: The Knights Of Camelot
+Ship: Caracal
+Weapon: Widowmaker Heavy Missile
+
+Name: Matchitehew
+Security: 0.5
+Alliance: DeStInY.
+Corp: The Knights Of Camelot
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Corovus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Manticore
+Weapon: 'Arbalest' Cruise Launcher I
+
+
+Destroyed items:
+
+200mm AutoCannon I
+Titanium Sabot S, Qty: 184
+Heavy Missile Launcher I
+200mm AutoCannon I, Qty: 7 (Cargo)
+Titanium Sabot S, Qty: 1000 (Cargo)
+Havoc Heavy Missile, Qty: 100 (Cargo)
+Heavy Missile Launcher I, Qty: 10 (Cargo)
+Overdrive Injector System I, Qty: 8 (Cargo)
+

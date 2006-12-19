@@ -1,0 +1,45 @@
+2007.04.30 20:12
+
+Victim: Falke
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Destroyed: Purifier
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Screamer
+Security: 1.0
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Manticore
+Weapon: Cruise Missile Launcher II
+
+Name: Fitz Farseer (laid the final blow)
+Security: 0.6
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Typhoon
+Weapon: Inferno Torpedo
+
+Name: sammual
+Security: -2.8
+Alliance: None
+Corp: The Phoenix Rising
+Ship: Ferox
+Weapon: Ferox
+
+
+Destroyed items:
+
+Prototype Cloaking Device I
+Wrath Cruise Missile, Qty: 14
+Cruise Missile Launcher I
+Remote Sensor Dampener I
+Sensor Booster I
+Damage Control I
+Ballistic Control System I
+Cataclysm Cruise Missile, Qty: 200 (Cargo)
+Wrath Cruise Missile, Qty: 92 (Cargo)
+

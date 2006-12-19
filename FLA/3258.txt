@@ -1,0 +1,150 @@
+2007.03.22 00:05
+
+Victim: Necrofere0101
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Destroyed: Hyperion
+System: LT-DRO
+Security: 0.0
+
+Involved parties:
+
+Name: Guristas Exterminator / Guristas
+
+Name: Spacebar
+Security: 2.1
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Cynabal
+Weapon: Hornet I
+
+Name: Kanx Alanks
+Security: 0.2
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Vagabond
+Weapon: Warrior II
+
+Name: numbers
+Security: 3.5
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Zealot
+Weapon: Zealot
+
+Name: Skinny Boy
+Security: 4.1
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Taranis
+Weapon: Hobgoblin II
+
+Name: Valeriya (laid the final blow)
+Security: 1.1
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Cerberus
+Weapon: Scourge Fury Heavy Missile
+
+Name: Larsson7
+Security: 4.4
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Cerberus
+Weapon: Scourge Fury Heavy Missile
+
+Name: Ferocious FeAr
+Security: 1.5
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Eagle
+Weapon: Eagle
+
+Name: Rukaz
+Security: 3.1
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Sabre
+Weapon: Sabre
+
+Name: Tripline
+Security: 1.4
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Taranis
+Weapon: Warrior II
+
+Name: Vily
+Security: 0.3
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Malediction
+Weapon: Malediction
+
+Name: Ant5010
+Security: 1.7
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Enyo
+Weapon: Enyo
+
+Name: Cadman Weyland
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Heretic
+Weapon: Heretic
+
+Name: psycorabbit
+Security: -1.8
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Claw
+Weapon: Claw
+
+Name: Ice Breaker
+Security: 4.0
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Crusader
+Weapon: Crusader
+
+Name: Erilynn
+Security: -1.0
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Falcon
+Weapon: Scourge Heavy Missile
+
+Name: Rick M
+Security: 4.1
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Blackbird
+Weapon: ECM - Phase Inverter II
+
+Name: Vleppie
+Security: 4.7
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Guardian
+Weapon: Guardian
+
+
+Destroyed items:
+
+425mm 'Scout' I Accelerator Cannon
+425mm 'Scout' I Accelerator Cannon
+425mm 'Scout' I Accelerator Cannon
+425mm 'Scout' I Accelerator Cannon
+425mm 'Scout' I Accelerator Cannon
+Antimatter Charge L, Qty: 34
+Barton Reactor Capacitor Recharger I
+Fixed Parallel Link-Capacitor I
+Omni Positional ECCM Sensor System I
+Large Armor Repairer II
+N-Type Thermic Hardener I
+N-Type Kinetic Hardener I
+Antimatter Charge L, Qty: 12082 (Cargo)
+Infiltrator I, Qty: 4 (Drone Bay)
+

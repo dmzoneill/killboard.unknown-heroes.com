@@ -1,0 +1,97 @@
+2007.04.01 03:51
+
+Victim: DarkAlpha
+Alliance: YouWhat
+Corp: Pringles Inc.
+Destroyed: Falcon
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Skelator0311
+Security: 2.9
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Epro
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Cyclone
+Weapon: Scourge Heavy Missile
+
+Name: Bobby Atlas
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Megathron
+Weapon: 425mm Compressed Coil Gun I
+
+Name: hydro2900
+Security: 2.9
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Ship: Thorax
+Weapon: Thorax
+
+Name: Fugnut (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Korudon
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Dominix
+Weapon: 350mm Railgun I
+
+Name: Danielson1012
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Harpy
+Weapon: Harpy
+
+Name: Osyc
+Security: 2.8
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Claw
+Weapon: J5b Phased Prototype Warp Inhibitor I
+
+Name: Skull Fire
+Security: 0.8
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Raven
+Weapon: XR-3200 Heavy Missile Bay
+
+Name: Logand Delta
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Ship: Drake
+Weapon: 'Arbalest' Heavy Missile Launcher
+
+Name: Deathratt
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Ship: Caracal
+Weapon: Heavy Missile Launcher I
+
+
+Destroyed items:
+
+Covert Ops Cloaking Device II
+Faint Warp Prohibitor I
+ECM - Multispectral Jammer II, Qty: 2
+Medium Armor Repairer II
+Co-Processor II, Qty: 2
+Thunderbolt Heavy Missile, Qty: 4000 (Cargo)

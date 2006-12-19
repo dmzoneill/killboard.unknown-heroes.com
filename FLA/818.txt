@@ -1,0 +1,24 @@
+2007.02.22 23:02
+
+Victim: Jism
+Alliance: Aftermath Alliance
+Corp: Total Mayhem.
+Destroyed: Impairor
+System: YZ-LQL
+Security: 0.0
+
+Involved parties:
+
+Name: Tregaron (laid the final blow)
+Security: 1.5
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Manticore
+Weapon: Paradise Cruise Missile
+
+
+Destroyed items:
+
+Basic Miner
+Nanofiber Internal Structure I, Qty: 2 (Cargo)
+

@@ -1,0 +1,45 @@
+2007.03.16 17:02
+
+Victim: ConXtionS
+Alliance: Freelancer Alliance
+Corp: The Night Crew
+Destroyed: Brutix
+System: XZH-4X
+Security: 0.0
+
+Involved parties:
+
+Name: GodWin cadela (laid the final blow)
+Security: -1.8
+Alliance: Eternal Rapture
+Corp: Exotic Dancers Club
+Ship: Hurricane
+Weapon: Dual 180mm AutoCannon II
+
+Name: hezitationkillz
+Security: -1.5
+Alliance: Eternal Rapture
+Corp: Temptation inc.
+Ship: Rook
+Weapon: Advanced 'Limos' Heavy Missile Bay I
+
+Name: VirkMaN
+Security: -1.0
+Alliance: Eternal Rapture
+Corp: Temptation inc.
+Ship: Hurricane
+Weapon: 425mm AutoCannon II
+
+
+Destroyed items:
+
+Medium 'Vehemence' I Shockwave Charge
+250mm Carbide Railgun I
+250mm Carbide Railgun I
+Antimatter Charge M, Qty: 40
+Prototype Cloaking Device I
+Sensor Booster I
+Medium Armor Repairer II
+Microcell Nanite Explosive Hardener I
+Antimatter Charge M, Qty: 3091 (Cargo)
+

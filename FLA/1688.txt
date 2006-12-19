@@ -1,0 +1,47 @@
+2007.03.20 21:32
+
+Victim: Don Promillo
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Destroyed: Capsule
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: KriegDrachen (laid the final blow)
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Sabre
+Weapon: 150mm Light AutoCannon II
+
+Name: Grimes NC
+Security: 4.8
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Jaguar
+Weapon: 250mm Light Artillery Cannon II
+
+Name: Slim Jim
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Stiletto
+Weapon: Upgraded 'Limos' Standard Missile Bay I
+
+Name: Ma'kal
+Security: 4.6
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Raptor
+Weapon: Standard Missile Launcher II
+
+Name: Freakdevil
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Malediction
+Weapon: Malediction
+
+

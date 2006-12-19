@@ -1,0 +1,97 @@
+2007.02.05 04:28
+
+Victim: tbow10
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Destroyed: Ares
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Sorlac Aurora
+Security: 1.2
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Jaig Maldara
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Cormorant
+Weapon: 150mm Railgun II
+
+Name: Jorax
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Ishkur
+Weapon: Stasis Webifier I
+
+Name: FlobbMkII
+Security: 3.8
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Taranis
+Weapon: Taranis
+
+Name: Liesin
+Security: 3.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Moa
+Weapon: Moa
+
+Name: Xantheris
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Harpy
+Weapon: Harpy
+
+Name: TroNaaR (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Myrmidon
+Weapon: Heavy Neutron Blaster I
+
+Name: beretta74
+Security: 2.8
+Alliance: The Foundation.
+Corp: EVE Corporation 160607
+Ship: Drake
+Weapon: SV-2000 Assault Missile Bay
+
+Name: WolfRavage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Hyperion
+Weapon: Hyperion
+
+Name: Stitcher
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: J.I.T. Enterprises
+Ship: Scorpion
+Weapon: 'Malkuth' Cruise Launcher I
+
+
+Destroyed items:
+
+Spike S, Qty: 400
+Flameburst Light Missile, Qty: 42
+'Malkuth' Standard Missile Launcher I
+Phased Monopropellant I Hydrazine Boosters
+Damage Control I
+Small Armor Repairer II
+Micro Auxiliary Power Core I
+Local Power Plant Manager: Capacity Power Relay I
+Large Shield Extender II (Cargo)
+X-Large C5-L Emergency Shield Overload I (Cargo)
+Fixed Parallel Link-Capacitor I (Cargo)
+Spike S, Qty: 162 (Cargo)
+Flameburst Light Missile, Qty: 348 (Cargo)

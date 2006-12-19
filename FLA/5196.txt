@@ -1,0 +1,44 @@
+2007.04.25 16:54
+
+Victim: HenDar XXIII
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Punisher
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Vazsholik (laid the final blow)
+Security: 1.0
+Alliance: The Foundation.
+Corp: NorCorp Security
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+Name: Minisoza
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ares
+Weapon: Sabretooth Light Missile
+
+Name: Guristas Supremacist / Guristas
+
+Name: Crushall
+Security: 5.0
+Alliance: The Foundation.
+Corp: NorCorp Security
+Ship: Dominix
+Weapon: E500 Prototype Energy Vampire
+
+
+Destroyed items:
+
+Xray S
+Xray S
+Warp Disruptor I
+Small Inefficient Armor Repair Unit
+100mm Reinforced Rolled Tungsten Plates I
+Small Capacitor Booster I (Cargo)
+

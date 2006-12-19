@@ -1,0 +1,36 @@
+2007.04.08 06:49
+
+Victim: Skull Fire
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Merlin
+System: P-2TTL
+Security: 0.0
+
+Involved parties:
+
+Name: MIGHTYDWC
+Security: 4.7
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Myrmidon
+Weapon: Ogre II
+
+Name: Rhayvn (laid the final blow)
+Security: 4.5
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Abaddon
+Weapon: Tachyon Beam Laser II
+
+
+Destroyed items:
+
+150mm Railgun II
+Spike S, Qty: 15
+Standard Missile Launcher I
+Warp Disruptor I
+X5 Prototype I Engine Enervator
+Spike S, Qty: 201 (Cargo)
+Flameburst Light Missile, Qty: 420 (Cargo)
+

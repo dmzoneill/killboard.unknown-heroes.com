@@ -1,0 +1,19 @@
+2007.04.01 13:40
+
+Victim: Furnis
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Destroyed: Capsule
+System: P-2TTL
+Security: 0.0
+
+Involved parties:
+
+Name: Carth Jared (laid the final blow)
+Security: 2.0
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Taranis
+Weapon: 125mm Railgun II
+
+

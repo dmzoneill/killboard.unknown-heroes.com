@@ -1,0 +1,38 @@
+2006.10.01 06:24
+
+Victim: Paltar
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Destroyed: Ishtar
+System: Aunenen
+Security: 0.4
+
+Involved parties:
+
+Name: The Cursed (laid the final blow)
+Security: -9.7
+Alliance: None
+Corp: Forsaken Empire
+Ship: Raven
+Weapon: Bane Javelin Torpedo
+
+Name: LordVodka
+Security: -5.8
+Alliance: None
+Corp: Earned In Blood
+Ship: Capsule
+Weapon: Small Nosferatu I
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Antimatter Charge M, Qty: 177
+Fleeting Warp Scrambler I
+Fleeting Propulsion Inhibitor I
+Pseudoelectron Containment Field I
+Medium Armor Repairer II
+Armor Explosive Hardener II
+Antimatter Charge M, Qty: 600 (Cargo)
+Vespa I, Qty: 3 (Drone Bay)
+

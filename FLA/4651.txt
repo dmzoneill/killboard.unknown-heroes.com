@@ -1,0 +1,45 @@
+2007.04.17 00:57
+
+Victim: Fitz Farseer
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Wolf
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Tran Whistler (laid the final blow)
+Security: 5.3
+Alliance: Freelancer Alliance
+Corp: Harbingers of Sarrow
+Ship: Caracal
+Weapon: Bloodclaw Light Missile
+
+Name: sparkvolt
+Security: -0.7
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Rifter
+Weapon: 200mm AutoCannon II
+
+Name: Kvarium Ki
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Arbitrator
+Weapon: Piranha Light Missile
+
+
+Destroyed items:
+
+EMP S
+EMP S
+EMP S
+EMP S
+Fleeting Warp Scrambler I
+Energized Magnetic Membrane I
+Reactor Control Unit I
+Corpse, Qty: 2 (Cargo)
+EMP S, Qty: 2548 (Cargo)
+

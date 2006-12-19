@@ -1,0 +1,96 @@
+2007.02.04 01:23
+
+Victim: Jarath Abyss
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Destroyed: Enyo
+System: 1IX-C0
+Security: 0.0
+
+Involved parties:
+
+Name: Drift Spec
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Bigben
+Security: 2.1
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Muninn
+Weapon: 650mm Artillery Cannon II
+
+Name: sageO
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+Name: Memphisz (laid the final blow)
+Security: 0.3
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: maria stallion
+Security: 3.7
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Nighthawk
+Weapon: Scourge Heavy Missile
+
+Name: Ragotha
+Security: 1.1
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Raven
+Weapon: Siege Missile Launcher II
+
+Name: RagedyMan
+Security: 1.9
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Nighthawk
+Weapon: Hornet II
+
+Name: Seth Quantix
+Security: -0.2
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Crusader
+Weapon: Dual Light Pulse Laser II
+
+Name: Nira Li
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Harbinger
+Weapon: Harbinger
+
+Name: Gismork
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Scorpion
+Weapon: ECM - Ion Field Projector II
+
+
+Destroyed items:
+
+125mm Railgun II
+125mm Railgun II
+Spike S, Qty: 67
+Piranha Light Missile, Qty: 38
+'Arbalest' Standard Missile Launcher
+Stasis Webifier I
+Magnetic Field Stabilizer II
+Iridium Charge S, Qty: 883 (Cargo)
+Plutonium Charge S, Qty: 1334 (Cargo)
+Spike S, Qty: 59 (Cargo)
+Bloodclaw Light Missile, Qty: 997 (Cargo)
+

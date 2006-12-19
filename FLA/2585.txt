@@ -1,0 +1,34 @@
+2007.02.25 03:50
+
+Victim: Swanny231
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Destroyed: Crow
+System: YZ-LQL
+Security: 0.0
+
+Involved parties:
+
+Name: Ditchdoctor (laid the final blow)
+Security: 5.0
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Chimera
+Weapon: Einherji
+
+Name: Perfidious Ichabod
+Security: 5.1
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Unknown
+Weapon: 150mm Railgun II
+
+
+Destroyed items:
+
+Sabretooth Light Missile, Qty: 18
+Upgraded 'Limos' Standard Missile Bay I
+1MN MicroWarpdrive II
+Warp Disruptor I
+Mark I Modified SS Inertial Stabilizers
+

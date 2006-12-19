@@ -1,0 +1,75 @@
+2007.03.17 12:25
+
+Victim: Tex Flow
+Alliance: None
+Corp: Com-Star
+Destroyed: Vulture
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Ocara Nezus
+Security: 2.4
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Raven
+Weapon: Vespa I
+
+Name: Tregaron
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Cyclone
+Weapon: Cyclone
+
+Name: Nukuquqa Hestase (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Scorpion
+Weapon: Mjolnir Torpedo
+
+Name: eagleeye d4l
+Security: 0.8
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Thorax
+Weapon: Hammerhead I
+
+Name: SoF Reaperman
+Security: 4.4
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Blackbird
+Weapon: Thunderbolt Heavy Missile
+
+Name: MrMaggot
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Hawk
+Weapon: Flameburst Light Missile
+
+Name: WolfRavage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Helios
+Weapon: 'Hypnos' Multispectral ECM I
+
+
+Destroyed items:
+
+Skirmish Warfare Link - Interdiction Maneuvers
+Skirmish Warfare Link - Rapid Deployment
+Heavy Missile Launcher II, Qty: 2
+Kinetic Deflection Amplifier II
+Magnetic Scattering Amplifier II, Qty: 2
+Damage Control II
+Inertia Stabilizers I, Qty: 2
+Scourge Precision Heavy Missile, Qty: 2464 (Cargo)
+Inertia Stabilizers I (Cargo)
+Nanofiber Internal Structure I (Cargo)
+Power Diagnostic System II (Cargo)
+Light Shield Maintenance Bot I, Qty: 3 (Drone Bay)

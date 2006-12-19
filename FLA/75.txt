@@ -1,0 +1,38 @@
+2007.01.06 05:32
+
+Victim: Bunnyslayer
+Alliance: Privateer Alliance
+Corp: Panzershrek
+Destroyed: Hurricane
+System: Jita
+Security: 0.9
+
+Involved parties:
+
+Name: Nova Paradise (laid the final blow)
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Drake
+Weapon: Terror Assault Missile
+
+
+Destroyed items:
+
+425mm AutoCannon II
+425mm AutoCannon II
+EMP M, Qty: 39
+Sabretooth Light Missile, Qty: 112
+Compact 'Limos' Assault Missile Bay I
+Compact 'Limos' Assault Missile Bay I
+Medium Capacitor Booster I
+Cap Booster 800
+Medium Automated I Carapace Restoration
+N-Type Thermic Hardener I
+N-Type Explosive Hardener I
+EMP M, Qty: 1500 (Cargo)
+Cap Booster 800, Qty: 6 (Cargo)
+Hail M, Qty: 2031 (Cargo)
+Sabretooth Light Missile, Qty: 500 (Cargo)
+Hornet I (Drone Bay)
+

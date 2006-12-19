@@ -1,0 +1,26 @@
+2007.01.20 13:01
+
+Victim: Kee Ris
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Destroyed: Malediction
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Murdoch Morf (laid the final blow)
+Security: 0.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+
+Destroyed items:
+
+Small 'Knave' I Energy Drain
+1MN MicroWarpdrive I
+X5 Prototype I Engine Enervator
+Micro Auxiliary Power Core I
+Local Power Plant Manager: Capacity Power Relay I

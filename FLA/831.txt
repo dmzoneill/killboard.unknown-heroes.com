@@ -1,0 +1,52 @@
+2007.02.23 21:17
+
+Victim: ae1
+Alliance: Privateer Alliance
+Corp: The IMorral MAjority
+Destroyed: Rifter
+System: Jita
+Security: 0.9
+
+Involved parties:
+
+Name: Mangus Thermopyle
+Security: 4.8
+Alliance: Lotka Volterra
+Corp: Chosen Path
+Ship: Myrmidon
+Weapon: Myrmidon
+
+Name: Sordano
+Security: 5.0
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Nighthawk
+Weapon: Thunderbolt Heavy Missile
+
+Name: Sorlac Aurora (laid the final blow)
+Security: 2.1
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Rokh
+Weapon: Anode Mega Neutron Particle Cannon I
+
+
+Destroyed items:
+
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+200mm Light Prototype I Automatic Cannon
+200mm Light Prototype I Automatic Cannon
+Prototype Cloaking Device I
+1MN MicroWarpdrive I
+Warp Disruptor I
+Inertia Stabilizers I
+Nanofiber Internal Structure I
+Nanofiber Internal Structure I
+Sabretooth Light Missile, Qty: 490 (Cargo)
+Damaged Artificial Neural Network (Cargo)
+

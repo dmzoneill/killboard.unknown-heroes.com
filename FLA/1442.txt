@@ -1,0 +1,33 @@
+2007.03.13 16:27
+
+Victim: Angua Ironfounderson
+Alliance: None
+Corp: Federal Navy Academy
+Destroyed: Tristan
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Spartan dax (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: JaiMaster
+Security: 2.7
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Cyclone
+Weapon: 720mm Howitzer Artillery II
+
+
+Destroyed items:
+
+150mm Carbide Railgun I
+Small Armor Repairer II
+Tungsten Charge S, Qty: 20 (Cargo)
+Wasp I (Cargo)
+

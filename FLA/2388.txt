@@ -1,0 +1,101 @@
+2007.02.09 19:55
+
+Victim: Dark Carnage
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Drake
+System: X-7OMU
+Security: 0.0
+
+Involved parties:
+
+Name: Elliott Manchild
+Security: -1.8
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Machariel
+Weapon: 50W Infectious Power System Malfunction
+
+Name: ukpAgAn
+Security: 5.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: cptblood
+Security: 2.3
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Lord KesH
+Security: 2.5
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Maelstrom
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Darknesss (laid the final blow)
+Security: 0.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Misha Mosqito
+Security: 3.3
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Jenessa
+Security: 1.2
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Rapier
+Weapon: 720mm Howitzer Artillery II
+
+Name: j3bus
+Security: 3.1
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+Name: Anna Neura
+Security: -0.8
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Taranis
+Weapon: Warrior II
+
+Name: Nevermore
+Security: 4.6
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Megathron
+Weapon: 350mm Railgun II
+
+
+Destroyed items:
+
+Havoc Heavy Missile, Qty: 30
+Thunderbolt Heavy Missile, Qty: 60
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Medium Electrochemical Capacitor Booster I
+Cap Booster 400
+Cap Booster 400
+Supplemental Scanning CPU I
+Supplemental Scanning CPU I
+Target Painter I
+Ballistic Control System I
+Cap Booster 400, Qty: 12 (Cargo)
+Thunderbolt Heavy Missile, Qty: 1327 (Cargo)
+Warrior I (Drone Bay)
+

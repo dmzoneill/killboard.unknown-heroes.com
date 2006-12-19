@@ -1,0 +1,52 @@
+2006.11.27 21:08
+
+Victim: Preying Mantis
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Destroyed: Huginn
+System: K-L690
+Security: 0.0
+
+Involved parties:
+
+Name: Rimfaxe (laid the final blow)
+Security: 5.0
+Alliance: Firmus Ixion
+Corp: Swedish Aerospace Inc
+Ship: Cyclone
+Weapon: Valkyrie II
+
+Name: Olav
+Security: 5.0
+Alliance: Firmus Ixion
+Corp: KDM Corp
+Ship: Rapier
+Weapon: Hornet I
+
+Name: UKSwiss
+Security: 5.1
+Alliance: Firmus Ixion
+Corp: KDM Corp
+Ship: Typhoon
+Weapon: Valkyrie I
+
+Name: SuXaR
+Security: 0.7
+Alliance: Firmus Ixion
+Corp: KDM Corp
+Ship: Capsule
+Weapon: Initiated Warp Jammer I
+
+
+Destroyed items:
+
+Tremor M, Qty: 33
+Heavy Missile Launcher II
+Havoc Fury Heavy Missile, Qty: 32
+Large F-S9 Regolith Shield Induction
+X5 Prototype I Engine Enervator
+X5 Prototype I Engine Enervator
+ECM - Multispectral Jammer II
+Target Painter II
+Thunderbolt Precision Heavy Missile, Qty: 1000 (Cargo)
+

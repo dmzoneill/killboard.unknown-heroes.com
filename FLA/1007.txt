@@ -1,0 +1,59 @@
+2007.03.03 03:09
+
+Victim: Aelena Thraant
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Destroyed: Condor
+System: PXF-RF
+Security: 0.0
+
+Involved parties:
+
+Name: Dark Carnage (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Crow
+Weapon: Sabretooth Light Missile
+
+Name: Blue Sassley
+Security: -0.5
+Alliance: Dusk and Dawn
+Corp: Momentum.
+Ship: Ferox
+Weapon: Havoc Heavy Missile
+
+Name: Flinx Evenstar
+Security: -1.3
+Alliance: Dusk and Dawn
+Corp: Momentum.
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: dastommy79
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Thorax
+Weapon: Thorax
+
+Name: Yesmina Ortess
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Cataclysm Enterprises
+Ship: Rokh
+Weapon: Indirect Scanning Dampening Unit I
+
+Name: Sniperpirate
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Infinite Improbability Inc
+Ship: Typhoon
+Weapon: 800mm Repeating Artillery I
+
+
+Destroyed items:
+
+Small 'Knave' I Energy Drain
+1MN MicroWarpdrive I
+

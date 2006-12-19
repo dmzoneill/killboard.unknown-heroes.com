@@ -1,0 +1,37 @@
+2007.03.18 10:00
+
+Victim: Valdemara
+Alliance: Freelancer Alliance
+Corp: United Forces
+Destroyed: Dominix
+System: Aunia
+Security: 0.8
+
+Involved parties:
+
+Name: TuLak (laid the final blow)
+Security: 5.0
+Alliance: Privateer Alliance
+Corp: 47R
+Ship: Armageddon
+Weapon: Dual Heavy Pulse Laser II
+
+
+Destroyed items:
+
+Antimatter Charge L, Qty: 134
+Drone Link Augmentor I
+Cap Recharger II
+Cap Recharger II
+Cap Recharger II
+Large Armor Repairer II
+1600mm Reinforced Rolled Tungsten Plates I
+Mark I Generator Refitting: Capacitor Power Relay
+Tungsten Charge L, Qty: 38 (Cargo)
+Antimatter Charge L, Qty: 433 (Cargo)
+Hammerhead I, Qty: 4 (Drone Bay)
+Ogre I (Drone Bay)
+Hammerhead II, Qty: 2 (Drone Bay)
+Hobgoblin II, Qty: 2 (Drone Bay)
+Hobgoblin I, Qty: 2 (Drone Bay)
+

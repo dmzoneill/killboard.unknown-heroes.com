@@ -1,0 +1,26 @@
+2007.01.21 23:25
+
+Victim: GIR551
+Alliance: None
+Corp: Perkone
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Solarienne (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+Name: g3cko
+Security: -2.6
+Alliance: THE R0CK
+Corp: The Keep
+Ship: Malediction
+Weapon: Malediction
+
+

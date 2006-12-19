@@ -1,0 +1,31 @@
+2007.01.07 07:16
+
+Victim: Mongolia Jones
+Alliance: None
+Corp: Exanimo Inc
+Destroyed: Jaguar
+System: ROIR-Y
+Security: 0.0
+
+Involved parties:
+
+Name: Zattron (laid the final blow)
+Security: 3.5
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+
+Destroyed items:
+
+150mm Light AutoCannon II
+150mm Light AutoCannon II
+Barrage S, Qty: 53
+Small Shield Booster II
+J5b Phased Prototype Warp Inhibitor I
+Mark I Generator Refitting: Diagnostic System
+Mark I Generator Refitting: Diagnostic System
+Hail S, Qty: 600 (Cargo)
+Barrage S, Qty: 2344 (Cargo)
+

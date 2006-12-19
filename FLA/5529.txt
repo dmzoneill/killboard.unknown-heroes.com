@@ -1,0 +1,43 @@
+2006.10.07 05:21
+
+Victim: BC Hastings
+Alliance: None
+Corp: Privateers
+Destroyed: Rupture
+System: Sobaseki
+Security: 0.8
+
+Involved parties:
+
+Name: Valadeya uthanaras
+Security: 3.7
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Capsule
+Weapon: Heavy Modal Pulse Laser I
+
+Name: Braxxon (laid the final blow)
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+
+Destroyed items:
+
+220mm Medium Carbine Repeating Cannon I
+220mm Medium Carbine Repeating Cannon I
+EMP M, Qty: 96
+Flameburst Light Missile, Qty: 70
+Assault Missile Launcher II
+Y-T8 Overcharged Hydrocarbon I Microwarpdrive
+ECM - Multispectral Jammer II
+Energized Reactive Membrane II
+Energized Adaptive Nano Membrane II
+Depleted Uranium M, Qty: 4400 (Cargo)
+Bloodclaw Light Missile, Qty: 800 (Cargo)
+Flameburst Light Missile, Qty: 720 (Cargo)
+Piranha Light Missile, Qty: 781 (Cargo)
+Warrior II (Drone Bay)
+

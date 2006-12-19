@@ -1,0 +1,143 @@
+2007.01.28 18:16
+
+Victim: Hojo Norem
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Ferox
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Beast Hun
+Security: 4.7
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Abaddon
+Weapon: Tachyon Beam Laser II
+
+Name: Letum Omnis
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Hyperion
+Weapon: Hyperion
+
+Name: Farjung (laid the final blow)
+Security: -0.2
+Alliance: Band of Brothers
+Corp: TAOSP
+Ship: Dominix
+Weapon: Ogre II
+
+Name: Memphisz
+Security: 0.3
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Tempest
+Weapon: Tempest
+
+Name: Ka Dargo
+Security: 4.4
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Mr Staberinde
+Security: 0.2
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Sleipnir
+Weapon: Sleipnir
+
+Name: Nira Li
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Harbinger
+Weapon: Harbinger
+
+Name: RagedyMan
+Security: 1.9
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Nighthawk
+Weapon: Scourge Heavy Missile
+
+Name: RogerWilco
+Security: 3.3
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Enyo
+Weapon: Enyo
+
+Name: Bone Collector44
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: dr shark
+Security: 1.8
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Muninn
+Weapon: 720mm Howitzer Artillery II
+
+Name: papaPadla
+Security: 4.1
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Pilgrim
+Weapon: Fleeting Warp Scrambler I
+
+Name: Repiv
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Crow
+Weapon: Fleeting Warp Scrambler I
+
+Name: Puls4r
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Jaguar
+Weapon: Balmer Series Targeting Inhibitor I
+
+Name: Okeanos
+Security: 0.3
+Alliance: Band of Brothers
+Corp: TAOSP
+Ship: Arazu
+Weapon: Phased Muon Sensor Disruptor I
+
+Name: Lucy Fur
+Security: 2.8
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Vagabond
+Weapon: Domination Warp Disruptor
+
+Name: Biosourcy
+Security: 4.8
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Jaguar
+Weapon: Jaguar
+
+
+Destroyed items:
+
+250mm 'Scout' I Accelerator Cannon
+250mm 'Scout' I Accelerator Cannon
+Lead Charge M, Qty: 58
+Scourge Heavy Missile, Qty: 23
+'Malkuth' Heavy Missile Launcher I
+Alumel-Wired I Sensor Augmentation
+F-90 Positional Sensor Subroutines
+Nanofiber Internal Structure I
+Lead Charge M, Qty: 2719 (Cargo)
+

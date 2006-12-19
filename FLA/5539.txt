@@ -1,0 +1,29 @@
+2006.10.07 18:31
+
+Victim: Morfane
+Alliance: None
+Corp: Privateers
+Destroyed: Taranis
+System: Uemisaisen
+Security: 0.6
+
+Involved parties:
+
+Name: Drakin Korin (laid the final blow)
+Security: 3.2
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Ishtar
+Weapon: Medium Modulated Pulse Energy Beam I
+
+
+Destroyed items:
+
+Light Neutron Blaster II
+Light Neutron Blaster II
+Void S, Qty: 80
+Warp Scrambler I
+X5 Prototype I Engine Enervator
+Small Armor Repairer II
+Void S, Qty: 324 (Cargo)
+

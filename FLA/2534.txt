@@ -1,0 +1,94 @@
+2007.02.19 02:43
+
+Victim: dastommy79
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Destroyed: Thorax
+System: YZ-LQL
+Security: 0.0
+
+Involved parties:
+
+Name: El Alamein
+Security: 3.1
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Abaddon
+Weapon: Abaddon
+
+Name: RogerWilco (laid the final blow)
+Security: -0.5
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: EL TITAN
+Security: 1.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Machariel
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Agiosgeogios
+Security: 4.3
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Nick Curso
+Security: -0.3
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Raven
+Weapon: Mjolnir Javelin Torpedo
+
+Name: Trannic
+Security: 0.8
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Vulture
+Weapon: 250mm Railgun II
+
+Name: LadyScarlet
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Wither Through
+Security: -9.2
+Alliance: Band of Brothers
+Corp: Reikoku
+Ship: Crusader
+Weapon: Crusader
+
+Name: Svett
+Security: 3.4
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Crusader
+Weapon: Dual Light Pulse Laser II
+
+Name: MilaNoCZ
+Security: 5.0
+Alliance: Xelas Alliance
+Corp: Rytiri Lva
+Ship: Caracal
+Weapon: Heavy Missile Launcher I
+
+
+Destroyed items:
+
+Heavy Ion Blaster I
+Heavy Ion Blaster I
+Heavy Ion Blaster I
+Antimatter Charge M, Qty: 360
+Tracking Disruptor I
+Medium Armor Repairer II
+Reactor Control Unit I
+Antimatter Charge M, Qty: 2198 (Cargo)
+Valkyrie I, Qty: 4 (Drone Bay)
+

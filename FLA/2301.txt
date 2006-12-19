@@ -1,0 +1,37 @@
+2007.02.05 19:53
+
+Victim: deela
+Alliance: Freelancer Alliance
+Corp: J.I.T. Enterprises
+Destroyed: Blackbird
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Othnark (laid the final blow)
+Security: 2.8
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Sleipnir
+Weapon: 425mm AutoCannon II
+
+Name: Havocide
+Security: 1.9
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Myrmidon
+Weapon: Remote Sensor Dampener II
+
+
+Destroyed items:
+
+Widowmaker Heavy Missile, Qty: 30
+Scourge Heavy Missile, Qty: 30
+Havoc Heavy Missile, Qty: 30
+Heavy Missile Launcher I
+ECM - White Noise Generator I
+Induced Ion Field ECM I
+Sensor Booster I
+Widowmaker Heavy Missile, Qty: 161 (Cargo)
+

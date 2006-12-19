@@ -1,0 +1,39 @@
+2006.12.04 10:12
+
+Victim: Radica
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Deimos
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Phonix
+Security: 1.8
+Alliance: None
+Corp: Fate.
+Ship: Vagabond
+Weapon: Warrior II
+
+Name: Razor Jaxx (laid the final blow)
+Security: 0.5
+Alliance: None
+Corp: Fate.
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Vyndicator
+Security: -3.1
+Alliance: None
+Corp: 0utbreak
+Ship: Rapier
+Weapon: Rapier
+
+Name: Jen'Tai
+Security: 0.1
+Alliance: Otherworld Empire Productions
+Corp: Dark Cartel
+Ship: Capsule
+Weapon: Faint Warp Prohibitor I
+

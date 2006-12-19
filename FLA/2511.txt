@@ -1,0 +1,63 @@
+2007.02.17 09:01
+
+Victim: Skull Fire
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Raven
+System: YZ-LQL
+Security: 0.0
+
+Involved parties:
+
+Name: BECKARD (laid the final blow)
+Security: 5.0
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Typhoon
+Weapon: Berserker I
+
+Name: Lady Vanquish
+Security: 3.3
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Stiletto
+Weapon: Stiletto
+
+
+Destroyed items:
+
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Paradise Cruise Missile
+Paradise Cruise Missile
+Paradise Cruise Missile
+Paradise Cruise Missile
+Paradise Cruise Missile
+Paradise Cruise Missile
+Paradise Cruise Missile
+Cataclysm Cruise Missile
+Cataclysm Cruise Missile
+Cataclysm Cruise Missile
+Cataclysm Cruise Missile
+Devastator Cruise Missile
+Devastator Cruise Missile
+Devastator Cruise Missile
+Devastator Cruise Missile
+Devastator Cruise Missile
+'Arbalest' Cruise Launcher I
+'Arbalest' Cruise Launcher I
+'Arbalest' Cruise Launcher I
+Invulnerability Field I
+Alumel-Wired I Sensor Augmentation
+Emergency Damage Control I
+1600mm Reinforced Rolled Tungsten Plates I
+1600mm Reinforced Rolled Tungsten Plates I
+Ballistic Control System I
+Devastator Cruise Missile, Qty: 300 (Cargo)
+Paradise Cruise Missile, Qty: 300 (Cargo)
+Cataclysm Cruise Missile, Qty: 300 (Cargo)
+

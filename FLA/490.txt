@@ -1,0 +1,84 @@
+2007.02.06 05:40
+
+Victim: Dark1
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Destroyed: Muninn
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Simon Monkoto (laid the final blow)
+Security: 3.2
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Raven
+Weapon: Juggernaut Torpedo
+
+Name: Sorlac Aurora
+Security: 1.2
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Rokh
+Weapon: 425mm 'Scout' I Accelerator Cannon
+
+Name: Xantheris
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Blackbird
+Weapon: FZ-3 Subversive Spatial Destabilizer ECM
+
+Name: Stitcher
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: J.I.T. Enterprises
+Ship: Capsule
+Weapon: ECM - Phase Inverter II
+
+
+Destroyed items:
+
+720mm Howitzer Artillery II
+720mm Howitzer Artillery II
+720mm Howitzer Artillery II
+720mm Howitzer Artillery II
+Proton M, Qty: 39
+Tremor M
+Tremor M
+Tremor M
+Tremor M
+Tremor M
+Tremor M
+Tremor M
+Flameburst Light Missile, Qty: 76
+Upgraded 'Limos' Standard Missile Bay I
+Sensor Booster II
+Gyrostabilizer II
+Initiated Harmonic Warp Jammer I (Cargo)
+250mm Light Artillery Cannon I (Cargo)
+Damage Control I (Cargo)
+Heavy 'Knave' I Energy Drain (Cargo)
+150mm Railgun II (Cargo)
+Photon Scattering Field I (Cargo)
+Titanium Sabot S, Qty: 28 (Cargo)
+Proton M, Qty: 3486 (Cargo)
+Guristas Iron Charge S, Qty: 500 (Cargo)
+Guristas Thorium Charge S, Qty: 500 (Cargo)
+Guristas Tungsten Charge S, Qty: 500 (Cargo)
+Plutonium Charge S, Qty: 1000 (Cargo)
+Defender I, Qty: 998 (Cargo)
+ECM - Multispectral Jammer I (Cargo)
+ECCM - Gravimetric I (Cargo)
+Tracking Computer II (Cargo)
+Micro Auxiliary Power Core I (Cargo)
+Ballistic Control System I (Cargo)
+Spike S, Qty: 1657 (Cargo)
+Quake M, Qty: 474 (Cargo)
+Tremor M, Qty: 820 (Cargo)
+Thorn Rocket, Qty: 1527 (Cargo)
+Gremlin Rocket, Qty: 500 (Cargo)
+Local Power Plant Manager: Diagnostic System I (Cargo)
+Hobgoblin I, Qty: 2 (Drone Bay)
+

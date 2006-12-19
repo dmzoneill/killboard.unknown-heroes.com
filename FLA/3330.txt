@@ -1,0 +1,40 @@
+2007.03.23 15:50
+
+Victim: Wolfier
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Destroyed: Capsule
+System: 2O9G-D
+Security: 0.0
+
+Involved parties:
+
+Name: Gordon Red (laid the final blow)
+Security: 2.0
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Heretic
+Weapon: Dual Light Beam Laser II
+
+Name: SwordsOfLight
+Security: 4.9
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: volly
+Security: 3.1
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Curse
+Weapon: Warp Disruptor II
+
+Name: Frostbeule
+Security: 2.9
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Stiletto
+Weapon: Upgraded 'Limos' Standard Missile Bay I
+
+

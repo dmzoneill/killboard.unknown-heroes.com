@@ -1,0 +1,40 @@
+2007.04.14 13:58
+
+Victim: Arvo Henderson
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Destroyed: Capsule
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: The Ali (laid the final blow)
+Security: -3.1
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Vagabond
+Weapon: Dual 180mm AutoCannon II
+
+Name: Taschenflak
+Security: 4.8
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Raptor
+Weapon: Raptor
+
+Name: Amok'Trueborn' Pryde
+Security: -1.4
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Crusader
+Weapon: Fleeting Warp Scrambler I
+
+Name: Longrin
+Security: 3.2
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Stiletto
+Weapon: 250mm Light Artillery Cannon II
+
+

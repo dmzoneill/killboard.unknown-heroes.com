@@ -1,0 +1,41 @@
+2007.01.23 17:23
+
+Victim: Lord Acheron
+Alliance: Freelancer Alliance
+Corp: Caldar Mercenary Syndicate
+Destroyed: Wolf
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: turumbor
+Security: -1.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Dominix
+Weapon: Hammerhead II
+
+Name: boo3916 (laid the final blow)
+Security: 4.7
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: xVx Skillgannon
+Security: 0.3
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Vagabond
+Weapon: Vagabond
+
+
+Destroyed items:
+
+Small 'Knave' I Energy Drain
+J5b Phased Prototype Warp Inhibitor I
+Small Armor Repairer II
+N-Type Adaptive Nano Membrane I
+Vespa I, Qty: 5 (Cargo)
+

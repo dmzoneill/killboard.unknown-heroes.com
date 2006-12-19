@@ -1,0 +1,33 @@
+2006.09.12 22:50
+
+Victim: Streff
+Alliance: YouWhat
+Corp: Artificial Horizons
+Destroyed: Capsule
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Rugs
+Security: 2.7
+Alliance: R i s e
+Corp: WAFFLES Inc.
+Ship: Retribution
+Weapon: Retribution
+
+Name: Arkanh
+Security: 4.5
+Alliance: R i s e
+Corp: principle of motion
+Ship: Harpy
+Weapon: 150mm Railgun I
+
+Name: machetejim (laid the final blow)
+Security: 0.3
+Alliance: Freelancer Alliance
+Corp: Terminal Velocity Inc.
+Ship: Punisher
+Weapon: Dual Light Beam Laser I
+
+

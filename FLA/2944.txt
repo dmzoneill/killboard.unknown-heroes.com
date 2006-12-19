@@ -1,0 +1,34 @@
+2007.03.17 07:56
+
+Victim: darkviron
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Destroyed: Caracal
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Xordus (laid the final blow)
+Security: 1.1
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Dominix
+Weapon: Vespa II
+
+Name: Fred Fredburger
+Security: 5.0
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Raptor
+Weapon: Raptor
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 79
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Invulnerability Field I
+Local Power Plant Manager: Reaction Control I
+

@@ -1,0 +1,19 @@
+2006.10.06 20:32
+
+Victim: Atlantan
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Destroyed: Capsule
+System: Sirppala
+Security: 0.9
+
+Involved parties:
+
+Name: Sorted (laid the final blow)
+Security: -1.4
+Alliance: None
+Corp: Privateers
+Ship: Blackbird
+Weapon: Scourge Heavy Missile
+
+

@@ -1,0 +1,25 @@
+2007.05.02 09:14
+
+Victim: Bellon
+Alliance: Band of Brothers
+Corp: Reikoku
+Destroyed: Probe
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: FlobbMkII (laid the final blow)
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Eris
+Weapon: Light Ion Blaster II
+
+Name: Cobra64
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Hound
+Weapon: Hound
+

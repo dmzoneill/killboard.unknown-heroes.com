@@ -1,0 +1,19 @@
+2006.12.17 20:00
+
+Victim: Meathireland
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Destroyed: Capsule
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Kateryne (laid the final blow)
+Security: -0.9
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Gila
+Weapon: Scourge Heavy Missile
+
+

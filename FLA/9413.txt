@@ -1,0 +1,33 @@
+2007.05.12 19:10
+
+Victim: Ilan Barak
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Destroyed: Capsule
+System: Haajinen
+Security: 0.8
+
+Involved parties:
+
+Name: Lennier Cotto
+Security: -2.1
+Alliance: None
+Corp: Mentally Unstable Enterprises
+Ship: Crow
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: Del Boy (laid the final blow)
+Security: 0.0
+Alliance: None
+Corp: Mentally Unstable Enterprises
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Ronnie Kray
+Security: -1.9
+Alliance: None
+Corp: Mentally Unstable Enterprises
+Ship: Crow
+Weapon: Sabretooth Light Missile
+
+

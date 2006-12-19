@@ -1,0 +1,47 @@
+2007.03.12 17:09
+
+Victim: Jayne Corr
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Destroyed: Capsule
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: EvilBadger (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Hawk
+Weapon: Gremlin Rocket
+
+Name: Freakdevil
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Crow
+Weapon: Crow
+
+Name: Le Cardinal
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: ECP Rogues
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: SoF Reaperman
+Security: 4.4
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Blackbird
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+Name: Shiftless
+Security: 3.1
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Drake
+Weapon: Target Painter I
+
+

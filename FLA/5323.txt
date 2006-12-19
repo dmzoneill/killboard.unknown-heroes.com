@@ -1,0 +1,27 @@
+2007.04.25 00:13
+
+Victim: Aridante Lemure
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Destroyed: Stiletto
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Sexorella hotz (laid the final blow)
+Security: 3.2
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Jaguar
+Weapon: 200mm Light Prototype I Automatic Cannon
+
+
+Destroyed items:
+
+250mm Light Artillery Cannon II
+200mm AutoCannon II
+1MN MicroWarpdrive II
+Sensor Booster II
+Local Power Plant Manager: Capacity Power Relay I
+

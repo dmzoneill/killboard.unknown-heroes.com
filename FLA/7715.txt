@@ -1,0 +1,38 @@
+2006.04.25 15:36
+
+Victim: TheBelgarion
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Caracal
+System: CZDJ-1
+Security: 0.0
+
+Involved parties:
+
+Name: Martin Mckenna (laid the final blow)
+Security: 3.0
+Alliance: Serenus Letum
+Corp: People's Front Of Judea
+Ship: Armageddon
+Weapon: Mega Beam Laser II
+
+Name: Jenessa
+Security: 3.3
+Alliance: Serenus Letum
+Corp: People's Front Of Judea
+Ship: Taranis
+Weapon: Taranis
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 90
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Medium Shield Extender I
+Medium Supplemental Barrier Emitter I
+Invulnerability Field I
+Signal Amplifier II
+Ballistic Control System I
+Ballistic Control System I (Cargo)
+

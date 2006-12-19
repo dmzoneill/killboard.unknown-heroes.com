@@ -1,0 +1,26 @@
+2006.10.05 16:54
+
+Victim: rockerguy
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Destroyed: Vengeance
+System: Litiura
+Security: 0.5
+
+Involved parties:
+
+Name: Slave 775 (laid the final blow)
+Security: -1.6
+Alliance: None
+Corp: Privateers
+Ship: Thorax
+Weapon: Hammerhead I
+
+Name: Na'no
+Security: 0.0
+Alliance: None
+Corp: Privateers
+Ship: Caracal
+Weapon: Bloodclaw Light Missile
+
+

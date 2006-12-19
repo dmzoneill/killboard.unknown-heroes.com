@@ -1,0 +1,25 @@
+2006.10.26 04:53
+
+Victim: kksun03
+Alliance: None
+Corp: Science and Trade Institute
+Destroyed: Retriever
+System: Korama
+Security: 0.8
+
+Involved parties:
+
+Name: SleepyOSU (laid the final blow)
+Security: 4.2
+Alliance: Freelancer Alliance
+Corp: Sin-X Inc.
+Ship: Vexor
+Weapon: Hammerhead I
+
+
+Destroyed items:
+
+Civilian Shield Booster I
+Veldspar, Qty: 18366 (Cargo)
+Mining Drone I, Qty: 2 (Drone Bay)
+

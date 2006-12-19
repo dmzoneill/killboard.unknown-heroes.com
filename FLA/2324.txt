@@ -1,0 +1,40 @@
+2007.02.05 19:59
+
+Victim: coldkill
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Destroyed: Capsule
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Flavius Renatus (laid the final blow)
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Sleipnir
+Weapon: 650mm Artillery Cannon II
+
+Name: violator2k5
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+Name: tAkErPT
+Security: 4.3
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Cerberus
+Weapon: Heavy Missile Launcher II
+
+Name: Femintaki
+Security: 3.0
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Taranis
+Weapon: 75mm Gatling Rail II
+
+

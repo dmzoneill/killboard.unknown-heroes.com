@@ -1,0 +1,49 @@
+2007.04.21 02:49
+
+Victim: Primaxin
+Alliance: Freelancer Alliance
+Corp: Harbingers of Sarrow
+Destroyed: Caracal
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: thedeadcows (laid the final blow)
+Security: 0.2
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Thanatos
+Weapon: Einherji
+
+Name: Athanasios Anastasiou
+Security: 5.0
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: Raffer Steele
+Security: 2.6
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Thanatos
+Weapon: Einherji
+
+
+Destroyed items:
+
+Flameburst Light Missile, Qty: 66
+Thunderbolt Heavy Missile, Qty: 23
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+Assault Missile Launcher II
+10MN MicroWarpdrive I
+Magnetic Scattering Amplifier I
+Additional Thermal Barrier Emitter I
+Ballistic Control System I
+Sabretooth Light Missile, Qty: 400 (Cargo)
+Havoc Heavy Missile, Qty: 400 (Cargo)
+Thunderbolt Heavy Missile, Qty: 365 (Cargo)
+Widowmaker Heavy Missile, Qty: 365 (Cargo)
+

@@ -1,0 +1,26 @@
+2007.01.31 07:51
+
+Victim: chargeur
+Alliance: None
+Corp: Tarnak inc.
+Destroyed: Capsule
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Weeble Wooble
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Catalyst
+Weapon: 150mm Railgun II
+
+Name: Feke (laid the final blow)
+Security: 4.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Moa
+Weapon: 250mm 'Scout' I Accelerator Cannon
+
+

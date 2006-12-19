@@ -1,0 +1,96 @@
+2007.01.23 19:06
+
+Victim: bodyck
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Destroyed: Tempest
+System: L-C3O7
+Security: 0.0
+
+Involved parties:
+
+Name: WarGod
+Security: 1.4
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Curse
+Weapon: Valkyrie II
+
+Name: boo3916
+Security: 4.7
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Cerberus
+Weapon: Heavy Missile Launcher II
+
+Name: xVx Skillgannon
+Security: 0.3
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: XxAngelxX
+Security: -3.6
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Curse
+Weapon: Berserker I
+
+Name: Phrixus Zephyr
+Security: 0.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Arazu
+Weapon: Hobgoblin II
+
+Name: ukpAgAn
+Security: 5.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Absolution
+Weapon: Absolution
+
+Name: xlop (laid the final blow)
+Security: -3.2
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Curse
+Weapon: Wasp II
+
+Name: Rixx3ane
+Security: 4.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Enyo
+Weapon: 125mm Railgun II
+
+Name: aadom
+Security: 3.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Dominix
+Weapon: Ogre II
+
+Name: turumbor
+Security: -1.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Dominix
+Weapon: Dread Guristas Warp Disruptor
+
+
+Destroyed items:
+
+1200mm Heavy Gallium I Cannon
+1200mm Heavy Gallium I Cannon
+1200mm Heavy Gallium I Cannon
+Carbonized Lead L, Qty: 75
+F-12 Nonlinear Tracking Processor
+Tracking Computer I
+Tracking Enhancer I
+Gauss Field Balancer I
+Power Diagnostic System I
+Phased Plasma L, Qty: 4000 (Cargo)
+Carbonized Lead L, Qty: 6513 (Cargo)
+

@@ -1,0 +1,44 @@
+2007.04.25 04:01
+
+Victim: Draconian Arcane
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Destroyed: Stabber
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Matrix Aran (laid the final blow)
+Security: -0.6
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Myrmidon
+Weapon: Heavy Ion Blaster II
+
+Name: Arkezxa Kae'Tal
+Security: 2.8
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Typhoon
+Weapon: Berserker I
+
+Name: Wrath Cruise Missile / Guristas
+
+
+Destroyed items:
+
+650mm Medium 'Scout' Artillery I
+425mm AutoCannon I
+650mm Medium Prototype I Siege Cannon
+720mm Howitzer Artillery I
+Phased Plasma M, Qty: 11
+Sabretooth Light Missile, Qty: 64
+Standard Missile Launcher I
+Standard Missile Launcher I
+Remote Sensor Dampener I
+Remote Sensor Dampener I
+Ballistic Control System I
+Phased Plasma M, Qty: 373 (Cargo)
+Sabretooth Light Missile, Qty: 220 (Cargo)
+

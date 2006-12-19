@@ -1,0 +1,120 @@
+2007.03.09 14:20
+
+Victim: Diego Barbera
+Alliance: YouWhat
+Corp: Princeps Corp
+Destroyed: Dominix
+System: XZH-4X
+Security: 0.0
+
+Involved parties:
+
+Name: Tarnish Katharr
+Security: 2.5
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Absolution
+Weapon: Absolution
+
+Name: Jonas123
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Ferox
+Weapon: Ferox
+
+Name: Hanns Choibman
+Security: 1.4
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Sensi Milla (laid the final blow)
+Security: 5.0
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Vialis
+Security: 5.0
+Alliance: Event-Horizon
+Corp: easyCredits
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: Vanst Keal
+Security: 1.8
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Cormorant
+Weapon: Cormorant
+
+Name: Captain Awesomeo
+Security: 0.0
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Stabber
+Weapon: Stabber
+
+Name: Miriyaka
+Security: 5.0
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Blackbird
+Weapon: Scourge Heavy Missile
+
+Name: SuperSpyno
+Security: 3.4
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Blackbird
+Weapon: Havoc Heavy Missile
+
+Name: Lesch Nyhan
+Security: 0.1
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Incursus
+Weapon: Incursus
+
+Name: Fryrr
+Security: 4.0
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Incursus
+Weapon: Incursus
+
+Name: Dom MD
+Security: 4.7
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Rifter
+Weapon: 200mm AutoCannon I
+
+Name: Captain Entropy
+Security: 5.0
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Taranis
+Weapon: Light Neutron Blaster II
+
+
+Destroyed items:
+
+Electron Blaster Cannon I
+Electron Blaster Cannon I
+Antimatter Charge L, Qty: 400
+'Langour' Drive Disruptor I
+Cap Booster 800
+Cap Booster 800
+Cap Booster 800
+Cap Booster 800
+Armor Thermic Hardener I
+Radioisotope Kinetic Hardener I
+1600mm Reinforced Steel Plates I
+Hammerhead I, Qty: 3 (Drone Bay)
+Warrior I, Qty: 2 (Drone Bay)
+Ogre I, Qty: 3 (Drone Bay)
+

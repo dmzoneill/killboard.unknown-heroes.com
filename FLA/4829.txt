@@ -1,0 +1,44 @@
+2007.04.16 21:01
+
+Victim: truefranco
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Destroyed: Kestrel
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Fitz Farseer (laid the final blow)
+Security: 0.5
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Wolf
+Weapon: 200mm AutoCannon II
+
+Name: Savak
+Security: -0.9
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Unknown
+Weapon: Gatling Pulse Laser II
+
+Name: Indiano Arko
+Security: 0.6
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Hurricane
+Weapon: 650mm Medium 'Scout' Artillery I
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 151
+'Malkuth' Standard Missile Launcher I
+'Malkuth' Standard Missile Launcher I
+'Malkuth' Standard Missile Launcher I
+1MN Afterburner I
+Micro Auxiliary Power Core I
+Type-D Power Core Modification: Reaction Control
+Bloodclaw Light Missile, Qty: 820 (Cargo)
+

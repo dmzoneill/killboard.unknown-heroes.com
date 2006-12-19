@@ -1,0 +1,53 @@
+2007.03.20 01:08
+
+Victim: Clavain Treesmighter
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Destroyed: Drake
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: infraX
+Security: -1.7
+Alliance: None
+Corp: Endgame.
+Ship: Dominix
+Weapon: Ogre II
+
+Name: Velsharoon (laid the final blow)
+Security: -9.9
+Alliance: None
+Corp: Endgame.
+Ship: Dominix
+Weapon: Ogre II
+
+Name: Arkani Gera
+Security: -9.8
+Alliance: None
+Corp: The Movement
+Ship: Curse
+Weapon: Medium Nosferatu II
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 123
+XR-3200 Heavy Missile Bay
+XR-3200 Heavy Missile Bay
+XR-3200 Heavy Missile Bay
+Advanced 'Limos' Heavy Missile Bay I
+Advanced 'Limos' Heavy Missile Bay I
+Large Azeotropic Ward Salubrity I
+Shield Recharger I
+Ditrigonal Thermal Barrier Crystallization I
+Local Power Plant Manager: Reaction Shield Power Relay I
+Ballistic Control System I
+X-Large C5-L Emergency Shield Overload I (Cargo)
+Large Clarity Ward Booster I (Cargo)
+Scourge Heavy Missile, Qty: 5369 (Cargo)
+Cruise Missile Launcher I (Cargo)
+Capacitor Flux Coil I (Cargo)
+Reactor Control Unit I, Qty: 2 (Cargo)
+

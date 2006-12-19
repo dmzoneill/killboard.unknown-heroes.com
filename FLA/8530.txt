@@ -1,0 +1,72 @@
+2006.11.26 05:11
+
+Victim: Red Viper
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Destroyed: Vexor
+System: M2-CF1
+Security: 0.0
+
+Involved parties:
+
+Name: Weirda (laid the final blow)
+Security: -1.9
+Alliance: Anarchy Empire
+Corp: Queens of the Stone Age
+Ship: Claymore
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: HOKO
+Security: -1.9
+Alliance: Anarchy Empire
+Corp: Nubs.
+Ship: Vexor
+Weapon: Valkyrie II
+
+Name: jonos syclarin
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Cyclone
+Weapon: Medium Nosferatu II
+
+Name: Yoater
+Security: -2.9
+Alliance: None
+Corp: Mining Bytes Inc.
+Ship: Capsule
+Weapon: 280mm Howitzer Artillery I
+
+Name: Bruce Bannon
+Security: -0.5
+Alliance: None
+Corp: Mining Bytes Inc.
+Ship: Deimos
+Weapon: Heavy Ion Blaster II
+
+
+Destroyed items:
+
+Antimatter Charge S, Qty: 64
+J5 Prototype Warp Inhibitor I
+X5 Prototype I Engine Enervator
+Small Armor Repairer II
+Energized Reactive Membrane I
+10MN Afterburner I (Cargo)
+Ion Blaster Cannon I (Cargo)
+Heavy Capacitor Booster I (Cargo)
+Antimatter Charge L, Qty: 100 (Cargo)
+Lead Charge L, Qty: 100 (Cargo)
+Antimatter Charge S, Qty: 11355 (Cargo)
+Wasp I, Qty: 2 (Cargo)
+Thermic Armor Compensation (Cargo)
+Thermic Shield Compensation (Cargo)
+Explosive Shield Compensation (Cargo)
+Tactical Shield Manipulation (Cargo)
+Electronic Warfare Drone Interfacing (Cargo)
+Large Remote Armor Repair System I (Cargo)
+1600mm Reinforced Rolled Tungsten Plates I (Cargo)
+Ballistic Control System I, Qty: 4 (Cargo)
+Hobgoblin II, Qty: 3 (Drone Bay)
+Valkyrie II (Drone Bay)
+

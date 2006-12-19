@@ -1,0 +1,32 @@
+2007.02.19 01:14
+
+Victim: MilaNoCZ
+Alliance: Xelas Alliance
+Corp: Rytiri Lva
+Destroyed: Moa
+System: YZ-LQL
+Security: 0.0
+
+Involved parties:
+
+Name: dastommy79 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Thorax
+Weapon: Heavy Ion Blaster I
+
+
+Destroyed items:
+
+Small 'Knave' I Energy Drain
+Small 'Knave' I Energy Drain
+Regulated Neutron Phase Cannon I
+Antimatter Charge M, Qty: 128
+Large Shield Extender I
+10MN Afterburner II
+Fleeting Warp Scrambler I
+'Langour' Drive Disruptor I
+Tracking Enhancer I
+Antimatter Charge M, Qty: 1999 (Cargo)
+

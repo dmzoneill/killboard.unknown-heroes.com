@@ -1,0 +1,46 @@
+2007.04.23 18:08
+
+Victim: Mocuker
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Destroyed: Kestrel
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: lethario desrtuction (laid the final blow)
+Security: 2.1
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Crow
+Weapon: Bloodclaw Precision Light Missile
+
+Name: Fitz Farseer
+Security: 0.5
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Rupture
+Weapon: Rupture
+
+Name: LeZip
+Security: 1.2
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Manticore
+Weapon: XT-9000 Cruise Launcher
+
+Name: Aut Nihil
+Security: 0.1
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Kestrel
+Weapon: Standard Missile Launcher I
+
+
+Destroyed items:
+
+Piranha Light Missile, Qty: 68
+Standard Missile Launcher I
+Piranha Light Missile, Qty: 2840 (Cargo)
+

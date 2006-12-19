@@ -1,0 +1,99 @@
+2007.03.24 06:40
+
+Victim: Minessis
+Alliance: None
+Corp: Strife Mercenaries Inc.
+Destroyed: Deimos
+System: S-GKKR
+Security: 0.0
+
+Involved parties:
+
+Name: Guardian Chief Safeguard / Serpentis Corporation
+
+Name: ISpydeRI (laid the final blow)
+Security: 5.0
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Drake
+Weapon: Thunderbolt Heavy Missile
+
+Name: Flying Underpants
+Security: 0.2
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Enyo
+Weapon: Enyo
+
+Name: Hal Grigor
+Security: 3.3
+Alliance: Freelancer Alliance
+Corp: The Night Crew
+Ship: Caracal
+Weapon: Widowmaker Heavy Missile
+
+Name: Villwrath
+Security: 3.5
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Eris
+Weapon: Eris
+
+Name: Danielson1012
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Harpy
+Weapon: Harpy
+
+Name: Malicel
+Security: 2.7
+Alliance: The Sundering
+Corp: ironwood ink
+Ship: Enyo
+Weapon: Warrior I
+
+Name: BladeMos
+Security: 3.4
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Capsule
+Weapon: 'Langour' Drive Disruptor I
+
+Name: Llondon Hilton
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Ishkur
+Weapon: Warrior I
+
+Name: TNT 1
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: The Night Crew
+Ship: Hawk
+Weapon: Piranha Light Missile
+
+Name: Korudon
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+Heavy Ion Blaster II
+Heavy Ion Blaster II
+Antimatter Charge M, Qty: 315
+Shadow Serpentis Warp Disruptor
+Fleeting Propulsion Inhibitor I
+Damage Control II
+Medium Armor Repairer II
+Energized Adaptive Nano Membrane II
+100MN MicroWarpdrive I (Cargo)
+Dual 250mm Railgun I (Cargo)
+Antimatter Charge M, Qty: 230 (Cargo)
+Hammerhead II, Qty: 4 (Drone Bay)
+

@@ -1,0 +1,71 @@
+2006.10.24 20:13
+
+Victim: Lord KesH
+Alliance: Triumvirate.
+Corp: D00M.
+Destroyed: Tempest
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Joachim R
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Megathron
+Weapon: Megathron
+
+Name: Scylla V (laid the final blow)
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: VentureCorp
+Ship: Megathron
+Weapon: Berserker I
+
+Name: TheBelgarion
+Security: 4.4
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: DARKLING
+Security: 5.1
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Scorpion
+Weapon: Ogre I
+
+Name: freestrike
+Security: 5.9
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Vulture
+Weapon: Warrior I
+
+Name: Ione79
+Security: 3.7
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Caracal
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+
+Destroyed items:
+
+Dual 425mm AutoCannon II
+Dual 425mm AutoCannon II
+Dual 425mm AutoCannon II
+Dual 425mm AutoCannon II
+Heavy Diminishing Power System Drain I
+Heavy Diminishing Power System Drain I
+Barrage L, Qty: 173
+Fleeting Warp Scrambler I
+Sensor Booster II
+Large Armor Repairer II
+N-Type Kinetic Hardener I
+N-Type Explosive Hardener I
+Hail L, Qty: 4000 (Cargo)
+Vespa II, Qty: 7 (Drone Bay)
+

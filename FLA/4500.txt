@@ -1,0 +1,43 @@
+2007.04.12 02:35
+
+Victim: Sidrat Flush
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Destroyed: Merlin
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Bl00Dzor (laid the final blow)
+Security: 1.5
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Huginn
+Weapon: 720mm Howitzer Artillery II
+
+Name: Ferocious FeAr
+Security: 1.5
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Rook
+Weapon: Bloodclaw Light Missile
+
+Name: FAO MeatMan
+Security: 4.2
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Rook
+Weapon: 'Umbra' I White Noise ECM
+
+
+Destroyed items:
+
+150mm Railgun I
+150mm Railgun I
+Lead Charge S, Qty: 35
+Warp Disruptor I
+Lead Charge S, Qty: 761 (Cargo)
+Piranha Light Missile, Qty: 293 (Cargo)
+Sabretooth Light Missile, Qty: 330 (Cargo)
+

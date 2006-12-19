@@ -1,0 +1,60 @@
+2007.03.28 08:20
+
+Victim: illusha
+Alliance: The SUdden Death Squad
+Corp: Halfwits
+Destroyed: Myrmidon
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Flying Underpants
+Security: 0.2
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Megathron
+Weapon: Berserker I
+
+Name: BladeMos
+Security: 3.4
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Celdrahil (laid the final blow)
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Ship: Hyperion
+Weapon: Modal Mega Ion Particle Accelerator I
+
+Name: Corovus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Capsule
+Weapon: 'Arbalest' Cruise Launcher I
+
+Name: Danielson1012
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Harpy
+Weapon: Harpy
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Prototype Cloaking Device I
+10MN MicroWarpdrive I
+Warp Disruptor I
+X5 Prototype I Engine Enervator
+Sensor Booster I
+Medium Armor Repairer I
+Armor Thermic Hardener I
+Cap Booster 800, Qty: 6 (Cargo)
+Praetor II (Drone Bay)
+

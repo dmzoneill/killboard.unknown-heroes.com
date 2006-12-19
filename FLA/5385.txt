@@ -1,0 +1,54 @@
+2007.04.28 14:40
+
+Victim: Iguanoid
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Kestrel
+System: B-9C24
+Security: 0.0
+
+Involved parties:
+
+Name: Cethrie
+Security: 5.1
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Eagle
+Weapon: Assault Missile Launcher II
+
+Name: angelena (laid the final blow)
+Security: 4.5
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Sabre
+Weapon: 150mm Light AutoCannon II
+
+Name: Sir Dodger
+Security: 4.7
+Alliance: Mercenary Coalition
+Corp: Seraphin Technologies
+Ship: Jaguar
+Weapon: 280mm Howitzer Artillery II
+
+Name: Ran Fujimiya
+Security: 1.0
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Brutix
+Weapon: Anode Ion Particle Cannon I
+
+Name: Kkmar Jheren
+Security: -1.5
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Malediction
+Weapon: 'Arbalest' Rocket Launcher I
+
+
+Destroyed items:
+
+Bloodclaw Precision Light Missile, Qty: 100
+1MN MicroWarpdrive I
+Type-D Power Core Modification: Diagnostic System
+Improved Cloaking Device II, Qty: 2 (Cargo)
+

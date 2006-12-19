@@ -1,0 +1,41 @@
+2006.09.13 08:22
+
+Victim: Digioso
+Alliance: Freelancer Alliance
+Corp: BGG
+Destroyed: Dominix
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Riddlock (laid the final blow)
+Security: 1.7
+Alliance: Ascendant Frontier
+Corp: Sha Kharn Corp
+Ship: Vagabond
+Weapon: Warrior II
+
+Name: Drift Spec
+Security: 5.0
+Alliance: Ascendant Frontier
+Corp: Sha Kharn Corp
+Ship: Vagabond
+Weapon: Vagabond
+
+
+Destroyed items:
+
+Heavy Nosferatu I
+Heavy Nosferatu I
+Heavy Nosferatu I
+250mm Carbide Railgun I
+Drone Link Augmentor I
+Drone Navigation Computer I
+Medium Armor Repairer I
+Large Armor Repairer I
+Wasp I, Qty: 2 (Drone Bay)
+Hornet I (Drone Bay)
+Hobgoblin I, Qty: 4 (Drone Bay)
+Vespa I, Qty: 2 (Drone Bay)
+

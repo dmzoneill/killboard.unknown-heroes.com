@@ -1,0 +1,58 @@
+2007.01.15 18:58
+
+Victim: drakonarik
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Drake
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: whisk
+Security: -0.2
+Alliance: None
+Corp: 0utbreak
+Ship: Vagabond
+Weapon: Warrior II
+
+Name: Incinate (laid the final blow)
+Security: 2.6
+Alliance: None
+Corp: 0utbreak
+Ship: Vagabond
+Weapon: Warrior II
+
+Name: Leilani Solaris
+Security: -1.6
+Alliance: None
+Corp: 0utbreak
+Ship: Sacrilege
+Weapon: Sacrilege
+
+Name: Vorag
+Security: -0.7
+Alliance: None
+Corp: 0utbreak
+Ship: Vagabond
+Weapon: Warrior II
+
+Name: Waut
+Security: 4.5
+Alliance: None
+Corp: 0utbreak
+Ship: Crow
+Weapon: Small 'Knave' I Energy Drain
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 52
+XR-3200 Heavy Missile Bay
+Ballistic Deflection Field I
+Heat Dissipation Field I
+Damage Control I
+Nanomechanical CPU Enhancer I
+Quantum Co-Processor I
+Ballistic Control System I
+

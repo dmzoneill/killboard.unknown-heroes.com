@@ -1,0 +1,24 @@
+2006.11.09 07:26
+
+Victim: kiss amamll
+Alliance: None
+Corp: School of Applied Knowledge
+Destroyed: Ibis
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: James Potkukelkka (laid the final blow)
+Security: 0.2
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Flycatcher
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+Civilian Gatling Railgun
+Basic Miner
+

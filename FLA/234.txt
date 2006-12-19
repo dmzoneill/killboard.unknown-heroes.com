@@ -1,0 +1,35 @@
+2007.01.19 03:20
+
+Victim: Ciaphas Khaine
+Alliance: None
+Corp: Exanimo Inc
+Destroyed: Taranis
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Xantheris (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: Swanny231
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Capsule
+Weapon: 'Arbalest' Rocket Launcher I
+
+
+Destroyed items:
+
+Light Ion Blaster II
+Light Ion Blaster II
+J5 Prototype Warp Inhibitor I
+X5 Prototype I Engine Enervator
+Small Armor Repairer II
+Hobgoblin II, Qty: 2 (Drone Bay)
+

@@ -1,0 +1,27 @@
+2006.11.12 21:33
+
+Victim: nye 2k
+Alliance: Interstellar Starbase Syndicate
+Corp: terra firma team
+Destroyed: Merlin
+System: P-2TTL
+Security: 0.0
+
+Involved parties:
+
+Name: Angel Vengen (laid the final blow)
+Security: 4.4
+Alliance: Freelancer Alliance
+Corp: Caldar Mercenary Syndicate
+Ship: Armageddon
+Weapon: Mega Modulated Pulse Energy Beam I
+
+
+Destroyed items:
+
+Lead Charge S, Qty: 18
+Sabretooth Light Missile, Qty: 58
+Standard Missile Launcher I
+Warp Disruptor I
+Co-Processor I (Cargo)
+

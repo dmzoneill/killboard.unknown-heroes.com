@@ -1,0 +1,47 @@
+2006.12.04 04:06
+
+Victim: Elliott Manchild
+Alliance: None
+Corp: omen.
+Destroyed: Taranis
+System: Ibura
+Security: 0.6
+
+Involved parties:
+
+Name: Maefly (laid the final blow)
+Security: -0.5
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Thorax
+Weapon: Infiltrator I
+
+Name: Supernaut 20k
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Crow
+Weapon: Bloodclaw Precision Light Missile
+
+Name: Ben'Garran
+Security: 0.6
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Crucifier
+Weapon: 'Abandon' Targeting Disruptor I
+
+
+Destroyed items:
+
+125mm Railgun II
+Antimatter Charge S, Qty: 170
+Fleeting Warp Scrambler I
+Micro Auxiliary Power Core I
+Large Azeotropic Ward Salubrity I (Cargo)
+Medium Shield Booster II (Cargo)
+Small I-a Polarized Armor Regenerator (Cargo)
+Antimatter Charge S, Qty: 4058 (Cargo)
+Languid Phase Inversion ECM I (Cargo)
+Induced Ion Field ECM I (Cargo)
+Beta Hull Mod Inertial Stabilizers (Cargo)
+

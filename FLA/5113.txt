@@ -1,0 +1,65 @@
+2007.04.22 20:52
+
+Victim: Aridante Lemure
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Destroyed: Rifter
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Serge
+Security: 4.5
+Alliance: Mercenary Coalition
+Corp: Seraphin Technologies
+Ship: Abaddon
+Weapon: Mega Beam Laser II
+
+Name: Exekias (laid the final blow)
+Security: 2.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Hurricane
+Weapon: Scourge Heavy Missile
+
+Name: ZaKma
+Security: -0.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Astarte
+Weapon: 250mm Railgun II
+
+Name: War Bear
+Security: 2.8
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Stiletto
+Weapon: Warp Disruptor II
+
+Name: Myndpyre Ryche
+Security: 4.2
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Rook
+Weapon: ECM - Multispectral Jammer II
+
+Name: Feterous Jolin
+Security: -2.3
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Myrmidon
+Weapon: Modal Ion Particle Accelerator I
+
+
+Destroyed items:
+
+250mm Light Artillery Cannon I
+250mm Light Artillery Cannon I
+Nuclear S, Qty: 28
+Standard Missile Launcher I
+Sensor Booster I
+Tracking Enhancer I
+Micro Auxiliary Power Core I
+Nuclear S, Qty: 179 (Cargo)
+

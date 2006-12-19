@@ -1,0 +1,92 @@
+2007.01.12 23:52
+
+Victim: Rev Darkwing
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Scorpion
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Scythus Aratan
+Security: 4.4
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Heinky
+Security: 2.7
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Abaddon
+Weapon: Abaddon
+
+Name: SATAN (laid the final blow)
+Security: -0.8
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+Name: Captain Rickdick
+Security: 0.1
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Warrior II
+
+Name: Evil Pookie
+Security: 4.6
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Remote Sensor Dampener II
+
+Name: Arnold Swartzenegger
+Security: 0.0
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+Name: ETS4ME
+Security: 0.7
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+Name: DHB WildCat
+Security: -1.2
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Remote Sensor Dampener II
+
+Name: BLOOD THIRSTY
+Security: -0.2
+Alliance: None
+Corp: Imperial Academy
+Ship: Heretic
+Weapon: X5 Prototype I Engine Enervator
+
+
+Destroyed items:
+
+250mm Railgun I
+Dread Guristas Iridium Charge M, Qty: 78
+Wrath Cruise Missile, Qty: 41
+'Limos' Cruise Launcher I
+'Limos' Cruise Launcher I
+J5 Prototype Warp Inhibitor I
+Initiated Warp Jammer I
+ECM - Multispectral Jammer I
+ECM - Multispectral Jammer I
+Ballistic Control System I
+Dread Guristas Iridium Charge M, Qty: 213 (Cargo)
+Devastator Cruise Missile, Qty: 864 (Cargo)
+Cataclysm Cruise Missile, Qty: 888 (Cargo)
+Vespa I, Qty: 3 (Drone Bay)
+

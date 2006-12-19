@@ -1,0 +1,58 @@
+2006.12.31 03:19
+
+Victim: Klsioef
+Alliance: None
+Corp: Perkone
+Destroyed: Rifter
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Danielson1012
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Ferox
+Weapon: Ferox
+
+Name: Nya (laid the final blow)
+Security: 1.9
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Nidhoggur
+Weapon: Dragonfly
+
+Name: Mr Kilgore
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Huginn
+Weapon: X5 Prototype I Engine Enervator
+
+Name: Goca
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Scorpion
+Weapon: 'Malkuth' Cruise Launcher I
+
+Name: Arhnoldus Pranel
+Security: 1.5
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Vexor
+Weapon: Kapteyn Sensor Array Inhibitor I
+
+
+Destroyed items:
+
+200mm AutoCannon I
+200mm AutoCannon I
+EMP S, Qty: 120
+TE-2100 Standard Missile Bay
+1MN MicroWarpdrive II
+Overdrive Injector System I
+Type-D Power Core Modification: Capacitor Power Relay
+Piranha Light Missile, Qty: 446 (Cargo)
+

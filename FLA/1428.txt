@@ -1,0 +1,83 @@
+2007.03.13 08:08
+
+Victim: VDV Kane
+Alliance: YouWhat
+Corp: Beasts of Burden
+Destroyed: Raven
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: misscoda
+Security: 3.8
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Raven
+Weapon: Mjolnir Torpedo
+
+Name: Thiet
+Security: 4.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Raven
+Weapon: Juggernaut Torpedo
+
+Name: iNFoRMaLiTY (laid the final blow)
+Security: -7.9
+Alliance: Freelancer Alliance
+Corp: Blackwater Squadron
+Ship: Megathron
+Weapon: 425mm Railgun I
+
+Name: Ezeikiel
+Security: 0.6
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Vengeance
+Weapon: Vengeance
+
+Name: Danielson1012
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Flying Underpants
+Security: 0.2
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Enyo
+Weapon: Warrior I
+
+Name: Simon Monkoto
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Capsule
+Weapon: Wasp I
+
+
+Destroyed items:
+
+Plutonium Charge L, Qty: 15
+Iron Charge L
+Iron Charge L
+Iron Charge L
+Iron Charge L
+Iron Charge L
+Juggernaut Torpedo, Qty: 14
+Wrath Cruise Missile
+XT-9000 Cruise Launcher
+X-Large C5-L Emergency Shield Overload I
+Photon Scattering Field I
+Invulnerability Field I
+Heat Dissipation Field I
+Shield Boost Amplifier I
+Damage Control I
+Ballistic Control System I
+Power Diagnostic System I
+Power Diagnostic System I
+Tungsten Charge L, Qty: 40 (Cargo)
+

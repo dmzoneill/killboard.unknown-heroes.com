@@ -1,0 +1,55 @@
+2006.09.24 13:31
+
+Victim: Zalamus
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Destroyed: Dominix
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Morkula Paldanous (laid the final blow)
+Security: 5.0
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Curse
+Weapon: Hammerhead II
+
+Name: Anominity
+Security: 5.0
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Curse
+Weapon: Hammerhead II
+
+Name: Hosanna
+Security: -0.7
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Stiletto
+Weapon: Faint Warp Prohibitor I
+
+
+Destroyed items:
+
+E500 Prototype Energy Vampire
+Drone Link Augmentor I
+Eutectic I Capacitor Charge Array
+LiF Fueled I Booster Rockets
+Fleeting Progressive Warp Scrambler I
+Medium Armor Repairer II
+Voltaic Nanite Thermic Hardener I
+Large Shield Extender I (Cargo)
+Eutectic I Capacitor Charge Array, Qty: 3 (Cargo)
+Fixed Parallel Link-Capacitor I (Cargo)
+Medium F-RX Prototype I Capacitor Boost (Cargo)
+Voltaic Nanite Kinetic Hardener I (Cargo)
+Cruise Missile Launcher I, Qty: 2 (Cargo)
+Siege Missile Launcher I (Cargo)
+Small Tractor Beam I (Cargo)
+Wasp I, Qty: 5 (Drone Bay)
+Ogre II, Qty: 2 (Drone Bay)
+Hobgoblin II, Qty: 3 (Drone Bay)
+Hammerhead II, Qty: 3 (Drone Bay)
+

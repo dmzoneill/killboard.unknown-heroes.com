@@ -1,0 +1,65 @@
+2007.01.28 17:41
+
+Victim: Vesspasiano
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Destroyed: Enyo
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Havvok (laid the final blow)
+Security: 1.9
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Dominix
+Weapon: Berserker II
+
+Name: Beast Hun
+Security: 4.7
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Abaddon
+Weapon: Tachyon Beam Laser II
+
+Name: Letum Omnis
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Hyperion
+Weapon: Hyperion
+
+Name: Memphisz
+Security: 0.3
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: dr shark
+Security: 1.8
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Muninn
+Weapon: Muninn
+
+Name: Dark1
+Security: 3.2
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Claw
+Weapon: 200mm AutoCannon II
+
+
+Destroyed items:
+
+Small 'Ghoul' Energy Siphon I
+Light Neutron Blaster II
+Light Neutron Blaster II
+Null S, Qty: 140
+1MN Afterburner II
+Fleeting Warp Scrambler I
+Energized Adaptive Nano Membrane II
+Tungsten Charge S, Qty: 169 (Cargo)
+

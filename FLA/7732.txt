@@ -1,0 +1,72 @@
+2006.07.03 18:01
+
+Victim: Kismeteer
+Alliance: Freelancer Alliance
+Corp: BGG
+Destroyed: Celestis
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Helios Elemental
+Security: 4.3
+Alliance: Northern Freedom Coalition
+Corp: O.R.C.  Outrage Compliant
+Ship: Megathron
+Weapon: Megathron
+
+Name: Defstar
+Security: 5.0
+Alliance: Northern Freedom Coalition
+Corp: Digital Fury Corporation
+Ship: Apocalypse
+Weapon: Tachyon Beam Laser II
+
+Name: dan drorgar
+Security: 5.0
+Alliance: Northern Freedom Coalition
+Corp: O.R.C.  Outrage Compliant
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery I
+
+Name: Commander Solo
+Security: 5.0
+Alliance: Northern Freedom Coalition
+Corp: Digital Fury Corporation
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: munia (laid the final blow)
+Security: 5.0
+Alliance: Northern Freedom Coalition
+Corp: LDK
+Ship: Armageddon
+Weapon: Tachyon Beam Laser I
+
+Name: ToneLock
+Security: 5.0
+Alliance: Northern Freedom Coalition
+Corp: Digital Fury Corporation
+Ship: Raven
+Weapon: Cruise Missile Launcher II
+
+Name: Eli Cardassa
+Security: 5.0
+Alliance: Northern Freedom Coalition
+Corp: GalacTECH Unlimited
+Ship: Scorpion
+Weapon: Cruise Missile Launcher I
+
+
+Destroyed items:
+
+Exterminator F.O.F. Light Missile I, Qty: 69
+SV-2000 Assault Missile Bay
+Remote Sensor Dampener I
+Remote Sensor Dampener I
+Sensor Booster I
+800mm Reinforced Steel Plates I
+Piranha Light Missile, Qty: 150 (Cargo)
+Infiltrator I, Qty: 4 (Drone Bay)
+

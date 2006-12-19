@@ -1,0 +1,48 @@
+2006.10.19 17:48
+
+Victim: SeaDz
+Alliance: R.I.S.K
+Corp: The First Foundation
+Destroyed: Ferox
+System: R-2R0G
+Security: 0.0
+
+Involved parties:
+
+Name: Lone flyer
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Absolution
+Weapon: Absolution
+
+Name: Jumar Coldgin
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Eagle
+Weapon: Eagle
+
+Name: Karas Rabus (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Huginn
+Weapon: 720mm Howitzer Artillery II
+
+
+Destroyed items:
+
+250mm Railgun I
+Iridium Charge M, Qty: 76
+Scourge Heavy Missile, Qty: 58
+'Malkuth' Heavy Missile Launcher I
+Medium Azeotropic Ward Salubrity I
+Medium C5-L Emergency Shield Overload I
+Shield Boost Amplifier I
+Ballistic Control System I
+Iridium Charge M, Qty: 282 (Cargo)
+Scourge Heavy Missile, Qty: 1284 (Cargo)
+Valkyrie I (Drone Bay)
+Hobgoblin I (Drone Bay)
+

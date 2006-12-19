@@ -1,0 +1,109 @@
+2006.10.23 20:05
+
+Victim: V0rador
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Destroyed: Raven
+System: MI6O-6
+Security: 0.0
+
+Involved parties:
+
+Name: jacass66
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Thanatos
+Weapon: Einherji
+
+Name: d4ve (laid the final blow)
+Security: 4.6
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Archon
+Weapon: Templar
+
+Name: nossler
+Security: 3.2
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Raven
+Weapon: Mjolnir Torpedo
+
+Name: DDaisy
+Security: 4.7
+Alliance: Imperial Republic Of the North
+Corp: VentureCorp
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Megan Ryder
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: VentureCorp
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: AceMace
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Raven
+Weapon: Cruise Missile Launcher II
+
+Name: Loore
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Megathron
+Weapon: Megathron
+
+Name: D2O HeavyWater
+Security: 2.8
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Scorpion
+Weapon: 'Limos' Cruise Launcher I
+
+Name: Gamer1K
+Security: 3.9
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Rook
+Weapon: 250mm Railgun II
+
+Name: Skornik
+Security: 3.5
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Megathron
+Weapon: Megathron
+
+Name: freestrike
+Security: 5.9
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Eagle
+Weapon: Eagle
+
+Name: Jin Steele
+Security: 3.7
+Alliance: None
+Corp: Fatalix Inc.
+Ship: Blackbird
+Weapon: Induced Multispectral ECM I
+
+
+Destroyed items:
+
+Juggernaut Torpedo, Qty: 18
+Shock 'Limos' Siege Missile Bay I
+Shock 'Limos' Siege Missile Bay I
+Shock 'Limos' Siege Missile Bay I
+Shock 'Limos' Siege Missile Bay I
+Invulnerability Field I
+Invulnerability Field I
+Ballistic Control System II
+Juggernaut Torpedo, Qty: 697 (Cargo)
+Warp Core Stabilizer I, Qty: 3 (Cargo)
+

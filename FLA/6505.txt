@@ -1,0 +1,40 @@
+2006.11.16 03:42
+
+Victim: Crystal Starshine
+Alliance: None
+Corp: Imperial Academy
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Goca
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Raven
+Weapon: Mjolnir Javelin Torpedo
+
+Name: Micheal Ross (laid the final blow)
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Hawk
+Weapon: Bloodclaw Precision Light Missile
+
+Name: Alexiares
+Security: 1.1
+Alliance: Serenus Letum
+Corp: Flying Spaghetti Monsterz
+Ship: Arbitrator
+Weapon: Scourge Heavy Missile
+
+Name: MonwrathDisortium
+Security: -1.1
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Deimos
+Weapon: Modal Light Neutron Particle Accelerator I
+
+

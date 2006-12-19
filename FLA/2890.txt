@@ -1,0 +1,154 @@
+2007.03.15 01:39
+
+Victim: John Linski
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Drake
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Tanaka Atsuko
+Security: -3.0
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Ishtar
+Weapon: X5 Prototype I Engine Enervator
+
+Name: Criosachille
+Security: 3.5
+Alliance: Xelas Alliance
+Corp: Catalyst Reaction
+Ship: Taranis
+Weapon: Taranis
+
+Name: Hauth
+Security: 5.2
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Vengeance
+Weapon: Vengeance
+
+Name: Duncan Hines (laid the final blow)
+Security: 5.0
+Alliance: Xelas Alliance
+Corp: Bombshell Cartel
+Ship: Crow
+Weapon: 75mm Gatling Rail II
+
+Name: DeathGrip
+Security: 2.3
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Flycatcher
+Weapon: Foxfire Javelin Rocket
+
+Name: Zayk
+Security: 3.4
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Malediction
+Weapon: Malediction
+
+Name: Oortog
+Security: 4.0
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Enyo
+Weapon: Enyo
+
+Name: kIM JONGELL
+Security: 4.8
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: xBeneGesseritx
+Security: 5.0
+Alliance: Xelas Alliance
+Corp: Crimson Crusaders
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: Baranof
+Security: 5.0
+Alliance: Axiom Empire
+Corp: United Society Starfleet
+Ship: Eris
+Weapon: Eris
+
+Name: Rif
+Security: 5.0
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Vengeance
+Weapon: Dual Light Beam Laser II
+
+Name: Salinas
+Security: 2.5
+Alliance: Aftermath Alliance
+Corp: Dark Nebula Gallente Division
+Ship: Kestrel
+Weapon: Bloodclaw Light Missile
+
+Name: Bruce Bannon
+Security: 0.5
+Alliance: Xelas Alliance
+Corp: Mining Bytes Inc.
+Ship: Moa
+Weapon: 250mm Railgun II
+
+Name: 3141592653589793238462
+Security: 1.2
+Alliance: Axiom Empire
+Corp: Regalis Industria Scientia Entreprendre
+Ship: Kestrel
+Weapon: Bloodclaw Light Missile
+
+Name: e3joker
+Security: 3.7
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: doc627
+Security: 5.0
+Alliance: Axiom Empire
+Corp: United Society Starfleet
+Ship: Crow
+Weapon: Flameburst Light Missile
+
+Name: Bedrock
+Security: 0.2
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: El Coyote
+Security: 3.4
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Raptor
+Weapon: Upgraded 'Limos' Standard Missile Bay I
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 52
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+Large Supplemental Barrier Emitter I
+Large Supplemental Barrier Emitter I
+Invulnerability Field I
+Photon Scattering Field I
+Heat Dissipation Amplifier I
+Shield Power Relay I
+Shield Power Relay I
+Ballistic Control System I
+Thunderbolt Heavy Missile, Qty: 350 (Cargo)
+Stalker F.O.F. Heavy Missile I, Qty: 100 (Cargo)
+

@@ -1,0 +1,120 @@
+2006.10.09 18:08
+
+Victim: Darknesss
+Alliance: Triumvirate.
+Corp: D00M.
+Destroyed: Megathron
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Kraeze
+Security: 4.8
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Thanatos
+Weapon: Einherji
+
+Name: Severa Crest
+Security: 1.9
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Ship: Muninn
+Weapon: Muninn
+
+Name: Midiana
+Security: 0.6
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Vexor
+Weapon: Medium Nosferatu I
+
+Name: Valadeya uthanaras
+Security: 3.7
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Unknown
+Weapon: Tachyon Afocal Maser I
+
+Name: Jessica McDaniel
+Security: 1.4
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Ferox
+Weapon: Ferox
+
+Name: Dingus Rx
+Security: 2.3
+Alliance: Imperial Republic Of the North
+Corp: Port Royal Independent Kontractors
+Ship: Nemesis
+Weapon: Nemesis
+
+Name: R4Z0R49
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: Feel Good Inc.
+Ship: Capsule
+Weapon: Advanced 'Limos' Heavy Missile Bay I
+
+Name: Gamer1K
+Security: 3.2
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Crow
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+Name: Sol Angla
+Security: 2.8
+Alliance: Imperial Republic Of the North
+Corp: Port Royal Independent Kontractors
+Ship: Capsule
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+Name: pROMp
+Security: 2.9
+Alliance: Freelancer Alliance
+Corp: Feel Good Inc.
+Ship: Capsule
+Weapon: Heavy Missile Launcher I
+
+Name: dastommy79
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Merlin
+Weapon: Merlin
+
+Name: LizzyD (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Thorax
+Weapon: 150mm Railgun II
+
+
+Destroyed items:
+
+Neutron Blaster Cannon II
+Neutron Blaster Cannon II
+Neutron Blaster Cannon II
+Neutron Blaster Cannon II
+Neutron Blaster Cannon II
+Null L, Qty: 64
+Quad LiF Fueled I Booster Rockets
+J5 Prototype Warp Inhibitor I
+Heavy Electrochemical Capacitor Booster I
+Damage Control I
+Large 'Accommodation' Vestment Reconstructer I
+Magnetic Field Stabilizer II
+Corpse (Cargo)
+J5 Prototype Warp Inhibitor I (Cargo)
+250mm Railgun II, Qty: 2 (Cargo)
+Cap Booster 800, Qty: 12 (Cargo)
+Magnetic Field Stabilizer II (Cargo)
+Null L, Qty: 870 (Cargo)
+'Arbalest' Assault Missile Launcher (Cargo)
+Cynosural Field Generator I Blueprint, Qty: 2 (Cargo)
+Local Hull Conversion Overdrive Injector I (Cargo)
+

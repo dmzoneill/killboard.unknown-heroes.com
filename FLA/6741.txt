@@ -1,0 +1,89 @@
+2006.11.26 01:44
+
+Victim: Nathan W
+Alliance: None
+Corp: Beer Guzzling Clowns With Blasters
+Destroyed: Badger Mark II
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Zimi Vlasic (laid the final blow)
+Security: 0.8
+Alliance: EVE Animal Control
+Corp: F.R.E.E. Explorer
+Ship: Rupture
+Weapon: 650mm Artillery Cannon II
+
+Name: Karnovsky
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: Nevermore
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Black Lance
+Ship: Crow
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: Jin Steele
+Security: 4.6
+Alliance: Schism.
+Corp: Fatalix Inc.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Trucidio
+Security: 5.0
+Alliance: None
+Corp: MetaForge
+Ship: Ishkur
+Weapon: 125mm Railgun II
+
+Name: roboto212
+Security: -0.5
+Alliance: Freelancer Alliance
+Corp: Sin-X Inc.
+Ship: Taranis
+Weapon: Light Neutron Blaster II
+
+Name: NATMav
+Security: 2.2
+Alliance: EVE Animal Control
+Corp: F.R.E.E. Explorer
+Ship: Manticore
+Weapon: Cruise Missile Launcher II
+
+Name: Jumar Coldgin
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Rook
+Weapon: 'Hypnos' Multispectral ECM I
+
+Name: Hosanna
+Security: 3.1
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Grifter Treysik
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldar Mercenary Syndicate
+Ship: Enyo
+Weapon: Enyo
+
+
+Destroyed items:
+
+Lead Charge S, Qty: 65
+Small Tractor Beam I
+Warp Core Stabilizer I
+Thorium Charge S, Qty: 100 (Cargo)
+

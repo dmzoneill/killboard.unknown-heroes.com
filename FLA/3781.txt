@@ -1,0 +1,26 @@
+2007.04.01 02:32
+
+Victim: Kirk theeGreat
+Alliance: Freelancer Alliance
+Corp: N.A.S.A.
+Destroyed: Capsule
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: tomlinsonland
+Security: -1.8
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Crow
+Weapon: Warp Disruptor II
+
+Name: War Bear (laid the final blow)
+Security: 2.8
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Stiletto
+Weapon: 250mm Light Artillery Cannon II
+
+

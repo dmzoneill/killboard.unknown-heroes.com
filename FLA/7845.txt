@@ -1,0 +1,28 @@
+2006.09.11 19:57
+
+Victim: DanyD
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Destroyed: Crow
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Kanonus (laid the final blow)
+Security: -1.0
+Alliance: Ascendant Frontier
+Corp: Celestial Fleet
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 65
+Standard Missile Launcher I
+Standard Missile Launcher I
+1MN MicroWarpdrive I
+'Langour' Drive Disruptor I
+Bloodclaw Light Missile, Qty: 1011 (Cargo)
+

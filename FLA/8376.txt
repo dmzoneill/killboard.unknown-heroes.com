@@ -1,0 +1,31 @@
+2006.11.13 19:30
+
+Victim: Hosanna
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Destroyed: Claw
+System: J-RQMF
+Security: 0.0
+
+Involved parties:
+
+Name: EYEDOLL (laid the final blow)
+Security: 3.6
+Alliance: Ascendant Frontier
+Corp: STK Scientific
+Ship: Zealot
+Weapon: Heavy Pulse Laser II
+
+
+Destroyed items:
+
+150mm Light AutoCannon II
+150mm Light AutoCannon II
+Barrage S, Qty: 47
+'Malkuth' Rocket Launcher I
+Kapteyn Sensor Array Inhibitor I
+Gyrostabilizer I
+Phased Plasma S, Qty: 1173 (Cargo)
+Gremlin Rocket, Qty: 796 (Cargo)
+Phalanx Rocket, Qty: 11 (Cargo)
+

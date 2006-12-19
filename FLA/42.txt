@@ -1,0 +1,32 @@
+2007.01.02 07:47
+
+Victim: Formosus Funus
+Alliance: None
+Corp: Nexus Legion
+Destroyed: Stabber
+System: Mara
+Security: 0.4
+
+Involved parties:
+
+Name: Nova Paradise (laid the final blow)
+Security: 0.8
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+Name: Scourge Heavy Missile / Guristas
+
+
+Destroyed items:
+
+220mm Vulcan AutoCannon II
+220mm Vulcan AutoCannon II
+220mm Vulcan AutoCannon II
+Barrage M, Qty: 168
+Fleeting Warp Scrambler I
+Nanofiber Internal Structure I
+Nanofiber Internal Structure I
+Barrage M, Qty: 555 (Cargo)
+

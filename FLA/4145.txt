@@ -1,0 +1,80 @@
+2007.04.02 20:28
+
+Victim: Tristian Andross
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Megathron
+System: OWXT-5
+Security: 0.0
+
+Involved parties:
+
+Name: Guristas Eliminator / Guristas
+
+Name: Drak d'Amral
+Security: -1.0
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Muninn
+Weapon: Muninn
+
+Name: The Ali
+Security: -3.2
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Vagabond
+Weapon: Hobgoblin II
+
+Name: Amok'Trueborn' Pryde
+Security: -1.5
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Huginn
+Weapon: Scourge Heavy Missile
+
+Name: Eelim Garak (laid the final blow)
+Security: 1.3
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Curse
+Weapon: Valkyrie II
+
+Name: volly
+Security: 3.5
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Curse
+Weapon: Hammerhead II
+
+Name: Tarr Mahoud
+Security: 5.0
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Curse
+Weapon: Hammerhead II
+
+Name: Gordon Red
+Security: 2.1
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Heretic
+Weapon: Heretic
+
+Name: DeDreiIx
+Security: 3.4
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Merlin
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+
+Destroyed items:
+
+425mm Railgun I
+425mm Railgun I
+'Malkuth' Cruise Launcher I
+F-b10 Nominal Capacitor Regenerator
+F-b10 Nominal Capacitor Regenerator
+F-b10 Nominal Capacitor Regenerator
+Magnetic Field Stabilizer I
+

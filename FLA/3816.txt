@@ -1,0 +1,50 @@
+2007.04.01 21:03
+
+Victim: Kaand
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Megathron
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Shadowjet
+Security: -1.3
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Crow
+Weapon: Einherji
+
+Name: Menf (laid the final blow)
+Security: 2.1
+Alliance: S.E.R.A
+Corp: Seraphin Technologies
+Ship: Chimera
+Weapon: Firbolg
+
+Name: c0rn1
+Security: -2.2
+Alliance: S.E.R.A
+Corp: Seraphin Technologies
+Ship: Nidhoggur
+Weapon: Einherji
+
+
+Destroyed items:
+
+425mm Railgun II
+425mm Railgun II
+425mm Railgun II
+Antimatter Charge L, Qty: 108
+Spike L
+Sensor Booster II
+Tracking Enhancer II
+Tracking Enhancer II
+Tracking Enhancer II
+Magnetic Field Stabilizer II
+Magnetic Field Stabilizer II
+1600mm Reinforced Rolled Tungsten Plates I
+Iridium Charge L, Qty: 1994 (Cargo)
+Hammerhead II (Drone Bay)
+

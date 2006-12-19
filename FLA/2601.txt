@@ -1,0 +1,54 @@
+2007.02.26 04:57
+
+Victim: Moridin Bashere
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Destroyed: Arbitrator
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: hellwarrior (laid the final blow)
+Security: 0.2
+Alliance: None
+Corp: Finite Horizon
+Ship: Typhoon
+Weapon: Paradise Cruise Missile
+
+Name: Odet
+Security: 2.1
+Alliance: None
+Corp: Finite Horizon
+Ship: Rapier
+Weapon: Rapier
+
+Name: rs spyder
+Security: -2.1
+Alliance: None
+Corp: Tarnak inc.
+Ship: Ishtar
+Weapon: Ogre II
+
+Name: Greg Sanders
+Security: -1.6
+Alliance: None
+Corp: Finite Horizon
+Ship: Typhoon
+Weapon: E500 Prototype Energy Vampire
+
+
+Destroyed items:
+
+280mm Howitzer Artillery II
+280mm Howitzer Artillery II
+EMP S, Qty: 20
+'Malkuth' Heavy Missile Launcher I
+10MN Afterburner II
+J5 Prototype Warp Inhibitor I
+Kapteyn Sensor Array Inhibitor I
+Energized Adaptive Nano Membrane I
+Energized Adaptive Nano Membrane I
+EMP S, Qty: 1070 (Cargo)
+Warrior II, Qty: 2 (Drone Bay)
+

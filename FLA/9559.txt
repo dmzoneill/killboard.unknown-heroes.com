@@ -1,0 +1,41 @@
+2007.05.18 19:01
+
+Victim: SleepyJack
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Myrmidon
+System: G-M4I8
+Security: 0.0
+
+Involved parties:
+
+Name: Begemot UA (laid the final blow)
+Security: -0.5
+Alliance: None
+Corp: State War Academy
+Ship: Drake
+Weapon: Fulmination Assault Missile
+
+Name: Scourge Heavy Missile / Guristas
+
+
+Destroyed items:
+
+Small 'Ghoul' Energy Siphon I
+Heavy Neutron Blaster I
+Heavy Neutron Blaster I
+Iridium Charge M, Qty: 34
+Fixed Parallel Link-Capacitor I
+'Langour' Drive Disruptor I
+Peripheral Weapon Navigation Diameter
+Damage Control II
+Insulated Stabilizer Array I
+Radioisotope Magnetic Membrane I
+Radioisotope Thermic Membrane I
+Large F-S9 Regolith Shield Induction (Cargo)
+Large Asymmetric Barrier Transpositioner I (Cargo)
+Medium Capacitor Battery I (Cargo)
+Wrath Cruise Missile, Qty: 100 (Cargo)
+Cruise Missile Launcher I, Qty: 2 (Cargo)
+Siege Missile Launcher I (Cargo)
+

@@ -1,0 +1,46 @@
+2007.04.21 05:11
+
+Victim: Ghu'ru Talozan
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Catalyst
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Terdlinger (laid the final blow)
+Security: 4.9
+Alliance: Storm Armada
+Corp: stone grave haulage
+Ship: Raven
+Weapon: Juggernaut Torpedo
+
+Name: Screamer
+Security: 0.8
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Chimera
+Weapon: Dragonfly
+
+Name: Lyra Sy
+Security: 5.0
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Raven
+Weapon: 350mm Prototype I Gauss Gun
+
+
+Destroyed items:
+
+150mm Railgun I
+150mm Railgun I
+150mm Railgun I
+150mm Railgun I
+Antimatter Charge S, Qty: 74
+Warp Disruptor I
+Nanofiber Internal Structure I
+Nanofiber Internal Structure I
+Type-D Power Core Modification: Capacitor Power Relay
+Antimatter Charge S, Qty: 300 (Cargo)
+

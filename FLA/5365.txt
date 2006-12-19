@@ -1,0 +1,30 @@
+2007.04.27 09:38
+
+Victim: MrMaggot
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Buzzard
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Gordon Red (laid the final blow)
+Security: 2.1
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Malediction
+Weapon: Gatling Pulse Laser II
+
+Name: Guristas Terrorist / Guristas
+
+
+Destroyed items:
+
+Antimatter Charge S, Qty: 40
+Covert Ops Cloaking Device II
+Snoop Scanner Probe I, Qty: 26
+Kapteyn Sensor Array Inhibitor I
+F-90 Positional Sensor Subroutines
+Antimatter Charge S, Qty: 110 (Cargo)
+

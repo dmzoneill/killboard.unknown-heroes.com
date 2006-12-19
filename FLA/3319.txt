@@ -1,0 +1,90 @@
+2007.03.23 07:23
+
+Victim: shadowxp99
+Alliance: Freelancer Alliance
+Corp: Harbingers of Sarrow
+Destroyed: Raven
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Sexorella hotz
+Security: 5.0
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+Name: Lord Revent
+Security: 1.5
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Hurricane
+Weapon: Vespa II
+
+Name: Lorn Zolog (laid the final blow)
+Security: -0.8
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Harbinger
+Weapon: Focused Medium Pulse Laser II
+
+Name: xargis
+Security: 5.0
+Alliance: YouWhat
+Corp: Pringles Inc.
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Xordus
+Security: 1.6
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Harbinger
+Weapon: Valkyrie II
+
+Name: VDV Bru37
+Security: 5.0
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Drake
+Weapon: Hornet II
+
+Name: Vasili Z
+Security: 0.4
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Rapier
+Weapon: Warp Disruptor II
+
+
+Destroyed items:
+
+Large Rudimentary Concussion Bomb I
+Devastator Cruise Missile, Qty: 14
+Wrath Cruise Missile, Qty: 18
+XT-9000 Cruise Launcher
+XT-9000 Cruise Launcher
+XT-9000 Cruise Launcher
+XT-9000 Cruise Launcher
+X-Large Shield Booster II
+LiF Fueled I Booster Rockets
+'Anointed' I EM Ward Reinforcement
+Damage Control I
+Ballistic Control System I
+Large Shield Extender I (Cargo)
+Barton Reactor Capacitor Recharger I (Cargo)
+1MN MicroWarpdrive I (Cargo)
+Small F-4a Ld-Sulfate I Capacitor Charge Unit (Cargo)
+Small Armor Repairer I (Cargo)
+Cataclysm Cruise Missile, Qty: 1000 (Cargo)
+Wrath Cruise Missile, Qty: 915 (Cargo)
+Paradise Cruise Missile, Qty: 977 (Cargo)
+Dragon F.O.F. Cruise Missile I, Qty: 300 (Cargo)
+Metal Scraps, Qty: 2 (Cargo)
+Salvager I, Qty: 2 (Cargo)
+Small Tractor Beam I (Cargo)
+Inertia Stabilizers I (Cargo)
+Power Diagnostic System I (Cargo)
+

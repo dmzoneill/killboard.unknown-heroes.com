@@ -1,0 +1,40 @@
+2007.03.27 19:52
+
+Victim: Njord V
+Alliance: Freelancer Alliance
+Corp: Blackwater Squadron
+Destroyed: Capsule
+System: 7D-0SQ
+Security: 0.0
+
+Involved parties:
+
+Name: Taschenflak
+Security: 4.7
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Raptor
+Weapon: Upgraded 'Limos' Standard Missile Bay I
+
+Name: Magnelien
+Security: 4.3
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Crow
+Weapon: Gremlin Rocket
+
+Name: Helmi (laid the final blow)
+Security: 3.1
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Moa
+Weapon: 250mm 'Scout' I Accelerator Cannon
+
+Name: Rayvan
+Security: 3.3
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Caracal
+Weapon: Heavy Missile Launcher I
+
+

@@ -1,0 +1,40 @@
+2007.05.29 22:20
+
+Victim: Karai Kamasu
+Alliance: Freelancer Alliance
+Corp: The Collective of Ascended Beings
+Destroyed: Capsule
+System: 93PI-4
+Security: 0.0
+
+Involved parties:
+
+Name: AnmmnA
+Security: 5.0
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Unknown
+Weapon: Bloodclaw Light Missile
+
+Name: Space Fear (laid the final blow)
+Security: 5.0
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Unknown
+Weapon: Bloodclaw Light Missile
+
+Name: Al3xAndr4
+Security: 0.1
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Heretic
+Weapon: Medium Beam Laser II
+
+Name: Pyfius
+Security: 5.0
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Eris
+Weapon: Light Ion Blaster II
+
+

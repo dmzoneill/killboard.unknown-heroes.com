@@ -1,0 +1,166 @@
+2007.04.22 20:10
+
+Victim: Loti
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Scorpion
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: viper zulu
+Security: 4.3
+Alliance: Dusk and Dawn
+Corp: Omega Enterprises
+Ship: Moros
+Weapon: Dual 1000mm Railgun I
+
+Name: Seppel da'FinNI
+Security: 4.4
+Alliance: Dusk and Dawn
+Corp: Cataclysm Enterprises
+Ship: Naglfar
+Weapon: Quad 3500mm Siege Artillery I
+
+Name: Kodiak GER (laid the final blow)
+Security: 4.4
+Alliance: Dusk and Dawn
+Corp: Decadence.
+Ship: Moros
+Weapon: Dual 1000mm Railgun I
+
+Name: Rarium
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: ECP Rogues
+Ship: Revelation
+Weapon: Dual Giga Beam Laser I
+
+Name: Christo
+Security: 1.7
+Alliance: Dusk and Dawn
+Corp: Cataclysm Enterprises
+Ship: Moros
+Weapon: Dual 1000mm Railgun I
+
+Name: Snout
+Security: 4.5
+Alliance: Dusk and Dawn
+Corp: Cataclysm Enterprises
+Ship: Revelation
+Weapon: Revelation
+
+Name: Bloego
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: ClanKillers
+Ship: Naglfar
+Weapon: Naglfar
+
+Name: Shadowar
+Security: 3.4
+Alliance: Dusk and Dawn
+Corp: Infinite Improbability Inc
+Ship: Naglfar
+Weapon: Naglfar
+
+Name: Whuzz
+Security: 1.8
+Alliance: Dusk and Dawn
+Corp: Cataclysm Enterprises
+Ship: Revelation
+Weapon: Revelation
+
+Name: Small AutoCannon Battery / Di-Tron Heavy Industries
+
+Name: probablecause
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Infinite Improbability Inc
+Ship: Thanatos
+Weapon: Dragonfly
+
+Name: Xrat
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Decadence.
+Ship: Archon
+Weapon: Caldari Navy Warp Disruptor
+
+Name: Tendence
+Security: 4.1
+Alliance: Dusk and Dawn
+Corp: Decadence.
+Ship: Thanatos
+Weapon: Templar
+
+Name: SolaUmbra
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Cataclysm Enterprises
+Ship: Nidhoggur
+Weapon: Firbolg
+
+Name: Seray
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: The X-Trading Company
+Ship: Aeon
+Weapon: Einherji
+
+Name: RaYmEn
+Security: 4.2
+Alliance: Dusk and Dawn
+Corp: Cataclysm Enterprises
+Ship: Thanatos
+Weapon: Firbolg
+
+Name: Nyppe
+Security: 4.2
+Alliance: Dusk and Dawn
+Corp: ClanKillers
+Ship: Wyvern
+Weapon: Einherji
+
+Name: Janwaar
+Security: 1.0
+Alliance: Dusk and Dawn
+Corp: ClanKillers
+Ship: Thanatos
+Weapon: Einherji
+
+Name: Bobby Atlas
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Thanatos
+Weapon: Einherji
+
+Name: Axel Terizaki
+Security: 0.1
+Alliance: Dusk and Dawn
+Corp: Infinite Improbability Inc
+Ship: Nyx
+Weapon: Einherji
+
+Name: Asukiko
+Security: -0.7
+Alliance: Dusk and Dawn
+Corp: The X-Trading Company
+Ship: Nidhoggur
+Weapon: Templar
+
+
+Destroyed items:
+
+Heavy Diminishing Power System Drain I
+Cruise Missile Launcher II
+Cruise Missile Launcher II
+Paradise Fury Cruise Missile, Qty: 46
+Large Shield Extender II
+Photon Scattering Field II
+Shield Boost Amplifier II
+Power Diagnostic System II
+Paradise Fury Cruise Missile, Qty: 829 (Cargo)
+

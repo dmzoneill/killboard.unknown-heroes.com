@@ -1,0 +1,40 @@
+2006.12.17 02:33
+
+Victim: Maousay Tongue
+Alliance: None
+Corp: State War Academy
+Destroyed: Ibis
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Sobar
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: Hosanna (laid the final blow)
+Security: 4.7
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: wessam
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Crow
+Weapon: Sabretooth Light Missile
+
+Name: Capitan Santiago
+Security: 1.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Hawk
+Weapon: TE-2100 Standard Missile Bay
+
+

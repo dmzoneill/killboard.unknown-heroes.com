@@ -1,0 +1,40 @@
+2006.11.18 01:19
+
+Victim: Hemo Roid
+Alliance: None
+Corp: Imperial Academy
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Karas Rabus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Jaguar
+Weapon: 280mm Howitzer Artillery II
+
+Name: freestrike (laid the final blow)
+Security: 5.9
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Flycatcher
+Weapon: Bloodclaw Light Missile
+
+Name: Hosanna
+Security: 2.4
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Claw
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: Jumar Coldgin
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Crow
+Weapon: Warp Disruptor I
+
+

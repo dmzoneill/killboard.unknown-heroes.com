@@ -1,0 +1,33 @@
+2007.01.05 23:28
+
+Victim: Mokh'Tar
+Alliance: Freelancer Alliance
+Corp: Caldar Mercenary Syndicate
+Destroyed: Capsule
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: MeanStreak
+Security: -0.2
+Alliance: None
+Corp: Caldari Provisions
+Ship: Sabre
+Weapon: X5 Prototype I Engine Enervator
+
+Name: BLOOD THIRSTY
+Security: -0.2
+Alliance: None
+Corp: Imperial Academy
+Ship: Heretic
+Weapon: Heretic
+
+Name: Lemlins Craken (laid the final blow)
+Security: -0.4
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+

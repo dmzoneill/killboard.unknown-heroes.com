@@ -1,0 +1,26 @@
+2007.04.09 15:20
+
+Victim: Fibua
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Gallente Shuttle
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: FA Avenger (laid the final blow)
+Security: 2.9
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Stradivarious
+Security: 3.7
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Nidhoggur
+Weapon: Einherji
+
+

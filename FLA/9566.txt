@@ -1,0 +1,158 @@
+2007.05.18 22:20
+
+Victim: coldkill
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Destroyed: Arazu
+System: G-M4I8
+Security: 0.0
+
+Involved parties:
+
+Name: Meeus69
+Security: 4.1
+Alliance: Vigilance Infinitas
+Corp: Shadow Company
+Ship: Megathron
+Weapon: Neutron Blaster Cannon II
+
+Name: karbun kell (laid the final blow)
+Security: 0.2
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Sabre
+Weapon: 250mm Light Artillery Cannon II
+
+Name: Alyxia Onosai
+Security: 5.0
+Alliance: Vigilance Infinitas
+Corp: The Galactic Empire
+Ship: Enyo
+Weapon: Enyo
+
+Name: Lady64bits
+Security: 5.0
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: El Covah
+Security: 5.0
+Alliance: Vigilance Infinitas
+Corp: The Galactic Empire
+Ship: Myrmidon
+Weapon: 650mm Artillery Cannon I
+
+Name: Hinderburg
+Security: 4.7
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Huginn
+Weapon: Fleeting Propulsion Inhibitor I
+
+Name: TsunTsu
+Security: 5.0
+Alliance: Vigilance Infinitas
+Corp: The Galactic Empire
+Ship: Flycatcher
+Weapon: 75mm Compressed Coil Gun I
+
+Name: Fell Crow
+Security: 5.0
+Alliance: Vigilance Infinitas
+Corp: CRICE Corporation
+Ship: Taranis
+Weapon: 150mm Railgun II
+
+Name: AxA Charon
+Security: 5.0
+Alliance: Vigilance Infinitas
+Corp: The Galactic Empire
+Ship: Harpy
+Weapon: Harpy
+
+Name: Dival
+Security: 5.0
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Huginn
+Weapon: Flameburst Light Missile
+
+Name: Kraiven
+Security: 5.0
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Raptor
+Weapon: 125mm Railgun II
+
+Name: Travieso
+Security: -2.5
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Hurricane
+Weapon: 425mm AutoCannon I
+
+Name: Tigato
+Security: 3.0
+Alliance: Vigilance Infinitas
+Corp: The Galactic Empire
+Ship: Dominix
+Weapon: Heavy 'Ghoul' Energy Siphon I
+
+Name: Tacitus Krekt
+Security: 1.9
+Alliance: Vigilance Infinitas
+Corp: The Phoenix Rising
+Ship: Blackbird
+Weapon: ECM - Multispectral Jammer II
+
+Name: Steinar88
+Security: 5.0
+Alliance: Vigilance Infinitas
+Corp: The Galactic Empire
+Ship: Rapier
+Weapon: Target Painter II
+
+Name: Neptoone
+Security: -1.1
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Arbitrator
+Weapon: Warp Disruptor I
+
+Name: Koroma Geist
+Security: 0.8
+Alliance: Vigilance Infinitas
+Corp: The Galactic Empire
+Ship: Harpy
+Weapon: Light Ion Blaster II
+
+Name: Kaelan
+Security: 5.0
+Alliance: Vigilance Infinitas
+Corp: The Galactic Empire
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: Hiromi Nakata
+Security: 5.0
+Alliance: Vigilance Infinitas
+Corp: The Phoenix Rising
+Ship: Vengeance
+Weapon: J5 Prototype Warp Inhibitor I
+
+
+Destroyed items:
+
+200mm Railgun II
+200mm Railgun II
+Covert Ops Cloaking Device II
+Spike M, Qty: 160
+Phased Muon Sensor Disruptor I
+Medium Armor Repairer II
+Co-Processor II
+Remote Sensor Dampener II, Qty: 2 (Cargo)
+Spike M, Qty: 1946 (Cargo)
+Hobgoblin II, Qty: 5 (Drone Bay)
+

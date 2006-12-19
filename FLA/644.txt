@@ -1,0 +1,49 @@
+2007.02.14 00:00
+
+Victim: Evesham
+Alliance: Agony Empire
+Corp: Agony Unleashed
+Destroyed: Kestrel
+System: KLY-C0
+Security: 0.0
+
+Involved parties:
+
+Name: Dr Andy (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Myrmidon
+Weapon: Hobgoblin II
+
+
+Destroyed items:
+
+Thorn Rocket
+Thorn Rocket
+Thorn Rocket
+Thorn Rocket
+Thorn Rocket
+Thorn Rocket
+Thorn Rocket
+Thorn Rocket
+Rocket Launcher I
+Rocket Launcher I
+1MN MicroWarpdrive I
+Inertia Stabilizers I
+Nanofiber Internal Structure I
+Small F-S9 Regolith Shield Induction (Cargo)
+1MN Afterburner II, Qty: 2 (Cargo)
+Stasis Webifier I (Cargo)
+Passive Targeter I, Qty: 3 (Cargo)
+Guristas Iron Charge S, Qty: 5000 (Cargo)
+'Gloom' I White Noise ECM (Cargo)
+BZ-5 Neutralizing Spatial Destabilizer ECM (Cargo)
+Kapteyn Sensor Array Inhibitor I (Cargo)
+'Accord' I Core Compensation (Cargo)
+Ballistic Control System I, Qty: 4 (Cargo)
+Peripheral Weapon Navigation Diameter, Qty: 2 (Cargo)
+Bloodclaw Light Missile, Qty: 2500 (Cargo)
+Thorn Rocket, Qty: 4760 (Cargo)
+'Limos' Rocket Launcher I, Qty: 2 (Cargo)
+

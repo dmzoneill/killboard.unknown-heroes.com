@@ -1,0 +1,93 @@
+2007.01.18 05:07
+
+Victim: fiddy
+Alliance: Firmus Ixion
+Corp: Dark Centuri Inc.
+Destroyed: Incursus
+System: 3-FKCZ
+Security: 0.0
+
+Involved parties:
+
+Name: Karnovsky (laid the final blow)
+Security: 4.6
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Claw
+Weapon: 200mm AutoCannon II
+
+Name: NATMav
+Security: 3.2
+Alliance: EVE Animal Control
+Corp: F.R.E.E. Explorer
+Ship: Crow
+Weapon: Piranha Light Missile
+
+Name: Erfurt
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: MetaForge
+Ship: Raptor
+Weapon: Raptor
+
+Name: Real Darkling
+Security: 3.4
+Alliance: Imperial Republic Of the North
+Corp: MetaForge
+Ship: Hawk
+Weapon: Rocket Launcher II
+
+Name: Eutectic
+Security: 5.2
+Alliance: Imperial Republic Of the North
+Corp: VentureCorp
+Ship: Ishkur
+Weapon: 150mm Railgun II
+
+Name: Tarphon
+Security: 2.6
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Raptor
+Weapon: Bloodclaw Light Missile
+
+Name: Beldarius
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: MetaForge
+Ship: Ferox
+Weapon: 250mm Carbide Railgun I
+
+Name: Rascle
+Security: 2.8
+Alliance: Imperial Republic Of the North
+Corp: MetaForge
+Ship: Raptor
+Weapon: 150mm Carbide Railgun I
+
+Name: Marco Polio
+Security: 4.8
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Raptor
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+Name: Blitson
+Security: 3.6
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Flycatcher
+Weapon: Rocket Launcher II
+
+Name: Barry Cuda
+Security: 1.5
+Alliance: EVE Animal Control
+Corp: F.R.E.E. Explorer
+Ship: Zealot
+Weapon: Heavy Pulse Laser II
+
+
+Destroyed items:
+
+Nanofiber Internal Structure I
+

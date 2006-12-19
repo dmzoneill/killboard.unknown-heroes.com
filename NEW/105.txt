@@ -1,0 +1,46 @@
+2007.01.15 19:03
+
+Victim: Belos Taoris
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Capsule
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Leilani Solaris (laid the final blow)
+Security: -1.5
+Alliance: None
+Corp: 0utbreak
+Ship: Sacrilege
+Weapon: Focused Medium Pulse Laser II
+
+Name: Vorag
+Security: -0.7
+Alliance: None
+Corp: 0utbreak
+Ship: Vagabond
+Weapon: True Sansha Warp Disruptor
+
+Name: Waut
+Security: 4.5
+Alliance: None
+Corp: 0utbreak
+Ship: Crow
+Weapon: Rocket Launcher II
+
+Name: Incinate
+Security: 2.6
+Alliance: None
+Corp: 0utbreak
+Ship: Vagabond
+Weapon: Dread Guristas Warp Disruptor
+
+Name: EnglishBob
+Security: 0.3
+Alliance: None
+Corp: 0utbreak
+Ship: Curse
+Weapon: J5 Prototype Warp Inhibitor I
+

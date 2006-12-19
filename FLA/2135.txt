@@ -1,0 +1,66 @@
+2007.01.24 04:30
+
+Victim: John Linski
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Crow
+System: X-7OMU
+Security: 0.0
+
+Involved parties:
+
+Name: Yorick Downe (laid the final blow)
+Security: 1.9
+Alliance: None
+Corp: Agony Unleashed
+Ship: Cormorant
+Weapon: 150mm Railgun II
+
+Name: Quen Azle
+Security: -1.7
+Alliance: None
+Corp: Agony Unleashed
+Ship: Rupture
+Weapon: Remote Sensor Dampener I
+
+Name: Rells
+Security: 0.9
+Alliance: None
+Corp: Agony Unleashed
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: Dez Erichs
+Security: 1.2
+Alliance: None
+Corp: Agony Unleashed
+Ship: Harpy
+Weapon: Harpy
+
+Name: Greater Mind
+Security: 0.7
+Alliance: None
+Corp: Agony Unleashed
+Ship: Cormorant
+Weapon: 150mm Railgun II
+
+Name: Dragonbitch
+Security: 0.3
+Alliance: None
+Corp: Agony Unleashed
+Ship: Cormorant
+Weapon: 150mm Railgun II
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 42
+Upgraded 'Limos' Standard Missile Bay I
+Upgraded 'Limos' Standard Missile Bay I
+Upgraded 'Limos' Standard Missile Bay I
+J5 Prototype Warp Inhibitor I
+Basic Nanofiber Internal Structure
+Overdrive Injector System I
+Type-D Power Core Modification: Capacitor Power Relay
+Bloodclaw Light Missile, Qty: 310 (Cargo)
+

@@ -1,0 +1,34 @@
+2007.04.28 08:49
+
+Victim: HyperBaton
+Alliance: Band of Brothers
+Corp: Reikoku
+Destroyed: Malediction
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Antigen Po (laid the final blow)
+Security: 4.5
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Brutix
+Weapon: 250mm Compressed Coil Gun I
+
+Name: Bobby Atlas
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Celestis
+Weapon: Infiltrator I
+
+
+Destroyed items:
+
+Gatling Pulse Laser II
+Xray S
+Stasis Webifier I
+Small Armor Repairer I
+Micro Auxiliary Power Core I
+

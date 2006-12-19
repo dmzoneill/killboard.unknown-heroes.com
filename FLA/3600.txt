@@ -1,0 +1,55 @@
+2007.03.27 19:38
+
+Victim: Ashlore
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Destroyed: Raptor
+System: 7D-0SQ
+Security: 0.0
+
+Involved parties:
+
+Name: derBERG (laid the final blow)
+Security: 5.0
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Ship: Armageddon
+Weapon: Mega Modulated Energy Beam I
+
+Name: Magnelien
+Security: 4.3
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Crow
+Weapon: Small Diminishing Power System Drain I
+
+Name: khazid
+Security: 5.0
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Ship: Raven
+Weapon: Partial Weapon Navigation
+
+Name: Neily
+Security: 4.6
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Megathron
+Weapon: Megathron
+
+Name: Helmi
+Security: 3.1
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Moa
+Weapon: Moa
+
+
+Destroyed items:
+
+Small Nosferatu II
+Thorn Rage Rocket, Qty: 34
+1MN MicroWarpdrive II
+X5 Prototype I Engine Enervator
+Type-E Altered SS Inertial Stabilizers
+

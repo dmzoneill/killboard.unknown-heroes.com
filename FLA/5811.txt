@@ -1,0 +1,47 @@
+2006.10.21 23:49
+
+Victim: Project Envious
+Alliance: None
+Corp: Republic Military School
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Formosus Funus
+Security: 2.9
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Jaguar
+Weapon: Phalanx Rocket
+
+Name: Paltar (laid the final blow)
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Maoam Druban
+Security: 0.9
+Alliance: Chorus of Dawn
+Corp: Independent Frontiers
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+Name: Seventh Star
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Sabre
+Weapon: Rocket Launcher I
+
+Name: Kay Han
+Security: -4.2
+Alliance: None
+Corp: Stardust Heavy Industries
+Ship: Caracal
+Weapon: Assault Missile Launcher II
+
+

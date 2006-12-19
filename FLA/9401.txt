@@ -1,0 +1,26 @@
+2007.05.12 00:26
+
+Victim: Shamus VI
+Alliance: None
+Corp: Dryad Engineering
+Destroyed: Capsule
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: dastommy79 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Thorax
+Weapon: Heavy Ion Blaster I
+
+Name: Bicx
+Security: -0.9
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Incursus
+Weapon: Warp Disruptor I
+
+

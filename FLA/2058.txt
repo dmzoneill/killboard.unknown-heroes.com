@@ -1,0 +1,33 @@
+2007.01.19 21:01
+
+Victim: Mr Kilgore
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Destroyed: Mammoth
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: taylor04 (laid the final blow)
+Security: 0.4
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+
+Destroyed items:
+
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Small Tractor Beam I
+Warp Core Stabilizer I
+Inertia Stabilizers I
+Inertia Stabilizers I
+Inertia Stabilizers I
+

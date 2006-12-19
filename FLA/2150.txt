@@ -1,0 +1,78 @@
+2007.01.25 03:55
+
+Victim: Rhaall
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Prophecy
+System: L-TS8S
+Security: 0.0
+
+Involved parties:
+
+Name: Athlete (laid the final blow)
+Security: 1.1
+Alliance: None
+Corp: Exanimo Inc
+Ship: Megathron
+Weapon: Electron Blaster Cannon II
+
+Name: Misha Mosqito
+Security: 2.3
+Alliance: None
+Corp: Exanimo Inc
+Ship: Arazu
+Weapon: Warrior II
+
+Name: Mithras Romanus
+Security: 4.7
+Alliance: None
+Corp: Exanimo Inc
+Ship: Lachesis
+Weapon: Warrior II
+
+Name: StellaBlue
+Security: 0.0
+Alliance: None
+Corp: Exanimo Inc
+Ship: Taranis
+Weapon: Light Electron Blaster II
+
+Name: Uriel Spelloyal
+Security: -1.4
+Alliance: None
+Corp: Exanimo Inc
+Ship: Vexor
+Weapon: Vexor
+
+Name: Mongolia Jones
+Security: 0.3
+Alliance: None
+Corp: Exanimo Inc
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: Drokar Gazer
+Security: 4.0
+Alliance: None
+Corp: Exanimo Inc
+Ship: Raven
+Weapon: Siege Missile Launcher II
+
+
+Destroyed items:
+
+Focused Modulated Medium Energy Beam I
+Focused Modulated Medium Energy Beam I
+Focused Medium Beam Laser I
+Focused Medium Beam Laser I
+Multifrequency M
+Multifrequency M
+Multifrequency M
+Flameburst Light Missile, Qty: 42
+'Malkuth' Standard Missile Launcher I
+Eutectic I Capacitor Charge Array
+Barton Reactor Capacitor Recharger I
+Medium Armor Repairer I
+Warp Core Stabilizer I
+Warrior I, Qty: 3 (Drone Bay)
+

@@ -1,0 +1,19 @@
+2007.03.25 20:01
+
+Victim: ConXtionS
+Alliance: Freelancer Alliance
+Corp: The Night Crew
+Destroyed: Capsule
+System: DY-F70
+Security: 0.0
+
+Involved parties:
+
+Name: MOS EISLEY (laid the final blow)
+Security: 3.9
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Flycatcher
+Weapon: Thorn Rocket
+
+

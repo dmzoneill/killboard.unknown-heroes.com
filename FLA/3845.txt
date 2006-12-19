@@ -1,0 +1,72 @@
+2007.04.01 22:53
+
+Victim: DarkAvenger DK
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Harpy
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Julien Derida
+Security: -0.6
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Sabre
+Weapon: Sabre
+
+Name: Spacebar (laid the final blow)
+Security: 2.1
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Hurricane
+Weapon: 425mm AutoCannon II
+
+Name: ER0X
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Harpy
+Weapon: Harpy
+
+Name: Stradivarious
+Security: 3.4
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Huginn
+Weapon: Huginn
+
+Name: Rahzorus
+Security: 0.9
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Cadman Weyland
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Heretic
+Weapon: Dual Light Beam Laser II
+
+Name: KIAEnIgMa
+Security: 0.4
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Flycatcher
+Weapon: Flycatcher
+
+
+Destroyed items:
+
+Light Ion Blaster II
+Antimatter Charge S, Qty: 120
+Spike S, Qty: 160
+Piranha Light Missile, Qty: 44
+Magnetic Scattering Amplifier I
+Beta Reactor Control: Reaction Control I
+Antimatter Charge S, Qty: 1552 (Cargo)
+Spike S, Qty: 702 (Cargo)
+

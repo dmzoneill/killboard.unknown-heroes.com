@@ -1,0 +1,19 @@
+2006.10.03 14:53
+
+Victim: Durnik Ravengaard
+Alliance: Xelas Alliance
+Corp: Pod Squad
+Destroyed: Capsule
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: bidman (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Ferox
+Weapon: 250mm Compressed Coil Gun I
+
+

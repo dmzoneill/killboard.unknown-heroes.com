@@ -1,0 +1,52 @@
+2007.04.21 00:53
+
+Victim: Kvarium Ki
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Destroyed: Stabber
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Terdlinger (laid the final blow)
+Security: 4.9
+Alliance: Storm Armada
+Corp: stone grave haulage
+Ship: Thanatos
+Weapon: Firbolg
+
+Name: Lyra Sy
+Security: 5.0
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Vulture
+Weapon: Thunderbolt Heavy Missile
+
+Name: Raffer Steele
+Security: 2.6
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Thanatos
+Weapon: Firbolg
+
+Name: Bothius
+Security: 0.4
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Arazu
+Weapon: Arazu
+
+
+Destroyed items:
+
+Dual 180mm Prototype I Automatic Cannon
+Dual 180mm Carbine Repeating Cannon I
+EMP M, Qty: 101
+'Malkuth' Assault Missile Launcher I
+'Malkuth' Assault Missile Launcher I
+10MN MicroWarpdrive I
+Emergency Damage Control I
+EMP M, Qty: 3927 (Cargo)
+Bloodclaw Light Missile, Qty: 1986 (Cargo)
+

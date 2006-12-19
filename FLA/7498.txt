@@ -1,0 +1,93 @@
+2006.09.10 16:32
+
+Victim: foxden
+Alliance: R.I.S.K
+Corp: Russian Specnaz
+Destroyed: Thorax
+System: X-7OMU
+Security: 0.0
+
+Involved parties:
+
+Name: Mad Mackem (laid the final blow)
+Security: -1.2
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Armageddon
+Weapon: Mega Beam Laser II
+
+Name: Tarrant Arrlock
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Caracal
+Weapon: Standard Missile Launcher I
+
+Name: DDaisy
+Security: 4.6
+Alliance: CORE.
+Corp: VentureCorp
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Oldin Relic
+Security: 1.3
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Moa
+Weapon: Moa
+
+Name: Terrorv1z
+Security: 5.1
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Scorpion
+Weapon: Cruise Missile Launcher I
+
+Name: Shiri elAzarinres
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Raven
+Weapon: Heavy Nosferatu I
+
+Name: Nende
+Security: 5.0
+Alliance: None
+Corp: Ashen Lion Mining and Production Consortium
+Ship: Scorpion
+Weapon: ECM - Ion Field Projector II
+
+Name: MentalM
+Security: 5.2
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Sacrilege
+Weapon: Sacrilege
+
+Name: Matt Stoner
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Caracal
+Weapon: XR-3200 Heavy Missile Bay
+
+Name: GrumpyBear
+Security: 1.6
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Rook
+Weapon: Heavy Missile Launcher II
+
+
+Destroyed items:
+
+Limited Ion Blaster I
+Limited Ion Blaster I
+Antimatter Charge M, Qty: 120
+10MN MicroWarpdrive I
+J5 Prototype Warp Inhibitor I
+'Langour' Drive Disruptor I
+F-M3 Munition Inertial Suspensor
+Vespa EC-600 (Drone Bay)
+

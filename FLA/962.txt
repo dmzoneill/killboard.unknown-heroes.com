@@ -1,0 +1,113 @@
+2007.02.28 20:23
+
+Victim: Cyber God
+Alliance: Firmus Ixion
+Corp: Xoth Inc
+Destroyed: Retribution
+System: 3-FKCZ
+Security: 0.0
+
+Involved parties:
+
+Name: Meryth (laid the final blow)
+Security: 5.4
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Jumar Coldgin
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: Karjala Inc.
+Ship: Eagle
+Weapon: Eagle
+
+Name: fincormack
+Security: 4.7
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Astarte
+Weapon: 250mm Railgun II
+
+Name: Shiri elAzarinres
+Security: 4.9
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Eagle
+Weapon: Eagle
+
+Name: JFxSummoner
+Security: 3.7
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Eagle
+Weapon: Eagle
+
+Name: Kyunden Galard
+Security: 3.4
+Alliance: Morsus Mihi
+Corp: hirr
+Ship: Capsule
+Weapon: TE-2100 Standard Missile Bay
+
+Name: Munch
+Security: 4.7
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Unknown
+Weapon: Hobgoblin II
+
+Name: lakosta
+Security: 3.6
+Alliance: Morsus Mihi
+Corp: 4S Corporation
+Ship: Muninn
+Weapon: 720mm Howitzer Artillery II
+
+Name: Oldin Relic
+Security: 1.5
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Rokh
+Weapon: 350mm Railgun II
+
+Name: ISliverI
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Arazu
+Weapon: Phased Muon Sensor Disruptor I
+
+Name: Elanis
+Security: 0.4
+Alliance: Pure.
+Corp: Eve Defence Force
+Ship: Vengeance
+Weapon: Medium Anode Pulse Particle Stream I
+
+Name: Amarrian Bringer
+Security: 1.4
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Caracal
+Weapon: Remote Sensor Dampener I
+
+Name: 4sun
+Security: 4.4
+Alliance: Morsus Mihi
+Corp: 4S Corporation
+Ship: Jaguar
+Weapon: Jaguar
+
+
+Destroyed items:
+
+Medium Pulse Laser II
+Scorch S
+Scorch S
+Scorch S
+Heat Sink II
+Heat Sink II
+N-Type Thermic Membrane I
+

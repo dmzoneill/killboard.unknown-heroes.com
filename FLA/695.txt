@@ -1,0 +1,77 @@
+2007.02.17 01:17
+
+Victim: Tokalis
+Alliance: None
+Corp: State War Academy
+Destroyed: Caracal
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: bidman
+Security: 4.7
+Alliance: None
+Corp: BGG
+Ship: Drake
+Weapon: Hobgoblin II
+
+Name: Tregaron
+Security: 1.1
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Typhoon
+Weapon: Warrior I
+
+Name: jacass66
+Security: 5.0
+Alliance: None
+Corp: BGG
+Ship: Dominix
+Weapon: Dominix
+
+Name: Yseult Atreus (laid the final blow)
+Security: 1.4
+Alliance: None
+Corp: BGG
+Ship: Lachesis
+Weapon: Havoc Heavy Missile
+
+Name: Dark Carnage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Crow
+Weapon: Sabretooth Light Missile
+
+Name: Tenk
+Security: 5.0
+Alliance: None
+Corp: BGG
+Ship: Raven
+Weapon: 'Arbalest' Cruise Launcher I
+
+Name: Kolombus
+Security: 5.1
+Alliance: None
+Corp: BGG
+Ship: Dominix
+Weapon: Parallel Weapon Navigation Transmitter
+
+
+Destroyed items:
+
+Widowmaker Heavy Missile, Qty: 30
+Scourge Heavy Missile, Qty: 60
+Havoc Heavy Missile, Qty: 30
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Medium Subordinate Screen Stabilizer I
+Medium C5-L Emergency Shield Overload I
+Invulnerability Field I
+Sensor Booster I
+'Halcyon' Core Equalizer I
+Guristas Ship Log 119373337 (Cargo)
+Widowmaker Heavy Missile, Qty: 1125 (Cargo)
+Scourge Heavy Missile, Qty: 2254 (Cargo)
+

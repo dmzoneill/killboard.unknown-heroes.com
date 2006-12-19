@@ -1,0 +1,38 @@
+2007.01.19 12:12
+
+Victim: Vartha Trin
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Hawk
+System: RZC-16
+Security: 0.0
+
+Involved parties:
+
+Name: Rennard (laid the final blow)
+Security: -1.7
+Alliance: None
+Corp: Janissaries
+Ship: Pilgrim
+Weapon: Hobgoblin II
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 108
+Standard Missile Launcher II
+Standard Missile Launcher II
+Small Shield Booster II
+F-b10 Nominal Capacitor Regenerator
+1MN Afterburner II
+Invulnerability Field I
+Power Diagnostic System II
+Barton Reactor Capacitor Recharger I, Qty: 4 (Cargo)
+Cold-Gas I Arcjet Thrusters (Cargo)
+Dread Guristas Stasis Webifier (Cargo)
+Dread Guristas Iron Charge M, Qty: 1000 (Cargo)
+'Stalwart' I Particle Field Magnifier (Cargo)
+Guristas Crystal Tag (Cargo)
+'Arbalest' Standard Missile Launcher (Cargo)
+SV-2000 Assault Missile Bay, Qty: 2 (Cargo)
+

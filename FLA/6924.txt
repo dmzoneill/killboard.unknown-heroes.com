@@ -1,0 +1,24 @@
+2006.12.12 22:33
+
+Victim: Korell
+Alliance: None
+Corp: Caldari Provisions
+Destroyed: Ibis
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Rustiko (laid the final blow)
+Security: 4.7
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Armageddon
+Weapon: Tachyon Modal Laser I
+
+
+Destroyed items:
+
+Civilian Gatling Railgun
+Basic Miner
+

@@ -1,0 +1,155 @@
+2007.03.17 02:00
+
+Victim: LiSyingChan
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Destroyed: Drake
+System: OWXT-5
+Security: 0.0
+
+Involved parties:
+
+Name: Syra Tpal (laid the final blow)
+Security: 5.0
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Malediction
+Weapon: Medium Pulse Laser II
+
+Name: DeathGrip
+Security: 2.7
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Flycatcher
+Weapon: Foxfire Javelin Rocket
+
+Name: e3joker
+Security: 3.8
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Harpy
+Weapon: Harpy
+
+Name: Selnix
+Security: 5.0
+Alliance: Aftermath Alliance
+Corp: Master Miners
+Ship: Eris
+Weapon: Gremlin Javelin Rocket
+
+Name: kezz2411
+Security: 5.3
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: kabayn
+Security: 5.0
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: Callistus
+Security: -2.5
+Alliance: Corelum Syndicate
+Corp: Coreli Corporation
+Ship: Taranis
+Weapon: Hobgoblin II
+
+Name: Criosachille
+Security: 3.5
+Alliance: Xelas Alliance
+Corp: Catalyst Reaction
+Ship: Taranis
+Weapon: Hobgoblin II
+
+Name: dOG2314
+Security: 4.9
+Alliance: Axiom Empire
+Corp: United Society Starfleet
+Ship: Harpy
+Weapon: Harpy
+
+Name: BECKARD
+Security: 5.0
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Oortog
+Security: 4.0
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Pilgrim
+Weapon: Valkyrie II
+
+Name: Sebesria
+Security: 5.0
+Alliance: Axiom Empire
+Corp: United Society Starfleet
+Ship: Crusader
+Weapon: Dual Light Beam Laser II
+
+Name: CulVar
+Security: 2.4
+Alliance: Axiom Empire
+Corp: Regalis Industria Scientia Entreprendre
+Ship: Rifter
+Weapon: Bloodclaw Light Missile
+
+Name: SN 1121666
+Security: 0.9
+Alliance: Axiom Empire
+Corp: Regalis Industria Scientia Entreprendre
+Ship: Rifter
+Weapon: Bloodclaw Light Missile
+
+Name: Meeat
+Security: 4.1
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Raptor
+Weapon: Bloodclaw Light Missile
+
+Name: Elaine Marley
+Security: -8.3
+Alliance: Aftermath Alliance
+Corp: Master Miners
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Sadness
+Security: 4.8
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Hong Jiansen
+Security: 1.6
+Alliance: Corelum Syndicate
+Corp: Coreli Corporation
+Ship: Taranis
+Weapon: E5 Prototype Energy Vampire
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 58
+Widowmaker Heavy Missile, Qty: 29
+'Arbalest' Heavy Missile Launcher
+'Arbalest' Heavy Missile Launcher
+'Arbalest' Heavy Missile Launcher
+'Malkuth' Heavy Missile Launcher I
+Large Shield Extender I
+Large Shield Extender I
+Invulnerability Field I
+Shield Power Relay I
+Type-D Power Core Modification: Diagnostic System
+Medium 'Knave' I Energy Drain (Cargo)
+Thunderbolt Heavy Missile, Qty: 1004 (Cargo)
+Widowmaker Heavy Missile, Qty: 1000 (Cargo)
+

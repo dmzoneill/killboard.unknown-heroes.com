@@ -1,0 +1,41 @@
+2007.03.23 05:11
+
+Victim: Daenethx
+Alliance: Xelas Alliance
+Corp: Fallen Angel's
+Destroyed: Vexor
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: truefranco (laid the final blow)
+Security: 4.7
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Simon Monkoto
+Security: 4.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Ferox
+Weapon: Scourge Heavy Missile
+
+
+Destroyed items:
+
+Small Nosferatu I
+Light Neutron Blaster II
+Void S, Qty: 74
+Warp Disruptor I
+Stasis Webifier I
+Energized Adaptive Nano Membrane II
+Corpse, Qty: 2 (Cargo)
+Antimatter Charge S, Qty: 6031 (Cargo)
+Wasp I (Cargo)
+Acolyte I, Qty: 8 (Cargo)
+Infiltrator I, Qty: 3 (Cargo)
+Void S, Qty: 680 (Cargo)
+

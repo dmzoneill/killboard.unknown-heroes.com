@@ -1,0 +1,141 @@
+2006.12.12 22:09
+
+Victim: Sil330
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Raven
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: whisk (laid the final blow)
+Security: -0.5
+Alliance: None
+Corp: 0utbreak
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: ScoRpS
+Security: 1.9
+Alliance: None
+Corp: 0utbreak
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: neur0n
+Security: -1.3
+Alliance: None
+Corp: 0utbreak
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: siliconix
+Security: -1.0
+Alliance: None
+Corp: 0utbreak
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: MOS DEF
+Security: 0.9
+Alliance: None
+Corp: 0utbreak
+Ship: Rokh
+Weapon: 425mm Railgun II
+
+Name: Sarsha
+Security: 4.8
+Alliance: None
+Corp: 0utbreak
+Ship: Rokh
+Weapon: 350mm Railgun II
+
+Name: superscarface
+Security: 2.5
+Alliance: None
+Corp: 0utbreak
+Ship: Abaddon
+Weapon: Tachyon Anode Particle Stream I
+
+Name: Leilani Solaris
+Security: -1.4
+Alliance: None
+Corp: 0utbreak
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Tadis
+Security: 1.1
+Alliance: None
+Corp: 0utbreak
+Ship: Megathron
+Weapon: Megathron
+
+Name: ALPHA12125
+Security: 1.7
+Alliance: None
+Corp: 0utbreak
+Ship: Megathron
+Weapon: 425mm Carbide Railgun I
+
+Name: KilRoy076
+Security: -1.6
+Alliance: None
+Corp: 0utbreak
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Saal Iverson
+Security: 4.4
+Alliance: None
+Corp: 0utbreak
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Pilgrippa
+Security: -1.4
+Alliance: None
+Corp: 0utbreak
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Mindlles
+Security: -0.1
+Alliance: None
+Corp: 0utbreak
+Ship: Megathron
+Weapon: 350mm Railgun II
+
+Name: O'Ren Ishi
+Security: 0.0
+Alliance: None
+Corp: Yumpalistic Industrial
+Ship: Buzzard
+Weapon: Low Frequency Sensor Suppressor I
+
+Name: Krugerrand
+Security: -0.2
+Alliance: None
+Corp: 0utbreak
+Ship: Vagabond
+Weapon: Dual 180mm AutoCannon II
+
+
+Destroyed items:
+
+Heavy 'Ghoul' Energy Siphon I
+Cataclysm Cruise Missile, Qty: 23
+Devastator Cruise Missile, Qty: 45
+XT-9000 Cruise Launcher
+XT-9000 Cruise Launcher
+Photon Scattering Field II
+F-90 Positional Sensor Subroutines
+Additional Thermal Barrier Emitter I
+Target Painter I
+Ballistic Control System II
+Ballistic Control System II
+Wrath Cruise Missile, Qty: 2022 (Cargo)
+Devastator Cruise Missile, Qty: 1092 (Cargo)
+Cataclysm Cruise Missile, Qty: 1071 (Cargo)
+

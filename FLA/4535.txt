@@ -1,0 +1,32 @@
+2007.04.13 07:12
+
+Victim: Skull Fire
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Badger
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Ferocious FeAr (laid the final blow)
+Security: 1.5
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Nighthawk
+Weapon: Scourge Heavy Missile
+
+Name: Wladomir Jed
+Security: 3.7
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Eagle
+Weapon: Eagle
+
+
+Destroyed items:
+
+Prototype Cloaking Device I
+1MN MicroWarpdrive I
+Warp Core Stabilizer I
+

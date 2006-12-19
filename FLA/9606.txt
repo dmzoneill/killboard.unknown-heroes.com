@@ -1,0 +1,31 @@
+2007.05.20 10:28
+
+Victim: duandian
+Alliance: None
+Corp: State War Academy
+Destroyed: Ibis
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Lee Thrace (laid the final blow)
+Security: 0.0
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Hyperion
+Weapon: 425mm Railgun II
+
+Name: Ocara Nezus
+Security: 1.5
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+
+Destroyed items:
+
+Civilian Gatling Railgun
+Basic Miner
+

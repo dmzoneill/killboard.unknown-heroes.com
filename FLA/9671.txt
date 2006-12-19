@@ -1,0 +1,80 @@
+2007.05.22 15:41
+
+Victim: KYLE PROTON
+Alliance: Exuro Mortis
+Corp: The Burning Orphans
+Destroyed: Dominix
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Commander XXX
+Security: 0.9
+Alliance: DeStInY.
+Corp: The Knights Of Camelot
+Ship: Myrmidon
+Weapon: Ogre II
+
+Name: articz
+Security: -0.3
+Alliance: DeStInY.
+Corp: House Of Aaron
+Ship: Tempest
+Weapon: Tempest
+
+Name: Corovus (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+Name: Natasha Cos
+Security: 2.8
+Alliance: Forces of Freedom
+Corp: Starlancers
+Ship: Taranis
+Weapon: Hobgoblin II
+
+Name: batista bomb
+Security: 2.4
+Alliance: DeStInY.
+Corp: Legion Federation
+Ship: Dominix
+Weapon: Wasp I
+
+Name: Serzath
+Security: 5.0
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Alch3mik
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: Comrade SHAHS
+Security: 4.8
+Alliance: DeStInY.
+Corp: Legion Federation
+Ship: Raptor
+Weapon: Flameburst Light Missile
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Medium Nosferatu I
+Heavy 'Knave' I Energy Drain
+Medium 'Knave' I Energy Drain
+100MN MicroWarpdrive I
+N-Type EM Hardener I
+N-Type Explosive Hardener I
+Cap Booster 800, Qty: 18 (Cargo)
+Hobgoblin I, Qty: 10 (Drone Bay)
+

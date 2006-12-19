@@ -1,0 +1,40 @@
+2007.04.27 07:12
+
+Victim: Coop
+Alliance: Lotka Volterra
+Corp: CRICE Corporation
+Destroyed: Capsule
+System: F7C-H0
+Security: 0.0
+
+Involved parties:
+
+Name: Lizzon (laid the final blow)
+Security: 5.0
+Alliance: Guardian Federation
+Corp: KULT Production
+Ship: Ishkur
+Weapon: Light Neutron Blaster II
+
+Name: Calvin Andros
+Security: 1.9
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Brutix
+Weapon: Regulated Neutron Phase Cannon I
+
+Name: The Cade
+Security: 1.9
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Brutix
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: Draconian Arcane
+Security: -2.5
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Tempest
+Weapon: XT-9000 Cruise Launcher
+
+

@@ -1,0 +1,34 @@
+2007.01.14 08:04
+
+Victim: Rev Darkwing
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Blackbird
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: SATAN (laid the final blow)
+Security: -0.7
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+
+Destroyed items:
+
+250mm Railgun I
+Plutonium Charge M, Qty: 38
+Scourge Heavy Missile, Qty: 29
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+10MN Afterburner I
+Warp Disruptor I
+Warp Disruptor I
+X5 Prototype I Engine Enervator
+ECM Burst I
+Compulsive Multispectral ECM I
+Quantum Co-Processor I
+

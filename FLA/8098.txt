@@ -1,0 +1,28 @@
+2006.10.10 00:13
+
+Victim: Skornik
+Alliance: Freelancer Alliance
+Corp: BGG
+Destroyed: Thorax
+System: Sobaseki
+Security: 0.8
+
+Involved parties:
+
+Name: Danno (laid the final blow)
+Security: -1.4
+Alliance: None
+Corp: Privateers
+Ship: Vexor
+Weapon: Garde I
+
+
+Destroyed items:
+
+Heavy Electron Blaster I
+Heavy Electron Blaster I
+Antimatter Charge M, Qty: 368
+10MN MicroWarpdrive I
+Microcell Nanite Explosive Hardener I
+Hammerhead I, Qty: 4 (Drone Bay)
+

@@ -1,0 +1,40 @@
+2007.01.11 03:03
+
+Victim: KriegDrachen
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Destroyed: Sabre
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: XxAngelxX (laid the final blow)
+Security: 5.0
+Alliance: None
+Corp: 0utbreak
+Ship: Zealot
+Weapon: Heavy Pulse Laser II
+
+
+Destroyed items:
+
+150mm Light AutoCannon II
+150mm Light AutoCannon II
+150mm Light AutoCannon II
+Barrage S, Qty: 231
+Warp Disrupt Probe
+Warp Disrupt Probe
+Warp Disrupt Probe
+Warp Disrupt Probe
+Warp Disrupt Probe
+Warp Disrupt Probe
+Warp Disrupt Probe
+Warp Disrupt Probe
+Interdiction Sphere Launcher I
+Fleeting Warp Scrambler I
+Fleeting Propulsion Inhibitor I
+F-90 Positional Sensor Subroutines
+Gyrostabilizer II
+Warp Disrupt Probe, Qty: 32 (Cargo)
+

@@ -1,0 +1,40 @@
+2007.03.09 18:59
+
+Victim: VDV Bru37
+Alliance: YouWhat
+Corp: Beasts of Burden
+Destroyed: Capsule
+System: XZH-4X
+Security: 0.0
+
+Involved parties:
+
+Name: Jonas123 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Ferox
+Weapon: 250mm 'Scout' I Accelerator Cannon
+
+Name: Gabrielle Gabet
+Security: 0.0
+Alliance: GoonSwarm
+Corp: The Theta Project
+Ship: Capsule
+Weapon: Merlin
+
+Name: xCOUNTx
+Security: 0.0
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Merlin
+Weapon: Flameburst Light Missile
+
+Name: Easy Kill
+Security: 4.0
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Cynabal
+Weapon: Dual 180mm AutoCannon II
+
+

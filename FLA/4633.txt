@@ -1,0 +1,88 @@
+2007.04.16 01:52
+
+Victim: Derik Walts
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Caracal
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Primaxin (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Harbingers of Sarrow
+Ship: Ferox
+Weapon: Havoc Heavy Missile
+
+Name: Kayron Brennan
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Caracal
+Weapon: Thunderbolt Heavy Missile
+
+Name: dastommy79
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Thorax
+Weapon: Thorax
+
+Name: coldkill
+Security: 1.9
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Thorax
+Weapon: Heavy Neutron Blaster II
+
+Name: Frau Formaggio
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ishkur
+Weapon: Hobgoblin II
+
+Name: Teck7
+Security: 1.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Thorax
+Weapon: Hammerhead I
+
+Name: alon blackhelm
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Ferox
+Weapon: 'Arbalest' Heavy Missile Launcher
+
+Name: Skull Fire
+Security: 0.8
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Caracal
+Weapon: XR-3200 Heavy Missile Bay
+
+Name: Kartock Maar
+Security: 2.1
+Alliance: Freelancer Alliance
+Corp: Harbingers of Sarrow
+Ship: Enyo
+Weapon: Enyo
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 27
+Thunderbolt Heavy Missile, Qty: 54
+Widowmaker Heavy Missile, Qty: 27
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Y-S8 Hydrocarbon I Afterburners
+Magnetic Scattering Amplifier I
+Heat Dissipation Amplifier I
+Warp Core Stabilizer I
+

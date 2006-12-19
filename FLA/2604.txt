@@ -1,0 +1,28 @@
+2007.02.26 13:47
+
+Victim: Genvu Daikanta
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Destroyed: Crow
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Chode Rizoum (laid the final blow)
+Security: -1.9
+Alliance: None
+Corp: Temptation inc.
+Ship: Typhoon
+Weapon: Berserker II
+
+
+Destroyed items:
+
+Standard Missile Launcher II
+Cap Recharger II
+Gistii A-Type 1MN MicroWarpdrive
+Micro Auxiliary Power Core I
+Type-D Altered SS Nanofiber Structure
+Type-D Altered SS Nanofiber Structure
+

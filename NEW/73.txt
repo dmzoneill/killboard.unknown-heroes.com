@@ -1,0 +1,83 @@
+2007.01.05 22:43
+
+Victim: Koetje II
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Cyclone
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: DHB WildCat
+Security: -1.4
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+Name: Masta Killa
+Security: -1.7
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+Name: Captain Rickdick (laid the final blow)
+Security: -0.1
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+Name: ETS4ME
+Security: 0.6
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+Name: Heinky
+Security: 2.5
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Abaddon
+Weapon: Tachyon Beam Laser II
+
+Name: Mordocik
+Security: -0.7
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Typhoon
+Weapon: Dread Guristas Warp Disruptor
+
+Name: SATAN
+Security: -0.9
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Capsule
+Weapon: Warrior II
+
+Name: Lemlins Craken
+Security: -0.4
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Remote Sensor Dampener II
+
+
+Destroyed items:
+
+250mm Carbide Railgun I
+Tungsten Charge M, Qty: 65
+Scourge Heavy Missile, Qty: 54
+Heavy Missile Launcher I
+Large F-S9 Regolith Shield Induction
+Large Clarity Ward Booster I
+Magnetic Scattering Amplifier I
+Additional Thermal Barrier Emitter I
+Kinetic Deflection Amplifier I
+Damage Control I
+Power Diagnostic System I
+Hornet I, Qty: 2 (Drone Bay)
+Vespa I, Qty: 3 (Drone Bay)

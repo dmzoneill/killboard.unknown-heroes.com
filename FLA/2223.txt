@@ -1,0 +1,159 @@
+2007.01.28 18:15
+
+Victim: Goca
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Destroyed: Raven
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Mr Staberinde
+Security: 0.2
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Sleipnir
+Weapon: Sleipnir
+
+Name: dr shark
+Security: 1.8
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Muninn
+Weapon: Muninn
+
+Name: Valora
+Security: 2.4
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: EL TITAN
+Security: 1.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Lucy Fur
+Security: 2.8
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Beast Hun
+Security: 4.7
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Abaddon
+Weapon: Abaddon
+
+Name: Memphisz
+Security: 0.3
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Letum Omnis (laid the final blow)
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Hyperion
+Weapon: 425mm Railgun II
+
+Name: RagedyMan
+Security: 1.9
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Nighthawk
+Weapon: Scourge Heavy Missile
+
+Name: Biosourcy
+Security: 4.8
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: RogerWilco
+Security: 3.3
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Enyo
+Weapon: Enyo
+
+Name: Misticue
+Security: -1.5
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Crow
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: Marschall
+Security: 2.1
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Ka Dargo
+Security: 4.4
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Sir JoJo
+Security: 2.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Huginn
+Weapon: Huginn
+
+Name: Repiv
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+Name: Bone Collector44
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: DTee
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Crow
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+
+Destroyed items:
+
+Heavy 'Knave' I Energy Drain
+Cataclysm Cruise Missile, Qty: 15
+Paradise Cruise Missile, Qty: 30
+XT-9000 Cruise Launcher
+'Limos' Cruise Launcher I
+'Limos' Cruise Launcher I
+'Limos' Cruise Launcher I
+X-Large Shield Booster II
+Invulnerability Field I
+Sensor Booster II
+Shield Boost Amplifier I
+Damage Control I
+Ballistic Control System II
+Power Diagnostic System II
+Devastator Cruise Missile, Qty: 200 (Cargo)
+Paradise Cruise Missile, Qty: 1500 (Cargo)
+Phoenix F.O.F. Cruise Missile I, Qty: 100 (Cargo)
+Hunter F.O.F. Cruise Missile I, Qty: 100 (Cargo)
+

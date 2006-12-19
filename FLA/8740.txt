@@ -1,0 +1,67 @@
+2006.12.10 00:01
+
+Victim: Shiftless
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Caracal
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: XxAngelxX
+Security: 5.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Zealot
+Weapon: Zealot
+
+Name: taylor04 (laid the final blow)
+Security: -1.9
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Vagabond
+Weapon: Piranha Light Missile
+
+Name: the willyb
+Security: -2.3
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Taranis
+Weapon: Taranis
+
+Name: Jimmycs83
+Security: -2.3
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Taranis
+Weapon: Taranis
+
+Name: Dr Wahoos
+Security: -4.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Tristan
+Weapon: Tristan
+
+Name: WarGod
+Security: -2.1
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Badger Mark II
+Weapon: ECM - Multispectral Jammer I
+
+Name: Dire Guristas Murderer / Guristas
+
+
+Destroyed items:
+
+'Malkuth' Assault Missile Launcher I
+'Malkuth' Assault Missile Launcher I
+'Arbalest' Assault Missile Launcher
+Medium Azeotropic Ward Salubrity I
+Medium Converse I Deflection Catalyzer
+Induced Multispectral ECM I
+Multi Sensor Backup Array I
+Ballistic Control System I
+

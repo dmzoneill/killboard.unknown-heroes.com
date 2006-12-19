@@ -1,0 +1,61 @@
+2006.07.12 17:12
+
+Victim: Fletcher Vardy
+Alliance: Sparta Alliance
+Corp: T.E.C II
+Destroyed: Mammoth
+System: N2IS-B
+Security: 0.0
+
+Involved parties:
+
+Name: Jumar Coldgin
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Harpy
+Weapon: Harpy
+
+Name: Cazziel
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Megathron
+Weapon: 425mm 'Scout' I Accelerator Cannon
+
+Name: Zakru Anul
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: KHM Corporation
+Ship: Megathron
+Weapon: Megathron
+
+Name: Capt Cali (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: London Transport
+Ship: Cerberus
+Weapon: Thunderbolt Heavy Missile
+
+Name: Wolfman Apocalypse
+Security: 2.0
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Caracal
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+Name: MAD D0G
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: DEATH 0R GLORY
+Ship: Raven
+Weapon: Siege Missile Launcher I
+
+
+Destroyed items:
+
+Plutonium Charge S, Qty: 40
+Prototype Cloaking Device I
+Sensor Booster I
+Warp Core Stabilizer I
+

@@ -1,0 +1,62 @@
+2007.01.30 13:36
+
+Victim: ArmagedonLT
+Alliance: None
+Corp: Blood Sweat and Tears
+Destroyed: Crusader
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: WolfRavage (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Hyperion
+Weapon: 425mm Railgun I
+
+Name: Minisoza
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Enyo
+Weapon: Hobgoblin II
+
+Name: Nukuquqa Hestase
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Catalyst
+Weapon: Catalyst
+
+Name: FlobbMkII
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Taranis
+Weapon: Taranis
+
+Name: Tnam
+Security: 1.1
+Alliance: None
+Corp: BGG
+Ship: Jaguar
+Weapon: 150mm Light AutoCannon II
+
+Name: EvilBadger
+Security: 4.2
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Drake
+Weapon: 'Arbalest' Heavy Missile Launcher
+
+
+Destroyed items:
+
+Gatling Pulse Laser II, Qty: 3
+Multifrequency S, Qty: 3
+Phased Monopropellant I Hydrazine Boosters
+J5 Prototype Warp Inhibitor I
+Nanofiber Internal Structure I
+Capacitor Power Relay I

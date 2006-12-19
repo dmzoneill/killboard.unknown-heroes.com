@@ -1,0 +1,25 @@
+2007.05.17 20:33
+
+Victim: Mairi
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Destroyed: Procurer
+System: Aunenen
+Security: 0.4
+
+Involved parties:
+
+Name: N64211319 (laid the final blow)
+Security: 0.1
+Alliance: None
+Corp: SPARTAN Peacekeeping Force
+Ship: Manticore
+Weapon: Paradise Cruise Missile
+
+Name: Guristas Demolisher / Guristas
+
+
+Destroyed items:
+
+Expanded Cargohold I
+

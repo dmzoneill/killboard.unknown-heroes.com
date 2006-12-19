@@ -1,0 +1,51 @@
+2007.05.19 13:45
+
+Victim: alon blackhelm
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Destroyed: Drake
+System: Onatoh
+Security: 0.3
+
+Involved parties:
+
+Name: Gaia Thorn
+Security: -10.0
+Alliance: None
+Corp: Infestation.
+Ship: Eos
+Weapon: Heavy Ion Blaster II
+
+Name: Xeonuz (laid the final blow)
+Security: -9.3
+Alliance: None
+Corp: Infestation.
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Katanaha
+Security: -1.5
+Alliance: None
+Corp: Infestation.
+Ship: Scorpion
+Weapon: Paradise Cruise Missile
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Havoc Heavy Missile, Qty: 54
+Advanced 'Limos' Heavy Missile Bay I
+Advanced 'Limos' Heavy Missile Bay I
+Advanced 'Limos' Heavy Missile Bay I
+Advanced 'Limos' Heavy Missile Bay I
+Large Shield Extender II
+Large Shield Booster II
+Invulnerability Field II
+Damage Control II
+Co-Processor II
+Type-D Power Core Modification: Diagnostic System
+Mark I Generator Refitting: Diagnostic System
+Scourge Heavy Missile, Qty: 46 (Cargo)
+Widowmaker Heavy Missile, Qty: 935 (Cargo)
+

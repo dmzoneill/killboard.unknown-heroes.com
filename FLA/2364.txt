@@ -1,0 +1,70 @@
+2007.02.06 21:04
+
+Victim: EvilBadger
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Blackbird
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: LordPhoenix
+Security: 2.2
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Tempest
+Weapon: Tempest
+
+Name: KristeL (laid the final blow)
+Security: 2.1
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Claw
+Weapon: 200mm AutoCannon II
+
+Name: Kafei
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Claw
+Weapon: Claw
+
+Name: Freia Lenneth
+Security: 2.8
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Claw
+Weapon: 150mm Light AutoCannon II
+
+Name: papaPadla
+Security: 4.1
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Stiletto
+Weapon: Gremlin Rocket
+
+Name: Meja
+Security: 2.3
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Myrmidon
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: Lord WarATron
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Rokh
+Weapon: Rokh
+
+
+Destroyed items:
+
+Flameburst Light Missile, Qty: 60
+Assault Missile Launcher I
+'Hypnos' Multispectral ECM I
+Induced Multispectral ECM I
+Induced Multispectral ECM I
+Prototype I Sensor Booster
+

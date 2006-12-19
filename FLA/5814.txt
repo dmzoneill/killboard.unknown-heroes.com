@@ -1,0 +1,80 @@
+2006.10.22 14:40
+
+Victim: Jenessa
+Alliance: Triumvirate.
+Corp: D00M.
+Destroyed: Taranis
+System: MI6O-6
+Security: 0.0
+
+Involved parties:
+
+Name: 31i73 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+Name: freestrike
+Security: 5.9
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Sattracer
+Security: 3.8
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Caracal
+Weapon: Thunderbolt Heavy Missile
+
+Name: casama
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Crusader
+Weapon: Dual Light Beam Laser II
+
+Name: TiMeZeRo225
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: J.I.T. Enterprises
+Ship: Raven
+Weapon: Target Painter I
+
+Name: Minesweeper
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Stiletto
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: Gamer1K
+Security: 3.8
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Rook
+Weapon: ECM - Multispectral Jammer II
+
+Name: Fritze
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Blackbird
+Weapon: Advanced 'Limos' Heavy Missile Bay I
+
+
+Destroyed items:
+
+Light Ion Blaster II
+Cynosural Field Generator I
+Null S, Qty: 360
+1MN MicroWarpdrive I
+Warp Disruptor I
+Small Armor Repairer II (Cargo)
+Micro Auxiliary Power Core I (Cargo)
+Null S, Qty: 850 (Cargo)
+Infiltrator I (Drone Bay)
+

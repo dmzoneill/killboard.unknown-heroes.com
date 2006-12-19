@@ -1,0 +1,37 @@
+2006.08.01 21:53
+
+Victim: Laboratus
+Alliance: Freelancer Alliance
+Corp: BGG
+Destroyed: Celestis
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Sym D (laid the final blow)
+Security: 1.3
+Alliance: None
+Corp: SpaceBalls Navy
+Ship: Vexor
+Weapon: Vespa II
+
+Name: airspace
+Security: 1.4
+Alliance: None
+Corp: SpaceBalls Navy
+Ship: Brutix
+Weapon: Warrior II
+
+
+Destroyed items:
+
+200mm Compressed Coil Gun I
+Iridium Charge M, Qty: 58
+Thunderbolt Heavy Missile, Qty: 26
+Kapteyn Sensor Array Inhibitor I
+Indirect Scanning Dampening Unit I
+Energized Adaptive Nano Membrane II
+Havoc Heavy Missile, Qty: 467 (Cargo)
+Warrior II (Drone Bay)
+

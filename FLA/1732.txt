@@ -1,0 +1,31 @@
+2007.01.02 04:56
+
+Victim: Nova Paradise
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Crow
+System: Isseras
+Security: 0.6
+
+Involved parties:
+
+Name: Fjerkenstad (laid the final blow)
+Security: -1.7
+Alliance: None
+Corp: omen.
+Ship: Taranis
+Weapon: Light Neutron Blaster II
+
+
+Destroyed items:
+
+Small Diminishing Power System Drain I
+Thorn Rocket, Qty: 21
+Rocket Launcher II
+Gistii A-Type 1MN Afterburner
+Faint Epsilon Warp Prohibitor I
+Micro 'Vigor' I Core Augmentation
+Ballistic Control System II
+Thorn Rocket, Qty: 10164 (Cargo)
+Thorn Rage Rocket, Qty: 10633 (Cargo)
+

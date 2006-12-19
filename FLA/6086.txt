@@ -1,0 +1,38 @@
+2006.11.07 10:56
+
+Victim: Rebeb
+Alliance: None
+Corp: Kraktech Industries
+Destroyed: Ferox
+System: P-2TTL
+Security: 0.0
+
+Involved parties:
+
+Name: Dog Cancer (laid the final blow)
+Security: 1.4
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+Havoc Heavy Missile, Qty: 22
+Scourge Heavy Missile, Qty: 22
+Thunderbolt Heavy Missile, Qty: 22
+Heavy Missile Launcher I
+Small Supplemental Barrier Emitter I
+Medium Shield Booster I
+Cap Booster 100
+Cap Booster 100
+Cap Booster 100
+400mm Reinforced Titanium Plates I
+400mm Reinforced Steel Plates I
+Thunderbolt Heavy Missile, Qty: 440 (Cargo)
+Seeker F.O.F. Light Missile I, Qty: 100 (Cargo)
+Heavy Missile Launcher I, Qty: 2 (Cargo)
+Assault Missile Launcher I (Cargo)
+Warrior I (Drone Bay)
+

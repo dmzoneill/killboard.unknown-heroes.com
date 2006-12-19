@@ -1,0 +1,51 @@
+2006.08.29 20:47
+
+Victim: Nav O'Thronic
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Destroyed: Dominix
+System: OWXT-5
+Security: 0.0
+
+Involved parties:
+
+Name: Thaard Bof't
+Security: -3.7
+Alliance: Process of Elimination
+Corp: Occassus Republica
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Edoo
+Security: -0.4
+Alliance: Process of Elimination
+Corp: Occassus Republica
+Ship: Ishtar
+Weapon: Ishtar
+
+Name: Cod Ball (laid the final blow)
+Security: 0.0
+Alliance: Process of Elimination
+Corp: Occassus Republica
+Ship: Ishtar
+Weapon: Berserker I
+
+
+Destroyed items:
+
+Dual 250mm Prototype I Gauss Gun
+350mm Compressed Coil Gun I
+350mm Compressed Coil Gun I
+Uranium Charge L, Qty: 71
+Thorium Charge L, Qty: 148
+Drone Link Augmentor I
+Eutectic I Capacitor Charge Array
+F-b10 Nominal Capacitor Regenerator
+F-b10 Nominal Capacitor Regenerator
+Magnetometric Backup Array I
+1600mm Reinforced Rolled Tungsten Plates I
+Uranium Charge L, Qty: 350 (Cargo)
+Ogre II (Drone Bay)
+Hobgoblin II (Drone Bay)
+Praetor I, Qty: 2 (Drone Bay)
+

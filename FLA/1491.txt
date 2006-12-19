@@ -1,0 +1,43 @@
+2007.03.14 12:03
+
+Victim: Jophin Harpt
+Alliance: None
+Corp: KHAOS-BLADE
+Destroyed: Nemesis
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: MrMaggot
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Hawk
+Weapon: Sabretooth Light Missile
+
+Name: Gerakis (laid the final blow)
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Raven
+Weapon: Mjolnir Torpedo
+
+Name: Cockroach
+Security: 4.8
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Zealot
+Weapon: Zealot
+
+
+Destroyed items:
+
+Light Electron Blaster II
+Prototype Cloaking Device I
+Void S, Qty: 400
+Devastator Cruise Missile, Qty: 17
+'Arbalest' Cruise Launcher I
+Reactor Control Unit I
+Amarr Shuttle Blueprint (Cargo)
+

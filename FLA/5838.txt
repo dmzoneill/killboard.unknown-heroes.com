@@ -1,0 +1,62 @@
+2006.10.23 20:10
+
+Victim: Insomnious
+Alliance: R.I.S.K
+Corp: ReD eYe Inc.
+Destroyed: Ares
+System: MI6O-6
+Security: 0.0
+
+Involved parties:
+
+Name: freestrike
+Security: 5.9
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Eagle
+Weapon: Assault Missile Launcher II
+
+Name: Hojo Norem
+Security: 2.8
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Ferox
+Weapon: Scourge Heavy Missile
+
+Name: Gamer1K (laid the final blow)
+Security: 3.9
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Rook
+Weapon: Scourge Heavy Missile
+
+Name: Loore
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Megathron
+Weapon: Megathron
+
+Name: Minesweeper
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: fastwind
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: VentureCorp
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+
+Destroyed items:
+
+Lead Charge S, Qty: 80
+Piranha Light Missile, Qty: 46
+TE-2100 Standard Missile Bay
+Small Armor Repairer II
+Piranha Light Missile, Qty: 758 (Cargo)
+

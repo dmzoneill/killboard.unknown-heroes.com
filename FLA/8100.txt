@@ -1,0 +1,19 @@
+2006.10.10 00:29
+
+Victim: Scorpio63
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Destroyed: Capsule
+System: Jita
+Security: 0.9
+
+Involved parties:
+
+Name: Danno (laid the final blow)
+Security: -1.4
+Alliance: None
+Corp: Privateers
+Ship: Apocalypse
+Weapon: Tachyon Beam Laser II
+
+

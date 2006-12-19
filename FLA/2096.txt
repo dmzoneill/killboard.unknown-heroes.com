@@ -1,0 +1,28 @@
+2007.01.20 00:50
+
+Victim: Gengen Wer
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Brutix
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: David Godfrey (laid the final blow)
+Security: 3.7
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Thanatos
+Weapon: Dragonfly
+
+
+Destroyed items:
+
+250mm Railgun I
+Antimatter Charge M, Qty: 58
+Medium Armor Repairer I
+Armor Explosive Hardener I
+Vespa I, Qty: 2 (Cargo)
+Vespa I, Qty: 3 (Drone Bay)
+

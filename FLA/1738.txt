@@ -1,0 +1,54 @@
+2007.01.02 06:03
+
+Victim: Solis Ragyogas
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Destroyed: Myrmidon
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: WarGod
+Security: 1.2
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: Kru5ty (laid the final blow)
+Security: -1.8
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Vagabond
+Weapon: 220mm Medium 'Scout' Autocannon I
+
+Name: Anna Neura
+Security: -0.2
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Arazu
+Weapon: Hammerhead II
+
+Name: K Shara
+Security: 4.7
+Alliance: None
+Corp: Deep Core Mining Inc.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+200mm Railgun I
+200mm Railgun I
+200mm Railgun I
+Iridium Charge M, Qty: 240
+Omni Positional ECCM Sensor System I
+Emergency Damage Control I
+Medium Armor Repairer II
+N-Type Explosive Hardener I
+Iridium Charge M, Qty: 5520 (Cargo)
+Antimatter Charge M, Qty: 2800 (Cargo)
+Cap Booster 800, Qty: 6 (Cargo)
+

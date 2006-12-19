@@ -1,0 +1,47 @@
+2006.11.23 03:18
+
+Victim: DONJUAN v
+Alliance: Eternal Empire
+Corp: Tarnak inc.
+Destroyed: Rupture
+System: JU-OWQ
+Security: 0.0
+
+Involved parties:
+
+Name: Bobby Atlas (laid the final blow)
+Security: 3.7
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Megathron
+Weapon: Modal Mega Neutron Particle Accelerator I
+
+Name: Ayumi Hasegawa
+Security: 3.1
+Alliance: None
+Corp: Dark Horizons
+Ship: Apocalypse
+Weapon: Tachyon Modulated Energy Beam I
+
+Name: Hanshi Angel
+Security: 4.5
+Alliance: Chorus of Dawn
+Corp: Independent Frontiers
+Ship: Raven
+Weapon: Target Painter I
+
+
+Destroyed items:
+
+425mm AutoCannon I
+EMP M, Qty: 47
+Piranha Light Missile, Qty: 36
+Assault Missile Launcher I
+10MN Afterburner I
+Warp Disruptor I
+F-M3 Munition Inertial Suspensor
+Warp Core Stabilizer I
+Warp Core Stabilizer I
+800mm Reinforced Nanofiber Plates I
+Piranha Light Missile, Qty: 274 (Cargo)
+

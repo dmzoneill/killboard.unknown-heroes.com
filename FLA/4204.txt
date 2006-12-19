@@ -1,0 +1,26 @@
+2007.04.04 04:26
+
+Victim: Njord V
+Alliance: Freelancer Alliance
+Corp: Blackwater Squadron
+Destroyed: Stiletto
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Redginald (laid the final blow)
+Security: 4.5
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Hurricane
+Weapon: Warrior II
+
+
+Destroyed items:
+
+Small 'Knave' I Energy Drain
+1MN MicroWarpdrive II
+F-90 Positional Sensor Subroutines
+Type-D Altered SS Overdrive Injector
+

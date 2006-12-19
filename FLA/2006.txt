@@ -1,0 +1,26 @@
+2007.01.16 17:51
+
+Victim: Nova Paradise
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Capsule
+System: HED-GP
+Security: 0.0
+
+Involved parties:
+
+Name: Red Templar (laid the final blow)
+Security: 5.0
+Alliance: Stain Empire
+Corp: Xenobytes
+Ship: Sabre
+Weapon: 200mm AutoCannon II
+
+Name: BigDaddyxD
+Security: 1.4
+Alliance: Against ALL Authorities
+Corp: VVS Corporition
+Ship: Taranis
+Weapon: 125mm Railgun II
+
+

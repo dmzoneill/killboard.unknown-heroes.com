@@ -1,0 +1,110 @@
+2007.04.27 22:17
+
+Victim: dastommy79
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Destroyed: Raven
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Wraithstorm
+Security: 3.1
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Dominix
+Weapon: Heavy Diminishing Power System Drain I
+
+Name: ZeroGrav
+Security: 3.2
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Terdlinger
+Security: 5.0
+Alliance: Storm Armada
+Corp: stone grave haulage
+Ship: Raven
+Weapon: Inferno Javelin Torpedo
+
+Name: Savak
+Security: 0.2
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Screamer
+Security: 0.9
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Raven
+Weapon: Cataclysm Cruise Missile
+
+Name: Konson
+Security: 3.7
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Retribution
+Weapon: Retribution
+
+Name: Bothius (laid the final blow)
+Security: 0.4
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Catalyst
+Weapon: 150mm Railgun I
+
+Name: Vlad Cetes
+Security: 5.0
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Blackbird
+Weapon: Bloodclaw Light Missile
+
+Name: Aut Nihil
+Security: 0.1
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Thorax
+Weapon: Thorax
+
+Name: Elrid Barnes
+Security: 1.8
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Moa
+Weapon: Moa
+
+Name: tomuch
+Security: 2.9
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Celestis
+Weapon: Remote Sensor Dampener I
+
+Name: Fitz Farseer
+Security: 0.5
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Bestower
+Weapon: Phased Muon Sensor Disruptor I
+
+
+Destroyed items:
+
+Large Asymmetric Barrier Transpositioner I
+E500 Prototype Energy Vampire
+Devastator Cruise Missile, Qty: 32
+'Limos' Cruise Launcher I
+'Limos' Cruise Launcher I
+'Limos' Cruise Launcher I
+Sensor Booster I
+Armor Explosive Hardener I
+1600mm Reinforced Rolled Tungsten Plates I
+Devastator Cruise Missile, Qty: 1344 (Cargo)
+Cataclysm Cruise Missile, Qty: 5000 (Cargo)
+

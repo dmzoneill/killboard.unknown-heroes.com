@@ -1,0 +1,40 @@
+2006.09.30 15:50
+
+Victim: BM'n Biatch
+Alliance: None
+Corp: Science and Trade Institute
+Destroyed: Gallente Shuttle
+System: K4YZ-Y
+Security: 0.0
+
+Involved parties:
+
+Name: Narny
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: Chiizukeeki (laid the final blow)
+Security: 3.3
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery I
+
+Name: kone on
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Stiletto
+Weapon: 150mm Light AutoCannon II
+
+Name: other mickey
+Security: 0.8
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Tristan
+Weapon: Light Electron Blaster I
+
+

@@ -1,0 +1,56 @@
+2007.01.20 00:47
+
+Victim: Alski
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Celestis
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Unfortunate Accident
+Security: -1.9
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Megathron
+Weapon: Megathron
+
+Name: WarGod (laid the final blow)
+Security: 1.4
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Naglfar
+Weapon: Thor Torpedo I
+
+Name: ukpAgAn
+Security: 5.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: aadom
+Security: 3.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Tempest
+Weapon: 1400mm Gallium I Cannon
+
+
+Destroyed items:
+
+Small Graviton Smartbomb I
+Bloodclaw Light Missile, Qty: 17
+Assault Missile Launcher I
+Cap Booster 800
+Remote Sensor Dampener I
+Remote Sensor Dampener I
+Remote Sensor Dampener I
+Medium Armor Repairer I
+Medium Armor Repairer I
+Cap Booster 800, Qty: 6 (Cargo)
+Bloodclaw Light Missile, Qty: 4760 (Cargo)
+Hornet EC-300, Qty: 4 (Drone Bay)
+Medium Armor Maintenance Bot I (Drone Bay)
+

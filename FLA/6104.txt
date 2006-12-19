@@ -1,0 +1,61 @@
+2006.11.07 22:28
+
+Victim: Nathan W
+Alliance: None
+Corp: Beer Guzzling Clowns With Blasters
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: LC Sulla (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: bidman
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Harpy
+Weapon: 125mm Railgun I
+
+Name: Dog Cancer
+Security: 1.4
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Crow
+Weapon: Sabretooth Light Missile
+
+Name: Velithe
+Security: 2.0
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Crow
+Weapon: Stasis Webifier I
+
+Name: Scorpio63
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Vengeance
+Weapon: X5 Prototype I Engine Enervator
+
+Name: Hava StormBringerr
+Security: 1.8
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Malediction
+Weapon: Dual Light Pulse Laser II
+
+Name: Elfaen Ethenwe
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Rook
+Weapon: Heavy Missile Launcher II
+
+

@@ -1,0 +1,55 @@
+2007.04.17 22:06
+
+Victim: Ghu'ru Talozan
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Ishtar
+System: Dodixie
+Security: 0.9
+
+Involved parties:
+
+Name: Thimoin
+Security: 2.4
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Unknown
+Weapon: Warp Disruptor II
+
+Name: Vilhelm Tell
+Security: -1.3
+Alliance: Privateer Alliance
+Corp: Captain Morgan Society
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: H Zub (laid the final blow)
+Security: -1.6
+Alliance: Privateer Alliance
+Corp: Captain Morgan Society
+Ship: Eos
+Weapon: Heavy Ion Blaster II
+
+Name: Elric TheWhite
+Security: -0.9
+Alliance: Privateer Alliance
+Corp: Captain Morgan Society
+Ship: Claymore
+Weapon: Thunderbolt Heavy Missile
+
+
+Destroyed items:
+
+E50 Prototype Energy Vampire
+Light Electron Blaster II
+Void S, Qty: 166
+10MN MicroWarpdrive II
+Phased Muon Sensor Disruptor I
+Phased Muon Sensor Disruptor I
+True Sansha Medium Armor Repairer
+Tracking Computer II (Cargo)
+True Sansha Armor EM Hardener (Cargo)
+Berserker II, Qty: 4 (Drone Bay)
+Warrior II, Qty: 3 (Drone Bay)
+Ogre II, Qty: 5 (Drone Bay)
+

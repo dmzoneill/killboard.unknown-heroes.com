@@ -1,0 +1,68 @@
+2007.02.13 23:12
+
+Victim: MohamedLoftie
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Destroyed: Curse
+System: KLY-C0
+Security: 0.0
+
+Involved parties:
+
+Name: Misconte (laid the final blow)
+Security: -7.5
+Alliance: None
+Corp: A.N.A.R.C.H.I.C.A
+Ship: Drake
+Weapon: Scourge Fury Heavy Missile
+
+Name: Arexius
+Security: -3.3
+Alliance: None
+Corp: A.N.A.R.C.H.I.C.A
+Ship: Taranis
+Weapon: Taranis
+
+Name: Morrigu V
+Security: -3.6
+Alliance: None
+Corp: A.N.A.R.C.H.I.C.A
+Ship: Scorpion
+Weapon: Infiltrator I
+
+Name: Kilburn
+Security: -7.5
+Alliance: None
+Corp: A.N.A.R.C.H.I.C.A
+Ship: Raven
+Weapon: Wrath Cruise Missile
+
+Name: Scarlet X
+Security: -6.9
+Alliance: None
+Corp: A.N.A.R.C.H.I.C.A
+Ship: Ferox
+Weapon: Scourge Heavy Missile
+
+Name: DRIZZZ
+Security: -7.8
+Alliance: None
+Corp: A.N.A.R.C.H.I.C.A
+Ship: Hurricane
+Weapon: J5 Prototype Warp Inhibitor I
+
+
+Destroyed items:
+
+Medium 'Knave' I Energy Drain
+Medium 'Knave' I Energy Drain
+Medium 'Knave' I Energy Drain
+Medium 'Ghoul' Energy Siphon I
+Local Hull Conversion Inertial Stabilizers I
+Type-D Altered SS Inertial Stabilizers
+Type-D Altered SS Nanofiber Structure
+Type-D Altered SS Nanofiber Structure
+Nocxium, Qty: 137 (Cargo)
+Pseudoelectron Containment Field I (Cargo)
+Hammerhead II, Qty: 3 (Drone Bay)
+

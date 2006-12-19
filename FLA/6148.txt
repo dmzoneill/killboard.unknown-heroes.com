@@ -1,0 +1,32 @@
+2006.11.09 01:37
+
+Victim: Woman 76753
+Alliance: None
+Corp: Science and Trade Institute
+Destroyed: Ibis
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Voyageur (laid the final blow)
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Ship: Rapier
+Weapon: 720mm Howitzer Artillery II
+
+Name: Cobra Raider
+Security: -2.5
+Alliance: Imperial Republic Of the North
+Corp: Port Royal Independent Kontractors
+Ship: Taranis
+Weapon: Warp Disruptor I
+
+
+Destroyed items:
+
+Civilian Gatling Railgun
+Basic Miner
+Tritanium (Cargo)
+

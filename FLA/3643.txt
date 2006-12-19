@@ -1,0 +1,33 @@
+2007.03.28 12:46
+
+Victim: Chuni
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Destroyed: Gallente Shuttle
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Eelim Garak (laid the final blow)
+Security: 1.3
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Curse
+Weapon: Hobgoblin II
+
+Name: Sorju Mai
+Security: -0.3
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Lachesis
+Weapon: Fleeting Warp Scrambler I
+
+Name: Frostbeule
+Security: 2.9
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Sabre
+Weapon: Sabre
+
+

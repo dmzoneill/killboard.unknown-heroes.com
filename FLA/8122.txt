@@ -1,0 +1,58 @@
+2006.10.11 22:11
+
+Victim: Excaluber X
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Destroyed: Ashimmu
+System: Hatakani
+Security: 0.9
+
+Involved parties:
+
+Name: Harmon Illuminati
+Security: -0.2
+Alliance: None
+Corp: Privateers
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Sorted
+Security: -1.8
+Alliance: None
+Corp: Privateers
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: 1337pwner (laid the final blow)
+Security: -1.3
+Alliance: None
+Corp: Privateers
+Ship: Brutix
+Weapon: Dual 150mm 'Scout' I Accelerator Cannon
+
+Name: birty
+Security: -0.4
+Alliance: None
+Corp: Privateers
+Ship: Brutix
+Weapon: Hammerhead I
+
+
+Destroyed items:
+
+Focused Afocal Medium Maser I
+Small Nosferatu I
+Gamma M
+Cap Recharger I
+Emergency Damage Control I
+50mm Reinforced Rolled Tungsten Plates I
+Civilian Shield Booster I (Cargo)
+Y-S8 Hydrocarbon I Afterburners, Qty: 2 (Cargo)
+Residual Survey Scanner I (Cargo)
+Passive Targeter I (Cargo)
+Hammerhead I (Cargo)
+Valkyrie I, Qty: 6 (Cargo)
+Omni Positional ECCM Sensor System I (Cargo)
+Tracking Link I (Cargo)
+Bloodclaw Light Missile, Qty: 940 (Cargo)
+

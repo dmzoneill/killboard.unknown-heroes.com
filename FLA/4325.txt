@@ -1,0 +1,61 @@
+2007.04.08 03:53
+
+Victim: Prodigal IV
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Destroyed: Dominix
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: FowlPlayChiken (laid the final blow)
+Security: 1.2
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Thanatos
+Weapon: Firbolg
+
+Name: Sedith
+Security: 1.7
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Aeon
+Weapon: Ogre I
+
+Name: bsspewer
+Security: 2.5
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Archon
+Weapon: Einherji
+
+Name: Admentus Cor'vion
+Security: -0.5
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Dominix
+Weapon: E50 Prototype Energy Vampire
+
+
+Destroyed items:
+
+E500 Prototype Energy Vampire
+250mm Railgun II
+250mm Railgun II
+Antimatter Charge M, Qty: 48
+J5 Prototype Warp Inhibitor I
+X5 Prototype I Engine Enervator
+'Hypnos' Multispectral ECM I
+Large Armor Repairer II
+Medium Armor Repairer II
+N-Type Explosive Hardener I
+N-Type Explosive Hardener I
+N-Type Thermic Hardener I
+Antimatter Charge M, Qty: 2720 (Cargo)
+Hornet II, Qty: 2 (Drone Bay)
+Hobgoblin II (Drone Bay)
+Vespa II (Drone Bay)
+Hammerhead II (Drone Bay)
+Berserker I (Drone Bay)
+

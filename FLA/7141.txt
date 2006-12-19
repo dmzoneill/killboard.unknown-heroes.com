@@ -1,0 +1,30 @@
+2006.12.28 05:19
+
+Victim: mr passie
+Alliance: None
+Corp: Purgatorial Janitors Inc.
+Destroyed: Reaper
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: NOCLUE (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: X.T.R
+Ship: Raven
+Weapon: Wrath Cruise Missile
+
+Name: Sattracer
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: X.T.R
+Ship: Buzzard
+Weapon: Buzzard
+
+
+Destroyed items:
+
+Tritanium (Cargo)
+

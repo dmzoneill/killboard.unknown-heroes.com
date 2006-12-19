@@ -1,0 +1,47 @@
+2007.03.31 08:19
+
+Victim: Njord V
+Alliance: Freelancer Alliance
+Corp: Blackwater Squadron
+Destroyed: Gallente Shuttle
+System: P-2TTL
+Security: 0.0
+
+Involved parties:
+
+Name: Tripline
+Security: 1.4
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Taranis
+Weapon: Taranis
+
+Name: Sauron Starcrusher (laid the final blow)
+Security: 3.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Wladomir Jed
+Security: 3.7
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Rook
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+Name: PMolkenthin
+Security: -0.7
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Taranis
+Weapon: Taranis
+
+Name: Ferocious FeAr
+Security: 1.5
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+

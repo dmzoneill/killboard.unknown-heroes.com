@@ -1,0 +1,65 @@
+2007.03.23 07:22
+
+Victim: Simon Monkoto
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Thorax
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Xordus
+Security: 1.6
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Harbinger
+Weapon: Harbinger
+
+Name: VDV Bru37 (laid the final blow)
+Security: 5.0
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Drake
+Weapon: Scourge Fury Heavy Missile
+
+Name: Sexorella hotz
+Security: 5.0
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Raven
+Weapon: 'Arbalest' Cruise Launcher I
+
+Name: Lord Revent
+Security: 1.5
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: xargis
+Security: 5.0
+Alliance: YouWhat
+Corp: Pringles Inc.
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Vasili Z
+Security: 0.4
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Rapier
+Weapon: Vespa EC-600
+
+
+Destroyed items:
+
+Light Electron Blaster II
+Light Electron Blaster II
+Light Electron Blaster II
+Antimatter Charge S, Qty: 744
+Energized Adaptive Nano Membrane I
+Type-D Power Core Modification: Capacitor Power Relay
+Antimatter Charge S, Qty: 1000 (Cargo)
+Hammerhead I, Qty: 3 (Drone Bay)
+

@@ -1,0 +1,35 @@
+2007.02.24 17:34
+
+Victim: Muad' Dib
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Destroyed: Raptor
+System: YZ-LQL
+Security: 0.0
+
+Involved parties:
+
+Name: Colwyn Amicus
+Security: -9.1
+Alliance: Anarchy Empire
+Corp: Team Americas
+Ship: Huginn
+Weapon: Huginn
+
+Name: Drunkperson (laid the final blow)
+Security: -9.3
+Alliance: Anarchy Empire
+Corp: Team Americas
+Ship: Curse
+Weapon: Valkyrie II
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 33
+Fleeting Warp Scrambler I
+Inertia Stabilizers I
+Inertia Stabilizers I
+Local Power Plant Manager: Capacity Power Relay I
+Bloodclaw Light Missile, Qty: 994 (Cargo)
+

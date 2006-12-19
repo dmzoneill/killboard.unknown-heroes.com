@@ -1,0 +1,70 @@
+2007.03.04 19:21
+
+Victim: Kahn shaca
+Alliance: United Confederation of Corporations
+Corp: S-Mart LLC
+Destroyed: Myrmidon
+System: Alparena
+Security: 0.1
+
+Involved parties:
+
+Name: VoYvod (laid the final blow)
+Security: -0.6
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Armageddon
+Weapon: Dual Heavy Pulse Laser I
+
+Name: Kiara Diepp
+Security: -2.5
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Tuschii
+Security: 0.4
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Dominix
+Weapon: Hammerhead I
+
+Name: Jesnen
+Security: -0.9
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Sacrilege
+Weapon: Sacrilege
+
+Name: skitz blitz
+Security: -1.5
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Wolf
+Weapon: Wolf
+
+
+Destroyed items:
+
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Heavy Ion Blaster I
+Dual 150mm Compressed Coil Gun I
+Antimatter Charge M, Qty: 160
+Large F-S9 Regolith Shield Induction
+Large C5-L Emergency Shield Overload I
+10MN MicroWarpdrive I
+Medium Brief Capacitor Overcharge I
+Cap Booster 75, Qty: 10
+Nanofiber Internal Structure I
+Mark I Modified SS Nanofiber Structure
+Reactor Control Unit I
+Antimatter Charge M, Qty: 3263 (Cargo)
+Valkyrie II, Qty: 6 (Drone Bay)
+Infiltrator II (Drone Bay)
+

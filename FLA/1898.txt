@@ -1,0 +1,57 @@
+2007.01.09 03:54
+
+Victim: SFTI
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Hyperion
+System: E-FIC0
+Security: 0.0
+
+Involved parties:
+
+Name: Guristas Eradicator / Guristas
+
+Name: XxAngelxX (laid the final blow)
+Security: 5.0
+Alliance: None
+Corp: 0utbreak
+Ship: Zealot
+Weapon: Heavy Pulse Laser II
+
+Name: K Shara
+Security: 4.7
+Alliance: None
+Corp: 0utbreak
+Ship: Crow
+Weapon: Sabretooth Light Missile
+
+
+Destroyed items:
+
+425mm Prototype I Gauss Gun
+425mm Railgun II
+425mm Railgun II
+Antimatter Charge S, Qty: 11
+Antimatter Charge L, Qty: 26
+Spike L, Qty: 58
+Scourge Heavy Missile, Qty: 23
+'Malkuth' Heavy Missile Launcher I
+100MN Afterburner II
+Beta Reactor Control: Capacitor Power Relay I
+Large Shield Extender I (Cargo)
+Large Shield Booster I, Qty: 2 (Cargo)
+Medium F-4a Ld-Sulfate I Capacitor Charge Unit (Cargo)
+Medium Ld-Acid Capacitor Battery I (Cargo)
+350mm Railgun I (Cargo)
+Medium Capacitor Booster I (Cargo)
+Antimatter Charge L, Qty: 14 (Cargo)
+Antimatter Charge S, Qty: 59 (Cargo)
+Scourge Heavy Missile, Qty: 473 (Cargo)
+Hunter F.O.F. Cruise Missile I, Qty: 100 (Cargo)
+Cruise Missile Launcher I (Cargo)
+Siege Missile Launcher I (Cargo)
+Type-D Power Core Modification: Capacitor Power Relay (Cargo)
+Local Power Plant Manager: Capacitor Flux I (Cargo)
+Beta Reactor Control: Capacitor Flux I, Qty: 4 (Cargo)
+Reactor Control Unit I (Cargo)
+

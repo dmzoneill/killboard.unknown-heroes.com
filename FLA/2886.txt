@@ -1,0 +1,69 @@
+2007.03.14 18:51
+
+Victim: EM00
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Destroyed: Caracal
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Ion Bartzabel
+Security: -0.1
+Alliance: Eternal Rapture
+Corp: Temptation inc.
+Ship: Megathron
+Weapon: Megathron
+
+Name: Solid Wilko (laid the final blow)
+Security: -1.7
+Alliance: Eternal Rapture
+Corp: Quantum Synergies
+Ship: Hurricane
+Weapon: 425mm AutoCannon II
+
+Name: Donald Trump
+Security: -1.7
+Alliance: Eternal Rapture
+Corp: Temptation inc.
+Ship: Typhoon
+Weapon: Typhoon
+
+Name: Smith9001
+Security: 0.3
+Alliance: Eternal Rapture
+Corp: Quantum Synergies
+Ship: Harbinger
+Weapon: Harbinger
+
+Name: Gliding
+Security: -1.9
+Alliance: Eternal Rapture
+Corp: Quantum Synergies
+Ship: Astarte
+Weapon: Astarte
+
+Name: Jack Archer
+Security: -1.5
+Alliance: Eternal Rapture
+Corp: Quantum Synergies
+Ship: Taranis
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: Chode Rizoum
+Security: -2.1
+Alliance: Eternal Rapture
+Corp: Temptation inc.
+Ship: Myrmidon
+Weapon: Warp Disruptor II
+
+
+Destroyed items:
+
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Large Shield Extender I
+Large Shield Extender I
+

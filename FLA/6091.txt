@@ -1,0 +1,33 @@
+2006.11.07 14:18
+
+Victim: Exo 7
+Alliance: Interstellar Starbase Syndicate
+Corp: KHAOS-BLADE
+Destroyed: Capsule
+System: P-2TTL
+Security: 0.0
+
+Involved parties:
+
+Name: Hosanna (laid the final blow)
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Claw
+Weapon: 150mm Light AutoCannon II
+
+Name: WolfRavage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Ishkur
+Weapon: 125mm Railgun II
+
+Name: yagamurth
+Security: 1.2
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Crusader
+Weapon: Warp Disruptor I
+
+

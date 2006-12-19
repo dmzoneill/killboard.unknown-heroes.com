@@ -1,0 +1,74 @@
+2007.03.10 16:43
+
+Victim: chiefwigen
+Alliance: None
+Corp: R.H. Umbrella Corporation
+Destroyed: Exequror
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Inter Fectum (laid the final blow)
+Security: 2.0
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery I
+
+Name: RubberDuckey
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Blackwater Squadron
+Ship: Curse
+Weapon: Hammerhead II
+
+Name: mrrabit
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Tempest
+Weapon: 'Malkuth' Cruise Launcher I
+
+Name: other mickey
+Security: 2.9
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Ares
+Weapon: Ares
+
+Name: Banishment
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Sin-X Inc.
+Ship: Incursus
+Weapon: Incursus
+
+Name: Jisela
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Feel Good Inc.
+Ship: Scorpion
+Weapon: ECM - Multispectral Jammer I
+
+Name: BelinuS
+Security: 4.8
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Scorpion
+Weapon: Cruise Missile Launcher I
+
+Name: Admiral Hunter
+Security: 4.5
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Ishkur
+Weapon: Fleeting Warp Scrambler I
+
+
+Destroyed items:
+
+Cap Recharger I
+Cap Recharger I
+Cap Recharger I
+

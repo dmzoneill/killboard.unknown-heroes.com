@@ -1,0 +1,50 @@
+2007.03.05 19:57
+
+Victim: DoGzy
+Alliance: United Confederation of Corporations
+Corp: Mindstar Technology
+Destroyed: Apocalypse
+System: Alparena
+Security: 0.1
+
+Involved parties:
+
+Name: Njalli
+Security: -3.3
+Alliance: None
+Corp: Gr0und Zer0
+Ship: Dominix
+Weapon: Ogre II
+
+Name: Jesnen (laid the final blow)
+Security: -1.5
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Harbinger
+Weapon: Focused Medium Pulse Laser II
+
+Name: skitz blitz
+Security: -1.5
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Wolf
+Weapon: Wolf
+
+
+Destroyed items:
+
+Tachyon Beam Laser II
+Multifrequency S
+Bane Torpedo, Qty: 25
+Gleam L
+Gleam L
+'Arbalest' Siege Missile Launcher
+Cap Recharger II
+Cap Recharger II
+Cap Recharger II
+Armor Explosive Hardener II
+Gamma L, Qty: 2 (Cargo)
+Bane Torpedo, Qty: 555 (Cargo)
+Mjolnir Torpedo, Qty: 545 (Cargo)
+Conflagration S, Qty: 3 (Cargo)
+

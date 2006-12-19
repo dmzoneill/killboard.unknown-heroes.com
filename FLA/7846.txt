@@ -1,0 +1,26 @@
+2006.09.11 23:28
+
+Victim: TheBelgarion
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Sergejus Clegg (laid the final blow)
+Security: 2.0
+Alliance: R.I.S.K
+Corp: The First Foundation
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+Name: Dred Cartman
+Security: 1.4
+Alliance: R.I.S.K
+Corp: FIGHTER'S WITHOUT RULES
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+

@@ -1,0 +1,87 @@
+2007.01.19 00:39
+
+Victim: Kateryne
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Destroyed: Armageddon
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: WarGod (laid the final blow)
+Security: 1.7
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Darknesss
+Security: 0.5
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Megathron
+Weapon: Fleeting Warp Scrambler I
+
+Name: Unfortunate Accident
+Security: -1.9
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: simcor
+Security: -1.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Dominix
+Weapon: Berserker II
+
+Name: Jenessa
+Security: 1.1
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Muninn
+Weapon: 720mm Howitzer Artillery II
+
+Name: McGin
+Security: -3.6
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Tempest Fleet Issue
+Weapon: Ogre I
+
+Name: ArchenTheGreat
+Security: -2.2
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Dominix
+Weapon: Ogre II
+
+Name: boo3916
+Security: 4.6
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Dominix
+Weapon: 200mm Railgun II
+
+
+Destroyed items:
+
+Dual Heavy Beam Laser I
+Dual Heavy Beam Laser I
+Dual Heavy Beam Laser I
+Medium Nosferatu I
+Gamma L
+Gamma L
+Gamma L
+Gamma L
+Gamma L
+Gamma L
+F-90 Positional Sensor Subroutines
+Tracking Computer II
+Heat Sink II
+Heat Sink II
+Microwave L, Qty: 5 (Cargo)
+Valkyrie II, Qty: 10 (Drone Bay)
+

@@ -1,0 +1,61 @@
+2006.11.09 14:53
+
+Victim: Narny
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Destroyed: Caracal
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Murdoch Morf
+Security: -0.3
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Megathron
+Weapon: Ogre I
+
+Name: Darknesss (laid the final blow)
+Security: -0.6
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Megathron
+Weapon: Neutron Blaster Cannon II
+
+Name: GoLdeN BoY
+Security: 1.4
+Alliance: None
+Corp: Beer Guzzling Clowns With Blasters
+Ship: Scorpion
+Weapon: 'Malkuth' Cruise Launcher I
+
+Name: Lord KesH
+Security: 2.7
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: KrTo
+Security: 2.5
+Alliance: None
+Corp: Beer Guzzling Clowns With Blasters
+Ship: Dominix
+Weapon: Initiated Warp Jammer I
+
+
+Destroyed items:
+
+Heavy Missile Launcher II
+Medium Shield Booster II
+Alumel-Wired I Sensor Augmentation
+Magnetic Scattering Amplifier II
+Target Painter I
+Target Painter I
+Warp Core Stabilizer I
+Ballistic Control System I
+Thunderbolt Fury Heavy Missile, Qty: 963 (Cargo)
+Havoc Precision Heavy Missile, Qty: 964 (Cargo)
+Havoc Fury Heavy Missile, Qty: 901 (Cargo)
+

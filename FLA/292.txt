@@ -1,0 +1,56 @@
+2007.01.22 14:40
+
+Victim: baggi0
+Alliance: None
+Corp: Viziam
+Destroyed: Vengeance
+System: 7RM-N0
+Security: 0.0
+
+Involved parties:
+
+Name: wimmste
+Security: 2.3
+Alliance: Phoenix Allianz
+Corp: Jagdkommando
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Claude Equel
+Security: 2.2
+Alliance: Phoenix Allianz
+Corp: Jagdkommando
+Ship: Myrmidon
+Weapon: Hobgoblin II
+
+Name: Kelborn Rostu
+Security: 2.2
+Alliance: Phoenix Allianz
+Corp: Jagdkommando
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Kateryne (laid the final blow)
+Security: -0.6
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Hound
+Weapon: Devastator Cruise Missile
+
+Name: Goratschin Igor
+Security: 1.2
+Alliance: Phoenix Allianz
+Corp: Jagdkommando
+Ship: Blackbird
+Weapon: Compulsive Ion Field ECM I
+
+
+Destroyed items:
+
+Xray S
+Xray S
+Warp Disruptor I
+F-392 Baker Nunn Targeting Scrambler
+Nanomechanical CPU Enhancer I
+Power Diagnostic System I
+

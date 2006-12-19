@@ -1,0 +1,44 @@
+2007.03.23 21:05
+
+Victim: SynTx
+Alliance: None
+Corp: 4StR4L rid3R2
+Destroyed: Amarr Navy Slicer
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: demotar (laid the final blow)
+Security: 4.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Rapier
+Weapon: 650mm Medium Carbine Howitzer I
+
+Name: Daressek
+Security: 3.7
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Flycatcher
+Weapon: Rocket Launcher II
+
+
+Destroyed items:
+
+Medium Shield Extender II
+F85 Peripheral Damage System I
+Beta Reactor Control: Capacitor Power Relay I
+J5 Prototype Warp Inhibitor I, Qty: 4 (Cargo)
+Patterned Stasis Web I (Cargo)
+Modal Mega Ion Particle Accelerator I, Qty: 4 (Cargo)
+Large Shield Extender I Blueprint (Cargo)
+Ion Blaster Cannon I Blueprint (Cargo)
+Neutron Blaster Cannon I Blueprint (Cargo)
+Focus (Cargo)
+Clarity (Cargo)
+Infomorph Psychology (Cargo)
+Small Secure Container (Cargo)
+Hardwiring - Inherent Implants 'Highwall' HX-1 (Cargo)
+Neural Boost - Basic (Cargo)
+

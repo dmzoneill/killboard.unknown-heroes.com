@@ -1,0 +1,48 @@
+2006.10.05 16:30
+
+Victim: rockerguy
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Destroyed: Vengeance
+System: Litiura
+Security: 0.5
+
+Involved parties:
+
+Name: Slave 775 (laid the final blow)
+Security: -1.6
+Alliance: None
+Corp: Privateers
+Ship: Thorax
+Weapon: Light Neutron Blaster II
+
+Name: Onin Ra
+Security: 1.1
+Alliance: None
+Corp: Privateers
+Ship: Megathron
+Weapon: Hammerhead I
+
+Name: SLAPNUTZ
+Security: -1.8
+Alliance: None
+Corp: Privateers
+Ship: Typhoon
+Weapon: Cruise Missile Launcher I
+
+Name: Na'no
+Security: 0.0
+Alliance: None
+Corp: Privateers
+Ship: Caracal
+Weapon: ECM - Multispectral Jammer I
+
+
+Destroyed items:
+
+Aurora S
+Fleeting Progressive Warp Scrambler I
+Compulsive Multispectral ECM I
+Shadow Serpentis Energized Magnetic Membrane (Cargo)
+Armor Kinetic Hardener I (Cargo)
+

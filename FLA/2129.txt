@@ -1,0 +1,28 @@
+2007.01.23 18:41
+
+Victim: EM00
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Destroyed: Incursus
+System: P-2TTL
+Security: 0.0
+
+Involved parties:
+
+Name: ArchenTheGreat (laid the final blow)
+Security: -2.1
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Thorax
+Weapon: Heavy Ion Blaster II
+
+
+Destroyed items:
+
+125mm Railgun I
+125mm Railgun I
+Antimatter Charge S, Qty: 80
+Warp Disruptor I
+Signal Amplifier I
+Antimatter Charge S, Qty: 770 (Cargo)
+

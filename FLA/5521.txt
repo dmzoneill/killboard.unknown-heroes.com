@@ -1,0 +1,129 @@
+2006.10.07 00:41
+
+Victim: TehLipitor
+Alliance: None
+Corp: Deep Core Mining Inc.
+Destroyed: Mastodon
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: DarkJester
+Security: 0.7
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Tempest
+Weapon: Tempest
+
+Name: Flashh Gorden
+Security: 1.9
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Ship: Ferox
+Weapon: Widowmaker Heavy Missile
+
+Name: avelution (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: BladeMos
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Rook
+Weapon: Scourge Heavy Missile
+
+Name: TasKu
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Thorax
+Weapon: Thorax
+
+Name: jarson
+Security: -0.3
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Claw
+Weapon: Thorn Rocket
+
+Name: Ian Storme
+Security: 2.0
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Ship: Ferox
+Weapon: Hornet I
+
+Name: Demarcus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Ferox
+Weapon: Thunderbolt Heavy Missile
+
+Name: Kyoshisan
+Security: 0.4
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Enyo
+Weapon: Enyo
+
+Name: Seventh Star
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Jaguar
+Weapon: Flameburst Light Missile
+
+Name: Cockroach
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Malediction
+Weapon: Malediction
+
+Name: Kismeteer
+Security: 3.4
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Incursus
+Weapon: Incursus
+
+Name: forever faithless
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Rifter
+Weapon: Flameburst Light Missile
+
+Name: Slinktress
+Security: 1.7
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Ishkur
+Weapon: Valkyrie I
+
+Name: movy
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: Scorpio63
+Security: 4.8
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Retribution
+Weapon: Retribution
+
+
+Destroyed items:
+
+Nitrogen Isotopes, Qty: 28657 (Cargo)
+Liquid Ozone, Qty: 700 (Cargo)
+

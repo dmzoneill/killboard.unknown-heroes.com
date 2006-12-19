@@ -1,0 +1,37 @@
+2007.03.03 19:11
+
+Victim: Misha Ka
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Destroyed: Badger Mark II
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Maefly (laid the final blow)
+Security: 0.2
+Alliance: None
+Corp: Bottomfeeders Inc
+Ship: Megathron
+Weapon: 425mm 'Scout' I Accelerator Cannon
+
+Name: Atomic Mayhem
+Security: -0.8
+Alliance: None
+Corp: Bottomfeeders Inc
+Ship: Pilgrim
+Weapon: Infiltrator I
+
+Name: Dire Guristas Despoiler / Guristas
+
+
+Destroyed items:
+
+Miner I
+Ditrigonal Thermal Barrier Crystallization I
+'Anointed' I EM Ward Reinforcement
+Magnetic Scattering Amplifier I
+Warp Core Stabilizer I
+Dense Veldspar, Qty: 840 (Cargo)
+

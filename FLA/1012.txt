@@ -1,0 +1,157 @@
+2007.03.03 05:00
+
+Victim: Azsy
+Alliance: Firmus Ixion
+Corp: Band of Builders Inc.
+Destroyed: Hurricane
+System: 3-FKCZ
+Security: 0.0
+
+Involved parties:
+
+Name: KROTCHYtheKLOWN
+Security: 4.1
+Alliance: EVE Animal Control
+Corp: F.R.E.E. Explorer
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: Beldarius
+Security: 5.0
+Alliance: Ekliptika
+Corp: MetaForge
+Ship: Armageddon
+Weapon: Mega Beam Laser II
+
+Name: Amarazo
+Security: 0.1
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: xzo
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Brutix
+Weapon: Infiltrator II
+
+Name: Zaric
+Security: 4.6
+Alliance: EVE Animal Control
+Corp: F.R.E.E. Explorer
+Ship: Unknown
+Weapon: Heavy Assault Missile Launcher II
+
+Name: Chuck Dawg
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Apple Boy
+Security: 3.1
+Alliance: RAZOR Alliance
+Corp: Thundercats
+Ship: Capsule
+Weapon: Patterned Stasis Web I
+
+Name: JFxSummoner
+Security: 3.6
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Eagle
+Weapon: Eagle
+
+Name: Domunos
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Brutix
+Weapon: Hobgoblin II
+
+Name: POPLUTE
+Security: 3.8
+Alliance: Pure.
+Corp: Obsidian Asylum
+Ship: Stabber
+Weapon: Stabber
+
+Name: Lucian Sulla
+Security: 4.9
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Ares
+Weapon: Ares
+
+Name: Tyrathan Daerwin
+Security: 2.5
+Alliance: Pure.
+Corp: Solarflare Heavy Industries
+Ship: Ishkur
+Weapon: Warrior II
+
+Name: jesia
+Security: 0.0
+Alliance: Pure.
+Corp: Southern Cross Incorporated
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Zimi Vlasic (laid the final blow)
+Security: 2.6
+Alliance: EVE Animal Control
+Corp: F.R.E.E. Explorer
+Ship: Cyclone
+Weapon: Widowmaker Heavy Missile
+
+Name: Mongolia Jones
+Security: 0.5
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: xRyokenx
+Security: -1.1
+Alliance: RAZOR Alliance
+Corp: Roving Guns Inc.
+Ship: Stabber
+Weapon: Stabber
+
+Name: Vaprak Valkier
+Security: 5.0
+Alliance: Pure.
+Corp: J.H.E.N.R
+Ship: Thorax
+Weapon: Thorax
+
+Name: THRASHER23
+Security: -0.9
+Alliance: RAZOR Alliance
+Corp: Cutting Edge Incorporated
+Ship: Megathron
+Weapon: Neutron Blaster Cannon II
+
+
+Destroyed items:
+
+720mm Howitzer Artillery II
+720mm Howitzer Artillery II
+Tremor M, Qty: 40
+Scourge Heavy Missile, Qty: 66
+Advanced 'Limos' Heavy Missile Bay I
+Advanced 'Limos' Heavy Missile Bay I
+J5 Prototype Warp Inhibitor I
+Armor Explosive Hardener II
+Reactor Control Unit II
+Phased Plasma M, Qty: 1200 (Cargo)
+Fusion M, Qty: 1326 (Cargo)
+Nuclear M, Qty: 1500 (Cargo)
+Tremor M, Qty: 1499 (Cargo)
+Quake M, Qty: 1100 (Cargo)
+Thunderbolt Heavy Missile, Qty: 636 (Cargo)
+Hornet I, Qty: 4 (Drone Bay)
+

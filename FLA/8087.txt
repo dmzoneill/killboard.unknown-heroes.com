@@ -1,0 +1,19 @@
+2006.10.09 05:27
+
+Victim: alon blackhelm
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Destroyed: Capsule
+System: Elonaya
+Security: 0.7
+
+Involved parties:
+
+Name: Surreptitious (laid the final blow)
+Security: 0.0
+Alliance: None
+Corp: Privateers
+Ship: Crow
+Weapon: Thorn Rocket
+
+

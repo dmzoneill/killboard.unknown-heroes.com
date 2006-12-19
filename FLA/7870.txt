@@ -1,0 +1,95 @@
+2006.09.22 15:43
+
+Victim: UnAimedPlayer
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Destroyed: Jaguar
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Romanuld
+Security: 1.4
+Alliance: R.I.S.K
+Corp: NODEX Game Group
+Ship: Megathron
+Weapon: 425mm Prototype I Gauss Gun
+
+Name: Sergejus Clegg (laid the final blow)
+Security: 1.4
+Alliance: R.I.S.K
+Corp: The First Foundation
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+Name: foxden
+Security: 4.1
+Alliance: R.I.S.K
+Corp: Russian Specnaz
+Ship: Ferox
+Weapon: Hornet II
+
+Name: CPT UNCLEDR
+Security: 5.0
+Alliance: R.I.S.K
+Corp: Russian Specnaz
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: EDest
+Security: 2.9
+Alliance: R.I.S.K
+Corp: SolaR KillerS
+Ship: Kestrel
+Weapon: Bloodclaw Light Missile
+
+Name: Don Solo
+Security: 2.4
+Alliance: R.I.S.K
+Corp: Russian Specnaz
+Ship: Retribution
+Weapon: Retribution
+
+Name: MADMONSTER
+Security: -2.4
+Alliance: R.I.S.K
+Corp: SolaR KillerS
+Ship: Lachesis
+Weapon: Lachesis
+
+Name: Lighti
+Security: 0.2
+Alliance: R.I.S.K
+Corp: SolaR KillerS
+Ship: Harpy
+Weapon: Harpy
+
+Name: Sadith
+Security: 1.5
+Alliance: R.I.S.K
+Corp: RUS-SAGA
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: KPACAB4Er
+Security: 0.5
+Alliance: R.I.S.K
+Corp: Russian Specnaz
+Ship: Stiletto
+Weapon: Stiletto
+
+
+Destroyed items:
+
+280mm Howitzer Artillery I
+280mm Howitzer Artillery I
+Phased Plasma S, Qty: 18
+Thorn Rocket, Qty: 26
+OE-5200 Rocket Launcher
+Small Clarity Ward Booster I
+1MN Afterburner II
+J5b Phased Prototype Warp Inhibitor I
+Nuclear S, Qty: 320 (Cargo)
+Thorn Rocket, Qty: 124 (Cargo)
+

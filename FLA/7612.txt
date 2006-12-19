@@ -1,0 +1,44 @@
+2006.09.25 02:57
+
+Victim: John Fish
+Alliance: None
+Corp: School of Applied Knowledge
+Destroyed: Caldari Shuttle
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: DevilSlayer
+Security: 3.9
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Thorax
+Weapon: Light Electron Blaster I
+
+Name: stickymicky
+Security: 0.4
+Alliance: Forces of Freedom
+Corp: The Fetts
+Ship: Unknown
+Weapon: Standard Missile Launcher II
+
+Name: toonsterpw (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Tempest
+Weapon: Wrath Cruise Missile
+
+Name: Braxxon
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Rapier
+Weapon: Dread Guristas Stasis Webifier
+
+
+Destroyed items:
+
+Tritanium (Cargo)
+

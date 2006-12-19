@@ -1,0 +1,45 @@
+2007.05.25 18:16
+
+Victim: kriton mercutio
+Alliance: None
+Corp: Free Market Enterprizes
+Destroyed: Ibis
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Corovus (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+Name: Steven FSB
+Security: 3.5
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: articz
+Security: -0.5
+Alliance: DeStInY.
+Corp: House Of Aaron
+Ship: Tempest
+Weapon: Heavy 'Knave' I Energy Drain
+
+Name: Ember Fox
+Security: 1.6
+Alliance: DeStInY.
+Corp: Fusion Enterprises Ltd
+Ship: Jaguar
+Weapon: Jaguar
+
+
+Destroyed items:
+
+Civilian Gatling Railgun
+Tritanium (Cargo)
+

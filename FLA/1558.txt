@@ -1,0 +1,47 @@
+2007.03.16 17:54
+
+Victim: stich626
+Alliance: YouWhat
+Corp: Princeps Corp
+Destroyed: Capsule
+System: O-CNPR
+Security: 0.0
+
+Involved parties:
+
+Name: Shassandra (laid the final blow)
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Myrmidon
+Weapon: Berserker I
+
+Name: Matrixcvd
+Security: 5.0
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Malicel
+Security: 2.6
+Alliance: The Sundering
+Corp: ironwood ink
+Ship: Incursus
+Weapon: Incursus
+
+Name: ISpydeRI
+Security: 5.0
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Drake
+Weapon: Heavy Missile Launcher I
+
+Name: Grimes NC
+Security: 4.8
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Claw
+Weapon: Fleeting Warp Scrambler I
+
+

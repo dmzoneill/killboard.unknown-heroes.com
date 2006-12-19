@@ -1,0 +1,54 @@
+2006.08.10 13:37
+
+Victim: BartLefou
+Alliance: None
+Corp: Warped Mining
+Destroyed: Enyo
+System: VFK-IV
+Security: 0.0
+
+Involved parties:
+
+Name: WhiteBearAQM (laid the final blow)
+Security: 1.7
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Ishtar
+Weapon: Valkyrie II
+
+Name: Cazziel
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Ishkur
+Weapon: Valkyrie II
+
+Name: DrMod
+Security: 4.2
+Alliance: Chorus of Dawn
+Corp: Black Knight Buccaneers
+Ship: Taranis
+Weapon: Acolyte I
+
+Name: Caleb Defiance
+Security: 5.0
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Raptor
+Weapon: 125mm Railgun II
+
+
+Destroyed items:
+
+Small Nosferatu I
+125mm Railgun II
+1MN Afterburner II
+J5b Phased Prototype Warp Inhibitor I
+Small Armor Repairer II
+Warp Core Stabilizer I
+Megacyte, Qty: 60 (Cargo)
+Antimatter Charge S, Qty: 1438 (Cargo)
+Magnetic Field Stabilizer I (Cargo)
+Sharp Crokite, Qty: 2 (Cargo)
+Expanded Cargohold I (Cargo)
+

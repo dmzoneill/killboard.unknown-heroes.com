@@ -1,0 +1,53 @@
+2006.09.09 14:57
+
+Victim: EDest
+Alliance: R.I.S.K
+Corp: SolaR KillerS
+Destroyed: Merlin
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Jumar Coldgin (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Harpy
+Weapon: 125mm Railgun II
+
+Name: Hosanna
+Security: -2.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: Shiri elAzarinres
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Blackbird
+Weapon: Heavy Missile Launcher I
+
+Name: Productioner
+Security: 1.1
+Alliance: None
+Corp: Blackguard Brigade
+Ship: Thorax
+Weapon: Warp Disruptor I
+
+
+Destroyed items:
+
+150mm Railgun I
+150mm Railgun I
+Antimatter Charge S, Qty: 35
+Bloodclaw Light Missile, Qty: 38
+Standard Missile Launcher I
+Small Shield Booster I
+1MN MicroWarpdrive I
+Stasis Webifier I
+Micro Auxiliary Power Core I
+Antimatter Charge S, Qty: 1108 (Cargo)
+

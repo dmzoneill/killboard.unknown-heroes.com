@@ -1,0 +1,42 @@
+2007.02.26 13:56
+
+Victim: digger70
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Destroyed: Caracal
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Donald Trump (laid the final blow)
+Security: -1.8
+Alliance: None
+Corp: Temptation inc.
+Ship: Hurricane
+Weapon: 425mm AutoCannon II
+
+Name: Chode Rizoum
+Security: -1.9
+Alliance: None
+Corp: Temptation inc.
+Ship: Typhoon
+Weapon: Ogre II
+
+
+Destroyed items:
+
+Thunderbolt Heavy Missile, Qty: 36
+Havoc Heavy Missile, Qty: 36
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Large Shield Extender I
+Fleeting Warp Scrambler I
+Stasis Webifier I
+Sensor Booster I
+Warp Core Stabilizer I
+Ballistic Control System I
+Thunderbolt Heavy Missile, Qty: 564 (Cargo)
+Havoc Heavy Missile, Qty: 414 (Cargo)
+

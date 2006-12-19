@@ -1,0 +1,105 @@
+2007.03.31 06:29
+
+Victim: Jaig Maldara
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Destroyed: Mammoth
+System: P-2TTL
+Security: 0.0
+
+Involved parties:
+
+Name: Rhayvn
+Security: 4.5
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Abaddon
+Weapon: Abaddon
+
+Name: Sauron Starcrusher (laid the final blow)
+Security: 3.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Stuart Ward
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Absolution
+Weapon: Absolution
+
+Name: Rahzorus
+Security: 0.9
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+Medium Shield Extender II
+Non-Inertial Ballistic Screen Augmentation I
+Ditrigonal Thermal Barrier Crystallization I
+Corpse (Cargo)
+X-Large Shield Booster II (Cargo)
+Large Clarity Ward Booster I (Cargo)
+Medium Shield Transporter I, Qty: 2 (Cargo)
+Prototype I Freight Sensors (Cargo)
+ML-3 Amphilotite Mining Probe (Cargo)
+Damage Control II (Cargo)
+Large Ld-Acid Capacitor Battery I (Cargo)
+Large I-a Polarized Armor Regenerator (Cargo)
+Large Automated I Carapace Restoration (Cargo)
+Medium I-b Polarized Structural Regenerator (Cargo)
+X5 Prototype I Engine Enervator (Cargo)
+Heavy Nosferatu I (Cargo)
+Medium Rudimentary Concussion Bomb I (Cargo)
+Dual 250mm Compressed Coil Gun I (Cargo)
+250mm 'Scout' I Accelerator Cannon (Cargo)
+Regulated Light Neutron Phase Cannon I (Cargo)
+150mm Railgun II, Qty: 2 (Cargo)
+200mm Carbide Railgun I (Cargo)
+425mm Railgun II, Qty: 8 (Cargo)
+Regulated Neutron Phase Cannon I (Cargo)
+Medium Brief Capacitor Overcharge I (Cargo)
+Heavy Capacitor Booster I, Qty: 2 (Cargo)
+Invulnerability Field II (Cargo)
+Ditrigonal Thermal Barrier Crystallization I (Cargo)
+V-M15 Braced Multispectral Shield Matrix (Cargo)
+Thorium Charge L, Qty: 1069 (Cargo)
+Guardian Iron Charge S, Qty: 840 (Cargo)
+Iron Charge L, Qty: 2224 (Cargo)
+Microwave M, Qty: 2 (Cargo)
+Radio M, Qty: 4 (Cargo)
+Juggernaut Torpedo, Qty: 208 (Cargo)
+Hornet I, Qty: 5 (Cargo)
+Hornet II, Qty: 30 (Cargo)
+Acolyte I, Qty: 2 (Cargo)
+Arbitrator Blueprint, Qty: 2 (Cargo)
+Rokh Blueprint, Qty: 2 (Cargo)
+ECCM - Magnetometric I (Cargo)
+Shielded Magnetometric Backup Cluster I (Cargo)
+Warded Magnetometric Backup Cluster I (Cargo)
+Heat Sink II, Qty: 8 (Cargo)
+Supplemental Scanning CPU I (Cargo)
+Sensor Booster II, Qty: 2 (Cargo)
+Tracking Computer II, Qty: 2 (Cargo)
+Spot Pulsing ECCM I (Cargo)
+Magnetic Field Stabilizer II, Qty: 3 (Cargo)
+Warp Core Stabilizer I, Qty: 5 (Cargo)
+Large I-ax Regenerative Projector (Cargo)
+Large Coaxial Regenerative Projector (Cargo)
+200mm Reinforced Titanium Plates I (Cargo)
+400mm Reinforced Nanofiber Plates I (Cargo)
+400mm Reinforced Rolled Tungsten Plates I (Cargo)
+50mm Reinforced Nanofiber Plates I (Cargo)
+200mm Reinforced Nanofiber Plates I, Qty: 2 (Cargo)
+Giant Secure Container, Qty: 2 (Cargo)
+Spike L, Qty: 10000 (Cargo)
+Javelin L, Qty: 10000 (Cargo)
+Expanded Cargohold II, Qty: 4 (Cargo)
+Power Diagnostic System II (Cargo)
+

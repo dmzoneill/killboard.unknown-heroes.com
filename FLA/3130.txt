@@ -1,0 +1,39 @@
+2007.03.25 06:23
+
+Victim: Athena DeCroux
+Alliance: None
+Corp: Injection.
+Destroyed: Crusader
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Almagar Phog (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Raven
+Weapon: Wrath Cruise Missile
+
+Name: Grape Juice
+Security: -5.8
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Rokh
+Weapon: Ion Blaster Cannon I
+
+
+Destroyed items:
+
+Dual Light Pulse Laser II
+Dual Light Pulse Laser II
+Scorch S
+Scorch S
+Scorch S
+Scorch S
+1MN MicroWarpdrive II
+Fleeting Warp Scrambler I
+Mark I Generator Refitting: Capacitor Power Relay
+Scorch S, Qty: 6 (Cargo)
+

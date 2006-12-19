@@ -1,0 +1,26 @@
+2007.03.24 12:40
+
+Victim: Zastrin
+Alliance: Digital Renegades
+Corp: Digital Fury Corporation
+Destroyed: Capsule
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: MohamedLoftie (laid the final blow)
+Security: -0.8
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Zealot
+Weapon: Heavy Pulse Laser II
+
+Name: Praetorian Mardou
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Crow
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+

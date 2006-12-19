@@ -1,0 +1,19 @@
+2006.04.25 00:11
+
+Victim: DaYoungGun
+Alliance: Serenus Letum
+Corp: Unity Vanguard
+Destroyed: Capsule
+System: CZDJ-1
+Security: 0.0
+
+Involved parties:
+
+Name: TheBelgarion (laid the final blow)
+Security: 2.6
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+

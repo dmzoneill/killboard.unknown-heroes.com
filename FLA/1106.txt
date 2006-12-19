@@ -1,0 +1,65 @@
+2007.03.05 02:48
+
+Victim: Anarchy Core
+Alliance: Aftermath Alliance
+Corp: Dark Nebula Gallente Division
+Destroyed: Ibis
+System: 75FA-Z
+Security: 0.0
+
+Involved parties:
+
+Name: Xantheris (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: Jandeera
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: Lynx Frontier Inc.
+Ship: Eris
+Weapon: 125mm Railgun II
+
+Name: X treme
+Security: 2.2
+Alliance: Zenith Affinity
+Corp: Netquarter
+Ship: Jaguar
+Weapon: 200mm AutoCannon II
+
+Name: Selina VanHool
+Security: 0.8
+Alliance: Dusk and Dawn
+Corp: Cataclysm Enterprises
+Ship: Crow
+Weapon: Fleeting Warp Scrambler I
+
+Name: KateLice
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: Lynx Frontier Inc.
+Ship: Rapier
+Weapon: Patterned Stasis Web I
+
+Name: Desas
+Security: 4.0
+Alliance: Sparta Alliance
+Corp: Black Knight Buccaneers
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+Name: DeerNutz
+Security: -1.0
+Alliance: Dusk and Dawn
+Corp: Infinite Improbability Inc
+Ship: Flycatcher
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+
+Destroyed items:
+
+Basic Miner
+

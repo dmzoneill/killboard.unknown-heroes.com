@@ -1,0 +1,92 @@
+2007.04.22 17:22
+
+Victim: Aridante Lemure
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Destroyed: Thorax
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Rukaz
+Security: 3.1
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Crow
+Weapon: Sabretooth Light Missile
+
+Name: Admentus Cor'vion
+Security: -0.5
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Taranis
+Weapon: Taranis
+
+Name: Shadowjet (laid the final blow)
+Security: -1.3
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: END3R 101
+Security: -0.7
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Malediction
+Weapon: Malediction
+
+Name: ZaKma
+Security: -0.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Astarte
+Weapon: 250mm Railgun II
+
+Name: Raeff
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Eagle
+Weapon: Heavy Missile Launcher II
+
+Name: PRO Gaz
+Security: 3.6
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Sacrilege
+Weapon: Sacrilege
+
+Name: LordMordred
+Security: 0.1
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Curse
+Weapon: E50 Prototype Energy Vampire
+
+Name: Feterous Jolin
+Security: -2.3
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Myrmidon
+Weapon: Myrmidon
+
+Name: Ant5010
+Security: 1.8
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Ishtar
+Weapon: Peripheral Weapon Navigation Diameter
+
+
+Destroyed items:
+
+Heavy Neutron Blaster I
+Heavy Neutron Blaster I
+Antimatter Charge M, Qty: 59
+Iron Charge M, Qty: 164
+Alumel-Wired I Sensor Augmentation
+Energized Adaptive Nano Membrane I
+Energized Adaptive Nano Membrane I
+

@@ -1,0 +1,37 @@
+2006.11.29 15:58
+
+Victim: Jumar Coldgin
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Destroyed: Rook
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Crax McGee (laid the final blow)
+Security: -2.1
+Alliance: None
+Corp: Kemono.
+Ship: Dominix
+Weapon: Praetor I
+
+
+Destroyed items:
+
+Assault Missile Launcher II
+Assault Missile Launcher II
+Assault Missile Launcher II
+Assault Missile Launcher II
+Sabretooth Precision Light Missile, Qty: 218
+Large Peroxide I Capacitor Power Cell
+'Hypnos' Multispectral ECM I
+'Hypnos' Multispectral ECM I
+'Hypnos' Multispectral ECM I
+Sensor Booster II
+F-43 Repeatative Multi-Frequency Backup Sensors
+800mm Reinforced Nanofiber Plates I
+Sabretooth Precision Light Missile, Qty: 600 (Cargo)
+Flameburst Fury Light Missile, Qty: 1000 (Cargo)
+Bloodclaw Precision Light Missile, Qty: 1000 (Cargo)
+

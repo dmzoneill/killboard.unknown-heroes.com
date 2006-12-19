@@ -1,0 +1,57 @@
+2007.02.20 08:45
+
+Victim: SumDum
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Cormorant
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Graies Marquees (laid the final blow)
+Security: 0.7
+Alliance: Lotka Volterra
+Corp: M. Corp
+Ship: Deimos
+Weapon: Heavy Electron Blaster II
+
+Name: Guristas Supremacist / Guristas
+
+
+Destroyed items:
+
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Small Tractor Beam I
+Small Tractor Beam I
+1MN Afterburner I
+Stasis Webifier I
+Remote Sensor Dampener I
+ECCM Projector I
+Expanded Cargohold I
+Large Shield Extender I (Cargo)
+Large Neutron Saturation Injector I (Cargo)
+Medium Capacitor Battery I, Qty: 2 (Cargo)
+Medium Energy Transfer Array I (Cargo)
+Small Energy Neutralizer I (Cargo)
+250mm 'Scout' I Accelerator Cannon (Cargo)
+Medium Brief Capacitor Overcharge I (Cargo)
+Lead Charge M, Qty: 100 (Cargo)
+Defender I, Qty: 100 (Cargo)
+Bane Torpedo, Qty: 100 (Cargo)
+Mjolnir Torpedo, Qty: 100 (Cargo)
+Remote Sensor Dampener I (Cargo)
+Signal Amplifier I (Cargo)
+Cataclysm Cruise Missile, Qty: 100 (Cargo)
+Tripped Power Circuit, Qty: 21 (Cargo)
+Burned Logic Circuit, Qty: 35 (Cargo)
+Charred Micro Circuit, Qty: 32 (Cargo)
+Conductive Polymer, Qty: 34 (Cargo)
+Scorched Telemetry Processor, Qty: 29 (Cargo)
+Capacitor Power Relay I (Cargo)
+

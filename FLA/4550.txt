@@ -1,0 +1,48 @@
+2007.04.14 00:05
+
+Victim: Black DeathRain
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Destroyed: Raven
+System: O1Y-ED
+Security: 0.0
+
+Involved parties:
+
+Name: munia (laid the final blow)
+Security: 5.1
+Alliance: None
+Corp: Eterne
+Ship: Crusader
+Weapon: Dual Light Pulse Laser II
+
+Name: Mind Augas
+Security: 2.7
+Alliance: None
+Corp: Eterne
+Ship: Raptor
+Weapon: Raptor
+
+Name: Scer
+Security: 0.8
+Alliance: None
+Corp: Eterne
+Ship: Taranis
+Weapon: Taranis
+
+
+Destroyed items:
+
+Juggernaut Torpedo, Qty: 52
+'Malkuth' Siege Missile Launcher I
+Siege Missile Launcher II
+Siege Missile Launcher II
+Siege Missile Launcher II
+Large Azeotropic Ward Salubrity I
+Large Azeotropic Ward Salubrity I
+F-90 Positional Sensor Subroutines
+Ballistic Control System II
+Cross-linked Bolt Array I
+Type-D Power Core Modification: Reaction Control
+Juggernaut Torpedo, Qty: 2578 (Cargo)
+

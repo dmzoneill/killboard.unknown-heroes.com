@@ -1,0 +1,62 @@
+2007.01.28 18:08
+
+Victim: Shassandra
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Taranis
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Ka Dargo (laid the final blow)
+Security: 4.4
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon I
+
+Name: papaPadla
+Security: 4.1
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Pilgrim
+Weapon: Hornet II
+
+Name: Zeram
+Security: 3.3
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Jaguar
+Weapon: 280mm Howitzer Artillery II
+
+Name: Letum Omnis
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Hyperion
+Weapon: 425mm Railgun II
+
+Name: Puls4r
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Jaguar
+Weapon: Balmer Series Targeting Inhibitor I
+
+
+Destroyed items:
+
+125mm 'Scout' I Accelerator Cannon
+125mm Railgun I
+Antimatter Charge S, Qty: 72
+1MN MicroWarpdrive I
+Fleeting Warp Scrambler I
+Inertia Stabilizers I
+Inertia Stabilizers I
+Small Automated I Carapace Restoration (Cargo)
+Stasis Webifier I (Cargo)
+Iron Charge S, Qty: 1975 (Cargo)
+Lead Charge S, Qty: 5000 (Cargo)
+Inertia Stabilizers I (Cargo)
+

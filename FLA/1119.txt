@@ -1,0 +1,93 @@
+2007.03.05 10:46
+
+Victim: Aelita
+Alliance: Privateer Alliance
+Corp: 47R
+Destroyed: Absolution
+System: Poinen
+Security: 0.6
+
+Involved parties:
+
+Name: MasterJon
+Security: 3.5
+Alliance: Exquisite Malevolence
+Corp: Mad Cow Disease
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Dexter Rast
+Security: 2.0
+Alliance: Exquisite Malevolence
+Corp: Mercenary Forces
+Ship: Huginn
+Weapon: Huginn
+
+Name: El Yatta
+Security: 0.4
+Alliance: Exquisite Malevolence
+Corp: Mercenary Forces
+Ship: Lachesis
+Weapon: Warrior II
+
+Name: DeadRow (laid the final blow)
+Security: 0.0
+Alliance: Exquisite Malevolence
+Corp: Magnificent Beavers
+Ship: Myrmidon
+Weapon: Heavy Neutron Blaster II
+
+Name: SYTonALL
+Security: 1.9
+Alliance: Exquisite Malevolence
+Corp: Mercenary Forces
+Ship: Claw
+Weapon: Flameburst Light Missile
+
+Name: Ryx Bratsilaken
+Security: -1.9
+Alliance: Exquisite Malevolence
+Corp: Magnificent Beavers
+Ship: Vagabond
+Weapon: Hobgoblin II
+
+Name: Hockney
+Security: 1.6
+Alliance: Exquisite Malevolence
+Corp: Mercenary Forces
+Ship: Rapier
+Weapon: Warrior II
+
+Name: JOSEPHx
+Security: 0.0
+Alliance: Exquisite Malevolence
+Corp: Mercenary Forces
+Ship: Curse
+Weapon: Warp Disruptor II
+
+Name: Tregaron
+Security: 1.7
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Cyclone
+Weapon: X5 Prototype I Engine Enervator
+
+
+Destroyed items:
+
+Dual 650mm Prototype I Repeating Siege Cannon
+Dual 650mm Prototype I Repeating Siege Cannon
+Dual 650mm Prototype I Repeating Siege Cannon
+Dual 650mm Prototype I Repeating Siege Cannon
+Heavy Diminishing Power System Drain I
+Heavy 'Ghoul' Energy Siphon I
+Fusion L, Qty: 282
+LiF Fueled I Booster Rockets
+X5 Prototype I Engine Enervator
+Cap Booster 800
+Cap Booster 800
+Armor Kinetic Hardener II
+Armor Explosive Hardener II
+Armor Thermic Hardener II
+Phased Plasma L, Qty: 1460 (Cargo)
+

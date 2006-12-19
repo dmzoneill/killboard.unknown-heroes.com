@@ -1,0 +1,41 @@
+2006.11.12 05:04
+
+Victim: MonwrathDisortium
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Destroyed: Ishtar
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Ju'Co (laid the final blow)
+Security: -10.0
+Alliance: Blood Raiders Alliance
+Corp: Murder-Death-Kill
+Ship: Dominix
+Weapon: Berserker I
+
+Name: magiktoolbag13
+Security: 4.7
+Alliance: Blood Raiders Alliance
+Corp: Murder-Death-Kill
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+
+Destroyed items:
+
+250mm Carbide Railgun I
+250mm Carbide Railgun I
+250mm Carbide Railgun I
+Antimatter Charge M, Qty: 34
+Drone Link Augmentor I
+Y-T8 Overcharged Hydrocarbon I Microwarpdrive
+Dark Blood Stasis Webifier
+Drone Navigation Computer I
+Small Armor Repairer II
+Co-Processor II
+Hobgoblin II, Qty: 15 (Drone Bay)
+Garde I, Qty: 4 (Drone Bay)
+

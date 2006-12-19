@@ -1,0 +1,80 @@
+2007.02.18 21:48
+
+Victim: Galactic cannibalism
+Alliance: Knights Of Syndicate
+Corp: The Intergalactic Federation
+Destroyed: Caracal
+System: O-N8XZ
+Security: 0.0
+
+Involved parties:
+
+Name: JaiMaster
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Machariel
+Weapon: Machariel
+
+Name: LT AndrewA (laid the final blow)
+Security: 1.7
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: scuba leah
+Security: 3.8
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Ship: Heretic
+Weapon: Piranha Light Missile
+
+Name: Ridgy
+Security: 0.7
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Ship: Scorpion
+Weapon: Wrath Cruise Missile
+
+Name: Ocara Nezus
+Security: 2.9
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Hawk
+Weapon: Bloodclaw Light Missile
+
+Name: GandolftheWhite
+Security: -0.4
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Ship: Dominix
+Weapon: Dominix
+
+Name: Night Seeker
+Security: 0.2
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Wolf
+Weapon: Sabretooth Light Missile
+
+Name: Duana
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Wolf
+Weapon: Wolf
+
+
+Destroyed items:
+
+Thunderbolt Heavy Missile, Qty: 17
+Widowmaker Heavy Missile, Qty: 16
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Large Shield Extender I
+Power Diagnostic System I
+Small Energy Transfer Array I (Cargo)
+Havoc Heavy Missile, Qty: 170 (Cargo)
+Thunderbolt Heavy Missile, Qty: 140 (Cargo)
+

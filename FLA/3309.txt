@@ -1,0 +1,79 @@
+2007.03.23 05:18
+
+Victim: Simon Monkoto
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Ferox
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Levin Cavil
+Security: -1.0
+Alliance: None
+Corp: Developmental Neogenics Amalgamated
+Ship: Megathron
+Weapon: Megathron
+
+Name: Adam Dartnell
+Security: -1.1
+Alliance: None
+Corp: Developmental Neogenics Amalgamated
+Ship: Zealot
+Weapon: Zealot
+
+Name: Sphalerite (laid the final blow)
+Security: 1.1
+Alliance: None
+Corp: Developmental Neogenics Amalgamated
+Ship: Tempest
+Weapon: Devastator Cruise Missile
+
+Name: One Percent
+Security: -4.0
+Alliance: None
+Corp: Developmental Neogenics Amalgamated
+Ship: Flycatcher
+Weapon: Thorn Rocket
+
+Name: Daenethx
+Security: 5.0
+Alliance: Xelas Alliance
+Corp: Fallen Angel's
+Ship: Unknown
+Weapon: Infiltrator I
+
+Name: Spike 68
+Security: 1.8
+Alliance: None
+Corp: Developmental Neogenics Amalgamated
+Ship: Hyperion
+Weapon: Fleeting Warp Scrambler I
+
+Name: Norfin
+Security: 3.7
+Alliance: None
+Corp: Developmental Neogenics Amalgamated
+Ship: Crow
+Weapon: Warp Disruptor I
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Medium Nosferatu I
+Scourge Heavy Missile, Qty: 41
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+Large Shield Extender I
+Passive Barrier Compensator I
+Invulnerability Field I
+Shield Power Relay I
+Shield Power Relay I
+Small Armor Repairer II (Cargo)
+Light Neutron Blaster II (Cargo)
+Scourge Heavy Missile, Qty: 1100 (Cargo)
+

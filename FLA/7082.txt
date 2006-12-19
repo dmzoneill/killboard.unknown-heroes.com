@@ -1,0 +1,37 @@
+2006.12.24 21:39
+
+Victim: M0z
+Alliance: None
+Corp: State War Academy
+Destroyed: Caracal
+System: Hasmijaala
+Security: 0.3
+
+Involved parties:
+
+Name: Guristas Demolisher / Guristas
+
+Name: Compos Mentis (laid the final blow)
+Security: -6.8
+Alliance: Freelancer Alliance
+Corp: X.T.R
+Ship: Cerberus
+Weapon: Scourge Heavy Missile
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 33
+Heavy Missile Launcher I
+Large Azeotropic Ward Salubrity I
+Medium Shield Booster I
+Basic Magnetic Scattering Amplifier
+Heat Dissipation Amplifier I
+Damage Control I
+Ballistic Control System I
+Ballistic Control System I (Cargo)
+Dread Guristas Silver Tag (Cargo)
+Thunderbolt Heavy Missile, Qty: 3880 (Cargo)
+Assault Missile Launcher I (Cargo)
+Signal Distortion Amplifier I (Cargo)
+

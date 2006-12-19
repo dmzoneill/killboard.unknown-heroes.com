@@ -1,0 +1,80 @@
+2007.02.13 05:21
+
+Victim: Zungen
+Alliance: Red Moon Federation
+Corp: Confederation of Red Moon
+Destroyed: Megathron
+System: X-7OMU
+Security: 0.0
+
+Involved parties:
+
+Name: Weeble Wooble
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Deimos
+Weapon: Deimos
+
+Name: Stonegard (laid the final blow)
+Security: 5.0
+Alliance: The Foundation.
+Corp: EVE Corporation 160607
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+Name: Thafesko
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Nighthawk
+Weapon: Scourge Precision Heavy Missile
+
+Name: Inter Fectum
+Security: 1.9
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: Skull Fire
+Security: 0.6
+Alliance: The Foundation.
+Corp: Cornerstone Unlimited
+Ship: Rokh
+Weapon: Hammerhead I
+
+Name: TroNaaR
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Taranis
+Weapon: Taranis
+
+Name: beretta74
+Security: 4.0
+Alliance: The Foundation.
+Corp: EVE Corporation 160607
+Ship: Drake
+Weapon: Havoc Heavy Missile
+
+Name: moon wolf
+Security: 5.0
+Alliance: The Foundation.
+Corp: EVE Corporation 160607
+Ship: Dominix
+Weapon: Heavy 'Knave' I Energy Drain
+
+
+Destroyed items:
+
+425mm Railgun II
+425mm Railgun II
+Spike L, Qty: 160
+Sensor Booster II
+Tracking Enhancer II
+Quantum Co-Processor I
+Magnetic Field Stabilizer II
+Magnetic Field Stabilizer II
+1600mm Reinforced Rolled Tungsten Plates I
+

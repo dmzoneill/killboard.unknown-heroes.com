@@ -1,0 +1,27 @@
+2006.10.01 03:32
+
+Victim: Fertile Dirt
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Destroyed: Badger Mark II
+System: EWOK-K
+Security: 0.0
+
+Involved parties:
+
+Name: Riotoverkill (laid the final blow)
+Security: 1.6
+Alliance: None
+Corp: Omniscient Order
+Ship: Dominix
+Weapon: 250mm Railgun II
+
+
+Destroyed items:
+
+Caldari Shuttle (Cargo)
+250mm 'Scout' I Accelerator Cannon (Cargo)
+Small Secure Container (Cargo)
+Giant Secure Container (Cargo)
+Cruise Missile Launcher II, Qty: 2 (Cargo)
+

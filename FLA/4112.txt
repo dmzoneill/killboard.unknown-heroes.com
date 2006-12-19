@@ -1,0 +1,43 @@
+2007.04.15 05:34
+
+Victim: Spitfire5769
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Vengeance
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Tran Whistler (laid the final blow)
+Security: 5.3
+Alliance: Freelancer Alliance
+Corp: Harbingers of Sarrow
+Ship: Caracal
+Weapon: Bloodclaw Light Missile
+
+Name: Primaxin
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Harbingers of Sarrow
+Ship: Ferox
+Weapon: Scourge Heavy Missile
+
+
+Destroyed items:
+
+Dual Light Pulse Laser II
+Small Nosferatu I
+Conflagration S
+Conflagration S
+1MN MicroWarpdrive I
+Warp Disruptor II
+Sensor Booster I
+Small Armor Repairer II
+200mm Reinforced Steel Plates II
+Stasis Webifier I, Qty: 2 (Cargo)
+Medium Nosferatu I (Cargo)
+Plutonium Charge S, Qty: 73 (Cargo)
+Energized Thermic Membrane I (Cargo)
+Conflagration S (Cargo)
+

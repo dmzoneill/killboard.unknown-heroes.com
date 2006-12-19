@@ -1,0 +1,44 @@
+2006.11.12 15:21
+
+Victim: Chiqanah
+Alliance: None
+Corp: Perkone
+Destroyed: Kestrel
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Durante Alighieri (laid the final blow)
+Security: 2.8
+Alliance: Schism.
+Corp: New Light
+Ship: Caracal
+Weapon: Thunderbolt Heavy Missile
+
+Name: D2O HeavyWater
+Security: 4.6
+Alliance: None
+Corp: Synergy.
+Ship: Crow
+Weapon: Bloodclaw Precision Light Missile
+
+Name: Formosus Funus
+Security: 3.8
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Jaguar
+Weapon: 250mm Light Artillery Cannon II
+
+Name: Kristinne
+Security: 0.3
+Alliance: O X I D E
+Corp: W33D Corp.
+Ship: Ares
+Weapon: Rocket Launcher I
+
+
+Destroyed items:
+
+1MN MicroWarpdrive I
+

@@ -1,0 +1,117 @@
+2007.02.04 19:20
+
+Victim: Kee Ris
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Destroyed: Abaddon
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: EL TITAN (laid the final blow)
+Security: 1.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Vagabond
+Weapon: Dual 180mm AutoCannon II
+
+Name: Seldarine
+Security: 0.1
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Vagabond
+Weapon: Dark Blood Warp Disruptor
+
+Name: Letum Omnis
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: pajzi
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Claw
+Weapon: Claw
+
+Name: Marschall
+Security: 2.2
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Remmington Daniels
+Security: 0.9
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Beast Hun
+Security: 4.7
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Crusader
+Weapon: Dual Light Pulse Laser II
+
+Name: Seth Quantix
+Security: -0.2
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Malediction
+Weapon: Sabretooth Light Missile
+
+Name: Sir JoJo
+Security: 2.1
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Rapier
+Weapon: Rapier
+
+Name: d0ri5
+Security: 0.1
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Stiletto
+Weapon: 125mm Gatling AutoCannon II
+
+Name: Maule
+Security: 4.7
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Claw
+Weapon: Claw
+
+Name: Witty Moniker
+Security: -1.2
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Stiletto
+Weapon: 125mm Gatling AutoCannon II
+
+
+Destroyed items:
+
+Tachyon Modal Laser I
+Tachyon Modal Laser I
+Tachyon Modal Laser I
+Tachyon Modal Laser I
+Tachyon Modal Laser I
+Tachyon Modal Laser I
+Tachyon Modal Laser I
+Radio L
+Radio L
+Radio L
+Large Peroxide I Capacitor Power Cell
+Optical Tracking Computer I
+Heat Sink II
+Mark I Generator Refitting: Capacitor Power Relay
+Mark I Generator Refitting: Capacitor Power Relay
+Mark I Generator Refitting: Capacitor Power Relay
+Multifrequency L, Qty: 5 (Cargo)
+Vespa I, Qty: 6 (Drone Bay)
+

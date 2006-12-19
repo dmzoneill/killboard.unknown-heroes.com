@@ -1,0 +1,24 @@
+2007.05.14 21:28
+
+Victim: 77scout77
+Alliance: None
+Corp: Perkone
+Destroyed: Ibis
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Steven FSB (laid the final blow)
+Security: 3.4
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+
+Destroyed items:
+
+Civilian Gatling Railgun
+Basic Miner
+

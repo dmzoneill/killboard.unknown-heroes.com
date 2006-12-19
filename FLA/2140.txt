@@ -1,0 +1,44 @@
+2007.01.24 23:08
+
+Victim: Thafesko
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Destroyed: Kestrel
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Valora (laid the final blow)
+Security: 2.3
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: DTee
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+Name: Miss Dominatrix
+Security: 2.1
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Crow
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+
+Destroyed items:
+
+Small Nosferatu I
+Bloodclaw Light Missile, Qty: 47
+Thorn Rocket, Qty: 28
+'Arbalest' Rocket Launcher I
+Initiated Harmonic Warp Jammer I
+X5 Prototype I Engine Enervator
+'Halcyon' Core Equalizer I
+Bloodclaw Light Missile, Qty: 3820 (Cargo)
+

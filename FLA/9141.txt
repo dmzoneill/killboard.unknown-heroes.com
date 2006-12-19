@@ -1,0 +1,103 @@
+2006.04.28 13:53
+
+Victim: Imperal Guard
+Alliance: None
+Corp: Imdomitable Space Wolves
+Destroyed: Scorpion
+System: P3EN-E
+Security: 0.0
+
+Involved parties:
+
+Name: Gibri (laid the final blow)
+Security: 1.5
+Alliance: None
+Corp: Celestial Apocalypse
+Ship: Raven
+Weapon: Devastator Precision Cruise Missile
+
+Name: McMelch
+Security: 1.0
+Alliance: None
+Corp: Celestial Apocalypse
+Ship: Capsule
+Weapon: Berserker I
+
+Name: Squize
+Security: 0.8
+Alliance: Dusk and Dawn
+Corp: Euphoria Released
+Ship: Thorax
+Weapon: Thorax
+
+Name: GordonB
+Security: 1.7
+Alliance: Dusk and Dawn
+Corp: Euphoria Released
+Ship: Tempest
+Weapon: Tempest
+
+Name: Kivers
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Euphoria Released
+Ship: Crow
+Weapon: Thorn Rocket
+
+Name: FlyHigh
+Security: 1.5
+Alliance: None
+Corp: Solidline Enterprise
+Ship: Tempest
+Weapon: Tempest
+
+Name: menace ace
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Royal Flying Aces
+Ship: Stabber
+Weapon: 220mm Medium Prototype I Automatic Cannon
+
+Name: NateX
+Security: 1.0
+Alliance: Dusk and Dawn
+Corp: Euphoria Released
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Akoudoulos
+Security: -1.5
+Alliance: Dusk and Dawn
+Corp: Euphoria Released
+Ship: Dominix
+Weapon: Dominix
+
+Name: Tolin Dorden
+Security: -0.3
+Alliance: Dusk and Dawn
+Corp: Euphoria Released
+Ship: Capsule
+Weapon: ECM - Spatial Destabilizer I
+
+Name: Cmdr Patrick
+Security: 0.1
+Alliance: Dusk and Dawn
+Corp: Euphoria Released
+Ship: Megathron
+Weapon: Regulated Mega Neutron Phase Cannon I
+
+
+Destroyed items:
+
+Heavy Nosferatu I
+Paradise Cruise Missile, Qty: 16
+'Malkuth' Cruise Launcher I
+Cruise Missile Launcher I
+Cruise Missile Launcher I
+ECM - Multispectral Jammer II
+ECM - Ion Field Projector II
+ECM - White Noise Generator II
+Warp Core Stabilizer I
+Cap Booster 800, Qty: 5 (Cargo)
+Hammerhead I, Qty: 4 (Drone Bay)
+

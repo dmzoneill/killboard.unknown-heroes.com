@@ -1,0 +1,54 @@
+2006.11.07 22:28
+
+Victim: Daejung Kim
+Alliance: None
+Corp: Pator Tech School
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Scorpio63
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Vengeance
+Weapon: Vengeance
+
+Name: jacass66 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Ferox
+Weapon: 250mm Prototype I Gauss Gun
+
+Name: bidman
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Harpy
+Weapon: 125mm Railgun I
+
+Name: Velithe
+Security: 2.0
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Crow
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+Name: Hava StormBringerr
+Security: 1.8
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Malediction
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: Dog Cancer
+Security: 1.4
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Crow
+Weapon: Standard Missile Launcher I
+
+

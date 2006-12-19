@@ -1,0 +1,56 @@
+2007.03.21 08:27
+
+Victim: MohamedLoftie
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Destroyed: Maller
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Lorn Zolog
+Security: -0.8
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Harbinger
+Weapon: Harbinger
+
+Name: xargis (laid the final blow)
+Security: 5.0
+Alliance: YouWhat
+Corp: Pringles Inc.
+Ship: Drake
+Weapon: Havoc Heavy Missile
+
+Name: Nipplator
+Security: 1.1
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Apocalypse
+Weapon: Apocalypse
+
+Name: Vasili Z
+Security: 0.4
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Huginn
+Weapon: Parallel Weapon Navigation Transmitter
+
+
+Destroyed items:
+
+Medium Pulse Laser II
+Medium Pulse Laser II
+Medium Pulse Laser II
+Medium Nosferatu II
+Conflagration S
+Conflagration S
+10MN MicroWarpdrive II
+J5 Prototype Warp Inhibitor I
+X5 Prototype I Engine Enervator
+Medium Armor Repairer II
+N-Type Thermic Hardener I
+1600mm Reinforced Rolled Tungsten Plates I
+Scorch S, Qty: 4 (Cargo)
+

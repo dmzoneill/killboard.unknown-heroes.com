@@ -1,0 +1,26 @@
+2007.03.03 23:43
+
+Victim: Sethiol
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Destroyed: Capsule
+System: OWXT-5
+Security: 0.0
+
+Involved parties:
+
+Name: Die Well
+Security: 2.3
+Alliance: None
+Corp: Finite Horizon
+Ship: Hurricane
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Neb Nimja (laid the final blow)
+Security: 0.9
+Alliance: None
+Corp: Developmental Neogenics Amalgamated
+Ship: Zealot
+Weapon: Focused Medium Pulse Laser II
+
+

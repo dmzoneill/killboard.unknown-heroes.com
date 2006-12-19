@@ -1,0 +1,28 @@
+2007.03.06 22:22
+
+Victim: Illesa
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Destroyed: Claw
+System: YZ-LQL
+Security: 0.0
+
+Involved parties:
+
+Name: Stutka Driver (laid the final blow)
+Security: 4.6
+Alliance: Corelum Syndicate
+Corp: Coreli Corporation
+Ship: Sabre
+Weapon: 200mm AutoCannon II
+
+
+Destroyed items:
+
+250mm Light Artillery Cannon II
+Carbonized Lead S, Qty: 50
+Standard Missile Launcher I
+'Malkuth' Standard Missile Launcher I
+Inertia Stabilizers I
+Carbonized Lead S, Qty: 21289 (Cargo)
+

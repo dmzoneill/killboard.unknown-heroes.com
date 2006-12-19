@@ -1,0 +1,48 @@
+2007.05.30 08:57
+
+Victim: Spoon1
+Alliance: FATAL Alliance
+Corp: Free Mercenaries Union
+Destroyed: Brutix
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Veliki Pyotr (laid the final blow)
+Security: 1.1
+Alliance: DeStInY.
+Corp: The Knights Of Camelot
+Ship: Dominix
+Weapon: Ogre II
+
+Name: Dyha
+Security: 0.2
+Alliance: DeStInY.
+Corp: Legion Federation
+Ship: Cyclone
+Weapon: Cyclone
+
+Name: Mufeater
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Ares
+Weapon: Ares
+
+Name: articz
+Security: -0.5
+Alliance: DeStInY.
+Corp: The Knights Of Camelot
+Ship: Stiletto
+Weapon: Stiletto
+
+
+Destroyed items:
+
+Modal Electron Particle Accelerator I, Qty: 5
+Antimatter Charge M, Qty: 772
+X5 Prototype I Engine Enervator
+Medium Armor Repairer II, Qty: 2
+Cap Booster 400, Qty: 14 (Cargo)
+Hammerhead II, Qty: 5 (Drone Bay)

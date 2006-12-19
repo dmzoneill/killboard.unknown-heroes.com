@@ -1,0 +1,38 @@
+2007.04.25 05:41
+
+Victim: Sexorella hotz
+Alliance: YouWhat
+Corp: Beasts of Burden
+Destroyed: Jaguar
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Nukuquqa Hestase
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+Name: AmorphousSGM (laid the final blow)
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: Lynx Frontier Inc.
+Ship: Hound
+Weapon: Paradise Cruise Missile
+
+Name: Guristas Eradicator / Guristas
+
+
+Destroyed items:
+
+200mm Light Prototype I Automatic Cannon
+200mm Light Prototype I Automatic Cannon
+1MN MicroWarpdrive II
+Beta Hull Mod Inertial Stabilizers
+Local Hull Conversion Nanofiber Structure I
+EMP S, Qty: 4387 (Cargo)
+'Arbalest' Siege Missile Launcher, Qty: 2 (Cargo)
+

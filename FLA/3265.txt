@@ -1,0 +1,100 @@
+2007.03.22 02:16
+
+Victim: AuraShock
+Alliance: Freelancer Alliance
+Corp: United Forces
+Destroyed: Caracal
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: dOG2314
+Security: 5.0
+Alliance: Axiom Empire
+Corp: United Society Starfleet
+Ship: Harpy
+Weapon: Harpy
+
+Name: Mongo Peck
+Security: 4.9
+Alliance: Xelas Alliance
+Corp: Requiem of Hades
+Ship: Taranis
+Weapon: Taranis
+
+Name: Criosachille
+Security: 3.3
+Alliance: Xelas Alliance
+Corp: Catalyst Reaction
+Ship: Taranis
+Weapon: Taranis
+
+Name: doc627
+Security: 5.0
+Alliance: Axiom Empire
+Corp: United Society Starfleet
+Ship: Harpy
+Weapon: 125mm Railgun II
+
+Name: Meeat (laid the final blow)
+Security: 4.2
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Blackbird
+Weapon: Thunderbolt Heavy Missile
+
+Name: Omar Shakti
+Security: 4.1
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Taranis
+Weapon: Hobgoblin II
+
+Name: e3joker
+Security: 3.8
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Harpy
+Weapon: Harpy
+
+Name: Mr Siman
+Security: 1.1
+Alliance: Xelas Alliance
+Corp: R.T.F.M
+Ship: Merlin
+Weapon: Merlin
+
+Name: Grenadyr
+Security: 3.4
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Raptor
+Weapon: 75mm Gatling Rail II
+
+Name: DeathGrip
+Security: 3.2
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Crow
+Weapon: Warp Disruptor II
+
+Name: Acidictadpole
+Security: 1.2
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Harpy
+Weapon: Warp Disruptor I
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 25
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+1MN Afterburner I
+ECM - Multispectral Jammer I
+Signal Amplifier I
+Ballistic Control System I
+Hammerhead I (Drone Bay)
+

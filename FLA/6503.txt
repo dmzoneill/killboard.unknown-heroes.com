@@ -1,0 +1,40 @@
+2006.11.16 02:40
+
+Victim: Faloora
+Alliance: Vanu Space Command
+Corp: Ruff Ryders
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Goca (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Raven
+Weapon: Inferno Javelin Torpedo
+
+Name: Yarsida
+Security: 1.2
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Raptor
+Weapon: Raptor
+
+Name: MonwrathDisortium
+Security: -1.1
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Deimos
+Weapon: Deimos
+
+Name: Angel Vengen
+Security: 4.2
+Alliance: Freelancer Alliance
+Corp: Caldar Mercenary Syndicate
+Ship: Armageddon
+Weapon: Armageddon
+
+

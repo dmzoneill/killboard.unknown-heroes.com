@@ -1,0 +1,47 @@
+2006.11.10 20:01
+
+Victim: Anderson
+Alliance: Blood Raiders Alliance
+Corp: Murder-Death-Kill
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: LiBraga (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Eagle
+Weapon: 250mm Prototype I Gauss Gun
+
+Name: Dog Cancer
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: H3llfire
+Security: 2.6
+Alliance: O X I D E
+Corp: W33D Corp.
+Ship: Moa
+Weapon: 250mm Compressed Coil Gun I
+
+Name: Elfaen Ethenwe
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+Name: De'Zori
+Security: 5.0
+Alliance: None
+Corp: PILGRIMS
+Ship: Manticore
+Weapon: Cruise Missile Launcher II
+
+

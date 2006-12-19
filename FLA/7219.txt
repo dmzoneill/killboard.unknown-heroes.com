@@ -1,0 +1,58 @@
+2006.04.24 23:47
+
+Victim: Harvey de'Banger
+Alliance: None
+Corp: Lynx Frontier Inc.
+Destroyed: Caracal
+System: CZDJ-1
+Security: 0.0
+
+Involved parties:
+
+Name: Cobra64 (laid the final blow)
+Security: 4.5
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Cyclone
+Weapon: 720mm Howitzer Artillery II
+
+Name: AXi0S
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Freelancer Union
+Ship: Megathron
+Weapon: 425mm Carbide Railgun I
+
+Name: TheBelgarion
+Security: 2.6
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: jacass66
+Security: 5.3
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Thanatos
+Weapon: Hornet II
+
+Name: Kismeteer
+Security: 1.5
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Dominix
+Weapon: 250mm 'Scout' I Accelerator Cannon
+
+
+Destroyed items:
+
+Thunderbolt Heavy Missile, Qty: 56
+Havoc Heavy Missile, Qty: 27
+Widowmaker Heavy Missile, Qty: 46
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+Invulnerability Field I
+Damage Control I
+Ballistic Control System I
+

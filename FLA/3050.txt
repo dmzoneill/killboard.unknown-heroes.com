@@ -1,0 +1,32 @@
+2007.03.23 07:10
+
+Victim: illusha
+Alliance: The SUdden Death Squad
+Corp: Halfwits
+Destroyed: Taranis
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: White Thatch (laid the final blow)
+Security: 4.4
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Ship: Brutix
+Weapon: Hammerhead II
+
+Name: Guristas Dismantler / Guristas
+
+
+Destroyed items:
+
+Small Nosferatu I
+Light Ion Blaster II
+Light Ion Blaster II
+Void S, Qty: 240
+1MN MicroWarpdrive I
+Micro Auxiliary Power Core I
+Medium Shield Booster II (Cargo)
+J5 Prototype Warp Inhibitor I (Cargo)
+

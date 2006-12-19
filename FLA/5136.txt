@@ -1,0 +1,61 @@
+2007.01.06 19:09
+
+Victim: Oli4Oli4
+Alliance: Ascendant Frontier
+Corp: The Syndicate Inc
+Destroyed: Prophecy
+System: Sivala
+Security: 0.6
+
+Involved parties:
+
+Name: DOATurtle (laid the final blow)
+Security: 2.3
+Alliance: Free Space Alliance
+Corp: Drones of Annihilation
+Ship: Harbinger
+Weapon: Heavy Beam Laser II
+
+Name: killmore
+Security: 4.5
+Alliance: None
+Corp: Drones of Annihilation
+Ship: Vexor
+Weapon: Vexor
+
+Name: DOARotadyne
+Security: 1.4
+Alliance: Ascendant Frontier
+Corp: Drones of Annihilation
+Ship: Taranis
+Weapon: Warrior I
+
+Name: MrCue
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Drones of Annihilation
+Ship: Taranis
+Weapon: Stasis Webifier I
+
+Name: DOABolt
+Security: 5.1
+Alliance: 
+Corp: Drones of Annihilation
+Ship: Drake
+Weapon: Heavy Assault Missile Launcher I
+
+
+Destroyed items:
+
+220mm Vulcan AutoCannon I
+425mm AutoCannon I
+Medium 'Ghoul' Energy Siphon I
+Fusion M, Qty: 153
+EMP M, Qty: 84
+10MN MicroWarpdrive I
+J5 Prototype Warp Inhibitor I
+Medium Inefficient Armor Repair Unit
+Medium Inefficient Armor Repair Unit
+N-Type Explosive Hardener I
+N-Type Thermic Hardener I
+

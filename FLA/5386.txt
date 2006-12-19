@@ -1,0 +1,40 @@
+2007.04.28 14:41
+
+Victim: Iguanoid
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Capsule
+System: B-9C24
+Security: 0.0
+
+Involved parties:
+
+Name: Sir Dodger
+Security: 4.7
+Alliance: Mercenary Coalition
+Corp: Seraphin Technologies
+Ship: Jaguar
+Weapon: 280mm Howitzer Artillery II
+
+Name: Cethrie (laid the final blow)
+Security: 5.1
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+Name: Kkmar Jheren
+Security: -1.5
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Malediction
+Weapon: Malediction
+
+Name: angelena
+Security: 4.5
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Sabre
+Weapon: Warp Disruptor II
+
+

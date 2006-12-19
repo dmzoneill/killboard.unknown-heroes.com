@@ -1,0 +1,30 @@
+2007.01.06 00:01
+
+Victim: Xenofur
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Megathron
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Waywatcher (laid the final blow)
+Security: -1.0
+Alliance: Shroud Of Darkness
+Corp: The Priory
+Ship: Ishtar
+Weapon: Berserker II
+
+
+Destroyed items:
+
+425mm Compressed Coil Gun I
+Antimatter Charge L, Qty: 26
+SV-2000 Assault Missile Bay
+Eutectic I Capacitor Charge Array
+Magnetic Field Stabilizer II
+Armor Thermic Hardener I
+Antimatter Charge L, Qty: 1340 (Cargo)
+Vespa I (Drone Bay)
+

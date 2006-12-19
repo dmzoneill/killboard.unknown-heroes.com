@@ -1,0 +1,27 @@
+2007.04.23 04:06
+
+Victim: Kvarium Ki
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Destroyed: Rifter
+System: P-2TTL
+Security: 0.0
+
+Involved parties:
+
+Name: Luthair StoneDog (laid the final blow)
+Security: -2.7
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Thanatos
+Weapon: Templar
+
+
+Destroyed items:
+
+250mm Light Carbine Howitzer I
+Proton S, Qty: 28
+Sensor Booster I
+Gyrostabilizer I
+Proton S, Qty: 340 (Cargo)
+

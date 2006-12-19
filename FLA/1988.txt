@@ -1,0 +1,62 @@
+2007.01.14 05:03
+
+Victim: Treadwell Sinn
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Megathron
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Arnold Swartzenegger (laid the final blow)
+Security: 0.1
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+Name: Guristas Obliterator / Guristas
+
+Name: MeanStreak
+Security: -0.2
+Alliance: None
+Corp: Caldari Provisions
+Ship: Sabre
+Weapon: Sabre
+
+Name: heavensfire
+Security: 1.2
+Alliance: None
+Corp: Caldari Provisions
+Ship: Curse
+Weapon: Warrior I
+
+Name: Bugout
+Security: 4.5
+Alliance: None
+Corp: Viziam
+Ship: Sabre
+Weapon: Sabre
+
+
+Destroyed items:
+
+425mm 'Scout' I Accelerator Cannon
+425mm 'Scout' I Accelerator Cannon
+Iridium Charge L, Qty: 35
+'Malkuth' Cruise Launcher I
+'Malkuth' Cruise Launcher I
+Eutectic I Capacitor Charge Array
+Ballistic Deflection Field I
+1600mm Reinforced Titanium Plates I
+1600mm Reinforced Nanofiber Plates I
+1600mm Reinforced Crystalline Carbonide Plates I
+Large Shield Booster I (Cargo)
+Iridium Charge L, Qty: 2325 (Cargo)
+Antimatter Charge L, Qty: 3293 (Cargo)
+Defender I, Qty: 100 (Cargo)
+Wrath Cruise Missile, Qty: 462 (Cargo)
+Siege Missile Launcher I (Cargo)
+Hammerhead I, Qty: 4 (Drone Bay)
+

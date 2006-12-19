@@ -1,0 +1,19 @@
+2006.11.17 02:06
+
+Victim: Azrealsan
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: starius3 (laid the final blow)
+Security: 1.2
+Alliance: None
+Corp: omen.
+Ship: Taranis
+Weapon: 125mm Railgun II
+
+

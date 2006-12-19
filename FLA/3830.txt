@@ -1,0 +1,31 @@
+2007.04.01 22:43
+
+Victim: Daressek
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Bantam
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Witch Doctor (laid the final blow)
+Security: 0.1
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Arazu
+Weapon: 250mm Railgun II
+
+
+Destroyed items:
+
+Micro Auxiliary Power Core I
+Capacitor Power Relay I
+Corpse (Cargo)
+Shield Recharger I (Cargo)
+Miner I (Cargo)
+Small Capacitor Battery I (Cargo)
+Asymmetric Energy Succor I (Cargo)
+Small 'Gremlin' Power Core Disruptor I (Cargo)
+Antimatter Charge S, Qty: 1019 (Cargo)
+

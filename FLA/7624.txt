@@ -1,0 +1,100 @@
+2006.09.27 00:35
+
+Victim: MIGHTYDWC
+Alliance: Ascendant Frontier
+Corp: Sha Kharn Corp
+Destroyed: Taranis
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Karnovsky
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Huginn
+Weapon: Valkyrie II
+
+Name: Rawstyle
+Security: 3.5
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Zealot
+Weapon: Heavy Pulse Laser II
+
+Name: Fimbule Winter
+Security: 3.9
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Crow
+Weapon: Crow
+
+Name: Undia alNudius
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Lachesis
+Weapon: Warrior TP-300
+
+Name: Jack Cannon
+Security: 3.3
+Alliance: Ekliptika
+Corp: disgruntled postal workers
+Ship: Punisher
+Weapon: Medium Beam Laser II
+
+Name: Eskiban Vlasic
+Security: 5.0
+Alliance: EVE Animal Control
+Corp: F.R.E.E. Explorer
+Ship: Eris
+Weapon: 125mm Railgun II
+
+Name: steve gates (laid the final blow)
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Taranis
+Weapon: 125mm Railgun II
+
+Name: roboto212
+Security: -0.2
+Alliance: Freelancer Alliance
+Corp: Sin-X Inc.
+Ship: Enyo
+Weapon: 150mm Railgun II
+
+Name: XxAngelxX
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Pilgrim
+Weapon: Shadow Serpentis Warp Disruptor
+
+Name: Taffun
+Security: 2.9
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Huginn
+Weapon: X5 Prototype I Engine Enervator
+
+Name: R3s1d3nt 3v1L
+Security: 3.4
+Alliance: Imperial Republic Of the North
+Corp: Port Royal Independent Kontractors
+Ship: Crow
+Weapon: Fleeting Warp Scrambler I
+
+
+Destroyed items:
+
+125mm Railgun II
+125mm Railgun II
+125mm Railgun II
+1MN MicroWarpdrive II
+Stasis Webifier I
+Magnetic Field Stabilizer II
+Antimatter Charge S, Qty: 2000 (Cargo)
+Spike S, Qty: 1000 (Cargo)
+

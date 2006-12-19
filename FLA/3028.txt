@@ -1,0 +1,75 @@
+2007.03.22 19:09
+
+Victim: Roxanna Kell
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Destroyed: Nighthawk
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Luxe Ecru
+Security: 1.4
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Deimos
+Weapon: Deimos
+
+Name: Ronos
+Security: 5.0
+Alliance: Galactic-Federation
+Corp: The Namic Project
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+Name: MohamedLoftie (laid the final blow)
+Security: -0.8
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Absolution
+Weapon: Heavy Pulse Laser II
+
+Name: Diablo 2k6
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Dominix
+Weapon: Ogre I
+
+Name: Chonker
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ishkur
+Weapon: Hornet II
+
+Name: Tregaron
+Security: 2.3
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: misscoda
+Security: 4.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 100
+Heavy Missile Launcher II
+Heavy Missile Launcher II
+Heavy Missile Launcher II
+Medium Shield Extender II
+10MN MicroWarpdrive II
+'Langour' Drive Disruptor I
+Magnetic Scattering Amplifier II
+Power Diagnostic System II
+Scourge Heavy Missile, Qty: 4593 (Cargo)
+Scourge Precision Heavy Missile, Qty: 1000 (Cargo)
+

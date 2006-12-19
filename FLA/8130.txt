@@ -1,0 +1,67 @@
+2006.10.15 05:43
+
+Victim: Onyx Soulbane
+Alliance: Freelancer Alliance
+Corp: Elite frontier group
+Destroyed: Raven
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: PainBall
+Security: 2.5
+Alliance: None
+Corp: NEXT LEVEL
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Shaleen (laid the final blow)
+Security: 3.8
+Alliance: Process of Elimination
+Corp: Viper  Squad
+Ship: Astarte
+Weapon: Heavy Ion Blaster II
+
+Name: Sith Bandon
+Security: 0.1
+Alliance: Process of Elimination
+Corp: Viper  Squad
+Ship: Arazu
+Weapon: Hornet II
+
+Name: Olaf Thaddius
+Security: 2.0
+Alliance: Process of Elimination
+Corp: Viper  Squad
+Ship: Rook
+Weapon: Rook
+
+Name: Penelope Grey
+Security: 2.3
+Alliance: Process of Elimination
+Corp: Viper  Squad
+Ship: Hawk
+Weapon: Sabretooth Light Missile
+
+
+Destroyed items:
+
+Mega Beam Laser I
+Gamma L
+Prototype Cloaking Device I
+Hunter F.O.F. Cruise Missile I, Qty: 17
+Obliterator F.O.F. Cruise Missile I, Qty: 24
+'Arbalest' Cruise Launcher I
+'Arbalest' Cruise Launcher I
+'Arbalest' Cruise Launcher I
+Large Shield Extender II
+Invulnerability Field II
+Power Diagnostic System II
+Power Diagnostic System II
+Radio L (Cargo)
+Xray L (Cargo)
+Obliterator F.O.F. Cruise Missile I, Qty: 204 (Cargo)
+Hunter F.O.F. Cruise Missile I, Qty: 102 (Cargo)
+Vespa I, Qty: 2 (Drone Bay)
+

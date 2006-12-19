@@ -1,0 +1,80 @@
+2007.04.10 08:23
+
+Victim: misscoda
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Rokh
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Sedith (laid the final blow)
+Security: 1.7
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Aeon
+Weapon: Firbolg
+
+Name: Odda
+Security: 4.4
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Thanatos
+Weapon: Firbolg
+
+Name: Dekein
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Sauron Starcrusher
+Security: 3.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Ran Fujimiya
+Security: 0.5
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Raptor
+Weapon: Raptor
+
+Name: Maris E'lien
+Security: 3.2
+Alliance: Firmus Ixion
+Corp: Black Avatar
+Ship: Rapier
+Weapon: Rapier
+
+Name: Trigger64
+Security: -0.7
+Alliance: Firmus Ixion
+Corp: Black Avatar
+Ship: Taranis
+Weapon: X5 Prototype I Engine Enervator
+
+Name: Otto Bismarck
+Security: 3.6
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Hyperion
+Weapon: Warp Disruptor II
+
+
+Destroyed items:
+
+425mm Prototype I Gauss Gun
+425mm Prototype I Gauss Gun
+425mm Prototype I Gauss Gun
+425mm Prototype I Gauss Gun
+Guristas Iron Charge L, Qty: 145
+V-M15 Braced Multispectral Shield Matrix
+F-90 Positional Sensor Subroutines
+Magnetic Field Stabilizer II
+Beta Reactor Control: Diagnostic System I
+

@@ -1,0 +1,27 @@
+2007.04.20 20:06
+
+Victim: FA Avenger
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Destroyed: Raptor
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Korudon (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Megathron
+Weapon: Large Rudimentary Concussion Bomb I
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 46
+Overdrive Injector System I
+Type-D Power Core Modification: Capacitor Power Relay
+Exotic Dancers (Cargo)
+Mobile Small Warp Disruptor I (Cargo)
+

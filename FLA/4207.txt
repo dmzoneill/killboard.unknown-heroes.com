@@ -1,0 +1,74 @@
+2007.04.04 04:47
+
+Victim: Asa Gunnarsson
+Alliance: Freelancer Alliance
+Corp: ACCORD Industries
+Destroyed: Drake
+System: 3T7-M8
+Security: 0.0
+
+Involved parties:
+
+Name: Admentus Cor'vion (laid the final blow)
+Security: -0.2
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Dominix
+Weapon: Ogre II
+
+Name: Witch Doctor
+Security: 0.1
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Cerberus
+Weapon: Heavy Missile Launcher II
+
+Name: Redginald
+Security: 4.5
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Hurricane
+Weapon: Warrior II
+
+Name: BillyBong2
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Blackbird
+Weapon: Havoc Heavy Missile
+
+Name: Exekias
+Security: 2.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Stiletto
+Weapon: 200mm AutoCannon II
+
+
+Destroyed items:
+
+Small Nosferatu I
+Havoc Heavy Missile, Qty: 17
+Widowmaker Heavy Missile, Qty: 32
+Thunderbolt Heavy Missile, Qty: 33
+Advanced 'Limos' Heavy Missile Bay I
+Advanced 'Limos' Heavy Missile Bay I
+Advanced 'Limos' Heavy Missile Bay I
+Advanced 'Limos' Heavy Missile Bay I
+Heavy Missile Launcher I
+Medium Azeotropic Ward Salubrity I
+Medium Azeotropic Ward Salubrity I
+Beta Reactor Control: Shield Power Relay I
+Corpse, Qty: 2 (Cargo)
+Medium Neutron Saturation Injector I (Cargo)
+Medium Asymmetric Barrier Transpositioner I (Cargo)
+Medium Armor Repairer I (Cargo)
+Asymmetric Energy Succor I (Cargo)
+Small Energy Neutralizer I, Qty: 4 (Cargo)
+Medium Proton Smartbomb I (Cargo)
+Thorium Charge M, Qty: 100 (Cargo)
+Havoc Heavy Missile, Qty: 1843 (Cargo)
+Scourge Heavy Missile, Qty: 100 (Cargo)
+Thunderbolt Heavy Missile, Qty: 903 (Cargo)
+Warrior I, Qty: 3 (Drone Bay)
+

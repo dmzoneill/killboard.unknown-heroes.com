@@ -1,0 +1,38 @@
+2007.04.09 12:25
+
+Victim: Samuel Goldblum
+Alliance: None
+Corp: Shadowheart Xtrem Industries
+Destroyed: Sigil
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Jack Thurner (laid the final blow)
+Security: 2.6
+Alliance: DeStInY.
+Corp: Fusion Enterprises Ltd
+Ship: Armageddon
+Weapon: Tachyon Beam Laser II
+
+Name: Wallyx
+Security: 4.5
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Armageddon
+Weapon: J5 Prototype Warp Inhibitor I
+
+
+Destroyed items:
+
+Medium F-S9 Regolith Shield Induction
+Medium F-S9 Regolith Shield Induction
+Warp Core Stabilizer I
+Warp Core Stabilizer I
+Warp Core Stabilizer I
+Beta Hull Mod Expanded Cargo
+Vitoc, Qty: 5000 (Cargo)
+Warp Core Stabilizer I (Cargo)
+Expanded Cargohold I, Qty: 2 (Cargo)
+

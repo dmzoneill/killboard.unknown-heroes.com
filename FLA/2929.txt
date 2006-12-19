@@ -1,0 +1,27 @@
+2007.03.16 23:19
+
+Victim: ConXtionS
+Alliance: Freelancer Alliance
+Corp: The Night Crew
+Destroyed: Celestis
+System: 4-EP12
+Security: 0.0
+
+Involved parties:
+
+Name: Stutka Driver (laid the final blow)
+Security: 4.6
+Alliance: Corelum Syndicate
+Corp: Coreli Corporation
+Ship: Sabre
+Weapon: 200mm AutoCannon II
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Indirect Scanning Dampening Unit I
+Indirect Scanning Dampening Unit I
+Small Inefficient Armor Repair Unit
+Mark I Generator Refitting: Capacitor Power Relay
+

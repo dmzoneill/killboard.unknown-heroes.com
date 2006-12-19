@@ -1,0 +1,19 @@
+2006.11.18 00:16
+
+Victim: Takate
+Alliance: None
+Corp: Omega Mining Corp
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Karas Rabus (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Jaguar
+Weapon: 280mm Howitzer Artillery II
+
+

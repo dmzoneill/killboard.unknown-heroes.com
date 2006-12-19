@@ -1,0 +1,33 @@
+2007.03.04 14:29
+
+Victim: Rio LoboSK
+Alliance: Xelas Alliance
+Corp: Rytiri Lva
+Destroyed: Capsule
+System: YZ-LQL
+Security: 0.0
+
+Involved parties:
+
+Name: Kerdrak (laid the final blow)
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Retribution
+Weapon: Medium Pulse Laser II
+
+Name: Tassi
+Security: -3.2
+Alliance: Dusk and Dawn
+Corp: Cataclysm Enterprises
+Ship: Unknown
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: Takeshi Nuwen
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: The X-Trading Company
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+

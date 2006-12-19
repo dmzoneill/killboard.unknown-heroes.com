@@ -1,0 +1,93 @@
+2007.05.02 20:04
+
+Victim: Cockroach
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Omen
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Indiano Arko (laid the final blow)
+Security: 0.6
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Thanatos
+Weapon: Einherji
+
+Name: LeZip
+Security: 1.2
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: KtB
+Security: -1.8
+Alliance: Vigilance.
+Corp: The Phoenix Rising
+Ship: Thorax
+Weapon: Vespa I
+
+Name: ZeroGrav
+Security: 3.2
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Savak
+Security: 1.0
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Armageddon
+Weapon: Dual Heavy Anode Pulse Particle Stream I
+
+Name: Wraithstorm
+Security: 3.1
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Thanatos
+Weapon: Einherji
+
+Name: Vlad Cetes
+Security: 5.0
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Blackbird
+Weapon: 'Gloom' I White Noise ECM
+
+Name: Bothius
+Security: 0.4
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Taranis
+Weapon: Warp Disruptor II
+
+Name: Altair Mogwa
+Security: 0.6
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Probe
+Weapon: Einherji
+
+
+Destroyed items:
+
+Heavy Pulse Laser I
+Multifrequency M
+Eradicator F.O.F. Heavy Missile I, Qty: 26
+'Skadi' Coolant System I
+800mm Reinforced Steel Plates I
+Beta Reactor Control: Diagnostic System I
+Local Power Plant Manager: Capacity Power Relay I
+Type-D Power Core Modification: Reaction Control
+Standard M, Qty: 2 (Cargo)
+Hornet I (Cargo)
+Scourge Heavy Missile, Qty: 300 (Cargo)
+Havoc Heavy Missile, Qty: 167 (Cargo)
+Thunderbolt Heavy Missile, Qty: 99 (Cargo)
+Widowmaker Heavy Missile, Qty: 139 (Cargo)
+Eradicator F.O.F. Heavy Missile I, Qty: 498 (Cargo)
+

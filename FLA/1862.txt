@@ -1,0 +1,61 @@
+2007.01.07 02:26
+
+Victim: Grim Faust
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Typhoon
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: ETS4ME
+Security: 0.7
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+Name: Masta Killa (laid the final blow)
+Security: -1.7
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+Name: Captain Rickdick
+Security: -0.1
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+Name: Lemlins Craken
+Security: -0.3
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Wrath Cruise Missile
+
+
+Destroyed items:
+
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Heavy Nosferatu I
+Heavy Nosferatu I
+Heavy Nosferatu I
+Small Tractor Beam I
+Stasis Webifier I
+'Hypnos' Ion Field ECM I
+Large Automated I Carapace Restoration
+Inertia Stabilizers I
+Inertia Stabilizers I
+Nanofiber Internal Structure I
+Nanofiber Internal Structure I
+Wasp I, Qty: 4 (Drone Bay)
+

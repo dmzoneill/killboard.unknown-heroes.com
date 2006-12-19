@@ -1,0 +1,26 @@
+2006.10.07 05:21
+
+Victim: BC Hastings
+Alliance: None
+Corp: Privateers
+Destroyed: Capsule
+System: Sobaseki
+Security: 0.8
+
+Involved parties:
+
+Name: Braxxon (laid the final blow)
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: Bricker
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Blackbird
+Weapon: Warp Disruptor I
+
+

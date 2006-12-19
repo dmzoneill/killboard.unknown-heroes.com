@@ -1,0 +1,26 @@
+2007.03.04 00:17
+
+Victim: CrewMucko 2
+Alliance: Band of Brothers
+Corp: Black Eclipse Corp
+Destroyed: Vigil
+System: RF-K9W
+Security: 0.0
+
+Involved parties:
+
+Name: demotar (laid the final blow)
+Security: 3.5
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Hound
+Weapon: Devastator Cruise Missile
+
+
+Destroyed items:
+
+Cap Recharger I
+Cap Recharger I
+Monopropellant I Hydrazine Boosters
+Nanofiber Internal Structure I
+

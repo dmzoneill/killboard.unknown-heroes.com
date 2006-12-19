@@ -1,0 +1,26 @@
+2007.01.15 19:01
+
+Victim: AVON257
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Destroyed: Retriever
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: whisk (laid the final blow)
+Security: -0.2
+Alliance: None
+Corp: 0utbreak
+Ship: Vagabond
+Weapon: Dual 180mm AutoCannon II
+
+
+Destroyed items:
+
+Strip Miner I
+Strip Miner I
+Small Shield Booster II
+Photonic CPU Enhancer I
+

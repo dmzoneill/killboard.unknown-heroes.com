@@ -1,0 +1,104 @@
+2007.03.10 21:55
+
+Victim: Korudon
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Megathron
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: sliver 0xD
+Security: -1.8
+Alliance: Chorus of Dawn
+Corp: Infinite Style Incorporated
+Ship: Megathron
+Weapon: Megathron
+
+Name: Alizarin Crimson
+Security: -1.3
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Apoc77
+Security: 5.0
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Rokh
+Weapon: Rokh
+
+Name: mama guru
+Security: 2.8
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Ship: Apocalypse
+Weapon: Hammerhead I
+
+Name: Vim Longhill (laid the final blow)
+Security: 4.6
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Rokh
+Weapon: 425mm Railgun II
+
+Name: YOGOgoesEVERYWHERE
+Security: 5.0
+Alliance: Chorus of Dawn
+Corp: Cosmic Odyssey
+Ship: Celestis
+Weapon: Havoc Heavy Missile
+
+Name: Garaya
+Security: 1.2
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Ferox
+Weapon: Ferox
+
+Name: Tenter Masion
+Security: -1.3
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Ship: Apocalypse
+Weapon: Apocalypse
+
+Name: Vespero
+Security: 0.0
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Tempest
+Weapon: Tempest
+
+Name: Santa Claw
+Security: 2.4
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Tempest
+Weapon: Heavy Assault Missile Launcher I
+
+Name: StarCaptain Joanna
+Security: -0.1
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Tempest
+Weapon: Tempest
+
+
+Destroyed items:
+
+425mm Railgun I
+425mm Railgun I
+425mm Railgun I
+Antimatter Charge L, Qty: 117
+Prototype I Sensor Booster
+F-90 Positional Sensor Subroutines
+Optical Tracking Computer I
+Monopulse Tracking Mechanism I
+Tracking Enhancer II
+Energized Adaptive Nano Membrane I
+Iron Charge L, Qty: 2200 (Cargo)
+Antimatter Charge L, Qty: 200 (Cargo)
+

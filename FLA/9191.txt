@@ -1,0 +1,55 @@
+2007.05.04 09:08
+
+Victim: NashK
+Alliance: None
+Corp: Caldari Provisions
+Destroyed: Badger Mark II
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Noonael
+Security: 4.2
+Alliance: The Foundation.
+Corp: NorCorp Security
+Ship: Raven
+Weapon: Wrath Cruise Missile
+
+Name: Chuck Dawg
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Crow
+Weapon: Bloodclaw Fury Light Missile
+
+Name: Oldin Relic (laid the final blow)
+Security: 1.5
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Hamiller Payne
+Security: 5.0
+Alliance: RAZOR Alliance
+Corp: Thundercats
+Ship: Eris
+Weapon: Eris
+
+Name: Ezeikiel
+Security: 0.8
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Vengeance
+Weapon: Gremlin Rocket
+
+
+Destroyed items:
+
+Medium Supplemental Barrier Emitter I
+Medium Supplemental Barrier Emitter I
+Medium Supplemental Barrier Emitter I
+'Anointed' I EM Ward Reinforcement
+Warp Core Stabilizer I
+

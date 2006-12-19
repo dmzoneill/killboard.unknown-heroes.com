@@ -1,0 +1,95 @@
+2007.04.28 21:10
+
+Victim: coldkill
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Destroyed: Ishkur
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Erik Morkai
+Security: -1.2
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Crusader
+Weapon: Dual Light Beam Laser II
+
+Name: Indiano Arko
+Security: 0.6
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: Larshus Magrus
+Security: 5.0
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Fitz Farseer (laid the final blow)
+Security: 0.5
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Rupture
+Weapon: Havoc Heavy Missile
+
+Name: Reverend Revelator
+Security: 1.5
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Brutix
+Weapon: Brutix
+
+Name: Evil Bunnies
+Security: 0.3
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Blackbird
+Weapon: Scourge Heavy Missile
+
+Name: nyricia
+Security: 1.7
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Caracal
+Weapon: Heavy Missile Launcher I
+
+Name: RyMcQeN I
+Security: 4.3
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Manticore
+Weapon: Cruise Missile Launcher II
+
+Name: Loti
+Security: -0.3
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Nighthawk
+Weapon: Heavy Missile Launcher II
+
+Name: Aut Nihil
+Security: 0.1
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Kestrel
+Weapon: Initiated Warp Jammer I
+
+
+Destroyed items:
+
+Small Nosferatu I
+Local Power Plant Manager: Diagnostic System I
+Gatling Pulse Laser II, Qty: 2 (Cargo)
+Small 'Knave' I Energy Drain (Cargo)
+Infrared S, Qty: 4 (Cargo)
+Energized Adaptive Nano Membrane I (Cargo)
+Microcell Nanite Thermic Hardener I (Cargo)
+Spike S, Qty: 848 (Cargo)
+Conflagration S (Cargo)
+Hammerhead II (Drone Bay)
+

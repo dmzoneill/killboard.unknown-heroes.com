@@ -1,0 +1,61 @@
+2007.01.18 05:11
+
+Victim: Dath Rendor
+Alliance: Firmus Ixion
+Corp: Band of Builders Inc.
+Destroyed: Capsule
+System: ED-L9T
+Security: 0.0
+
+Involved parties:
+
+Name: Barry Cuda (laid the final blow)
+Security: 1.5
+Alliance: EVE Animal Control
+Corp: F.R.E.E. Explorer
+Ship: Zealot
+Weapon: Heavy Pulse Laser II
+
+Name: Arfy
+Security: 4.0
+Alliance: Imperial Republic Of the North
+Corp: Port Royal Independent Kontractors
+Ship: Vulture
+Weapon: 250mm Railgun II
+
+Name: Tarphon
+Security: 2.6
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Raptor
+Weapon: Bloodclaw Light Missile
+
+Name: Beldarius
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: MetaForge
+Ship: Ferox
+Weapon: 250mm Carbide Railgun I
+
+Name: Rascle
+Security: 2.8
+Alliance: Imperial Republic Of the North
+Corp: MetaForge
+Ship: Raptor
+Weapon: Upgraded 'Limos' Standard Missile Bay I
+
+Name: Seana Elria
+Security: 0.9
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Caracal
+Weapon: XR-3200 Heavy Missile Bay
+
+Name: Marco Polio
+Security: 4.8
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Raptor
+Weapon: J5 Prototype Warp Inhibitor I
+
+

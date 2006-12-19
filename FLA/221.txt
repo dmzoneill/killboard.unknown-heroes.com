@@ -1,0 +1,47 @@
+2007.01.19 01:21
+
+Victim: armslave
+Alliance: Sani Khal'Vecna
+Corp: coracao ardente
+Destroyed: Jaguar
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: dastommy79 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Thorax
+Weapon: Heavy Ion Blaster I
+
+Name: Jenessa
+Security: 1.1
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Unknown
+Weapon: 720mm Howitzer Artillery II
+
+Name: Xantheris
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+
+Destroyed items:
+
+200mm AutoCannon II
+Hail S, Qty: 72
+'Arbalest' Rocket Launcher I
+Catalyzed Cold-Gas I Arcjet Thrusters
+J5 Prototype Warp Inhibitor I
+X5 Prototype I Engine Enervator
+Power Diagnostic System II
+Power Diagnostic System II
+EMP S, Qty: 4590 (Cargo)
+Barrage S, Qty: 2937 (Cargo)
+Hail S, Qty: 2757 (Cargo)
+

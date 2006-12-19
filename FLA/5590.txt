@@ -1,0 +1,121 @@
+2006.10.08 15:08
+
+Victim: Nectarios
+Alliance: None
+Corp: BLUE EAGLES
+Destroyed: Tempest
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Jessica McDaniel
+Security: 1.3
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Scorpion
+Weapon: Valkyrie I
+
+Name: pROMp
+Security: 2.9
+Alliance: Freelancer Alliance
+Corp: Feel Good Inc.
+Ship: Celestis
+Weapon: Hobgoblin II
+
+Name: Midiana
+Security: 0.6
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Vexor
+Weapon: Valkyrie II
+
+Name: Lizzy Silver
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Caracal
+Weapon: Thunderbolt Heavy Missile
+
+Name: WeatherSmurf
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Ship: Caracal
+Weapon: Havoc Heavy Missile
+
+Name: Peenoot
+Security: 0.4
+Alliance: Freelancer Alliance
+Corp: Abandoned Resolve Corporation
+Ship: Moa
+Weapon: Moa
+
+Name: Cockroach
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Retribution
+Weapon: Retribution
+
+Name: Nil Desperandum (laid the final blow)
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Omen
+Weapon: Heavy Pulse Laser II
+
+Name: other mickey
+Security: 0.8
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Celestis
+Weapon: Vespa I
+
+Name: Soliloquil
+Security: 3.3
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Moa
+Weapon: Moa
+
+Name: XxSOULxX
+Security: 0.6
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Ship: Thorax
+Weapon: Thorax
+
+Name: TasKu
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Taranis
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: Larkonis Trassler
+Security: -1.9
+Alliance: None
+Corp: g guild
+Ship: Crow
+Weapon: Fleeting Warp Scrambler I
+
+
+Destroyed items:
+
+1400mm Howitzer Artillery II
+1400mm Howitzer Artillery II
+1400mm Howitzer Artillery II
+1400mm Howitzer Artillery II
+Tremor L, Qty: 30
+ZW-4100 Siege Missile Bay
+Large C5-L Emergency Shield Overload I
+Sensor Booster II
+Tracking Computer II
+Warp Core Stabilizer I
+Warp Core Stabilizer I
+Warp Core Stabilizer I
+Gyrostabilizer II, Qty: 8 (Cargo)
+Tracking Enhancer II, Qty: 4 (Cargo)
+Reactor Control Unit I (Cargo)
+

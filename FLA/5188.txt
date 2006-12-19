@@ -1,0 +1,115 @@
+2007.04.24 21:24
+
+Victim: Indiano Arko
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Hurricane
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Deyionu
+Security: 0.8
+Alliance: Freelancer Alliance
+Corp: Harbingers of Sarrow
+Ship: Megathron
+Weapon: Megathron
+
+Name: Kaand
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Thorax
+Weapon: Hammerhead I
+
+Name: Kayron Brennan
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Korudon
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Thorax
+Weapon: Hammerhead I
+
+Name: Vazsholik (laid the final blow)
+Security: 1.0
+Alliance: The Foundation.
+Corp: NorCorp Security
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+Name: Corovus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Arazu
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+Name: Minisoza
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ares
+Weapon: Ares
+
+Name: Rohan V
+Security: 2.1
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Blackbird
+Weapon: Blackbird
+
+Name: dastommy79
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Raptor
+Weapon: Bloodclaw Light Missile
+
+Name: Zizz
+Security: 4.1
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Vexor
+Weapon: Vexor
+
+Name: Frau Formaggio
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Helios
+Weapon: Hobgoblin II
+
+Name: RythemAndStealth
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Vengeance
+Weapon: Vengeance
+
+
+Destroyed items:
+
+650mm Medium 'Scout' Artillery I
+650mm Medium 'Scout' Artillery I
+650mm Medium 'Scout' Artillery I
+Medium 'Ghoul' Energy Siphon I
+Nuclear M, Qty: 69
+Bloodclaw Light Missile, Qty: 63
+'Arbalest' Assault Missile Launcher
+Alumel-Wired I Sensor Augmentation
+Gyrostabilizer II
+Gyrostabilizer II
+Gyrostabilizer II
+Signal Amplifier I
+Tracking Enhancer II
+Phased Plasma M, Qty: 1314 (Cargo)
+Bloodclaw Light Missile, Qty: 536 (Cargo)
+Thunderbolt Heavy Missile, Qty: 1382 (Cargo)
+

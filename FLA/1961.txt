@@ -1,0 +1,53 @@
+2007.01.12 23:26
+
+Victim: Hermithoth
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Vexor
+System: OWXT-5
+Security: 0.0
+
+Involved parties:
+
+Name: Drakin Korin
+Security: -0.9
+Alliance: None
+Corp: Eternal Rising
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: menace ace (laid the final blow)
+Security: -4.1
+Alliance: None
+Corp: Eternal Rising
+Ship: Enyo
+Weapon: Light Neutron Blaster II
+
+Name: Limited Slip
+Security: 0.1
+Alliance: None
+Corp: Eternal Rising
+Ship: Harpy
+Weapon: Harpy
+
+Name: Elfaen Ethenwe
+Security: -3.8
+Alliance: None
+Corp: Eternal Rising
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+150mm 'Scout' I Accelerator Cannon
+Antimatter Charge S, Qty: 35
+10MN Afterburner I
+Drone Navigation Computer I
+Energized Adaptive Nano Membrane I
+Energized Adaptive Nano Membrane I
+1600mm Reinforced Crystalline Carbonide Plates I
+Antimatter Charge S, Qty: 1762 (Cargo)
+Hobgoblin II (Drone Bay)
+Medium Armor Maintenance Bot I, Qty: 3 (Drone Bay)
+

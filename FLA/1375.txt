@@ -1,0 +1,68 @@
+2007.03.11 23:23
+
+Victim: Erikel
+Alliance: Chorus of Dawn
+Corp: Cosmic Odyssey
+Destroyed: Gallente Shuttle
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Fugnut
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Drake
+Weapon: Thunderbolt Heavy Missile
+
+Name: dastommy79
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Armageddon
+Weapon: Valkyrie II
+
+Name: Lynndia
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Raven
+Weapon: XT-9000 Cruise Launcher
+
+Name: Kargh (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Thorax
+Weapon: 200mm Railgun I
+
+Name: Solarienne
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Prophecy
+Weapon: Heavy Beam Laser II
+
+Name: Kateryne
+Security: 0.1
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Maelstrom
+Weapon: 800mm Heavy Prototype I Repeating Siege Cannon
+
+Name: Illesa
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Caracal
+Weapon: Heavy Missile Launcher I
+
+Name: Almagar Phog
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Blackbird
+Weapon: FZ-3 Subversive Spatial Destabilizer ECM
+
+

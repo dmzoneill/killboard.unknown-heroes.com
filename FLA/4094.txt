@@ -1,0 +1,26 @@
+2007.04.14 12:28
+
+Victim: Aguisa
+Alliance: None
+Corp: Center for Advanced Studies
+Destroyed: Gallente Shuttle
+System: GY5-26
+Security: 0.0
+
+Involved parties:
+
+Name: Mizerik (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Scorpion
+Weapon: Medium Rudimentary Concussion Bomb I
+
+Name: Slim Jim
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+

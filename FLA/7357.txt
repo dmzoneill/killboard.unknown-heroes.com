@@ -1,0 +1,26 @@
+2006.08.18 22:01
+
+Victim: lol scout
+Alliance: None
+Corp: Science and Trade Institute
+Destroyed: Capsule
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Rick A (laid the final blow)
+Security: 4.2
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Merlin
+Weapon: Bloodclaw Light Missile
+
+Name: Minesweeper
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+

@@ -1,0 +1,146 @@
+2007.04.18 03:59
+
+Victim: Feterous Jolin
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Destroyed: Myrmidon
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: xinndo jagged
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Drake
+Weapon: Havoc Fury Heavy Missile
+
+Name: Skull Fire (laid the final blow)
+Security: 0.8
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Raven
+Weapon: Juggernaut Torpedo
+
+Name: coldkill
+Security: 1.9
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Brutix
+Weapon: Brutix
+
+Name: Raketefrau
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Blackbird
+Weapon: Widowmaker Heavy Missile
+
+Name: Primaxin
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Harbingers of Sarrow
+Ship: Ferox
+Weapon: Hellfire Assault Missile
+
+Name: Michael Shanks
+Security: 0.1
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Tempest
+Weapon: Scourge Heavy Missile
+
+Name: Kvarium Ki
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Stabber
+Weapon: Stabber
+
+Name: Lord Raptor
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Caracal
+Weapon: SV-2000 Assault Missile Bay
+
+Name: The Cade
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Thorax
+Weapon: Thorax
+
+Name: Kartock Maar
+Security: 2.1
+Alliance: Freelancer Alliance
+Corp: Harbingers of Sarrow
+Ship: Celestis
+Weapon: Celestis
+
+Name: Kayron Brennan
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Merlin
+Weapon: Bloodclaw Light Missile
+
+Name: TroNaaR
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Taranis
+Weapon: Initiated Warp Jammer I
+
+Name: Tran Whistler
+Security: 5.3
+Alliance: Freelancer Alliance
+Corp: Harbingers of Sarrow
+Ship: Raven
+Weapon: ZW-4100 Siege Missile Bay
+
+Name: Remontoir
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Brutix
+Weapon: Heavy Electron Blaster II
+
+Name: Magic Mazuma
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Rifter
+Weapon: Stasis Webifier I
+
+Name: KiNgShiZzLe
+Security: 5.0
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+Name: Gemini Hypernova
+Security: 1.0
+Alliance: The Sundering
+Corp: ironwood ink
+Ship: Blackbird
+Weapon: Medium Nosferatu I
+
+
+Destroyed items:
+
+Modal Neutron Particle Accelerator I
+Modal Neutron Particle Accelerator I
+Antimatter Charge M, Qty: 319
+Y-T8 Overcharged Hydrocarbon I Microwarpdrive
+X5 Prototype I Engine Enervator
+Medium Electrochemical Capacitor Booster I
+Cap Booster 800
+Sensor Booster II
+Medium Armor Repairer II
+Antimatter Charge M, Qty: 5000 (Cargo)
+Berserker I, Qty: 2 (Drone Bay)
+Vespa II, Qty: 2 (Drone Bay)
+

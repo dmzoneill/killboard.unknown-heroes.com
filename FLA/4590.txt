@@ -1,0 +1,103 @@
+2007.04.14 21:20
+
+Victim: Korudon
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Brutix
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: LUCKY HEADY
+Security: -1.6
+Alliance: Mercenary Coalition
+Corp: Seraphin Technologies
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Ste Harvin
+Security: 1.3
+Alliance: FATAL Alliance
+Corp: UK Corp
+Ship: Muninn
+Weapon: 720mm Howitzer Artillery II
+
+Name: ER0X
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Zealot
+Weapon: Heavy Pulse Laser II
+
+Name: Exekias
+Security: 2.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Hurricane
+Weapon: 650mm Artillery Cannon II
+
+Name: Tracerone
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Seraphin Technologies
+Ship: Vengeance
+Weapon: Vengeance
+
+Name: Larsson7
+Security: 4.4
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Wolf
+Weapon: 200mm AutoCannon II
+
+Name: Grimster (laid the final blow)
+Security: 4.4
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Apocalypse
+Weapon: Mega Beam Laser II
+
+Name: Ehxo
+Security: 4.9
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Vigil
+Weapon: Warp Disruptor I
+
+Name: Karille
+Security: -1.6
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Taranis
+Weapon: 125mm Railgun II
+
+Name: Hazmat 69
+Security: -1.6
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Crow
+Weapon: TE-2100 Standard Missile Bay
+
+Name: 4SG GillHead
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Seraphin Technologies
+Ship: Malediction
+Weapon: Malediction
+
+
+Destroyed items:
+
+200mm Railgun I
+200mm Railgun I
+200mm Railgun I
+Iron Charge M, Qty: 240
+10MN Afterburner I
+Kapteyn Sensor Array Inhibitor I
+Damage Control I
+Medium Armor Repairer I
+Energized Adaptive Nano Membrane I
+Antimatter Charge M, Qty: 693 (Cargo)
+Hammerhead I, Qty: 4 (Drone Bay)
+

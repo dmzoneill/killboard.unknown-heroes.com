@@ -1,0 +1,63 @@
+2007.04.03 04:16
+
+Victim: TroNaaR
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Dominix
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Queldonus (laid the final blow)
+Security: 2.9
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Nidhoggur
+Weapon: Firbolg
+
+Name: Admentus Cor'vion
+Security: -0.2
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Deimos
+Weapon: Deimos
+
+Name: Exekias
+Security: 2.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: c0rn1
+Security: -2.1
+Alliance: S.E.R.A
+Corp: Seraphin Technologies
+Ship: Nidhoggur
+Weapon: Warp Disruptor II
+
+
+Destroyed items:
+
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+E500 Prototype Energy Vampire
+E500 Prototype Energy Vampire
+E500 Prototype Energy Vampire
+Small Tractor Beam I
+Eutectic I Capacitor Charge Array
+Eutectic I Capacitor Charge Array
+Damage Control II
+Energized Adaptive Nano Membrane I
+Shadow Serpentis Armor Kinetic Hardener
+N-Type Explosive Hardener I
+Hobgoblin II, Qty: 3 (Drone Bay)
+Ogre II, Qty: 2 (Drone Bay)
+Warden I, Qty: 2 (Drone Bay)
+Infiltrator EV-600, Qty: 5 (Drone Bay)
+

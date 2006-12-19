@@ -1,0 +1,19 @@
+2007.01.02 14:35
+
+Victim: KAA
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Capsule
+System: Isinokka
+Security: 0.7
+
+Involved parties:
+
+Name: Formosus Funus (laid the final blow)
+Security: 0.2
+Alliance: None
+Corp: Nexus Legion
+Ship: Stabber
+Weapon: 220mm Vulcan AutoCannon II
+
+

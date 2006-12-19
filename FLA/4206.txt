@@ -1,0 +1,86 @@
+2007.04.04 04:26
+
+Victim: TheMonster
+Alliance: Freelancer Alliance
+Corp: The Night Crew
+Destroyed: Megathron
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Emelie
+Security: -3.7
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Thanatos
+Weapon: Templar
+
+Name: Ronald Speirs
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Nidhoggur
+Weapon: Einherji
+
+Name: Queldonus
+Security: 2.9
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Nidhoggur
+Weapon: Einherji
+
+Name: Admentus Cor'vion (laid the final blow)
+Security: -0.2
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Dominix
+Weapon: Ogre II
+
+Name: Witch Doctor
+Security: 0.1
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Cerberus
+Weapon: Scourge Heavy Missile
+
+Name: Redginald
+Security: 4.5
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: BillyBong2
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Blackbird
+Weapon: Enfeebling Phase Inversion ECM I
+
+Name: Exekias
+Security: 2.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Stiletto
+Weapon: Rocket Launcher II
+
+
+Destroyed items:
+
+Heavy Nosferatu I
+Limited Mega Ion Blaster I
+Limited Mega Ion Blaster I
+Limited Mega Ion Blaster I
+Antimatter Charge L, Qty: 400
+100MN MicroWarpdrive I
+'Langour' Drive Disruptor I
+Cap Booster 800
+Cap Booster 800
+Cap Booster 800
+Prototype I Sensor Booster
+Voltaic Nanite Kinetic Hardener I
+N-Type Thermic Hardener I
+Beta Hull Mod Nanofiber Structure
+Cap Booster 800, Qty: 18 (Cargo)
+

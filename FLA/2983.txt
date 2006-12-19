@@ -1,0 +1,110 @@
+2007.03.18 18:01
+
+Victim: DheXen
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Destroyed: Maelstrom
+System: 2O9G-D
+Security: 0.0
+
+Involved parties:
+
+Name: Primos Gun
+Security: 3.0
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Drake
+Weapon: Torrent Rage Assault Missile
+
+Name: SaNoSuKeJavi
+Security: -2.0
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Thorax
+Weapon: Thorax
+
+Name: Hinderburg
+Security: 4.2
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Wolf
+Weapon: Gremlin Rocket
+
+Name: Qirajiii
+Security: 2.4
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Thorax
+Weapon: Berserker I
+
+Name: Edone
+Security: 1.1
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Rook
+Weapon: Scourge Heavy Missile
+
+Name: Devylman (laid the final blow)
+Security: 0.8
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Arbitrator
+Weapon: Hammerhead I
+
+Name: astur
+Security: 5.0
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Jarek Khan
+Security: 5.1
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Thorax
+Weapon: Thorax
+
+Name: Himphotep 87
+Security: 0.5
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Thorax
+Weapon: Thorax
+
+Name: Utlaen
+Security: 5.0
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Flycatcher
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: KaKaShI
+Security: 3.7
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Stiletto
+Weapon: Stasis Webifier I
+
+Name: drakandu
+Security: 1.0
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Falcon
+Weapon: ECM - White Noise Generator II
+
+
+Destroyed items:
+
+1200mm Artillery Cannon I
+1200mm Artillery Cannon I
+1200mm Artillery Cannon I
+Titanium Sabot L, Qty: 59
+'Arbalest' Siege Missile Launcher
+Ballistic Deflection Field I
+F-12 Nonlinear Tracking Processor
+Gyrostabilizer II
+Damage Control I
+Power Diagnostic System I
+Wasp I (Drone Bay)
+

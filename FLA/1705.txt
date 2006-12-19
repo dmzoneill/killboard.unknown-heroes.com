@@ -1,0 +1,106 @@
+2007.01.01 16:45
+
+Victim: Akkijee
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Tempest
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Darknesss
+Security: -0.5
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Dominix
+Weapon: Ogre II
+
+Name: boo3916
+Security: 4.4
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Dominix
+Weapon: Berserker II
+
+Name: Pistonbroke
+Security: -0.2
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Dominix
+Weapon: Wasp II
+
+Name: Jenessa
+Security: 2.3
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Tempest
+Weapon: Tempest
+
+Name: xlop
+Security: -1.0
+Alliance: None
+Corp: omen.
+Ship: Typhoon
+Weapon: XT-9000 Cruise Launcher
+
+Name: Dr Wahoos
+Security: -3.3
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Raven
+Weapon: Hammerhead II
+
+Name: Elliott Manchild
+Security: -1.7
+Alliance: None
+Corp: omen.
+Ship: Dominix
+Weapon: Berserker II
+
+Name: Jimmycs83
+Security: -1.5
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Taranis
+Weapon: Warrior II
+
+Name: Axl Alien (laid the final blow)
+Security: -1.7
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: Murdoch Morf
+Security: 1.5
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: Calishere
+Security: 0.1
+Alliance: None
+Corp: Caldari Provisions
+Ship: Flycatcher
+Weapon: Fleeting Propulsion Inhibitor I
+
+
+Destroyed items:
+
+1400mm Howitzer Artillery I
+1400mm Howitzer Artillery I
+Fusion L, Qty: 33
+Bane Torpedo, Qty: 15
+Mjolnir Torpedo, Qty: 16
+Inferno Torpedo, Qty: 15
+ZW-4100 Siege Missile Bay
+F-b10 Nominal Capacitor Regenerator
+F-b10 Nominal Capacitor Regenerator
+Large Armor Repairer II
+Armor Explosive Hardener I
+Local Power Plant Manager: Reaction Control I
+EMP L, Qty: 1100 (Cargo)
+Inferno Torpedo, Qty: 74 (Cargo)
+

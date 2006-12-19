@@ -1,0 +1,40 @@
+2007.04.03 19:58
+
+Victim: Mikal Drey
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Destroyed: Capsule
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: 4SG GillHead
+Security: 5.0
+Alliance: S.E.R.A
+Corp: Seraphin Technologies
+Ship: Malediction
+Weapon: Malediction
+
+Name: Enosh Kerrim (laid the final blow)
+Security: -1.8
+Alliance: S.E.R.A
+Corp: Seraphin Technologies
+Ship: Astarte
+Weapon: Heavy Neutron Blaster II
+
+Name: Lady Rania
+Security: -8.3
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Huginn
+Weapon: Scourge Heavy Missile
+
+Name: Olli
+Security: -0.1
+Alliance: S.E.R.A
+Corp: Seraphin Technologies
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+

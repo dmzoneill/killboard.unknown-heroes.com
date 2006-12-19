@@ -1,0 +1,39 @@
+2007.03.17 07:49
+
+Victim: CrazyDoctor
+Alliance: Freelancer Alliance
+Corp: United Forces
+Destroyed: Rupture
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Lord Revent (laid the final blow)
+Security: 1.0
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Hurricane
+Weapon: 425mm AutoCannon II
+
+Name: Fred Fredburger
+Security: 5.0
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Raptor
+Weapon: 125mm Railgun II
+
+
+Destroyed items:
+
+150mm Carbide Railgun I
+150mm Carbide Railgun I
+Antimatter Charge S, Qty: 30
+Sabretooth Light Missile, Qty: 40
+Standard Missile Launcher I
+Standard Missile Launcher I
+Remote Sensor Dampener I
+Medium Armor Repairer I
+Bloodclaw Light Missile, Qty: 500 (Cargo)
+Vespa I, Qty: 2 (Drone Bay)
+

@@ -1,0 +1,28 @@
+2006.09.23 12:16
+
+Victim: ApucToKPaTKa
+Alliance: R.I.S.K
+Corp: SolaR KillerS
+Destroyed: Manticore
+System: F-NMX6
+Security: 0.0
+
+Involved parties:
+
+Name: Karas Rabus (laid the final blow)
+Security: 4.1
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Rupture
+Weapon: 280mm Howitzer Artillery II
+
+
+Destroyed items:
+
+Improved Cloaking Device II
+Cruise Missile Launcher II
+Wrath Fury Cruise Missile, Qty: 52
+J5 Prototype Warp Inhibitor I
+X5 Prototype I Engine Enervator
+Wrath Fury Cruise Missile, Qty: 376 (Cargo)
+

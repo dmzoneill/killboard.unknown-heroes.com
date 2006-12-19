@@ -1,0 +1,45 @@
+2007.01.24 18:32
+
+Victim: Diearek Celliance
+Alliance: None
+Corp: Mercs for Hire
+Destroyed: Caracal
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: HYT gangster
+Security: 0.3
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Stabber
+Weapon: Stabber
+
+Name: Mauy Thai (laid the final blow)
+Security: -1.5
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Curse
+Weapon: Valkyrie II
+
+Name: mr passie
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Jaguar
+Weapon: Jaguar
+
+
+Destroyed items:
+
+Thunderbolt Heavy Missile, Qty: 54
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+X5 Prototype I Engine Enervator
+ECM - Multispectral Jammer I
+Sensor Booster I
+Co-Processor I
+Co-Processor I
+

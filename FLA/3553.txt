@@ -1,0 +1,45 @@
+2007.03.26 21:58
+
+Victim: RubberDuckey
+Alliance: Freelancer Alliance
+Corp: Blackwater Squadron
+Destroyed: Impairor
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Deep Moondark
+Security: -0.1
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Crow
+Weapon: Standard Missile Launcher I
+
+Name: Dido Carthago (laid the final blow)
+Security: 4.6
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Claw
+Weapon: 250mm Light Artillery Cannon II
+
+Name: Neily
+Security: 4.6
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Blackbird
+Weapon: Assault Missile Launcher I
+
+Name: Magnelien
+Security: 4.3
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Drake
+Weapon: Heavy Missile Launcher I
+
+
+Destroyed items:
+
+Civilian Gatling Pulse Laser
+Tritanium (Cargo)
+

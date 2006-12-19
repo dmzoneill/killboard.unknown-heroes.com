@@ -1,0 +1,34 @@
+2007.04.11 03:38
+
+Victim: Jarek Desade
+Alliance: None
+Corp: Revolver Inc.
+Destroyed: Punisher
+System: Hakonen
+Security: 0.3
+
+Involved parties:
+
+Name: Kelter Highfire (laid the final blow)
+Security: 3.1
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Guristas Wrecker / Guristas
+
+
+Destroyed items:
+
+125mm Gatling AutoCannon II
+125mm Gatling AutoCannon II
+Small 'Knave' I Energy Drain
+EMP S, Qty: 15
+1MN Afterburner II
+F85 Peripheral Damage System I
+Small Armor Repairer II
+200mm Reinforced Rolled Tungsten Plates I
+EMP S, Qty: 3200 (Cargo)
+Warrior II (Cargo)
+

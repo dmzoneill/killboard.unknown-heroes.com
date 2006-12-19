@@ -1,0 +1,97 @@
+2006.12.12 21:39
+
+Victim: Teck7
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Lachesis
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Saal Iverson
+Security: 4.4
+Alliance: None
+Corp: 0utbreak
+Ship: Megathron
+Weapon: Megathron
+
+Name: whisk
+Security: -0.5
+Alliance: None
+Corp: 0utbreak
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Sarsha
+Security: 4.8
+Alliance: None
+Corp: 0utbreak
+Ship: Rokh
+Weapon: Rokh
+
+Name: siliconix
+Security: -1.0
+Alliance: None
+Corp: 0utbreak
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: superscarface
+Security: 2.5
+Alliance: None
+Corp: 0utbreak
+Ship: Abaddon
+Weapon: Tachyon Anode Particle Stream I
+
+Name: ScoRpS (laid the final blow)
+Security: 1.9
+Alliance: None
+Corp: 0utbreak
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Pilgrippa
+Security: -1.4
+Alliance: None
+Corp: 0utbreak
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Leilani Solaris
+Security: -1.4
+Alliance: None
+Corp: 0utbreak
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Mindlles
+Security: -0.1
+Alliance: None
+Corp: 0utbreak
+Ship: Megathron
+Weapon: Megathron
+
+
+Destroyed items:
+
+200mm Prototype I Gauss Gun
+Dread Guristas Lead Charge M, Qty: 76
+Havoc Heavy Missile, Qty: 32
+Scourge Heavy Missile, Qty: 31
+XR-3200 Heavy Missile Bay
+'Malkuth' Heavy Missile Launcher I
+10MN Afterburner I
+Fleeting Warp Scrambler I
+Cap Booster 400
+Cap Booster 400
+Indirect Scanning Dampening Unit I
+Medium Armor Repairer II
+Armor Explosive Hardener II
+Large Armor Repairer II (Cargo)
+Cap Booster 400, Qty: 4 (Cargo)
+Vespa II, Qty: 3 (Cargo)
+Improved Cloaking Device II (Cargo)
+Hammerhead II, Qty: 2 (Drone Bay)
+Vespa II (Drone Bay)
+

@@ -1,0 +1,54 @@
+2006.09.15 23:32
+
+Victim: Fr0zt
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Destroyed: Capsule
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: JiH4D
+Security: 5.0
+Alliance: None
+Corp: Digital Fury Corporation
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: ToneLock (laid the final blow)
+Security: 3.5
+Alliance: None
+Corp: Digital Fury Corporation
+Ship: Crow
+Weapon: Piranha Light Missile
+
+Name: Commander Solo
+Security: 5.0
+Alliance: None
+Corp: Digital Fury Corporation
+Ship: Crow
+Weapon: Sabretooth Light Missile
+
+Name: Wyndwhisper
+Security: 5.0
+Alliance: None
+Corp: Digital Fury Corporation
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+Name: Turq
+Security: 5.0
+Alliance: None
+Corp: GalacTECH Unlimited
+Ship: Claw
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: Allistar Mckeon
+Security: 5.0
+Alliance: None
+Corp: GalacTECH Unlimited
+Ship: Crow
+Weapon: 'Arbalest' Standard Missile Launcher
+
+

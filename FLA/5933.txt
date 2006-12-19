@@ -1,0 +1,24 @@
+2006.10.29 20:49
+
+Victim: Tsubakii
+Alliance: None
+Corp: ENMAX
+Destroyed: Osprey
+System: Amsen
+Security: 1.0
+
+Involved parties:
+
+Name: roboto212 (laid the final blow)
+Security: -0.4
+Alliance: Freelancer Alliance
+Corp: Sin-X Inc.
+Ship: Enyo
+Weapon: 150mm Railgun II
+
+
+Destroyed items:
+
+Miner II
+Condensed Scordite, Qty: 2709 (Cargo)
+

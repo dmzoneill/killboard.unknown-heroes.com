@@ -1,0 +1,43 @@
+2006.11.12 13:13
+
+Victim: Bvzhnwe
+Alliance: Interstellar Starbase Syndicate
+Corp: Old Galactic Earth Regiment
+Destroyed: Condor
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: TheBelgarion
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: D2O HeavyWater (laid the final blow)
+Security: 4.6
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Crow
+Weapon: Bloodclaw Precision Light Missile
+
+Name: Durante Alighieri
+Security: 2.8
+Alliance: Schism.
+Corp: New Light
+Ship: Caracal
+Weapon: Heavy Missile Launcher I
+
+
+Destroyed items:
+
+Large C5-L Emergency Shield Overload I (Cargo)
+Warp Disruptor I, Qty: 2 (Cargo)
+720mm Howitzer Artillery I, Qty: 2 (Cargo)
+Stasis Webifier I (Cargo)
+Regulated Ion Phase Cannon I (Cargo)
+Regulated Electron Phase Cannon I (Cargo)
+Ballistic Deflection Field I (Cargo)
+

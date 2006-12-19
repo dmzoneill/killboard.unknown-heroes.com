@@ -1,0 +1,52 @@
+2006.11.22 05:02
+
+Victim: Morteus Tulcas
+Alliance: None
+Corp: Odin Imperial Navy Shipyard
+Destroyed: Kestrel
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Shara El (laid the final blow)
+Security: 4.9
+Alliance: Dusk and Dawn
+Corp: Black Lance
+Ship: Lachesis
+Weapon: Scourge Heavy Missile
+
+Name: Elfaen Ethenwe
+Security: -1.6
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Rook
+Weapon: Remote Sensor Dampener II
+
+Name: roboto212
+Security: -0.4
+Alliance: Freelancer Alliance
+Corp: Sin-X Inc.
+Ship: Taranis
+Weapon: Taranis
+
+Name: Scumbalina
+Security: 1.3
+Alliance: Freelancer Alliance
+Corp: Sin-X Inc.
+Ship: Blackbird
+Weapon: Blackbird
+
+
+Destroyed items:
+
+Flameburst Light Missile, Qty: 84
+Standard Missile Launcher I
+Standard Missile Launcher I
+Civilian Shield Booster I
+Shield Recharger I (Cargo)
+Small Energy Transfer Array I (Cargo)
+Uranium Charge S, Qty: 100 (Cargo)
+Iridium Charge S, Qty: 100 (Cargo)
+ECM - Multispectral Jammer I (Cargo)
+

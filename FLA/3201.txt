@@ -1,0 +1,37 @@
+2007.03.20 22:26
+
+Victim: Kalibrana
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Destroyed: Catalyst
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Tarsig
+Security: 0.5
+Alliance: FATAL Alliance
+Corp: FATAL REVELATIONS
+Ship: Harbinger
+Weapon: Harbinger
+
+Name: Maasu (laid the final blow)
+Security: -1.5
+Alliance: FATAL Alliance
+Corp: FATAL REVELATIONS
+Ship: Sabre
+Weapon: 150mm Light AutoCannon II
+
+
+Destroyed items:
+
+150mm Railgun II
+150mm Railgun II
+Iron Charge S, Qty: 136
+150mm Prototype I Gauss Gun, Qty: 2 (Cargo)
+125mm Carbide Railgun I (Cargo)
+Antimatter Charge S, Qty: 990 (Cargo)
+Plutonium Charge S, Qty: 121 (Cargo)
+'Stoic' Core Equalizer I (Cargo)
+

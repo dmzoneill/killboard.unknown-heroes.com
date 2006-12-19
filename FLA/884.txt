@@ -1,0 +1,66 @@
+2007.02.25 20:15
+
+Victim: Eamz
+Alliance: None
+Corp: Finite Horizon
+Destroyed: Megathron
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: mne lee
+Security: 0.7
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Unknown
+Weapon: Medium Nosferatu II
+
+Name: Thafesko
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Nighthawk
+Weapon: Scourge Precision Heavy Missile
+
+Name: Inter Fectum
+Security: 2.0
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: coldkill
+Security: 1.7
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Megathron
+Weapon: Megathron
+
+Name: toonsterpw (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Vagabond
+Weapon: 425mm AutoCannon II
+
+
+Destroyed items:
+
+Neutron Blaster Cannon II
+Neutron Blaster Cannon II
+Neutron Blaster Cannon II
+Void L, Qty: 229
+Quad LiF Fueled I Booster Rockets
+Medium Capacitor Booster II
+Internal Force Field Array I
+Large 'Accommodation' Vestment Reconstructer I
+Cap Booster 800, Qty: 12 (Cargo)
+CZ-4 Concussive Spatial Destabilizer ECM (Cargo)
+'Hypnos' Ion Field ECM I (Cargo)
+Compulsive Multispectral ECM I (Cargo)
+Void L, Qty: 120 (Cargo)
+Strip Miner I (Cargo)
+'Malkuth' Cruise Launcher I, Qty: 3 (Cargo)
+Ogre I (Drone Bay)
+

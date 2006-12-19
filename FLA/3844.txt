@@ -1,0 +1,96 @@
+2007.04.01 22:52
+
+Victim: StrikerOneSevern
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Destroyed: Caracal
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Spacebar (laid the final blow)
+Security: 2.1
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Hurricane
+Weapon: Valkyrie II
+
+Name: Green Leaner
+Security: 2.1
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Stradivarious
+Security: 3.4
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Huginn
+Weapon: Huginn
+
+Name: Julien Derida
+Security: -0.6
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Sabre
+Weapon: Sabre
+
+Name: ER0X
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Harpy
+Weapon: Harpy
+
+Name: Rahzorus
+Security: 0.9
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Cadman Weyland
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Heretic
+Weapon: Heretic
+
+Name: KIAEnIgMa
+Security: 0.4
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Flycatcher
+Weapon: Thorn Javelin Rocket
+
+Name: Witch Doctor
+Security: 0.1
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Arazu
+Weapon: 250mm Railgun II
+
+Name: Waagaa Ktlehr
+Security: -1.1
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Aeon
+Weapon: Firbolg
+
+
+Destroyed items:
+
+Widowmaker Heavy Missile, Qty: 24
+Scourge Heavy Missile, Qty: 45
+Heavy Missile Launcher I
+Large Shield Extender I
+Medium Shield Booster I
+Heat Dissipation Field I
+Photon Scattering Field I
+Sensor Booster I
+Ballistic Control System I
+Widowmaker Heavy Missile, Qty: 1771 (Cargo)
+Scourge Heavy Missile, Qty: 1893 (Cargo)
+

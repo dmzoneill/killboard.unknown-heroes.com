@@ -1,0 +1,40 @@
+2007.02.17 04:05
+
+Victim: Isis Dea
+Alliance: North Star Confederation
+Corp: Raging Phoenix Incorporated
+Destroyed: Arbitrator
+System: PF-346
+Security: 0.0
+
+Involved parties:
+
+Name: KingRizen (laid the final blow)
+Security: -2.0
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Ship: Caracal
+Weapon: Scourge Fury Heavy Missile
+
+Name: phoenixsun
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Ship: Thorax
+Weapon: Thorax
+
+
+Destroyed items:
+
+Hellfire Assault Missile, Qty: 234
+EMP M, Qty: 84
+Heavy Assault Missile Launcher I
+Y-S8 Hydrocarbon I Afterburners
+'Langour' Drive Disruptor I
+Damage Control I
+Energized Adaptive Nano Membrane I
+800mm Reinforced Steel Plates II
+Arch Angel Nuclear M, Qty: 1000 (Cargo)
+'Malkuth' Heavy Missile Launcher I (Cargo)
+Hellfire Assault Missile, Qty: 3435 (Cargo)
+

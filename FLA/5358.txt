@@ -1,0 +1,55 @@
+2007.04.26 23:57
+
+Victim: Magic Mazuma
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Destroyed: Thrasher
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Savak
+Security: 0.2
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Omen
+Weapon: Hornet I
+
+Name: Bic Drax (laid the final blow)
+Security: 3.6
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Myrmidon
+Weapon: Ogre II
+
+Name: ZeroGrav
+Security: 3.1
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Evil Bunnies
+Security: 0.3
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Blackbird
+Weapon: Initiated Multispectral ECM I
+
+
+Destroyed items:
+
+250mm Light Artillery Cannon I
+250mm Light Artillery Cannon I
+250mm Light Artillery Cannon I
+250mm Light Artillery Cannon I
+EMP S, Qty: 16
+Piranha Light Missile, Qty: 32
+1MN Afterburner I
+Warp Scrambler I
+Stasis Webifier I
+Small Armor Repairer I
+EMP S, Qty: 243 (Cargo)
+Piranha Light Missile, Qty: 149 (Cargo)
+

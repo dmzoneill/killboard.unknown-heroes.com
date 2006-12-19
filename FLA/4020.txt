@@ -1,0 +1,39 @@
+2007.04.09 16:35
+
+Victim: Nina Mires
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Destroyed: Taranis
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Shassandra (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Taranis
+Weapon: Light Electron Blaster II
+
+Name: Malcanis
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Raven
+Weapon: Raven
+
+
+Destroyed items:
+
+125mm Railgun II
+Antimatter Charge S, Qty: 54
+Catalyzed Cold-Gas I Arcjet Thrusters
+Fleeting Warp Scrambler I
+Small Armor Repairer II
+Magnetic Field Stabilizer II
+Micro Auxiliary Power Core I
+Light Ion Blaster II (Cargo)
+Iridium Charge S, Qty: 2000 (Cargo)
+Antimatter Charge S, Qty: 2302 (Cargo)
+

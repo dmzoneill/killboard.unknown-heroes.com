@@ -1,0 +1,49 @@
+2006.08.12 21:57
+
+Victim: Killer Angel
+Alliance: Freelancer Alliance
+Corp: J.I.T. Enterprises
+Destroyed: Kestrel
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Kheo Sen
+Security: 2.2
+Alliance: None
+Corp: Beagle Corp
+Ship: Typhoon
+Weapon: Typhoon
+
+Name: Iorya Dragon
+Security: -1.2
+Alliance: None
+Corp: Beagle Corp
+Ship: Megathron
+Weapon: Warrior I
+
+Name: Mirimon (laid the final blow)
+Security: -2.0
+Alliance: None
+Corp: Beagle Corp
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+Name: Chewan Mesa
+Security: 5.0
+Alliance: None
+Corp: Beagle Corp
+Ship: Falcon
+Weapon: ECM - Multispectral Jammer II
+
+
+Destroyed items:
+
+Phalanx Rocket, Qty: 60
+Rocket Launcher I
+Rocket Launcher I
+J5b Phased Prototype Warp Inhibitor I
+Ballistic Control System I
+Phalanx Rocket, Qty: 400 (Cargo)
+

@@ -1,0 +1,79 @@
+2007.03.19 19:24
+
+Victim: Andhokarr
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Destroyed: Eris
+System: O-BDXB
+Security: 0.0
+
+Involved parties:
+
+Name: Freakdevil
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Malediction
+Weapon: Malediction
+
+Name: Grimes NC
+Security: 4.8
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: misscoda (laid the final blow)
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Blackbird
+Weapon: Thunderbolt Heavy Missile
+
+Name: Burn Lump
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Drake
+Weapon: Bloodclaw Light Missile
+
+Name: Shassandra
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Taranis
+Weapon: Taranis
+
+Name: Cockroach
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Prophecy
+Weapon: Prophecy
+
+Name: Ma'kal
+Security: 4.6
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Raptor
+Weapon: Fleeting Warp Scrambler I
+
+Name: Jamirie
+Security: 0.7
+Alliance: The Sundering
+Corp: ironwood ink
+Ship: Malediction
+Weapon: Malediction
+
+
+Destroyed items:
+
+125mm Compressed Coil Gun I, Qty: 3
+Antimatter Charge S, Qty: 240
+Flameburst Light Missile, Qty: 92
+TE-2100 Standard Missile Bay, Qty: 2
+Marked Modified SS Inertial Stabilizers
+Nanofiber Internal Structure I
+Antimatter Charge S, Qty: 2936 (Cargo)
+Lead Charge S, Qty: 1408 (Cargo)
+Warp Disrupt Probe, Qty: 34 (Cargo)

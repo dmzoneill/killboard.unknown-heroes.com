@@ -1,0 +1,26 @@
+2007.03.21 20:52
+
+Victim: marakudi
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Destroyed: Crow
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: FUUUFA (laid the final blow)
+Security: -1.5
+Alliance: YouWhat
+Corp: Pringles Inc.
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 37
+Upgraded 'Limos' Standard Missile Bay I
+'Malkuth' Standard Missile Launcher I
+Small Shield Booster II
+

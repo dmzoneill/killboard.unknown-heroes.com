@@ -1,0 +1,34 @@
+2007.04.07 02:09
+
+Victim: Sethiol
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Destroyed: Drake
+System: 4N-BUI
+Security: 0.0
+
+Involved parties:
+
+Name: Hans Blix (laid the final blow)
+Security: 1.2
+Alliance: None
+Corp: Exit 13
+Ship: Sleipnir
+Weapon: 425mm AutoCannon II
+
+Name: Bloodclaw Light Missile / Guristas
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 132
+'Malkuth' Heavy Missile Launcher I
+Small Tractor Beam I
+Large F-S9 Regolith Shield Induction
+Kinetic Deflection Amplifier I
+Ballistic Control System I
+Local Power Plant Manager: Capacity Power Relay I
+Local Power Plant Manager: Capacity Power Relay I
+Scourge Heavy Missile, Qty: 1690 (Cargo)
+Vespa I (Drone Bay)
+

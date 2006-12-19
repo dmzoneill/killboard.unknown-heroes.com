@@ -1,0 +1,25 @@
+2006.09.29 17:50
+
+Victim: Faolach
+Alliance: Firmus Ixion
+Corp: Imperium Technologies
+Destroyed: Badger
+System: 3-FKCZ
+Security: 0.0
+
+Involved parties:
+
+Name: zoturi (laid the final blow)
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Vagabond
+Weapon: Dual 180mm AutoCannon II
+
+
+Destroyed items:
+
+Prototype Cloaking Device I
+10MN Afterburner I
+Magnetic Scattering Amplifier I
+

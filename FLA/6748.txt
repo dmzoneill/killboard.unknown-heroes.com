@@ -1,0 +1,74 @@
+2006.11.26 05:09
+
+Victim: vile56
+Alliance: Anarchy Empire
+Corp: Nubs.
+Destroyed: Maller
+System: M2-CF1
+Security: 0.0
+
+Involved parties:
+
+Name: Goca (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Raven
+Weapon: Inferno Javelin Torpedo
+
+Name: SiriusCrow
+Security: -0.7
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Typhoon
+Weapon: Typhoon
+
+Name: MonwrathDisortium
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Dominix
+Weapon: Phased Muon Sensor Disruptor I
+
+Name: jonos syclarin
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Cyclone
+Weapon: Cyclone
+
+Name: Zattron
+Security: 2.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Caracal
+Weapon: Piranha Light Missile
+
+Name: Mr Kilgore
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Rapier
+Weapon: Rapier
+
+Name: Red Viper
+Security: 4.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Vexor
+Weapon: Vexor
+
+
+Destroyed items:
+
+Medium Pulse Laser II
+Medium Pulse Laser II
+Medium Pulse Laser II
+Conflagration S
+Conflagration S
+Small Armor Repairer II
+Energized Adaptive Nano Membrane II
+1600mm Reinforced Rolled Tungsten Plates I
+Scorch S (Cargo)
+Conflagration S, Qty: 2 (Cargo)
+

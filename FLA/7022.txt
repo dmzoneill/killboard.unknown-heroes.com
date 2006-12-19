@@ -1,0 +1,54 @@
+2006.12.20 20:50
+
+Victim: makwa kabera
+Alliance: None
+Corp: Imperial Academy
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Kaeldavan
+Security: 2.3
+Alliance: Dusk and Dawn
+Corp: Asgard Schiffswerften
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: TroNaaR (laid the final blow)
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ishkur
+Weapon: 125mm Railgun II
+
+Name: Osiris Warp
+Security: 1.4
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Hawk
+Weapon: Thorn Rocket
+
+Name: MeDisc0
+Security: 2.9
+Alliance: O X I D E
+Corp: W33D Corp.
+Ship: Vengeance
+Weapon: Medium Pulse Laser I
+
+Name: Fraeckel
+Security: 5.2
+Alliance: Dusk and Dawn
+Corp: The X-Trading Company
+Ship: Crow
+Weapon: Fleeting Warp Scrambler I
+
+Name: DrRockIT
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Asgard Schiffswerften
+Ship: Curse
+Weapon: Dark Blood Medium Energy Neutralizer
+
+

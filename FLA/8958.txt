@@ -1,0 +1,58 @@
+2006.12.21 21:15
+
+Victim: Rick A
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Destroyed: Merlin
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: turumbor (laid the final blow)
+Security: -1.7
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Deimos
+Weapon: Heavy Ion Blaster II
+
+Name: Phrixus Zephyr
+Security: 5.0
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Taranis
+Weapon: Hobgoblin II
+
+Name: john taylor2
+Security: 3.7
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Vexor
+Weapon: Berserker II
+
+Name: Drakin Korin
+Security: -3.0
+Alliance: None
+Corp: Evil Bandit Organisation
+Ship: Arazu
+Weapon: Fleeting Warp Scrambler I
+
+Name: boo3916
+Security: 4.3
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+
+Destroyed items:
+
+Sabretooth Light Missile, Qty: 39
+Standard Missile Launcher I
+Standard Missile Launcher I
+Warp Disruptor I
+Signal Amplifier I
+Antimatter Charge S, Qty: 859 (Cargo)
+Bloodclaw Light Missile, Qty: 432 (Cargo)
+Sabretooth Light Missile, Qty: 516 (Cargo)
+

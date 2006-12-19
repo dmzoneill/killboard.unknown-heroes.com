@@ -1,0 +1,58 @@
+2007.03.08 05:47
+
+Victim: Skull Fire
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Rokh
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Aragorn Elesar (laid the final blow)
+Security: -1.8
+Alliance: None
+Corp: Omniscient Order
+Ship: Typhoon
+Weapon: Paradise Cruise Missile
+
+Name: Quentin Decker
+Security: 5.1
+Alliance: None
+Corp: Eternal Enigma
+Ship: Deimos
+Weapon: Deimos
+
+Name: Nevermore
+Security: 4.5
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Drake
+Weapon: Thunderbolt Heavy Missile
+
+Name: FrankieG
+Security: -1.2
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Malediction
+Weapon: Dual Light Pulse Laser II
+
+
+Destroyed items:
+
+425mm Compressed Coil Gun I
+425mm 'Scout' I Accelerator Cannon
+425mm Railgun I
+425mm Prototype I Gauss Gun
+Antimatter Charge L, Qty: 77
+Scourge Heavy Missile, Qty: 18
+Widowmaker Heavy Missile, Qty: 15
+Invulnerability Field I
+Prototype I Sensor Booster
+'Orion' Tracking CPU I
+Pseudoelectron Containment Field I
+Invulnerability Field I (Cargo)
+Antimatter Charge L, Qty: 500 (Cargo)
+Iridium Charge L, Qty: 200 (Cargo)
+Widowmaker Heavy Missile, Qty: 224 (Cargo)
+

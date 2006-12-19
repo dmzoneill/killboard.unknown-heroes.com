@@ -1,0 +1,33 @@
+2006.12.19 21:06
+
+Victim: Xantheris
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Destroyed: Blackbird
+System: X-7OMU
+Security: 0.0
+
+Involved parties:
+
+Name: Jenessa (laid the final blow)
+Security: 2.2
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Maelstrom
+Weapon: 800mm Repeating Artillery II
+
+Name: boo3916
+Security: 4.3
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Dominix
+Weapon: E500 Prototype Energy Vampire
+
+
+Destroyed items:
+
+Heavy Missile Launcher I
+ECM - Multispectral Jammer I
+ECM - Multispectral Jammer I
+ECM - Multispectral Jammer I
+

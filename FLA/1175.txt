@@ -1,0 +1,83 @@
+2007.03.08 01:59
+
+Victim: Derfel Kadarn
+Alliance: Chorus of Dawn
+Corp: Infinite Style Incorporated
+Destroyed: Punisher
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Indigo Callypso (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: william kronos
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Sils wife
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: VoYvod
+Security: -1.3
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Coercer
+Weapon: Medium Beam Laser I
+
+Name: Mystical Angel
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: Muad' Dib
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: Xantheris
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Enyo
+Weapon: Enyo
+
+Name: Blaze Forerunner
+Security: 2.1
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Caracal
+Weapon: 'Malkuth' Heavy Assault Missile Launcher I
+
+Name: Astorothe
+Security: 1.9
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Hawk
+Weapon: Upgraded 'Limos' Standard Missile Bay I
+
+
+Destroyed items:
+
+Gatling Pulse Laser I
+Small Proton Smartbomb I
+Gamma S
+Auto-Gain Control Tracking Enhancer I
+Fourier Transform I Tracking Program
+

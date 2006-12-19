@@ -1,0 +1,54 @@
+2007.05.02 12:57
+
+Victim: lethario desrtuction
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Capsule
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: FlobbMkII
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Incursus
+Weapon: Incursus
+
+Name: Nukuquqa Hestase (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Kestrel
+Weapon: Sabretooth Light Missile
+
+Name: Kayron Brennan
+Security: 0.6
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Merlin
+Weapon: Initiated Harmonic Warp Jammer I
+
+Name: Marie Veedor
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Merlin
+Weapon: J5b Phased Prototype Warp Inhibitor I
+
+Name: silvrhawk
+Security: 4.8
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Coercer
+Weapon: Gatling Pulse Laser I
+
+Name: Mufeater
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Tristan
+Weapon: Tristan
+
+

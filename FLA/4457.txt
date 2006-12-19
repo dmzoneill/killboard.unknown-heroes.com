@@ -1,0 +1,73 @@
+2007.04.10 18:56
+
+Victim: RubberDuckey
+Alliance: Freelancer Alliance
+Corp: Blackwater Squadron
+Destroyed: Scorpion
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Phoenus (laid the final blow)
+Security: 0.4
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Vindicator
+Weapon: Ion Blaster Cannon II
+
+Name: Eleese
+Security: -0.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Dominix
+Weapon: Warp Disruptor II
+
+Name: Nina Mires
+Security: 4.6
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Taranis
+Weapon: Taranis
+
+Name: Rukaz
+Security: 3.1
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: kapten sortebil
+Security: 4.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Raptor
+Weapon: Raptor
+
+Name: Xi Dioxyde
+Security: 2.4
+Alliance: S.E.R.A
+Corp: Seraphin Technologies
+Ship: Executioner
+Weapon: Executioner
+
+Name: abzzo
+Security: 1.7
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Crusader
+Weapon: Crusader
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Large F-S9 Regolith Shield Induction
+Shield Flux Coil I
+Shield Power Relay I (Cargo)
+Stasis Webifier I (Cargo)
+Dual 250mm Railgun I (Cargo)
+Scourge Heavy Missile, Qty: 60 (Cargo)
+Heavy Missile Launcher I (Cargo)
+Light Shield Maintenance Bot I, Qty: 2 (Cargo)
+

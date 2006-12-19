@@ -1,0 +1,69 @@
+2007.02.06 03:11
+
+Victim: WolfRavage
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Destroyed: Megathron
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Seldarine (laid the final blow)
+Security: 0.1
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Vagabond
+Weapon: Dual 180mm AutoCannon II
+
+Name: EL TITAN
+Security: 1.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: CLEISTHENES2
+Security: -0.9
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Claw
+Weapon: Claw
+
+Name: Polydectes
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Heretic
+Weapon: Heretic
+
+Name: Funky Feeling
+Security: 4.6
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Myrmidon
+Weapon: Myrmidon
+
+Name: Flavius Renatus
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Stiletto
+Weapon: J5b Phased Prototype Warp Inhibitor I
+
+
+Destroyed items:
+
+425mm Railgun I
+425mm Railgun I
+425mm Railgun I
+Iron Charge L, Qty: 20
+Sensor Booster I
+Tracking Computer II
+Tracking Computer II
+Large Armor Repairer II
+Tracking Enhancer II
+Tracking Enhancer II
+Magnetic Field Stabilizer II
+1600mm Reinforced Rolled Tungsten Plates I
+

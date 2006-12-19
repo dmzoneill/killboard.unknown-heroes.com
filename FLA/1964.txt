@@ -1,0 +1,37 @@
+2007.01.12 23:50
+
+Victim: Mokh'Tar
+Alliance: Freelancer Alliance
+Corp: Caldar Mercenary Syndicate
+Destroyed: Blackbird
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Heinky
+Security: 2.7
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Abaddon
+Weapon: Tachyon Beam Laser II
+
+Name: DHB WildCat (laid the final blow)
+Security: -1.2
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Wrath Cruise Missile
+
+
+Destroyed items:
+
+Sabretooth Light Missile, Qty: 61
+Flameburst Light Missile, Qty: 61
+'Malkuth' Assault Missile Launcher I
+Induced Multispectral ECM I
+Induced Multispectral ECM I
+Induced Multispectral ECM I
+Flameburst Light Missile, Qty: 463 (Cargo)
+Piranha Light Missile, Qty: 466 (Cargo)
+

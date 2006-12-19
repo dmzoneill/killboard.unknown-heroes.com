@@ -1,0 +1,152 @@
+2007.03.28 20:06
+
+Victim: lord xavier
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Destroyed: Ferox
+System: P-2TTL
+Security: 0.0
+
+Involved parties:
+
+Name: Rhayvn
+Security: 4.2
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Abaddon
+Weapon: Abaddon
+
+Name: Kkmar Jheren
+Security: -1.5
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Weilbull (laid the final blow)
+Security: 2.9
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: GoGo Yubari
+Security: 0.1
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Megathron
+Weapon: Megathron
+
+Name: numbers
+Security: 4.1
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Zealot
+Weapon: Zealot
+
+Name: Waagaa Ktlehr
+Security: -1.1
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Aeon
+Weapon: Ogre I
+
+Name: Lady Rania
+Security: -8.3
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: petergriffen
+Security: 2.8
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: kapten sortebil
+Security: 4.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Tempest
+Weapon: 1400mm Carbine Howitzer I
+
+Name: Ferocious FeAr
+Security: 1.4
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Eagle
+Weapon: Eagle
+
+Name: Steve Dave
+Security: 4.1
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Harpy
+Weapon: Harpy
+
+Name: Shraek
+Security: 1.4
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: Xi Dioxyde
+Security: 2.4
+Alliance: S.E.R.A
+Corp: Seraphin Technologies
+Ship: Executioner
+Weapon: Executioner
+
+Name: Wladomir Jed
+Security: 3.7
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Rook
+Weapon: ECM - Multispectral Jammer II
+
+Name: Tripline
+Security: 1.4
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+Name: Seleene
+Security: -1.8
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Nyx
+Weapon: Domination Warp Disruptor
+
+Name: Nuwa
+Security: 1.4
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Eris
+Weapon: Eris
+
+
+Destroyed items:
+
+200mm Railgun I
+Antimatter Charge M, Qty: 160
+Widowmaker Heavy Missile, Qty: 26
+Thunderbolt Heavy Missile, Qty: 26
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Large F-S9 Regolith Shield Induction
+Ballistic Deflection Field I
+Photon Scattering Field I
+Remote Sensor Dampener I
+Magnetic Field Stabilizer I
+Type-D Power Core Modification: Diagnostic System
+Capacitor Flux Coil I
+Antimatter Charge M, Qty: 1000 (Cargo)
+Thunderbolt Heavy Missile, Qty: 110 (Cargo)
+Scourge Heavy Missile, Qty: 250 (Cargo)
+Widowmaker Heavy Missile, Qty: 250 (Cargo)
+

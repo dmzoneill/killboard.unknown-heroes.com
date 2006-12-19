@@ -1,0 +1,24 @@
+2006.10.15 20:35
+
+Victim: The G0D
+Alliance: R.I.S.K
+Corp: The First Foundation
+Destroyed: Kestrel
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: W4RR10R (laid the final blow)
+Security: 1.1
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 78
+Standard Missile Launcher I
+

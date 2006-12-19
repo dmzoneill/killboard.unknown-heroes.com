@@ -1,0 +1,33 @@
+2006.12.30 21:20
+
+Victim: Korudon
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Crow
+System: Torrinos
+Security: 0.5
+
+Involved parties:
+
+Name: xlop (laid the final blow)
+Security: -1.1
+Alliance: None
+Corp: omen.
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+
+Destroyed items:
+
+Upgraded 'Limos' Standard Missile Bay I
+Upgraded 'Limos' Standard Missile Bay I
+Phased Monopropellant I Hydrazine Boosters
+Fleeting Warp Scrambler I
+Signal Amplifier II
+Nanofiber Internal Structure I
+Beta Hull Mod Nanofiber Structure
+Small Shield Booster II (Cargo)
+X5 Prototype I Engine Enervator, Qty: 2 (Cargo)
+Bloodclaw Light Missile, Qty: 3002 (Cargo)
+Nanofiber Internal Structure I, Qty: 2 (Cargo)
+

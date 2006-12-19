@@ -1,0 +1,89 @@
+2007.02.27 14:02
+
+Victim: Kiara Diepp
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Destroyed: Raven
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Chode Rizoum
+Security: -1.9
+Alliance: None
+Corp: Temptation inc.
+Ship: Typhoon
+Weapon: Berserker II
+
+Name: hezitationkillz
+Security: -1.6
+Alliance: None
+Corp: Temptation inc.
+Ship: Tempest
+Weapon: Tempest
+
+Name: Donald Trump (laid the final blow)
+Security: -1.8
+Alliance: None
+Corp: Temptation inc.
+Ship: Tempest
+Weapon: Dual 425mm AutoCannon II
+
+Name: VirkMaN
+Security: 0.1
+Alliance: None
+Corp: Temptation inc.
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Guristas Extinguisher / Guristas
+
+
+Destroyed items:
+
+Juggernaut Torpedo, Qty: 46
+'Arbalest' Siege Missile Launcher
+'Arbalest' Siege Missile Launcher
+Small Tractor Beam I
+Large Shield Extender II
+X-Large Converse I Deflection Catalyzer
+100MN MicroWarpdrive I
+Ballistic Deflection Field II
+Invulnerability Field I
+Ballistic Control System I
+Inertia Stabilizers I
+Nanofiber Internal Structure I
+Large Shield Extender I (Cargo)
+Passive Barrier Compensator I (Cargo)
+Medium Neutron Saturation Injector I (Cargo)
+Eutectic I Capacitor Charge Array (Cargo)
+Cap Recharger I (Cargo)
+Medium Ohm Capacitor Reserve I (Cargo)
+Medium Capacitor Battery I, Qty: 2 (Cargo)
+Medium Armor Repairer I, Qty: 3 (Cargo)
+Dual 250mm Railgun I (Cargo)
+350mm Railgun I (Cargo)
+Dual 250mm Compressed Coil Gun I (Cargo)
+Iron Charge M, Qty: 100 (Cargo)
+Iron Charge L, Qty: 200 (Cargo)
+Juggernaut Torpedo, Qty: 259 (Cargo)
+FZ-3 Subversive Spatial Destabilizer ECM (Cargo)
+Extra Gravimetric ECCM Scanning Array I (Cargo)
+Alfven Surface Targeting Annex I (Cargo)
+Tracking Link I, Qty: 2 (Cargo)
+Sensor Booster I (Cargo)
+ECCM Projector I (Cargo)
+Phased Muon ECCM Caster I (Cargo)
+'Abandon' Targeting Disruptor I (Cargo)
+Warp Core Stabilizer I (Cargo)
+Devastator Cruise Missile, Qty: 100 (Cargo)
+Eradicator F.O.F. Heavy Missile I, Qty: 100 (Cargo)
+Hydra F.O.F. Heavy Missile I, Qty: 100 (Cargo)
+Heavy Missile Launcher I (Cargo)
+Compact 'Limos' Assault Missile Bay I (Cargo)
+Compulsive Signal Distortion Amplifier I (Cargo)
+Beta Reactor Control: Capacitor Flux I (Cargo)
+Heavy Assault Missile Launcher I (Cargo)
+Ogre I (Drone Bay)
+

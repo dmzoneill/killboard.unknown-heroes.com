@@ -1,0 +1,31 @@
+2006.11.20 22:04
+
+Victim: Efir
+Alliance: None
+Corp: Pilots From Honour
+Destroyed: Malediction
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Angel Vengen (laid the final blow)
+Security: 4.5
+Alliance: Freelancer Alliance
+Corp: Caldar Mercenary Syndicate
+Ship: Armageddon
+Weapon: Mega Modulated Pulse Energy Beam I
+
+
+Destroyed items:
+
+Dual Light Beam Laser II
+Dual Light Beam Laser II
+Multifrequency S
+Multifrequency S
+J5 Prototype Warp Inhibitor I
+'Langour' Drive Disruptor I
+Corpse (Cargo)
+Multifrequency S, Qty: 2 (Cargo)
+Radio S (Cargo)
+

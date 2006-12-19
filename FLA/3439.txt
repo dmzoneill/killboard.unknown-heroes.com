@@ -1,0 +1,76 @@
+2007.03.27 00:39
+
+Victim: Ace Mcloud
+Alliance: Privateer Alliance
+Corp: The IMorral MAjority
+Destroyed: Ferox
+System: PF-346
+Security: 0.0
+
+Involved parties:
+
+Name: 40 Cent
+Security: 4.7
+Alliance: Dusk and Dawn
+Corp: Tri Optimum
+Ship: Muninn
+Weapon: Muninn
+
+Name: WoNkY (laid the final blow)
+Security: -1.9
+Alliance: Dusk and Dawn
+Corp: Tri Optimum
+Ship: Zealot
+Weapon: Heavy Pulse Laser II
+
+Name: RayTruz
+Security: 1.7
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+Name: EvEhate2
+Security: 4.7
+Alliance: Dusk and Dawn
+Corp: Tri Optimum
+Ship: Claw
+Weapon: Claw
+
+Name: Smeik
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Tri Optimum
+Ship: Rifter
+Weapon: Rifter
+
+Name: TheSizzler
+Security: 3.8
+Alliance: Dusk and Dawn
+Corp: Tri Optimum
+Ship: Rifter
+Weapon: 200mm AutoCannon II
+
+Name: Reto Kobelt
+Security: 4.3
+Alliance: Dusk and Dawn
+Corp: Tri Optimum
+Ship: Rifter
+Weapon: Rifter
+
+
+Destroyed items:
+
+Small Diminishing Power System Drain I
+Thunderbolt Heavy Missile, Qty: 73
+'Malkuth' Heavy Missile Launcher I
+Large Shield Extender II
+Large Shield Extender II
+Large Shield Extender II
+Shield Power Relay II
+Shield Power Relay II
+100MN MicroWarpdrive I (Cargo)
+Electron Blaster Cannon I (Cargo)
+Heavy Tapered Capacitor Infusion I (Cargo)
+Hobgoblin I, Qty: 3 (Drone Bay)
+

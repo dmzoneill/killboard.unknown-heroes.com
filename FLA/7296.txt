@@ -1,0 +1,33 @@
+2006.08.02 21:36
+
+Victim: Yahfree
+Alliance: None
+Corp: ViperCorp
+Destroyed: Vexor
+System: Mara
+Security: 0.4
+
+Involved parties:
+
+Name: Scumbalina
+Security: 1.3
+Alliance: Freelancer Alliance
+Corp: Sin-X Inc.
+Ship: Moa
+Weapon: Moa
+
+Name: roboto212
+Security: 0.2
+Alliance: None
+Corp: Skill Level Six
+Ship: Brutix
+Weapon: Modal Neutron Particle Accelerator I
+
+Name: Maximus Caelum (laid the final blow)
+Security: 1.3
+Alliance: Interstellar Starbase Syndicate
+Corp: Riverstone Corp
+Ship: Raven
+Weapon: Wrath Cruise Missile
+
+

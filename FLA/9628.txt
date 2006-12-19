@@ -1,0 +1,38 @@
+2007.05.21 10:56
+
+Victim: love juan
+Alliance: None
+Corp: State War Academy
+Destroyed: Ibis
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Mufeater
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Ares
+Weapon: Ares
+
+Name: FlobbMkII (laid the final blow)
+Security: 4.4
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Helios
+Weapon: Hobgoblin II
+
+Name: tartrus
+Security: 4.6
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Stiletto
+Weapon: 'Langour' Drive Disruptor I
+
+
+Destroyed items:
+
+Civilian Gatling Railgun
+Tritanium (Cargo)
+

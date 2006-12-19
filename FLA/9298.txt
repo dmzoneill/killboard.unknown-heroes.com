@@ -1,0 +1,92 @@
+2007.05.05 18:54
+
+Victim: Lance Falcon
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Destroyed: Armageddon
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Vlad Cetes
+Security: 5.0
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Raven
+Weapon: Wrath Cruise Missile
+
+Name: LeZip
+Security: 1.2
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Hawk
+Weapon: Bloodclaw Light Missile
+
+Name: Screamer (laid the final blow)
+Security: 1.2
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Chimera
+Weapon: Dragonfly
+
+Name: Bothius
+Security: 0.4
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Catalyst
+Weapon: Catalyst
+
+Name: Hughwasit
+Security: 1.2
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Kestrel
+Weapon: Sabretooth Light Missile
+
+Name: Sebi Fal
+Security: -1.0
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Capsule
+Weapon: Standard Missile Launcher I
+
+Name: Savak
+Security: 1.3
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Executioner
+Weapon: Executioner
+
+Name: Dana Marillis
+Security: 3.6
+Alliance: Storm Armada
+Corp: stone grave haulage
+Ship: Blackbird
+Weapon: Heavy Missile Launcher I
+
+Name: Maniac Insane
+Security: 1.6
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Griffin
+Weapon: Flameburst Light Missile
+
+
+Destroyed items:
+
+Tachyon Modulated Energy Beam I
+Tachyon Modulated Energy Beam I
+Tachyon Modulated Energy Beam I
+Multifrequency L
+Multifrequency L
+Multifrequency L
+Medium F-RX Prototype I Capacitor Boost
+Tracking Enhancer I
+1600mm Reinforced Nanofiber Plates I
+Inertia Stabilizers I
+Ultraviolet L, Qty: 5 (Cargo)
+Radio L, Qty: 4 (Cargo)
+Cap Booster 800, Qty: 18 (Cargo)
+Warrior I (Drone Bay)
+

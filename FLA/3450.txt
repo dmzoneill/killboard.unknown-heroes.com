@@ -1,0 +1,62 @@
+2007.03.27 15:25
+
+Victim: obiele
+Alliance: YouWhat
+Corp: SteelVipers
+Destroyed: Curse
+System: J1AU-9
+Security: 0.0
+
+Involved parties:
+
+Name: misscoda
+Security: 4.5
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Raven
+Weapon: 'Arbalest' Cruise Launcher I
+
+Name: Amon Fire (laid the final blow)
+Security: 0.7
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Harbinger
+Weapon: Heavy Pulse Laser I
+
+Name: Corovus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Nemesis
+Weapon: Nemesis
+
+Name: Illesa
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Stabber
+Weapon: 220mm Vulcan AutoCannon I
+
+Name: Darc Kaahar
+Security: -0.4
+Alliance: Freelancer Alliance
+Corp: Feel Good Inc.
+Ship: Enyo
+Weapon: Enyo
+
+
+Destroyed items:
+
+Medium 'Knave' I Energy Drain
+Medium 'Knave' I Energy Drain
+Widowmaker Heavy Missile, Qty: 34
+XR-3200 Heavy Missile Bay
+Large Shield Extender I
+Local Hull Conversion Inertial Stabilizers I
+Local Hull Conversion Inertial Stabilizers I
+Local Hull Conversion Nanofiber Structure I
+Local Hull Conversion Nanofiber Structure I
+Widowmaker Heavy Missile, Qty: 265 (Cargo)
+Warrior II, Qty: 2 (Drone Bay)
+Hammerhead II, Qty: 3 (Drone Bay)
+

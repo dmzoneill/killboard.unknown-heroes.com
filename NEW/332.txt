@@ -1,0 +1,53 @@
+2007.03.12 00:39
+
+Victim: ace137
+Alliance: Chorus of Dawn
+Corp: Infinite Style Incorporated
+Destroyed: Capsule
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Loograsch
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: United Forces
+Ship: Thorax
+Weapon: Thorax
+
+Name: Kandread
+Security: 0.6
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Claw
+Weapon: Gremlin Rocket
+
+Name: Nukuquqa Hestase (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: Leonardo Sabrioski
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Crow
+Weapon: Rocket Launcher II
+
+Name: Fzoul
+Security: 2.7
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Stabber
+Weapon: Heavy Missile Launcher I
+
+Name: Duser
+Security: -1.5
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Rokh
+Weapon: 425mm 'Scout' I Accelerator Cannon
+

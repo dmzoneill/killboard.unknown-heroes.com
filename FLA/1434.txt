@@ -1,0 +1,48 @@
+2007.03.13 12:38
+
+Victim: Xordus
+Alliance: YouWhat
+Corp: Beasts of Burden
+Destroyed: Arbitrator
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Freakdevil
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Crow
+Weapon: Crow
+
+Name: Cockroach (laid the final blow)
+Security: 4.8
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Prophecy
+Weapon: Heavy Pulse Laser II
+
+Name: SoF Reaperman
+Security: 4.4
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Blackbird
+Weapon: Assault Missile Launcher I
+
+Name: Baja Bently
+Security: 4.0
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Blackbird
+Weapon: Compulsive Multispectral ECM I
+
+
+Destroyed items:
+
+Tungsten Charge M, Qty: 40
+ECM - Multispectral Jammer I
+ECM - Multispectral Jammer I
+Nanofiber Internal Structure I
+Tungsten Charge M, Qty: 370 (Cargo)
+

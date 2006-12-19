@@ -1,0 +1,31 @@
+2006.10.30 12:29
+
+Victim: bidman
+Alliance: Freelancer Alliance
+Corp: BGG
+Destroyed: Catalyst
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Cosh (laid the final blow)
+Security: 3.5
+Alliance: None
+Corp: NEXT LEVEL
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+
+Destroyed items:
+
+125mm Railgun I
+125mm Railgun I
+125mm Railgun I
+Iron Charge S, Qty: 380
+Prototype I Sensor Booster
+Magnetic Field Stabilizer I
+200mm Reinforced Nanofiber Plates I
+Bookmark (Cargo)
+Acolyte I (Drone Bay)
+

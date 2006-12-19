@@ -1,0 +1,44 @@
+2007.05.01 14:01
+
+Victim: Fitz Farseer
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Rupture
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Crushall
+Security: 5.0
+Alliance: The Foundation.
+Corp: NorCorp Security
+Ship: Dominix
+Weapon: Vespa II
+
+Name: Nukuquqa Hestase
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+Name: sako1963 (laid the final blow)
+Security: 5.0
+Alliance: The Foundation.
+Corp: NorCorp Security
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+
+Destroyed items:
+
+425mm AutoCannon I
+EMP M, Qty: 150
+Standard Missile Launcher I
+Voltaic Nanite Explosive Hardener I
+1600mm Reinforced Rolled Tungsten Plates I
+Flameburst Light Missile, Qty: 50 (Cargo)
+Widowmaker Heavy Missile, Qty: 58 (Cargo)
+Hammerhead I (Drone Bay)
+Vespa I (Drone Bay)

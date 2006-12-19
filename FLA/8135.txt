@@ -1,0 +1,29 @@
+2006.10.16 23:10
+
+Victim: Excaluber X
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Destroyed: Bestower
+System: Litiura
+Security: 0.5
+
+Involved parties:
+
+Name: simcor (laid the final blow)
+Security: -1.9
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Taranis
+Weapon: Light Neutron Blaster II
+
+
+Destroyed items:
+
+Mexallon, Qty: 4107 (Cargo)
+Isogen, Qty: 1021 (Cargo)
+Tritanium, Qty: 13173 (Cargo)
+Pyerite, Qty: 45466 (Cargo)
+Nocxium, Qty: 54 (Cargo)
+Basic Miner, Qty: 3 (Cargo)
+Miner I, Qty: 5 (Cargo)
+

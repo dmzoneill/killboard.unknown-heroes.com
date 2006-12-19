@@ -1,0 +1,31 @@
+2007.03.19 09:02
+
+Victim: truefranco
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Destroyed: Rapier
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Distun (laid the final blow)
+Security: 0.1
+Alliance: Guinea Pigs
+Corp: La Stere
+Ship: Typhoon
+Weapon: Wrath Fury Cruise Missile
+
+
+Destroyed items:
+
+650mm Artillery Cannon II
+720mm Howitzer Artillery II
+720mm Howitzer Artillery II
+Covert Ops Cloaking Device II
+Tremor M, Qty: 10
+X5 Prototype I Engine Enervator
+Local Hull Conversion Inertial Stabilizers I
+Tremor M, Qty: 1946 (Cargo)
+Hammerhead II (Drone Bay)
+

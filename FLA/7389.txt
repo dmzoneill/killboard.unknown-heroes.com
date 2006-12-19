@@ -1,0 +1,31 @@
+2006.08.31 06:25
+
+Victim: Sir Kad
+Alliance: Lotka Volterra
+Corp: adeptus gattacus
+Destroyed: Crow
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Noitaakka (laid the final blow)
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Raven
+Weapon: Vespa II
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 23
+Standard Missile Launcher II
+Standard Missile Launcher II
+Standard Missile Launcher II
+Fleeting Warp Scrambler I
+Fleeting Propulsion Inhibitor I
+F-b10 Nominal Capacitor Regenerator (Cargo)
+Bloodclaw Light Missile, Qty: 520 (Cargo)
+Bloodclaw Fury Light Missile, Qty: 329 (Cargo)
+

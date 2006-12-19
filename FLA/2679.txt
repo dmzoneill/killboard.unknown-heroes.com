@@ -1,0 +1,27 @@
+2007.03.02 07:09
+
+Victim: LT AndrewA
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Destroyed: Incursus
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Callenthia Mirago (laid the final blow)
+Security: -1.7
+Alliance: Band of Brothers
+Corp: TAOSP
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+
+Destroyed items:
+
+Salvager I, Qty: 12
+1MN MicroWarpdrive I
+J5b Phased Prototype Warp Inhibitor I
+Stasis Webifier I
+Nanofiber Internal Structure I
+

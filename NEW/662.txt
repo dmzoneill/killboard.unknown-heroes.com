@@ -1,0 +1,44 @@
+2007.05.04 07:29
+
+Victim: DarKStar13
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Destroyed: Ares
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Nukuquqa Hestase (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+Name: Corovus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Arazu
+Weapon: Arazu
+
+Name: Mufeater
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Hyperion
+Weapon: Hobgoblin II
+
+
+Destroyed items:
+
+Light Ion Blaster II
+Null S, Qty: 110
+Gremlin Rocket, Qty: 19
+'Arbalest' Rocket Launcher I
+Warp Disruptor II
+Power Diagnostic System II
+Type-D Power Core Modification: Reaction Control
+Antimatter Charge S, Qty: 388 (Cargo)
+Gremlin Rocket, Qty: 340 (Cargo)

@@ -1,0 +1,57 @@
+2006.12.12 21:37
+
+Victim: movy
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Destroyed: Vexor
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Pilgrippa (laid the final blow)
+Security: -1.4
+Alliance: None
+Corp: 0utbreak
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: superscarface
+Security: 2.5
+Alliance: None
+Corp: 0utbreak
+Ship: Abaddon
+Weapon: Tachyon Anode Particle Stream I
+
+Name: siliconix
+Security: -1.0
+Alliance: None
+Corp: 0utbreak
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Mindlles
+Security: -0.1
+Alliance: None
+Corp: 0utbreak
+Ship: Megathron
+Weapon: 350mm Railgun II
+
+Name: Saal Iverson
+Security: 4.4
+Alliance: None
+Corp: 0utbreak
+Ship: Megathron
+Weapon: Megathron
+
+
+Destroyed items:
+
+250mm Railgun I
+Iridium Charge M, Qty: 74
+Barton Reactor Capacitor Recharger I
+Alfven Surface Targeting Annex I
+Medium I-a Polarized Armor Regenerator
+Energized Adaptive Nano Membrane I
+Hornet I, Qty: 5 (Drone Bay)
+

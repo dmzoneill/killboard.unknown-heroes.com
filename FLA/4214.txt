@@ -1,0 +1,25 @@
+2007.04.04 06:25
+
+Victim: Njord V
+Alliance: Freelancer Alliance
+Corp: Blackwater Squadron
+Destroyed: Stiletto
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Kiyamoh (laid the final blow)
+Security: 4.0
+Alliance: None
+Corp: Aliastra
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+
+Destroyed items:
+
+1MN MicroWarpdrive II
+Remote Sensor Dampener I
+Overdrive Injector System I
+

@@ -1,0 +1,123 @@
+2007.01.01 17:05
+
+Victim: Jenessa
+Alliance: Triumvirate.
+Corp: D00M.
+Destroyed: Tempest
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: TiMeZeRo225
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: J.I.T. Enterprises
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+Name: Soldroz
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Raven
+Weapon: Ogre I
+
+Name: Dr Andy
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Dominix
+Weapon: Heavy Diminishing Power System Drain I
+
+Name: Jorax
+Security: 4.2
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Brutix
+Weapon: Brutix
+
+Name: avelution
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Ishkur
+Weapon: Warrior II
+
+Name: Chalimar
+Security: 1.4
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Arazu
+Weapon: Warrior II
+
+Name: NOCLUE
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: X.T.R
+Ship: Raven
+Weapon: Wrath Cruise Missile
+
+Name: mr passie
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: ninev0lts (laid the final blow)
+Security: 2.3
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Brutix
+Weapon: Hammerhead I
+
+Name: SniperMcBob
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Blackbird
+Weapon: Blackbird
+
+Name: Alayssi Mey
+Security: 3.5
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Merlin
+Weapon: Merlin
+
+Name: mrrabit
+Security: 1.8
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Cyclone
+Weapon: Havoc Heavy Missile
+
+Name: Mildeww
+Security: 2.6
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Raven
+Weapon: Vespa I
+
+Name: EM00
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Thorax
+Weapon: Heavy Neutron Blaster I
+
+
+Destroyed items:
+
+1400mm Howitzer Artillery II, Qty: 2
+Quake L, Qty: 20
+100MN Afterburner I
+ECM - Multispectral Jammer II, Qty: 2
+Sensor Booster II
+Gyrostabilizer II
+Emergency Damage Control I
+Large Armor Repairer II
+Reactor Control Unit II
+Quake L, Qty: 1187 (Cargo)
+Vespa II, Qty: 3 (Drone Bay)

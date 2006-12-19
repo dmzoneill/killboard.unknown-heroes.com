@@ -1,0 +1,29 @@
+2007.03.21 05:34
+
+Victim: Criosachille
+Alliance: Xelas Alliance
+Corp: Catalyst Reaction
+Destroyed: Taranis
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Tregaron (laid the final blow)
+Security: 2.3
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Thrasher
+Weapon: 200mm AutoCannon II
+
+
+Destroyed items:
+
+Light Neutron Blaster II
+Light Neutron Blaster II
+Antimatter Charge S, Qty: 80
+Phased Monopropellant I Hydrazine Boosters
+X5 Prototype I Engine Enervator
+Damage Control I
+Small Armor Repairer II
+

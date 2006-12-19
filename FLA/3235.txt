@@ -1,0 +1,40 @@
+2007.03.21 16:20
+
+Victim: forever faithless
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Destroyed: Vexor
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: PainBall
+Security: -0.9
+Alliance: Triumvirate.
+Corp: ViperSquad
+Ship: Absolution
+Weapon: Warrior II
+
+Name: eRogue (laid the final blow)
+Security: 0.0
+Alliance: Triumvirate.
+Corp: ViperSquad
+Ship: Brutix
+Weapon: Heavy Ion Blaster II
+
+
+Destroyed items:
+
+Small 'Ghoul' Energy Siphon I
+200mm Railgun I
+200mm Railgun I
+200mm Railgun I
+200mm Railgun I
+Antimatter Charge M, Qty: 57
+Remote Sensor Dampener I
+Remote Sensor Dampener I
+Sensor Booster I
+Dual-sheathed Adaptive Nano Plating I
+400mm Reinforced Crystalline Carbonide Plates I
+

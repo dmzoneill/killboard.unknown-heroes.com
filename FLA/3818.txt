@@ -1,0 +1,26 @@
+2007.04.01 21:03
+
+Victim: Kristian Dugat
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Destroyed: Capsule
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Eteoneus (laid the final blow)
+Security: 0.5
+Alliance: S.E.R.A
+Corp: Seraphin Technologies
+Ship: Claymore
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Ehxo
+Security: 4.9
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Dominix
+Weapon: Berserker II
+
+

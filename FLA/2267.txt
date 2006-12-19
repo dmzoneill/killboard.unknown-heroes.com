@@ -1,0 +1,38 @@
+2007.02.03 12:26
+
+Victim: Dana Foxworth
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Tempest
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Wrath Cruise Missile / Guristas (laid the final blow)
+
+Name: Murdoch Morf
+Security: 1.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Typhoon
+Weapon: Ogre I
+
+
+Destroyed items:
+
+1200mm Artillery Cannon I
+1200mm Artillery Cannon I
+1200mm Artillery Cannon I
+1200mm Artillery Cannon I
+1200mm Artillery Cannon I
+Titanium Sabot L, Qty: 22
+Fixed Parallel Link-Capacitor I
+Fixed Parallel Link-Capacitor I
+F-b10 Nominal Capacitor Regenerator
+Large Armor Repairer I
+Armor Kinetic Hardener I
+Armor Kinetic Hardener I
+Titanium Sabot L, Qty: 1757 (Cargo)
+Vespa I (Drone Bay)
+

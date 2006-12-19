@@ -1,0 +1,154 @@
+2007.04.14 19:40
+
+Victim: Maris E'lien
+Alliance: Firmus Ixion
+Corp: Black Avatar
+Destroyed: Rapier
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: FernLackey (laid the final blow)
+Security: 2.8
+Alliance: Freelancer Alliance
+Corp: ORIGIN SYSTEMS
+Ship: Hurricane
+Weapon: 650mm Artillery Cannon I
+
+Name: Dark Carnage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Drake
+Weapon: Thunderbolt Heavy Missile
+
+Name: Zarkovich
+Security: 3.9
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Caracal
+Weapon: Havoc Heavy Missile
+
+Name: ConXtionS
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: The Night Crew
+Ship: Myrmidon
+Weapon: Myrmidon
+
+Name: ANNIHILATER
+Security: 3.3
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Drake
+Weapon: Havoc Heavy Missile
+
+Name: Black DeathRain
+Security: 1.6
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Hawk
+Weapon: Bloodclaw Light Missile
+
+Name: Ghu'ru Talozan
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Celestis
+Weapon: Celestis
+
+Name: 3rdoffive
+Security: -0.3
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Thorax
+Weapon: Thorax
+
+Name: Kayron Brennan
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Caracal
+Weapon: XR-3200 Heavy Missile Bay
+
+Name: China Nightingale
+Security: 0.2
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Prophecy
+Weapon: Heavy Beam Laser I
+
+Name: Rev Darkwing
+Security: 2.7
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Flycatcher
+Weapon: Rocket Launcher II
+
+Name: RayTruz
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Blackbird
+Weapon: Heavy Missile Launcher I
+
+Name: Alski
+Security: 3.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Celestis
+Weapon: Sabretooth Light Missile
+
+Name: Xiao Yuei
+Security: 3.1
+Alliance: Freelancer Alliance
+Corp: Devious - Special Forces G.H.O.S.T Fleet Delta
+Ship: Caracal
+Weapon: Heavy Missile Launcher I
+
+Name: Shadow Elysium
+Security: -3.3
+Alliance: Freelancer Alliance
+Corp: ORIGIN SYSTEMS
+Ship: Blackbird
+Weapon: ECM - Phase Inverter II
+
+Name: Raketefrau
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Blackbird
+Weapon: Initiated Multispectral ECM I
+
+Name: Mikal Drey
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Hurricane
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Laerana
+Security: 0.2
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Catalyst
+Weapon: 125mm Railgun I
+
+
+Destroyed items:
+
+650mm Artillery Cannon II
+Fusion M, Qty: 26
+Covert Ops Cloaking Device II
+10MN Afterburner II
+Warp Disruptor II
+Remote Sensor Dampener II
+Remote Sensor Dampener II
+Gyrostabilizer II
+Gyrostabilizer II
+800mm Reinforced Steel Plates II
+Fusion M, Qty: 2081 (Cargo)
+Warrior II (Drone Bay)
+Hammerhead II, Qty: 2 (Drone Bay)
+

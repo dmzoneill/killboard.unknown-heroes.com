@@ -1,0 +1,26 @@
+2007.03.10 14:25
+
+Victim: Ocara Nezus
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Hawk
+System: XZH-4X
+Security: 0.0
+
+Involved parties:
+
+Name: Galaxor (laid the final blow)
+Security: 5.1
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Abaddon
+Weapon: Mega Modulated Pulse Energy Beam I
+
+
+Destroyed items:
+
+Small Shield Extender I
+Small C5-L Emergency Shield Overload I
+Ballistic Control System I
+Nanofiber Internal Structure I
+

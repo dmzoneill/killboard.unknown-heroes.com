@@ -1,0 +1,23 @@
+2006.12.12 21:56
+
+Victim: Jreoa dfaow
+Alliance: Freelancer Alliance
+Corp: Feel Good Inc.
+Destroyed: Ibis
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: beantin (laid the final blow)
+Security: 2.9
+Alliance: None
+Corp: 0utbreak
+Ship: Sabre
+Weapon: 200mm AutoCannon II
+
+
+Destroyed items:
+
+Tritanium (Cargo)
+

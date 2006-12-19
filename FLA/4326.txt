@@ -1,0 +1,66 @@
+2007.04.08 03:54
+
+Victim: Chekoteh
+Alliance: Freelancer Alliance
+Corp: United Forces
+Destroyed: Stabber
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: FowlPlayChiken (laid the final blow)
+Security: 1.2
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Thanatos
+Weapon: Templar
+
+Name: bsspewer
+Security: 2.5
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Archon
+Weapon: Dragonfly
+
+Name: Admentus Cor'vion
+Security: -0.5
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Dominix
+Weapon: Ogre II
+
+Name: Sedith
+Security: 1.7
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Aeon
+Weapon: Hakim's Modified Warp Disruptor
+
+Name: BillyBong2
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Blackbird
+Weapon: Heavy Missile Launcher I
+
+Name: AIRB
+Security: 3.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Rook
+Weapon: ECM - Spatial Destabilizer II
+
+
+Destroyed items:
+
+425mm AutoCannon I
+425mm AutoCannon I
+Nuclear M, Qty: 54
+Heavy Missile Launcher I
+10MN MicroWarpdrive I
+Stasis Webifier I
+Overdrive Injector System I
+Nuclear M, Qty: 1707 (Cargo)
+Widowmaker Heavy Missile, Qty: 22 (Cargo)
+

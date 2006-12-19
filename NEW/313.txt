@@ -1,0 +1,109 @@
+2007.03.08 00:22
+
+Victim: Celicia Warren
+Alliance: None
+Corp: R.H. Umbrella Corporation
+Destroyed: Thorax
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: DarkAvenger DK
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Drake
+Weapon: Havoc Heavy Missile
+
+Name: Mocuker (laid the final blow)
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Drake
+Weapon: Thunderbolt Heavy Missile
+
+Name: EM00
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Caracal
+Weapon: Warrior I
+
+Name: Jonas123
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Ferox
+Weapon: Warrior I
+
+Name: Swanny231
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Thorax
+Weapon: 250mm Carbide Railgun I
+
+Name: Burn Lump
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Drake
+Weapon: Hornet I
+
+Name: RToad
+Security: 1.5
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Caracal
+Weapon: 150mm Carbide Railgun I
+
+Name: Loograsch
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: United Forces
+Ship: Dominix
+Weapon: Dominix
+
+Name: Sy Sperling
+Security: 4.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Drake
+Weapon: Heavy Missile Launcher I
+
+Name: Jorax
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Myrmidon
+Weapon: Warrior II
+
+Name: Kandread
+Security: 0.6
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Claw
+Weapon: Warp Disruptor I
+
+Name: Tiberius Drake
+Security: 4.1
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Thorax
+Weapon: Thorax
+
+Name: Osyc
+Security: 2.6
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Stabber
+Weapon: Medium Nosferatu I
+
+Name: IBIRIETT
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Ship: Drake
+Weapon: SV-2000 Assault Missile Bay
+

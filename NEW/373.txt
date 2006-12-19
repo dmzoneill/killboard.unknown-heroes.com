@@ -1,0 +1,22 @@
+2007.03.16 10:46
+
+Victim: Gythar
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Destroyed: Badger Mark II
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: istasi (laid the final blow)
+Security: -5.4
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Thorax
+Weapon: Regulated Neutron Phase Cannon I
+
+
+Destroyed items:
+
+Expanded Cargohold I, Qty: 2

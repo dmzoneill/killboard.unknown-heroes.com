@@ -1,0 +1,28 @@
+2006.12.30 15:43
+
+Victim: ventura5
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Raptor
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: WarGod (laid the final blow)
+Security: 1.2
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Hurricane
+Weapon: 425mm AutoCannon II
+
+
+Destroyed items:
+
+75mm Gatling Rail II
+Flameburst Light Missile, Qty: 37
+Standard Missile Launcher II
+Local Power Plant Manager: Diagnostic System I
+Flameburst Fury Light Missile, Qty: 500 (Cargo)
+Sabretooth Fury Light Missile, Qty: 100 (Cargo)
+

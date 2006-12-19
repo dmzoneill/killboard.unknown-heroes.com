@@ -1,0 +1,35 @@
+2006.09.26 00:04
+
+Victim: J'Jenksie
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Destroyed: Crow
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Sha Kharn (laid the final blow)
+Security: 5.0
+Alliance: Ascendant Frontier
+Corp: Sha Kharn Corp
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Stain Protector
+Security: 0.1
+Alliance: Ascendant Frontier
+Corp: Sha Kharn Corp
+Ship: Ares
+Weapon: Fleeting Warp Scrambler I
+
+
+Destroyed items:
+
+Small Nosferatu I
+Thorn Rocket, Qty: 46
+OE-5200 Rocket Launcher
+Micro Auxiliary Power Core I
+Vespa I (Cargo)
+400mm Reinforced Crystalline Carbonide Plates I (Cargo)
+

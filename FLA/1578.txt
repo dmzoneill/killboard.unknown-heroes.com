@@ -1,0 +1,40 @@
+2007.03.17 07:15
+
+Victim: Ingrimsch
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Destroyed: Raptor
+System: DY-F70
+Security: 0.0
+
+Involved parties:
+
+Name: MrMajIc
+Security: 1.1
+Alliance: Dusk and Dawn
+Corp: Omega Enterprises
+Ship: Rapier
+Weapon: Hobgoblin II
+
+Name: RythemAndStealth (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Caracal
+Weapon: Havoc Heavy Missile
+
+
+Destroyed items:
+
+75mm Compressed Coil Gun I
+Iron Charge S, Qty: 200
+Bloodclaw Light Missile, Qty: 42
+'Malkuth' Standard Missile Launcher I
+'Malkuth' Standard Missile Launcher I
+1MN MicroWarpdrive II
+Fleeting Warp Scrambler I
+Micro Auxiliary Power Core I
+Type-D Altered SS Inertial Stabilizers
+Iron Charge S, Qty: 432 (Cargo)
+Sabretooth Light Missile, Qty: 500 (Cargo)
+

@@ -1,0 +1,19 @@
+2006.10.29 01:40
+
+Victim: leo190
+Alliance: None
+Corp: State War Academy
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Hosanna (laid the final blow)
+Security: 0.6
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Thrasher
+Weapon: 280mm Howitzer Artillery II
+
+

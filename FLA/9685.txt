@@ -1,0 +1,54 @@
+2007.05.23 16:16
+
+Victim: Kumiko Nagai
+Alliance: None
+Corp: Regeneration
+Destroyed: Probe
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Corovus (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+Name: silent uk
+Security: 2.5
+Alliance: DeStInY.
+Corp: Sacred Templars
+Ship: Heretic
+Weapon: Heretic
+
+Name: Kotori
+Security: -0.2
+Alliance: DeStInY.
+Corp: Sacred Templars
+Ship: Claw
+Weapon: Phalanx Rocket
+
+Name: Lost Hope
+Security: 0.0
+Alliance: DeStInY.
+Corp: The Knights Of Camelot
+Ship: Caracal
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+Name: Harkley
+Security: 1.0
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Vengeance
+Weapon: Vengeance
+
+Name: Bonkers2000
+Security: -0.5
+Alliance: DeStInY.
+Corp: The Knights Of Camelot
+Ship: Manticore
+Weapon: XT-9000 Cruise Launcher
+
+

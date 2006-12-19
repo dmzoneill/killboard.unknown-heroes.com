@@ -1,0 +1,19 @@
+2006.10.09 02:54
+
+Victim: FindemAndKillEm
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Destroyed: Capsule
+System: Ikao
+Security: 0.6
+
+Involved parties:
+
+Name: Surreptitious (laid the final blow)
+Security: 0.0
+Alliance: None
+Corp: Privateers
+Ship: Curse
+Weapon: Wasp I
+
+

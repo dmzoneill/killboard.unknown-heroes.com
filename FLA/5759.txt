@@ -1,0 +1,43 @@
+2006.10.15 05:42
+
+Victim: Creana
+Alliance: Process of Elimination
+Corp: Viper  Squad
+Destroyed: Ferox
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Paltar (laid the final blow)
+Security: 0.4
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: KriegDrachen
+Security: 0.4
+Alliance: Freelancer Alliance
+Corp: Abandoned Resolve Corporation
+Ship: Claw
+Weapon: Claw
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Heavy Missile Launcher II
+Heavy Missile Launcher II
+Scourge Fury Heavy Missile, Qty: 82
+10MN Afterburner II
+FZ-3 Subversive Spatial Destabilizer ECM
+'Repose' I Core Compensation
+10MN Afterburner II (Cargo)
+100MN Afterburner II (Cargo)
+Hammerhead II (Cargo)
+Ballistic Control System II (Cargo)
+Parallel Weapon Navigation Transmitter (Cargo)
+Cruise Missile Launcher II, Qty: 2 (Cargo)
+Hammerhead II, Qty: 2 (Drone Bay)
+

@@ -1,0 +1,114 @@
+2007.03.18 17:01
+
+Victim: Altanzar
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Destroyed: Rokh
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Gallente Control Tower Small / SteelVipers (laid the final blow)
+
+Name: WildCard
+Security: 4.3
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Gordon Red
+Security: 2.0
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Heretic
+Weapon: Heretic
+
+Name: IsmaelYU5 Iluvatar
+Security: 5.0
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Taranis
+Weapon: Hobgoblin II
+
+Name: obiele
+Security: 4.3
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Drake
+Weapon: Widowmaker Heavy Missile
+
+Name: Wingleader Teerts
+Security: 5.0
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Crusader
+Weapon: Initiated Warp Jammer I
+
+Name: Eelim Garak
+Security: 1.3
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Curse
+Weapon: Valkyrie II
+
+Name: The Ali
+Security: -3.2
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Amok'Trueborn' Pryde
+Security: -1.6
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Huginn
+Weapon: Bloodclaw Light Missile
+
+Name: Tzulan
+Security: 2.8
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Ashimmu
+Weapon: 220mm Vulcan AutoCannon I
+
+Name: Hunter Roshak
+Security: 4.4
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Crusader
+Weapon: Dual Light Beam Laser II
+
+Name: Sylvia McGregor
+Security: 2.6
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Thorax
+Weapon: Thorax
+
+Name: SwordsOfLight
+Security: 4.9
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Raptor
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+
+Destroyed items:
+
+Neutron Blaster Cannon I
+Neutron Blaster Cannon I
+Neutron Blaster Cannon I
+Neutron Blaster Cannon I
+Uranium Charge L, Qty: 192
+X-Large C5-L Emergency Shield Overload I
+Large Capacitor Battery I
+Large Capacitor Battery I
+Heavy Capacitor Booster I
+Invulnerability Field I
+Power Diagnostic System I
+Power Diagnostic System I
+Uranium Charge L, Qty: 480 (Cargo)
+

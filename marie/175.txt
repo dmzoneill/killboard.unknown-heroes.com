@@ -1,0 +1,89 @@
+2007.01.17 02:32
+
+Victim: cptblood
+Alliance: None
+Corp: Exanimo Inc
+Destroyed: Harpy
+System: 3T7-M8
+Security: 0.0
+
+Involved parties:
+
+Name: Marie Veedor
+Security: 4.2
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Ferox
+Weapon: Scourge Heavy Missile
+
+Name: reched
+Security: 0.2
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Rupture
+Weapon: Rupture
+
+Name: ventura5 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Raven
+Weapon: Vespa II
+
+Name: Jaig Maldara
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Flycatcher
+Weapon: 75mm Gatling Rail II
+
+Name: Fugnut
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Raven
+Weapon: Wrath Cruise Missile
+
+Name: Kasahara
+Security: -0.9
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: Mr Kilgore
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Huginn
+Weapon: Huginn
+
+Name: Xantheris
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Taranis
+Weapon: 125mm Railgun II
+
+Name: Mokh'Tar
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: Caldar Mercenary Syndicate
+Ship: Rifter
+Weapon: Rifter
+
+
+Destroyed items:
+
+125mm Railgun II
+Iridium Charge S, Qty: 72
+Standard Missile Launcher II
+Small Shield Booster II
+Magnetic Vortex Stabilizer I
+Guristas Iron Charge S, Qty: 963 (Cargo)
+Iridium Charge S, Qty: 874 (Cargo)
+Antimatter Charge S, Qty: 1700 (Cargo)
+Sabretooth Light Missile, Qty: 24 (Cargo)
+Piranha Precision Light Missile, Qty: 25 (Cargo)
+Bloodclaw Precision Light Missile, Qty: 60 (Cargo)
+

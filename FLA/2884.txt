@@ -1,0 +1,88 @@
+2007.03.14 18:22
+
+Victim: Chekoteh
+Alliance: Freelancer Alliance
+Corp: United Forces
+Destroyed: Typhoon
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Solid Wilko (laid the final blow)
+Security: -1.7
+Alliance: Eternal Rapture
+Corp: Quantum Synergies
+Ship: Hurricane
+Weapon: 425mm AutoCannon II
+
+Name: Ion Bartzabel
+Security: -0.1
+Alliance: Eternal Rapture
+Corp: Temptation inc.
+Ship: Megathron
+Weapon: Wasp II
+
+Name: Donald Trump
+Security: -1.7
+Alliance: Eternal Rapture
+Corp: Temptation inc.
+Ship: Typhoon
+Weapon: Ogre I
+
+Name: Gliding
+Security: -1.9
+Alliance: Eternal Rapture
+Corp: Quantum Synergies
+Ship: Astarte
+Weapon: Astarte
+
+Name: Jack Archer
+Security: -1.5
+Alliance: Eternal Rapture
+Corp: Quantum Synergies
+Ship: Taranis
+Weapon: 125mm Railgun II
+
+Name: Smith9001
+Security: 0.3
+Alliance: Eternal Rapture
+Corp: Quantum Synergies
+Ship: Harbinger
+Weapon: Focused Medium Pulse Laser II
+
+Name: Chode Rizoum
+Security: -2.1
+Alliance: Eternal Rapture
+Corp: Temptation inc.
+Ship: Myrmidon
+Weapon: Heavy Electron Blaster II
+
+Name: C Duggan
+Security: -4.5
+Alliance: Eternal Rapture
+Corp: Exotic Dancers Club
+Ship: Raptor
+Weapon: Warp Disruptor II
+
+
+Destroyed items:
+
+1200mm Heavy Carbine Howitzer I
+1200mm Heavy Carbine Howitzer I
+Nuclear L, Qty: 26
+Nuclear M, Qty: 79
+Wrath Cruise Missile, Qty: 40
+'Limos' Cruise Launcher I
+Shock 'Limos' Siege Missile Bay I
+Sensor Booster I
+Medium Armor Repairer I
+Large Automated I Carapace Restoration
+N-Type Explosive Hardener I
+1600mm Reinforced Rolled Tungsten Plates I
+1600mm Reinforced Rolled Tungsten Plates I
+Nuclear L, Qty: 332 (Cargo)
+Wrath Cruise Missile, Qty: 918 (Cargo)
+Ogre I, Qty: 2 (Drone Bay)
+Vespa II (Drone Bay)
+

@@ -1,0 +1,31 @@
+2007.04.08 19:05
+
+Victim: Scoutkill
+Alliance: None
+Corp: State War Academy
+Destroyed: Ibis
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Jack Thurner (laid the final blow)
+Security: 2.6
+Alliance: DeStInY.
+Corp: Fusion Enterprises Ltd
+Ship: Armageddon
+Weapon: Tachyon Beam Laser II
+
+Name: Jarath Abyss
+Security: 4.2
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Ship: Thorax
+Weapon: 200mm Railgun II
+
+
+Destroyed items:
+
+Civilian Gatling Railgun
+Basic Miner
+

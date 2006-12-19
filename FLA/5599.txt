@@ -1,0 +1,98 @@
+2006.10.08 17:32
+
+Victim: 098765
+Alliance: R.I.S.K
+Corp: The First Foundation
+Destroyed: Scorpion
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Matt Stoner
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Raven
+Weapon: Inferno Torpedo
+
+Name: Midiana (laid the final blow)
+Security: 0.6
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Vexor
+Weapon: Valkyrie II
+
+Name: XxSOULxX
+Security: 0.6
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Ship: Thorax
+Weapon: Hammerhead I
+
+Name: wessam
+Security: 4.5
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Rook
+Weapon: Havoc Heavy Missile
+
+Name: Hosanna
+Security: -0.7
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Wolf
+Weapon: Wolf
+
+Name: Soliloquil
+Security: 3.3
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Moa
+Weapon: Moa
+
+Name: TasKu
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Taranis
+Weapon: 125mm Railgun II
+
+Name: Jessica McDaniel
+Security: 1.3
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Scorpion
+Weapon: Scorpion
+
+Name: other mickey
+Security: 0.8
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Celestis
+Weapon: Celestis
+
+Name: Jack Greyson
+Security: 2.6
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Rupture
+Weapon: 720mm Howitzer Artillery I
+
+
+Destroyed items:
+
+Small 'Arup' I Remote Bulwark Reconstruction
+Wrath Cruise Missile, Qty: 18
+Cataclysm Cruise Missile, Qty: 38
+Cruise Missile Launcher I
+Cap Booster 800
+ECM - Ion Field Projector II
+ECM - Spatial Destabilizer II
+ECM - Multispectral Jammer II
+Large Armor Repairer I
+N-Type Adaptive Nano Membrane I
+N-Type Adaptive Nano Membrane I
+1600mm Reinforced Rolled Tungsten Plates I
+Wrath Cruise Missile, Qty: 320 (Cargo)
+

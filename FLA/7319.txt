@@ -1,0 +1,32 @@
+2006.08.10 19:18
+
+Victim: Terena Darkeen
+Alliance: None
+Corp: Flame of Redarian
+Destroyed: Prophecy
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Carl tabot (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Raven
+Weapon: Cataclysm Cruise Missile
+
+
+Destroyed items:
+
+Medium Nosferatu I
+250mm Carbide Railgun I
+250mm Carbide Railgun I
+Tungsten Charge M, Qty: 62
+Bloodclaw Light Missile, Qty: 37
+'Langour' Drive Disruptor I
+800mm Reinforced Crystalline Carbonide Plates I
+Plutonium Charge M, Qty: 3200 (Cargo)
+Bloodclaw Light Missile, Qty: 983 (Cargo)
+Warrior I (Drone Bay)
+

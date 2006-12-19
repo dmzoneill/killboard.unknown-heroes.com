@@ -1,0 +1,47 @@
+2007.05.08 21:24
+
+Victim: Cockroach
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Apocalypse
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Chowdown (laid the final blow)
+Security: -2.5
+Alliance: Band of Brothers
+Corp: Reikoku
+Ship: Avatar
+Weapon: Judgement
+
+
+Destroyed items:
+
+Mega Modulated Pulse Energy Beam I
+Mega Modulated Pulse Energy Beam I
+Multifrequency L
+Standard L
+Standard L
+'Malkuth' Cruise Launcher I
+'Malkuth' Cruise Launcher I
+Cap Booster 800
+Cap Booster 800
+Cap Booster 800
+Cap Booster 800
+Internal Force Field Array I
+Large Armor Repairer II
+Heat Sink II
+N-Type Thermic Hardener I
+Armor Explosive Hardener II
+Armor Kinetic Hardener II
+Multifrequency L (Cargo)
+Radio L (Cargo)
+Wrath Cruise Missile, Qty: 500 (Cargo)
+Paradise Cruise Missile, Qty: 500 (Cargo)
+Devastator Cruise Missile, Qty: 458 (Cargo)
+Vespa I, Qty: 3 (Drone Bay)
+Acolyte I (Drone Bay)
+Hobgoblin I (Drone Bay)
+

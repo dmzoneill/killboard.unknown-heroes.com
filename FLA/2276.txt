@@ -1,0 +1,76 @@
+2007.02.04 01:24
+
+Victim: Thafesko
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Destroyed: Blackbird
+System: 1IX-C0
+Security: 0.0
+
+Involved parties:
+
+Name: Nira Li
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Harbinger
+Weapon: Harbinger
+
+Name: Memphisz
+Security: 0.3
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Puls4r
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Claymore
+Weapon: Assault Missile Launcher II
+
+Name: maria stallion (laid the final blow)
+Security: 3.7
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Nighthawk
+Weapon: Scourge Heavy Missile
+
+Name: RagedyMan
+Security: 1.9
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Nighthawk
+Weapon: Scourge Heavy Missile
+
+Name: Ragotha
+Security: 1.1
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Raven
+Weapon: Siege Missile Launcher II
+
+Name: Gismork
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Scorpion
+Weapon: Assault Missile Launcher II
+
+
+Destroyed items:
+
+250mm Prototype I Gauss Gun
+Dread Guristas Tungsten Charge M, Qty: 38
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+Faint Phase Inversion ECM I
+FZ-3 Subversive Spatial Destabilizer ECM
+'Hypnos' Ion Field ECM I
+Omni Positional ECCM Sensor System I
+Compulsive Signal Distortion Amplifier I
+Compulsive Signal Distortion Amplifier I
+Dread Guristas Tungsten Charge M, Qty: 959 (Cargo)
+Havoc Heavy Missile, Qty: 500 (Cargo)
+

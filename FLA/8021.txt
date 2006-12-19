@@ -1,0 +1,41 @@
+2006.10.06 00:57
+
+Victim: BladeMos
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Destroyed: Harpy
+System: Litiura
+Security: 0.5
+
+Involved parties:
+
+Name: Morfane (laid the final blow)
+Security: -0.2
+Alliance: None
+Corp: Privateers
+Ship: Taranis
+Weapon: Light Neutron Blaster II
+
+Name: Danno
+Security: -1.9
+Alliance: None
+Corp: Privateers
+Ship: Apocalypse
+Weapon: Tachyon Beam Laser II
+
+Name: Kaykun
+Security: 5.0
+Alliance: None
+Corp: Privateers
+Ship: Tempest
+Weapon: 1400mm Carbine Howitzer I
+
+
+Destroyed items:
+
+150mm Railgun II
+Antimatter Charge S, Qty: 71
+Small Shield Booster II
+'Langour' Drive Disruptor I
+Warp Core Stabilizer I
+

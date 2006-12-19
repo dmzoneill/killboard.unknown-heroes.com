@@ -1,0 +1,85 @@
+2006.11.24 21:06
+
+Victim: jamesw
+Alliance: The Sani Sabik
+Corp: Omniscient Order
+Destroyed: Dominix
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Pias Polanus (laid the final blow)
+Security: 2.3
+Alliance: Schism.
+Corp: Fatalix Inc.
+Ship: Megathron
+Weapon: Modal Mega Ion Particle Accelerator I
+
+Name: Hosanna
+Security: 3.1
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Vagabond
+Weapon: Warp Disruptor I
+
+Name: Karas Rabus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Stabber
+Weapon: Hobgoblin I
+
+Name: Darth Hound
+Security: 1.7
+Alliance: Schism.
+Corp: Fatalix Inc.
+Ship: Malediction
+Weapon: Malediction
+
+Name: ArekinXI
+Security: 2.8
+Alliance: Serenus Letum
+Corp: R.T.F.M
+Ship: Gallente Navy Comet
+Weapon: Fleeting Progressive Warp Scrambler I
+
+Name: Jumar Coldgin
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Crow
+Weapon: J5b Phased Prototype Warp Inhibitor I
+
+Name: Matt Valor
+Security: 1.5
+Alliance: Schism.
+Corp: Fatalix Inc.
+Ship: Thorax
+Weapon: Light Neutron Blaster II
+
+
+Destroyed items:
+
+Heavy 'Knave' I Energy Drain
+Heavy 'Knave' I Energy Drain
+Heavy 'Knave' I Energy Drain
+Medium 'Ghoul' Energy Siphon I
+Medium 'Ghoul' Energy Siphon I
+Medium Nosferatu I
+J5 Prototype Warp Inhibitor I
+Heavy Electrochemical Capacitor Booster I
+Cap Booster 800
+Cap Booster 800
+Cap Booster 800
+Cap Booster 800
+Compulsive Multispectral ECM I
+Compulsive Multispectral ECM I
+Large 'Accommodation' Vestment Reconstructer I
+Medium Armor Repairer II
+1600mm Reinforced Crystalline Carbonide Plates I
+Antimatter Charge M, Qty: 18 (Cargo)
+Spike M, Qty: 497 (Cargo)
+Void S, Qty: 93 (Cargo)
+Berserker II, Qty: 4 (Drone Bay)
+

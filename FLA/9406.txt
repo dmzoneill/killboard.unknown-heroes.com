@@ -1,0 +1,19 @@
+2007.04.29 05:01
+
+Victim: Averenor
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Destroyed: Capsule
+System: 93PI-4
+Security: 0.0
+
+Involved parties:
+
+Name: Tania (laid the final blow)
+Security: -2.3
+Alliance: None
+Corp: Developmental Neogenics Amalgamated
+Ship: Sleipnir
+Weapon: 425mm AutoCannon II
+
+

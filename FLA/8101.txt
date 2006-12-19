@@ -1,0 +1,28 @@
+2006.10.10 03:17
+
+Victim: babaygoril
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Destroyed: Badger Mark II
+System: Piak
+Security: 0.7
+
+Involved parties:
+
+Name: Danno (laid the final blow)
+Security: -1.4
+Alliance: None
+Corp: Privateers
+Ship: Vexor
+Weapon: 200mm Railgun II
+
+
+Destroyed items:
+
+Medium Shield Extender I
+Medium Supplemental Barrier Emitter I
+Medium Shield Booster I
+Warp Core Stabilizer I
+Juggernaut Torpedo, Qty: 19687 (Cargo)
+Giant Secure Container (Cargo)
+

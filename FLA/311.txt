@@ -1,0 +1,48 @@
+2007.01.24 09:35
+
+Victim: Ugluuk
+Alliance: Privateer Alliance
+Corp: Beyond Divinity Inc
+Destroyed: Exequror
+System: Jita
+Security: 0.9
+
+Involved parties:
+
+Name: white kight
+Security: 1.6
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Nova Paradise (laid the final blow)
+Security: 1.2
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: NeoShocker
+Security: 3.0
+Alliance: R0ADKILL
+Corp: Foundation
+Ship: Ferox
+Weapon: Widowmaker Heavy Missile
+
+Name: Phoenix7982
+Security: 0.8
+Alliance: Myriad Alliance
+Corp: The Tierijev Compact
+Ship: Raven
+Weapon: Bane Torpedo
+
+
+Destroyed items:
+
+Light Neutron Blaster II
+Light Neutron Blaster II
+Large Shield Extender I
+400mm Reinforced Rolled Tungsten Plates I
+Reactor Control Unit II
+

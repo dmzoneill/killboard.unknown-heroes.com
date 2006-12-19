@@ -1,0 +1,44 @@
+2007.03.12 10:23
+
+Victim: Deadcover V
+Alliance: Chorus of Dawn
+Corp: Infinite Style Incorporated
+Destroyed: Vexor
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Kateryne
+Security: 0.1
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Maelstrom
+Weapon: Maelstrom
+
+Name: Chuck Dawg (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Jokull
+Security: 2.6
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Lachesis
+Weapon: 250mm Railgun II
+
+Name: Caranthir
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Huginn
+Weapon: 720mm Howitzer Artillery II
+
+
+Destroyed items:
+
+Medium Shield Booster I
+

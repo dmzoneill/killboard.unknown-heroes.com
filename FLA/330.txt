@@ -1,0 +1,45 @@
+2007.01.26 05:26
+
+Victim: Tokagera
+Alliance: None
+Corp: Solar Dragon's Nest
+Destroyed: Caracal
+System: Daras
+Security: 0.4
+
+Involved parties:
+
+Name: Sanal Gi
+Security: -0.5
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ferox
+Weapon: Medium Nosferatu I
+
+Name: Master Chaot (laid the final blow)
+Security: -1.3
+Alliance: None
+Corp: Constructive Influence
+Ship: Myrmidon
+Weapon: Anode Electron Particle Cannon I
+
+Name: Guristas Saboteur / Guristas
+
+
+Destroyed items:
+
+Piranha Light Missile, Qty: 24
+Sabretooth Light Missile, Qty: 25
+'Arbalest' Assault Missile Launcher
+'Arbalest' Assault Missile Launcher
+'Arbalest' Assault Missile Launcher
+Large Azeotropic Ward Salubrity I
+Ballistic Control System I
+Cargo Scanner I (Cargo)
+Survey Scanner I (Cargo)
+Piranha Light Missile, Qty: 696 (Cargo)
+Sabretooth Light Missile, Qty: 955 (Cargo)
+Flameburst Light Missile (Cargo)
+Scourge Heavy Missile, Qty: 7 (Cargo)
+Havoc Heavy Missile, Qty: 437 (Cargo)
+

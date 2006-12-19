@@ -1,0 +1,35 @@
+2007.01.20 19:51
+
+Victim: Harpo
+Alliance: None
+Corp: Deep Core Mining Inc.
+Destroyed: Claw
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Marvel Master
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Asgard Schiffswerften
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Jester87 (laid the final blow)
+Security: 1.3
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+
+Destroyed items:
+
+Gremlin Rocket, Qty: 36
+J5 Prototype Warp Inhibitor I
+400mm Reinforced Rolled Tungsten Plates I
+EMP S, Qty: 2435 (Cargo)
+Barrage S, Qty: 2463 (Cargo)
+Gremlin Rocket, Qty: 691 (Cargo)
+

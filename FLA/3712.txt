@@ -1,0 +1,36 @@
+2007.03.30 15:18
+
+Victim: Coltane
+Alliance: Freelancer Alliance
+Corp: ACCORD Industries
+Destroyed: Daredevil
+System: GY5-26
+Security: 0.0
+
+Involved parties:
+
+Name: MegaJ (laid the final blow)
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Pilgrim
+Weapon: Hammerhead II
+
+Name: Risandaar
+Security: 1.0
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Ares
+Weapon: X5 Prototype I Engine Enervator
+
+
+Destroyed items:
+
+Limited Light Neutron Blaster I
+Anode Light Neutron Particle Cannon I
+Thorium Charge S, Qty: 21
+Flameburst Light Missile, Qty: 40
+Cold-Gas I Arcjet Thrusters
+Non-Inertial Ballistic Screen Augmentation I
+Flameburst Light Missile, Qty: 400 (Cargo)
+

@@ -1,0 +1,68 @@
+2006.09.29 21:12
+
+Victim: Tomturbo
+Alliance: None
+Corp: School of Applied Knowledge
+Destroyed: Capsule
+System: F7C-H0
+Security: 0.0
+
+Involved parties:
+
+Name: Bolinar
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Enyo
+Weapon: 150mm Railgun II
+
+Name: Verild (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Crow
+Weapon: Sabretooth Precision Light Missile
+
+Name: Chiizukeeki
+Security: 3.3
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Jaguar
+Weapon: 150mm Light AutoCannon II
+
+Name: other mickey
+Security: 0.8
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Tristan
+Weapon: J5b Phased Prototype Warp Inhibitor I
+
+Name: W4RR10R
+Security: -1.5
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Taranis
+Weapon: Taranis
+
+Name: Kyoshisan
+Security: 0.3
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Taranis
+Weapon: Fleeting Warp Scrambler I
+
+Name: Karas Rabus
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Stiletto
+Weapon: Warp Disruptor I
+
+Name: Jumar Coldgin
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Crow
+Weapon: Fleeting Warp Scrambler I
+
+

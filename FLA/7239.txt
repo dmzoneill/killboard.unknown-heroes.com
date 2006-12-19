@@ -1,0 +1,152 @@
+2006.05.12 20:41
+
+Victim: subbz2k's Father
+Alliance: OPUS Alliance
+Corp: God's Army Corp
+Destroyed: Apocalypse
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Hesprax
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Freelancer Union
+Ship: Armageddon
+Weapon: Tachyon Beam Laser II
+
+Name: LordDragonMPS (laid the final blow)
+Security: 3.3
+Alliance: None
+Corp: Drones of Annihilation
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+Name: Clydar Dramos
+Security: 2.1
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+Name: Dark Dreamon
+Security: 0.3
+Alliance: Freelancer Alliance
+Corp: Lords Of Guile
+Ship: Megathron
+Weapon: Megathron
+
+Name: Kremnican
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Raven
+Weapon: Cataclysm Cruise Missile
+
+Name: AXi0S
+Security: 5.0
+Alliance: None
+Corp: BURN EDEN
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Jack Soul
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Freelancer Union
+Ship: Arazu
+Weapon: Arazu
+
+Name: Matt Stoner
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+Name: Shiri elAzarinres
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Cent 01
+Security: 5.0
+Alliance: None
+Corp: Drones of Annihilation
+Ship: Harpy
+Weapon: Harpy
+
+Name: noc D
+Security: 1.1
+Alliance: Freelancer Alliance
+Corp: Lords Of Guile
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: haq aan
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Lords Of Guile
+Ship: Wolf
+Weapon: 280mm Howitzer Artillery II
+
+Name: Highpriest Aden
+Security: 1.7
+Alliance: None
+Corp: Drones of Annihilation
+Ship: Malediction
+Weapon: 125mm Compressed Coil Gun I
+
+Name: Jumar Coldgin
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Ferox
+Weapon: Havoc Heavy Missile
+
+Name: Belana Biggins
+Security: 1.5
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+Name: UnBorn Dead
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Arazu
+Weapon: Phased Muon Sensor Disruptor I
+
+Name: Rytak
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Kestrel
+Weapon: Standard Missile Launcher I
+
+Name: MeanStreak
+Security: 0.0
+Alliance: None
+Corp: Caldari Provisions
+Ship: Sabre
+Weapon: J5b Phased Prototype Warp Inhibitor I
+
+
+Destroyed items:
+
+Mega Anode Particle Stream I
+Mega Anode Particle Stream I
+Ultraviolet L
+Ultraviolet L
+Radio S
+Multifrequency L
+Optical Tracking Computer I
+Optical Tracking Computer I
+Large Automated I Carapace Restoration
+Microcell Nanite Explosive Hardener I
+Multifrequency L (Cargo)
+

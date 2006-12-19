@@ -1,0 +1,28 @@
+2007.02.20 13:53
+
+Victim: Ninon Lanclos
+Alliance: Privateer Alliance
+Corp: Tempt Fate
+Destroyed: Celestis
+System: Irjunen
+Security: 0.5
+
+Involved parties:
+
+Name: Ghu'ru Talozan (laid the final blow)
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ishkur
+Weapon: 75mm Gatling Rail II
+
+
+Destroyed items:
+
+Sabretooth Light Missile, Qty: 65
+Remote Sensor Dampener II
+Sensor Booster II
+Capacitor Power Relay I
+Iridium Charge M, Qty: 2080 (Cargo)
+Piranha Light Missile, Qty: 1006 (Cargo)
+

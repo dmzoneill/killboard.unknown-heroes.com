@@ -1,0 +1,61 @@
+2007.03.09 01:09
+
+Victim: daidvg
+Alliance: YouWhat
+Corp: Princeps Corp
+Destroyed: Capsule
+System: XZH-4X
+Security: 0.0
+
+Involved parties:
+
+Name: Jonas123 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Ferox
+Weapon: 250mm Compressed Coil Gun I
+
+Name: NerftheSmurf
+Security: 0.8
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Celestis
+Weapon: 250mm 'Scout' I Accelerator Cannon
+
+Name: Darsi
+Security: 5.0
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Vexor
+Weapon: 250mm Railgun I
+
+Name: Kerules Yor
+Security: 2.4
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: Cyrila Wolf
+Security: -2.2
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: Astorothe
+Security: 1.9
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Manticore
+Weapon: Cruise Missile Launcher I
+
+Name: A'ruhn
+Security: 4.1
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Purifier
+Weapon: XT-9000 Cruise Launcher
+
+

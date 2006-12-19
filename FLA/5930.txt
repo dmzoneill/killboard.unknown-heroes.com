@@ -1,0 +1,19 @@
+2006.10.29 16:44
+
+Victim: Blue Recluse
+Alliance: None
+Corp: Federal Navy Academy
+Destroyed: Capsule
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Kismeteer (laid the final blow)
+Security: 4.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+

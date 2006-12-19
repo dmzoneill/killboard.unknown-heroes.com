@@ -1,0 +1,31 @@
+2006.12.12 18:49
+
+Victim: Mr Kilgore
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Destroyed: Sabre
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Elliott Manchild (laid the final blow)
+Security: 0.0
+Alliance: None
+Corp: omen.
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+
+Destroyed items:
+
+200mm AutoCannon II
+200mm AutoCannon II
+200mm AutoCannon II
+200mm AutoCannon II
+Barrage S, Qty: 120
+1MN MicroWarpdrive I
+X5 Prototype I Engine Enervator
+X5 Prototype I Engine Enervator
+Warp Disrupt Probe, Qty: 25 (Cargo)
+

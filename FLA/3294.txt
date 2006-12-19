@@ -1,0 +1,52 @@
+2007.03.22 19:26
+
+Victim: Tiree
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Malediction
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Murdoch Morf
+Security: 1.4
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Taranis
+Weapon: Taranis
+
+Name: zeitza ta (laid the final blow)
+Security: 0.5
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Astarte
+Weapon: Heavy Neutron Blaster II
+
+Name: PainBall
+Security: -0.9
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Unknown
+Weapon: Warrior II
+
+Name: Snuggles theTerrible
+Security: 5.0
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Vulture
+Weapon: 250mm Railgun II
+
+
+Destroyed items:
+
+Gatling Pulse Laser II
+Small 'Ghoul' Energy Siphon I
+Small 'Ghoul' Energy Siphon I
+Standard S
+Warp Disruptor I
+Micro Auxiliary Power Core I
+Multifrequency S, Qty: 3 (Cargo)
+Bloodclaw Light Missile, Qty: 1065 (Cargo)
+Flameburst Light Missile, Qty: 1500 (Cargo)
+

@@ -1,0 +1,44 @@
+2007.05.13 07:04
+
+Victim: eldronos
+Alliance: Freelancer Alliance
+Corp: The Collective of Ascended Beings
+Destroyed: Drake
+System: Litiura
+Security: 0.5
+
+Involved parties:
+
+Name: vickers
+Security: -2.0
+Alliance: None
+Corp: Mentally Unstable Enterprises
+Ship: Myrmidon
+Weapon: Myrmidon
+
+Name: mad killer (laid the final blow)
+Security: -2.2
+Alliance: None
+Corp: Mentally Unstable Enterprises
+Ship: Absolution
+Weapon: Heavy Pulse Laser II
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 70
+Heavy Missile Launcher II
+Heavy Missile Launcher II
+Heavy Missile Launcher II
+Heavy Missile Launcher II
+Small Tractor Beam I
+Large Shield Extender II
+Shield Power Relay II
+Shield Power Relay II
+Medium Shield Booster II (Cargo)
+Warp Scrambler I (Cargo)
+Ballistic Control System I (Cargo)
+Scourge Heavy Missile, Qty: 3845 (Cargo)
+Heavy Assault Missile Launcher I, Qty: 2 (Cargo)
+Terror Assault Missile, Qty: 46 (Cargo)
+

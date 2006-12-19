@@ -1,0 +1,57 @@
+2006.11.14 21:39
+
+Victim: Tyridiann
+Alliance: None
+Corp: GeoTech
+Destroyed: Ferox
+System: X-7OMU
+Security: 0.0
+
+Involved parties:
+
+Name: Jumar Coldgin (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+Name: Noitaakka
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Ishtar
+Weapon: Ishtar
+
+Name: Karas Rabus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Huginn
+Weapon: Hobgoblin I
+
+Name: Verild
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Rook
+Weapon: Flameburst Light Missile
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Scourge Heavy Missile, Qty: 90
+'Malkuth' Heavy Missile Launcher I
+Small Tractor Beam I
+Large Subordinate Screen Stabilizer I
+Large Subordinate Screen Stabilizer I
+Warp Core Stabilizer I
+Warp Core Stabilizer I
+Mexallon, Qty: 289 (Cargo)
+Medium Converse I Deflection Catalyzer (Cargo)
+Small 'Knave' I Energy Drain (Cargo)
+Ditrigonal Thermal Barrier Crystallization I (Cargo)
+Scourge Heavy Missile, Qty: 960 (Cargo)
+Hornet I, Qty: 2 (Drone Bay)
+

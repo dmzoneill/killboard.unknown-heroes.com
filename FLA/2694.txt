@@ -1,0 +1,39 @@
+2007.03.03 03:34
+
+Victim: ventura5
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Raptor
+System: YZ-LQL
+Security: 0.0
+
+Involved parties:
+
+Name: MilaNoCZ (laid the final blow)
+Security: 5.0
+Alliance: Xelas Alliance
+Corp: Rytiri Lva
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Maxit0
+Security: 0.7
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Crow
+Weapon: 125mm Railgun I
+
+
+Destroyed items:
+
+75mm Gatling Rail II
+Flameburst Light Missile, Qty: 50
+Standard Missile Launcher II
+Standard Missile Launcher II
+Small Neutron Saturation Injector I
+Stasis Webifier I
+Beta Reactor Control: Reaction Control I
+Sabretooth Light Missile, Qty: 48 (Cargo)
+Flameburst Light Missile, Qty: 188 (Cargo)
+Bloodclaw Light Missile, Qty: 200 (Cargo)
+

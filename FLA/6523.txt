@@ -1,0 +1,30 @@
+2006.11.16 10:16
+
+Victim: Dr Wahoos
+Alliance: Triumvirate.
+Corp: D00M.
+Destroyed: Curse
+System: O-N8XZ
+Security: 0.0
+
+Involved parties:
+
+Name: Noitaakka (laid the final blow)
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Ishtar
+Weapon: Ogre I
+
+
+Destroyed items:
+
+Medium Diminishing Power System Drain I
+Medium Diminishing Power System Drain I
+Tracking Disruptor II
+Medium Armor Repairer II
+Energized Adaptive Nano Membrane I
+N-Type Thermic Hardener I
+Hammerhead II, Qty: 2 (Drone Bay)
+Hobgoblin II, Qty: 5 (Drone Bay)
+

@@ -1,0 +1,152 @@
+2007.01.01 20:49
+
+Victim: Formosus Funus
+Alliance: None
+Corp: Nexus Legion
+Destroyed: Hurricane
+System: Torrinos
+Security: 0.5
+
+Involved parties:
+
+Name: Demarcus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Drake
+Weapon: Havoc Precision Heavy Missile
+
+Name: Almagar Phog
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Enyo
+Weapon: Enyo
+
+Name: EM00 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Thorax
+Weapon: Heavy Neutron Blaster I
+
+Name: Courtney Brown
+Security: 4.8
+Alliance: Freelancer Alliance
+Corp: X.T.R
+Ship: Drake
+Weapon: Thunderbolt Heavy Missile
+
+Name: Lux0r
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Hawk
+Weapon: Bloodclaw Precision Light Missile
+
+Name: ninev0lts
+Security: 2.3
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Brutix
+Weapon: Hammerhead I
+
+Name: Maximus Caelum
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: Sin-X Inc.
+Ship: Hawk
+Weapon: Bloodclaw Light Missile
+
+Name: Rev Darkwing
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Blackbird
+Weapon: Scourge Heavy Missile
+
+Name: TiMeZeRo225
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: J.I.T. Enterprises
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Black Tear
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Chalimar
+Security: 1.4
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Arazu
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: Korudon
+Security: 4.7
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: mrrabit
+Security: 1.8
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Rupture
+Weapon: Rupture
+
+Name: Denaris1
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Harpy
+Weapon: Harpy
+
+Name: BladeMos
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Falcon
+Weapon: Scourge Heavy Missile
+
+Name: Alayssi Mey
+Security: 3.5
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Merlin
+Weapon: 125mm 'Scout' I Accelerator Cannon
+
+Name: Soldroz
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Crow
+Weapon: Initiated Warp Jammer I
+
+Name: Maefly
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Ishkur
+Weapon: 125mm Railgun II
+
+
+Destroyed items:
+
+Dual 180mm AutoCannon II, Qty: 5
+Medium Diminishing Power System Drain I
+Hail M, Qty: 300
+10MN Afterburner II
+Fleeting Warp Scrambler I
+Medium Electrochemical Capacitor Booster I
+Damage Control II
+Medium Armor Repairer II
+1600mm Reinforced Rolled Tungsten Plates I
+Cap Booster 400, Qty: 15 (Cargo)
+Barrage M, Qty: 2613 (Cargo)
+Hornet I, Qty: 3 (Drone Bay)

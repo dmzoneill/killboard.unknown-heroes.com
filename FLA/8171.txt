@@ -1,0 +1,48 @@
+2006.10.25 23:10
+
+Victim: Nav O'Thronic
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Destroyed: Deimos
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Akhenat0n
+Security: 4.9
+Alliance: None
+Corp: NEXT LEVEL
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Mir0n Cosma (laid the final blow)
+Security: 1.0
+Alliance: None
+Corp: NEXT LEVEL
+Ship: Vagabond
+Weapon: 220mm Medium 'Scout' Autocannon I
+
+Name: Ragnar Redmane
+Security: 2.9
+Alliance: None
+Corp: NEXT LEVEL
+Ship: Vagabond
+Weapon: Vagabond
+
+
+Destroyed items:
+
+Small Nosferatu I
+Heavy Ion Blaster II
+Heavy Ion Blaster II
+Heavy Ion Blaster II
+Antimatter Charge M, Qty: 360
+Void M, Qty: 113
+Fleeting Propulsion Inhibitor I
+Pseudoelectron Containment Field I
+Shadow Serpentis Magnetic Field Stabilizer
+Energized Reactive Membrane II
+Infiltrator I (Drone Bay)
+Acolyte I (Drone Bay)
+

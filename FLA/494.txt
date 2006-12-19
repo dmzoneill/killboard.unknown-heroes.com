@@ -1,0 +1,46 @@
+2007.02.06 17:31
+
+Victim: Psykokwak
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Destroyed: Claw
+System: X-7OMU
+Security: 0.0
+
+Involved parties:
+
+Name: TasmanianX
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Cerberus
+Weapon: Dark Blood Warp Disruptor
+
+Name: Voculus (laid the final blow)
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Dawn Rider
+Security: -1.6
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Ship: Unknown
+Weapon: X5 Prototype I Engine Enervator
+
+
+Destroyed items:
+
+280mm Howitzer Artillery II
+EMP S, Qty: 20
+Phalanx Rocket, Qty: 40
+Rocket Launcher II
+X5 Prototype I Engine Enervator
+Pseudoelectron Containment Field I
+Micro Auxiliary Power Core I
+EMP S, Qty: 1943 (Cargo)
+Phased Plasma S, Qty: 200 (Cargo)
+Phalanx Rocket, Qty: 896 (Cargo)
+

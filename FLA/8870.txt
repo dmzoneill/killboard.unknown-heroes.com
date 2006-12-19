@@ -1,0 +1,40 @@
+2006.12.13 10:25
+
+Victim: Kahlan Ahmell
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Vexor
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Elliott Manchild
+Security: -1.5
+Alliance: None
+Corp: omen.
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Captain Alcatraz (laid the final blow)
+Security: -2.1
+Alliance: None
+Corp: omen.
+Ship: Zealot
+Weapon: Heavy Pulse Laser II
+
+Name: Miss d1amond
+Security: -1.1
+Alliance: None
+Corp: omen.
+Ship: Cheetah
+Weapon: Low Frequency Sensor Suppressor I
+
+
+Destroyed items:
+
+Small Nosferatu I
+Energized Adaptive Nano Membrane I
+Energized Adaptive Nano Membrane I
+Hornet I, Qty: 2 (Drone Bay)
+

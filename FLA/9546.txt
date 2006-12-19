@@ -1,0 +1,47 @@
+2007.05.07 14:49
+
+Victim: Oritar
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Destroyed: Capsule
+System: OWXT-5
+Security: 0.0
+
+Involved parties:
+
+Name: Desidos (laid the final blow)
+Security: 5.0
+Alliance: None
+Corp: Nordgoetter
+Ship: Rupture
+Weapon: 720mm Howitzer Artillery II
+
+Name: The Ironfist
+Security: 5.0
+Alliance: None
+Corp: Nordgoetter
+Ship: Flycatcher
+Weapon: Initiated Warp Jammer I
+
+Name: Modir II
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: Antipodean inc.
+Ship: Crow
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+Name: Kayron Brennan
+Security: 0.7
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Caracal
+Weapon: 'Malkuth' Assault Missile Launcher I
+
+Name: Ghu'ru Talozan
+Security: 5.1
+Alliance: Sparta Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Taranis
+Weapon: Warp Disruptor II
+
+

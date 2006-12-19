@@ -1,0 +1,78 @@
+2006.12.26 19:25
+
+Victim: HellDevil
+Alliance: Kith of Venal
+Corp: Solidline Enterprise
+Destroyed: Ferox
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: KHMBLR (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: X.T.R
+Ship: Raven
+Weapon: Mjolnir Torpedo
+
+Name: nossler
+Security: 4.4
+Alliance: Freelancer Alliance
+Corp: X.T.R
+Ship: Raven
+Weapon: Cruise Missile Launcher II
+
+Name: Connor Raalen
+Security: 1.9
+Alliance: Freelancer Alliance
+Corp: X.T.R
+Ship: Phoenix
+Weapon: Thor Torpedo I
+
+Name: Mocuker
+Security: 0.7
+Alliance: Freelancer Alliance
+Corp: X.T.R
+Ship: Drake
+Weapon: Havoc Heavy Missile
+
+Name: sinkiss ka
+Security: 2.8
+Alliance: Freelancer Alliance
+Corp: X.T.R
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: Sattracer
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: X.T.R
+Ship: Manticore
+Weapon: Paradise Cruise Missile
+
+Name: A'ruhn
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Purifier
+Weapon: Paradise Cruise Missile
+
+
+Destroyed items:
+
+200mm 'Scout' I Accelerator Cannon
+Havoc Heavy Missile, Qty: 98
+Thunderbolt Heavy Missile, Qty: 66
+Advanced 'Limos' Heavy Missile Bay I
+Advanced 'Limos' Heavy Missile Bay I
+Large Azeotropic Ward Salubrity I
+Type-D Power Core Modification: Shield Power Relay
+Ballistic Control System I
+Plutonium Charge M, Qty: 100 (Cargo)
+Thorium Charge M, Qty: 100 (Cargo)
+Dread Guristas Lead Charge M, Qty: 500 (Cargo)
+Havoc Heavy Missile, Qty: 795 (Cargo)
+Hydra F.O.F. Heavy Missile I, Qty: 200 (Cargo)
+Warrior I (Drone Bay)
+

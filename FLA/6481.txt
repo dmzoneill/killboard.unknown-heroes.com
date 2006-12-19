@@ -1,0 +1,32 @@
+2006.11.15 10:07
+
+Victim: Ironchef Chinese
+Alliance: None
+Corp: State War Academy
+Destroyed: Kestrel
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Midiana (laid the final blow)
+Security: 1.1
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Ishtar
+Weapon: Berserker I
+
+Name: Almagar Phog
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Scorpion
+Weapon: Devastator Cruise Missile
+
+
+Destroyed items:
+
+Standard Missile Launcher I
+Piranha Light Missile, Qty: 460 (Cargo)
+Bloodclaw Light Missile, Qty: 457 (Cargo)
+

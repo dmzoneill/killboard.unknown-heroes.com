@@ -1,0 +1,60 @@
+2007.01.07 09:11
+
+Victim: white kight
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Drake
+System: Torrinos
+Security: 0.5
+
+Involved parties:
+
+Name: Elliott Manchild
+Security: -2.9
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Astarte
+Weapon: Heavy Ion Blaster II
+
+Name: FrankieG (laid the final blow)
+Security: -1.2
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Zealot
+Weapon: Heavy Anode Pulse Particle Stream I
+
+Name: Kalathmir
+Security: -1.2
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Crusader
+Weapon: Warp Disruptor I
+
+Name: Miss d1amond
+Security: -1.1
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Griffin
+Weapon: Warp Scrambler I
+
+
+Destroyed items:
+
+Havoc Heavy Missile, Qty: 25
+Scourge Heavy Missile, Qty: 50
+Thunderbolt Heavy Missile, Qty: 25
+Widowmaker Heavy Missile, Qty: 25
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Large F-S9 Regolith Shield Induction
+Kinetic Deflection Amplifier I
+Kinetic Deflection Amplifier I
+Kinetic Deflection Amplifier I
+Shield Power Relay I
+Scourge Heavy Missile, Qty: 1936 (Cargo)
+Havoc Heavy Missile, Qty: 468 (Cargo)
+Thunderbolt Heavy Missile, Qty: 468 (Cargo)
+Heavy Missile Launcher I (Cargo)
+Mark I Generator Refitting: Shield Flux (Cargo)
+

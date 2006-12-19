@@ -1,0 +1,27 @@
+2007.03.23 10:16
+
+Victim: SumDum
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Blackbird
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Lorn Zolog (laid the final blow)
+Security: -0.8
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Harbinger
+Weapon: Vespa II
+
+
+Destroyed items:
+
+Advanced 'Limos' Heavy Missile Bay I
+Advanced 'Limos' Heavy Missile Bay I
+ECM Burst I
+ECM - Multispectral Jammer I
+Capacitor Power Relay I
+

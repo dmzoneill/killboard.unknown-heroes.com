@@ -1,0 +1,27 @@
+2006.12.30 15:43
+
+Victim: Kritas
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Griffin
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Elliott Manchild (laid the final blow)
+Security: -1.9
+Alliance: None
+Corp: omen.
+Ship: Eos
+Weapon: Berserker II
+
+
+Destroyed items:
+
+1MN MicroWarpdrive I
+J5 Prototype Warp Inhibitor I
+'Rash' ECM Emission I
+F-392 Baker Nunn Targeting Scrambler
+F-43 Repeatative Gravimetric Backup Sensors
+

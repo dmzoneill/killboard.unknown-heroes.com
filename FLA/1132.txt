@@ -1,0 +1,54 @@
+2007.03.05 19:39
+
+Victim: norman protector
+Alliance: Xelas Alliance
+Corp: Fallen Angel's
+Destroyed: Capsule
+System: 75FA-Z
+Security: 0.0
+
+Involved parties:
+
+Name: Dirtee Girl
+Security: 0.1
+Alliance: Dusk and Dawn
+Corp: Omega Enterprises
+Ship: Taranis
+Weapon: Taranis
+
+Name: coldkill
+Security: 1.8
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: Teck7
+Security: 1.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Lachesis
+Weapon: Fleeting Warp Scrambler I
+
+Name: Muad' Dib (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Malediction
+Weapon: 250mm Light Artillery Cannon II
+
+Name: Ocara Nezus
+Security: 2.3
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Hawk
+Weapon: Standard Missile Launcher II
+
+Name: Daressek
+Security: 3.7
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Kestrel
+Weapon: J5 Prototype Warp Inhibitor I
+
+

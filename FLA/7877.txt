@@ -1,0 +1,81 @@
+2006.09.24 07:29
+
+Victim: Nineix
+Alliance: Freelancer Alliance
+Corp: Sin-X Inc.
+Destroyed: Raven
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Guristas Extinguisher / Guristas
+
+Name: EMP0RIA
+Security: 3.0
+Alliance: Process of Elimination
+Corp: Occassus Republica
+Ship: Cerberus
+Weapon: 'Hypnos' Multispectral ECM I
+
+Name: Olaf Thaddius (laid the final blow)
+Security: 1.7
+Alliance: Process of Elimination
+Corp: Occassus Republica
+Ship: Cerberus
+Weapon: Thunderbolt Heavy Missile
+
+Name: Soffiarme
+Security: -1.6
+Alliance: Process of Elimination
+Corp: Occassus Republica
+Ship: Hawk
+Weapon: Bloodclaw Precision Light Missile
+
+Name: Richard Masterson
+Security: 3.8
+Alliance: Process of Elimination
+Corp: Occassus Republica
+Ship: Crusader
+Weapon: Dual Light Beam Laser II
+
+Name: Sith Bandon
+Security: 0.2
+Alliance: Ascendant Frontier
+Corp: Celestial Fleet
+Ship: Daredevil
+Weapon: Small Diminishing Power System Drain I
+
+
+Destroyed items:
+
+Juggernaut Torpedo
+Juggernaut Torpedo
+Juggernaut Torpedo
+Juggernaut Torpedo
+Juggernaut Torpedo
+Juggernaut Torpedo
+Juggernaut Torpedo
+Juggernaut Torpedo
+Wrath Cruise Missile, Qty: 13
+XT-9000 Cruise Launcher
+XT-9000 Cruise Launcher
+XT-9000 Cruise Launcher
+ZW-4100 Siege Missile Bay
+Large C5-L Emergency Shield Overload I
+Ballistic Deflection Field II
+Heat Dissipation Field II
+Ballistic Control System II
+Large Shield Extender I, Qty: 3 (Cargo)
+Shield Recharger I (Cargo)
+Medium Armor Repairer I (Cargo)
+Dual 250mm Railgun I (Cargo)
+Medium F-RX Prototype I Capacitor Boost (Cargo)
+Juggernaut Torpedo, Qty: 250 (Cargo)
+Wrath Cruise Missile, Qty: 1029 (Cargo)
+Cruise Missile Launcher I, Qty: 4 (Cargo)
+Siege Missile Launcher I, Qty: 2 (Cargo)
+Power Diagnostic System I (Cargo)
+Type-D Power Core Modification: Diagnostic System (Cargo)
+Hammerhead I, Qty: 2 (Drone Bay)
+

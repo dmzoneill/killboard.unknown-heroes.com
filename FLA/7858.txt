@@ -1,0 +1,37 @@
+2006.09.14 01:23
+
+Victim: Th3 HuNt3r
+Alliance: Freelancer Alliance
+Corp: EVE MegaCorp Association
+Destroyed: Kestrel
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Dylan (laid the final blow)
+Security: -1.5
+Alliance: Lotka Volterra
+Corp: M. Corp
+Ship: Apocalypse
+Weapon: Valkyrie II
+
+Name: ShadowDragon
+Security: 0.1
+Alliance: Lotka Volterra
+Corp: M. Corp
+Ship: Arazu
+Weapon: Hobgoblin II
+
+
+Destroyed items:
+
+1MN MicroWarpdrive I
+Target Painter I
+Warp Scrambler I (Cargo)
+Small Energy Neutralizer I (Cargo)
+Antimatter Charge S, Qty: 8990 (Cargo)
+Foxfire Rocket, Qty: 23 (Cargo)
+Rocket Launcher I (Cargo)
+Power Diagnostic System I (Cargo)
+

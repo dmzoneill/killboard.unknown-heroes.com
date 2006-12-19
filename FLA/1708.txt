@@ -1,0 +1,75 @@
+2007.01.01 16:46
+
+Victim: Grim Faust
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Tempest
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Dr Wahoos
+Security: -3.3
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Raven
+Weapon: Hammerhead II
+
+Name: Pistonbroke
+Security: -0.2
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Dominix
+Weapon: Wasp II
+
+Name: Jenessa (laid the final blow)
+Security: 2.3
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Darknesss
+Security: -0.5
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Dominix
+Weapon: Ogre II
+
+Name: Jimmycs83
+Security: -1.5
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Taranis
+Weapon: Warrior II
+
+Name: Axl Alien
+Security: -1.7
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: Murdoch Morf
+Security: 1.5
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Jaguar
+Weapon: 200mm AutoCannon II
+
+
+Destroyed items:
+
+Carbonized Lead L, Qty: 24
+Defender I, Qty: 72
+'Arbalest' Assault Missile Launcher
+'Arbalest' Assault Missile Launcher
+Invulnerability Field I
+F-90 Positional Sensor Subroutines
+Gyrostabilizer II
+Gyrostabilizer II
+Beta Reactor Control: Capacitor Flux I
+Carbonized Lead L, Qty: 1890 (Cargo)
+Defender I, Qty: 2000 (Cargo)
+

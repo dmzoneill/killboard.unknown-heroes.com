@@ -1,0 +1,33 @@
+2006.11.28 00:40
+
+Victim: Azrealsan
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Capsule
+System: K4YZ-Y
+Security: 0.0
+
+Involved parties:
+
+Name: Ifni (laid the final blow)
+Security: -1.2
+Alliance: None
+Corp: Developmental Neogenics Amalgamated
+Ship: Crusader
+Weapon: Dual Light Beam Laser II
+
+Name: Sergio Ling
+Security: 3.3
+Alliance: Maelstrom Alliance
+Corp: Standard Operations Building Services
+Ship: Raptor
+Weapon: Phalanx Rocket
+
+Name: Veng3ance
+Security: 0.6
+Alliance: Maelstrom Alliance
+Corp: Standard Operations Building Services
+Ship: Malediction
+Weapon: Dual Light Pulse Laser II
+
+

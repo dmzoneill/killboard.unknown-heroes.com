@@ -1,0 +1,100 @@
+2007.04.01 20:41
+
+Victim: Domosan
+Alliance: None
+Corp: J-FORCE
+Destroyed: Badger Mark II
+System: 3T7-M8
+Security: 0.0
+
+Involved parties:
+
+Name: Ocara Nezus (laid the final blow)
+Security: 3.1
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+
+Destroyed items:
+
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Small Tractor Beam I
+F-b10 Nominal Capacitor Regenerator
+Ballistic Deflection Field I
+Type-D Altered SS Nanofiber Structure
+Large Shield Booster I, Qty: 4 (Cargo)
+X-Large C5-L Emergency Shield Overload I (Cargo)
+Small Shield Booster I (Cargo)
+Large Converse I Deflection Catalyzer, Qty: 2 (Cargo)
+Medium Shield Booster I, Qty: 5 (Cargo)
+Large Shield Transporter I, Qty: 3 (Cargo)
+Ship Scanner I, Qty: 2 (Cargo)
+Survey Scanner I, Qty: 2 (Cargo)
+Small Capacitor Battery I, Qty: 2 (Cargo)
+Medium Capacitor Battery I, Qty: 5 (Cargo)
+Medium Armor Repairer I, Qty: 9 (Cargo)
+Medium Asymmetric Energy Succor I (Cargo)
+Small Energy Transfer Array I, Qty: 5 (Cargo)
+Medium 'Regard' I Power Projector (Cargo)
+Small Nosferatu I, Qty: 13 (Cargo)
+Small 'Knave' I Energy Drain (Cargo)
+Small Energy Neutralizer I, Qty: 10 (Cargo)
+Small Proton Smartbomb I (Cargo)
+200mm Railgun I (Cargo)
+250mm 'Scout' I Accelerator Cannon (Cargo)
+350mm Carbide Railgun I, Qty: 2 (Cargo)
+250mm Railgun I, Qty: 8 (Cargo)
+Dual 250mm 'Scout' I Accelerator Cannon (Cargo)
+Ballistic Deflection Field I, Qty: 2 (Cargo)
+Photon Scattering Field I (Cargo)
+ECM Burst I (Cargo)
+Lead Charge L, Qty: 100 (Cargo)
+Uranium Charge L, Qty: 200 (Cargo)
+Plutonium Charge M, Qty: 100 (Cargo)
+Iridium Charge S, Qty: 100 (Cargo)
+Defender I, Qty: 400 (Cargo)
+FZ-3 Subversive Spatial Destabilizer ECM (Cargo)
+ECM - Spatial Destabilizer I, Qty: 2 (Cargo)
+Conjunctive Gravimetric ECCM Scanning Array I (Cargo)
+ECCM - Gravimetric I, Qty: 2 (Cargo)
+Remote Sensor Dampener I, Qty: 2 (Cargo)
+Phase Switching I Targeting Nexus, Qty: 2 (Cargo)
+F-90 Positional Sensor Subroutines (Cargo)
+Sensor Booster I, Qty: 4 (Cargo)
+Tracking Computer I (Cargo)
+Co-Processor I, Qty: 2 (Cargo)
+ECCM Projector I, Qty: 2 (Cargo)
+Tracking Disruptor I, Qty: 5 (Cargo)
+Explosion Dampening Amplifier I (Cargo)
+'Repose' I Core Compensation (Cargo)
+Guristas Ship Log 365764054 (Cargo)
+Guristas Crystal Tag (Cargo)
+Havoc Heavy Missile, Qty: 300 (Cargo)
+Scourge Heavy Missile, Qty: 500 (Cargo)
+Paradise Cruise Missile, Qty: 400 (Cargo)
+Hydra F.O.F. Heavy Missile I, Qty: 100 (Cargo)
+Rocket Launcher I, Qty: 3 (Cargo)
+Siege Missile Launcher I, Qty: 5 (Cargo)
+'Malkuth' Siege Missile Launcher I (Cargo)
+Heavy Missile Launcher I, Qty: 6 (Cargo)
+Compact 'Limos' Assault Missile Bay I, Qty: 2 (Cargo)
+'Malkuth' Assault Missile Launcher I (Cargo)
+Assault Missile Launcher I, Qty: 7 (Cargo)
+Charred Micro Circuit, Qty: 22 (Cargo)
+Damaged Artificial Neural Network, Qty: 10 (Cargo)
+Tripped Power Circuit, Qty: 29 (Cargo)
+Capacitor Power Relay I (Cargo)
+Type-D Power Core Modification: Capacitor Flux (Cargo)
+Type-D Power Core Modification: Reaction Control, Qty: 3 (Cargo)
+Reactor Control Unit I, Qty: 2 (Cargo)
+Shield Flux Coil I, Qty: 2 (Cargo)
+Heavy Assault Missile Launcher I, Qty: 3 (Cargo)
+XT-2800 Heavy Assault Missile Launcher I (Cargo)
+

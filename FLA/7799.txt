@@ -1,0 +1,33 @@
+2006.08.30 01:26
+
+Victim: Downeaster
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Destroyed: Capsule
+System: X-7OMU
+Security: 0.0
+
+Involved parties:
+
+Name: Drift Spec (laid the final blow)
+Security: 5.0
+Alliance: Ascendant Frontier
+Corp: Sha Kharn Corp
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Tomic
+Security: 5.0
+Alliance: Ascendant Frontier
+Corp: Celestial Fleet
+Ship: Flycatcher
+Weapon: Sabretooth Light Missile
+
+Name: TheLast0ne
+Security: 5.0
+Alliance: Ascendant Frontier
+Corp: THE LEGION OF STEEL WARRIORS....
+Ship: Hawk
+Weapon: Standard Missile Launcher II
+
+

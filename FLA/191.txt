@@ -1,0 +1,26 @@
+2007.01.17 16:51
+
+Victim: meragon
+Alliance: None
+Corp: School of Applied Knowledge
+Destroyed: Capsule
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: TiMeZeRo225
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: J.I.T. Enterprises
+Ship: Heron
+Weapon: Bloodclaw Light Missile
+
+Name: Mokh'Tar (laid the final blow)
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: Caldar Mercenary Syndicate
+Ship: Rifter
+Weapon: Sabretooth Light Missile
+
+

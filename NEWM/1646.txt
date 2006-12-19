@@ -1,0 +1,61 @@
+2007.03.19 10:02
+
+Victim: Scooter 23
+Alliance: None
+Corp: Brutor tribe
+Destroyed: Capsule
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Nukuquqa Hestase
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Harpy
+Weapon: Harpy
+
+Name: death1023 (laid the final blow)
+Security: 3.0
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Grimes NC
+Security: 4.8
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Jaguar
+Weapon: 250mm Light Artillery Cannon II
+
+Name: Villwrath
+Security: 3.5
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Enyo
+Weapon: Enyo
+
+Name: Keyoke Acoma
+Security: 1.9
+Alliance: The Sundering
+Corp: Auraxian Irregulars
+Ship: Arbitrator
+Weapon: Warp Disruptor I
+
+Name: FlobbMkII
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Myrmidon
+Weapon: Tracking Disruptor I
+
+Name: Ahramaine
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Thorax
+Weapon: Warp Scrambler I
+
+

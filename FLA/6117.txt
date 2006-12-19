@@ -1,0 +1,53 @@
+2006.11.08 15:48
+
+Victim: KrTo
+Alliance: None
+Corp: Beer Guzzling Clowns With Blasters
+Destroyed: Stabber
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Ageha (laid the final blow)
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Armageddon
+Weapon: Mega Pulse Laser II
+
+Name: Elfaen Ethenwe
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Rook
+Weapon: Heavy Missile Launcher II
+
+Name: Dog Cancer
+Security: 1.4
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Crow
+Weapon: Sabretooth Light Missile
+
+Name: Wousr
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Stiletto
+Weapon: J5 Prototype Warp Inhibitor I
+
+
+Destroyed items:
+
+425mm Medium Carbine Repeating Cannon I
+Fusion M, Qty: 68
+Flameburst Light Missile, Qty: 64
+SV-2000 Assault Missile Bay
+SV-2000 Assault Missile Bay
+10MN MicroWarpdrive I
+Damage Control I
+Small Armor Repairer II
+Energized Adaptive Nano Membrane I
+Flameburst Light Missile, Qty: 540 (Cargo)
+

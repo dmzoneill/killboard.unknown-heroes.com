@@ -1,0 +1,52 @@
+2007.02.13 03:12
+
+Victim: phoenixsun
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Destroyed: Brutix
+System: B-9C24
+Security: 0.0
+
+Involved parties:
+
+Name: Laviadon
+Security: 2.7
+Alliance: None
+Corp: Halfwits
+Ship: Brutix
+Weapon: Hammerhead I
+
+Name: Mongooze
+Security: 4.9
+Alliance: None
+Corp: Halfwits
+Ship: Rapier
+Weapon: Hobgoblin II
+
+Name: Shadow0x
+Security: 1.7
+Alliance: None
+Corp: Halfwits
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: illusha (laid the final blow)
+Security: -1.7
+Alliance: None
+Corp: Halfwits
+Ship: Celestis
+Weapon: Hammerhead I
+
+
+Destroyed items:
+
+Antimatter Charge S, Qty: 40
+Prototype Cloaking Device I
+10MN MicroWarpdrive I
+X5 Prototype I Engine Enervator
+Tracking Link I
+Medium I-a Polarized Armor Regenerator
+Energized Adaptive Nano Membrane I
+Voltaic Nanite Explosive Hardener I
+1600mm Reinforced Rolled Tungsten Plates I
+

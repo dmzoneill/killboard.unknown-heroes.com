@@ -1,0 +1,64 @@
+2007.04.04 09:27
+
+Victim: Kerdrak
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Destroyed: Curse
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: tomlinsonland
+Security: -1.7
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: MegaJ (laid the final blow)
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Pilgrim
+Weapon: Hammerhead II
+
+Name: PMolkenthin
+Security: -0.7
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Arazu
+Weapon: Hornet II
+
+Name: Musician
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Falcon
+Weapon: Havoc Heavy Missile
+
+Name: Pychian Vanervi
+Security: -0.5
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Crow
+Weapon: Rocket Launcher II
+
+Name: Dol Amroth
+Security: 0.2
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Crow
+Weapon: True Sansha Warp Disruptor
+
+
+Destroyed items:
+
+X5 Prototype I Engine Enervator
+Balmer Series Targeting Inhibitor I
+Balmer Series Targeting Inhibitor I
+Damage Control II
+Hobgoblin II (Drone Bay)
+Vespa II (Drone Bay)
+Valkyrie II, Qty: 2 (Drone Bay)
+

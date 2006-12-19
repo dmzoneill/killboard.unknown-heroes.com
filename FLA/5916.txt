@@ -1,0 +1,47 @@
+2006.10.28 21:26
+
+Victim: Dutch Schultz
+Alliance: None
+Corp: Mercatoris Technologies
+Destroyed: Amarr Shuttle
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Formosus Funus (laid the final blow)
+Security: 3.1
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Wolf
+Weapon: 150mm Light AutoCannon II
+
+Name: Count Rayken
+Security: 0.4
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Taranis
+Weapon: Taranis
+
+Name: FrankieG
+Security: -0.8
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Huginn
+Weapon: Sabretooth Precision Light Missile
+
+Name: Needa3
+Security: 4.7
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Stabber
+Weapon: Assault Missile Launcher I
+
+Name: Darth Hound
+Security: 0.5
+Alliance: None
+Corp: Fatalix Inc.
+Ship: Retribution
+Weapon: Medium Pulse Laser II
+
+

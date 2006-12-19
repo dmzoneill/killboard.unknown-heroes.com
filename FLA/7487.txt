@@ -1,0 +1,137 @@
+2006.09.09 21:00
+
+Victim: Technosites
+Alliance: None
+Corp: Beagle Corp
+Destroyed: Rook
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Thafesko
+Security: 4.5
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Kremnican
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Cerberus
+Weapon: Scourge Heavy Missile
+
+Name: Formosus Funus
+Security: 0.7
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Tempest
+Weapon: 1400mm Gallium I Cannon
+
+Name: Jumar Coldgin
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Eagle
+Weapon: Eagle
+
+Name: Kiztent (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Rupture
+Weapon: Havoc Heavy Missile
+
+Name: Oldin Relic
+Security: 1.3
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Moa
+Weapon: 250mm Carbide Railgun I
+
+Name: Yangoor
+Security: 4.1
+Alliance: Freelancer Alliance
+Corp: THeOThErs
+Ship: Kestrel
+Weapon: Standard Missile Launcher I
+
+Name: shekat khlorblaster
+Security: 2.1
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Thorax
+Weapon: Thorax
+
+Name: Th3 HuNt3r
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: EVE MegaCorp Association
+Ship: Blackbird
+Weapon: Blackbird
+
+Name: TasKu
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Taranis
+Weapon: Taranis
+
+Name: Valtaer
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: Terminal Velocity Inc.
+Ship: Blackbird
+Weapon: Dual 150mm Railgun I
+
+Name: Tarrant Arrlock
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Caracal
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+Name: Drakin Korin
+Security: -1.4
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Ishtar
+Weapon: 'Hypnos' Multispectral ECM I
+
+Name: DevilSlayer
+Security: 3.8
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Zealot
+Weapon: Zealot
+
+Name: Barsak Kressel
+Security: 1.6
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Ship: Caracal
+Weapon: Advanced 'Limos' Heavy Missile Bay I
+
+
+Destroyed items:
+
+Defender I, Qty: 59
+Scourge Heavy Missile, Qty: 30
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Assault Missile Launcher I
+ECM - Ion Field Projector II
+ECM - Phase Inverter II
+ECM - White Noise Generator I
+Sensor Booster I
+Gravimetric Backup Array I
+Large F-S9 Regolith Shield Induction (Cargo)
+Large 'Notos' Explosive Charge I (Cargo)
+Defender I, Qty: 61 (Cargo)
+Explosion Dampening Amplifier I (Cargo)
+Heat Dissipation Amplifier I (Cargo)
+Scourge Heavy Missile, Qty: 264 (Cargo)
+

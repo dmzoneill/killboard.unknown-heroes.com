@@ -1,0 +1,97 @@
+2006.11.10 17:08
+
+Victim: darroch
+Alliance: None
+Corp: Dark-Rising
+Destroyed: Thorax
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Jumar Coldgin
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Eagle
+Weapon: Eagle
+
+Name: keilapuukko (laid the final blow)
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Raven
+Weapon: Juggernaut Torpedo
+
+Name: Karas Rabus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Huginn
+Weapon: ECM - Multispectral Jammer II
+
+Name: Noitaakka
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Ishtar
+Weapon: Hammerhead II
+
+Name: Digioso
+Security: 1.3
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Megathron
+Weapon: Garde I
+
+Name: W4RR10R
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Deimos
+Weapon: Valkyrie II
+
+Name: Verild
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Rook
+Weapon: Sabretooth Precision Light Missile
+
+Name: Kismeteer
+Security: 4.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Enyo
+Weapon: Enyo
+
+Name: jacass66
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Thanatos
+Weapon: Thanatos
+
+
+Destroyed items:
+
+Light Neutron Blaster II
+Light Neutron Blaster II
+Light Neutron Blaster II
+Light Neutron Blaster II
+Null S, Qty: 80
+Warp Disruptor I
+Cap Booster 800
+Medium Armor Repairer II
+Linear Flux Stabilizer I
+Energized Adaptive Nano Membrane I
+Radioisotope Explosive Hardener I
+1600mm Reinforced Crystalline Carbonide Plates I
+Small Armor Repairer II (Cargo)
+Light Neutron Blaster II (Cargo)
+Cap Booster 800, Qty: 5 (Cargo)
+Void S, Qty: 1400 (Cargo)
+Mark I Modified SS Expanded Cargo (Cargo)
+Warrior II, Qty: 2 (Drone Bay)
+Hammerhead II (Drone Bay)
+

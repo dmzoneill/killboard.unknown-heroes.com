@@ -1,0 +1,54 @@
+2007.01.18 20:53
+
+Victim: Andor Nor
+Alliance: None
+Corp: B1Tek Zer0
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Xantheris (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: Drogarn Langlay
+Security: 3.3
+Alliance: Dusk and Dawn
+Corp: The X-Trading Company
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: Nina Blaze
+Security: 2.6
+Alliance: Dusk and Dawn
+Corp: Cataclysm Enterprises
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: nad211
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: The X-Trading Company
+Ship: Taranis
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: Sanakan Soryu
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Konstrukteure der Zukunft
+Ship: Ishkur
+Weapon: Warp Disruptor I
+
+Name: Naomi Wildfire
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Stardust Heavy Industries
+Ship: Crusader
+Weapon: Fleeting Warp Scrambler I
+
+

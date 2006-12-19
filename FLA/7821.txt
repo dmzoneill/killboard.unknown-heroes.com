@@ -1,0 +1,27 @@
+2006.09.05 20:16
+
+Victim: Vahearun
+Alliance: Freelancer Alliance
+Corp: Veturi
+Destroyed: Cyclone
+System: E-FIC0
+Security: 0.0
+
+Involved parties:
+
+Name: Wrath Cruise Missile / Guristas (laid the final blow)
+
+
+Destroyed items:
+
+220mm Medium 'Scout' Autocannon I
+220mm Medium 'Scout' Autocannon I
+220mm Medium 'Scout' Autocannon I
+220mm Medium 'Scout' Autocannon I
+Phased Plasma M, Qty: 188
+Scourge Heavy Missile, Qty: 22
+'Arbalest' Heavy Missile Launcher
+Eutectic I Capacitor Charge Array
+Ballistic Deflection Field I
+Vespa I (Drone Bay)
+

@@ -1,0 +1,64 @@
+2007.02.10 02:22
+
+Victim: Kasahara
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Destroyed: Stabber
+System: X-7OMU
+Security: 0.0
+
+Involved parties:
+
+Name: Dingo bb8r
+Security: 0.3
+Alliance: None
+Corp: Agony Unleashed
+Ship: Capsule
+Weapon: Hammerhead I
+
+Name: Dragonbitch (laid the final blow)
+Security: 0.9
+Alliance: None
+Corp: Agony Unleashed
+Ship: Rifter
+Weapon: 200mm AutoCannon I
+
+Name: Ironnight
+Security: -1.3
+Alliance: None
+Corp: Agony Unleashed
+Ship: Rifter
+Weapon: Rifter
+
+Name: Knez Rex
+Security: 3.7
+Alliance: None
+Corp: Agony Unleashed
+Ship: Rifter
+Weapon: Remote Sensor Dampener I
+
+Name: Yorick Downe
+Security: 2.1
+Alliance: None
+Corp: Agony Unleashed
+Ship: Rifter
+Weapon: Rifter
+
+Name: Christina Bamar
+Security: 1.1
+Alliance: None
+Corp: Agony Unleashed
+Ship: Rifter
+Weapon: Small Nosferatu I
+
+
+Destroyed items:
+
+220mm Vulcan AutoCannon I
+Medium Nosferatu I
+Fusion M, Qty: 167
+Faint Epsilon Warp Prohibitor I
+Stasis Webifier I
+Medium Armor Repairer I
+Hobgoblin II, Qty: 3 (Cargo)
+

@@ -1,0 +1,54 @@
+2007.04.05 21:11
+
+Victim: Garia666
+Alliance: None
+Corp: T.H.U.G L.I.F.E
+Destroyed: Caldari Shuttle
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Steven FSB (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: Ember Fox
+Security: 1.5
+Alliance: DeStInY.
+Corp: Fusion Enterprises Ltd
+Ship: Taranis
+Weapon: Taranis
+
+Name: kanu
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Asgard Schiffswerften
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+Name: Lee Thrace
+Security: 5.0
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Lachesis
+Weapon: 200mm Railgun II
+
+Name: alon blackhelm
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Myrmidon
+Weapon: Myrmidon
+
+Name: Penal Serge
+Security: 5.0
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Drake
+Weapon: Heavy Missile Launcher II
+
+

@@ -1,0 +1,63 @@
+2006.11.11 18:27
+
+Victim: DriveCrash
+Alliance: Interstellar Starbase Syndicate
+Corp: The Graduates
+Destroyed: Celestis
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: digital oxygen (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Deimos
+Weapon: Valkyrie II
+
+Name: Flashh Gorden
+Security: 3.4
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Gangreen
+Security: 0.1
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Ishkur
+Weapon: 125mm Railgun I
+
+Name: LizzyD
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Ishkur
+Weapon: Acolyte II
+
+Name: dinj
+Security: 4.7
+Alliance: Freelancer Alliance
+Corp: London Transport
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+
+Destroyed items:
+
+Regulated Light Neutron Phase Cannon I
+Antimatter Charge S, Qty: 155
+Heavy Missile Launcher I
+Remote Sensor Dampener I
+1600mm Reinforced Crystalline Carbonide Plates I
+Warp Disruptor I (Cargo)
+Tracking Computer I (Cargo)
+Scourge Heavy Missile, Qty: 100 (Cargo)
+Havoc Heavy Missile, Qty: 500 (Cargo)
+Thunderbolt Heavy Missile, Qty: 456 (Cargo)
+'Arbalest' Heavy Missile Launcher (Cargo)
+Warrior I, Qty: 2 (Drone Bay)
+Hobgoblin SD-300 (Drone Bay)
+

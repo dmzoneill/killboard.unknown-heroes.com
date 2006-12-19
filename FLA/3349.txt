@@ -1,0 +1,51 @@
+2007.03.24 04:35
+
+Victim: AuraShock
+Alliance: Freelancer Alliance
+Corp: United Forces
+Destroyed: Thorax
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Levin Cavil (laid the final blow)
+Security: -1.0
+Alliance: None
+Corp: Developmental Neogenics Amalgamated
+Ship: Megathron
+Weapon: Ion Blaster Cannon II
+
+Name: Sphalerite
+Security: 1.1
+Alliance: None
+Corp: Developmental Neogenics Amalgamated
+Ship: Tempest
+Weapon: Tempest
+
+Name: Spike 68
+Security: 1.8
+Alliance: None
+Corp: Developmental Neogenics Amalgamated
+Ship: Astarte
+Weapon: Heavy Ion Blaster II
+
+Name: Adam Dartnell
+Security: -1.1
+Alliance: None
+Corp: Developmental Neogenics Amalgamated
+Ship: Megathron
+Weapon: Ion Blaster Cannon II
+
+
+Destroyed items:
+
+Light Neutron Blaster I
+Light Neutron Blaster I
+Light Neutron Blaster I
+Light Neutron Blaster I
+Antimatter Charge S, Qty: 222
+Energized Reactive Membrane I
+Energized Magnetic Membrane I
+Antimatter Charge S, Qty: 2000 (Cargo)
+

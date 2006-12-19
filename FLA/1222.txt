@@ -1,0 +1,66 @@
+2007.03.09 01:08
+
+Victim: daidvg
+Alliance: YouWhat
+Corp: Princeps Corp
+Destroyed: Gallente Shuttle
+System: XZH-4X
+Security: 0.0
+
+Involved parties:
+
+Name: fmercury
+Security: -1.5
+Alliance: The OSS
+Corp: The Greater Goon
+Ship: Taranis
+Weapon: Taranis
+
+Name: Jonas123 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Ferox
+Weapon: Warrior I
+
+Name: NerftheSmurf
+Security: 0.8
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Celestis
+Weapon: Celestis
+
+Name: Sils wife
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Megathron
+Weapon: Megathron
+
+Name: RythemAndStealth
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Brutix
+Weapon: 250mm Railgun I
+
+Name: Nadisa
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Thorax
+Weapon: Thorax
+
+Name: Kerules Yor
+Security: 2.4
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Stiletto
+Weapon: Warp Disruptor I
+
+
+Destroyed items:
+
+Bistot Processing (Cargo)
+Deep Core Mining (Cargo)
+

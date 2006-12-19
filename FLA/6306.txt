@@ -1,0 +1,47 @@
+2006.11.12 02:38
+
+Victim: Emonopolis Gaylordian
+Alliance: None
+Corp: Federal Navy Academy
+Destroyed: Gallente Shuttle
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Damhtman
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Hawk
+Weapon: Bloodclaw Precision Light Missile
+
+Name: Elfaen Ethenwe (laid the final blow)
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Rustiko
+Security: 3.8
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Thorax
+Weapon: 150mm Railgun I
+
+Name: Supernaut 20k
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Flycatcher
+Weapon: Target Painter I
+
+Name: MAD D0G
+Security: -0.6
+Alliance: None
+Corp: Ganksters Paradise
+Ship: Caracal
+Weapon: Heavy Missile Launcher I
+
+

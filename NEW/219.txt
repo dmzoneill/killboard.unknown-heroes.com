@@ -1,0 +1,25 @@
+2007.02.09 21:23
+
+Victim: Phrixus Zephyr
+Alliance: Triumvirate.
+Corp: D00M.
+Destroyed: Capsule
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Burn Lump
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Ferox
+Weapon: 250mm Railgun II
+
+Name: Kryton55 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Merlin
+Weapon: Bloodclaw Light Missile
+

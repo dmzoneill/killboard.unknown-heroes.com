@@ -1,0 +1,19 @@
+2007.01.08 06:56
+
+Victim: Sorsal
+Alliance: None
+Corp: Perkone
+Destroyed: Capsule
+System: LT-DRO
+Security: 0.0
+
+Involved parties:
+
+Name: Alezra (laid the final blow)
+Security: 1.3
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ishkur
+Weapon: Hobgoblin II
+
+

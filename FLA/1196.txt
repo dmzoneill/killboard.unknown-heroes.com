@@ -1,0 +1,54 @@
+2007.03.08 16:20
+
+Victim: Rasier
+Alliance: YouWhat
+Corp: Beasts of Burden
+Destroyed: Capsule
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Jesnen (laid the final blow)
+Security: -1.5
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Coercer
+Weapon: Medium Beam Laser I
+
+Name: Furiousb
+Security: 5.1
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Asariasha
+Security: 4.6
+Alliance: Dusk and Dawn
+Corp: Cataclysm Enterprises
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+Name: Vanst Keal
+Security: 1.8
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Unknown
+Weapon: 125mm Railgun I
+
+Name: Viralis
+Security: 0.0
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Merlin
+Weapon: Warp Disruptor I
+
+Name: Impretinent
+Security: 0.1
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Unknown
+Weapon: 125mm Railgun I
+
+

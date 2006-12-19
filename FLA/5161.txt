@@ -1,0 +1,38 @@
+2007.01.26 06:48
+
+Victim: truefranco
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Destroyed: Ishtar
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: P1rate Dave (laid the final blow)
+Security: 0.9
+Alliance: None
+Corp: 0utbreak
+Ship: Typhoon
+Weapon: Inferno Torpedo
+
+Name: Vyndicator
+Security: -2.5
+Alliance: None
+Corp: 0utbreak
+Ship: Typhoon
+Weapon: Devastator Cruise Missile
+
+
+Destroyed items:
+
+Small Nosferatu I
+E5 Prototype Energy Vampire
+Fleeting Propulsion Inhibitor I
+Medium Armor Repairer II
+Medium Armor Repairer II
+Mobile Small Warp Disruptor I (Cargo)
+Hammerhead II, Qty: 2 (Drone Bay)
+Ogre II, Qty: 2 (Drone Bay)
+Berserker II, Qty: 3 (Drone Bay)
+

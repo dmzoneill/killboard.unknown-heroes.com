@@ -1,0 +1,19 @@
+2006.10.28 08:12
+
+Victim: Giskard Reventlow
+Alliance: Zenith Affinity
+Corp: The Edge Foundation
+Destroyed: Condor
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Verild (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Rook
+Weapon: Bloodclaw Precision Light Missile
+
+

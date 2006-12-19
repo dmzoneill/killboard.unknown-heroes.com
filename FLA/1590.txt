@@ -1,0 +1,31 @@
+2007.03.17 17:36
+
+Victim: Gliding
+Alliance: Eternal Rapture
+Corp: Quantum Synergies
+Destroyed: Enyo
+System: O-ZXUV
+Security: 0.0
+
+Involved parties:
+
+Name: Elgcaress (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Thorax
+Weapon: Hammerhead I
+
+
+Destroyed items:
+
+Light Neutron Blaster II
+Light Neutron Blaster II
+Light Neutron Blaster II
+Light Neutron Blaster II
+Faint Warp Prohibitor I
+Magnetic Field Stabilizer II
+Inertia Stabilizers I
+Null S, Qty: 6360 (Cargo)
+Void S, Qty: 5572 (Cargo)
+

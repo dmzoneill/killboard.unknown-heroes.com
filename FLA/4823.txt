@@ -1,0 +1,33 @@
+2007.04.16 18:21
+
+Victim: Kayron Brennan
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Destroyed: Condor
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: lethario desrtuction
+Security: 2.1
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Drake
+Weapon: Scourge Fury Heavy Missile
+
+Name: Terdlinger (laid the final blow)
+Security: 4.8
+Alliance: Storm Armada
+Corp: stone grave haulage
+Ship: Falcon
+Weapon: Scourge Heavy Missile
+
+
+Destroyed items:
+
+Rocket Launcher I
+Rocket Launcher I
+Small Ld-Acid Capacitor Battery I
+Thorn Rocket, Qty: 340 (Cargo)
+

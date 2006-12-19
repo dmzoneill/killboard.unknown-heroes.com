@@ -1,0 +1,42 @@
+2006.07.13 16:13
+
+Victim: Gladiouls
+Alliance: Sparta Alliance
+Corp: The Ghost Riders
+Destroyed: Rifter
+System: U-TJ7Y
+Security: 0.0
+
+Involved parties:
+
+Name: Jumar Coldgin
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Harpy
+Weapon: Harpy
+
+Name: Matt Stoner (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Caracal
+Weapon: Bloodclaw Light Missile
+
+Name: Shiri elAzarinres
+Security: 4.1
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Kestrel
+Weapon: Rocket Launcher I
+
+
+Destroyed items:
+
+200mm AutoCannon I
+EMP S, Qty: 120
+Sabretooth Light Missile, Qty: 40
+Standard Missile Launcher I
+Patterned Stasis Web I
+Corpse (Cargo)
+

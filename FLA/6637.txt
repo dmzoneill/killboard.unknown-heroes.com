@@ -1,0 +1,28 @@
+2006.11.21 21:09
+
+Victim: Suelle
+Alliance: None
+Corp: Shillelagh Corp.
+Destroyed: Crow
+System: O-CNPR
+Security: 0.0
+
+Involved parties:
+
+Name: James Potkukelkka (laid the final blow)
+Security: 0.3
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Flycatcher
+Weapon: Bloodclaw Precision Light Missile
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 38
+Standard Missile Launcher I
+Standard Missile Launcher I
+Standard Missile Launcher I
+Warp Disruptor I
+ECM - Multispectral Jammer I
+

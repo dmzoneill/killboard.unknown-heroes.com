@@ -1,0 +1,26 @@
+2007.03.14 23:40
+
+Victim: royce jones
+Alliance: None
+Corp: Perkone
+Destroyed: Capsule
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: digital oxygen (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Eleri Bree
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Taranis
+Weapon: J5 Prototype Warp Inhibitor I
+
+

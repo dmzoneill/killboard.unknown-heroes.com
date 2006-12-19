@@ -1,0 +1,98 @@
+2006.07.30 07:43
+
+Victim: Kremnican
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Badger Mark II
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Red Guard
+Security: 1.2
+Alliance: None
+Corp: Nubs.
+Ship: Deimos
+Weapon: Deimos
+
+Name: Cloud Alexander
+Security: -1.8
+Alliance: None
+Corp: Nubs.
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Neurosis
+Security: -1.0
+Alliance: None
+Corp: RillaCorp
+Ship: Cyclone
+Weapon: Cyclone
+
+Name: Moksa
+Security: 0.9
+Alliance: None
+Corp: Nubs.
+Ship: Arbitrator
+Weapon: Valkyrie II
+
+Name: Faith Wasp
+Security: 1.2
+Alliance: None
+Corp: Nubs.
+Ship: Thorax
+Weapon: Light Neutron Blaster II
+
+Name: Master OlavPancrazio (laid the final blow)
+Security: -3.5
+Alliance: None
+Corp: Nubs.
+Ship: Crow
+Weapon: Thorn Rocket
+
+Name: Kazuki Fuse
+Security: 1.0
+Alliance: None
+Corp: Nubs.
+Ship: Vexor
+Weapon: Valkyrie II
+
+Name: Maxx Guillotine
+Security: -1.4
+Alliance: None
+Corp: RillaCorp
+Ship: Claw
+Weapon: Gremlin Rocket
+
+Name: nexroth
+Security: -3.4
+Alliance: None
+Corp: Nubs.
+Ship: Thorax
+Weapon: Valkyrie I
+
+Name: Safrax2
+Security: -1.1
+Alliance: None
+Corp: Nubs.
+Ship: Arazu
+Weapon: Regulated Neutron Phase Cannon I
+
+Name: Gabreel
+Security: 0.2
+Alliance: None
+Corp: Nubs.
+Ship: Omen
+Weapon: Omen
+
+
+Destroyed items:
+
+Small Energy Neutralizer I
+Small Graviton Smartbomb I
+Medium F-S9 Regolith Shield Induction
+ECM - Multispectral Jammer I
+Kinetic Deflection Amplifier I
+F-S8 Relativistic Deflection Shield Induction
+

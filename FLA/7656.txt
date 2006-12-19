@@ -1,0 +1,82 @@
+2006.09.29 21:27
+
+Victim: xzmhxd5i
+Alliance: None
+Corp: Imperial Academy
+Destroyed: Caldari Shuttle
+System: F7C-H0
+Security: 0.0
+
+Involved parties:
+
+Name: Jumar Coldgin
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Crow
+Weapon: Bloodclaw Precision Light Missile
+
+Name: Caja Wrython (laid the final blow)
+Security: 2.0
+Alliance: Freelancer Alliance
+Corp: Abandoned Resolve Corporation
+Ship: Caracal
+Weapon: Widowmaker Heavy Missile
+
+Name: W4RR10R
+Security: -1.5
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Taranis
+Weapon: Taranis
+
+Name: Hojo Norem
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Caracal
+Weapon: Heavy Missile Launcher I
+
+Name: Cockroach
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Vengeance
+Weapon: Vengeance
+
+Name: Jumar Coldgin
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Crow
+Weapon: Bloodclaw Precision Light Missile
+
+Name: Caja Wrython (laid the final blow)
+Security: 2.0
+Alliance: Freelancer Alliance
+Corp: Abandoned Resolve Corporation
+Ship: Caracal
+Weapon: Widowmaker Heavy Missile
+
+Name: W4RR10R
+Security: -1.5
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Taranis
+Weapon: Taranis
+
+Name: Hojo Norem
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Caracal
+Weapon: Heavy Missile Launcher I
+
+Name: Cockroach
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Vengeance
+Weapon: Vengeance
+
+

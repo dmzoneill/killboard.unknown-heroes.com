@@ -1,0 +1,47 @@
+2006.10.23 13:58
+
+Victim: Kateryne
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Destroyed: Ferox
+System: OWXT-5
+Security: 0.0
+
+Involved parties:
+
+Name: Coco000 (laid the final blow)
+Security: -1.8
+Alliance: None
+Corp: NEXT LEVEL
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 55
+Large Shield Extender II
+Target Painter I
+Ballistic Control System I
+Ballistic Control System I
+Ballistic Control System I
+Medium Azeotropic Ward Salubrity I (Cargo)
+Medium Asymmetric Barrier Transpositioner I (Cargo)
+Medium Ld-Acid Capacitor Battery I, Qty: 2 (Cargo)
+Medium Asymmetric Energy Succor I (Cargo)
+Explosion Dampening Field I (Cargo)
+Mjolnir Torpedo, Qty: 100 (Cargo)
+Inferno Torpedo, Qty: 200 (Cargo)
+FZ-3 Subversive Spatial Destabilizer ECM, Qty: 2 (Cargo)
+Magnetic Scattering Amplifier I (Cargo)
+Explosion Dampening Amplifier I (Cargo)
+Guristas Ship Log 524785540 (Cargo)
+Flameburst Light Missile, Qty: 100 (Cargo)
+Sabretooth Light Missile, Qty: 100 (Cargo)
+Thunderbolt Heavy Missile, Qty: 100 (Cargo)
+Scourge Heavy Missile, Qty: 587 (Cargo)
+Cataclysm Cruise Missile, Qty: 100 (Cargo)
+Hellhound F.O.F. Heavy Missile I, Qty: 6 (Cargo)
+Type-D Power Core Modification: Reaction Control (Cargo)
+Hobgoblin I, Qty: 2 (Drone Bay)
+

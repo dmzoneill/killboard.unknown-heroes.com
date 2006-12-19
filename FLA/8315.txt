@@ -1,0 +1,19 @@
+2006.11.08 19:06
+
+Victim: Dorean Starchaser
+Alliance: Freelancer Alliance
+Corp: Terminal Velocity Inc.
+Destroyed: Capsule
+System: Piak
+Security: 0.7
+
+Involved parties:
+
+Name: TranZferR (laid the final blow)
+Security: -1.8
+Alliance: None
+Corp: The Initiative
+Ship: Deimos
+Weapon: Valkyrie II
+
+

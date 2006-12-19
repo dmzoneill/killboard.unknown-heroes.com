@@ -1,0 +1,68 @@
+2007.04.03 00:58
+
+Victim: Howard199
+Alliance: Freelancer Alliance
+Corp: Feel Good Inc.
+Destroyed: Condor
+System: F7C-H0
+Security: 0.0
+
+Involved parties:
+
+Name: Lord Revent (laid the final blow)
+Security: 1.2
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Hound
+Weapon: Devastator Cruise Missile
+
+Name: Magnelien
+Security: 4.3
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Crow
+Weapon: Gremlin Rocket
+
+Name: isca
+Security: 5.0
+Alliance: YouWhat
+Corp: Cosmic Odyssey
+Ship: Thorax
+Weapon: Heavy Electron Blaster II
+
+Name: evilempire0
+Security: -0.5
+Alliance: YouWhat
+Corp: Cosmic Odyssey
+Ship: Caracal
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+Name: Neily
+Security: 4.7
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Rook
+Weapon: ECM - Multispectral Jammer II
+
+Name: Frostbeule
+Security: 3.3
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Myrmidon
+Weapon: Fleeting Propulsion Inhibitor I
+
+Name: Erikel
+Security: 4.5
+Alliance: YouWhat
+Corp: Cosmic Odyssey
+Ship: Myrmidon
+Weapon: 150mm Railgun II
+
+Name: Anomaly21
+Security: -1.0
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+

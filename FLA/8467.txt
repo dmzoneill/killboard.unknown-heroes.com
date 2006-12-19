@@ -1,0 +1,33 @@
+2006.11.19 13:18
+
+Victim: Severa Crest
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Destroyed: Muninn
+System: Ibura
+Security: 0.6
+
+Involved parties:
+
+Name: xEntriq (laid the final blow)
+Security: -1.6
+Alliance: None
+Corp: omen.
+Ship: Deimos
+Weapon: Heavy Neutron Blaster II
+
+
+Destroyed items:
+
+Dual 180mm AutoCannon II
+Dual 180mm AutoCannon II
+Dual 180mm AutoCannon II
+Dual 180mm AutoCannon II
+Medium Diminishing Power System Drain I
+Barrage M, Qty: 116
+Stasis Webifier I
+Energized Adaptive Nano Membrane II
+Armor Thermic Hardener II
+1600mm Reinforced Rolled Tungsten Plates I
+Barrage M, Qty: 2000 (Cargo)
+

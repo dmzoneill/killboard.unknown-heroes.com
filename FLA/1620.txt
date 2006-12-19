@@ -1,0 +1,40 @@
+2007.03.18 14:05
+
+Victim: Captain Beignet
+Alliance: None
+Corp: Black Sun Industries
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: crazymaz
+Security: 3.4
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Malediction
+Weapon: Malediction
+
+Name: Aleric Vikyz
+Security: -1.1
+Alliance: Galactic-Federation
+Corp: Devious - Special Forces G.H.O.S.T Fleet Delta
+Ship: Caracal
+Weapon: Widowmaker Heavy Missile
+
+Name: Gargh Ahhwell (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: Lee Thrace
+Security: 5.0
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Thorax
+Weapon: Thorax
+
+

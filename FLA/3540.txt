@@ -1,0 +1,36 @@
+2007.03.26 06:12
+
+Victim: Admiral Hunter
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Enyo
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Tatzlwurm (laid the final blow)
+Security: 4.6
+Alliance: M. PIRE
+Corp: EVE Corporation00621
+Ship: Huginn
+Weapon: Thunderbolt Heavy Missile
+
+Name: ShadowDragon
+Security: 5.0
+Alliance: M. PIRE
+Corp: EVE Corporation00621
+Ship: Lachesis
+Weapon: Warp Disruptor II
+
+
+Destroyed items:
+
+Small Nosferatu I
+Null S, Qty: 321
+1MN MicroWarpdrive I
+Initiated Harmonic Warp Jammer I
+Small Armor Repairer II
+Magnetic Field Stabilizer II
+Energized Reactive Membrane II
+

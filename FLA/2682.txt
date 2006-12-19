@@ -1,0 +1,91 @@
+2007.03.02 15:38
+
+Victim: Tregaron
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Destroyed: Cyclone
+System: R3W-XU
+Security: 0.0
+
+Involved parties:
+
+Name: Tasha Bailey (laid the final blow)
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Reikoku
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: RogerWilco
+Security: -0.5
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Drake
+Weapon: Havoc Heavy Missile
+
+Name: Drake Cygnus
+Security: 5.0
+Alliance: Firmus Ixion
+Corp: Swedish Aerospace Inc
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: Cyber God
+Security: 5.0
+Alliance: Firmus Ixion
+Corp: Xoth Inc
+Ship: Retribution
+Weapon: Retribution
+
+Name: Repiv
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Eagle
+Weapon: Eagle
+
+Name: Beigehornet
+Security: 3.7
+Alliance: Digital Renegades
+Corp: Digital Fury Corporation
+Ship: Drake
+Weapon: Acolyte I
+
+Name: Aliantha
+Security: 2.9
+Alliance: Firmus Ixion
+Corp: Black Avatar
+Ship: Maller
+Weapon: Maller
+
+Name: skobe 1
+Security: 4.0
+Alliance: Firmus Ixion
+Corp: Swedish Aerospace Inc
+Ship: Eris
+Weapon: Eris
+
+Name: Orange Species
+Security: -2.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Ragnarok
+Weapon: 6x2500mm Repeating Artillery I
+
+Name: James Don
+Security: 5.0
+Alliance: Firmus Ixion
+Corp: KDM Corp
+Ship: Eris
+Weapon: Eris
+
+
+Destroyed items:
+
+220mm Vulcan AutoCannon II
+220mm Vulcan AutoCannon II
+Barrage M, Qty: 320
+Large Shield Extender II
+10MN MicroWarpdrive II
+Local Hull Conversion Nanofiber Structure I
+

@@ -1,0 +1,42 @@
+2006.11.16 14:02
+
+Victim: Jimmycs83
+Alliance: None
+Corp: Venom.
+Destroyed: Taranis
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: James Potkukelkka
+Security: 0.3
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Capsule
+Weapon: TE-2100 Standard Missile Bay
+
+Name: LizzyD (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Ishkur
+Weapon: 150mm Railgun II
+
+Name: Scorpio63
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Vengeance
+Weapon: Medium Pulse Laser II
+
+
+Destroyed items:
+
+E5 Prototype Energy Vampire
+125mm Railgun II
+Tungsten Charge S, Qty: 116
+J5 Prototype Warp Inhibitor I
+Small Armor Repairer II
+Lead Charge S, Qty: 1750 (Cargo)
+

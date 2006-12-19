@@ -1,0 +1,26 @@
+2007.01.02 01:50
+
+Victim: Ro' LoPok
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Destroyed: Capsule
+System: 2O9G-D
+Security: 0.0
+
+Involved parties:
+
+Name: Scythus Aratan (laid the final blow)
+Security: 4.3
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Armageddon
+Weapon: Tachyon Beam Laser II
+
+Name: MeanStreak
+Security: -0.2
+Alliance: None
+Corp: Caldari Provisions
+Ship: Sabre
+Weapon: J5b Phased Prototype Warp Inhibitor I
+
+

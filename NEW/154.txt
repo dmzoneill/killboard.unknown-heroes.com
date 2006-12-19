@@ -1,0 +1,40 @@
+2007.01.28 05:52
+
+Victim: Nukuquqa Hestase
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Caracal
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: P1rate Dave (laid the final blow)
+Security: 0.9
+Alliance: None
+Corp: 0utbreak
+Ship: Typhoon
+Weapon: Ogre I
+
+Name: Vyndicator
+Security: -2.4
+Alliance: None
+Corp: 0utbreak
+Ship: Typhoon
+Weapon: 'Arbalest' Siege Missile Launcher
+
+
+Destroyed items:
+
+Sabretooth Light Missile, Qty: 128
+'Arbalest' Assault Missile Launcher, Qty: 2
+Large Azeotropic Ward Salubrity I
+'Anointed' I EM Ward Reinforcement
+F-90 Positional Sensor Subroutines
+Ballistic Control System II, Qty: 2
+Magnetic Scattering Amplifier I (Cargo)
+Piranha Light Missile, Qty: 488 (Cargo)
+Flameburst Light Missile, Qty: 644 (Cargo)
+Sabretooth Light Missile, Qty: 527 (Cargo)
+Havoc Heavy Missile, Qty: 924 (Cargo)
+Assault Missile Launcher I, Qty: 2 (Cargo)

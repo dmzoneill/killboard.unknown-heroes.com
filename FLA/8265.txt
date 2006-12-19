@@ -1,0 +1,30 @@
+2006.11.07 00:20
+
+Victim: Enochios
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Retribution
+System: EWOK-K
+Security: 0.0
+
+Involved parties:
+
+Name: Aphotic Raven (laid the final blow)
+Security: 1.3
+Alliance: Eternal Empire
+Corp: Spectral Armada
+Ship: Thorax
+Weapon: Light Neutron Blaster I
+
+
+Destroyed items:
+
+Conflagration S
+Conflagration S
+Conflagration S
+Damage Control I
+Small Armor Repairer II
+Energized Basic Magnetic Plating
+Scorch S, Qty: 4 (Cargo)
+Conflagration S, Qty: 2 (Cargo)
+

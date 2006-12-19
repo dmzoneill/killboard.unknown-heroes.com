@@ -1,0 +1,71 @@
+2007.03.23 05:27
+
+Victim: Sy Sperling
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Drake
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Levin Cavil (laid the final blow)
+Security: -1.0
+Alliance: None
+Corp: Developmental Neogenics Amalgamated
+Ship: Megathron
+Weapon: Ion Blaster Cannon II
+
+Name: Adam Dartnell
+Security: -1.1
+Alliance: None
+Corp: Developmental Neogenics Amalgamated
+Ship: Zealot
+Weapon: Heavy Pulse Laser II
+
+Name: Sphalerite
+Security: 1.1
+Alliance: None
+Corp: Developmental Neogenics Amalgamated
+Ship: Tempest
+Weapon: Tempest
+
+Name: Lamic Tarvalla
+Security: 4.4
+Alliance: None
+Corp: Developmental Neogenics Amalgamated
+Ship: Dominix
+Weapon: Dominix
+
+Name: Spike 68
+Security: 1.8
+Alliance: None
+Corp: Developmental Neogenics Amalgamated
+Ship: Hyperion
+Weapon: Hyperion
+
+Name: One Percent
+Security: -4.0
+Alliance: None
+Corp: Developmental Neogenics Amalgamated
+Ship: Flycatcher
+Weapon: Thorn Rocket
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 131
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+'Arbalest' Heavy Missile Launcher
+XR-3200 Heavy Missile Bay
+Large Shield Extender II
+Large Shield Extender II
+10MN Afterburner I
+Invulnerability Field I
+Additional Thermal Barrier Emitter I
+Local Power Plant Manager: Reaction Shield Power Relay I
+Scourge Heavy Missile, Qty: 4056 (Cargo)
+Hydra F.O.F. Heavy Missile I, Qty: 102 (Cargo)
+Hornet II, Qty: 2 (Drone Bay)
+

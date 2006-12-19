@@ -1,0 +1,26 @@
+2007.01.02 15:35
+
+Victim: Unfortunate Accident
+Alliance: None
+Corp: omen.
+Destroyed: Capsule
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Wodan NL (laid the final blow)
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Taranis
+Weapon: Light Ion Blaster I
+
+Name: TiMeZeRo225
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: J.I.T. Enterprises
+Ship: Crow
+Weapon: Dread Guristas Stasis Webifier
+
+

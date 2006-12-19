@@ -1,0 +1,26 @@
+2007.01.20 20:58
+
+Victim: Harpo
+Alliance: None
+Corp: Deep Core Mining Inc.
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Iteena Mondovi (laid the final blow)
+Security: 5.0
+Alliance: NxT LeveL
+Corp: The 5 Amigo's LLC.
+Ship: Rokh
+Weapon: Ion Blaster Cannon I
+
+Name: Chuck Dawg
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Blackbird
+Weapon: Assault Missile Launcher I
+
+

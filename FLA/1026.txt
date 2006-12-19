@@ -1,0 +1,30 @@
+2007.03.03 17:51
+
+Victim: the killers
+Alliance: None
+Corp: Deep Core Mining Inc.
+Destroyed: Ibis
+System: YZ-LQL
+Security: 0.0
+
+Involved parties:
+
+Name: sakana (laid the final blow)
+Security: -0.9
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Eris
+Weapon: Flameburst Light Missile
+
+Name: Doktor Soet
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: The X-Trading Company
+Ship: Ares
+Weapon: Ares
+
+
+Destroyed items:
+
+Tritanium (Cargo)
+

@@ -1,0 +1,41 @@
+2007.03.22 19:10
+
+Victim: Tregaron
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Destroyed: Stiletto
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Snuggles theTerrible (laid the final blow)
+Security: 5.0
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Vulture
+Weapon: 250mm Railgun II
+
+Name: XxAngelxX
+Security: -1.8
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Curse
+Weapon: Warrior II
+
+
+Destroyed items:
+
+250mm Light Artillery Cannon II
+Small 'Knave' I Energy Drain
+EMP S
+EMP S
+EMP S
+1MN MicroWarpdrive II
+Fleeting Warp Scrambler I
+X5 Prototype I Engine Enervator
+Prototype I Sensor Booster
+Local Power Plant Manager: Diagnostic System I
+Beta Reactor Control: Reaction Control I
+EMP S, Qty: 960 (Cargo)
+

@@ -1,0 +1,95 @@
+2006.11.27 22:22
+
+Victim: TerrorBaBy
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Destroyed: Dominix
+System: C8-CHY
+Security: 0.0
+
+Involved parties:
+
+Name: WarGod (laid the final blow)
+Security: -1.8
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: boo3916
+Security: 4.4
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Vulture
+Weapon: Vulture
+
+Name: Jimmycs83
+Security: -2.6
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Megathron
+Weapon: Megathron
+
+Name: GoLdeN BoY
+Security: 2.6
+Alliance: None
+Corp: Beer Guzzling Clowns With Blasters
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: flexd
+Security: 0.5
+Alliance: None
+Corp: Beer Guzzling Clowns With Blasters
+Ship: Caracal
+Weapon: Widowmaker Heavy Missile
+
+Name: taylor04
+Security: -2.1
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Typhoon
+Weapon: True Sansha Warp Disruptor
+
+Name: Vagra
+Security: -0.4
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Stabber
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: j3bus
+Security: 2.7
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Ares
+Weapon: Ares
+
+Name: the willyb
+Security: -2.4
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Dominix
+Weapon: Dominix
+
+Name: ArchenTheGreat
+Security: -2.5
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Flycatcher
+Weapon: ECM - Spatial Destabilizer I
+
+
+Destroyed items:
+
+Heavy 'Knave' I Energy Drain
+Heavy 'Knave' I Energy Drain
+Heavy 'Knave' I Energy Drain
+Fixed Parallel Link-Capacitor I
+F-b10 Nominal Capacitor Regenerator
+F-b10 Nominal Capacitor Regenerator
+Drone Navigation Computer I
+Energized Adaptive Nano Membrane I
+N-Type Thermic Hardener I
+N-Type Kinetic Hardener I
+

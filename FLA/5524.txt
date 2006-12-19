@@ -1,0 +1,40 @@
+2006.10.07 01:02
+
+Victim: HCMissile
+Alliance: None
+Corp: Natra Trans-Logistics
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: jarson
+Security: -0.3
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Claw
+Weapon: Claw
+
+Name: Kismeteer (laid the final blow)
+Security: 3.4
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Incursus
+Weapon: 150mm Railgun I
+
+Name: movy
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Ishkur
+Weapon: 125mm Railgun II
+
+Name: forever faithless
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Rifter
+Weapon: TE-2100 Standard Missile Bay
+
+

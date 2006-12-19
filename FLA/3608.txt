@@ -1,0 +1,54 @@
+2007.03.27 21:08
+
+Victim: Altanzar
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Destroyed: Capsule
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Diego Barbera
+Security: -0.4
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Claw
+Weapon: 250mm Light 'Scout' Artillery I
+
+Name: albert camus
+Security: -8.3
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Ship: Malediction
+Weapon: Medium Pulse Laser II
+
+Name: Taschenflak (laid the final blow)
+Security: 4.7
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Raptor
+Weapon: 125mm Railgun II
+
+Name: Space Fear
+Security: 5.0
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Crow
+Weapon: 125mm Railgun II
+
+Name: Sholle
+Security: 3.0
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Sabre
+Weapon: 200mm AutoCannon II
+
+Name: Longrin
+Security: 2.9
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Stiletto
+Weapon: 250mm Light Artillery Cannon II
+
+

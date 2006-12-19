@@ -1,0 +1,24 @@
+2007.04.20 02:45
+
+Victim: Rhaall
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Crucifier
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Fitz Farseer (laid the final blow)
+Security: 0.5
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Thrasher
+Weapon: 280mm Howitzer Artillery II
+
+
+Destroyed items:
+
+Small Nosferatu I
+Small Armor Repairer I
+

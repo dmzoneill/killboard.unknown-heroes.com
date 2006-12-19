@@ -1,0 +1,32 @@
+2007.04.16 04:14
+
+Victim: Skull Fire
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Kestrel
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Witch Doctor (laid the final blow)
+Security: 0.1
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Hyperion
+Weapon: Ion Blaster Cannon II
+
+
+Destroyed items:
+
+Flameburst Light Missile, Qty: 42
+Piranha Light Missile, Qty: 42
+Bloodclaw Light Missile, Qty: 42
+'Malkuth' Standard Missile Launcher I
+'Malkuth' Standard Missile Launcher I
+'Malkuth' Standard Missile Launcher I
+Power Diagnostic System I
+Flameburst Light Missile, Qty: 300 (Cargo)
+Piranha Light Missile, Qty: 300 (Cargo)
+Bloodclaw Light Missile, Qty: 300 (Cargo)
+

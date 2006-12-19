@@ -1,0 +1,33 @@
+2006.10.11 20:45
+
+Victim: Elden Myrck
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Destroyed: Thorax
+System: Korama
+Security: 0.8
+
+Involved parties:
+
+Name: Sean Dillon (laid the final blow)
+Security: 1.5
+Alliance: None
+Corp: Privateers
+Ship: Raven
+Weapon: Hammerhead I
+
+
+Destroyed items:
+
+Anode Light Neutron Particle Cannon I
+Anode Light Neutron Particle Cannon I
+Anode Light Neutron Particle Cannon I
+Antimatter Charge S, Qty: 115
+Patterned Stasis Web I
+Armor Explosive Hardener I
+400mm Reinforced Rolled Tungsten Plates I
+Morphite (Cargo)
+Small Hull Repairer I (Cargo)
+Antimatter Charge S, Qty: 1858 (Cargo)
+Condensed Alloy (Cargo)
+

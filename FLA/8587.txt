@@ -1,0 +1,30 @@
+2006.11.30 22:29
+
+Victim: Formosus Funus
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Destroyed: Stabber
+System: Mara
+Security: 0.4
+
+Involved parties:
+
+Name: mani Lin (laid the final blow)
+Security: 1.2
+Alliance: None
+Corp: Hypnotic Storm Militia
+Ship: Arbitrator
+Weapon: Valkyrie II
+
+
+Destroyed items:
+
+220mm Medium Prototype I Automatic Cannon
+220mm Medium Prototype I Automatic Cannon
+220mm Medium Prototype I Automatic Cannon
+Fusion M, Qty: 195
+Havoc Heavy Missile, Qty: 43
+J5 Prototype Warp Inhibitor I
+Fusion M, Qty: 9558 (Cargo)
+Acolyte I (Drone Bay)
+

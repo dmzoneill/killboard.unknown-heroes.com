@@ -1,0 +1,47 @@
+2007.02.12 23:12
+
+Victim: toni silva
+Alliance: None
+Corp: The Patriot Society
+Destroyed: Capsule
+System: G-M4I8
+Security: 0.0
+
+Involved parties:
+
+Name: Kyoshisan
+Security: 0.7
+Alliance: None
+Corp: BGG
+Ship: Eris
+Weapon: Eris
+
+Name: Velithe (laid the final blow)
+Security: 3.1
+Alliance: None
+Corp: BGG
+Ship: Caracal
+Weapon: Widowmaker Heavy Missile
+
+Name: Dark Carnage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Crow
+Weapon: Sabretooth Light Missile
+
+Name: Tnam
+Security: 1.8
+Alliance: None
+Corp: BGG
+Ship: Jaguar
+Weapon: Fleeting Warp Scrambler I
+
+Name: jacass66
+Security: 5.0
+Alliance: None
+Corp: BGG
+Ship: Drake
+Weapon: Heavy Missile Launcher II
+
+

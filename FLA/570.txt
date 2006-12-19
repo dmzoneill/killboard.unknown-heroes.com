@@ -1,0 +1,82 @@
+2007.02.11 00:01
+
+Victim: norton ll
+Alliance: None
+Corp: Perkone
+Destroyed: Raven
+System: X-7OMU
+Security: 0.0
+
+Involved parties:
+
+Name: Zephyrante
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Hyperion
+Weapon: Ogre I
+
+Name: Drako Invictus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Absolution
+Weapon: Widowmaker Fury Heavy Missile
+
+Name: Arvo Henderson
+Security: 2.9
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Taranis
+Weapon: Warrior II
+
+Name: dctero
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Elena Morkovka
+Security: 1.4
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Flycatcher
+Weapon: Thorn Rocket
+
+Name: Hamos (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Caracal
+Weapon: Thunderbolt Heavy Missile
+
+Name: truefranco
+Security: 0.7
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Kerdrak
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Curse
+Weapon: Balmer Series Targeting Inhibitor I
+
+
+Destroyed items:
+
+Juggernaut Torpedo, Qty: 26
+'Arbalest' Siege Missile Launcher
+'Arbalest' Siege Missile Launcher
+'Arbalest' Siege Missile Launcher
+Eutectic I Capacitor Charge Array
+Ballistic Deflection Field II
+Ballistic Deflection Field II
+Ditrigonal Thermal Barrier Crystallization I
+Ballistic Control System II
+Beta Reactor Control: Diagnostic System I
+Bookmark, Qty: 2 (Cargo)
+

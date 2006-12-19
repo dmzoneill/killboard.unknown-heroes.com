@@ -1,0 +1,103 @@
+2007.05.08 06:37
+
+Victim: Iron Guerilla
+Alliance: Vigilance Infinitas
+Corp: CRICE Corporation
+Destroyed: Vagabond
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Starbucks Partner
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: Antipodean inc.
+Ship: Capsule
+Weapon: Medium Nosferatu I
+
+Name: Dynamist (laid the final blow)
+Security: 2.9
+Alliance: Sparta Alliance
+Corp: Antipodean inc.
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Forever Free
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: Antipodean inc.
+Ship: Omen
+Weapon: Warrior I
+
+Name: Homager
+Security: 0.1
+Alliance: Sparta Alliance
+Corp: Synergy Evolved
+Ship: Merlin
+Weapon: Merlin
+
+Name: Kvarium Ki
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Stabber
+Weapon: Stabber
+
+Name: Feke
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Thorax
+Weapon: Thorax
+
+Name: Gealla
+Security: 2.7
+Alliance: Sparta Alliance
+Corp: Antipodean inc.
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Mannington Skank
+Security: 3.0
+Alliance: Sparta Alliance
+Corp: Lynx Frontier Inc.
+Ship: Celestis
+Weapon: Celestis
+
+Name: LLago Cesarii
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: Synergy Evolved
+Ship: Rifter
+Weapon: 280mm Howitzer Artillery I
+
+Name: Aridante Lemure
+Security: 1.2
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Celestis
+Weapon: 425mm AutoCannon I
+
+Name: misscoda
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Unknown
+Weapon: 'Hypnos' Multispectral ECM I
+
+
+Destroyed items:
+
+220mm Vulcan AutoCannon II
+220mm Vulcan AutoCannon II
+220mm Vulcan AutoCannon II
+220mm Vulcan AutoCannon II
+Medium Diminishing Power System Drain I
+Barrage M, Qty: 81
+Large Shield Extender II
+Large Shield Extender II
+Gyrostabilizer II
+Mark I Generator Refitting: Diagnostic System
+Warrior II, Qty: 4 (Drone Bay)
+

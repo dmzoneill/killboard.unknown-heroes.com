@@ -1,0 +1,100 @@
+2006.10.24 20:12
+
+Victim: Kandread
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Destroyed: Tempest
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Darknesss
+Security: -1.2
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Megathron
+Weapon: Megathron
+
+Name: Ceapio
+Security: 0.0
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Tempest
+Weapon: Tempest
+
+Name: simcor
+Security: -1.9
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Megathron
+Weapon: Megathron
+
+Name: WarGod (laid the final blow)
+Security: -1.5
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Lord KesH
+Security: 3.7
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Tempest
+Weapon: Tempest
+
+Name: aadom
+Security: 2.7
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Tempest
+Weapon: Warrior II
+
+Name: NightWolfe
+Security: 5.0
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Megathron
+Weapon: Megathron
+
+Name: Kakanur
+Security: 2.4
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Apocalypse
+Weapon: Mega Beam Laser II
+
+Name: hardgit
+Security: 4.1
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Raven
+Weapon: ZW-4100 Siege Missile Bay
+
+Name: Teani
+Security: 3.5
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Dominix
+Weapon: E500 Prototype Energy Vampire
+
+
+Destroyed items:
+
+1400mm Howitzer Artillery I
+1400mm Howitzer Artillery I
+1400mm Howitzer Artillery I
+1400mm Howitzer Artillery I
+1400mm Howitzer Artillery I
+Depleted Uranium L, Qty: 80
+SV-2000 Assault Missile Bay
+SV-2000 Assault Missile Bay
+Gyrostabilizer II
+Gyrostabilizer II
+Tracking Enhancer II
+Depleted Uranium L, Qty: 1880 (Cargo)
+Sabretooth Light Missile, Qty: 862 (Cargo)
+Hammerhead I, Qty: 5 (Drone Bay)
+Warrior I, Qty: 5 (Drone Bay)
+

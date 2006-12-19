@@ -1,0 +1,23 @@
+2006.11.07 13:02
+
+Victim: Nikerym Lestroy
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Merlin
+System: Haajinen
+Security: 0.8
+
+Involved parties:
+
+Name: KRULLEN Binazeski (laid the final blow)
+Security: 4.9
+Alliance: None
+Corp: The Initiative
+Ship: Apocalypse
+Weapon: Tachyon Beam Laser II
+
+
+Destroyed items:
+
+1MN MicroWarpdrive I
+

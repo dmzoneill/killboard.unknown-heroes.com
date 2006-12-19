@@ -1,0 +1,33 @@
+2007.02.12 06:01
+
+Victim: Sin Demon
+Alliance: Kith of Venal
+Corp: Spectrum Solutions INC
+Destroyed: Capsule
+System: J-CIJV
+Security: 0.0
+
+Involved parties:
+
+Name: coldkill
+Security: 1.3
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Taranis
+Weapon: Taranis
+
+Name: Weeble Wooble (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: MrMaggot
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Cormorant
+Weapon: 125mm Prototype I Gauss Gun
+
+

@@ -1,0 +1,90 @@
+2007.01.01 16:47
+
+Victim: Mildeww
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Destroyed: Raven
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Darknesss
+Security: -0.5
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Dominix
+Weapon: 250mm Railgun II
+
+Name: Pistonbroke (laid the final blow)
+Security: -0.2
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Dominix
+Weapon: Wasp II
+
+Name: Dr Wahoos
+Security: -3.3
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Raven
+Weapon: Hammerhead II
+
+Name: Jenessa
+Security: 2.3
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Capsule
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Jimmycs83
+Security: -1.5
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Taranis
+Weapon: Taranis
+
+Name: Drakin Korin
+Security: -0.7
+Alliance: None
+Corp: Evil Bandit Organisation
+Ship: Lachesis
+Weapon: 250mm Railgun II
+
+Name: Murdoch Morf
+Security: 1.5
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: boo3916
+Security: 4.4
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Dominix
+Weapon: E500 Prototype Energy Vampire
+
+
+Destroyed items:
+
+Plutonium Charge M, Qty: 39
+Paradise Cruise Missile, Qty: 22
+Cataclysm Cruise Missile, Qty: 22
+Devastator Cruise Missile, Qty: 23
+'Arbalest' Cruise Launcher I
+'Arbalest' Cruise Launcher I
+'Arbalest' Cruise Launcher I
+Large F-S9 Regolith Shield Induction
+'Anointed' I EM Ward Reinforcement
+Shield Power Relay I
+Shield Power Relay I
+Type-D Power Core Modification: Diagnostic System
+Beta Reactor Control: Diagnostic System I
+Tungsten Charge M, Qty: 258 (Cargo)
+Plutonium Charge M, Qty: 132 (Cargo)
+Cataclysm Cruise Missile, Qty: 100 (Cargo)
+Devastator Cruise Missile, Qty: 100 (Cargo)
+Paradise Cruise Missile, Qty: 100 (Cargo)
+Vespa I (Drone Bay)
+

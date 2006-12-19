@@ -1,0 +1,29 @@
+2007.03.30 23:00
+
+Victim: dastommy79
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Destroyed: Ferox
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Pytorion BE (laid the final blow)
+Security: -1.8
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+
+Destroyed items:
+
+Medium Nosferatu I
+200mm Railgun II
+200mm Railgun II
+200mm Railgun II
+Javelin M, Qty: 160
+Tracking Enhancer I
+Magnetic Field Stabilizer I
+

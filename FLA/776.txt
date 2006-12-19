@@ -1,0 +1,32 @@
+2007.02.20 14:18
+
+Victim: QUPNDIE
+Alliance: Privateer Alliance
+Corp: coracao ardente
+Destroyed: Crow
+System: Jita
+Security: 0.9
+
+Involved parties:
+
+Name: Ghu'ru Talozan (laid the final blow)
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ishkur
+Weapon: Warrior II
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 96
+Standard Missile Launcher II
+1MN MicroWarpdrive II
+Fleeting Warp Scrambler I
+Reactor Control Unit II
+Basic Miner (Cargo)
+Piranha Light Missile, Qty: 100 (Cargo)
+'Arbalest' Cruise Launcher I (Cargo)
+Type-D Altered SS Expanded Cargo (Cargo)
+Expanded Cargohold I (Cargo)
+

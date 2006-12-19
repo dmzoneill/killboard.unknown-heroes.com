@@ -1,0 +1,80 @@
+2007.01.08 06:52
+
+Victim: Sorsal
+Alliance: None
+Corp: Perkone
+Destroyed: Raven
+System: LT-DRO
+Security: 0.0
+
+Involved parties:
+
+Name: Enochios
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Zealot
+Weapon: Zealot
+
+Name: Solis Ragyogas
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Myrmidon
+Weapon: Wasp I
+
+Name: Alezra
+Security: 1.3
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ishkur
+Weapon: Hobgoblin II
+
+Name: Sil330 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Caracal
+Weapon: Sabretooth Light Missile
+
+Name: dastommy79
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Blackbird
+Weapon: Blackbird
+
+Name: Hedeon Mishenka
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Vengeance
+Weapon: Vengeance
+
+Name: Ducimus Daimon
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Buzzard
+Weapon: Warp Scrambler I
+
+
+Destroyed items:
+
+Juggernaut Torpedo, Qty: 54
+ZW-4100 Siege Missile Bay
+ZW-4100 Siege Missile Bay
+ZW-4100 Siege Missile Bay
+Small Tractor Beam I
+Large Shield Booster II
+Non-Inertial Ballistic Screen Augmentation I
+Beta Reactor Control: Diagnostic System I
+Power Diagnostic System I
+Reactor Control Unit I
+Juggernaut Torpedo, Qty: 643 (Cargo)
+Mark I Generator Refitting: Diagnostic System (Cargo)
+Mark I Generator Refitting: Capacitor Power Relay (Cargo)
+Beta Reactor Control: Capacitor Power Relay I (Cargo)
+Type-D Power Core Modification: Capacitor Power Relay (Cargo)
+Type-D Power Core Modification: Reaction Control (Cargo)
+

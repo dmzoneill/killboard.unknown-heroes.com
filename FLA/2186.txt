@@ -1,0 +1,50 @@
+2007.01.28 17:39
+
+Victim: Akathrielah
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Destroyed: Drake
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Memphisz
+Security: 0.3
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Tempest
+Weapon: Tempest
+
+Name: Bone Collector44
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Armageddon
+Weapon: Tachyon Beam Laser I
+
+Name: jernej (laid the final blow)
+Security: 4.2
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Puls4r
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Jaguar
+Weapon: Jaguar
+
+
+Destroyed items:
+
+Terror Assault Missile, Qty: 462
+XT-2800 Heavy Assault Missile Launcher I
+XT-2800 Heavy Assault Missile Launcher I
+XT-2800 Heavy Assault Missile Launcher I
+Large F-S9 Regolith Shield Induction
+Sensor Booster I
+Mobile Medium Warp Disruptor I (Cargo)
+

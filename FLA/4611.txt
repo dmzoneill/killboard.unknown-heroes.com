@@ -1,0 +1,67 @@
+2007.04.14 23:24
+
+Victim: Skull Fire
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Rokh
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Apocalyptical
+Security: 4.0
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Thanatos
+Weapon: Dragonfly
+
+Name: Stradivarious (laid the final blow)
+Security: 3.7
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Nidhoggur
+Weapon: Einherji
+
+Name: FowlPlayChiken
+Security: 1.2
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Thanatos
+Weapon: Thanatos
+
+Name: Max Teranous
+Security: -1.2
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Sabre
+Weapon: 200mm AutoCannon II
+
+Name: Nowereman
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Drake
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+
+Destroyed items:
+
+Heavy Diminishing Power System Drain I
+Heavy Diminishing Power System Drain I
+425mm Prototype I Gauss Gun
+Plutonium Charge L, Qty: 75
+Juggernaut Torpedo, Qty: 10
+Large Shield Extender II
+100MN MicroWarpdrive I
+Warp Disruptor I
+F-90 Positional Sensor Subroutines
+Damage Control I
+1600mm Reinforced Rolled Tungsten Plates I
+1600mm Reinforced Rolled Tungsten Plates I
+Type-D Power Core Modification: Reaction Control
+Uranium Charge L, Qty: 566 (Cargo)
+Lead Charge L, Qty: 1000 (Cargo)
+Plutonium Charge L, Qty: 1408 (Cargo)
+Bane Torpedo, Qty: 368 (Cargo)
+

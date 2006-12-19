@@ -1,0 +1,88 @@
+2007.02.09 22:29
+
+Victim: Martin Mckenna
+Alliance: Triumvirate.
+Corp: D00M.
+Destroyed: Malediction
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Xantheris (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: Hamos
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Caracal
+Weapon: Remote Sensor Dampener I
+
+Name: Tnam
+Security: 1.7
+Alliance: None
+Corp: BGG
+Ship: Harpy
+Weapon: Harpy
+
+Name: Minisoza
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Myrmidon
+Weapon: Myrmidon
+
+Name: Gangreen
+Security: 0.2
+Alliance: None
+Corp: BGG
+Ship: Taranis
+Weapon: 125mm Railgun II
+
+Name: ventura5
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Drake
+Weapon: Advanced 'Limos' Heavy Missile Bay I
+
+Name: mrrabit
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Rifter
+Weapon: Warp Disruptor I
+
+Name: Lane A'lusin
+Security: 3.1
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Taranis
+Weapon: Warp Disruptor I
+
+Name: Cho Solo
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Taranis
+Weapon: J5 Prototype Warp Inhibitor I
+
+
+Destroyed items:
+
+Dual Light Pulse Laser II
+Dual Light Pulse Laser II
+Dual Light Pulse Laser II
+Small Nosferatu I
+Scorch S
+Scorch S
+Small Armor Repairer II
+Capacitor Power Relay I
+250mm Railgun II, Qty: 3 (Cargo)
+Multifrequency S, Qty: 3 (Cargo)
+

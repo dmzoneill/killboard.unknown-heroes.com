@@ -1,0 +1,33 @@
+2007.05.07 15:40
+
+Victim: Andi279
+Alliance: Enemies of Carlotta
+Corp: Mitsuhama Industrial Technologies
+Destroyed: Capsule
+System: MZ1E-P
+Security: 0.0
+
+Involved parties:
+
+Name: tropic89
+Security: 0.3
+Alliance: Sparta Alliance
+Corp: Lynx Frontier Inc.
+Ship: Cormorant
+Weapon: Cormorant
+
+Name: Kayron Brennan (laid the final blow)
+Security: 0.7
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Caracal
+Weapon: Bloodclaw Light Missile
+
+Name: slayer avenger
+Security: 3.5
+Alliance: DeStInY.
+Corp: Legion Federation
+Ship: Jaguar
+Weapon: 'Limos' Rocket Launcher I
+
+

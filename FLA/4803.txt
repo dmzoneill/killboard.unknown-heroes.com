@@ -1,0 +1,28 @@
+2007.04.16 01:53
+
+Victim: Christopher Cook
+Alliance: Freelancer Alliance
+Corp: Terminal Velocity Inc.
+Destroyed: Rifter
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Nubiam (laid the final blow)
+Security: 0.0
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Malediction
+Weapon: Dual Light Pulse Laser II
+
+
+Destroyed items:
+
+280mm Howitzer Artillery I
+Proton S, Qty: 11
+Warp Disruptor I
+Stasis Webifier I
+Nanofiber Internal Structure I
+Proton S, Qty: 5000 (Cargo)
+

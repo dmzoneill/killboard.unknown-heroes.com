@@ -1,0 +1,78 @@
+2007.01.19 00:39
+
+Victim: ISliverI
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Destroyed: Myrmidon
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: boo3916 (laid the final blow)
+Security: 4.6
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Dominix
+Weapon: Berserker II
+
+Name: ArchenTheGreat
+Security: -2.2
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Dominix
+Weapon: Ogre II
+
+Name: McGin
+Security: -3.6
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Tempest Fleet Issue
+Weapon: Ogre I
+
+Name: Unfortunate Accident
+Security: -1.9
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: Teani
+Security: 1.5
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Unknown
+Weapon: Valkyrie II
+
+Name: Darknesss
+Security: 0.5
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Megathron
+Weapon: Neutron Blaster Cannon II
+
+Name: WarGod
+Security: 1.7
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Tempest
+Weapon: ECM - Multispectral Jammer II
+
+
+Destroyed items:
+
+Heavy Electron Blaster II
+Heavy Electron Blaster II
+Heavy Electron Blaster II
+Heavy Electron Blaster II
+Void M, Qty: 151
+10MN MicroWarpdrive II
+Initiated Warp Jammer I
+X5 Prototype I Engine Enervator
+Sensor Booster II
+Damage Control I
+Energized Adaptive Nano Membrane II
+Null M, Qty: 2501 (Cargo)
+Hammerhead II (Drone Bay)
+Hobgoblin II, Qty: 5 (Drone Bay)
+

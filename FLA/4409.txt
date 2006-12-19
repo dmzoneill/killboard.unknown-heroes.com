@@ -1,0 +1,84 @@
+2007.04.09 15:00
+
+Victim: grodpa
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Raven
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Crovan (laid the final blow)
+Security: 2.8
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Chimera
+Weapon: Firbolg
+
+Name: CannibalCorpseZor
+Security: -0.7
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Nighthawk
+Weapon: Scourge Fury Heavy Missile
+
+Name: Dol Amroth
+Security: 0.2
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Arazu
+Weapon: Arazu
+
+Name: PMolkenthin
+Security: -0.8
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Arazu
+Weapon: Hornet II
+
+Name: Kkmar Jheren
+Security: -1.5
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Malediction
+Weapon: Malediction
+
+Name: DrunkenOne
+Security: -0.5
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Claw
+Weapon: Claw
+
+Name: Robet Katrix
+Security: 2.1
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Chimera
+Weapon: Firbolg
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Juggernaut Torpedo, Qty: 72
+'Arbalest' Siege Missile Launcher
+ZW-4100 Siege Missile Bay
+ZW-4100 Siege Missile Bay
+ZW-4100 Siege Missile Bay
+X-Large Shield Booster II
+Cap Recharger II
+Heavy Capacitor Booster I
+Ballistic Deflection Field II
+Cap Booster 800
+Cap Booster 800
+Cap Booster 800
+Cap Booster 800
+Shield Boost Amplifier I
+Co-Processor II
+Warp Core Stabilizer I
+Ballistic Control System II (Cargo)
+'Arbalest' Siege Missile Launcher (Cargo)
+Praetor I (Drone Bay)
+

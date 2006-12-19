@@ -1,0 +1,44 @@
+2007.01.09 07:09
+
+Victim: Nukuquqa Hestase
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Hawk
+System: Erme
+Security: 0.8
+
+Involved parties:
+
+Name: Phazer (laid the final blow)
+Security: -1.2
+Alliance: Privateer Alliance
+Corp: Disturbance Inc.
+Ship: Brutix
+Weapon: Valkyrie I
+
+
+Destroyed items:
+
+Small Nosferatu I
+Flameburst Light Missile, Qty: 84
+TE-2100 Standard Missile Bay
+Small F-S9 Regolith Shield Induction
+Small Shield Booster II
+Warp Scrambler I
+'Anointed' I EM Ward Reinforcement
+Photonic CPU Enhancer I
+Small Capacitor Battery I (Cargo)
+Small Capacitor Booster I (Cargo)
+Iridium Charge M, Qty: 100 (Cargo)
+Gamma M (Cargo)
+Acolyte I, Qty: 2 (Cargo)
+ECCM - Magnetometric I (Cargo)
+Tracking Link I (Cargo)
+Militants, Qty: 20 (Cargo)
+Spot Pulsing ECCM I (Cargo)
+Olufami's DNA (Cargo)
+Energized Basic Thermic Plating (Cargo)
+400mm Reinforced Steel Plates I (Cargo)
+Sabretooth Light Missile, Qty: 100 (Cargo)
+Firefly F.O.F. Light Missile I, Qty: 100 (Cargo)
+

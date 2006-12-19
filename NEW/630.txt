@@ -1,0 +1,34 @@
+2007.04.27 16:07
+
+Victim: Fitz Farseer
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Rifter
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Korudon (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Thorax
+Weapon: Heavy Neutron Blaster I
+
+Name: FlobbMkII
+Security: 4.4
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Eris
+Weapon: Stasis Webifier II
+
+
+Destroyed items:
+
+150mm Railgun I
+150mm Compressed Coil Gun I
+Cold-Gas I Arcjet Thrusters
+Photonic CPU Enhancer I
+Co-Processor I
+Piranha Light Missile, Qty: 20 (Cargo)

@@ -1,0 +1,48 @@
+2007.04.20 06:46
+
+Victim: Codinius
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Thorax
+System: Perimeter
+Security: 1.0
+
+Involved parties:
+
+Name: Bipo
+Security: 0.0
+Alliance: Privateer Alliance
+Corp: Association Of United Bastards
+Ship: Thorax
+Weapon: Thorax
+
+Name: Stone Burner
+Security: 1.2
+Alliance: Privateer Alliance
+Corp: Privateers
+Ship: Celestis
+Weapon: Hammerhead I
+
+Name: ae1 (laid the final blow)
+Security: 0.7
+Alliance: Privateer Alliance
+Corp: The IMorral MAjority
+Ship: Scorpion
+Weapon: Paradise Cruise Missile
+
+Name: Audemed
+Security: 0.0
+Alliance: Privateer Alliance
+Corp: Wraiths Reborn
+Ship: Stabber Fleet Issue
+Weapon: 'Arbalest' Assault Missile Launcher
+
+
+Destroyed items:
+
+Heavy Ion Blaster I
+Patterned Stasis Web I
+Medium Armor Repairer I
+400mm Reinforced Titanium Plates I
+Infiltrator I, Qty: 3 (Drone Bay)
+

@@ -1,0 +1,45 @@
+2007.04.09 01:56
+
+Victim: Solomon XI
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Destroyed: Caracal
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Nowereman (laid the final blow)
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Nethel
+Security: 2.1
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Dominix
+Weapon: Berserker II
+
+Name: Morgena
+Security: -0.8
+Alliance: S.E.R.A
+Corp: Seraphin Technologies
+Ship: Thanatos
+Weapon: Heavy Rudimentary Energy Destabilizer I
+
+Name: Warp Scrambling Battery / Eternity INC.
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 48
+'Malkuth' Heavy Missile Launcher I
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Medium Shield Extender I
+Medium Shield Booster I
+Damage Control I
+

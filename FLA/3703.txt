@@ -1,0 +1,70 @@
+2007.03.29 23:49
+
+Victim: Fibua
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Iteron Mark IV
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Pheole (laid the final blow)
+Security: 1.1
+Alliance: None
+Corp: Eterne
+Ship: Stiletto
+Weapon: 200mm AutoCannon II
+
+
+Destroyed items:
+
+Small Tractor Beam I
+Expanded Cargohold I
+Large Shield Extender I, Qty: 3 (Cargo)
+Large Shield Booster I (Cargo)
+Miner I, Qty: 2 (Cargo)
+Medium F-4a Ld-Sulfate I Capacitor Charge Unit (Cargo)
+Small Hull Repairer I (Cargo)
+Small Energy Transfer Array I, Qty: 3 (Cargo)
+Small Rudimentary Energy Destabilizer I (Cargo)
+Small Energy Neutralizer I (Cargo)
+250mm Railgun I, Qty: 2 (Cargo)
+Dual 250mm Railgun I (Cargo)
+Medium Capacitor Booster I, Qty: 2 (Cargo)
+Photon Scattering Field I (Cargo)
+Ditrigonal Thermal Barrier Crystallization I (Cargo)
+ECM Burst I (Cargo)
+Antimatter Charge S, Qty: 100 (Cargo)
+Antimatter Charge M, Qty: 100 (Cargo)
+Lead Charge M, Qty: 100 (Cargo)
+Iron Charge S, Qty: 100 (Cargo)
+Defender I, Qty: 100 (Cargo)
+Inferno Torpedo, Qty: 100 (Cargo)
+Mjolnir Torpedo, Qty: 100 (Cargo)
+Bane Torpedo, Qty: 100 (Cargo)
+ECCM - Gravimetric I (Cargo)
+Shielded Gravimetric Backup Cluster I (Cargo)
+Tracking Link I (Cargo)
+Alumel-Wired I Sensor Augmentation (Cargo)
+Piranha Light Missile, Qty: 100 (Cargo)
+Havoc Heavy Missile, Qty: 100 (Cargo)
+Obliterator F.O.F. Cruise Missile I, Qty: 100 (Cargo)
+Cruise Missile Launcher I, Qty: 5 (Cargo)
+Siege Missile Launcher I, Qty: 3 (Cargo)
+Shock 'Limos' Siege Missile Bay I (Cargo)
+Assault Missile Launcher I (Cargo)
+Fried Interface Circuit, Qty: 18 (Cargo)
+Scorched Telemetry Processor, Qty: 4 (Cargo)
+Ward Console, Qty: 4 (Cargo)
+Damaged Artificial Neural Network, Qty: 4 (Cargo)
+Burned Logic Circuit, Qty: 5 (Cargo)
+Tripped Power Circuit, Qty: 14 (Cargo)
+Charred Micro Circuit, Qty: 9 (Cargo)
+Malfunctioning Shield Emitter, Qty: 10 (Cargo)
+Power Diagnostic System I (Cargo)
+Type-D Power Core Modification: Diagnostic System (Cargo)
+Capacitor Power Relay I, Qty: 2 (Cargo)
+Type-D Power Core Modification: Capacitor Power Relay (Cargo)
+Reactor Control Unit I (Cargo)
+

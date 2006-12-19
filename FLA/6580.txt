@@ -1,0 +1,40 @@
+2006.11.18 22:10
+
+Victim: Wolfmax
+Alliance: None
+Corp: Janissaries
+Destroyed: Blackbird
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: keilapuukko (laid the final blow)
+Security: 4.1
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Raven
+Weapon: Vespa I
+
+Name: Hosanna
+Security: 2.4
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Stiletto
+Weapon: Small 'Knave' I Energy Drain
+
+
+Destroyed items:
+
+Medium Nosferatu I
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+Medium Electrochemical Capacitor Booster I
+ECM - Multispectral Jammer I
+ECM - Multispectral Jammer I
+ECM - Multispectral Jammer I
+Ballistic Control System I
+Ballistic Control System I
+Havoc Heavy Missile, Qty: 378 (Cargo)
+Thunderbolt Heavy Missile, Qty: 502 (Cargo)
+

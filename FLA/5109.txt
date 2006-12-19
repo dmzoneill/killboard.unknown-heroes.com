@@ -1,0 +1,94 @@
+2007.04.22 20:47
+
+Victim: Skull Fire
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Ferox
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: ZAPPEL
+Security: 2.5
+Alliance: Mercenary Coalition
+Corp: Seraphin Technologies
+Ship: Megathron
+Weapon: Megathron
+
+Name: ZaKma (laid the final blow)
+Security: -0.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Astarte
+Weapon: 250mm Railgun II
+
+Name: Serge
+Security: 4.5
+Alliance: Mercenary Coalition
+Corp: Seraphin Technologies
+Ship: Abaddon
+Weapon: Abaddon
+
+Name: Exekias
+Security: 2.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: Ran Fujimiya
+Security: 0.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Raptor
+Weapon: Raptor
+
+Name: War Bear
+Security: 2.8
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: Myndpyre Ryche
+Security: 4.2
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Rook
+Weapon: ECM - Spatial Destabilizer II
+
+Name: Feterous Jolin
+Security: -2.3
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Myrmidon
+Weapon: Myrmidon
+
+Name: Ant5010
+Security: 1.8
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Capsule
+Weapon: Medium 'Knave' I Energy Drain
+
+
+Destroyed items:
+
+250mm Carbide Railgun I
+250mm Carbide Railgun I
+250mm Carbide Railgun I
+250mm Carbide Railgun I
+Plutonium Charge M, Qty: 87
+Scourge Heavy Missile, Qty: 27
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+Warp Disruptor I
+Stasis Webifier I
+Type-D Power Core Modification: Reaction Control
+Type-D Power Core Modification: Reaction Control
+Type-D Power Core Modification: Reaction Control
+Mobile Medium Warp Disruptor I (Cargo)
+Scourge Heavy Missile, Qty: 466 (Cargo)
+Widowmaker Heavy Missile, Qty: 467 (Cargo)
+

@@ -1,0 +1,33 @@
+2007.05.16 18:30
+
+Victim: Argentus Orsus
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Lord vanHelsing (laid the final blow)
+Security: 5.0
+Alliance: Ev0ke
+Corp: Asgard Schiffswerften
+Ship: Crow
+Weapon: Sabretooth Light Missile
+
+Name: Caldari Citizen20020
+Security: 1.7
+Alliance: Ev0ke
+Corp: Asgard Schiffswerften
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: RheinKraft10
+Security: 2.5
+Alliance: Ev0ke
+Corp: Asgard Schiffswerften
+Ship: Arazu
+Weapon: 150mm Railgun II
+
+

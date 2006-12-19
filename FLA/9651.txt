@@ -1,0 +1,166 @@
+2007.05.21 19:58
+
+Victim: Rui Nosferatu
+Alliance: None
+Corp: Warp Angels
+Destroyed: Drake
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: im187
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: Port Royal Independent Kontractors
+Ship: Cerberus
+Weapon: Scourge Heavy Missile
+
+Name: Lee Thrace
+Security: 3.1
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Eris
+Weapon: Eris
+
+Name: brotula
+Security: 2.7
+Alliance: Event-Horizon
+Corp: Panta-Rhei
+Ship: Hyperion
+Weapon: Hammerhead I
+
+Name: Corovus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+Name: Amarrian Bringer
+Security: 1.3
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Harbinger
+Weapon: Infiltrator II
+
+Name: Teham Edori (laid the final blow)
+Security: 4.7
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Prophecy
+Weapon: Hobgoblin I
+
+Name: Commander XXX
+Security: 0.9
+Alliance: DeStInY.
+Corp: The Knights Of Camelot
+Ship: Myrmidon
+Weapon: Ogre II
+
+Name: silent uk
+Security: 2.5
+Alliance: DeStInY.
+Corp: Sacred Templars
+Ship: Heretic
+Weapon: Heretic
+
+Name: Mocuker1
+Security: -0.1
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Harpy
+Weapon: Harpy
+
+Name: jonboi1
+Security: 0.5
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Taranis
+Weapon: Taranis
+
+Name: Quillan Rage
+Security: 4.8
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Zealot
+Weapon: Zealot
+
+Name: Marijoann
+Security: 5.0
+Alliance: 3asy Company
+Corp: International Space Corp
+Ship: Enyo
+Weapon: Enyo
+
+Name: Kotori
+Security: -0.2
+Alliance: DeStInY.
+Corp: Sacred Templars
+Ship: Heretic
+Weapon: Heretic
+
+Name: Ocara Nezus
+Security: 1.5
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: articz
+Security: -0.3
+Alliance: DeStInY.
+Corp: House Of Aaron
+Ship: Rifter
+Weapon: Rifter
+
+Name: Serzath
+Security: 5.0
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: pipvac
+Security: 2.7
+Alliance: DeStInY.
+Corp: Sacred Templars
+Ship: Eris
+Weapon: Sabretooth Light Missile
+
+Name: Dibbes
+Security: 0.1
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Taranis
+Weapon: Taranis
+
+Name: Miss Sparkles
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Griffin
+Weapon: Bloodclaw Light Missile
+
+Name: marakudi
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+Heavy Missile Launcher II
+Heavy Missile Launcher II
+Heavy Missile Launcher II
+Scourge Precision Heavy Missile, Qty: 120
+10MN MicroWarpdrive I
+Invulnerability Field I
+Beta Reactor Control: Shield Power Relay I
+Ballistic Control System II
+Power Diagnostic System II
+Scourge Precision Heavy Missile, Qty: 1642 (Cargo)
+Acolyte I, Qty: 3 (Drone Bay)
+

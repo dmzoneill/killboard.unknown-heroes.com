@@ -1,0 +1,42 @@
+2006.09.01 06:42
+
+Victim: Taz Navare
+Alliance: None
+Corp: H.Y.D.R.A.
+Destroyed: Rupture
+System: 2R-CRW
+Security: 0.0
+
+Involved parties:
+
+Name: Noitaakka (laid the final blow)
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Raven
+Weapon: Wrath Cruise Missile
+
+Name: Jumar Coldgin
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Eagle
+Weapon: Eagle
+
+Name: Guristas Demolisher / Guristas
+
+
+Destroyed items:
+
+Medium Nosferatu I
+EMP M, Qty: 103
+10MN MicroWarpdrive I
+J5 Prototype Warp Inhibitor I
+'Langour' Drive Disruptor I
+Warp Core Stabilizer I
+Armor Kinetic Hardener I
+Cold-Gas I Arcjet Thrusters (Cargo)
+EMP M, Qty: 2312 (Cargo)
+Barrage M, Qty: 1999 (Cargo)
+Warrior I, Qty: 3 (Drone Bay)
+

@@ -1,0 +1,34 @@
+2006.11.24 18:37
+
+Victim: Urida ewrodc
+Alliance: None
+Corp: Perkone
+Destroyed: Badger Mark II
+System: KQK1-2
+Security: 0.0
+
+Involved parties:
+
+Name: PhatBoy (laid the final blow)
+Security: 4.9
+Alliance: Kith of Venal
+Corp: Solidline Enterprise
+Ship: Raven
+Weapon: Bane Javelin Torpedo
+
+Name: Midiana
+Security: 1.1
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Ishtar
+Weapon: 150mm Railgun II
+
+
+Destroyed items:
+
+Invulnerability Field I
+ECM - Multispectral Jammer I
+ECM - Spatial Destabilizer I
+ECM - Spatial Destabilizer I
+Signal Amplifier I
+

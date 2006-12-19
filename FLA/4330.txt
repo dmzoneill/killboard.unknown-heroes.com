@@ -1,0 +1,54 @@
+2007.04.08 04:32
+
+Victim: Kvarium Ki
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Destroyed: Rupture
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: bsspewer (laid the final blow)
+Security: 2.5
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Archon
+Weapon: Einherji
+
+Name: FowlPlayChiken
+Security: 1.2
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Thanatos
+Weapon: Einherji
+
+Name: c0rn1
+Security: -2.1
+Alliance: S.E.R.A
+Corp: Seraphin Technologies
+Ship: Nidhoggur
+Weapon: Warp Disruptor II
+
+Name: Admentus Cor'vion
+Security: -0.5
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Dominix
+Weapon: E500 Prototype Energy Vampire
+
+
+Destroyed items:
+
+720mm Carbine Howitzer I
+720mm Gallium I Cannon
+720mm Gallium I Cannon
+Titanium Sabot M, Qty: 18
+Piranha Light Missile, Qty: 41
+Assault Missile Launcher I
+Assault Missile Launcher I
+Sensor Booster I
+Gyrostabilizer I
+Gyrostabilizer I
+Sabretooth Light Missile, Qty: 120 (Cargo)
+

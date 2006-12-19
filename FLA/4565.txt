@@ -1,0 +1,35 @@
+2007.04.14 15:53
+
+Victim: TheZwo
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Destroyed: Caracal
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Risandaar (laid the final blow)
+Security: 0.9
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Rukaz
+Security: 3.1
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 33
+Standard Missile Launcher I
+Standard Missile Launcher I
+'Arbalest' Assault Missile Launcher
+'Anointed' I EM Ward Reinforcement
+Signal Amplifier I
+

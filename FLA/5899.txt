@@ -1,0 +1,23 @@
+2006.10.27 20:31
+
+Victim: Mrs QuaSSia
+Alliance: None
+Corp: Marauders
+Destroyed: Gallente Shuttle
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Minesweeper (laid the final blow)
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Hound
+Weapon: Devastator Fury Cruise Missile
+
+
+Destroyed items:
+
+Y-S8 Hydrocarbon I Afterburners (Cargo)
+

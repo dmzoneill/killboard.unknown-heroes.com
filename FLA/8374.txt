@@ -1,0 +1,36 @@
+2006.11.13 16:47
+
+Victim: LizzyD
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Destroyed: Ishkur
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: GoLdeN BoY (laid the final blow)
+Security: 1.7
+Alliance: None
+Corp: Beer Guzzling Clowns With Blasters
+Ship: Scorpion
+Weapon: Hammerhead I
+
+Name: john taylor2
+Security: 2.9
+Alliance: None
+Corp: Venom.
+Ship: Dominix
+Weapon: Ogre I
+
+
+Destroyed items:
+
+150mm Railgun II
+150mm Railgun II
+Spike S, Qty: 79
+Sensor Booster I
+Energized Adaptive Nano Membrane I
+Spike S, Qty: 4680 (Cargo)
+Warrior II (Drone Bay)
+

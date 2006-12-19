@@ -1,0 +1,90 @@
+2006.07.11 22:35
+
+Victim: Confessor
+Alliance: Sparta Alliance
+Corp: ATROX.
+Destroyed: Arbitrator
+System: A4L-A2
+Security: 0.0
+
+Involved parties:
+
+Name: bidman
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Caracal
+Weapon: Heavy Neutron Blaster I
+
+Name: Zakru Anul
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: KHM Corporation
+Ship: Ferox
+Weapon: Ferox
+
+Name: GrandMastaXP (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Moa
+Weapon: 200mm Carbide Railgun I
+
+Name: Jestom
+Security: 4.8
+Alliance: Freelancer Alliance
+Corp: KHM Corporation
+Ship: Ferox
+Weapon: Widowmaker Heavy Missile
+
+Name: kone on
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: Skornik
+Security: 2.8
+Alliance: Freelancer Alliance
+Corp: KHM Corporation
+Ship: Vexor
+Weapon: 150mm Prototype I Gauss Gun
+
+Name: Kismeteer
+Security: 2.7
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Incursus
+Weapon: Warp Disruptor I
+
+Name: Wodan NL
+Security: 3.3
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Deimos
+Weapon: Warp Disruptor I
+
+Name: Nil Desperandum
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Blackbird
+Weapon: Initiated Multispectral ECM I
+
+Name: MAD D0G
+Security: 3.5
+Alliance: Freelancer Alliance
+Corp: DEATH 0R GLORY
+Ship: Ferox
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Small 'Ghoul' Energy Siphon I
+Drone Link Augmentor I
+ECM - Multispectral Jammer I
+Medium Armor Repairer II
+

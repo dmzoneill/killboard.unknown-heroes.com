@@ -1,0 +1,83 @@
+2007.04.09 02:35
+
+Victim: RythemAndStealth
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Destroyed: Brutix
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Nethel
+Security: 2.1
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Dominix
+Weapon: Berserker II
+
+Name: MIGHTYDWC
+Security: 4.7
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Myrmidon
+Weapon: Ogre II
+
+Name: END3R 101
+Security: -0.7
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Damnation
+Weapon: Templar
+
+Name: Redginald
+Security: 4.5
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Hurricane
+Weapon: Warrior II
+
+Name: Spacebar (laid the final blow)
+Security: 2.1
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Jaguar
+Weapon: 125mm Gatling AutoCannon II
+
+Name: Rukaz
+Security: 3.1
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Luthair StoneDog
+Security: -2.7
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Thanatos
+Weapon: Templar
+
+Name: Karille
+Security: -1.6
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Maulus
+Weapon: Maulus
+
+
+Destroyed items:
+
+200mm Railgun I
+200mm Railgun I
+200mm 'Scout' I Accelerator Cannon
+Iron Charge M, Qty: 225
+Cap Booster 400
+Cap Booster 400
+Armor Explosive Hardener I
+Armor Thermic Hardener I
+Iron Charge M, Qty: 3742 (Cargo)
+Cap Booster 400, Qty: 7 (Cargo)
+Guristas Crystal Tag (Cargo)
+Capacitor Power Relay I (Cargo)
+

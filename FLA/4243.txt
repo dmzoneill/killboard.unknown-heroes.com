@@ -1,0 +1,42 @@
+2007.04.05 00:52
+
+Victim: dastommy79
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Destroyed: Blackbird
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: FrankieG
+Security: -0.9
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Blackbird
+Weapon: Havoc Heavy Missile
+
+Name: Imran (laid the final blow)
+Security: 0.8
+Alliance: None
+Corp: Fate.
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+Name: Pancakes 01
+Security: 0.1
+Alliance: None
+Corp: Deep Core Mining Inc.
+Ship: Manticore
+Weapon: Paradise Cruise Missile
+
+
+Destroyed items:
+
+Sabretooth Light Missile, Qty: 47
+Signal Distortion Amplifier I
+Antimatter Charge S, Qty: 200 (Cargo)
+Lead Charge S, Qty: 120 (Cargo)
+Sabretooth Light Missile, Qty: 311 (Cargo)
+Piranha Light Missile, Qty: 500 (Cargo)
+

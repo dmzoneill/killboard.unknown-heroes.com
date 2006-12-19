@@ -1,0 +1,162 @@
+2007.03.03 07:58
+
+Victim: EM00
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Destroyed: Caracal
+System: E-Z2ZX
+Security: 0.0
+
+Involved parties:
+
+Name: Risako
+Security: 0.3
+Alliance: Agony Empire
+Corp: Agony Unleashed
+Ship: Taranis
+Weapon: Taranis
+
+Name: Greater Mind
+Security: 0.8
+Alliance: Agony Empire
+Corp: Agony Unleashed
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: Jenina Hawke
+Security: 0.3
+Alliance: Big Bang Quantum
+Corp: Core Domination
+Ship: Rifter
+Weapon: Rifter
+
+Name: Dez Erichs
+Security: 1.4
+Alliance: Agony Empire
+Corp: Agony Unleashed
+Ship: Raptor
+Weapon: Raptor
+
+Name: DirtyHarri
+Security: 5.0
+Alliance: Big Bang Quantum
+Corp: Core Domination
+Ship: Kestrel
+Weapon: Thorn Rocket
+
+Name: Arrick
+Security: 0.9
+Alliance: None
+Corp: Intergalactic Union
+Ship: Merlin
+Weapon: Merlin
+
+Name: Unit 1
+Security: 2.5
+Alliance: Agony Empire
+Corp: Agony Unleashed
+Ship: Maulus
+Weapon: Warrior I
+
+Name: Killing Mantra
+Security: -0.3
+Alliance: None
+Corp: State War Academy
+Ship: Kestrel
+Weapon: Bloodclaw Light Missile
+
+Name: Pancakes 01 (laid the final blow)
+Security: 0.1
+Alliance: None
+Corp: The Gray Brotherhood
+Ship: Griffin
+Weapon: Sabretooth Light Missile
+
+Name: Carrotine Celest
+Security: 0.2
+Alliance: None
+Corp: Federal Navy Academy
+Ship: Kestrel
+Weapon: Bloodclaw Light Missile
+
+Name: Citizen Moose
+Security: 0.0
+Alliance: None
+Corp: Republic Military School
+Ship: Rifter
+Weapon: Rifter
+
+Name: Dannek
+Security: 0.3
+Alliance: None
+Corp: Llama F5 and Associates
+Ship: Griffin
+Weapon: Thorn Rocket
+
+Name: So Phi
+Security: 0.0
+Alliance: None
+Corp: Anti-BoB Flash Mob
+Ship: Kestrel
+Weapon: Bloodclaw Light Missile
+
+Name: KrazyTaco
+Security: 0.0
+Alliance: Executive Outcomes
+Corp: The Protectorate Corporation
+Ship: Incursus
+Weapon: Incursus
+
+Name: Tainte Gallenki
+Security: 1.8
+Alliance: None
+Corp: Sinq Laison Collective
+Ship: Rifter
+Weapon: Rifter
+
+Name: xALCHEMISTx
+Security: 0.7
+Alliance: Pax Familia
+Corp: xJADE WOLFx
+Ship: Punisher
+Weapon: Warp Disruptor I
+
+Name: Rey Militaris
+Security: 0.1
+Alliance: Apocalyptica.
+Corp: Terr0r F0rce
+Ship: Merlin
+Weapon: Merlin
+
+Name: Dekreig
+Security: 0.2
+Alliance: None
+Corp: Celestial Holdings
+Ship: Incursus
+Weapon: Incursus
+
+Name: Bartolomeo Colleoni
+Security: -0.1
+Alliance: None
+Corp: State War Academy
+Ship: Kestrel
+Weapon: Standard Missile Launcher I
+
+Name: Aries Ward
+Security: 0.3
+Alliance: Pax Familia
+Corp: xJADE WOLFx
+Ship: Kestrel
+Weapon: Tracking Disruptor I
+
+
+Destroyed items:
+
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Large Shield Extender I
+Ballistic Control System I
+Havoc Heavy Missile, Qty: 968 (Cargo)
+Scourge Heavy Missile, Qty: 2936 (Cargo)
+Widowmaker Heavy Missile, Qty: 968 (Cargo)
+

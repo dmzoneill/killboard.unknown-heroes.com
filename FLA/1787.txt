@@ -1,0 +1,126 @@
+2007.01.03 20:15
+
+Victim: Sattracer
+Alliance: Freelancer Alliance
+Corp: X.T.R
+Destroyed: Dominix
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: WiseMan Ari
+Security: -1.0
+Alliance: Shroud Of Darkness
+Corp: The Priory
+Ship: Harbinger
+Weapon: Harbinger
+
+Name: Demoria
+Security: 1.1
+Alliance: Shroud Of Darkness
+Corp: The Priory
+Ship: Megathron
+Weapon: Megathron
+
+Name: The Grum
+Security: -1.4
+Alliance: Shroud Of Darkness
+Corp: The Priory
+Ship: Vagabond
+Weapon: Hammerhead I
+
+Name: Ammonita Virosa
+Security: 3.9
+Alliance: Shroud Of Darkness
+Corp: The Priory
+Ship: Rupture
+Weapon: Rupture
+
+Name: Murukan
+Security: -2.9
+Alliance: Shroud Of Darkness
+Corp: The Priory
+Ship: Rupture
+Weapon: Dual 180mm AutoCannon II
+
+Name: Beovvulf
+Security: 2.1
+Alliance: Shroud Of Darkness
+Corp: Revelations Inc.
+Ship: Claymore
+Weapon: Claymore
+
+Name: SurVie
+Security: 0.0
+Alliance: Shroud Of Darkness
+Corp: Revelations Inc.
+Ship: Omen
+Weapon: Omen
+
+Name: Hellrazer
+Security: 2.4
+Alliance: Shroud Of Darkness
+Corp: The Priory
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: remo man
+Security: -0.4
+Alliance: Shroud Of Darkness
+Corp: Revelations Inc.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Tomski Ruslav
+Security: -0.5
+Alliance: Shroud Of Darkness
+Corp: Revelations Inc.
+Ship: Scimitar
+Weapon: Sabretooth Light Missile
+
+Name: DrDevice
+Security: 0.7
+Alliance: Shroud Of Darkness
+Corp: The Priory
+Ship: Lachesis
+Weapon: Thunderbolt Heavy Missile
+
+Name: Gutsani (laid the final blow)
+Security: 3.4
+Alliance: Shroud Of Darkness
+Corp: The Priory
+Ship: Ishkur
+Weapon: Light Neutron Blaster II
+
+Name: Sylia
+Security: 3.5
+Alliance: Shroud Of Darkness
+Corp: Revelations Inc.
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: flashbang2277
+Security: 4.9
+Alliance: Shroud Of Darkness
+Corp: Revelations Inc.
+Ship: Vengeance
+Weapon: Vengeance
+
+
+Destroyed items:
+
+425mm Railgun I
+425mm Railgun I
+Uranium Charge L, Qty: 76
+Drone Link Augmentor I
+Eutectic I Capacitor Charge Array
+Eutectic I Capacitor Charge Array
+Eutectic I Capacitor Charge Array
+Armor Kinetic Hardener I
+Armor Thermic Hardener I
+Capacitor Power Relay I
+Wasp I, Qty: 7 (Drone Bay)
+Vespa II, Qty: 3 (Drone Bay)
+Medium Armor Maintenance Bot I, Qty: 2 (Drone Bay)
+

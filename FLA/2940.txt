@@ -1,0 +1,65 @@
+2007.03.17 07:28
+
+Victim: Live Eye
+Alliance: Freelancer Alliance
+Corp: ACCORD Industries
+Destroyed: Dominix
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Lord Revent
+Security: 1.0
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: VDV Kane
+Security: 4.7
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Nipplator (laid the final blow)
+Security: 2.8
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Harbinger
+Weapon: Focused Anode Pulse Particle Stream I
+
+Name: Vasili Z
+Security: 0.3
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Myrmidon
+Weapon: Hammerhead II
+
+Name: Xordus
+Security: 1.1
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Dominix
+Weapon: Ogre I
+
+Name: Galaxor
+Security: 5.1
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Harbinger
+Weapon: Hammerhead II
+
+Name: Fred Fredburger
+Security: 5.0
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Raptor
+Weapon: Phalanx Rocket
+
+
+Destroyed items:
+
+Salvager I, Qty: 12
+

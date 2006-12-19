@@ -1,0 +1,79 @@
+2007.03.17 08:12
+
+Victim: nreisan
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Destroyed: Drake
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Galaxor
+Security: 5.1
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Harbinger
+Weapon: Harbinger
+
+Name: Nipplator
+Security: 2.8
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Harbinger
+Weapon: Harbinger
+
+Name: Lord Revent
+Security: 1.0
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: VDV Kane (laid the final blow)
+Security: 4.7
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Xordus
+Security: 1.1
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Dominix
+Weapon: Vespa II
+
+Name: Vim Longhill
+Security: 4.6
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Crow
+Weapon: Crow
+
+Name: Fred Fredburger
+Security: 5.0
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Raptor
+Weapon: Raptor
+
+Name: Vasili Z
+Security: 0.3
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Myrmidon
+Weapon: X5 Prototype I Engine Enervator
+
+
+Destroyed items:
+
+Advanced 'Limos' Heavy Missile Bay I
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Large F-S9 Regolith Shield Induction
+Invulnerability Field I
+Shield Power Relay I
+Power Diagnostic System I
+Type-D Power Core Modification: Diagnostic System
+

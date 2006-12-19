@@ -1,0 +1,61 @@
+2007.05.18 02:34
+
+Victim: ACDSee 5
+Alliance: None
+Corp: Perkone
+Destroyed: Ibis
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: articz (laid the final blow)
+Security: -0.3
+Alliance: DeStInY.
+Corp: House Of Aaron
+Ship: Rifter
+Weapon: 250mm Light Artillery Cannon II
+
+Name: Vel'Kethor
+Security: -2.8
+Alliance: DeStInY.
+Corp: House Of Aaron
+Ship: Malediction
+Weapon: Malediction
+
+Name: coldkill
+Security: 2.1
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Arazu
+Weapon: Phased Muon Sensor Disruptor I
+
+Name: Veliki Pyotr
+Security: 1.7
+Alliance: DeStInY.
+Corp: The Knights Of Camelot
+Ship: Dominix
+Weapon: Warp Disruptor II
+
+Name: RisingDragon
+Security: -2.6
+Alliance: DeStInY.
+Corp: House Of Aaron
+Ship: Caracal
+Weapon: Heavy Missile Launcher I
+
+Name: Brantoc
+Security: 4.9
+Alliance: Pure.
+Corp: J.H.E.N.R
+Ship: Stiletto
+Weapon: Upgraded 'Limos' Standard Missile Bay I
+
+
+Destroyed items:
+
+Basic Miner
+Heavy Drone Operation (Cargo)
+High Speed Maneuvering (Cargo)
+Afterburner (Cargo)
+

@@ -1,0 +1,75 @@
+2007.03.31 17:22
+
+Victim: Tajkla Tierc
+Alliance: None
+Corp: Republic Military School
+Destroyed: Gallente Shuttle
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Spartan dax (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Drake
+Weapon: Havoc Heavy Missile
+
+Name: nye 2k
+Security: 5.0
+Alliance: None
+Corp: Silver Snake Enterprise
+Ship: Hawk
+Weapon: Hawk
+
+Name: Logand Delta
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Daressek
+Security: 3.7
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Cormorant
+Weapon: Cormorant
+
+Name: Skelator0311
+Security: 2.9
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Megathron
+Weapon: Megathron
+
+Name: Mocuker
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Drake
+Weapon: XR-3200 Heavy Missile Bay
+
+Name: Malcanis
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Raven
+Weapon: XT-9000 Cruise Launcher
+
+Name: Kristian Dugat
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Apocalypse
+Weapon: Mega Pulse Laser II
+
+Name: Jonkai
+Security: -3.8
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Hyperion
+Weapon: Hyperion
+
+

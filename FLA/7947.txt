@@ -1,0 +1,46 @@
+2006.10.03 22:56
+
+Victim: Valadeya uthanaras
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Destroyed: Maller
+System: L-TS8S
+Security: 0.0
+
+Involved parties:
+
+Name: H Zub
+Security: -0.8
+Alliance: None
+Corp: Omniscient Order
+Ship: Dominix
+Weapon: Ogre I
+
+Name: Jessica Radaen (laid the final blow)
+Security: 0.4
+Alliance: None
+Corp: Forever Changes
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Noobjuice
+Security: -0.7
+Alliance: None
+Corp: Omniscient Order
+Ship: Stiletto
+Weapon: 200mm AutoCannon II
+
+
+Destroyed items:
+
+Heavy Pulse Laser I
+Heavy Pulse Laser I
+Heavy Pulse Laser I
+Heavy Pulse Laser I
+Gamma M
+Gamma M
+Gamma M
+10MN Afterburner I
+Warp Disruptor I
+Stasis Webifier I
+

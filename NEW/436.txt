@@ -1,0 +1,136 @@
+2007.03.25 00:06
+
+Victim: Jurushy
+Alliance: YouWhat
+Corp: SteelVipers
+Destroyed: Cyclone
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Logand Delta
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Vesspasiano
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Dominix
+Weapon: Kapteyn Sensor Array Inhibitor I
+
+Name: Minisoza
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ishkur
+Weapon: Warrior II
+
+Name: Denaris1 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Ferox
+Weapon: 200mm Compressed Coil Gun I
+
+Name: Drako Invictus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Absolution
+Weapon: Absolution
+
+Name: Nimbu
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: J.I.T. Enterprises
+Ship: Rokh
+Weapon: 425mm Railgun I
+
+Name: Jonkai
+Security: -3.9
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: sakana
+Security: -0.9
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Megathron
+Weapon: Megathron
+
+Name: Drake Smith
+Security: 0.1
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Osprey
+Weapon: ECM - Multispectral Jammer I
+
+Name: Iss Hogai
+Security: 5.0
+Alliance: Zenith Affinity
+Corp: GREY COUNCIL
+Ship: Caracal
+Weapon: Thunderbolt Heavy Missile
+
+Name: Harken Hessel
+Security: 1.1
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Ship: Tristan
+Weapon: Tristan
+
+Name: Tregaron
+Security: 2.3
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Crow
+Weapon: TE-2100 Standard Missile Bay
+
+Name: StrikerOneSevern
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Rupture
+Weapon: 720mm Howitzer Artillery I
+
+Name: Malicel
+Security: 2.7
+Alliance: The Sundering
+Corp: ironwood ink
+Ship: Enyo
+Weapon: 125mm Prototype I Gauss Gun
+
+Name: Fugnut
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Drake
+Weapon: Remote Sensor Dampener II
+
+Name: Darthirishguy
+Security: 1.6
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Drake
+Weapon: XR-3200 Heavy Missile Bay
+
+
+Destroyed items:
+
+220mm Vulcan AutoCannon I, Qty: 3
+EMP M, Qty: 105
+Scourge Heavy Missile, Qty: 14
+Heavy Missile Launcher I, Qty: 2
+Large Shield Extender I
+LiF Fueled I Booster Rockets
+Shield Power Relay I
+Type-D Power Core Modification: Diagnostic System
+Scourge Heavy Missile, Qty: 1919 (Cargo)
+Vespa I (Drone Bay)

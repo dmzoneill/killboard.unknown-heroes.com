@@ -1,0 +1,31 @@
+2006.08.31 06:25
+
+Victim: Tyranikal
+Alliance: Lotka Volterra
+Corp: adeptus gattacus
+Destroyed: Taranis
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Noitaakka (laid the final blow)
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+
+Destroyed items:
+
+Light Neutron Blaster II
+Light Neutron Blaster II
+Void S, Qty: 108
+Fleeting Progressive Warp Scrambler I
+Micro Auxiliary Power Core I
+Infiltrator II (Cargo)
+Scorch L, Qty: 2 (Cargo)
+Void S, Qty: 610 (Cargo)
+Hobgoblin II (Drone Bay)
+

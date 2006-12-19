@@ -1,0 +1,43 @@
+2007.02.18 20:07
+
+Victim: CENGIZHAN
+Alliance: United Confederation of Corporations
+Corp: Mindstar Technology
+Destroyed: Vengeance
+System: RQH-MY
+Security: 0.0
+
+Involved parties:
+
+Name: Ghu'ru Talozan (laid the final blow)
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ishkur
+Weapon: Warrior II
+
+Name: Daressek
+Security: 3.7
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Raptor
+Weapon: Raptor
+
+
+Destroyed items:
+
+Medium Pulse Laser II
+Medium Pulse Laser II
+Conflagration S
+Conflagration S
+Gremlin Rocket, Qty: 23
+Catalyzed Cold-Gas I Arcjet Thrusters
+X5 Prototype I Engine Enervator
+Power Diagnostic System I
+Ultraviolet S, Qty: 3 (Cargo)
+Xray S (Cargo)
+Infrared S (Cargo)
+Conflagration S (Cargo)
+Scorch S (Cargo)
+Gremlin Rocket, Qty: 561 (Cargo)
+

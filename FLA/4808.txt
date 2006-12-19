@@ -1,0 +1,19 @@
+2007.04.16 02:27
+
+Victim: Chekoteh
+Alliance: Freelancer Alliance
+Corp: United Forces
+Destroyed: Capsule
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Admentus Cor'vion (laid the final blow)
+Security: -0.5
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Taranis
+Weapon: Light Neutron Blaster II
+
+

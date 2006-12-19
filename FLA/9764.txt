@@ -1,0 +1,33 @@
+2007.06.02 01:14
+
+Victim: RICKKW
+Alliance: None
+Corp: Science and Trade Institute
+Destroyed: Cormorant
+System: Tartoken
+Security: 0.1
+
+Involved parties:
+
+Name: Cephias Caine (laid the final blow)
+Security: 2.5
+Alliance: None
+Corp: Steel Battalion
+Ship: Ferox
+Weapon: Heavy Ion Blaster I
+
+Name: RebelFighter
+Security: -2.0
+Alliance: Freelancer Alliance
+Corp: Criminal DNA
+Ship: Typhoon
+Weapon: Typhoon
+
+
+Destroyed items:
+
+Civilian Analyzer
+Civilian Gatling Railgun
+'Dactyl' Type-E Asteroid Analyzer
+Coolant, Qty: 264 (Cargo)
+

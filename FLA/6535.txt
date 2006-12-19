@@ -1,0 +1,47 @@
+2006.11.16 16:47
+
+Victim: Shiona Marani
+Alliance: Ratel Alliance
+Corp: Point-Zero
+Destroyed: Gallente Shuttle
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: jacass66 (laid the final blow)
+Security: 2.6
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Enyo
+Weapon: 125mm Railgun I
+
+Name: Dog Cancer
+Security: -0.2
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Crow
+Weapon: Warp Scrambler I
+
+Name: Scorpio63
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Vengeance
+Weapon: Warp Disruptor I
+
+Name: Karas Rabus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Huginn
+Weapon: Assault Missile Launcher II
+
+Name: Courtney Brown
+Security: 2.6
+Alliance: Freelancer Alliance
+Corp: X.T.R
+Ship: Rifter
+Weapon: Rocket Launcher I
+
+

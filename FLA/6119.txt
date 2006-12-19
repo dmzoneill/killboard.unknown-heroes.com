@@ -1,0 +1,52 @@
+2006.11.08 16:05
+
+Victim: Leathal Weapon
+Alliance: None
+Corp: Beer Guzzling Clowns With Blasters
+Destroyed: Retribution
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Joachim R (laid the final blow)
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Moa
+Weapon: 250mm Compressed Coil Gun I
+
+Name: Elfaen Ethenwe
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Rook
+Weapon: Thunderbolt Precision Heavy Missile
+
+Name: Dog Cancer
+Security: 1.4
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Crow
+Weapon: Sabretooth Light Missile
+
+Name: Wousr
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Stiletto
+Weapon: Phalanx Rocket
+
+
+Destroyed items:
+
+Dual Light Beam Laser II
+Medium Beam Laser II
+Gleam S
+Energized Magnetic Membrane II
+Warp Scrambler I (Cargo)
+Micro Auxiliary Power Core I (Cargo)
+Aurora S (Cargo)
+Standard Missile Launcher II (Cargo)
+Bloodclaw Precision Light Missile, Qty: 343 (Cargo)
+

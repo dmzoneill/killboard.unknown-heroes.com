@@ -1,0 +1,29 @@
+2007.03.24 06:40
+
+Victim: BladeMos
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Destroyed: Harpy
+System: S-GKKR
+Security: 0.0
+
+Involved parties:
+
+Name: Minessis (laid the final blow)
+Security: -1.2
+Alliance: None
+Corp: Strife Mercenaries Inc.
+Ship: Deimos
+Weapon: Heavy Ion Blaster II
+
+Name: Serpentis Chief Protector / Serpentis Corporation
+
+
+Destroyed items:
+
+150mm Railgun II
+Spike S, Qty: 29
+'Langour' Drive Disruptor I
+Small Armor Repairer I
+Spike S, Qty: 4211 (Cargo)
+

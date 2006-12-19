@@ -1,0 +1,46 @@
+2006.10.04 14:56
+
+Victim: 0bso
+Alliance: GoonSwarm
+Corp: GoonWaffe
+Destroyed: Caracal
+System: A4L-A2
+Security: 0.0
+
+Involved parties:
+
+Name: Brunholdi
+Security: 3.4
+Alliance: Chorus of Dawn
+Corp: Singulerity
+Ship: Deimos
+Weapon: Hammerhead II
+
+Name: Noitaakka (laid the final blow)
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+Name: Verild
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 24
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+Medium Shield Extender I
+Faint Phase Inversion ECM I
+Sensor Booster I
+Fixed Parallel Link-Capacitor I (Cargo)
+Scourge Heavy Missile, Qty: 1767 (Cargo)
+Mercoxit Mining Crystal I (Cargo)
+

@@ -1,0 +1,43 @@
+2007.04.20 07:03
+
+Victim: Bobby Atlas
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Thrasher
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Akthuul (laid the final blow)
+Security: 5.0
+Alliance: Storm Armada
+Corp: stone grave haulage
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: sgtdark
+Security: 5.0
+Alliance: Storm Armada
+Corp: stone grave haulage
+Ship: Eris
+Weapon: Eris
+
+Name: Screamer
+Security: 0.6
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Chimera
+Weapon: Firbolg
+
+
+Destroyed items:
+
+250mm Light Artillery Cannon I
+Fusion S, Qty: 63
+1MN MicroWarpdrive I
+Warp Disruptor I
+Nanofiber Internal Structure I
+Nanofiber Internal Structure I
+Sabretooth Light Missile, Qty: 198 (Cargo)
+

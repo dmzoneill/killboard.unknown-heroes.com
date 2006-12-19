@@ -1,0 +1,45 @@
+2007.03.03 23:57
+
+Victim: Chekoteh
+Alliance: Freelancer Alliance
+Corp: United Forces
+Destroyed: Typhoon
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Guristas Terrorist / Guristas
+
+Name: Maefly (laid the final blow)
+Security: 0.2
+Alliance: None
+Corp: Bottomfeeders Inc
+Ship: Megathron
+Weapon: 425mm 'Scout' I Accelerator Cannon
+
+Name: Atomic Mayhem
+Security: -0.8
+Alliance: None
+Corp: Bottomfeeders Inc
+Ship: Pilgrim
+Weapon: Infiltrator I
+
+
+Destroyed items:
+
+Salvager I, Qty: 36
+Heavy Diminishing Power System Drain I
+Juggernaut Torpedo, Qty: 24
+Hydra F.O.F. Heavy Missile I, Qty: 32
+'Malkuth' Heavy Missile Launcher I
+Cap Recharger II
+Cap Recharger II
+Medium Armor Repairer I
+N-Type Thermic Hardener I
+N-Type Kinetic Hardener I
+1600mm Reinforced Rolled Tungsten Plates I
+Phased Plasma L, Qty: 55 (Cargo)
+Hydra F.O.F. Heavy Missile I, Qty: 143 (Cargo)
+Medium Armor Maintenance Bot I (Drone Bay)
+

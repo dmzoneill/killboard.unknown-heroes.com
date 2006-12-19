@@ -1,0 +1,33 @@
+2006.11.13 10:09
+
+Victim: foxden
+Alliance: R.I.S.K
+Corp: Russian Specnaz
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Almagar Phog
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Raptor
+Weapon: Raptor
+
+Name: Rowan Chiquar (laid the final blow)
+Security: 4.4
+Alliance: Forces of Freedom
+Corp: The Knights of the New Republic
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: AleXinO Gardon
+Security: 5.0
+Alliance: O X I D E
+Corp: W33D Corp.
+Ship: Caracal
+Weapon: Advanced 'Limos' Heavy Missile Bay I
+
+

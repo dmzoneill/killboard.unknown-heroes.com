@@ -1,0 +1,96 @@
+2007.04.04 05:27
+
+Victim: darkviron
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Destroyed: Raven
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Xordus (laid the final blow)
+Security: 0.5
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Armageddon
+Weapon: Mega Modulated Pulse Energy Beam I
+
+Name: Lord Revent
+Security: 1.2
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Maelstrom
+Weapon: Maelstrom
+
+Name: Vasili Z
+Security: 0.3
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Sleipnir
+Weapon: 425mm AutoCannon II
+
+Name: Lorn Zolog
+Security: -1.3
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Xoduse
+Security: 0.6
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Megathron
+Weapon: Megathron
+
+Name: Galaxor
+Security: 5.1
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Capt Crazee
+Security: 3.9
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Megathron
+Weapon: Megathron
+
+Name: Sexorella hotz
+Security: 2.7
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+Name: Nipplator
+Security: -0.5
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Anomaly21
+Security: -1.0
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Flycatcher
+Weapon: Rocket Launcher II
+
+
+Destroyed items:
+
+Juggernaut Torpedo, Qty: 34
+'Malkuth' Siege Missile Launcher I
+'Malkuth' Siege Missile Launcher I
+ZW-4100 Siege Missile Bay
+100MN Afterburner I
+Ballistic Deflection Field I
+Additional Thermal Barrier Emitter I
+Ballistic Control System I
+Local Power Plant Manager: Diagnostic System I
+Juggernaut Torpedo, Qty: 458 (Cargo)
+Hammerhead I, Qty: 2 (Drone Bay)
+

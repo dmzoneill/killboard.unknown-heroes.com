@@ -1,0 +1,86 @@
+2006.08.20 17:41
+
+Victim: 098765
+Alliance: R.I.S.K
+Corp: The First Foundation
+Destroyed: Scorpion
+System: DW-T2I
+Security: 0.0
+
+Involved parties:
+
+Name: Munch
+Security: 4.6
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: FotoFlame (laid the final blow)
+Security: 3.3
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Karina Harington
+Security: -1.6
+Alliance: Imperial Republic Of the North
+Corp: Port Royal Independent Kontractors
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: ForceAttuned Krogoth
+Security: 0.1
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: vladdy2
+Security: 3.3
+Alliance: CORE.
+Corp: VentureCorp
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: hired goon
+Security: 2.9
+Alliance: Dusk and Dawn
+Corp: Fate.
+Ship: Omen
+Weapon: Omen
+
+Name: Moebium
+Security: 0.6
+Alliance: Imperial Republic Of the North
+Corp: Port Royal Independent Kontractors
+Ship: Vagabond
+Weapon: 'Arbalest' Assault Missile Launcher
+
+Name: Dresden Karno
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Crow
+Weapon: TE-2100 Standard Missile Bay
+
+
+Destroyed items:
+
+Heavy 'Ghoul' Energy Siphon I
+Devastator Cruise Missile, Qty: 21
+Medium F-RX Prototype I Capacitor Boost
+ECM - Multispectral Jammer II
+ECM - Multispectral Jammer II
+ECM - Multispectral Jammer II
+ECM - Multispectral Jammer II
+ECM - Multispectral Jammer II
+Large 'Accommodation' Vestment Reconstructer I
+1600mm Reinforced Rolled Tungsten Plates I
+Ballistic Control System I
+Wrath Cruise Missile, Qty: 385 (Cargo)
+Devastator Cruise Missile, Qty: 269 (Cargo)
+Infiltrator I (Drone Bay)
+Hammerhead I, Qty: 3 (Drone Bay)
+

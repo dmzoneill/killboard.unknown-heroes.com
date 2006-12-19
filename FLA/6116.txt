@@ -1,0 +1,51 @@
+2006.11.08 15:48
+
+Victim: GoLdeN BoY
+Alliance: None
+Corp: Beer Guzzling Clowns With Blasters
+Destroyed: Curse
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Ageha (laid the final blow)
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Armageddon
+Weapon: Mega Pulse Laser II
+
+Name: Joachim R
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Moa
+Weapon: Heavy Missile Launcher II
+
+Name: TasmanianX
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Falcon
+Weapon: ECM - Multispectral Jammer II
+
+Name: Elfaen Ethenwe
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Rook
+Weapon: ECM - Multispectral Jammer II
+
+
+Destroyed items:
+
+Medium Beam Laser II
+Medium 'Knave' I Energy Drain
+Ultraviolet S
+Sensor Booster II
+Medium Armor Repairer II
+Energized Adaptive Nano Membrane II
+800mm Reinforced Crystalline Carbonide Plates I
+Hobgoblin I, Qty: 3 (Drone Bay)
+

@@ -1,0 +1,30 @@
+2007.02.21 05:44
+
+Victim: Aranon Ogronios
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Badger Mark II
+System: Du Annes
+Security: 0.6
+
+Involved parties:
+
+Name: Grammador (laid the final blow)
+Security: 1.3
+Alliance: Privateer Alliance
+Corp: Privateers
+Ship: Drake
+Weapon: Thunderbolt Heavy Missile
+
+Name: Raven Owa
+Security: 0.8
+Alliance: Privateer Alliance
+Corp: Privateers
+Ship: Drake
+Weapon: 'Arbalest' Heavy Missile Launcher
+
+
+Destroyed items:
+
+Nanofiber Internal Structure I
+

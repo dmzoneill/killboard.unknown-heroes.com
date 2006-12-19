@@ -1,0 +1,121 @@
+2007.04.18 04:49
+
+Victim: Wladomir Jed
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Destroyed: Eagle
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Teck7
+Security: 1.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Taranis
+Weapon: Dragonfly
+
+Name: Stone757
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: arthell
+Security: 2.9
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: Kvarium Ki
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Stabber
+Weapon: Stabber
+
+Name: Aridante Lemure (laid the final blow)
+Security: 1.2
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Thorax
+Weapon: Heavy Ion Blaster I
+
+Name: The Cade
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Thorax
+Weapon: Thorax
+
+Name: Skull Fire
+Security: 0.8
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Moa
+Weapon: Moa
+
+Name: TroNaaR
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Taranis
+Weapon: Taranis
+
+Name: Imaginary Number
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Manticore
+Weapon: 'Malkuth' Cruise Launcher I
+
+Name: sparkvolt
+Security: -0.7
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Rifter
+Weapon: Rifter
+
+Name: alon blackhelm
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Chimera
+Weapon: Dragonfly
+
+Name: Magic Mazuma
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Rifter
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: Bobby Atlas
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Thanatos
+Weapon: Dragonfly
+
+
+Destroyed items:
+
+250mm Railgun II
+250mm Railgun II
+Spike M, Qty: 70
+Large Shield Extender II
+Sensor Booster II
+Sensor Booster II
+Tracking Computer II
+Magnetic Field Stabilizer II
+Magnetic Field Stabilizer II
+Magnetic Field Stabilizer II
+Beta Reactor Control: Diagnostic System I
+Tritanium (Cargo)
+Antimatter Charge M, Qty: 1591 (Cargo)
+Uranium Charge M, Qty: 817 (Cargo)
+Spike M, Qty: 22 (Cargo)
+

@@ -1,0 +1,45 @@
+2007.02.16 07:01
+
+Victim: Mordri
+Alliance: Privateer Alliance
+Corp: Privateers
+Destroyed: Drake
+System: Jita
+Security: 0.9
+
+Involved parties:
+
+Name: The Equinox (laid the final blow)
+Security: 4.2
+Alliance: Interstellar Starbase Syndicate
+Corp: Dissonance Corp
+Ship: Absolution
+Weapon: Hobgoblin II
+
+Name: Sorlac Aurora
+Security: 2.1
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ferox
+Weapon: Hornet I
+
+Name: TroNaaR
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ishkur
+Weapon: Hobgoblin II
+
+
+Destroyed items:
+
+Widowmaker Heavy Missile, Qty: 78
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Large Supplemental Barrier Emitter I
+Large Subordinate Screen Stabilizer I
+'Anointed' I EM Ward Reinforcement
+Shield Power Relay I
+Ballistic Control System I
+Widowmaker Heavy Missile, Qty: 2692 (Cargo)
+

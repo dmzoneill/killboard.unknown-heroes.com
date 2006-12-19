@@ -1,0 +1,41 @@
+2007.01.07 02:41
+
+Victim: Brazz SilverPocket
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Brutix
+System: Eglennaert
+Security: 0.8
+
+Involved parties:
+
+Name: Asuzke Mitsugi (laid the final blow)
+Security: 1.0
+Alliance: Privateer Alliance
+Corp: Privateers
+Ship: Prophecy
+Weapon: Medium Pulse Laser II
+
+
+Destroyed items:
+
+150mm 'Scout' I Accelerator Cannon
+150mm 'Scout' I Accelerator Cannon
+150mm 'Scout' I Accelerator Cannon
+250mm Prototype I Gauss Gun
+Tungsten Charge M, Qty: 36
+Uranium Charge S
+Uranium Charge S
+Uranium Charge S
+Uranium Charge S
+Uranium Charge S
+Uranium Charge S
+Cap Recharger I
+Warp Disruptor I
+Stasis Webifier I
+Medium Armor Repairer II
+N-Type Kinetic Hardener I
+N-Type Thermic Hardener I
+Capacitor Power Relay I
+Uranium Charge S, Qty: 2000 (Cargo)
+

@@ -1,0 +1,40 @@
+2007.04.19 21:51
+
+Victim: Laerana
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Celestis
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: FowlPlayChiken (laid the final blow)
+Security: 1.2
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Thanatos
+Weapon: Berserker II
+
+Name: Cabadrin
+Security: 3.8
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Ishtar
+Weapon: Ishtar
+
+
+Destroyed items:
+
+Upgraded 'Limos' Standard Missile Bay I
+Drone Link Augmentor I
+Drone Link Augmentor I
+Remote Sensor Dampener I
+Remote Sensor Dampener I
+Remote Sensor Dampener I
+Drone Navigation Computer I
+Small Armor Repairer I
+Capacitor Power Relay I
+Flameburst Light Missile, Qty: 1500 (Cargo)
+Warrior I, Qty: 8 (Drone Bay)
+

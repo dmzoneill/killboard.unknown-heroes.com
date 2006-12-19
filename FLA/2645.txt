@@ -1,0 +1,45 @@
+2007.02.28 06:52
+
+Victim: Moridin Bashere
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Destroyed: Stabber
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Cladius Mithra (laid the final blow)
+Security: 1.0
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Armageddon
+Weapon: Hammerhead I
+
+
+Destroyed items:
+
+220mm Vulcan AutoCannon I
+220mm Vulcan AutoCannon I
+220mm Vulcan AutoCannon I
+EMP M, Qty: 63
+Thunderbolt Heavy Missile, Qty: 56
+'Malkuth' Heavy Missile Launcher I
+Large Azeotropic Ward Salubrity I
+Initiated Warp Jammer I
+Cross-Lateral Gyrostabilizer I
+Nanofiber Internal Structure I
+Nanofiber Internal Structure I
+Small Shield Booster I (Cargo)
+Civilian Armor Repairer (Cargo)
+Light Ion Blaster I (Cargo)
+Fusion M, Qty: 1500 (Cargo)
+Warrior II, Qty: 2 (Cargo)
+Hammerhead I, Qty: 2 (Cargo)
+Sensor Booster I (Cargo)
+100mm Reinforced Steel Plates I (Cargo)
+Bloodclaw Light Missile, Qty: 33 (Cargo)
+'Malkuth' Cruise Launcher I (Cargo)
+Standard Missile Launcher I (Cargo)
+Warrior II (Drone Bay)
+

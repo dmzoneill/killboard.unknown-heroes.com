@@ -1,0 +1,33 @@
+2006.11.16 03:41
+
+Victim: Crystal Starshine
+Alliance: None
+Corp: Imperial Academy
+Destroyed: Impairor
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Micheal Ross (laid the final blow)
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Hawk
+Weapon: Bloodclaw Precision Light Missile
+
+Name: Yarsida
+Security: 1.2
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Raptor
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: Alexiares
+Security: 1.1
+Alliance: Serenus Letum
+Corp: Flying Spaghetti Monsterz
+Ship: Arbitrator
+Weapon: Fleeting Warp Scrambler I
+
+

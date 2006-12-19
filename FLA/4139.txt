@@ -1,0 +1,40 @@
+2007.04.02 20:07
+
+Victim: Tiberius Drake
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Destroyed: Capsule
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Amok'Trueborn' Pryde
+Security: -1.5
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Huginn
+Weapon: Fleeting Propulsion Inhibitor I
+
+Name: Gordon Red (laid the final blow)
+Security: 2.1
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Heretic
+Weapon: Dual Light Beam Laser II
+
+Name: Ridoc
+Security: 2.9
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Taranis
+Weapon: Taranis
+
+Name: DeDreiIx
+Security: 3.4
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Merlin
+Weapon: Merlin
+
+

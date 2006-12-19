@@ -1,0 +1,40 @@
+2007.03.18 21:38
+
+Victim: tropic112
+Alliance: YouWhat
+Corp: Artificial Horizons
+Destroyed: Capsule
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Minisoza
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Enyo
+Weapon: Enyo
+
+Name: Rhokel (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: The Night Crew
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: Eleri Bree
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Taranis
+Weapon: Taranis
+
+Name: Dark Carnage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Crow
+Weapon: X5 Prototype I Engine Enervator
+
+

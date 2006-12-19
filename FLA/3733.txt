@@ -1,0 +1,61 @@
+2007.03.30 23:24
+
+Victim: RythemAndStealth
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Destroyed: Caracal
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Ateneiha (laid the final blow)
+Security: 4.8
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Chimera
+Weapon: Templar
+
+Name: Robet Katrix
+Security: 2.5
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Chimera
+Weapon: Templar
+
+Name: NoWeR
+Security: 4.5
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Tomas Ysidro
+Security: 1.3
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Taranis
+Weapon: Fleeting Warp Scrambler I
+
+Name: Olli
+Security: -0.1
+Alliance: S.E.R.A
+Corp: Seraphin Technologies
+Ship: Crow
+Weapon: Domination Warp Disruptor
+
+
+Destroyed items:
+
+Thunderbolt Heavy Missile, Qty: 21
+Scourge Heavy Missile, Qty: 44
+Havoc Heavy Missile, Qty: 22
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Large F-S9 Regolith Shield Induction
+Medium Converse I Deflection Catalyzer
+Type-D Power Core Modification: Reaction Control
+Widowmaker Heavy Missile, Qty: 670 (Cargo)
+Scourge Heavy Missile, Qty: 1440 (Cargo)
+Thunderbolt Heavy Missile, Qty: 1470 (Cargo)
+

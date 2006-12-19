@@ -1,0 +1,47 @@
+2007.02.08 21:14
+
+Victim: Nova Paradise
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Caracal
+System: Sobaseki
+Security: 0.8
+
+Involved parties:
+
+Name: Tertius Caedes
+Security: -1.9
+Alliance: Privateer Alliance
+Corp: Tempt Fate
+Ship: Stabber Fleet Issue
+Weapon: Warrior II
+
+Name: Ninon Lanclos
+Security: 3.8
+Alliance: Privateer Alliance
+Corp: Tempt Fate
+Ship: Celestis
+Weapon: Warrior II
+
+Name: Hei'di (laid the final blow)
+Security: -1.0
+Alliance: Privateer Alliance
+Corp: Tempt Fate
+Ship: Arbitrator
+Weapon: Valkyrie II
+
+
+Destroyed items:
+
+Torrent Assault Missile, Qty: 132
+Hellfire Assault Missile, Qty: 138
+Terror Assault Missile, Qty: 138
+'Arbalest' Heavy Assault Missile Launcher I
+'Arbalest' Heavy Assault Missile Launcher I
+'Arbalest' Heavy Assault Missile Launcher I
+'Arbalest' Heavy Assault Missile Launcher I
+Large Shield Extender II
+Medium Shield Booster II
+Fleeting Warp Scrambler I
+Hellfire Assault Missile, Qty: 124 (Cargo)
+

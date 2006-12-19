@@ -1,0 +1,19 @@
+2006.08.12 15:20
+
+Victim: Dougan Ironfist
+Alliance: None
+Corp: Spaced Cowboys
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Carl tabot (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Raven
+Weapon: Mjolnir Javelin Torpedo
+
+

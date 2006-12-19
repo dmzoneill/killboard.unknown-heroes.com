@@ -1,0 +1,64 @@
+2007.03.05 04:27
+
+Victim: Ophea
+Alliance: Galaxia Union
+Corp: The Collective of Ascended Beings
+Destroyed: Megathron
+System: Alparena
+Security: 0.1
+
+Involved parties:
+
+Name: NoLuckNumber2
+Security: -0.9
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Megathron
+Weapon: Megathron
+
+Name: VoYvod (laid the final blow)
+Security: -1.1
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Armageddon
+Weapon: Dual Heavy Pulse Laser I
+
+Name: Serpentis Chief Infantry / Serpentis Corporation
+
+Name: Jesnen
+Security: -1.0
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Sacrilege
+Weapon: Sacrilege
+
+
+Destroyed items:
+
+Dual 250mm Carbide Railgun I
+425mm Railgun I
+425mm Railgun I
+425mm Railgun I
+Dual 250mm 'Scout' I Accelerator Cannon
+Dual 250mm Compressed Coil Gun I
+Antimatter Charge L, Qty: 298
+Large F-S9 Regolith Shield Induction
+V-M15 Braced Multispectral Shield Matrix
+Viscoelastic EM Ward Salubrity I
+Large I-a Polarized Armor Regenerator
+Quantum Co-Processor I
+Armor Kinetic Hardener I
+N-Type Explosive Hardener I
+Medium Shield Booster I (Cargo)
+Medium Armor Repairer I (Cargo)
+'Cetus' ECM Shockwave I (Cargo)
+Antimatter Charge L, Qty: 3792 (Cargo)
+Iridium Charge L, Qty: 1605 (Cargo)
+ECM - Spatial Destabilizer I (Cargo)
+Remote Sensor Dampener I (Cargo)
+ECCM Projector I (Cargo)
+Magnetic Field Stabilizer I (Cargo)
+Expanded Cargohold I (Cargo)
+Praetor I (Drone Bay)
+Ogre I (Drone Bay)
+

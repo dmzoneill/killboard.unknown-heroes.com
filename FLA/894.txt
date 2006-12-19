@@ -1,0 +1,33 @@
+2007.02.26 00:48
+
+Victim: Gibson Rothman
+Alliance: Red Moon Federation
+Corp: Confederation of Red Moon
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: zentroty (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Lillegutt
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Ship: Armageddon
+Weapon: Mega Pulse Laser II
+
+Name: KingRizen
+Security: -2.1
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+

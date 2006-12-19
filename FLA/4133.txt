@@ -1,0 +1,112 @@
+2007.04.02 18:53
+
+Victim: Seryius
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Destroyed: Scorpion
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Ant5010 (laid the final blow)
+Security: 1.7
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Enosh Kerrim
+Security: -1.8
+Alliance: S.E.R.A
+Corp: Seraphin Technologies
+Ship: Astarte
+Weapon: Astarte
+
+Name: PRO Gaz
+Security: 3.6
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Sacrilege
+Weapon: Sacrilege
+
+Name: Emelie
+Security: -3.7
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Eris
+Weapon: Eris
+
+Name: END3R 101
+Security: -0.7
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Malediction
+Weapon: Fleeting Warp Scrambler I
+
+Name: Ran Fujimiya
+Security: 0.4
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Raptor
+Weapon: Raptor
+
+Name: Olli
+Security: -0.1
+Alliance: S.E.R.A
+Corp: Seraphin Technologies
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: ZaKma
+Security: -0.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Ishtar
+Weapon: Ishtar
+
+Name: Loomina
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Eris
+Weapon: Flameburst Light Missile
+
+Name: Stradivarious
+Security: 3.4
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Huginn
+Weapon: 650mm Artillery Cannon II
+
+Name: Steve Dave
+Security: 4.1
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Hawk
+Weapon: TE-2100 Standard Missile Bay
+
+Name: 4SG GillHead
+Security: 5.0
+Alliance: S.E.R.A
+Corp: Seraphin Technologies
+Ship: Absolution
+Weapon: Heavy Pulse Laser II
+
+
+Destroyed items:
+
+Heavy Nosferatu I
+Devastator Cruise Missile, Qty: 40
+'Malkuth' Cruise Launcher I
+Cap Booster 800
+Compulsive Multispectral ECM I
+FZ-3a Disruptive Spatial Destabilizer ECM
+'Hypnos' Ion Field ECM I
+Supplemental Scanning CPU I
+Compulsive Signal Distortion Amplifier I
+Acolyte I, Qty: 2 (Cargo)
+Hobgoblin I (Cargo)
+Paradise Cruise Missile, Qty: 961 (Cargo)
+Devastator Cruise Missile, Qty: 2310 (Cargo)
+

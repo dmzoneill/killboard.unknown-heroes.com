@@ -1,0 +1,38 @@
+2006.11.10 01:46
+
+Victim: Domosan
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Destroyed: Covetor
+System: J1AU-9
+Security: 0.0
+
+Involved parties:
+
+Name: Boogiez
+Security: 0.5
+Alliance: None
+Corp: Dark-Rising
+Ship: Thorax
+Weapon: Valkyrie II
+
+Name: JMcClane (laid the final blow)
+Security: 4.8
+Alliance: None
+Corp: Dark-Rising
+Ship: Vexor
+Weapon: Valkyrie II
+
+Name: Iceman DK
+Security: 1.0
+Alliance: None
+Corp: Dark-Rising
+Ship: Crow
+Weapon: Fleeting Warp Scrambler I
+
+
+Destroyed items:
+
+Mining Laser Upgrade I
+Strip Miner I, Qty: 2 (Cargo)
+

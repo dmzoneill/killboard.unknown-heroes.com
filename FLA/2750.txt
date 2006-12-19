@@ -1,0 +1,62 @@
+2007.03.05 00:56
+
+Victim: Sorlac Aurora
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Rokh
+System: Jita
+Security: 0.9
+
+Involved parties:
+
+Name: Templar Dane (laid the final blow)
+Security: -1.9
+Alliance: Privateer Alliance
+Corp: Privateers
+Ship: Armageddon
+Weapon: Dual Heavy Modulated Pulse Energy Beam I
+
+Name: xBlood
+Security: 4.2
+Alliance: Privateer Alliance
+Corp: Privateers
+Ship: Cyclone
+Weapon: Cyclone
+
+Name: Kurt Ferguson
+Security: 0.0
+Alliance: Privateer Alliance
+Corp: Privateers
+Ship: Curse
+Weapon: Hammerhead II
+
+Name: Lyshah
+Security: -1.5
+Alliance: Privateer Alliance
+Corp: The Carebear Stare
+Ship: Taranis
+Weapon: Taranis
+
+
+Destroyed items:
+
+Anode Mega Neutron Particle Cannon I
+Anode Mega Neutron Particle Cannon I
+Anode Mega Neutron Particle Cannon I
+Antimatter Charge L, Qty: 93
+X-Large C5-L Emergency Shield Overload I
+Warp Disruptor I
+V-M15 Braced Multispectral Shield Matrix
+V-M15 Braced Multispectral Shield Matrix
+Cap Booster 800
+Cap Booster 800
+Cap Booster 800
+Cap Booster 800
+Cap Booster 800
+Magnetic Field Stabilizer II
+Magnetic Field Stabilizer II
+Beta Reactor Control: Reaction Control I
+Antimatter Charge L, Qty: 1473 (Cargo)
+Iron Charge L, Qty: 1027 (Cargo)
+Cap Booster 800, Qty: 5 (Cargo)
+

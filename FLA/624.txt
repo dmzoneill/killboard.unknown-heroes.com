@@ -1,0 +1,35 @@
+2007.02.13 06:03
+
+Victim: XLament
+Alliance: Privateer Alliance
+Corp: The IMorral MAjority
+Destroyed: Taranis
+System: Orvolle
+Security: 0.7
+
+Involved parties:
+
+Name: KingRizen (laid the final blow)
+Security: -2.3
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Ship: Caracal
+Weapon: Scourge Fury Heavy Missile
+
+Name: Kazsaw
+Security: 0.0
+Alliance: FREGE Alliance
+Corp: Dust Echoes
+Ship: Unknown
+Weapon: Heavy Missile Launcher I
+
+
+Destroyed items:
+
+E5 Prototype Energy Vampire
+Light Ion Blaster II
+Light Ion Blaster II
+Light Ion Blaster II
+Null S, Qty: 70
+Void S, Qty: 1500 (Cargo)
+

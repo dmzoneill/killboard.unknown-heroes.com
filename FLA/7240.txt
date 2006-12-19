@@ -1,0 +1,79 @@
+2006.05.13 17:47
+
+Victim: BigggSexy
+Alliance: None
+Corp: g guild
+Destroyed: Falcon
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: ETS4ME
+Security: -1.4
+Alliance: None
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Bane Javelin Torpedo
+
+Name: Heinky
+Security: 1.1
+Alliance: None
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Bane Javelin Torpedo
+
+Name: Asiel (laid the final blow)
+Security: 2.5
+Alliance: None
+Corp: Shadow Company
+Ship: Scorpion
+Weapon: Devastator Cruise Missile
+
+Name: RudyTPSA
+Security: 5.0
+Alliance: None
+Corp: Drones of Annihilation
+Ship: Raven
+Weapon: Cruise Missile Launcher II
+
+Name: DeSantis
+Security: 1.6
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Raven
+Weapon: Wrath Cruise Missile
+
+Name: killmore
+Security: 2.2
+Alliance: None
+Corp: Drones of Annihilation
+Ship: Megathron
+Weapon: Megathron
+
+Name: doaeviltwin
+Security: 1.0
+Alliance: None
+Corp: Drones of Annihilation
+Ship: Apocalypse
+Weapon: Apocalypse
+
+Name: Tdino
+Security: 5.0
+Alliance: None
+Corp: Drones of Annihilation
+Ship: Archon
+Weapon: Dragonfly
+
+
+Destroyed items:
+
+Defender I, Qty: 10
+OE-5200 Rocket Launcher
+ECM - Spatial Destabilizer II
+'Hypnos' Multispectral ECM I
+'Hypnos' Multispectral ECM I
+ECM - White Noise Generator II
+ECM - Phase Inverter II
+ECM - Ion Field Projector II
+

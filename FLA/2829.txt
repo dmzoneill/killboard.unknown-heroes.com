@@ -1,0 +1,52 @@
+2007.03.10 21:54
+
+Victim: Altanzar
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Destroyed: Taranis
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Mr Moonwatcher (laid the final blow)
+Security: 5.0
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Taranis
+Weapon: Warrior II
+
+Name: Nkalv
+Security: -2.6
+Alliance: Chorus of Dawn
+Corp: Free Lapland
+Ship: Sabre
+Weapon: Sabre
+
+Name: Tanya Kovacs
+Security: 5.1
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Eagle
+Weapon: Eagle
+
+Name: Major Pompington
+Security: 4.9
+Alliance: Chorus of Dawn
+Corp: Cosmic Odyssey
+Ship: Crow
+Weapon: Upgraded 'Limos' Standard Missile Bay I
+
+
+Destroyed items:
+
+Light Ion Blaster II
+Void S, Qty: 109
+1MN MicroWarpdrive I
+Sensor Booster II
+Small Armor Repairer II
+Beta Reactor Control: Capacitor Power Relay I
+Corpse (Cargo)
+Void S, Qty: 1038 (Cargo)
+Hobgoblin II, Qty: 2 (Drone Bay)
+

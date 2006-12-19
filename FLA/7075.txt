@@ -1,0 +1,28 @@
+2006.12.24 07:20
+
+Victim: Eytre
+Alliance: None
+Corp: Beets and Gravy Syndicate
+Destroyed: Caracal
+System: Nagamanen
+Security: 0.3
+
+Involved parties:
+
+Name: Compos Mentis (laid the final blow)
+Security: -5.3
+Alliance: Freelancer Alliance
+Corp: X.T.R
+Ship: Cerberus
+Weapon: Thunderbolt Heavy Missile
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 29
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Medium C5-L Emergency Shield Overload I
+Quantum Co-Processor I
+Ballistic Control System I
+

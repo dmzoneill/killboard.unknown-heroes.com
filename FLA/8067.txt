@@ -1,0 +1,24 @@
+2006.10.08 19:30
+
+Victim: garoeda
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Destroyed: Iteron Mark III
+System: Sivala
+Security: 0.6
+
+Involved parties:
+
+Name: Morfane (laid the final blow)
+Security: -0.2
+Alliance: None
+Corp: Privateers
+Ship: Taranis
+Weapon: Light Neutron Blaster II
+
+
+Destroyed items:
+
+Small Tractor Beam I
+Small Shield Booster I
+

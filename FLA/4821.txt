@@ -1,0 +1,71 @@
+2007.04.16 15:16
+
+Victim: chang bow
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Destroyed: Myrmidon
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: lethario desrtuction
+Security: 2.1
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Drake
+Weapon: Acolyte I
+
+Name: Spitfire5769 (laid the final blow)
+Security: 4.5
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Zealot
+Weapon: Heavy Modulated Pulse Energy Beam I
+
+Name: Terdlinger
+Security: 4.8
+Alliance: Storm Armada
+Corp: stone grave haulage
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+Name: Reverend Revelator
+Security: 1.5
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Ishkur
+Weapon: Acolyte II
+
+Name: Nubiam
+Security: 4.9
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Malediction
+Weapon: Malediction
+
+Name: Clarissime
+Security: 0.8
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Rifter
+Weapon: Rifter
+
+
+Destroyed items:
+
+250mm Railgun I
+250mm Railgun I
+250mm Railgun I
+200mm Carbide Railgun I
+Antimatter Charge M, Qty: 46
+Medium Shield Booster I
+Cap Recharger I
+Armor Kinetic Hardener I
+Power Diagnostic System I
+Mark I Generator Refitting: Reaction Control
+Iron Charge M, Qty: 400 (Cargo)
+Uranium Charge M, Qty: 400 (Cargo)
+Tungsten Charge M, Qty: 550 (Cargo)
+Ogre I, Qty: 5 (Drone Bay)
+

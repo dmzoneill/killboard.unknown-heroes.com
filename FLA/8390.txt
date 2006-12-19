@@ -1,0 +1,49 @@
+2006.11.14 22:55
+
+Victim: Karas Rabus
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Destroyed: Huginn
+System: O-N8XZ
+Security: 0.0
+
+Involved parties:
+
+Name: Captain Rickdick
+Security: -0.6
+Alliance: None
+Corp: Bad Karma.
+Ship: Raven
+Weapon: Siege Missile Launcher II
+
+Name: mr hydeuk (laid the final blow)
+Security: 4.9
+Alliance: None
+Corp: Bad Karma.
+Ship: Raven
+Weapon: Mjolnir Javelin Torpedo
+
+Name: Mordocik
+Security: -0.6
+Alliance: None
+Corp: Bad Karma.
+Ship: Vagabond
+Weapon: Vagabond
+
+
+Destroyed items:
+
+Assault Missile Launcher II
+Drone Link Augmentor I
+Flameburst Precision Light Missile, Qty: 61
+Sabretooth Precision Light Missile, Qty: 61
+J5 Prototype Warp Inhibitor I
+Sensor Booster II
+Sensor Booster II
+Energized Adaptive Nano Membrane II
+Tremor M, Qty: 192 (Cargo)
+Phased Weapon Navigation Array Generation Extron (Cargo)
+Flameburst Light Missile, Qty: 1326 (Cargo)
+Sabretooth Precision Light Missile, Qty: 314 (Cargo)
+Flameburst Precision Light Missile, Qty: 127 (Cargo)
+

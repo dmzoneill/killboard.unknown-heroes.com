@@ -1,0 +1,28 @@
+2007.01.05 19:55
+
+Victim: Nobu Takeda
+Alliance: Privateer Alliance
+Corp: Panzershrek
+Destroyed: Ibis
+System: Sobaseki
+Security: 0.8
+
+Involved parties:
+
+Name: Nova Paradise (laid the final blow)
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+
+Destroyed items:
+
+Basic Miner
+Cold-Gas I Arcjet Thrusters (Cargo)
+J5 Prototype Warp Inhibitor I (Cargo)
+'Element' Magnetic Plating I (Cargo)
+Extruded Heat Sink I (Cargo)
+Scorch S (Cargo)
+

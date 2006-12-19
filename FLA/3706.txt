@@ -1,0 +1,32 @@
+2007.03.30 08:27
+
+Victim: Wicked Pissah
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Drake
+System: OWXT-5
+Security: 0.0
+
+Involved parties:
+
+Name: Wrath Cruise Missile / Guristas (laid the final blow)
+
+Name: Scer
+Security: 1.1
+Alliance: None
+Corp: Eterne
+Ship: Ishtar
+Weapon: Ogre I
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 120
+'Arbalest' Heavy Missile Launcher
+'Arbalest' Heavy Missile Launcher
+'Arbalest' Heavy Missile Launcher
+Large F-S9 Regolith Shield Induction
+Kinetic Deflection Amplifier I
+Kinetic Deflection Amplifier I
+Scourge Heavy Missile, Qty: 3848 (Cargo)
+

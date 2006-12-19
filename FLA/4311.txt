@@ -1,0 +1,42 @@
+2007.04.07 20:06
+
+Victim: Kvarium Ki
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Destroyed: Rupture
+System: O-CNPR
+Security: 0.0
+
+Involved parties:
+
+Name: gaz widdow (laid the final blow)
+Security: 5.0
+Alliance: FATAL Alliance
+Corp: FATAL REVELATIONS
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Aelena Thraant
+Security: 5.0
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Astarte
+Weapon: Astarte
+
+
+Destroyed items:
+
+720mm 'Scout' Artillery I
+720mm Gallium I Cannon
+Nuclear M, Qty: 18
+Assault Missile Launcher I
+Sensor Booster I
+'Orion' Tracking CPU I
+Tracking Computer I
+F-M3 Munition Inertial Suspensor
+Small Armor Repairer I
+'Acolyth' Signal Booster
+F-aQ Phase Code Tracking Subroutines
+Piranha Light Missile, Qty: 189 (Cargo)
+Vespa I, Qty: 3 (Drone Bay)
+

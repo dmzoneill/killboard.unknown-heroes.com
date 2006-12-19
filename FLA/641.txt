@@ -1,0 +1,105 @@
+2007.02.13 23:09
+
+Victim: Miklas Laces
+Alliance: None
+Corp: A.N.A.R.C.H.I.C.A
+Destroyed: Myrmidon
+System: KLY-C0
+Security: 0.0
+
+Involved parties:
+
+Name: Ashr
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Nighthawk
+Weapon: Heavy Missile Launcher II
+
+Name: Seventh Star
+Security: 5.0
+Alliance: None
+Corp: BGG
+Ship: Drake
+Weapon: Widowmaker Heavy Missile
+
+Name: jacass66
+Security: 5.0
+Alliance: None
+Corp: BGG
+Ship: Drake
+Weapon: Hobgoblin II
+
+Name: Velithe
+Security: 3.1
+Alliance: None
+Corp: BGG
+Ship: Caracal
+Weapon: Warrior I
+
+Name: Ridgy (laid the final blow)
+Security: 0.7
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Ship: Scorpion
+Weapon: Wrath Cruise Missile
+
+Name: Ocara Nezus
+Security: 2.8
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Hawk
+Weapon: Bloodclaw Light Missile
+
+Name: WolfRavage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Ishkur
+Weapon: Warrior I
+
+Name: Tnam
+Security: 1.8
+Alliance: None
+Corp: BGG
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: Kyoshisan
+Security: 0.7
+Alliance: None
+Corp: BGG
+Ship: Eris
+Weapon: Eris
+
+Name: Dark Carnage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Crow
+Weapon: Sabretooth Light Missile
+
+Name: Xantheris
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Enyo
+Weapon: Acolyte I
+
+
+Destroyed items:
+
+Dual 150mm Railgun II
+Dual 150mm Railgun II
+Dual 150mm Railgun II
+Antimatter Charge M, Qty: 576
+Y-T8 Overcharged Hydrocarbon I Microwarpdrive
+Medium Electrochemical Capacitor Booster I
+Cap Booster 800
+Damage Control I
+Medium Armor Repairer II
+Energized Regenerative Membrane II
+Cap Booster 800, Qty: 6 (Cargo)
+Wasp II (Drone Bay)
+Vespa II, Qty: 3 (Drone Bay)
+

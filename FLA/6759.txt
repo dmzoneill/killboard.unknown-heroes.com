@@ -1,0 +1,71 @@
+2006.11.26 16:44
+
+Victim: night darkness
+Alliance: None
+Corp: omen.
+Destroyed: Malediction
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Hosanna
+Security: 3.1
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Xyron Eagle (laid the final blow)
+Security: 5.0
+Alliance: O X I D E
+Corp: W33D Corp.
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Mat rix
+Security: 5.0
+Alliance: DeStInY.
+Corp: Sacred Templars
+Ship: Hawk
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+Name: Noitaakka
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Ishtar
+Weapon: Ishtar
+
+Name: W4RR10R
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Arazu
+Weapon: Warrior II
+
+Name: pipvac
+Security: 5.0
+Alliance: DeStInY.
+Corp: Sacred Templars
+Ship: Ishtar
+Weapon: Warp Scrambler I
+
+Name: Caleb Defiance
+Security: 5.0
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Manticore
+Weapon: XT-9000 Cruise Launcher
+
+
+Destroyed items:
+
+Dual Light Pulse Laser II
+Conflagration S
+Conflagration S
+X5 Prototype I Engine Enervator
+Small Armor Repairer II
+200mm Reinforced Steel Plates II
+Conflagration S (Cargo)
+

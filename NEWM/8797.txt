@@ -1,0 +1,88 @@
+2006.12.12 16:39
+
+Victim: Burn Lump
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Ferox
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: h3llrayser
+Security: 0.2
+Alliance: Kith of Venal
+Corp: Solidline Enterprise
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+Name: kojackUcigashu (laid the final blow)
+Security: 4.7
+Alliance: Kith of Venal
+Corp: Solidline Enterprise
+Ship: Megathron
+Weapon: Ion Blaster Cannon II
+
+Name: TheRelic Ash
+Security: 5.1
+Alliance: Kith of Venal
+Corp: Solidline Enterprise
+Ship: Eagle
+Weapon: Eagle
+
+Name: Ane Mary
+Security: 1.9
+Alliance: Kith of Venal
+Corp: Solidline Enterprise
+Ship: Capsule
+Weapon: E500 Prototype Energy Vampire
+
+Name: lt blacklotus
+Security: -0.3
+Alliance: Kith of Venal
+Corp: Solidline Enterprise
+Ship: Tempest
+Weapon: Tracking Disruptor I
+
+Name: Syox
+Security: -0.5
+Alliance: Kith of Venal
+Corp: Solidline Enterprise
+Ship: Dominix
+Weapon: Dominix
+
+Name: zeitza ta
+Security: 1.7
+Alliance: Kith of Venal
+Corp: Solidline Enterprise
+Ship: Arazu
+Weapon: Infiltrator II
+
+Name: teroarea
+Security: -1.2
+Alliance: Kith of Venal
+Corp: Solidline Enterprise
+Ship: Eris
+Weapon: Eris
+
+Name: Ahile
+Security: 3.4
+Alliance: Kith of Venal
+Corp: Solidline Enterprise
+Ship: Dominix
+Weapon: Heavy Diminishing Power System Drain I
+
+
+Destroyed items:
+
+Dual 150mm Railgun II
+Antimatter Charge M, Qty: 131
+Javelin M, Qty: 131
+Scourge Heavy Missile, Qty: 25
+Large Azeotropic Ward Salubrity I
+Invulnerability Field I
+Invulnerability Field I
+Antimatter Charge M, Qty: 718 (Cargo)
+Javelin M, Qty: 601 (Cargo)
+Scourge Heavy Missile, Qty: 636 (Cargo)
+

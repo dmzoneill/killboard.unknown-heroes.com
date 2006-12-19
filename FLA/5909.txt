@@ -1,0 +1,133 @@
+2006.10.28 04:05
+
+Victim: Commander Thrawn
+Alliance: Eternal Empire
+Corp: Tarnak inc.
+Destroyed: Armageddon
+System: J-CIJV
+Security: 0.0
+
+Involved parties:
+
+Name: digital oxygen
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Deimos
+Weapon: Deimos
+
+Name: Chalimar
+Security: 1.1
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Arazu
+Weapon: 250mm Prototype I Gauss Gun
+
+Name: toonsterpw
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Vagabond
+Weapon: 425mm AutoCannon II
+
+Name: Goca (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Raven
+Weapon: Juggernaut Javelin Torpedo
+
+Name: SleepyOSU
+Security: 4.0
+Alliance: Freelancer Alliance
+Corp: Sin-X Inc.
+Ship: Vexor
+Weapon: Hammerhead I
+
+Name: Bricker
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Moa
+Weapon: Moa
+
+Name: Fugnut
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Crow
+Weapon: Thorn Rocket
+
+Name: Soliloquil
+Security: 3.8
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Caracal
+Weapon: Thunderbolt Heavy Missile
+
+Name: Entragian Delmar
+Security: 1.3
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Thorax
+Weapon: Thorax
+
+Name: Marco Polio
+Security: 0.6
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Moa
+Weapon: Moa
+
+Name: tvol
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Crusader
+Weapon: Initiated Warp Jammer I
+
+Name: Yarsida
+Security: 1.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Condor
+Weapon: Small 'Knave' I Energy Drain
+
+Name: Braxxon
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Rapier
+Weapon: Dread Guristas Stasis Webifier
+
+
+Destroyed items:
+
+Dual Heavy Pulse Laser II
+Dual Heavy Pulse Laser II
+Dual Heavy Pulse Laser II
+Microwave L
+Microwave L
+Microwave L
+Microwave L
+Microwave L
+Microwave L
+Fleeting Warp Scrambler I
+Heavy F-RX Prototype I Capacitor Boost
+Cap Booster 400
+Cap Booster 400
+Cap Booster 400
+Cap Booster 400
+Cap Booster 400
+Cap Booster 400
+Cap Booster 400
+Cap Booster 400
+Large Armor Repairer II
+Heat Sink II
+Nanomechanical CPU Enhancer I
+Warp Core Stabilizer I
+Energized Adaptive Nano Membrane I
+Multifrequency L, Qty: 2 (Cargo)
+Hobgoblin I, Qty: 2 (Drone Bay)
+Hobgoblin II (Drone Bay)
+

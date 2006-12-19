@@ -1,0 +1,24 @@
+2006.12.03 06:24
+
+Victim: chopsypaul
+Alliance: None
+Corp: UK1 Zero
+Destroyed: Typhoon
+System: Elarel
+Security: 0.4
+
+Involved parties:
+
+Name: PowerGimp (laid the final blow)
+Security: 2.6
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Raven
+Weapon: Juggernaut Torpedo
+
+
+Destroyed items:
+
+Titanium Sabot L
+Monopulse Tracking Mechanism I
+

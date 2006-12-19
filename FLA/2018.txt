@@ -1,0 +1,82 @@
+2007.01.17 15:06
+
+Victim: Wousr
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Destroyed: Sleipnir
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: WarGod
+Security: 1.7
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Curse
+Weapon: Valkyrie II
+
+Name: boo3916
+Security: 4.6
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Eos
+Weapon: X5 Prototype I Engine Enervator
+
+Name: K Shara
+Security: 4.8
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Cerberus
+Weapon: Heavy Missile Launcher II
+
+Name: ArchenTheGreat
+Security: -2.2
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Celestis
+Weapon: Infiltrator II
+
+Name: StellaBlue
+Security: 0.0
+Alliance: None
+Corp: Exanimo Inc
+Ship: Taranis
+Weapon: Warrior II
+
+Name: Anna Neura (laid the final blow)
+Security: -0.2
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Taranis
+Weapon: 125mm Railgun II
+
+Name: McGin
+Security: -3.6
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Stabber
+Weapon: Stabber
+
+Name: xVx Scarecrow
+Security: 3.2
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+425mm AutoCannon II
+425mm AutoCannon II
+425mm AutoCannon II
+425mm AutoCannon II
+Titanium Sabot M, Qty: 276
+Dread Guristas Large Shield Booster
+10MN MicroWarpdrive II
+Dread Guristas Ballistic Deflection Field
+Gyrostabilizer II
+Titanium Sabot M, Qty: 20798 (Cargo)
+Vespa I, Qty: 3 (Drone Bay)
+

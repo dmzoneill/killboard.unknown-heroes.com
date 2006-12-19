@@ -1,0 +1,26 @@
+2007.04.30 04:03
+
+Victim: SaboDeTeur
+Alliance: None
+Corp: Uniscape
+Destroyed: Hulk
+System: Nomash
+Security: 0.4
+
+Involved parties:
+
+Name: Stone757 (laid the final blow)
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Hurricane
+Weapon: Thunderbolt Fury Heavy Missile
+
+Name: Bahlsak
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Rapier
+Weapon: Hammerhead II
+
+

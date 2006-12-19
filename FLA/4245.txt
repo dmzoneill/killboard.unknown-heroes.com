@@ -1,0 +1,45 @@
+2007.04.05 03:11
+
+Victim: hydro2900
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Destroyed: Catalyst
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Bl00Dzor (laid the final blow)
+Security: 1.5
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Huginn
+Weapon: 720mm Howitzer Artillery II
+
+Name: ER0X
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Harpy
+Weapon: Harpy
+
+Name: velusip
+Security: 1.1
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Ship: Vexor
+Weapon: Target Painter I
+
+
+Destroyed items:
+
+150mm Railgun II
+150mm Railgun II
+150mm Railgun II
+150mm Railgun I
+Javelin S, Qty: 74
+Sensor Booster I
+Co-Processor I
+Antimatter Charge S, Qty: 4570 (Cargo)
+Javelin S, Qty: 3840 (Cargo)
+

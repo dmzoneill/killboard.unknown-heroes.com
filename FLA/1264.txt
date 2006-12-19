@@ -1,0 +1,61 @@
+2007.03.09 21:40
+
+Victim: Kretiin X
+Alliance: Chorus of Dawn
+Corp: Cosmic Odyssey
+Destroyed: Merlin
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Swanny231 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Zattron
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Manticore
+Weapon: Paradise Cruise Missile
+
+Name: WolfRavage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Hyperion
+Weapon: Hyperion
+
+Name: Sils wife
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Megathron
+Weapon: Megathron
+
+Name: Praetorian Mardou
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Falcon
+Weapon: Assault Missile Launcher I
+
+Name: Jarbon
+Security: 1.1
+Alliance: FREGE Alliance
+Corp: Ever Flow
+Ship: Tempest
+Weapon: 1200mm Heavy Gallium I Cannon
+
+
+Destroyed items:
+
+Standard Missile Launcher I
+Monopropellant I Hydrazine Boosters
+Heat Dissipation Amplifier I
+Inertia Stabilizers I
+

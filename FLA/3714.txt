@@ -1,0 +1,39 @@
+2007.03.30 15:20
+
+Victim: chang bow
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Destroyed: Iteron Mark II
+System: 4N-BUI
+Security: 0.0
+
+Involved parties:
+
+Name: PMolkenthin (laid the final blow)
+Security: -0.7
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Arazu
+Weapon: 200mm Railgun II
+
+Name: MegaJ
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Pilgrim
+Weapon: Hammerhead II
+
+Name: Risandaar
+Security: 1.0
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Ares
+Weapon: Ares
+
+
+Destroyed items:
+
+1MN MicroWarpdrive I
+Expanded Cargohold I
+Expanded Cargohold I
+

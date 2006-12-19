@@ -1,0 +1,19 @@
+2006.07.21 05:34
+
+Victim: Cockroach
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Minmatar Shuttle
+System: MJYW-3
+Security: 0.0
+
+Involved parties:
+
+Name: rycar (laid the final blow)
+Security: -0.1
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Buzzard
+Weapon: 75mm Prototype I Gauss Gun
+
+

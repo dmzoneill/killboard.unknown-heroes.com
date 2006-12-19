@@ -1,0 +1,26 @@
+2006.08.14 03:39
+
+Victim: Zeus BLaze
+Alliance: Process of Elimination
+Corp: Occassus Republica
+Destroyed: Capsule
+System: X-7OMU
+Security: 0.0
+
+Involved parties:
+
+Name: Downeaster
+Security: 2.7
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Cormorant
+Weapon: Cormorant
+
+Name: Weeble Wooble (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+

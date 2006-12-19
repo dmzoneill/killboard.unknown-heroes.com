@@ -1,0 +1,35 @@
+2007.01.05 22:42
+
+Victim: Kryton55
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Merlin
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Masta Killa (laid the final blow)
+Security: -1.7
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+Name: Janice Malstrom
+Security: -1.7
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Taranis
+Weapon: Warrior I
+
+
+Destroyed items:
+
+Small Nosferatu I
+Flameburst Light Missile, Qty: 36
+Standard Missile Launcher I
+F-b10 Nominal Capacitor Regenerator
+Stasis Webifier I
+Bloodclaw Light Missile, Qty: 58 (Cargo)
+

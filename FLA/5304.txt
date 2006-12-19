@@ -1,0 +1,40 @@
+2007.04.23 22:02
+
+Victim: Deyionu
+Alliance: Freelancer Alliance
+Corp: Harbingers of Sarrow
+Destroyed: Thorax
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Minmatar Control Tower / Elite Storm Enterprises (laid the final blow)
+
+Name: Vendetta X
+Security: 0.6
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+Name: Screamer
+Security: 0.8
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Chimera
+Weapon: Einherji
+
+
+Destroyed items:
+
+200mm Carbide Railgun I
+200mm Carbide Railgun I
+Lead Charge M, Qty: 80
+Warp Disruptor I
+Stasis Webifier I
+Small Armor Repairer I
+Medium Armor Repairer II
+Energized Basic Reactive Plating
+Hammerhead I (Drone Bay)
+

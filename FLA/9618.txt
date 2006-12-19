@@ -1,0 +1,65 @@
+2007.05.20 18:06
+
+Victim: Alvernus
+Alliance: None
+Corp: Imperial Academy
+Destroyed: Punisher
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: steve gates
+Security: 5.1
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Ferox
+Weapon: Ferox
+
+Name: Jin Steele
+Security: 2.8
+Alliance: Imperial Republic Of the North
+Corp: Port Royal Independent Kontractors
+Ship: Crow
+Weapon: Warp Disruptor II
+
+Name: Kcyx
+Security: 2.6
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Ishkur
+Weapon: Warrior II
+
+Name: TekkyHead
+Security: 0.8
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Sleipnir
+Weapon: Unknown
+
+Name: jonboi1
+Security: 0.5
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Taranis
+Weapon: Taranis
+
+Name: Mocuker (laid the final blow)
+Security: 0.2
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Raven
+Weapon: Wrath Fury Cruise Missile
+
+Name: Madd Dok
+Security: 5.2
+Alliance: Imperial Republic Of the North
+Corp: Inversion
+Ship: Purifier
+Weapon: 'Arbalest' Cruise Launcher I
+
+
+Destroyed items:
+
+Civilian Shield Booster I
+

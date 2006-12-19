@@ -1,0 +1,92 @@
+2006.10.07 18:08
+
+Victim: Vidius Maxi
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Destroyed: Brutix
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Jumar Coldgin
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Eagle
+Weapon: Eagle
+
+Name: Lone flyer
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Zealot
+Weapon: Zealot
+
+Name: Karas Rabus (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Huginn
+Weapon: Flameburst Light Missile
+
+Name: Ione79
+Security: 3.4
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Celestis
+Weapon: Celestis
+
+Name: Traxex
+Security: 1.5
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: kookos
+Security: 2.9
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Crusader
+Weapon: Crusader
+
+Name: Minesweeper
+Security: 3.1
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Blackbird
+Weapon: ECM - Multispectral Jammer I
+
+Name: Bolinar
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Deimos
+Weapon: Dread Guristas Warp Disruptor
+
+
+Destroyed items:
+
+Small Nosferatu I
+Medium Nosferatu I
+200mm Railgun II
+200mm Railgun II
+200mm Railgun II
+150mm Railgun II
+150mm Railgun II
+Antimatter Charge M, Qty: 160
+Antimatter Charge S, Qty: 40
+10MN MicroWarpdrive I
+Warp Disruptor I
+Stasis Webifier I
+Medium F-RX Prototype I Capacitor Boost
+Armor Kinetic Hardener II
+Armor Explosive Hardener II
+Armor Thermic Hardener II
+Antimatter Charge M, Qty: 368 (Cargo)
+Spike M, Qty: 1989 (Cargo)
+Spike S, Qty: 1973 (Cargo)
+Hornet II, Qty: 2 (Drone Bay)
+Vespa II (Drone Bay)
+

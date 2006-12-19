@@ -1,0 +1,64 @@
+2006.09.16 04:36
+
+Victim: Zidock
+Alliance: None
+Corp: Sebiestor tribe
+Destroyed: Tempest
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Danielson1012 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Raven
+Weapon: Inferno Javelin Torpedo
+
+Name: BladeMos
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Caracal
+Weapon: Thunderbolt Heavy Missile
+
+Name: Jester87
+Security: 3.3
+Alliance: Mordus Angels
+Corp: Bladerunners
+Ship: Crow
+Weapon: Crow
+
+Name: TheMonster
+Security: 4.8
+Alliance: Forces of Freedom
+Corp: The Night Crew
+Ship: Dominix
+Weapon: Dominix
+
+
+Destroyed items:
+
+1400mm Howitzer Artillery II
+1400mm Howitzer Artillery II
+1400mm Howitzer Artillery II
+1400mm Howitzer Artillery II
+EMP L
+EMP L
+EMP L
+EMP L
+Quake L, Qty: 12
+Heavy Missile Launcher II
+Havoc Precision Heavy Missile, Qty: 28
+100MN MicroWarpdrive I
+ECM - Multispectral Jammer I
+ECM - Multispectral Jammer I
+Sensor Booster II
+Tracking Computer II
+Gyrostabilizer II
+Gyrostabilizer II
+Warp Core Stabilizer I
+Warp Core Stabilizer I
+Scourge Heavy Missile, Qty: 40 (Cargo)
+

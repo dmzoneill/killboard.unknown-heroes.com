@@ -1,0 +1,36 @@
+2006.11.19 09:41
+
+Victim: jacass8496
+Alliance: Freelancer Alliance
+Corp: BGG
+Destroyed: Enyo
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Elliott Manchild
+Security: -1.9
+Alliance: None
+Corp: omen.
+Ship: Dominix
+Weapon: Berserker II
+
+Name: Rann Antares (laid the final blow)
+Security: 5.0
+Alliance: None
+Corp: omen.
+Ship: Taranis
+Weapon: 125mm Railgun II
+
+
+Destroyed items:
+
+125mm Railgun II
+125mm Railgun II
+Spike S, Qty: 189
+Alumel-Wired I Sensor Augmentation
+Small Armor Repairer I
+Energized Reactive Membrane I
+Mobile Small Warp Disruptor I (Cargo)
+

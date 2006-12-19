@@ -1,0 +1,50 @@
+2007.04.15 00:25
+
+Victim: Teck7
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Taranis
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Vily (laid the final blow)
+Security: 0.3
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Harbinger
+Weapon: Heavy Pulse Laser II
+
+Name: FA Avenger
+Security: 2.9
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Vigil
+Weapon: Einherji
+
+Name: Stradivarious
+Security: 3.7
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Nidhoggur
+Weapon: Einherji
+
+
+Destroyed items:
+
+Light Ion Blaster II
+Uranium Charge S, Qty: 109
+Null S, Qty: 28
+1MN MicroWarpdrive I
+'Langour' Drive Disruptor I
+Overdrive Injector System I
+Type-D Power Core Modification: Capacitor Power Relay
+250mm Light Artillery Cannon II (Cargo)
+Uranium Charge S, Qty: 380 (Cargo)
+Vespa II, Qty: 2 (Cargo)
+Sensor Booster II (Cargo)
+Micro Auxiliary Power Core I (Cargo)
+Bloodclaw Light Missile, Qty: 34 (Cargo)
+Hornet II (Drone Bay)
+

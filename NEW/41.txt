@@ -1,0 +1,32 @@
+2006.12.27 06:10
+
+Victim: Vartha Trin
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Capsule
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Elliott Manchild
+Security: -2.0
+Alliance: None
+Corp: omen.
+Ship: Claw
+Weapon: 125mm Gatling AutoCannon II
+
+Name: Moandor (laid the final blow)
+Security: -2.2
+Alliance: None
+Corp: omen.
+Ship: Raptor
+Weapon: Flameburst Light Missile
+
+Name: Neaokod
+Security: -1.8
+Alliance: None
+Corp: omen.
+Ship: Taranis
+Weapon: Warp Disruptor I
+

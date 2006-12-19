@@ -1,0 +1,50 @@
+2006.11.17 22:08
+
+Victim: Bolinar
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Destroyed: Astarte
+System: CR-IFM
+Security: 0.0
+
+Involved parties:
+
+Name: Hellspawn666 (laid the final blow)
+Security: 1.2
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Typhoon
+Weapon: Ogre II
+
+Name: callon
+Security: -1.2
+Alliance: None
+Corp: The Raven Warriors
+Ship: Eris
+Weapon: Eris
+
+Name: callonious
+Security: 0.6
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Curse
+Weapon: ECM - Spatial Destabilizer II
+
+
+Destroyed items:
+
+Heavy Ion Blaster II
+Heavy Ion Blaster II
+Heavy Ion Blaster II
+Heavy Ion Blaster II
+Null M, Qty: 237
+Y-T8 Overcharged Hydrocarbon I Microwarpdrive
+Medium Electrochemical Capacitor Booster I
+Pseudoelectron Containment Field I
+Medium Armor Repairer II
+Reactive Plating II
+Magnetic Field Stabilizer II
+Energized Adaptive Nano Membrane II
+Cap Booster 800, Qty: 8 (Cargo)
+Null M, Qty: 1455 (Cargo)
+

@@ -1,0 +1,28 @@
+2007.01.07 08:29
+
+Victim: Jorax
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Incursus
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Zalim (laid the final blow)
+Security: 3.4
+Alliance: None
+Corp: Janissaries
+Ship: Nighthawk
+Weapon: Thunderbolt Heavy Missile
+
+
+Destroyed items:
+
+Light Neutron Blaster I
+Light Neutron Blaster I
+Antimatter Charge S, Qty: 136
+1MN MicroWarpdrive I
+Warp Scrambler I
+Antimatter Charge S, Qty: 742 (Cargo)
+

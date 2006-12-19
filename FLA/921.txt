@@ -1,0 +1,93 @@
+2007.02.26 23:20
+
+Victim: Korpusz
+Alliance: C0VEN
+Corp: Beach Boys
+Destroyed: Rokh
+System: F7C-H0
+Security: 0.0
+
+Involved parties:
+
+Name: 1Of9
+Security: 5.1
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Megathron
+Weapon: Megathron
+
+Name: Wodanonline (laid the final blow)
+Security: 5.0
+Alliance: YouWhat
+Corp: Pringles Inc.
+Ship: Sacrilege
+Weapon: Heavy Beam Laser II
+
+Name: MohamedLoftie
+Security: -0.8
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Curse
+Weapon: Hammerhead II
+
+Name: Thyago
+Security: 5.0
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Megathron
+Weapon: Megathron
+
+Name: Magnelien
+Security: 5.0
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Crow
+Weapon: Phalanx Rocket
+
+Name: Praetorian Mardou
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Crow
+Weapon: Warp Disruptor II
+
+Name: Sortaja83
+Security: 0.2
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Rifter
+Weapon: Rifter
+
+Name: xargis
+Security: 4.6
+Alliance: YouWhat
+Corp: Pringles Inc.
+Ship: Vengeance
+Weapon: Vengeance
+
+Name: Neily
+Security: 5.0
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Falcon
+Weapon: Falcon
+
+
+Destroyed items:
+
+Modal Mega Ion Particle Accelerator I
+Antimatter Charge L, Qty: 600
+Prototype Cloaking Device I
+Heavy Electrochemical Capacitor Booster I
+V-M15 Braced Multispectral Shield Matrix
+F-90 Positional Sensor Subroutines
+Warp Core Stabilizer I
+Warp Core Stabilizer I
+Type-D Altered SS Inertial Stabilizers
+Modal Mega Ion Particle Accelerator I (Cargo)
+Antimatter Charge L, Qty: 3831 (Cargo)
+Cap Booster 800 (Cargo)
+'Orion' Tracking CPU I, Qty: 2 (Cargo)
+Magnetic Field Stabilizer II, Qty: 3 (Cargo)
+Vespa I, Qty: 5 (Drone Bay)
+

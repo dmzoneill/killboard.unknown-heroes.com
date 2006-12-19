@@ -1,0 +1,24 @@
+2006.11.06 07:48
+
+Victim: Nekrininja
+Alliance: None
+Corp: Warrior Nation United
+Destroyed: Caldari Shuttle
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Digioso (laid the final blow)
+Security: 1.3
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Megathron
+Weapon: Domination Large Proton Smartbomb
+
+
+Destroyed items:
+
+Mining Barge (Cargo)
+Astrogeology (Cargo)
+

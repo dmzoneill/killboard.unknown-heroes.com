@@ -1,0 +1,35 @@
+2006.11.21 07:12
+
+Victim: No Merceeee
+Alliance: Freelancer Alliance
+Corp: Sin-X Inc.
+Destroyed: Tristan
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: GoLdeN BoY (laid the final blow)
+Security: 1.8
+Alliance: None
+Corp: Beer Guzzling Clowns With Blasters
+Ship: Crusader
+Weapon: Medium Pulse Laser II
+
+Name: Evelyn Mulwray
+Security: 0.4
+Alliance: None
+Corp: Beer Guzzling Clowns With Blasters
+Ship: Capsule
+Weapon: Light Electron Blaster II
+
+
+Destroyed items:
+
+150mm Carbide Railgun I
+Lead Charge S, Qty: 31
+1MN MicroWarpdrive I
+J5b Phased Prototype Warp Inhibitor I
+Lead Charge S, Qty: 520 (Cargo)
+Antimatter Charge S, Qty: 600 (Cargo)
+

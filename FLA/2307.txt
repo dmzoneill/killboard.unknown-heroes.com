@@ -1,0 +1,150 @@
+2007.02.05 19:54
+
+Victim: mr passie
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Destroyed: Tempest
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Othnark
+Security: 2.8
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Sleipnir
+Weapon: 425mm AutoCannon II
+
+Name: Azurek (laid the final blow)
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: LUKEC
+Security: 0.8
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Megathron
+Weapon: Megathron
+
+Name: Bobbeh
+Security: -0.1
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Maelstrom
+Weapon: 1400mm Howitzer Artillery II
+
+Name: OzaLoni
+Security: 1.6
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Hyperion
+Weapon: Hyperion
+
+Name: Letum Omnis
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Megathron
+Weapon: Megathron
+
+Name: Havocide
+Security: 1.9
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Myrmidon
+Weapon: Myrmidon
+
+Name: Repiv
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Abaddon
+Weapon: Tachyon Beam Laser II
+
+Name: CLEISTHENES2
+Security: -0.9
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Maelstrom
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Kaijou
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Rokh
+Weapon: Rokh
+
+Name: maria stallion
+Security: 3.7
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Tempest
+Weapon: Tempest
+
+Name: Empero
+Security: 0.2
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Beast Hun
+Security: 4.7
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Armageddon
+Weapon: Tachyon Beam Laser II
+
+Name: Profeta
+Security: 0.2
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Apocalypse
+Weapon: Apocalypse
+
+Name: Gazmus
+Security: 0.8
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: KIAHicks
+Security: 0.6
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Scorpion
+Weapon: ECM - Phase Inverter II
+
+Name: Dracorimus
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Armageddon
+Weapon: Armageddon
+
+
+Destroyed items:
+
+1400mm Howitzer Artillery I
+1400mm Howitzer Artillery I
+1400mm Howitzer Artillery I
+1400mm Howitzer Artillery I
+1400mm Howitzer Artillery I
+1400mm Howitzer Artillery I
+Carbonized Lead L, Qty: 15
+X-Large C5-L Emergency Shield Overload I
+Sensor Booster II
+'Orion' Tracking CPU I
+'Orion' Tracking CPU I
+Gyrostabilizer II
+Tracking Enhancer II
+Tracking Enhancer II
+Carbonized Lead L, Qty: 1982 (Cargo)
+Vespa I, Qty: 5 (Drone Bay)
+

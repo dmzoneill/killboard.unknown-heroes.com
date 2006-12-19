@@ -1,0 +1,37 @@
+2007.02.13 16:06
+
+Victim: Dafensigns
+Alliance: None
+Corp: Odin Imperial Navy Shipyard
+Destroyed: Myrmidon
+System: Aunenen
+Security: 0.4
+
+Involved parties:
+
+Name: Sanal Gi (laid the final blow)
+Security: 1.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ferox
+Weapon: Thunderbolt Heavy Missile
+
+Name: Guristas Anarchist / Guristas
+
+
+Destroyed items:
+
+200mm Railgun I
+200mm Railgun I
+Iridium Charge M, Qty: 42
+Large Azeotropic Ward Salubrity I
+Large C5-L Emergency Shield Overload I
+10MN Afterburner I
+Medium I-a Polarized Armor Regenerator
+200mm Reinforced Steel Plates II
+Type-D Power Core Modification: Diagnostic System
+Antimatter Charge M, Qty: 2905 (Cargo)
+Iridium Charge M, Qty: 2633 (Cargo)
+Cap Booster 400, Qty: 5 (Cargo)
+Hammerhead I (Drone Bay)
+

@@ -1,0 +1,54 @@
+2006.07.16 18:24
+
+Victim: Cay Droma
+Alliance: Sparta Alliance
+Corp: GalacTECH Unlimited
+Destroyed: Capsule
+System: VFK-IV
+Security: 0.0
+
+Involved parties:
+
+Name: Narny
+Security: 3.8
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: movy (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Enyo
+Weapon: 125mm Railgun I
+
+Name: XxAngelxX
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Malediction
+Weapon: Dual Light Beam Laser II
+
+Name: OberFuhrer
+Security: 1.2
+Alliance: Freelancer Alliance
+Corp: CYBERNET SPACE EXPLORATION INC
+Ship: Kestrel
+Weapon: Standard Missile Launcher I
+
+Name: Hava StormBringerr
+Security: 0.7
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Executioner
+Weapon: Stasis Webifier I
+
+Name: Christopher Cook
+Security: 3.3
+Alliance: Freelancer Alliance
+Corp: CYBERNET SPACE EXPLORATION INC
+Ship: Rifter
+Weapon: Rifter
+
+

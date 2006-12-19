@@ -1,0 +1,19 @@
+2007.02.12 01:30
+
+Victim: tzar1024
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Destroyed: Capsule
+System: RQH-MY
+Security: 0.0
+
+Involved parties:
+
+Name: starky (laid the final blow)
+Security: -1.6
+Alliance: None
+Corp: Gr0und Zer0
+Ship: Curse
+Weapon: Hammerhead II
+
+

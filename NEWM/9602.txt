@@ -1,0 +1,31 @@
+2007.05.20 09:47
+
+Victim: AKGK6
+Alliance: None
+Corp: Republic Military School
+Destroyed: Reaper
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Mufeater
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Enyo
+Weapon: Enyo
+
+Name: Ocara Nezus (laid the final blow)
+Security: 1.5
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Crow
+Weapon: Bloodclaw Precision Light Missile
+
+
+Destroyed items:
+
+Civilian Gatling Autocannon
+Basic Miner
+

@@ -1,0 +1,45 @@
+2007.03.03 20:46
+
+Victim: Sy Sperling
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Manticore
+System: F7C-H0
+Security: 0.0
+
+Involved parties:
+
+Name: Gesthar Malvani (laid the final blow)
+Security: 4.6
+Alliance: None
+Corp: Temptation inc.
+Ship: Flycatcher
+Weapon: Bloodclaw Light Missile
+
+Name: VirkMaN
+Security: 0.2
+Alliance: None
+Corp: Temptation inc.
+Ship: Absolution
+Weapon: Absolution
+
+Name: hezitationkillz
+Security: -1.8
+Alliance: None
+Corp: Temptation inc.
+Ship: Claw
+Weapon: Faint Warp Prohibitor I
+
+
+Destroyed items:
+
+Salvager I, Qty: 36
+Improved Cloaking Device II
+Paradise Cruise Missile, Qty: 20
+Cold-Gas I Arcjet Thrusters
+Prototype I Sensor Booster
+Prototype I Sensor Booster
+Warp Core Stabilizer I (Cargo)
+Wrath Cruise Missile, Qty: 380 (Cargo)
+Power Diagnostic System I, Qty: 2 (Cargo)
+

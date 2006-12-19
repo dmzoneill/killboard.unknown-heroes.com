@@ -1,0 +1,42 @@
+2007.04.13 21:09
+
+Victim: Nubiam
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Destroyed: Malediction
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: ClogMan (laid the final blow)
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Drake
+Weapon: Hobgoblin II
+
+Name: Ska Inni
+Security: 0.7
+Alliance: Freelancer Alliance
+Corp: ORIGIN SYSTEMS
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: Tiberius Drake
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Thorax
+Weapon: Dual 150mm Railgun I
+
+
+Destroyed items:
+
+Dual Light Pulse Laser II
+Multifrequency S, Qty: 2
+Fleeting Warp Scrambler I
+Corpse, Qty: 2 (Cargo)
+150mm Light AutoCannon I, Qty: 2 (Cargo)
+Stasis Webifier I (Cargo)
+Microwave S, Qty: 3 (Cargo)

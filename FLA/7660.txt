@@ -1,0 +1,23 @@
+2006.09.29 23:31
+
+Victim: Diggertothend
+Alliance: Ekliptika
+Corp: Dark Justice Inc.
+Destroyed: Executioner
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Karas Rabus (laid the final blow)
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Stiletto
+Weapon: 200mm AutoCannon II
+
+
+Destroyed items:
+
+Prototype Cloaking Device I
+

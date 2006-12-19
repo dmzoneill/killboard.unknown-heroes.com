@@ -1,0 +1,32 @@
+2006.08.26 22:09
+
+Victim: Hisaaki
+Alliance: Thundering Mantis
+Corp: Gen'ei Ryodan
+Destroyed: Celestis
+System: Z0-TJW
+Security: 0.0
+
+Involved parties:
+
+Name: jacass66 (laid the final blow)
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Raven
+Weapon: Hornet II
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Dual 150mm Railgun II
+Y-S8 Hydrocarbon I Afterburners
+Low Frequency Sensor Suppressor I
+Indirect Scanning Dampening Unit I
+Medium Automated I Carapace Restoration
+Antimatter Charge M, Qty: 1000 (Cargo)
+Javelin M, Qty: 920 (Cargo)
+Acolyte I, Qty: 2 (Drone Bay)
+Vespa I, Qty: 3 (Drone Bay)
+

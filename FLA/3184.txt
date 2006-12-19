@@ -1,0 +1,29 @@
+2007.03.19 20:55
+
+Victim: Lucy Fire1
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Destroyed: Stabber
+System: XZH-4X
+Security: 0.0
+
+Involved parties:
+
+Name: Galaxor (laid the final blow)
+Security: 5.1
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Arbitrator
+Weapon: Ogre I
+
+
+Destroyed items:
+
+220mm Vulcan AutoCannon I
+Sabretooth Light Missile, Qty: 47
+Assault Missile Launcher I
+Large Shield Extender I
+Warp Disruptor I
+EMP M, Qty: 3671 (Cargo)
+Mobile Small Warp Disruptor I (Cargo)
+

@@ -1,0 +1,30 @@
+2007.04.23 19:18
+
+Victim: misscoda
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Crow
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Fitz Farseer (laid the final blow)
+Security: 0.5
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Rupture
+Weapon: 425mm AutoCannon I
+
+
+Destroyed items:
+
+Prototype Cloaking Device I
+Bloodclaw Light Missile, Qty: 80
+Standard Missile Launcher I
+Standard Missile Launcher I
+Stasis Webifier I
+Inertia Stabilizers I
+Overdrive Injector System I
+Bloodclaw Light Missile, Qty: 1000 (Cargo)
+

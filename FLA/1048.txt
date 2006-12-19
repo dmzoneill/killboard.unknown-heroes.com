@@ -1,0 +1,111 @@
+2007.03.04 03:20
+
+Victim: Criosachille
+Alliance: Xelas Alliance
+Corp: Catalyst Reaction
+Destroyed: Celestis
+System: DBRN-Z
+Security: 0.0
+
+Involved parties:
+
+Name: Caarnji
+Security: -1.9
+Alliance: Dusk and Dawn
+Corp: ECP Rogues
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Thea Arsoniztik
+Security: 0.6
+Alliance: Dusk and Dawn
+Corp: Omega Enterprises
+Ship: Raven
+Weapon: Wrath Cruise Missile
+
+Name: Demolition Gunit
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: Lacedaemon.
+Ship: Drake
+Weapon: Heavy Missile Launcher I
+
+Name: Lucututerian
+Security: 1.0
+Alliance: Dusk and Dawn
+Corp: Cataclysm Enterprises
+Ship: Rapier
+Weapon: 720mm Howitzer Artillery II
+
+Name: KateLice
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: Lynx Frontier Inc.
+Ship: Rapier
+Weapon: Rapier
+
+Name: Nukuquqa Hestase
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Catalyst
+Weapon: Catalyst
+
+Name: Samiloth Justinian
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Hawk
+Weapon: Bloodclaw Light Missile
+
+Name: UP LATE (laid the final blow)
+Security: 4.7
+Alliance: Dusk and Dawn
+Corp: Omega Enterprises
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+Name: Sephron Kintaka
+Security: 2.5
+Alliance: Sparta Alliance
+Corp: Lynx Frontier Inc.
+Ship: Megathron
+Weapon: Siege Missile Launcher I
+
+Name: jondow
+Security: 4.0
+Alliance: Sparta Alliance
+Corp: Lynx Frontier Inc.
+Ship: Kestrel
+Weapon: Standard Missile Launcher I
+
+Name: demotar
+Security: 3.5
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Hound
+Weapon: Cruise Missile Launcher I
+
+Name: Lady LeJean
+Security: 4.9
+Alliance: Sparta Alliance
+Corp: Lacedaemon.
+Ship: Damnation
+Weapon: Damnation
+
+
+Destroyed items:
+
+200mm Railgun I
+200mm Railgun I
+Antimatter Charge M, Qty: 76
+Assault Missile Launcher I
+Warp Disruptor I
+Stasis Webifier I
+Kapteyn Sensor Array Inhibitor I
+Medium I-a Polarized Armor Regenerator
+Antimatter Charge M, Qty: 360 (Cargo)
+Thorium Charge M, Qty: 493 (Cargo)
+Flameburst Light Missile, Qty: 119 (Cargo)
+Bloodclaw Light Missile, Qty: 399 (Cargo)
+

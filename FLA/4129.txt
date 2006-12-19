@@ -1,0 +1,38 @@
+2007.04.02 15:30
+
+Victim: Laerana
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Incursus
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Chris Reed (laid the final blow)
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Lachesis
+Weapon: Vespa II
+
+Name: Cassidy Yates
+Security: -0.7
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Absolution
+Weapon: Heavy Pulse Laser II
+
+
+Destroyed items:
+
+Light Electron Blaster I
+Light Electron Blaster I
+Antimatter Charge S, Qty: 327
+Warp Scrambler I
+Energized Basic Reactive Plating
+Nanofiber Internal Structure I
+Lead Charge S, Qty: 200 (Cargo)
+Iridium Charge S, Qty: 337 (Cargo)
+Iron Charge S, Qty: 100 (Cargo)
+

@@ -1,0 +1,58 @@
+2006.10.02 19:35
+
+Victim: keilapuukko
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Destroyed: Eagle
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Mitchman
+Security: 4.6
+Alliance: None
+Corp: Omniscient Order
+Ship: Raven
+Weapon: Berserker II
+
+Name: Crusari (laid the final blow)
+Security: 5.0
+Alliance: None
+Corp: Omniscient Order
+Ship: Megathron
+Weapon: Ion Blaster Cannon II
+
+Name: Noobjuice
+Security: -0.9
+Alliance: None
+Corp: Omniscient Order
+Ship: Claw
+Weapon: Claw
+
+Name: Darky24
+Security: -9.9
+Alliance: None
+Corp: Insane Decision
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Elgan
+Security: 0.9
+Alliance: None
+Corp: Sebiestor tribe
+Ship: Huginn
+Weapon: Huginn
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Heavy Neutron Blaster II
+Antimatter Charge M, Qty: 61
+Fleeting Warp Scrambler I
+Invulnerability Field II
+Magnetic Field Stabilizer II
+Spike M, Qty: 5252 (Cargo)
+Void M, Qty: 832 (Cargo)
+

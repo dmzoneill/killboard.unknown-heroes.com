@@ -1,0 +1,40 @@
+2006.11.13 12:54
+
+Victim: slove
+Alliance: None
+Corp: State War Academy
+Destroyed: Caldari Shuttle
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: LiBraga
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Eagle
+Weapon: Eagle
+
+Name: bidman (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Raven
+Weapon: Juggernaut Javelin Torpedo
+
+Name: Xiliath
+Security: 3.9
+Alliance: Forces of Freedom
+Corp: JUDGE DREAD Inc.
+Ship: Curse
+Weapon: E50 Prototype Energy Vampire
+
+Name: Rowan Chiquar
+Security: 4.4
+Alliance: Forces of Freedom
+Corp: The Knights of the New Republic
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+

@@ -1,0 +1,43 @@
+2006.11.22 18:30
+
+Victim: Commander Cid
+Alliance: None
+Corp: Jade Phoenix Deutschland
+Destroyed: Megathron
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Wrath Cruise Missile / Guristas (laid the final blow)
+
+Name: Naltti
+Security: 0.6
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Crow
+Weapon: Thorn Rocket
+
+Name: James Potkukelkka
+Security: 0.3
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Flycatcher
+Weapon: Standard Missile Launcher II
+
+
+Destroyed items:
+
+Regulated Mega Ion Phase Cannon I
+Modal Mega Ion Particle Accelerator I
+Modal Mega Ion Particle Accelerator I
+Antimatter Charge L, Qty: 319
+Heavy Electrochemical Capacitor Booster I
+Gauss Field Balancer I
+Radioisotope Thermic Hardener I
+1600mm Reinforced Crystalline Carbonide Plates I
+Large Azeotropic Ward Salubrity I (Cargo)
+Eutectic I Capacitor Charge Array (Cargo)
+Shock 'Limos' Siege Missile Bay I (Cargo)
+Hammerhead I, Qty: 4 (Drone Bay)
+

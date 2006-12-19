@@ -1,0 +1,49 @@
+2007.03.15 23:42
+
+Victim: C4w3
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Destroyed: Tempest
+System: XT-R36
+Security: 0.0
+
+Involved parties:
+
+Name: TheJackalMiner
+Security: -2.1
+Alliance: Dusk and Dawn
+Corp: ClanKillers
+Ship: Arazu
+Weapon: Remote Sensor Dampener II
+
+Name: sarsa (laid the final blow)
+Security: 2.8
+Alliance: Dusk and Dawn
+Corp: ClanKillers
+Ship: Rapier
+Weapon: 650mm Artillery Cannon II
+
+Name: EvilBadger
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Hawk
+Weapon: Rocket Launcher II
+
+
+Destroyed items:
+
+1400mm Howitzer Artillery II
+1400mm Howitzer Artillery II
+1400mm Howitzer Artillery II
+Large 'Arup' I Remote Bulwark Reconstruction
+Quake L
+Quake L
+Quake L
+Quake L
+Quake L
+Quake L
+Quake L
+Titanium Sabot L, Qty: 500 (Cargo)
+Tremor L, Qty: 500 (Cargo)
+

@@ -1,0 +1,46 @@
+2007.02.06 03:15
+
+Victim: Scotticus
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Destroyed: Rupture
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Seldarine
+Security: 0.1
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: CLEISTHENES2
+Security: -0.9
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Claw
+Weapon: 150mm Light AutoCannon II
+
+Name: EL TITAN (laid the final blow)
+Security: 1.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Vagabond
+Weapon: Dual 180mm AutoCannon II
+
+
+Destroyed items:
+
+650mm Medium Prototype I Siege Cannon
+650mm Medium Prototype I Siege Cannon
+Titanium Sabot M, Qty: 50
+Flameburst Light Missile, Qty: 122
+10MN Afterburner II
+Internal Force Field Array I
+Medium Armor Repairer II
+Power Diagnostic System I
+Titanium Sabot M, Qty: 4910 (Cargo)
+Hornet I (Drone Bay)
+

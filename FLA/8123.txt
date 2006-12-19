@@ -1,0 +1,28 @@
+2006.10.13 00:18
+
+Victim: Soliloquil
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Destroyed: Moa
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: GoLdeN BoY (laid the final blow)
+Security: -1.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Typhoon
+Weapon: Praetor I
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Medium Nosferatu I
+Dual 150mm Railgun I
+Plutonium Charge M, Qty: 310
+Large Shield Extender I
+Plutonium Charge M, Qty: 3015 (Cargo)
+

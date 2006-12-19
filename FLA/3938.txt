@@ -1,0 +1,44 @@
+2007.04.06 17:48
+
+Victim: mr tard
+Alliance: None
+Corp: Deep Core Mining Inc.
+Destroyed: Merlin
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: AlexeiShtukov (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Ship: Caracal
+Weapon: Widowmaker Heavy Missile
+
+Name: kakakarr
+Security: 2.8
+Alliance: DeStInY.
+Corp: The Knights Of Camelot
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Snape Sidharth
+Security: 0.7
+Alliance: DeStInY.
+Corp: The Knights Of Camelot
+Ship: Myrmidon
+Weapon: Medium Diminishing Power System Drain I
+
+Name: Kithron
+Security: 2.3
+Alliance: Darklite inc Alliance
+Corp: Darklite inc
+Ship: Vexor
+Weapon: Medium 'Knave' I Energy Drain
+
+
+Destroyed items:
+
+150mm 'Scout' I Accelerator Cannon
+

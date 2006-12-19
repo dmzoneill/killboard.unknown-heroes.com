@@ -1,0 +1,47 @@
+2007.02.24 00:57
+
+Victim: Ninon Lanclos
+Alliance: Privateer Alliance
+Corp: Tempt Fate
+Destroyed: Capsule
+System: K4YZ-Y
+Security: 0.0
+
+Involved parties:
+
+Name: Kerdrak (laid the final blow)
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Retribution
+Weapon: Medium Pulse Laser II
+
+Name: Goofer Child
+Security: 3.0
+Alliance: Freelancer Coalition
+Corp: Lunar Association
+Ship: Kestrel
+Weapon: Phalanx Rocket
+
+Name: Steinkalt
+Security: 5.0
+Alliance: Guardian Federation
+Corp: KULT Production
+Ship: Cerberus
+Weapon: Heavy Missile Launcher II
+
+Name: Spikey
+Security: 5.0
+Alliance: Phoenix Allianz
+Corp: Jagdkommando
+Ship: Crow
+Weapon: Fleeting Warp Scrambler I
+
+Name: Kolute
+Security: 4.6
+Alliance: Freelancer Coalition
+Corp: BINFORD
+Ship: Cyclone
+Weapon: Warp Disruptor I
+
+

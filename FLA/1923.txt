@@ -1,0 +1,41 @@
+2007.01.11 16:04
+
+Victim: Rhaall
+Alliance: Freelancer Alliance
+Corp: X.T.R
+Destroyed: Crucifier
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: DHB WildCat
+Security: -1.2
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+Name: Feyd Mantis
+Security: 2.6
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Tempest
+Weapon: Warrior II
+
+Name: Evil Pookie (laid the final blow)
+Security: 4.6
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+
+Destroyed items:
+
+Small Nosferatu I
+1MN MicroWarpdrive I
+Warp Scrambler I
+Energized Basic Adaptive Nano Plating
+Inertia Stabilizers I
+

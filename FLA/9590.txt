@@ -1,0 +1,45 @@
+2007.05.19 18:08
+
+Victim: Nightlane
+Alliance: None
+Corp: Paladines
+Destroyed: Merlin
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Yesh (laid the final blow)
+Security: 2.7
+Alliance: The Fifth Race
+Corp: Antares Frontier
+Ship: Harbinger
+Weapon: Heavy Beam Laser II
+
+Name: wardey
+Security: 0.6
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Punisher
+Weapon: Warp Disruptor I
+
+Name: kookos
+Security: 0.7
+Alliance: Imperial Republic Of the North
+Corp: Karjala Inc.
+Ship: Pilgrim
+Weapon: E50 Prototype Energy Vampire
+
+
+Destroyed items:
+
+Light Electron Blaster I
+Tungsten Charge S, Qty: 400
+Foxfire Rocket, Qty: 30
+Rocket Launcher I
+Small Shield Extender I
+Small Shield Booster I
+1MN Afterburner I
+Antimatter Charge S, Qty: 100 (Cargo)
+Gremlin Rocket, Qty: 961 (Cargo)
+

@@ -1,0 +1,39 @@
+2006.11.14 20:20
+
+Victim: Dog Cancer
+Alliance: Freelancer Alliance
+Corp: BGG
+Destroyed: Crow
+System: Aunenen
+Security: 0.4
+
+Involved parties:
+
+Name: Felix Tigris
+Security: -10.0
+Alliance: Blood Raiders Alliance
+Corp: Murder-Death-Kill
+Ship: Dominix
+Weapon: Ogre I
+
+Name: Cloudis
+Security: -10.0
+Alliance: Blood Raiders Alliance
+Corp: Murder-Death-Kill
+Ship: Apocalypse
+Weapon: Valkyrie II
+
+Name: Super Twinkey69 (laid the final blow)
+Security: -10.0
+Alliance: Blood Raiders Alliance
+Corp: Murder-Death-Kill
+Ship: Megathron
+Weapon: Ogre I
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 39
+TE-2100 Standard Missile Bay
+Warp Scrambler I
+

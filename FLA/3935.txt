@@ -1,0 +1,98 @@
+2007.04.06 17:09
+
+Victim: Justice Wanted
+Alliance: None
+Corp: The Conflagration
+Destroyed: Cerberus
+System: 93PI-4
+Security: 0.0
+
+Involved parties:
+
+Name: Spinsq
+Security: 2.6
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Unknown
+Weapon: X5 Prototype I Engine Enervator
+
+Name: Drako Invictus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Damnation
+Weapon: Damnation
+
+Name: MarzenBier
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Raven
+Weapon: Bane Javelin Torpedo
+
+Name: Cho Solo
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Dominix
+Weapon: Dominix
+
+Name: Seryius
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Scorpion
+Weapon: Valkyrie I
+
+Name: Zephyrante
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Megathron
+Weapon: Megathron
+
+Name: Wallyx (laid the final blow)
+Security: 4.5
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Armageddon
+Weapon: Acolyte II
+
+Name: Elena Morkovka
+Security: 1.7
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Raseron
+Security: 4.5
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Myrmidon
+Weapon: Vespa I
+
+Name: torreson
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Stabber
+Weapon: Stabber
+
+Name: Artorius Pearson
+Security: 1.6
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Crow
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+
+Destroyed items:
+
+Heavy Missile Launcher II
+Thunderbolt Precision Heavy Missile, Qty: 68
+Medium Electrochemical Capacitor Booster I
+Domination Shield Boost Amplifier
+Cap Booster 800, Qty: 10 (Cargo)
+Thunderbolt Fury Heavy Missile, Qty: 599 (Cargo)
+

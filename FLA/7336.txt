@@ -1,0 +1,36 @@
+2006.08.12 21:09
+
+Victim: Eternity Forever
+Alliance: None
+Corp: Beagle Corp
+Destroyed: Raven
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: jacass66 (laid the final blow)
+Security: 5.3
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Thanatos
+Weapon: Firbolg
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Heavy Unstable Power Fluctuator I
+Cataclysm Cruise Missile, Qty: 34
+'Malkuth' Cruise Launcher I
+'Malkuth' Cruise Launcher I
+'Malkuth' Cruise Launcher I
+'Malkuth' Cruise Launcher I
+'Malkuth' Cruise Launcher I
+Warp Disruptor I
+Sensor Booster I
+1600mm Reinforced Rolled Tungsten Plates I
+Ballistic Control System I
+Devastator Cruise Missile, Qty: 1000 (Cargo)
+Hornet I, Qty: 15 (Drone Bay)
+

@@ -1,0 +1,58 @@
+2007.04.01 21:02
+
+Victim: hydro2900
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Destroyed: Thorax
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Wotan I (laid the final blow)
+Security: 4.7
+Alliance: S.E.R.A
+Corp: Seraphin Technologies
+Ship: Thanatos
+Weapon: Firbolg
+
+Name: Eteoneus
+Security: 0.5
+Alliance: S.E.R.A
+Corp: Seraphin Technologies
+Ship: Claymore
+Weapon: Dragonfly
+
+Name: War Bear
+Security: 2.8
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Stiletto
+Weapon: Templar
+
+Name: Tulas Flint
+Security: 4.5
+Alliance: S.E.R.A
+Corp: Seraphin Technologies
+Ship: Archon
+Weapon: Templar
+
+Name: Captain Black
+Security: 1.7
+Alliance: S.E.R.A
+Corp: Seraphin Technologies
+Ship: Archon
+Weapon: Dragonfly
+
+
+Destroyed items:
+
+250mm Railgun I
+250mm Railgun I
+250mm Railgun I
+Antimatter Charge M, Qty: 23
+Monopulse Tracking Mechanism I
+Magnetic Field Stabilizer II
+Energized Adaptive Nano Membrane I
+Antimatter Charge M, Qty: 7009 (Cargo)
+

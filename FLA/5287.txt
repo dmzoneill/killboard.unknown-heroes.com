@@ -1,0 +1,56 @@
+2007.04.23 17:35
+
+Victim: Minisoza
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Taranis
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Minmatar Control Tower / Elite Storm Enterprises (laid the final blow)
+
+Name: Fitz Farseer
+Security: 0.5
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Unknown
+Weapon: 425mm AutoCannon I
+
+Name: nyricia
+Security: 1.5
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Caracal
+Weapon: 'Arbalest' Heavy Missile Launcher
+
+Name: lethario desrtuction
+Security: 2.1
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+Name: Screamer
+Security: 0.8
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Chimera
+Weapon: Einherji
+
+Name: Evil Bunnies
+Security: 0.2
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Unknown
+Weapon: Enfeebling Phase Inversion ECM I
+
+
+Destroyed items:
+
+Null S, Qty: 190
+Initiated Harmonic Warp Jammer I
+Magnetic Field Stabilizer II
+Null S, Qty: 676 (Cargo)
+

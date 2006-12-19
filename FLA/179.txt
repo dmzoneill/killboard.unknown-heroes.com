@@ -1,0 +1,109 @@
+2007.01.17 06:05
+
+Victim: babablacksheep
+Alliance: Firmus Ixion
+Corp: Phoenix Propulsion Labs
+Destroyed: Occator
+System: DS-LO3
+Security: 0.0
+
+Involved parties:
+
+Name: Gamesguy
+Security: -0.2
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Karnovsky
+Security: 4.6
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Claw
+Weapon: 200mm AutoCannon II
+
+Name: NATMav
+Security: 3.2
+Alliance: EVE Animal Control
+Corp: F.R.E.E. Explorer
+Ship: Drake
+Weapon: Havoc Heavy Missile
+
+Name: Kyn D'Trell (laid the final blow)
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: MetaForge
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+Name: Promethean Starter
+Security: 2.3
+Alliance: Imperial Republic Of the North
+Corp: MetaForge
+Ship: Crow
+Weapon: Thorn Rage Rocket
+
+Name: Eutectic
+Security: 5.2
+Alliance: Imperial Republic Of the North
+Corp: VentureCorp
+Ship: Ishkur
+Weapon: Warp Disruptor I
+
+Name: Erfurt
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: MetaForge
+Ship: Raptor
+Weapon: Standard Missile Launcher I
+
+Name: Tarphon
+Security: 2.6
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Crow
+Weapon: Fleeting Warp Scrambler I
+
+Name: Trendsetter
+Security: 4.7
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Gokil
+Security: 3.6
+Alliance: Imperial Republic Of the North
+Corp: MetaForge
+Ship: Hawk
+Weapon: Standard Missile Launcher II
+
+Name: Rascle
+Security: 2.8
+Alliance: Imperial Republic Of the North
+Corp: MetaForge
+Ship: Raptor
+Weapon: Bloodclaw Light Missile
+
+Name: Aphotic Raven
+Security: 4.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Enyo
+Weapon: Enyo
+
+Name: Samus Newton
+Security: 4.9
+Alliance: Imperial Republic Of the North
+Corp: Port Royal Independent Kontractors
+Ship: Hawk
+Weapon: Warp Disruptor I
+
+
+Destroyed items:
+
+Local Hull Conversion Expanded Cargo I
+Local Hull Conversion Expanded Cargo I
+Local Hull Conversion Expanded Cargo I
+

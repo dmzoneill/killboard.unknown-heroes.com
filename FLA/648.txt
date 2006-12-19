@@ -1,0 +1,33 @@
+2007.02.14 04:24
+
+Victim: illusha
+Alliance: None
+Corp: Halfwits
+Destroyed: Capsule
+System: RO0-AF
+Security: 0.0
+
+Involved parties:
+
+Name: ivan rumanov (laid the final blow)
+Security: -0.5
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Cerberus
+Weapon: Scourge Fury Heavy Missile
+
+Name: Ace McRaven
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: VoYvod
+Security: -0.1
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Unknown
+Weapon: Warp Disruptor I
+
+

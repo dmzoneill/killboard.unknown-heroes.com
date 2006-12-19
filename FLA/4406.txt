@@ -1,0 +1,77 @@
+2007.04.09 03:48
+
+Victim: Chekoteh
+Alliance: Freelancer Alliance
+Corp: United Forces
+Destroyed: Coercer
+System: LT-DRO
+Security: 0.0
+
+Involved parties:
+
+Name: Redginald
+Security: 4.5
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Hurricane
+Weapon: 425mm AutoCannon II
+
+Name: END3R 101
+Security: -0.7
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Damnation
+Weapon: Damnation
+
+Name: Myndpyre Ryche (laid the final blow)
+Security: 4.2
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Nighthawk
+Weapon: Scourge Fury Heavy Missile
+
+Name: Lunalyia Ryche
+Security: 2.9
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Harbinger
+Weapon: Harbinger
+
+Name: Shadowjet
+Security: -1.3
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Nighthawk
+Weapon: Heavy Missile Launcher II
+
+Name: Nowereman
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Drake
+Weapon: Warp Disruptor II
+
+Name: ER0X
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Zealot
+Weapon: Zealot
+
+
+Destroyed items:
+
+Dual Light Beam Laser I
+Dual Light Beam Laser I
+Dual Light Beam Laser I
+Dual Light Beam Laser I
+Dual Light Beam Laser I
+Dual Light Beam Laser I
+Medium Beam Laser I
+Infrared S
+Infrared S
+Infrared S
+Standard S
+Standard S
+Damage Control I
+

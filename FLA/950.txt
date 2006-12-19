@@ -1,0 +1,19 @@
+2007.02.28 00:05
+
+Victim: Leathal Weapon
+Alliance: None
+Corp: Zero.
+Destroyed: Capsule
+System: Maut
+Security: 0.2
+
+Involved parties:
+
+Name: Jesnens LoveSlave (laid the final blow)
+Security: -1.6
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Helios
+Weapon: Hobgoblin I
+
+

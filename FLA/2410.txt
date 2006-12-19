@@ -1,0 +1,135 @@
+2007.02.09 22:43
+
+Victim: Alski
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Myrmidon
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: xlop
+Security: -1.8
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Abaddon
+Weapon: Abaddon
+
+Name: XxAngelxX (laid the final blow)
+Security: -2.8
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Abaddon
+Weapon: Tachyon Beam Laser II
+
+Name: Anominity
+Security: 4.2
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Abaddon
+Weapon: Tachyon Beam Laser II
+
+Name: Darknesss
+Security: 0.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Megathron
+Weapon: Megathron
+
+Name: Elliott Manchild
+Security: -1.8
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Machariel
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Von Kretschmer
+Security: 5.0
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: cptblood
+Security: 2.3
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: simcor
+Security: 0.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Thanatos
+Weapon: Einherji
+
+Name: Ceapio
+Security: 1.2
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Laarz
+Security: -3.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: aadom
+Security: 3.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Tempest
+Weapon: 1400mm Gallium I Cannon
+
+Name: Pistonbroke
+Security: 0.5
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Rokh
+Weapon: 425mm Railgun II
+
+Name: Misha Mosqito
+Security: 3.3
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: boo3916
+Security: 4.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Rokh
+Weapon: 425mm 'Scout' I Accelerator Cannon
+
+Name: Anna Neura
+Security: -0.8
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Taranis
+Weapon: Taranis
+
+
+Destroyed items:
+
+250mm Carbide Railgun I
+250mm Carbide Railgun I
+250mm Compressed Coil Gun I
+Iron Charge M, Qty: 74
+Barton Reactor Capacitor Recharger I
+Barton Reactor Capacitor Recharger I
+Barton Reactor Capacitor Recharger I
+Barton Reactor Capacitor Recharger I
+Medium Armor Repairer II
+Armor Kinetic Hardener I
+Armor Explosive Hardener I
+Armor Thermic Hardener I
+Type-D Power Core Modification: Diagnostic System
+Iridium Charge M, Qty: 1500 (Cargo)
+Hammerhead I, Qty: 4 (Drone Bay)
+

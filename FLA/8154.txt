@@ -1,0 +1,19 @@
+2006.10.23 08:30
+
+Victim: pROMp
+Alliance: Freelancer Alliance
+Corp: Feel Good Inc.
+Destroyed: Capsule
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Siavash IR (laid the final blow)
+Security: 5.0
+Alliance: Kith of Venal
+Corp: Solidline Enterprise
+Ship: Vagabond
+Weapon: 220mm Medium Gallium I Machine Gun
+
+

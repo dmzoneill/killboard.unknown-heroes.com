@@ -1,0 +1,28 @@
+2007.03.23 23:13
+
+Victim: istasi
+Alliance: YouWhat
+Corp: Artificial Horizons
+Destroyed: Griffin
+System: XZH-4X
+Security: 0.0
+
+Involved parties:
+
+Name: Skull Fire (laid the final blow)
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Rokh
+Weapon: Large 'Notos' Explosive Charge I
+
+
+Destroyed items:
+
+Rocket Launcher I
+Barton Reactor Capacitor Recharger I
+1MN MicroWarpdrive I
+Warp Disruptor I
+Inertia Stabilizers I
+Gremlin Rocket, Qty: 999 (Cargo)
+

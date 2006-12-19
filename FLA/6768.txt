@@ -1,0 +1,19 @@
+2006.11.27 16:00
+
+Victim: Masterslaughter
+Alliance: None
+Corp: Caldarians Pride
+Destroyed: Capsule
+System: F7C-H0
+Security: 0.0
+
+Involved parties:
+
+Name: Formosus Funus (laid the final blow)
+Security: 4.1
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Wolf
+Weapon: 250mm Light Artillery Cannon II
+
+

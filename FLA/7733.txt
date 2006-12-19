@@ -1,0 +1,44 @@
+2006.07.11 07:06
+
+Victim: TheBelgarion
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Raven
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Dashi (laid the final blow)
+Security: -2.6
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Vulture
+Weapon: Heavy Neutron Blaster II
+
+Name: Mopar
+Security: 1.0
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Pilgrim
+Weapon: Hammerhead II
+
+
+Destroyed items:
+
+250mm Railgun I
+Wrath Cruise Missile, Qty: 100
+Cruise Missile Launcher I
+Cruise Missile Launcher I
+Cruise Missile Launcher I
+Ballistic Deflection Field II
+Ditrigonal Thermal Barrier Crystallization I
+Sensor Booster II
+Heat Dissipation Amplifier I
+Warp Core Stabilizer I
+Warp Core Stabilizer I
+Ballistic Control System I
+Antimatter Charge M, Qty: 2692 (Cargo)
+ECM - Multispectral Jammer I (Cargo)
+Wrath Cruise Missile, Qty: 4946 (Cargo)
+

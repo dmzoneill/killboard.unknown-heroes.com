@@ -1,0 +1,33 @@
+2007.02.12 21:14
+
+Victim: tehnomage
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Destroyed: Crusader
+System: E-9ORY
+Security: 0.0
+
+Involved parties:
+
+Name: Adrianna Utani (laid the final blow)
+Security: -1.3
+Alliance: None
+Corp: Fate.
+Ship: Sabre
+Weapon: 200mm AutoCannon II
+
+
+Destroyed items:
+
+Dual Light Pulse Laser II
+Dual Light Pulse Laser II
+Dual Light Pulse Laser II
+Dual Light Pulse Laser II
+Scorch S
+Scorch S
+Scorch S
+Scorch S
+Phased Monopropellant I Hydrazine Boosters
+Capacitor Power Relay I
+Conflagration S, Qty: 3 (Cargo)
+

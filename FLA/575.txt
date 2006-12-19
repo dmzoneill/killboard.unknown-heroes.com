@@ -1,0 +1,26 @@
+2007.02.11 02:12
+
+Victim: Jerricho Colton
+Alliance: None
+Corp: The Patriot Society
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: dastommy79 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Thorax
+Weapon: Heavy Ion Blaster I
+
+Name: AleXinO Gardon
+Security: 2.3
+Alliance: O X I D E
+Corp: W33D Corp.
+Ship: Merlin
+Weapon: Warp Disruptor I
+
+

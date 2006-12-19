@@ -1,0 +1,81 @@
+2006.11.09 22:09
+
+Victim: Jambo
+Alliance: None
+Corp: The Initiative
+Destroyed: Vengeance
+System: Ibura
+Security: 0.6
+
+Involved parties:
+
+Name: jacass66
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Capsule
+Weapon: Wrath Cruise Missile
+
+Name: Seventh Star
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Hound
+Weapon: Hound
+
+Name: Slinktress (laid the final blow)
+Security: 2.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Megathron
+Weapon: Quad Anode Light Particle Stream I
+
+Name: Formosus Funus
+Security: 3.8
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Jaguar
+Weapon: 'Langour' Drive Disruptor I
+
+Name: kone on
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: Barukor
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Stiletto
+Weapon: Gremlin Rocket
+
+Name: Wthor
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Sabre
+Weapon: 250mm Light Artillery Cannon II
+
+Name: bidman
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Thorax
+Weapon: Medium Nosferatu I
+
+
+Destroyed items:
+
+Medium Pulse Laser II
+Medium Pulse Laser II
+Conflagration S
+Upgraded 'Limos' Standard Missile Bay I
+X5 Prototype I Engine Enervator
+Small Armor Repairer II
+Micro Auxiliary Power Core I
+Scorch S, Qty: 2 (Cargo)
+Piranha Light Missile, Qty: 410 (Cargo)
+Sabretooth Light Missile, Qty: 500 (Cargo)
+

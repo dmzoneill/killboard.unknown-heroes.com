@@ -1,0 +1,26 @@
+2006.10.13 21:10
+
+Victim: Kriptoprot
+Alliance: R.I.S.K
+Corp: The First Foundation
+Destroyed: Caldari Shuttle
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Kandread (laid the final blow)
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Stiletto
+Weapon: 280mm Howitzer Artillery II
+
+Name: Gamer1K
+Security: 3.5
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Crow
+Weapon: Fleeting Warp Scrambler I
+
+

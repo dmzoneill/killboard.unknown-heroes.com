@@ -1,0 +1,87 @@
+2007.01.28 20:36
+
+Victim: The Patriarch
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Destroyed: Tempest
+System: J-CIJV
+Security: 0.0
+
+Involved parties:
+
+Name: Munch
+Security: 4.5
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Absolution
+Weapon: Absolution
+
+Name: TekkyHead
+Security: 0.7
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Tempest
+Weapon: Tempest
+
+Name: Davey Locke (laid the final blow)
+Security: 2.6
+Alliance: Imperial Republic Of the North
+Corp: VentureCorp
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Reason Taki
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Megathron
+Weapon: Megathron
+
+Name: Heeta
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: MetaForge
+Ship: Rokh
+Weapon: Rokh
+
+Name: Oldin Relic
+Security: 1.5
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Megathron
+Weapon: Megathron
+
+Name: Ather Ialeas
+Security: 4.4
+Alliance: Imperial Republic Of the North
+Corp: Karjala Inc.
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: alon blackhelm
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Rokh
+Weapon: 425mm Carbide Railgun I
+
+
+Destroyed items:
+
+1400mm Howitzer Artillery II
+1400mm Howitzer Artillery II
+1400mm Howitzer Artillery II
+1400mm Howitzer Artillery II
+Tremor L
+Tremor L
+Tremor L
+Tremor L
+Tremor L
+Tremor L
+Tremor L
+Sensor Booster II
+Gyrostabilizer II
+Gyrostabilizer II
+Reactor Control Unit II
+EMP L, Qty: 1847 (Cargo)
+

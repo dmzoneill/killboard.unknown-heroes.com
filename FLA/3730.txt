@@ -1,0 +1,42 @@
+2007.03.30 23:23
+
+Victim: Gnahpets
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Raven
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Sedith (laid the final blow)
+Security: 1.7
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Aeon
+Weapon: Dragonfly
+
+Name: Ale Tricio
+Security: 2.1
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Archon
+Weapon: Templar
+
+
+Destroyed items:
+
+Heavy Nosferatu I
+Wrath Cruise Missile, Qty: 45
+'Malkuth' Cruise Launcher I
+Cruise Missile Launcher I
+Cruise Missile Launcher I
+Small Tractor Beam I
+Cap Recharger I
+Non-Inertial Ballistic Screen Augmentation I
+Damage Control I
+Ballistic Control System I
+Mark I Generator Refitting: Diagnostic System
+Devastator Cruise Missile, Qty: 200 (Cargo)
+Cataclysm Cruise Missile, Qty: 200 (Cargo)
+

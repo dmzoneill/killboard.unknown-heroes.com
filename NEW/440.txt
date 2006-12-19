@@ -1,0 +1,167 @@
+2007.03.25 01:19
+
+Victim: Jorax
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Arazu
+System: MJYW-3
+Security: 0.0
+
+Involved parties:
+
+Name: Joshua Foiritain
+Security: -1.7
+Alliance: Corelum Syndicate
+Corp: Coreli Corporation
+Ship: Sabre
+Weapon: Sabre
+
+Name: Richard Biegewald (laid the final blow)
+Security: 5.0
+Alliance: Axiom Empire
+Corp: United Society Starfleet
+Ship: Wolf
+Weapon: 280mm Howitzer Artillery II
+
+Name: kezz2411
+Security: 5.0
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Mongo Peck
+Security: 4.9
+Alliance: Xelas Alliance
+Corp: Requiem of Hades
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: dOG2314
+Security: 5.0
+Alliance: Axiom Empire
+Corp: United Society Starfleet
+Ship: Harpy
+Weapon: Harpy
+
+Name: Murphy
+Security: -1.4
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Harbinger
+Weapon: Heavy Beam Laser II
+
+Name: Savros Hunturas
+Security: 3.9
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Malediction
+Weapon: Malediction
+
+Name: Syra Tpal
+Security: 4.6
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Vengeance
+Weapon: Vengeance
+
+Name: Callistus
+Security: -2.5
+Alliance: Corelum Syndicate
+Corp: Coreli Corporation
+Ship: Taranis
+Weapon: Taranis
+
+Name: Ryuji Takeshi
+Security: 2.7
+Alliance: Aftermath Alliance
+Corp: Master Miners
+Ship: Harpy
+Weapon: Harpy
+
+Name: Sebesria
+Security: 5.0
+Alliance: Axiom Empire
+Corp: United Society Starfleet
+Ship: Crusader
+Weapon: Crusader
+
+Name: Selnix
+Security: 5.0
+Alliance: Aftermath Alliance
+Corp: Master Miners
+Ship: Eris
+Weapon: Eris
+
+Name: doc627
+Security: 5.0
+Alliance: Axiom Empire
+Corp: United Society Starfleet
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: Aremont
+Security: 5.0
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Ares
+Weapon: Rocket Launcher I
+
+Name: Ben Derindar
+Security: 5.0
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Crusader
+Weapon: Crusader
+
+Name: DeathGrip
+Security: 3.2
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Crow
+Weapon: Thorn Javelin Rocket
+
+Name: War Maiden
+Security: 2.8
+Alliance: Aftermath Alliance
+Corp: Master Miners
+Ship: Heretic
+Weapon: Heretic
+
+Name: Sadness
+Security: 4.8
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: El Coyote
+Security: 3.5
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Raptor
+Weapon: Bloodclaw Light Missile
+
+Name: EVIL SYNNs
+Security: 0.2
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Stiletto
+Weapon: OE-5200 Rocket Launcher
+
+Name: Katka Filova
+Security: 0.8
+Alliance: Axiom Empire
+Corp: Regalis Industria Scientia Entreprendre
+Ship: Stabber
+Weapon: 'Arbalest' Assault Missile Launcher
+
+
+Destroyed items:
+
+250mm Compressed Coil Gun I, Qty: 2
+Low Frequency Sensor Suppressor I
+Supplemental Scanning CPU I
+F85 Peripheral Damage System I
+Energized Adaptive Nano Membrane I
+Antimatter Charge M, Qty: 1040 (Cargo)

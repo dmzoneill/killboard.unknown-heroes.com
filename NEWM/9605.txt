@@ -1,0 +1,33 @@
+2007.05.20 10:19
+
+Victim: Sekond Thought
+Alliance: None
+Corp: Center for Advanced Studies
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Ocara Nezus (laid the final blow)
+Security: 1.5
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Mufeater
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Enyo
+Weapon: 150mm Railgun II
+
+Name: Kesdos delWekja
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Cataclysm Enterprises
+Ship: Rifter
+Weapon: 150mm Light AutoCannon II
+
+

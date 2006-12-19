@@ -1,0 +1,19 @@
+2006.11.06 10:08
+
+Victim: RobocopSeRazbuna
+Alliance: None
+Corp: Deep Core Mining Inc.
+Destroyed: Gallente Shuttle
+System: L-TS8S
+Security: 0.0
+
+Involved parties:
+
+Name: Formosus Funus (laid the final blow)
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Jaguar
+Weapon: 250mm Light Artillery Cannon II
+
+

@@ -1,0 +1,24 @@
+2007.02.28 22:13
+
+Victim: Ildov Morekov
+Alliance: Interstellar Alcohol Conglomerate
+Corp: Firing Squad
+Destroyed: Ibis
+System: XF-TQL
+Security: 0.0
+
+Involved parties:
+
+Name: MohamedLoftie (laid the final blow)
+Security: -0.8
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Curse
+Weapon: Valkyrie II
+
+
+Destroyed items:
+
+Basic Miner
+Tritanium (Cargo)
+

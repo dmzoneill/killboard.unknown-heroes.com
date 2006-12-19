@@ -1,0 +1,54 @@
+2007.02.08 00:45
+
+Victim: Marie Veedor
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Drake
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Kalek Astroth
+Security: -1.1
+Alliance: Veto Corp
+Corp: Veto. Academy
+Ship: Harbinger
+Weapon: Fleeting Warp Scrambler I
+
+Name: Brisi (laid the final blow)
+Security: 0.9
+Alliance: Veto Corp
+Corp: Veto.
+Ship: Absolution
+Weapon: Heavy Pulse Laser II
+
+Name: xbreaka
+Security: -1.9
+Alliance: Veto Corp
+Corp: Veto. Academy
+Ship: Huginn
+Weapon: Scourge Heavy Missile
+
+Name: sopmac1
+Security: -1.5
+Alliance: Veto Corp
+Corp: Veto. Academy
+Ship: Prophecy
+Weapon: 'Abandon' Targeting Disruptor I
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 41
+Advanced 'Limos' Heavy Missile Bay I
+Advanced 'Limos' Heavy Missile Bay I
+Advanced 'Limos' Heavy Missile Bay I
+XR-3200 Heavy Missile Bay
+Large F-S9 Regolith Shield Induction
+J5 Prototype Warp Inhibitor I
+Invulnerability Field I
+V-M15 Braced Multispectral Shield Matrix
+Scourge Heavy Missile, Qty: 3328 (Cargo)
+Hammerhead I, Qty: 2 (Drone Bay)
+

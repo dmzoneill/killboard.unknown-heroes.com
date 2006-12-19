@@ -1,0 +1,54 @@
+2007.01.20 01:43
+
+Victim: Princess Alia
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Maelstrom
+System: RQH-MY
+Security: 0.0
+
+Involved parties:
+
+Name: Zalim (laid the final blow)
+Security: 1.7
+Alliance: None
+Corp: Janissaries
+Ship: Nighthawk
+Weapon: Scourge Heavy Missile
+
+Name: Corpus Luteum
+Security: -2.2
+Alliance: Galaxia Union
+Corp: Starshine Enterprises
+Ship: Dominix
+Weapon: Ogre II
+
+Name: Njalli
+Security: -3.0
+Alliance: None
+Corp: Digital Foundry
+Ship: Dominix
+Weapon: Ogre I
+
+Name: Ceres Starshine
+Security: -2.2
+Alliance: None
+Corp: TWILIGHT Z0NE
+Ship: Eris
+Weapon: Eris
+
+
+Destroyed items:
+
+1400mm 'Scout' Artillery I
+1400mm 'Scout' Artillery I
+1400mm 'Scout' Artillery I
+Fusion L, Qty: 49
+Prototype Cloaking Device I
+100MN MicroWarpdrive II
+Heavy Capacitor Booster II
+Tracking Computer II
+Armor EM Hardener II
+Large Armor Repairer II (Cargo)
+Armor Kinetic Hardener II (Cargo)
+

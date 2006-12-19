@@ -1,0 +1,33 @@
+2007.04.12 04:18
+
+Victim: Ducimus Daimon
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Capsule
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Sauron Starcrusher (laid the final blow)
+Security: 3.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Feterous Jolin
+Security: -2.3
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Ishkur
+Weapon: Light Ion Blaster II
+
+Name: Maris E'lien
+Security: 3.2
+Alliance: Firmus Ixion
+Corp: Black Avatar
+Ship: Rapier
+Weapon: Warp Disruptor II
+
+

@@ -1,0 +1,78 @@
+2007.01.03 23:09
+
+Victim: Slinktress
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Destroyed: Megathron
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: SATAN
+Security: -1.0
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+Name: Heinky (laid the final blow)
+Security: 2.4
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Abaddon
+Weapon: Tachyon Beam Laser II
+
+Name: Scythus Aratan
+Security: 4.3
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: DHB WildCat
+Security: -1.6
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Wrath Cruise Missile
+
+Name: Captain Rickdick
+Security: -0.1
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+Name: ETS4ME
+Security: 0.6
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+Name: Masta Killa
+Security: -1.9
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Heavy Diminishing Power System Drain I
+
+
+Destroyed items:
+
+Dual Heavy Beam Laser I
+350mm 'Scout' I Accelerator Cannon
+Dual 250mm Prototype I Gauss Gun
+Multifrequency L
+Gamma L
+Stasis Webifier I
+Medium F-RX Prototype I Capacitor Boost
+Cap Booster 800
+F85 Peripheral Damage System I
+Large Armor Repairer II
+N-Type Kinetic Hardener I
+N-Type Thermic Hardener I
+Cap Booster 800, Qty: 3 (Cargo)
+Ogre I, Qty: 3 (Drone Bay)
+

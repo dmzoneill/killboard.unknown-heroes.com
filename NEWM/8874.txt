@@ -1,0 +1,55 @@
+2006.12.13 20:08
+
+Victim: Odinegras
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Vexor
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Unfortunate Accident (laid the final blow)
+Security: -1.2
+Alliance: None
+Corp: omen.
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: starius3
+Security: 1.2
+Alliance: None
+Corp: omen.
+Ship: Taranis
+Weapon: Warp Disruptor I
+
+Name: night darkness
+Security: -0.7
+Alliance: None
+Corp: omen.
+Ship: Crusader
+Weapon: Crusader
+
+Name: Miss d1amond
+Security: -1.1
+Alliance: None
+Corp: omen.
+Ship: Sabre
+Weapon: X5 Prototype I Engine Enervator
+
+Name: Elliott Manchild
+Security: -1.5
+Alliance: None
+Corp: omen.
+Ship: Tempest
+Weapon: Tempest
+
+
+Destroyed items:
+
+Small 'Knave' I Energy Drain
+Small 'Knave' I Energy Drain
+Medium Armor Repairer II
+Energized Adaptive Nano Membrane I
+Hammerhead II (Drone Bay)
+

@@ -1,0 +1,36 @@
+2007.01.19 03:19
+
+Victim: Ducimus Daimon
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Blackbird
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Riotoverkill (laid the final blow)
+Security: 1.6
+Alliance: None
+Corp: Exanimo Inc
+Ship: Drake
+Weapon: Terror Assault Missile
+
+Name: Jaysun Myst
+Security: 0.5
+Alliance: None
+Corp: Exanimo Inc
+Ship: Blackbird
+Weapon: Widowmaker Heavy Missile
+
+
+Destroyed items:
+
+Sabretooth Light Missile, Qty: 72
+'Arbalest' Assault Missile Launcher
+Medium Capacitor Battery II
+'Hypnos' Ion Field ECM I
+Halting Phase Inversion ECM I
+Power Diagnostic System I
+Power Diagnostic System I
+

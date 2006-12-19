@@ -1,0 +1,48 @@
+2007.04.21 01:16
+
+Victim: Kee Ris
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Destroyed: Coercer
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Admentus Cor'vion (laid the final blow)
+Security: -0.5
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Ishtar
+Weapon: Ogre II
+
+Name: Stradivarious
+Security: 3.8
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Mynas Atoch
+Security: 0.8
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Buzzard
+Weapon: J5 Prototype Warp Inhibitor I
+
+
+Destroyed items:
+
+Dual Light Beam Laser I
+Dual Light Beam Laser I
+Dual Light Beam Laser I
+Dual Light Beam Laser I
+Dual Light Beam Laser I
+Infrared S
+Infrared S
+Infrared S
+Infrared S
+Infrared S
+Heat Sink II
+Heat Sink II
+

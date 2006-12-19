@@ -1,0 +1,19 @@
+2007.03.03 09:45
+
+Victim: Mar Rykaz
+Alliance: None
+Corp: Imperial Academy
+Destroyed: Capsule
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: rappter (laid the final blow)
+Security: -0.9
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Deimos
+Weapon: Heavy Neutron Blaster II
+
+

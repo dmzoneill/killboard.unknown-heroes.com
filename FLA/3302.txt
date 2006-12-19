@@ -1,0 +1,30 @@
+2007.03.22 19:29
+
+Victim: Luxe Ecru
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Destroyed: Taranis
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Murdoch Morf (laid the final blow)
+Security: 1.4
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Taranis
+Weapon: Hobgoblin II
+
+
+Destroyed items:
+
+125mm Railgun II
+125mm Railgun II
+Spike S, Qty: 96
+1MN MicroWarpdrive I
+Prototype I Sensor Booster
+Magnetic Field Stabilizer II
+Mark I Modified SS Nanofiber Structure
+Hornet II (Drone Bay)
+

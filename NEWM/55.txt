@@ -1,0 +1,19 @@
+2007.01.03 02:26
+
+Victim: Chicken Hawk
+Alliance: None
+Corp: EVE Corporation 365
+Destroyed: Capsule
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Mufeater (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Vexor
+Weapon: 150mm 'Scout' I Accelerator Cannon
+
+

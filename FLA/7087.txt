@@ -1,0 +1,35 @@
+2006.12.25 19:30
+
+Victim: sktlsdyt
+Alliance: THE H0RDE
+Corp: UNITED GUARDIAN
+Destroyed: Maller
+System: Mara
+Security: 0.4
+
+Involved parties:
+
+Name: W0LFMAN (laid the final blow)
+Security: 4.0
+Alliance: Freelancer Alliance
+Corp: Caldar Mercenary Syndicate
+Ship: Typhoon
+Weapon: Mjolnir Torpedo
+
+
+Destroyed items:
+
+Heavy Beam Laser I
+Heavy Beam Laser I
+Heavy Beam Laser I
+150mm Railgun I
+Iridium Charge S, Qty: 9
+Radio M
+Radio M
+Radio M
+Adaptive Nano Plating I
+Energized Basic Adaptive Nano Plating
+Power Diagnostic System I
+Reactor Control Unit I
+Energized Basic Thermic Plating (Cargo)
+

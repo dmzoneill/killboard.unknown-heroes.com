@@ -1,0 +1,29 @@
+2007.04.03 05:41
+
+Victim: TroNaaR
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Taranis
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Admentus Cor'vion (laid the final blow)
+Security: -0.2
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Deimos
+Weapon: Heavy Electron Blaster II
+
+
+Destroyed items:
+
+75mm Gatling Rail II
+75mm Gatling Rail II
+75mm Gatling Rail II
+Spike S, Qty: 357
+X5 Prototype I Engine Enervator
+Overdrive Injector System I
+Overdrive Injector System I
+

@@ -1,0 +1,73 @@
+2007.04.07 07:16
+
+Victim: velusip
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Destroyed: Dominix
+System: GY5-26
+Security: 0.0
+
+Involved parties:
+
+Name: Scourge Heavy Missile / Guristas
+
+Name: Milo Deadstar
+Security: 0.7
+Alliance: None
+Corp: Exit 13
+Ship: Sleipnir
+Weapon: Sleipnir
+
+Name: Hans Blix (laid the final blow)
+Security: 1.2
+Alliance: None
+Corp: Exit 13
+Ship: Sleipnir
+Weapon: 425mm AutoCannon II
+
+Name: zero2espect
+Security: 3.7
+Alliance: None
+Corp: Exit 13
+Ship: Curse
+Weapon: BZ-5 Neutralizing Spatial Destabilizer ECM
+
+
+Destroyed items:
+
+250mm 'Scout' I Accelerator Cannon
+250mm Railgun I
+Iridium Charge M, Qty: 43
+Small Tractor Beam I
+Eutectic I Capacitor Charge Array
+Eutectic I Capacitor Charge Array
+Eutectic I Capacitor Charge Array
+Medium Armor Repairer I
+Armor Kinetic Hardener I
+Armor Kinetic Hardener I
+Small Shield Booster I (Cargo)
+Small Murky Shield Screen Transmitter I (Cargo)
+Cap Recharger I (Cargo)
+Cargo Scanner I (Cargo)
+Medium Capacitor Battery I (Cargo)
+Small Armor Repairer I (Cargo)
+Small Hull Repairer I (Cargo)
+Small 'Ghoul' Energy Siphon I (Cargo)
+Small Energy Neutralizer I (Cargo)
+Dual 250mm Railgun I (Cargo)
+Small Capacitor Booster I (Cargo)
+Antimatter Charge L, Qty: 100 (Cargo)
+Iridium Charge M, Qty: 2283 (Cargo)
+Tungsten Charge M, Qty: 3079 (Cargo)
+Juggernaut Torpedo, Qty: 100 (Cargo)
+ECCM - Omni I (Cargo)
+Tracking Computer I (Cargo)
+Guristas Silver Tag (Cargo)
+Piranha Light Missile, Qty: 100 (Cargo)
+Cataclysm Cruise Missile, Qty: 100 (Cargo)
+Malfunctioning Shield Emitter, Qty: 4 (Cargo)
+Burned Logic Circuit, Qty: 17 (Cargo)
+Local Power Plant Manager: Diagnostic System I (Cargo)
+Wasp I, Qty: 2 (Drone Bay)
+Vespa I, Qty: 4 (Drone Bay)
+

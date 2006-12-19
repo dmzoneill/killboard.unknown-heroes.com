@@ -1,0 +1,144 @@
+2007.03.15 02:01
+
+Victim: Tregaron
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Destroyed: Manticore
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: kIM JONGELL
+Security: 4.8
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Harpy
+Weapon: Harpy
+
+Name: 3141592653589793238462
+Security: 1.2
+Alliance: Axiom Empire
+Corp: Regalis Industria Scientia Entreprendre
+Ship: Kestrel
+Weapon: Bloodclaw Light Missile
+
+Name: Baranof
+Security: 5.0
+Alliance: Axiom Empire
+Corp: United Society Starfleet
+Ship: Eris
+Weapon: 125mm Railgun II
+
+Name: SN 1121666
+Security: 0.7
+Alliance: Axiom Empire
+Corp: Regalis Industria Scientia Entreprendre
+Ship: Rifter
+Weapon: Bloodclaw Light Missile
+
+Name: Oortog
+Security: 4.0
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Enyo
+Weapon: 150mm Railgun II
+
+Name: e3joker (laid the final blow)
+Security: 3.7
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: Mongo Peck
+Security: 4.9
+Alliance: Xelas Alliance
+Corp: Requiem of Hades
+Ship: Taranis
+Weapon: 125mm Railgun II
+
+Name: Kendex
+Security: 3.5
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: Duncan Hines
+Security: 5.0
+Alliance: Xelas Alliance
+Corp: Bombshell Cartel
+Ship: Crow
+Weapon: 75mm Gatling Rail II
+
+Name: xBeneGesseritx
+Security: 5.0
+Alliance: Xelas Alliance
+Corp: Crimson Crusaders
+Ship: Jaguar
+Weapon: 'Arbalest' Rocket Launcher I
+
+Name: doc627
+Security: 5.0
+Alliance: Axiom Empire
+Corp: United Society Starfleet
+Ship: Crow
+Weapon: Standard Missile Launcher I
+
+Name: Zayk
+Security: 3.4
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Malediction
+Weapon: Dual Light Pulse Laser II
+
+Name: ZAX0236
+Security: 5.0
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+Name: Rif
+Security: 5.0
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Vengeance
+Weapon: Warp Disruptor I
+
+Name: Landock 360
+Security: 4.1
+Alliance: Xelas Alliance
+Corp: Fallen Angel's
+Ship: Eris
+Weapon: 'Limos' Rocket Launcher I
+
+Name: Hauth
+Security: 5.2
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Vengeance
+Weapon: Dual Light Pulse Laser II
+
+Name: DeathGrip
+Security: 2.3
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Flycatcher
+Weapon: Rocket Launcher II
+
+
+Destroyed items:
+
+Prototype Cloaking Device I
+Paradise Cruise Missile, Qty: 44
+XT-9000 Cruise Launcher
+Remote Sensor Dampener I
+Kapteyn Sensor Array Inhibitor I
+Inertia Stabilizers I
+Type-D Power Core Modification: Diagnostic System
+Cataclysm Cruise Missile, Qty: 429 (Cargo)
+Devastator Cruise Missile, Qty: 500 (Cargo)
+Wrath Cruise Missile, Qty: 470 (Cargo)
+

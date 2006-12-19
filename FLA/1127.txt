@@ -1,0 +1,94 @@
+2007.03.05 19:25
+
+Victim: norman protector
+Alliance: Xelas Alliance
+Corp: Fallen Angel's
+Destroyed: Vexor
+System: KVN-36
+Security: 0.0
+
+Involved parties:
+
+Name: william kronos (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Teck7
+Security: 1.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Lachesis
+Weapon: Valkyrie II
+
+Name: Aken Ator
+Security: 1.8
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Ferox
+Weapon: Widowmaker Heavy Missile
+
+Name: Daressek
+Security: 3.7
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Kestrel
+Weapon: Bloodclaw Light Missile
+
+Name: Dana Foxworth
+Security: 3.2
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Rupture
+Weapon: Rupture
+
+Name: Mauy Thai
+Security: -1.4
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Curse
+Weapon: Valkyrie II
+
+Name: coldkill
+Security: 1.8
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: Muad' Dib
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Malediction
+Weapon: Sabretooth Light Missile
+
+Name: Dark Carnage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Crow
+Weapon: Sabretooth Light Missile
+
+Name: misscoda
+Security: 3.7
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Blackbird
+Weapon: Thunderbolt Heavy Missile
+
+
+Destroyed items:
+
+Limited Light Neutron Blaster I
+Limited Light Neutron Blaster I
+Limited Light Neutron Blaster I
+Antimatter Charge S, Qty: 80
+Energized Adaptive Nano Membrane I
+1600mm Reinforced Rolled Tungsten Plates I
+Antimatter Charge S, Qty: 184 (Cargo)
+Warrior II (Drone Bay)
+Wasp II, Qty: 2 (Drone Bay)
+

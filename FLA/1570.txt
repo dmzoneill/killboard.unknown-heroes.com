@@ -1,0 +1,51 @@
+2007.03.17 05:23
+
+Victim: DeathGrip
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Destroyed: Flycatcher
+System: MJYW-3
+Security: 0.0
+
+Involved parties:
+
+Name: Sils wife
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: dastommy79 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Armageddon
+Weapon: Mega Afocal Pulse Maser I
+
+Name: death1023
+Security: 2.9
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Megathron
+Weapon: 425mm 'Scout' I Accelerator Cannon
+
+Name: ventura5
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Drake
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+
+Destroyed items:
+
+Rocket Launcher II
+Rocket Launcher II
+Rocket Launcher II
+Warp Disrupt Probe, Qty: 10
+Foxfire Javelin Rocket, Qty: 160
+Sensor Booster II
+Sensor Booster II
+Foxfire Javelin Rocket, Qty: 9657 (Cargo)
+

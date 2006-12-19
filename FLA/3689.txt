@@ -1,0 +1,26 @@
+2007.03.29 19:49
+
+Victim: marakudi
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Destroyed: Capsule
+System: MJYW-3
+Security: 0.0
+
+Involved parties:
+
+Name: Sholle
+Security: 3.0
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Sabre
+Weapon: 200mm AutoCannon II
+
+Name: Diego Barbera (laid the final blow)
+Security: -0.1
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+

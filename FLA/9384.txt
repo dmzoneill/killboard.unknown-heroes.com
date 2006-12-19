@@ -1,0 +1,35 @@
+2007.05.09 16:31
+
+Victim: wardey
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Executioner
+System: K4YZ-Y
+Security: 0.0
+
+Involved parties:
+
+Name: Sholle (laid the final blow)
+Security: 1.3
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Sabre
+Weapon: 200mm AutoCannon II
+
+Name: Drak d'Amral
+Security: -0.9
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Sleipnir
+Weapon: Hornet EC-300
+
+
+Destroyed items:
+
+1MN MicroWarpdrive I
+Mark I Generator Refitting: Capacitor Power Relay
+Mark I Generator Refitting: Capacitor Power Relay
+Eutectic I Capacitor Charge Array (Cargo)
+Heavy Pulse Laser I, Qty: 4 (Cargo)
+Reactor Control Unit II (Cargo)
+

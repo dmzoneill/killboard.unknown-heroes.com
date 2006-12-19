@@ -1,0 +1,107 @@
+2006.09.22 16:07
+
+Victim: Kuto
+Alliance: R.I.S.K
+Corp: GOLDEN TAURUS
+Destroyed: Scorpion
+System: EWOK-K
+Security: 0.0
+
+Involved parties:
+
+Name: Ageha
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Karnovsky
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Sabre
+Weapon: Sabre
+
+Name: Oldin Relic
+Security: 1.3
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Moa
+Weapon: Bloodclaw Light Missile
+
+Name: Gtok
+Security: -1.1
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Megathron
+Weapon: Megathron
+
+Name: TeamBETAZeus
+Security: 0.3
+Alliance: Freelancer Alliance
+Corp: Terminal Velocity Inc.
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+Name: XxAngelxX
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Pilgrim
+Weapon: Vespa II
+
+Name: WhiteBearAQM
+Security: 1.3
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Scorpion
+Weapon: Bane Torpedo
+
+Name: DevilSlayer
+Security: 3.9
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Zealot
+Weapon: Zealot
+
+Name: SleepyOSU
+Security: 2.4
+Alliance: Freelancer Alliance
+Corp: Sin-X Inc.
+Ship: Thorax
+Weapon: Valkyrie I
+
+Name: Sobar (laid the final blow)
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Thorax
+Weapon: 125mm Railgun II
+
+Name: Luke Lamarr
+Security: -1.5
+Alliance: Freelancer Alliance
+Corp: Terminal Velocity Inc.
+Ship: Blackbird
+Weapon: Piranha Light Missile
+
+Name: Tas Devil
+Security: 5.0
+Alliance: Forces of Freedom
+Corp: JUDGE DREAD Inc.
+Ship: Pilgrim
+Weapon: Tracking Disruptor II
+
+
+Destroyed items:
+
+Wrath Cruise Missile, Qty: 20
+XT-9000 Cruise Launcher
+XT-9000 Cruise Launcher
+ECM - White Noise Generator II
+ECM - Ion Field Projector II
+ECM - Ion Field Projector II
+1600mm Reinforced Rolled Tungsten Plates I
+1600mm Reinforced Steel Plates II
+

@@ -1,0 +1,63 @@
+2007.03.09 20:33
+
+Victim: Lord Revent
+Alliance: YouWhat
+Corp: Beasts of Burden
+Destroyed: Claw
+System: XZH-4X
+Security: 0.0
+
+Involved parties:
+
+Name: MagicalMako
+Security: 1.0
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Hurricane
+Weapon: Bloodclaw Light Missile
+
+Name: Tregaron (laid the final blow)
+Security: 1.8
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Miriyaka
+Security: 5.0
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: Dracunculiasis
+Security: 0.2
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Celestis
+Weapon: Celestis
+
+Name: Zemi Dahut
+Security: -0.1
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Incursus
+Weapon: Incursus
+
+Name: Jhonty S'ture
+Security: 0.1
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Incursus
+Weapon: Light Ion Blaster I
+
+
+Destroyed items:
+
+Initiated Warp Jammer I
+Small I-a Polarized Armor Regenerator
+Inertia Stabilizers I
+Inertia Stabilizers I
+Inertia Stabilizers I
+Flameburst Light Missile, Qty: 1000 (Cargo)
+

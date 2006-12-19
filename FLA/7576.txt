@@ -1,0 +1,34 @@
+2006.09.21 17:46
+
+Victim: Griff Skyshock
+Alliance: Ascendant Frontier
+Corp: Eve Defence Force
+Destroyed: Thorax
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Kolombus (laid the final blow)
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Dominix
+Weapon: Ogre II
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Light Neutron Blaster II
+Light Neutron Blaster II
+Light Neutron Blaster II
+Void S, Qty: 63
+10MN MicroWarpdrive I
+Stasis Webifier I
+Armor Thermic Hardener I
+1600mm Reinforced Rolled Tungsten Plates I
+Null S, Qty: 1840 (Cargo)
+Void S, Qty: 1250 (Cargo)
+Valkyrie II, Qty: 3 (Drone Bay)
+

@@ -1,0 +1,61 @@
+2007.05.03 02:34
+
+Victim: Alexander II
+Alliance: Vigilance.
+Corp: The Phoenix Rising
+Destroyed: Capsule
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Crandall Six (laid the final blow)
+Security: 4.2
+Alliance: Sparta Alliance
+Corp: Black Knight Buccaneers
+Ship: Caracal
+Weapon: Piranha Light Missile
+
+Name: Kilara Nior
+Security: 2.8
+Alliance: Sparta Alliance
+Corp: Lynx Frontier Inc.
+Ship: Taranis
+Weapon: Taranis
+
+Name: Sir Howard
+Security: 4.6
+Alliance: Sparta Alliance
+Corp: Lynx Frontier Inc.
+Ship: Thorax
+Weapon: 250mm Compressed Coil Gun I
+
+Name: Marie Veedor
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Thorax
+Weapon: 250mm Carbide Railgun I
+
+Name: Iss Hogai
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: GREY COUNCIL
+Ship: Rook
+Weapon: ECM - Spatial Destabilizer II
+
+Name: Confessor
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: Lynx Frontier Inc.
+Ship: Armageddon
+Weapon: Tachyon Beam Laser II
+
+Name: Antigen Po
+Security: 4.7
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Taranis
+Weapon: Taranis
+
+

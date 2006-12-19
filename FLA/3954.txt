@@ -1,0 +1,66 @@
+2007.04.07 09:40
+
+Victim: BouH MuHMaTaPa
+Alliance: Terra  Prime
+Corp: The First Foundation
+Destroyed: Stabber
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Jack Thurner (laid the final blow)
+Security: 2.6
+Alliance: DeStInY.
+Corp: Fusion Enterprises Ltd
+Ship: Armageddon
+Weapon: Mega Pulse Laser II
+
+Name: Wusa
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Asgard Schiffswerften
+Ship: Rupture
+Weapon: Bloodclaw Light Missile
+
+Name: kakakarrr
+Security: -1.2
+Alliance: DeStInY.
+Corp: The Knights Of Camelot
+Ship: Republic Fleet Firetail
+Weapon: Republic Fleet Firetail
+
+Name: Wallyx
+Security: 4.5
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Armageddon
+Weapon: Regulated Mega Electron Phase Cannon I
+
+Name: Sir Pip
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Cataclysm Enterprises
+Ship: Sabre
+Weapon: Sabre
+
+
+Destroyed items:
+
+220mm Vulcan AutoCannon I
+220mm Vulcan AutoCannon I
+220mm Vulcan AutoCannon I
+Depleted Uranium M, Qty: 300
+Standard Missile Launcher I
+Standard Missile Launcher I
+10MN MicroWarpdrive I
+Medium Capacitor Battery I
+Mexallon, Qty: 3140 (Cargo)
+Zydrine, Qty: 22 (Cargo)
+Megacyte, Qty: 2 (Cargo)
+Pyerite, Qty: 9428 (Cargo)
+1MN MicroWarpdrive I (Cargo)
+Small Nosferatu I (Cargo)
+Depleted Uranium M, Qty: 360 (Cargo)
+Flameburst Light Missile, Qty: 120 (Cargo)
+

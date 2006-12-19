@@ -1,0 +1,167 @@
+2007.03.25 00:05
+
+Victim: Keflin Geard
+Alliance: YouWhat
+Corp: Artificial Horizons
+Destroyed: Raven
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Nimbu (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: J.I.T. Enterprises
+Ship: Rokh
+Weapon: 425mm Railgun I
+
+Name: sakana
+Security: -0.9
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Megathron
+Weapon: Megathron
+
+Name: Jonkai
+Security: -3.9
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: HYT gangster
+Security: 1.5
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Claw
+Weapon: Claw
+
+Name: ISpydeRI
+Security: 5.0
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Drake
+Weapon: Thunderbolt Heavy Missile
+
+Name: Fugnut
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: JaiMaster
+Security: 2.7
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Typhoon
+Weapon: Typhoon
+
+Name: Iss Hogai
+Security: 5.0
+Alliance: Zenith Affinity
+Corp: GREY COUNCIL
+Ship: Caracal
+Weapon: Heavy Missile Launcher I
+
+Name: StrikerOneSevern
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Rupture
+Weapon: Sabretooth Light Missile
+
+Name: Darthirishguy
+Security: 1.6
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Almagar Phog
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+Name: Vesspasiano
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Dominix
+Weapon: Ogre II
+
+Name: ConXtionS
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: The Night Crew
+Ship: Thorax
+Weapon: Hammerhead I
+
+Name: Chuck Dawg
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Crow
+Weapon: Thorn Rocket
+
+Name: Tiberius Drake
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Brutix
+Weapon: Brutix
+
+Name: Harken Hessel
+Security: 1.1
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Ship: Tristan
+Weapon: 150mm Railgun I
+
+Name: Logand Delta
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Ship: Drake
+Weapon: Thunderbolt Heavy Missile
+
+Name: RythemAndStealth
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Myrmidon
+Weapon: Myrmidon
+
+
+Destroyed items:
+
+Siege Missile Launcher II
+Siege Missile Launcher II
+Siege Missile Launcher II
+Siege Missile Launcher II
+Siege Missile Launcher II
+Juggernaut Javelin Torpedo
+Juggernaut Javelin Torpedo
+Juggernaut Javelin Torpedo
+Juggernaut Javelin Torpedo
+Juggernaut Javelin Torpedo
+Juggernaut Javelin Torpedo
+Juggernaut Javelin Torpedo
+Juggernaut Javelin Torpedo
+Mjolnir Javelin Torpedo
+Mjolnir Javelin Torpedo
+Mjolnir Javelin Torpedo
+Mjolnir Javelin Torpedo
+Large F-S9 Regolith Shield Induction
+10MN Afterburner I
+Heat Dissipation Field II
+Damage Control II
+1600mm Reinforced Rolled Tungsten Plates I
+Ballistic Control System II
+Ballistic Control System II
+Juggernaut Javelin Torpedo, Qty: 526 (Cargo)
+Bane Rage Torpedo, Qty: 300 (Cargo)
+

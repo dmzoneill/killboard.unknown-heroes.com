@@ -1,0 +1,79 @@
+2007.03.30 23:23
+
+Victim: JaiMaster
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Destroyed: Typhoon
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Sedith (laid the final blow)
+Security: 1.7
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Aeon
+Weapon: Templar
+
+Name: Robet Katrix
+Security: 2.5
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Chimera
+Weapon: Einherji
+
+Name: Ferocious FeAr
+Security: 1.5
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Seleene
+Security: -1.8
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Nyx
+Weapon: Dragonfly
+
+Name: Queldonus
+Security: 2.9
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Nidhoggur
+Weapon: Templar
+
+Name: NoWeR
+Security: 4.5
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Crow
+Weapon: Domination Warp Disruptor
+
+
+Destroyed items:
+
+Dual 425mm AutoCannon II
+Barrage L, Qty: 116
+Cruise Missile Launcher II
+Cataclysm Precision Cruise Missile
+Cataclysm Precision Cruise Missile
+Cataclysm Precision Cruise Missile
+Cataclysm Precision Cruise Missile
+Cataclysm Precision Cruise Missile
+Cataclysm Precision Cruise Missile
+Cataclysm Precision Cruise Missile
+Cataclysm Precision Cruise Missile
+Cap Booster 800
+Cap Booster 800
+Cap Booster 800
+Cap Booster 800
+Sensor Booster II
+Armor Kinetic Hardener I
+Reactor Control Unit II
+Paradise Precision Cruise Missile, Qty: 229 (Cargo)
+Cataclysm Precision Cruise Missile, Qty: 406 (Cargo)
+Valkyrie II (Drone Bay)
+Infiltrator II (Drone Bay)
+

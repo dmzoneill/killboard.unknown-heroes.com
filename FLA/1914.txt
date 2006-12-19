@@ -1,0 +1,70 @@
+2007.01.10 23:14
+
+Victim: X7979
+Alliance: Freelancer Alliance
+Corp: X.T.R
+Destroyed: Brutix
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Heinky (laid the final blow)
+Security: 2.7
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Abaddon
+Weapon: Tachyon Beam Laser II
+
+Name: SATAN
+Security: -0.8
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Devastator Precision Cruise Missile
+
+Name: Feyd Mantis
+Security: 2.5
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Tempest
+Weapon: 1200mm Artillery Cannon II
+
+Name: Captain Rickdick
+Security: 0.1
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+Name: MEISTERderPUPPEN
+Security: 0.1
+Alliance: None
+Corp: Deep Core Mining Inc.
+Ship: Sabre
+Weapon: Sabre
+
+Name: MAD D0G
+Security: -1.3
+Alliance: None
+Corp: Caldari Provisions
+Ship: Crow
+Weapon: Shadow Serpentis Stasis Webifier
+
+Name: Arnold Swartzenegger
+Security: 0.0
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: 'Arbalest' Cruise Launcher I
+
+
+Destroyed items:
+
+Heavy Ion Blaster I
+Antimatter Charge M, Qty: 145
+F-b10 Nominal Capacitor Regenerator
+10MN MicroWarpdrive I
+Medium I-a Polarized Armor Regenerator
+Antimatter Charge M, Qty: 650 (Cargo)
+

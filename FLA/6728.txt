@@ -1,0 +1,19 @@
+2006.11.25 21:09
+
+Victim: Cerealen
+Alliance: None
+Corp: British Industrialist and Transportation Services
+Destroyed: Amarr Shuttle
+System: KLY-C0
+Security: 0.0
+
+Involved parties:
+
+Name: Formosus Funus (laid the final blow)
+Security: 4.2
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Wolf
+Weapon: 150mm Light AutoCannon II
+
+

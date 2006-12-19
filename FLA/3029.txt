@@ -1,0 +1,65 @@
+2007.03.22 19:10
+
+Victim: ellamea
+Alliance: Triumvirate.
+Corp: ViperSquad
+Destroyed: Drake
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Calimer0m0nster
+Security: 4.0
+Alliance: Galactic-Federation
+Corp: I.D.I.O.T.
+Ship: Capsule
+Weapon: E500 Prototype Energy Vampire
+
+Name: Celdrahil (laid the final blow)
+Security: 3.8
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Ship: Brutix
+Weapon: Hammerhead II
+
+Name: Irrotilumm
+Security: 1.9
+Alliance: Galactic-Federation
+Corp: Dark Storm Syndicate
+Ship: Tempest
+Weapon: Dual 425mm AutoCannon I
+
+Name: Frau Formaggio
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Eris
+Weapon: Eris
+
+Name: Freakdevil
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Crow
+Weapon: TE-2100 Standard Missile Bay
+
+Name: Saan Motak
+Security: 1.4
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Unknown
+Weapon: J5 Prototype Warp Inhibitor I
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 156
+Heavy Missile Launcher II
+Heavy Missile Launcher II
+Heavy Missile Launcher II
+J5 Prototype Warp Inhibitor I
+Power Diagnostic System II
+Scourge Heavy Missile, Qty: 3935 (Cargo)
+Havoc Heavy Missile, Qty: 1000 (Cargo)
+

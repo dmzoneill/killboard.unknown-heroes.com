@@ -1,0 +1,57 @@
+2007.04.17 09:18
+
+Victim: CENTUREAN
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Destroyed: Drake
+System: X-7OMU
+Security: 0.0
+
+Involved parties:
+
+Name: Lorn Zolog
+Security: -1.1
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Armageddon
+Weapon: Dual Heavy Pulse Laser II
+
+Name: Xordus
+Security: 0.8
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Armageddon
+Weapon: Dual Heavy Modulated Pulse Energy Beam I
+
+Name: Nipplator
+Security: 0.2
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Armageddon
+Weapon: Dual Heavy Modulated Pulse Energy Beam I
+
+Name: Galaxor (laid the final blow)
+Security: 5.1
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Abaddon
+Weapon: Mega Modulated Pulse Energy Beam I
+
+Name: Bishata
+Security: 1.1
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Malediction
+Weapon: Dual Light Beam Laser II
+
+
+Destroyed items:
+
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+Large F-S9 Regolith Shield Induction
+Type-D Power Core Modification: Diagnostic System
+Type-D Power Core Modification: Diagnostic System
+

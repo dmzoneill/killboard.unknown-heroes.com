@@ -1,0 +1,33 @@
+2007.04.20 02:33
+
+Victim: seferas
+Alliance: None
+Corp: State War Academy
+Destroyed: Capsule
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Skull Fire
+Security: 0.8
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Ferox
+Weapon: 250mm Compressed Coil Gun I
+
+Name: Magic Mazuma (laid the final blow)
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Rifter
+Weapon: 280mm Howitzer Artillery I
+
+Name: Kayron Brennan
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Caracal
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+

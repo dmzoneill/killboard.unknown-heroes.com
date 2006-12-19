@@ -1,0 +1,37 @@
+2007.02.06 15:40
+
+Victim: Zephyrante
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Destroyed: Ishkur
+System: E-FIC0
+Security: 0.0
+
+Involved parties:
+
+Name: DrSIn (laid the final blow)
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Curse
+Weapon: Valkyrie II
+
+Name: Gazmus
+Security: 0.9
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Taranis
+Weapon: J5 Prototype Warp Inhibitor I
+
+
+Destroyed items:
+
+E5 Prototype Energy Vampire
+E5 Prototype Energy Vampire
+E5 Prototype Energy Vampire
+Small Armor Repairer II
+Energized Reactive Membrane II
+Micro Auxiliary Power Core I
+Hobgoblin II (Drone Bay)
+Acolyte II (Drone Bay)
+

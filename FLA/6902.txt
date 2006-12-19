@@ -1,0 +1,61 @@
+2006.12.12 16:42
+
+Victim: Lunanie
+Alliance: None
+Corp: Final-Vendetta
+Destroyed: Thorax
+System: P-2TTL
+Security: 0.0
+
+Involved parties:
+
+Name: Muad' Dib (laid the final blow)
+Security: 5.0
+Alliance: Interstellar Starbase Syndicate
+Corp: terra firma team
+Ship: Vexor
+Weapon: Ogre I
+
+Name: Noitaakka
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Myrmidon
+Weapon: Ogre II
+
+Name: Cazziel
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Capsule
+Weapon: Light Neutron Blaster II
+
+Name: Guristas Nullifier / Guristas
+
+
+Destroyed items:
+
+Light Neutron Blaster II
+Void S, Qty: 173
+10MN MicroWarpdrive I
+'Langour' Drive Disruptor I
+N-Type Thermic Hardener I
+1600mm Reinforced Crystalline Carbonide Plates I
+Barton Reactor Capacitor Recharger I (Cargo)
+280mm Howitzer Artillery I (Cargo)
+'Langour' Drive Disruptor I (Cargo)
+Antimatter Charge M, Qty: 3382 (Cargo)
+Atron Blueprint (Cargo)
+Incursus Blueprint, Qty: 6 (Cargo)
+Capacitor Power Relay I Blueprint, Qty: 3 (Cargo)
+Antimatter Charge M Blueprint, Qty: 2 (Cargo)
+Cap Booster 800 Blueprint, Qty: 3 (Cargo)
+Hammerhead I Blueprint, Qty: 5 (Cargo)
+Wasp I Blueprint (Cargo)
+Alumel Magnetometric ECCM Sensor Array I (Cargo)
+Null S, Qty: 1000 (Cargo)
+Scourge Heavy Missile, Qty: 60 (Cargo)
+Power Diagnostic System I (Cargo)
+Mark I Generator Refitting: Reaction Control (Cargo)
+Warrior I, Qty: 2 (Drone Bay)
+

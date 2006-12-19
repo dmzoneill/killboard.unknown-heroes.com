@@ -1,0 +1,90 @@
+2007.05.18 02:35
+
+Victim: sy99999
+Alliance: None
+Corp: ztk9
+Destroyed: Raven
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Veliki Pyotr
+Security: 1.7
+Alliance: DeStInY.
+Corp: The Knights Of Camelot
+Ship: Dominix
+Weapon: Ogre II
+
+Name: 101 Commander (laid the final blow)
+Security: 2.9
+Alliance: 3asy Company
+Corp: Welsh Commanders
+Ship: Myrmidon
+Weapon: Ogre I
+
+Name: RisingDragon
+Security: -2.6
+Alliance: DeStInY.
+Corp: House Of Aaron
+Ship: Caracal
+Weapon: Widowmaker Heavy Missile
+
+Name: coldkill
+Security: 2.1
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Arazu
+Weapon: Hobgoblin II
+
+Name: Drachenlord
+Security: 2.5
+Alliance: Imperial Republic Of the North
+Corp: Port Royal Independent Kontractors
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Maizoon
+Security: 1.8
+Alliance: DeStInY.
+Corp: House Of Aaron
+Ship: Malediction
+Weapon: Malediction
+
+Name: Vel'Kethor
+Security: -2.8
+Alliance: DeStInY.
+Corp: House Of Aaron
+Ship: Malediction
+Weapon: Malediction
+
+Name: articz
+Security: -0.3
+Alliance: DeStInY.
+Corp: House Of Aaron
+Ship: Rifter
+Weapon: Rifter
+
+Name: Brantoc
+Security: 4.9
+Alliance: Pure.
+Corp: J.H.E.N.R
+Ship: Stiletto
+Weapon: 200mm AutoCannon II
+
+
+Destroyed items:
+
+Large EMP Smartbomb I
+Mjolnir Torpedo, Qty: 72
+'Arbalest' Siege Missile Launcher
+'Arbalest' Siege Missile Launcher
+'Arbalest' Siege Missile Launcher
+Large F-S9 Regolith Shield Induction
+Ballistic Deflection Field I
+'Stoic' Core Equalizer I
+'Stoic' Core Equalizer I
+'Stoic' Core Equalizer I
+Mjolnir Torpedo, Qty: 892 (Cargo)
+Ballistic Control System I (Cargo)
+

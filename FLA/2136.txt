@@ -1,0 +1,67 @@
+2007.01.24 04:45
+
+Victim: Swanny231
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Destroyed: Crow
+System: X-7OMU
+Security: 0.0
+
+Involved parties:
+
+Name: Dragonbitch
+Security: 0.3
+Alliance: None
+Corp: Agony Unleashed
+Ship: Cormorant
+Weapon: 150mm Railgun II
+
+Name: Quen Azle
+Security: -1.7
+Alliance: None
+Corp: Agony Unleashed
+Ship: Rupture
+Weapon: Upgraded 'Limos' Standard Missile Bay I
+
+Name: Greater Mind (laid the final blow)
+Security: 0.7
+Alliance: None
+Corp: Agony Unleashed
+Ship: Cormorant
+Weapon: 150mm Railgun II
+
+Name: Rells
+Security: 0.9
+Alliance: None
+Corp: Agony Unleashed
+Ship: Harpy
+Weapon: Harpy
+
+Name: Yorick Downe
+Security: 1.9
+Alliance: None
+Corp: Agony Unleashed
+Ship: Cormorant
+Weapon: 150mm Railgun II
+
+Name: Dez Erichs
+Security: 1.2
+Alliance: None
+Corp: Agony Unleashed
+Ship: Harpy
+Weapon: Harpy
+
+
+Destroyed items:
+
+Thorn Rocket, Qty: 30
+Gremlin Rocket, Qty: 30
+'Arbalest' Rocket Launcher I
+'Arbalest' Rocket Launcher I
+Sensor Booster II
+Type-D Altered SS Inertial Stabilizers
+150mm Railgun II, Qty: 4 (Cargo)
+Prototype I Sensor Booster (Cargo)
+Gremlin Rocket, Qty: 4970 (Cargo)
+Thorn Rocket, Qty: 1470 (Cargo)
+

@@ -1,0 +1,23 @@
+2006.12.25 23:46
+
+Victim: Miss d1amond
+Alliance: None
+Corp: omen.
+Destroyed: Kestrel
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Korudon (laid the final blow)
+Security: 4.1
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Buzzard
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+Cynosural Field Generator I
+

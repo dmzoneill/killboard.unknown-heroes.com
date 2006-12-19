@@ -1,0 +1,39 @@
+2007.02.27 20:30
+
+Victim: R4Z0R49
+Alliance: Freelancer Alliance
+Corp: Feel Good Inc.
+Destroyed: Raptor
+System: YZ-LQL
+Security: 0.0
+
+Involved parties:
+
+Name: RogerWilco (laid the final blow)
+Security: -0.5
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Thorax
+Weapon: 125mm Railgun I
+
+Name: Viper RAM
+Security: 1.2
+Alliance: Band of Brothers
+Corp: Reikoku
+Ship: Crusader
+Weapon: Crusader
+
+
+Destroyed items:
+
+EMP S, Qty: 79
+Bloodclaw Light Missile, Qty: 70
+Standard Missile Launcher I
+Standard Missile Launcher I
+Small Shield Booster II
+Warp Scrambler I
+Nanofiber Internal Structure I
+Type-D Power Core Modification: Diagnostic System
+Corpse (Cargo)
+EMP S, Qty: 4716 (Cargo)
+

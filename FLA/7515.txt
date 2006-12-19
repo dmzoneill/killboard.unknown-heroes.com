@@ -1,0 +1,123 @@
+2006.09.10 22:32
+
+Victim: Fist
+Alliance: None
+Corp: Jokers
+Destroyed: Raven
+System: G-M4I8
+Security: 0.0
+
+Involved parties:
+
+Name: MentalM
+Security: 5.2
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Zealot
+Weapon: Zealot
+
+Name: Fahad
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Eagle
+Weapon: Eagle
+
+Name: DARKLING (laid the final blow)
+Security: 5.1
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Eagle
+Weapon: 150mm Railgun II
+
+Name: vladdy2
+Security: 3.4
+Alliance: CORE.
+Corp: VentureCorp
+Ship: Huginn
+Weapon: Huginn
+
+Name: Valtaer
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: Terminal Velocity Inc.
+Ship: Moa
+Weapon: Moa
+
+Name: Zimi Vlasic
+Security: 0.2
+Alliance: EVE Animal Control
+Corp: F.R.E.E. Explorer
+Ship: Wolf
+Weapon: Wolf
+
+Name: NATMav
+Security: 5.0
+Alliance: EVE Animal Control
+Corp: F.R.E.E. Explorer
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Ravyxx
+Security: 5.2
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Taranis
+Weapon: Taranis
+
+Name: D2O HeavyWater
+Security: -1.6
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Scorpion
+Weapon: Wrath Cruise Missile
+
+Name: DDaisy
+Security: 4.6
+Alliance: CORE.
+Corp: VentureCorp
+Ship: Lachesis
+Weapon: XR-3200 Heavy Missile Bay
+
+Name: Luthien Firefoot
+Security: 2.5
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Crow
+Weapon: Upgraded 'Limos' Standard Missile Bay I
+
+Name: Puke
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+Name: Karnovsky
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Sabre
+Weapon: 150mm Light AutoCannon II
+
+
+Destroyed items:
+
+Heavy Nosferatu I
+Heavy Nosferatu I
+Wrath Cruise Missile, Qty: 23
+Devastator Cruise Missile, Qty: 44
+XT-9000 Cruise Launcher
+XT-9000 Cruise Launcher
+'Limos' Cruise Launcher I
+'Limos' Cruise Launcher I
+Shock 'Limos' Siege Missile Bay I
+Fleeting Warp Scrambler I
+'Anointed' I EM Ward Reinforcement
+Shield Boost Amplifier I
+Warp Core Stabilizer I
+Devastator Cruise Missile, Qty: 581 (Cargo)
+Obliterator F.O.F. Cruise Missile I, Qty: 200 (Cargo)
+Hunter F.O.F. Cruise Missile I, Qty: 100 (Cargo)
+Valkyrie I, Qty: 2 (Drone Bay)
+

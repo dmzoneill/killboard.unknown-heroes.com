@@ -1,0 +1,83 @@
+2007.02.05 12:12
+
+Victim: Victus Vigoratus
+Alliance: None
+Corp: Vigor Research Services
+Destroyed: Raven
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Smiles Jr
+Security: 2.0
+Alliance: None
+Corp: The Night Crew
+Ship: Typhoon
+Weapon: Heavy Nosferatu I
+
+Name: WolfRavage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Hyperion
+Weapon: 425mm Railgun I
+
+Name: MrMaggot (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Cormorant
+Weapon: 150mm 'Scout' I Accelerator Cannon
+
+Name: Nukuquqa Hestase
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Catalyst
+Weapon: 125mm Railgun I
+
+Name: Millwurm
+Security: 0.1
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Prophecy
+Weapon: Focused Medium Pulse Laser I
+
+
+Destroyed items:
+
+Heavy Nosferatu I
+Scourge Heavy Missile, Qty: 72
+Wrath Cruise Missile, Qty: 60
+Cruise Missile Launcher I
+Cruise Missile Launcher I
+'Arbalest' Heavy Missile Launcher
+Small Tractor Beam I
+Invulnerability Field II
+Heat Dissipation Field II
+Shield Boost Amplifier I
+Power Diagnostic System II
+Power Diagnostic System II
+Shield Recharger I, Qty: 2 (Cargo)
+100MN MicroWarpdrive I (Cargo)
+1MN MicroWarpdrive I, Qty: 2 (Cargo)
+Y-T8 Overcharged Hydrocarbon I Microwarpdrive, Qty: 2 (Cargo)
+Deep Core Mining Laser I, Qty: 2 (Cargo)
+Small Armor Repairer I (Cargo)
+Small Graviton Smartbomb I (Cargo)
+Medium Graviton Smartbomb I (Cargo)
+150mm Carbide Railgun I (Cargo)
+250mm Railgun I (Cargo)
+Photon Scattering Field II, Qty: 2 (Cargo)
+Ballistic Deflection Field II (Cargo)
+Invulnerability Field I (Cargo)
+'Orion' Tracking CPU I (Cargo)
+Nanomechanical CPU Enhancer I, Qty: 2 (Cargo)
+Tracking Disruptor I (Cargo)
+N-Type Explosive Hardener I (Cargo)
+Scourge Heavy Missile, Qty: 730 (Cargo)
+Cruise Missile Launcher I, Qty: 4 (Cargo)
+Hardwiring - Zainou 'Deadeye' ZGM1000 (Cargo)
+Hammerhead I, Qty: 3 (Drone Bay)
+

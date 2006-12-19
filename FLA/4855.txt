@@ -1,0 +1,47 @@
+2007.04.17 18:13
+
+Victim: tzar1024
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Destroyed: Capsule
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Fitz Farseer (laid the final blow)
+Security: 0.5
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Hound
+Weapon: Devastator Cruise Missile
+
+Name: Pharaum
+Security: 1.5
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: sgtdark
+Security: 5.0
+Alliance: Storm Armada
+Corp: stone grave haulage
+Ship: Taranis
+Weapon: 75mm Gatling Rail II
+
+Name: Terdlinger
+Security: 4.8
+Alliance: Storm Armada
+Corp: stone grave haulage
+Ship: Manticore
+Weapon: 'Arbalest' Cruise Launcher I
+
+Name: Seamus O'Malley
+Security: 0.8
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Kestrel
+Weapon: Rocket Launcher I
+
+

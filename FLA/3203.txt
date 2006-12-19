@@ -1,0 +1,77 @@
+2007.03.21 01:44
+
+Victim: Lynndia
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Destroyed: Raven
+System: N2IS-B
+Security: 0.0
+
+Involved parties:
+
+Name: PainBall (laid the final blow)
+Security: -0.9
+Alliance: Triumvirate.
+Corp: ViperSquad
+Ship: Absolution
+Weapon: Heavy Pulse Laser II
+
+Name: eRogue
+Security: 0.0
+Alliance: Triumvirate.
+Corp: ViperSquad
+Ship: Thorax
+Weapon: Thorax
+
+Name: WarGod
+Security: 1.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Curse
+Weapon: Berserker II
+
+Name: Kurt Cobain
+Security: -0.4
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Crusader
+Weapon: Crusader
+
+Name: vyperpit
+Security: 4.6
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Taranis
+Weapon: Warrior II
+
+Name: Guristas Terrorist / Guristas
+
+Name: XxAngelxX
+Security: -1.8
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Anathema
+Weapon: Fleeting Progressive Warp Scrambler I
+
+
+Destroyed items:
+
+Heavy Nosferatu I
+Heavy Nosferatu I
+Wrath Cruise Missile, Qty: 58
+'Limos' Cruise Launcher I
+'Limos' Cruise Launcher I
+'Limos' Cruise Launcher I
+X-Large C5-L Emergency Shield Overload I
+F-b10 Nominal Capacitor Regenerator
+F-b10 Nominal Capacitor Regenerator
+Heat Dissipation Field I
+Warded Gravimetric Backup Cluster I
+Shielded Gravimetric Backup Cluster I
+Ballistic Control System I
+Beta Reactor Control: Diagnostic System I
+Large F-S9 Regolith Shield Induction (Cargo)
+Wrath Cruise Missile, Qty: 11905 (Cargo)
+Hornet I, Qty: 4 (Drone Bay)
+Hobgoblin I, Qty: 6 (Drone Bay)
+

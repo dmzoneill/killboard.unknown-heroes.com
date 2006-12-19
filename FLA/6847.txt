@@ -1,0 +1,30 @@
+2006.12.09 08:31
+
+Victim: SteelGuardian
+Alliance: FREGE Alliance
+Corp: Dust Echoes
+Destroyed: Merlin
+System: ZKYV-W
+Security: 0.0
+
+Involved parties:
+
+Name: Ben'Garran
+Security: 0.7
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Omen
+Weapon: Omen
+
+Name: Maefly (laid the final blow)
+Security: -0.3
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Thorax
+Weapon: Heavy Electron Blaster I
+
+
+Destroyed items:
+
+1MN Afterburner I
+

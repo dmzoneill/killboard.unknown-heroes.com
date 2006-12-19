@@ -1,0 +1,40 @@
+2007.02.11 09:55
+
+Victim: XtyphoonX
+Alliance: None
+Corp: Ratio Decidendi
+Destroyed: Condor
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: FlobbMkII (laid the final blow)
+Security: 4.0
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Catalyst
+Weapon: 125mm Railgun II
+
+Name: Marie Veedor
+Security: 4.7
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Ferox
+Weapon: Ferox
+
+Name: silvrhawk
+Security: 4.4
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Crow
+Weapon: X5 Prototype I Engine Enervator
+
+Name: Nukuquqa Hestase
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Catalyst
+Weapon: Catalyst
+
+

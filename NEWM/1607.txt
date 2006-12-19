@@ -1,0 +1,114 @@
+2007.03.18 06:33
+
+Victim: Shate Def
+Alliance: None
+Corp: The Scope
+Destroyed: Harbinger
+System: MJYW-3
+Security: 0.0
+
+Involved parties:
+
+Name: Jesnen
+Security: -1.4
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Vengeance
+Weapon: Vengeance
+
+Name: Cyrila Wolf (laid the final blow)
+Security: -2.2
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Muninn
+Weapon: 720mm Howitzer Artillery II
+
+Name: TroNaaR
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: Ahramaine
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Taranis
+Weapon: Taranis
+
+Name: Fugnut
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Drake
+Weapon: Widowmaker Heavy Missile
+
+Name: Kandread
+Security: 0.6
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Claw
+Weapon: Claw
+
+Name: Katsumi Ito
+Security: 0.1
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Tristan
+Weapon: Foxfire Rocket
+
+Name: Alski
+Security: 3.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ares
+Weapon: Foxfire Rocket
+
+Name: MrMaggot
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Hawk
+Weapon: Piranha Light Missile
+
+Name: Skull Fire
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Merlin
+Weapon: Merlin
+
+Name: Weeble Wooble
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Reydar
+Security: 2.2
+Alliance: The Sundering
+Corp: Auraxian Irregulars
+Ship: Griffin
+Weapon: ECM - Multispectral Jammer I
+
+
+Destroyed items:
+
+Heavy Beam Laser I
+Heavy Beam Laser I
+Heavy Beam Laser I
+Gamma M
+Gamma M
+Cap Recharger I
+Heat Sink II
+Heat Sink II
+Energized Thermic Membrane II
+Energized Magnetic Membrane II
+Dual 250mm Compressed Coil Gun I (Cargo)
+Regulated Mega Electron Phase Cannon I (Cargo)
+Radioisotope Kinetic Hardener I, Qty: 2 (Cargo)
+Radioisotope EM Hardener I (Cargo)
+Vespa II, Qty: 4 (Drone Bay)
+

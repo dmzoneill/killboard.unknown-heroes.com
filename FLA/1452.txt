@@ -1,0 +1,33 @@
+2007.03.13 17:53
+
+Victim: Sylvia McGregor
+Alliance: YouWhat
+Corp: SteelVipers
+Destroyed: Capsule
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Cyrila Wolf
+Security: -2.2
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: Alianore
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Catalyst
+Weapon: Catalyst
+
+Name: ninev0lts (laid the final blow)
+Security: -1.2
+Alliance: None
+Corp: Corehounds
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+

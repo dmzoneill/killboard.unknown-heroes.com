@@ -1,0 +1,33 @@
+2007.02.16 03:19
+
+Victim: FrankieG
+Alliance: Triumvirate.
+Corp: D00M.
+Destroyed: Capsule
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Duana
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Wolf
+Weapon: X5 Prototype I Engine Enervator
+
+Name: smudgewales (laid the final blow)
+Security: 1.2
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Sabre
+Weapon: 200mm AutoCannon II
+
+Name: Xantheris
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Enyo
+Weapon: Enyo
+
+

@@ -1,0 +1,128 @@
+2007.02.09 22:25
+
+Victim: Darkstar Nomad
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Destroyed: Dominix
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Lord KesH (laid the final blow)
+Security: 2.5
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Maelstrom
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Von Kretschmer
+Security: 5.0
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Tempest
+Weapon: Tempest
+
+Name: xlop
+Security: -1.8
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Abaddon
+Weapon: Tachyon Beam Laser II
+
+Name: ukpAgAn
+Security: 5.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Megathron
+Weapon: Megathron
+
+Name: Elliott Manchild
+Security: -1.8
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Machariel
+Weapon: Machariel
+
+Name: NightWolfe
+Security: 5.0
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Megathron
+Weapon: Megathron
+
+Name: Ceapio
+Security: 1.2
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Nevermore
+Security: 4.6
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Megathron
+Weapon: Megathron
+
+Name: ArchenTheGreat
+Security: -0.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Rokh
+Weapon: Rokh
+
+Name: Misha Mosqito
+Security: 3.3
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Pistonbroke
+Security: 0.5
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Rokh
+Weapon: Rokh
+
+Name: j3bus
+Security: 3.1
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Eagle
+Weapon: Eagle
+
+Name: McGin
+Security: -3.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Megathron
+Weapon: Megathron
+
+Name: XxAngelxX
+Security: -2.8
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Abaddon
+Weapon: Abaddon
+
+
+Destroyed items:
+
+Heavy 'Ghoul' Energy Siphon I
+Heavy 'Ghoul' Energy Siphon I
+Drone Link Augmentor I
+Sensor Booster I
+Omnidirectional Tracking Link I
+Omnidirectional Tracking Link I
+Omnidirectional Tracking Link I
+Energized Thermic Membrane II
+Energized Reactive Membrane II
+Energized Magnetic Membrane II
+1600mm Reinforced Crystalline Carbonide Plates I
+Valkyrie II, Qty: 2 (Drone Bay)
+Vespa I, Qty: 5 (Drone Bay)
+Bouncer I (Drone Bay)
+Warden I, Qty: 3 (Drone Bay)
+

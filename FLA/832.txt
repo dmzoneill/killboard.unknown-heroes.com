@@ -1,0 +1,82 @@
+2007.02.23 22:49
+
+Victim: haz zard
+Alliance: None
+Corp: The Wailing Doom
+Destroyed: Catalyst
+System: L-TS8S
+Security: 0.0
+
+Involved parties:
+
+Name: Drako Invictus (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Absolution
+Weapon: Heavy Pulse Laser II
+
+Name: Kalibrana
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Catalyst
+Weapon: Catalyst
+
+Name: NesheresH
+Security: 4.5
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Sabre
+Weapon: 280mm Howitzer Artillery II
+
+Name: rabodeamor
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Ramb3z
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Typhoon
+Weapon: 1200mm Heavy Carbine Howitzer I
+
+Name: Japanx
+Security: 2.8
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Ferox
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+Name: Kerdrak
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Harbinger
+Weapon: Fleeting Warp Scrambler I
+
+Name: Gardeful
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Hawk
+Weapon: J5 Prototype Warp Inhibitor I
+
+
+Destroyed items:
+
+125mm Railgun I
+125mm Railgun I
+Iridium Charge S, Qty: 80
+Thorium Charge S, Qty: 120
+Plutonium Charge S, Qty: 80
+Sensor Booster I
+Small Armor Repairer I
+Signal Amplifier I
+Iridium Charge S, Qty: 160 (Cargo)
+Iron Charge S, Qty: 904 (Cargo)
+Plutonium Charge S, Qty: 453 (Cargo)
+

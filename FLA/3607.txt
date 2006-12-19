@@ -1,0 +1,137 @@
+2007.03.27 21:06
+
+Victim: Altanzar
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Destroyed: Taranis
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: albert camus
+Security: -8.3
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Ship: Malediction
+Weapon: Malediction
+
+Name: Lv STEIN (laid the final blow)
+Security: 4.7
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Zealot
+Weapon: Focused Medium Pulse Laser II
+
+Name: Taschenflak
+Security: 4.7
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Raptor
+Weapon: Raptor
+
+Name: Space Fear
+Security: 5.0
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Crow
+Weapon: Crow
+
+Name: Tanya Kovacs
+Security: 5.1
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Eagle
+Weapon: Heavy Neutron Blaster II
+
+Name: Longrin
+Security: 2.9
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: mr ioso
+Security: 4.8
+Alliance: Chorus of Dawn
+Corp: Cosmic Odyssey
+Ship: Myrmidon
+Weapon: DDO Photometry I Targeting Interference
+
+Name: Utlaen
+Security: 5.0
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Flycatcher
+Weapon: Upgraded 'Limos' Standard Missile Bay I
+
+Name: Rubens22
+Security: 2.3
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Celestis
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+Name: Natsumemaya
+Security: 2.0
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Apocalypse
+Weapon: Tachyon Beam Laser I
+
+Name: Messmint
+Security: 5.0
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Kurai Amaro
+Security: 3.9
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Sabre
+Weapon: X5 Prototype I Engine Enervator
+
+Name: Helmi
+Security: 3.1
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Moa
+Weapon: 250mm 'Scout' I Accelerator Cannon
+
+Name: Electreus
+Security: 0.5
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Ship: Astarte
+Weapon: Heavy Ion Blaster II
+
+Name: Diego Barbera
+Security: -0.4
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Claw
+Weapon: Claw
+
+Name: Barak Smaug
+Security: 4.6
+Alliance: Chorus of Dawn
+Corp: Cosmic Odyssey
+Ship: Huginn
+Weapon: 'Malkuth' Assault Missile Launcher I
+
+Name: Apoc77
+Security: 5.0
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Rook
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+
+Destroyed items:
+
+125mm Railgun II
+J5 Prototype Warp Inhibitor I
+Local Hull Conversion Overdrive Injector I
+

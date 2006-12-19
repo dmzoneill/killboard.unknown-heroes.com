@@ -1,0 +1,65 @@
+2007.01.03 17:55
+
+Victim: Indigo Callypso
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Destroyed: Raven
+System: 3T7-M8
+Security: 0.0
+
+Involved parties:
+
+Name: kojackUcigashu (laid the final blow)
+Security: 4.8
+Alliance: None
+Corp: ROMANIA Renegades
+Ship: Astarte
+Weapon: Heavy Neutron Blaster II
+
+Name: lt blacklotus
+Security: 1.0
+Alliance: None
+Corp: ROMANIA Renegades
+Ship: Muninn
+Weapon: Muninn
+
+Name: zeitza ta
+Security: 1.8
+Alliance: None
+Corp: ROMANIA Renegades
+Ship: Dominix
+Weapon: 200mm Railgun II
+
+Name: Striker Cash
+Security: 4.4
+Alliance: None
+Corp: ROMANIA Renegades
+Ship: Falcon
+Weapon: 'Hypnos' Ion Field ECM I
+
+
+Destroyed items:
+
+Wrath Cruise Missile, Qty: 92
+'Arbalest' Cruise Launcher I
+'Arbalest' Cruise Launcher I
+'Arbalest' Cruise Launcher I
+Small Tractor Beam I
+X-Large Shield Booster II
+X-Large Shield Booster II
+X-Large Shield Booster II
+X-Large Shield Booster II
+X-Large Shield Booster II
+Heat Dissipation Field II
+Ballistic Deflection Field II
+Kinetic Deflection Amplifier II
+Heat Dissipation Amplifier II
+Power Diagnostic System II
+Power Diagnostic System II
+Eutectic I Capacitor Charge Array (Cargo)
+Burned Logic Circuit, Qty: 5 (Cargo)
+Charred Micro Circuit, Qty: 8 (Cargo)
+Ward Console, Qty: 15 (Cargo)
+Hammerhead I, Qty: 2 (Drone Bay)
+Hornet I, Qty: 3 (Drone Bay)
+

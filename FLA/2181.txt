@@ -1,0 +1,41 @@
+2007.01.28 17:38
+
+Victim: other mickey
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Destroyed: Ishkur
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: papaPadla (laid the final blow)
+Security: 4.1
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Pilgrim
+Weapon: Valkyrie II
+
+Name: Misticue
+Security: -1.5
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Puls4r
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Jaguar
+Weapon: Jaguar
+
+
+Destroyed items:
+
+Small Nosferatu I
+125mm Railgun II
+Spike S, Qty: 225
+Low Frequency Sensor Suppressor I
+Damage Control I
+

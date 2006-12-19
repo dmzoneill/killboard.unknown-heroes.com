@@ -1,0 +1,92 @@
+2006.10.04 05:53
+
+Victim: Fertile Dirt
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Destroyed: Ferox
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Ezal (laid the final blow)
+Security: -1.7
+Alliance: None
+Corp: Beagle Corp
+Ship: Taranis
+Weapon: Light Neutron Blaster II
+
+Name: Vily
+Security: -1.6
+Alliance: None
+Corp: Lilium Venture Initiative
+Ship: Heretic
+Weapon: Heretic
+
+Name: UnSiViLiZeD
+Security: -1.6
+Alliance: None
+Corp: Beagle Corp
+Ship: Enyo
+Weapon: Hobgoblin II
+
+Name: Dearwin
+Security: -2.4
+Alliance: None
+Corp: Beagle Corp
+Ship: Ishkur
+Weapon: Warrior II
+
+Name: Roule
+Security: -5.1
+Alliance: None
+Corp: Beagle Corp
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: Zatharas
+Security: -4.8
+Alliance: None
+Corp: Beagle Corp
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: War chylde
+Security: 0.4
+Alliance: None
+Corp: Beagle Corp
+Ship: Rifter
+Weapon: Rifter
+
+Name: Okoral
+Security: 1.2
+Alliance: None
+Corp: Beagle Corp
+Ship: Rifter
+Weapon: Rifter
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Scourge Heavy Missile, Qty: 71
+'Malkuth' Heavy Missile Launcher I
+XR-3200 Heavy Missile Bay
+XR-3200 Heavy Missile Bay
+Heavy Missile Launcher I
+Large Shield Extender II
+Large Shield Extender II
+Ditrigonal Thermal Barrier Crystallization I
+Shield Power Relay I
+Shield Power Relay I
+Ballistic Control System II
+Medium Ld-Acid Capacitor Battery I (Cargo)
+Small Capacitor Battery I (Cargo)
+Small Nosferatu I, Qty: 2 (Cargo)
+Medium Tapered Capacitor Infusion I (Cargo)
+Antimatter Charge M, Qty: 100 (Cargo)
+ECM - Spatial Destabilizer I (Cargo)
+Magnetic Scattering Amplifier I (Cargo)
+Havoc Heavy Missile, Qty: 100 (Cargo)
+Standard Missile Launcher I (Cargo)
+

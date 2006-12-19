@@ -1,0 +1,36 @@
+2006.10.06 01:43
+
+Victim: dinj
+Alliance: Freelancer Alliance
+Corp: London Transport
+Destroyed: Blackbird
+System: Elonaya
+Security: 0.7
+
+Involved parties:
+
+Name: Soul Wolf (laid the final blow)
+Security: 2.9
+Alliance: None
+Corp: Privateers
+Ship: Absolution
+Weapon: Heavy Pulse Laser II
+
+Name: Caol
+Security: 5.0
+Alliance: None
+Corp: Privateers
+Ship: Stabber
+Weapon: Stabber
+
+
+Destroyed items:
+
+Small Nosferatu I
+Widowmaker Heavy Missile, Qty: 25
+Thunderbolt Heavy Missile, Qty: 27
+XR-3200 Heavy Missile Bay
+Barton Reactor Capacitor Recharger I
+Prototype I Sensor Booster
+800mm Reinforced Steel Plates I
+

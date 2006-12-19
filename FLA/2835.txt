@@ -1,0 +1,118 @@
+2007.03.10 21:56
+
+Victim: Danielson1012
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Destroyed: Raven
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: mama guru
+Security: 2.8
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Ship: Apocalypse
+Weapon: Apocalypse
+
+Name: Vim Longhill
+Security: 4.6
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Rokh
+Weapon: Rokh
+
+Name: Apoc77
+Security: 5.0
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Rokh
+Weapon: Rokh
+
+Name: Alizarin Crimson
+Security: -1.3
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: StarCaptain Joanna
+Security: -0.1
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Tempest
+Weapon: Tempest
+
+Name: wph0r (laid the final blow)
+Security: 4.4
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Rokh
+Weapon: 425mm Railgun II
+
+Name: Slith Sabrao
+Security: 4.8
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Apocalypse
+Weapon: Apocalypse
+
+Name: mr ioso
+Security: 4.8
+Alliance: Chorus of Dawn
+Corp: Cosmic Odyssey
+Ship: Scorpion
+Weapon: Languid Phase Inversion ECM I
+
+Name: Varban II
+Security: 1.8
+Alliance: Chorus of Dawn
+Corp: Infinite Style Incorporated
+Ship: Arazu
+Weapon: Kapteyn Sensor Array Inhibitor I
+
+Name: Santa Claw
+Security: 2.4
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Tempest
+Weapon: Remote Sensor Dampener II
+
+Name: GordonShumway
+Security: 0.7
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Tempest
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+Name: Galaran Vaygr
+Security: 4.3
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Scorpion
+Weapon: ECM - Spatial Destabilizer II
+
+
+Destroyed items:
+
+425mm Railgun I
+Guristas Iridium Charge L, Qty: 80
+Wrath Cruise Missile, Qty: 19
+Devastator Cruise Missile, Qty: 19
+XT-9000 Cruise Launcher
+XT-9000 Cruise Launcher
+X-Large C5-L Emergency Shield Overload I
+Remote Sensor Dampener II
+Sensor Booster II
+Co-Processor II
+Ballistic Control System II
+Power Diagnostic System I
+Antimatter Charge L, Qty: 493 (Cargo)
+Iron Charge L, Qty: 475 (Cargo)
+Iridium Charge L, Qty: 360 (Cargo)
+Cataclysm Cruise Missile, Qty: 207 (Cargo)
+Devastator Cruise Missile, Qty: 113 (Cargo)
+Paradise Cruise Missile, Qty: 916 (Cargo)
+Vespa II, Qty: 4 (Drone Bay)
+

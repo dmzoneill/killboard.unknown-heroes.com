@@ -1,0 +1,33 @@
+2007.03.27 22:30
+
+Victim: iNFoRMaLiTY
+Alliance: Freelancer Alliance
+Corp: Blackwater Squadron
+Destroyed: Capsule
+System: Z-Y7R7
+Security: 0.0
+
+Involved parties:
+
+Name: istasi (laid the final blow)
+Security: 0.3
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Magnelien
+Security: 4.3
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Crow
+Weapon: Gremlin Rocket
+
+Name: Drak d'Amral
+Security: -1.0
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Stiletto
+Weapon: 280mm Howitzer Artillery II
+
+

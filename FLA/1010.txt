@@ -1,0 +1,159 @@
+2007.03.03 04:59
+
+Victim: Weyr Raykan
+Alliance: Firmus Ixion
+Corp: Dark Centuri Inc.
+Destroyed: Cerberus
+System: 3-FKCZ
+Security: 0.0
+
+Involved parties:
+
+Name: Chuck Dawg
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: xRyokenx
+Security: -1.1
+Alliance: RAZOR Alliance
+Corp: Roving Guns Inc.
+Ship: Stabber
+Weapon: 425mm AutoCannon I
+
+Name: Lieutenant Obvious
+Security: 4.9
+Alliance: RAZOR Alliance
+Corp: Thundercats
+Ship: Astarte
+Weapon: Heavy Ion Blaster II
+
+Name: Minthos
+Security: 2.9
+Alliance: Morsus Mihi
+Corp: 4S Corporation
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: Mongolia Jones
+Security: 0.5
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: Amarazo
+Security: 0.1
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: xHomicide
+Security: 2.7
+Alliance: RAZOR Alliance
+Corp: Cutting Edge Incorporated
+Ship: Typhoon
+Weapon: 'Arbalest' Cruise Launcher I
+
+Name: Darwin hawk
+Security: 4.4
+Alliance: Pure.
+Corp: Solarflare Heavy Industries
+Ship: Myrmidon
+Weapon: Myrmidon
+
+Name: Rogan Cron (laid the final blow)
+Security: 5.0
+Alliance: RAZOR Alliance
+Corp: Roving Guns Inc.
+Ship: Celestis
+Weapon: Piranha Precision Light Missile
+
+Name: NATMav
+Security: 1.7
+Alliance: EVE Animal Control
+Corp: F.R.E.E. Explorer
+Ship: Capsule
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+Name: Ciaa
+Security: 1.2
+Alliance: RAZOR Alliance
+Corp: DAB
+Ship: Ares
+Weapon: Flameburst Precision Light Missile
+
+Name: jesia
+Security: 0.0
+Alliance: Pure.
+Corp: Southern Cross Incorporated
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: JFxSummoner
+Security: 3.6
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+Name: Boliknar
+Security: 5.0
+Alliance: Hydra Alliance
+Corp: The Shadow Order
+Ship: Hurricane
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Kalarifik
+Security: 2.3
+Alliance: RAZOR Alliance
+Corp: Roving Guns Inc.
+Ship: Crusader
+Weapon: Warp Disruptor I
+
+Name: Lucian Sulla
+Security: 4.9
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Ares
+Weapon: Ares
+
+Name: Conjure
+Security: 2.0
+Alliance: RAZOR Alliance
+Corp: DAB
+Ship: Cyclone
+Weapon: Cyclone
+
+Name: Zimi Vlasic
+Security: 2.6
+Alliance: EVE Animal Control
+Corp: F.R.E.E. Explorer
+Ship: Cyclone
+Weapon: Cyclone
+
+Name: Vaprak Valkier
+Security: 5.0
+Alliance: Pure.
+Corp: J.H.E.N.R
+Ship: Thorax
+Weapon: Thorax
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Heavy Missile Launcher II
+Heavy Missile Launcher II
+Thunderbolt Precision Heavy Missile, Qty: 14
+Scourge Precision Heavy Missile, Qty: 27
+Large Shield Extender II
+Invulnerability Field II
+Invulnerability Field II
+Ballistic Control System II
+Thunderbolt Precision Heavy Missile, Qty: 158 (Cargo)
+Scourge Precision Heavy Missile, Qty: 362 (Cargo)
+

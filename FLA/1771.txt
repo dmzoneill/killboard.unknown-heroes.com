@@ -1,0 +1,65 @@
+2007.01.03 03:55
+
+Victim: Krakosaki
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Destroyed: Thorax
+System: Torrinos
+Security: 0.5
+
+Involved parties:
+
+Name: Gesthar Malvani (laid the final blow)
+Security: 4.5
+Alliance: Privateer Alliance
+Corp: Evil Bandit Organisation
+Ship: Omen
+Weapon: Focused Medium Beam Laser II
+
+Name: Drakin Korin
+Security: -1.1
+Alliance: Privateer Alliance
+Corp: Evil Bandit Organisation
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Elfaen Ethenwe
+Security: -2.0
+Alliance: Privateer Alliance
+Corp: Evil Bandit Organisation
+Ship: Hawk
+Weapon: Sabretooth Precision Light Missile
+
+
+Destroyed items:
+
+Modal Electron Particle Accelerator I
+Antimatter Charge M, Qty: 200
+Morphite, Qty: 2 (Cargo)
+Medium C5-L Emergency Shield Overload I (Cargo)
+EP-S Gaussian I Excavation Pulse (Cargo)
+Dual Diode Mining Laser I, Qty: 4 (Cargo)
+Medium Automated I Carapace Restoration (Cargo)
+Modal Electron Particle Accelerator I (Cargo)
+Antimatter Charge M, Qty: 1000 (Cargo)
+Uranium Charge L Blueprint (Cargo)
+Iridium Charge L Blueprint (Cargo)
+Plutonium Charge L Blueprint (Cargo)
+Antimatter Charge L Blueprint (Cargo)
+BZ-5 Neutralizing Spatial Destabilizer ECM (Cargo)
+Enfeebling Phase Inversion ECM I (Cargo)
+Fourier Transform I Tracking Program (Cargo)
+Optical Tracking Computer I (Cargo)
+Missile Projection (Cargo)
+Long Distance Jamming (Cargo)
+Multitasking (Cargo)
+Criminal Connections (Cargo)
+Gauss Field Balancer I (Cargo)
+400mm Reinforced Crystalline Carbonide Plates I (Cargo)
+Hypersynaptic Fibers, Qty: 3 (Cargo)
+Nanotransistors, Qty: 7 (Cargo)
+Ladar Quest Probe (Cargo)
+Scan Probe Launcher I, Qty: 3 (Cargo)
+Salvager I (Cargo)
+Valkyrie I, Qty: 4 (Drone Bay)
+

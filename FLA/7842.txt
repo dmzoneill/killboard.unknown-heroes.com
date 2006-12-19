@@ -1,0 +1,26 @@
+2006.09.10 13:14
+
+Victim: Hosanna
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Destroyed: Stiletto
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: IcoLo (laid the final blow)
+Security: 0.6
+Alliance: Ascendant Frontier
+Corp: Celestial Fleet
+Ship: Thorax
+Weapon: Heavy Ion Blaster II
+
+
+Destroyed items:
+
+Small 'Ghoul' Energy Siphon I
+Phased Monopropellant I Hydrazine Boosters
+Initiated Warp Jammer I
+Nanofiber Internal Structure I (Cargo)
+

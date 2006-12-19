@@ -1,0 +1,54 @@
+2007.02.09 23:02
+
+Victim: Maggallus
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Destroyed: Blackbird
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Misha Mosqito
+Security: 3.3
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Megathron
+Weapon: Megathron
+
+Name: McGin
+Security: -3.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Megathron
+Weapon: Megathron
+
+Name: Ceapio (laid the final blow)
+Security: 1.2
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: ukpAgAn
+Security: 5.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+
+Destroyed items:
+
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Induced Ion Field ECM I
+'Hypnos' Multispectral ECM I
+Damage Control I
+Stasis Webifier I (Cargo)
+Sensor Booster I (Cargo)
+Ballistic Control System I (Cargo)
+Scourge Heavy Missile, Qty: 400 (Cargo)
+Thunderbolt Heavy Missile, Qty: 1746 (Cargo)
+Heavy Missile Launcher I (Cargo)
+

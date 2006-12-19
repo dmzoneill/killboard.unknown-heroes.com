@@ -1,0 +1,32 @@
+2006.11.11 16:08
+
+Victim: Kassieli
+Alliance: Dark Forces Alliance
+Corp: Dark Space Inc.
+Destroyed: Caldari Shuttle
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Formosus Funus
+Security: 3.8
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Jaguar
+Weapon: Gremlin Rocket
+
+Name: Elfaen Ethenwe (laid the final blow)
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Cerberus
+Weapon: Widowmaker Precision Heavy Missile
+
+
+Destroyed items:
+
+Cap Recharger I (Cargo)
+Guristas Iron Charge S, Qty: 80 (Cargo)
+Antimatter Charge S, Qty: 80 (Cargo)
+

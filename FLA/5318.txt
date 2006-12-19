@@ -1,0 +1,28 @@
+2007.04.24 20:30
+
+Victim: wardey
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Condor
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Vendetta X (laid the final blow)
+Security: 0.6
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+
+Destroyed items:
+
+Small 'Knave' I Energy Drain
+Defender I, Qty: 10
+1MN MicroWarpdrive I
+Initiated Harmonic Warp Jammer I
+Local Hull Conversion Overdrive Injector I
+Defender I, Qty: 2390 (Cargo)
+

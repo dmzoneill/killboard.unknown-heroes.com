@@ -1,0 +1,19 @@
+2006.11.15 18:29
+
+Victim: LiBraga
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Midiana (laid the final blow)
+Security: 1.1
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Ishtar
+Weapon: 150mm Railgun II
+
+

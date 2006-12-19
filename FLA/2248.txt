@@ -1,0 +1,33 @@
+2007.01.31 10:32
+
+Victim: Xantor Welesa
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Iteron Mark III
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: m0jo (laid the final blow)
+Security: 1.4
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Rapier
+Weapon: 720mm Howitzer Artillery II
+
+Name: Johnny cruz
+Security: 2.7
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Taranis
+Weapon: Taranis
+
+
+Destroyed items:
+
+Cynosural Field Generator I
+Small Shield Extender I
+Expanded Cargohold I
+Expanded Cargohold I
+

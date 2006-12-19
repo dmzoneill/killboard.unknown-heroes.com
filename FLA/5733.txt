@@ -1,0 +1,33 @@
+2006.10.13 23:15
+
+Victim: blade190
+Alliance: Eternal Empire
+Corp: Spectral Armada
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Nil Desperandum (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Omen
+Weapon: Heavy Anode Pulse Particle Stream I
+
+Name: Mcwlad
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Ship: Malediction
+Weapon: Dual Light Beam Laser II
+
+Name: Kismeteer
+Security: 3.4
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Incursus
+Weapon: 150mm Railgun I
+
+

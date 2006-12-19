@@ -1,0 +1,32 @@
+2007.03.25 13:08
+
+Victim: Tregaron
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Destroyed: Wolf
+System: XZH-4X
+Security: 0.0
+
+Involved parties:
+
+Name: Barak Smaug
+Security: 4.6
+Alliance: Chorus of Dawn
+Corp: Cosmic Odyssey
+Ship: Unknown
+Weapon: Vespa II
+
+Name: istasi (laid the final blow)
+Security: -0.4
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Myrmidon
+Weapon: Wasp I
+
+Name: Serpentis Artillery / Serpentis Corporation
+
+
+Destroyed items:
+
+Small Armor Repairer II
+

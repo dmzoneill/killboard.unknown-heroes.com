@@ -1,0 +1,33 @@
+2006.11.10 19:56
+
+Victim: Mould
+Alliance: None
+Corp: Multiverse Corporation
+Destroyed: Caldari Shuttle
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Scorpio63 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Apocalypse
+Weapon: Mega Modal Laser I
+
+Name: Almagar Phog
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Blackbird
+Weapon: Piranha Light Missile
+
+Name: TheBelgarion
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Caracal
+Weapon: Advanced 'Limos' Heavy Missile Bay I
+
+

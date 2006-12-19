@@ -1,0 +1,39 @@
+2007.02.19 12:26
+
+Victim: chewbaka3
+Alliance: Aftermath Alliance
+Corp: Dark Nebula Gallente Division
+Destroyed: Brutix
+System: YZ-LQL
+Security: 0.0
+
+Involved parties:
+
+Name: Mauy Thai
+Security: -1.4
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Curse
+Weapon: Valkyrie II
+
+Name: RainE Daze (laid the final blow)
+Security: 3.4
+Alliance: Dusk and Dawn
+Corp: Tri Optimum
+Ship: Typhoon
+Weapon: Mjolnir Torpedo
+
+
+Destroyed items:
+
+Heavy Neutron Blaster I
+Heavy Neutron Blaster I
+Heavy Neutron Blaster I
+Antimatter Charge M, Qty: 240
+Warp Scrambler I
+Sensor Booster I
+Sensor Booster I
+Gauss Field Balancer I
+Antimatter Charge M, Qty: 540 (Cargo)
+Infiltrator I, Qty: 2 (Drone Bay)
+

@@ -1,0 +1,97 @@
+2007.02.04 19:44
+
+Victim: Liesin
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Ferox
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Letum Omnis
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Hurricane
+Weapon: Valkyrie II
+
+Name: EL TITAN (laid the final blow)
+Security: 1.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Vagabond
+Weapon: Dual 180mm AutoCannon II
+
+Name: Drift Spec
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Muninn
+Weapon: Muninn
+
+Name: Puls4r
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Muninn
+Weapon: Muninn
+
+Name: Marschall
+Security: 2.2
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Crow
+Weapon: Faint Warp Prohibitor I
+
+Name: Seth Quantix
+Security: -0.2
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Malediction
+Weapon: Sabretooth Light Missile
+
+Name: Sir JoJo
+Security: 2.1
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Rapier
+Weapon: Rapier
+
+Name: Angela Dray
+Security: 3.1
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Taranis
+Weapon: 125mm Railgun II
+
+Name: Kraust
+Security: 4.8
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Stiletto
+Weapon: J5b Phased Prototype Warp Inhibitor I
+
+Name: Beast Hun
+Security: 4.7
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Crusader
+Weapon: Dual Light Pulse Laser II
+
+
+Destroyed items:
+
+250mm Carbide Railgun I
+250mm Carbide Railgun I
+250mm Carbide Railgun I
+Dread Guristas Iron Charge M, Qty: 90
+Medium Clarity Ward Booster I
+Viscoelastic EM Ward Salubrity I
+'Stalwart' I Particle Field Magnifier
+Magnetic Field Stabilizer I
+Magnetic Field Stabilizer I
+Type-D Power Core Modification: Diagnostic System
+Hobgoblin I (Drone Bay)
+Hammerhead I (Drone Bay)
+

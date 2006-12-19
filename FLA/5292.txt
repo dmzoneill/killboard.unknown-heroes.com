@@ -1,0 +1,58 @@
+2007.04.23 18:07
+
+Victim: Frau Formaggio
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Thorax
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: nyricia (laid the final blow)
+Security: 1.5
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: thedeadcows
+Security: 0.2
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Armageddon
+Weapon: Vespa I
+
+Name: Fitz Farseer
+Security: 0.5
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Rupture
+Weapon: Havoc Heavy Missile
+
+Name: LeZip
+Security: 1.2
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Manticore
+Weapon: XT-9000 Cruise Launcher
+
+Name: Aut Nihil
+Security: 0.1
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Kestrel
+Weapon: Standard Missile Launcher I
+
+
+Destroyed items:
+
+Regulated Neutron Phase Cannon I
+Regulated Neutron Phase Cannon I
+Regulated Neutron Phase Cannon I
+J5 Prototype Warp Inhibitor I
+'Langour' Drive Disruptor I
+Magnetic Vortex Stabilizer I
+Gauss Field Balancer I
+Nanofiber Internal Structure I
+

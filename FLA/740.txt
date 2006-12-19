@@ -1,0 +1,29 @@
+2007.02.18 23:17
+
+Victim: Siner
+Alliance: None
+Corp: A.N.A.R.C.H.I.C.A
+Destroyed: Raptor
+System: RQH-MY
+Security: 0.0
+
+Involved parties:
+
+Name: Ghu'ru Talozan (laid the final blow)
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ishkur
+Weapon: Hammerhead II
+
+
+Destroyed items:
+
+125mm Compressed Coil Gun I
+Thorium Charge S, Qty: 70
+Upgraded 'Limos' Standard Missile Bay I
+Upgraded 'Limos' Standard Missile Bay I
+'Langour' Drive Disruptor I
+Micro Auxiliary Power Core I
+Nanofiber Internal Structure I
+

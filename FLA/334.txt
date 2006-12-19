@@ -1,0 +1,40 @@
+2007.01.26 19:47
+
+Victim: Waraak
+Alliance: None
+Corp: Croatian Star Alliance
+Destroyed: Caldari Shuttle
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Thafesko
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Cormorant
+Weapon: Cormorant
+
+Name: Praetorian Mardou
+Security: 4.5
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Hawk
+Weapon: Bloodclaw Light Missile
+
+Name: Valea Silpha (laid the final blow)
+Security: 1.5
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Huginn
+Weapon: 650mm Artillery Cannon II
+
+Name: Dusky 4ET
+Security: 5.0
+Alliance: Guardian Federation
+Corp: KULT Production
+Ship: Taranis
+Weapon: Faint Warp Prohibitor I
+
+

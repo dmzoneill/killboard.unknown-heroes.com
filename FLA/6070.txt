@@ -1,0 +1,54 @@
+2006.11.06 22:36
+
+Victim: Anton March
+Alliance: None
+Corp: Skill Level Six
+Destroyed: Capsule
+System: 7RM-N0
+Security: 0.0
+
+Involved parties:
+
+Name: Formosus Funus
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Jaguar
+Weapon: 250mm Light Artillery Cannon II
+
+Name: Yseult Atreus
+Security: 1.5
+Alliance: Freelancer Alliance
+Corp: CriTech
+Ship: Huginn
+Weapon: Advanced 'Limos' Heavy Missile Bay I
+
+Name: LizzyD (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Ishkur
+Weapon: 150mm Railgun II
+
+Name: movy
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Ares
+Weapon: Ares
+
+Name: Flashh Gorden
+Security: 3.1
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Ship: Kestrel
+Weapon: Warp Disruptor I
+
+Name: Dog Cancer
+Security: 1.4
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Crow
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+

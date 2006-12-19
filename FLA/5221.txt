@@ -1,0 +1,26 @@
+2007.04.27 07:44
+
+Victim: boneite woo
+Alliance: FATAL Alliance
+Corp: The Wild Hunt
+Destroyed: Capsule
+System: F7C-H0
+Security: 0.0
+
+Involved parties:
+
+Name: Draconian Arcane (laid the final blow)
+Security: -2.5
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Tempest
+Weapon: 1400mm Prototype I Siege Cannon
+
+Name: Koi Yokuma
+Security: 0.4
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Catalyst
+Weapon: 150mm Railgun I
+
+

@@ -1,0 +1,43 @@
+2007.01.18 09:45
+
+Victim: Zattron
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Destroyed: Drake
+System: 3T7-M8
+Security: 0.0
+
+Involved parties:
+
+Name: ZUDD
+Security: 4.0
+Alliance: None
+Corp: Omniscient Order
+Ship: Ishtar
+Weapon: Warden I
+
+Name: Cpt Pugwash (laid the final blow)
+Security: -0.8
+Alliance: Privateer Alliance
+Corp: Afterlife inc
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+Terror Assault Missile, Qty: 444
+Scourge Heavy Missile, Qty: 25
+XR-3200 Heavy Missile Bay
+Compact 'Limos' Heavy Assault Missile Launcher I
+XT-2800 Heavy Assault Missile Launcher I
+J5 Prototype Warp Inhibitor I
+V-M15 Braced Multispectral Shield Matrix
+Ballistic Control System II
+Defender I, Qty: 100 (Cargo)
+Thunderbolt Heavy Missile, Qty: 631 (Cargo)
+Scourge Heavy Missile, Qty: 786 (Cargo)
+Wrath Cruise Missile, Qty: 100 (Cargo)
+Hydra F.O.F. Heavy Missile I, Qty: 500 (Cargo)
+Terror Assault Missile, Qty: 799 (Cargo)
+

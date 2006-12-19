@@ -1,0 +1,59 @@
+2007.03.06 23:35
+
+Victim: marakudi
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Destroyed: Drake
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: boo3916
+Security: 5.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Eos
+Weapon: Eos
+
+Name: WarGod (laid the final blow)
+Security: -0.3
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Curse
+Weapon: Praetor II
+
+Name: Anna Neura
+Security: -0.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Curse
+Weapon: Vespa II
+
+Name: XxAngelxX
+Security: -1.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Curse
+Weapon: Curse
+
+
+Destroyed items:
+
+Medium Nosferatu II
+Scourge Heavy Missile, Qty: 112
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+Scourge Precision Heavy Missile, Qty: 35
+Large Shield Booster II
+10MN MicroWarpdrive II
+Patterned Stasis Web I
+Photon Scattering Field II
+Invulnerability Field II
+Shield Boost Amplifier II
+Ballistic Control System II
+Thunderbolt Heavy Missile, Qty: 109 (Cargo)
+Stalker F.O.F. Heavy Missile I, Qty: 100 (Cargo)
+Acolyte I (Drone Bay)
+Infiltrator EV-600 (Drone Bay)
+

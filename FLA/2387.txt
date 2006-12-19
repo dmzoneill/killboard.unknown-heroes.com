@@ -1,0 +1,25 @@
+2007.02.09 16:59
+
+Victim: Rhaall
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Crucifier
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Darknesss (laid the final blow)
+Security: 0.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Megathron
+Weapon: Neutron Blaster Cannon II
+
+
+Destroyed items:
+
+E5 Prototype Energy Vampire
+Energized Adaptive Nano Membrane I
+Inertia Stabilizers I
+

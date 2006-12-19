@@ -1,0 +1,18 @@
+2007.03.03 04:03
+
+Victim: Jorax
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Velator
+System: IR-WT1
+Security: 0.0
+
+Involved parties:
+
+Name: SI RedLeg (laid the final blow)
+Security: -0.3
+Alliance: None
+Corp: Blackguard Brigade
+Ship: Absolution
+Weapon: Focused Medium Pulse Laser II
+

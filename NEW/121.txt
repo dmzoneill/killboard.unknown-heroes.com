@@ -1,0 +1,81 @@
+2007.01.20 00:47
+
+Victim: turumbor
+Alliance: Triumvirate.
+Corp: D00M.
+Destroyed: Crow
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Soldroz
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Raven
+Weapon: 'Arbalest' Cruise Launcher I
+
+Name: Sidrat Flush
+Security: 1.7
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Kestrel
+Weapon: Bloodclaw Light Missile
+
+Name: jack kill
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Drake
+Weapon: Sabretooth Light Missile
+
+Name: digital oxygen
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Megathron
+Weapon: Megathron
+
+Name: Sils wife
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Brutix
+Weapon: 200mm Railgun II
+
+Name: ClogMan
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Brutix
+Weapon: Hammerhead I
+
+Name: Steven FSB (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Moa
+Weapon: 250mm 'Scout' I Accelerator Cannon
+
+Name: Lux0r
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Caracal
+Weapon: SV-2000 Assault Missile Bay
+
+Name: Quiomi
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Ferox
+Weapon: 'Arbalest' Heavy Missile Launcher
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 56
+TE-2100 Standard Missile Bay, Qty: 3
+1MN MicroWarpdrive II
+Bloodclaw Light Missile, Qty: 1654 (Cargo)

@@ -1,0 +1,77 @@
+2006.11.14 22:08
+
+Victim: Blondieonsum
+Alliance: None
+Corp: Servant's of order
+Destroyed: Raven
+System: J-CIJV
+Security: 0.0
+
+Involved parties:
+
+Name: Noitaakka (laid the final blow)
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Ishtar
+Weapon: Light Ion Blaster II
+
+Name: Akip
+Security: 5.1
+Alliance: None
+Corp: MetaForge
+Ship: Typhoon
+Weapon: Mjolnir Torpedo
+
+Name: W4RR10R
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Taranis
+Weapon: Warrior I
+
+Name: Jumar Coldgin
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Eagle
+Weapon: Eagle
+
+Name: Karas Rabus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Huginn
+Weapon: Hobgoblin I
+
+Name: Hosanna
+Security: 1.8
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: Verild
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Rook
+Weapon: 'Hypnos' Multispectral ECM I
+
+
+Destroyed items:
+
+E500 Prototype Energy Vampire
+E500 Prototype Energy Vampire
+Devastator Cruise Missile, Qty: 59
+XT-9000 Cruise Launcher
+XT-9000 Cruise Launcher
+XT-9000 Cruise Launcher
+XT-9000 Cruise Launcher
+Heat Dissipation Field II
+Nanomechanical CPU Enhancer I
+Ballistic Control System II
+Wrath Cruise Missile, Qty: 792 (Cargo)
+Cataclysm Cruise Missile, Qty: 19 (Cargo)
+Paradise Cruise Missile, Qty: 19 (Cargo)
+

@@ -1,0 +1,41 @@
+2006.10.25 09:02
+
+Victim: Rennard
+Alliance: None
+Corp: Deniz Mahsulleri Ofisi
+Destroyed: Curse
+System: B-9C24
+Security: 0.0
+
+Involved parties:
+
+Name: Edo Kael (laid the final blow)
+Security: 5.0
+Alliance: O X I D E
+Corp: Reunited
+Ship: Raven
+Weapon: Vespa I
+
+Name: Noitaakka
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Ishtar
+Weapon: Ishtar
+
+Name: Verild
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Rook
+Weapon: Sabretooth Light Missile
+
+
+Destroyed items:
+
+Medium Diminishing Power System Drain I
+Fleeting Propulsion Inhibitor I
+'Hypnos' Multispectral ECM I
+F-90 Positional Sensor Subroutines
+Pseudoelectron Containment Field I
+

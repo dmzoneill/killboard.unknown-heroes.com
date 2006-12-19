@@ -1,0 +1,78 @@
+2007.02.26 02:55
+
+Victim: Bedrock
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Destroyed: Curse
+System: 3WE-KY
+Security: 0.0
+
+Involved parties:
+
+Name: Satal Sonshi
+Security: 3.8
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: Elfaen Ethenwe
+Security: 0.3
+Alliance: None
+Corp: Eternal Rising
+Ship: Cyclone
+Weapon: 425mm Medium Prototype I Automatic Cannon
+
+Name: Swanny231
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Celestis
+Weapon: Celestis
+
+Name: Mauy Thai (laid the final blow)
+Security: -1.4
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Pilgrim
+Weapon: Valkyrie II
+
+Name: Xantheris
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Taranis
+Weapon: Taranis
+
+Name: Paltar
+Security: -1.6
+Alliance: None
+Corp: Eternal Rising
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: digital oxygen
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Taranis
+Weapon: Warrior II
+
+Name: Simon Monkoto
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Hawk
+Weapon: Target Painter I
+
+
+Destroyed items:
+
+Corpum A-Type Medium Nosferatu
+Corpum A-Type Medium Nosferatu
+Fleeting Propulsion Inhibitor I
+Balmer Series Targeting Inhibitor I
+Energized Adaptive Nano Membrane II
+Energized Adaptive Nano Membrane II
+Valkyrie II (Drone Bay)
+

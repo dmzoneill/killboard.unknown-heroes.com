@@ -1,0 +1,33 @@
+2006.10.05 22:18
+
+Victim: avelution
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Destroyed: Capsule
+System: G-M4I8
+Security: 0.0
+
+Involved parties:
+
+Name: Crusari (laid the final blow)
+Security: 5.0
+Alliance: None
+Corp: Omniscient Order
+Ship: Taranis
+Weapon: 150mm Railgun II
+
+Name: Elric TheWhite
+Security: 0.8
+Alliance: None
+Corp: Omniscient Order
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Avoid
+Security: -2.2
+Alliance: None
+Corp: Omniscient Order
+Ship: Ares
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+

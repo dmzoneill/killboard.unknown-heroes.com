@@ -1,0 +1,107 @@
+2007.03.10 16:54
+
+Victim: evilempire3
+Alliance: Chorus of Dawn
+Corp: Cosmic Odyssey
+Destroyed: Apocalypse
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Inter Fectum
+Security: 2.0
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Tempest
+Weapon: Tempest
+
+Name: RubberDuckey (laid the final blow)
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Blackwater Squadron
+Ship: Curse
+Weapon: Hammerhead II
+
+Name: Jisela
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Feel Good Inc.
+Ship: Scorpion
+Weapon: Wasp I
+
+Name: mrrabit
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Tempest
+Weapon: Tempest
+
+Name: Kargh
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Thorax
+Weapon: Thorax
+
+Name: Probita
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Thorax
+Weapon: Thorax
+
+Name: BelinuS
+Security: 4.8
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Scorpion
+Weapon: Wrath Cruise Missile
+
+Name: other mickey
+Security: 2.9
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Ares
+Weapon: TE-2100 Standard Missile Bay
+
+Name: Banishment
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Sin-X Inc.
+Ship: Incursus
+Weapon: Stasis Webifier I
+
+Name: misscoda
+Security: 3.8
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Raven
+Weapon: 'Arbalest' Siege Missile Launcher
+
+
+Destroyed items:
+
+Dual Heavy Beam Laser II
+Dual Heavy Beam Laser II
+Multifrequency L
+Multifrequency L
+100MN MicroWarpdrive I
+Heavy F-RX Prototype I Capacitor Boost
+Cap Booster 800
+Cap Booster 800
+Cap Booster 800
+Cap Booster 800
+Large 'Accommodation' Vestment Reconstructer I
+Nanofiber Internal Structure I
+Eutectic I Capacitor Charge Array (Cargo)
+Fixed Parallel Link-Capacitor I (Cargo)
+Multifrequency L (Cargo)
+Cap Booster 800, Qty: 12 (Cargo)
+Heat Sink II (Cargo)
+Tracking Enhancer II (Cargo)
+Warp Core Stabilizer I (Cargo)
+1600mm Reinforced Rolled Tungsten Plates I, Qty: 3 (Cargo)
+Aurora L, Qty: 3 (Cargo)
+Mark I Modified SS Inertial Stabilizers (Cargo)
+

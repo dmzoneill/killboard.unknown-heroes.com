@@ -1,0 +1,136 @@
+2007.04.06 09:52
+
+Victim: Anomaly21
+Alliance: YouWhat
+Corp: Beasts of Burden
+Destroyed: Drake
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: truefranco
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Myrmidon
+Weapon: Ogre II
+
+Name: Kooter1
+Security: 5.0
+Alliance: Federation Of united Corps
+Corp: Solaris Operations
+Ship: Drake
+Weapon: Warrior I
+
+Name: Marie Veedor
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Drake
+Weapon: Widowmaker Heavy Missile
+
+Name: Vartha Trin
+Security: 3.5
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Ferox
+Weapon: Hobgoblin I
+
+Name: nXus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Drake
+Weapon: Acolyte II
+
+Name: Darthirishguy (laid the final blow)
+Security: 2.1
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Damfoose
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Eagle
+Weapon: Eagle
+
+Name: Chekoteh
+Security: 2.7
+Alliance: Freelancer Alliance
+Corp: United Forces
+Ship: Tempest
+Weapon: Tempest
+
+Name: RemusVI
+Security: 4.0
+Alliance: Amen Anera
+Corp: Legion Federation
+Ship: Incursus
+Weapon: Incursus
+
+Name: Gythar
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Drake
+Weapon: Havoc Heavy Missile
+
+Name: Guristas Nullifier / Guristas
+
+Name: Guy Caldar
+Security: 4.4
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Manticore
+Weapon: Cruise Missile Launcher I
+
+Name: splinter3000
+Security: 5.0
+Alliance: Federation Of united Corps
+Corp: check mate Corp
+Ship: Impairor
+Weapon: Impairor
+
+Name: Zahn Deteis
+Security: 5.0
+Alliance: None
+Corp: Roid Vandals
+Ship: Executioner
+Weapon: J5b Phased Prototype Warp Inhibitor I
+
+Name: Flying Underpants
+Security: 0.2
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Celestis
+Weapon: Remote Sensor Dampener II
+
+Name: FlobbMkII
+Security: 4.4
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Celestis
+Weapon: Indirect Scanning Dampening Unit I
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 147
+Heavy Missile Launcher II
+Heavy Missile Launcher II
+Heavy Missile Launcher II
+Large Shield Extender II
+Large Shield Extender II
+Invulnerability Field II
+Pseudoelectron Containment Field I
+Ballistic Control System II
+Power Diagnostic System II
+Ballistic Deflection Field II (Cargo)
+Hammerhead II (Cargo)
+Ballistic Control System II (Cargo)
+Scourge Fury Heavy Missile, Qty: 1798 (Cargo)
+

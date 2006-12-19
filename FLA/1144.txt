@@ -1,0 +1,53 @@
+2007.03.06 23:04
+
+Victim: Ronchu
+Alliance: None
+Corp: I-Omniscient-I
+Destroyed: Ferox
+System: Alamel
+Security: 0.2
+
+Involved parties:
+
+Name: MohamedLoftie (laid the final blow)
+Security: -0.9
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Zealot
+Weapon: Heavy Pulse Laser II
+
+Name: Luxe Ecru
+Security: 1.6
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Dominix
+Weapon: Heavy 'Knave' I Energy Drain
+
+
+Destroyed items:
+
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+250mm Carbide Railgun I
+250mm 'Scout' I Accelerator Cannon
+Iron Charge M, Qty: 54
+Large C5-L Emergency Shield Overload I
+Barton Reactor Capacitor Recharger I
+Local Power Plant Manager: Diagnostic System I
+Iron Charge M, Qty: 120 (Cargo)
+Plutonium Charge M, Qty: 134 (Cargo)
+Motley Compound, Qty: 19 (Cargo)
+Gleaming Alloy (Cargo)
+Glossy Compound, Qty: 5 (Cargo)
+Lustering Alloy, Qty: 15 (Cargo)
+Condensed Alloy, Qty: 9 (Cargo)
+Sabretooth Light Missile, Qty: 129 (Cargo)
+Flameburst Light Missile, Qty: 23 (Cargo)
+10th Tier Overseer's Personal Effects (Cargo)
+Broken Drone Transceiver (Cargo)
+Hammerhead I (Drone Bay)
+

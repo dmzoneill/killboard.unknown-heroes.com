@@ -1,0 +1,42 @@
+2007.03.22 19:29
+
+Victim: Pressman1966
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Destroyed: Caracal
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: XxAngelxX
+Security: -1.8
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Curse
+Weapon: Medium Nosferatu II
+
+Name: Sith Bandon (laid the final blow)
+Security: 5.0
+Alliance: Triumvirate.
+Corp: ViperSquad
+Ship: Ishtar
+Weapon: Hammerhead II
+
+Name: WarGod
+Security: 1.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Curse
+Weapon: Tracking Disruptor II
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 66
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+Sensor Booster I
+Gravimetric Backup Array I
+Gravimetric Backup Array I
+

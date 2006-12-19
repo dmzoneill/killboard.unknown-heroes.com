@@ -1,0 +1,33 @@
+2006.11.07 03:43
+
+Victim: Camus Desony
+Alliance: None
+Corp: Otter Corp
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Micheal Ross
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Flycatcher
+Weapon: Bloodclaw Light Missile
+
+Name: Korr E'Hahnah (laid the final blow)
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: Port Royal Independent Kontractors
+Ship: Brutix
+Weapon: 250mm Railgun II
+
+Name: SleepyOSU
+Security: 4.4
+Alliance: Freelancer Alliance
+Corp: Sin-X Inc.
+Ship: Vexor
+Weapon: Vexor
+
+

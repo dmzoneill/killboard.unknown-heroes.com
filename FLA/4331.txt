@@ -1,0 +1,74 @@
+2007.04.08 04:33
+
+Victim: Asa Gunnarsson
+Alliance: Freelancer Alliance
+Corp: ACCORD Industries
+Destroyed: Drake
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: FowlPlayChiken
+Security: 1.2
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Thanatos
+Weapon: Dragonfly
+
+Name: bsspewer
+Security: 2.5
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Archon
+Weapon: Dragonfly
+
+Name: c0rn1
+Security: -2.1
+Alliance: S.E.R.A
+Corp: Seraphin Technologies
+Ship: Nidhoggur
+Weapon: Ogre I
+
+Name: Admentus Cor'vion
+Security: -0.5
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Dominix
+Weapon: X5 Prototype I Engine Enervator
+
+Name: Sedith (laid the final blow)
+Security: 1.7
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Aeon
+Weapon: Ogre I
+
+Name: Maris E'lien
+Security: 3.2
+Alliance: Firmus Ixion
+Corp: Black Avatar
+Ship: Rapier
+Weapon: Warp Disruptor II
+
+Name: BillyBong2
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Blackbird
+Weapon: ECM - White Noise Generator I
+
+
+Destroyed items:
+
+Havoc Heavy Missile, Qty: 70
+Thunderbolt Heavy Missile, Qty: 69
+Widowmaker Heavy Missile, Qty: 35
+'Arbalest' Heavy Missile Launcher
+'Arbalest' Heavy Missile Launcher
+'Arbalest' Heavy Missile Launcher
+Large Azeotropic Ward Salubrity I
+10MN Afterburner I
+Invulnerability Field I
+Thunderbolt Heavy Missile, Qty: 3310 (Cargo)
+

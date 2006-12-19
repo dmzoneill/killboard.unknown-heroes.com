@@ -1,0 +1,33 @@
+2006.11.29 22:57
+
+Victim: Noitaakka
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Destroyed: Capsule
+System: 9R4-EJ
+Security: 0.0
+
+Involved parties:
+
+Name: moregan
+Security: 2.0
+Alliance: Insurgency
+Corp: Celestial Apocalypse
+Ship: Taranis
+Weapon: Taranis
+
+Name: Valtaer (laid the final blow)
+Security: 4.0
+Alliance: Insurgency
+Corp: Celestial Apocalypse
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+Name: Haunty Moto
+Security: 5.0
+Alliance: Insurgency
+Corp: Celestial Apocalypse
+Ship: Thrasher
+Weapon: Thrasher
+
+

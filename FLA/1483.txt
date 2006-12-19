@@ -1,0 +1,61 @@
+2007.03.14 02:44
+
+Victim: Galaxor
+Alliance: YouWhat
+Corp: Beasts of Burden
+Destroyed: Gallente Shuttle
+System: MJYW-3
+Security: 0.0
+
+Involved parties:
+
+Name: ventura5 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Drake
+Weapon: Widowmaker Heavy Missile
+
+Name: KiNgShiZzLe
+Security: 5.0
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Raven
+Weapon: Cataclysm Cruise Missile
+
+Name: TheFazMan
+Security: 0.5
+Alliance: The Sundering
+Corp: ironwood ink
+Ship: Drake
+Weapon: Heavy Missile Launcher I
+
+Name: Sasham
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Crow
+Weapon: Fleeting Warp Scrambler I
+
+Name: Logand Delta
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Ship: Caracal
+Weapon: 'Arbalest' Heavy Missile Launcher
+
+Name: Keshein
+Security: 3.0
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Ship: Cormorant
+Weapon: Cormorant
+
+Name: DeviantAnt
+Security: 4.0
+Alliance: The Sundering
+Corp: ironwood ink
+Ship: Megathron
+Weapon: Megathron
+
+

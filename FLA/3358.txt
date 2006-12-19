@@ -1,0 +1,70 @@
+2007.03.24 21:47
+
+Victim: Thiet
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Raven
+System: Aunia
+Security: 0.8
+
+Involved parties:
+
+Name: Elric TheWhite
+Security: -0.4
+Alliance: Privateer Alliance
+Corp: Captain Morgan Society
+Ship: Sleipnir
+Weapon: Sleipnir
+
+Name: Vilhelm Tell (laid the final blow)
+Security: 0.0
+Alliance: Privateer Alliance
+Corp: Captain Morgan Society
+Ship: Sleipnir
+Weapon: 425mm AutoCannon II
+
+Name: ZaknafeinX
+Security: -1.3
+Alliance: Privateer Alliance
+Corp: Captain Morgan Society
+Ship: Harbinger
+Weapon: Infiltrator II
+
+Name: Captain Thunk
+Security: -1.9
+Alliance: Privateer Alliance
+Corp: Captain Morgan Society
+Ship: Harbinger
+Weapon: Harbinger
+
+Name: Endorphimore
+Security: -1.5
+Alliance: Privateer Alliance
+Corp: Captain Morgan Society
+Ship: Hurricane
+Weapon: Hurricane
+
+
+Destroyed items:
+
+Cataclysm Cruise Missile
+Cataclysm Cruise Missile
+Cataclysm Cruise Missile
+Cataclysm Cruise Missile
+Cataclysm Cruise Missile
+Cataclysm Cruise Missile
+Cataclysm Cruise Missile
+'Limos' Cruise Launcher I
+'Malkuth' Cruise Launcher I
+'Malkuth' Cruise Launcher I
+'Malkuth' Cruise Launcher I
+Small Tractor Beam I
+X-Large C5-L Emergency Shield Overload I
+Photon Scattering Field I
+Ballistic Deflection Field II
+Shield Boost Amplifier I
+Ballistic Control System II
+Ballistic Control System II
+Power Diagnostic System I
+Cataclysm Cruise Missile, Qty: 2016 (Cargo)
+

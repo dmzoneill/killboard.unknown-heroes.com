@@ -1,0 +1,69 @@
+2007.02.13 03:53
+
+Victim: Ciaphas Khaine
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Destroyed: Exequror
+System: L-TS8S
+Security: 0.0
+
+Involved parties:
+
+Name: Stonegard
+Security: 5.0
+Alliance: The Foundation.
+Corp: EVE Corporation 160607
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+Name: Thafesko (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Nighthawk
+Weapon: Scourge Precision Heavy Missile
+
+Name: Garbon
+Security: 0.8
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Ship: Thrasher
+Weapon: 280mm Howitzer Artillery II
+
+Name: Inter Fectum
+Security: 1.9
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: moon wolf
+Security: 5.0
+Alliance: The Foundation.
+Corp: EVE Corporation 160607
+Ship: Dominix
+Weapon: Heavy 'Knave' I Energy Drain
+
+Name: beretta74
+Security: 4.0
+Alliance: The Foundation.
+Corp: EVE Corporation 160607
+Ship: Drake
+Weapon: Heavy Missile Launcher I
+
+Name: Weeble Wooble
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Deimos
+Weapon: Deimos
+
+
+Destroyed items:
+
+Small Remote Armor Repair System I
+10MN MicroWarpdrive I
+Large F-4a Ld-Sulfate I Capacitor Charge Unit
+Capacitor Power Relay I
+Cap Booster 800, Qty: 28 (Cargo)
+

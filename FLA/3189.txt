@@ -1,0 +1,37 @@
+2007.03.20 02:18
+
+Victim: Big Fuzz
+Alliance: Freelancer Alliance
+Corp: ACCORD Industries
+Destroyed: Myrmidon
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Vasili Z
+Security: 0.4
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: Lord Revent (laid the final blow)
+Security: 1.1
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Hurricane
+Weapon: 220mm Vulcan AutoCannon II
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Heavy Ion Blaster I
+10MN MicroWarpdrive I
+Initiated Warp Jammer I
+'Langour' Drive Disruptor I
+Medium Capacitor Booster I
+Voltaic Nanite Kinetic Hardener I
+Type-D Power Core Modification: Capacitor Power Relay
+

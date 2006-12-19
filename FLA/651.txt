@@ -1,0 +1,26 @@
+2007.02.14 05:01
+
+Victim: Jack Sigma
+Alliance: Pure.
+Corp: Viper Intel Squad
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Xantheris
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Taranis
+Weapon: Taranis
+
+Name: De'Zori (laid the final blow)
+Security: 5.0
+Alliance: Insane Asylum
+Corp: PILGRIMS
+Ship: Ferox
+Weapon: Flameburst Light Missile
+
+

@@ -1,0 +1,19 @@
+2007.03.13 23:24
+
+Victim: Shuriken Ertai
+Alliance: YouWhat
+Corp: Princeps Corp
+Destroyed: Capsule
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Arbitrus (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Ship: Abaddon
+Weapon: Large 'Vehemence' I Shockwave Charge
+
+

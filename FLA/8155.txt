@@ -1,0 +1,58 @@
+2006.10.23 08:30
+
+Victim: pROMp
+Alliance: Freelancer Alliance
+Corp: Feel Good Inc.
+Destroyed: Dominix
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Wrath Cruise Missile / Guristas
+
+Name: Bloodst0ne
+Security: 0.9
+Alliance: Kith of Venal
+Corp: Solidline Enterprise
+Ship: Deimos
+Weapon: Deimos
+
+Name: Siavash IR (laid the final blow)
+Security: 5.0
+Alliance: Kith of Venal
+Corp: Solidline Enterprise
+Ship: Vagabond
+Weapon: 220mm Medium Gallium I Machine Gun
+
+
+Destroyed items:
+
+Heavy 'Knave' I Energy Drain
+Heavy 'Knave' I Energy Drain
+Heavy 'Knave' I Energy Drain
+Dual 250mm Railgun I
+Antimatter Charge L, Qty: 122
+Small Tractor Beam I
+100MN Afterburner I
+Kinetic Deflection Amplifier I
+Medium Armor Repairer I
+Magnetic Plating II
+Armor Kinetic Hardener I
+Armor Kinetic Hardener I
+Cap Recharger I, Qty: 2 (Cargo)
+Small Energy Transfer Array I, Qty: 2 (Cargo)
+Small Proton Smartbomb I (Cargo)
+350mm Railgun I, Qty: 2 (Cargo)
+Antimatter Charge L, Qty: 136 (Cargo)
+Tungsten Charge L, Qty: 100 (Cargo)
+Devastator Cruise Missile, Qty: 100 (Cargo)
+Obliterator F.O.F. Cruise Missile I, Qty: 100 (Cargo)
+Cruise Missile Launcher I (Cargo)
+Siege Missile Launcher I (Cargo)
+Capacitor Flux Coil I (Cargo)
+Mark I Generator Refitting: Capacitor Flux (Cargo)
+Local Power Plant Manager: Reaction Control I (Cargo)
+Wasp I, Qty: 2 (Drone Bay)
+Vespa I, Qty: 8 (Drone Bay)
+

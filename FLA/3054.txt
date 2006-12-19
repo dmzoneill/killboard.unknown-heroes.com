@@ -1,0 +1,59 @@
+2007.03.23 17:10
+
+Victim: Ifni
+Alliance: None
+Corp: Developmental Neogenics Amalgamated
+Destroyed: Crusader
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: HYT gangster
+Security: 1.4
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Claw
+Weapon: Claw
+
+Name: Shassandra (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Dominix
+Weapon: Warrior II
+
+Name: Admiral Hunter
+Security: 4.7
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Capsule
+Weapon: 75mm Gatling Rail I
+
+Name: marakudi
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Hawk
+Weapon: Upgraded 'Limos' Standard Missile Bay I
+
+Name: RythemAndStealth
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Myrmidon
+Weapon: Heavy Ion Blaster I
+
+
+Destroyed items:
+
+Dual Light Beam Laser II
+Dual Light Beam Laser II
+Microwave S
+Microwave S
+1MN MicroWarpdrive II
+Local Power Plant Manager: Capacity Power Relay I
+Ultraviolet S, Qty: 4 (Cargo)
+Multifrequency S, Qty: 4 (Cargo)
+Aurora S (Cargo)
+

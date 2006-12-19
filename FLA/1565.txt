@@ -1,0 +1,25 @@
+2007.03.17 03:35
+
+Victim: Dearwin
+Alliance: Triumvirate.
+Corp: D00M.
+Destroyed: Velator
+System: Torrinos
+Security: 0.5
+
+Involved parties:
+
+Name: LiSyingChan (laid the final blow)
+Security: -0.2
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Ship: Drake
+Weapon: Thunderbolt Heavy Missile
+
+
+Destroyed items:
+
+Civilian Light Electron Blaster
+Basic Miner
+Tritanium (Cargo)
+

@@ -1,0 +1,33 @@
+2007.03.11 15:03
+
+Victim: Muad' Dib
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Destroyed: Capsule
+System: O-CNPR
+Security: 0.0
+
+Involved parties:
+
+Name: Jenessa (laid the final blow)
+Security: 1.2
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Huginn
+Weapon: 720mm Howitzer Artillery II
+
+Name: starius3
+Security: -0.3
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Ares
+Weapon: Fleeting Warp Scrambler I
+
+Name: xVx Skillgannon
+Security: 0.8
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+

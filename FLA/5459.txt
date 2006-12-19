@@ -1,0 +1,25 @@
+2006.10.04 21:13
+
+Victim: Cal Shayd
+Alliance: None
+Corp: State War Academy
+Destroyed: Ibis
+System: Isanamo
+Security: 0.6
+
+Involved parties:
+
+Name: Formosus Funus (laid the final blow)
+Security: 2.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Rifter
+Weapon: Phalanx Rocket
+
+
+Destroyed items:
+
+Civilian Gatling Railgun
+Basic Miner
+Tritanium (Cargo)
+

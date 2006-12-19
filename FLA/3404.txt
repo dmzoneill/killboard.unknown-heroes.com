@@ -1,0 +1,62 @@
+2007.03.25 19:43
+
+Victim: Poolboy
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Destroyed: Iteron Mark IV
+System: OWXT-5
+Security: 0.0
+
+Involved parties:
+
+Name: PainBall (laid the final blow)
+Security: -0.9
+Alliance: Triumvirate.
+Corp: ViperSquad
+Ship: Absolution
+Weapon: Heavy Pulse Laser II
+
+Name: Riddick KHK
+Security: 5.0
+Alliance: None
+Corp: Pitch Black Incorporated
+Ship: Wolf
+Weapon: Fleeting Progressive Warp Scrambler I
+
+Name: Oli4Oli4
+Security: 5.0
+Alliance: Triumvirate.
+Corp: ViperSquad
+Ship: Myrmidon
+Weapon: Myrmidon
+
+Name: rahmat mirko
+Security: 0.2
+Alliance: None
+Corp: Pitch Black Incorporated
+Ship: Hawk
+Weapon: Rocket Launcher II
+
+Name: Eudoric Delmar
+Security: 5.0
+Alliance: Triumvirate.
+Corp: ViperSquad
+Ship: Stiletto
+Weapon: 200mm AutoCannon II
+
+Name: Dave White
+Security: -1.8
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Raptor
+Weapon: J5 Prototype Warp Inhibitor I
+
+
+Destroyed items:
+
+Small Tractor Beam I
+10MN Afterburner I
+Invulnerability Field I
+Warp Core Stabilizer I
+Expanded Cargohold I, Qty: 3 (Cargo)
+

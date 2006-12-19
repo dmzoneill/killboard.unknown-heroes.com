@@ -1,0 +1,36 @@
+2006.11.05 05:04
+
+Victim: Redflare
+Alliance: None
+Corp: Deep Core Mining Inc.
+Destroyed: Kestrel
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Gamesguy (laid the final blow)
+Security: -1.1
+Alliance: O X I D E
+Corp: Reunited
+Ship: Malediction
+Weapon: Gatling Pulse Laser II
+
+Name: DevilSlayer
+Security: 4.0
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Curse
+Weapon: Vespa II
+
+
+Destroyed items:
+
+Foxfire Rocket, Qty: 26
+Phalanx Rocket, Qty: 26
+'Malkuth' Rocket Launcher I
+'Malkuth' Rocket Launcher I
+'Malkuth' Rocket Launcher I
+Phalanx Rocket, Qty: 940 (Cargo)
+Foxfire Rocket, Qty: 940 (Cargo)
+

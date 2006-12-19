@@ -1,0 +1,35 @@
+2007.03.23 18:11
+
+Victim: grim devilin
+Alliance: YouWhat
+Corp: Artificial Horizons
+Destroyed: Hawk
+System: DY-F70
+Security: 0.0
+
+Involved parties:
+
+Name: mr passie (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Jaguar
+Weapon: 150mm Light AutoCannon II
+
+Name: Weeble Wooble
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Eris
+Weapon: Eris
+
+
+Destroyed items:
+
+Thorn Javelin Rocket, Qty: 40
+J5 Prototype Warp Inhibitor I
+Partial Power Plant Manager: Capacitor Flux
+Thorn Rocket, Qty: 5416 (Cargo)
+Thorn Rage Rocket, Qty: 4418 (Cargo)
+Thorn Javelin Rocket, Qty: 4317 (Cargo)
+

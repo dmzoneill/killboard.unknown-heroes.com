@@ -1,0 +1,24 @@
+2007.04.24 04:28
+
+Victim: FlobbMkII
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Eris
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Minmatar Control Tower / Elite Storm Enterprises (laid the final blow)
+
+
+Destroyed items:
+
+Light Electron Blaster II
+Null S, Qty: 1000
+Interdiction Sphere Launcher I
+Nanofiber Internal Structure II
+Overdrive Injector System II
+Small Secure Container (Cargo)
+Null S, Qty: 24163 (Cargo)
+Warp Disrupt Probe, Qty: 5 (Cargo)

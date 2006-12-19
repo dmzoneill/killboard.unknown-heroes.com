@@ -1,0 +1,36 @@
+2006.09.20 20:35
+
+Victim: Leon Deverell
+Alliance: None
+Corp: Turbulent Subversion
+Destroyed: Thorax
+System: Aeschee
+Security: 0.2
+
+Involved parties:
+
+Name: Drakin Korin (laid the final blow)
+Security: 0.3
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Vexor
+Weapon: Hammerhead II
+
+Name: EvilTwin I
+Security: -9.0
+Alliance: None
+Corp: Caldari Provisions
+Ship: Taranis
+Weapon: Taranis
+
+Name: Serpentis Chief Defender / Serpentis Corporation
+
+
+Destroyed items:
+
+Shadow Serpentis Light Neutron Blaster
+Antimatter Charge S, Qty: 77
+10MN Afterburner I
+Medium Armor Repairer II
+Energized Adaptive Nano Membrane II
+

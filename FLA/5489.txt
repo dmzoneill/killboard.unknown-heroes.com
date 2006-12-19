@@ -1,0 +1,45 @@
+2006.10.06 17:00
+
+Victim: xBlood
+Alliance: None
+Corp: Privateers
+Destroyed: Rupture
+System: Sobaseki
+Security: 0.8
+
+Involved parties:
+
+Name: menace ace (laid the final blow)
+Security: 1.9
+Alliance: Freelancer Alliance
+Corp: Royal Flying Aces
+Ship: Megathron
+Weapon: Ogre I
+
+Name: GrandMastaXP
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Hawk
+Weapon: Sabretooth Light Missile
+
+Name: Iguanoid
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Hawk
+Weapon: Phalanx Rage Rocket
+
+
+Destroyed items:
+
+200mm AutoCannon I
+200mm AutoCannon I
+Medium Nosferatu I
+Stasis Webifier I
+F-12 Nonlinear Tracking Processor
+Medium I-a Polarized Armor Regenerator
+Radioisotope Explosive Hardener I
+Microcell Nanite Kinetic Hardener I
+EMP S, Qty: 3520 (Cargo)
+

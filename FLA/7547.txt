@@ -1,0 +1,161 @@
+2006.09.15 20:50
+
+Victim: Jucktar
+Alliance: None
+Corp: Mordu's Elite
+Destroyed: Merlin
+System: EWOK-K
+Security: 0.0
+
+Involved parties:
+
+Name: Oldin Relic
+Security: 1.3
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Moa
+Weapon: Bloodclaw Light Missile
+
+Name: freestrike
+Security: 5.9
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Scorpion
+Weapon: Induced Multispectral ECM I
+
+Name: Luthien Firefoot
+Security: 2.7
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Crow
+Weapon: Crow
+
+Name: Sorja
+Security: 5.5
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Rook
+Weapon: Scourge Heavy Missile
+
+Name: TriggerHippy (laid the final blow)
+Security: 1.7
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Muninn
+Weapon: 425mm AutoCannon II
+
+Name: 31i73
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Raven
+Weapon: Heavy Nosferatu I
+
+Name: geewiz
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Eris
+Weapon: Eris
+
+Name: Ubernub
+Security: 1.7
+Alliance: Imperial Republic Of the North
+Corp: Inversion
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+Name: Shiri elAzarinres
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Raven
+Weapon: XT-9000 Cruise Launcher
+
+Name: Isipsia V'dak
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Damnation
+Weapon: Damnation
+
+Name: bidman
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Ferox
+Weapon: Ferox
+
+Name: movy
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Brutix
+Weapon: 200mm Railgun I
+
+Name: edition02
+Security: -0.1
+Alliance: O X I D E
+Corp: easyCredits
+Ship: Blackbird
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+Name: Traxex
+Security: 1.4
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Tempest
+Weapon: Rocket Launcher I
+
+Name: ShiVAs PArAdOXx
+Security: 2.1
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Sealord
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Apocalypse
+Weapon: Tachyon Beam Laser I
+
+Name: PuppetmasterX
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: NATMav
+Security: 5.0
+Alliance: EVE Animal Control
+Corp: F.R.E.E. Explorer
+Ship: Blackbird
+Weapon: Blackbird
+
+Name: MentalM
+Security: 5.2
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Megan Ryder
+Security: 5.0
+Alliance: CORE.
+Corp: VentureCorp
+Ship: Megathron
+Weapon: Megathron
+
+
+Destroyed items:
+
+125mm Railgun I
+125mm Railgun I
+Iridium Charge S, Qty: 153
+Flameburst Light Missile, Qty: 42
+1MN Afterburner I
+Antimatter Charge S, Qty: 586 (Cargo)
+

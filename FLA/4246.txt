@@ -1,0 +1,55 @@
+2007.04.05 03:12
+
+Victim: velusip
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Destroyed: Vexor
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Bl00Dzor (laid the final blow)
+Security: 1.5
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Huginn
+Weapon: Widowmaker Heavy Missile
+
+Name: Mon Palae
+Security: 2.1
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Curse
+Weapon: Hammerhead II
+
+Name: Tomas Ysidro
+Security: 1.3
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Myrmidon
+Weapon: Ogre II
+
+Name: Ferocious FeAr
+Security: 1.5
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Rook
+Weapon: ECM - White Noise Generator II
+
+
+Destroyed items:
+
+Dual Modal Light Laser I
+Dual Light Pulse Laser I
+Medium Pulse Laser I
+Multifrequency S
+Xray S
+Xray S
+Sensor Booster I
+Medium Armor Repairer I
+Wavelength Signal Enhancer I
+1600mm Reinforced Rolled Tungsten Plates I
+Iron Charge S, Qty: 500 (Cargo)
+Infiltrator I, Qty: 4 (Drone Bay)
+

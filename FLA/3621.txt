@@ -1,0 +1,33 @@
+2007.03.27 23:35
+
+Victim: Shiftless
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Capsule
+System: Z-Y7R7
+Security: 0.0
+
+Involved parties:
+
+Name: Magnelien
+Security: 4.3
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Crow
+Weapon: Gremlin Rocket
+
+Name: istasi
+Security: 0.3
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Crow
+Weapon: Fleeting Warp Scrambler I
+
+Name: Neily (laid the final blow)
+Security: 4.6
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Megathron
+Weapon: Ion Blaster Cannon II
+
+

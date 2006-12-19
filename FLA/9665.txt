@@ -1,0 +1,26 @@
+2007.05.21 22:40
+
+Victim: Darknesss
+Alliance: Triumvirate.
+Corp: D00M.
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Lucy Fire1 (laid the final blow)
+Security: -2.1
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Rifter
+Weapon: 125mm Gatling AutoCannon I
+
+Name: Kvarium Ki
+Security: 2.3
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Muninn
+Weapon: 720mm Howitzer Artillery II
+
+

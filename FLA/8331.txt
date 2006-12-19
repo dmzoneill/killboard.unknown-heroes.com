@@ -1,0 +1,19 @@
+2006.11.09 07:28
+
+Victim: Azrealsan
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Capsule
+System: Torrinos
+Security: 0.5
+
+Involved parties:
+
+Name: Jambo (laid the final blow)
+Security: -2.0
+Alliance: None
+Corp: The Initiative
+Ship: Zealot
+Weapon: Focused Medium Pulse Laser II
+
+

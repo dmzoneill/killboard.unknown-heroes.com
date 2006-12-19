@@ -1,0 +1,43 @@
+2007.01.19 05:24
+
+Victim: Danielson1012
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Destroyed: Harpy
+System: 5ZXX-K
+Security: 0.0
+
+Involved parties:
+
+Name: Kerr Talon (laid the final blow)
+Security: 1.5
+Alliance: None
+Corp: Agony Unleashed
+Ship: Jaguar
+Weapon: 150mm Light AutoCannon II
+
+Name: Quen Azle
+Security: -1.8
+Alliance: None
+Corp: Agony Unleashed
+Ship: Claw
+Weapon: 150mm Light AutoCannon II
+
+Name: Rells
+Security: 0.9
+Alliance: None
+Corp: Agony Unleashed
+Ship: Harpy
+Weapon: Harpy
+
+
+Destroyed items:
+
+150mm Railgun II
+Antimatter Charge S, Qty: 43
+Rocket Launcher I
+J5 Prototype Warp Inhibitor I
+Tracking Enhancer II
+Foxfire Rocket, Qty: 60 (Cargo)
+Gremlin Rocket, Qty: 78 (Cargo)
+

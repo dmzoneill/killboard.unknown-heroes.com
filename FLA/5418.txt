@@ -1,0 +1,110 @@
+2007.04.29 13:56
+
+Victim: Tiree
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Dominix
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Karehb
+Security: 5.0
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: Savak
+Security: 0.2
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Hinderburg
+Security: 4.6
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Rapier
+Weapon: Rapier
+
+Name: SaNoSuKeJavi (laid the final blow)
+Security: -2.0
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Thorax
+Weapon: Heavy Ion Blaster I
+
+Name: Zamar
+Security: 1.5
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Thorax
+Weapon: Limited Neutron Blaster I
+
+Name: stich626
+Security: -1.9
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Celestis
+Weapon: Remote Sensor Dampener II
+
+Name: Primos Gun
+Security: 4.3
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Myrmidon
+Weapon: Berserker I
+
+Name: Fitz Farseer
+Security: 0.5
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Rupture
+Weapon: Rupture
+
+Name: Kaulu
+Security: 3.4
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Blackbird
+Weapon: Sabretooth Precision Light Missile
+
+Name: AnmmnA
+Security: 5.0
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Crow
+Weapon: Warp Disruptor II
+
+Name: Edone
+Security: 3.9
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Raptor
+Weapon: Standard Missile Launcher II
+
+
+Destroyed items:
+
+Heavy Nosferatu I
+Heavy Nosferatu I
+Heavy Nosferatu I
+Drone Link Augmentor I
+Drone Link Augmentor I
+Fleeting Warp Scrambler I
+Medium F-RX Prototype I Capacitor Boost
+Cap Booster 200
+Cap Booster 200
+Cap Booster 200
+Cap Booster 200
+Armor Kinetic Hardener I
+Wasp II, Qty: 3 (Drone Bay)
+Warden I, Qty: 2 (Drone Bay)
+Garde I, Qty: 2 (Drone Bay)
+Bouncer I (Drone Bay)
+Hornet II, Qty: 4 (Drone Bay)
+Medium Armor Maintenance Bot I, Qty: 4 (Drone Bay)
+

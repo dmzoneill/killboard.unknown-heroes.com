@@ -1,0 +1,28 @@
+2007.03.02 22:45
+
+Victim: NesheresH
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Destroyed: Sabre
+System: PNQY-Y
+Security: 0.0
+
+Involved parties:
+
+Name: DeathGrip (laid the final blow)
+Security: 2.3
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Archon
+Weapon: Valkyrie I
+
+
+Destroyed items:
+
+250mm Light Artillery Cannon II
+250mm Light Artillery Cannon II
+Nuclear S, Qty: 15
+Beta Hull Mod Inertial Stabilizers
+Type-D Altered SS Nanofiber Structure
+Warp Disrupt Probe, Qty: 15 (Cargo)
+

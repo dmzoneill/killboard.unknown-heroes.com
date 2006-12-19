@@ -1,0 +1,26 @@
+2007.04.13 20:37
+
+Victim: RayTruz
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Capsule
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Kay Han
+Security: 3.0
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+Name: Helmi (laid the final blow)
+Security: 1.1
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Crow
+Weapon: Sabretooth Light Missile
+
+

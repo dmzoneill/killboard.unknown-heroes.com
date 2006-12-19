@@ -1,0 +1,42 @@
+2007.03.06 02:02
+
+Victim: Gustav Blackknight
+Alliance: Exuro Mortis
+Corp: The Burning Orphans
+Destroyed: Rifter
+System: YZ-LQL
+Security: 0.0
+
+Involved parties:
+
+Name: Lea Redux (laid the final blow)
+Security: 5.2
+Alliance: Dusk and Dawn
+Corp: moon7empler
+Ship: Lachesis
+Weapon: Warrior II
+
+Name: Skywalker86
+Security: -0.6
+Alliance: Dusk and Dawn
+Corp: moon7empler
+Ship: Huginn
+Weapon: 720mm Howitzer Artillery II
+
+Name: Shiftless
+Security: 3.1
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Capsule
+Weapon: Advanced 'Limos' Heavy Missile Bay I
+
+
+Destroyed items:
+
+Flameburst Light Missile, Qty: 40
+Standard Missile Launcher I
+Stasis Webifier I
+Inertia Stabilizers I
+Inertia Stabilizers I
+Flameburst Light Missile, Qty: 905 (Cargo)
+

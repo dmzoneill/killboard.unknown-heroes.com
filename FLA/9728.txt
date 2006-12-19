@@ -1,0 +1,42 @@
+2007.05.28 09:14
+
+Victim: Bedardius
+Alliance: Triumvirate.
+Corp: D00M.
+Destroyed: Thorax
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Wusa (laid the final blow)
+Security: 5.0
+Alliance: Ev0ke
+Corp: Asgard Schiffswerften
+Ship: Claymore
+Weapon: Infiltrator II
+
+Name: Corovus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+Name: Caldari Citizen20020
+Security: 1.7
+Alliance: Ev0ke
+Corp: Asgard Schiffswerften
+Ship: Osprey
+Weapon: Warrior I
+
+
+Destroyed items:
+
+Heavy Ion Blaster II
+Heavy Ion Blaster II
+Void M, Qty: 318
+Beta Reactor Control: Reaction Control I
+Void M, Qty: 3385 (Cargo)
+Hammerhead II, Qty: 4 (Drone Bay)
+

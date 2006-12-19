@@ -1,0 +1,145 @@
+2007.03.10 21:53
+
+Victim: Mr MA
+Alliance: Chorus of Dawn
+Corp: Cosmic Odyssey
+Destroyed: Megathron
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Hedeon Mishenka
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Apocalypse
+Weapon: Apocalypse
+
+Name: Kateryne
+Security: 0.1
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Maelstrom
+Weapon: 800mm Heavy 'Scout' Repeating Artillery I
+
+Name: Arbitrus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Ship: Apocalypse
+Weapon: Apocalypse
+
+Name: SniperMcBob
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Raven
+Weapon: Wrath Cruise Missile
+
+Name: Simon Monkoto
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Scorpion
+Weapon: Wrath Cruise Missile
+
+Name: VVIKK
+Security: 2.8
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Megathron
+Weapon: 425mm 'Scout' I Accelerator Cannon
+
+Name: Mazuel
+Security: 2.1
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Maelstrom
+Weapon: 1400mm Carbine Howitzer I
+
+Name: Shiftless
+Security: 3.1
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Drake
+Weapon: Havoc Heavy Missile
+
+Name: Swanny231
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Thorax
+Weapon: Hornet II
+
+Name: Illesa (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Caracal
+Weapon: Widowmaker Heavy Missile
+
+Name: mrrabit
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Tempest
+Weapon: 'Malkuth' Cruise Launcher I
+
+Name: Fugnut
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Drake
+Weapon: Thunderbolt Heavy Missile
+
+Name: Ocara Nezus
+Security: 2.4
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Caracal
+Weapon: Widowmaker Heavy Missile
+
+Name: Flying Underpants
+Security: 0.2
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Enyo
+Weapon: Hornet I
+
+Name: other mickey
+Security: 2.9
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Ares
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: Xantheris
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Celestis
+Weapon: Remote Sensor Dampener I
+
+
+Destroyed items:
+
+425mm Carbide Railgun I
+425mm Carbide Railgun I
+425mm Carbide Railgun I
+Shadow Iron Charge L, Qty: 200
+Alumel-Wired I Sensor Augmentation
+Supplemental Scanning CPU I
+F-12 Nonlinear Tracking Processor
+Large 'Accommodation' Vestment Reconstructer I
+Tracking Enhancer II
+Tracking Enhancer II
+Magnetic Field Stabilizer II
+Magnetic Field Stabilizer II
+Power Diagnostic System I
+Antimatter Charge L, Qty: 6611 (Cargo)
+Iron Charge L, Qty: 4930 (Cargo)
+Shadow Iron Charge L, Qty: 1260 (Cargo)
+Warrior II, Qty: 3 (Drone Bay)
+Ogre I, Qty: 3 (Drone Bay)
+

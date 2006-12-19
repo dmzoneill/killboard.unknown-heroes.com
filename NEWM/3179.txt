@@ -1,0 +1,33 @@
+2007.03.19 10:14
+
+Victim: Gythar
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Raven
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Distun
+Security: 0.1
+Alliance: Guinea Pigs
+Corp: La Stere
+Ship: Typhoon
+Weapon: Ogre I
+
+Name: Wrath Cruise Missile / Guristas (laid the final blow)
+
+
+Destroyed items:
+
+Juggernaut Torpedo, Qty: 12
+Wrath Cruise Missile, Qty: 33
+'Arbalest' Siege Missile Launcher
+Invulnerability Field II
+Shield Boost Amplifier I
+Ballistic Control System I
+Juggernaut Torpedo, Qty: 1418 (Cargo)
+Wrath Cruise Missile, Qty: 1326 (Cargo)
+Vespa II, Qty: 4 (Drone Bay)
+

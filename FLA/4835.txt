@@ -1,0 +1,39 @@
+2007.04.17 00:58
+
+Victim: Tran Whistler
+Alliance: Freelancer Alliance
+Corp: Harbingers of Sarrow
+Destroyed: Caracal
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Ehxo (laid the final blow)
+Security: 4.9
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Thanatos
+Weapon: Einherji
+
+Name: Zirus
+Security: 3.9
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Thanatos
+Weapon: Einherji
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 149
+'Malkuth' Assault Missile Launcher I
+'Malkuth' Assault Missile Launcher I
+'Malkuth' Assault Missile Launcher I
+Large Supplemental Barrier Emitter I
+10MN MicroWarpdrive I
+Stasis Webifier I
+Ballistic Control System I
+Ballistic Control System I
+Flameburst Light Missile, Qty: 558 (Cargo)
+

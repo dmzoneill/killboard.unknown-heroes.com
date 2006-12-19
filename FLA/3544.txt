@@ -1,0 +1,19 @@
+2007.03.26 08:50
+
+Victim: ANNIHILATER
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Destroyed: Capsule
+System: O-BDXB
+Security: 0.0
+
+Involved parties:
+
+Name: Vim Longhill (laid the final blow)
+Security: 4.6
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Flycatcher
+Weapon: Thorn Rocket
+
+

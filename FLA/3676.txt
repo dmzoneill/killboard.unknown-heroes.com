@@ -1,0 +1,94 @@
+2007.03.29 00:09
+
+Victim: Marie Veedor
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Raven
+System: 7T6P-C
+Security: 0.0
+
+Involved parties:
+
+Name: Maris E'lien
+Security: 3.2
+Alliance: Firmus Ixion
+Corp: Black Avatar
+Ship: Rapier
+Weapon: Acolyte II
+
+Name: Lv STEIN
+Security: 4.7
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Zealot
+Weapon: Zealot
+
+Name: Tanya Kovacs
+Security: 5.1
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Eagle
+Weapon: Piranha Light Missile
+
+Name: MC Alfritz
+Security: 3.7
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: Phoenus (laid the final blow)
+Security: 0.4
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Thyrion Paulus
+Security: 4.9
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Sacrilege
+Weapon: Sacrilege
+
+Name: Ridoc
+Security: 2.9
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Taranis
+Weapon: Taranis
+
+Name: Taschenflak
+Security: 4.7
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Raptor
+Weapon: Sabretooth Light Missile
+
+Name: Apoc77
+Security: 5.0
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Rook
+Weapon: Bloodclaw Light Missile
+
+Name: wph0r
+Security: 4.5
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Falcon
+Weapon: 'Hypnos' Ion Field ECM I
+
+
+Destroyed items:
+
+Juggernaut Torpedo, Qty: 71
+ZW-4100 Siege Missile Bay
+ZW-4100 Siege Missile Bay
+ZW-4100 Siege Missile Bay
+Large F-S9 Regolith Shield Induction
+F-S8 Relativistic Deflection Shield Induction
+Type-D Power Core Modification: Shield Power Relay
+Type-D Power Core Modification: Shield Power Relay
+Vespa I, Qty: 3 (Drone Bay)
+

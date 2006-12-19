@@ -1,0 +1,33 @@
+2006.09.02 16:15
+
+Victim: Anexian
+Alliance: R.I.S.K
+Corp: RUS-SAGA
+Destroyed: Capsule
+System: EWOK-K
+Security: 0.0
+
+Involved parties:
+
+Name: Draken7799
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Hawk
+Weapon: Bloodclaw Light Missile
+
+Name: Oldin Relic (laid the final blow)
+Security: 1.3
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Erikel
+Security: 5.0
+Alliance: Chorus of Dawn
+Corp: Cosmic Odyssey
+Ship: Taranis
+Weapon: Taranis
+
+

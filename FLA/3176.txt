@@ -1,0 +1,88 @@
+2007.03.19 05:38
+
+Victim: Bobby Atlas
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Megathron
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Lord Revent
+Security: 1.1
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Maelstrom
+Weapon: Maelstrom
+
+Name: Xordus
+Security: 1.4
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Vasili Z
+Security: 0.4
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Huginn
+Weapon: Fleeting Propulsion Inhibitor I
+
+Name: Xoduse (laid the final blow)
+Security: 0.4
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Hyperion
+Weapon: Electron Blaster Cannon II
+
+Name: Sexorella hotz
+Security: 5.0
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Raven
+Weapon: Wrath Cruise Missile
+
+Name: zigzag429
+Security: 0.3
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Sabre
+Weapon: Balmer Series Targeting Inhibitor I
+
+Name: VDV Bru37
+Security: 5.0
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Raven
+Weapon: 'Arbalest' Siege Missile Launcher
+
+
+Destroyed items:
+
+425mm Prototype I Gauss Gun
+425mm Prototype I Gauss Gun
+425mm Prototype I Gauss Gun
+425mm Prototype I Gauss Gun
+Tungsten Charge L, Qty: 23
+'Arbalest' Cruise Launcher I
+Sensor Booster II
+Sensor Booster II
+Tracking Computer II
+Tracking Computer II
+F85 Peripheral Damage System I
+Tracking Enhancer II
+Magnetic Field Stabilizer II
+Magnetic Field Stabilizer II
+Magnetic Field Stabilizer II
+Corpse (Cargo)
+Plutonium Charge L, Qty: 3000 (Cargo)
+Tungsten Charge L, Qty: 20 (Cargo)
+Paradise Cruise Missile, Qty: 65 (Cargo)
+Devastator Cruise Missile, Qty: 98 (Cargo)
+Wrath Cruise Missile, Qty: 150 (Cargo)
+Valkyrie I, Qty: 4 (Drone Bay)
+Berserker I (Drone Bay)
+Ogre I (Drone Bay)
+

@@ -1,0 +1,57 @@
+2007.03.28 04:49
+
+Victim: AlexeiShtukov
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Destroyed: Moa
+System: O-N8XZ
+Security: 0.0
+
+Involved parties:
+
+Name: Choran (laid the final blow)
+Security: 5.0
+Alliance: Agony Empire
+Corp: Agony Unleashed
+Ship: Vexor
+Weapon: Ogre I
+
+Name: Quen Azle
+Security: -0.5
+Alliance: Agony Empire
+Corp: Agony Unleashed
+Ship: Rupture
+Weapon: Rupture
+
+Name: Mako Valo
+Security: 0.7
+Alliance: Agony Empire
+Corp: Agony Unleashed
+Ship: Vengeance
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+Name: Dragonbitch
+Security: 1.9
+Alliance: Agony Empire
+Corp: Agony Unleashed
+Ship: Stiletto
+Weapon: 250mm Light Artillery Cannon I
+
+
+Destroyed items:
+
+150mm Railgun II
+Tungsten Charge S, Qty: 51
+Widowmaker Heavy Missile, Qty: 27
+Large F-S9 Regolith Shield Induction
+Damage Control I
+Magnetic Field Stabilizer I
+Iron Charge S, Qty: 89 (Cargo)
+Antimatter Charge S, Qty: 733 (Cargo)
+Iridium Charge S, Qty: 874 (Cargo)
+Plutonium Charge S, Qty: 90 (Cargo)
+Tungsten Charge S, Qty: 1605 (Cargo)
+Widowmaker Heavy Missile, Qty: 79 (Cargo)
+Warrior I (Drone Bay)
+Infiltrator I (Drone Bay)
+

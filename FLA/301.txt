@@ -1,0 +1,31 @@
+2007.01.24 05:37
+
+Victim: Zygdriel
+Alliance: None
+Corp: Agony Unleashed
+Destroyed: Blackbird
+System: X-7OMU
+Security: 0.0
+
+Involved parties:
+
+Name: Goca (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Raven
+Weapon: Large 'Vehemence' I Shockwave Charge
+
+
+Destroyed items:
+
+Medium Energy Neutralizer I
+Defender I, Qty: 20
+Rocket Launcher I
+FZ-3 Subversive Spatial Destabilizer ECM
+FZ-3 Subversive Spatial Destabilizer ECM
+Sensor Booster I
+Signal Distortion Amplifier I
+Signal Distortion Amplifier I
+Defender I, Qty: 80 (Cargo)
+

@@ -1,0 +1,32 @@
+2007.03.06 23:23
+
+Victim: Neleva
+Alliance: None
+Corp: R.H. Umbrella Corporation
+Destroyed: Rifter
+System: F7C-H0
+Security: 0.0
+
+Involved parties:
+
+Name: Praetorian Mardou (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Hilfreich
+Security: 0.6
+Alliance: None
+Corp: SecuWay
+Ship: Unknown
+Weapon: Warp Disruptor I
+
+
+Destroyed items:
+
+1MN Afterburner I
+Initiated Warp Jammer I
+Inertia Stabilizers I
+

@@ -1,0 +1,162 @@
+2007.03.04 13:33
+
+Victim: ziyuefei
+Alliance: Aftermath Alliance
+Corp: Dark Nebula Gallente Division
+Destroyed: Raven
+System: 75FA-Z
+Security: 0.0
+
+Involved parties:
+
+Name: Psykoman
+Security: 5.1
+Alliance: Dusk and Dawn
+Corp: Infinite Improbability Inc
+Ship: Myrmidon
+Weapon: Berserker II
+
+Name: DANGEROUS (laid the final blow)
+Security: 3.6
+Alliance: Dusk and Dawn
+Corp: Omega Enterprises
+Ship: Hurricane
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Flinx Evenstar
+Security: -1.3
+Alliance: Dusk and Dawn
+Corp: Momentum.
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: marcoos
+Security: 3.8
+Alliance: Dusk and Dawn
+Corp: ClanKillers
+Ship: Dominix
+Weapon: Ogre I
+
+Name: Kerdrak
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Apocalypse
+Weapon: Mega Pulse Laser I
+
+Name: GS Armada
+Security: 3.4
+Alliance: Dusk and Dawn
+Corp: ECP Rogues
+Ship: Scorpion
+Weapon: Cataclysm Cruise Missile
+
+Name: Cecilia Walsh
+Security: 3.6
+Alliance: Dusk and Dawn
+Corp: Cataclysm Enterprises
+Ship: Curse
+Weapon: Hammerhead II
+
+Name: Cartman Lee
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Cataclysm Enterprises
+Ship: Thorax
+Weapon: Warrior I
+
+Name: DrRockIT
+Security: 0.8
+Alliance: Dusk and Dawn
+Corp: Asgard Schiffswerften
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Tregaron
+Security: 1.7
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Cyclone
+Weapon: Cyclone
+
+Name: Awing atHoth
+Security: 3.3
+Alliance: Dusk and Dawn
+Corp: Omega Enterprises
+Ship: Capsule
+Weapon: XT-9000 Cruise Launcher
+
+Name: Yesmina Ortess
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Cataclysm Enterprises
+Ship: Thorax
+Weapon: Small 'Knave' I Energy Drain
+
+Name: Emerald Cortess
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Konstrukteure der Zukunft
+Ship: Moa
+Weapon: 250mm Compressed Coil Gun I
+
+Name: Silberstein
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Konstrukteure der Zukunft
+Ship: Thorax
+Weapon: Thorax
+
+Name: Imperian
+Security: 3.2
+Alliance: Zenith Affinity
+Corp: Netquarter
+Ship: Crow
+Weapon: Piranha Light Missile
+
+Name: The Alchemyst
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Infinite Improbability Inc
+Ship: Rifter
+Weapon: Rifter
+
+Name: TheClawz
+Security: 3.5
+Alliance: Dusk and Dawn
+Corp: Omega Enterprises
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: Tassi
+Security: -3.2
+Alliance: Dusk and Dawn
+Corp: Cataclysm Enterprises
+Ship: Crusader
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: Lou Cypher
+Security: 4.8
+Alliance: Dusk and Dawn
+Corp: Die Apokalyptischen Reiter
+Ship: Drake
+Weapon: Thunderbolt Precision Heavy Missile
+
+
+Destroyed items:
+
+Siege Missile Launcher II
+Siege Missile Launcher II
+Siege Missile Launcher II
+Mjolnir Javelin Torpedo, Qty: 45
+X-Large C5-L Emergency Shield Overload I
+X-Large C5-L Emergency Shield Overload I
+X-Large C5-L Emergency Shield Overload I
+X-Large C5-L Emergency Shield Overload I
+X-Large C5-L Emergency Shield Overload I
+Heat Dissipation Field II
+V-M15 Braced Multispectral Shield Matrix
+Mjolnir Javelin Torpedo, Qty: 1814 (Cargo)
+Bane Javelin Torpedo, Qty: 2000 (Cargo)
+Berserker SW-900, Qty: 3 (Drone Bay)
+

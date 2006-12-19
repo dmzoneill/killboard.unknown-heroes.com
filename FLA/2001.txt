@@ -1,0 +1,37 @@
+2007.01.16 09:00
+
+Victim: darkviron
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Destroyed: Drake
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Noobjuice
+Security: -0.6
+Alliance: None
+Corp: Omniscient Order
+Ship: Typhoon
+Weapon: Ogre II
+
+Name: ZUDD (laid the final blow)
+Security: 4.0
+Alliance: None
+Corp: Omniscient Order
+Ship: Ishtar
+Weapon: Wasp II
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 24
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+Large C5-L Emergency Shield Overload I
+V-M15 Braced Multispectral Shield Matrix
+Ballistic Control System I
+

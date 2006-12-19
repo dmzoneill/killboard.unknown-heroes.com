@@ -1,0 +1,38 @@
+2007.01.03 05:52
+
+Victim: Kiwi Sunn
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Destroyed: Raven
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Jovius Marginus
+Security: -0.3
+Alliance: Firmus Ixion
+Corp: Black Avatar
+Ship: Vagabond
+Weapon: Hobgoblin II
+
+Name: Wrath Cruise Missile / Guristas (laid the final blow)
+
+
+Destroyed items:
+
+Salvager I, Qty: 30
+Juggernaut Torpedo, Qty: 22
+'Arbalest' Siege Missile Launcher
+F-43 Repeatative Multi-Frequency Backup Sensors
+Ballistic Control System I
+Type-D Power Core Modification: Diagnostic System
+Miner I (Cargo)
+Medium Capacitor Battery I (Cargo)
+Medium Capacitor Booster I (Cargo)
+Juggernaut Torpedo, Qty: 446 (Cargo)
+Obliterator F.O.F. Cruise Missile I, Qty: 100 (Cargo)
+Cruise Missile Launcher I (Cargo)
+Siege Missile Launcher I (Cargo)
+Vespa II, Qty: 3 (Drone Bay)
+

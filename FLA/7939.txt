@@ -1,0 +1,35 @@
+2006.10.02 02:19
+
+Victim: Ian Storme
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Destroyed: Tristan
+System: B-9C24
+Security: 0.0
+
+Involved parties:
+
+Name: Kopf
+Security: -2.4
+Alliance: None
+Corp: Sicarri Covenant
+Ship: Flycatcher
+Weapon: Thorn Rocket
+
+Name: ElGuapo (laid the final blow)
+Security: 4.1
+Alliance: None
+Corp: Omniscient Order
+Ship: Typhoon
+Weapon: Devastator Cruise Missile
+
+
+Destroyed items:
+
+Light Ion Blaster I
+Light Ion Blaster I
+Antimatter Charge S, Qty: 240
+1MN Afterburner I
+Stasis Webifier I
+Antimatter Charge S, Qty: 220 (Cargo)
+

@@ -1,0 +1,44 @@
+2006.12.10 00:21
+
+Victim: Mystical Angel
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Raven
+System: EWOK-K
+Security: 0.0
+
+Involved parties:
+
+Name: Razor Jaxx (laid the final blow)
+Security: 0.2
+Alliance: None
+Corp: Fate.
+Ship: Typhoon
+Weapon: Ogre II
+
+Name: Phonix
+Security: -0.2
+Alliance: None
+Corp: Fate.
+Ship: Typhoon
+Weapon: Hammerhead II
+
+Name: DeasGuCath
+Security: 2.4
+Alliance: None
+Corp: Fate.
+Ship: Malediction
+Weapon: Malediction
+
+
+Destroyed items:
+
+Juggernaut Torpedo, Qty: 25
+Shock 'Limos' Siege Missile Bay I
+Shock 'Limos' Siege Missile Bay I
+Shock 'Limos' Siege Missile Bay I
+Barton Reactor Capacitor Recharger I
+Invulnerability Field I
+Ballistic Control System I
+Vespa I, Qty: 2 (Drone Bay)
+

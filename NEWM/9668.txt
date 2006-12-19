@@ -1,0 +1,26 @@
+2007.05.22 06:18
+
+Victim: lieshou wx
+Alliance: None
+Corp: Sebiestor tribe
+Destroyed: Caldari Shuttle
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Mufeater (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Ares
+Weapon: Flameburst Light Missile
+
+Name: Francois Dubuoi
+Security: 1.3
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Flycatcher
+Weapon: Bloodclaw Light Missile
+
+

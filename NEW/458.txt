@@ -1,0 +1,49 @@
+2007.03.27 13:49
+
+Victim: Nukuquqa Hestase
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Crow
+System: K4YZ-Y
+Security: 0.0
+
+Involved parties:
+
+Name: tomlinsonland
+Security: -1.8
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Musician (laid the final blow)
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Tempest
+Weapon: 800mm Repeating Artillery II
+
+Name: MegaJ
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Huginn
+Weapon: Huginn
+
+Name: Gavax
+Security: -1.7
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Deimos
+Weapon: Deimos
+
+
+Destroyed items:
+
+Sabretooth Light Missile, Qty: 46
+'Arbalest' Standard Missile Launcher
+TE-2100 Standard Missile Bay
+Eutectic I Capacitor Charge Array
+Catalyzed Cold-Gas I Arcjet Thrusters
+Local Hull Conversion Overdrive Injector I
+Piranha Light Missile, Qty: 252 (Cargo)

@@ -1,0 +1,64 @@
+2006.12.09 22:58
+
+Victim: Atarkus
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Raven
+System: OWXT-5
+Security: 0.0
+
+Involved parties:
+
+Name: DgO4
+Security: 0.3
+Alliance: None
+Corp: Final-Vendetta
+Ship: Retribution
+Weapon: Retribution
+
+Name: On Edge
+Security: -2.0
+Alliance: None
+Corp: Final-Vendetta
+Ship: Malediction
+Weapon: Malediction
+
+Name: stainage
+Security: -2.5
+Alliance: None
+Corp: Final-Vendetta
+Ship: Taranis
+Weapon: Taranis
+
+Name: tobs (laid the final blow)
+Security: -1.7
+Alliance: None
+Corp: Final-Vendetta
+Ship: Crusader
+Weapon: Dual Light Pulse Laser II
+
+Name: Guristas Obliterator / Guristas
+
+Name: Aluminium Disaster
+Security: 0.0
+Alliance: None
+Corp: Final-Vendetta
+Ship: Punisher
+Weapon: Medium Pulse Laser I
+
+
+Destroyed items:
+
+Salvager I, Qty: 30
+Siege Missile Launcher II
+Siege Missile Launcher II
+Siege Missile Launcher II
+Siege Missile Launcher II
+Siege Missile Launcher II
+Siege Missile Launcher II
+Small Tractor Beam I
+Juggernaut Javelin Torpedo, Qty: 42
+Heat Dissipation Field II
+Ballistic Deflection Field II
+Damage Control I
+

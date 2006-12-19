@@ -1,0 +1,144 @@
+2007.03.02 21:52
+
+Victim: Farjung
+Alliance: Band of Brothers
+Corp: TAOSP
+Destroyed: Dominix
+System: YZ-LQL
+Security: 0.0
+
+Involved parties:
+
+Name: DeadDuck
+Security: 4.9
+Alliance: Dusk and Dawn
+Corp: Omega Enterprises
+Ship: Harbinger
+Weapon: Harbinger
+
+Name: sowo
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Drake
+Weapon: Medium Nosferatu I
+
+Name: Jonas123
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Scorpion
+Weapon: Scorpion
+
+Name: Samiloth Justinian
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Aken Ator
+Security: 1.8
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Ferox
+Weapon: Ferox
+
+Name: Jorax
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Vexor
+Weapon: Vexor
+
+Name: Kimett (laid the final blow)
+Security: 2.8
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Caracal
+Weapon: Torrent Assault Missile
+
+Name: Kerdrak
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Apocalypse
+Weapon: Mega Pulse Laser I
+
+Name: TRAJANO 2
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Drake
+Weapon: Widowmaker Heavy Missile
+
+Name: Space Chi
+Security: 1.8
+Alliance: Zenith Affinity
+Corp: The Edge Foundation
+Ship: Deimos
+Weapon: Heavy Neutron Blaster II
+
+Name: Hamos
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Scorpion
+Weapon: Paradise Cruise Missile
+
+Name: bjugis
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Thorax
+Weapon: Thorax
+
+Name: misscoda
+Security: 3.5
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Blackbird
+Weapon: Thunderbolt Heavy Missile
+
+Name: Dana Foxworth
+Security: 3.1
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Rupture
+Weapon: 650mm Artillery Cannon I
+
+Name: dastommy79
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Thorax
+Weapon: Heavy Ion Blaster I
+
+Name: Teck7
+Security: 1.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ares
+Weapon: 125mm Railgun II
+
+
+Destroyed items:
+
+Heavy Diminishing Power System Drain I, Qty: 3
+Large Rudimentary Concussion Bomb I
+Recon Probe Launcher I
+Shadow Serpentis Warp Disruptor
+Cap Booster 800
+Sensor Booster II
+Medium Armor Repairer II
+Local Hull Conversion Inertial Stabilizers I
+Beta Hull Mod Nanofiber Structure
+Local Hull Conversion Nanofiber Structure I
+Cap Booster 800, Qty: 11 (Cargo)
+Remote Sensor Dampener II (Cargo)
+Prototype Cloaking Device I (Cargo)
+'Arbalest' Standard Missile Launcher (Cargo)
+Berserker II, Qty: 3 (Drone Bay)
+Valkyrie II (Drone Bay)
+Ogre II, Qty: 4 (Drone Bay)
+Warrior II, Qty: 4 (Drone Bay)

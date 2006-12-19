@@ -1,0 +1,51 @@
+2007.04.14 21:50
+
+Victim: Sloth Arnini
+Alliance: Freelancer Alliance
+Corp: ORIGIN SYSTEMS
+Destroyed: Nemesis
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Jean LaForge
+Security: 1.4
+Alliance: FATAL Alliance
+Corp: UK Corp
+Ship: Capsule
+Weapon: X5 Prototype I Engine Enervator
+
+Name: Ardpirate
+Security: 1.8
+Alliance: FATAL Alliance
+Corp: FATAL REVELATIONS
+Ship: Absolution
+Weapon: Heavy Pulse Laser II
+
+Name: Theseuss (laid the final blow)
+Security: 5.0
+Alliance: FATAL Alliance
+Corp: Black Reign
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Raznek2
+Security: 5.0
+Alliance: FATAL Alliance
+Corp: FATAL REVELATIONS
+Ship: Myrmidon
+Weapon: Kapteyn Sensor Array Inhibitor I
+
+
+Destroyed items:
+
+Cataclysm Cruise Missile, Qty: 10
+'Malkuth' Cruise Launcher I
+Remote Sensor Dampener II
+Sensor Booster I
+Co-Processor I
+Devastator Cruise Missile, Qty: 238 (Cargo)
+Cataclysm Cruise Missile, Qty: 416 (Cargo)
+Wrath Cruise Missile, Qty: 240 (Cargo)
+

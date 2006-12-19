@@ -1,0 +1,40 @@
+2006.11.25 20:11
+
+Victim: Elipsys
+Alliance: None
+Corp: State War Academy
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Karina Harington
+Security: -0.7
+Alliance: Imperial Republic Of the North
+Corp: Port Royal Independent Kontractors
+Ship: Zealot
+Weapon: Heavy Pulse Laser II
+
+Name: Karas Rabus (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Stabber
+Weapon: Dual 180mm AutoCannon II
+
+Name: Tri Ounou
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Jaguar
+Weapon: Fleeting Warp Scrambler I
+
+Name: Noitaakka
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Vexor
+Weapon: Fleeting Warp Scrambler I
+
+

@@ -1,0 +1,41 @@
+2006.09.30 04:16
+
+Victim: Soliloquil
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Destroyed: Blackbird
+System: EWOK-K
+Security: 0.0
+
+Involved parties:
+
+Name: Altai Saker (laid the final blow)
+Security: -0.9
+Alliance: None
+Corp: Omniscient Order
+Ship: Armageddon
+Weapon: Mega Pulse Laser II
+
+Name: Furious Raccoon
+Security: 0.8
+Alliance: None
+Corp: Omniscient Order
+Ship: Nighthawk
+Weapon: Scourge Heavy Missile
+
+Name: Levin Cavil
+Security: -1.7
+Alliance: None
+Corp: Lucid Ambition
+Ship: Eos
+Weapon: Heavy Ion Blaster II
+
+
+Destroyed items:
+
+Heavy Missile Launcher I
+Large Shield Extender I
+Warp Scrambler I
+ECM - Multispectral Jammer I
+Havoc Heavy Missile, Qty: 1410 (Cargo)
+

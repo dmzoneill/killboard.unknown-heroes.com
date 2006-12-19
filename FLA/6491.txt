@@ -1,0 +1,30 @@
+2006.11.15 19:50
+
+Victim: EC Scouter
+Alliance: None
+Corp: Republic Military School
+Destroyed: Reaper
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Durante Alighieri
+Security: 2.8
+Alliance: Schism.
+Corp: New Light
+Ship: Harpy
+Weapon: Harpy
+
+Name: Midiana (laid the final blow)
+Security: 1.1
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Ishtar
+Weapon: 150mm Railgun II
+
+
+Destroyed items:
+
+Civilian Gatling Autocannon
+

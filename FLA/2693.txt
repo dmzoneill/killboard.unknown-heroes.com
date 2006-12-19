@@ -1,0 +1,129 @@
+2007.03.03 03:26
+
+Victim: Skull Fire
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Raven
+System: PXF-RF
+Security: 0.0
+
+Involved parties:
+
+Name: Corbin Thoth
+Security: 5.0
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Thanatos
+Weapon: Einherji
+
+Name: Bren MacKay
+Security: -0.9
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Brutix
+Weapon: Brutix
+
+Name: ikarsa
+Security: 5.0
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Myrmidon
+Weapon: Wasp I
+
+Name: 6Bagheera9
+Security: 4.8
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Hurricane
+Weapon: Warrior II
+
+Name: Balltazore Anubis
+Security: 5.0
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Tempest
+Weapon: Tempest
+
+Name: Selnix
+Security: 5.0
+Alliance: Aftermath Alliance
+Corp: Master Miners
+Ship: Ferox
+Weapon: Hornet II
+
+Name: Umoek (laid the final blow)
+Security: -3.2
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Sleipnir
+Weapon: 720mm Howitzer Artillery II
+
+Name: Hauth
+Security: 5.2
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Pilgrim
+Weapon: Valkyrie II
+
+Name: Tarhess
+Security: -4.0
+Alliance: Aftermath Alliance
+Corp: Master Miners
+Ship: Enyo
+Weapon: Enyo
+
+Name: Perfidious Ichabod
+Security: 5.1
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Scorpion
+Weapon: Scorpion
+
+Name: Dominixa
+Security: 5.0
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Rapier
+Weapon: Shadow Serpentis Stasis Webifier
+
+Name: Ryuji Takeshi
+Security: 1.4
+Alliance: Aftermath Alliance
+Corp: Master Miners
+Ship: Raptor
+Weapon: Initiated Warp Jammer I
+
+Name: Truls Titan
+Security: 2.5
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Falcon
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+Name: Hunter Vonnegut
+Security: 5.0
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Enyo
+Weapon: J5 Prototype Warp Inhibitor I
+
+
+Destroyed items:
+
+Plutonium Charge M, Qty: 13
+Cataclysm Cruise Missile, Qty: 10
+'Arbalest' Cruise Launcher I
+'Arbalest' Cruise Launcher I
+'Arbalest' Cruise Launcher I
+'Arbalest' Cruise Launcher I
+Large Shield Extender II
+100MN MicroWarpdrive I
+Invulnerability Field I
+Supplemental Scanning CPU I
+Internal Force Field Array I
+1600mm Reinforced Rolled Tungsten Plates I
+N-Type Kinetic Hardener I (Cargo)
+N-Type Thermic Hardener I (Cargo)
+Cataclysm Cruise Missile, Qty: 177 (Cargo)
+Devastator Cruise Missile, Qty: 188 (Cargo)
+

@@ -1,0 +1,49 @@
+2006.11.09 22:08
+
+Victim: jacass66
+Alliance: Freelancer Alliance
+Corp: BGG
+Destroyed: Raven
+System: Ibura
+Security: 0.6
+
+Involved parties:
+
+Name: spirea (laid the final blow)
+Security: 4.9
+Alliance: None
+Corp: The Initiative
+Ship: Armageddon
+Weapon: Mega Pulse Laser II
+
+Name: KRULLEN Binazeski
+Security: 4.9
+Alliance: None
+Corp: The Initiative
+Ship: Zealot
+Weapon: Zealot
+
+Name: Dazzio
+Security: -2.0
+Alliance: None
+Corp: The Initiative
+Ship: Brutix
+Weapon: Brutix
+
+
+Destroyed items:
+
+Heavy Nosferatu I
+Paradise Cruise Missile, Qty: 33
+Devastator Cruise Missile, Qty: 16
+Wrath Cruise Missile, Qty: 16
+'Limos' Cruise Launcher I
+'Limos' Cruise Launcher I
+'Limos' Cruise Launcher I
+'Limos' Cruise Launcher I
+Large Azeotropic Ward Salubrity I
+Large Armor Repairer II
+Ballistic Control System I
+Paradise Cruise Missile, Qty: 705 (Cargo)
+Hobgoblin II, Qty: 9 (Drone Bay)
+

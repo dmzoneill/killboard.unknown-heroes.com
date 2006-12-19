@@ -1,0 +1,37 @@
+2007.01.13 00:52
+
+Victim: MagicMos
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Destroyed: Celestis
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Crucifier (laid the final blow)
+Security: 0.3
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: heavensfire
+Security: 3.1
+Alliance: None
+Corp: United Allies
+Ship: Pilgrim
+Weapon: Hornet I
+
+
+Destroyed items:
+
+Small Nosferatu I
+Small Nosferatu I
+Small Nosferatu I
+Remote Sensor Dampener I
+Remote Sensor Dampener I
+Sensor Booster I
+Medium Armor Repairer I
+400mm Reinforced Steel Plates I
+

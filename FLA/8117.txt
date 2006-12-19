@@ -1,0 +1,19 @@
+2006.10.11 01:42
+
+Victim: sinkiss ka
+Alliance: Freelancer Alliance
+Corp: X.T.R
+Destroyed: Mammoth
+System: Isanamo
+Security: 0.6
+
+Involved parties:
+
+Name: urrit (laid the final blow)
+Security: -0.3
+Alliance: None
+Corp: Privateers
+Ship: Rupture
+Weapon: Dual 180mm AutoCannon I
+
+

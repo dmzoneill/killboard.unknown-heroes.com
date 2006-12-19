@@ -1,0 +1,52 @@
+2007.01.17 09:07
+
+Victim: Freejax
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Raven
+System: WUZ-WM
+Security: 0.0
+
+Involved parties:
+
+Name: Bonafyde (laid the final blow)
+Security: 5.0
+Alliance: None
+Corp: Brutor tribe
+Ship: Hurricane
+Weapon: 720mm Howitzer Artillery II
+
+Name: Yushii
+Security: 1.5
+Alliance: None
+Corp: Perkone
+Ship: Vagabond
+Weapon: Vagabond
+
+
+Destroyed items:
+
+Heavy Diminishing Power System Drain I
+Inferno Torpedo
+Inferno Torpedo
+Inferno Torpedo
+Inferno Torpedo
+Inferno Torpedo
+Cataclysm Cruise Missile, Qty: 24
+Cruise Missile Launcher I
+'Limos' Cruise Launcher I
+Large C5-L Emergency Shield Overload I
+Eutectic I Capacitor Charge Array
+Heat Dissipation Field II
+Ballistic Deflection Field II
+F84 Local Damage System
+Power Diagnostic System II
+Medium Shield Transporter I (Cargo)
+Medium Graviton Smartbomb I (Cargo)
+Explosion Dampening Field I (Cargo)
+Thorium Charge M, Qty: 100 (Cargo)
+Widowmaker Heavy Missile, Qty: 100 (Cargo)
+Cataclysm Cruise Missile, Qty: 1019 (Cargo)
+Stalker F.O.F. Heavy Missile I, Qty: 100 (Cargo)
+Heavy Assault Missile Launcher I (Cargo)
+

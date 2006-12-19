@@ -1,0 +1,37 @@
+2006.11.04 23:15
+
+Victim: Marcus TheMartin
+Alliance: Pirate Coalition
+Corp: CURSED LEGION OF DOOM
+Destroyed: Thorax
+System: Onatoh
+Security: 0.3
+
+Involved parties:
+
+Name: SiriusCrow (laid the final blow)
+Security: -1.5
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Modal Electron Particle Accelerator I
+Modal Electron Particle Accelerator I
+Antimatter Charge M, Qty: 112
+Y-T8 Overcharged Hydrocarbon I Microwarpdrive
+X5 Prototype I Engine Enervator
+Energized Adaptive Nano Membrane I
+N-Type Kinetic Hardener I
+800mm Reinforced Crystalline Carbonide Plates I
+Corpse (Cargo)
+10MN MicroWarpdrive I (Cargo)
+X5 Prototype I Engine Enervator (Cargo)
+Valkyrie I, Qty: 3 (Cargo)
+N-Type Reactive Membrane I (Cargo)
+Infiltrator I, Qty: 3 (Drone Bay)
+

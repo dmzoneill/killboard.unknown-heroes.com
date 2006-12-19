@@ -1,0 +1,45 @@
+2007.05.21 20:59
+
+Victim: Crimzon Claw
+Alliance: None
+Corp: State War Academy
+Destroyed: Ibis
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Ocara Nezus (laid the final blow)
+Security: 1.5
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Dibbes
+Security: 0.1
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Taranis
+Weapon: Taranis
+
+Name: Miss Sparkles
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Griffin
+Weapon: Upgraded 'Limos' Standard Missile Bay I
+
+Name: Kvarium Ki
+Security: 2.3
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Muninn
+Weapon: 720mm Howitzer Artillery II
+
+
+Destroyed items:
+
+Civilian Gatling Railgun
+Basic Miner
+

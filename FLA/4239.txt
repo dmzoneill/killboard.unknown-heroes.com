@@ -1,0 +1,71 @@
+2007.04.05 00:34
+
+Victim: BelinuS
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Destroyed: Claw
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Bedrock
+Security: 0.0
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Huginn
+Weapon: Huginn
+
+Name: ericAmerica
+Security: 5.0
+Alliance: Xelas Alliance
+Corp: Fallen Angel's
+Ship: Crow
+Weapon: Flameburst Fury Light Missile
+
+Name: kezz2411
+Security: 5.0
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: DrZukes
+Security: 5.0
+Alliance: Xelas Alliance
+Corp: Setenta Corp
+Ship: Thorax
+Weapon: Faint Epsilon Warp Prohibitor I
+
+Name: kIM JONGELL (laid the final blow)
+Security: 4.4
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Blackbird
+Weapon: Thunderbolt Heavy Missile
+
+Name: IamnobodyCL
+Security: 5.0
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Vengeance
+Weapon: Faint Warp Prohibitor I
+
+
+Destroyed items:
+
+200mm AutoCannon I
+Phased Plasma S, Qty: 53
+Flameburst Light Missile
+Flameburst Light Missile
+Flameburst Light Missile
+Flameburst Light Missile
+Flameburst Light Missile
+Flameburst Light Missile
+Flameburst Light Missile
+'Malkuth' Standard Missile Launcher I
+Warp Scrambler I
+Small Armor Repairer II
+Overdrive Injector System I
+Phased Plasma S, Qty: 2517 (Cargo)
+

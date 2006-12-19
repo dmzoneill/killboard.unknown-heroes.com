@@ -1,0 +1,51 @@
+2007.03.04 15:52
+
+Victim: britishfish
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Destroyed: Vagabond
+System: Torrinos
+Security: 0.5
+
+Involved parties:
+
+Name: vickers
+Security: -2.0
+Alliance: Privateer Alliance
+Corp: Mentally Unstable Enterprises
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Del Boy
+Security: -1.4
+Alliance: Privateer Alliance
+Corp: Mentally Unstable Enterprises
+Ship: Capsule
+Weapon: 250mm Light Artillery Cannon II
+
+Name: Reggie Kray (laid the final blow)
+Security: -1.7
+Alliance: Privateer Alliance
+Corp: Mentally Unstable Enterprises
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+220mm Vulcan AutoCannon II
+220mm Vulcan AutoCannon II
+220mm Vulcan AutoCannon II
+220mm Vulcan AutoCannon II
+Medium Nosferatu II
+Barrage M, Qty: 143
+Y-T8 Overcharged Hydrocarbon I Microwarpdrive
+Fleeting Propulsion Inhibitor I
+Gyrostabilizer II
+Damage Control II
+Energized Adaptive Nano Membrane I
+Local Hull Conversion Nanofiber Structure I
+Dual 180mm AutoCannon II, Qty: 5 (Cargo)
+Spiced Wine, Qty: 24 (Cargo)
+Barrage M, Qty: 1504 (Cargo)
+

@@ -1,0 +1,19 @@
+2006.11.29 14:55
+
+Victim: DrLemou
+Alliance: Tau Ceti Federation
+Corp: COLSUP
+Destroyed: Capsule
+System: F7C-H0
+Security: 0.0
+
+Involved parties:
+
+Name: Formosus Funus (laid the final blow)
+Security: 3.7
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Wolf
+Weapon: 150mm Light AutoCannon II
+
+

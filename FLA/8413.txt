@@ -1,0 +1,28 @@
+2006.11.17 00:01
+
+Victim: Hosanna
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Destroyed: Thrasher
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Romanuld (laid the final blow)
+Security: 2.7
+Alliance: R.I.S.K
+Corp: NODEX Game Group
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+
+Destroyed items:
+
+280mm Howitzer Artillery II
+280mm Howitzer Artillery II
+280mm Howitzer Artillery II
+Tremor S, Qty: 19
+Sensor Booster II
+Quake S, Qty: 1170 (Cargo)
+

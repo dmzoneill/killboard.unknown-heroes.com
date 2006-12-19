@@ -1,0 +1,19 @@
+2007.03.25 03:59
+
+Victim: Draken Mem
+Alliance: Privateer Alliance
+Corp: Loot
+Destroyed: Capsule
+System: Uedama
+Security: 0.5
+
+Involved parties:
+
+Name: Kaerion Skywalker (laid the final blow)
+Security: 0.1
+Alliance: Freelancer Alliance
+Corp: Harbingers of Sarrow
+Ship: Raven
+Weapon: Paradise Fury Cruise Missile
+
+

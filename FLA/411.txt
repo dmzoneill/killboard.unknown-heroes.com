@@ -1,0 +1,40 @@
+2007.01.31 22:13
+
+Victim: deneb56
+Alliance: None
+Corp: Center for Advanced Studies
+Destroyed: Amarr Shuttle
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Minisoza (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Enyo
+Weapon: 125mm Railgun II
+
+Name: Teck7
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ishtar
+Weapon: 150mm Railgun II
+
+Name: Rick A
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Blackbird
+Weapon: Heavy Missile Launcher I
+
+Name: Lord Straxus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Crow
+Weapon: Rocket Launcher II
+
+

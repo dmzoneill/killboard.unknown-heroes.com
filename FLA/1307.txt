@@ -1,0 +1,78 @@
+2007.03.10 16:38
+
+Victim: Xoduse
+Alliance: YouWhat
+Corp: Beasts of Burden
+Destroyed: Eris
+System: XZH-4X
+Security: 0.0
+
+Involved parties:
+
+Name: ekkertnafnlaust (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Tempest
+Weapon: 1200mm Artillery Cannon II
+
+Name: Shassandra
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Megathron
+Weapon: 425mm Railgun I
+
+Name: Jonas123
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Ferox
+Weapon: Piranha Light Missile
+
+Name: DarkAvenger DK
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Drake
+Weapon: Warrior I
+
+Name: Tsukasa Tenyo
+Security: 4.1
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Drake
+Weapon: Heavy Missile Launcher I
+
+Name: Kateryne
+Security: 0.1
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Maelstrom
+Weapon: Phased Weapon Navigation Array Generation Extron
+
+Name: Imaginary Number
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Prophecy
+Weapon: Prophecy
+
+
+Destroyed items:
+
+75mm Gatling Rail II
+Spike S, Qty: 400
+Flameburst Light Missile, Qty: 132
+Upgraded 'Limos' Standard Missile Bay I
+Upgraded 'Limos' Standard Missile Bay I
+Warp Disrupt Probe, Qty: 9
+Interdiction Sphere Launcher I
+1MN MicroWarpdrive II
+Type-D Altered SS Inertial Stabilizers
+Type-D Altered SS Inertial Stabilizers
+Local Hull Conversion Overdrive Injector I
+Spike S, Qty: 2472 (Cargo)
+Flameburst Light Missile, Qty: 1183 (Cargo)
+Warp Disrupt Probe, Qty: 39 (Cargo)
+

@@ -1,0 +1,43 @@
+2007.05.19 00:09
+
+Victim: Aster Loop
+Alliance: Freelancer Alliance
+Corp: The Collective of Ascended Beings
+Destroyed: Drake
+System: Haajinen
+Security: 0.8
+
+Involved parties:
+
+Name: Reggie Kray
+Security: -1.7
+Alliance: None
+Corp: Mentally Unstable Enterprises
+Ship: Astarte
+Weapon: Astarte
+
+Name: Del Boy (laid the final blow)
+Security: -1.2
+Alliance: None
+Corp: Mentally Unstable Enterprises
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+Havoc Heavy Missile, Qty: 38
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+Advanced 'Limos' Heavy Missile Bay I
+Large Shield Extender II
+Shield Recharger II
+Heat Dissipation Amplifier II
+Shield Power Relay II
+Shield Power Relay II
+Havoc Heavy Missile, Qty: 2093 (Cargo)
+Thunderbolt Heavy Missile, Qty: 1993 (Cargo)
+Hammerhead II (Drone Bay)
+Hobgoblin II (Drone Bay)
+

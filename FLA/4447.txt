@@ -1,0 +1,38 @@
+2007.04.10 09:33
+
+Victim: Splinter5150
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Destroyed: Drake
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Sedith (laid the final blow)
+Security: 1.7
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Aeon
+Weapon: Ogre I
+
+Name: Otto Bismarck
+Security: 3.6
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Capsule
+Weapon: Warp Disruptor II
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 67
+'Arbalest' Heavy Missile Launcher
+'Arbalest' Heavy Missile Launcher
+'Arbalest' Heavy Missile Launcher
+Large Shield Booster II
+Damage Control II
+Ballistic Control System II
+Beta Reactor Control: Capacitor Power Relay I
+Scourge Heavy Missile, Qty: 1881 (Cargo)
+

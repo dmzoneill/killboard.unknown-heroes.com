@@ -1,0 +1,115 @@
+2006.12.11 20:35
+
+Victim: Laboratus
+Alliance: Freelancer Alliance
+Corp: BGG
+Destroyed: Megathron
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: WarGod
+Security: -2.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Tempest
+Weapon: Tempest
+
+Name: Zap Zaberdine
+Security: 3.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Tempest
+Weapon: Tempest
+
+Name: Spaced Skunk
+Security: 0.0
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Typhoon
+Weapon: Typhoon
+
+Name: boo3916 (laid the final blow)
+Security: 4.1
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Dominix
+Weapon: Berserker II
+
+Name: henryshead
+Security: 5.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Apocalypse
+Weapon: Apocalypse
+
+Name: Darknesss
+Security: -0.4
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Megathron
+Weapon: Megathron
+
+Name: taylor04
+Security: -1.9
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Tempest
+Weapon: Ogre SD-900
+
+Name: simcor
+Security: -1.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Megathron
+Weapon: Megathron
+
+Name: Dralon
+Security: -0.9
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Crusader
+Weapon: Dual Light Beam Laser II
+
+Name: Jimmycs83
+Security: -2.3
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Dominix
+Weapon: Dominix
+
+Name: Teani
+Security: 1.6
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Astarte
+Weapon: Astarte
+
+Name: K Shara
+Security: 3.1
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Rook
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+
+Destroyed items:
+
+425mm Prototype I Gauss Gun
+425mm Prototype I Gauss Gun
+425mm Prototype I Gauss Gun
+425mm Prototype I Gauss Gun
+425mm 'Scout' I Accelerator Cannon
+Guristas Lead Charge L, Qty: 80
+Tracking Computer II
+Large 'Accommodation' Vestment Reconstructer I
+Tracking Enhancer II
+Magnetic Field Stabilizer II
+Magnetic Field Stabilizer II
+Energized Adaptive Nano Membrane II
+Guristas Lead Charge L, Qty: 642 (Cargo)
+Antimatter Charge L, Qty: 1127 (Cargo)
+Guristas Iron Charge L, Qty: 1713 (Cargo)
+Medium Armor Maintenance Bot I, Qty: 3 (Drone Bay)
+

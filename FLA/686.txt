@@ -1,0 +1,40 @@
+2007.02.16 16:03
+
+Victim: Tertius Caedes
+Alliance: Privateer Alliance
+Corp: Tempt Fate
+Destroyed: Vagabond
+System: Kaaputenen
+Security: 0.8
+
+Involved parties:
+
+Name: Nammi (laid the final blow)
+Security: 0.0
+Alliance: X-PACT
+Corp: Eye of God
+Ship: Hurricane
+Weapon: 425mm AutoCannon II
+
+Name: tiita
+Security: 1.8
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Maller
+Weapon: Maller
+
+
+Destroyed items:
+
+220mm Medium 'Scout' Autocannon I
+220mm Medium 'Scout' Autocannon I
+220mm Medium 'Scout' Autocannon I
+EMP M, Qty: 111
+Large F-S9 Regolith Shield Induction
+Large Shield Extender II
+Medium F-RX Prototype I Capacitor Boost
+Gyrostabilizer II
+Local Hull Conversion Inertial Stabilizers I
+Local Hull Conversion Inertial Stabilizers I
+Cap Booster 800 (Cargo)
+

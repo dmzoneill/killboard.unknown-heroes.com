@@ -1,0 +1,67 @@
+2007.01.01 19:41
+
+Victim: Benzyl Alkonium
+Alliance: None
+Corp: Nexus Legion
+Destroyed: Caracal
+System: Torrinos
+Security: 0.5
+
+Involved parties:
+
+Name: Goca (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Raven
+Weapon: Inferno Javelin Torpedo
+
+Name: SniperMcBob
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Blackbird
+Weapon: Blackbird
+
+Name: Demarcus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Drake
+Weapon: Havoc Precision Heavy Missile
+
+Name: Maximus Caelum
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: Sin-X Inc.
+Ship: Harpy
+Weapon: Harpy
+
+Name: wrecker300
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Scorpion
+Weapon: Shock 'Limos' Siege Missile Bay I
+
+Name: TiMeZeRo225
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: J.I.T. Enterprises
+Ship: Crow
+Weapon: Dread Guristas Stasis Webifier
+
+
+Destroyed items:
+
+Flameburst Light Missile, Qty: 116
+'Malkuth' Assault Missile Launcher I
+'Malkuth' Assault Missile Launcher I
+'Malkuth' Assault Missile Launcher I
+10MN MicroWarpdrive I
+Supplemental Scanning CPU I
+Supplemental Scanning CPU I
+Nanofiber Internal Structure I
+Flameburst Light Missile, Qty: 500 (Cargo)
+Widowmaker Heavy Missile, Qty: 400 (Cargo)
+

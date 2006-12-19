@@ -1,0 +1,37 @@
+2007.04.27 15:35
+
+Victim: MrMaggot
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Manticore
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Indiano Arko (laid the final blow)
+Security: 0.6
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Hurricane
+Weapon: 720mm Howitzer Artillery I
+
+Name: Reverend Revelator
+Security: 1.5
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Brutix
+Weapon: Brutix
+
+
+Destroyed items:
+
+Improved Cloaking Device II
+Paradise Cruise Missile, Qty: 23
+'Arbalest' Cruise Launcher I
+'Arbalest' Cruise Launcher I
+'Arbalest' Cruise Launcher I
+F-90 Positional Sensor Subroutines
+Ballistic Control System II
+Devastator Cruise Missile, Qty: 244 (Cargo)
+

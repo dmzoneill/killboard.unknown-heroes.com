@@ -1,0 +1,25 @@
+2007.01.28 18:05
+
+Victim: Vladamir Sokov
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Buzzard
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: F4ze (laid the final blow)
+Security: -1.4
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+
+Destroyed items:
+
+Cap Recharger I
+1MN MicroWarpdrive I
+Nanofiber Internal Structure I
+

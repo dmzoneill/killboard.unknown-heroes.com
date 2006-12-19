@@ -1,0 +1,61 @@
+2007.01.12 18:28
+
+Victim: Red Viper
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Destroyed: Iteron Mark III
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: ETS4ME (laid the final blow)
+Security: 0.7
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+Name: Crucifier
+Security: 0.3
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Vagabond
+Weapon: Vagabond
+
+
+Destroyed items:
+
+Small Tractor Beam I
+Expanded Cargohold I
+Medium F-S9 Regolith Shield Induction (Cargo)
+M51 Iterative Shield Regenerator (Cargo)
+Medium Shield Booster I (Cargo)
+Large Shield Booster I (Cargo)
+Medium Shield Transporter I, Qty: 2 (Cargo)
+Miner I (Cargo)
+Medium Capacitor Battery I, Qty: 2 (Cargo)
+Medium Ohm Capacitor Reserve I (Cargo)
+Medium Armor Repairer I, Qty: 2 (Cargo)
+Small Energy Transfer Array I, Qty: 2 (Cargo)
+200mm 'Scout' I Accelerator Cannon (Cargo)
+200mm Railgun I, Qty: 5 (Cargo)
+250mm Railgun I (Cargo)
+Medium Tapered Capacitor Infusion I (Cargo)
+ECM Burst I (Cargo)
+Thorium Charge L, Qty: 100 (Cargo)
+ECM - Multispectral Jammer I, Qty: 2 (Cargo)
+Tracking Computer I, Qty: 2 (Cargo)
+Co-Processor I, Qty: 2 (Cargo)
+Kinetic Deflection Amplifier I (Cargo)
+'Accord' I Core Compensation (Cargo)
+'Arbalest' Cruise Launcher I (Cargo)
+Assault Missile Launcher I, Qty: 3 (Cargo)
+Burned Logic Circuit, Qty: 16 (Cargo)
+Ward Console, Qty: 4 (Cargo)
+Scorched Telemetry Processor, Qty: 6 (Cargo)
+Tripped Power Circuit, Qty: 14 (Cargo)
+Power Diagnostic System I (Cargo)
+Beta Reactor Control: Capacitor Power Relay I (Cargo)
+Type-D Power Core Modification: Capacitor Power Relay (Cargo)
+

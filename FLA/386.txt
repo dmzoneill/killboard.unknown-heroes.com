@@ -1,0 +1,131 @@
+2007.01.29 23:27
+
+Victim: Strutu
+Alliance: None
+Corp: MEDIAPRO HOLDING
+Destroyed: Harpy
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Dark Carnage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Drake
+Weapon: Warrior I
+
+Name: Thafesko
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Cormorant
+Weapon: X5 Prototype I Engine Enervator
+
+Name: truefranco
+Security: -0.5
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Prodigal IV
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Ship: Incursus
+Weapon: Incursus
+
+Name: Kryton55 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Crow
+Weapon: Thorn Rocket
+
+Name: WolfRavage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Hyperion
+Weapon: Hyperion
+
+Name: Teck7
+Security: 0.8
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ishtar
+Weapon: Ishtar
+
+Name: Feke
+Security: 4.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Moa
+Weapon: Moa
+
+Name: Wicked Pissah
+Security: 0.1
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Blackbird
+Weapon: Havoc Heavy Missile
+
+Name: Aspi Rene
+Security: 2.4
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Megathron
+Weapon: Megathron
+
+Name: Xantheris
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: wrecker300
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Scorpion
+Weapon: 'Limos' Cruise Launcher I
+
+Name: coldkill
+Security: 1.3
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Vexor
+Weapon: Vexor
+
+Name: arthell
+Security: 2.8
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Celestis
+Weapon: Indirect Scanning Dampening Unit I
+
+Name: Illesa
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Wolf
+Weapon: Wolf
+
+
+Destroyed items:
+
+Small 'Ghoul' Energy Siphon I
+Light Ion Blaster II
+Light Ion Blaster II
+Null S, Qty: 236
+Medium Subordinate Screen Stabilizer I
+Cold-Gas I Arcjet Thrusters
+J5b Phased Prototype Warp Inhibitor I
+Micro Auxiliary Power Core I
+Reactor Control Unit II
+Magnetic Scattering Amplifier I (Cargo)
+Null S, Qty: 1494 (Cargo)
+

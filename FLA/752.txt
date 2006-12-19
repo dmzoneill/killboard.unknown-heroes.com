@@ -1,0 +1,26 @@
+2007.02.19 18:47
+
+Victim: Alley Cat
+Alliance: Gunboat Diplomacy
+Corp: Warped Mining
+Destroyed: Capsule
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Genvu Daikanta
+Security: 2.1
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Weeble Wooble (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Catalyst
+Weapon: 125mm Railgun II
+
+

@@ -1,0 +1,47 @@
+2006.11.12 01:57
+
+Victim: Pilious
+Alliance: The Core Collective
+Corp: U.N. SPACY
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Hosanna (laid the final blow)
+Security: 1.7
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Thrasher
+Weapon: 280mm Howitzer Artillery II
+
+Name: Scorpio63
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Vengeance
+Weapon: Medium Pulse Laser II
+
+Name: Orcadian
+Security: 1.2
+Alliance: None
+Corp: Blackguard Brigade
+Ship: Jaguar
+Weapon: 200mm AutoCannon II
+
+Name: Elfaen Ethenwe
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+Name: Damhtman
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Hawk
+Weapon: Standard Missile Launcher II
+
+

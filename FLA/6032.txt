@@ -1,0 +1,44 @@
+2006.11.06 14:46
+
+Victim: Nightlshade
+Alliance: Schism.
+Corp: WING LORDS
+Destroyed: Caldari Shuttle
+System: J-CIJV
+Security: 0.0
+
+Involved parties:
+
+Name: Gangreen
+Security: 0.1
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Thorax
+Weapon: Thorax
+
+Name: Dog Cancer (laid the final blow)
+Security: 1.4
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: SleepyOSU
+Security: 4.4
+Alliance: Freelancer Alliance
+Corp: Sin-X Inc.
+Ship: Vexor
+Weapon: ECM - Multispectral Jammer I
+
+Name: Scorpio63
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Maller
+Weapon: Focused Medium Pulse Laser I
+
+
+Destroyed items:
+
+10MN MicroWarpdrive I (Cargo)
+

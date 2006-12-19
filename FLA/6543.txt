@@ -1,0 +1,36 @@
+2006.11.17 00:18
+
+Victim: JMcClane
+Alliance: None
+Corp: Dark-Rising
+Destroyed: Thorax
+System: 3T7-M8
+Security: 0.0
+
+Involved parties:
+
+Name: Severa Crest (laid the final blow)
+Security: 4.0
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Ship: Typhoon
+Weapon: Ogre I
+
+
+Destroyed items:
+
+Medium 'Knave' I Energy Drain
+Light Neutron Blaster II
+Light Neutron Blaster II
+Light Neutron Blaster II
+Void S, Qty: 160
+Y-T8 Overcharged Hydrocarbon I Microwarpdrive
+J5 Prototype Warp Inhibitor I
+X5 Prototype I Engine Enervator
+Magnetic Field Stabilizer II
+Void S, Qty: 1414 (Cargo)
+Shock 'Limos' Siege Missile Bay I (Cargo)
+ZW-4100 Siege Missile Bay (Cargo)
+Small Tractor Beam I (Cargo)
+Valkyrie II, Qty: 3 (Drone Bay)
+

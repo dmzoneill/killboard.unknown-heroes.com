@@ -1,0 +1,40 @@
+2006.11.04 06:55
+
+Victim: Michael Valzone
+Alliance: None
+Corp: State War Academy
+Destroyed: Merlin
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Enochios (laid the final blow)
+Security: 1.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Retribution
+Weapon: Medium Pulse Laser II
+
+Name: Drashkar
+Security: 2.1
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Raven
+Weapon: Siege Missile Launcher II
+
+
+Destroyed items:
+
+150mm 'Scout' I Accelerator Cannon
+Foxfire Rocket, Qty: 18
+Standard Missile Launcher I
+Civilian Shield Booster I
+ECM - Multispectral Jammer I
+150mm 'Scout' I Accelerator Cannon (Cargo)
+Uranium Charge S, Qty: 360 (Cargo)
+Tracking Link I (Cargo)
+Warp Core Stabilizer I (Cargo)
+100mm Reinforced Crystalline Carbonide Plates I (Cargo)
+Foxfire Rocket, Qty: 70 (Cargo)
+

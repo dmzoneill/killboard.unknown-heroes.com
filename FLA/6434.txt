@@ -1,0 +1,30 @@
+2006.11.13 22:52
+
+Victim: xon minator
+Alliance: Interstellar Starbase Syndicate
+Corp: United Space Republic
+Destroyed: Minmatar Shuttle
+System: 7RM-N0
+Security: 0.0
+
+Involved parties:
+
+Name: avelution (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Harpy
+Weapon: Sabretooth Light Missile
+
+Name: Liquid Neon
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Harpy
+Weapon: 150mm Prototype I Gauss Gun
+
+
+Destroyed items:
+
+Armor Thermic Hardener I (Cargo)
+

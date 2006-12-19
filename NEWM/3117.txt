@@ -1,0 +1,168 @@
+2007.03.25 00:08
+
+Victim: Hunter Roshak
+Alliance: YouWhat
+Corp: SteelVipers
+Destroyed: Armageddon
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Vesspasiano
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Dominix
+Weapon: Ogre II
+
+Name: chota
+Security: 5.0
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Typhoon
+Weapon: Ogre I
+
+Name: Nimbu (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: J.I.T. Enterprises
+Ship: Rokh
+Weapon: 425mm Railgun I
+
+Name: Drako Invictus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Absolution
+Weapon: Warp Disruptor I
+
+Name: sakana
+Security: -0.9
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Megathron
+Weapon: Megathron
+
+Name: Drake Smith
+Security: 0.1
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Capsule
+Weapon: Heavy Missile Launcher I
+
+Name: Darthirishguy
+Security: 1.6
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Jonkai
+Security: -3.9
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Jonas123
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Rokh
+Weapon: Rokh
+
+Name: ISpydeRI
+Security: 5.0
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Drake
+Weapon: Hornet I
+
+Name: ConXtionS
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: The Night Crew
+Ship: Thorax
+Weapon: Heavy Neutron Blaster I
+
+Name: StrikerOneSevern
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Rupture
+Weapon: Rupture
+
+Name: Denaris1
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Ferox
+Weapon: Ferox
+
+Name: Sabe
+Security: 5.0
+Alliance: Red Horizon
+Corp: Red Horizon Inc
+Ship: Gila
+Weapon: Gila
+
+Name: Zephia
+Security: -8.7
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Omen
+Weapon: Medium Nosferatu I
+
+Name: Logand Delta
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Ship: Drake
+Weapon: Widowmaker Heavy Missile
+
+Name: HYT gangster
+Security: 1.5
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Claw
+Weapon: Claw
+
+Name: Minisoza
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ishkur
+Weapon: Hammerhead II
+
+Name: Iss Hogai
+Security: 5.0
+Alliance: Zenith Affinity
+Corp: GREY COUNCIL
+Ship: Caracal
+Weapon: Thunderbolt Heavy Missile
+
+
+Destroyed items:
+
+Mega Pulse Laser II
+Mega Pulse Laser II
+Mega Pulse Laser II
+Mega Pulse Laser II
+Mega Pulse Laser II
+Dual Heavy Pulse Laser II
+Large Coaxial Regenerative Projector
+Scorch L
+Conflagration L
+Conflagration L
+Prototype I Sensor Booster
+Damage Control I
+Large 'Accommodation' Vestment Reconstructer I
+Heat Sink II
+Energized Adaptive Nano Membrane I
+1600mm Reinforced Rolled Tungsten Plates I
+Standard L (Cargo)
+Multifrequency L (Cargo)
+Scorch L, Qty: 2 (Cargo)
+Conflagration L (Cargo)
+

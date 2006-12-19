@@ -1,0 +1,47 @@
+2007.04.05 22:30
+
+Victim: Pollo Loco
+Alliance: None
+Corp: Red Dawn Empire
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Penal Serge
+Security: 5.0
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Drake
+Weapon: Warrior II
+
+Name: Harkley
+Security: 2.3
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Armageddon
+Weapon: Mega Pulse Laser I
+
+Name: Jacqueline Skouris (laid the final blow)
+Security: -1.6
+Alliance: 3asy Company
+Corp: Eth3real
+Ship: Rokh
+Weapon: 425mm Prototype I Gauss Gun
+
+Name: alon blackhelm
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Myrmidon
+Weapon: Myrmidon
+
+Name: SpikehBoy
+Security: 0.4
+Alliance: Forces of Freedom
+Corp: Band of the Red Hand
+Ship: Caracal
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+

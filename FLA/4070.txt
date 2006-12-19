@@ -1,0 +1,61 @@
+2007.04.13 19:29
+
+Victim: bswfgsdf26
+Alliance: None
+Corp: Federal Navy Academy
+Destroyed: Vexor
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Jarath Abyss (laid the final blow)
+Security: 4.2
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Ship: Thorax
+Weapon: Valkyrie I
+
+Name: Wallyx
+Security: 4.5
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Abaddon
+Weapon: Mega Modulated Pulse Energy Beam I
+
+Name: Yesh
+Security: 0.0
+Alliance: The Fifth Race
+Corp: Antares Frontier
+Ship: Malediction
+Weapon: Malediction
+
+Name: TasKu
+Security: 5.0
+Alliance: NxT LeveL
+Corp: Nexus Legion
+Ship: Eris
+Weapon: TE-2100 Standard Missile Bay
+
+Name: Midiana
+Security: -1.1
+Alliance: NxT LeveL
+Corp: Nexus Legion
+Ship: Dominix
+Weapon: E500 Prototype Energy Vampire
+
+Name: Kiersten
+Security: -4.4
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Ishkur
+Weapon: Light Ion Blaster II
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Warp Disruptor I
+BZ-5 Neutralizing Spatial Destabilizer ECM
+ECM - Multispectral Jammer I
+

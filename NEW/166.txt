@@ -1,0 +1,119 @@
+2007.01.29 21:14
+
+Victim: POS Probe
+Alliance: None
+Corp: Imperial Academy
+Destroyed: Punisher
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Weeble Wooble (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Catalyst
+Weapon: Hornet II
+
+Name: Maggallus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Prodigal IV
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Ship: Incursus
+Weapon: Hobgoblin II
+
+Name: Mr Kilgore
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Typhoon
+Weapon: Cataclysm Cruise Missile
+
+Name: Illesa
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Wolf
+Weapon: 200mm AutoCannon II
+
+Name: Tiberius Drake
+Security: 2.8
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Thorax
+Weapon: Thorax
+
+Name: WolfRavage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Hyperion
+Weapon: Hyperion
+
+Name: mrrabit
+Security: 3.3
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Cyclone
+Weapon: Cyclone
+
+Name: malkey
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Blackbird
+Weapon: Advanced 'Limos' Heavy Missile Bay I
+
+Name: arthell
+Security: 2.8
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Celestis
+Weapon: Remote Sensor Dampener I
+
+Name: Kappas.
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Celestis
+Weapon: Remote Sensor Dampener I
+
+Name: Jorax
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Myrmidon
+Weapon: Target Painter I
+
+Name: Jonkai
+Security: -4.8
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Drake
+Weapon: Heavy Missile Launcher I
+
+Name: Eacham Graeme
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Scorpion
+Weapon: ECM - Ion Field Projector II
+
+
+Destroyed items:
+
+Medium Afocal Pulse Maser I, Qty: 3
+Radio S, Qty: 2
+Civilian Shield Booster I
+Civilian Afterburner
+100mm Reinforced Steel Plates II
+Bookmark (Cargo)
+Radio S (Cargo)

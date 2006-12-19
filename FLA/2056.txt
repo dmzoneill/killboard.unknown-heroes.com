@@ -1,0 +1,19 @@
+2007.01.19 12:19
+
+Victim: Cockroach
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Capsule
+System: Jita
+Security: 0.9
+
+Involved parties:
+
+Name: zwerg (laid the final blow)
+Security: -1.8
+Alliance: Privateer Alliance
+Corp: mUfFiN fAcToRy
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+

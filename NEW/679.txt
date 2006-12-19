@@ -1,0 +1,62 @@
+2007.05.07 10:48
+
+Victim: Gythar
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Destroyed: Raven
+System: OWXT-5
+Security: 0.0
+
+Involved parties:
+
+Name: Ascy
+Security: -0.4
+Alliance: Star Buccaneers
+Corp: Liga Freier Terraner
+Ship: Vengeance
+Weapon: Vengeance
+
+Name: Blister01 (laid the final blow)
+Security: 2.9
+Alliance: Star Buccaneers
+Corp: Caille Insurance
+Ship: Huginn
+Weapon: 720mm Howitzer Artillery II
+
+Name: Corgalen
+Security: 3.8
+Alliance: Star Buccaneers
+Corp: Liga Freier Terraner
+Ship: Thorax
+Weapon: Thorax
+
+Name: Varlot
+Security: 3.9
+Alliance: Star Buccaneers
+Corp: Caille Insurance
+Ship: Taranis
+Weapon: Taranis
+
+
+Destroyed items:
+
+Heavy Diminishing Power System Drain I
+Prototype Cloaking Device I
+Wrath Cruise Missile, Qty: 23
+Cataclysm Cruise Missile, Qty: 20
+Siege Missile Launcher I, Qty: 2
+'Malkuth' Siege Missile Launcher I
+X-Large C5-L Emergency Shield Overload I
+Eutectic I Capacitor Charge Array
+Ballistic Deflection Field I
+Heat Dissipation Field I
+Quantum Co-Processor I
+Ballistic Control System I
+Power Diagnostic System I
+Inferno Torpedo, Qty: 377 (Cargo)
+Mjolnir Torpedo, Qty: 76 (Cargo)
+Wrath Cruise Missile, Qty: 2238 (Cargo)
+Paradise Cruise Missile, Qty: 200 (Cargo)
+Cataclysm Cruise Missile, Qty: 154 (Cargo)
+Devastator Cruise Missile, Qty: 194 (Cargo)
+Vespa I (Drone Bay)

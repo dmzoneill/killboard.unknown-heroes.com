@@ -1,0 +1,48 @@
+2006.10.23 20:07
+
+Victim: Pirx jr
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Destroyed: Guardian
+System: MI6O-6
+Security: 0.0
+
+Involved parties:
+
+Name: arthell
+Security: 1.4
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Vexor
+Weapon: Vespa I
+
+Name: AceMace (laid the final blow)
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+Name: copicus
+Security: 5.2
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Raven
+Weapon: 'Arbalest' Cruise Launcher I
+
+Name: GrandMastaXP
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Raven
+Weapon: Cruise Missile Launcher II
+
+
+Destroyed items:
+
+Medium 'Regard' I Power Projector
+Medium Partial E95b Power Conduit
+Large Peroxide I Capacitor Power Cell
+Small Armor Repairer I
+Warp Core Stabilizer I
+

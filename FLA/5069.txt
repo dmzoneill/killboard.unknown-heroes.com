@@ -1,0 +1,26 @@
+2007.04.21 18:54
+
+Victim: Xenofur
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Vigil
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Fitz Farseer (laid the final blow)
+Security: 0.5
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Hound
+Weapon: Cataclysm Cruise Missile
+
+
+Destroyed items:
+
+75mm Gatling Rail I
+Antimatter Charge S, Qty: 192
+Stasis Webifier I
+Overdrive Injector System I
+

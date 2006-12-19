@@ -1,0 +1,55 @@
+2006.10.26 17:51
+
+Victim: vickers
+Alliance: None
+Corp: Mentally Unstable Enterprises
+Destroyed: Crow
+System: Litiura
+Security: 0.5
+
+Involved parties:
+
+Name: TheBelgarion (laid the final blow)
+Security: 4.4
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Flashh Gorden
+Security: 2.4
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Stardust Mina
+Security: 2.8
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Ship: Rupture
+Weapon: Sabretooth Light Missile
+
+Name: Midiana
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Enyo
+Weapon: Enyo
+
+Name: SleepyOSU
+Security: 4.2
+Alliance: Freelancer Alliance
+Corp: Sin-X Inc.
+Ship: Thorax
+Weapon: ECM - Multispectral Jammer I
+
+
+Destroyed items:
+
+Standard Missile Launcher II
+Bloodclaw Precision Light Missile, Qty: 48
+Gistii A-Type 1MN MicroWarpdrive
+Bloodclaw Light Missile, Qty: 325 (Cargo)
+Bloodclaw Precision Light Missile, Qty: 829 (Cargo)
+

@@ -1,0 +1,25 @@
+2007.01.06 16:07
+
+Victim: Amon Fire
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Destroyed: Punisher
+System: Torrinos
+Security: 0.5
+
+Involved parties:
+
+Name: SoulScourge (laid the final blow)
+Security: -1.5
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Tempest Fleet Issue
+Weapon: 1400mm Howitzer Artillery II
+
+
+Destroyed items:
+
+Medium Afocal Pulse Maser I
+Warp Core Stabilizer I
+Nanofiber Internal Structure I
+

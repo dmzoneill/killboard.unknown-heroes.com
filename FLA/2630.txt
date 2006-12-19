@@ -1,0 +1,35 @@
+2007.02.27 18:24
+
+Victim: Xantheris
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Destroyed: Blackbird
+System: KVN-36
+Security: 0.0
+
+Involved parties:
+
+Name: pajzi (laid the final blow)
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Claw
+Weapon: 150mm Light AutoCannon II
+
+Name: DAViiD
+Security: -0.6
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Taranis
+Weapon: 125mm Railgun II
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Sabretooth Light Missile, Qty: 53
+Assault Missile Launcher I
+'Hypnos' Ion Field ECM I
+Flameburst Light Missile, Qty: 133 (Cargo)
+Bloodclaw Light Missile, Qty: 133 (Cargo)
+

@@ -1,0 +1,152 @@
+2006.09.02 21:45
+
+Victim: Fedaykin Naib
+Alliance: None
+Corp: 0utbreak
+Destroyed: Vagabond
+System: 9-R6GU
+Security: 0.0
+
+Involved parties:
+
+Name: Ageha
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Apocalypse
+Weapon: Apocalypse
+
+Name: Moebium
+Security: 0.8
+Alliance: Imperial Republic Of the North
+Corp: Port Royal Independent Kontractors
+Ship: Cerberus
+Weapon: Scourge Heavy Missile
+
+Name: Infestor (laid the final blow)
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Absolution
+Weapon: Heavy Pulse Laser II
+
+Name: DDaisy
+Security: 4.5
+Alliance: CORE.
+Corp: VentureCorp
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Shiri elAzarinres
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Raven
+Weapon: 'Hypnos' Ion Field ECM I
+
+Name: Puke
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Cerberus
+Weapon: Scourge Heavy Missile
+
+Name: PhybreOptyk
+Security: 3.5
+Alliance: Chorus of Dawn
+Corp: Black Knight Buccaneers
+Ship: Scorpion
+Weapon: Devastator Cruise Missile
+
+Name: Guristas Terrorist / Guristas
+
+Name: Steven FSB
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Raven
+Weapon: ECM - Multispectral Jammer I
+
+Name: ShiVAs PArAdOXx
+Security: 2.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Huginn
+Weapon: Huginn
+
+Name: steve gates
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Hawk
+Weapon: Warp Disruptor I
+
+Name: freestrike
+Security: 5.9
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Scorpion
+Weapon: Devastator Cruise Missile
+
+Name: tyrol
+Security: 3.1
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Megathron
+Weapon: Megathron
+
+Name: Charlie Mike
+Security: 1.5
+Alliance: Chorus of Dawn
+Corp: Black Knight Buccaneers
+Ship: Blackbird
+Weapon: Scourge Heavy Missile
+
+Name: J'Silk
+Security: 4.8
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Sabre
+Weapon: 250mm Light Artillery Cannon II
+
+Name: Valtaer
+Security: 3.5
+Alliance: Freelancer Alliance
+Corp: Terminal Velocity Inc.
+Ship: Blackbird
+Weapon: ECM - Multispectral Jammer I
+
+Name: Needa3
+Security: 3.8
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Stabber
+Weapon: Bloodclaw Light Missile
+
+Name: casama
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Crusader
+Weapon: Crusader
+
+Name: Nagrid
+Security: 2.1
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Celestis
+Weapon: Celestis
+
+
+Destroyed items:
+
+220mm Vulcan AutoCannon II
+220mm Vulcan AutoCannon II
+Barrage M, Qty: 160
+Large Shield Extender II
+Warp Disruptor I
+Gyrostabilizer II
+Phased Plasma S, Qty: 4736 (Cargo)
+ECCM Projector I (Cargo)
+Barrage M, Qty: 3141 (Cargo)
+

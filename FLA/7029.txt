@@ -1,0 +1,36 @@
+2006.12.21 21:11
+
+Victim: K Shara
+Alliance: Triumvirate.
+Corp: D00M.
+Destroyed: Crow
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Goca (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Raven
+Weapon: Inferno Javelin Torpedo
+
+Name: Danielson1012
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Ferox
+Weapon: 250mm Compressed Coil Gun I
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 30
+Standard Missile Launcher II
+Small F-S9 Regolith Shield Induction
+1MN MicroWarpdrive II
+Piranha Light Missile, Qty: 951 (Cargo)
+Sabretooth Precision Light Missile, Qty: 744 (Cargo)
+Flameburst Fury Light Missile, Qty: 996 (Cargo)
+

@@ -1,0 +1,153 @@
+2007.04.05 00:34
+
+Victim: ConXtionS
+Alliance: Freelancer Alliance
+Corp: The Night Crew
+Destroyed: Vexor
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: DeathGrip
+Security: 3.6
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Hawk
+Weapon: Thorn Javelin Rocket
+
+Name: Joshua Foiritain
+Security: -1.7
+Alliance: Corelum Syndicate
+Corp: Coreli Corporation
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Richard Biegewald
+Security: 5.0
+Alliance: Axiom Empire
+Corp: United Society Starfleet
+Ship: Wolf
+Weapon: Wolf
+
+Name: e3joker
+Security: 4.0
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Harpy
+Weapon: Harpy
+
+Name: Lady Vanquish
+Security: 3.9
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Claw
+Weapon: Claw
+
+Name: merckiller
+Security: 1.2
+Alliance: Xelas Alliance
+Corp: Requiem of Hades
+Ship: Crusader
+Weapon: Crusader
+
+Name: EVIL SYNNs
+Security: 0.0
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Wolf
+Weapon: 250mm Light Artillery Cannon II
+
+Name: androsix
+Security: 4.7
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Pilgrim
+Weapon: Valkyrie II
+
+Name: david23
+Security: 5.0
+Alliance: Xelas Alliance
+Corp: Requiem of Hades
+Ship: Hawk
+Weapon: Bloodclaw Light Missile
+
+Name: IamnobodyCL
+Security: 5.0
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Vengeance
+Weapon: Vengeance
+
+Name: Tanaka Atsuko
+Security: -3.0
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Arazu
+Weapon: 200mm Prototype I Gauss Gun
+
+Name: DmD666
+Security: -1.1
+Alliance: Axiom Empire
+Corp: United Society Starfleet
+Ship: Malediction
+Weapon: Malediction
+
+Name: Ditchdoctor
+Security: 5.0
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Stiletto
+Weapon: Sabretooth Light Missile
+
+Name: Genghis Temuchin (laid the final blow)
+Security: 5.0
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Taranis
+Weapon: Light Neutron Blaster II
+
+Name: kIM JONGELL
+Security: 4.4
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Blackbird
+Weapon: Low Frequency Sensor Suppressor I
+
+Name: MsMephistopheles
+Security: 2.3
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Ishkur
+Weapon: Initiated Warp Jammer I
+
+Name: Kadisha
+Security: 3.9
+Alliance: Axiom Empire
+Corp: United Society Starfleet
+Ship: Vigil
+Weapon: Target Painter I
+
+Name: Hansihandyr
+Security: 4.6
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Taranis
+Weapon: Warp Disruptor II
+
+Name: Cyan Nuevo
+Security: 1.3
+Alliance: Xelas Alliance
+Corp: Bravehearts
+Ship: Maller
+Weapon: Maller
+
+
+Destroyed items:
+
+Anode Ion Particle Cannon I
+Antimatter Charge M, Qty: 100
+Prototype Cloaking Device I
+Alumel-Wired I Sensor Augmentation
+Medium Armor Repairer II
+

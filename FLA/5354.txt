@@ -1,0 +1,49 @@
+2007.04.26 23:06
+
+Victim: Blaise deGarsanc
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Destroyed: Raven
+System: Isikesu
+Security: 0.7
+
+Involved parties:
+
+Name: Puz'ZaW
+Security: 2.3
+Alliance: Privateer Alliance
+Corp: Beyond Divinity Inc
+Ship: Hurricane
+Weapon: Dual 180mm AutoCannon II
+
+Name: Nocann (laid the final blow)
+Security: -0.5
+Alliance: Privateer Alliance
+Corp: Beyond Divinity Inc
+Ship: Hurricane
+Weapon: Dual 180mm Gallium I Machine Gun
+
+Name: Rinsith
+Security: 0.0
+Alliance: Privateer Alliance
+Corp: Beyond Divinity Inc
+Ship: Taranis
+Weapon: Hornet I
+
+
+Destroyed items:
+
+Wrath Cruise Missile, Qty: 60
+'Limos' Cruise Launcher I
+X-Large Shield Booster I
+Invulnerability Field I
+Magnetic Scattering Amplifier I
+Warp Core Stabilizer I
+Ballistic Control System I
+Hammerhead I, Qty: 3 (Cargo)
+Warrior I, Qty: 7 (Cargo)
+Havoc Heavy Missile, Qty: 172 (Cargo)
+Thunderbolt Heavy Missile, Qty: 60 (Cargo)
+Torrent Assault Missile, Qty: 500 (Cargo)
+Hammerhead I, Qty: 7 (Drone Bay)
+

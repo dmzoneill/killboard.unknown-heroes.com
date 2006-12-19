@@ -1,0 +1,46 @@
+2007.05.08 07:05
+
+Victim: Matt Ross
+Alliance: Vigilance Infinitas
+Corp: The Phoenix Rising
+Destroyed: Capsule
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Urgewyrm
+Security: 0.2
+Alliance: 3asy Company
+Corp: Otter Corp
+Ship: Thorax
+Weapon: 250mm Compressed Coil Gun I
+
+Name: ClogMan (laid the final blow)
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Stabber
+Weapon: Dual 180mm AutoCannon II
+
+Name: Aridante Lemure
+Security: 1.2
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Thrasher
+Weapon: 280mm Howitzer Artillery I
+
+Name: Mufeater
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Taranis
+Weapon: Taranis
+
+Name: Kvarium Ki
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Stabber
+Weapon: Warp Disruptor I
+

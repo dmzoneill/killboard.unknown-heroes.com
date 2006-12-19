@@ -1,0 +1,33 @@
+2007.05.20 15:38
+
+Victim: Aurix Lexico
+Alliance: Exuro Mortis
+Corp: The Burning Orphans
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Ocara Nezus (laid the final blow)
+Security: 1.5
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Crow
+Weapon: Bloodclaw Precision Light Missile
+
+Name: Alch3mik
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Jaguar
+Weapon: Flameburst Light Missile
+
+Name: Jin Steele
+Security: 2.8
+Alliance: Imperial Republic Of the North
+Corp: Port Royal Independent Kontractors
+Ship: Crow
+Weapon: 'Arbalest' Standard Missile Launcher
+
+

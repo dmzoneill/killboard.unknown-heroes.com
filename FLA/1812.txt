@@ -1,0 +1,34 @@
+2007.01.05 22:42
+
+Victim: Xenofur
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Vigil
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: SATAN (laid the final blow)
+Security: -0.9
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Warrior II
+
+Name: Mordocik
+Security: -0.7
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Typhoon
+Weapon: Sabretooth Light Missile
+
+
+Destroyed items:
+
+Small Nosferatu I
+Antimatter Charge S, Qty: 182
+Overdrive Injector System I
+Overdrive Injector System I
+Overdrive Injector System I
+

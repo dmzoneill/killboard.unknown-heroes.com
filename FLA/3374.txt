@@ -1,0 +1,40 @@
+2007.03.25 00:02
+
+Victim: 3rdoffive
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Destroyed: Executioner
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Alizarin Crimson (laid the final blow)
+Security: -1.3
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Crusader
+Weapon: Dual Light Beam Laser II
+
+Name: Keflin Geard
+Security: 5.0
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Raven
+Weapon: Mjolnir Javelin Torpedo
+
+Name: Jurushy
+Security: 4.8
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Cyclone
+Weapon: 220mm Vulcan AutoCannon I
+
+
+Destroyed items:
+
+Dual Light Beam Laser I
+Standard S
+Warp Disruptor I
+Mark I Modified SS Overdrive Injector
+

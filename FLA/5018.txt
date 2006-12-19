@@ -1,0 +1,34 @@
+2007.04.21 02:48
+
+Victim: Kvarium Ki
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Destroyed: Breacher
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Lyra Sy (laid the final blow)
+Security: 5.0
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+Name: Ghost Hughdidit
+Security: 3.1
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Thanatos
+Weapon: Einherji
+
+
+Destroyed items:
+
+1MN MicroWarpdrive I
+Small Ld-Acid Capacitor Battery I
+Micro Auxiliary Power Core I
+Phased Plasma S, Qty: 92 (Cargo)
+Phalanx Rocket, Qty: 629 (Cargo)
+

@@ -1,0 +1,26 @@
+2007.01.11 05:48
+
+Victim: Kalathmir
+Alliance: Triumvirate.
+Corp: omen.
+Destroyed: Capsule
+System: X-7OMU
+Security: 0.0
+
+Involved parties:
+
+Name: KriegDrachen (laid the final blow)
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Sabre
+Weapon: 150mm Light AutoCannon II
+
+Name: PowerGimp
+Security: 4.8
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Hawk
+Weapon: 'Arbalest' Standard Missile Launcher
+
+

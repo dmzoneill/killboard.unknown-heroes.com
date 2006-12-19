@@ -1,0 +1,42 @@
+2007.03.16 13:41
+
+Victim: Primaxin
+Alliance: Freelancer Alliance
+Corp: Harbingers of Sarrow
+Destroyed: Exequror
+System: Otou
+Security: 0.3
+
+Involved parties:
+
+Name: kapads (laid the final blow)
+Security: -10.0
+Alliance: None
+Corp: OctoberSnow Corp
+Ship: Dominix
+Weapon: Garde I
+
+Name: tiller
+Security: -10.0
+Alliance: None
+Corp: OctoberSnow Corp
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+
+Destroyed items:
+
+Improved Cloaking Device II
+Large Shield Extender I
+Additional Thermal Barrier Emitter I
+Warp Core Stabilizer I
+Warp Core Stabilizer I
+Warp Core Stabilizer I
+Small Tractor Beam I Blueprint (Cargo)
+Ancillary Current Router I Blueprint (Cargo)
+Gravity Capacitor Upgrade I Blueprint (Cargo)
+Warhead Calefaction Catalyst I Blueprint, Qty: 2 (Cargo)
+Cargohold Optimization I Blueprint (Cargo)
+Anti-Thermal Screen Reinforcer I Blueprint, Qty: 3 (Cargo)
+Anti-EM Screen Reinforcer I Blueprint, Qty: 2 (Cargo)
+

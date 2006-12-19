@@ -1,0 +1,37 @@
+2007.01.04 02:32
+
+Victim: Mr Kilgore
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Destroyed: Rapier
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Zungen (laid the final blow)
+Security: 5.0
+Alliance: Red Moon Federation
+Corp: Confederation of Red Moon
+Ship: Myrmidon
+Weapon: Berserker II
+
+
+Destroyed items:
+
+Arch Angel Nuclear M
+Arch Angel Nuclear M
+Arch Angel Nuclear M
+Arch Angel Nuclear M
+Arch Angel Nuclear M
+Arch Angel Nuclear M
+Arch Angel Nuclear M
+Arch Angel Nuclear M
+'Accord' I Core Compensation
+Bookmark, Qty: 14 (Cargo)
+720mm 'Scout' Artillery I, Qty: 2 (Cargo)
+Covert Ops Cloaking Device II (Cargo)
+Small Secure Container, Qty: 3 (Cargo)
+Beta Hull Mod Inertial Stabilizers (Cargo)
+Type-D Altered SS Nanofiber Structure (Cargo)
+

@@ -1,0 +1,51 @@
+2007.01.12 16:47
+
+Victim: Stitcher
+Alliance: Freelancer Alliance
+Corp: J.I.T. Enterprises
+Destroyed: Omen
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Darknesss
+Security: 0.1
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Myrmidon
+Weapon: Ogre II
+
+Name: Anna Neura (laid the final blow)
+Security: -0.2
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Arbitrator
+Weapon: Hobgoblin I
+
+Name: WarGod
+Security: 1.2
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Curse
+Weapon: Valkyrie II
+
+Name: Elliott Manchild
+Security: -1.8
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Dominix
+Weapon: E500 Prototype Energy Vampire
+
+
+Destroyed items:
+
+Radio M
+Radio M
+Radio M
+Piranha Light Missile, Qty: 51
+'Malkuth' Assault Missile Launcher I
+Medium Armor Repairer I
+Extruded Heat Sink I
+Multifrequency M, Qty: 4 (Cargo)
+

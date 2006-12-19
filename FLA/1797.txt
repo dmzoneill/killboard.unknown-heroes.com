@@ -1,0 +1,46 @@
+2007.01.03 23:41
+
+Victim: Tiberius Drake
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Destroyed: Thorax
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: SATAN
+Security: -0.9
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Cruise Missile Launcher II
+
+Name: Heinky
+Security: 2.4
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Abaddon
+Weapon: Tachyon Beam Laser II
+
+Name: Scythus Aratan (laid the final blow)
+Security: 4.3
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Armageddon
+Weapon: Tachyon Beam Laser II
+
+
+Destroyed items:
+
+Dual 150mm Carbide Railgun I
+Dual 150mm Carbide Railgun I
+Dual 150mm Carbide Railgun I
+Lead Charge S, Qty: 21
+Lead Charge M, Qty: 487
+Warp Disruptor I
+Medium Capacitor Booster I
+Medium Armor Repairer I
+Microcell Nanite Thermic Hardener I
+Basic Capacitor Flux Coil
+

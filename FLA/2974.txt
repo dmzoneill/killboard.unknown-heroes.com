@@ -1,0 +1,145 @@
+2007.03.17 23:40
+
+Victim: Bobby Atlas
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Brutix
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: der kohle
+Security: -0.4
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Tempest
+Weapon: Tempest
+
+Name: Eelim Garak
+Security: 1.3
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Sacrilege
+Weapon: Sacrilege
+
+Name: Dr Wupp
+Security: 5.0
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Megathron
+Weapon: Megathron
+
+Name: Tanya Kovacs (laid the final blow)
+Security: 5.1
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+Name: EveStarHunter
+Security: 4.9
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Stabber
+Weapon: Stabber
+
+Name: Thadeus Thorn
+Security: 3.7
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Damnation
+Weapon: Damnation
+
+Name: V2GBR
+Security: 5.0
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Caracal
+Weapon: Bloodclaw Light Missile
+
+Name: Sholle
+Security: 3.0
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Sabre
+Weapon: Sabre
+
+Name: IsmaelYU5 Iluvatar
+Security: 5.0
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Taranis
+Weapon: Taranis
+
+Name: Space Fear
+Security: 5.0
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Blackbird
+Weapon: Widowmaker Heavy Missile
+
+Name: Taschenflak
+Security: 4.7
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Moa
+Weapon: Warp Disruptor I
+
+Name: M4J3STIC
+Security: 5.0
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Raptor
+Weapon: Bloodclaw Light Missile
+
+Name: Marla Durden
+Security: -1.3
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Claw
+Weapon: Claw
+
+Name: istasi
+Security: -4.4
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Myrmidon
+Weapon: 150mm Railgun II
+
+Name: Neily
+Security: 4.6
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Flycatcher
+Weapon: 'Malkuth' Rocket Launcher I
+
+Name: Hamarr Decco
+Security: 0.7
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Ship: Stiletto
+Weapon: Patterned Stasis Web I
+
+Name: GordonShumway
+Security: 0.7
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+
+Destroyed items:
+
+200mm Carbide Railgun I
+200mm Carbide Railgun I
+200mm Carbide Railgun I
+Iridium Charge M, Qty: 236
+Fixed Parallel Link-Capacitor I
+Fixed Parallel Link-Capacitor I
+Medium I-a Polarized Armor Regenerator
+Energized Adaptive Nano Membrane I
+Armor Thermic Hardener I
+Armor Explosive Hardener I
+Iridium Charge M, Qty: 1980 (Cargo)
+

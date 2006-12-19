@@ -1,0 +1,47 @@
+2007.03.27 02:51
+
+Victim: ConXtionS
+Alliance: Freelancer Alliance
+Corp: The Night Crew
+Destroyed: Minmatar Shuttle
+System: E-Z2ZX
+Security: 0.0
+
+Involved parties:
+
+Name: Bedrock
+Security: 0.0
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Muninn
+Weapon: 720mm Howitzer Artillery II
+
+Name: Criosachille (laid the final blow)
+Security: 3.3
+Alliance: Xelas Alliance
+Corp: Catalyst Reaction
+Ship: Ares
+Weapon: Piranha Light Missile
+
+Name: Rif
+Security: 5.0
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Malediction
+Weapon: Dual Light Beam Laser II
+
+Name: El Coyote
+Security: 3.5
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Raptor
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+Name: Deerhoof
+Security: 0.8
+Alliance: Axiom Empire
+Corp: United Society Starfleet
+Ship: Wolf
+Weapon: Warp Disruptor II
+
+

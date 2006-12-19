@@ -1,0 +1,34 @@
+2007.01.26 06:32
+
+Victim: Liteik
+Alliance: None
+Corp: Republic Military School
+Destroyed: Stabber
+System: Aunenen
+Security: 0.4
+
+Involved parties:
+
+Name: Sanal Gi (laid the final blow)
+Security: -0.5
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ferox
+Weapon: Widowmaker Heavy Missile
+
+Name: Guristas Despoiler / Guristas
+
+
+Destroyed items:
+
+280mm Gallium I Cannon
+280mm Gallium I Cannon
+280mm Gallium I Cannon
+280mm Gallium I Cannon
+Proton S, Qty: 24
+Heavy Missile Launcher I
+Warp Disruptor I
+Small 'Knave' I Energy Drain (Cargo)
+Havoc Heavy Missile, Qty: 600 (Cargo)
+Scourge Heavy Missile, Qty: 463 (Cargo)
+

@@ -1,0 +1,36 @@
+2006.07.23 23:37
+
+Victim: Pheole
+Alliance: None
+Corp: LDK
+Destroyed: Stiletto
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Capt Cali (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: London Transport
+Ship: Cerberus
+Weapon: Scourge Precision Heavy Missile
+
+Name: jacass66
+Security: 5.3
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Thanatos
+Weapon: Firbolg
+
+
+Destroyed items:
+
+Barrage S, Qty: 55
+Gremlin Rocket, Qty: 27
+Medium Subordinate Screen Stabilizer I
+1MN MicroWarpdrive I
+Small Armor Repairer I
+Micro Auxiliary Power Core I
+Micro Auxiliary Power Core I
+

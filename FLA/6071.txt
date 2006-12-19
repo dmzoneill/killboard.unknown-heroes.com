@@ -1,0 +1,103 @@
+2006.11.06 22:39
+
+Victim: Anton March
+Alliance: None
+Corp: Skill Level Six
+Destroyed: Badger Mark II
+System: 7RM-N0
+Security: 0.0
+
+Involved parties:
+
+Name: DarkJester
+Security: 0.8
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Tempest
+Weapon: Heavy Missile Launcher I
+
+Name: Yseult Atreus (laid the final blow)
+Security: 1.5
+Alliance: Freelancer Alliance
+Corp: CriTech
+Ship: Huginn
+Weapon: Scourge Heavy Missile
+
+Name: Formosus Funus
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: LizzyD
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: Gangreen
+Security: 0.1
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Thorax
+Weapon: 125mm 'Scout' I Accelerator Cannon
+
+Name: movy
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Ares
+Weapon: Ares
+
+Name: kone on
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Sabre
+Weapon: 200mm AutoCannon II
+
+Name: coldkill
+Security: 0.8
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Ishkur
+Weapon: Fleeting Warp Scrambler I
+
+Name: TiMeZeRo225
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: J.I.T. Enterprises
+Ship: Raven
+Weapon: XT-9000 Cruise Launcher
+
+Name: Midiana
+Security: 1.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Dominix
+Weapon: Heavy 'Knave' I Energy Drain
+
+Name: Hosanna
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Jaguar
+Weapon: Faint Warp Prohibitor I
+
+Name: Flashh Gorden
+Security: 3.1
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Ship: Kestrel
+Weapon: Upgraded 'Limos' Standard Missile Bay I
+
+
+Destroyed items:
+
+10MN Afterburner I
+Warp Core Stabilizer I
+Warp Core Stabilizer I
+Cruise Missile Battery, Qty: 5 (Cargo)
+

@@ -1,0 +1,37 @@
+2007.02.26 23:19
+
+Victim: night achura
+Alliance: None
+Corp: Perkone
+Destroyed: Badger Mark II
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: ChernoChiel (laid the final blow)
+Security: -1.0
+Alliance: Dusk and Dawn
+Corp: Momentum.
+Ship: Astarte
+Weapon: Heavy Neutron Blaster II
+
+Name: Dawn Rider
+Security: -1.6
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Ship: Megathron
+Weapon: Megathron
+
+Name: pipvac
+Security: 3.2
+Alliance: DeStInY.
+Corp: Sacred Templars
+Ship: Eris
+Weapon: Eris
+
+
+Destroyed items:
+
+Mjolnir Torpedo, Qty: 10000 (Cargo)
+

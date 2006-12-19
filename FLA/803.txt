@@ -1,0 +1,51 @@
+2007.02.21 23:06
+
+Victim: Galleim Hartook
+Alliance: Ethereal Dawn
+Corp: Aristotle Enterprises
+Destroyed: Velator
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: ClogMan (laid the final blow)
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Hurricane
+Weapon: 425mm AutoCannon I
+
+Name: Teck7
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Enyo
+Weapon: Enyo
+
+Name: DarkAvenger DK
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Merlin
+Weapon: Merlin
+
+Name: Narsus
+Security: 3.3
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Megathron
+Weapon: Wasp I
+
+Name: ISliverI
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Arazu
+Weapon: 250mm Railgun II
+
+
+Destroyed items:
+
+Tritanium (Cargo)
+

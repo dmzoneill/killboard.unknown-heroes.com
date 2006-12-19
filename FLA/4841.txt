@@ -1,0 +1,32 @@
+2007.04.17 02:46
+
+Victim: Skull Fire
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Moa
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Green Leaner (laid the final blow)
+Security: 2.1
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Sleipnir
+Weapon: 720mm Howitzer Artillery II
+
+
+Destroyed items:
+
+200mm 'Scout' I Accelerator Cannon
+200mm 'Scout' I Accelerator Cannon
+Plutonium Charge M, Qty: 79
+Widowmaker Heavy Missile, Qty: 27
+10MN MicroWarpdrive I
+J5 Prototype Warp Inhibitor I
+'Langour' Drive Disruptor I
+Compulsive Multispectral ECM I
+Reactor Control Unit I
+Plutonium Charge M, Qty: 1000 (Cargo)
+

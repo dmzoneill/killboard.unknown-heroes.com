@@ -1,0 +1,67 @@
+2006.10.21 02:42
+
+Victim: Dearwin
+Alliance: R0ADKILL
+Corp: Beagle Corp
+Destroyed: Ishkur
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: digital oxygen (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Deimos
+Weapon: Heavy Electron Blaster II
+
+Name: Fugnut
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Crow
+Weapon: Crow
+
+Name: Drakose
+Security: 2.3
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Ship: Unknown
+Weapon: Medium Nosferatu I
+
+Name: Danielson1012
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Crow
+Weapon: Gremlin Rocket
+
+Name: Swanny231
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Raptor
+Weapon: Raptor
+
+Name: BladeMos
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Falcon
+Weapon: ECM - Multispectral Jammer I
+
+
+Destroyed items:
+
+Light Ion Blaster II
+Void S, Qty: 17
+J5b Phased Prototype Warp Inhibitor I
+Small Armor Repairer II
+1MN Afterburner II (Cargo)
+Warrior II (Cargo)
+Void S, Qty: 5026 (Cargo)
+Null S, Qty: 4167 (Cargo)
+Warrior II, Qty: 2 (Drone Bay)
+Acolyte II (Drone Bay)
+

@@ -1,0 +1,28 @@
+2006.10.07 20:13
+
+Victim: Paltar
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Destroyed: Catalyst
+System: Malkalen
+Security: 0.9
+
+Involved parties:
+
+Name: Onin Ra (laid the final blow)
+Security: 1.1
+Alliance: None
+Corp: Privateers
+Ship: Megathron
+Weapon: Hammerhead I
+
+
+Destroyed items:
+
+125mm Railgun II
+125mm Railgun II
+125mm Railgun II
+125mm Railgun II
+Javelin S, Qty: 240
+Javelin S, Qty: 1360 (Cargo)
+

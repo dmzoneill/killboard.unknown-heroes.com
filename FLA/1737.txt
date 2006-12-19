@@ -1,0 +1,40 @@
+2007.01.02 05:59
+
+Victim: Thiet
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Badger Mark II
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: WarGod
+Security: 1.2
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: Kru5ty (laid the final blow)
+Security: -1.8
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Vagabond
+Weapon: 220mm Medium 'Scout' Autocannon I
+
+Name: Anna Neura
+Security: -0.2
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Arazu
+Weapon: Arazu
+
+
+Destroyed items:
+
+10MN Afterburner I
+F-S8 Relativistic Deflection Shield Induction
+Expanded Cargohold I
+Expanded Cargohold I
+

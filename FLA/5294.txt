@@ -1,0 +1,38 @@
+2007.04.23 18:07
+
+Victim: Nike Calistar
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Kestrel
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Fitz Farseer (laid the final blow)
+Security: 0.5
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Rupture
+Weapon: Thunderbolt Heavy Missile
+
+Name: Evil Bunnies
+Security: 0.2
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Blackbird
+Weapon: FZ-3 Subversive Spatial Destabilizer ECM
+
+
+Destroyed items:
+
+Sabretooth Light Missile, Qty: 74
+Upgraded 'Limos' Standard Missile Bay I
+'Malkuth' Standard Missile Launcher I
+'Malkuth' Standard Missile Launcher I
+1MN MicroWarpdrive I
+Stasis Webifier I
+Magnetic Scattering Amplifier I
+Local Power Plant Manager: Capacity Power Relay I
+Sabretooth Light Missile, Qty: 116 (Cargo)
+

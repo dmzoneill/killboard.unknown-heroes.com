@@ -1,0 +1,127 @@
+2007.03.05 00:21
+
+Victim: Meeat
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Destroyed: Drake
+System: 3WE-KY
+Security: 0.0
+
+Involved parties:
+
+Name: Caarnji
+Security: -1.9
+Alliance: Dusk and Dawn
+Corp: ECP Rogues
+Ship: Drake
+Weapon: Scourge Fury Heavy Missile
+
+Name: TheSizzler (laid the final blow)
+Security: 3.6
+Alliance: Dusk and Dawn
+Corp: Tri Optimum
+Ship: Zealot
+Weapon: Heavy Pulse Laser II
+
+Name: Flinx Evenstar
+Security: -1.2
+Alliance: Dusk and Dawn
+Corp: Momentum.
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: Cecilia Walsh
+Security: 3.6
+Alliance: Dusk and Dawn
+Corp: Cataclysm Enterprises
+Ship: Curse
+Weapon: Hammerhead II
+
+Name: Fout Debiele
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Cataclysm Enterprises
+Ship: Myrmidon
+Weapon: Myrmidon
+
+Name: Blue Sassley
+Security: -0.5
+Alliance: Dusk and Dawn
+Corp: Momentum.
+Ship: Ferox
+Weapon: Widowmaker Fury Heavy Missile
+
+Name: magarethe
+Security: 0.2
+Alliance: Dusk and Dawn
+Corp: Die Apokalyptischen Reiter
+Ship: Rifter
+Weapon: 200mm AutoCannon II
+
+Name: Xantheris
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: Easterwood
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Infinite Improbability Inc
+Ship: Taranis
+Weapon: Acolyte II
+
+Name: Torquemanda Corteaz
+Security: 3.9
+Alliance: Dusk and Dawn
+Corp: Infinite Improbability Inc
+Ship: Taranis
+Weapon: Taranis
+
+Name: Takeshi Nuwen
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: The X-Trading Company
+Ship: Crow
+Weapon: Bloodclaw Precision Light Missile
+
+Name: Selina VanHool
+Security: 0.8
+Alliance: Dusk and Dawn
+Corp: Cataclysm Enterprises
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Snake solid
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Konstrukteure der Zukunft
+Ship: Flycatcher
+Weapon: Flycatcher
+
+Name: Bigfood
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Cataclysm Enterprises
+Ship: Lachesis
+Weapon: Lachesis
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 87
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+Invulnerability Field I
+Invulnerability Field I
+Sensor Booster I
+Sensor Booster I
+Ballistic Control System I
+Ballistic Control System I
+Power Diagnostic System I
+Scourge Heavy Missile, Qty: 1407 (Cargo)
+

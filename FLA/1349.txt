@@ -1,0 +1,45 @@
+2007.03.11 13:06
+
+Victim: Sylvia McGregor
+Alliance: YouWhat
+Corp: SteelVipers
+Destroyed: Incursus
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Illesa (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Caracal
+Weapon: Widowmaker Heavy Missile
+
+Name: FlobbMkII
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Taranis
+Weapon: Taranis
+
+
+Destroyed items:
+
+150mm 'Scout' I Accelerator Cannon
+150mm 'Scout' I Accelerator Cannon
+Thorium Charge S
+Thorium Charge S
+Thorium Charge S
+Thorium Charge S
+Monopropellant I Hydrazine Boosters
+Sensor Booster I
+Type-D Altered SS Inertial Stabilizers
+200mm Light Prototype I Automatic Cannon (Cargo)
+X5 Prototype I Engine Enervator (Cargo)
+Modal Light Neutron Particle Accelerator I (Cargo)
+Phased Plasma S, Qty: 181 (Cargo)
+Nuclear S, Qty: 76 (Cargo)
+Antimatter Charge S, Qty: 72 (Cargo)
+Warrior I (Cargo)
+

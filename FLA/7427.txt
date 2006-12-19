@@ -1,0 +1,74 @@
+2006.09.04 15:48
+
+Victim: Wyndwhisper
+Alliance: None
+Corp: Digital Fury Corporation
+Destroyed: Crow
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: LiBraga
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Rook
+Weapon: Widowmaker Heavy Missile
+
+Name: Demarcus (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Nighthawk
+Weapon: Thunderbolt Fury Heavy Missile
+
+Name: Noitaakka
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+Name: Corovus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: THeOThErs
+Ship: Ares
+Weapon: Ares
+
+Name: XxAngelxX
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Malediction
+Weapon: Malediction
+
+Name: Shocker Vern
+Security: 3.1
+Alliance: Freelancer Alliance
+Corp: EVE MegaCorp Association
+Ship: Raptor
+Weapon: Thorn Rocket
+
+Name: Shock Ryder
+Security: 4.8
+Alliance: Freelancer Alliance
+Corp: EVE MegaCorp Association
+Ship: Rupture
+Weapon: 650mm Artillery Cannon I
+
+Name: Jumar Coldgin
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Eagle
+Weapon: Eagle
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 89
+Standard Missile Launcher II
+J5 Prototype Warp Inhibitor I
+

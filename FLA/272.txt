@@ -1,0 +1,54 @@
+2007.01.20 21:14
+
+Victim: Harpo
+Alliance: None
+Corp: Deep Core Mining Inc.
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: dastommy79
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Thorax
+Weapon: Heavy Ion Blaster I
+
+Name: Chuck Dawg
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Blackbird
+Weapon: Thunderbolt Heavy Missile
+
+Name: Scorpio63
+Security: 5.0
+Alliance: NxT LeveL
+Corp: Nexus Legion
+Ship: Omen
+Weapon: Omen
+
+Name: Iteena Mondovi (laid the final blow)
+Security: 5.0
+Alliance: NxT LeveL
+Corp: The 5 Amigo's LLC.
+Ship: Rokh
+Weapon: Ion Blaster Cannon I
+
+Name: seidar
+Security: 4.7
+Alliance: NxT LeveL
+Corp: Nexus Legion
+Ship: Thorax
+Weapon: 200mm Compressed Coil Gun I
+
+Name: Super Homer
+Security: 1.7
+Alliance: NxT LeveL
+Corp: Nexus Legion
+Ship: Caracal
+Weapon: Heavy Missile Launcher I
+
+

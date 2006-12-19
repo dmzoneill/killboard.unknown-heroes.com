@@ -1,0 +1,160 @@
+2007.05.03 03:57
+
+Victim: Bobby Atlas
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Moros
+System: C4C-Z4
+Security: 0.0
+
+Involved parties:
+
+Name: Alynthir
+Security: 2.5
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Revelation
+Weapon: Revelation
+
+Name: Skinny Boy
+Security: 4.1
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Moros
+Weapon: Moros
+
+Name: SteVewojo
+Security: 5.0
+Alliance: YouWhat
+Corp: Pringles Inc.
+Ship: Revelation
+Weapon: Revelation
+
+Name: Genrom
+Security: 4.5
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Moros
+Weapon: Ogre II
+
+Name: Mjabi (laid the final blow)
+Security: 0.8
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Revelation
+Weapon: Dual Giga Beam Laser I
+
+Name: tiki bmp
+Security: 1.0
+Alliance: YouWhat
+Corp: Cosmic Odyssey
+Ship: Moros
+Weapon: Moros
+
+Name: Infamacious
+Security: 0.3
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Revelation
+Weapon: Revelation
+
+Name: Omaka Takim
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Revelation
+Weapon: Revelation
+
+Name: MeanG
+Security: 3.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Moros
+Weapon: Moros
+
+Name: Xulnaga
+Security: 1.9
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Revelation
+Weapon: Revelation
+
+Name: Goosemen
+Security: -0.3
+Alliance: Mercenary Coalition
+Corp: Seraphin Technologies
+Ship: Capsule
+Weapon: Citadel Torpedo Launcher I
+
+Name: Seleene
+Security: -1.8
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Nyx
+Weapon: Templar
+
+Name: Tjakka
+Security: 0.8
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Moros
+Weapon: Moros
+
+Name: MIGHTYDWC
+Security: 4.7
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Megathron
+Weapon: Megathron
+
+Name: Surfinal
+Security: 5.0
+Alliance: Axiom Empire
+Corp: United Society Starfleet
+Ship: Taranis
+Weapon: Taranis
+
+Name: NightHawk VenGarden
+Security: 1.2
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Pilgrim
+Weapon: Vespa II
+
+Name: FowlPlayChiken
+Security: 1.2
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Thanatos
+Weapon: Einherji
+
+Name: KILLOR
+Security: 4.4
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Archon
+Weapon: Archon
+
+
+Destroyed items:
+
+Ion Siege Blaster Cannon I
+Antimatter Charge XL, Qty: 128
+Cap Recharger II
+Cap Recharger II
+Cap Recharger II
+Cap Recharger II
+Cap Recharger II
+Capital Armor Repairer I
+Energized Adaptive Nano Membrane II
+Beta Reactor Control: Capacitor Power Relay I
+Antimatter Charge XL, Qty: 1999 (Cargo)
+Oxygen Isotopes, Qty: 15167 (Cargo)
+Infiltrator II, Qty: 2 (Drone Bay)
+Warrior II (Drone Bay)
+Vespa II (Drone Bay)
+Ogre I, Qty: 2 (Drone Bay)
+Hobgoblin II, Qty: 2 (Drone Bay)
+Wasp I (Drone Bay)
+Medium Armor Maintenance Bot I (Drone Bay)
+

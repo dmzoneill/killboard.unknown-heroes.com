@@ -1,0 +1,26 @@
+2006.11.08 21:31
+
+Victim: Formosus Funus
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Destroyed: Wolf
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: ammargal (laid the final blow)
+Security: 4.8
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Armageddon
+Weapon: Large Rudimentary Concussion Bomb I
+
+
+Destroyed items:
+
+250mm Light Artillery Cannon II
+250mm Light Artillery Cannon II
+Tremor S, Qty: 41
+Beta-Nought Tracking Mode
+

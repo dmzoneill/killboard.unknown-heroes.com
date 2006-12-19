@@ -1,0 +1,33 @@
+2007.05.09 12:49
+
+Victim: Marie Veedor
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Capsule
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Indiano Arko (laid the final blow)
+Security: 0.6
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Hurricane
+Weapon: 720mm Howitzer Artillery I
+
+Name: xBeneGesseritx
+Security: 5.0
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Claw
+Weapon: Fleeting Warp Scrambler I
+
+Name: CulVar
+Security: 5.0
+Alliance: Axiom Empire
+Corp: Regalis Industria Scientia Entreprendre
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+

@@ -1,0 +1,19 @@
+2006.12.17 01:14
+
+Victim: fuer bewn
+Alliance: None
+Corp: Perkone
+Destroyed: Capsule
+System: O-N8XZ
+Security: 0.0
+
+Involved parties:
+
+Name: Hosanna (laid the final blow)
+Security: 4.7
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+

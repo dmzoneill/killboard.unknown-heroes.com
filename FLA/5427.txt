@@ -1,0 +1,57 @@
+2006.10.02 16:53
+
+Victim: NerVee
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Destroyed: Manticore
+System: 93PI-4
+Security: 0.0
+
+Involved parties:
+
+Name: Jumar Coldgin (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Eagle
+Weapon: Sabretooth Precision Light Missile
+
+Name: James Potkukelkka
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Flycatcher
+Weapon: Bloodclaw Light Missile
+
+Name: kookos
+Security: 2.8
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Punisher
+Weapon: Punisher
+
+Name: W4RR10R
+Security: -1.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+Name: Karas Rabus
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Huginn
+Weapon: Standard Missile Launcher I
+
+
+Destroyed items:
+
+Improved Cloaking Device II
+Wrath Cruise Missile, Qty: 44
+XT-9000 Cruise Launcher
+XT-9000 Cruise Launcher
+Kapteyn Sensor Array Inhibitor I
+Sensor Booster II
+Wrath Cruise Missile, Qty: 265 (Cargo)
+

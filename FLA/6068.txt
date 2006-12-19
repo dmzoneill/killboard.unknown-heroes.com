@@ -1,0 +1,54 @@
+2006.11.06 22:19
+
+Victim: Tyras Bastilla
+Alliance: None
+Corp: DESTINY INC
+Destroyed: Gallente Shuttle
+System: P-2TTL
+Security: 0.0
+
+Involved parties:
+
+Name: Flashh Gorden
+Security: 3.1
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Ship: Kestrel
+Weapon: Piranha Light Missile
+
+Name: Wthor
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Sabre
+Weapon: 250mm Light Artillery Cannon II
+
+Name: Preying Mantis (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: Formosus Funus
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Jaguar
+Weapon: 250mm Light Artillery Cannon II
+
+Name: Yseult Atreus
+Security: 1.5
+Alliance: Freelancer Alliance
+Corp: CriTech
+Ship: Huginn
+Weapon: Advanced 'Limos' Heavy Missile Bay I
+
+Name: Wousr
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Stiletto
+Weapon: J5 Prototype Warp Inhibitor I
+
+

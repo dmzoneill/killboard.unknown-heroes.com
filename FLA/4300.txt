@@ -1,0 +1,46 @@
+2007.04.07 13:33
+
+Victim: DarkAvenger DK
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Retribution
+System: P-2TTL
+Security: 0.0
+
+Involved parties:
+
+Name: Otto Bismarck (laid the final blow)
+Security: 3.6
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Lady Rania
+Security: -8.3
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Huginn
+Weapon: Acolyte I
+
+Name: AIRB
+Security: 3.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Curse
+Weapon: Hobgoblin II
+
+
+Destroyed items:
+
+Gatling Pulse Laser II
+Gatling Pulse Laser II
+Ultraviolet S
+Ultraviolet S
+Ultraviolet S
+Ultraviolet S
+F-b10 Nominal Capacitor Regenerator
+Damage Control II
+Small Armor Repairer II
+Armor Thermic Hardener I
+

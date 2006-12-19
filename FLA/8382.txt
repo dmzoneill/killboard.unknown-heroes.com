@@ -1,0 +1,75 @@
+2006.11.14 20:17
+
+Victim: Aeryn Calbert
+Alliance: Freelancer Alliance
+Corp: BGG
+Destroyed: Scorpion
+System: Aunenen
+Security: 0.4
+
+Involved parties:
+
+Name: Xaeon
+Security: -10.0
+Alliance: Blood Raiders Alliance
+Corp: Murder-Death-Kill
+Ship: Megathron
+Weapon: Megathron
+
+Name: Nanaea
+Security: -9.7
+Alliance: Blood Raiders Alliance
+Corp: Murder-Death-Kill
+Ship: Megathron
+Weapon: Berserker I
+
+Name: Zaethiel
+Security: -10.0
+Alliance: Blood Raiders Alliance
+Corp: Murder-Death-Kill
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Elijah (laid the final blow)
+Security: -8.0
+Alliance: Blood Raiders Alliance
+Corp: Murder-Death-Kill
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+Name: Super Twinkey69
+Security: -10.0
+Alliance: Blood Raiders Alliance
+Corp: Murder-Death-Kill
+Ship: Megathron
+Weapon: Ogre I
+
+Name: Grape Juice
+Security: -9.3
+Alliance: Blood Raiders Alliance
+Corp: Murder-Death-Kill
+Ship: Scorpion
+Weapon: Juggernaut Torpedo
+
+Name: Plaetean
+Security: -10.0
+Alliance: Blood Raiders Alliance
+Corp: Murder-Death-Kill
+Ship: Dominix
+Weapon: Medium 'Knave' I Energy Drain
+
+
+Destroyed items:
+
+Heavy Nosferatu I
+Heavy Nosferatu I
+Inferno Torpedo, Qty: 22
+Shock 'Limos' Siege Missile Bay I
+Shock 'Limos' Siege Missile Bay I
+ECM - Ion Field Projector II
+ECM - White Noise Generator I
+ECM - White Noise Generator I
+Induced Multispectral ECM I
+Warp Core Stabilizer I
+Warp Core Stabilizer I
+

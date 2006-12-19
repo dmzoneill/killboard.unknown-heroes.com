@@ -1,0 +1,75 @@
+2007.03.20 20:11
+
+Victim: Rainus Max
+Alliance: None
+Corp: The Scope
+Destroyed: Iteron Mark V
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: KriegDrachen
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Sabre
+Weapon: 150mm Light AutoCannon II
+
+Name: Grimes NC
+Security: 4.8
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: Remontoir (laid the final blow)
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Harpy
+Weapon: 125mm Railgun II
+
+Name: Quiomi
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Ma'kal
+Security: 4.6
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Raptor
+Weapon: Raptor
+
+Name: Rick A
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Celestis
+Weapon: Celestis
+
+Name: Dark Carnage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Crow
+Weapon: Sabretooth Light Missile
+
+
+Destroyed items:
+
+Y-S8 Hydrocarbon I Afterburners
+Ditrigonal Thermal Barrier Crystallization I
+Ballistic Deflection Field I
+Warp Core Stabilizer I
+Small Nosferatu I (Cargo)
+Ballistic Deflection Field I (Cargo)
+Warp Core Stabilizer I (Cargo)
+Giant Secure Container, Qty: 2 (Cargo)
+Plagioclase Mining Crystal II, Qty: 17 (Cargo)
+Pyroxeres Mining Crystal I, Qty: 2 (Cargo)
+Pyroxeres Mining Crystal II, Qty: 3 (Cargo)
+Omber Mining Crystal II, Qty: 56 (Cargo)

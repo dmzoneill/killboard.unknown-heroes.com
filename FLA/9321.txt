@@ -1,0 +1,36 @@
+2007.05.07 17:44
+
+Victim: wardey
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Punisher
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Terdlinger (laid the final blow)
+Security: 5.0
+Alliance: Storm Armada
+Corp: stone grave haulage
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Altair Mogwa
+Security: 0.6
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Rifter
+Weapon: Warp Scrambler I
+
+
+Destroyed items:
+
+Dual Light Pulse Laser I
+Dual Light Pulse Laser I
+Microwave S
+1MN MicroWarpdrive I
+Small Armor Repairer I
+200mm Reinforced Steel Plates I
+Capacitor Power Relay I
+

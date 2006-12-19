@@ -1,0 +1,64 @@
+2006.09.10 15:07
+
+Victim: Optoed
+Alliance: R.I.S.K
+Corp: ReD eYe Inc.
+Destroyed: Punisher
+System: CXN1-Z
+Security: 0.0
+
+Involved parties:
+
+Name: Infestor (laid the final blow)
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Absolution
+Weapon: Heavy Pulse Laser II
+
+Name: geewiz
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Eris
+Weapon: 125mm Railgun II
+
+Name: 8ObliVioN8
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Scorpion
+Weapon: Cataclysm Precision Cruise Missile
+
+Name: Oldin Relic
+Security: 1.3
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Moa
+Weapon: Upgraded 'Limos' Standard Missile Bay I
+
+Name: tyrol
+Security: 3.2
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Megathron
+Weapon: 425mm Railgun I
+
+Name: d4ve
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Armageddon
+Weapon: Tachyon Beam Laser II
+
+
+Destroyed items:
+
+Anode Light Neutron Particle Cannon I
+Light Neutron Blaster I
+1MN MicroWarpdrive I
+Warp Disruptor I
+Small 'Knave' I Energy Drain (Cargo)
+Regulated Mega Neutron Phase Cannon I (Cargo)
+Alumel-Wired I Sensor Augmentation (Cargo)
+

@@ -1,0 +1,42 @@
+2007.02.06 03:36
+
+Victim: Kaijou
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Destroyed: Crow
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Mystical Angel (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: Korudon
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Ferox
+Weapon: 250mm Railgun I
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 138
+Standard Missile Launcher II
+Standard Missile Launcher II
+Standard Missile Launcher II
+1MN MicroWarpdrive II
+J5 Prototype Warp Inhibitor I
+'Langour' Drive Disruptor I
+Power Diagnostic System II
+Initiated Warp Jammer I (Cargo)
+Bloodclaw Light Missile, Qty: 790 (Cargo)
+Nanofiber Internal Structure I (Cargo)
+Power Diagnostic System I (Cargo)
+Capacitor Power Relay I, Qty: 3 (Cargo)
+

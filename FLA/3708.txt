@@ -1,0 +1,33 @@
+2007.03.30 13:36
+
+Victim: Mizerik
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Destroyed: Capsule
+System: 4N-BUI
+Security: 0.0
+
+Involved parties:
+
+Name: MegaJ
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Pilgrim
+Weapon: Hammerhead II
+
+Name: Risandaar (laid the final blow)
+Security: 1.0
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Ares
+Weapon: Flameburst Light Missile
+
+Name: PMolkenthin
+Security: -0.7
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Arazu
+Weapon: Dark Blood Warp Disruptor
+
+

@@ -1,0 +1,68 @@
+2006.09.15 21:17
+
+Victim: other mickey
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Destroyed: Brutix
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Wyndwhisper
+Security: 5.0
+Alliance: None
+Corp: Digital Fury Corporation
+Ship: Crow
+Weapon: Initiated Warp Jammer I
+
+Name: JiH4D (laid the final blow)
+Security: 5.0
+Alliance: None
+Corp: Digital Fury Corporation
+Ship: Crow
+Weapon: Sabretooth Light Missile
+
+Name: Turq
+Security: 5.0
+Alliance: None
+Corp: GalacTECH Unlimited
+Ship: Claw
+Weapon: Claw
+
+Name: Allistar Mckeon
+Security: 5.0
+Alliance: None
+Corp: GalacTECH Unlimited
+Ship: Crow
+Weapon: Sabretooth Light Missile
+
+Name: ToneLock
+Security: 3.5
+Alliance: None
+Corp: Digital Fury Corporation
+Ship: Crow
+Weapon: Piranha Light Missile
+
+Name: Commander Solo
+Security: 5.0
+Alliance: None
+Corp: Digital Fury Corporation
+Ship: Crow
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+Name: Beigehornet
+Security: 4.7
+Alliance: None
+Corp: Digital Fury Corporation
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+Name: Cozmose
+Security: 5.0
+Alliance: None
+Corp: Digital Fury Corporation
+Ship: Raptor
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+

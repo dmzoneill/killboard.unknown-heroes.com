@@ -1,0 +1,40 @@
+2007.01.26 23:38
+
+Victim: Phonik
+Alliance: Southern Cross Alliance
+Corp: RazorBack Inc
+Destroyed: Capsule
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: GrandMastaXP (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Moa
+Weapon: 250mm Carbide Railgun I
+
+Name: mrrabit
+Security: 3.3
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Thrasher
+Weapon: 250mm Light Artillery Cannon I
+
+Name: Thiet
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Kestrel
+Weapon: 'Malkuth' Rocket Launcher I
+
+Name: James Potkukelkka
+Security: 0.3
+Alliance: Imperial Republic Of the North
+Corp: Karjala Inc.
+Ship: Flycatcher
+Weapon: Stasis Webifier I
+
+

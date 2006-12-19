@@ -1,0 +1,43 @@
+2006.10.07 22:36
+
+Victim: Onin Ra
+Alliance: None
+Corp: Privateers
+Destroyed: Maulus
+System: Litiura
+Security: 0.5
+
+Involved parties:
+
+Name: Peenoot (laid the final blow)
+Security: 0.4
+Alliance: Freelancer Alliance
+Corp: Abandoned Resolve Corporation
+Ship: Moa
+Weapon: Dual 150mm Railgun I
+
+Name: Caja Wrython
+Security: 2.4
+Alliance: Freelancer Alliance
+Corp: Abandoned Resolve Corporation
+Ship: Ferox
+Weapon: Advanced 'Limos' Heavy Missile Bay I
+
+Name: Barsak Kressel
+Security: 2.4
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Ship: Raptor
+Weapon: X5 Prototype I Engine Enervator
+
+
+Destroyed items:
+
+125mm Railgun I
+Iron Charge S, Qty: 66
+Indirect Scanning Dampening Unit I
+Kapteyn Sensor Array Inhibitor I
+Stasis Webifier I (Cargo)
+Iron Charge S, Qty: 781 (Cargo)
+Antimatter Charge S, Qty: 467 (Cargo)
+

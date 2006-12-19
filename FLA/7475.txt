@@ -1,0 +1,50 @@
+2006.09.09 14:32
+
+Victim: jamesw
+Alliance: None
+Corp: Omniscient Order
+Destroyed: Taranis
+System: EWOK-K
+Security: 0.0
+
+Involved parties:
+
+Name: Jumar Coldgin
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Harpy
+Weapon: 125mm Railgun II
+
+Name: Shiri elAzarinres (laid the final blow)
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Blackbird
+Weapon: Thunderbolt Heavy Missile
+
+Name: Ione79
+Security: 2.4
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Taranis
+Weapon: Taranis
+
+Name: Hosanna
+Security: -2.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Stiletto
+Weapon: Small 'Ghoul' Energy Siphon I
+
+
+Destroyed items:
+
+125mm Railgun II
+125mm Railgun II
+Antimatter Charge S, Qty: 160
+1MN MicroWarpdrive II
+X5 Prototype I Engine Enervator
+Emergency Damage Control I
+Hobgoblin II (Drone Bay)
+

@@ -1,0 +1,89 @@
+2006.11.12 14:04
+
+Victim: Znathsume
+Alliance: None
+Corp: State War Academy
+Destroyed: Caracal
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: D2O HeavyWater
+Security: 4.6
+Alliance: None
+Corp: Synergy.
+Ship: Crow
+Weapon: Bloodclaw Precision Light Missile
+
+Name: Durante Alighieri
+Security: 2.8
+Alliance: Schism.
+Corp: New Light
+Ship: Caracal
+Weapon: Heavy Missile Launcher I
+
+Name: Kristinne
+Security: 0.3
+Alliance: O X I D E
+Corp: W33D Corp.
+Ship: Ares
+Weapon: Gremlin Rocket
+
+Name: Midiana
+Security: 1.1
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Ishtar
+Weapon: Valkyrie II
+
+Name: Sperrzone (laid the final blow)
+Security: 5.0
+Alliance: None
+Corp: Stardust Heavy Industries
+Ship: Armageddon
+Weapon: Mega Anode Particle Stream I
+
+Name: Soldroz
+Security: 4.2
+Alliance: Freelancer Alliance
+Corp: Thors Hammers
+Ship: Raptor
+Weapon: Standard Missile Launcher II
+
+Name: TheBelgarion
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Caracal
+Weapon: Advanced 'Limos' Heavy Missile Bay I
+
+Name: Kay Han
+Security: -1.4
+Alliance: None
+Corp: Stardust Heavy Industries
+Ship: Brutix
+Weapon: Brutix
+
+Name: Chonker
+Security: 2.6
+Alliance: None
+Corp: Synergy.
+Ship: Vexor
+Weapon: Warp Disruptor I
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 189
+'Malkuth' Assault Missile Launcher I
+Heat Dissipation Amplifier I
+Magnetic Scattering Amplifier I
+Passive Targeter I (Cargo)
+Antimatter Charge S, Qty: 100 (Cargo)
+Gleaming Alloy, Qty: 2 (Cargo)
+Precious Alloy, Qty: 3 (Cargo)
+Sheen Compound (Cargo)
+Condensed Alloy, Qty: 2 (Cargo)
+Bloodclaw Light Missile, Qty: 6293 (Cargo)
+

@@ -1,0 +1,32 @@
+2007.01.14 17:55
+
+Victim: BLOOD THIRSTY
+Alliance: None
+Corp: Imperial Academy
+Destroyed: Heretic
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: DimaZzz (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Raven
+Weapon: Wrath Cruise Missile
+
+
+Destroyed items:
+
+Dual Modulated Light Energy Beam I
+Microwave S
+X5 Prototype I Engine Enervator
+Small 'Accommodation' Vestment Reconstructer I
+200mm Reinforced Rolled Tungsten Plates I
+Large Azeotropic Ward Salubrity I (Cargo)
+Nanoelectrical Co-Processor I (Cargo)
+ZW-4100 Siege Missile Bay (Cargo)
+Signal Distortion Amplifier I (Cargo)
+Warp Disrupt Probe, Qty: 40 (Cargo)
+

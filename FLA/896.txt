@@ -1,0 +1,28 @@
+2007.02.26 01:05
+
+Victim: Crazy Tasty
+Alliance: Privateer Alliance
+Corp: Beyond Divinity Inc
+Destroyed: Taranis
+System: Hek
+Security: 0.5
+
+Involved parties:
+
+Name: Tregaron (laid the final blow)
+Security: 1.6
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Wolf
+Weapon: 200mm AutoCannon II
+
+
+Destroyed items:
+
+Small 'Knave' I Energy Drain
+Light Ion Blaster II
+Void S, Qty: 218
+Catalyzed Cold-Gas I Arcjet Thrusters
+Magnetic Field Stabilizer II
+Inertia Stabilizers I (Cargo)
+

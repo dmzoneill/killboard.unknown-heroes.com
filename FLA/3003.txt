@@ -1,0 +1,25 @@
+2007.03.21 06:16
+
+Victim: Ologuyi
+Alliance: None
+Corp: State War Academy
+Destroyed: Kestrel
+System: EWOK-K
+Security: 0.0
+
+Involved parties:
+
+Name: Tregaron (laid the final blow)
+Security: 2.3
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Thrasher
+Weapon: 200mm AutoCannon II
+
+
+Destroyed items:
+
+Standard Missile Launcher I
+Standard Missile Launcher I
+Standard Missile Launcher I
+

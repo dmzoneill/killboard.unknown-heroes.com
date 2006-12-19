@@ -1,0 +1,26 @@
+2007.02.11 00:37
+
+Victim: Ecnar
+Alliance: None
+Corp: Non-Sequitron
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Commander Paul (laid the final blow)
+Security: 5.0
+Alliance: DeStInY.
+Corp: People's Front Of Judea
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: dastommy79
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Condor
+Weapon: Gremlin Rocket
+
+

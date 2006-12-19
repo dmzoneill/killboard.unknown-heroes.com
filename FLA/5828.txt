@@ -1,0 +1,130 @@
+2006.10.23 20:02
+
+Victim: ArchenTheGreat
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Destroyed: Dominix
+System: MI6O-6
+Security: 0.0
+
+Involved parties:
+
+Name: betabob
+Security: 4.1
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Tas Devil
+Security: 5.0
+Alliance: Forces of Freedom
+Corp: JUDGE DREAD Inc.
+Ship: Archon
+Weapon: Templar
+
+Name: Demarcus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Scorpion
+Weapon: Initiated Multispectral ECM I
+
+Name: Foot M
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: D2O HeavyWater
+Security: 2.8
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Scorpion
+Weapon: Paradise Cruise Missile
+
+Name: AceMace (laid the final blow)
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+Name: Gamer1K
+Security: 3.9
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Rook
+Weapon: Rook
+
+Name: W4RR10R
+Security: 1.8
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Thorax
+Weapon: Valkyrie I
+
+Name: Megan Ryder
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: VentureCorp
+Ship: Megathron
+Weapon: Megathron
+
+Name: Minesweeper
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Stiletto
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+Name: freestrike
+Security: 5.9
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+Name: Jin Steele
+Security: 3.7
+Alliance: None
+Corp: Fatalix Inc.
+Ship: Blackbird
+Weapon: Compulsive Multispectral ECM I
+
+Name: Forsaken Priest
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Lachesis
+Weapon: Remote Sensor Dampener II
+
+Name: FireFoxx80
+Security: 0.6
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Raven
+Weapon: Indirect Scanning Dampening Unit I
+
+Name: DDaisy
+Security: 4.7
+Alliance: Imperial Republic Of the North
+Corp: VentureCorp
+Ship: Megathron
+Weapon: Remote Sensor Dampener II
+
+
+Destroyed items:
+
+Medium Nosferatu I
+J5 Prototype Warp Inhibitor I
+Induced Ion Field ECM I
+Induced Ion Field ECM I
+Armor Thermic Hardener II
+Cap Booster 800, Qty: 14 (Cargo)
+Ogre I, Qty: 3 (Drone Bay)
+Warrior II, Qty: 3 (Drone Bay)
+Berserker I (Drone Bay)
+Vespa II, Qty: 4 (Drone Bay)
+

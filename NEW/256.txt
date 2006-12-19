@@ -1,0 +1,119 @@
+2007.02.24 06:18
+
+Victim: Conner Barr
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Destroyed: Rokh
+System: YZ-LQL
+Security: 0.0
+
+Involved parties:
+
+Name: Space Chi (laid the final blow)
+Security: 1.8
+Alliance: Zenith Affinity
+Corp: The Edge Foundation
+Ship: Deimos
+Weapon: Heavy Neutron Blaster II
+
+Name: Ahramaine
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Thorax
+Weapon: Thorax
+
+Name: KriegDrachen
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Sabre
+Weapon: Fleeting Propulsion Inhibitor I
+
+Name: Skull Fire
+Security: 0.7
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Caracal
+Weapon: Hammerhead I
+
+Name: Nukuquqa Hestase
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Catalyst
+Weapon: Hornet I
+
+Name: Xantheris
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Taranis
+Weapon: Acolyte I
+
+Name: digital oxygen
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Ares
+Weapon: Ares
+
+Name: ventura5
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Raptor
+Weapon: Raptor
+
+Name: Llondon Hilton
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Enyo
+Weapon: Enyo
+
+Name: DeathCoInc
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Raptor
+Weapon: Raptor
+
+Name: Swanny231
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Crow
+Weapon: Piranha Light Missile
+
+Name: Flying Underpants
+Security: 0.2
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Enyo
+Weapon: Modal Light Ion Particle Accelerator I
+
+Name: 3ungle
+Security: 5.0
+Alliance: Zenith Affinity
+Corp: Antipodean inc.
+Ship: Helios
+Weapon: Phased Muon Sensor Disruptor I
+
+
+Destroyed items:
+
+Heavy Nosferatu I, Qty: 3
+Modal Mega Neutron Particle Accelerator I, Qty: 2
+Antimatter Charge L, Qty: 65
+Tungsten Charge L, Qty: 131
+Large Shield Extender II
+J5 Prototype Warp Inhibitor I
+Invulnerability Field II
+Photon Scattering Field I
+Magnetic Field Stabilizer II
+Power Diagnostic System I
+Power Diagnostic System II
+Antimatter Charge L, Qty: 2620 (Cargo)
+Tungsten Charge L, Qty: 2440 (Cargo)
+Vespa I (Drone Bay)

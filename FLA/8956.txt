@@ -1,0 +1,98 @@
+2006.12.21 21:08
+
+Victim: Xantheris
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Destroyed: Raven
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Jenessa
+Security: 2.2
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Muninn
+Weapon: Muninn
+
+Name: Axl Alien
+Security: -2.0
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Brutix
+Weapon: Brutix
+
+Name: turumbor (laid the final blow)
+Security: -1.7
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Deimos
+Weapon: Heavy Ion Blaster II
+
+Name: WarGod
+Security: -1.7
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Curse
+Weapon: Curse
+
+Name: ArchenTheGreat
+Security: -1.9
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Arazu
+Weapon: Arazu
+
+Name: john taylor2
+Security: 3.7
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Vexor
+Weapon: Berserker II
+
+Name: Phrixus Zephyr
+Security: 5.0
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Taranis
+Weapon: Hobgoblin II
+
+Name: taylor04
+Security: -1.7
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Rapier
+Weapon: Rapier
+
+Name: K Shara
+Security: 3.2
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Kidd Billups
+Security: -3.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Curse
+Weapon: Tracking Disruptor II
+
+
+Destroyed items:
+
+Juggernaut Torpedo, Qty: 72
+Small Tractor Beam I
+Large Shield Booster II
+100MN Afterburner II
+Heat Dissipation Field II
+Ballistic Control System II
+Ballistic Control System II
+Ballistic Control System II
+Power Diagnostic System II
+Large Supplemental Barrier Emitter I (Cargo)
+Eutectic I Capacitor Charge Array (Cargo)
+Juggernaut Torpedo, Qty: 869 (Cargo)
+Vespa I, Qty: 5 (Drone Bay)
+

@@ -1,0 +1,33 @@
+2007.01.28 05:58
+
+Victim: Rhaall
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Punisher
+System: K4YZ-Y
+Security: 0.0
+
+Involved parties:
+
+Name: P1rate Dave (laid the final blow)
+Security: 0.9
+Alliance: None
+Corp: 0utbreak
+Ship: Typhoon
+Weapon: Hobgoblin II
+
+Name: Vyndicator
+Security: -2.4
+Alliance: None
+Corp: 0utbreak
+Ship: Typhoon
+Weapon: 'Arbalest' Siege Missile Launcher
+
+
+Destroyed items:
+
+Dual Light Pulse Laser II
+Dual Light Pulse Laser II
+J5b Phased Prototype Warp Inhibitor I
+Micro Auxiliary Power Core I
+

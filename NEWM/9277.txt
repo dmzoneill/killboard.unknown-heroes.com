@@ -1,0 +1,59 @@
+2007.05.06 02:11
+
+Victim: Sebi Fal
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Rifter
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Lonagan
+Security: 0.0
+Alliance: RAZOR Alliance
+Corp: Cutting Edge Incorporated
+Ship: Armageddon
+Weapon: Warrior II
+
+Name: UberDefDef
+Security: -1.2
+Alliance: RAZOR Alliance
+Corp: Roving Guns Inc.
+Ship: Curse
+Weapon: Warrior II
+
+Name: haz zard
+Security: -2.3
+Alliance: The Foundation.
+Corp: Cornerstone Unlimited
+Ship: Thorax
+Weapon: Light Electron Blaster II
+
+Name: Mufeater (laid the final blow)
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Nemesis
+Weapon: Paradise Cruise Missile
+
+Name: Princess Dread
+Security: 5.0
+Alliance: RAZOR Alliance
+Corp: Cutting Edge Incorporated
+Ship: Falcon
+Weapon: Languid Phase Inversion ECM I
+
+Name: Centura
+Security: 3.9
+Alliance: RAZOR Alliance
+Corp: Cutting Edge Incorporated
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+
+Destroyed items:
+
+1MN MicroWarpdrive I
+X5 Prototype I Engine Enervator
+

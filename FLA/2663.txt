@@ -1,0 +1,33 @@
+2007.03.01 23:46
+
+Victim: Kelter Highfire
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Capsule
+System: YZ-LQL
+Security: 0.0
+
+Involved parties:
+
+Name: LaughingClown (laid the final blow)
+Security: 1.2
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Rapier
+Weapon: 720mm Howitzer Artillery II
+
+Name: Asquiro
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Crusader
+Weapon: Dual Light Beam Laser II
+
+Name: Lord WarATron
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Pilgrim
+Weapon: F-392 Baker Nunn Targeting Scrambler
+
+

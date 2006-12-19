@@ -1,0 +1,27 @@
+2007.05.05 00:08
+
+Victim: Corovus
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Destroyed: Nemesis
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Chowdown (laid the final blow)
+Security: -2.5
+Alliance: Band of Brothers
+Corp: Reikoku
+Ship: Avatar
+Weapon: Judgement
+
+
+Destroyed items:
+
+Improved Cloaking Device II
+Cataclysm Cruise Missile, Qty: 20
+Remote Sensor Dampener II
+Ballistic Control System II
+Cataclysm Cruise Missile, Qty: 259 (Cargo)
+

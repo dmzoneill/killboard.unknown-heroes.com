@@ -1,0 +1,40 @@
+2006.11.30 23:31
+
+Victim: Lux0r
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Destroyed: Capsule
+System: X36Y-G
+Security: 0.0
+
+Involved parties:
+
+Name: FyreStrike (laid the final blow)
+Security: 1.4
+Alliance: Center for Disease Creation
+Corp: Black Knight Buccaneers
+Ship: Crow
+Weapon: Thorn Rocket
+
+Name: Z'app
+Security: -0.6
+Alliance: Center for Disease Creation
+Corp: Black Knight Buccaneers
+Ship: Crow
+Weapon: Thorn Rocket
+
+Name: Desas
+Security: 3.8
+Alliance: Center for Disease Creation
+Corp: Black Knight Buccaneers
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+Name: D Bogart
+Security: 0.0
+Alliance: Center for Disease Creation
+Corp: Black Knight Buccaneers
+Ship: Stiletto
+Weapon: Fleeting Warp Scrambler I
+
+

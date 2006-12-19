@@ -1,0 +1,57 @@
+2007.05.14 20:51
+
+Victim: Poem
+Alliance: Vigilance Infinitas
+Corp: The Phoenix Rising
+Destroyed: Cheetah
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Steven FSB
+Security: 3.4
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Harpy
+Weapon: Harpy
+
+Name: Cordial Ripper
+Security: 4.7
+Alliance: None
+Corp: g guild
+Ship: Hurricane
+Weapon: 425mm AutoCannon II
+
+Name: Kiersten (laid the final blow)
+Security: -4.4
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Thorax
+Weapon: Warrior II
+
+Name: Yertus Plight
+Security: 3.3
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Arazu
+Weapon: Phased Muon Sensor Disruptor I
+
+
+Destroyed items:
+
+Po
+Po
+Po
+Po
+Po
+Recon Probe Launcher I
+Cap Recharger II
+Small Capacitor Battery II
+Expanded Cargohold I
+Expanded Cargohold I
+Warp Scrambler II, Qty: 5 (Cargo)
+Small Armor Repairer II, Qty: 5 (Cargo)
+Snoop Scanner Probe I, Qty: 165 (Cargo)
+Fathom Scanner Probe I, Qty: 30 (Cargo)
+

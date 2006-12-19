@@ -1,0 +1,157 @@
+2007.03.02 00:02
+
+Victim: Tarhess
+Alliance: Aftermath Alliance
+Corp: Master Miners
+Destroyed: Arazu
+System: Z30S-A
+Security: 0.0
+
+Involved parties:
+
+Name: CALPEPE
+Security: 2.9
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Drake
+Weapon: Thunderbolt Heavy Missile
+
+Name: sowo
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Drake
+Weapon: Thunderbolt Heavy Missile
+
+Name: Xantheris
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Harpy
+Weapon: Harpy
+
+Name: william kronos
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: TRAJANO 2
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Drake
+Weapon: Hornet I
+
+Name: Samiloth Justinian
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: rabodeamor
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Scorpion
+Weapon: Scorpion
+
+Name: demotar
+Security: 3.5
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Raven
+Weapon: Wrath Cruise Missile
+
+Name: Jonas123 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Scorpion
+Weapon: Paradise Cruise Missile
+
+Name: Teck7
+Security: 1.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Lachesis
+Weapon: 125mm Railgun II
+
+Name: Japanx
+Security: 3.2
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Scorpion
+Weapon: Paradise Cruise Missile
+
+Name: Dark Carnage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Crow
+Weapon: Sabretooth Light Missile
+
+Name: Hamos
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Scorpion
+Weapon: Devastator Cruise Missile
+
+Name: NesheresH
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Sabre
+Weapon: 280mm Howitzer Artillery II
+
+Name: Ninjitsuki
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Harpy
+Weapon: Harpy
+
+Name: truefranco
+Security: 2.4
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Zephyrante
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Megathron
+Weapon: Limited Mega Neutron Blaster I
+
+Name: Sophie Malaster
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Armageddon
+Weapon: Mega Pulse Laser II
+
+Name: Ramb3z
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Typhoon
+Weapon: XT-9000 Cruise Launcher
+
+
+Destroyed items:
+
+Iron Charge M, Qty: 156
+Heavy Missile Launcher I
+10MN Afterburner II
+Phased Muon Sensor Disruptor I
+Phased Muon Sensor Disruptor I
+Medium Armor Repairer II
+Energized Reactive Membrane II
+Beta Reactor Control: Capacitor Power Relay I
+Iron Charge M, Qty: 702 (Cargo)
+

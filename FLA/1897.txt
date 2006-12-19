@@ -1,0 +1,46 @@
+2007.01.08 23:32
+
+Victim: Zylithi
+Alliance: Freelancer Alliance
+Corp: X.T.R
+Destroyed: Raven
+System: Torrinos
+Security: 0.5
+
+Involved parties:
+
+Name: Anna Neura
+Security: -0.2
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Brutix
+Weapon: Vespa II
+
+Name: Elliott Manchild (laid the final blow)
+Security: -1.9
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Astarte
+Weapon: Heavy Ion Blaster II
+
+Name: xlop
+Security: -1.4
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Capsule
+Weapon: Faint Warp Prohibitor I
+
+
+Destroyed items:
+
+Dual 150mm Railgun I
+Dual 150mm Railgun I
+Widowmaker Heavy Missile, Qty: 68
+Advanced 'Limos' Heavy Missile Bay I
+'Arbalest' Heavy Missile Launcher
+Small 'Accommodation' Vestment Reconstructer I
+Small 'Accommodation' Vestment Reconstructer I
+Antimatter Charge M, Qty: 9363 (Cargo)
+Widowmaker Heavy Missile, Qty: 4748 (Cargo)
+Hammerhead I, Qty: 3 (Drone Bay)
+

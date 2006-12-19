@@ -1,0 +1,174 @@
+2007.03.08 23:24
+
+Victim: RedBeard Reid
+Alliance: YouWhat
+Corp: Pringles Inc.
+Destroyed: Megathron
+System: XZH-4X
+Security: 0.0
+
+Involved parties:
+
+Name: Anahid Brutus
+Security: -1.5
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Muninn
+Weapon: Muninn
+
+Name: Jonas123
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Ferox
+Weapon: Ferox
+
+Name: Sils wife
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Johanen
+Security: 2.7
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Myrmidon
+Weapon: Myrmidon
+
+Name: Brick Bossload
+Security: 0.4
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Agent Marvin
+Security: 3.6
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Typhoon
+Weapon: Cataclysm Cruise Missile
+
+Name: Jesnen
+Security: -1.5
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Coercer
+Weapon: Coercer
+
+Name: Swanny231
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Thorax
+Weapon: Hornet II
+
+Name: Nuvanito
+Security: 3.9
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Brutix
+Weapon: Brutix
+
+Name: Sphilex
+Security: 5.0
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: H00KER (laid the final blow)
+Security: 5.0
+Alliance: GoonSwarm
+Corp: Visual I.D
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+Name: Tripwire
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Celestis
+Weapon: Hammerhead I
+
+Name: Darsi
+Security: 5.0
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Vexor
+Weapon: Vexor
+
+Name: Dark Carnage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: scottykillya
+Security: 3.5
+Alliance: GoonSwarm
+Corp: Visual I.D
+Ship: Ferox
+Weapon: Thunderbolt Heavy Missile
+
+Name: HydroSan
+Security: 3.1
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Celestis
+Weapon: Warrior II
+
+Name: Puz'ZaW
+Security: 2.7
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: Zudge
+Security: 2.8
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Enyo
+Weapon: Light Ion Blaster II
+
+Name: Allya Rierre
+Security: -0.1
+Alliance: GoonSwarm
+Corp: Visual I.D
+Ship: Thorax
+Weapon: Thorax
+
+Name: tiita
+Security: 2.3
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Blackbird
+Weapon: Induced Multispectral ECM I
+
+Name: Ilucid
+Security: 2.1
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Incursus
+Weapon: Incursus
+
+Name: SajuurCor
+Security: 4.7
+Alliance: The OSS
+Corp: Free Collective
+Ship: Crusader
+Weapon: Dual Light Beam Laser II
+
+
+Destroyed items:
+
+Antimatter Charge L, Qty: 1990 (Cargo)
+Cap Booster 800, Qty: 11 (Cargo)
+Infiltrator I, Qty: 3 (Drone Bay)
+Ogre I (Drone Bay)
+Hammerhead I (Drone Bay)
+

@@ -1,0 +1,23 @@
+2006.11.24 18:45
+
+Victim: Chisaku
+Alliance: None
+Corp: State War Academy
+Destroyed: Condor
+System: RZC-16
+Security: 0.0
+
+Involved parties:
+
+Name: Solarienne (laid the final blow)
+Security: 4.8
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Thrasher
+Weapon: 280mm Howitzer Artillery I
+
+
+Destroyed items:
+
+Monopropellant I Hydrazine Boosters
+

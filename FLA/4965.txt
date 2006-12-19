@@ -1,0 +1,72 @@
+2007.04.20 21:03
+
+Victim: Korudon
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Megathron
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Waagaa Ktlehr
+Security: 0.5
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Aeon
+Weapon: Einherji
+
+Name: Rhayvn
+Security: 4.5
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Abaddon
+Weapon: Tachyon Beam Laser II
+
+Name: Lady Rania (laid the final blow)
+Security: -8.2
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Rukaz
+Security: 3.1
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Sabre
+Weapon: Sabre
+
+Name: Katchin
+Security: 2.1
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Muninn
+Weapon: Muninn
+
+Name: Nubiam
+Security: 4.9
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Unknown
+Weapon: Dual Light Pulse Laser II
+
+
+Destroyed items:
+
+Large Rudimentary Concussion Bomb I
+Large EMP Smartbomb I
+Large EMP Smartbomb I
+Large EMP Smartbomb I
+Barton Reactor Capacitor Recharger I
+Barton Reactor Capacitor Recharger I
+Cap Recharger I
+Large Armor Repairer I
+Energized Adaptive Nano Membrane I
+Energized Adaptive Nano Membrane I
+1600mm Reinforced Steel Plates I
+Capacitor Power Relay I
+Corpse (Cargo)
+Valkyrie I, Qty: 5 (Drone Bay)
+Hornet I, Qty: 8 (Drone Bay)
+

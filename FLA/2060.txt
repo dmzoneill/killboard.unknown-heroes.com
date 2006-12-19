@@ -1,0 +1,33 @@
+2007.01.19 21:43
+
+Victim: Siliya
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Capsule
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: taylor04 (laid the final blow)
+Security: 0.4
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Chaser Wolf
+Security: 1.8
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Crow
+Weapon: Rocket Launcher II
+
+Name: turumbor
+Security: -1.7
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Crow
+Weapon: TE-2100 Standard Missile Bay
+
+

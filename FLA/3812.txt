@@ -1,0 +1,79 @@
+2007.04.01 21:01
+
+Victim: Toad Black
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Destroyed: Brutix
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Morgena
+Security: -0.9
+Alliance: S.E.R.A
+Corp: Seraphin Technologies
+Ship: Thanatos
+Weapon: Firbolg
+
+Name: Olli (laid the final blow)
+Security: -0.1
+Alliance: S.E.R.A
+Corp: Seraphin Technologies
+Ship: Chimera
+Weapon: Firbolg
+
+Name: Wotan I
+Security: 4.7
+Alliance: S.E.R.A
+Corp: Seraphin Technologies
+Ship: Thanatos
+Weapon: Firbolg
+
+Name: Menf
+Security: 2.1
+Alliance: S.E.R.A
+Corp: Seraphin Technologies
+Ship: Chimera
+Weapon: Firbolg
+
+Name: Eteoneus
+Security: 0.5
+Alliance: S.E.R.A
+Corp: Seraphin Technologies
+Ship: Claymore
+Weapon: Templar
+
+Name: Enosh Kerrim
+Security: -1.8
+Alliance: S.E.R.A
+Corp: Seraphin Technologies
+Ship: Thanatos
+Weapon: Firbolg
+
+Name: Captain Black
+Security: 1.7
+Alliance: S.E.R.A
+Corp: Seraphin Technologies
+Ship: Archon
+Weapon: Templar
+
+
+Destroyed items:
+
+Heavy Ion Blaster I
+Heavy Electron Blaster I
+Heavy Neutron Blaster I
+Regulated Ion Phase Cannon I
+Plutonium Charge M, Qty: 46
+Uranium Charge M, Qty: 112
+10MN MicroWarpdrive I
+Stasis Webifier I
+Stasis Webifier I
+Medium Armor Repairer II
+Armor Kinetic Hardener I
+Armor Thermic Hardener I
+Uranium Charge M, Qty: 2511 (Cargo)
+Dread Guristas Thorium Charge M, Qty: 880 (Cargo)
+Vespa I (Drone Bay)
+

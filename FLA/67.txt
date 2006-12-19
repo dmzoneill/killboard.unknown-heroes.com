@@ -1,0 +1,36 @@
+2007.01.05 21:24
+
+Victim: Romulus Kane
+Alliance: Privateer Alliance
+Corp: Privateers
+Destroyed: Rifter
+System: Sobaseki
+Security: 0.8
+
+Involved parties:
+
+Name: Nova Paradise (laid the final blow)
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+Name: SleepyJack
+Security: 0.7
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Brutix
+Weapon: Warp Disruptor I
+
+
+Destroyed items:
+
+150mm Light AutoCannon II
+Small Nosferatu I
+Barrage S, Qty: 74
+Stasis Webifier I
+Damage Control I
+200mm Reinforced Rolled Tungsten Plates I
+Phased Plasma S, Qty: 1000 (Cargo)
+

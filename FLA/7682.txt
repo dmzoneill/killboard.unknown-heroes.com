@@ -1,0 +1,40 @@
+2006.09.30 06:09
+
+Victim: Archybald Hrron
+Alliance: R.I.S.K
+Corp: SAHRMAT tech. Corp
+Destroyed: Caldari Shuttle
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Weeble Wooble (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Taranis
+Weapon: Light Neutron Blaster II
+
+Name: Comradical
+Security: 5.1
+Alliance: THE R0CK
+Corp: The Keep
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Jungels
+Security: 0.0
+Alliance: Imperial Republic Of the North
+Corp: Port Royal Independent Kontractors
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: Trendsetter
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Flycatcher
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+

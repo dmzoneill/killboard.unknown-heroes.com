@@ -1,0 +1,35 @@
+2007.03.23 21:00
+
+Victim: yeshio
+Alliance: None
+Corp: Doomsday Corp
+Destroyed: Kestrel
+System: O-ZXUV
+Security: 0.0
+
+Involved parties:
+
+Name: Tiberius Drake
+Security: 4.2
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Brutix
+Weapon: 200mm Carbide Railgun I
+
+Name: mr passie (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Jaguar
+Weapon: 150mm Light AutoCannon II
+
+
+Destroyed items:
+
+Large F-S9 Regolith Shield Induction (Cargo)
+Large Shield Booster II (Cargo)
+Eutectic I Capacitor Charge Array (Cargo)
+Ballistic Deflection Field II (Cargo)
+Warp Core Stabilizer I (Cargo)
+'Arbalest' Siege Missile Launcher, Qty: 3 (Cargo)
+

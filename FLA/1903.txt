@@ -1,0 +1,42 @@
+2007.01.09 19:22
+
+Victim: mr passie
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Destroyed: Tempest
+System: Oipo
+Security: 0.8
+
+Involved parties:
+
+Name: xlop (laid the final blow)
+Security: -1.4
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Tempest
+Weapon: Dual 650mm Repeating Artillery II
+
+Name: Fjerkenstad
+Security: -1.9
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Taranis
+Weapon: Hobgoblin I
+
+Name: the willyb
+Security: -2.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Dominix
+Weapon: Dominix
+
+
+Destroyed items:
+
+Fusion L, Qty: 80
+Gyrostabilizer II
+Ditrigonal Thermal Barrier Crystallization I (Cargo)
+Hobgoblin I, Qty: 5 (Cargo)
+Jaspet Mining Crystal II, Qty: 6 (Cargo)
+Infiltrator I (Drone Bay)
+

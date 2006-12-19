@@ -1,0 +1,30 @@
+2007.05.19 09:54
+
+Victim: wardey
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Crusader
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Dez Erichs (laid the final blow)
+Security: 1.5
+Alliance: Agony Empire
+Corp: Agony Unleashed
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+Dual Light Beam Laser II
+Dual Light Beam Laser II
+Aurora S
+Fleeting Warp Scrambler I
+Nanofiber Internal Structure I
+Overdrive Injector System I
+Overdrive Injector System I
+Gleam S (Cargo)
+

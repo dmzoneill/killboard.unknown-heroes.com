@@ -1,0 +1,51 @@
+2007.02.18 23:00
+
+Victim: RythemAndStealth
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Destroyed: Drake
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Guristas Exterminator / Guristas
+
+Name: Leathal Weapon
+Security: 2.0
+Alliance: None
+Corp: Zero.
+Ship: Curse
+Weapon: Hammerhead I
+
+Name: FrankieG (laid the final blow)
+Security: 0.0
+Alliance: None
+Corp: Zero.
+Ship: Curse
+Weapon: Hammerhead I
+
+Name: GoLdeN BoY
+Security: -2.0
+Alliance: None
+Corp: Zero.
+Ship: Curse
+Weapon: Hammerhead I
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 96
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Large Shield Extender II
+Large Shield Booster II
+Invulnerability Field II
+Ballistic Deflection Field II
+Damage Control I
+Local Power Plant Manager: Reaction Shield Flux I
+Scourge Heavy Missile, Qty: 1152 (Cargo)
+Ward Console, Qty: 2 (Cargo)
+Medium Shield Maintenance Bot I (Drone Bay)
+Light Shield Maintenance Bot I, Qty: 2 (Drone Bay)
+

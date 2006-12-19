@@ -1,0 +1,30 @@
+2007.04.16 05:05
+
+Victim: Teck7
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Vexor
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Witch Doctor (laid the final blow)
+Security: 0.1
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Hyperion
+Weapon: Ion Blaster Cannon II
+
+
+Destroyed items:
+
+Dual 150mm Railgun I
+Uranium Charge M, Qty: 154
+Medium F-RX Prototype I Capacitor Boost
+Kapteyn Sensor Array Inhibitor I
+Medium Armor Repairer I
+Armor Kinetic Hardener I
+Armor Explosive Hardener I
+Vespa I, Qty: 2 (Drone Bay)
+

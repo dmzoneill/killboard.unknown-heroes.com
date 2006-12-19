@@ -1,0 +1,19 @@
+2006.10.10 20:41
+
+Victim: Cat1977
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Destroyed: Capsule
+System: N2IS-B
+Security: 0.0
+
+Involved parties:
+
+Name: Kuentai (laid the final blow)
+Security: -4.4
+Alliance: None
+Corp: Beagle Corp
+Ship: Claw
+Weapon: 150mm Light AutoCannon II
+
+

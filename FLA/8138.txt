@@ -1,0 +1,86 @@
+2006.10.17 04:37
+
+Victim: Ashr
+Alliance: Freelancer Alliance
+Corp: Abandoned Resolve Corporation
+Destroyed: Raven
+System: 85-B52
+Security: 0.0
+
+Involved parties:
+
+Name: Wrath Cruise Missile / Guristas
+
+Name: Shaleen
+Security: 3.8
+Alliance: Process of Elimination
+Corp: Viper  Squad
+Ship: Astarte
+Weapon: Valkyrie II
+
+Name: PainBall
+Security: 2.5
+Alliance: None
+Corp: NEXT LEVEL
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Sith Bandon (laid the final blow)
+Security: 0.1
+Alliance: Process of Elimination
+Corp: Viper  Squad
+Ship: Arazu
+Weapon: Vespa II
+
+Name: Sehti
+Security: -3.1
+Alliance: Process of Elimination
+Corp: Viper  Squad
+Ship: Vagabond
+Weapon: Acolyte I
+
+Name: Olaf Thaddius
+Security: 2.0
+Alliance: Process of Elimination
+Corp: Viper  Squad
+Ship: Thorax
+Weapon: Thorax
+
+Name: Perfect Stranger
+Security: 5.0
+Alliance: Process of Elimination
+Corp: Occassus Republica
+Ship: Flycatcher
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+Juggernaut Torpedo, Qty: 56
+Siege Missile Launcher II
+Siege Missile Launcher II
+Small Tractor Beam I
+V-M15 Braced Multispectral Shield Matrix
+F-S8 Relativistic Deflection Shield Induction
+5a Prototype Shield Support I
+Ballistic Control System II
+Large Shield Extender I (Cargo)
+Medium Subordinate Screen Stabilizer I (Cargo)
+Large Shield Booster I (Cargo)
+Small Armor Repairer I (Cargo)
+Medium Graviton Smartbomb I (Cargo)
+Dual 250mm Railgun I (Cargo)
+250mm Railgun I, Qty: 2 (Cargo)
+Iridium Charge M, Qty: 100 (Cargo)
+Plutonium Charge S, Qty: 100 (Cargo)
+ECM - Spatial Destabilizer I (Cargo)
+Phase Switching I Targeting Nexus (Cargo)
+Co-Processor I (Cargo)
+ECCM Projector I (Cargo)
+Piercing ECCM Emitter I (Cargo)
+Thunderbolt Heavy Missile, Qty: 100 (Cargo)
+Devastator Cruise Missile, Qty: 100 (Cargo)
+Cruise Missile Launcher I (Cargo)
+Capacitor Flux Coil I (Cargo)
+Mark I Generator Refitting: Reaction Control (Cargo)
+

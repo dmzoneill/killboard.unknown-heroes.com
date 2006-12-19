@@ -1,0 +1,30 @@
+2006.10.06 21:44
+
+Victim: Korhal Thudd
+Alliance: None
+Corp: Creamy White Goodness
+Destroyed: Cerberus
+System: Aunenen
+Security: 0.4
+
+Involved parties:
+
+Name: Paltar (laid the final blow)
+Security: 0.4
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Megathron
+Weapon: Limited Mega Neutron Blaster I
+
+
+Destroyed items:
+
+Heavy Missile Launcher II
+Heavy Missile Launcher II
+Havoc Fury Heavy Missile, Qty: 60
+Large F-S9 Regolith Shield Induction
+Large C5-L Emergency Shield Overload I
+Invulnerability Field I
+V-M15 Braced Multispectral Shield Matrix
+Havoc Fury Heavy Missile, Qty: 29 (Cargo)
+

@@ -1,0 +1,39 @@
+2007.03.17 05:25
+
+Victim: Katsumi Ito
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Tristan
+System: MJYW-3
+Security: 0.0
+
+Involved parties:
+
+Name: Atormentado (laid the final blow)
+Security: 4.8
+Alliance: Axiom Empire
+Corp: Fenix Reloaded
+Ship: Hawk
+Weapon: Bloodclaw Precision Light Missile
+
+Name: dOG2314
+Security: 4.9
+Alliance: Axiom Empire
+Corp: United Society Starfleet
+Ship: Capsule
+Weapon: 'Arbalest' Standard Missile Launcher
+
+
+Destroyed items:
+
+Light Ion Blaster II
+Void S, Qty: 112
+Foxfire Rocket, Qty: 48
+'Malkuth' Rocket Launcher I
+'Malkuth' Rocket Launcher I
+Monopropellant I Hydrazine Boosters
+Stasis Webifier I
+Small Armor Repairer II
+Nanofiber Internal Structure I
+Void S, Qty: 1093 (Cargo)
+

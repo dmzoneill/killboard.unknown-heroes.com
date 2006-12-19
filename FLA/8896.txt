@@ -1,0 +1,38 @@
+2006.12.16 15:20
+
+Victim: Renato Sobral
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Destroyed: Tempest
+System: Ibura
+Security: 0.6
+
+Involved parties:
+
+Name: Elliott Manchild (laid the final blow)
+Security: -1.5
+Alliance: None
+Corp: omen.
+Ship: Hyperion
+Weapon: Neutron Blaster Cannon II
+
+
+Destroyed items:
+
+Salvager I, Qty: 30
+1200mm Artillery Cannon II
+1200mm Artillery Cannon II
+1200mm Artillery Cannon II
+1200mm Artillery Cannon II
+Titanium Sabot L, Qty: 80
+Small Tractor Beam I
+Large Shield Extender II
+Large Shield Booster II
+Gyrostabilizer II
+Gyrostabilizer II
+Power Diagnostic System II
+Power Diagnostic System II
+Large Shield Booster II (Cargo)
+'Arbalest' Cruise Launcher I (Cargo)
+Scorched Telemetry Processor, Qty: 7 (Cargo)
+

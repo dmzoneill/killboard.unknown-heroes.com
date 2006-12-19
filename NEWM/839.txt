@@ -1,0 +1,107 @@
+2007.02.24 01:15
+
+Victim: lukane
+Alliance: Xelas Alliance
+Corp: Nemesis Industries
+Destroyed: Manticore
+System: XF-TQL
+Security: 0.0
+
+Involved parties:
+
+Name: Nukuquqa Hestase (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Catalyst
+Weapon: 125mm Railgun II
+
+Name: Muad' Dib
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Raptor
+Weapon: Bloodclaw Light Missile
+
+Name: Swanny231
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Crow
+Weapon: Piranha Light Missile
+
+Name: Kelter Highfire
+Security: 1.9
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Cormorant
+Weapon: 150mm Railgun II
+
+Name: KriegDrachen
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Sabre
+Weapon: 150mm Light AutoCannon II
+
+Name: ventura5
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Raptor
+Weapon: 75mm Gatling Rail II
+
+Name: coldkill
+Security: 1.6
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Nemesis
+Weapon: 125mm Railgun II
+
+Name: Tregaron
+Security: 1.5
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Cheetah
+Weapon: Warp Disruptor I
+
+Name: Spartan dax
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Blackbird
+Weapon: FZ-3 Subversive Spatial Destabilizer ECM
+
+Name: Shassandra
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Taranis
+Weapon: Stasis Webifier I
+
+Name: Ninjitsuki
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Harpy
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: Ahramaine
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Thorax
+Weapon: Thorax
+
+
+Destroyed items:
+
+Prototype Cloaking Device I
+Cataclysm Cruise Missile, Qty: 22
+Devastator Cruise Missile, Qty: 22
+'Limos' Cruise Launcher I
+Small Shield Booster I
+'Anointed' I EM Ward Reinforcement
+Devastator Cruise Missile, Qty: 444 (Cargo)
+Cataclysm Cruise Missile, Qty: 945 (Cargo)
+

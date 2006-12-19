@@ -1,0 +1,115 @@
+2007.03.24 21:01
+
+Victim: Dyden Nemor
+Alliance: FATAL Alliance
+Corp: Black Reign
+Destroyed: Sabre
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: StrikerOneSevern
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Rupture
+Weapon: Rupture
+
+Name: Arbitrus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Ship: Abaddon
+Weapon: Tachyon Afocal Maser I
+
+Name: TroNaaR
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: Burn Lump
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Drake
+Weapon: Bloodclaw Light Missile
+
+Name: Ninjitsuki
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Harpy
+Weapon: Harpy
+
+Name: Tiberius Drake (laid the final blow)
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Brutix
+Weapon: 250mm 'Scout' I Accelerator Cannon
+
+Name: sakana
+Security: -0.9
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Eris
+Weapon: 75mm Gatling Rail II
+
+Name: Zephia
+Security: -8.7
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Omen
+Weapon: Omen
+
+Name: Tetrahagel
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Thorax
+Weapon: Thorax
+
+Name: ConXtionS
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: The Night Crew
+Ship: Tristan
+Weapon: Warp Disruptor I
+
+Name: Amon Fire
+Security: 0.7
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Armageddon
+Weapon: Mega Afocal Maser I
+
+
+Destroyed items:
+
+150mm Light AutoCannon II
+150mm Light AutoCannon II
+150mm Light AutoCannon II
+Barrage S, Qty: 213
+Warp Disrupt Probe
+Warp Disrupt Probe
+Warp Disrupt Probe
+Warp Disrupt Probe
+Warp Disrupt Probe
+Warp Disrupt Probe
+Warp Disrupt Probe
+Warp Disrupt Probe
+1MN MicroWarpdrive II
+X5 Prototype I Engine Enervator
+Local Hull Conversion Inertial Stabilizers I
+Stasis Webifier I (Cargo)
+Heavy Ion Blaster I (Cargo)
+Sensor Booster I (Cargo)
+Gauss Field Balancer I (Cargo)
+Barrage S, Qty: 1310 (Cargo)
+Widowmaker Heavy Missile, Qty: 236 (Cargo)
+Warp Disrupt Probe, Qty: 24 (Cargo)
+Type-D Power Core Modification: Capacitor Power Relay (Cargo)
+

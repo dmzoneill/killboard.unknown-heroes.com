@@ -1,0 +1,109 @@
+2006.10.24 20:15
+
+Victim: Arctic Ice
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Destroyed: Raven
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: digital oxygen
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Deimos
+Weapon: 'Hypnos' Multispectral ECM I
+
+Name: Flashh Gorden
+Security: 2.4
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Uncle Fester
+Security: 5.2
+Alliance: Imperial Republic Of the North
+Corp: VentureCorp
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Lone flyer (laid the final blow)
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Absolution
+Weapon: Heavy Pulse Laser II
+
+Name: the Entity
+Security: 2.6
+Alliance: Forces of Freedom
+Corp: Heild Ryogaour
+Ship: Blackbird
+Weapon: Thunderbolt Heavy Missile
+
+Name: Xazier
+Security: -5.6
+Alliance: Imperial Republic Of the North
+Corp: Port Royal Independent Kontractors
+Ship: Typhoon
+Weapon: Paradise Cruise Missile
+
+Name: Laboratus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Megathron
+Weapon: 425mm Prototype I Gauss Gun
+
+Name: BOSSMAN69
+Security: 1.4
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: NUKUNNI TRADING
+Security: 0.0
+Alliance: Forces of Freedom
+Corp: The Night Crew
+Ship: Apocalypse
+Weapon: Focused Medium Beam Laser I
+
+Name: Ardron Zeno
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Megathron
+Weapon: 350mm Railgun I
+
+Name: copicus
+Security: 5.2
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Raven
+Weapon: Shock 'Limos' Siege Missile Bay I
+
+Name: Josh Causto
+Security: 0.4
+Alliance: None
+Corp: Fatalix Inc.
+Ship: Dominix
+Weapon: Heavy 'Ghoul' Energy Siphon I
+
+
+Destroyed items:
+
+Siege Missile Launcher II
+Siege Missile Launcher II
+Siege Missile Launcher II
+Siege Missile Launcher II
+Inferno Rage Torpedo, Qty: 76
+Eutectic I Capacitor Charge Array
+Signal Amplifier II
+Ballistic Control System II
+Ballistic Control System II
+Inferno Rage Torpedo, Qty: 1930 (Cargo)
+

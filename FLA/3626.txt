@@ -1,0 +1,26 @@
+2007.03.28 02:32
+
+Victim: Maximo Brutalis
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Destroyed: Capsule
+System: O-CNPR
+Security: 0.0
+
+Involved parties:
+
+Name: angelena (laid the final blow)
+Security: 4.5
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Claw
+Weapon: 280mm Howitzer Artillery II
+
+Name: Phoenus
+Security: 0.4
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Crow
+Weapon: Upgraded 'Limos' Standard Missile Bay I
+
+

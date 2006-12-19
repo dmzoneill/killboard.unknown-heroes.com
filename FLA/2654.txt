@@ -1,0 +1,28 @@
+2007.03.01 03:25
+
+Victim: Dark Carnage
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Crow
+System: 57-KJB
+Security: 0.0
+
+Involved parties:
+
+Name: Flavius Renatus (laid the final blow)
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Claw
+Weapon: 200mm AutoCannon II
+
+
+Destroyed items:
+
+Sabretooth Light Missile, Qty: 78
+Standard Missile Launcher I
+1MN MicroWarpdrive I
+X5 Prototype I Engine Enervator
+Inertia Stabilizers I
+Sabretooth Light Missile, Qty: 859 (Cargo)
+

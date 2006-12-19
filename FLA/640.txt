@@ -1,0 +1,67 @@
+2007.02.13 23:08
+
+Victim: Multras
+Alliance: Triumvirate.
+Corp: D00M.
+Destroyed: Harpy
+System: L-TS8S
+Security: 0.0
+
+Involved parties:
+
+Name: Drako Invictus (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Absolution
+Weapon: Heavy Pulse Laser II
+
+Name: Ramb3z
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: Elena Morkovka
+Security: 1.4
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Flycatcher
+Weapon: Thorn Rocket
+
+Name: AaLaA
+Security: 4.2
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Celestis
+Weapon: Thunderbolt Heavy Missile
+
+Name: dctero
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Caracal
+Weapon: X5 Prototype I Engine Enervator
+
+Name: Kerdrak
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Curse
+Weapon: E50 Prototype Energy Vampire
+
+
+Destroyed items:
+
+150mm Railgun II
+150mm Railgun II
+Antimatter Charge S, Qty: 80
+Small Shield Booster II
+Cap Booster 150
+Cap Booster 150
+Mark I Modified SS Inertial Stabilizers
+Type-D Altered SS Nanofiber Structure
+Corpse (Cargo)
+Antimatter Charge S, Qty: 1599 (Cargo)
+

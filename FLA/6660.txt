@@ -1,0 +1,26 @@
+2006.11.23 05:48
+
+Victim: Zakuu
+Alliance: None
+Corp: The United Nationalist Syndicate
+Destroyed: Caldari Shuttle
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Eskiban Vlasic (laid the final blow)
+Security: 5.0
+Alliance: EVE Animal Control
+Corp: F.R.E.E. Explorer
+Ship: Eris
+Weapon: 125mm Railgun II
+
+Name: KriegDrachen
+Security: 0.4
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Stiletto
+Weapon: X5 Prototype I Engine Enervator
+
+

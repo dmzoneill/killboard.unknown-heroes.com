@@ -1,0 +1,32 @@
+2007.04.14 15:39
+
+Victim: Jarath Abyss
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Destroyed: Brutix
+System: Isinokka
+Security: 0.7
+
+Involved parties:
+
+Name: noktamid (laid the final blow)
+Security: -1.9
+Alliance: Privateer Alliance
+Corp: Bambooule
+Ship: Myrmidon
+Weapon: Ogre I
+
+Name: Kroonde Gamma
+Security: -1.9
+Alliance: Privateer Alliance
+Corp: Bambooule
+Ship: Drake
+Weapon: XT-2800 Heavy Assault Missile Launcher I
+
+
+Destroyed items:
+
+Warp Disruptor I
+Sensor Booster II
+Medium Armor Repairer II
+

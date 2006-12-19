@@ -1,0 +1,31 @@
+2007.03.21 01:55
+
+Victim: eRogue
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Destroyed: Thorax
+System: OWXT-5
+Security: 0.0
+
+Involved parties:
+
+Name: Altanzar (laid the final blow)
+Security: 4.5
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Ship: Ishkur
+Weapon: Light Neutron Blaster II
+
+
+Destroyed items:
+
+Heavy Ion Blaster II
+Heavy Ion Blaster II
+Heavy Ion Blaster II
+Void M, Qty: 213
+Y-T8 Overcharged Hydrocarbon I Microwarpdrive
+Damage Control II
+Armor Explosive Hardener II
+Type-D Altered SS Inertial Stabilizers
+Ballistic Deflection Field II (Cargo)
+

@@ -1,0 +1,134 @@
+2007.05.17 03:00
+
+Victim: HenDar XXIII
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Harbinger
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Scylla V
+Security: 3.1
+Alliance: Imperial Republic Of the North
+Corp: VentureCorp
+Ship: Brutix
+Weapon: 250mm Railgun I
+
+Name: Drachenlord
+Security: 2.5
+Alliance: Imperial Republic Of the North
+Corp: Port Royal Independent Kontractors
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: conchita
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: AJ Lootar
+Security: -0.3
+Alliance: Pure.
+Corp: Dragons United
+Ship: Flycatcher
+Weapon: Bloodclaw Light Missile
+
+Name: Brantoc
+Security: 4.9
+Alliance: Pure.
+Corp: J.H.E.N.R
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: Cobra Raider (laid the final blow)
+Security: -0.5
+Alliance: Imperial Republic Of the North
+Corp: Port Royal Independent Kontractors
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Maindre
+Security: 5.0
+Alliance: Pure.
+Corp: Viper Intel Squad
+Ship: Raptor
+Weapon: Raptor
+
+Name: MoMurda
+Security: 1.4
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Hawk
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+Name: XVSSBR
+Security: -1.9
+Alliance: Pure.
+Corp: Dragons United
+Ship: Stiletto
+Weapon: Fleeting Warp Scrambler I
+
+Name: freestrike
+Security: 0.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Raptor
+Weapon: Light Electron Blaster II
+
+Name: Vel'Kethor
+Security: -2.8
+Alliance: DeStInY.
+Corp: House Of Aaron
+Ship: Malediction
+Weapon: Malediction
+
+Name: MrMajIc
+Security: 0.8
+Alliance: Imperial Republic Of the North
+Corp: VentureCorp
+Ship: Rapier
+Weapon: Rapier
+
+Name: Maizoon
+Security: 1.8
+Alliance: DeStInY.
+Corp: House Of Aaron
+Ship: Malediction
+Weapon: Malediction
+
+Name: wessam
+Security: 0.0
+Alliance: Imperial Republic Of the North
+Corp: Port Royal Independent Kontractors
+Ship: Crow
+Weapon: Sabretooth Light Missile
+
+Name: Erfurt
+Security: 4.7
+Alliance: Imperial Republic Of the North
+Corp: VentureCorp
+Ship: Raptor
+Weapon: Raptor
+
+
+Destroyed items:
+
+Heavy Beam Laser I
+Heavy Beam Laser I
+Heavy Beam Laser I
+Heavy Beam Laser I
+Microwave M
+Microwave M
+Microwave M
+Microwave M
+Microwave M
+Barton Reactor Capacitor Recharger I
+Barton Reactor Capacitor Recharger I
+10MN Afterburner I
+Overdrive Injector System I
+Small Hull Repairer I (Cargo)
+

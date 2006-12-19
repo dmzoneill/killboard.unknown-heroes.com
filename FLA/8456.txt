@@ -1,0 +1,67 @@
+2006.11.19 02:34
+
+Victim: Scorpio63
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Destroyed: Apocalypse
+System: Torrinos
+Security: 0.5
+
+Involved parties:
+
+Name: Unfortunate Accident
+Security: -1.5
+Alliance: None
+Corp: omen.
+Ship: Megathron
+Weapon: Megathron
+
+Name: Elliott Manchild (laid the final blow)
+Security: -1.9
+Alliance: None
+Corp: omen.
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: night darkness
+Security: -0.7
+Alliance: None
+Corp: omen.
+Ship: Malediction
+Weapon: Malediction
+
+Name: starius3
+Security: 1.2
+Alliance: None
+Corp: omen.
+Ship: Arazu
+Weapon: Remote Sensor Dampener II
+
+
+Destroyed items:
+
+Mega Pulse Laser I
+Mega Pulse Laser I
+Mega Pulse Laser I
+Infrared L
+Infrared L
+Infrared L
+Infrared L
+Infrared L
+Large I-ax Regenerative Projector
+F-b10 Nominal Capacitor Regenerator
+Heat Sink II
+Energized Adaptive Nano Membrane I
+1600mm Reinforced Rolled Tungsten Plates I
+1600mm Reinforced Crystalline Carbonide Plates I
+Large I-a Polarized Armor Regenerator (Cargo)
+Large EMP Smartbomb I (Cargo)
+Heavy Electrochemical Capacitor Booster I (Cargo)
+Gamma L, Qty: 7 (Cargo)
+Multifrequency L, Qty: 5 (Cargo)
+Inferno Torpedo, Qty: 460 (Cargo)
+Null L, Qty: 1200 (Cargo)
+Void L, Qty: 200 (Cargo)
+Shock 'Limos' Siege Missile Bay I (Cargo)
+Vespa I, Qty: 2 (Drone Bay)
+

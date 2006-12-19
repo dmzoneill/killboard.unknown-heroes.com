@@ -1,0 +1,32 @@
+2006.09.14 00:48
+
+Victim: Th3 HuNt3r
+Alliance: Freelancer Alliance
+Corp: EVE MegaCorp Association
+Destroyed: Vigil
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Sov13t (laid the final blow)
+Security: 1.2
+Alliance: Lotka Volterra
+Corp: M. Corp
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: ShadowDragon
+Security: 0.1
+Alliance: Lotka Volterra
+Corp: M. Corp
+Ship: Arazu
+Weapon: Hobgoblin II
+
+
+Destroyed items:
+
+ECM - Multispectral Jammer I
+ECM - Multispectral Jammer I
+Indirect Scanning Dampening Unit I
+

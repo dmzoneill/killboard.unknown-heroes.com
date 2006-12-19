@@ -1,0 +1,124 @@
+2006.09.10 21:47
+
+Victim: Lorn'Alt
+Alliance: None
+Corp: L.Blade Associates
+Destroyed: Caracal
+System: G-M4I8
+Security: 0.0
+
+Involved parties:
+
+Name: MentalM
+Security: 5.2
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Zealot
+Weapon: Zealot
+
+Name: Shiri elAzarinres
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Caracal
+Weapon: Thunderbolt Heavy Missile
+
+Name: Zimi Vlasic
+Security: 0.2
+Alliance: EVE Animal Control
+Corp: F.R.E.E. Explorer
+Ship: Wolf
+Weapon: Warp Disruptor I
+
+Name: Taffun (laid the final blow)
+Security: 2.8
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Wolf
+Weapon: 250mm Light Artillery Cannon II
+
+Name: Fahad
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+Name: DARKLING
+Security: 5.1
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Eagle
+Weapon: Eagle
+
+Name: NATMav
+Security: 5.0
+Alliance: EVE Animal Control
+Corp: F.R.E.E. Explorer
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Kev Lar
+Security: -0.1
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Sabre
+Weapon: 250mm Light Artillery Cannon I
+
+Name: Serin Lore
+Security: 0.1
+Alliance: CORE.
+Corp: AUS Corporation
+Ship: Retribution
+Weapon: Retribution
+
+Name: Puke
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Crow
+Weapon: 'Langour' Drive Disruptor I
+
+Name: vladdy2
+Security: 3.4
+Alliance: CORE.
+Corp: VentureCorp
+Ship: Huginn
+Weapon: Shadow Serpentis Warp Disruptor
+
+Name: Valtaer
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: Terminal Velocity Inc.
+Ship: Moa
+Weapon: 250mm Compressed Coil Gun I
+
+Name: kermitfrog
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Crow
+Weapon: 'Arbalest' Standard Missile Launcher
+
+Name: Karnovsky
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Sabre
+Weapon: Sabre
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 68
+XR-3200 Heavy Missile Bay
+XR-3200 Heavy Missile Bay
+XR-3200 Heavy Missile Bay
+SV-2000 Assault Missile Bay
+Large Azeotropic Ward Salubrity I
+F-b10 Nominal Capacitor Regenerator
+Non-Inertial Ballistic Screen Augmentation I
+Bloodclaw Light Missile, Qty: 1546 (Cargo)
+Scourge Heavy Missile, Qty: 6727 (Cargo)
+Hobgoblin I (Drone Bay)
+

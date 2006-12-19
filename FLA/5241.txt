@@ -1,0 +1,28 @@
+2007.04.27 18:18
+
+Victim: Fitz Farseer
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Rifter
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Caldari Control Tower / Amesha Spentaz (laid the final blow)
+
+
+Destroyed items:
+
+150mm 'Scout' I Accelerator Cannon
+150mm Carbide Railgun I
+Piranha Light Missile, Qty: 19
+Standard Missile Launcher I
+Cold-Gas I Arcjet Thrusters
+Warp Disruptor I
+Stasis Webifier I
+Co-Processor I
+Beta Reactor Control: Capacitor Power Relay I
+Antimatter Charge S, Qty: 139 (Cargo)
+Piranha Light Missile, Qty: 20 (Cargo)
+

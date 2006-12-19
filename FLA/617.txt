@@ -1,0 +1,47 @@
+2007.02.12 23:34
+
+Victim: Savesti Kyrsst
+Alliance: None
+Corp: White-Noise
+Destroyed: Capsule
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Barry Cuda
+Security: 2.1
+Alliance: EVE Animal Control
+Corp: F.R.E.E. Explorer
+Ship: Sacrilege
+Weapon: Sacrilege
+
+Name: Jesnen (laid the final blow)
+Security: 0.2
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Sacrilege
+Weapon: Heavy Modulated Pulse Energy Beam I
+
+Name: coldkill
+Security: 1.3
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Thorax
+Weapon: 'Langour' Drive Disruptor I
+
+Name: SiliconSkies
+Security: 1.7
+Alliance: Imperial Republic Of the North
+Corp: VentureCorp
+Ship: Arazu
+Weapon: Arazu
+
+Name: MindReaper
+Security: 0.7
+Alliance: Sparta Alliance
+Corp: XERCORE
+Ship: Incursus
+Weapon: Stasis Webifier I
+
+

@@ -1,0 +1,92 @@
+2007.02.19 22:07
+
+Victim: GandolftheWhite
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Destroyed: Dominix
+System: Alparena
+Security: 0.1
+
+Involved parties:
+
+Name: EAGLEBRAD
+Security: 5.0
+Alliance: None
+Corp: I-Omniscient-I
+Ship: Raven
+Weapon: Wrath Cruise Missile
+
+Name: arakasa
+Security: 5.0
+Alliance: None
+Corp: The Rising Stars
+Ship: Vulture
+Weapon: Scourge Heavy Missile
+
+Name: G3niE
+Security: 0.5
+Alliance: X-PACT
+Corp: Digital Foundry
+Ship: Lachesis
+Weapon: Hobgoblin I
+
+Name: WinglessAngelX
+Security: -0.3
+Alliance: X-PACT
+Corp: Digital Foundry
+Ship: Arazu
+Weapon: Hammerhead II
+
+Name: Xebec (laid the final blow)
+Security: 3.3
+Alliance: None
+Corp: The Rising Stars
+Ship: Archon
+Weapon: Templar
+
+Name: Aragon Skywalker
+Security: 3.1
+Alliance: None
+Corp: The Rising Stars
+Ship: Mackinaw
+Weapon: Hammerhead II
+
+Name: Draxon Black
+Security: 0.6
+Alliance: None
+Corp: I-Omniscient-I
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Natalie Nocx
+Security: 1.9
+Alliance: None
+Corp: The Rising Stars
+Ship: Mackinaw
+Weapon: Hammerhead II
+
+
+Destroyed items:
+
+Heavy Diminishing Power System Drain I
+E500 Prototype Energy Vampire
+E500 Prototype Energy Vampire
+200mm Railgun II
+Plutonium Charge M, Qty: 152
+Large F-S9 Regolith Shield Induction
+Large F-S9 Regolith Shield Induction
+Quad LiF Fueled I Booster Rockets
+Type-D Altered SS Inertial Stabilizers
+Type-D Altered SS Inertial Stabilizers
+Type-D Altered SS Nanofiber Structure
+Type-D Altered SS Nanofiber Structure
+Ship Scanner I (Cargo)
+Cap Booster 25, Qty: 10 (Cargo)
+Widowmaker Heavy Missile, Qty: 140 (Cargo)
+Havoc Heavy Missile, Qty: 9 (Cargo)
+Heavy Missile Launcher I (Cargo)
+Power Diagnostic System I (Cargo)
+Warrior II, Qty: 2 (Drone Bay)
+Ogre I, Qty: 2 (Drone Bay)
+Valkyrie II (Drone Bay)
+

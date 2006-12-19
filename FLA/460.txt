@@ -1,0 +1,23 @@
+2007.02.04 16:55
+
+Victim: Cans Unleashed
+Alliance: None
+Corp: Republic Military School
+Destroyed: Reaper
+System: XCF-8N
+Security: 0.0
+
+Involved parties:
+
+Name: tehnomage (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Crusader
+Weapon: Dual Light Pulse Laser II
+
+
+Destroyed items:
+
+Civilian Gatling Autocannon
+

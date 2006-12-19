@@ -1,0 +1,31 @@
+2007.02.25 09:55
+
+Victim: Ghu'ru Talozan
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Thorax
+System: Perimeter
+Security: 1.0
+
+Involved parties:
+
+Name: Cown (laid the final blow)
+Security: 1.2
+Alliance: Privateer Alliance
+Corp: Beyond Divinity Inc
+Ship: Pilgrim
+Weapon: Berserker II
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Antimatter Charge S, Qty: 23
+Void S, Qty: 62
+10MN MicroWarpdrive I
+Magnetic Field Stabilizer II
+Magnetic Field Stabilizer II
+Antimatter Charge S, Qty: 1000 (Cargo)
+Lead Charge S, Qty: 1000 (Cargo)
+Void S, Qty: 986 (Cargo)
+

@@ -1,0 +1,40 @@
+2006.12.24 05:29
+
+Victim: Ganjica
+Alliance: None
+Corp: State War Academy
+Destroyed: Ibis
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Gnobe (laid the final blow)
+Security: 0.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Taranis
+Weapon: Light Neutron Blaster II
+
+Name: TroNaaR
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ishkur
+Weapon: 125mm Railgun II
+
+Name: Audri Fisher
+Security: 0.3
+Alliance: THE R0CK
+Corp: The Keep
+Ship: Ferox
+Weapon: Advanced 'Limos' Heavy Missile Bay I
+
+Name: Altho Regilian
+Security: -0.2
+Alliance: Imperial Republic Of the North
+Corp: MetaForge
+Ship: Manticore
+Weapon: 'Limos' Cruise Launcher I
+
+

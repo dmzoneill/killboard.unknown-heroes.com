@@ -1,0 +1,30 @@
+2007.04.22 19:56
+
+Victim: Clarissime
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Rifter
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Dark Carnage (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Scorpion
+Weapon: Large Graviton Smartbomb I
+
+
+Destroyed items:
+
+150mm Light AutoCannon I
+150mm Light AutoCannon I
+150mm Light AutoCannon I
+Carbonized Lead S, Qty: 176
+1MN MicroWarpdrive I
+X5 Prototype I Engine Enervator
+Type-D Altered SS Inertial Stabilizers
+Carbonized Lead S, Qty: 3998 (Cargo)
+

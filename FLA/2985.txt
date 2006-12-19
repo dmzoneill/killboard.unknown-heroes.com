@@ -1,0 +1,82 @@
+2007.03.18 19:54
+
+Victim: Esvi Adhorsen
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Destroyed: Raven
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Primos Gun
+Security: 3.0
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Drake
+Weapon: Torrent Rage Assault Missile
+
+Name: SaNoSuKeJavi
+Security: -2.0
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Thorax
+Weapon: Hammerhead I
+
+Name: Himphotep 87 (laid the final blow)
+Security: 0.5
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Thorax
+Weapon: Heavy Electron Blaster II
+
+Name: DarkAlpha
+Security: -0.2
+Alliance: YouWhat
+Corp: Pringles Inc.
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+Name: Hinderburg
+Security: 4.2
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Wolf
+Weapon: Foxfire Rocket
+
+Name: Utlaen
+Security: 5.0
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Flycatcher
+Weapon: Bloodclaw Light Missile
+
+Name: astur
+Security: 5.0
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: KaKaShI
+Security: 3.7
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Stiletto
+Weapon: Warp Disruptor II
+
+Name: Devylman
+Security: 0.8
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Arbitrator
+Weapon: Small Nosferatu I
+
+
+Destroyed items:
+
+Prototype Cloaking Device I
+'Anointed' I EM Ward Reinforcement
+V-M15 Braced Multispectral Shield Matrix
+Ballistic Control System I
+

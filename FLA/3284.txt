@@ -1,0 +1,76 @@
+2007.03.22 19:14
+
+Victim: Aikuchi Hiddensword
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Dominix
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: PainBall
+Security: -0.9
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Absolution
+Weapon: Absolution
+
+Name: Sith Bandon (laid the final blow)
+Security: 5.0
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Ishtar
+Weapon: Ogre II
+
+Name: Snuggles theTerrible
+Security: 5.0
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Vulture
+Weapon: Vulture
+
+Name: lt blacklotus
+Security: 0.8
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: WarGod
+Security: 1.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Curse
+Weapon: Medium Nosferatu II
+
+Name: XxAngelxX
+Security: -1.8
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Curse
+Weapon: Warrior II
+
+Name: Alchem
+Security: 2.9
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Ishtar
+Weapon: Phased Weapon Navigation Array Generation Extron
+
+
+Destroyed items:
+
+E500 Prototype Energy Vampire
+F-b10 Nominal Capacitor Regenerator
+Fixed Parallel Link-Capacitor I
+100MN MicroWarpdrive I
+F85 Peripheral Damage System I
+Large Automated I Carapace Restoration
+350mm Compressed Coil Gun I, Qty: 3 (Cargo)
+Antimatter Charge L, Qty: 15 (Cargo)
+Ogre I, Qty: 5 (Cargo)
+Berserker SW-900, Qty: 6 (Cargo)
+Acolyte II, Qty: 2 (Drone Bay)
+Berserker SW-900, Qty: 4 (Drone Bay)
+

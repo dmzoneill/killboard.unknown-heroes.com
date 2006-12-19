@@ -1,0 +1,26 @@
+2007.03.16 10:26
+
+Victim: Gythar
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Bustard
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: istasi (laid the final blow)
+Security: -5.4
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Thorax
+Weapon: Ogre I
+
+
+Destroyed items:
+
+Expanded Cargohold II
+Expanded Cargohold II
+Expanded Cargohold II
+Giant Secure Container, Qty: 2 (Cargo)
+

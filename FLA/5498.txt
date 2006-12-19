@@ -1,0 +1,54 @@
+2006.10.06 21:40
+
+Victim: False Profet
+Alliance: None
+Corp: BLUE EAGLES
+Destroyed: Caldari Shuttle
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: DarkJester (laid the final blow)
+Security: 0.7
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Tempest
+Weapon: 800mm Repeating Artillery I
+
+Name: Formosus Funus
+Security: 2.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Rupture
+Weapon: Flameburst Light Missile
+
+Name: Rev Darkwing
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Blackbird
+Weapon: ECM - Multispectral Jammer I
+
+Name: Kyoshisan
+Security: 0.4
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Enyo
+Weapon: Enyo
+
+Name: Flashh Gorden
+Security: 1.9
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Ship: Ferox
+Weapon: XR-3200 Heavy Missile Bay
+
+Name: Drakin Korin
+Security: 3.2
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Ishtar
+Weapon: Fleeting Warp Scrambler I
+
+

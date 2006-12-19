@@ -1,0 +1,40 @@
+2006.09.29 21:48
+
+Victim: Klaas Bruinsma
+Alliance: None
+Corp: The High Assen's Social Joint Venture
+Destroyed: Capsule
+System: F7C-H0
+Security: 0.0
+
+Involved parties:
+
+Name: Bolinar (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Enyo
+Weapon: 150mm Railgun II
+
+Name: W4RR10R
+Security: -1.5
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Taranis
+Weapon: X5 Prototype I Engine Enervator
+
+Name: Kyoshisan
+Security: 0.3
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Taranis
+Weapon: 125mm Railgun II
+
+Name: Karas Rabus
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Stiletto
+Weapon: Warp Disruptor I
+
+

@@ -1,0 +1,71 @@
+2007.03.11 22:41
+
+Victim: L3golas
+Alliance: None
+Corp: R.H. Umbrella Corporation
+Destroyed: Incursus
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Tregaron
+Security: 1.9
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Wolf
+Weapon: Wolf
+
+Name: truefranco (laid the final blow)
+Security: 4.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Kargh
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Thorax
+Weapon: Thorax
+
+Name: Tripwire
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Celestis
+Weapon: Remote Sensor Dampener II
+
+Name: Praetorian Mardou
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Rokh
+Weapon: 'Arbalest' Cruise Launcher I
+
+Name: Mr Kilgore
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Rapier
+Weapon: X5 Prototype I Engine Enervator
+
+Name: Kandread
+Security: 0.6
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Claw
+Weapon: 250mm Light Artillery Cannon II
+
+
+Destroyed items:
+
+Anode Light Ion Particle Cannon I
+Lead Charge S, Qty: 120
+Tungsten Charge S, Qty: 120
+1MN MicroWarpdrive I
+Warp Scrambler I
+Warp Core Stabilizer I
+Warp Core Stabilizer I
+

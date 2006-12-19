@@ -1,0 +1,19 @@
+2006.09.09 21:02
+
+Victim: Dave White
+Alliance: None
+Corp: Beagle Corp
+Destroyed: Capsule
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Braxxon (laid the final blow)
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+

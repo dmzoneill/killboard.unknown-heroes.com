@@ -1,0 +1,31 @@
+2006.12.08 22:24
+
+Victim: Technech
+Alliance: None
+Corp: Center for Advanced Studies
+Destroyed: Imicus
+System: 2O9G-D
+Security: 0.0
+
+Involved parties:
+
+Name: LiBraga (laid the final blow)
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Hawk
+Weapon: Bloodclaw Light Missile
+
+Name: freestrike
+Security: 5.9
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+Miner I
+Miner I
+

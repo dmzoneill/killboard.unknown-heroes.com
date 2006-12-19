@@ -1,0 +1,88 @@
+2007.02.24 17:35
+
+Victim: Colwyn Amicus
+Alliance: Anarchy Empire
+Corp: Team Americas
+Destroyed: Huginn
+System: YZ-LQL
+Security: 0.0
+
+Involved parties:
+
+Name: NaitSaiht Sabes (laid the final blow)
+Security: 4.6
+Alliance: Dusk and Dawn
+Corp: Tri Optimum
+Ship: Thanatos
+Weapon: Firbolg
+
+Name: Muad' Dib
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Capsule
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+Name: Tregaron
+Security: 1.6
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Manticore
+Weapon: Paradise Cruise Missile
+
+Name: Parantez
+Security: 0.3
+Alliance: Dusk and Dawn
+Corp: Tri Optimum
+Ship: Capsule
+Weapon: 250mm Light Artillery Cannon II
+
+Name: Bigfood
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Cataclysm Enterprises
+Ship: Moros
+Weapon: Ion Siege Blaster Cannon I
+
+Name: mac mike
+Security: 4.5
+Alliance: Dusk and Dawn
+Corp: Tri Optimum
+Ship: Stiletto
+Weapon: 150mm Light AutoCannon II
+
+Name: Moonorbiter
+Security: 0.0
+Alliance: Dusk and Dawn
+Corp: Decadence.
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+Name: Mauy Thai
+Security: -1.4
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Curse
+Weapon: Balmer Series Targeting Inhibitor I
+
+Name: Maurice Whodini
+Security: 2.5
+Alliance: Dusk and Dawn
+Corp: Tri Optimum
+Ship: Ishtar
+Weapon: Dual 150mm Railgun II
+
+
+Destroyed items:
+
+Dual 180mm AutoCannon II
+Bloodclaw Light Missile, Qty: 48
+Widowmaker Heavy Missile, Qty: 17
+Advanced 'Limos' Heavy Missile Bay I
+Y-T8 Overcharged Hydrocarbon I Microwarpdrive
+Fleeting Propulsion Inhibitor I
+Medium Electrochemical Capacitor Booster I
+150mm Light AutoCannon II (Cargo)
+Cap Booster 400, Qty: 4 (Cargo)
+Havoc Heavy Missile, Qty: 326 (Cargo)
+

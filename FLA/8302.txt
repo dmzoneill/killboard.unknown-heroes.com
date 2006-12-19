@@ -1,0 +1,33 @@
+2006.11.07 20:51
+
+Victim: Damfoose
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Capsule
+System: Haajinen
+Security: 0.8
+
+Involved parties:
+
+Name: Yarek Balear (laid the final blow)
+Security: -1.8
+Alliance: None
+Corp: The Initiative
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: spirea
+Security: 4.9
+Alliance: None
+Corp: The Initiative
+Ship: Vengeance
+Weapon: Medium Pulse Laser II
+
+Name: TranZferR
+Security: -1.8
+Alliance: None
+Corp: The Initiative
+Ship: Arazu
+Weapon: 200mm Railgun II
+
+

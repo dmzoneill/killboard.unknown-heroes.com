@@ -1,0 +1,82 @@
+2007.03.24 23:21
+
+Victim: Sethiol
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Destroyed: Drake
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Serpentis Port Admiral / Serpentis Corporation
+
+Name: Elfe
+Security: 4.4
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Thorax
+Weapon: Thorax
+
+Name: MASTER PSI
+Security: 3.6
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Ship: Harbinger
+Weapon: Harbinger
+
+Name: albert camus (laid the final blow)
+Security: -8.3
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Ship: Claw
+Weapon: 150mm Light AutoCannon II
+
+Name: DeDreiIx
+Security: 3.1
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: khazid
+Security: 5.0
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Ship: Ferox
+Weapon: Havoc Heavy Missile
+
+Name: Angie Mitchell
+Security: 0.6
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Capsule
+Weapon: Phased Muon Sensor Disruptor I
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 54
+'Arbalest' Heavy Missile Launcher
+'Arbalest' Heavy Missile Launcher
+'Arbalest' Heavy Missile Launcher
+'Arbalest' Heavy Missile Launcher
+Small Tractor Beam I
+Sensor Booster I
+Sensor Booster I
+Heat Dissipation Amplifier II
+Magnetic Scattering Amplifier II
+Shield Power Relay I
+Cross-linked Bolt Array I
+Medium Shield Booster I, Qty: 2 (Cargo)
+1MN Afterburner I, Qty: 2 (Cargo)
+J5 Prototype Warp Inhibitor I (Cargo)
+Medium Armor Repairer I (Cargo)
+Medium Hull Repairer I (Cargo)
+Iron Charge M, Qty: 100 (Cargo)
+Hammerhead I (Cargo)
+Induced Multispectral ECM I (Cargo)
+Scattering ECCM Projector I (Cargo)
+Scourge Heavy Missile, Qty: 1297 (Cargo)
+Havoc Heavy Missile, Qty: 1569 (Cargo)
+

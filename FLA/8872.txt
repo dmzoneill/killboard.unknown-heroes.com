@@ -1,0 +1,33 @@
+2006.12.13 18:38
+
+Victim: Siliya
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Atron
+System: 7RM-N0
+Security: 0.0
+
+Involved parties:
+
+Name: night darkness (laid the final blow)
+Security: -0.7
+Alliance: None
+Corp: omen.
+Ship: Crusader
+Weapon: Dual Light Beam Laser II
+
+Name: Miss d1amond
+Security: -1.1
+Alliance: None
+Corp: omen.
+Ship: Sabre
+Weapon: Fleeting Warp Scrambler I
+
+
+Destroyed items:
+
+'Stoic' Core Equalizer I
+Small Diminishing Power System Drain I (Cargo)
+Energized Adaptive Nano Membrane II, Qty: 2 (Cargo)
+Memory Augmentation - Basic (Cargo)
+

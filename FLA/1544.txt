@@ -1,0 +1,31 @@
+2007.03.16 02:48
+
+Victim: Lord Revent
+Alliance: YouWhat
+Corp: Beasts of Burden
+Destroyed: Stabber
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Skull Fire (laid the final blow)
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Rokh
+Weapon: Large 'Notos' Explosive Charge I
+
+
+Destroyed items:
+
+220mm Vulcan AutoCannon I
+EMP M, Qty: 80
+Advanced 'Limos' Heavy Missile Bay I
+Heavy Missile Launcher I
+Large F-S9 Regolith Shield Induction
+10MN MicroWarpdrive I
+J5 Prototype Warp Inhibitor I
+Gyrostabilizer I
+Inertia Stabilizers I
+

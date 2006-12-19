@@ -1,0 +1,28 @@
+2007.04.02 09:49
+
+Victim: Ehre86
+Alliance: YouWhat
+Corp: Dark Rising Shadow
+Destroyed: Manticore
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Kateryne (laid the final blow)
+Security: 0.4
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Maelstrom
+Weapon: 1400mm Howitzer Artillery I
+
+
+Destroyed items:
+
+Wrath Cruise Missile, Qty: 11
+XT-9000 Cruise Launcher
+XT-9000 Cruise Launcher
+Cap Recharger I
+Sensor Booster I
+Wrath Cruise Missile, Qty: 1634 (Cargo)
+

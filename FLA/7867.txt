@@ -1,0 +1,70 @@
+2006.09.19 02:29
+
+Victim: digital oxygen
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Destroyed: Brutix
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Sith Bandon (laid the final blow)
+Security: 0.2
+Alliance: Ascendant Frontier
+Corp: Celestial Fleet
+Ship: Deimos
+Weapon: Heavy Ion Blaster II
+
+Name: Tomic
+Security: 5.0
+Alliance: Ascendant Frontier
+Corp: Celestial Fleet
+Ship: Thorax
+Weapon: Hammerhead I
+
+Name: Alithieniel Cascade
+Security: 4.0
+Alliance: Process of Elimination
+Corp: Occassus Republica
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+Name: EMP0RIA
+Security: 2.7
+Alliance: Process of Elimination
+Corp: Occassus Republica
+Ship: Blackbird
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: Penelope Grey
+Security: 2.3
+Alliance: Process of Elimination
+Corp: Occassus Republica
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+Name: Zungen
+Security: 5.0
+Alliance: Ascendant Frontier
+Corp: Sha Kharn Corp
+Ship: Thorax
+Weapon: Thorax
+
+
+Destroyed items:
+
+Heavy Electron Blaster II
+Heavy Electron Blaster II
+Heavy Electron Blaster II
+Heavy Electron Blaster II
+Heavy Electron Blaster II
+Heavy Electron Blaster II
+Void M, Qty: 351
+Null M, Qty: 163
+Initiated Warp Jammer I
+Magnetic Field Stabilizer II
+N-Type Explosive Hardener I
+Null M, Qty: 1400 (Cargo)
+Void M, Qty: 1640 (Cargo)
+

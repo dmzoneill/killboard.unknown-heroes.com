@@ -1,0 +1,40 @@
+2006.10.08 21:04
+
+Victim: Passionata
+Alliance: None
+Corp: Deep Core Mining Inc.
+Destroyed: Amarr Shuttle
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: DanyD
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Needa3
+Security: 5.0
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: jarson (laid the final blow)
+Security: -0.3
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Claw
+Weapon: 200mm AutoCannon II
+
+Name: hejjbazeg
+Security: 0.7
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Wolf
+Weapon: Wolf
+
+

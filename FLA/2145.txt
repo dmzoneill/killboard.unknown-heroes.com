@@ -1,0 +1,48 @@
+2007.01.24 23:11
+
+Victim: Odinegras
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Megathron
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Blooded Heromy
+Security: -0.2
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Mr Staberinde (laid the final blow)
+Security: 0.1
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Abriana Overlord
+Security: -1.0
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Falcon
+Weapon: ECM - Ion Field Projector II
+
+
+Destroyed items:
+
+425mm Railgun I
+425mm Railgun I
+425mm Railgun I
+Iron Charge L, Qty: 198
+100MN MicroWarpdrive I
+Indirect Scanning Dampening Unit I
+Alumel-Wired I Sensor Augmentation
+Medium Armor Repairer II
+Tracking Enhancer II
+Magnetic Field Stabilizer II
+Hobgoblin I (Drone Bay)
+Hammerhead SD-600 (Drone Bay)
+

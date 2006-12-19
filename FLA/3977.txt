@@ -1,0 +1,29 @@
+2007.04.08 17:01
+
+Victim: Krestin
+Alliance: YouWhat
+Corp: Cosmic Odyssey
+Destroyed: Merlin
+System: F7C-H0
+Security: 0.0
+
+Involved parties:
+
+Name: Asa Gunnarsson (laid the final blow)
+Security: 0.2
+Alliance: Freelancer Alliance
+Corp: ACCORD Industries
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+
+Destroyed items:
+
+Small 'Ghoul' Energy Siphon I
+Small 'Ghoul' Energy Siphon I
+Small 'Ghoul' Energy Siphon I
+J5 Prototype Warp Inhibitor I
+X5 Prototype I Engine Enervator
+Type-D Altered SS Inertial Stabilizers
+Type-D Altered SS Nanofiber Structure
+

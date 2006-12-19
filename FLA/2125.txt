@@ -1,0 +1,55 @@
+2007.01.23 16:58
+
+Victim: Lord Acheron
+Alliance: Freelancer Alliance
+Corp: Caldar Mercenary Syndicate
+Destroyed: Typhoon
+System: Torrinos
+Security: 0.5
+
+Involved parties:
+
+Name: turumbor
+Security: -1.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Dominix
+Weapon: Ogre II
+
+Name: Darknesss (laid the final blow)
+Security: 0.5
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Myrmidon
+Weapon: Ogre II
+
+Name: xVx Skillgannon
+Security: 0.3
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: boo3916
+Security: 4.7
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Crow
+Weapon: Crow
+
+
+Destroyed items:
+
+Dual 650mm Prototype I Repeating Siege Cannon
+E500 Prototype Energy Vampire
+E500 Prototype Energy Vampire
+EMP L, Qty: 228
+X5 Prototype I Engine Enervator
+Large Armor Repairer II
+Energized Magnetic Membrane II
+Energized Reactive Membrane II
+Energized Adaptive Nano Membrane II
+Energized Adaptive Nano Membrane II
+Energized Thermic Membrane II
+Vespa I, Qty: 3 (Drone Bay)
+

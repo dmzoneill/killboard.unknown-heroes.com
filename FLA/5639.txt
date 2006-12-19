@@ -1,0 +1,26 @@
+2006.10.09 16:07
+
+Victim: Logrus
+Alliance: R.I.S.K
+Corp: RUS-SAGA
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Nil Desperandum (laid the final blow)
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Omen
+Weapon: Heavy Pulse Laser II
+
+Name: Scylla V
+Security: 5.0
+Alliance: CORE.
+Corp: VentureCorp
+Ship: Brutix
+Weapon: 250mm Railgun II
+
+

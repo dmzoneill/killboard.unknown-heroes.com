@@ -1,0 +1,19 @@
+2006.11.16 22:45
+
+Victim: Tenk
+Alliance: Freelancer Alliance
+Corp: BGG
+Destroyed: Capsule
+System: O-CNPR
+Security: 0.0
+
+Involved parties:
+
+Name: Noobjuice (laid the final blow)
+Security: -1.8
+Alliance: The Sani Sabik
+Corp: Omniscient Order
+Ship: Typhoon
+Weapon: Ogre I
+
+

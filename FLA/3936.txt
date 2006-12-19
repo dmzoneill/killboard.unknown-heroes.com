@@ -1,0 +1,54 @@
+2007.04.06 17:36
+
+Victim: Saphiron
+Alliance: None
+Corp: Caldari Provisions
+Destroyed: Caracal
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Jack Thurner (laid the final blow)
+Security: 2.5
+Alliance: DeStInY.
+Corp: Fusion Enterprises Ltd
+Ship: Armageddon
+Weapon: Mega Pulse Laser II
+
+Name: Elena Morkovka
+Security: 1.7
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Iatnuolas
+Security: 1.4
+Alliance: DeStInY.
+Corp: The Knights Of Camelot
+Ship: Hurricane
+Weapon: 720mm Howitzer Artillery I
+
+Name: kakakarr
+Security: 2.8
+Alliance: DeStInY.
+Corp: The Knights Of Camelot
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Snape Sidharth
+Security: 0.7
+Alliance: DeStInY.
+Corp: The Knights Of Camelot
+Ship: Myrmidon
+Weapon: 280mm Howitzer Artillery I
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 133
+10MN Afterburner I
+10MN Afterburner I
+Hornet I (Drone Bay)
+

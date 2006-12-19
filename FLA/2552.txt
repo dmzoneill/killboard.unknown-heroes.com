@@ -1,0 +1,41 @@
+2007.02.20 07:56
+
+Victim: Skull Fire
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Caracal
+System: Z30S-A
+Security: 0.0
+
+Involved parties:
+
+Name: Hauth (laid the final blow)
+Security: 5.2
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Pilgrim
+Weapon: Valkyrie II
+
+Name: Nevrin Derth
+Security: 4.8
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Raven
+Weapon: Hammerhead I
+
+
+Destroyed items:
+
+Thunderbolt Heavy Missile, Qty: 26
+Scourge Heavy Missile, Qty: 26
+Widowmaker Heavy Missile, Qty: 27
+Heavy Missile Launcher I
+10MN MicroWarpdrive I
+Faint Warp Prohibitor I
+J5 Prototype Warp Inhibitor I
+Fleeting Propulsion Inhibitor I
+Prototype I Sensor Booster
+Scourge Heavy Missile, Qty: 298 (Cargo)
+Widowmaker Heavy Missile, Qty: 200 (Cargo)
+Thunderbolt Heavy Missile, Qty: 300 (Cargo)
+

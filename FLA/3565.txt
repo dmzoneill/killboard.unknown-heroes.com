@@ -1,0 +1,65 @@
+2007.03.27 05:58
+
+Victim: Ashr
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Destroyed: Falcon
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Lord Revent (laid the final blow)
+Security: 1.4
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Maelstrom
+Weapon: 800mm Repeating Artillery II
+
+Name: Xoduse
+Security: 0.5
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Hyperion
+Weapon: Shadow Serpentis Stasis Webifier
+
+Name: Xordus
+Security: 1.7
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Armageddon
+Weapon: Dual Heavy Modulated Pulse Energy Beam I
+
+Name: mr ioso
+Security: 4.8
+Alliance: Chorus of Dawn
+Corp: Cosmic Odyssey
+Ship: Myrmidon
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: Mr MA
+Security: 3.5
+Alliance: Chorus of Dawn
+Corp: Cosmic Odyssey
+Ship: Myrmidon
+Weapon: Warp Disruptor I
+
+Name: Erikel
+Security: 4.7
+Alliance: Chorus of Dawn
+Corp: Cosmic Odyssey
+Ship: Megathron
+Weapon: E500 Prototype Energy Vampire
+
+Name: Capt Crazee
+Security: 5.0
+Alliance: Chorus of Dawn
+Corp: Cosmic Odyssey
+Ship: Dominix
+Weapon: Heavy Nosferatu I
+
+
+Destroyed items:
+
+Cynosural Field Generator I
+

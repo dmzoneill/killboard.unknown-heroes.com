@@ -1,0 +1,37 @@
+2007.03.22 19:28
+
+Victim: MohamedLoftie
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Destroyed: Malediction
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Murdoch Morf (laid the final blow)
+Security: 1.4
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Taranis
+Weapon: 125mm Railgun II
+
+Name: WarGod
+Security: 1.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Curse
+Weapon: ECM - Multispectral Jammer II
+
+
+Destroyed items:
+
+Dual Light Pulse Laser II
+Dual Light Pulse Laser II
+Dual Light Pulse Laser II
+Small 'Knave' I Energy Drain
+Scorch S
+Scorch S
+1MN MicroWarpdrive II
+Inertia Stabilizers I
+

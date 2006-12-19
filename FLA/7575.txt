@@ -1,0 +1,36 @@
+2006.09.20 20:36
+
+Victim: EvilTwin I
+Alliance: None
+Corp: Caldari Provisions
+Destroyed: Taranis
+System: Aeschee
+Security: 0.2
+
+Involved parties:
+
+Name: Drakin Korin (laid the final blow)
+Security: 0.3
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Vexor
+Weapon: Hammerhead II
+
+Name: Leon Deverell
+Security: -7.9
+Alliance: None
+Corp: Turbulent Subversion
+Ship: Capsule
+Weapon: Acolyte I
+
+
+Destroyed items:
+
+125mm Railgun II
+Antimatter Charge S, Qty: 76
+Warp Disruptor I
+Initiated Warp Jammer I
+Nanoelectrical Co-Processor
+Warp Core Stabilizer I (Cargo)
+Nanofiber Internal Structure I, Qty: 2 (Cargo)
+

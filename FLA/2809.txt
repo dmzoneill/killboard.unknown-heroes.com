@@ -1,0 +1,38 @@
+2007.03.10 05:56
+
+Victim: Valdemara
+Alliance: Freelancer Alliance
+Corp: United Forces
+Destroyed: Dominix
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Minmatar Control Tower / SteelVipers (laid the final blow)
+
+Name: Cruise Missile Battery / Artificial Horizons
+
+
+Destroyed items:
+
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Dual 250mm Compressed Coil Gun I
+Small Tractor Beam I
+Fixed Parallel Link-Capacitor I
+Fixed Parallel Link-Capacitor I
+Large 'Accommodation' Vestment Reconstructer I
+Large 'Accommodation' Vestment Reconstructer I
+N-Type Thermic Hardener I
+Local Power Plant Manager: Capacity Power Relay I
+Armor Plates, Qty: 6 (Cargo)
+Ogre I, Qty: 2 (Drone Bay)
+Warrior I, Qty: 2 (Drone Bay)
+Hammerhead I, Qty: 4 (Drone Bay)
+Berserker I, Qty: 2 (Drone Bay)
+

@@ -1,0 +1,40 @@
+2007.04.04 01:10
+
+Victim: Dana Foxworth
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Thrasher
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Vily
+Security: 0.3
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Rukaz (laid the final blow)
+Security: 3.1
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+250mm Light Artillery Cannon I
+250mm Light Artillery Cannon I
+250mm Light Artillery Cannon I
+250mm Light Artillery Cannon I
+250mm Light Artillery Cannon I
+Nuclear S, Qty: 46
+Flameburst Light Missile, Qty: 43
+1MN MicroWarpdrive I
+'Orion' Tracking CPU I
+Inertia Stabilizers I
+Nuclear S, Qty: 1500 (Cargo)
+

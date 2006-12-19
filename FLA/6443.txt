@@ -1,0 +1,33 @@
+2006.11.14 09:04
+
+Victim: xon minator
+Alliance: Interstellar Starbase Syndicate
+Corp: United Space Republic
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Almagar Phog (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Blackbird
+Weapon: Flameburst Light Missile
+
+Name: DevilSlayer
+Security: 4.0
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: SleepyOSU
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: Sin-X Inc.
+Ship: Ishkur
+Weapon: J5 Prototype Warp Inhibitor I
+
+

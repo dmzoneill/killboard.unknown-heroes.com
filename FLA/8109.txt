@@ -1,0 +1,36 @@
+2006.10.10 20:12
+
+Victim: jarson
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Destroyed: Blackbird
+System: Torrinos
+Security: 0.5
+
+Involved parties:
+
+Name: Sean Dillon (laid the final blow)
+Security: 1.5
+Alliance: None
+Corp: Privateers
+Ship: Raven
+Weapon: Cataclysm Cruise Missile
+
+
+Destroyed items:
+
+Cynosural Field Generator I
+Scourge Heavy Missile, Qty: 32
+Thunderbolt Heavy Missile, Qty: 33
+'Malkuth' Heavy Missile Launcher I
+Advanced 'Limos' Heavy Missile Bay I
+1MN MicroWarpdrive I
+Stasis Webifier I
+ECM - Multispectral Jammer I
+ECM - Multispectral Jammer I
+DDO Photometry I Targeting Interference
+Small Armor Repairer II
+Small Armor Repairer II
+Havoc Heavy Missile, Qty: 500 (Cargo)
+Scourge Heavy Missile, Qty: 500 (Cargo)
+

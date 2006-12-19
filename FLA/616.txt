@@ -1,0 +1,24 @@
+2007.02.12 23:14
+
+Victim: negatox
+Alliance: None
+Corp: Idle Miners
+Destroyed: Condor
+System: Aldali
+Security: 0.4
+
+Involved parties:
+
+Name: Pixnator (laid the final blow)
+Security: -1.5
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Raven
+Weapon: Mjolnir Javelin Torpedo
+
+
+Destroyed items:
+
+1MN MicroWarpdrive I
+Stasis Webifier I
+

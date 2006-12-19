@@ -1,0 +1,31 @@
+2007.04.18 17:20
+
+Victim: Remontoir
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Destroyed: Blackbird
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: StarshipTrooper (laid the final blow)
+Security: 4.1
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Thanatos
+Weapon: Templar
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Piranha Light Missile, Qty: 60
+Assault Missile Launcher I
+Assault Missile Launcher I
+Compulsive Multispectral ECM I
+Enfeebling Phase Inversion ECM I
+Compulsive Ion Field ECM I
+Signal Distortion Amplifier I
+Signal Distortion Amplifier I
+

@@ -1,0 +1,75 @@
+2007.01.15 20:45
+
+Victim: Powers1
+Alliance: Freelancer Alliance
+Corp: Feel Good Inc.
+Destroyed: Badger Mark II
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: TheAvatar (laid the final blow)
+Security: -0.4
+Alliance: None
+Corp: 0utbreak
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Waut
+Security: 4.5
+Alliance: None
+Corp: 0utbreak
+Ship: Crow
+Weapon: Gremlin Rocket
+
+Name: EnglishBob
+Security: 0.3
+Alliance: None
+Corp: 0utbreak
+Ship: Curse
+Weapon: XR-3200 Heavy Missile Bay
+
+
+Destroyed items:
+
+Ballistic Deflection Field I
+'Halcyon' Core Equalizer I
+Tritanium (Cargo)
+Large F-S9 Regolith Shield Induction, Qty: 5 (Cargo)
+Large Shield Booster II (Cargo)
+X-Large C5-L Emergency Shield Overload I, Qty: 2 (Cargo)
+Large C5-L Emergency Shield Overload I, Qty: 4 (Cargo)
+X-Large Clarity Ward Booster I, Qty: 2 (Cargo)
+F-b10 Nominal Capacitor Regenerator, Qty: 7 (Cargo)
+Initiated Warp Jammer I (Cargo)
+Heavy 'Knave' I Energy Drain (Cargo)
+Medium Rudimentary Concussion Bomb I (Cargo)
+350mm Prototype I Gauss Gun, Qty: 2 (Cargo)
+350mm Railgun I, Qty: 37 (Cargo)
+350mm 'Scout' I Accelerator Cannon, Qty: 2 (Cargo)
+350mm Carbide Railgun I, Qty: 4 (Cargo)
+Non-Inertial Ballistic Screen Augmentation I (Cargo)
+V-M15 Braced Multispectral Shield Matrix (Cargo)
+Ditrigonal Thermal Barrier Crystallization I (Cargo)
+Dread Guristas Iron Charge M, Qty: 1000 (Cargo)
+Juggernaut Torpedo, Qty: 2637 (Cargo)
+Kinetic Deflection Amplifier I (Cargo)
+Giant Secure Container, Qty: 2 (Cargo)
+Ballistic Control System I (Cargo)
+Dread Guristas Brass Tag (Cargo)
+XT-9000 Cruise Launcher, Qty: 2 (Cargo)
+'Arbalest' Cruise Launcher I, Qty: 2 (Cargo)
+ZW-4100 Siege Missile Bay, Qty: 3 (Cargo)
+'Arbalest' Siege Missile Launcher, Qty: 8 (Cargo)
+Beta Reactor Control: Diagnostic System I, Qty: 4 (Cargo)
+Local Power Plant Manager: Diagnostic System I, Qty: 3 (Cargo)
+Mark I Generator Refitting: Diagnostic System, Qty: 7 (Cargo)
+Capacitor Power Relay I (Cargo)
+Mark I Generator Refitting: Capacitor Power Relay, Qty: 3 (Cargo)
+Beta Reactor Control: Capacitor Power Relay I (Cargo)
+Beta Reactor Control: Capacitor Flux I, Qty: 6 (Cargo)
+Beta Reactor Control: Reaction Control I, Qty: 3 (Cargo)
+Mark I Generator Refitting: Reaction Control, Qty: 6 (Cargo)
+XT-2800 Heavy Assault Missile Launcher I (Cargo)
+

@@ -1,0 +1,30 @@
+2006.11.13 00:33
+
+Victim: Evaporite
+Alliance: None
+Corp: Ministry of War
+Destroyed: Impairor
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: jacass8496
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Enyo
+Weapon: Enyo
+
+Name: Hosanna (laid the final blow)
+Security: 1.7
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Tempest
+Weapon: 1400mm Prototype I Siege Cannon
+
+
+Destroyed items:
+
+Civilian Gatling Pulse Laser
+

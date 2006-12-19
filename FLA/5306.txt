@@ -1,0 +1,27 @@
+2007.04.23 23:00
+
+Victim: Ilvarin Brui
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Destroyed: Stiletto
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Minmatar Control Tower / Elite Storm Enterprises (laid the final blow)
+
+Name: Guristas Obliterator / Guristas
+
+
+Destroyed items:
+
+200mm AutoCannon I
+EMP S, Qty: 120
+Piranha Light Missile, Qty: 40
+Standard Missile Launcher I
+Warp Scrambler I
+Stasis Webifier I
+Inertia Stabilizers I
+EMP S, Qty: 200 (Cargo)
+

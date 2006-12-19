@@ -1,0 +1,42 @@
+2007.03.19 15:55
+
+Victim: Sicario
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Destroyed: Raven
+System: 85-B52
+Security: 0.0
+
+Involved parties:
+
+Name: Guristas Terrorist / Guristas
+
+Name: Velsharoon (laid the final blow)
+Security: -9.9
+Alliance: None
+Corp: Endgame.
+Ship: Dominix
+Weapon: Ogre II
+
+Name: Arkani Gera
+Security: -9.8
+Alliance: None
+Corp: The Movement
+Ship: Curse
+Weapon: Hammerhead II
+
+
+Destroyed items:
+
+Juggernaut Torpedo, Qty: 16
+ZW-4100 Siege Missile Bay
+ZW-4100 Siege Missile Bay
+ZW-4100 Siege Missile Bay
+Ballistic Deflection Field I
+Kinetic Deflection Amplifier I
+Beta Reactor Control: Diagnostic System I
+Mark I Generator Refitting: Capacitor Power Relay
+Small Nosferatu I (Cargo)
+Local Power Plant Manager: Reaction Control I (Cargo)
+Vespa I, Qty: 3 (Drone Bay)
+

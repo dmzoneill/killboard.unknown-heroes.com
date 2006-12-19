@@ -1,0 +1,39 @@
+2007.03.26 00:38
+
+Victim: Clavain Treesmighter
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Destroyed: Drake
+System: Z-Y7R7
+Security: 0.0
+
+Involved parties:
+
+Name: mr ioso (laid the final blow)
+Security: 4.8
+Alliance: Chorus of Dawn
+Corp: Cosmic Odyssey
+Ship: Myrmidon
+Weapon: Ogre I
+
+Name: Mr MA
+Security: 3.5
+Alliance: Chorus of Dawn
+Corp: Cosmic Odyssey
+Ship: Myrmidon
+Weapon: Ogre I
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 42
+Advanced 'Limos' Heavy Missile Bay I
+Advanced 'Limos' Heavy Missile Bay I
+Advanced 'Limos' Heavy Missile Bay I
+Large F-S9 Regolith Shield Induction
+Explosion Dampening Field I
+'Anointed' I EM Ward Reinforcement
+Non-Inertial Ballistic Screen Augmentation I
+Type-D Power Core Modification: Shield Power Relay
+Ballistic Control System I
+

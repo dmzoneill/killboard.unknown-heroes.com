@@ -1,0 +1,33 @@
+2007.01.08 17:24
+
+Victim: Tiberius Drake
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Destroyed: Capsule
+System: Oursulaert
+Security: 0.9
+
+Involved parties:
+
+Name: tikki (laid the final blow)
+Security: 1.1
+Alliance: Privateer Alliance
+Corp: Malicious Intentions
+Ship: Lachesis
+Weapon: 250mm Railgun II
+
+Name: Usha Lamia
+Security: -0.1
+Alliance: Privateer Alliance
+Corp: Privateers
+Ship: Cormorant
+Weapon: 125mm Carbide Railgun I
+
+Name: zli
+Security: 0.0
+Alliance: Privateer Alliance
+Corp: Tempt Fate
+Ship: Malediction
+Weapon: Malediction
+
+

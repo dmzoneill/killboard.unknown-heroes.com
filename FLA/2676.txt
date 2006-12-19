@@ -1,0 +1,19 @@
+2007.03.02 06:48
+
+Victim: Polysorbate
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Badger Mark II
+System: MZ1E-P
+Security: 0.0
+
+Involved parties:
+
+Name: Callenthia Mirago (laid the final blow)
+Security: -1.7
+Alliance: Band of Brothers
+Corp: TAOSP
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+

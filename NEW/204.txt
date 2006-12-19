@@ -1,0 +1,155 @@
+2007.02.05 19:56
+
+Victim: ClogMan
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Destroyed: Raven
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Maztruq
+Security: -0.5
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Apocalypse
+Weapon: Apocalypse
+
+Name: LUKEC
+Security: 0.8
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Megathron
+Weapon: Megathron
+
+Name: OzaLoni
+Security: 1.6
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Hyperion
+Weapon: Hyperion
+
+Name: Gazmus
+Security: 0.8
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Megathron
+Weapon: Megathron
+
+Name: Azurek
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Megathron
+Weapon: Megathron
+
+Name: Memphisz
+Security: 0.4
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Tempest
+Weapon: Tempest
+
+Name: Letum Omnis
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Megathron
+Weapon: Megathron
+
+Name: Ria Sotori
+Security: 3.9
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Rokh
+Weapon: Rokh
+
+Name: Bodhi D
+Security: -0.2
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Megathron
+Weapon: Megathron
+
+Name: maria stallion
+Security: 3.7
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Tempest
+Weapon: Tempest
+
+Name: Asquiro
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Rokh
+Weapon: Rokh
+
+Name: Beast Hun
+Security: 4.7
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Kaijou
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Rokh
+Weapon: Rokh
+
+Name: Profeta
+Security: 0.2
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Apocalypse
+Weapon: Apocalypse
+
+Name: CLEISTHENES2 (laid the final blow)
+Security: -0.9
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Maelstrom
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Bobbeh
+Security: -0.1
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Maelstrom
+Weapon: Maelstrom
+
+Name: EL TITAN
+Security: 1.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Machariel
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Trixx Cfanna
+Security: 0.6
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Rokh
+Weapon: 425mm Railgun II
+
+
+Destroyed items:
+
+Antimatter Charge M, Qty: 80
+Cataclysm Cruise Missile, Qty: 42
+X-Large Shield Booster II
+Heat Dissipation Field I
+'Anointed' I EM Ward Reinforcement
+Shield Boost Amplifier I
+Damage Control I
+Ballistic Control System I
+Power Diagnostic System II
+Dread Guristas Tungsten Charge M, Qty: 1000 (Cargo)
+Cataclysm Cruise Missile, Qty: 1832 (Cargo)
+Devastator Cruise Missile, Qty: 1000 (Cargo)
+Obliterator F.O.F. Cruise Missile I, Qty: 596 (Cargo)
+Hammerhead I, Qty: 2 (Drone Bay)
+Acolyte I, Qty: 5 (Drone Bay)

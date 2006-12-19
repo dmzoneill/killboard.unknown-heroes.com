@@ -1,0 +1,90 @@
+2007.01.28 18:08
+
+Victim: Akathrielah
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Destroyed: Moa
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: DAViiD
+Security: -0.8
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Taranis
+Weapon: Taranis
+
+Name: Puls4r
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: Marschall
+Security: 2.1
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+Name: Misticue
+Security: -1.5
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Crow
+Weapon: 'Arbalest' Standard Missile Launcher
+
+Name: Biosourcy
+Security: 4.8
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Jaguar
+Weapon: 150mm Light AutoCannon II
+
+Name: RagedyMan (laid the final blow)
+Security: 1.9
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Nighthawk
+Weapon: Scourge Precision Heavy Missile
+
+Name: Messiah Killeon
+Security: -0.3
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Taranis
+Weapon: 125mm Railgun II
+
+Name: Sir JoJo
+Security: 2.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Huginn
+Weapon: 650mm Artillery Cannon II
+
+Name: EL TITAN
+Security: 1.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Vagabond
+Weapon: Domination Warp Disruptor
+
+
+Destroyed items:
+
+250mm Railgun I
+250mm Railgun I
+250mm Railgun I
+250mm Railgun I
+Antimatter Charge M, Qty: 34
+'Arbalest' Rocket Launcher I
+'Arbalest' Rocket Launcher I
+Medium Shield Booster II
+Sensor Booster I
+Magnetic Vortex Stabilizer I
+Reactor Control Unit I
+Antimatter Charge M, Qty: 1867 (Cargo)
+

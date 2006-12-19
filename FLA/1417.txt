@@ -1,0 +1,56 @@
+2007.03.12 23:15
+
+Victim: kribensis74
+Alliance: Privateer Alliance
+Corp: Serial Killers
+Destroyed: Muninn
+System: Jita
+Security: 0.9
+
+Involved parties:
+
+Name: MGONDIM
+Security: -1.4
+Alliance: Kith of Venal
+Corp: Comando Vermelho
+Ship: Ishkur
+Weapon: Infiltrator II
+
+Name: Sardinha enlatada (laid the final blow)
+Security: 1.3
+Alliance: Kith of Venal
+Corp: Comando Vermelho
+Ship: Thorax
+Weapon: Hammerhead II
+
+Name: Eversor
+Security: 3.5
+Alliance: Kith of Venal
+Corp: FW Inc
+Ship: Falcon
+Weapon: ECM - Multispectral Jammer II
+
+Name: Tregaron
+Security: 1.9
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Cyclone
+Weapon: Hammerhead II
+
+
+Destroyed items:
+
+425mm AutoCannon II
+425mm AutoCannon II
+425mm AutoCannon II
+E50 Prototype Energy Vampire
+Barrage M, Qty: 60
+Thunderbolt Heavy Missile, Qty: 33
+Advanced 'Limos' Heavy Missile Bay I
+10MN MicroWarpdrive II
+Fleeting Propulsion Inhibitor I
+Damage Control II
+Armor Explosive Hardener II
+Corpse (Cargo)
+Thunderbolt Heavy Missile, Qty: 775 (Cargo)
+

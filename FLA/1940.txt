@@ -1,0 +1,27 @@
+2007.01.11 23:07
+
+Victim: TiMeZeRo225
+Alliance: Freelancer Alliance
+Corp: J.I.T. Enterprises
+Destroyed: Crow
+System: OWXT-5
+Security: 0.0
+
+Involved parties:
+
+Name: Paltar (laid the final blow)
+Security: -1.7
+Alliance: None
+Corp: Evil Bandit Organisation
+Ship: Taranis
+Weapon: 125mm Railgun II
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 37
+TE-2100 Standard Missile Bay
+TE-2100 Standard Missile Bay
+Beta Hull Mod Nanofiber Structure
+Bloodclaw Light Missile, Qty: 1000 (Cargo)
+

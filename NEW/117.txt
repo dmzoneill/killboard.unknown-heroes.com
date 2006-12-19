@@ -1,0 +1,119 @@
+2007.01.19 23:53
+
+Victim: Epro
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Cyclone
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: ukpAgAn
+Security: 5.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Megathron
+Weapon: Megathron
+
+Name: Unfortunate Accident
+Security: -1.9
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Megathron
+Weapon: Megathron
+
+Name: taylor04
+Security: 0.4
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Elliott Manchild
+Security: -0.5
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: xlop
+Security: -1.2
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Megathron
+Weapon: Megathron
+
+Name: Brisky T'Pol (laid the final blow)
+Security: 1.2
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Tempest
+Weapon: 1200mm Artillery Cannon II
+
+Name: McGin
+Security: -3.5
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Megathron
+Weapon: Tracking Disruptor II
+
+Name: Malafor
+Security: -1.2
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Armageddon
+Weapon: Mega Beam Laser II
+
+Name: ArchenTheGreat
+Security: -2.1
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Dominix
+Weapon: Dominix
+
+Name: turumbor
+Security: -1.7
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Crow
+Weapon: TE-2100 Standard Missile Bay
+
+Name: hardgit
+Security: 0.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Raven
+Weapon: Siege Missile Launcher II
+
+Name: boo3916
+Security: 4.7
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Raven
+Weapon: Siege Missile Launcher II
+
+Name: Anna Neura
+Security: -0.2
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Lachesis
+Weapon: Phased Muon Sensor Disruptor I
+
+
+Destroyed items:
+
+Fulmination Assault Missile, Qty: 3600
+425mm AutoCannon I, Qty: 2
+EMP M, Qty: 189
+XT-2800 Heavy Assault Missile Launcher I
+Compact 'Limos' Heavy Assault Missile Launcher I
+Medium Converse I Deflection Catalyzer
+Damage Control I
+Medium Armor Repairer I
+F-43 Repeatative Multi-Frequency Backup Sensors
+Type-D Power Core Modification: Capacitor Power Relay
+'Limos' Rocket Launcher I (Cargo)
+Hellfire Assault Missile, Qty: 131 (Cargo)
+Fulmination Assault Missile, Qty: 27 (Cargo)
+Torrent Assault Missile, Qty: 200 (Cargo)

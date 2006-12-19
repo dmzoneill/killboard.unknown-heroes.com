@@ -1,0 +1,19 @@
+2006.11.15 22:59
+
+Victim: Tenk
+Alliance: Freelancer Alliance
+Corp: BGG
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: SpacedInvader (laid the final blow)
+Security: -0.5
+Alliance: Interstellar Starbase Syndicate
+Corp: The Graduates
+Ship: Megathron
+Weapon: 425mm Compressed Coil Gun I
+
+

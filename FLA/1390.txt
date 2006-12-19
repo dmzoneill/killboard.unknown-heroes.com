@@ -1,0 +1,19 @@
+2007.03.12 08:04
+
+Victim: sliver 0xD
+Alliance: Chorus of Dawn
+Corp: Infinite Style Incorporated
+Destroyed: Caldari Shuttle
+System: MJYW-3
+Security: 0.0
+
+Involved parties:
+
+Name: VoYvod (laid the final blow)
+Security: -1.3
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Armageddon
+Weapon: Tachyon Beam Laser I
+
+

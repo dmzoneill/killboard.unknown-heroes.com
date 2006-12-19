@@ -1,0 +1,74 @@
+2007.03.25 19:52
+
+Victim: Hanshi Angel
+Alliance: Chorus of Dawn
+Corp: Independent Frontiers
+Destroyed: Drake
+System: Alsavoinon
+Security: 0.3
+
+Involved parties:
+
+Name: Gallente Sentry Gun / Federation Navy
+
+Name: Vesspasiano
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Dominix
+Weapon: Ogre II
+
+Name: RythemAndStealth
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Omen
+Weapon: Omen
+
+Name: mr passie
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Rupture
+Weapon: Rupture
+
+Name: Jonas123
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Rokh
+Weapon: Rokh
+
+Name: Skull Fire (laid the final blow)
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Scorpion
+Weapon: Berserker I
+
+Name: darkviron
+Security: 2.8
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Blackbird
+Weapon: Widowmaker Heavy Missile
+
+Name: Chuck Dawg
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Crow
+Weapon: Thorn Rocket
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 77
+XR-3200 Heavy Missile Bay
+XR-3200 Heavy Missile Bay
+XR-3200 Heavy Missile Bay
+Small Tractor Beam I
+Sensor Booster II
+Target Painter I
+Warp Core Stabilizer I (Cargo)
+

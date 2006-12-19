@@ -1,0 +1,37 @@
+2007.01.07 02:46
+
+Victim: thoradh
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Celestis
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Heinky (laid the final blow)
+Security: 2.6
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Abaddon
+Weapon: Tachyon Beam Laser II
+
+
+Destroyed items:
+
+200mm Railgun I
+200mm Railgun I
+Iridium Charge M, Qty: 80
+Bloodclaw Light Missile, Qty: 40
+Standard Missile Launcher I
+Kapteyn Sensor Array Inhibitor I
+Kapteyn Sensor Array Inhibitor I
+Kapteyn Sensor Array Inhibitor I
+Sensor Booster I
+Damage Control I
+Medium Armor Repairer I
+800mm Reinforced Steel Plates I
+Iridium Charge M, Qty: 320 (Cargo)
+Hobgoblin I, Qty: 2 (Drone Bay)
+Hammerhead I, Qty: 3 (Drone Bay)
+

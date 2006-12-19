@@ -1,0 +1,51 @@
+2006.09.12 19:39
+
+Victim: Capt Volrath
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Destroyed: Raven
+System: L-TS8S
+Security: 0.0
+
+Involved parties:
+
+Name: JigJaw
+Security: -0.4
+Alliance: None
+Corp: SpaceBalls Navy
+Ship: Moa
+Weapon: Hobgoblin II
+
+Name: Echelon Carter (laid the final blow)
+Security: 0.6
+Alliance: None
+Corp: SpaceBalls Navy
+Ship: Deimos
+Weapon: Hammerhead II
+
+Name: airspace
+Security: 1.5
+Alliance: None
+Corp: SpaceBalls Navy
+Ship: Celestis
+Weapon: Warrior II
+
+
+Destroyed items:
+
+Juggernaut Torpedo
+Juggernaut Torpedo
+Juggernaut Torpedo
+Siege Missile Launcher I
+Siege Missile Launcher I
+Siege Missile Launcher I
+Siege Missile Launcher I
+Small Tractor Beam I
+Small Shield Booster II
+Large Shield Booster I
+Heat Dissipation Amplifier I
+Multi Sensor Backup Array I
+'Halcyon' Core Equalizer I
+Juggernaut Torpedo, Qty: 1248 (Cargo)
+Vespa I, Qty: 4 (Drone Bay)
+

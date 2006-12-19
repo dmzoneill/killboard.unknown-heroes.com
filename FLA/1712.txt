@@ -1,0 +1,65 @@
+2007.01.01 16:48
+
+Victim: Dr Andy
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Destroyed: Dominix
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Dr Wahoos (laid the final blow)
+Security: -3.3
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Raven
+Weapon: Mjolnir Javelin Torpedo
+
+Name: Darknesss
+Security: -0.5
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Dominix
+Weapon: Ogre II
+
+Name: xlop
+Security: -1.0
+Alliance: None
+Corp: omen.
+Ship: Typhoon
+Weapon: Heavy Diminishing Power System Drain I
+
+Name: Drakin Korin
+Security: -0.7
+Alliance: None
+Corp: Evil Bandit Organisation
+Ship: Lachesis
+Weapon: Phased Muon Sensor Disruptor I
+
+Name: Miss d1amond
+Security: -1.1
+Alliance: None
+Corp: omen.
+Ship: Cheetah
+Weapon: Low Frequency Sensor Suppressor I
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Medium Nosferatu II
+Heavy Diminishing Power System Drain I
+Heavy Diminishing Power System Drain I
+LiF Fueled I Booster Rockets
+'Langour' Drive Disruptor I
+Heavy Electrochemical Capacitor Booster I
+Sensor Booster I
+Large Armor Repairer II
+Armor Explosive Hardener I
+Armor Thermic Hardener I
+Cap Booster 800, Qty: 18 (Cargo)
+Hobgoblin II, Qty: 4 (Drone Bay)
+Hammerhead II (Drone Bay)
+Heavy Armor Maintenance Bot I, Qty: 2 (Drone Bay)
+

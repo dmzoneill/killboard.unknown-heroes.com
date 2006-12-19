@@ -1,0 +1,62 @@
+2007.04.06 15:15
+
+Victim: dastommy79
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Destroyed: Thorax
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Milo Deadstar (laid the final blow)
+Security: 0.7
+Alliance: None
+Corp: Exit 13
+Ship: Sleipnir
+Weapon: 425mm AutoCannon II
+
+Name: Cado Angelus
+Security: 4.6
+Alliance: None
+Corp: Exit 13
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Agama
+Security: 0.6
+Alliance: None
+Corp: Exit 13
+Ship: Harbinger
+Weapon: Harbinger
+
+Name: Hans Blix
+Security: 1.2
+Alliance: None
+Corp: Exit 13
+Ship: Sleipnir
+Weapon: Sleipnir
+
+Name: Lucitia
+Security: 2.2
+Alliance: None
+Corp: Exit 13
+Ship: Drake
+Weapon: Thunderbolt Heavy Missile
+
+
+Destroyed items:
+
+Heavy Ion Blaster I
+Heavy Ion Blaster I
+Heavy Ion Blaster I
+Antimatter Charge M, Qty: 240
+10MN MicroWarpdrive I
+Sensor Booster I
+Magnetic Field Stabilizer I
+1600mm Reinforced Crystalline Carbonide Plates I
+Reactor Control Unit I
+Reactor Control Unit I
+Antimatter Charge M, Qty: 2026 (Cargo)
+Valkyrie I, Qty: 2 (Drone Bay)
+

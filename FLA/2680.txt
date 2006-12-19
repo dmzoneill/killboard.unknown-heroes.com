@@ -1,0 +1,34 @@
+2007.03.02 08:11
+
+Victim: Aspi Rene
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Ishkur
+System: YZ-LQL
+Security: 0.0
+
+Involved parties:
+
+Name: MilaNoCZ (laid the final blow)
+Security: 5.0
+Alliance: Xelas Alliance
+Corp: Rytiri Lva
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+
+Destroyed items:
+
+125mm Railgun II
+125mm Railgun II
+Antimatter Charge S, Qty: 52
+Small Electrochemical Capacitor Booster I
+Cap Booster 100
+Cap Booster 100
+Cap Booster 100
+Small Armor Repairer II
+Reactive Plating II
+Energized Adaptive Nano Membrane II
+Antimatter Charge S, Qty: 13698 (Cargo)
+Warrior I, Qty: 5 (Drone Bay)
+

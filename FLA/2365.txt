@@ -1,0 +1,130 @@
+2007.02.06 21:23
+
+Victim: Wicked Pissah
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Blackbird
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Darcuese
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Abaddon
+Weapon: Tachyon Beam Laser II
+
+Name: Kaijou
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Rokh
+Weapon: 425mm 'Scout' I Accelerator Cannon
+
+Name: LordPhoenix
+Security: 2.2
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Drift Spec (laid the final blow)
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Phoenixgurl
+Security: -0.1
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Harbinger
+Weapon: Warp Disruptor I
+
+Name: fire 59
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Bodhi D
+Security: -0.2
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: violator2k5
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+Name: Nephrops norvegicus
+Security: -1.1
+Alliance: Band of Brothers
+Corp: Black Eclipse Corp
+Ship: Crusader
+Weapon: Dual Light Beam Laser II
+
+Name: Havvok
+Security: 1.9
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Raptor
+Weapon: TE-2100 Standard Missile Bay
+
+Name: Rift Scorn
+Security: 4.0
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Crow
+Weapon: Crow
+
+Name: Zigy
+Security: 3.7
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Taranis
+Weapon: Warp Disruptor I
+
+Name: Meja
+Security: 2.3
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Myrmidon
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: Garpur59
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Ares
+Weapon: Light Ion Blaster II
+
+Name: Freia Lenneth
+Security: 2.8
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Claw
+Weapon: 150mm Light AutoCannon II
+
+
+Destroyed items:
+
+125mm Railgun I
+Lead Charge S, Qty: 45
+Havoc Heavy Missile, Qty: 33
+Advanced 'Limos' Heavy Missile Bay I
+Advanced 'Limos' Heavy Missile Bay I
+Medium Shield Booster I
+ECM - Multispectral Jammer I
+Remote Sensor Dampener I
+Medium Armor Repairer I
+800mm Reinforced Titanium Plates I
+

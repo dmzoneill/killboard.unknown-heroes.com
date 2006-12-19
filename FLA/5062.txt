@@ -1,0 +1,31 @@
+2007.04.21 14:33
+
+Victim: Shassandra
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Vexor
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Minmatar Control Tower / Elite Storm Enterprises (laid the final blow)
+
+Name: Indiano Arko
+Security: 0.6
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Hurricane
+Weapon: 650mm Medium 'Scout' Artillery I
+
+
+Destroyed items:
+
+Small 'Ghoul' Energy Siphon I
+Iron Charge M, Qty: 600
+10MN MicroWarpdrive I
+Stasis Webifier I
+Iron Charge M, Qty: 3200 (Cargo)
+Valkyrie II, Qty: 5 (Drone Bay)
+Medium Armor Maintenance Bot I, Qty: 2 (Drone Bay)
+

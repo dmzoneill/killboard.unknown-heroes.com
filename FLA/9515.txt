@@ -1,0 +1,44 @@
+2007.05.14 14:30
+
+Victim: Blaze Forerunner
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Destroyed: Osprey
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: nyricia
+Security: 2.7
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Drake
+Weapon: Havoc Heavy Missile
+
+Name: Lokki Deathwish
+Security: 2.9
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Raven
+Weapon: Mjolnir Torpedo
+
+Name: Terdlinger
+Security: 5.0
+Alliance: Storm Armada
+Corp: stone grave haulage
+Ship: Raven
+Weapon: Mjolnir Rage Torpedo
+
+Name: RyMcQeN I (laid the final blow)
+Security: 4.5
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Chimera
+Weapon: Templar
+
+
+Destroyed items:
+
+Type-D Power Core Modification: Capacitor Power Relay
+

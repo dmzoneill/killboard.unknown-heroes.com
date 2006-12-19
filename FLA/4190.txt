@@ -1,0 +1,69 @@
+2007.04.03 22:19
+
+Victim: Kaand
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Rifter
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Argyle Jones (laid the final blow)
+Security: -1.0
+Alliance: Triumvirate.
+Corp: Wreckless Abandon
+Ship: Sleipnir
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Wildhog
+Security: 5.1
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Claw
+Weapon: Claw
+
+Name: fox247
+Security: 2.1
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Flycatcher
+Weapon: Flameburst Light Missile
+
+Name: MAUNA KEA
+Security: 5.0
+Alliance: Triumvirate.
+Corp: Wreckless Abandon
+Ship: Caracal
+Weapon: Hornet II
+
+Name: ste thegreat
+Security: 3.1
+Alliance: Triumvirate.
+Corp: Wreckless Abandon
+Ship: Absolution
+Weapon: Absolution
+
+Name: taylor04
+Security: 3.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Curse
+Weapon: Remote Sensor Dampener II
+
+Name: ammargal
+Security: 5.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Abaddon
+Weapon: Mega Pulse Laser II
+
+
+Destroyed items:
+
+150mm Light AutoCannon II
+150mm Light AutoCannon II
+150mm Light AutoCannon II
+Barrage S, Qty: 68
+Micro Auxiliary Power Core I
+

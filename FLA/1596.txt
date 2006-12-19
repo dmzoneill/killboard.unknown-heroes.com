@@ -1,0 +1,73 @@
+2007.03.18 00:26
+
+Victim: istasi
+Alliance: YouWhat
+Corp: Artificial Horizons
+Destroyed: Myrmidon
+System: XT-R36
+Security: 0.0
+
+Involved parties:
+
+Name: MacGardner (laid the final blow)
+Security: 5.0
+Alliance: The Sundering
+Corp: ironwood ink
+Ship: Raven
+Weapon: Inferno Torpedo
+
+Name: Astorothe
+Security: 1.9
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Kaand
+Security: 3.5
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Megathron
+Weapon: Megathron
+
+Name: Kuter
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Jonkai
+Security: -3.9
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Damfoose
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Scorpion
+Weapon: Induced Multispectral ECM I
+
+Name: Ahramaine
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Small EMP Smartbomb I
+10MN Afterburner II
+Stasis Webifier I
+Medium Capacitor Booster I
+Cap Booster 800
+Medium Armor Repairer II
+Energized Adaptive Nano Membrane I
+Energized Adaptive Nano Membrane I
+

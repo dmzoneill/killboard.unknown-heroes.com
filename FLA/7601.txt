@@ -1,0 +1,107 @@
+2006.09.24 10:49
+
+Victim: dec0
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Destroyed: Raven
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Minesweeper
+Security: 2.8
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Raven
+Weapon: 'Hypnos' Multispectral ECM I
+
+Name: Kolombus
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Ishkur
+Weapon: Hobgoblin II
+
+Name: Ian Storme (laid the final blow)
+Security: 1.1
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Ship: Ferox
+Weapon: Hobgoblin I
+
+Name: Francis Verdictio
+Security: 4.5
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Taranis
+Weapon: Taranis
+
+Name: Cockroach
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Vengeance
+Weapon: Vengeance
+
+Name: Stardust Mina
+Security: 1.6
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Ship: Rupture
+Weapon: Valkyrie I
+
+Name: Jessica McDaniel
+Security: 1.1
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Blackbird
+Weapon: Scourge Heavy Missile
+
+Name: XxSOULxX
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Ship: Thorax
+Weapon: Hammerhead I
+
+Name: Hava StormBringerr
+Security: 1.7
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Malediction
+Weapon: Gremlin Rocket
+
+Name: Gangreen
+Security: 0.1
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Incursus
+Weapon: Incursus
+
+Name: kone on
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Sabre
+Weapon: Sabre
+
+Name: Rev Darkwing
+Security: 0.8
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Blackbird
+Weapon: Compulsive Multispectral ECM I
+
+
+Destroyed items:
+
+Wrath Cruise Missile, Qty: 21
+Paradise Cruise Missile, Qty: 42
+Cataclysm Cruise Missile, Qty: 21
+'Malkuth' Cruise Launcher I
+'Malkuth' Cruise Launcher I
+ECM - Multispectral Jammer I
+ECM - Multispectral Jammer I
+Paradise Cruise Missile, Qty: 1356 (Cargo)
+

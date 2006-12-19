@@ -1,0 +1,62 @@
+2007.04.18 16:55
+
+Victim: Mirshan
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Destroyed: Armageddon
+System: G-7WUF
+Security: 0.0
+
+Involved parties:
+
+Name: Phlax
+Security: 1.6
+Alliance: None
+Corp: 0utbreak
+Ship: Machariel
+Weapon: Valkyrie II
+
+Name: Paradise Cruise Missile / True Power
+
+Name: zeroh (laid the final blow)
+Security: -1.9
+Alliance: None
+Corp: 0utbreak
+Ship: Machariel
+Weapon: Infiltrator I
+
+Name: Manfred Sideous
+Security: 0.5
+Alliance: None
+Corp: 0utbreak
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: welsh wizard
+Security: 5.0
+Alliance: None
+Corp: 0utbreak
+Ship: Crow
+Weapon: Fleeting Warp Scrambler I
+
+
+Destroyed items:
+
+Gamma L
+Gamma L
+Small Tractor Beam I
+Cap Recharger I
+Tracking Computer I
+Armor Thermic Hardener II
+Armor Thermic Hardener I
+Capacitor Power Relay I
+Dual Heavy Pulse Laser I (Cargo)
+Heavy Unstable Power Fluctuator I (Cargo)
+Infrared L, Qty: 7 (Cargo)
+Standard L, Qty: 2 (Cargo)
+Microwave L, Qty: 6 (Cargo)
+Xray L (Cargo)
+800mm Reinforced Rolled Tungsten Plates I (Cargo)
+Hammerhead II, Qty: 3 (Drone Bay)
+Berserker SW-900, Qty: 2 (Drone Bay)
+

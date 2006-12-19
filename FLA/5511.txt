@@ -1,0 +1,40 @@
+2006.10.06 23:21
+
+Victim: birty
+Alliance: None
+Corp: Privateers
+Destroyed: Thorax
+System: Kaaputenen
+Security: 0.8
+
+Involved parties:
+
+Name: alon blackhelm (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Eagle
+Weapon: 250mm Compressed Coil Gun I
+
+Name: dastommy79
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Caracal
+Weapon: Sabretooth Light Missile
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Modal Electron Particle Accelerator I
+Modal Electron Particle Accelerator I
+Antimatter Charge M, Qty: 400
+Plutonium Charge M, Qty: 200
+Initiated Warp Jammer I
+Damage Control I
+N-Type Thermic Hardener I
+Plutonium Charge M, Qty: 514 (Cargo)
+Antimatter Charge M, Qty: 460 (Cargo)
+Hammerhead I, Qty: 2 (Drone Bay)
+

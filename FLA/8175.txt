@@ -1,0 +1,39 @@
+2006.10.25 23:23
+
+Victim: James Potkukelkka
+Alliance: Freelancer Alliance
+Corp: BGG
+Destroyed: Flycatcher
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Ragnar Redmane (laid the final blow)
+Security: 2.9
+Alliance: None
+Corp: NEXT LEVEL
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Cosh
+Security: 3.5
+Alliance: None
+Corp: NEXT LEVEL
+Ship: Vagabond
+Weapon: Vagabond
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 132
+Upgraded 'Limos' Standard Missile Bay I
+Upgraded 'Limos' Standard Missile Bay I
+Upgraded 'Limos' Standard Missile Bay I
+Interdiction Sphere Launcher I
+Small C5-L Emergency Shield Overload I
+F-b10 Nominal Capacitor Regenerator
+1MN MicroWarpdrive I
+F-90 Positional Sensor Subroutines
+Bloodclaw Light Missile, Qty: 203 (Cargo)
+

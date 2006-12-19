@@ -1,0 +1,57 @@
+2007.05.10 19:23
+
+Victim: Hell Bent
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Iteron Mark V
+System: L-C3O7
+Security: 0.0
+
+Involved parties:
+
+Name: Louis DelaBlanche
+Security: 5.0
+Alliance: YouWhat
+Corp: Cosmic Odyssey
+Ship: Megathron
+Weapon: 425mm Compressed Coil Gun I
+
+Name: Galaran Vaygr (laid the final blow)
+Security: 5.0
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Scorpion
+Weapon: Wrath Cruise Missile
+
+Name: Vrivona
+Security: 1.5
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Claw
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: Space Fear
+Security: 5.0
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+
+Destroyed items:
+
+10MN Afterburner I
+Expanded Cargohold I
+Expanded Cargohold I
+Large C5-L Emergency Shield Overload I (Cargo)
+Spike M, Qty: 1788 (Cargo)
+Havoc Heavy Missile, Qty: 4635 (Cargo)
+Thunderbolt Heavy Missile, Qty: 2598 (Cargo)
+Scourge Heavy Missile, Qty: 6747 (Cargo)
+Wrath Cruise Missile, Qty: 3398 (Cargo)
+Jaspet Mining Crystal I, Qty: 6 (Cargo)
+Omber Mining Crystal I, Qty: 6 (Cargo)
+Dark Ochre Mining Crystal I, Qty: 6 (Cargo)
+Hedbergite Mining Crystal I, Qty: 6 (Cargo)
+Kernite Mining Crystal I, Qty: 6 (Cargo)
+

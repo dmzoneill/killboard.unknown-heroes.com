@@ -1,0 +1,83 @@
+2007.04.18 02:42
+
+Victim: Anndy
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Destroyed: Armageddon
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Terdlinger
+Security: 4.8
+Alliance: Storm Armada
+Corp: stone grave haulage
+Ship: Hawk
+Weapon: Standard Missile Launcher II
+
+Name: thedeadcows
+Security: 0.1
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Prophecy
+Weapon: Prophecy
+
+Name: Arikas Talendar
+Security: 5.0
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Konson (laid the final blow)
+Security: 3.7
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Chimera
+Weapon: Dragonfly
+
+Name: Fitz Farseer
+Security: 0.5
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Hound
+Weapon: Paradise Cruise Missile
+
+Name: Wraithstorm
+Security: 3.1
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Arazu
+Weapon: Remote Sensor Dampener II
+
+Name: Screamer
+Security: 0.4
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Chimera
+Weapon: Dragonfly
+
+Name: Ghost Hughdidit
+Security: 3.1
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Thanatos
+Weapon: Templar
+
+
+Destroyed items:
+
+Tachyon Beam Laser I
+Tachyon Beam Laser I
+Medium Graviton Smartbomb I
+Ultraviolet L
+Ultraviolet L
+Ultraviolet L
+Fixed Parallel Link-Capacitor I
+Fixed Parallel Link-Capacitor I
+Emergency Damage Control I
+Large Inefficient Armor Repair Unit
+Energized Adaptive Nano Membrane I
+Armor Thermic Hardener I
+

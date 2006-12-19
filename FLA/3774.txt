@@ -1,0 +1,29 @@
+2007.03.31 19:25
+
+Victim: dastommy79
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Destroyed: Harpy
+System: Torrinos
+Security: 0.5
+
+Involved parties:
+
+Name: Captain Sonic (laid the final blow)
+Security: -2.0
+Alliance: Privateer Alliance
+Corp: Mentally Unstable Enterprises
+Ship: Wolf
+Weapon: 150mm Light AutoCannon II
+
+
+Destroyed items:
+
+150mm Railgun II
+150mm Railgun II
+Javelin S, Qty: 32
+Prototype I Sensor Booster
+Tracking Enhancer II
+Spike S, Qty: 384 (Cargo)
+Javelin S, Qty: 343 (Cargo)
+

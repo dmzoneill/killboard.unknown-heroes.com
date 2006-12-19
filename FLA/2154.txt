@@ -1,0 +1,44 @@
+2007.01.25 16:49
+
+Victim: Nya
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Destroyed: Muninn
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Valora
+Security: 2.3
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Andreaz Kotz (laid the final blow)
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+
+Destroyed items:
+
+720mm Howitzer Artillery II
+720mm Howitzer Artillery II
+720mm Howitzer Artillery II
+Tremor M
+Tremor M
+Tremor M
+Tremor M
+Tremor M
+Tremor M
+Tremor M
+Tremor M
+F-90 Positional Sensor Subroutines
+Tracking Computer II
+Gyrostabilizer II
+Tracking Enhancer II
+

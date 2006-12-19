@@ -1,0 +1,19 @@
+2006.11.09 17:36
+
+Victim: Rictus Sempra
+Alliance: Interstellar Starbase Syndicate
+Corp: Kydance Radiant Industries
+Destroyed: Capsule
+System: P-2TTL
+Security: 0.0
+
+Involved parties:
+
+Name: Solarienne (laid the final blow)
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+

@@ -1,0 +1,23 @@
+2007.01.24 06:31
+
+Victim: morli vanqos
+Alliance: Astral Wolves
+Corp: Zephyr Enterprises Inc.
+Destroyed: Ibis
+System: OWXT-5
+Security: 0.0
+
+Involved parties:
+
+Name: Samiloth Justinian (laid the final blow)
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Crow
+Weapon: Thorn Rage Rocket
+
+
+Destroyed items:
+
+Basic Miner
+

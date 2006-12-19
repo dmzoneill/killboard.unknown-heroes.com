@@ -1,0 +1,19 @@
+2006.11.26 01:36
+
+Victim: fuer bewn
+Alliance: None
+Corp: Ggame Online Corp
+Destroyed: Capsule
+System: EWOK-K
+Security: 0.0
+
+Involved parties:
+
+Name: Hosanna (laid the final blow)
+Security: 3.1
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+

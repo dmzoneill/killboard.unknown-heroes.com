@@ -1,0 +1,37 @@
+2007.04.21 12:40
+
+Victim: Stelgar
+Alliance: None
+Corp: A.N.A.R.C.H.I.C.A
+Destroyed: Impairor
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Mufeater (laid the final blow)
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Vexor
+Weapon: Heavy Ion Blaster I
+
+Name: Esoteric Jellyfish
+Security: -0.1
+Alliance: 3asy Company
+Corp: Eth3real
+Ship: Slasher
+Weapon: Slasher
+
+Name: FlobbMkII
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Griffin
+Weapon: ECM - Multispectral Jammer I
+
+
+Destroyed items:
+
+Civilian Gatling Pulse Laser
+

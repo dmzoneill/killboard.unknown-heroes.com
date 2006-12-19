@@ -1,0 +1,56 @@
+2006.09.25 22:09
+
+Victim: Zander Voraus
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Destroyed: Vengeance
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Admiral Love
+Security: 0.0
+Alliance: Ascendant Frontier
+Corp: Sha Kharn Corp
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Tomic (laid the final blow)
+Security: 5.0
+Alliance: Ascendant Frontier
+Corp: Celestial Fleet
+Ship: Flycatcher
+Weapon: Sabretooth Light Missile
+
+Name: SLADGE BRUTY
+Security: -1.8
+Alliance: Ascendant Frontier
+Corp: Sha Kharn Corp
+Ship: Sleipnir
+Weapon: Sleipnir
+
+Name: Drift Spec
+Security: 5.0
+Alliance: Ascendant Frontier
+Corp: Sha Kharn Corp
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Trev Kachanov
+Security: 5.0
+Alliance: Ascendant Frontier
+Corp: Sha Kharn Corp
+Ship: Curse
+Weapon: Medium 'Ghoul' Energy Siphon I
+
+
+Destroyed items:
+
+Multifrequency S
+Multifrequency S
+1MN MicroWarpdrive I
+Small I-a Polarized Armor Regenerator
+Warp Core Stabilizer I
+Energized Adaptive Nano Membrane I
+

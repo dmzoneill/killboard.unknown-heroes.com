@@ -1,0 +1,73 @@
+2007.04.14 13:22
+
+Victim: Mizerik
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Destroyed: Scorpion
+System: O-CNPR
+Security: 0.0
+
+Involved parties:
+
+Name: Sivona
+Security: -1.1
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Eos
+Weapon: Ogre II
+
+Name: Sedith (laid the final blow)
+Security: 1.7
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Aeon
+Weapon: Berserker II
+
+Name: Debian Executer
+Security: 3.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Sleipnir
+Weapon: 425mm AutoCannon II
+
+Name: Rukaz
+Security: 3.1
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Max Teranous
+Security: -1.2
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Sabre
+Weapon: Sabre
+
+Name: Ant5010
+Security: 1.8
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Ishtar
+Weapon: Peripheral Weapon Navigation Diameter
+
+
+Destroyed items:
+
+Heavy Nosferatu I
+Medium YF-12a Smartbomb
+Wrath Cruise Missile, Qty: 32
+'Arbalest' Cruise Launcher I
+XT-9000 Cruise Launcher
+Heavy Brief Capacitor Overcharge I
+Cap Booster 800
+Cap Booster 800
+ECM - Multispectral Jammer II
+ECM - Multispectral Jammer II
+ECM - Multispectral Jammer II
+Prototype I Sensor Booster
+Damage Control I
+Large 'Accommodation' Vestment Reconstructer I
+1600mm Reinforced Rolled Tungsten Plates I
+Ogre I (Drone Bay)
+

@@ -1,0 +1,44 @@
+2006.11.07 19:03
+
+Victim: Dog Cancer
+Alliance: Freelancer Alliance
+Corp: BGG
+Destroyed: Crow
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Leathal Weapon (laid the final blow)
+Security: 4.0
+Alliance: None
+Corp: Beer Guzzling Clowns With Blasters
+Ship: Retribution
+Weapon: Medium Beam Laser II
+
+Name: GoLdeN BoY
+Security: 1.3
+Alliance: None
+Corp: Beer Guzzling Clowns With Blasters
+Ship: Crusader
+Weapon: Crusader
+
+Name: Nathan W
+Security: 3.2
+Alliance: None
+Corp: Beer Guzzling Clowns With Blasters
+Ship: Hawk
+Weapon: Standard Missile Launcher II
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 41
+'Malkuth' Standard Missile Launcher I
+'Malkuth' Standard Missile Launcher I
+'Malkuth' Standard Missile Launcher I
+Warp Disruptor I
+Sensor Booster I (Cargo)
+Sabretooth Light Missile, Qty: 462 (Cargo)
+Nanofiber Internal Structure I (Cargo)
+

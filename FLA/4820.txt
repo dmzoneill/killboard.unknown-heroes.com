@@ -1,0 +1,33 @@
+2007.04.16 10:18
+
+Victim: Thorvald Finnin
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Destroyed: Capsule
+System: Magiko
+Security: 0.9
+
+Involved parties:
+
+Name: iron maiden (laid the final blow)
+Security: -1.5
+Alliance: Privateer Alliance
+Corp: Beyond Divinity Inc
+Ship: Lachesis
+Weapon: 250mm Railgun II
+
+Name: 5layer
+Security: 4.6
+Alliance: Privateer Alliance
+Corp: Beyond Divinity Inc
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Arkaiser
+Security: -1.8
+Alliance: Privateer Alliance
+Corp: Beyond Divinity Inc
+Ship: Crow
+Weapon: X5 Prototype I Engine Enervator
+
+

@@ -1,0 +1,45 @@
+2006.05.12 17:29
+
+Victim: Cockroach
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Apocalypse
+System: 3T7-M8
+Security: 0.0
+
+Involved parties:
+
+Name: Caldari Control Tower Medium / Warped Mining (laid the final blow)
+
+
+Destroyed items:
+
+Tachyon Beam Laser II
+Tachyon Beam Laser II
+Tachyon Beam Laser II
+Tachyon Beam Laser II
+Aurora L
+Aurora L
+Devastator Cruise Missile, Qty: 21
+'Malkuth' Cruise Launcher I
+'Malkuth' Cruise Launcher I
+Eutectic I Capacitor Charge Array
+Sensor Booster II
+Heat Sink II
+Warp Core Stabilizer I
+Microwave L, Qty: 5 (Cargo)
+Gamma L, Qty: 6 (Cargo)
+Ultraviolet L, Qty: 5 (Cargo)
+Multifrequency L, Qty: 6 (Cargo)
+Standard L, Qty: 5 (Cargo)
+Gleam L, Qty: 9 (Cargo)
+Devastator Cruise Missile, Qty: 458 (Cargo)
+Cataclysm Cruise Missile, Qty: 500 (Cargo)
+Wrath Cruise Missile, Qty: 600 (Cargo)
+Paradise Cruise Missile, Qty: 700 (Cargo)
+Hunter F.O.F. Cruise Missile I, Qty: 100 (Cargo)
+Obliterator F.O.F. Cruise Missile I, Qty: 100 (Cargo)
+Vespa I (Drone Bay)
+Hobgoblin I (Drone Bay)
+Hammerhead I (Drone Bay)
+

@@ -1,0 +1,38 @@
+2007.01.20 00:45
+
+Victim: Kee Ris
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Destroyed: Crusader
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Chaser Wolf (laid the final blow)
+Security: 1.8
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Crow
+Weapon: Thorn Rocket
+
+
+Destroyed items:
+
+Dual Light Pulse Laser II
+Dual Light Pulse Laser II
+Multifrequency S
+Multifrequency S
+Multifrequency S
+1MN MicroWarpdrive II
+X5 Prototype I Engine Enervator
+Small Armor Repairer II
+Tracking Enhancer II
+Type-D Power Core Modification: Diagnostic System
+Local Power Plant Manager: Capacitor Flux I
+X-Large Shield Booster I (Cargo)
+Multifrequency S, Qty: 2 (Cargo)
+Microwave S (Cargo)
+Small Secure Container (Cargo)
+Scorch S, Qty: 2 (Cargo)
+

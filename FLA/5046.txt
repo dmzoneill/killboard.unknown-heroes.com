@@ -1,0 +1,33 @@
+2007.04.21 04:11
+
+Victim: Magic Mazuma
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Destroyed: Rifter
+System: 2R-CRW
+Security: 0.0
+
+Involved parties:
+
+Name: Nubiam
+Security: 4.9
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Malediction
+Weapon: Malediction
+
+Name: splunkrr (laid the final blow)
+Security: 1.2
+Alliance: Exuro Mortis
+Corp: Slacker Industries
+Ship: Megathron
+Weapon: Ion Blaster Cannon II
+
+
+Destroyed items:
+
+150mm Light Gallium I Machine Gun
+Phased Plasma S, Qty: 25
+Damage Control I
+Small Armor Repairer I
+

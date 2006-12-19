@@ -1,0 +1,58 @@
+2007.04.07 16:35
+
+Victim: Jargo Klim
+Alliance: None
+Corp: Elementar Xenobots Production
+Destroyed: Rifter
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: JesusOfSuburbia
+Security: 3.0
+Alliance: Dusk and Dawn
+Corp: Asgard Schiffswerften
+Ship: Hurricane
+Weapon: Medium Nosferatu II
+
+Name: Jarath Abyss
+Security: 4.2
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Ship: Thorax
+Weapon: Valkyrie I
+
+Name: Sir Pip (laid the final blow)
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Cataclysm Enterprises
+Ship: Sabre
+Weapon: 250mm Light Artillery Cannon II
+
+Name: gabla
+Security: 3.7
+Alliance: Darklite inc Alliance
+Corp: Darklite inc
+Ship: Celestis
+Weapon: Hammerhead I
+
+Name: dastommy79
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Vexor
+Weapon: Vexor
+
+Name: Jack Thurner
+Security: 2.6
+Alliance: DeStInY.
+Corp: Fusion Enterprises Ltd
+Ship: Armageddon
+Weapon: Armageddon
+
+
+Destroyed items:
+
+1MN Afterburner I
+

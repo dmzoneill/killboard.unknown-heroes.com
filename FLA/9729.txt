@@ -1,0 +1,52 @@
+2007.05.28 09:36
+
+Victim: false persona
+Alliance: None
+Corp: Caldari Provisions
+Destroyed: Drake
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: MacDune
+Security: 4.3
+Alliance: Ev0ke
+Corp: Asgard Schiffswerften
+Ship: Arazu
+Weapon: Warrior II
+
+Name: Corovus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+Name: Caldari Citizen20020 (laid the final blow)
+Security: 1.7
+Alliance: Ev0ke
+Corp: Asgard Schiffswerften
+Ship: Osprey
+Weapon: 150mm Prototype I Gauss Gun
+
+Name: Wusa
+Security: 5.0
+Alliance: Ev0ke
+Corp: Asgard Schiffswerften
+Ship: Claw
+Weapon: Claw
+
+
+Destroyed items:
+
+Sc
+Scourge Heavy Missile, Qty: 27
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+Large F-S9 Regolith Shield Induction
+Large F-S9 Regolith Shield Induction
+Shield Flux Coil I
+Scourge Heavy Missile, Qty: 3840 (Cargo)
+Power Diagnostic System I, Qty: 2 (Cargo)
+

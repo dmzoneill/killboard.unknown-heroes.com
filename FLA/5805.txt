@@ -1,0 +1,33 @@
+2006.10.21 23:11
+
+Victim: leo190
+Alliance: None
+Corp: State War Academy
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: DarkJester (laid the final blow)
+Security: 0.7
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery I
+
+Name: Paltar
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Needa3
+Security: 4.8
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Jaguar
+Weapon: 280mm Howitzer Artillery II
+
+

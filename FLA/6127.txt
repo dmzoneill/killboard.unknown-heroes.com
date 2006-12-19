@@ -1,0 +1,61 @@
+2006.11.08 19:02
+
+Victim: Tatzlwurm
+Alliance: None
+Corp: Tyrants
+Destroyed: Capsule
+System: A4L-A2
+Security: 0.0
+
+Involved parties:
+
+Name: Khajit Smitty
+Security: 2.6
+Alliance: None
+Corp: MisFunk Inc.
+Ship: Muninn
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Cazziel (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Eris
+Weapon: Flameburst Light Missile
+
+Name: Hosanna
+Security: 1.2
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: Jumar Coldgin
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Eagle
+Weapon: Bloodclaw Light Missile
+
+Name: Verild
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Rook
+Weapon: 'Hypnos' Multispectral ECM I
+
+Name: Lone flyer
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Absolution
+Weapon: Absolution
+
+Name: GillyE
+Security: 4.6
+Alliance: None
+Corp: MisFunk Inc.
+Ship: Crow
+Weapon: 'Langour' Drive Disruptor I
+
+

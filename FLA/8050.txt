@@ -1,0 +1,32 @@
+2006.10.07 12:13
+
+Victim: delfy4
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Destroyed: Caracal
+System: Tunttaras
+Security: 0.9
+
+Involved parties:
+
+Name: Slave 775 (laid the final blow)
+Security: -1.5
+Alliance: None
+Corp: Privateers
+Ship: Thorax
+Weapon: Valkyrie I
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 50
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+Assault Missile Launcher II
+Large Shield Extender I
+10MN Afterburner II
+Ballistic Control System I
+Scourge Heavy Missile, Qty: 524 (Cargo)
+Thunderbolt Heavy Missile, Qty: 500 (Cargo)
+Flameburst Precision Light Missile, Qty: 290 (Cargo)
+

@@ -1,0 +1,28 @@
+2006.12.18 18:03
+
+Victim: SiriusCrow
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Destroyed: Manticore
+System: Torrinos
+Security: 0.5
+
+Involved parties:
+
+Name: ziTza (laid the final blow)
+Security: 0.1
+Alliance: None
+Corp: omen.
+Ship: Wolf
+Weapon: 150mm Light AutoCannon II
+
+
+Destroyed items:
+
+Improved Cloaking Device II
+Wrath Cruise Missile, Qty: 24
+'Arbalest' Cruise Launcher I
+'Arbalest' Cruise Launcher I
+Ballistic Control System II
+Ballistic Control System II
+

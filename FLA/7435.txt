@@ -1,0 +1,33 @@
+2006.09.04 20:26
+
+Victim: Akhenat0n
+Alliance: None
+Corp: NEXT LEVEL
+Destroyed: Raptor
+System: HHK-VL
+Security: 0.0
+
+Involved parties:
+
+Name: Digioso (laid the final blow)
+Security: 1.2
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Megathron
+Weapon: Large Rudimentary Concussion Bomb I
+
+
+Destroyed items:
+
+150mm Light AutoCannon II
+Barrage S, Qty: 80
+Phalanx Rocket, Qty: 30
+'Limos' Rocket Launcher I
+Phased Monopropellant I Hydrazine Boosters
+200mm Reinforced Steel Plates II
+Micro Auxiliary Power Core I
+1MN Afterburner II (Cargo)
+Fleeting Warp Scrambler I (Cargo)
+'Langour' Drive Disruptor I (Cargo)
+Barrage S, Qty: 1259 (Cargo)
+

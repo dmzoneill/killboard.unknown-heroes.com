@@ -1,0 +1,26 @@
+2007.05.14 19:53
+
+Victim: 77scout77
+Alliance: None
+Corp: Perkone
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Steven FSB (laid the final blow)
+Security: 3.4
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: Just Hull
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Arazu
+Weapon: Warp Disruptor II
+
+

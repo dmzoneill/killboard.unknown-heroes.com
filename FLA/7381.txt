@@ -1,0 +1,60 @@
+2006.08.27 21:44
+
+Victim: Eeyore
+Alliance: Lotka Volterra
+Corp: Shinra
+Destroyed: Apocalypse
+System: WUZ-WM
+Security: 0.0
+
+Involved parties:
+
+Name: jacass66 (laid the final blow)
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Thanatos
+Weapon: Dragonfly
+
+Name: shekat khlorblaster
+Security: 1.8
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Thorax
+Weapon: Hornet I
+
+Name: Kiztent
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Capsule
+Weapon: XT-9000 Cruise Launcher
+
+Name: Demarcus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Rook
+Weapon: Heavy Missile Launcher II
+
+
+Destroyed items:
+
+Tachyon Beam Laser II
+Tachyon Beam Laser II
+Tachyon Beam Laser II
+Tachyon Beam Laser II
+Tachyon Beam Laser II
+Multifrequency L
+100MN MicroWarpdrive I
+Sensor Booster II
+Sensor Booster II
+Sensor Booster II
+Medium 'Accommodation' Vestment Reconstructer I
+Heat Sink II
+Radio L, Qty: 7 (Cargo)
+Tracking Computer II (Cargo)
+Warp Core Stabilizer I, Qty: 2 (Cargo)
+Aurora L, Qty: 9 (Cargo)
+Gleam L, Qty: 11 (Cargo)
+

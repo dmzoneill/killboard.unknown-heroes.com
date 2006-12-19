@@ -1,0 +1,49 @@
+2007.02.21 23:19
+
+Victim: celexxa
+Alliance: None
+Corp: Black Horizon Ltd
+Destroyed: Rifter
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Shassandra (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Megathron
+Weapon: 425mm Railgun I
+
+Name: Rick A
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Cormorant
+Weapon: 125mm Railgun I
+
+Name: Caterpillar
+Security: 5.1
+Alliance: CORE.
+Corp: AUS Corporation
+Ship: Unknown
+Weapon: Medium Diminishing Power System Drain I
+
+
+Destroyed items:
+
+200mm AutoCannon II
+Barrage S, Qty: 60
+Sabretooth Light Missile, Qty: 40
+Standard Missile Launcher I
+Stasis Webifier I
+Small Armor Repairer I
+Inertia Stabilizers I
+Phased Plasma S, Qty: 2070 (Cargo)
+Depleted Uranium S, Qty: 2000 (Cargo)
+Hail S, Qty: 2000 (Cargo)
+Barrage S, Qty: 1821 (Cargo)
+Bloodclaw Light Missile, Qty: 540 (Cargo)
+Sabretooth Light Missile, Qty: 447 (Cargo)
+

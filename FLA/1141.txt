@@ -1,0 +1,41 @@
+2007.03.06 20:53
+
+Victim: Thuumach
+Alliance: Privateer Alliance
+Corp: 47R
+Destroyed: Claw
+System: Orvolle
+Security: 0.7
+
+Involved parties:
+
+Name: Kiara Diepp (laid the final blow)
+Security: -2.2
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: CrashSWjr
+Security: 2.8
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Unknown
+Weapon: Stasis Webifier I
+
+
+Destroyed items:
+
+150mm Light AutoCannon II
+150mm Light AutoCannon II
+Nuclear S, Qty: 91
+Thorn Rocket, Qty: 15
+1MN MicroWarpdrive I
+Warp Scrambler I
+Nanofiber Internal Structure I
+Capacitor Power Relay I
+Nuclear S, Qty: 1205 (Cargo)
+Thorn Rocket, Qty: 260 (Cargo)
+Standard Missile Launcher I (Cargo)
+Nanofiber Internal Structure I (Cargo)
+

@@ -1,0 +1,64 @@
+2007.03.13 08:06
+
+Victim: Sicario
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Destroyed: Drake
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Xordus
+Security: 0.7
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Armageddon
+Weapon: Dual Heavy Modulated Pulse Energy Beam I
+
+Name: VDV Kane (laid the final blow)
+Security: 4.7
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Raven
+Weapon: Wrath Cruise Missile
+
+Name: Balcura
+Security: 4.9
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Nipplator
+Security: 2.5
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Capsule
+Weapon: Warrior I
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Scourge Heavy Missile, Qty: 10
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+XR-3200 Heavy Missile Bay
+Large C5-L Emergency Shield Overload I
+Prototype I Sensor Booster
+Ballistic Control System I
+Beta Reactor Control: Diagnostic System I
+10MN Afterburner I (Cargo)
+Modal Mega Ion Particle Accelerator I (Cargo)
+Wasp I (Cargo)
+Berserker I (Cargo)
+Infiltrator I, Qty: 3 (Cargo)
+Large Coaxial Regenerative Projector (Cargo)
+1600mm Reinforced Steel Plates I (Cargo)
+Ballistic Control System I (Cargo)
+Scourge Heavy Missile, Qty: 1885 (Cargo)
+

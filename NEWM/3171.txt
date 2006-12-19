@@ -1,0 +1,74 @@
+2007.03.19 05:34
+
+Victim: Ahramaine
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Dominix
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Lord Revent
+Security: 1.1
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Maelstrom
+Weapon: Maelstrom
+
+Name: VDV Bru37 (laid the final blow)
+Security: 5.0
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Raven
+Weapon: Mjolnir Torpedo
+
+Name: Xordus
+Security: 1.4
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Armageddon
+Weapon: Warrior II
+
+Name: Sexorella hotz
+Security: 5.0
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Raven
+Weapon: Wrath Cruise Missile
+
+Name: Nipplator
+Security: 2.9
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: zigzag429
+Security: 0.3
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Sabre
+Weapon: 280mm Howitzer Artillery II
+
+
+Destroyed items:
+
+350mm Carbide Railgun I
+350mm Carbide Railgun I
+350mm Carbide Railgun I
+350mm Carbide Railgun I
+Antimatter Charge L, Qty: 148
+Drone Link Augmentor I
+Large Ohm Capacitor Reserve I
+Tracking Computer I
+Omnidirectional Tracking Link I
+Damage Control I
+Large Armor Repairer II
+Magnetic Field Stabilizer I
+Magnetic Field Stabilizer I
+Armor Kinetic Hardener I
+Antimatter Charge L, Qty: 1358 (Cargo)
+Berserker I (Drone Bay)
+Praetor I, Qty: 3 (Drone Bay)
+

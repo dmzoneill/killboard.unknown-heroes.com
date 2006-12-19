@@ -1,0 +1,49 @@
+2006.11.18 01:21
+
+Victim: Karas Rabus
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Destroyed: Jaguar
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: panman (laid the final blow)
+Security: 2.7
+Alliance: None
+Corp: Deep Core Mining Inc.
+Ship: Dominix
+Weapon: Ogre I
+
+Name: Elric TheWhite
+Security: -0.1
+Alliance: The Sani Sabik
+Corp: Omniscient Order
+Ship: Typhoon
+Weapon: Hammerhead I
+
+Name: Elgan
+Security: -0.8
+Alliance: The Sani Sabik
+Corp: Omniscient Order
+Ship: Tempest
+Weapon: Tempest
+
+Name: Noobjuice
+Security: -1.8
+Alliance: The Sani Sabik
+Corp: Omniscient Order
+Ship: Scorpion
+Weapon: ECM - Phase Inverter II
+
+
+Destroyed items:
+
+280mm Howitzer Artillery II
+280mm Howitzer Artillery II
+Tremor S, Qty: 16
+Sensor Booster II
+Sensor Booster II
+Tremor S, Qty: 420 (Cargo)
+

@@ -1,0 +1,84 @@
+2006.10.23 20:08
+
+Victim: Damfoose
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Scorpion
+System: MI6O-6
+Security: 0.0
+
+Involved parties:
+
+Name: WarGod
+Security: -1.6
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Tempest
+Weapon: Tempest
+
+Name: Ipaq
+Security: 1.7
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: henryshead (laid the final blow)
+Security: 5.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Armageddon
+Weapon: Tachyon Beam Laser II
+
+Name: Darknesss
+Security: -1.2
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Megathron
+Weapon: Megathron
+
+Name: CDUB
+Security: 0.0
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Megathron
+Weapon: Megathron
+
+Name: ukpAgAn
+Security: 5.0
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Scorpion
+Weapon: Cruise Missile Launcher I
+
+Name: simcor
+Security: -1.9
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Falcon
+Weapon: ECM - Spatial Destabilizer II
+
+Name: Cavalier Noir
+Security: 4.1
+Alliance: Eternal Empire
+Corp: Tarnak inc.
+Ship: Blackbird
+Weapon: ECM - Multispectral Jammer I
+
+
+Destroyed items:
+
+250mm Railgun I
+Tungsten Charge M, Qty: 39
+Uranium Charge M, Qty: 39
+Siege Missile Launcher I
+Siege Missile Launcher I
+ECM - Multispectral Jammer II
+ECM - Phase Inverter II
+1600mm Reinforced Nanofiber Plates I
+1600mm Reinforced Steel Plates I
+1600mm Reinforced Steel Plates I
+Inferno Torpedo, Qty: 362 (Cargo)
+Mjolnir Torpedo, Qty: 1935 (Cargo)
+Bane Torpedo, Qty: 200 (Cargo)
+

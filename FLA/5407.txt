@@ -1,0 +1,60 @@
+2007.04.28 23:48
+
+Victim: Tran Whistler
+Alliance: Freelancer Alliance
+Corp: Harbingers of Sarrow
+Destroyed: Caracal
+System: P-2TTL
+Security: 0.0
+
+Involved parties:
+
+Name: Enosh Kerrim (laid the final blow)
+Security: -1.0
+Alliance: Mercenary Coalition
+Corp: Seraphin Technologies
+Ship: Ishtar
+Weapon: Ogre II
+
+Name: xCERBERUS2
+Security: -0.6
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Huginn
+Weapon: Huginn
+
+Name: Ben Derindar
+Security: 5.0
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Malediction
+Weapon: Sabretooth Light Missile
+
+Name: LUCKY HEADY
+Security: -1.6
+Alliance: Mercenary Coalition
+Corp: Seraphin Technologies
+Ship: Capsule
+Weapon: X5 Prototype I Engine Enervator
+
+Name: Redginald
+Security: 4.5
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Muninn
+Weapon: Medium Nosferatu II
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 168
+Assault Missile Launcher I
+Assault Missile Launcher I
+Assault Missile Launcher I
+Large F-S9 Regolith Shield Induction
+Warp Disruptor I
+Stasis Webifier I
+Supplemental Scanning CPU I
+Ballistic Control System I
+Piranha Light Missile, Qty: 798 (Cargo)
+

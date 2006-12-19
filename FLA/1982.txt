@@ -1,0 +1,31 @@
+2007.01.14 00:21
+
+Victim: Kandread
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Destroyed: Claw
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Crucifier (laid the final blow)
+Security: 0.3
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: heavensfire
+Security: 1.2
+Alliance: None
+Corp: Caldari Provisions
+Ship: Stiletto
+Weapon: X5 Prototype I Engine Enervator
+
+
+Destroyed items:
+
+Tremor S, Qty: 17
+Local Hull Conversion Overdrive Injector I
+

@@ -1,0 +1,87 @@
+2007.02.14 16:51
+
+Victim: Cpt Slaughter
+Alliance: None
+Corp: Republic Military School
+Destroyed: Rifter
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Indigo Callypso
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Drake
+Weapon: Hornet I
+
+Name: Mauy Thai
+Security: -1.4
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Curse
+Weapon: Valkyrie II
+
+Name: NanEIre
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Rook
+Weapon: Heavy Missile Launcher II
+
+Name: Ocara Nezus
+Security: 2.8
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Hawk
+Weapon: Bloodclaw Light Missile
+
+Name: Chonker (laid the final blow)
+Security: 3.2
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ishkur
+Weapon: Hornet II
+
+Name: Barqs
+Security: 2.7
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Astarte
+Weapon: Valkyrie II
+
+Name: Spartan dax
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Blackbird
+Weapon: Compulsive Multispectral ECM I
+
+Name: Marie Veedor
+Security: 4.8
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Drake
+Weapon: 'Arbalest' Heavy Missile Launcher
+
+Name: Clavain Treesmighter
+Security: 1.6
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Blackbird
+Weapon: ECM - Multispectral Jammer I
+
+
+Destroyed items:
+
+150mm Light AutoCannon I
+150mm Light AutoCannon I
+Small Nosferatu I
+Phased Plasma S, Qty: 94
+1MN Afterburner I
+J5 Prototype Warp Inhibitor I
+100mm Reinforced Nanofiber Plates I
+Explosive Armor Compensation, Qty: 2 (Cargo)
+Thermic Armor Compensation, Qty: 2 (Cargo)
+

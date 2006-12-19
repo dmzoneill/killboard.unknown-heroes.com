@@ -1,0 +1,160 @@
+2006.09.03 17:25
+
+Victim: digital oxygen
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Destroyed: Thorax
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: BloodySkull (laid the final blow)
+Security: 5.0
+Alliance: R.I.S.K
+Corp: Brotherhood of Musketeers
+Ship: Hawk
+Weapon: Bloodclaw Precision Light Missile
+
+Name: Talsarius
+Security: -1.7
+Alliance: R.I.S.K
+Corp: SolaR KillerS
+Ship: Stabber
+Weapon: Stabber
+
+Name: 0zzy
+Security: 5.0
+Alliance: R.I.S.K
+Corp: RUS-SAGA
+Ship: Raptor
+Weapon: Raptor
+
+Name: EDest
+Security: 2.3
+Alliance: R.I.S.K
+Corp: SolaR KillerS
+Ship: Kestrel
+Weapon: Bloodclaw Light Missile
+
+Name: Captain CB
+Security: 0.2
+Alliance: R.I.S.K
+Corp: Yellow Wind
+Ship: Vengeance
+Weapon: Vengeance
+
+Name: Sergejus Clegg
+Security: 1.9
+Alliance: R.I.S.K
+Corp: The First Foundation
+Ship: Taranis
+Weapon: Taranis
+
+Name: Kuto
+Security: 2.8
+Alliance: R.I.S.K
+Corp: GOLDEN TAURUS
+Ship: Flycatcher
+Weapon: Standard Missile Launcher II
+
+Name: Tealon
+Security: 1.0
+Alliance: R.I.S.K
+Corp: RUS-SAGA
+Ship: Caldari Navy Hookbill
+Weapon: Caldari Navy Hookbill
+
+Name: Piligrim 3
+Security: 0.4
+Alliance: R.I.S.K
+Corp: ReD eYe Inc.
+Ship: Incursus
+Weapon: Incursus
+
+Name: NoOne Seeko
+Security: 3.1
+Alliance: R.I.S.K
+Corp: ReD eYe Inc.
+Ship: Tristan
+Weapon: Small 'Knave' I Energy Drain
+
+Name: Kolbasenok
+Security: 2.2
+Alliance: R.I.S.K
+Corp: SolaR KillerS
+Ship: Kestrel
+Weapon: Bloodclaw Light Missile
+
+Name: Optoed
+Security: 3.2
+Alliance: R.I.S.K
+Corp: ReD eYe Inc.
+Ship: Punisher
+Weapon: Punisher
+
+Name: Naslednik
+Security: 3.2
+Alliance: R.I.S.K
+Corp: Yellow Wind
+Ship: Kestrel
+Weapon: Foxfire Rocket
+
+Name: Bloody Kid
+Security: 0.6
+Alliance: R.I.S.K
+Corp: ReD eYe Inc.
+Ship: Tristan
+Weapon: Tristan
+
+Name: Lighti
+Security: 0.2
+Alliance: R.I.S.K
+Corp: SolaR KillerS
+Ship: Merlin
+Weapon: 'Limos' Rocket Launcher I
+
+Name: RESP
+Security: 2.8
+Alliance: R.I.S.K
+Corp: RUS-SAGA
+Ship: Merlin
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: Priest security
+Security: 3.8
+Alliance: R.I.S.K
+Corp: Yellow Wind
+Ship: Tristan
+Weapon: Tristan
+
+Name: OrHe6oPeLj
+Security: 3.2
+Alliance: R.I.S.K
+Corp: Yellow Wind
+Ship: Merlin
+Weapon: Upgraded 'Limos' Standard Missile Bay I
+
+Name: Masticator
+Security: 0.7
+Alliance: R.I.S.K
+Corp: SolaR KillerS
+Ship: Retribution
+Weapon: Medium Pulse Laser II
+
+
+Destroyed items:
+
+Heavy Electron Blaster I
+Heavy Electron Blaster I
+Heavy Electron Blaster I
+Heavy Electron Blaster I
+Antimatter Charge M, Qty: 524
+10MN MicroWarpdrive I
+Warp Disruptor I
+Stasis Webifier I
+Damage Control I
+Armor Explosive Hardener I
+800mm Reinforced Steel Plates I
+Antimatter Charge M, Qty: 1500 (Cargo)
+

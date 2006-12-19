@@ -1,0 +1,38 @@
+2006.10.13 16:33
+
+Victim: Void
+Alliance: None
+Corp: KILLSQUAD
+Destroyed: Malediction
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Hosanna (laid the final blow)
+Security: -0.2
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Jaguar
+Weapon: 280mm Howitzer Artillery II
+
+Name: James Potkukelkka
+Security: 0.2
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Flycatcher
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+Medium Pulse Laser II
+Standard S
+Standard S
+'Malkuth' Rocket Launcher I
+Warp Disruptor I
+10MN Afterburner II (Cargo)
+Medium Beam Laser II, Qty: 2 (Cargo)
+Gamma S, Qty: 4 (Cargo)
+Thorn Rocket, Qty: 940 (Cargo)
+

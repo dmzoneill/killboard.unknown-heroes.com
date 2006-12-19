@@ -1,0 +1,1 @@
+<a href="?a=igb_home">Home</a> | <a href="?a=post_igb">Post killmail</a> | <a href="?a=portrait_grab">Update portrait</a>

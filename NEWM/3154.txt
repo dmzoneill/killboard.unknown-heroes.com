@@ -1,0 +1,62 @@
+2007.03.25 19:20
+
+Victim: Erimk
+Alliance: Aftermath Alliance
+Corp: Dark Nebula Gallente Division
+Destroyed: Badger Mark II
+System: F7C-H0
+Security: 0.0
+
+Involved parties:
+
+Name: Nya
+Security: 3.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Muninn
+Weapon: 'Arbalest' Standard Missile Launcher
+
+Name: Burn Lump (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: JaiMaster
+Security: 2.7
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Typhoon
+Weapon: Cruise Missile Launcher II
+
+Name: Toxic Traveller
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Ferox
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+Name: Malicel
+Security: 2.7
+Alliance: The Sundering
+Corp: ironwood ink
+Ship: Enyo
+Weapon: 150mm Compressed Coil Gun I
+
+Name: sakana
+Security: -0.9
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Astarte
+Weapon: J5 Prototype Warp Inhibitor I
+
+
+Destroyed items:
+
+Expanded Cargohold I
+Expanded Cargohold I
+Juggernaut Torpedo, Qty: 3450 (Cargo)
+Giant Secure Container (Cargo)
+Juggernaut Rage Torpedo, Qty: 35550 (Cargo)
+

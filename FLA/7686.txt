@@ -1,0 +1,47 @@
+2006.09.30 16:49
+
+Victim: uberfokker2
+Alliance: None
+Corp: State War Academy
+Destroyed: Capsule
+System: O-CNPR
+Security: 0.0
+
+Involved parties:
+
+Name: Chiizukeeki (laid the final blow)
+Security: 3.3
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery I
+
+Name: Stitcher
+Security: 2.4
+Alliance: Freelancer Alliance
+Corp: J.I.T. Enterprises
+Ship: Kestrel
+Weapon: Bloodclaw Light Missile
+
+Name: Paltar
+Security: 0.4
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Brutix
+Weapon: Heavy Neutron Blaster I
+
+Name: other mickey
+Security: 0.8
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Tristan
+Weapon: J5b Phased Prototype Warp Inhibitor I
+
+Name: F2C MaDMaXX
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: London Transport
+Ship: Kestrel
+Weapon: Warp Scrambler I
+
+

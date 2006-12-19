@@ -1,0 +1,54 @@
+2007.05.19 17:13
+
+Victim: Phenrig
+Alliance: None
+Corp: Royal Amarr Institute
+Destroyed: Armageddon
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Yesh (laid the final blow)
+Security: 2.7
+Alliance: The Fifth Race
+Corp: Antares Frontier
+Ship: Harbinger
+Weapon: Heavy Beam Laser II
+
+Name: DennoTheHunter
+Security: -1.0
+Alliance: DeStInY.
+Corp: The Syndicate Inc
+Ship: Wolf
+Weapon: Wolf
+
+Name: Lee Thrace
+Security: 3.1
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+Name: Prodigal IV
+Security: 4.5
+Alliance: None
+Corp: SPARTAN Peacekeeping Force
+Ship: Incursus
+Weapon: Incursus
+
+Name: Ocara Nezus
+Security: 1.5
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Crow
+Weapon: Bloodclaw Precision Light Missile
+
+Name: Porky
+Security: 2.3
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Scorpion
+Weapon: ECM - Multispectral Jammer II
+
+

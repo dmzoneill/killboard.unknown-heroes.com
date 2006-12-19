@@ -1,0 +1,60 @@
+2007.04.20 10:36
+
+Victim: Hidoi Goshikku
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Dominix
+System: A4L-A2
+Security: 0.0
+
+Involved parties:
+
+Name: Lorn Zolog (laid the final blow)
+Security: -1.0
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Harbinger
+Weapon: Vespa II
+
+Name: Xordus
+Security: 0.8
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Myrmidon
+Weapon: Ogre I
+
+Name: Nipplator
+Security: 0.7
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Vengeance
+Weapon: Vengeance
+
+
+Destroyed items:
+
+Cap Recharger I
+Cap Recharger I
+Large Armor Repairer I
+Armor Kinetic Hardener I
+Armor Thermic Hardener I
+Capacitor Power Relay I
+Capacitor Power Relay I
+Medium Shield Booster I (Cargo)
+X-Large Shield Booster I (Cargo)
+Small Energy Transfer Array I (Cargo)
+Small Nosferatu I (Cargo)
+Small Energy Neutralizer I, Qty: 2 (Cargo)
+Medium Rudimentary Concussion Bomb I (Cargo)
+Medium Proton Smartbomb I (Cargo)
+Heavy Neutron Blaster I (Cargo)
+Tungsten Charge M, Qty: 100 (Cargo)
+Plutonium Charge M, Qty: 100 (Cargo)
+ECCM - Omni I (Cargo)
+Thunderbolt Heavy Missile, Qty: 100 (Cargo)
+Scourge Heavy Missile, Qty: 100 (Cargo)
+Cruise Missile Launcher I (Cargo)
+Power Diagnostic System I (Cargo)
+Wasp I, Qty: 7 (Drone Bay)
+Ogre I (Drone Bay)
+

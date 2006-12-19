@@ -1,0 +1,117 @@
+2007.01.24 23:14
+
+Victim: ISliverI
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Destroyed: Dominix
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Pramas
+Security: 4.4
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Sleipnir
+Weapon: Warrior I
+
+Name: Nephlite (laid the final blow)
+Security: 2.0
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Raven Navy Issue
+Weapon: Paradise Cruise Missile
+
+Name: Harry Stoteles
+Security: 3.3
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Apocalypse
+Weapon: Apocalypse
+
+Name: Blooded Heromy
+Security: -0.2
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: StarLite
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Sacrilege
+Weapon: Sacrilege
+
+Name: Millis
+Security: 1.7
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Deimos
+Weapon: Deimos
+
+Name: whopper
+Security: 4.7
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Raven
+Weapon: Raven
+
+Name: Ysabelle nKataros
+Security: 2.5
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Muninn
+Weapon: Muninn
+
+Name: Mr Staberinde
+Security: 0.1
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: RogerWilco
+Security: 3.2
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Astarte
+Weapon: Astarte
+
+Name: Chakolina
+Security: 0.3
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Arazu
+Weapon: Arazu
+
+Name: DTee
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+Name: Furious George
+Security: 1.4
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Dominix
+Weapon: Heavy Diminishing Power System Drain I
+
+
+Destroyed items:
+
+E500 Prototype Energy Vampire
+Drone Link Augmentor I
+100MN MicroWarpdrive II
+Emergency Damage Control I
+Large Armor Repairer II
+Beta Hull Mod Inertial Stabilizers
+Beta Hull Mod Nanofiber Structure
+Beta Hull Mod Nanofiber Structure
+Local Power Plant Manager: Diagnostic System I
+Valkyrie II, Qty: 10 (Drone Bay)
+Berserker I, Qty: 5 (Drone Bay)
+

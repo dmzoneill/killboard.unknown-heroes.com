@@ -1,0 +1,64 @@
+2007.01.13 06:52
+
+Victim: Azrelix
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Destroyed: Claw
+System: L-TS8S
+Security: 0.0
+
+Involved parties:
+
+Name: Rells (laid the final blow)
+Security: 0.6
+Alliance: None
+Corp: Agony Unleashed
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: Unit 1
+Security: 0.6
+Alliance: None
+Corp: Agony Unleashed
+Ship: Cormorant
+Weapon: Cormorant
+
+Name: Quen Azle
+Security: -1.9
+Alliance: None
+Corp: Agony Unleashed
+Ship: Rupture
+Weapon: 720mm Gallium I Cannon
+
+Name: Choran
+Security: 5.0
+Alliance: None
+Corp: Agony Unleashed
+Ship: Moa
+Weapon: Moa
+
+Name: Greater Mind
+Security: 0.6
+Alliance: None
+Corp: Agony Unleashed
+Ship: Thrasher
+Weapon: 280mm Howitzer Artillery II
+
+Name: Dez Erichs
+Security: 1.2
+Alliance: None
+Corp: Agony Unleashed
+Ship: Crow
+Weapon: TE-2100 Standard Missile Bay
+
+
+Destroyed items:
+
+125mm Railgun I
+125mm Railgun I
+Iridium Charge S, Qty: 160
+1MN MicroWarpdrive I
+Fleeting Warp Scrambler I
+Nanofiber Internal Structure I
+Iridium Charge S, Qty: 748 (Cargo)
+

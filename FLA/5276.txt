@@ -1,0 +1,33 @@
+2007.04.23 17:08
+
+Victim: Iguanoid
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Capsule
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Georgenator (laid the final blow)
+Security: -0.4
+Alliance: Lotka Volterra
+Corp: CRICE Corporation
+Ship: Kestrel
+Weapon: Bloodclaw Light Missile
+
+Name: sgtdark
+Security: 5.0
+Alliance: Storm Armada
+Corp: stone grave haulage
+Ship: Taranis
+Weapon: Taranis
+
+Name: Erik Morkai
+Security: -1.3
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Malediction
+Weapon: Malediction
+
+

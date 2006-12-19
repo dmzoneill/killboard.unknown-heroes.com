@@ -1,0 +1,31 @@
+2007.01.05 22:41
+
+Victim: SniperMcBob
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Destroyed: Harpy
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: SATAN (laid the final blow)
+Security: -0.9
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+Name: Guristas Obliterator / Guristas
+
+
+Destroyed items:
+
+Small Nosferatu I
+Spike S, Qty: 154
+Small Shield Booster II
+1MN MicroWarpdrive II
+Power Diagnostic System I
+Spike S, Qty: 1015 (Cargo)
+Glazed Hedbergite (Cargo)
+

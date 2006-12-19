@@ -1,0 +1,29 @@
+2007.02.10 19:45
+
+Victim: Elena Morkovka
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Destroyed: Flycatcher
+System: DO6H-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Zungen (laid the final blow)
+Security: 5.0
+Alliance: Red Moon Federation
+Corp: Confederation of Red Moon
+Ship: Myrmidon
+Weapon: Heavy Ion Blaster II
+
+
+Destroyed items:
+
+Rocket Launcher II
+Rocket Launcher II
+Rocket Launcher II
+Rocket Launcher II
+Thorn Javelin Rocket, Qty: 40
+Catalyzed Cold-Gas I Arcjet Thrusters
+Thorn Javelin Rocket, Qty: 1713 (Cargo)
+

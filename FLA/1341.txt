@@ -1,0 +1,33 @@
+2007.03.11 09:38
+
+Victim: korialstrasz66
+Alliance: None
+Corp: KHAOS-BLADE
+Destroyed: Minmatar Shuttle
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: EM00
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Caracal
+Weapon: Havoc Heavy Missile
+
+Name: Tsukasa Tenyo (laid the final blow)
+Security: 4.1
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Scorpion
+Weapon: Large 'Notos' Explosive Charge I
+
+Name: white kight
+Security: 0.6
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Drake
+Weapon: Heavy Missile Launcher I
+
+

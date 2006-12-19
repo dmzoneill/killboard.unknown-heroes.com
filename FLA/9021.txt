@@ -1,0 +1,71 @@
+2006.12.28 09:55
+
+Victim: Aron Palatine
+Alliance: Freelancer Alliance
+Corp: X.T.R
+Destroyed: Raven
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: siliconix
+Security: 0.2
+Alliance: None
+Corp: 0utbreak
+Ship: Huginn
+Weapon: Hobgoblin II
+
+Name: Guristas Destructor / Guristas
+
+Name: KilRoy076 (laid the final blow)
+Security: -0.5
+Alliance: None
+Corp: 0utbreak
+Ship: Sleipnir
+Weapon: 425mm AutoCannon II
+
+Name: Retnik
+Security: 2.1
+Alliance: None
+Corp: 0utbreak
+Ship: Eris
+Weapon: Eris
+
+Name: Uggs386
+Security: 1.9
+Alliance: None
+Corp: 0utbreak
+Ship: Megathron
+Weapon: Ion Blaster Cannon II
+
+Name: Marko Debreault
+Security: -1.7
+Alliance: None
+Corp: 0utbreak
+Ship: Hyperion
+Weapon: J5 Prototype Warp Inhibitor I
+
+
+Destroyed items:
+
+Juggernaut Torpedo
+Juggernaut Torpedo
+Juggernaut Torpedo
+Juggernaut Torpedo
+Juggernaut Torpedo
+ZW-4100 Siege Missile Bay
+ZW-4100 Siege Missile Bay
+X-Large C5-L Emergency Shield Overload I
+X-Large C5-L Emergency Shield Overload I
+X-Large C5-L Emergency Shield Overload I
+X-Large C5-L Emergency Shield Overload I
+X-Large C5-L Emergency Shield Overload I
+Eutectic I Capacitor Charge Array
+Kinetic Deflection Amplifier II
+Kinetic Deflection Amplifier II
+Ballistic Control System I
+Ballistic Control System I
+Beta Reactor Control: Capacitor Flux I
+Hammerhead I, Qty: 3 (Drone Bay)
+

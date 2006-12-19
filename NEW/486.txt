@@ -1,0 +1,61 @@
+2007.04.03 02:02
+
+Victim: Crovan
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Destroyed: Eris
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Darthirishguy (laid the final blow)
+Security: 2.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+Name: Zeph Yrus
+Security: 0.6
+Alliance: Federation Of united Corps
+Corp: Legion of Corpses
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Namaris
+Security: -1.9
+Alliance: Federation Of united Corps
+Corp: Drunken Ship Mates
+Ship: Executioner
+Weapon: Executioner
+
+Name: Sreddrum
+Security: 5.0
+Alliance: Federation Of united Corps
+Corp: Drunken Ship Mates
+Ship: Crusader
+Weapon: Crusader
+
+Name: Kooter1
+Security: 5.0
+Alliance: Federation Of united Corps
+Corp: Solaris Operations
+Ship: Crusader
+Weapon: Gatling Pulse Laser II
+
+
+Destroyed items:
+
+125mm Railgun II, Qty: 3
+Antimatter Charge S, Qty: 160
+Lead Charge S, Qty: 80
+Warp Disrupt Probe, Qty: 9
+1MN MicroWarpdrive II
+Fleeting Warp Scrambler I
+Local Hull Conversion Inertial Stabilizers I
+Type-D Altered SS Overdrive Injector, Qty: 2
+Small Standard Container (Cargo)
+Lead Charge S, Qty: 3840 (Cargo)
+Antimatter Charge S, Qty: 4727 (Cargo)
+Warp Disrupt Probe, Qty: 15 (Cargo)

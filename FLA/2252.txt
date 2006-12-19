@@ -1,0 +1,32 @@
+2007.02.01 15:32
+
+Victim: Antigen Po
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Destroyed: Ishkur
+System: K4YZ-Y
+Security: 0.0
+
+Involved parties:
+
+Name: m0jo (laid the final blow)
+Security: 1.4
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Rapier
+Weapon: 720mm Howitzer Artillery II
+
+
+Destroyed items:
+
+125mm Railgun II
+Spike S, Qty: 80
+Monopropellant I Hydrazine Boosters
+J5b Phased Prototype Warp Inhibitor I
+'Langour' Drive Disruptor I
+Magnetic Field Stabilizer II
+Energized Adaptive Nano Membrane I
+Antimatter Charge S, Qty: 1000 (Cargo)
+Valkyrie I, Qty: 2 (Drone Bay)
+Warrior I, Qty: 3 (Drone Bay)
+

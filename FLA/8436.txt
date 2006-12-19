@@ -1,0 +1,35 @@
+2006.11.18 06:53
+
+Victim: Rasca Juono
+Alliance: Freelancer Alliance
+Corp: London Transport
+Destroyed: Helios
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: GoLdeN BoY (laid the final blow)
+Security: 1.7
+Alliance: None
+Corp: Beer Guzzling Clowns With Blasters
+Ship: Malediction
+Weapon: Medium Pulse Laser II
+
+Name: Torok Nakaht
+Security: 2.2
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Claw
+Weapon: Initiated Harmonic Warp Jammer I
+
+
+Destroyed items:
+
+Covert Ops Cloaking Device II
+Scan Probe Launcher I
+1MN MicroWarpdrive I
+J5b Phased Prototype Warp Inhibitor I
+'Deluge' ECM Burst I
+'Accord' I Core Compensation
+

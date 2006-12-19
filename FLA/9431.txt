@@ -1,0 +1,28 @@
+2007.05.14 03:23
+
+Victim: coldkill
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Destroyed: Thorax
+System: Aunenen
+Security: 0.4
+
+Involved parties:
+
+Name: Captain Sonic (laid the final blow)
+Security: -2.1
+Alliance: None
+Corp: Mentally Unstable Enterprises
+Ship: Thorax
+Weapon: Valkyrie I
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Heavy Neutron Blaster II
+Void M, Qty: 129
+Warp Disruptor II
+Medium Armor Repairer II
+Void M, Qty: 4760 (Cargo)
+

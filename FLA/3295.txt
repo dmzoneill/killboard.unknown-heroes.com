@@ -1,0 +1,33 @@
+2007.03.22 19:26
+
+Victim: Eleri Bree
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Destroyed: Tristan
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Snuggles theTerrible
+Security: 5.0
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Vulture
+Weapon: Vulture
+
+Name: XxAngelxX (laid the final blow)
+Security: -1.8
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Curse
+Weapon: Valkyrie II
+
+
+Destroyed items:
+
+150mm Railgun I
+1MN Afterburner I
+Warp Disruptor I
+'Langour' Drive Disruptor I
+

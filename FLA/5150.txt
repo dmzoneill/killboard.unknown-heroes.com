@@ -1,0 +1,121 @@
+2007.01.21 20:15
+
+Victim: Lord Straxus
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Drake
+System: DW-T2I
+Security: 0.0
+
+Involved parties:
+
+Name: Mindlles
+Security: 0.1
+Alliance: None
+Corp: 0utbreak
+Ship: Ishtar
+Weapon: Ogre II
+
+Name: SuXaR
+Security: 0.4
+Alliance: None
+Corp: 0utbreak
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Incinate
+Security: 2.7
+Alliance: None
+Corp: 0utbreak
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Zyrtan Keb'Lektar
+Security: -1.7
+Alliance: None
+Corp: 0utbreak
+Ship: Typhoon
+Weapon: Berserker I
+
+Name: siliconix
+Security: 2.2
+Alliance: None
+Corp: 0utbreak
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Quarantine
+Security: 4.3
+Alliance: None
+Corp: 0utbreak
+Ship: Huginn
+Weapon: Sabretooth Light Missile
+
+Name: Silverized (laid the final blow)
+Security: 3.5
+Alliance: None
+Corp: 0utbreak
+Ship: Typhoon
+Weapon: Berserker II
+
+Name: TheAvatar
+Security: -0.3
+Alliance: None
+Corp: 0utbreak
+Ship: Vagabond
+Weapon: Warrior II
+
+Name: SwindonBadger
+Security: 5.0
+Alliance: None
+Corp: 0utbreak
+Ship: Sabre
+Weapon: Fleeting Warp Scrambler I
+
+Name: ScoRpS
+Security: 2.8
+Alliance: None
+Corp: 0utbreak
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: FraXy
+Security: -4.2
+Alliance: None
+Corp: 0utbreak
+Ship: Guardian
+Weapon: Focused Afocal Pulse Maser I
+
+Name: Saal Iverson
+Security: 4.8
+Alliance: None
+Corp: 0utbreak
+Ship: Taranis
+Weapon: Fleeting Warp Scrambler I
+
+
+Destroyed items:
+
+Codebreaker I
+Codebreaker I
+Codebreaker I
+Codebreaker I
+Codebreaker I
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Scourge Heavy Missile, Qty: 128
+Advanced 'Limos' Heavy Missile Bay I
+Advanced 'Limos' Heavy Missile Bay I
+Advanced 'Limos' Heavy Missile Bay I
+Large C5-L Emergency Shield Overload I
+Alumel-Wired I Sensor Augmentation
+Damage Control I
+Mark I Generator Refitting: Diagnostic System
+Havoc Heavy Missile, Qty: 600 (Cargo)
+Widowmaker Heavy Missile, Qty: 600 (Cargo)
+Hydra F.O.F. Heavy Missile I, Qty: 500 (Cargo)
+Hellhound F.O.F. Heavy Missile I, Qty: 400 (Cargo)
+

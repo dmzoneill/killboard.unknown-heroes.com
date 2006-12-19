@@ -1,0 +1,52 @@
+2007.04.27 20:49
+
+Victim: Savak
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Omen
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: dastommy79 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+Name: Kvarium Ki
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Rupture
+Weapon: Rupture
+
+Name: Hedeon Mishenka
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Apocalypse
+Weapon: Apocalypse
+
+Name: sako1963
+Security: 5.0
+Alliance: The Foundation.
+Corp: NorCorp Security
+Ship: Raven
+Weapon: 'Limos' Cruise Launcher I
+
+
+Destroyed items:
+
+Focused Medium Pulse Laser I
+Medium Unstable Power Fluctuator I
+Gamma M
+10MN MicroWarpdrive I
+'Langour' Drive Disruptor I
+Nanomechanical CPU Enhancer I
+Armor Explosive Hardener I
+Radioisotope Kinetic Hardener I
+EMP S, Qty: 95 (Cargo)
+

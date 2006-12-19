@@ -1,0 +1,57 @@
+2007.03.11 00:45
+
+Victim: Kandread
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Destroyed: Tempest
+System: VRH-H7
+Security: 0.0
+
+Involved parties:
+
+Name: Eamz (laid the final blow)
+Security: -1.1
+Alliance: None
+Corp: Finite Horizon
+Ship: Megathron
+Weapon: Neutron Blaster Cannon II
+
+Name: Baconjoe
+Security: -0.5
+Alliance: None
+Corp: Finite Horizon
+Ship: Sleipnir
+Weapon: Sleipnir
+
+Name: Greg Sanders
+Security: -1.6
+Alliance: None
+Corp: Finite Horizon
+Ship: Typhoon
+Weapon: Valkyrie II
+
+Name: Funkee MunKee
+Security: -1.4
+Alliance: None
+Corp: Developmental Neogenics Amalgamated
+Ship: Rapier
+Weapon: Fleeting Propulsion Inhibitor I
+
+
+Destroyed items:
+
+1400mm Howitzer Artillery II
+1400mm Howitzer Artillery II
+1400mm Howitzer Artillery II
+Prototype Cloaking Device I
+Sensor Booster II
+Sensor Booster II
+Gyrostabilizer II
+Damage Control II
+1600mm Reinforced Rolled Tungsten Plates I
+Mark I Generator Refitting: Diagnostic System
+Quake L, Qty: 500 (Cargo)
+Tremor L, Qty: 1000 (Cargo)
+Valkyrie I (Drone Bay)
+Warrior I, Qty: 4 (Drone Bay)
+

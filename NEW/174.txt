@@ -1,0 +1,127 @@
+2007.02.01 20:50
+
+Victim: MasterEYE
+Alliance: None
+Corp: coracao ardente
+Destroyed: Omen
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Mikal Drey
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Huginn
+Weapon: Warrior II
+
+Name: Teck7
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ishtar
+Weapon: Valkyrie II
+
+Name: Mauy Thai (laid the final blow)
+Security: -1.5
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Archon
+Weapon: Dragonfly
+
+Name: mr passie
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Tempest
+Weapon: Tempest
+
+Name: IDesert FoxI
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Caracal
+Weapon: Thunderbolt Heavy Missile
+
+Name: EvilBadger
+Security: 4.2
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Drake
+Weapon: Thunderbolt Heavy Missile
+
+Name: Dark Carnage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Crow
+Weapon: Sabretooth Light Missile
+
+Name: Tiberius Drake
+Security: 2.9
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Thorax
+Weapon: Thorax
+
+Name: Minisoza
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Enyo
+Weapon: Enyo
+
+Name: Sanal Gi
+Security: -0.4
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ferox
+Weapon: Ferox
+
+Name: Vladamir Sokov
+Security: 1.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Blackbird
+Weapon: Faint Phase Inversion ECM I
+
+Name: Jarath Abyss
+Security: 3.8
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Ship: Enyo
+Weapon: Enyo
+
+Name: EM00
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Catalyst
+Weapon: Catalyst
+
+Name: Almagar Phog
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Scorpion
+Weapon: ZW-4100 Siege Missile Bay
+
+Name: Airi
+Security: 1.2
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Archon
+Weapon: Dragonfly
+
+
+Destroyed items:
+
+Focused Medium Pulse Laser II, Qty: 4
+Scorch M, Qty: 2
+Havoc Heavy Missile, Qty: 30
+Heat Sink II
+800mm Reinforced Steel Plates II
+Infrared M, Qty: 4 (Cargo)
+Conflagration M, Qty: 3 (Cargo)
+Hobgoblin II (Drone Bay)

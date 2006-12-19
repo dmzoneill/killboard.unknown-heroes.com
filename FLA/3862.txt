@@ -1,0 +1,33 @@
+2007.04.03 02:54
+
+Victim: Pigs
+Alliance: None
+Corp: Perkone
+Destroyed: Caldari Shuttle
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Aranon Ogronios (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: Logand Delta
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Ship: Thorax
+Weapon: Thorax
+
+Name: toonsterpw
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Vagabond
+Weapon: 425mm AutoCannon II
+
+

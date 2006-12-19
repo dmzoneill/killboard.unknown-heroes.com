@@ -1,0 +1,44 @@
+2007.01.19 18:28
+
+Victim: Centre
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Buzzard
+System: 2R-CRW
+Security: 0.0
+
+Involved parties:
+
+Name: Anna Neura
+Security: -0.2
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Taranis
+Weapon: Hobgoblin II
+
+Name: WarGod (laid the final blow)
+Security: 1.7
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Curse
+Weapon: Hobgoblin II
+
+Name: XxAngelxX
+Security: 3.2
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Curse
+Weapon: Curse
+
+
+Destroyed items:
+
+Snoop Scanner Probe I, Qty: 14
+Recon Probe Launcher I
+Cold-Gas I Arcjet Thrusters
+Warp Core Stabilizer I
+Warp Core Stabilizer I
+Spook Scanner Probe I, Qty: 16 (Cargo)
+Fathom Scanner Probe I, Qty: 20 (Cargo)
+Ferret Scanner Probe I, Qty: 37 (Cargo)
+

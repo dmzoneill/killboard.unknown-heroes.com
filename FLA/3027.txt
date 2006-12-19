@@ -1,0 +1,82 @@
+2007.03.22 19:08
+
+Victim: tost
+Alliance: Triumvirate.
+Corp: ViperSquad
+Destroyed: Brutix
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Calimer0m0nster
+Security: 4.0
+Alliance: Galactic-Federation
+Corp: I.D.I.O.T.
+Ship: Hyperion
+Weapon: E500 Prototype Energy Vampire
+
+Name: Irrotilumm (laid the final blow)
+Security: 1.9
+Alliance: Galactic-Federation
+Corp: Dark Storm Syndicate
+Ship: Tempest
+Weapon: Dual 425mm AutoCannon I
+
+Name: misscoda
+Security: 4.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Caracal
+Weapon: Advanced 'Limos' Heavy Missile Bay I
+
+Name: Celdrahil
+Security: 3.8
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Ship: Brutix
+Weapon: Hammerhead II
+
+Name: Pressman1966
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Ship: Caracal
+Weapon: Tracking Disruptor I
+
+Name: Aikuchi Hiddensword
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Dominix
+Weapon: Acolyte II
+
+Name: Tiree
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Malediction
+Weapon: Malediction
+
+Name: Janthor Elim
+Security: 2.8
+Alliance: Freelancer Alliance
+Corp: United Forces
+Ship: Maller
+Weapon: Maller
+
+
+Destroyed items:
+
+Heavy Ion Blaster II
+Heavy Ion Blaster II
+Null M, Qty: 351
+Medium Electrochemical Capacitor Booster I
+Energized Adaptive Nano Membrane II
+Armor Explosive Hardener II
+Reactor Control Unit I
+Large Armor Repairer II (Cargo)
+Cap Booster 800, Qty: 7 (Cargo)
+Exotic Dancers (Cargo)
+Null M, Qty: 689 (Cargo)
+

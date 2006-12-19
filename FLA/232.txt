@@ -1,0 +1,125 @@
+2007.01.19 03:19
+
+Victim: Dr Wahoos
+Alliance: Triumvirate.
+Corp: D00M.
+Destroyed: Dominix
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Goca
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Raven
+Weapon: Mjolnir Javelin Torpedo
+
+Name: ventura5
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Raven
+Weapon: 'Arbalest' Cruise Launcher I
+
+Name: Fugnut
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Drake
+Weapon: Widowmaker Heavy Missile
+
+Name: Facter
+Security: 2.3
+Alliance: Freelancer Alliance
+Corp: J.I.T. Enterprises
+Ship: Drake
+Weapon: Advanced 'Limos' Heavy Missile Bay I
+
+Name: alon blackhelm
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Drake
+Weapon: Widowmaker Heavy Missile
+
+Name: digital oxygen (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Astarte
+Weapon: Heavy Ion Blaster II
+
+Name: BladeMos
+Security: 3.3
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Drake
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+Name: drakonarik
+Security: 1.7
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Hermithoth
+Security: 0.2
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Vexor
+Weapon: Hammerhead II
+
+Name: dastommy79
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Thorax
+Weapon: Heavy Ion Blaster I
+
+Name: TiMeZeRo225
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: J.I.T. Enterprises
+Ship: Crow
+Weapon: Bloodclaw Fury Light Missile
+
+Name: Alekseyev Karrde
+Security: 1.1
+Alliance: Forces of Freedom
+Corp: The Royal Guard
+Ship: Taranis
+Weapon: Taranis
+
+Name: Swanny231
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Crow
+Weapon: Phalanx Rocket
+
+Name: Danielson1012
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Harpy
+Weapon: Harpy
+
+
+Destroyed items:
+
+E50 Prototype Energy Vampire
+E500 Prototype Energy Vampire
+E500 Prototype Energy Vampire
+Medium Electrochemical Capacitor Booster I
+Sensor Booster I
+Large 'Accommodation' Vestment Reconstructer I
+Energized Adaptive Nano Membrane II
+Armor Thermic Hardener II
+Armor Kinetic Hardener II
+Cap Booster 800, Qty: 15 (Cargo)
+Ogre I, Qty: 4 (Drone Bay)
+Warrior II, Qty: 4 (Drone Bay)
+

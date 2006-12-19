@@ -1,0 +1,28 @@
+2007.04.08 17:01
+
+Victim: Janis Praag
+Alliance: YouWhat
+Corp: Cosmic Odyssey
+Destroyed: Kestrel
+System: F7C-H0
+Security: 0.0
+
+Involved parties:
+
+Name: Asa Gunnarsson (laid the final blow)
+Security: 0.2
+Alliance: Freelancer Alliance
+Corp: ACCORD Industries
+Ship: Raven
+Weapon: Cataclysm Cruise Missile
+
+
+Destroyed items:
+
+Phalanx Rocket, Qty: 30
+Rocket Launcher I
+Rocket Launcher I
+Ballistic Control System I
+Power Diagnostic System I
+Corpse, Qty: 13 (Cargo)
+

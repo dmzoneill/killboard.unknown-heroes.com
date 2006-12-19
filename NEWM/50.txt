@@ -1,0 +1,27 @@
+2007.01.02 16:00
+
+Victim: Report
+Alliance: None
+Corp: The New Dawn
+Destroyed: Punisher
+System: 5W3-DG
+Security: 0.0
+
+Involved parties:
+
+Name: Jorax (laid the final blow)
+Security: 4.2
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Incursus
+Weapon: Light Neutron Blaster I
+
+
+Destroyed items:
+
+Medium Afocal Pulse Maser I
+Dual Afocal Pulse Maser I
+Warp Scrambler I
+Power Diagnostic System I
+Capacitor Power Relay I
+

@@ -1,0 +1,64 @@
+2006.10.28 04:04
+
+Victim: blade190
+Alliance: Eternal Empire
+Corp: Spectral Armada
+Destroyed: Thorax
+System: J-CIJV
+Security: 0.0
+
+Involved parties:
+
+Name: digital oxygen (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Deimos
+Weapon: Valkyrie II
+
+Name: SleepyOSU
+Security: 4.0
+Alliance: Freelancer Alliance
+Corp: Sin-X Inc.
+Ship: Vexor
+Weapon: Vexor
+
+Name: Soliloquil
+Security: 3.8
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Caracal
+Weapon: Heavy Missile Launcher I
+
+Name: Mr Kilgore
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Rapier
+Weapon: X5 Prototype I Engine Enervator
+
+Name: Goca
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Raven
+Weapon: Siege Missile Launcher II
+
+Name: Braxxon
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Rapier
+Weapon: Dread Guristas Stasis Webifier
+
+
+Destroyed items:
+
+150mm Railgun I
+150mm Railgun I
+Antimatter Charge S, Qty: 59
+Warp Scrambler I
+Target Painter I
+Small Armor Repairer I
+Infiltrator I, Qty: 4 (Drone Bay)
+

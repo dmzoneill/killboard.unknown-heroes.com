@@ -1,0 +1,117 @@
+2007.03.16 03:37
+
+Victim: zigzag429
+Alliance: YouWhat
+Corp: Beasts of Burden
+Destroyed: Thorax
+System: XZH-4X
+Security: 0.0
+
+Involved parties:
+
+Name: Bobby Atlas
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Megathron
+Weapon: Warden I
+
+Name: hydro2900
+Security: 2.4
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Ship: Brutix
+Weapon: Brutix
+
+Name: Zarkovich
+Security: 3.7
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Caracal
+Weapon: Havoc Heavy Missile
+
+Name: Fugnut
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Drake
+Weapon: Advanced 'Limos' Heavy Missile Bay I
+
+Name: ifeelit2 (laid the final blow)
+Security: 5.0
+Alliance: Forces of Freedom
+Corp: Just Cloned Again
+Ship: Hyperion
+Weapon: Modal Mega Neutron Particle Accelerator I
+
+Name: Smiles Jr
+Security: 2.3
+Alliance: Freelancer Alliance
+Corp: The Night Crew
+Ship: Typhoon
+Weapon: Thunderbolt Heavy Missile
+
+Name: Sovo
+Security: -0.6
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Rupture
+Weapon: 650mm Artillery Cannon I
+
+Name: Imaginary Number
+Security: 3.7
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Prophecy
+Weapon: Heavy Beam Laser I
+
+Name: Swanny231
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Raven
+Weapon: XT-9000 Cruise Launcher
+
+Name: Skull Fire
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Raven
+Weapon: 'Arbalest' Siege Missile Launcher
+
+Name: Simon Monkoto
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Megathron
+Weapon: Megathron
+
+Name: Satal Sonshi
+Security: 3.8
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery I
+
+Name: GEOFFTRIN RYNE
+Security: 5.0
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Raven
+Weapon: 'Malkuth' Cruise Launcher I
+
+Name: Ahramaine
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Dominix
+Weapon: Dominix
+
+
+Destroyed items:
+
+Heavy Neutron Blaster I, Qty: 3
+Antimatter Charge M, Qty: 254
+10MN Afterburner I
+N-Type Explosive Hardener I
+Reactor Control Unit I, Qty: 2

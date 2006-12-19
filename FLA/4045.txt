@@ -1,0 +1,57 @@
+2007.04.10 18:31
+
+Victim: Crovan
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Destroyed: Taranis
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Malcanis
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Capsule
+Weapon: Heavy Missile Launcher I
+
+Name: Shassandra
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Unknown
+Weapon: Warrior II
+
+Name: Ninjitsuki (laid the final blow)
+Security: 0.1
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: Mikal Drey
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Hound
+Weapon: 'Malkuth' Cruise Launcher I
+
+Name: Elo span
+Security: 4.4
+Alliance: Federation Of united Corps
+Corp: check mate Corp
+Ship: Drake
+Weapon: Hornet I
+
+
+Destroyed items:
+
+J5 Prototype Warp Inhibitor I
+Damage Control I
+Type-D Power Core Modification: Capacitor Power Relay
+Thorium Charge S, Qty: 348 (Cargo)
+Lead Charge S, Qty: 1120 (Cargo)
+Uranium Charge S, Qty: 1979 (Cargo)
+Hobgoblin II (Drone Bay)
+

@@ -1,0 +1,151 @@
+2006.10.23 20:22
+
+Victim: Ainulindalle
+Alliance: Eternal Empire
+Corp: Tarnak inc.
+Destroyed: Thorax
+System: MI6O-6
+Security: 0.0
+
+Involved parties:
+
+Name: Ageha (laid the final blow)
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Apocalypse
+Weapon: Tachyon Beam Laser II
+
+Name: bidman
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Raven
+Weapon: Inferno Javelin Torpedo
+
+Name: Fzhal
+Security: 4.8
+Alliance: Forces of Freedom
+Corp: JUDGE DREAD Inc.
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Vindication
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Muninn
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+Name: Gamer1K
+Security: 3.9
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Rook
+Weapon: Advanced 'Limos' Heavy Missile Bay I
+
+Name: Loore
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Megathron
+Weapon: Havoc Heavy Missile
+
+Name: betabob
+Security: 4.1
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Armageddon
+Weapon: Tachyon Modal Laser I
+
+Name: arthell
+Security: 1.4
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Vexor
+Weapon: Vexor
+
+Name: tyrol
+Security: 3.4
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Megathron
+Weapon: 425mm 'Scout' I Accelerator Cannon
+
+Name: sulky
+Security: 0.5
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Armageddon
+Weapon: Low Frequency Sensor Suppressor I
+
+Name: Yurian
+Security: 1.3
+Alliance: None
+Corp: Fatalix Inc.
+Ship: Maller
+Weapon: Focused Medium Pulse Laser I
+
+Name: Xiang Tai
+Security: 1.7
+Alliance: Imperial Republic Of the North
+Corp: Port Royal Independent Kontractors
+Ship: Scorpion
+Weapon: 'Malkuth' Cruise Launcher I
+
+Name: Scylla V
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: VentureCorp
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Minesweeper
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Stiletto
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: Kcyx
+Security: 4.6
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Megathron
+Weapon: 425mm 'Scout' I Accelerator Cannon
+
+Name: K Shara
+Security: 1.5
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Scorpion
+Weapon: Cruise Missile Launcher II
+
+Name: Dingus Rx
+Security: 2.5
+Alliance: Imperial Republic Of the North
+Corp: Port Royal Independent Kontractors
+Ship: Celestis
+Weapon: Kapteyn Sensor Array Inhibitor I
+
+Name: Demarcus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Scorpion
+Weapon: 'Arbalest' Siege Missile Launcher
+
+
+Destroyed items:
+
+150mm Railgun I
+150mm Railgun I
+150mm Railgun I
+Iridium Charge S, Qty: 160
+10MN MicroWarpdrive I
+Warp Disruptor I
+Medium Armor Repairer I
+Warp Core Stabilizer I
+Armor Explosive Hardener I
+1600mm Reinforced Steel Plates I
+

@@ -1,0 +1,85 @@
+2007.01.01 21:02
+
+Victim: KekoRage
+Alliance: None
+Corp: Princeps Corp
+Destroyed: Merlin
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Xantheris
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Harpy
+Weapon: Harpy
+
+Name: Sorlac Aurora (laid the final blow)
+Security: 4.7
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: digital oxygen
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Deimos
+Weapon: Deimos
+
+Name: mr passie
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Hurricane
+Weapon: 425mm AutoCannon I
+
+Name: Danielson1012
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: jonos syclarin
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Raven
+Weapon: 'Arbalest' Cruise Launcher I
+
+Name: Kremnican
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Blackbird
+Weapon: 'Hypnos' Multispectral ECM I
+
+Name: Fugnut
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Drake
+Weapon: Advanced 'Limos' Heavy Missile Bay I
+
+Name: Ezzeckell
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Sin-X Inc.
+Ship: Thorax
+Weapon: Medium Nosferatu I
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 39
+1MN MicroWarpdrive I
+Warp Disruptor I
+Stasis Webifier I
+Nanofiber Internal Structure I
+Nanofiber Internal Structure I
+Bloodclaw Light Missile, Qty: 3000 (Cargo)
+

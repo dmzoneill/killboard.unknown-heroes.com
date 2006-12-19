@@ -1,0 +1,40 @@
+2007.03.18 17:42
+
+Victim: VladimirHille
+Alliance: None
+Corp: Dead Space Camper
+Destroyed: Capsule
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: hydro2900
+Security: 2.4
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Ship: Brutix
+Weapon: 250mm Railgun II
+
+Name: Weeble Wooble (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Dark Carnage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Crow
+Weapon: Sabretooth Light Missile
+
+Name: Freakdevil
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Malediction
+Weapon: TE-2100 Standard Missile Bay
+
+

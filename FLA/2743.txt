@@ -1,0 +1,84 @@
+2007.03.04 18:03
+
+Victim: sakana
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Destroyed: Eris
+System: PNQY-Y
+Security: 0.0
+
+Involved parties:
+
+Name: Tridik
+Security: 5.0
+Alliance: Xelas Alliance
+Corp: Bombshell Cartel
+Ship: Drake
+Weapon: Havoc Heavy Missile
+
+Name: Juruk (laid the final blow)
+Security: 5.0
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+Name: Strelook
+Security: -0.5
+Alliance: Xelas Alliance
+Corp: Requiem of Hades
+Ship: Tempest
+Weapon: Dual 650mm Repeating Artillery II
+
+Name: xXPatheonXx
+Security: 2.4
+Alliance: Xelas Alliance
+Corp: 7th Space Cavalry
+Ship: Myrmidon
+Weapon: Warp Disruptor I
+
+Name: Tolan
+Security: 3.3
+Alliance: Xelas Alliance
+Corp: Setenta Corp
+Ship: Curse
+Weapon: 50W Infectious Power System Malfunction
+
+Name: Reinhant
+Security: -1.1
+Alliance: Xelas Alliance
+Corp: Requiem of Hades
+Ship: Curse
+Weapon: Tracking Disruptor II
+
+Name: DrZukes
+Security: 5.0
+Alliance: Xelas Alliance
+Corp: Setenta Corp
+Ship: Raven
+Weapon: Siege Missile Launcher II
+
+Name: DeathGrip
+Security: 2.3
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Archon
+Weapon: True Sansha Warp Disruptor
+
+
+Destroyed items:
+
+75mm Gatling Rail II
+75mm Gatling Rail II
+Spike S, Qty: 400
+Standard Missile Launcher I
+Standard Missile Launcher I
+TE-2100 Standard Missile Bay
+Warp Disrupt Probe, Qty: 10
+Gistii A-Type 1MN MicroWarpdrive
+Fleeting Propulsion Inhibitor I
+Local Hull Conversion Inertial Stabilizers I
+Gallentean Starship Engineering (Cargo)
+Spike S, Qty: 2447 (Cargo)
+Flameburst Light Missile, Qty: 3579 (Cargo)
+

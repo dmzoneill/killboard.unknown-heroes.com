@@ -1,0 +1,96 @@
+2006.12.10 01:26
+
+Victim: Sorlac Aurora
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Drake
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Pistonbroke
+Security: -1.4
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Raven
+Weapon: Cataclysm Precision Cruise Missile
+
+Name: Darknesss
+Security: -0.2
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Megathron
+Weapon: Ogre II
+
+Name: Teani
+Security: 1.6
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Astarte
+Weapon: Astarte
+
+Name: Kalissa (laid the final blow)
+Security: -1.2
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Raven
+Weapon: Mjolnir Javelin Torpedo
+
+Name: WarGod
+Security: -2.1
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Dominix
+Weapon: Valkyrie II
+
+Name: Marcus Brook
+Security: 4.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Megathron
+Weapon: Megathron
+
+Name: the willyb
+Security: -2.3
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Dominix
+Weapon: Hammerhead II
+
+Name: Jimmycs83
+Security: -2.3
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Dominix
+Weapon: Ogre I
+
+Name: K Shara
+Security: 3.1
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Raven
+Weapon: Juggernaut Javelin Torpedo
+
+Name: taylor04
+Security: -1.9
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Armageddon
+Weapon: Armageddon
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 23
+Widowmaker Heavy Missile, Qty: 22
+XR-3200 Heavy Missile Bay
+Large Shield Booster II
+X5 Prototype I Engine Enervator
+V-M15 Braced Multispectral Shield Matrix
+V-M15 Braced Multispectral Shield Matrix
+Thunderbolt Heavy Missile, Qty: 340 (Cargo)
+Widowmaker Heavy Missile, Qty: 292 (Cargo)
+Scourge Heavy Missile, Qty: 367 (Cargo)
+Acolyte I (Drone Bay)
+

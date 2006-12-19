@@ -1,0 +1,59 @@
+2007.02.27 00:28
+
+Victim: Swanny231
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Destroyed: Celestis
+System: YZ-LQL
+Security: 0.0
+
+Involved parties:
+
+Name: Aschera (laid the final blow)
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Reikoku
+Ship: Thanatos
+Weapon: Firbolg
+
+Name: MilaNoCZ
+Security: 5.0
+Alliance: Xelas Alliance
+Corp: Rytiri Lva
+Ship: Drake
+Weapon: Heavy Missile Launcher II
+
+Name: Balltazore Anubis
+Security: 5.0
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Hurricane
+Weapon: 220mm Vulcan AutoCannon I
+
+Name: Tarhess
+Security: -4.0
+Alliance: Aftermath Alliance
+Corp: Master Miners
+Ship: Raptor
+Weapon: Initiated Warp Jammer I
+
+Name: Crohnx
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Reikoku
+Ship: Thanatos
+Weapon: Firbolg
+
+
+Destroyed items:
+
+250mm Railgun II
+Scourge Heavy Missile, Qty: 24
+Heavy Missile Launcher I
+Indirect Scanning Dampening Unit I
+Sensor Booster II
+Damage Control I
+Magnetic Field Stabilizer II
+Armor Explosive Hardener I
+Spike M, Qty: 377 (Cargo)
+

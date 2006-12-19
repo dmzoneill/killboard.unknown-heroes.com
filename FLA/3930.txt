@@ -1,0 +1,58 @@
+2007.04.06 09:49
+
+Victim: Bishata
+Alliance: YouWhat
+Corp: Beasts of Burden
+Destroyed: Malediction
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Kooter1 (laid the final blow)
+Security: 5.0
+Alliance: Federation Of united Corps
+Corp: Solaris Operations
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Danielson1012
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Blackbird
+Weapon: Thunderbolt Heavy Missile
+
+Name: splinter3000
+Security: 5.0
+Alliance: Federation Of united Corps
+Corp: check mate Corp
+Ship: Impairor
+Weapon: Civilian Gatling Pulse Laser
+
+Name: Guy Caldar
+Security: 4.4
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Manticore
+Weapon: Cruise Missile Launcher I
+
+
+Destroyed items:
+
+Scorch S
+Scorch S
+Catalyzed Cold-Gas I Arcjet Thrusters
+J5 Prototype Warp Inhibitor I
+Micro Auxiliary Power Core I
+Nanofiber Internal Structure I
+Large Shield Extender II (Cargo)
+Dual Heavy Pulse Laser II (Cargo)
+Mega Pulse Laser II (Cargo)
+Armor Thermic Hardener II (Cargo)
+Armor Kinetic Hardener II (Cargo)
+Ballistic Control System II (Cargo)
+Conflagration S (Cargo)
+Conflagration L, Qty: 2 (Cargo)
+Scorch L, Qty: 5 (Cargo)
+

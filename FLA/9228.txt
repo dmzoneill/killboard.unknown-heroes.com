@@ -1,0 +1,47 @@
+2007.05.04 18:57
+
+Victim: Kaulu
+Alliance: YouWhat
+Corp: Princeps Corp
+Destroyed: Blackbird
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Crushall (laid the final blow)
+Security: 5.0
+Alliance: The Foundation.
+Corp: NorCorp Security
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+Name: Kayron Brennan
+Security: 0.7
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Caracal
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+Name: Corovus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Maulus
+Weapon: Remote Sensor Dampener II
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Assault Missile Launcher II
+Assault Missile Launcher II
+Assault Missile Launcher II
+ECM - Ion Field Projector II
+ECM - White Noise Generator II
+ECM - Spatial Destabilizer II
+Sensor Booster I
+Compulsive Signal Distortion Amplifier I
+'Accord' I Core Compensation (Cargo)
+Sabretooth Precision Light Missile, Qty: 994 (Cargo)
+

@@ -1,0 +1,32 @@
+2006.12.26 22:54
+
+Victim: Pestily
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Destroyed: Raven
+System: Litiura
+Security: 0.5
+
+Involved parties:
+
+Name: Rann Antares (laid the final blow)
+Security: 5.0
+Alliance: None
+Corp: omen.
+Ship: Dominix
+Weapon: Berserker II
+
+
+Destroyed items:
+
+Heavy Nosferatu I
+Siege Missile Launcher II
+Siege Missile Launcher II
+Bane Rage Torpedo, Qty: 42
+Shield Boost Amplifier II
+Co-Processor II
+Power Diagnostic System II
+Reactor Control Unit I
+Cap Booster 400, Qty: 37 (Cargo)
+Bane Rage Torpedo, Qty: 610 (Cargo)
+

@@ -1,0 +1,72 @@
+2007.03.21 16:21
+
+Victim: XxSOULxX
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Destroyed: Thorax
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: PainBall (laid the final blow)
+Security: -0.9
+Alliance: Triumvirate.
+Corp: ViperSquad
+Ship: Absolution
+Weapon: Heavy Pulse Laser II
+
+Name: eRogue
+Security: 0.0
+Alliance: Triumvirate.
+Corp: ViperSquad
+Ship: Brutix
+Weapon: Warp Disruptor II
+
+Name: Alchem
+Security: 2.9
+Alliance: Triumvirate.
+Corp: ViperSquad
+Ship: Ishtar
+Weapon: Ishtar
+
+Name: Yushii
+Security: -0.3
+Alliance: Triumvirate.
+Corp: ViperSquad
+Ship: Muninn
+Weapon: Hobgoblin II
+
+Name: zeitza ta
+Security: 0.5
+Alliance: Triumvirate.
+Corp: ViperSquad
+Ship: Arazu
+Weapon: Arazu
+
+Name: WarGod
+Security: 1.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Curse
+Weapon: Warp Disruptor II
+
+Name: Sith Bandon
+Security: 5.0
+Alliance: Triumvirate.
+Corp: ViperSquad
+Ship: Ishtar
+Weapon: Fleeting Propulsion Inhibitor I
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Medium Nosferatu I
+Medium Nosferatu I
+Warp Disruptor I
+Sensor Booster II
+Medium Armor Repairer II
+Type-D Altered SS Inertial Stabilizers
+Nanofiber Internal Structure I
+

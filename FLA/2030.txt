@@ -1,0 +1,61 @@
+2007.01.18 18:24
+
+Victim: drakonarik
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Drake
+System: OWXT-5
+Security: 0.0
+
+Involved parties:
+
+Name: Guristas Eraser / Guristas
+
+Name: XxAngelxX
+Security: 5.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Curse
+Weapon: Warrior II
+
+Name: aadom (laid the final blow)
+Security: 3.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Myrmidon
+Weapon: Ogre II
+
+Name: WarGod
+Security: 1.7
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Curse
+Weapon: Acolyte II
+
+Name: xVx Skillgannon
+Security: 0.3
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Vagabond
+Weapon: Vagabond
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 35
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+Large Shield Extender II
+Ballistic Deflection Field I
+Heat Dissipation Amplifier I
+Shield Power Relay I
+Power Diagnostic System I
+Shield Power Relay I (Cargo)
+'Repose' I Core Compensation (Cargo)
+Scourge Heavy Missile, Qty: 4911 (Cargo)
+'Malkuth' Assault Missile Launcher I (Cargo)
+

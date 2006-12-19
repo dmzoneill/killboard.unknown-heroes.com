@@ -1,0 +1,19 @@
+2006.10.01 21:35
+
+Victim: Twinis
+Alliance: None
+Corp: Omerta Syndicate
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Formosus Funus (laid the final blow)
+Security: 1.8
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Rifter
+Weapon: 200mm Light Carbine Repeating Cannon I
+
+

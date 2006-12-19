@@ -1,0 +1,30 @@
+2007.03.27 06:38
+
+Victim: Ahramaine
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Thorax
+System: 7D-0SQ
+Security: 0.0
+
+Involved parties:
+
+Name: 1Of9 (laid the final blow)
+Security: 4.6
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Pilgrim
+Weapon: Hammerhead I
+
+
+Destroyed items:
+
+Heavy Ion Blaster I, Qty: 4
+Antimatter Charge M, Qty: 480
+10MN MicroWarpdrive I
+Warp Scrambler I
+Signal Amplifier I
+Mexallon, Qty: 1862 (Cargo)
+Antimatter Charge M, Qty: 1855 (Cargo)
+Magnetic Vortex Stabilizer I (Cargo)
+Hammerhead I, Qty: 4 (Drone Bay)

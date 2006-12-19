@@ -1,0 +1,39 @@
+2006.09.13 08:18
+
+Victim: serena lunt
+Alliance: Freelancer Alliance
+Corp: Elite frontier group
+Destroyed: Dominix
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Riddlock
+Security: 1.7
+Alliance: Ascendant Frontier
+Corp: Sha Kharn Corp
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Drift Spec (laid the final blow)
+Security: 5.0
+Alliance: Ascendant Frontier
+Corp: Sha Kharn Corp
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+
+Destroyed items:
+
+Heavy 'Knave' I Energy Drain
+Dual 250mm Prototype I Gauss Gun
+Dual 250mm Prototype I Gauss Gun
+Iron Charge L, Qty: 127
+Small Tractor Beam I
+Eutectic I Capacitor Charge Array
+Eutectic I Capacitor Charge Array
+N-Type Kinetic Hardener I
+N-Type Kinetic Hardener I
+Wasp I, Qty: 2 (Drone Bay)
+

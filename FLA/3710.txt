@@ -1,0 +1,47 @@
+2007.03.30 13:51
+
+Victim: Evil Star
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Destroyed: Drake
+System: OWXT-5
+Security: 0.0
+
+Involved parties:
+
+Name: MegaJ
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Pilgrim
+Weapon: Hammerhead II
+
+Name: PMolkenthin (laid the final blow)
+Security: -0.7
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Arazu
+Weapon: Warrior II
+
+Name: Risandaar
+Security: 1.0
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Ares
+Weapon: Ares
+
+
+Destroyed items:
+
+Prototype Cloaking Device I
+Scourge Heavy Missile, Qty: 63
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Large F-S9 Regolith Shield Induction
+Large Shield Extender I
+Medium Shield Booster I
+Power Diagnostic System I
+Scourge Heavy Missile, Qty: 1000 (Cargo)
+

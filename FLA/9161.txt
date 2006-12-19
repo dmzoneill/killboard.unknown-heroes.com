@@ -1,0 +1,120 @@
+2007.05.02 02:04
+
+Victim: Zerc
+Alliance: Vigilance.
+Corp: The Phoenix Rising
+Destroyed: Iteron Mark V
+System: F7C-H0
+Security: 0.0
+
+Involved parties:
+
+Name: Draconian Arcane (laid the final blow)
+Security: -2.5
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Cyclone
+Weapon: 650mm Medium Gallium I Cannon
+
+Name: Fo Shizz
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Cyclone
+Weapon: Acolyte I
+
+Name: Qazar
+Security: -0.6
+Alliance: None
+Corp: United Task
+Ship: Crow
+Weapon: Bloodclaw Precision Light Missile
+
+Name: Anndy
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Crusader
+Weapon: Dual Light Pulse Laser II
+
+Name: Koi Yokuma
+Security: 0.4
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Thorax
+Weapon: Hobgoblin I
+
+Name: jcluse
+Security: 3.0
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Drake
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+Name: The Cade
+Security: 1.6
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Brutix
+Weapon: Anode Neutron Particle Cannon I
+
+Name: Calvin Andros
+Security: 1.9
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Myrmidon
+Weapon: J5 Prototype Warp Inhibitor I
+
+
+Destroyed items:
+
+Expanded Cargohold I
+Expanded Cargohold I
+Y-S8 Hydrocarbon I Afterburners (Cargo)
+ML-3 Amphilotite Mining Probe (Cargo)
+J5 Prototype Warp Inhibitor I (Cargo)
+Small Capacitor Battery I (Cargo)
+Hornet I, Qty: 14 (Cargo)
+Hammerhead I (Cargo)
+Hobgoblin I, Qty: 5 (Cargo)
+Valkyrie I, Qty: 5 (Cargo)
+Mining Drone I, Qty: 2 (Cargo)
+Small Beam Laser Specialization (Cargo)
+Small Blaster Specialization (Cargo)
+Medium Pulse Laser Specialization (Cargo)
+Small Railgun Specialization (Cargo)
+Heavy Missiles (Cargo)
+Target Navigation Prediction (Cargo)
+Missile Projection (Cargo)
+Leadership, Qty: 2 (Cargo)
+Presence (Cargo)
+Launcher Rigging (Cargo)
+Astronautics Rigging (Cargo)
+Remote Armor Repair Systems (Cargo)
+Projectile Weapon Rigging (Cargo)
+Armor Rigging (Cargo)
+Shield Rigging, Qty: 2 (Cargo)
+Electronic Superiority Rigging (Cargo)
+Drones Rigging (Cargo)
+Signal Acquisition (Cargo)
+Hacking (Cargo)
+Archaeology (Cargo)
+Research (Cargo)
+Energy Systems Operation (Cargo)
+Evasive Maneuvering (Cargo)
+Warp Drive Operation (Cargo)
+Connections (Cargo)
+Warp Core Stabilizer I (Cargo)
+Anathema (Cargo)
+Giant Secure Container (Cargo)
+Strip Miner I, Qty: 4 (Cargo)
+Gravimetric Sift Probe, Qty: 5 (Cargo)
+Gravimetric Comb Probe, Qty: 15 (Cargo)
+Gravimetric Pursuit Probe, Qty: 13 (Cargo)
+Recon Probe Launcher I (Cargo)
+Scan Probe Launcher I (Cargo)
+Salvager I (Cargo)
+Scorched Telemetry Processor, Qty: 14 (Cargo)
+Nanofiber Internal Structure I, Qty: 4 (Cargo)
+Expanded Cargohold I, Qty: 3 (Cargo)
+

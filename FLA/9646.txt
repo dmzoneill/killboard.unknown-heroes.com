@@ -1,0 +1,54 @@
+2007.05.21 18:51
+
+Victim: CG56
+Alliance: None
+Corp: mUfFiN fAcToRy
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Serzath
+Security: 5.0
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Kotori
+Security: -0.2
+Alliance: DeStInY.
+Corp: Sacred Templars
+Ship: Heretic
+Weapon: Medium Pulse Laser II
+
+Name: Dibbes
+Security: 0.1
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Taranis
+Weapon: 150mm Railgun I
+
+Name: Lee Thrace
+Security: 3.1
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Eris
+Weapon: Light Neutron Blaster II
+
+Name: articz (laid the final blow)
+Security: -0.3
+Alliance: DeStInY.
+Corp: House Of Aaron
+Ship: Rifter
+Weapon: 250mm Light Artillery Cannon II
+
+Name: Ocara Nezus
+Security: 1.5
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+

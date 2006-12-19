@@ -1,0 +1,26 @@
+2007.03.28 20:07
+
+Victim: lord xavier
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Destroyed: Capsule
+System: P-2TTL
+Security: 0.0
+
+Involved parties:
+
+Name: numbers (laid the final blow)
+Security: 4.1
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Zealot
+Weapon: Heavy Beam Laser II
+
+Name: Tripline
+Security: 1.4
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Taranis
+Weapon: Taranis
+
+

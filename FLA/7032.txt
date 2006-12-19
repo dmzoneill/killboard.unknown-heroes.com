@@ -1,0 +1,70 @@
+2006.12.21 22:33
+
+Victim: K Shara
+Alliance: Triumvirate.
+Corp: D00M.
+Destroyed: Crow
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Selena 001 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Dr Grimm
+Security: 0.2
+Alliance: Freelancer Alliance
+Corp: X.T.R
+Ship: Unknown
+Weapon: Upgraded 'Limos' Standard Missile Bay I
+
+Name: arthell
+Security: 2.6
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Vexor
+Weapon: 150mm Carbide Railgun I
+
+Name: WolfRavage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Ishkur
+Weapon: Light Neutron Blaster II
+
+Name: Sasham
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Raven
+Weapon: 'Arbalest' Cruise Launcher I
+
+Name: Rev Darkwing
+Security: 2.3
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Scorpion
+Weapon: 'Limos' Cruise Launcher I
+
+Name: Alex Hinkelmann
+Security: 0.2
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Ferox
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+
+Destroyed items:
+
+Standard Missile Launcher II
+Standard Missile Launcher II
+Sabretooth Precision Light Missile, Qty: 43
+Small F-S9 Regolith Shield Induction
+Type-D Power Core Modification: Capacitor Flux
+Bloodclaw Light Missile, Qty: 980 (Cargo)
+

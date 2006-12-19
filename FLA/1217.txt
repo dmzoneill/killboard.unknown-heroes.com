@@ -1,0 +1,40 @@
+2007.03.08 22:48
+
+Victim: TheMinion
+Alliance: YouWhat
+Corp: Beasts of Burden
+Destroyed: Capsule
+System: XZH-4X
+Security: 0.0
+
+Involved parties:
+
+Name: Zudge
+Security: 2.8
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Enyo
+Weapon: Light Ion Blaster II
+
+Name: Dark Carnage (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Muad' Dib
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Stiletto
+Weapon: Bloodclaw Light Missile
+
+Name: Cyrila Wolf
+Security: -2.2
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Stiletto
+Weapon: 'Langour' Drive Disruptor I
+
+

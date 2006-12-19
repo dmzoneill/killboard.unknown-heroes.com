@@ -1,0 +1,33 @@
+2006.11.30 18:34
+
+Victim: Sagami Ayase
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Retriever
+System: Torrinos
+Security: 0.5
+
+Involved parties:
+
+Name: Elliott Manchild (laid the final blow)
+Security: -1.6
+Alliance: None
+Corp: omen.
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Garath Dirk
+Security: -0.9
+Alliance: None
+Corp: omen.
+Ship: Raptor
+Weapon: Thorn Rocket
+
+Name: Neaokod
+Security: -1.8
+Alliance: None
+Corp: omen.
+Ship: Taranis
+Weapon: Light Neutron Blaster II
+
+

@@ -1,0 +1,153 @@
+2007.01.20 01:03
+
+Victim: Anna Neura
+Alliance: Triumvirate.
+Corp: D00M.
+Destroyed: Lachesis
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Nya
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Cockroach
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Zealot
+Weapon: Focused Medium Pulse Laser II
+
+Name: Soldroz
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Raven
+Weapon: Cataclysm Cruise Missile
+
+Name: digital oxygen (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Megathron
+Weapon: 425mm Carbide Railgun I
+
+Name: Swindy
+Security: 1.4
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Harpy
+Weapon: Harpy
+
+Name: Korudon
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Armageddon
+Weapon: Tachyon Modal Laser I
+
+Name: Slinktress
+Security: 2.6
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Megathron
+Weapon: Megathron
+
+Name: Steven FSB
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Moa
+Weapon: Moa
+
+Name: Thafesko
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Kestrel
+Weapon: Bloodclaw Light Missile
+
+Name: ventura5
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Scorpion
+Weapon: Juggernaut Javelin Torpedo
+
+Name: Mokh'Tar
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: Caldar Mercenary Syndicate
+Ship: Blackbird
+Weapon: Initiated Multispectral ECM I
+
+Name: bjugis
+Security: 0.6
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Thorax
+Weapon: 200mm Carbide Railgun I
+
+Name: Seventh Star
+Security: 5.0
+Alliance: None
+Corp: BGG
+Ship: Scorpion
+Weapon: 'Arbalest' Cruise Launcher I
+
+Name: Parmenion 96
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Ship: Raven
+Weapon: XT-9000 Cruise Launcher
+
+Name: LTSmash
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Ship: Raven
+Weapon: Raven
+
+Name: John Linski
+Security: 2.7
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Caracal
+Weapon: 'Malkuth' Assault Missile Launcher I
+
+Name: Indigo Callypso
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Crow
+Weapon: Fleeting Warp Scrambler I
+
+Name: Downeaster
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Blackbird
+Weapon: Compulsive Multispectral ECM I
+
+
+Destroyed items:
+
+200mm Railgun II
+200mm Railgun II
+Cynosural Field Generator I
+Spike M, Qty: 93
+Phased Muon Sensor Disruptor I
+Remote Sensor Dampener II
+Remote Sensor Dampener II
+800mm Reinforced Nanofiber Plates I
+Medium Armor Repairer II, Qty: 2 (Cargo)
+Prototype Cloaking Device I (Cargo)
+Beta Hull Mod Inertial Stabilizers (Cargo)
+Hobgoblin II, Qty: 3 (Drone Bay)
+

@@ -1,0 +1,165 @@
+2006.10.08 21:38
+
+Victim: Sadith
+Alliance: R.I.S.K
+Corp: RUS-SAGA
+Destroyed: Tempest
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Hedeon Mishenka
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: DarkJester
+Security: 0.7
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Tempest
+Weapon: Heavy Missile Launcher I
+
+Name: bidman
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Raven
+Weapon: Wrath Cruise Missile
+
+Name: avelution
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Scorpion
+Weapon: Juggernaut Torpedo
+
+Name: TasKu
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Taranis
+Weapon: Taranis
+
+Name: Mcwlad
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Ship: Apocalypse
+Weapon: Tachyon Beam Laser II
+
+Name: Jessica McDaniel
+Security: 1.3
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Scorpion
+Weapon: Scorpion
+
+Name: Zha'doom
+Security: 2.6
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Prophecy
+Weapon: Prophecy
+
+Name: jarson
+Security: -0.3
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Claw
+Weapon: Claw
+
+Name: XxSOULxX
+Security: 0.6
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Ship: Thorax
+Weapon: Thorax
+
+Name: wessam
+Security: 4.5
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Rook
+Weapon: Havoc Heavy Missile
+
+Name: Cockroach
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Vengeance
+Weapon: Vengeance
+
+Name: Gamer1K
+Security: 3.1
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Crow
+Weapon: Fleeting Warp Scrambler I
+
+Name: DanyD
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Scorpio63
+Security: 4.8
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Retribution
+Weapon: Retribution
+
+Name: R4Z0R49
+Security: 2.4
+Alliance: Freelancer Alliance
+Corp: Feel Good Inc.
+Ship: Ferox
+Weapon: Thunderbolt Heavy Missile
+
+Name: Midiana
+Security: 0.6
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Vexor
+Weapon: Valkyrie II
+
+Name: rockerguy (laid the final blow)
+Security: 1.3
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Ship: Omen
+Weapon: Dual Light Beam Laser II
+
+Name: Ogrimm Surak
+Security: 0.1
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Incursus
+Weapon: Incursus
+
+
+Destroyed items:
+
+1400mm Howitzer Artillery II
+1400mm Howitzer Artillery II
+1400mm Howitzer Artillery II
+1400mm Howitzer Artillery II
+1400mm Howitzer Artillery II
+Tremor L, Qty: 16
+Sensor Booster II
+Sensor Booster II
+Tracking Computer II
+Tracking Computer II
+Gyrostabilizer II
+Gyrostabilizer II
+Tracking Enhancer II
+Tracking Enhancer II
+Quake L, Qty: 1712 (Cargo)
+Tremor L, Qty: 1335 (Cargo)
+Ogre I, Qty: 3 (Drone Bay)
+

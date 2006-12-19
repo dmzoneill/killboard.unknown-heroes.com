@@ -1,0 +1,44 @@
+2007.04.27 20:43
+
+Victim: Kvarium Ki
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Destroyed: Rifter
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: lethario desrtuction
+Security: 2.1
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Hawk
+Weapon: Bloodclaw Precision Light Missile
+
+Name: Screamer (laid the final blow)
+Security: 0.9
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Manticore
+Weapon: Wrath Precision Cruise Missile
+
+Name: Savak
+Security: 0.2
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Omen
+Weapon: Omen
+
+
+Destroyed items:
+
+125mm Gatling AutoCannon I
+Gremlin Rocket, Qty: 26
+Rocket Launcher I
+1MN MicroWarpdrive I
+Warp Disruptor I
+Stasis Webifier I
+Small Armor Repairer I
+EMP S, Qty: 600 (Cargo)
+

@@ -1,0 +1,47 @@
+2006.11.26 09:19
+
+Victim: llamedos
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Destroyed: Caracal
+System: BMNV-P
+Security: 0.0
+
+Involved parties:
+
+Name: kottin (laid the final blow)
+Security: -1.5
+Alliance: Blackwater Alliance
+Corp: Creative Universal Nessesities and Transactions
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Thunderbolt Bloodraven
+Security: 4.1
+Alliance: Blackwater Alliance
+Corp: Creative Universal Nessesities and Transactions
+Ship: Maller
+Weapon: Maller
+
+Name: jmznie
+Security: 5.0
+Alliance: Blackwater Alliance
+Corp: Creative Universal Nessesities and Transactions
+Ship: Celestis
+Weapon: J5 Prototype Warp Inhibitor I
+
+
+Destroyed items:
+
+Thunderbolt Heavy Missile, Qty: 24
+Havoc Heavy Missile, Qty: 52
+Widowmaker Heavy Missile, Qty: 24
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+XR-3200 Heavy Missile Bay
+XR-3200 Heavy Missile Bay
+Medium C5-L Emergency Shield Overload I
+Thunderbolt Heavy Missile, Qty: 186 (Cargo)
+Widowmaker Heavy Missile, Qty: 218 (Cargo)
+

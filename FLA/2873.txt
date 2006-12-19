@@ -1,0 +1,26 @@
+2007.03.13 17:37
+
+Victim: SoF Reaperman
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Destroyed: Capsule
+System: G8AD-C
+Security: 0.0
+
+Involved parties:
+
+Name: Nkalv (laid the final blow)
+Security: -2.8
+Alliance: Chorus of Dawn
+Corp: Free Lapland
+Ship: Sabre
+Weapon: 200mm AutoCannon II
+
+Name: wph0r
+Security: 4.4
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Buzzard
+Weapon: Fleeting Warp Scrambler I
+
+

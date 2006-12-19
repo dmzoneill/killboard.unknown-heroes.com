@@ -1,0 +1,49 @@
+2006.11.30 23:59
+
+Victim: Jack Phox
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Destroyed: Raven
+System: Torrinos
+Security: 0.5
+
+Involved parties:
+
+Name: starius3 (laid the final blow)
+Security: 1.2
+Alliance: None
+Corp: omen.
+Ship: Ishtar
+Weapon: Ogre II
+
+Name: Elliott Manchild
+Security: -1.6
+Alliance: None
+Corp: omen.
+Ship: Taranis
+Weapon: Light Neutron Blaster II
+
+Name: Neaokod
+Security: -1.8
+Alliance: None
+Corp: omen.
+Ship: Taranis
+Weapon: X5 Prototype I Engine Enervator
+
+
+Destroyed items:
+
+Heavy Diminishing Power System Drain I
+Bane Torpedo, Qty: 26
+'Arbalest' Siege Missile Launcher
+Stasis Webifier I
+Photon Scattering Field II
+Small Shield Booster II (Cargo)
+Inferno Torpedo, Qty: 50 (Cargo)
+Mjolnir Torpedo, Qty: 101 (Cargo)
+Bane Torpedo, Qty: 178 (Cargo)
+Widowmaker Heavy Missile, Qty: 220 (Cargo)
+Scourge Heavy Missile, Qty: 190 (Cargo)
+Wrath Cruise Missile, Qty: 778 (Cargo)
+Devastator Cruise Missile, Qty: 192 (Cargo)
+

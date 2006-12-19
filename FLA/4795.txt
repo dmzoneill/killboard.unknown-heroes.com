@@ -1,0 +1,110 @@
+2007.04.22 20:11
+
+Victim: DarkVIper1
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Maller
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Lifewire
+Security: -8.9
+Alliance: Dusk and Dawn
+Corp: Decadence.
+Ship: Thanatos
+Weapon: Templar
+
+Name: Survector
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Stardust Heavy Industries
+Ship: Moros
+Weapon: Moros
+
+Name: Acwron
+Security: -1.4
+Alliance: Dusk and Dawn
+Corp: Cataclysm Enterprises
+Ship: Moros
+Weapon: Dual 1000mm Railgun I
+
+Name: chiyo chan (laid the final blow)
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: The X-Trading Company
+Ship: Moros
+Weapon: Dual 1000mm Railgun I
+
+Name: Whuzz
+Security: 1.8
+Alliance: Dusk and Dawn
+Corp: Cataclysm Enterprises
+Ship: Revelation
+Weapon: Revelation
+
+Name: Bloego
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: ClanKillers
+Ship: Naglfar
+Weapon: Quad 3500mm Siege Artillery I
+
+Name: Whirley
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Konstrukteure der Zukunft
+Ship: Naglfar
+Weapon: Quad 3500mm Siege Artillery I
+
+Name: Tendence
+Security: 4.1
+Alliance: Dusk and Dawn
+Corp: Decadence.
+Ship: Thanatos
+Weapon: Templar
+
+Name: Sniperpirate
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Infinite Improbability Inc
+Ship: Archon
+Weapon: Einherji
+
+Name: Janwaar
+Security: 1.0
+Alliance: Dusk and Dawn
+Corp: ClanKillers
+Ship: Thanatos
+Weapon: Einherji
+
+Name: Bobby Atlas
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Thanatos
+Weapon: Einherji
+
+Name: Asukiko
+Security: -0.7
+Alliance: Dusk and Dawn
+Corp: The X-Trading Company
+Ship: Nidhoggur
+Weapon: Templar
+
+
+Destroyed items:
+
+Focused Medium Beam Laser I
+Focused Medium Beam Laser I
+Radio M
+Radio M
+Radio M
+Y-S8 Hydrocarbon I Afterburners
+Fleeting Propulsion Inhibitor I
+Medium Armor Repairer II
+Thermal Exhaust System I
+N-Type Explosive Hardener I
+N-Type Thermic Hardener I
+

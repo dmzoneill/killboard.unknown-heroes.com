@@ -1,0 +1,58 @@
+2006.10.08 13:17
+
+Victim: Demarcus
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Destroyed: Vulture
+System: Urlen
+Security: 1.0
+
+Involved parties:
+
+Name: SLAPNUTZ (laid the final blow)
+Security: -1.8
+Alliance: None
+Corp: Privateers
+Ship: Typhoon
+Weapon: Devastator Cruise Missile
+
+Name: Slave 775
+Security: -1.9
+Alliance: None
+Corp: Privateers
+Ship: Taranis
+Weapon: Taranis
+
+Name: Jeryk Aquila
+Security: 0.2
+Alliance: None
+Corp: Privateers
+Ship: Rupture
+Weapon: Rupture
+
+Name: Sorted
+Security: -1.4
+Alliance: None
+Corp: Privateers
+Ship: Caracal
+Weapon: Initiated Multispectral ECM I
+
+
+Destroyed items:
+
+Siege Warfare Link - Shield Efficiency
+Thunderbolt Heavy Missile, Qty: 34
+Scourge Heavy Missile, Qty: 70
+Heavy Missile Launcher II
+Heavy Missile Launcher II
+Heavy Missile Launcher II
+Large Shield Booster II
+'Langour' Drive Disruptor I
+Sensor Booster II
+Magnetic Scattering Amplifier II (Cargo)
+Shield Boost Amplifier I (Cargo)
+Scourge Heavy Missile, Qty: 420 (Cargo)
+Thunderbolt Heavy Missile, Qty: 460 (Cargo)
+Power Diagnostic System II (Cargo)
+Medium Shield Maintenance Bot I (Drone Bay)
+

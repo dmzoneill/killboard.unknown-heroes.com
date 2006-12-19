@@ -1,0 +1,150 @@
+2007.02.04 19:22
+
+Victim: d0ri5
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Destroyed: Stiletto
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: william kronos (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: sakana
+Security: -1.0
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Megathron
+Weapon: 425mm Prototype I Gauss Gun
+
+Name: Stonegard
+Security: 5.0
+Alliance: The Foundation.
+Corp: EVE Corporation 160607
+Ship: Vulture
+Weapon: 250mm Railgun II
+
+Name: Cockroach
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Purifier
+Weapon: 'Arbalest' Cruise Launcher I
+
+Name: Poiter
+Security: 3.7
+Alliance: Insane Asylum
+Corp: PILGRIMS
+Ship: Raven
+Weapon: 'Limos' Cruise Launcher I
+
+Name: Minisoza
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Brutix
+Weapon: 250mm Railgun II
+
+Name: Hojo Norem
+Security: 3.2
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Cormorant
+Weapon: 'Malkuth' Rocket Launcher I
+
+Name: malkey
+Security: 4.4
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Blackbird
+Weapon: ECM - Multispectral Jammer I
+
+Name: beretta74
+Security: 2.8
+Alliance: The Foundation.
+Corp: EVE Corporation 160607
+Ship: Thorax
+Weapon: 150mm Railgun I
+
+Name: SuperDuplex
+Security: 0.7
+Alliance: The Foundation.
+Corp: EVE Corporation 160607
+Ship: Drake
+Weapon: XR-3200 Heavy Missile Bay
+
+Name: MrMunro
+Security: 5.1
+Alliance: Insane Asylum
+Corp: PILGRIMS
+Ship: Rokh
+Weapon: Rokh
+
+Name: Lux0r
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Hawk
+Weapon: Standard Missile Launcher II
+
+Name: LTSmash
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Ship: Drake
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+Name: Goca
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Ferox
+Weapon: XR-3200 Heavy Missile Bay
+
+Name: Elgcaress
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Celestis
+Weapon: Remote Sensor Dampener I
+
+Name: Dr Andy
+Security: 4.7
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Celestis
+Weapon: Remote Sensor Dampener I
+
+Name: Dark Carnage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Capsule
+Weapon: ECM - Multispectral Jammer I
+
+Name: Alski
+Security: 2.7
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Celestis
+Weapon: Remote Sensor Dampener I
+
+
+Destroyed items:
+
+125mm Gatling AutoCannon II
+EMP S, Qty: 100
+Foxfire Rocket, Qty: 30
+Rocket Launcher I
+1MN MicroWarpdrive I
+Warp Disruptor I
+Stasis Webifier I
+Small Armor Repairer II
+EMP S, Qty: 781 (Cargo)
+

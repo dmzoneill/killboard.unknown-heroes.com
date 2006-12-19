@@ -1,0 +1,33 @@
+2007.02.23 22:51
+
+Victim: haz zard
+Alliance: None
+Corp: The Wailing Doom
+Destroyed: Capsule
+System: L-TS8S
+Security: 0.0
+
+Involved parties:
+
+Name: NesheresH (laid the final blow)
+Security: 4.5
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Sabre
+Weapon: 280mm Howitzer Artillery II
+
+Name: Kalibrana
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Catalyst
+Weapon: 150mm Railgun II
+
+Name: Gardeful
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Hawk
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+

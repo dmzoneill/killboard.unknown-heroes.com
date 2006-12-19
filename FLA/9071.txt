@@ -1,0 +1,19 @@
+2006.12.30 00:39
+
+Victim: Larvfot
+Alliance: Freelancer Alliance
+Corp: X.T.R
+Destroyed: Capsule
+System: Oipo
+Security: 0.8
+
+Involved parties:
+
+Name: xlop (laid the final blow)
+Security: -1.1
+Alliance: None
+Corp: omen.
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+

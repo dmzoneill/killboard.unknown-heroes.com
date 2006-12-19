@@ -1,0 +1,83 @@
+2007.02.17 01:12
+
+Victim: Gobbins
+Alliance: None
+Corp: Republic Military School
+Destroyed: Stabber
+System: 3QE-9Q
+Security: 0.0
+
+Involved parties:
+
+Name: sowo
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Raven
+Weapon: Raven
+
+Name: Japanx
+Security: 1.7
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Ferox
+Weapon: Ferox
+
+Name: Sicario (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Raven
+Weapon: Mjolnir Torpedo
+
+Name: truefranco
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Vesspasiano
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Taranis
+Weapon: Taranis
+
+Name: Jonas123
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Scorpion
+Weapon: Scorpion
+
+Name: Hantaris
+Security: 3.3
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: Narsus
+Security: 2.9
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Megathron
+Weapon: Megathron
+
+Name: Guristas Destructor / Guristas
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Small Remote Armor Repair System I
+Large F-S9 Regolith Shield Induction
+10MN MicroWarpdrive I
+Inertia Stabilizers I
+Eutectic I Capacitor Charge Array (Cargo)
+Small Armor Repairer II (Cargo)
+250mm Railgun II (Cargo)
+Ogre II, Qty: 3 (Cargo)
+Liquid Ozone, Qty: 350 (Cargo)
+

@@ -1,0 +1,42 @@
+2007.03.31 17:13
+
+Victim: Sagami Ayase
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Incursus
+System: P-2TTL
+Security: 0.0
+
+Involved parties:
+
+Name: Admentus Cor'vion (laid the final blow)
+Security: -0.2
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Hyperion
+Weapon: 425mm Railgun II
+
+Name: Rahzorus
+Security: 0.9
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Crow
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+Name: tomlinsonland
+Security: -1.8
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Scorpion
+Weapon: XT-9000 Cruise Launcher
+
+
+Destroyed items:
+
+Zydrine, Qty: 799 (Cargo)
+Tritanium, Qty: 175040 (Cargo)
+Isogen, Qty: 14637 (Cargo)
+Megacyte, Qty: 427 (Cargo)
+Mexallon, Qty: 64324 (Cargo)
+Nocxium, Qty: 5228 (Cargo)
+

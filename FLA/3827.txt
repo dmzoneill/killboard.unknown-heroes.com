@@ -1,0 +1,37 @@
+2007.04.01 22:38
+
+Victim: RocBrasiliano
+Alliance: Freelancer Alliance
+Corp: N.A.S.A.
+Destroyed: Ibis
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: KIAEnIgMa (laid the final blow)
+Security: 0.4
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Flycatcher
+Weapon: Thorn Javelin Rocket
+
+Name: ER0X
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Harpy
+Weapon: Harpy
+
+
+Destroyed items:
+
+Civilian Gatling Railgun
+Basic Miner
+Large Shield Extender I (Cargo)
+Medium Armor Repairer I (Cargo)
+Alumel-Wired I Sensor Augmentation (Cargo)
+Warp Core Stabilizer I (Cargo)
+Heavy Missile Launcher I, Qty: 6 (Cargo)
+Reactor Control Unit I (Cargo)
+

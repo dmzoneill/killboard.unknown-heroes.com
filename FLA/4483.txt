@@ -1,0 +1,29 @@
+2007.04.11 13:26
+
+Victim: MrMaggot
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Manticore
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Sivona (laid the final blow)
+Security: -1.1
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Eos
+Weapon: Hobgoblin II
+
+
+Destroyed items:
+
+Devastator Cruise Missile, Qty: 13
+Cataclysm Cruise Missile, Qty: 14
+'Arbalest' Cruise Launcher I
+'Arbalest' Cruise Launcher I
+'Arbalest' Cruise Launcher I
+Type-D Altered SS Overdrive Injector
+Cataclysm Cruise Missile, Qty: 421 (Cargo)
+

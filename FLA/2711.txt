@@ -1,0 +1,40 @@
+2007.03.03 20:26
+
+Victim: Kiara Diepp
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Destroyed: Gallente Shuttle
+System: PF-346
+Security: 0.0
+
+Involved parties:
+
+Name: Brigitte (laid the final blow)
+Security: 4.7
+Alliance: Cruel Intentions
+Corp: S.A.S
+Ship: Armageddon
+Weapon: Mega Pulse Laser II
+
+Name: Noobjuice
+Security: -0.6
+Alliance: None
+Corp: Omniscient Order
+Ship: Huginn
+Weapon: Huginn
+
+Name: FrioBebe
+Security: 3.6
+Alliance: Cruel Intentions
+Corp: S.A.S
+Ship: Zealot
+Weapon: Zealot
+
+Name: Brox
+Security: 2.3
+Alliance: Cruel Intentions
+Corp: S.A.S
+Ship: Huginn
+Weapon: Compact 'Limos' Assault Missile Bay I
+
+

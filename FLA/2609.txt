@@ -1,0 +1,59 @@
+2007.02.27 00:14
+
+Victim: Jaig Maldara
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Destroyed: Flycatcher
+System: YZ-LQL
+Security: 0.0
+
+Involved parties:
+
+Name: MilaNoCZ (laid the final blow)
+Security: 5.0
+Alliance: Xelas Alliance
+Corp: Rytiri Lva
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Tarhess
+Security: -4.0
+Alliance: Aftermath Alliance
+Corp: Master Miners
+Ship: Raptor
+Weapon: Raptor
+
+Name: Balltazore Anubis
+Security: 5.0
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: Mithylos
+Security: -3.3
+Alliance: Aftermath Alliance
+Corp: Master Miners
+Ship: Ares
+Weapon: Foxfire Rocket
+
+
+Destroyed items:
+
+Spike S, Qty: 33
+Rocket Launcher II
+Rocket Launcher II
+Rocket Launcher II
+Rocket Launcher II
+Rocket Launcher II
+Warp Disrupt Probe, Qty: 9
+Interdiction Sphere Launcher I
+Thorn Javelin Rocket, Qty: 120
+1MN MicroWarpdrive II
+F-S9 Regolith Deflection Shield Induction
+Supplemental Thermal Barrier Emitter
+Basic Magnetic Scattering Amplifier
+Warp Disrupt Probe, Qty: 17 (Cargo)
+Thorn Javelin Rocket, Qty: 1425 (Cargo)
+Thorn Rage Rocket, Qty: 1900 (Cargo)
+

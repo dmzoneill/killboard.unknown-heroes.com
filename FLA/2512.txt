@@ -1,0 +1,24 @@
+2007.02.17 15:50
+
+Victim: bjugis
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Incursus
+System: KLY-C0
+Security: 0.0
+
+Involved parties:
+
+Name: Mining Maxx (laid the final blow)
+Security: 5.0
+Alliance: None
+Corp: Coherent Light
+Ship: Absolution
+Weapon: Heavy Pulse Laser II
+
+
+Destroyed items:
+
+Small Nosferatu I
+Small Nosferatu I
+

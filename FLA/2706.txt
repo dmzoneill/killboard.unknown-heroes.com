@@ -1,0 +1,19 @@
+2007.03.03 08:50
+
+Victim: Thafesko
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Destroyed: Capsule
+System: Oursulaert
+Security: 0.9
+
+Involved parties:
+
+Name: Sairait (laid the final blow)
+Security: 5.0
+Alliance: Privateer Alliance
+Corp: 47R
+Ship: Crusader
+Weapon: Dual Light Pulse Laser II
+
+

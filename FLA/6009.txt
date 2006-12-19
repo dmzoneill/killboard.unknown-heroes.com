@@ -1,0 +1,33 @@
+2006.11.05 23:00
+
+Victim: Ghene4ka
+Alliance: R.I.S.K
+Corp: ReD eYe Inc.
+Destroyed: Capsule
+System: J-CIJV
+Security: 0.0
+
+Involved parties:
+
+Name: Wthor
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Sabre
+Weapon: 250mm Light Artillery Cannon II
+
+Name: Formosus Funus (laid the final blow)
+Security: 3.5
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Thrasher
+Weapon: 250mm Light Artillery Cannon I
+
+Name: Midiana
+Security: 1.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Ishkur
+Weapon: 125mm Railgun II
+
+

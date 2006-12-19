@@ -1,0 +1,67 @@
+2007.03.25 19:54
+
+Victim: Furnis
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Destroyed: Merlin
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: lt blacklotus
+Security: 0.8
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Hurricane
+Weapon: Hobgoblin II
+
+Name: Oli4Oli4 (laid the final blow)
+Security: 5.0
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Myrmidon
+Weapon: 425mm AutoCannon II
+
+Name: JaLzIoN
+Security: 1.2
+Alliance: None
+Corp: Pitch Black Incorporated
+Ship: Thorax
+Weapon: Thorax
+
+Name: Snuggles theTerrible
+Security: 5.0
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Vulture
+Weapon: Vulture
+
+Name: WarGod
+Security: 1.5
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Curse
+Weapon: ECM - Multispectral Jammer II
+
+Name: Sith Bandon
+Security: 5.0
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Ishtar
+Weapon: Ishtar
+
+Name: Riddick KHK
+Security: 5.0
+Alliance: None
+Corp: Pitch Black Incorporated
+Ship: Wolf
+Weapon: Wolf
+
+
+Destroyed items:
+
+Small 'Gremlin' Power Core Disruptor I
+Warp Disruptor I
+Capacitor Power Relay I
+

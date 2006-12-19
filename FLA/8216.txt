@@ -1,0 +1,29 @@
+2006.11.05 03:28
+
+Victim: Djihn
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Manticore
+System: Aunenen
+Security: 0.4
+
+Involved parties:
+
+Name: The Cursed (laid the final blow)
+Security: -10.
+Alliance: None
+Corp: Forsaken Empire
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+
+Destroyed items:
+
+Passive Targeting Array I
+Devastator Cruise Missile, Qty: 24
+Wrath Cruise Missile, Qty: 24
+Compulsive Multispectral ECM I
+F-90 Positional Sensor Subroutines
+Azeotropic EM Ward Salubrity
+Wrath Cruise Missile, Qty: 566 (Cargo)
+

@@ -1,0 +1,140 @@
+2006.09.09 18:50
+
+Victim: Pheole
+Alliance: None
+Corp: LDK
+Destroyed: Tempest
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: menace ace
+Security: -1.4
+Alliance: Freelancer Alliance
+Corp: Royal Flying Aces
+Ship: Deimos
+Weapon: Vespa II
+
+Name: F2C MaDMaXX
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: London Transport
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Jumar Coldgin
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+Name: Drakin Korin
+Security: -1.4
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Ishtar
+Weapon: Small Diminishing Power System Drain I
+
+Name: keilapuukko
+Security: 1.1
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Eagle
+Weapon: Eagle
+
+Name: Kiztent (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Rupture
+Weapon: Thunderbolt Heavy Missile
+
+Name: digital oxygen
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Megathron
+Weapon: Megathron
+
+Name: TasKu
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Taranis
+Weapon: Hobgoblin II
+
+Name: Hosanna
+Security: -2.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: Ione79
+Security: 2.4
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Megathron
+Weapon: Flameburst Light Missile
+
+Name: Gery Zon
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Veturi
+Ship: Crow
+Weapon: X5 Prototype I Engine Enervator
+
+Name: shekat khlorblaster
+Security: 2.1
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Thorax
+Weapon: Valkyrie I
+
+Name: XxAngelxX
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Malediction
+Weapon: Malediction
+
+Name: Barsak Kressel
+Security: 1.6
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Ship: Caracal
+Weapon: Thunderbolt Heavy Missile
+
+Name: Rick A
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Blackbird
+Weapon: Sabretooth Light Missile
+
+Name: Th3 HuNt3r
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: EVE MegaCorp Association
+Ship: Blackbird
+Weapon: ECM - Multispectral Jammer I
+
+
+Destroyed items:
+
+Dual 650mm Repeating Artillery II
+Dual 650mm Repeating Artillery II
+Heavy Diminishing Power System Drain I
+Heavy Diminishing Power System Drain I
+Barrage L, Qty: 312
+'Hypnos' Multispectral ECM I
+'Hypnos' Multispectral ECM I
+Large 'Accommodation' Vestment Reconstructer I
+Large 'Accommodation' Vestment Reconstructer I
+Armor Explosive Hardener II
+Armor Thermic Hardener II
+Cap Booster 800, Qty: 2 (Cargo)
+Hammerhead I, Qty: 3 (Drone Bay)
+

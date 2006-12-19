@@ -1,0 +1,25 @@
+2007.05.20 03:27
+
+Victim: LIGHTFEATHER
+Alliance: Free Trade Zone.
+Corp: Black List
+Destroyed: Caracal
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Mufeater (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Vexor
+Weapon: Heavy Electron Blaster I
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 60
+Heavy Missile Launcher I
+Scourge Heavy Missile, Qty: 810 (Cargo)
+

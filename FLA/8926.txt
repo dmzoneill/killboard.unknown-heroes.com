@@ -1,0 +1,27 @@
+2006.12.19 21:39
+
+Victim: Sorlac Aurora
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Crow
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Torok Nakaht (laid the final blow)
+Security: 1.1
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Vagabond
+Weapon: 425mm AutoCannon II
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 108
+'Arbalest' Standard Missile Launcher
+'Arbalest' Standard Missile Launcher
+Catalyzed Cold-Gas I Arcjet Thrusters
+Fleeting Warp Scrambler I
+

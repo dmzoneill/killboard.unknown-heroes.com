@@ -1,0 +1,33 @@
+2006.11.06 21:33
+
+Victim: Garland Briggs
+Alliance: None
+Corp: Little Wing Newbie Corp
+Destroyed: Capsule
+System: X-7OMU
+Security: 0.0
+
+Involved parties:
+
+Name: Preying Mantis (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: movy
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Ares
+Weapon: 125mm 'Scout' I Accelerator Cannon
+
+Name: Dog Cancer
+Security: 1.4
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Crow
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+

@@ -1,0 +1,33 @@
+2007.03.11 04:48
+
+Victim: Sahdow Weaver
+Alliance: None
+Corp: Imperial Shipment
+Destroyed: Gallente Shuttle
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Sovo
+Security: -0.6
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Rupture
+Weapon: 650mm Artillery Cannon I
+
+Name: alon blackhelm (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Myrmidon
+Weapon: 250mm Compressed Coil Gun I
+
+Name: Fzoul
+Security: 2.7
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Stabber
+Weapon: Heavy Missile Launcher I
+
+

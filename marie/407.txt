@@ -1,0 +1,132 @@
+2007.01.31 13:56
+
+Victim: GHOST Fendy
+Alliance: ORION FEDERATION
+Corp: HellBrothers Industries
+Destroyed: Raven
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Hedeon Mishenka
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Coercer
+Weapon: Coercer
+
+Name: EvilBadger
+Security: 4.2
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Drake
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+Name: Marie Veedor
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: darkviron
+Security: 4.5
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Ferox
+Weapon: Widowmaker Heavy Missile
+
+Name: Teck7 (laid the final blow)
+Security: 0.8
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ishtar
+Weapon: 150mm Railgun II
+
+Name: Mr Kilgore
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Typhoon
+Weapon: Einherji
+
+Name: Minisoza
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Enyo
+Weapon: Enyo
+
+Name: Iskla
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Illesa
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Wolf
+Weapon: Wolf
+
+Name: Nukuquqa Hestase
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Catalyst
+Weapon: Catalyst
+
+Name: Ashlore
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Big Guns Inc.
+Ship: Vigil
+Weapon: Small Nosferatu I
+
+Name: WolfRavage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Hyperion
+Weapon: 425mm Railgun I
+
+Name: Spartan dax
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Blackbird
+Weapon: 'Hypnos' Multispectral ECM I
+
+Name: Nya
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Nidhoggur
+Weapon: Einherji
+
+
+Destroyed items:
+
+Devastator Cruise Missile, Qty: 22
+Wrath Cruise Missile, Qty: 23
+Paradise Cruise Missile, Qty: 23
+Large Azeotropic Ward Salubrity I (Cargo)
+Cold-Gas I Arcjet Thrusters (Cargo)
+E500 Prototype Energy Vampire (Cargo)
+V-M15 Braced Multispectral Shield Matrix (Cargo)
+Invulnerability Field II (Cargo)
+Mjolnir Torpedo, Qty: 17 (Cargo)
+'Accord' I Core Compensation (Cargo)
+Paradise Cruise Missile, Qty: 23 (Cargo)
+Wrath Cruise Missile, Qty: 23 (Cargo)
+Cataclysm Cruise Missile, Qty: 22 (Cargo)
+'Limos' Cruise Launcher I, Qty: 2 (Cargo)
+XT-9000 Cruise Launcher, Qty: 2 (Cargo)
+Power Diagnostic System II, Qty: 2 (Cargo)
+Type-D Power Core Modification: Capacitor Power Relay (Cargo)
+Wasp I (Drone Bay)
+Ogre I (Drone Bay)
+

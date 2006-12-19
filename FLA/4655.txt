@@ -1,0 +1,43 @@
+2007.04.17 01:01
+
+Victim: Nubiam
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Destroyed: Malediction
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Aridante Lemure
+Security: 1.2
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Capsule
+Weapon: 280mm Howitzer Artillery II
+
+Name: Kaand (laid the final blow)
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Thorax
+Weapon: Heavy Neutron Blaster I
+
+
+Destroyed items:
+
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Dual Light Pulse Laser II
+Standard S
+Fleeting Progressive Warp Scrambler I
+X5 Prototype I Engine Enervator
+Corpse (Cargo)
+Multifrequency S, Qty: 3 (Cargo)
+Microwave S, Qty: 3 (Cargo)
+Scorch S (Cargo)
+

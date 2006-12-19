@@ -1,0 +1,23 @@
+2007.03.10 14:59
+
+Victim: Don Jaun
+Alliance: YouWhat
+Corp: Beasts of Burden
+Destroyed: Velator
+System: XZH-4X
+Security: 0.0
+
+Involved parties:
+
+Name: Shassandra (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Megathron
+Weapon: 425mm Railgun I
+
+
+Destroyed items:
+
+Civilian Light Electron Blaster
+

@@ -1,0 +1,43 @@
+2006.04.08 22:18
+
+Victim: Burn Lump
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Destroyed: Raptor
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: BullRadu
+Security: 4.0
+Alliance: The Five
+Corp: Delta team
+Ship: Cerberus
+Weapon: XR-3200 Heavy Missile Bay
+
+Name: cos0 (laid the final blow)
+Security: 5.0
+Alliance: The Five
+Corp: Delta team
+Ship: Raven
+Weapon: Vespa I
+
+Name: arcantos
+Security: 0.0
+Alliance: The Five
+Corp: Delta team
+Ship: Wolf
+Weapon: 150mm Light Prototype I Automatic Cannon
+
+
+Destroyed items:
+
+125mm Carbide Railgun I
+'Malkuth' Rocket Launcher I
+Warp Disruptor I
+Small Armor Repairer I
+Micro Auxiliary Power Core I
+Thorium Charge S, Qty: 500 (Cargo)
+Lead Charge S, Qty: 81 (Cargo)
+Thorn Rocket, Qty: 1532 (Cargo)

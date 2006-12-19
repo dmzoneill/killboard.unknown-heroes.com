@@ -1,0 +1,62 @@
+2006.10.03 20:14
+
+Victim: hybr
+Alliance: R.I.S.K
+Corp: The First Foundation
+Destroyed: Armageddon
+System: E-9ORY
+Security: 0.0
+
+Involved parties:
+
+Name: Lone flyer
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Zealot
+Weapon: Zealot
+
+Name: Jumar Coldgin (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+Name: Noitaakka
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Vexor
+Weapon: Vespa II
+
+Name: Verild
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Crow
+Weapon: Crow
+
+
+Destroyed items:
+
+Dual Heavy Modal Pulse Laser I
+Dual Heavy Modal Pulse Laser I
+Heavy Diminishing Power System Drain I
+Heavy Diminishing Power System Drain I
+Multifrequency L
+Multifrequency L
+Multifrequency L
+Multifrequency L
+Faint Warp Prohibitor I
+Stasis Webifier I
+Cap Booster 800
+Cap Booster 800
+Cap Booster 800
+Cap Booster 800
+Large 'Accommodation' Vestment Reconstructer I
+Large 'Accommodation' Vestment Reconstructer I
+Microcell Nanite Thermic Hardener I
+1600mm Reinforced Crystalline Carbonide Plates I
+Vespa I, Qty: 4 (Drone Bay)
+

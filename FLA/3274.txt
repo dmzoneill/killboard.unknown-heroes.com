@@ -1,0 +1,119 @@
+2007.03.22 19:00
+
+Victim: Evil Star
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Destroyed: Drake
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: PainBall (laid the final blow)
+Security: -0.9
+Alliance: Triumvirate.
+Corp: ViperSquad
+Ship: Absolution
+Weapon: Heavy Pulse Laser II
+
+Name: shots17
+Security: -1.3
+Alliance: Triumvirate.
+Corp: ViperSquad
+Ship: Zealot
+Weapon: Zealot
+
+Name: Snuggles theTerrible
+Security: 5.0
+Alliance: Triumvirate.
+Corp: ViperSquad
+Ship: Vulture
+Weapon: Vulture
+
+Name: Roxanna Kell
+Security: -1.3
+Alliance: Triumvirate.
+Corp: ViperSquad
+Ship: Nighthawk
+Weapon: Scourge Heavy Missile
+
+Name: vyperpit
+Security: 4.6
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: zeitza ta
+Security: 0.5
+Alliance: Triumvirate.
+Corp: ViperSquad
+Ship: Astarte
+Weapon: Astarte
+
+Name: lt blacklotus
+Security: 0.8
+Alliance: Triumvirate.
+Corp: ViperSquad
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: XxAngelxX
+Security: -1.8
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Curse
+Weapon: Valkyrie II
+
+Name: fox247
+Security: 3.2
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Nemesis
+Weapon: Devastator Cruise Missile
+
+Name: Alchem
+Security: 2.9
+Alliance: Triumvirate.
+Corp: ViperSquad
+Ship: Ishtar
+Weapon: Ishtar
+
+Name: WarGod
+Security: 1.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Curse
+Weapon: Curse
+
+Name: Yushii
+Security: -0.3
+Alliance: Triumvirate.
+Corp: ViperSquad
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Sith Bandon
+Security: 5.0
+Alliance: Triumvirate.
+Corp: ViperSquad
+Ship: Ishtar
+Weapon: Hammerhead II
+
+
+Destroyed items:
+
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Scourge Heavy Missile, Qty: 10
+XR-3200 Heavy Missile Bay
+XR-3200 Heavy Missile Bay
+Non-Inertial Ballistic Screen Augmentation I
+Heat Dissipation Field I
+Ballistic Control System I
+Scourge Heavy Missile, Qty: 830 (Cargo)
+

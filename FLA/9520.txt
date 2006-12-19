@@ -1,0 +1,35 @@
+2007.04.30 02:59
+
+Victim: Mercurous
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Wolf
+System: Doril
+Security: 0.0
+
+Involved parties:
+
+Name: ScoRpS
+Security: 0.4
+Alliance: None
+Corp: 0utbreak
+Ship: Sabre
+Weapon: Sabre
+
+Name: Weyr Raykan (laid the final blow)
+Security: 4.4
+Alliance: None
+Corp: 0utbreak
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+
+Destroyed items:
+
+200mm AutoCannon II
+EMP S, Qty: 171
+1MN Afterburner II
+Armor Explosive Hardener I
+Mark I Generator Refitting: Capacitor Power Relay
+EMP S, Qty: 6504 (Cargo)
+

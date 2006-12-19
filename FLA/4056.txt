@@ -1,0 +1,99 @@
+2007.04.11 06:41
+
+Victim: Trigger64
+Alliance: Firmus Ixion
+Corp: Black Avatar
+Destroyed: Taranis
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Dirty Martini
+Security: 4.2
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Vrugor
+Security: 4.6
+Alliance: The Sundering
+Corp: The Republican Guard
+Ship: Drake
+Weapon: Heavy Missile Launcher II
+
+Name: Dameclies TRG (laid the final blow)
+Security: 4.5
+Alliance: The Sundering
+Corp: The Republican Guard
+Ship: Jaguar
+Weapon: 200mm AutoCannon II
+
+Name: Matrixcvd
+Security: 5.0
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Caracal
+Weapon: Thunderbolt Heavy Missile
+
+Name: Briscoe
+Security: 4.4
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Harpy
+Weapon: 125mm Railgun II
+
+Name: Villwrath
+Security: 3.7
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Eris
+Weapon: 150mm Prototype I Gauss Gun
+
+Name: Drake Blackstar
+Security: 2.5
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Brutix
+Weapon: X5 Prototype I Engine Enervator
+
+Name: Jules Wolfpack
+Security: 2.3
+Alliance: The Sundering
+Corp: ironwood ink
+Ship: Taranis
+Weapon: Taranis
+
+Name: r Cubed
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: The Night Crew
+Ship: Kestrel
+Weapon: Piranha Light Missile
+
+Name: death1023
+Security: 3.8
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Arazu
+Weapon: Warp Disruptor II
+
+Name: Darquies Shade
+Security: 5.0
+Alliance: The Sundering
+Corp: ironwood ink
+Ship: Blackbird
+Weapon: 'Hypnos' Ion Field ECM I
+
+
+Destroyed items:
+
+Small 'Ghoul' Energy Siphon I
+Light Ion Blaster II
+Light Ion Blaster II
+Null S, Qty: 120
+1MN MicroWarpdrive II
+Stasis Webifier I
+Type-D Altered SS Overdrive Injector
+

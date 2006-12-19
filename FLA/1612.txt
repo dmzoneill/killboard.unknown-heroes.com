@@ -1,0 +1,57 @@
+2007.03.18 10:00
+
+Victim: Xordus
+Alliance: YouWhat
+Corp: Beasts of Burden
+Destroyed: Malediction
+System: XZH-4X
+Security: 0.0
+
+Involved parties:
+
+Name: Tassill (laid the final blow)
+Security: 5.0
+Alliance: Zenith Affinity
+Corp: GREY COUNCIL
+Ship: Scimitar
+Weapon: Piranha Light Missile
+
+Name: Skull Fire
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Rokh
+Weapon: XR-3200 Heavy Missile Bay
+
+Name: FlobbMkII
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Taranis
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: tiita
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Abaddon
+Weapon: Abaddon
+
+Name: Apoccolipse
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Feel Good Inc.
+Ship: Celestis
+Weapon: Kapteyn Sensor Array Inhibitor I
+
+
+Destroyed items:
+
+Gatling Pulse Laser II
+Gatling Pulse Laser II
+Scorch S
+Scorch S
+Catalyzed Cold-Gas I Arcjet Thrusters
+X5 Prototype I Engine Enervator
+Conflagration S, Qty: 2 (Cargo)
+

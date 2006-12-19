@@ -1,0 +1,147 @@
+2007.02.04 19:33
+
+Victim: Dark1
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Destroyed: Claw
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Weeble Wooble (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: william kronos
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Caracal
+Weapon: Parallel Weapon Navigation Transmitter
+
+Name: Minisoza
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Brutix
+Weapon: 250mm Railgun II
+
+Name: Goca
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Ferox
+Weapon: XR-3200 Heavy Missile Bay
+
+Name: RToad
+Security: 1.0
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Drake
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+Name: sakana
+Security: -1.0
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Megathron
+Weapon: 425mm Prototype I Gauss Gun
+
+Name: Barukor
+Security: 3.0
+Alliance: None
+Corp: BGG
+Ship: Capsule
+Weapon: TE-2100 Standard Missile Bay
+
+Name: Cockroach
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Capsule
+Weapon: 'Arbalest' Cruise Launcher I
+
+Name: alon blackhelm
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Raven
+Weapon: Cruise Missile Launcher II
+
+Name: malkey
+Security: 4.4
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Blackbird
+Weapon: ECM - Spatial Destabilizer I
+
+Name: beretta74
+Security: 2.8
+Alliance: The Foundation.
+Corp: EVE Corporation 160607
+Ship: Thorax
+Weapon: 150mm Railgun I
+
+Name: Sorlac Aurora
+Security: 1.2
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Drake
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+Name: Maximo Brutalis
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Ferox
+Weapon: Phased Weapon Navigation Array Generation Extron
+
+Name: Lux0r
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Hawk
+Weapon: Kapteyn Sensor Array Inhibitor I
+
+Name: Laboratus
+Security: 5.0
+Alliance: None
+Corp: BGG
+Ship: Celestis
+Weapon: Kapteyn Sensor Array Inhibitor I
+
+Name: Jonkai
+Security: -4.7
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Drake
+Weapon: Heavy Missile Launcher I
+
+Name: Elgcaress
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Celestis
+Weapon: Remote Sensor Dampener I
+
+Name: ClogMan
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Raven
+Weapon: 200mm Railgun I
+
+
+Destroyed items:
+
+200mm AutoCannon II
+Gremlin Rocket, Qty: 23
+Warp Scrambler II
+200mm Reinforced Rolled Tungsten Plates I
+Barrage S, Qty: 891 (Cargo)
+Gremlin Rocket, Qty: 825 (Cargo)
+

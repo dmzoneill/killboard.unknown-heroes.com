@@ -1,0 +1,23 @@
+2007.01.30 07:07
+
+Victim: Kaptain Fitz
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Impairor
+System: O-N8XZ
+Security: 0.0
+
+Involved parties:
+
+Name: Havvok (laid the final blow)
+Security: 1.9
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Raptor
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+Basic Miner
+

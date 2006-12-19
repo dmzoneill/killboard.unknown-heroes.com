@@ -1,0 +1,152 @@
+2006.09.16 20:31
+
+Victim: Stain Protector
+Alliance: Ascendant Frontier
+Corp: Sha Kharn Corp
+Destroyed: Taranis
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Fr0zt
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Caracal
+Weapon: Sabretooth Precision Light Missile
+
+Name: GrandMastaXP
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Raven
+Weapon: Raven
+
+Name: Ione79 (laid the final blow)
+Security: 2.9
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Megathron
+Weapon: 425mm Compressed Coil Gun I
+
+Name: brian crainie
+Security: 1.9
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Megathron
+Weapon: 425mm Prototype I Gauss Gun
+
+Name: Thafesko
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Laboratus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Megathron
+Weapon: Megathron
+
+Name: Kishan Tor
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Caracal
+Weapon: Thunderbolt Heavy Missile
+
+Name: digital oxygen
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Megathron
+Weapon: 425mm Railgun I
+
+Name: Skornik
+Security: 3.1
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Megathron
+Weapon: 425mm 'Scout' I Accelerator Cannon
+
+Name: Killer Angel
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: J.I.T. Enterprises
+Ship: Ferox
+Weapon: Scourge Heavy Missile
+
+Name: Connor Llewllyan
+Security: 3.5
+Alliance: Freelancer Alliance
+Corp: Abandoned Resolve Corporation
+Ship: Scorpion
+Weapon: Paradise Cruise Missile
+
+Name: Supernaut 20k
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Rook
+Weapon: Target Painter II
+
+Name: Minesweeper
+Security: 2.8
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Raven
+Weapon: XT-9000 Cruise Launcher
+
+Name: Luke Lamarr
+Security: -2.1
+Alliance: Freelancer Alliance
+Corp: Terminal Velocity Inc.
+Ship: Raven
+Weapon: 'Malkuth' Siege Missile Launcher I
+
+Name: Karas Rabus
+Security: 4.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Blackbird
+Weapon: Assault Missile Launcher I
+
+Name: Hosanna
+Security: -1.5
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Typhoon
+Weapon: 'Arbalest' Siege Missile Launcher
+
+Name: Eveli
+Security: 1.0
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Scorpion
+Weapon: 'Malkuth' Cruise Launcher I
+
+Name: Dr Hazman
+Security: 1.5
+Alliance: None
+Corp: Ganksters Paradise
+Ship: Typhoon
+Weapon: Shock 'Limos' Siege Missile Bay I
+
+Name: Damfoose
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Scorpion
+Weapon: XT-9000 Cruise Launcher
+
+
+Destroyed items:
+
+1MN MicroWarpdrive I
+Warp Disruptor I
+Small I-a Polarized Armor Regenerator
+Hobgoblin I (Drone Bay)
+

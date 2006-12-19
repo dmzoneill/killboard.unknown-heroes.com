@@ -1,0 +1,19 @@
+2007.04.04 06:41
+
+Victim: Trinitty
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Destroyed: Capsule
+System: N2IS-B
+Security: 0.0
+
+Involved parties:
+
+Name: Anomaly21 (laid the final blow)
+Security: -1.0
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Flycatcher
+Weapon: Thorn Rocket
+
+

@@ -1,0 +1,32 @@
+2006.10.09 22:25
+
+Victim: Arti2006
+Alliance: None
+Corp: The Scope
+Destroyed: Velator
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Hosanna (laid the final blow)
+Security: -0.7
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Wolf
+Weapon: 280mm Howitzer Artillery II
+
+Name: R4Z0R49
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: Feel Good Inc.
+Ship: Merlin
+Weapon: OE-5200 Rocket Launcher
+
+
+Destroyed items:
+
+Civilian Light Electron Blaster
+Basic Miner
+Tritanium (Cargo)
+

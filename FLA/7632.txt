@@ -1,0 +1,32 @@
+2006.09.28 12:09
+
+Victim: David Tucker
+Alliance: Ascendant Frontier
+Corp: Lynx Frontier Inc.
+Destroyed: Manticore
+System: OWXT-5
+Security: 0.0
+
+Involved parties:
+
+Name: Drakin Korin (laid the final blow)
+Security: 1.9
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Ishtar
+Weapon: Hammerhead II
+
+
+Destroyed items:
+
+Prototype Cloaking Device I
+Cataclysm Cruise Missile, Qty: 48
+'Arbalest' Cruise Launcher I
+'Arbalest' Cruise Launcher I
+Phased Muon Sensor Disruptor I
+Sensor Booster I
+Micro B66 Core Augmentation
+Ballistic Control System II
+Paradise Cruise Missile, Qty: 928 (Cargo)
+Cataclysm Cruise Missile, Qty: 181 (Cargo)
+

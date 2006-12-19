@@ -1,0 +1,64 @@
+2006.11.16 17:22
+
+Victim: Sauronn
+Alliance: None
+Corp: Caldari Provisions
+Destroyed: Harpy
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Karas Rabus (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Huginn
+Weapon: 720mm Howitzer Artillery II
+
+Name: raiiar
+Security: 3.4
+Alliance: O X I D E
+Corp: W33D Corp.
+Ship: Retribution
+Weapon: Retribution
+
+Name: Huehnerbein
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Cataclysm Enterprises
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Scorpio63
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Vengeance
+Weapon: Vengeance
+
+Name: MAD D0G
+Security: -2.6
+Alliance: None
+Corp: Ganksters Paradise
+Ship: Raven
+Weapon: Siege Missile Launcher II
+
+Name: LizzyD
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Dominix
+Weapon: Compulsive Multispectral ECM I
+
+
+Destroyed items:
+
+125mm Railgun II
+125mm Railgun II
+125mm Railgun II
+Antimatter Charge S
+Flameburst Light Missile, Qty: 20
+'Malkuth' Standard Missile Launcher I
+Warp Core Stabilizer I
+

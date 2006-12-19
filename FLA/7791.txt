@@ -1,0 +1,29 @@
+2006.08.27 19:59
+
+Victim: Fr0zt
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Destroyed: Manticore
+System: 3T7-M8
+Security: 0.0
+
+Involved parties:
+
+Name: ViperVenom (laid the final blow)
+Security: -1.1
+Alliance: Lotka Volterra
+Corp: Shinra
+Ship: Vagabond
+Weapon: Dual 180mm AutoCannon II
+
+
+Destroyed items:
+
+41F Veiled Targeting Unit
+'Arbalest' Cruise Launcher I
+'Arbalest' Cruise Launcher I
+Sensor Booster II
+Micro Auxiliary Power Core I
+Devastator Cruise Missile, Qty: 300 (Cargo)
+Cataclysm Cruise Missile, Qty: 200 (Cargo)
+

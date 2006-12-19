@@ -1,0 +1,36 @@
+2007.03.28 15:06
+
+Victim: Illesa
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Destroyed: Stabber
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: The Ali (laid the final blow)
+Security: -3.2
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Vagabond
+Weapon: Dual 180mm AutoCannon II
+
+Name: WildCard
+Security: 4.3
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Vagabond
+Weapon: Hornet EC-300
+
+
+Destroyed items:
+
+EMP M, Qty: 320
+Havoc Heavy Missile, Qty: 58
+Heavy Missile Launcher I
+J5 Prototype Warp Inhibitor I
+Gyrostabilizer I
+Nanofiber Internal Structure I
+Havoc Heavy Missile, Qty: 5215 (Cargo)
+

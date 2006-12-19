@@ -1,0 +1,48 @@
+2006.10.29 12:39
+
+Victim: yagamurth
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Destroyed: Rook
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Reggie Kray
+Security: -1.4
+Alliance: None
+Corp: Mentally Unstable Enterprises
+Ship: Deimos
+Weapon: Infiltrator II
+
+Name: Madboy (laid the final blow)
+Security: 3.9
+Alliance: None
+Corp: Mentally Unstable Enterprises
+Ship: Rapier
+Weapon: Hornet II
+
+Name: vickers
+Security: -1.5
+Alliance: None
+Corp: Mentally Unstable Enterprises
+Ship: Crow
+Weapon: Bloodclaw Precision Light Missile
+
+
+Destroyed items:
+
+Prototype Cloaking Device I
+Scourge Heavy Missile, Qty: 96
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+Large C5-L Emergency Shield Overload I
+10MN Afterburner I
+'Anointed' I EM Ward Reinforcement
+ECM - Multispectral Jammer II
+ECM - Multispectral Jammer II (Cargo)
+Minmatar Battleship (Cargo)
+Gallente Battleship (Cargo)
+Widowmaker Heavy Missile, Qty: 600 (Cargo)
+

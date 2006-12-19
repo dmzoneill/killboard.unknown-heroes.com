@@ -1,0 +1,31 @@
+2006.10.08 22:53
+
+Victim: Kristvin Karl
+Alliance: Freelancer Alliance
+Corp: Sin-X Inc.
+Destroyed: Inquisitor
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Caldari Control Tower / Asgard Schiffswerften (laid the final blow)
+
+Name: boo3916
+Security: 3.8
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Crow
+Weapon: 75mm Gatling Rail II
+
+
+Destroyed items:
+
+Medium Shield Booster I
+1MN Afterburner I
+Warp Core Stabilizer I
+350mm Railgun I (Cargo)
+Siege Missile Launcher I, Qty: 2 (Cargo)
+Heavy Missile Launcher I, Qty: 4 (Cargo)
+Assault Missile Launcher I, Qty: 3 (Cargo)
+

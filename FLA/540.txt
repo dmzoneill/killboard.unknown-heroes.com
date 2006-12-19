@@ -1,0 +1,111 @@
+2007.02.09 22:29
+
+Victim: K Shara
+Alliance: Triumvirate.
+Corp: D00M.
+Destroyed: Flycatcher
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Valea Silpha
+Security: 2.1
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Rupture
+Weapon: Rupture
+
+Name: Rick A
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Thrasher
+Weapon: Thrasher
+
+Name: Xantheris
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Harpy
+Weapon: Harpy
+
+Name: Dark Carnage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Blackbird
+Weapon: Thunderbolt Heavy Missile
+
+Name: Stitcher (laid the final blow)
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: J.I.T. Enterprises
+Ship: Harbinger
+Weapon: Heavy Beam Laser I
+
+Name: Liesin
+Security: 3.2
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Moa
+Weapon: Widowmaker Heavy Missile
+
+Name: ClogMan
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Typhoon
+Weapon: Typhoon
+
+Name: WolfRavage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Hyperion
+Weapon: Hyperion
+
+Name: Barukor
+Security: 3.0
+Alliance: None
+Corp: BGG
+Ship: Wolf
+Weapon: Wolf
+
+Name: Korudon
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Harpy
+Weapon: Harpy
+
+Name: Kryton55
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Merlin
+Weapon: Flameburst Light Missile
+
+Name: Tiberius Drake
+Security: 3.4
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Thorax
+Weapon: Thorax
+
+Name: Slinktress
+Security: 2.6
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Dominix
+Weapon: Tachyon Modulated Energy Beam I
+
+
+Destroyed items:
+
+Small F-S9 Regolith Shield Induction
+Small F-S9 Regolith Shield Induction
+Small F-S9 Regolith Shield Induction
+Small F-S9 Regolith Shield Induction
+1MN MicroWarpdrive II
+

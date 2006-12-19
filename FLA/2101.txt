@@ -1,0 +1,36 @@
+2007.01.20 06:56
+
+Victim: Wicked Pissah
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Kestrel
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Jovius Marginus (laid the final blow)
+Security: -0.3
+Alliance: Firmus Ixion
+Corp: Black Avatar
+Ship: Tempest
+Weapon: Hobgoblin II
+
+
+Destroyed items:
+
+Small Nosferatu I
+Thorn Rocket, Qty: 30
+Warp Scrambler I
+Stasis Webifier I
+Tracking Disruptor I
+Capacitor Power Relay I
+Medium Shield Booster I (Cargo)
+Medium Capacitor Battery I (Cargo)
+Medium Hull Repairer I (Cargo)
+'Prayer' Targeting Annex I (Cargo)
+Tracking Computer I (Cargo)
+Sabretooth Light Missile, Qty: 210 (Cargo)
+Havoc Heavy Missile, Qty: 100 (Cargo)
+Scorched Telemetry Processor, Qty: 3 (Cargo)
+

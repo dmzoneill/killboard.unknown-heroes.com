@@ -1,0 +1,26 @@
+2007.03.25 14:30
+
+Victim: caldarinoob3
+Alliance: None
+Corp: Republic Military School
+Destroyed: Capsule
+System: QXW-PV
+Security: 0.0
+
+Involved parties:
+
+Name: StrikerOneSevern (laid the final blow)
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Rupture
+Weapon: 720mm Howitzer Artillery I
+
+Name: RythemAndStealth
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Omen
+Weapon: Heavy Missile Launcher I
+
+

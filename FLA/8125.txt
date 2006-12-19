@@ -1,0 +1,47 @@
+2006.10.13 21:14
+
+Victim: Excaluber X
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Destroyed: Arbitrator
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: EagIe (laid the final blow)
+Security: 4.2
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Dominix
+Weapon: 250mm Railgun II
+
+Name: simcor
+Security: -1.9
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Eos
+Weapon: Heavy Neutron Blaster II
+
+Name: ukpAgAn
+Security: 5.0
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Dominix
+Weapon: ECM - Multispectral Jammer II
+
+
+Destroyed items:
+
+Heavy Anode Particle Stream I
+Defender I, Qty: 60
+Small Remote Armor Repair System I
+Assault Missile Launcher I
+Small Shield Extender I
+Barton Reactor Capacitor Recharger I
+10MN Afterburner I
+Small Armor Repairer I
+100mm Reinforced Titanium Plates I
+100mm Reinforced Rolled Tungsten Plates I
+Valkyrie I, Qty: 5 (Drone Bay)
+

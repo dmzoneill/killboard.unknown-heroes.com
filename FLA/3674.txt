@@ -1,0 +1,31 @@
+2007.03.28 21:42
+
+Victim: Jaig Maldara
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Destroyed: Ibis
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: MC Alfritz (laid the final blow)
+Security: 3.7
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Naglfar
+Weapon: Quad 3500mm Siege Artillery I
+
+Name: Catweazle
+Security: 1.0
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Nidhoggur
+Weapon: Einherji
+
+
+Destroyed items:
+
+Civilian Gatling Railgun
+Basic Miner
+

@@ -1,0 +1,76 @@
+2007.04.17 21:27
+
+Victim: Evil Bunnies
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Blackbird
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: ClogMan (laid the final blow)
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Wolf
+Weapon: 280mm Howitzer Artillery II
+
+Name: nye 2k
+Security: 5.0
+Alliance: A Few Good Men.
+Corp: Silver Snake Enterprise
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Alski
+Security: 3.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Cormorant
+Weapon: Cormorant
+
+Name: Burn Lump
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Crow
+Weapon: Crow
+
+Name: Magic Mazuma
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Rifter
+Weapon: Rifter
+
+Name: alon blackhelm
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Chimera
+Weapon: Dragonfly
+
+Name: Sir Appa
+Security: 1.4
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Ishkur
+Weapon: Warp Disruptor II
+
+
+Destroyed items:
+
+Thunderbolt Heavy Missile, Qty: 30
+Widowmaker Heavy Missile, Qty: 30
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Cap Recharger I
+BZ-5 Neutralizing Spatial Destabilizer ECM
+Compulsive Multispectral ECM I
+Initiated Multispectral ECM I
+Signal Amplifier I
+Condensed Alloy (Cargo)
+Thunderbolt Heavy Missile, Qty: 1066 (Cargo)
+Widowmaker Heavy Missile, Qty: 728 (Cargo)
+

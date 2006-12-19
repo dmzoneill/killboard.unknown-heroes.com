@@ -1,0 +1,23 @@
+2006.10.13 03:13
+
+Victim: Pokkits
+Alliance: Interstellar Starbase Syndicate
+Corp: Type-R Positronics
+Destroyed: Merlin
+System: O-BY0Y
+Security: 0.0
+
+Involved parties:
+
+Name: Caldari Control Tower Small / Steel Frontier (laid the final blow)
+
+
+Destroyed items:
+
+Small Nosferatu I
+Thorn Rocket, Qty: 30
+Rocket Launcher I
+Miner I (Cargo)
+Small Armor Repairer I (Cargo)
+Thorn Rocket, Qty: 98 (Cargo)
+

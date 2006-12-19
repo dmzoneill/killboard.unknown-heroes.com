@@ -1,0 +1,92 @@
+2007.04.22 20:28
+
+Victim: Dark Carnage
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Scorpion
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: ZaKma
+Security: -0.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Astarte
+Weapon: Einherji
+
+Name: LordMordred (laid the final blow)
+Security: 0.1
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Thanatos
+Weapon: Einherji
+
+Name: Serge
+Security: 4.5
+Alliance: Mercenary Coalition
+Corp: Seraphin Technologies
+Ship: Abaddon
+Weapon: Abaddon
+
+Name: Exekias
+Security: 2.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Hurricane
+Weapon: Firbolg
+
+Name: Ran Fujimiya
+Security: 0.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Raptor
+Weapon: Raptor
+
+Name: Feterous Jolin
+Security: -2.3
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Myrmidon
+Weapon: Vespa II
+
+Name: Myndpyre Ryche
+Security: 4.2
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Rook
+Weapon: ECM - Spatial Destabilizer II
+
+Name: Griffinator
+Security: -2.6
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Thanatos
+Weapon: Firbolg
+
+Name: Emelie
+Security: -3.7
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Thanatos
+Weapon: Einherji
+
+Name: Ant5010
+Security: 1.8
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Ishtar
+Weapon: Fleeting Warp Scrambler I
+
+
+Destroyed items:
+
+Large Proton Smartbomb I
+Large Proton Smartbomb I
+Large Supplemental Barrier Emitter I
+Heavy Capacitor Booster I
+Warp Core Stabilizer I
+Warp Core Stabilizer I
+Cap Booster 800, Qty: 16 (Cargo)
+

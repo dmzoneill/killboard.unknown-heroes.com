@@ -1,0 +1,26 @@
+2007.03.25 00:05
+
+Victim: WildCard
+Alliance: YouWhat
+Corp: SteelVipers
+Destroyed: Capsule
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: hydro2900 (laid the final blow)
+Security: 2.6
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Ship: Catalyst
+Weapon: 150mm Railgun I
+
+Name: Zephia
+Security: -8.7
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Omen
+Weapon: Warrior I
+
+

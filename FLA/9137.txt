@@ -1,0 +1,63 @@
+2006.12.31 04:51
+
+Victim: Raketefrau
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Raven
+System: E-FIC0
+Security: 0.0
+
+Involved parties:
+
+Name: Bloodclaw Light Missile / Guristas (laid the final blow)
+
+Name: WarGod
+Security: 1.2
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: XxAngelxX
+Security: 5.0
+Alliance: None
+Corp: Viziam
+Ship: Pilgrim
+Weapon: Vespa II
+
+
+Destroyed items:
+
+Wrath Cruise Missile, Qty: 9
+'Arbalest' Cruise Launcher I
+'Arbalest' Cruise Launcher I
+Small Tractor Beam I
+Large C5-L Emergency Shield Overload I
+Eutectic I Capacitor Charge Array
+Shield Boost Amplifier I
+Local Power Plant Manager: Capacity Power Relay I
+Large Shield Extender I, Qty: 3 (Cargo)
+Large Shield Booster I (Cargo)
+Large Converse I Deflection Catalyzer (Cargo)
+X-Large Shield Booster I, Qty: 2 (Cargo)
+Barton Reactor Capacitor Recharger I (Cargo)
+Medium Capacitor Battery I (Cargo)
+Medium Energy Transfer Array I (Cargo)
+Medium Murky Energy Transmitter I (Cargo)
+Small Nosferatu I (Cargo)
+350mm Railgun I, Qty: 3 (Cargo)
+Medium Capacitor Booster I, Qty: 2 (Cargo)
+Small Capacitor Booster I (Cargo)
+Iron Charge L, Qty: 100 (Cargo)
+Lead Charge L, Qty: 100 (Cargo)
+Tungsten Charge L, Qty: 100 (Cargo)
+Iridium Charge L, Qty: 100 (Cargo)
+Defender I, Qty: 100 (Cargo)
+Juggernaut Torpedo, Qty: 200 (Cargo)
+Wrath Cruise Missile, Qty: 385 (Cargo)
+Type-D Power Core Modification: Diagnostic System (Cargo)
+Capacitor Flux Coil I (Cargo)
+Type-D Power Core Modification: Capacitor Flux (Cargo)
+Reactor Control Unit I, Qty: 3 (Cargo)
+Vespa I (Drone Bay)
+

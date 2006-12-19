@@ -1,0 +1,50 @@
+2006.09.30 05:47
+
+Victim: iamghost
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Destroyed: Kestrel
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Guristas Supremacist / Guristas
+
+Name: Noobjuice (laid the final blow)
+Security: -1.0
+Alliance: None
+Corp: Omniscient Order
+Ship: Claw
+Weapon: 150mm Light AutoCannon II
+
+Name: Furious Raccoon
+Security: 0.8
+Alliance: None
+Corp: Omniscient Order
+Ship: Nighthawk
+Weapon: Heavy Missile Launcher II
+
+
+Destroyed items:
+
+Flameburst Light Missile, Qty: 9
+Standard Missile Launcher I
+Large Shield Booster I (Cargo)
+Small Shield Transporter I (Cargo)
+Warp Disruptor I (Cargo)
+Small Capacitor Battery I (Cargo)
+Small Hull Repairer I (Cargo)
+Small Nosferatu I (Cargo)
+Heavy Neutron Blaster I (Cargo)
+Small Capacitor Booster I (Cargo)
+'Rash' ECM Emission I (Cargo)
+Defender I, Qty: 100 (Cargo)
+Extra Gravimetric ECCM Scanning Array I (Cargo)
+Warp Core Stabilizer I (Cargo)
+Flameburst Light Missile, Qty: 764 (Cargo)
+Havoc Heavy Missile, Qty: 100 (Cargo)
+Devastator Cruise Missile, Qty: 100 (Cargo)
+Heavy Missile Launcher I (Cargo)
+Shield Flux Coil I (Cargo)
+

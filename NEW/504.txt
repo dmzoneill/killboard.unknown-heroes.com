@@ -1,0 +1,90 @@
+2007.04.06 06:34
+
+Victim: Fergie11
+Alliance: None
+Corp: State War Academy
+Destroyed: Badger Mark II
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Kaerion Skywalker (laid the final blow)
+Security: 0.1
+Alliance: Freelancer Alliance
+Corp: Harbingers of Sarrow
+Ship: Caracal
+Weapon: Thunderbolt Heavy Missile
+
+Name: ventura5
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Harpy
+Weapon: Harpy
+
+Name: Skull Fire
+Security: 0.8
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Caracal
+Weapon: Havoc Heavy Missile
+
+Name: Nukuquqa Hestase
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Caracal
+Weapon: Sabretooth Light Missile
+
+Name: Darthirishguy
+Security: 2.1
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Merlin
+Weapon: Bloodclaw Light Missile
+
+Name: kakakarrr
+Security: -1.2
+Alliance: DeStInY.
+Corp: The Knights Of Camelot
+Ship: Rifter
+Weapon: Warp Disruptor I
+
+Name: FlobbMkII
+Security: 4.4
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Celestis
+Weapon: Indirect Scanning Dampening Unit I
+
+
+Destroyed items:
+
+Warp Core Stabilizer I
+'Repose' I Core Compensation
+Large Supplemental Barrier Emitter I (Cargo)
+Large Neutron Saturation Injector I (Cargo)
+X-Large C5-L Emergency Shield Overload I (Cargo)
+Large Asymmetric Barrier Transpositioner I, Qty: 2 (Cargo)
+Large Murky Shield Screen Transmitter I (Cargo)
+Large Shield Transporter I (Cargo)
+Barton Reactor Capacitor Recharger I, Qty: 3 (Cargo)
+Cap Recharger I (Cargo)
+Large Rudimentary Concussion Bomb I, Qty: 2 (Cargo)
+Medium Rudimentary Concussion Bomb I (Cargo)
+Medium F-RX Prototype I Capacitor Boost, Qty: 3 (Cargo)
+Medium Brief Capacitor Overcharge I (Cargo)
+Dread Guristas Photon Scattering Field (Cargo)
+Dread Guristas Co-Processor (Cargo)
+5a Prototype Shield Support I (Cargo)
+Dread Guristas Shield Boost Amplifier (Cargo)
+Giant Secure Container (Cargo)
+Ballistic Control System I (Cargo)
+'Arbalest' Siege Missile Launcher (Cargo)
+ZW-4100 Siege Missile Bay (Cargo)
+Initiated Signal Distortion Amplifier I (Cargo)
+Type-D Power Core Modification: Diagnostic System (Cargo)
+Type-D Power Core Modification: Capacitor Power Relay, Qty: 2 (Cargo)
+Capacitor Power Relay I, Qty: 8 (Cargo)
+Local Power Plant Manager: Capacitor Flux I, Qty: 2 (Cargo)

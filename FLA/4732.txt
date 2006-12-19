@@ -1,0 +1,25 @@
+2007.04.20 22:52
+
+Victim: Lokki Deathwish
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Heron
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Dark Carnage (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Crow
+Weapon: Sabretooth Precision Light Missile
+
+
+Destroyed items:
+
+Void S, Qty: 68
+Alumel-Wired I Sensor Augmentation
+Void S, Qty: 228 (Cargo)
+

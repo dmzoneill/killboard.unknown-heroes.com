@@ -1,0 +1,51 @@
+2007.04.18 04:21
+
+Victim: Lord Raptor
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Destroyed: Caracal
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Queldonus
+Security: 3.3
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Nidhoggur
+Weapon: Firbolg
+
+Name: Ehxo
+Security: 4.9
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Sabre
+Weapon: Sabre
+
+Name: Green Leaner (laid the final blow)
+Security: 2.1
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Sleipnir
+Weapon: 720mm Howitzer Artillery II
+
+Name: Admentus Cor'vion
+Security: -0.5
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Taranis
+Weapon: Hobgoblin II
+
+
+Destroyed items:
+
+Flameburst Light Missile, Qty: 10
+SV-2000 Assault Missile Bay
+J5 Prototype Warp Inhibitor I
+X5 Prototype I Engine Enervator
+Ballistic Control System I
+Sabretooth Light Missile, Qty: 1000 (Cargo)
+Bloodclaw Light Missile, Qty: 2000 (Cargo)
+Piranha Light Missile, Qty: 2000 (Cargo)
+

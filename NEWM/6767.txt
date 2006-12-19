@@ -1,0 +1,42 @@
+2006.11.27 15:23
+
+Victim: rockerguy
+Alliance: Lotka Volterra
+Corp: FATAL REVELATIONS
+Destroyed: Retribution
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Burn Lump (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Ferox
+Weapon: Dual 150mm Railgun II
+
+Name: Iulian1977
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Razzlen
+Security: 0.6
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Tempest
+Weapon: Target Painter I
+
+
+Destroyed items:
+
+Medium Beam Laser II
+Dual Light Beam Laser II
+Gleam S
+Fleeting Warp Scrambler I
+Internal Force Field Array I
+Small Armor Repairer II
+

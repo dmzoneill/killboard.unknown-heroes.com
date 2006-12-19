@@ -1,0 +1,34 @@
+2007.03.24 22:37
+
+Victim: Mazuel
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Destroyed: Sabre
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Ferocious FeAr (laid the final blow)
+Security: 1.5
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Nighthawk
+Weapon: Scourge Fury Heavy Missile
+
+
+Destroyed items:
+
+150mm Light AutoCannon II
+150mm Light AutoCannon II
+150mm Light AutoCannon II
+125mm Gatling AutoCannon II
+200mm AutoCannon II
+Proton S, Qty: 429
+Improved Cloaking Device II
+Warp Disrupt Probe, Qty: 9
+'Langour' Drive Disruptor I
+Beta Hull Mod Overdrive Injector
+Mobile Medium Warp Disruptor I (Cargo)
+Warp Disrupt Probe, Qty: 12 (Cargo)
+

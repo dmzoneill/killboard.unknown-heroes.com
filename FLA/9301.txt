@@ -1,0 +1,82 @@
+2007.05.06 19:39
+
+Victim: Kayron Brennan
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Destroyed: Merlin
+System: A4L-A2
+Security: 0.0
+
+Involved parties:
+
+Name: Indiano Arko
+Security: 0.6
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Hurricane
+Weapon: Warrior II
+
+Name: Athanasios Anastasiou
+Security: 5.0
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Crow
+Weapon: X5 Prototype I Engine Enervator
+
+Name: Lady Vanquish
+Security: 4.2
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Capsule
+Weapon: Warp Disruptor I
+
+Name: Kaishakoo Nin (laid the final blow)
+Security: 0.1
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Zheraf
+Security: 5.0
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Akthuul
+Security: 5.0
+Alliance: Storm Armada
+Corp: stone grave haulage
+Ship: Falcon
+Weapon: Thunderbolt Heavy Missile
+
+Name: Reverend Revelator
+Security: 1.6
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Brutix
+Weapon: Brutix
+
+Name: Nalratus
+Security: 2.7
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Taranis
+Weapon: Taranis
+
+
+Destroyed items:
+
+150mm Railgun I
+150mm Railgun I
+Antimatter Charge S, Qty: 80
+Sabretooth Light Missile, Qty: 45
+TE-2100 Standard Missile Bay
+'Malkuth' Standard Missile Launcher I
+Supplemental Scanning CPU I
+Additional Thermal Barrier Emitter I
+Power Diagnostic System I
+Antimatter Charge S, Qty: 804 (Cargo)
+Sabretooth Light Missile, Qty: 853 (Cargo)
+

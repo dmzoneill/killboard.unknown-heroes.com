@@ -1,0 +1,48 @@
+2007.02.05 19:55
+
+Victim: Burn Lump
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Destroyed: Caracal
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Dracorimus (laid the final blow)
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Armageddon
+Weapon: Mega Pulse Laser II
+
+Name: Flavius Renatus
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Sleipnir
+Weapon: 650mm Artillery Cannon II
+
+Name: violator2k5
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+Name: KIAHicks
+Security: 0.6
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Scorpion
+Weapon: ECM - Spatial Destabilizer II
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 45
+Havoc Heavy Missile, Qty: 15
+Heavy Missile Launcher I, Qty: 2
+Remote Sensor Dampener I, Qty: 2
+Signal Amplifier I
+Thunderbolt Heavy Missile, Qty: 270 (Cargo)

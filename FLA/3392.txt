@@ -1,0 +1,28 @@
+2007.03.25 08:32
+
+Victim: XtyphoonX
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Destroyed: Merlin
+System: G8AD-C
+Security: 0.0
+
+Involved parties:
+
+Name: Lorn Zolog (laid the final blow)
+Security: -0.8
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Harbinger
+Weapon: Heavy Pulse Laser II
+
+
+Destroyed items:
+
+Small Nosferatu I
+Small Nosferatu I
+Prototype Cloaking Device I
+Fleeting Warp Scrambler I
+Magnetic Scattering Amplifier II
+Signal Amplifier I
+

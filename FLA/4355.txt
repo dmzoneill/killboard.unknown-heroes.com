@@ -1,0 +1,83 @@
+2007.04.08 19:50
+
+Victim: Dick Stallion
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Destroyed: Drake
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: FowlPlayChiken
+Security: 1.2
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Thanatos
+Weapon: Dragonfly
+
+Name: Crayathan (laid the final blow)
+Security: 2.7
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Nidhoggur
+Weapon: Ogre II
+
+Name: END3R 101
+Security: -0.7
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Damnation
+Weapon: Medium 'Ghoul' Energy Siphon I
+
+Name: Spacebar
+Security: 2.1
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: Vily
+Security: 0.3
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+Name: Stradivarious
+Security: 3.7
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Nidhoggur
+Weapon: Dragonfly
+
+Name: Nethel
+Security: 2.1
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Dominix
+Weapon: Heavy Diminishing Power System Drain I
+
+Name: Frantico
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Crusader
+Weapon: Crusader
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 92
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+Small Tractor Beam I
+Large F-S9 Regolith Shield Induction
+Large F-S9 Regolith Shield Induction
+Heat Dissipation Amplifier I
+Magnetic Scattering Amplifier II
+Ballistic Control System I
+Power Diagnostic System I
+Hydra F.O.F. Heavy Missile I, Qty: 1000 (Cargo)
+

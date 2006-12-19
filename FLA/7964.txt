@@ -1,0 +1,19 @@
+2006.10.04 09:46
+
+Victim: forever faithless
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Destroyed: Capsule
+System: O-N8XZ
+Security: 0.0
+
+Involved parties:
+
+Name: Elgan (laid the final blow)
+Security: 0.9
+Alliance: None
+Corp: Omniscient Order
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+

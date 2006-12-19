@@ -1,0 +1,96 @@
+2007.03.18 04:06
+
+Victim: SolitaiveY
+Alliance: None
+Corp: Science and Trade Institute
+Destroyed: Kestrel
+System: F7C-H0
+Security: 0.0
+
+Involved parties:
+
+Name: Cyrila Wolf
+Security: -2.2
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Muninn
+Weapon: 720mm Howitzer Artillery II
+
+Name: Rhokel
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: The Night Crew
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: Kandread
+Security: 0.6
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Claw
+Weapon: 250mm Light Prototype I Siege Cannon
+
+Name: Sovo (laid the final blow)
+Security: -0.6
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Stabber
+Weapon: 220mm Vulcan AutoCannon I
+
+Name: TroNaaR
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ishkur
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: chota
+Security: 5.0
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Rapier
+Weapon: 650mm Medium 'Scout' Artillery I
+
+Name: Katsumi Ito
+Security: 0.1
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Tristan
+Weapon: 'Malkuth' Rocket Launcher I
+
+Name: Geistdren
+Security: 0.0
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Sabre
+Weapon: 150mm Railgun I
+
+Name: Fugnut
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Drake
+Weapon: Advanced 'Limos' Heavy Missile Bay I
+
+Name: Ahramaine
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+
+Destroyed items:
+
+Small Azeotropic Ward Salubrity I
+Small C5-L Emergency Shield Overload I
+V-M15 Braced Multispectral Shield Matrix
+Warp Core Stabilizer I
+Large C5-L Emergency Shield Overload I (Cargo)
+Ditrigonal Thermal Barrier Crystallization I, Qty: 2 (Cargo)
+'Anointed' I EM Ward Reinforcement (Cargo)
+V-M15 Braced Multispectral Shield Matrix (Cargo)
+Infiltrator I, Qty: 8 (Cargo)
+Ballistic Control System II, Qty: 3 (Cargo)
+Local Power Plant Manager: Diagnostic System I, Qty: 2 (Cargo)
+

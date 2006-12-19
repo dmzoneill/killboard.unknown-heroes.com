@@ -1,0 +1,23 @@
+2006.10.29 01:25
+
+Victim: Mirasta Yale
+Alliance: None
+Corp: Center for Advanced Studies
+Destroyed: Gallente Shuttle
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Hosanna (laid the final blow)
+Security: 0.6
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Thrasher
+Weapon: 280mm Howitzer Artillery II
+
+
+Destroyed items:
+
+Corpse (Cargo)
+

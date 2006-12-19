@@ -1,0 +1,19 @@
+2006.11.18 04:17
+
+Victim: menace ace
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Destroyed: Capsule
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Elfaen Ethenwe (laid the final blow)
+Security: -1.6
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Raven
+Weapon: Juggernaut Javelin Torpedo
+
+

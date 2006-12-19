@@ -1,0 +1,29 @@
+2007.02.26 04:25
+
+Victim: Ace McRaven
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Destroyed: Crow
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Greg Sanders (laid the final blow)
+Security: -1.6
+Alliance: None
+Corp: Finite Horizon
+Ship: Typhoon
+Weapon: Valkyrie II
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 43
+Standard Missile Launcher II
+1MN MicroWarpdrive II
+X5 Prototype I Engine Enervator
+Marked Modified SS Nanofiber Structure
+Type-D Altered SS Overdrive Injector
+Bloodclaw Light Missile, Qty: 735 (Cargo)
+

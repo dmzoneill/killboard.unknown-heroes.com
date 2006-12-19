@@ -1,0 +1,30 @@
+2006.09.06 18:09
+
+Victim: magickangaroo
+Alliance: Band of Brothers
+Corp: Reikoku
+Destroyed: Claw
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Digioso (laid the final blow)
+Security: 1.2
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Megathron
+Weapon: Large 'Notos' Explosive Charge I
+
+
+Destroyed items:
+
+250mm Light Artillery Cannon II
+EMP S, Qty: 60
+Gyrostabilizer II
+Corpse, Qty: 2 (Cargo)
+Light Neutron Blaster II (Cargo)
+EMP S (Cargo)
+Heavy Missile Launcher II, Qty: 2 (Cargo)
+XR-3200 Heavy Missile Bay (Cargo)
+

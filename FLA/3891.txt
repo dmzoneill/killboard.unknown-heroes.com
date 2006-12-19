@@ -1,0 +1,46 @@
+2007.04.04 18:30
+
+Victim: Dirkex
+Alliance: None
+Corp: State War Academy
+Destroyed: Merlin
+System: 2O9G-D
+Security: 0.0
+
+Involved parties:
+
+Name: Arvo Henderson (laid the final blow)
+Security: 3.2
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+Name: Talairina Tsinth
+Security: 0.6
+Alliance: Red Horizon
+Corp: Dark Horizons
+Ship: Crow
+Weapon: Phalanx Rocket
+
+Name: KillinVillin
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Vexor
+Weapon: Hammerhead I
+
+
+Destroyed items:
+
+Void S, Qty: 112
+Sabretooth Light Missile, Qty: 40
+Phalanx Rocket, Qty: 23
+'Malkuth' Standard Missile Launcher I
+Small Subordinate Screen Stabilizer I
+Small Clarity Ward Booster I
+Warp Disruptor I
+Power Diagnostic System I
+Void S, Qty: 372 (Cargo)
+Sabretooth Light Missile, Qty: 243 (Cargo)
+

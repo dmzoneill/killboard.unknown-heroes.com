@@ -1,0 +1,35 @@
+2007.03.22 19:07
+
+Victim: fox247
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Destroyed: Nemesis
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: truefranco (laid the final blow)
+Security: 4.7
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: themadman
+Security: 5.3
+Alliance: Galactic-Federation
+Corp: Dark Storm Syndicate
+Ship: Megathron
+Weapon: Megathron
+
+
+Destroyed items:
+
+Prototype Cloaking Device I
+Paradise Cruise Missile, Qty: 18
+Cruise Missile Launcher I
+Sensor Booster I
+Prototype I Sensor Booster
+Devastator Cruise Missile, Qty: 482 (Cargo)
+

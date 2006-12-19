@@ -1,0 +1,57 @@
+2007.01.11 01:09
+
+Victim: Mr Kilgore
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Destroyed: Huginn
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Feyd Mantis
+Security: 2.6
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Tempest
+Weapon: Tempest
+
+Name: heavensfire (laid the final blow)
+Security: 3.1
+Alliance: None
+Corp: United Allies
+Ship: Pilgrim
+Weapon: Valkyrie I
+
+Name: MAD D0G
+Security: -1.3
+Alliance: None
+Corp: Caldari Provisions
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Kusarigama
+Security: 3.8
+Alliance: None
+Corp: Brutor tribe
+Ship: Sabre
+Weapon: 125mm Gatling AutoCannon II
+
+
+Destroyed items:
+
+Arch Angel Nuclear M, Qty: 25
+Widowmaker Heavy Missile, Qty: 53
+XR-3200 Heavy Missile Bay
+10MN MicroWarpdrive I
+X5 Prototype I Engine Enervator
+Remote Sensor Dampener II
+Alumel-Wired I Sensor Augmentation
+400mm Reinforced Titanium Plates I
+Mark I Generator Refitting: Reaction Control
+Arch Angel Nuclear M, Qty: 194 (Cargo)
+Arch Angel Carbonized Lead M, Qty: 197 (Cargo)
+Kapteyn Sensor Array Inhibitor I (Cargo)
+Havoc Heavy Missile, Qty: 500 (Cargo)
+Widowmaker Heavy Missile, Qty: 497 (Cargo)
+

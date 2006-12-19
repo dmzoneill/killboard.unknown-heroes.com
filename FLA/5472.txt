@@ -1,0 +1,94 @@
+2006.10.05 21:08
+
+Victim: Caol
+Alliance: None
+Corp: Privateers
+Destroyed: Stabber
+System: Sobaseki
+Security: 0.8
+
+Involved parties:
+
+Name: bidman (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+Name: jack kill
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Hawk
+Weapon: Sabretooth Light Missile
+
+Name: brian crainie
+Security: 2.4
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Megathron
+Weapon: 425mm Prototype I Gauss Gun
+
+Name: Midiana
+Security: 0.6
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Ishkur
+Weapon: Acolyte I
+
+Name: Formosus Funus
+Security: 2.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Rifter
+Weapon: 200mm Light 'Scout' Autocannon I
+
+Name: kone on
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: Scorpio63
+Security: 4.8
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Retribution
+Weapon: Retribution
+
+Name: Preying Mantis
+Security: 4.8
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Typhoon
+Weapon: FZ-3 Subversive Spatial Destabilizer ECM
+
+Name: Lizzy Silver
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Caracal
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+Name: Kyoshisan
+Security: 0.4
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Enyo
+Weapon: Enyo
+
+
+Destroyed items:
+
+220mm Vulcan AutoCannon I
+220mm Vulcan AutoCannon I
+Titanium Sabot M, Qty: 123
+Bloodclaw Light Missile, Qty: 60
+Y-T8 Overcharged Hydrocarbon I Microwarpdrive
+Warp Disruptor I
+Damage Control I
+Carbonized Lead M, Qty: 5000 (Cargo)
+Hobgoblin II (Drone Bay)
+

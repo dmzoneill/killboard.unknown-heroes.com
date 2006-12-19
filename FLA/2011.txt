@@ -1,0 +1,36 @@
+2007.01.17 07:08
+
+Victim: Tarphon
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Destroyed: Crow
+System: ED-L9T
+Security: 0.0
+
+Involved parties:
+
+Name: Ultroth (laid the final blow)
+Security: -1.7
+Alliance: Firmus Ixion
+Corp: Xoth Inc
+Ship: Rupture
+Weapon: Warrior II
+
+Name: Manfred Sideous
+Security: 3.5
+Alliance: Firmus Ixion
+Corp: Imperium Technologies
+Ship: Drake
+Weapon: Warrior II
+
+
+Destroyed items:
+
+Flameburst Light Missile, Qty: 42
+'Malkuth' Standard Missile Launcher I
+'Malkuth' Standard Missile Launcher I
+Ballistic Control System I
+Type-D Altered SS Inertial Stabilizers
+Piranha Light Missile, Qty: 454 (Cargo)
+Bloodclaw Light Missile, Qty: 568 (Cargo)
+

@@ -1,0 +1,98 @@
+2007.04.06 05:10
+
+Victim: Revenant
+Alliance: None
+Corp: Occassus Republica
+Destroyed: Harbinger
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Comrad1
+Security: 5.0
+Alliance: THE R0CK
+Corp: The Keep
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+Name: Comradical (laid the final blow)
+Security: 5.1
+Alliance: THE R0CK
+Corp: The Keep
+Ship: Raven
+Weapon: Mjolnir Torpedo
+
+Name: ventura5
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Harpy
+Weapon: Flameburst Precision Light Missile
+
+Name: Nukuquqa Hestase
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Caracal
+Weapon: Sabretooth Light Missile
+
+Name: FlobbMkII
+Security: 4.4
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Celestis
+Weapon: Hobgoblin II
+
+Name: Darc Kaahar
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Feel Good Inc.
+Ship: Celestis
+Weapon: Hobgoblin II
+
+Name: Skull Fire
+Security: 0.8
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Moa
+Weapon: Moa
+
+Name: Simon Monkoto
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Blackbird
+Weapon: Scourge Heavy Missile
+
+Name: Darthirishguy
+Security: 2.1
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Merlin
+Weapon: Piranha Light Missile
+
+Name: Smiles Jr
+Security: 2.3
+Alliance: Freelancer Alliance
+Corp: The Night Crew
+Ship: Claw
+Weapon: Piranha Light Missile
+
+Name: Rock Slag
+Security: 5.0
+Alliance: THE R0CK
+Corp: The Keep
+Ship: Typhoon
+Weapon: Siege Missile Launcher I
+
+
+Destroyed items:
+
+Heavy Modal Pulse Laser I, Qty: 3
+Multifrequency M, Qty: 3
+X5 Prototype I Engine Enervator
+Medium F-RX Prototype I Capacitor Boost
+F85 Peripheral Damage System I
+Microwave M, Qty: 2 (Cargo)
+Ultraviolet M, Qty: 7 (Cargo)

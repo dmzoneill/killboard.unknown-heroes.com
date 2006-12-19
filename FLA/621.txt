@@ -1,0 +1,30 @@
+2007.02.13 05:36
+
+Victim: XLament
+Alliance: Privateer Alliance
+Corp: The IMorral MAjority
+Destroyed: Curse
+System: Orvolle
+Security: 0.7
+
+Involved parties:
+
+Name: Moridin Bashere (laid the final blow)
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Ship: Stabber
+Weapon: Dual 180mm AutoCannon I
+
+
+Destroyed items:
+
+Medium 'Knave' I Energy Drain
+Medium 'Knave' I Energy Drain
+Medium Diminishing Power System Drain I
+Medium Unstable Power Fluctuator I
+Cap Recharger II
+10MN Afterburner II
+BZ-5 Neutralizing Spatial Destabilizer ECM
+N-Type Kinetic Hardener I
+

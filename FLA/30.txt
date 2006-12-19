@@ -1,0 +1,25 @@
+2007.01.01 20:51
+
+Victim: Narny
+Alliance: None
+Corp: Nexus Legion
+Destroyed: Badger Mark II
+System: E-FIC0
+Security: 0.0
+
+Involved parties:
+
+Name: Frau Formaggio (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Blackbird
+Weapon: Terror Assault Missile
+
+
+Destroyed items:
+
+Expanded Cargohold I
+Expanded Cargohold I
+Strontium Clathrates, Qty: 1015 (Cargo)
+

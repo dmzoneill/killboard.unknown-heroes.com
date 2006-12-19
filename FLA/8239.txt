@@ -1,0 +1,26 @@
+2006.11.05 22:33
+
+Victim: bigdaddy0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Capsule
+System: Haajinen
+Security: 0.8
+
+Involved parties:
+
+Name: Jambo
+Security: -2.0
+Alliance: None
+Corp: The Initiative
+Ship: Vengeance
+Weapon: Upgraded 'Limos' Standard Missile Bay I
+
+Name: KRULLEN Binazeski (laid the final blow)
+Security: 4.9
+Alliance: None
+Corp: The Initiative
+Ship: Apocalypse
+Weapon: Tachyon Beam Laser II
+
+

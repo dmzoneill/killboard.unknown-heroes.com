@@ -1,0 +1,105 @@
+2006.10.08 15:57
+
+Victim: otshelnik1
+Alliance: None
+Corp: S.P.Q.R
+Destroyed: Ferox
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Scylla V
+Security: 5.0
+Alliance: CORE.
+Corp: VentureCorp
+Ship: Brutix
+Weapon: Brutix
+
+Name: Jessica McDaniel (laid the final blow)
+Security: 1.3
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Scorpion
+Weapon: 250mm Carbide Railgun I
+
+Name: TasKu
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Taranis
+Weapon: Taranis
+
+Name: Gamer1K
+Security: 3.1
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Crow
+Weapon: Crow
+
+Name: Midiana
+Security: 0.6
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Vexor
+Weapon: Valkyrie II
+
+Name: XxSOULxX
+Security: 0.6
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Ship: Thorax
+Weapon: Thorax
+
+Name: Lizzy Silver
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Caracal
+Weapon: Havoc Heavy Missile
+
+Name: WeatherSmurf
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Ship: Caracal
+Weapon: Havoc Heavy Missile
+
+Name: Soliloquil
+Security: 3.3
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Moa
+Weapon: Moa
+
+Name: DarkJester
+Security: 0.7
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Tempest
+Weapon: Thunderbolt Heavy Missile
+
+Name: hejjbazeg
+Security: 0.7
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Wolf
+Weapon: Wolf
+
+Name: Badtrance
+Security: 4.2
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Harpy
+Weapon: Harpy
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 30
+Medium Shield Booster I
+Cap Booster 800
+Small Armor Repairer I
+Scourge Heavy Missile, Qty: 2215 (Cargo)
+Acolyte I (Drone Bay)
+

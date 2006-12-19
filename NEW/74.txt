@@ -1,0 +1,104 @@
+2007.01.05 23:11
+
+Victim: Mordoci
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Destroyed: Anathema
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Wodan NL
+Security: 4.7
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Megathron
+Weapon: Megathron
+
+Name: Xantheris (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Taranis
+Weapon: Light Electron Blaster II
+
+Name: Stitcher
+Security: 3.1
+Alliance: Freelancer Alliance
+Corp: J.I.T. Enterprises
+Ship: Omen
+Weapon: Omen
+
+Name: Xenofur
+Security: 2.7
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Vigil
+Weapon: Vigil
+
+Name: Toxic Traveller
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Caracal
+Weapon: Heavy Missile Launcher I
+
+Name: Soldroz
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Raven
+Weapon: Kapteyn Sensor Array Inhibitor I
+
+Name: SniperMcBob
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Ferox
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+Name: Sidrat Flush
+Security: 1.5
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Kestrel
+Weapon: Rocket Launcher I
+
+Name: Odinegras
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Incursus
+Weapon: Warp Scrambler I
+
+Name: Esvi Adhorsen
+Security: 1.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Raven
+Weapon: Shock 'Limos' Siege Missile Bay I
+
+Name: Black Tear
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Ship: Caracal
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+
+Destroyed items:
+
+Salvager I, Qty: 36
+Covert Ops Cloaking Device II
+Fathom Scanner Probe I, Qty: 17
+F-b10 Nominal Capacitor Regenerator
+Fleeting Warp Scrambler I
+Local Hull Conversion Nanofiber Structure I
+Beta Hull Mod Nanofiber Structure, Qty: 2
+Ferret Scanner Probe I, Qty: 15 (Cargo)
+Snoop Scanner Probe I, Qty: 39 (Cargo)
+Observator Deep Space Probe I, Qty: 22 (Cargo)
+Fathom Scanner Probe I, Qty: 27 (Cargo)
+Spook Scanner Probe I, Qty: 12 (Cargo)
+Damaged Artificial Neural Network, Qty: 16 (Cargo)

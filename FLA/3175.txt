@@ -1,0 +1,100 @@
+2007.03.19 05:37
+
+Victim: Skull Fire
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Raven
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Xoduse
+Security: 0.4
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Hyperion
+Weapon: Fleeting Warp Scrambler I
+
+Name: VDV Bru37 (laid the final blow)
+Security: 5.0
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Raven
+Weapon: Inferno Torpedo
+
+Name: Lord Revent
+Security: 1.1
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Maelstrom
+Weapon: 800mm Repeating Artillery II
+
+Name: Vasili Z
+Security: 0.4
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Huginn
+Weapon: Heavy Missile Launcher II
+
+Name: Sexorella hotz
+Security: 5.0
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Raven
+Weapon: Wrath Cruise Missile
+
+Name: Nipplator
+Security: 2.9
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Erikel
+Security: 4.6
+Alliance: Chorus of Dawn
+Corp: Cosmic Odyssey
+Ship: Megathron
+Weapon: Megathron
+
+Name: Xordus
+Security: 1.4
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Armageddon
+Weapon: Dual Heavy Modulated Pulse Energy Beam I
+
+Name: zigzag429
+Security: 0.3
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Sabre
+Weapon: Balmer Series Targeting Inhibitor I
+
+
+Destroyed items:
+
+Iron Charge M, Qty: 22
+Bane Torpedo, Qty: 10
+Mjolnir Torpedo, Qty: 10
+Inferno Torpedo, Qty: 10
+Juggernaut Torpedo, Qty: 10
+'Arbalest' Siege Missile Launcher
+'Arbalest' Siege Missile Launcher
+'Arbalest' Siege Missile Launcher
+Large Shield Extender II
+100MN MicroWarpdrive I
+Invulnerability Field I
+1600mm Reinforced Rolled Tungsten Plates I
+1600mm Reinforced Rolled Tungsten Plates I
+Type-D Power Core Modification: Reaction Control
+Antimatter Charge M, Qty: 400 (Cargo)
+Uranium Charge M, Qty: 249 (Cargo)
+Iron Charge M, Qty: 292 (Cargo)
+Juggernaut Torpedo, Qty: 1014 (Cargo)
+Bane Torpedo, Qty: 1581 (Cargo)
+Mjolnir Torpedo, Qty: 876 (Cargo)
+Inferno Torpedo, Qty: 1032 (Cargo)
+Vespa I (Drone Bay)
+

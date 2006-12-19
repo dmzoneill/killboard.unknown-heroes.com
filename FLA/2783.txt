@@ -1,0 +1,89 @@
+2007.03.07 01:08
+
+Victim: Rikki Retardo
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Destroyed: Prophecy
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: taylor04 (laid the final blow)
+Security: 2.7
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Sleipnir
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Roule
+Security: -5.3
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: WarGod
+Security: -0.3
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Curse
+Weapon: Vespa II
+
+Name: XxAngelxX
+Security: -1.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Curse
+Weapon: Valkyrie II
+
+Name: xVx Skillgannon
+Security: 0.4
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: simcor
+Security: 0.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Myrmidon
+Weapon: Myrmidon
+
+Name: Anna Neura
+Security: -0.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Curse
+Weapon: Vespa II
+
+Name: Ambassador Wolf
+Security: 0.0
+Alliance: Privateer Alliance
+Corp: Fate.
+Ship: Pilgrim
+Weapon: Remote Sensor Dampener I
+
+
+Destroyed items:
+
+Heavy Pulse Laser I
+Heavy Anode Pulse Particle Stream I
+Heavy Anode Pulse Particle Stream I
+Multifrequency M
+X5 Prototype I Engine Enervator
+Medium I-a Polarized Armor Regenerator
+N-Type Kinetic Hardener I
+Armor Kinetic Hardener I
+Type-E Power Core Modification: Reaction Control
+Beta Reactor Control: Capacitor Power Relay I
+Small Energy Neutralizer I (Cargo)
+Small Graviton Smartbomb I (Cargo)
+150mm Railgun I (Cargo)
+Tracking Disruptor I (Cargo)
+Warp Core Stabilizer I (Cargo)
+Sabretooth Light Missile, Qty: 531 (Cargo)
+Thunderbolt Heavy Missile, Qty: 100 (Cargo)
+Hammerhead I (Drone Bay)
+

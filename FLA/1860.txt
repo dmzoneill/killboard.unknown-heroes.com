@@ -1,0 +1,59 @@
+2007.01.07 02:24
+
+Victim: other mickey
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Destroyed: Rifter
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Lemlins Craken
+Security: -0.3
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Hobgoblin II
+
+Name: Masta Killa (laid the final blow)
+Security: -1.7
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+Name: ETS4ME
+Security: 0.7
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+Name: SATAN
+Security: -0.9
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Warrior II
+
+Name: Captain Rickdick
+Security: -0.1
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Warrior II
+
+
+Destroyed items:
+
+Small Nosferatu I
+150mm 'Scout' I Accelerator Cannon
+Plutonium Charge S, Qty: 40
+1MN MicroWarpdrive I
+Warp Disruptor I
+Stasis Webifier I
+Nanofiber Internal Structure I
+Nanofiber Internal Structure I
+Plutonium Charge S, Qty: 9890 (Cargo)
+

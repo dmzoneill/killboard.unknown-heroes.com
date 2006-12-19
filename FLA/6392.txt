@@ -1,0 +1,80 @@
+2006.11.13 09:58
+
+Victim: Dr Demento
+Alliance: None
+Corp: Sebiestor tribe
+Destroyed: Typhoon
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Sobar
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Ishkur
+Weapon: Warrior II
+
+Name: AleXinO Gardon
+Security: 5.0
+Alliance: O X I D E
+Corp: W33D Corp.
+Ship: Caracal
+Weapon: Advanced 'Limos' Heavy Missile Bay I
+
+Name: Hefaistoss (laid the final blow)
+Security: 0.9
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Taranis
+Weapon: Light Neutron Blaster II
+
+Name: Fahad
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Harpy
+Weapon: Harpy
+
+Name: Rowan Chiquar
+Security: 4.4
+Alliance: Forces of Freedom
+Corp: The Knights of the New Republic
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Almagar Phog
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Raptor
+Weapon: Raptor
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Medium Nosferatu I
+Heavy Nosferatu I
+Wrath Cruise Missile
+Wrath Cruise Missile
+Wrath Cruise Missile
+Wrath Cruise Missile
+Wrath Cruise Missile
+Wrath Cruise Missile
+Wrath Cruise Missile
+XT-9000 Cruise Launcher
+XT-9000 Cruise Launcher
+XT-9000 Cruise Launcher
+XT-9000 Cruise Launcher
+Fleeting Warp Scrambler I
+Energized Thermic Membrane II
+Armor Kinetic Hardener II
+Armor Thermic Hardener I
+1600mm Reinforced Nanofiber Plates I
+Cap Booster 800, Qty: 5 (Cargo)
+Wrath Cruise Missile, Qty: 872 (Cargo)
+Berserker I, Qty: 2 (Drone Bay)
+Hornet II, Qty: 4 (Drone Bay)
+

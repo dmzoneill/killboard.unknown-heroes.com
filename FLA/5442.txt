@@ -1,0 +1,33 @@
+2006.10.03 17:27
+
+Victim: Kallorus
+Alliance: Ghosts of Retribution
+Corp: Polytope
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: W4RR10R
+Security: -0.8
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Taranis
+Weapon: Taranis
+
+Name: Ione79
+Security: 3.4
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Celestis
+Weapon: XR-3200 Heavy Missile Bay
+
+Name: James Potkukelkka (laid the final blow)
+Security: 0.1
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Flycatcher
+Weapon: Bloodclaw Light Missile
+
+

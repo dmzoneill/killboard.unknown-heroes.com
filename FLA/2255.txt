@@ -1,0 +1,43 @@
+2007.02.02 08:20
+
+Victim: Gen Bang
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Destroyed: Brutix
+System: Sivala
+Security: 0.6
+
+Involved parties:
+
+Name: Nasdram (laid the final blow)
+Security: 5.0
+Alliance: Privateer Alliance
+Corp: Privateers
+Ship: Thorax
+Weapon: Hammerhead I
+
+Name: Griff Skyshock
+Security: 3.8
+Alliance: Privateer Alliance
+Corp: Privateers
+Ship: Thorax
+Weapon: Valkyrie I
+
+
+Destroyed items:
+
+Small 'Ghoul' Energy Siphon I
+Anode Ion Particle Cannon I
+Anode Ion Particle Cannon I
+Anode Ion Particle Cannon I
+Heavy Ion Blaster I
+Heavy Ion Blaster I
+Antimatter Charge M, Qty: 444
+10MN Afterburner I
+Warp Scrambler I
+Medium Armor Repairer I
+Small Hull Repairer I (Cargo)
+Small Energy Transfer Array I (Cargo)
+Antimatter Charge M, Qty: 8754 (Cargo)
+Compulsive Ion Field ECM I (Cargo)
+

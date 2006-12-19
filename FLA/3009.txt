@@ -1,0 +1,40 @@
+2007.03.21 20:52
+
+Victim: FUUUFA
+Alliance: YouWhat
+Corp: Pringles Inc.
+Destroyed: Taranis
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: marakudi
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Capsule
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+Name: Hous Pharteen (laid the final blow)
+Security: 0.2
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Ship: Curse
+Weapon: Infiltrator II
+
+Name: SoulAvenger
+Security: 3.8
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Crusader
+Weapon: Medium Pulse Laser II
+
+
+Destroyed items:
+
+Null S, Qty: 109
+Catalyzed Cold-Gas I Arcjet Thrusters
+J5 Prototype Warp Inhibitor I
+X5 Prototype I Engine Enervator
+

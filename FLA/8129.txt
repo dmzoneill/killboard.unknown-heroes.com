@@ -1,0 +1,41 @@
+2006.10.15 05:41
+
+Victim: Greyson Katana
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Destroyed: Thorax
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: PainBall (laid the final blow)
+Security: 2.5
+Alliance: None
+Corp: NEXT LEVEL
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Olaf Thaddius
+Security: 2.0
+Alliance: Process of Elimination
+Corp: Viper  Squad
+Ship: Rook
+Weapon: Rook
+
+Name: Sith Bandon
+Security: 0.1
+Alliance: Process of Elimination
+Corp: Viper  Squad
+Ship: Arazu
+Weapon: Fleeting Warp Scrambler I
+
+
+Destroyed items:
+
+200mm Carbide Railgun I
+Antimatter Charge M, Qty: 233
+Y-S8 Hydrocarbon I Afterburners
+800mm Reinforced Steel Plates I
+Antimatter Charge M, Qty: 1920 (Cargo)
+

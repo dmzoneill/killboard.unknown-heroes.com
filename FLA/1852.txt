@@ -1,0 +1,52 @@
+2007.01.07 01:12
+
+Victim: Maefly
+Alliance: Freelancer Alliance
+Corp: X.T.R
+Destroyed: Ishkur
+System: Aunenen
+Security: 0.4
+
+Involved parties:
+
+Name: Pistonbroke
+Security: -0.1
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Cerberus
+Weapon: Scourge Heavy Missile
+
+Name: DarkEternal
+Security: -1.1
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Armageddon
+Weapon: Berserker I
+
+Name: taylor04 (laid the final blow)
+Security: 0.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Armageddon
+Weapon: Garde I
+
+Name: THX 1138
+Security: 1.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Rokh
+Weapon: 425mm Railgun II
+
+
+Destroyed items:
+
+125mm Railgun II
+125mm Railgun II
+Stasis Webifier I
+Sensor Booster I
+Small Armor Repairer II
+Type-D Attenuation Signal Augmentation
+Hornet I, Qty: 4 (Cargo)
+Magnetic Field Stabilizer I (Cargo)
+Warrior II, Qty: 3 (Drone Bay)
+

@@ -1,0 +1,43 @@
+2006.12.01 23:05
+
+Victim: night darkness
+Alliance: None
+Corp: omen.
+Destroyed: Malediction
+System: Torrinos
+Security: 0.5
+
+Involved parties:
+
+Name: avelution (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Ferox
+Weapon: Havoc Heavy Missile
+
+Name: Elliott Manchild
+Security: -1.6
+Alliance: None
+Corp: omen.
+Ship: Dominix
+Weapon: Induced Multispectral ECM I
+
+
+Destroyed items:
+
+Dual Light Pulse Laser II
+Dual Light Pulse Laser II
+Dual Light Pulse Laser II
+Small Nosferatu I
+Multifrequency S
+Patterned Stasis Web I
+100mm Reinforced Nanofiber Plates I
+Micro Auxiliary Power Core I
+Warp Disruptor I (Cargo)
+Radio S, Qty: 3 (Cargo)
+Warrior II (Cargo)
+Armor Kinetic Hardener I (Cargo)
+Vespa EC-600, Qty: 5 (Cargo)
+Nanofiber Internal Structure I (Cargo)
+

@@ -1,0 +1,59 @@
+2007.02.18 22:53
+
+Victim: Kaand
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Myrmidon
+System: RQH-MY
+Security: 0.0
+
+Involved parties:
+
+Name: Miklas Laces
+Security: -7.0
+Alliance: None
+Corp: A.N.A.R.C.H.I.C.A
+Ship: Myrmidon
+Weapon: Vespa II
+
+Name: Kalek Astroth
+Security: -0.4
+Alliance: Veto Corp
+Corp: Veto. Academy
+Ship: Astarte
+Weapon: Astarte
+
+Name: Misconte (laid the final blow)
+Security: -7.4
+Alliance: None
+Corp: A.N.A.R.C.H.I.C.A
+Ship: Drake
+Weapon: Scourge Fury Heavy Missile
+
+Name: Romanthis
+Security: 0.9
+Alliance: None
+Corp: A.N.A.R.C.H.I.C.A
+Ship: Thorax
+Weapon: Hammerhead I
+
+
+Destroyed items:
+
+Medium Diminishing Power System Drain I
+Medium Diminishing Power System Drain I
+Medium Diminishing Power System Drain I
+Heavy Electron Blaster II
+Y-T8 Overcharged Hydrocarbon I Microwarpdrive
+J5 Prototype Warp Inhibitor I
+X5 Prototype I Engine Enervator
+Medium Electrochemical Capacitor Booster I
+Cap Booster 800
+F85 Peripheral Damage System I
+Armor Thermic Hardener II
+Armor Explosive Hardener II
+Armor Kinetic Hardener II
+Cap Booster 800, Qty: 9 (Cargo)
+Void M, Qty: 894 (Cargo)
+Ogre II, Qty: 2 (Drone Bay)
+

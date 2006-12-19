@@ -1,0 +1,112 @@
+2007.02.05 19:54
+
+Victim: Satal Sonshi
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Destroyed: Tempest
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Dracorimus (laid the final blow)
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Armageddon
+Weapon: Mega Pulse Laser II
+
+Name: Memphisz
+Security: 0.4
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Tempest
+Weapon: Tempest
+
+Name: KIAHicks
+Security: 0.6
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Scorpion
+Weapon: Cruise Missile Launcher II
+
+Name: Maztruq
+Security: -0.5
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Apocalypse
+Weapon: Tachyon Beam Laser II
+
+Name: OzaLoni
+Security: 1.6
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Hyperion
+Weapon: Hyperion
+
+Name: CLEISTHENES2
+Security: -0.9
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Maelstrom
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Gazmus
+Security: 0.8
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: LUKEC
+Security: 0.8
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Megathron
+Weapon: Megathron
+
+Name: Bobbeh
+Security: -0.1
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Maelstrom
+Weapon: Maelstrom
+
+Name: Azurek
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Megathron
+Weapon: Megathron
+
+Name: maria stallion
+Security: 3.7
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Tempest
+Weapon: Tempest
+
+Name: Bodhi D
+Security: -0.2
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+
+Destroyed items:
+
+Dual 650mm 'Scout' Repeating Artillery I
+Dual 650mm 'Scout' Repeating Artillery I
+Heavy 'Knave' I Energy Drain
+EMP L, Qty: 420
+100MN MicroWarpdrive I
+X5 Prototype I Engine Enervator
+Cap Booster 800
+Cap Booster 800
+Cap Booster 800
+Cap Booster 800
+Armor Thermic Hardener I
+Cap Booster 800, Qty: 15 (Cargo)
+Hammerhead I, Qty: 2 (Drone Bay)
+

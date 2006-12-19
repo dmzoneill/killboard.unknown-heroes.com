@@ -1,0 +1,35 @@
+2006.12.11 03:37
+
+Victim: Raketefrau
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Merlin
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Malachi Nefzen
+Security: -9.9
+Alliance: None
+Corp: Insane Decision
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Darky24 (laid the final blow)
+Security: -10.0
+Alliance: None
+Corp: Insane Decision
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+125mm Railgun I
+Antimatter Charge S, Qty: 77
+Piranha Light Missile, Qty: 45
+J5 Prototype Warp Inhibitor I
+Antimatter Charge S, Qty: 1836 (Cargo)
+Sabretooth Light Missile, Qty: 411 (Cargo)
+

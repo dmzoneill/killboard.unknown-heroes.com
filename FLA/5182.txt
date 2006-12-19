@@ -1,0 +1,80 @@
+2007.04.24 01:13
+
+Victim: Bic Drax
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Myrmidon
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Habraka
+Security: -1.9
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Dingus Rx
+Security: 3.3
+Alliance: Imperial Republic Of the North
+Corp: Port Royal Independent Kontractors
+Ship: Capsule
+Weapon: Warrior II
+
+Name: Magnus theRed
+Security: 3.7
+Alliance: Imperial Republic Of the North
+Corp: Port Royal Independent Kontractors
+Ship: Sleipnir
+Weapon: Sleipnir
+
+Name: Alfred Einstein
+Security: 4.6
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Haiyooo
+Security: -2.1
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Sleipnir
+Weapon: Sleipnir
+
+Name: Bobby Atlas (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Hyperion
+Weapon: Modal Mega Neutron Particle Accelerator I
+
+Name: Scylla V
+Security: 3.0
+Alliance: Imperial Republic Of the North
+Corp: VentureCorp
+Ship: Eos
+Weapon: Eos
+
+Name: Reprisa
+Security: 2.8
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Myrmidon
+Weapon: Wasp II
+
+
+Destroyed items:
+
+Medium 'Ghoul' Energy Siphon I
+Medium 'Knave' I Energy Drain
+Medium Rudimentary Concussion Bomb I
+X5 Prototype I Engine Enervator
+Medium Electrochemical Capacitor Booster I
+Damage Control II
+Microcell Nanite Explosive Hardener I
+Microcell Nanite Kinetic Hardener I
+Cap Booster 800, Qty: 5 (Cargo)
+

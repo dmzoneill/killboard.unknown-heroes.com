@@ -1,0 +1,94 @@
+2007.03.22 19:13
+
+Victim: Celdrahil
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Destroyed: Brutix
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Alchem
+Security: 2.9
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Ishtar
+Weapon: Berserker II
+
+Name: shots17 (laid the final blow)
+Security: -1.3
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Zealot
+Weapon: Heavy Pulse Laser II
+
+Name: ellamea
+Security: 5.0
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Capsule
+Weapon: Heavy Missile Launcher II
+
+Name: Yushii
+Security: -0.3
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Snuggles theTerrible
+Security: 5.0
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Vulture
+Weapon: 'Arbalest' Assault Missile Launcher
+
+Name: lt blacklotus
+Security: 0.8
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Sith Bandon
+Security: 5.0
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Ishtar
+Weapon: Ogre II
+
+Name: XxAngelxX
+Security: -1.8
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Curse
+Weapon: Curse
+
+Name: Murdoch Morf
+Security: 1.4
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Taranis
+Weapon: Hobgoblin II
+
+
+Destroyed items:
+
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Medium 'Knave' I Energy Drain
+Modal Neutron Particle Accelerator I
+Modal Ion Particle Accelerator I
+Modal Ion Particle Accelerator I
+Antimatter Charge M, Qty: 100
+Drone Link Augmentor I
+Sensor Booster II
+Damage Control II
+N-Type Kinetic Hardener I
+Antimatter Charge M, Qty: 3458 (Cargo)
+

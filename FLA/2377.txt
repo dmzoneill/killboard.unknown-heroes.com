@@ -1,0 +1,34 @@
+2007.02.08 03:23
+
+Victim: Howard199
+Alliance: Freelancer Alliance
+Corp: Feel Good Inc.
+Destroyed: Badger Mark II
+System: OWXT-5
+Security: 0.0
+
+Involved parties:
+
+Name: Torok Nakaht (laid the final blow)
+Security: 1.2
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+
+Destroyed items:
+
+'Repose' I Core Compensation
+Warp Core Stabilizer I
+Eutectic I Capacitor Charge Array, Qty: 12 (Cargo)
+350mm Compressed Coil Gun I (Cargo)
+350mm Railgun I, Qty: 61 (Cargo)
+Non-Inertial Ballistic Screen Augmentation I (Cargo)
+'Anointed' I EM Ward Reinforcement (Cargo)
+XT-9000 Cruise Launcher, Qty: 2 (Cargo)
+'Arbalest' Cruise Launcher I, Qty: 4 (Cargo)
+ZW-4100 Siege Missile Bay, Qty: 4 (Cargo)
+'Arbalest' Siege Missile Launcher, Qty: 2 (Cargo)
+Beta Reactor Control: Capacitor Power Relay I, Qty: 4 (Cargo)
+

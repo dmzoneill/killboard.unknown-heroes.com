@@ -1,0 +1,90 @@
+2006.10.16 18:53
+
+Victim: Fields Caletis
+Alliance: Lotka Volterra
+Corp: M. Corp
+Destroyed: Curse
+System: P-2TTL
+Security: 0.0
+
+Involved parties:
+
+Name: Jumar Coldgin (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+Name: maak0
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Caracal
+Weapon: Havoc Heavy Missile
+
+Name: Hosanna
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Jaguar
+Weapon: Flameburst Light Missile
+
+Name: Chonker
+Security: 2.3
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Unknown
+Weapon: Ogre I
+
+Name: kookos
+Security: 2.9
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Crusader
+Weapon: Crusader
+
+Name: Novas Wordo
+Security: 3.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Crow
+Weapon: Gremlin Rocket
+
+Name: keilapuukko
+Security: 3.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Thorax
+Weapon: Valkyrie I
+
+Name: Haiyooo
+Security: -5.7
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Unknown
+Weapon: E500 Prototype Energy Vampire
+
+
+Destroyed items:
+
+Focused Medium Beam Laser II
+Dark Blood Medium Nosferatu
+True Sansha Medium Nosferatu
+Aurora M
+Aurora M
+'Hypnos' Multispectral ECM I
+Balmer Series Targeting Inhibitor I
+F85 Peripheral Damage System I
+Medium C5-L Emergency Shield Overload I (Cargo)
+X5 Prototype I Engine Enervator (Cargo)
+Dual 250mm Compressed Coil Gun I (Cargo)
+Invulnerability Field II (Cargo)
+N-Type Explosive Hardener I (Cargo)
+1600mm Reinforced Crystalline Carbonide Plates I, Qty: 2 (Cargo)
+Gleam M, Qty: 3 (Cargo)
+Aurora M, Qty: 2 (Cargo)
+'Arbalest' Siege Missile Launcher (Cargo)
+Local Power Plant Manager: Diagnostic System I (Cargo)
+Infiltrator II, Qty: 3 (Drone Bay)
+

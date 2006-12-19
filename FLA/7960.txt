@@ -1,0 +1,61 @@
+2006.10.04 06:03
+
+Victim: Steinhauer
+Alliance: Freelancer Alliance
+Corp: Abandoned Resolve Corporation
+Destroyed: Capsule
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Zatharas
+Security: -4.8
+Alliance: None
+Corp: Beagle Corp
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: UnSiViLiZeD
+Security: -1.6
+Alliance: None
+Corp: Beagle Corp
+Ship: Enyo
+Weapon: Regulated Light Neutron Phase Cannon I
+
+Name: Vily (laid the final blow)
+Security: -1.6
+Alliance: None
+Corp: Lilium Venture Initiative
+Ship: Heretic
+Weapon: Sabretooth Light Missile
+
+Name: War chylde
+Security: 0.4
+Alliance: None
+Corp: Beagle Corp
+Ship: Rifter
+Weapon: J5b Phased Prototype Warp Inhibitor I
+
+Name: Roule
+Security: -5.1
+Alliance: None
+Corp: Beagle Corp
+Ship: Jaguar
+Weapon: Faint Warp Prohibitor I
+
+Name: Okoral
+Security: 1.2
+Alliance: None
+Corp: Beagle Corp
+Ship: Rifter
+Weapon: Warp Disruptor I
+
+Name: Dearwin
+Security: -2.4
+Alliance: None
+Corp: Beagle Corp
+Ship: Ishkur
+Weapon: J5b Phased Prototype Warp Inhibitor I
+
+

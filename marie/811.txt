@@ -1,0 +1,75 @@
+2007.02.22 08:12
+
+Victim: Hans Blix
+Alliance: Veto Corp
+Corp: Veto.
+Destroyed: Typhoon
+System: K4YZ-Y
+Security: 0.0
+
+Involved parties:
+
+Name: wagashi
+Security: 3.5
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Dominix
+Weapon: Wasp I
+
+Name: Drako Invictus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Absolution
+Weapon: Absolution
+
+Name: Marie Veedor (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: r Cubed
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: The Night Crew
+Ship: Scorpion
+Weapon: Scorpion
+
+Name: FunkerVogt
+Security: 1.7
+Alliance: None
+Corp: BGG
+Ship: Unknown
+Weapon: Wasp I
+
+
+Destroyed items:
+
+Dual 650mm Repeating Artillery II
+Dual 650mm Repeating Artillery II
+Dual 650mm Repeating Artillery II
+EMP L, Qty: 53
+Paradise Cruise Missile, Qty: 42
+'Arbalest' Cruise Launcher I
+'Arbalest' Cruise Launcher I
+Quad LiF Fueled I Booster Rockets
+Fleeting Propulsion Inhibitor I
+Heavy Electrochemical Capacitor Booster I
+Cap Booster 800
+Cap Booster 800
+Cap Booster 800
+Cap Booster 800
+Large Armor Repairer II
+Armor Kinetic Hardener II
+Armor Thermic Hardener II
+Fixed Parallel Link-Capacitor I (Cargo)
+N-Type Kinetic Hardener I (Cargo)
+N-Type Thermic Hardener I (Cargo)
+Mobile Small Warp Disruptor I (Cargo)
+Barrage L, Qty: 1341 (Cargo)
+Paradise Cruise Missile, Qty: 856 (Cargo)
+Devastator Cruise Missile, Qty: 945 (Cargo)
+Ogre II, Qty: 5 (Drone Bay)
+

@@ -1,0 +1,40 @@
+2006.11.12 12:44
+
+Victim: StarCrash
+Alliance: Interstellar Starbase Syndicate
+Corp: The Graduates
+Destroyed: Cyclone
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Kay Han
+Security: -1.4
+Alliance: None
+Corp: Stardust Heavy Industries
+Ship: Brutix
+Weapon: Brutix
+
+Name: TheBelgarion
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Durante Alighieri (laid the final blow)
+Security: 2.8
+Alliance: Schism.
+Corp: New Light
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: D2O HeavyWater
+Security: 4.6
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Crow
+Weapon: J5 Prototype Warp Inhibitor I
+
+

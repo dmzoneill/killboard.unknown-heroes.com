@@ -1,0 +1,67 @@
+2007.01.28 18:08
+
+Victim: Darkspin
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Scorpion
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Havvok
+Security: 1.9
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Dominix
+Weapon: Wasp II
+
+Name: Mr Staberinde
+Security: 0.2
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Sleipnir
+Weapon: Sleipnir
+
+Name: Bone Collector44 (laid the final blow)
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Armageddon
+Weapon: Tachyon Beam Laser I
+
+Name: Memphisz
+Security: 0.3
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Tempest
+Weapon: Tempest
+
+Name: Beast Hun
+Security: 4.7
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Abaddon
+Weapon: Tachyon Beam Laser II
+
+Name: Puls4r
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Jaguar
+Weapon: Foxfire Rocket
+
+
+Destroyed items:
+
+350mm Compressed Coil Gun I
+Dual 250mm Compressed Coil Gun I
+Iron Charge L, Qty: 68
+Mjolnir Torpedo, Qty: 24
+ZW-4100 Siege Missile Bay
+X-Large C5-L Emergency Shield Overload I
+Kinetic Deflection Amplifier I
+Type-D Power Core Modification: Shield Flux
+Mjolnir Torpedo, Qty: 1928 (Cargo)
+Berserker SW-900 (Drone Bay)
+

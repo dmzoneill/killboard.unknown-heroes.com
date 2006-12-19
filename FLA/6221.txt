@@ -1,0 +1,47 @@
+2006.11.10 20:00
+
+Victim: Kotori's girlfriend
+Alliance: None
+Corp: Pator Tech School
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Dog Cancer (laid the final blow)
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Elfaen Ethenwe
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Crow
+Weapon: Piranha Light Missile
+
+Name: Scorpio63
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Apocalypse
+Weapon: Mega Modal Laser I
+
+Name: De'Zori
+Security: 5.0
+Alliance: None
+Corp: PILGRIMS
+Ship: Manticore
+Weapon: Cruise Missile Launcher II
+
+Name: Almagar Phog
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Blackbird
+Weapon: Compact 'Limos' Assault Missile Bay I
+
+

@@ -1,0 +1,81 @@
+2007.04.05 22:31
+
+Victim: logosmani
+Alliance: None
+Corp: Aliastra
+Destroyed: Viator
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Penal Serge (laid the final blow)
+Security: 5.0
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Drake
+Weapon: Thunderbolt Fury Heavy Missile
+
+Name: Jacqueline Skouris
+Security: -1.6
+Alliance: 3asy Company
+Corp: Eth3real
+Ship: Rokh
+Weapon: Rokh
+
+Name: Porky
+Security: 1.8
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Scorpion
+Weapon: Paradise Fury Cruise Missile
+
+Name: SpikehBoy
+Security: 0.4
+Alliance: Forces of Freedom
+Corp: Band of the Red Hand
+Ship: Caracal
+Weapon: Fleeting Progressive Warp Scrambler I
+
+Name: Steven FSB
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: Harkley
+Security: 2.3
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: dastommy79
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Thorax
+Weapon: Heavy Ion Blaster I
+
+Name: alon blackhelm
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Myrmidon
+Weapon: Myrmidon
+
+Name: OrbiteronAir
+Security: 5.0
+Alliance: SECUWAY.
+Corp: SecuWay Industrial inc.
+Ship: Manticore
+Weapon: 'Arbalest' Cruise Launcher I
+
+
+Destroyed items:
+
+Improved Cloaking Device II
+'Halcyon' Core Equalizer I
+'Halcyon' Core Equalizer I
+

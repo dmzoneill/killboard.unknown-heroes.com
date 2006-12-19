@@ -1,0 +1,33 @@
+2006.11.18 20:26
+
+Victim: Jehovah Cooper
+Alliance: Interstellar Starbase Syndicate
+Corp: The Graduates
+Destroyed: Harpy
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Grifter Treysik
+Security: 4.1
+Alliance: Freelancer Alliance
+Corp: Caldar Mercenary Syndicate
+Ship: Ishkur
+Weapon: Warrior II
+
+Name: Gamer1K (laid the final blow)
+Security: 4.6
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Almagar Phog
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Raptor
+Weapon: Bloodclaw Light Missile
+
+

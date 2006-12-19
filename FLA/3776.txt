@@ -1,0 +1,26 @@
+2007.03.31 22:14
+
+Victim: dastommy79
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Destroyed: Capsule
+System: P-2TTL
+Security: 0.0
+
+Involved parties:
+
+Name: Griffinator (laid the final blow)
+Security: -2.6
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Hyperion
+Weapon: 425mm Railgun II
+
+Name: Dacen Chilar
+Security: 3.6
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Scorpion
+Weapon: ECM - Phase Inverter II
+
+

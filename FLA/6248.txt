@@ -1,0 +1,33 @@
+2006.11.11 07:16
+
+Victim: DONJUAN v
+Alliance: Eternal Empire
+Corp: Tarnak inc.
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Taffun
+Security: 3.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Sabre
+Weapon: Sabre
+
+Name: Micheal Ross (laid the final blow)
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Flycatcher
+Weapon: Bloodclaw Light Missile
+
+Name: Darth Hound
+Security: 1.7
+Alliance: Schism.
+Corp: Fatalix Inc.
+Ship: Inquisitor
+Weapon: Upgraded 'Limos' Standard Missile Bay I
+
+

@@ -1,0 +1,52 @@
+2007.03.25 13:07
+
+Victim: Barak Smaug
+Alliance: Chorus of Dawn
+Corp: Cosmic Odyssey
+Destroyed: Tempest
+System: XZH-4X
+Security: 0.0
+
+Involved parties:
+
+Name: Serpentis Protector / Serpentis Corporation
+
+Name: Tregaron
+Security: 2.3
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Wolf
+Weapon: Wolf
+
+Name: Lucy Fire1
+Security: -0.4
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Capsule
+Weapon: Hobgoblin II
+
+Name: RythemAndStealth (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Myrmidon
+Weapon: Wasp I
+
+Name: Denaris1
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Ferox
+Weapon: 250mm Carbide Railgun I
+
+
+Destroyed items:
+
+1200mm Artillery Cannon II
+1200mm Artillery Cannon II
+1200mm Artillery Cannon II
+1200mm Artillery Cannon II
+1200mm Artillery Cannon II
+Heat Dissipation Field I
+Heat Dissipation Field I
+

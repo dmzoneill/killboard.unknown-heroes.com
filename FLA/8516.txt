@@ -1,0 +1,19 @@
+2006.11.25 04:34
+
+Victim: Drachenfals
+Alliance: Freelancer Alliance
+Corp: BGG
+Destroyed: Capsule
+System: Oipo
+Security: 0.8
+
+Involved parties:
+
+Name: Elliott Manchild (laid the final blow)
+Security: -1.6
+Alliance: None
+Corp: omen.
+Ship: Taranis
+Weapon: 125mm Railgun II
+
+

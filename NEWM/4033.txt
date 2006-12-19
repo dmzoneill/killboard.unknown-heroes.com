@@ -1,0 +1,146 @@
+2007.04.10 09:23
+
+Victim: Otto Bismarck
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Destroyed: Hyperion
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Bobby Atlas (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Hyperion
+Weapon: Modal Mega Neutron Particle Accelerator I
+
+Name: Draconian Arcane
+Security: -2.4
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Maelstrom
+Weapon: Maelstrom
+
+Name: Splinter5150
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: johanladon
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Punisher
+Weapon: Dual Light Pulse Laser I
+
+Name: ClogMan
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Drake
+Weapon: 1200mm Artillery Cannon I
+
+Name: Nukuquqa Hestase
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Caracal
+Weapon: Acolyte I
+
+Name: Alekseyev Karrde
+Security: 3.1
+Alliance: Forces of Freedom
+Corp: The Royal Guard
+Ship: Nemesis
+Weapon: Nemesis
+
+Name: Rohan V
+Security: 2.1
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Unknown
+Weapon: 'Malkuth' Assault Missile Launcher I
+
+Name: RemusVI
+Security: 4.1
+Alliance: Amen Anera
+Corp: Legion Federation
+Ship: Incursus
+Weapon: Incursus
+
+Name: truefranco
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Myrmidon
+Weapon: Ogre II
+
+Name: misscoda
+Security: 4.7
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Blackbird
+Weapon: 'Hypnos' Ion Field ECM I
+
+Name: Sedith
+Security: 1.7
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Aeon
+Weapon: Firbolg
+
+Name: FinalHellSpawn
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Unknown
+Weapon: 250mm Carbide Railgun I
+
+Name: Celdrahil
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Ship: Capsule
+Weapon: ECM - Multispectral Jammer II
+
+Name: Coyedky
+Security: 2.0
+Alliance: CORE.
+Corp: Pride Ja'uar
+Ship: Unknown
+Weapon: Civilian Gatling Railgun
+
+
+Destroyed items:
+
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Ion Blaster Cannon II
+Ion Blaster Cannon II
+Ion Blaster Cannon II
+Void L, Qty: 267
+Small Tractor Beam I
+100MN MicroWarpdrive I
+Heavy Electrochemical Capacitor Booster I
+Damage Control II
+Armor Kinetic Hardener II
+10MN Afterburner II (Cargo)
+Phased Monopropellant I Hydrazine Boosters (Cargo)
+650mm Artillery Cannon II, Qty: 2 (Cargo)
+Gyrostabilizer II (Cargo)
+Fusion M, Qty: 2541 (Cargo)
+Hornet II (Cargo)
+Valkyrie II (Cargo)
+Remote Sensor Dampener II (Cargo)
+Void L, Qty: 178 (Cargo)
+TE-2100 Standard Missile Bay (Cargo)
+Nanofiber Internal Structure I (Cargo)
+

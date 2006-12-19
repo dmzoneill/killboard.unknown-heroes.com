@@ -1,0 +1,33 @@
+2007.04.10 13:40
+
+Victim: Atomic Atty
+Alliance: Triumvirate.
+Corp: D00M.
+Destroyed: Minmatar Shuttle
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Juhlah Maidan (laid the final blow)
+Security: 1.4
+Alliance: Mordus Angels
+Corp: Bladerunners
+Ship: Hurricane
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Wallyx
+Security: 4.5
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Omen
+Weapon: Omen
+
+Name: Porky
+Security: 1.9
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Crow
+Weapon: Rocket Launcher I
+
+

@@ -1,0 +1,33 @@
+2007.05.21 13:19
+
+Victim: ke lian
+Alliance: None
+Corp: State War Academy
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Commander Paul (laid the final blow)
+Security: 5.0
+Alliance: DeStInY.
+Corp: People's Front Of Judea
+Ship: Sleipnir
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Mufeater
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Ares
+Weapon: Ares
+
+Name: Che xang
+Security: -1.6
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Rifter
+Weapon: 250mm Light Artillery Cannon II
+
+

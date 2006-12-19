@@ -1,0 +1,44 @@
+2007.05.08 09:21
+
+Victim: MrMaggot
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Caracal
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: OneSHotKillah (laid the final blow)
+Security: 0.0
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Sigel Mantua
+Security: -2.6
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Pilgrim
+Weapon: Hornet II
+
+Name: Vendetta X
+Security: 0.8
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Lachesis
+Weapon: Scourge Fury Heavy Missile
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 128
+'Arbalest' Assault Missile Launcher
+'Arbalest' Assault Missile Launcher
+'Arbalest' Assault Missile Launcher
+Large F-S9 Regolith Shield Induction
+Alumel-Wired I Sensor Augmentation
+Flameburst Light Missile, Qty: 571 (Cargo)
+Piranha Light Missile, Qty: 365 (Cargo)
+

@@ -1,0 +1,25 @@
+2007.05.14 10:16
+
+Victim: POS BOY
+Alliance: None
+Corp: Republic Military School
+Destroyed: Reaper
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Feke (laid the final blow)
+Security: 4.8
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Thorax
+Weapon: Heavy Ion Blaster I
+
+
+Destroyed items:
+
+Civilian Gatling Autocannon
+Basic Miner
+Tritanium (Cargo)
+

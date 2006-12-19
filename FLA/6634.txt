@@ -1,0 +1,65 @@
+2006.11.21 07:22
+
+Victim: GoLdeN BoY
+Alliance: None
+Corp: Beer Guzzling Clowns With Blasters
+Destroyed: Crusader
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: James Potkukelkka (laid the final blow)
+Security: 0.3
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Flycatcher
+Weapon: Bloodclaw Precision Light Missile
+
+Name: No Merceeee
+Security: 2.3
+Alliance: Freelancer Alliance
+Corp: Sin-X Inc.
+Ship: Unknown
+Weapon: 150mm Railgun I
+
+Name: SleepyOSU
+Security: 4.8
+Alliance: Freelancer Alliance
+Corp: Sin-X Inc.
+Ship: Unknown
+Weapon: Stasis Webifier I
+
+Name: nXus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Unknown
+Weapon: Widowmaker Heavy Missile
+
+Name: Hikarusan
+Security: 0.4
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Caracal
+Weapon: 'Malkuth' Assault Missile Launcher I
+
+
+Destroyed items:
+
+Medium Pulse Laser II
+Medium Pulse Laser II
+Small Armor Repairer II
+Micro Auxiliary Power Core I
+Medium Armor Repairer II (Cargo)
+Patterned Stasis Web I (Cargo)
+Heavy 'Ghoul' Energy Siphon I (Cargo)
+Heat Dissipation Field I (Cargo)
+Non-Inertial Ballistic Screen Augmentation I (Cargo)
+Shield Boost Amplifier I (Cargo)
+Scorch S (Cargo)
+Null S, Qty: 4862 (Cargo)
+Strip Miner I (Cargo)
+Beta Hull Mod Nanofiber Structure (Cargo)
+Power Diagnostic System I (Cargo)
+

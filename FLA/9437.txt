@@ -1,0 +1,31 @@
+2007.05.14 10:51
+
+Victim: Dartgnan
+Alliance: Pax Familia
+Corp: EnTech
+Destroyed: Reaper
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Feke (laid the final blow)
+Security: 4.8
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Thorax
+Weapon: Heavy Ion Blaster I
+
+Name: Ocara Nezus
+Security: 1.5
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Crow
+Weapon: J5 Prototype Warp Inhibitor I
+
+
+Destroyed items:
+
+Civilian Gatling Autocannon
+Basic Miner
+

@@ -1,0 +1,52 @@
+2007.03.20 04:03
+
+Victim: coldkill
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Destroyed: Myrmidon
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Drachenlord
+Security: 2.0
+Alliance: None
+Corp: e X i l e
+Ship: Arazu
+Weapon: Valkyrie II
+
+Name: Kronos1713 (laid the final blow)
+Security: 2.3
+Alliance: None
+Corp: e X i l e
+Ship: Thorax
+Weapon: Heavy Electron Blaster II
+
+Name: Lobster Man
+Security: -3.2
+Alliance: None
+Corp: e X i l e
+Ship: Dominix
+Weapon: Ogre II
+
+
+Destroyed items:
+
+200mm Railgun II
+200mm Railgun II
+200mm Railgun II
+200mm Railgun II
+200mm Railgun II
+Spike M, Qty: 80
+10MN Afterburner II
+Warp Scrambler I
+Sensor Booster II
+Medium Armor Repairer II
+Tracking Enhancer II
+Tracking Enhancer II
+Magnetic Field Stabilizer II
+Magnetic Field Stabilizer I, Qty: 3 (Cargo)
+Spike M, Qty: 3419 (Cargo)
+Hobgoblin II, Qty: 2 (Drone Bay)
+

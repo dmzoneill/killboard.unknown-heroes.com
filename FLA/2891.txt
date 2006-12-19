@@ -1,0 +1,150 @@
+2007.03.15 01:39
+
+Victim: Grape Juice
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Destroyed: Scorpion
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: kezz2411 (laid the final blow)
+Security: 5.3
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: BECKARD
+Security: 5.0
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Typhoon
+Weapon: Berserker I
+
+Name: Callistus
+Security: -2.8
+Alliance: Corelum Syndicate
+Corp: Coreli Corporation
+Ship: Taranis
+Weapon: Hobgoblin II
+
+Name: Omar Shakti
+Security: 5.0
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Taranis
+Weapon: Taranis
+
+Name: Landock 360
+Security: 4.1
+Alliance: Xelas Alliance
+Corp: Fallen Angel's
+Ship: Eris
+Weapon: Eris
+
+Name: Zyta Eke
+Security: 3.3
+Alliance: Xelas Alliance
+Corp: Bombshell Cartel
+Ship: Crusader
+Weapon: Crusader
+
+Name: Selnix
+Security: 5.0
+Alliance: Aftermath Alliance
+Corp: Master Miners
+Ship: Eris
+Weapon: Gremlin Javelin Rocket
+
+Name: Fat Bloke
+Security: 1.8
+Alliance: Xelas Alliance
+Corp: Catalyst Reaction
+Ship: Crow
+Weapon: Bloodclaw Precision Light Missile
+
+Name: Monticore D'Muertos
+Security: 5.0
+Alliance: Axiom Empire
+Corp: United Society Starfleet
+Ship: Raptor
+Weapon: Raptor
+
+Name: Mongo Peck
+Security: 4.9
+Alliance: Xelas Alliance
+Corp: Requiem of Hades
+Ship: Taranis
+Weapon: Taranis
+
+Name: ZAX0236
+Security: 5.0
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Crow
+Weapon: Sabretooth Precision Light Missile
+
+Name: Oniko Sengir
+Security: -4.6
+Alliance: Corelum Syndicate
+Corp: Coreli Corporation
+Ship: Slasher
+Weapon: Slasher
+
+Name: pliskin hr
+Security: 1.1
+Alliance: Xelas Alliance
+Corp: Fallen Angel's
+Ship: Crow
+Weapon: Thorn Rocket
+
+Name: Bruce Bannon
+Security: 0.5
+Alliance: Xelas Alliance
+Corp: Mining Bytes Inc.
+Ship: Moa
+Weapon: 250mm Railgun II
+
+Name: Oortog
+Security: 4.0
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Enyo
+Weapon: 150mm Railgun II
+
+Name: Hauth
+Security: 5.2
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Vengeance
+Weapon: Vengeance
+
+Name: DeathGrip
+Security: 2.3
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Flycatcher
+Weapon: Rocket Launcher II
+
+
+Destroyed items:
+
+Wrath Cruise Missile, Qty: 17
+Snoop Scanner Probe I, Qty: 23
+'Arbalest' Cruise Launcher I
+'Arbalest' Cruise Launcher I
+'Arbalest' Cruise Launcher I
+X-Large Converse I Deflection Catalyzer
+Warp Disruptor I
+Heavy Tapered Capacitor Infusion I
+Cap Booster 800
+Cap Booster 800
+Cap Booster 800
+'Copasetic' I Particle Field Acceleration
+Signal Amplifier II
+Signal Amplifier II
+Signal Amplifier II
+Beta Reactor Control: Reaction Control I
+

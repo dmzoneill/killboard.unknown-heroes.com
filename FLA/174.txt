@@ -1,0 +1,19 @@
+2007.01.16 10:54
+
+Victim: Neryma
+Alliance: None
+Corp: School of Applied Knowledge
+Destroyed: Capsule
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Night Seeker (laid the final blow)
+Security: 0.1
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Hound
+Weapon: Devastator Cruise Missile
+
+

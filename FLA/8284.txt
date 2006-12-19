@@ -1,0 +1,27 @@
+2006.11.07 14:13
+
+Victim: Ogrimm Surak
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Destroyed: Incursus
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: GoLdeN BoY (laid the final blow)
+Security: 1.3
+Alliance: None
+Corp: Beer Guzzling Clowns With Blasters
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+
+Destroyed items:
+
+Light Neutron Blaster I
+Light Neutron Blaster I
+Antimatter Charge S, Qty: 80
+Warp Disruptor I
+Hornet I (Drone Bay)
+

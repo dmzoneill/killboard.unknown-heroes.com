@@ -1,0 +1,96 @@
+2007.03.12 01:42
+
+Victim: Schmeckel
+Alliance: Chorus of Dawn
+Corp: Cosmic Odyssey
+Destroyed: Raven
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Duser
+Security: -1.5
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Rokh
+Weapon: Rokh
+
+Name: Nil Desperandum
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Apocalypse
+Weapon: Warrior I
+
+Name: Sethiol
+Security: 3.5
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: alon blackhelm
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Myrmidon
+Weapon: Myrmidon
+
+Name: Sanal Gi
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Scorpion
+Weapon: Induced Multispectral ECM I
+
+Name: ifeelit2 (laid the final blow)
+Security: 5.0
+Alliance: Forces of Freedom
+Corp: Just Cloned Again
+Ship: Hyperion
+Weapon: Devastator Cruise Missile
+
+Name: ventura5
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Leonardo Sabrioski
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Crow
+Weapon: Foxfire Rocket
+
+Name: TheMonster
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: The Night Crew
+Ship: Megathron
+Weapon: Limited Mega Ion Blaster I
+
+
+Destroyed items:
+
+Heavy Diminishing Power System Drain I
+Bane Torpedo, Qty: 16
+Large Shield Extender I
+X-Large C5-L Emergency Shield Overload I
+100MN Afterburner I
+Warp Core Stabilizer I
+Warp Core Stabilizer I
+Warp Core Stabilizer I
+Cap Booster 800, Qty: 10 (Cargo)
+Inferno Torpedo, Qty: 585 (Cargo)
+Warp Core Stabilizer I (Cargo)
+Ballistic Control System II (Cargo)
+ZW-4100 Siege Missile Bay (Cargo)
+Drone Link Augmentor I, Qty: 2 (Cargo)
+Expanded Cargohold I, Qty: 6 (Cargo)
+Mark I Generator Refitting: Reaction Control, Qty: 2 (Cargo)
+Infiltrator II, Qty: 2 (Drone Bay)
+Acolyte II, Qty: 2 (Drone Bay)
+

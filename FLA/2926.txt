@@ -1,0 +1,66 @@
+2007.03.16 23:00
+
+Victim: Puz'ZaW
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Destroyed: Claw
+System: E-Z2ZX
+Security: 0.0
+
+Involved parties:
+
+Name: triusad (laid the final blow)
+Security: 5.0
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Stabber
+Weapon: 220mm Vulcan AutoCannon I
+
+Name: Deep Moondark
+Security: -0.2
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Stabber
+Weapon: Stabber
+
+Name: Dido Carthago
+Security: 4.5
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Stabber
+Weapon: Stabber
+
+Name: daidvg
+Security: 1.9
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Atron
+Weapon: Atron
+
+Name: Rubens22
+Security: 2.3
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Enyo
+Weapon: Enyo
+
+Name: ZIQUET
+Security: 4.8
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Enyo
+Weapon: Light Ion Blaster II
+
+
+Destroyed items:
+
+Barrage S, Qty: 52
+'Malkuth' Rocket Launcher I
+1MN MicroWarpdrive I
+J5b Phased Prototype Warp Inhibitor I
+200mm Reinforced Rolled Tungsten Plates I
+Inertia Stabilizers I
+Inertia Stabilizers I
+Barrage S, Qty: 1096 (Cargo)
+Gremlin Rocket, Qty: 94 (Cargo)
+

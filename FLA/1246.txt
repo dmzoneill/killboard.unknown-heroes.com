@@ -1,0 +1,38 @@
+2007.03.09 15:04
+
+Victim: Janis Praag
+Alliance: Chorus of Dawn
+Corp: Cosmic Odyssey
+Destroyed: Ibis
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Ocara Nezus
+Security: 2.3
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Crow
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: white kight (laid the final blow)
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Drake
+Weapon: Havoc Heavy Missile
+
+Name: Weeble Wooble
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Megathron
+Weapon: Megathron
+
+
+Destroyed items:
+
+Civilian Gatling Railgun
+Tritanium (Cargo)
+

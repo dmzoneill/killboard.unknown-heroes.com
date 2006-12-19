@@ -1,0 +1,58 @@
+2007.02.03 10:40
+
+Victim: Xb b2
+Alliance: None
+Corp: Federal Navy Academy
+Destroyed: Atron
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Cockroach (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Purifier
+Weapon: Paradise Cruise Missile
+
+Name: Dark Carnage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Crow
+Weapon: X5 Prototype I Engine Enervator
+
+Name: MrMaggot
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Cormorant
+Weapon: Cormorant
+
+Name: Minisoza
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Myrmidon
+Weapon: Myrmidon
+
+Name: Teck7
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ishtar
+Weapon: 150mm Railgun II
+
+Name: methodmo
+Security: 0.3
+Alliance: Chorus of Dawn
+Corp: Free Lapland
+Ship: Incursus
+Weapon: Stasis Webifier I
+
+
+Destroyed items:
+
+Iridium Charge S, Qty: 920 (Cargo)
+

@@ -1,0 +1,71 @@
+2007.03.01 23:02
+
+Victim: Ugluuk
+Alliance: Privateer Alliance
+Corp: Beyond Divinity Inc
+Destroyed: Myrmidon
+System: Jita
+Security: 0.9
+
+Involved parties:
+
+Name: Riho
+Security: -0.7
+Alliance: Exquisite Malevolence
+Corp: Red Wrath
+Ship: Brutix
+Weapon: Brutix
+
+Name: Kragar (laid the final blow)
+Security: 1.9
+Alliance: Exquisite Malevolence
+Corp: Mercenary Forces
+Ship: Astarte
+Weapon: Heavy Neutron Blaster II
+
+Name: Sorlac Aurora
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Maar Suvai
+Security: 3.9
+Alliance: Exquisite Malevolence
+Corp: Mercenary Forces
+Ship: Thorax
+Weapon: Thorax
+
+Name: Sregnar
+Security: 3.3
+Alliance: Exquisite Malevolence
+Corp: Mercenary Forces
+Ship: Curse
+Weapon: Vespa II
+
+Name: Rydra Wong
+Security: 1.1
+Alliance: Exquisite Malevolence
+Corp: Mercenary Forces
+Ship: Taranis
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: Sven Jaeger
+Security: -1.9
+Alliance: Exquisite Malevolence
+Corp: Magnificent Beavers
+Ship: Huginn
+Weapon: Huginn
+
+
+Destroyed items:
+
+Void M, Qty: 196
+Faint Warp Prohibitor I
+Medium Tapered Capacitor Infusion I
+Cap Booster 800
+Magnetic Field Stabilizer II
+Reactor Control Unit II
+Void M, Qty: 2884 (Cargo)
+

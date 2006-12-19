@@ -1,0 +1,128 @@
+2007.01.28 22:31
+
+Victim: Silentil
+Alliance: Firmus Ixion
+Corp: Xoth Inc
+Destroyed: Scorpion
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: TekkyHead
+Security: 0.7
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Tempest
+Weapon: Tempest
+
+Name: IrishSoul
+Security: 5.0
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Crusader
+Weapon: Initiated Harmonic Warp Jammer I
+
+Name: Darknesss
+Security: 0.5
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Taranis
+Weapon: Taranis
+
+Name: FotoFlame
+Security: 3.8
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Rokh
+Weapon: Rokh
+
+Name: AceMace
+Security: 4.9
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Cerberus
+Weapon: Scourge Heavy Missile
+
+Name: Misha Mosqito
+Security: 2.4
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Taranis
+Weapon: Taranis
+
+Name: XxAngelxX
+Security: -3.5
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Crusader
+Weapon: Crusader
+
+Name: Pistonbroke (laid the final blow)
+Security: 0.4
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Crow
+Weapon: Piranha Light Missile
+
+Name: Munch
+Security: 4.5
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Absolution
+Weapon: Absolution
+
+Name: Akathrielah
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Gogul
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Moa
+Weapon: Induced Multispectral ECM I
+
+Name: ElricUK
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Cerberus
+Weapon: Scourge Heavy Missile
+
+Name: Kcyx
+Security: 4.9
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Deimos
+Weapon: 250mm Railgun II
+
+Name: Azeroth Uluntil
+Security: 0.2
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Crow
+Weapon: Faint Warp Prohibitor I
+
+Name: 8ObliVioN8
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Rook
+Weapon: ECM - Multispectral Jammer II
+
+
+Destroyed items:
+
+ZW-4100 Siege Missile Bay
+ZW-4100 Siege Missile Bay
+100MN Afterburner I
+ECM - Spatial Destabilizer II
+ECM - Multispectral Jammer II
+Damage Control I
+Signal Distortion Amplifier I
+Warrior I, Qty: 5 (Drone Bay)
+

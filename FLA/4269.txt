@@ -1,0 +1,42 @@
+2007.04.06 03:50
+
+Victim: Jisela
+Alliance: Freelancer Alliance
+Corp: Feel Good Inc.
+Destroyed: Heron
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Rahzorus (laid the final blow)
+Security: 0.9
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Crow
+Weapon: Piranha Light Missile
+
+Name: Crypt Layer
+Security: 3.6
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Taranis
+Weapon: 125mm Railgun II
+
+Name: Crovan
+Security: 2.8
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Taranis
+Weapon: Taranis
+
+
+Destroyed items:
+
+Gremlin Rocket, Qty: 30
+Rocket Launcher I
+Rocket Launcher I
+'Hypnos' Multispectral ECM I
+Gremlin Rocket, Qty: 40 (Cargo)
+Warrior I (Drone Bay)
+

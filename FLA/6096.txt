@@ -1,0 +1,40 @@
+2006.11.07 20:34
+
+Victim: Skawl
+Alliance: None
+Corp: GeoTech
+Destroyed: Capsule
+System: J-CIJV
+Security: 0.0
+
+Involved parties:
+
+Name: yagamurth
+Security: 1.2
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Crusader
+Weapon: Crusader
+
+Name: Dog Cancer
+Security: 1.4
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Crow
+Weapon: Sabretooth Light Missile
+
+Name: Velithe (laid the final blow)
+Security: 2.0
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Elfaen Ethenwe
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Rook
+Weapon: Heavy Missile Launcher II
+
+

@@ -1,0 +1,47 @@
+2007.04.21 04:09
+
+Victim: RashKarr
+Alliance: Exuro Mortis
+Corp: The Burning Orphans
+Destroyed: Celestis
+System: 2R-CRW
+Security: 0.0
+
+Involved parties:
+
+Name: Ghu'ru Talozan
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Celestis
+Weapon: Warrior I
+
+Name: Starbat (laid the final blow)
+Security: -0.1
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Scorpion
+Weapon: Wasp I
+
+
+Destroyed items:
+
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Heavy Ion Blaster I
+Heavy Ion Blaster I
+Antimatter Charge M, Qty: 120
+10MN MicroWarpdrive I
+Sensor Booster I
+Target Painter I
+Small Armor Repairer I
+Magnetic Field Stabilizer I
+Energized Adaptive Nano Membrane I
+Antimatter Charge S, Qty: 100 (Cargo)
+Antimatter Charge M, Qty: 140 (Cargo)
+Hornet I, Qty: 2 (Drone Bay)
+

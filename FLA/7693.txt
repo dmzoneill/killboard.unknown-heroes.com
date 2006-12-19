@@ -1,0 +1,47 @@
+2006.10.01 19:33
+
+Victim: Cheras Freyez'den
+Alliance: Ivy League
+Corp: Eve University
+Destroyed: Rifter
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: FrankieG
+Security: -0.9
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Claw
+Weapon: Claw
+
+Name: Zheraf
+Security: 5.0
+Alliance: None
+Corp: Nuevos Horizontes
+Ship: Blackbird
+Weapon: Medium 'Ghoul' Energy Siphon I
+
+Name: roboto212 (laid the final blow)
+Security: -0.1
+Alliance: Freelancer Alliance
+Corp: Sin-X Inc.
+Ship: Celestis
+Weapon: 250mm Carbide Railgun I
+
+Name: Needa3
+Security: 5.0
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Rupture
+Weapon: 650mm Artillery Cannon I
+
+Name: Eduard Elric
+Security: 5.0
+Alliance: None
+Corp: Nuevos Horizontes
+Ship: Vexor
+Weapon: J5 Prototype Warp Inhibitor I
+
+

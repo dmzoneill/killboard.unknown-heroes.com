@@ -1,0 +1,37 @@
+2007.05.21 21:16
+
+Victim: Crimzon Claw
+Alliance: None
+Corp: State War Academy
+Destroyed: Ibis
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Kvarium Ki (laid the final blow)
+Security: 2.3
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Muninn
+Weapon: 720mm Howitzer Artillery II
+
+Name: silent uk
+Security: 2.5
+Alliance: DeStInY.
+Corp: Sacred Templars
+Ship: Heretic
+Weapon: 'Arbalest' Standard Missile Launcher
+
+Name: coldkill
+Security: 2.1
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Arazu
+Weapon: 200mm Railgun II
+
+
+Destroyed items:
+
+Civilian Gatling Railgun
+

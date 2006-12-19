@@ -1,0 +1,34 @@
+2007.03.23 04:27
+
+Victim: Kapar
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Destroyed: Crow
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: truefranco (laid the final blow)
+Security: 4.7
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+
+Destroyed items:
+
+150mm Railgun I
+Iridium Charge S, Qty: 40
+Sabretooth Light Missile, Qty: 40
+Piranha Light Missile, Qty: 40
+Standard Missile Launcher I
+Inertia Stabilizers I
+Mark I Modified SS Inertial Stabilizers
+Iridium Charge S, Qty: 192 (Cargo)
+Iridium Charge M, Qty: 587 (Cargo)
+Wasp I, Qty: 2 (Cargo)
+Sabretooth Light Missile, Qty: 140 (Cargo)
+Contaminated Lorentz Fluid, Qty: 3 (Cargo)
+

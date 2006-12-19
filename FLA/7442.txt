@@ -1,0 +1,78 @@
+2006.09.05 17:00
+
+Victim: HapkoT
+Alliance: R.I.S.K
+Corp: The First Foundation
+Destroyed: Arbitrator
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: LiBraga (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Rook
+Weapon: Scourge Heavy Missile
+
+Name: avelution
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Caracal
+Weapon: Thunderbolt Heavy Missile
+
+Name: Hosanna
+Security: -2.4
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Claw
+Weapon: Claw
+
+Name: Verild
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Hawk
+Weapon: Bloodclaw Light Missile
+
+Name: Ne0 MaTrIx
+Security: 2.4
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Taranis
+Weapon: Taranis
+
+Name: XxAngelxX
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Malediction
+Weapon: Malediction
+
+Name: keilapuukko
+Security: 1.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Eagle
+Weapon: Limited Neutron Blaster I
+
+
+Destroyed items:
+
+125mm Gatling AutoCannon I
+Carbonized Lead S, Qty: 100
+Piranha Light Missile, Qty: 46
+TE-2100 Standard Missile Bay
+Drone Link Augmentor I
+Cap Recharger I
+Warp Disruptor I
+Radioisotope Kinetic Hardener I
+1600mm Reinforced Crystalline Carbonide Plates I
+Defender I, Qty: 200 (Cargo)
+Aurora S, Qty: 2 (Cargo)
+Bloodclaw Light Missile, Qty: 104 (Cargo)
+Piranha Light Missile, Qty: 102 (Cargo)
+Hornet I (Drone Bay)
+

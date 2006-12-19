@@ -1,0 +1,34 @@
+2007.03.02 02:50
+
+Victim: Thafesko
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Destroyed: Raven
+System: Kaunokka
+Security: 0.5
+
+Involved parties:
+
+Name: Hei'di (laid the final blow)
+Security: -1.0
+Alliance: Privateer Alliance
+Corp: Tempt Fate
+Ship: Typhoon
+Weapon: Inferno Torpedo
+
+
+Destroyed items:
+
+Heavy Diminishing Power System Drain I
+Juggernaut Torpedo, Qty: 28
+Wrath Cruise Missile, Qty: 72
+'Arbalest' Siege Missile Launcher
+Large Shield Extender II
+X-Large C5-L Emergency Shield Overload I
+Photonic CPU Enhancer I
+Ballistic Control System II
+Power Diagnostic System II
+Juggernaut Torpedo, Qty: 3892 (Cargo)
+Wrath Cruise Missile, Qty: 3856 (Cargo)
+Vespa I, Qty: 2 (Drone Bay)
+

@@ -1,0 +1,52 @@
+2007.01.05 23:29
+
+Victim: Xenofur
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Vigil
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Scythus Aratan (laid the final blow)
+Security: 4.4
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Armageddon
+Weapon: Tachyon Beam Laser II
+
+Name: Masta Killa
+Security: -1.7
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Remote Sensor Dampener II
+
+Name: Lemlins Craken
+Security: -0.4
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Unknown
+Weapon: 'Arbalest' Cruise Launcher I
+
+Name: DHB WildCat
+Security: -1.4
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Remote Sensor Dampener II
+
+
+Destroyed items:
+
+75mm Gatling Rail I
+75mm Gatling Rail I
+Antimatter Charge S, Qty: 388
+1MN MicroWarpdrive I
+Stasis Webifier I
+Overdrive Injector System I
+Overdrive Injector System I
+Overdrive Injector System I
+Antimatter Charge S, Qty: 122 (Cargo)
+

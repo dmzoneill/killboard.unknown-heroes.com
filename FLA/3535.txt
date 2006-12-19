@@ -1,0 +1,50 @@
+2007.03.26 02:42
+
+Victim: Nya
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Destroyed: Typhoon
+System: FD53-H
+Security: 0.0
+
+Involved parties:
+
+Name: mr ioso
+Security: 4.8
+Alliance: Chorus of Dawn
+Corp: Cosmic Odyssey
+Ship: Myrmidon
+Weapon: Warrior II
+
+Name: Mr MA (laid the final blow)
+Security: 3.5
+Alliance: Chorus of Dawn
+Corp: Cosmic Odyssey
+Ship: Myrmidon
+Weapon: Light Neutron Blaster II
+
+Name: Keflin Geard
+Security: 5.0
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Ishkur
+Weapon: Warrior II
+
+
+Destroyed items:
+
+Dual 650mm 'Scout' Repeating Artillery I
+Heavy Nosferatu I
+Fusion L, Qty: 67
+XT-9000 Cruise Launcher
+XT-9000 Cruise Launcher
+LiF Fueled I Booster Rockets
+X5 Prototype I Engine Enervator
+Heavy F-RX Prototype I Capacitor Boost
+Cap Booster 800
+Cap Booster 800
+Cap Booster 800
+Cap Booster 800
+Large Armor Repairer II
+Large 'Accommodation' Vestment Reconstructer I
+

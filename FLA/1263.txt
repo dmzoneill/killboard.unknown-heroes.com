@@ -1,0 +1,98 @@
+2007.03.09 21:06
+
+Victim: VDV Bru37
+Alliance: YouWhat
+Corp: Beasts of Burden
+Destroyed: Crow
+System: XZH-4X
+Security: 0.0
+
+Involved parties:
+
+Name: Miriyaka
+Security: 5.0
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Hurricane
+Weapon: 720mm Howitzer Artillery I
+
+Name: MohamedLoftie (laid the final blow)
+Security: -1.0
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Absolution
+Weapon: Heavy Pulse Laser II
+
+Name: Luxe Ecru
+Security: 1.4
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Ares
+Weapon: Initiated Warp Jammer I
+
+Name: Thaumocrates
+Security: 0.1
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Omen
+Weapon: Focused Medium Beam Laser I
+
+Name: Zemi Dahut
+Security: -0.1
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Incursus
+Weapon: Incursus
+
+Name: Tregaron
+Security: 1.8
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Crow
+Weapon: TE-2100 Standard Missile Bay
+
+Name: MagicalMako
+Security: 1.0
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Hurricane
+Weapon: Compact 'Limos' Assault Missile Bay I
+
+Name: Jhonty S'ture
+Security: 0.1
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Incursus
+Weapon: Warp Disruptor I
+
+Name: Impretinent
+Security: 0.1
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Merlin
+Weapon: Merlin
+
+Name: Exotic Callgirl
+Security: 0.0
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Vigil
+Weapon: Warp Disruptor I
+
+Name: Dracunculiasis
+Security: 0.2
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Celestis
+Weapon: Celestis
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 84
+'Malkuth' Standard Missile Launcher I
+'Malkuth' Standard Missile Launcher I
+Gistii A-Type 1MN MicroWarpdrive
+Warp Disruptor I
+Spike S, Qty: 1503 (Cargo)
+

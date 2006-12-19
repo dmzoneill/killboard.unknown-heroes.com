@@ -1,0 +1,19 @@
+2006.10.16 00:05
+
+Victim: Paltar
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Destroyed: Capsule
+System: Litiura
+Security: 0.5
+
+Involved parties:
+
+Name: carraktiker (laid the final blow)
+Security: 0.0
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Ares
+Weapon: Light Neutron Blaster II
+
+

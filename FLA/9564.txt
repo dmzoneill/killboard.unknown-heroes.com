@@ -1,0 +1,55 @@
+2007.05.18 22:09
+
+Victim: Corovus
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Destroyed: Manticore
+System: CR-AQH
+Security: 0.0
+
+Involved parties:
+
+Name: Rinkos Alaine
+Security: 5.0
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Taranis
+Weapon: Taranis
+
+Name: Kraiven
+Security: 5.0
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Raptor
+Weapon: Raptor
+
+Name: Arrissy
+Security: 5.0
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Crow
+Weapon: Phalanx Rage Rocket
+
+Name: Hinderburg
+Security: 4.7
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Huginn
+Weapon: 'Arbalest' Heavy Missile Launcher
+
+Name: karbun kell (laid the final blow)
+Security: 0.2
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Sabre
+Weapon: 250mm Light Artillery Cannon II
+
+
+Destroyed items:
+
+Improved Cloaking Device II
+Wrath Cruise Missile, Qty: 22
+'Arbalest' Cruise Launcher I
+F-89 Synchronized Signal Amplifier
+Wrath Cruise Missile, Qty: 893 (Cargo)
+

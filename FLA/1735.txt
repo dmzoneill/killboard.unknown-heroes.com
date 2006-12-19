@@ -1,0 +1,33 @@
+2007.01.02 05:27
+
+Victim: Ashr
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Destroyed: Gallente Shuttle
+System: MQ-NPY
+Security: 0.0
+
+Involved parties:
+
+Name: PyroThraxus (laid the final blow)
+Security: 2.0
+Alliance: R i s e
+Corp: Obliteration Unlimited
+Ship: Lachesis
+Weapon: 250mm Railgun II
+
+Name: JaredC02
+Security: 2.6
+Alliance: R i s e
+Corp: Obliteration Unlimited
+Ship: Crusader
+Weapon: Dual Anode Light Particle Stream I
+
+Name: Turia
+Security: 4.0
+Alliance: R i s e
+Corp: Obliteration Unlimited
+Ship: Harpy
+Weapon: Harpy
+
+

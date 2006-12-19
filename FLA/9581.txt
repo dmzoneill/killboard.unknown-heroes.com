@@ -1,0 +1,57 @@
+2007.05.19 09:45
+
+Victim: guijuan
+Alliance: None
+Corp: Perkone
+Destroyed: Caracal
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Francois Dubuoi (laid the final blow)
+Security: 1.3
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Aletheja
+Security: -1.6
+Alliance: DeStInY.
+Corp: The Syndicate Inc
+Ship: Claw
+Weapon: Claw
+
+Name: Amarrian Bringer
+Security: 1.3
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Malediction
+Weapon: X5 Prototype I Engine Enervator
+
+Name: wardey
+Security: 0.6
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Crusader
+Weapon: Crusader
+
+Name: T0M85
+Security: 3.5
+Alliance: Ev0ke
+Corp: Asgard Schiffswerften
+Ship: Arazu
+Weapon: Arazu
+
+
+Destroyed items:
+
+Wido
+Heavy Missile Launcher I
+Stasis Webifier I
+Magnetic Scattering Amplifier I
+Kinetic Deflection Amplifier I
+Widowmaker Heavy Missile, Qty: 1350 (Cargo)
+Hobgoblin II (Drone Bay)
+

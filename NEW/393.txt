@@ -1,0 +1,78 @@
+2007.03.19 10:00
+
+Victim: Scooter 23
+Alliance: None
+Corp: Brutor tribe
+Destroyed: Drake
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: death1023
+Security: 3.0
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Cubic (laid the final blow)
+Security: 1.8
+Alliance: The Sundering
+Corp: ironwood ink
+Ship: Dominix
+Weapon: Ogre II
+
+Name: Villwrath
+Security: 3.5
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Enyo
+Weapon: Enyo
+
+Name: FlobbMkII
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Myrmidon
+Weapon: Hobgoblin II
+
+Name: Nukuquqa Hestase
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Harpy
+Weapon: Harpy
+
+Name: Grimes NC
+Security: 4.8
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: Keyoke Acoma
+Security: 1.9
+Alliance: The Sundering
+Corp: Auraxian Irregulars
+Ship: Arbitrator
+Weapon: Vespa I
+
+Name: Ahramaine
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Thorax
+Weapon: Thorax
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 90
+Heavy Missile Launcher I, Qty: 5
+F-b10 Nominal Capacitor Regenerator
+Invulnerability Field II
+Damage Control II
+Ballistic Control System II, Qty: 2
+Scourge Heavy Missile, Qty: 714 (Cargo)
+Vespa II (Drone Bay)

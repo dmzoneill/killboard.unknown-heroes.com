@@ -1,0 +1,19 @@
+2006.10.20 20:13
+
+Victim: Fr0zt
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Destroyed: Capsule
+System: KLY-C0
+Security: 0.0
+
+Involved parties:
+
+Name: On Edge (laid the final blow)
+Security: -0.5
+Alliance: None
+Corp: Final-Vendetta
+Ship: Apocalypse
+Weapon: Tachyon Beam Laser II
+
+

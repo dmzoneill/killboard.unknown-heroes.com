@@ -1,0 +1,44 @@
+2007.04.09 21:10
+
+Victim: Raketefrau
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Blackbird
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Stradivarious (laid the final blow)
+Security: 3.7
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Nidhoggur
+Weapon: Templar
+
+Name: DrunkenOne
+Security: -0.5
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Claw
+Weapon: 250mm Light Artillery Cannon II
+
+Name: Vily
+Security: 0.3
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Vengeance
+Weapon: Vengeance
+
+
+Destroyed items:
+
+Thunderbolt Heavy Missile, Qty: 39
+Havoc Heavy Missile, Qty: 21
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Faint Phase Inversion ECM I
+'Hypnos' Multispectral ECM I
+FZ-3 Subversive Spatial Destabilizer ECM
+Induced Signal Distortion Amplifier I
+

@@ -1,0 +1,47 @@
+2007.01.21 21:55
+
+Victim: Blkbeard
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Destroyed: Capsule
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: siliconix (laid the final blow)
+Security: 2.2
+Alliance: None
+Corp: 0utbreak
+Ship: Vagabond
+Weapon: Dual 180mm AutoCannon II
+
+Name: Saal Iverson
+Security: 4.8
+Alliance: None
+Corp: 0utbreak
+Ship: Taranis
+Weapon: Taranis
+
+Name: FraXy
+Security: -4.2
+Alliance: None
+Corp: 0utbreak
+Ship: Guardian
+Weapon: Guardian
+
+Name: ScoRpS
+Security: 2.8
+Alliance: None
+Corp: 0utbreak
+Ship: Crow
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: Incinate
+Security: 2.7
+Alliance: None
+Corp: 0utbreak
+Ship: Vagabond
+Weapon: Dread Guristas Warp Disruptor
+
+

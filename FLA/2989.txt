@@ -1,0 +1,36 @@
+2007.03.21 00:06
+
+Victim: Arkavant Hieronymus
+Alliance: None
+Corp: Brutor tribe
+Destroyed: Reaper
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Minisoza (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Megathron
+Weapon: 425mm Railgun I
+
+
+Destroyed items:
+
+Civilian Gatling Autocannon
+Basic Miner
+280mm Howitzer Artillery II (Cargo)
+200mm AutoCannon II (Cargo)
+Multifrequency S (Cargo)
+Xray S (Cargo)
+Infrared S, Qty: 2 (Cargo)
+Gamma S, Qty: 3 (Cargo)
+Radio S, Qty: 3 (Cargo)
+'Grail' Regenerative Plating I (Cargo)
+Sensor Booster I (Cargo)
+N-Type Kinetic Hardener I, Qty: 4 (Cargo)
+N-Type Explosive Hardener I (Cargo)
+Hornet I (Drone Bay)
+

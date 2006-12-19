@@ -1,0 +1,48 @@
+2006.08.25 00:12
+
+Victim: DARKAS
+Alliance: None
+Corp: LDK
+Destroyed: Curse
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: digital oxygen (laid the final blow)
+Security: 3.4
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Thorax
+Weapon: Light Neutron Blaster II
+
+Name: Kishan Tor
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Caracal
+Weapon: Target Painter I
+
+Name: Kiztent
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Tempest
+Weapon: Vespa II
+
+
+Destroyed items:
+
+E50 Prototype Energy Vampire
+E50 Prototype Energy Vampire
+Medium Unstable Power Fluctuator I
+X5 Prototype I Engine Enervator
+ECM - Multispectral Jammer II
+Medium Armor Repairer II
+Energized Magnetic Membrane II
+Energized Adaptive Nano Membrane II
+Large Shield Booster II (Cargo)
+E500 Prototype Energy Vampire (Cargo)
+'Arbalest' Heavy Missile Launcher (Cargo)
+Small Tractor Beam I (Cargo)
+

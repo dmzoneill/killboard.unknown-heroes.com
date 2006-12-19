@@ -1,0 +1,54 @@
+2007.02.21 05:04
+
+Victim: Zungen
+Alliance: Red Moon Federation
+Corp: Confederation of Red Moon
+Destroyed: Dominix
+System: LT-DRO
+Security: 0.0
+
+Involved parties:
+
+Name: Thafesko (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Nighthawk
+Weapon: Scourge Precision Heavy Missile
+
+Name: PowerGimp
+Security: 4.8
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Cerberus
+Weapon: Scourge Fury Heavy Missile
+
+Name: TroNaaR
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Celestis
+Weapon: Warrior II
+
+Name: Teck7
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ishtar
+Weapon: Valkyrie II
+
+
+Destroyed items:
+
+Medium 'Ghoul' Energy Siphon I
+E500 Prototype Energy Vampire
+Drone Link Augmentor I
+Cap Booster 800
+Cap Booster 800
+Sensor Booster I
+N-Type Thermic Hardener I
+N-Type Kinetic Hardener I
+Reactor Control Unit I
+Warrior II, Qty: 17 (Drone Bay)
+Berserker II (Drone Bay)
+

@@ -1,0 +1,30 @@
+2007.02.24 23:55
+
+Victim: fnar g
+Alliance: Corelum Syndicate
+Corp: Coreli Corporation
+Destroyed: Rifter
+System: YZ-LQL
+Security: 0.0
+
+Involved parties:
+
+Name: Radica (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Taranis
+Weapon: Light Neutron Blaster II
+
+
+Destroyed items:
+
+200mm AutoCannon II
+Barrage S, Qty: 53
+Phalanx Rocket, Qty: 24
+Initiated Warp Jammer I
+200mm Reinforced Rolled Tungsten Plates I
+Inertia Stabilizers I
+Barrage S, Qty: 617 (Cargo)
+Phalanx Rocket, Qty: 369 (Cargo)
+

@@ -1,0 +1,82 @@
+2006.12.19 21:41
+
+Victim: Burn Lump
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Ferox
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: boo3916 (laid the final blow)
+Security: 4.3
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Dominix
+Weapon: Ogre II
+
+Name: Jenessa
+Security: 2.2
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Maelstrom
+Weapon: Maelstrom
+
+Name: Razor Jaxx
+Security: 0.0
+Alliance: None
+Corp: Fate.
+Ship: Tempest
+Weapon: Dual 650mm Repeating Artillery II
+
+Name: WarGod
+Security: -1.8
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Capsule
+Weapon: Berserker SW-900
+
+Name: Jimmycs83
+Security: -2.1
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Capsule
+Weapon: Warden I
+
+Name: taylor04
+Security: -1.7
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Capsule
+Weapon: Heavy Diminishing Power System Drain I
+
+Name: john taylor2
+Security: 3.4
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Myrmidon
+Weapon: Medium Nosferatu I
+
+Name: Assassin 2
+Security: 5.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Dominix
+Weapon: E500 Prototype Energy Vampire
+
+
+Destroyed items:
+
+Dual 150mm Railgun II
+Dual 150mm Railgun II
+Dual 150mm Railgun II
+Antimatter Charge M, Qty: 218
+Large F-S9 Regolith Shield Induction
+Fleeting Warp Scrambler I
+Invulnerability Field I
+Magnetic Field Stabilizer I
+Magnetic Field Stabilizer I
+Power Diagnostic System I
+Havoc Heavy Missile, Qty: 104 (Cargo)
+

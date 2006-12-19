@@ -1,0 +1,47 @@
+2006.11.22 03:22
+
+Victim: Rdired drida
+Alliance: None
+Corp: Ggame Online Corp
+Destroyed: Caldari Shuttle
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: roboto212 (laid the final blow)
+Security: -0.4
+Alliance: Freelancer Alliance
+Corp: Sin-X Inc.
+Ship: Taranis
+Weapon: Light Neutron Blaster II
+
+Name: Etaus
+Security: 1.0
+Alliance: EVE Animal Control
+Corp: F.R.E.E. Explorer
+Ship: Hawk
+Weapon: Hawk
+
+Name: vladdy2
+Security: 3.7
+Alliance: Imperial Republic Of the North
+Corp: VentureCorp
+Ship: Armageddon
+Weapon: Tachyon Beam Laser II
+
+Name: mastermindssr
+Security: 4.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Hawk
+Weapon: 'Arbalest' Standard Missile Launcher
+
+Name: freestrike
+Security: 5.9
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Crow
+Weapon: True Sansha Warp Disruptor
+
+

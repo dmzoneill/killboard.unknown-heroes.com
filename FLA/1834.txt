@@ -1,0 +1,33 @@
+2007.01.06 18:19
+
+Victim: dastommy79
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Destroyed: Executioner
+System: Torrinos
+Security: 0.5
+
+Involved parties:
+
+Name: Fjerkenstad
+Security: -1.9
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Taranis
+Weapon: Taranis
+
+Name: SoulScourge (laid the final blow)
+Security: -1.5
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Tempest Fleet Issue
+Weapon: 1400mm Howitzer Artillery II
+
+
+Destroyed items:
+
+125mm Railgun I
+Warp Disruptor I
+Nanofiber Internal Structure I
+10MN MicroWarpdrive I (Cargo)
+

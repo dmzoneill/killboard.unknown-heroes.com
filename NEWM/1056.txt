@@ -1,0 +1,96 @@
+2007.03.04 12:55
+
+Victim: callonious
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Destroyed: Abaddon
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: EM00 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Raven
+Weapon: Wrath Cruise Missile
+
+Name: Micheal Ross
+Security: 3.4
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: CENTUREAN
+Security: 4.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Ahramaine
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Praetorian Mardou
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+Name: IDesert FoxI
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Pressman1966
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Ship: Rokh
+Weapon: Siege Missile Launcher II
+
+Name: Cockroach
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Zealot
+Weapon: Zealot
+
+
+Destroyed items:
+
+Mega Pulse Laser II
+Mega Pulse Laser II
+Mega Pulse Laser II
+Mega Pulse Laser II
+Multifrequency L
+Multifrequency L
+Multifrequency L
+Multifrequency L
+Multifrequency L
+Multifrequency L
+Cap Booster 800
+Cap Booster 800
+Cap Booster 800
+Cap Booster 800
+Conjunctive Radar ECCM Scanning Array I
+Tracking Computer II
+Large Armor Repairer II
+Heat Sink II
+Heat Sink II
+Tracking Enhancer II
+Power Diagnostic System II
+Multifrequency L (Cargo)
+Scorch L, Qty: 3 (Cargo)
+Conflagration L, Qty: 2 (Cargo)
+Hornet II, Qty: 3 (Drone Bay)
+

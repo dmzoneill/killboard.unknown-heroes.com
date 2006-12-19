@@ -1,0 +1,33 @@
+2007.04.04 17:18
+
+Victim: Slimy Warmachine
+Alliance: The SUdden Death Squad
+Corp: Halfwits
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: FuzzBuzz
+Security: 2.4
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Untamed Fury (laid the final blow)
+Security: 1.2
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Hurricane
+Weapon: 720mm Howitzer Artillery II
+
+Name: pipvac
+Security: 2.8
+Alliance: DeStInY.
+Corp: Sacred Templars
+Ship: Taranis
+Weapon: Taranis
+
+

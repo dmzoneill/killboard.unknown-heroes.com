@@ -1,0 +1,44 @@
+2006.12.08 05:41
+
+Victim: TroNaaR
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Ishkur
+System: I30-3A
+Security: 0.0
+
+Involved parties:
+
+Name: DeasGuCath (laid the final blow)
+Security: 2.8
+Alliance: None
+Corp: Fate.
+Ship: Crusader
+Weapon: Dual Light Pulse Laser II
+
+Name: Phonix
+Security: 1.9
+Alliance: None
+Corp: Fate.
+Ship: Typhoon
+Weapon: Hammerhead II
+
+Name: eXtas
+Security: 2.3
+Alliance: None
+Corp: Kemono.
+Ship: Typhoon
+Weapon: Warrior II
+
+
+Destroyed items:
+
+Small 'Ghoul' Energy Siphon I
+125mm Prototype I Gauss Gun
+125mm Prototype I Gauss Gun
+Antimatter Charge S, Qty: 75
+Initiated Warp Jammer I
+Stasis Webifier I
+Small 'Accommodation' Vestment Reconstructer I
+Hobgoblin II, Qty: 3 (Drone Bay)
+

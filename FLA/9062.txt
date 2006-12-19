@@ -1,0 +1,36 @@
+2006.12.29 17:36
+
+Victim: smudgewales
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Sabre
+System: LT-DRO
+Security: 0.0
+
+Involved parties:
+
+Name: Murdoch Morf (laid the final blow)
+Security: 1.4
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Rupture
+Weapon: Hobgoblin II
+
+
+Destroyed items:
+
+150mm Light Prototype I Automatic Cannon
+150mm Light Prototype I Automatic Cannon
+150mm Light Prototype I Automatic Cannon
+150mm Light Prototype I Automatic Cannon
+EMP S, Qty: 80
+Improved Cloaking Device II
+Bloodclaw Light Missile, Qty: 39
+Standard Missile Launcher I
+Warp Disrupt Probe, Qty: 10
+F-b10 Nominal Capacitor Regenerator
+Catalyzed Cold-Gas I Arcjet Thrusters
+X5 Prototype I Engine Enervator
+Small Armor Repairer II
+EMP S, Qty: 1000 (Cargo)
+

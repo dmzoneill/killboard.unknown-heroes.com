@@ -1,0 +1,27 @@
+2006.09.20 02:36
+
+Victim: machetejim
+Alliance: Freelancer Alliance
+Corp: Terminal Velocity Inc.
+Destroyed: Punisher
+System: G-M4I8
+Security: 0.0
+
+Involved parties:
+
+Name: Gaia's Wrath (laid the final blow)
+Security: 5.0
+Alliance: Rule of Three
+Corp: CHOSEN FATE
+Ship: Taranis
+Weapon: Light Neutron Blaster II
+
+
+Destroyed items:
+
+Medium Pulse Laser I
+Medium Pulse Laser I
+1MN MicroWarpdrive I
+Warp Scrambler I
+Small Armor Repairer I
+

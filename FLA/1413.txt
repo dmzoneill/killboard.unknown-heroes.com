@@ -1,0 +1,30 @@
+2007.03.12 18:14
+
+Victim: Kolan Trar
+Alliance: None
+Corp: Original  Production Material
+Destroyed: Drake
+System: Polaris
+Security: 0.0
+
+Involved parties:
+
+Name: Minmatar Control Tower Small / Di-Tron Heavy Industries (laid the final blow)
+
+
+Destroyed items:
+
+Havoc Heavy Missile, Qty: 64
+Thunderbolt Heavy Missile, Qty: 32
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+Large Azeotropic Ward Salubrity I
+Fleeting Warp Scrambler I
+Photon Scattering Field I
+Invulnerability Field I
+Ballistic Control System I
+Ballistic Control System I
+Power Diagnostic System II
+Power Diagnostic System II
+Thunderbolt Heavy Missile, Qty: 904 (Cargo)
+

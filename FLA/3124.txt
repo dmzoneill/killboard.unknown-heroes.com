@@ -1,0 +1,38 @@
+2007.03.25 03:24
+
+Victim: Colt Python
+Alliance: Privateer Alliance
+Corp: Loot
+Destroyed: Pilgrim
+System: Ikao
+Security: 0.6
+
+Involved parties:
+
+Name: Kaerion Skywalker
+Security: 0.1
+Alliance: Freelancer Alliance
+Corp: Harbingers of Sarrow
+Ship: Raven
+Weapon: Cataclysm Fury Cruise Missile
+
+Name: Miko Keller (laid the final blow)
+Security: 0.4
+Alliance: Freelancer Alliance
+Corp: Harbingers of Sarrow
+Ship: Dominix
+Weapon: Ogre II
+
+
+Destroyed items:
+
+Medium Diminishing Power System Drain I
+Medium Diminishing Power System Drain I
+Warp Disruptor II
+'Hypnos' Multispectral ECM I
+'Hypnos' Multispectral ECM I
+'Hypnos' Multispectral ECM I
+Internal Force Field Array I
+Energized Adaptive Nano Membrane II
+True Sansha Energized Thermic Membrane
+

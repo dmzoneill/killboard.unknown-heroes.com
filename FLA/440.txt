@@ -1,0 +1,33 @@
+2007.02.03 06:28
+
+Victim: Caldari Android
+Alliance: Aftermath Alliance
+Corp: Total Mayhem.
+Destroyed: Capsule
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: truefranco (laid the final blow)
+Security: 0.2
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Swanny231
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Crow
+Weapon: Piranha Light Missile
+
+Name: Anatolli Korenchken
+Security: 5.0
+Alliance: CORE.
+Corp: AUS Corporation
+Ship: Hawk
+Weapon: Bloodclaw Precision Light Missile
+
+

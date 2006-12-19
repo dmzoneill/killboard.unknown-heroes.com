@@ -1,0 +1,45 @@
+2007.03.04 14:24
+
+Victim: Agent Nebuloso
+Alliance: None
+Corp: State War Academy
+Destroyed: Caracal
+System: Aldali
+Security: 0.4
+
+Involved parties:
+
+Name: skitz blitz (laid the final blow)
+Security: -1.3
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Typhoon
+Weapon: Dual 425mm AutoCannon II
+
+Name: Phil Future1
+Security: 0.1
+Alliance: None
+Corp: State War Academy
+Ship: Caracal
+Weapon: XR-3200 Heavy Missile Bay
+
+Name: Sansha's Slavehunter / True Power
+
+
+Destroyed items:
+
+Widowmaker Heavy Missile, Qty: 20
+Scourge Heavy Missile, Qty: 24
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+XR-3200 Heavy Missile Bay
+XR-3200 Heavy Missile Bay
+Y-S8 Hydrocarbon I Afterburners
+Heat Dissipation Amplifier I
+Ballistic Control System I
+Mark I Generator Refitting: Reaction Control
+Prototype I Freight Sensors (Cargo)
+Small I-ax Regenerative Projector (Cargo)
+Sansha Ship Log 322301875 (Cargo)
+Widowmaker Heavy Missile, Qty: 1275 (Cargo)
+

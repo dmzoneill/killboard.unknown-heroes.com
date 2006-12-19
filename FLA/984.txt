@@ -1,0 +1,39 @@
+2007.03.02 14:05
+
+Victim: Eug316
+Alliance: Aftermath Alliance
+Corp: Dark Nebula Gallente Division
+Destroyed: Rifter
+System: YZ-LQL
+Security: 0.0
+
+Involved parties:
+
+Name: sakana
+Security: -0.9
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Eris
+Weapon: Eris
+
+Name: Dark Carnage (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Crow
+Weapon: Sabretooth Light Missile
+
+Name: Banlish
+Security: 0.2
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ishkur
+Weapon: Light Electron Blaster II
+
+
+Destroyed items:
+
+280mm Howitzer Artillery I
+1MN MicroWarpdrive I
+Stasis Webifier I
+

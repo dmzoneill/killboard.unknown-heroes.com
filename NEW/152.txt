@@ -1,0 +1,132 @@
+2007.01.28 04:21
+
+Victim: Zel'Morith
+Alliance: None
+Corp: Garoun Investment Bank
+Destroyed: Hyperion
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Nya
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Nidhoggur
+Weapon: Dragonfly
+
+Name: sakana (laid the final blow)
+Security: -1.2
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Astarte
+Weapon: Heavy Ion Blaster II
+
+Name: MrMaggot
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Scorpion
+Weapon: Hammerhead I
+
+Name: Jorax
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Enyo
+Weapon: Enyo
+
+Name: Nukuquqa Hestase
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Caracal
+Weapon: Piranha Light Missile
+
+Name: ventura5
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Lux0r
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: TroNaaR
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Celestis
+Weapon: Celestis
+
+Name: Shassandra
+Security: 4.5
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Taranis
+Weapon: Taranis
+
+Name: Weeble Wooble
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Catalyst
+Weapon: Catalyst
+
+Name: FlobbMkII
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Taranis
+Weapon: Taranis
+
+Name: silvrhawk
+Security: 4.4
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Crow
+Weapon: 'Arbalest' Rocket Launcher I
+
+Name: Indigo Callypso
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Hawk
+Weapon: Remote Sensor Dampener I
+
+Name: Fugnut
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Drake
+Weapon: Induced Multispectral ECM I
+
+Name: Bobby Atlas
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Hyperion
+Weapon: Hyperion
+
+
+Destroyed items:
+
+425mm Prototype I Gauss Gun, Qty: 5
+Antimatter Charge L, Qty: 240
+Sensor Booster I
+Optical Tracking Computer I
+Large 'Accommodation' Vestment Reconstructer I
+Magnetic Field Stabilizer II
+Mark I Generator Refitting: Reaction Control
+Small Nosferatu I (Cargo)
+Small Energy Neutralizer I (Cargo)
+Antimatter Charge L, Qty: 373 (Cargo)
+Cap Booster 800, Qty: 12 (Cargo)
+ECM - Spatial Destabilizer I (Cargo)
+Wasp I (Drone Bay)

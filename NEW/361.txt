@@ -1,0 +1,67 @@
+2007.03.14 23:39
+
+Victim: royce jones
+Alliance: None
+Corp: Perkone
+Destroyed: Scorpion
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: digital oxygen
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Megathron
+Weapon: Megathron
+
+Name: Eleri Bree (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Taranis
+Weapon: 125mm Railgun II
+
+Name: Imaginary Number
+Security: 3.7
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Prophecy
+Weapon: Prophecy
+
+Name: Smiles Jr
+Security: 2.3
+Alliance: Freelancer Alliance
+Corp: The Night Crew
+Ship: Bellicose
+Weapon: Bellicose
+
+Name: r Cubed
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: The Night Crew
+Ship: Scorpion
+Weapon: Paradise Cruise Missile
+
+Name: Arbitrus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Ship: Hawk
+Weapon: Sabretooth Precision Light Missile
+
+Name: XxSOULxX
+Security: -1.2
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Thorax
+Weapon: Medium Nosferatu I
+
+Name: Darthirishguy
+Security: 1.1
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Raven
+Weapon: 'Arbalest' Cruise Launcher I
+

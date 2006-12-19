@@ -1,0 +1,50 @@
+2007.03.10 21:54
+
+Victim: Flying Underpants
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Destroyed: Enyo
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Eelim Garak (laid the final blow)
+Security: 1.3
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Sacrilege
+Weapon: Heavy Pulse Laser II
+
+Name: Yarr Harr
+Security: -1.0
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Prophecy
+Weapon: Warrior II
+
+Name: Janis Praag
+Security: 5.0
+Alliance: Chorus of Dawn
+Corp: Cosmic Odyssey
+Ship: Ibis
+Weapon: Civilian Gatling Railgun
+
+
+Destroyed items:
+
+Light Ion Blaster II
+Light Ion Blaster II
+Light Ion Blaster II
+Prototype Cloaking Device I
+Initiated Warp Jammer I
+Magnetic Field Stabilizer I
+200mm Reinforced Nanofiber Plates I
+Inertia Stabilizers I
+Modal Light Ion Particle Accelerator I, Qty: 2 (Cargo)
+Light Neutron Blaster II, Qty: 4 (Cargo)
+Antimatter Charge S, Qty: 1266 (Cargo)
+Warp Core Stabilizer I (Cargo)
+Phalanx Rocket, Qty: 30 (Cargo)
+Type-D Power Core Modification: Diagnostic System (Cargo)
+

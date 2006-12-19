@@ -1,0 +1,29 @@
+2006.09.29 08:05
+
+Victim: furrows
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Destroyed: Harpy
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Noitaakka (laid the final blow)
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+
+Destroyed items:
+
+Small 'Knave' I Energy Drain
+Light Neutron Blaster II
+Light Ion Blaster II
+Void S, Qty: 148
+Medium Shield Extender II
+Phased Monopropellant I Hydrazine Boosters
+Antimatter Charge S, Qty: 360 (Cargo)
+

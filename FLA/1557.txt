@@ -1,0 +1,38 @@
+2007.03.16 17:34
+
+Victim: wph0r
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Destroyed: Crow
+System: XZH-4X
+Security: 0.0
+
+Involved parties:
+
+Name: Tregaron (laid the final blow)
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Cyclone
+Weapon: Vespa II
+
+Name: R4Z0R49
+Security: 4.5
+Alliance: Freelancer Alliance
+Corp: Feel Good Inc.
+Ship: Raven
+Weapon: Wrath Cruise Missile
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 46
+Standard Missile Launcher II
+Warp Disruptor II
+Micro Capacitor Booster II
+Local Hull Conversion Inertial Stabilizers I
+Local Hull Conversion Inertial Stabilizers I
+Cap Booster 100, Qty: 20 (Cargo)
+Sabretooth Light Missile, Qty: 700 (Cargo)
+Bloodclaw Light Missile, Qty: 481 (Cargo)
+

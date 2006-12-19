@@ -1,0 +1,87 @@
+2006.04.09 20:03
+
+Victim: Laboratus
+Alliance: Freelancer Alliance
+Corp: BGG
+Destroyed: Megathron
+System: CZDJ-1
+Security: 0.0
+
+Involved parties:
+
+Name: The Countess
+Security: -0.5
+Alliance: The Five
+Corp: Delta team
+Ship: Raven
+Weapon: Siege Missile Launcher II
+
+Name: Awalance
+Security: -1.1
+Alliance: The Five
+Corp: Delta team
+Ship: Tempest
+Weapon: Tempest
+
+Name: GoranMortok
+Security: 2.5
+Alliance: The Five
+Corp: Delta team
+Ship: Apocalypse
+Weapon: Apocalypse
+
+Name: k1Lz
+Security: 1.1
+Alliance: The Five
+Corp: Delta team
+Ship: Tempest
+Weapon: Tempest
+
+Name: Talaman
+Security: -1.6
+Alliance: The Five
+Corp: Delta team
+Ship: Tempest
+Weapon: Tempest
+
+Name: Tycalos
+Security: 3.0
+Alliance: The Five
+Corp: Delta team
+Ship: Apocalypse
+Weapon: Apocalypse
+
+Name: TheJackalKiller (laid the final blow)
+Security: 3.5
+Alliance: The Five
+Corp: Delta team
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: BlueOrca
+Security: 4.7
+Alliance: The Five
+Corp: Delta team
+Ship: Megathron
+Weapon: Megathron
+
+Name: Thabita
+Security: 5.0
+Alliance: The Five
+Corp: Delta team
+Ship: Megathron
+Weapon: Megathron
+
+Name: k0nkAs0r
+Security: 5.0
+Alliance: The Five
+Corp: Delta team
+Ship: Scorpion
+Weapon: 'Malkuth' Cruise Launcher I
+
+
+Destroyed items:
+
+Antimatter Charge L, Qty: 2601 (Cargo)
+Tungsten Charge L, Qty: 2241 (Cargo)
+

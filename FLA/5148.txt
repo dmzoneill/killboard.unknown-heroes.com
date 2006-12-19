@@ -1,0 +1,26 @@
+2007.01.15 20:47
+
+Victim: Powers1
+Alliance: Freelancer Alliance
+Corp: Feel Good Inc.
+Destroyed: Capsule
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Waut (laid the final blow)
+Security: 4.5
+Alliance: None
+Corp: 0utbreak
+Ship: Crow
+Weapon: Gremlin Rocket
+
+Name: EnglishBob
+Security: 0.3
+Alliance: None
+Corp: 0utbreak
+Ship: Curse
+Weapon: J5 Prototype Warp Inhibitor I
+
+

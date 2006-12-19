@@ -1,0 +1,40 @@
+2006.10.09 14:49
+
+Victim: KPACAB4Er
+Alliance: R.I.S.K
+Corp: Russian Specnaz
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Zylatis
+Security: 3.6
+Alliance: CORE.
+Corp: AUS Corporation
+Ship: Ferox
+Weapon: Ferox
+
+Name: dastommy79
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Merlin
+Weapon: Merlin
+
+Name: Severa Crest (laid the final blow)
+Security: 1.9
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Ship: Muninn
+Weapon: 720mm Howitzer Artillery II
+
+Name: Nil Desperandum
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Omen
+Weapon: Heavy Modulated Pulse Energy Beam I
+
+

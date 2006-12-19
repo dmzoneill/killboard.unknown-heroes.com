@@ -1,0 +1,19 @@
+2006.06.29 05:30
+
+Victim: JASPS
+Alliance: Freelancer Alliance
+Corp: KHM Corporation
+Destroyed: Capsule
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Kismeteer (laid the final blow)
+Security: 2.7
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Brutix
+Weapon: Modal Neutron Particle Accelerator I
+
+

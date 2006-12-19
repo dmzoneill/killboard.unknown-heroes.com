@@ -1,0 +1,37 @@
+2007.03.22 07:46
+
+Victim: Vinsor
+Alliance: YouWhat
+Corp: Beasts of Burden
+Destroyed: Merlin
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Shuttlemaster (laid the final blow)
+Security: 5.0
+Alliance: Zenith Affinity
+Corp: GREY COUNCIL
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+Name: Nyack
+Security: 5.0
+Alliance: Zenith Affinity
+Corp: GREY COUNCIL
+Ship: Vulture
+Weapon: 250mm Railgun II
+
+Name: Nukuquqa Hestase
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Harpy
+Weapon: Harpy
+
+
+Destroyed items:
+
+Stasis Webifier I
+Warp Core Stabilizer I

@@ -1,0 +1,19 @@
+2007.03.03 04:04
+
+Victim: Jorax
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Capsule
+System: IR-WT1
+Security: 0.0
+
+Involved parties:
+
+Name: SI RedLeg (laid the final blow)
+Security: -0.3
+Alliance: None
+Corp: Blackguard Brigade
+Ship: Absolution
+Weapon: Heavy Pulse Laser II
+
+

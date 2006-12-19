@@ -1,0 +1,64 @@
+2007.02.18 19:44
+
+Victim: Cockroach
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Vengeance
+System: Gelfiven
+Security: 0.6
+
+Involved parties:
+
+Name: Puffer
+Security: -1.9
+Alliance: Privateer Alliance
+Corp: coracao ardente
+Ship: Huginn
+Weapon: Valkyrie II
+
+Name: Prez21 (laid the final blow)
+Security: -0.8
+Alliance: Privateer Alliance
+Corp: coracao ardente
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Kai page
+Security: -1.0
+Alliance: Privateer Alliance
+Corp: coracao ardente
+Ship: Ares
+Weapon: Flameburst Light Missile
+
+Name: RaSSs
+Security: 0.3
+Alliance: Privateer Alliance
+Corp: coracao ardente
+Ship: Curse
+Weapon: Sabretooth Light Missile
+
+
+Destroyed items:
+
+Dual Light Beam Laser II
+Dual Light Beam Laser II
+Aurora S
+Aurora S
+Exterminator F.O.F. Light Missile I, Qty: 45
+'Arbalest' Standard Missile Launcher
+Fleeting Propulsion Inhibitor I
+Energized Adaptive Nano Membrane I
+Nanofiber Internal Structure I
+Local Power Plant Manager: Capacity Power Relay I
+Capacitor Power Relay I
+Infrared S, Qty: 2 (Cargo)
+Multifrequency S, Qty: 3 (Cargo)
+Ultraviolet S, Qty: 3 (Cargo)
+Gamma S, Qty: 3 (Cargo)
+Xray S, Qty: 2 (Cargo)
+Gleam S, Qty: 3 (Cargo)
+Sabretooth Light Missile, Qty: 148 (Cargo)
+Flameburst Light Missile, Qty: 100 (Cargo)
+Piranha Light Missile, Qty: 156 (Cargo)
+Exterminator F.O.F. Light Missile I, Qty: 452 (Cargo)
+

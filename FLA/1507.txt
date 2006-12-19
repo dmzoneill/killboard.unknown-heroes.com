@@ -1,0 +1,39 @@
+2007.03.15 01:43
+
+Victim: El Coyote
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Destroyed: Raptor
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Daedal Virtu (laid the final blow)
+Security: 1.4
+Alliance: Freelancer Alliance
+Corp: Blackwater Squadron
+Ship: Curse
+Weapon: Vespa II
+
+Name: John Linski
+Security: 4.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Unknown
+Weapon: XR-3200 Heavy Missile Bay
+
+
+Destroyed items:
+
+Prototype Cloaking Device I
+Bloodclaw Light Missile, Qty: 38
+Upgraded 'Limos' Standard Missile Bay I
+1MN MicroWarpdrive I
+Mark I Modified SS Inertial Stabilizers
+Nanofiber Internal Structure I
+Invulnerability Field I (Cargo)
+Large 'Arup' I Remote Bulwark Reconstruction (Cargo)
+Bloodclaw Light Missile, Qty: 412 (Cargo)
+Reactor Control Unit I (Cargo)
+

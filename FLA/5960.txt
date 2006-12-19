@@ -1,0 +1,33 @@
+2006.11.03 15:30
+
+Victim: Arctic Ice
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Destroyed: Capsule
+System: YI-8ZM
+Security: 0.0
+
+Involved parties:
+
+Name: Noitaakka (laid the final blow)
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Ishtar
+Weapon: Modal Light Ion Particle Accelerator I
+
+Name: Zalamus
+Security: 3.8
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Ishkur
+Weapon: Fleeting Warp Scrambler I
+
+Name: W4RR10R
+Security: 3.8
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Deimos
+Weapon: Faint Warp Prohibitor I
+
+

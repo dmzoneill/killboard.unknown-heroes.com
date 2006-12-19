@@ -1,0 +1,65 @@
+2006.11.08 20:54
+
+Victim: Aphotic Raven
+Alliance: Eternal Empire
+Corp: Spectral Armada
+Destroyed: Thorax
+System: O-N8XZ
+Security: 0.0
+
+Involved parties:
+
+Name: Ka Mi
+Security: 3.7
+Alliance: Chorus of Dawn
+Corp: Thanos and Killjoy Productions
+Ship: Capsule
+Weapon: Medium Nosferatu I
+
+Name: Formosus Funus
+Security: 3.8
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Wolf
+Weapon: Wolf
+
+Name: Dog Cancer (laid the final blow)
+Security: 1.4
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: bidman
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Harpy
+Weapon: Harpy
+
+Name: Elfaen Ethenwe
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Rook
+Weapon: Heavy Missile Launcher II
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Light Neutron Blaster I
+Antimatter Charge S, Qty: 53
+10MN Afterburner II
+Medium Armor Repairer I
+'Collateral' Adaptive Nano Plating I
+Medium Shield Booster I (Cargo)
+F-b10 Nominal Capacitor Regenerator (Cargo)
+10MN Afterburner II (Cargo)
+'Langour' Drive Disruptor I (Cargo)
+Medium Nosferatu I (Cargo)
+Antimatter Charge S, Qty: 2000 (Cargo)
+Hornet II, Qty: 3 (Cargo)
+'Malkuth' Heavy Missile Launcher I (Cargo)
+Infiltrator I (Drone Bay)
+

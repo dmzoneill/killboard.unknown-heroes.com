@@ -1,0 +1,107 @@
+2007.05.07 22:40
+
+Victim: Mocuker
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Destroyed: Raven
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: KaKaShI
+Security: 4.2
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Capsule
+Weapon: Mega Modulated Pulse Energy Beam I
+
+Name: Grinkor
+Security: 5.0
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Diego Barbera
+Security: 0.9
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Dominix
+Weapon: Ogre I
+
+Name: Arrissy
+Security: 5.0
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Drake
+Weapon: Heavy Missile Launcher I
+
+Name: ZIQUET
+Security: 5.0
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Deimos
+Weapon: Deimos
+
+Name: Nemesys 8
+Security: 4.5
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Hawk
+Weapon: Bloodclaw Light Missile
+
+Name: SaNoSuKeJavi (laid the final blow)
+Security: -2.0
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+Name: inuman fr
+Security: 5.0
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: karbun kell
+Security: 0.2
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Claw
+Weapon: Claw
+
+Name: stich626
+Security: -1.2
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Unknown
+Weapon: Medium Nosferatu II
+
+Name: Sukur
+Security: 5.0
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Arbitrator
+Weapon: Valkyrie II
+
+Name: Neptoone
+Security: -1.3
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Arbitrator
+Weapon: Infiltrator I
+
+
+Destroyed items:
+
+Mjolnir Torpedo, Qty: 11
+Paradise Cruise Missile, Qty: 31
+XT-9000 Cruise Launcher
+'Arbalest' Siege Missile Launcher
+F-90 Positional Sensor Subroutines
+Viscoelastic EM Ward Salubrity I
+Damage Control II
+1600mm Reinforced Rolled Tungsten Plates I
+

@@ -1,0 +1,28 @@
+2007.03.08 13:12
+
+Victim: Marcus Covas
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Destroyed: Badger Mark II
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: GoLdeN BoY (laid the final blow)
+Security: -1.0
+Alliance: None
+Corp: Zero.
+Ship: Dominix
+Weapon: Hammerhead I
+
+
+Destroyed items:
+
+Medium Azeotropic Ward Salubrity I
+Medium C5-L Emergency Shield Overload I
+Ballistic Deflection Field I
+Additional Thermal Barrier Emitter I
+Expanded Cargohold I
+Expanded Cargohold I
+

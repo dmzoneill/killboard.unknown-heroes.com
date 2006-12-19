@@ -1,0 +1,61 @@
+2006.11.18 21:33
+
+Victim: Fertile Dirt
+Alliance: None
+Corp: FM Corp
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Scorpio63 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Vengeance
+Weapon: Dual Light Beam Laser II
+
+Name: LizzyD
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Ishkur
+Weapon: 150mm Railgun II
+
+Name: Weuzor
+Security: 0.0
+Alliance: Dusk and Dawn
+Corp: Asgard Schiffswerften
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: RheinKraft10
+Security: 3.9
+Alliance: Dusk and Dawn
+Corp: Asgard Schiffswerften
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+Name: LiBraga
+Security: 4.1
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Rook
+Weapon: Heavy Missile Launcher II
+
+Name: H3llfire
+Security: 3.2
+Alliance: O X I D E
+Corp: W33D Corp.
+Ship: Caracal
+Weapon: Heavy Missile Launcher I
+
+Name: Aquamundi
+Security: 2.9
+Alliance: Dusk and Dawn
+Corp: Asgard Schiffswerften
+Ship: Taranis
+Weapon: Taranis
+
+

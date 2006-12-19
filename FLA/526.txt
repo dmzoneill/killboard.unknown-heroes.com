@@ -1,0 +1,40 @@
+2007.02.09 18:07
+
+Victim: Dekta
+Alliance: None
+Corp: State War Academy
+Destroyed: Capsule
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Stitcher
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: J.I.T. Enterprises
+Ship: Harbinger
+Weapon: Harbinger
+
+Name: Teck7 (laid the final blow)
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Lachesis
+Weapon: 250mm Carbide Railgun I
+
+Name: Tiberius Drake
+Security: 3.4
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Thorax
+Weapon: Dual 150mm Railgun I
+
+Name: Rhaall
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Crucifier
+Weapon: Warp Disruptor I
+
+

@@ -1,0 +1,159 @@
+2007.03.04 22:39
+
+Victim: 6BlackDeath9
+Alliance: Xelas Alliance
+Corp: Nemesis Industries
+Destroyed: Hurricane
+System: 9-VO0Q
+Security: 0.0
+
+Involved parties:
+
+Name: Torquemanda Corteaz
+Security: 3.9
+Alliance: Dusk and Dawn
+Corp: Infinite Improbability Inc
+Ship: Megathron
+Weapon: Megathron
+
+Name: Sniperpirate
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Infinite Improbability Inc
+Ship: Apocalypse
+Weapon: Apocalypse
+
+Name: NanEIre
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+Name: Madral
+Security: -0.2
+Alliance: Dusk and Dawn
+Corp: Cataclysm Enterprises
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Shinobi Jonin
+Security: 5.0
+Alliance: The Foundation.
+Corp: Cornerstone Unlimited
+Ship: Huginn
+Weapon: Havoc Heavy Missile
+
+Name: Xantheris
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Harpy
+Weapon: Harpy
+
+Name: Schneemann
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Intergalactic Serenity
+Ship: Huginn
+Weapon: Huginn
+
+Name: Caarnji
+Security: -1.9
+Alliance: Dusk and Dawn
+Corp: ECP Rogues
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Praetorian Mardou
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Flinx Evenstar
+Security: -1.2
+Alliance: Dusk and Dawn
+Corp: Momentum.
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: Sey'ada
+Security: 2.8
+Alliance: Dusk and Dawn
+Corp: Decadence.
+Ship: Apocalypse
+Weapon: Apocalypse
+
+Name: rabodeamor (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Scorpion
+Weapon: Cataclysm Cruise Missile
+
+Name: Fout Debiele
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Cataclysm Enterprises
+Ship: Myrmidon
+Weapon: 250mm Railgun II
+
+Name: huxorator
+Security: 2.5
+Alliance: Dusk and Dawn
+Corp: Intergalactic Serenity
+Ship: Raptor
+Weapon: Raptor
+
+Name: Dana Foxworth
+Security: 3.2
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Rupture
+Weapon: 650mm Artillery Cannon I
+
+Name: Recon One
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Infinite Improbability Inc
+Ship: Harbinger
+Weapon: Heavy Beam Laser II
+
+Name: Mauy Thai
+Security: -1.4
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Curse
+Weapon: Havoc Heavy Missile
+
+Name: Tregaron
+Security: 1.7
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Cyclone
+Weapon: Cyclone
+
+Name: Khalar Terres
+Security: 3.7
+Alliance: Dusk and Dawn
+Corp: moon7empler
+Ship: Flycatcher
+Weapon: Thorn Rocket
+
+
+Destroyed items:
+
+720mm Howitzer Artillery I
+EMP M, Qty: 40
+Heavy Missile Launcher I
+Prototype I Sensor Booster
+Medium Armor Repairer II
+N-Type Kinetic Hardener I
+Voltaic Nanite Explosive Hardener I
+Power Diagnostic System I
+Carbonized Lead M, Qty: 1879 (Cargo)
+Scourge Heavy Missile, Qty: 1356 (Cargo)
+Hammerhead I, Qty: 3 (Drone Bay)
+

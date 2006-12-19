@@ -1,0 +1,33 @@
+2007.03.05 01:50
+
+Victim: phoenixsun
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Destroyed: Thorax
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: taylor04 (laid the final blow)
+Security: 2.7
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Sleipnir
+Weapon: 425mm AutoCannon II
+
+
+Destroyed items:
+
+150mm Railgun II
+150mm Railgun II
+150mm Railgun II
+Spike S, Qty: 116
+Fleeting Warp Scrambler I
+X5 Prototype I Engine Enervator
+Energized Adaptive Nano Membrane I
+N-Type Explosive Hardener I
+1600mm Reinforced Rolled Tungsten Plates I
+Javelin S, Qty: 32 (Cargo)
+Hammerhead II, Qty: 2 (Drone Bay)
+

@@ -1,0 +1,85 @@
+2007.01.19 22:30
+
+Victim: ClogMan
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Destroyed: Raven
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: xlop
+Security: -1.2
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Megathron
+Weapon: Megathron
+
+Name: boo3916
+Security: 4.7
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Raven
+Weapon: Inferno Javelin Torpedo
+
+Name: Elliott Manchild
+Security: -0.5
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Tempest
+Weapon: Tempest
+
+Name: Unfortunate Accident (laid the final blow)
+Security: -1.9
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: K Shara
+Security: 4.8
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Raven
+Weapon: Cataclysm Cruise Missile
+
+Name: Pistonbroke
+Security: 0.4
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Scorpion
+Weapon: 'Limos' Cruise Launcher I
+
+Name: McGin
+Security: -3.5
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Megathron
+Weapon: Tracking Disruptor II
+
+Name: Anna Neura
+Security: -0.2
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Lachesis
+Weapon: Remote Sensor Dampener II
+
+
+Destroyed items:
+
+Heavy 'Ghoul' Energy Siphon I
+Medium Nosferatu I
+Cataclysm Cruise Missile, Qty: 60
+'Limos' Cruise Launcher I, Qty: 3
+Indirect Scanning Dampening Unit I
+Remote Sensor Dampener I
+Sensor Booster II
+Damage Control I
+Large Armor Repairer I
+1600mm Reinforced Crystalline Carbonide Plates I
+Muon Coil Bolt Array I
+Devastator Cruise Missile, Qty: 100 (Cargo)
+Cataclysm Cruise Missile, Qty: 1998 (Cargo)
+Hunter F.O.F. Cruise Missile I, Qty: 500 (Cargo)
+Valkyrie I, Qty: 5 (Drone Bay)

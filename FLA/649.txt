@@ -1,0 +1,64 @@
+2007.02.14 04:46
+
+Victim: Pancakes 01
+Alliance: None
+Corp: The Gray Brotherhood
+Destroyed: Blackbird
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: JaiMaster
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Typhoon
+Weapon: Typhoon
+
+Name: Etaus
+Security: 1.1
+Alliance: EVE Animal Control
+Corp: F.R.E.E. Explorer
+Ship: Drake
+Weapon: 'Arbalest' Heavy Assault Missile Launcher I
+
+Name: DUDEMAN1420 (laid the final blow)
+Security: 3.7
+Alliance: Soldiers of the Forgotten Abyss
+Corp: ATOMIC SHOCK
+Ship: Ishtar
+Weapon: Hammerhead II
+
+Name: Xantheris
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Taranis
+Weapon: Taranis
+
+Name: g3cko
+Security: -2.3
+Alliance: THE R0CK
+Corp: The Keep
+Ship: Crusader
+Weapon: Crusader
+
+Name: Demondrew
+Security: 0.1
+Alliance: O X I D E
+Corp: Majestic Technology
+Ship: Hurricane
+Weapon: 425mm AutoCannon I
+
+
+Destroyed items:
+
+Thunderbolt Heavy Missile, Qty: 56
+Compulsive Ion Field ECM I
+Compulsive Ion Field ECM I
+Compulsive Ion Field ECM I
+Compulsive Ion Field ECM I
+Havoc Heavy Missile, Qty: 1000 (Cargo)
+Fathom Scanner Probe I, Qty: 2 (Cargo)
+

@@ -1,0 +1,107 @@
+2006.10.14 02:09
+
+Victim: Clinton Mitchell
+Alliance: None
+Corp: Exercitus Ruina
+Destroyed: Raven
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: W4RR10R (laid the final blow)
+Security: 1.1
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Megathron
+Weapon: Ogre I
+
+Name: Ashr
+Security: 1.4
+Alliance: Freelancer Alliance
+Corp: Abandoned Resolve Corporation
+Ship: Raven
+Weapon: Mjolnir Torpedo
+
+Name: Formosus Funus
+Security: 2.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Tempest
+Weapon: Tempest
+
+Name: Hosanna
+Security: -0.1
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Typhoon
+Weapon: Paradise Cruise Missile
+
+Name: Valadeya uthanaras
+Security: 4.1
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Count Rayken
+Security: 0.4
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Taranis
+Weapon: Taranis
+
+Name: Preying Mantis
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Harpy
+Weapon: Harpy
+
+Name: Seventh Star
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Sabre
+Weapon: Sabre
+
+Name: Barukor
+Security: 2.3
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery I
+
+Name: Soliloquil
+Security: 3.4
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Caracal
+Weapon: Thunderbolt Heavy Missile
+
+Name: Slinktress
+Security: 1.7
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Ishkur
+Weapon: Ishkur
+
+
+Destroyed items:
+
+Miner II
+Miner II
+Medium 'Ghoul' Energy Siphon I
+Scourge Heavy Missile, Qty: 33
+Advanced 'Limos' Heavy Missile Bay I
+Advanced 'Limos' Heavy Missile Bay I
+Large F-S9 Regolith Shield Induction
+Large F-S9 Regolith Shield Induction
+'Langour' Drive Disruptor I (Cargo)
+Muon Coil Bolt Array I (Cargo)
+Bloodclaw Light Missile, Qty: 242 (Cargo)
+Scourge Heavy Missile, Qty: 574 (Cargo)
+TE-2100 Standard Missile Bay (Cargo)
+Small Tractor Beam I (Cargo)
+Nanofiber Internal Structure I (Cargo)
+

@@ -1,0 +1,89 @@
+2006.10.06 22:15
+
+Victim: Chris Lewis
+Alliance: None
+Corp: Black Riders
+Destroyed: Cormorant
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: GrandMastaXP
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Hawk
+Weapon: Sabretooth Light Missile
+
+Name: Lone flyer
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Zealot
+Weapon: Heavy Pulse Laser II
+
+Name: Jumar Coldgin (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+Name: movy
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: W4RR10R
+Security: 0.4
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Deimos
+Weapon: Faint Warp Prohibitor I
+
+Name: Preying Mantis
+Security: 4.8
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Typhoon
+Weapon: Heavy 'Knave' I Energy Drain
+
+Name: Noitaakka
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Vexor
+Weapon: ECM - Multispectral Jammer II
+
+Name: Karas Rabus
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Huginn
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: Flashh Gorden
+Security: 1.9
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Ship: Ferox
+Weapon: 'Arbalest' Heavy Missile Launcher
+
+Name: Drakin Korin
+Security: 3.2
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Ishtar
+Weapon: Fleeting Warp Scrambler I
+
+
+Destroyed items:
+
+Miner II
+Miner II
+Radio S
+Plastic Wrap (Cargo)
+

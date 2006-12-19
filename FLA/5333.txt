@@ -1,0 +1,42 @@
+2007.04.25 04:07
+
+Victim: Rhaven
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Destroyed: Maller
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Sedith (laid the final blow)
+Security: 1.7
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Aeon
+Weapon: Berserker II
+
+Name: Arkezxa Kae'Tal
+Security: 2.8
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Typhoon
+Weapon: E500 Prototype Energy Vampire
+
+
+Destroyed items:
+
+Focused Medium Beam Laser I
+Radio M
+Radio M
+Radio M
+F-b10 Nominal Capacitor Regenerator
+Optical Tracking Computer I
+Damage Control II
+Adaptive Nano Plating II
+Magnetic Plating II
+Magnetic Plating II
+800mm Reinforced Steel Plates II
+Antimatter Charge L, Qty: 1041 (Cargo)
+Multifrequency M, Qty: 3 (Cargo)
+

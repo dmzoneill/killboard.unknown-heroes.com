@@ -1,0 +1,59 @@
+2007.01.28 17:39
+
+Victim: Lancelot Wellborn
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Destroyed: Moa
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Havvok
+Security: 1.9
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Dominix
+Weapon: Wasp II
+
+Name: Nira Li
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Harbinger
+Weapon: Harbinger
+
+Name: Bone Collector44
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Armageddon
+Weapon: Tachyon Beam Laser I
+
+Name: Memphisz (laid the final blow)
+Security: 0.3
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Pyrotesea
+Security: 4.6
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Hyperion
+Weapon: 425mm Railgun II
+
+
+Destroyed items:
+
+200mm Prototype I Gauss Gun
+Antimatter Charge M, Qty: 133
+Scourge Heavy Missile, Qty: 49
+Heavy Missile Launcher I
+Medium Shield Booster II
+10MN MicroWarpdrive I
+Warp Disruptor I
+Target Painter I
+Power Diagnostic System I
+

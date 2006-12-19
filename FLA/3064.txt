@@ -1,0 +1,26 @@
+2007.03.23 21:01
+
+Victim: yeshio
+Alliance: None
+Corp: Doomsday Corp
+Destroyed: Capsule
+System: O-ZXUV
+Security: 0.0
+
+Involved parties:
+
+Name: Weeble Wooble (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Eris
+Weapon: 150mm Railgun II
+
+Name: ConXtionS
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: The Night Crew
+Ship: Tristan
+Weapon: Tristan
+
+

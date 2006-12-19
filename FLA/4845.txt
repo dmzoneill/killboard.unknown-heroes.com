@@ -1,0 +1,48 @@
+2007.04.17 09:51
+
+Victim: truefranco
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Destroyed: Thorax
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Lyticus
+Security: -1.8
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Rapier
+Weapon: Hammerhead II
+
+Name: Tomas Ysidro (laid the final blow)
+Security: 1.7
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Eos
+Weapon: Heavy Ion Blaster II
+
+Name: Otto Bismarck
+Security: 3.6
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Eos
+Weapon: Hobgoblin II
+
+
+Destroyed items:
+
+Light Neutron Blaster I
+Regulated Ion Phase Cannon I
+Limited Ion Blaster I
+Heavy Ion Blaster I
+Antimatter Charge M, Qty: 240
+Iron Charge S, Qty: 80
+Stasis Webifier I
+Medium Armor Repairer I
+Armor Kinetic Hardener I
+Antimatter Charge M (Cargo)
+Iron Charge S, Qty: 140 (Cargo)
+Warrior I, Qty: 6 (Drone Bay)
+

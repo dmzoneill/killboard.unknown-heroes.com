@@ -1,0 +1,35 @@
+2006.12.23 01:40
+
+Victim: Morkt Drakt
+Alliance: The OSS
+Corp: Black Omega Security
+Destroyed: Sabre
+System: OWXT-5
+Security: 0.0
+
+Involved parties:
+
+Name: Enochios (laid the final blow)
+Security: 2.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Coercer
+Weapon: Medium Pulse Laser II
+
+
+Destroyed items:
+
+280mm Howitzer Artillery II
+280mm Howitzer Artillery II
+EMP S, Qty: 100
+Warp Disrupt Probe, Qty: 10
+Catalyzed Cold-Gas I Arcjet Thrusters
+Sensor Booster II
+Cold-Gas I Arcjet Thrusters (Cargo)
+EMP S, Qty: 1240 (Cargo)
+Hammerhead II (Cargo)
+Initiated Multispectral ECM I (Cargo)
+Tracking Computer II (Cargo)
+Improved Cloaking Device II (Cargo)
+Salvager I (Cargo)
+

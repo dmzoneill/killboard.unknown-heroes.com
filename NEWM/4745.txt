@@ -1,0 +1,118 @@
+2007.04.20 23:43
+
+Victim: Shihaya xi
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Drake
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Remontoir
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Raven
+Weapon: Wrath Cruise Missile
+
+Name: The Cade
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Thorax
+Weapon: Thorax
+
+Name: Dana Foxworth (laid the final blow)
+Security: 3.7
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery I
+
+Name: Kaand
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Thorax
+Weapon: Hammerhead I
+
+Name: coldkill
+Security: 1.9
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Thorax
+Weapon: Medium 'Ghoul' Energy Siphon I
+
+Name: Ghu'ru Talozan
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Megathron
+Weapon: 425mm Railgun I
+
+Name: Kee Ris
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Armageddon
+Weapon: Tachyon Modal Laser I
+
+Name: Alski
+Security: 3.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Dominix
+Weapon: Dominix
+
+Name: dastommy79
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+Name: Aridante Lemure
+Security: 1.2
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Unknown
+Weapon: Remote Sensor Dampener II
+
+Name: ventura5
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Scorpion
+Weapon: 350mm Railgun I
+
+Name: Thimoin
+Security: 2.4
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Unknown
+Weapon: 425mm Compressed Coil Gun I
+
+Name: Nukuquqa Hestase
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Scorpion
+Weapon: 'Arbalest' Siege Missile Launcher
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 24
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+Advanced 'Limos' Heavy Missile Bay I
+Large Shield Extender II
+Large Shield Extender II
+Invulnerability Field II
+Shield Power Relay II
+Shield Power Relay II
+'Arbalest' Heavy Assault Missile Launcher I, Qty: 4 (Cargo)
+Torrent Assault Missile, Qty: 1440 (Cargo)
+Hellfire Assault Missile, Qty: 1446 (Cargo)
+

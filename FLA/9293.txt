@@ -1,0 +1,61 @@
+2007.05.06 16:59
+
+Victim: Kitti Fatale
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Capsule
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Confessor (laid the final blow)
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: Lynx Frontier Inc.
+Ship: Harbinger
+Weapon: Heavy Pulse Laser II
+
+Name: Ayieke Ki
+Security: 4.2
+Alliance: Sparta Alliance
+Corp: GREY COUNCIL
+Ship: Raptor
+Weapon: Bloodclaw Light Missile
+
+Name: Jessica Jones
+Security: 4.3
+Alliance: Sparta Alliance
+Corp: Lynx Frontier Inc.
+Ship: Cormorant
+Weapon: 125mm Railgun I
+
+Name: Jandeera
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: Lynx Frontier Inc.
+Ship: Eris
+Weapon: Upgraded 'Limos' Standard Missile Bay I
+
+Name: Skytex
+Security: 2.6
+Alliance: Sparta Alliance
+Corp: Synergy Evolved
+Ship: Harpy
+Weapon: Light Neutron Blaster II
+
+Name: Kayron Brennan
+Security: 0.7
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Merlin
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+Name: Iss Hogai
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: GREY COUNCIL
+Ship: Taranis
+Weapon: Taranis
+
+

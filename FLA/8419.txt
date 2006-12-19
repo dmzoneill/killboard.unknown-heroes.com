@@ -1,0 +1,27 @@
+2006.11.17 08:23
+
+Victim: sixsixsix beast
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Destroyed: Badger Mark II
+System: X-7OMU
+Security: 0.0
+
+Involved parties:
+
+Name: Altai Saker (laid the final blow)
+Security: -1.8
+Alliance: The Sani Sabik
+Corp: Omniscient Order
+Ship: Eris
+Weapon: 125mm Railgun II
+
+
+Destroyed items:
+
+Juggernaut Torpedo, Qty: 19499 (Cargo)
+Mining Barge (Cargo)
+Exhumers (Cargo)
+Fast talk (Cargo)
+Giant Secure Container (Cargo)
+

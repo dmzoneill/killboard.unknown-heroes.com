@@ -1,0 +1,53 @@
+2006.12.27 06:02
+
+Victim: Aron Palatine
+Alliance: Freelancer Alliance
+Corp: X.T.R
+Destroyed: Celestis
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Elliott Manchild (laid the final blow)
+Security: -2.0
+Alliance: None
+Corp: omen.
+Ship: Claw
+Weapon: 125mm Gatling AutoCannon II
+
+Name: Neaokod
+Security: -1.8
+Alliance: None
+Corp: omen.
+Ship: Taranis
+Weapon: Taranis
+
+Name: Kalathmir
+Security: -1.3
+Alliance: None
+Corp: omen.
+Ship: Crusader
+Weapon: Crusader
+
+Name: Moandor
+Security: -2.2
+Alliance: None
+Corp: omen.
+Ship: Raptor
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+250mm 'Scout' I Accelerator Cannon
+Passive Targeting Array I
+Iridium Charge M, Qty: 70
+Advanced 'Limos' Heavy Missile Bay I
+Remote Sensor Booster I
+Phased Weapon Navigation Array Generation Extron
+Ballistic Control System I
+Beta Reactor Control: Capacitor Power Relay I
+Beta Reactor Control: Capacitor Power Relay I
+Iridium Charge M, Qty: 960 (Cargo)
+

@@ -1,0 +1,27 @@
+2007.03.27 02:15
+
+Victim: Richard Biegewald
+Alliance: Axiom Empire
+Corp: United Society Starfleet
+Destroyed: Wolf
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Jisela (laid the final blow)
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Feel Good Inc.
+Ship: Scorpion
+Weapon: Wasp I
+
+
+Destroyed items:
+
+280mm Howitzer Artillery II
+Tremor S, Qty: 18
+Gyrostabilizer II
+Type-D Altered SS Nanofiber Structure
+Tremor S, Qty: 2989 (Cargo)
+

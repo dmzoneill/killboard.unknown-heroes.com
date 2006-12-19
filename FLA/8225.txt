@@ -1,0 +1,38 @@
+2006.11.05 18:33
+
+Victim: Botched
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Destroyed: Punisher
+System: Litiura
+Security: 0.5
+
+Involved parties:
+
+Name: Yarek Balear (laid the final blow)
+Security: -1.8
+Alliance: None
+Corp: The Initiative
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+Name: TranZferR
+Security: -1.8
+Alliance: None
+Corp: The Initiative
+Ship: Taranis
+Weapon: Taranis
+
+Name: spirea
+Security: 4.9
+Alliance: None
+Corp: The Initiative
+Ship: Vengeance
+Weapon: Vengeance
+
+
+Destroyed items:
+
+Warp Disruptor I
+Small Armor Repairer I
+

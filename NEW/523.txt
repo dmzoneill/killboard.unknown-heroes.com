@@ -1,0 +1,41 @@
+2007.04.10 08:45
+
+Victim: Ran Fujimiya
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Destroyed: Raptor
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Nukuquqa Hestase (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Caracal
+Weapon: Sabretooth Light Missile
+
+Name: Alekseyev Karrde
+Security: 3.1
+Alliance: Forces of Freedom
+Corp: The Royal Guard
+Ship: Nemesis
+Weapon: Nemesis
+
+
+Destroyed items:
+
+125mm Railgun II, Qty: 2
+Spike S, Qty: 79
+Flameburst Light Missile, Qty: 66
+TE-2100 Standard Missile Bay
+Sigma-Nought Tracking Mode I
+Micro Auxiliary Power Core I
+Iridium Charge S, Qty: 955 (Cargo)
+Antimatter Charge S, Qty: 1256 (Cargo)
+Hornet II, Qty: 3 (Cargo)
+Spike S, Qty: 663 (Cargo)
+Flameburst Light Missile, Qty: 1057 (Cargo)
+Sabretooth Light Missile, Qty: 256 (Cargo)
+Fathom Scanner Probe I, Qty: 20 (Cargo)

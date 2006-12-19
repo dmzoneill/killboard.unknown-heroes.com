@@ -1,0 +1,48 @@
+2007.01.06 20:54
+
+Victim: Nova Paradise
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Drake
+System: Jita
+Security: 0.9
+
+Involved parties:
+
+Name: Looney Spooney
+Security: 1.6
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Pilgrim
+Weapon: Valkyrie II
+
+Name: Unfortunate Accident (laid the final blow)
+Security: -1.4
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Taranis
+Weapon: 125mm Railgun II
+
+
+Destroyed items:
+
+Fulmination Assault Missile, Qty: 300
+Torrent Assault Missile, Qty: 300
+Hellfire Assault Missile, Qty: 600
+Prototype Cloaking Device I
+'Arbalest' Heavy Assault Missile Launcher I
+'Arbalest' Heavy Assault Missile Launcher I
+'Arbalest' Heavy Assault Missile Launcher I
+Large Shield Extender II
+Large Shield Booster II
+Faint Warp Prohibitor I
+Medium Brief Capacitor Overcharge I
+Invulnerability Field I
+Cap Booster 800
+Ballistic Control System II
+Ballistic Control System II
+Reactor Control Unit II
+Cap Booster 800, Qty: 9 (Cargo)
+Fulmination Assault Missile, Qty: 750 (Cargo)
+Torrent Assault Missile, Qty: 750 (Cargo)
+

@@ -1,0 +1,36 @@
+2007.03.14 10:38
+
+Victim: Napalmius
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Destroyed: Kestrel
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Cockroach (laid the final blow)
+Security: 4.8
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Zealot
+Weapon: Focused Medium Pulse Laser II
+
+Name: SoF Reaperman
+Security: 4.4
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Blackbird
+Weapon: ECM - Spatial Destabilizer I
+
+
+Destroyed items:
+
+Piranha Light Missile, Qty: 39
+Standard Missile Launcher I
+Standard Missile Launcher I
+1MN MicroWarpdrive I
+Beta Hull Mod Inertial Stabilizers
+Reactor Control Unit I
+Seeker F.O.F. Light Missile I, Qty: 394 (Cargo)
+

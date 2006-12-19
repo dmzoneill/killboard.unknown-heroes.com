@@ -1,0 +1,19 @@
+2007.05.01 03:18
+
+Victim: eXtremeHell
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Capsule
+System: F7C-H0
+Security: 0.0
+
+Involved parties:
+
+Name: Calvin Andros (laid the final blow)
+Security: 1.9
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Brutix
+Weapon: Heavy Ion Blaster II
+
+

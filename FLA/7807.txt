@@ -1,0 +1,39 @@
+2006.09.01 22:51
+
+Victim: Kaleenia
+Alliance: Freelancer Alliance
+Corp: Terminal Velocity Inc.
+Destroyed: Blackbird
+System: B-9C24
+Security: 0.0
+
+Involved parties:
+
+Name: Mask Rayne
+Security: 0.6
+Alliance: Galaxia Union
+Corp: Starshine Enterprises
+Ship: Ishtar
+Weapon: Hammerhead II
+
+Name: Ceres Starshine
+Security: -2.4
+Alliance: Galaxia Union
+Corp: Starshine Enterprises
+Ship: Megathron
+Weapon: Ogre II
+
+Name: ReQuiem Rayne (laid the final blow)
+Security: 0.7
+Alliance: Galaxia Union
+Corp: Starshine Enterprises
+Ship: Ishkur
+Weapon: Hammerhead II
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 62
+ECM - Multispectral Jammer I
+Sensor Booster I
+

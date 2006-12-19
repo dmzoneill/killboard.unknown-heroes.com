@@ -1,0 +1,25 @@
+2006.10.27 22:47
+
+Victim: Vickie Starshine
+Alliance: None
+Corp: SD Enterprise
+Destroyed: Kestrel
+System: Amsen
+Security: 1.0
+
+Involved parties:
+
+Name: roboto212 (laid the final blow)
+Security: -0.4
+Alliance: Freelancer Alliance
+Corp: Sin-X Inc.
+Ship: Enyo
+Weapon: 150mm Railgun II
+
+
+Destroyed items:
+
+Foxfire Rocket, Qty: 29
+Civilian Shield Booster I
+1MN Afterburner I
+

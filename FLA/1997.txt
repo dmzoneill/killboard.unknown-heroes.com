@@ -1,0 +1,75 @@
+2007.01.15 14:15
+
+Victim: Malvius
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Destroyed: Cyclone
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Guristas Eradicator / Guristas
+
+Name: XxAngelxX
+Security: 5.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Curse
+Weapon: Medium Nosferatu II
+
+Name: WarGod
+Security: 1.6
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Curse
+Weapon: Berserker II
+
+Name: Shock Wave (laid the final blow)
+Security: 3.2
+Alliance: None
+Corp: e X i l e
+Ship: Crusader
+Weapon: Dual Light Pulse Laser II
+
+Name: Anna Neura
+Security: -0.2
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Taranis
+Weapon: 125mm Railgun II
+
+
+Destroyed items:
+
+650mm Medium Gallium I Cannon
+650mm Medium Gallium I Cannon
+Advanced 'Limos' Heavy Missile Bay I
+Large Shield Extender I
+Large Clarity Ward Booster I
+Non-Inertial Ballistic Screen Augmentation I
+Quantum Co-Processor I
+Local Power Plant Manager: Diagnostic System I
+Local Power Plant Manager: Diagnostic System I
+Power Diagnostic System I
+Miner I (Cargo)
+Small Capacitor Battery I (Cargo)
+Small Nosferatu I, Qty: 2 (Cargo)
+Small Energy Neutralizer I, Qty: 2 (Cargo)
+Medium Graviton Smartbomb I (Cargo)
+Explosion Dampening Field I (Cargo)
+ECM Burst I (Cargo)
+Plutonium Charge S, Qty: 100 (Cargo)
+Thorium Charge S, Qty: 100 (Cargo)
+ECCM - Gravimetric I (Cargo)
+Shielded Gravimetric Backup Cluster I (Cargo)
+Tracking Computer I (Cargo)
+Tracking Disruptor I (Cargo)
+Warp Core Stabilizer I (Cargo)
+Havoc Heavy Missile, Qty: 100 (Cargo)
+Heavy Missile Launcher I (Cargo)
+Assault Missile Launcher I (Cargo)
+Initiated Signal Distortion Amplifier I (Cargo)
+Signal Distortion Amplifier I (Cargo)
+'Malkuth' Heavy Assault Missile Launcher I (Cargo)
+

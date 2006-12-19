@@ -1,0 +1,24 @@
+2007.04.24 02:58
+
+Victim: Altair Mogwa
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Rifter
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Ghu'ru Talozan (laid the final blow)
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Brutix
+Weapon: Medium Graviton Smartbomb I
+
+
+Destroyed items:
+
+150mm Light AutoCannon I
+Warp Disruptor I
+

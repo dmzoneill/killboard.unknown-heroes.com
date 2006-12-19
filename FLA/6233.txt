@@ -1,0 +1,68 @@
+2006.11.10 21:21
+
+Victim: Maxdre2256
+Alliance: FREGE Alliance
+Corp: Dust Echoes
+Destroyed: Gallente Shuttle
+System: B-DBYQ
+Security: 0.0
+
+Involved parties:
+
+Name: James Potkukelkka
+Security: 0.2
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Flycatcher
+Weapon: Bloodclaw Light Missile
+
+Name: Minesweeper (laid the final blow)
+Security: 3.7
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Jaguar
+Weapon: 250mm Light 'Scout' Artillery I
+
+Name: keilapuukko
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Celestis
+Weapon: Celestis
+
+Name: Zalamus
+Security: 4.2
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Ishkur
+Weapon: Fleeting Warp Scrambler I
+
+Name: Verild
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Rook
+Weapon: Assault Missile Launcher II
+
+Name: Noitaakka
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Ishtar
+Weapon: 'Hypnos' Multispectral ECM I
+
+Name: Karas Rabus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Huginn
+Weapon: X5 Prototype I Engine Enervator
+
+Name: Jumar Coldgin
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+

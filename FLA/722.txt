@@ -1,0 +1,32 @@
+2007.02.18 06:54
+
+Victim: Uncle Tommy
+Alliance: None
+Corp: Monopoly's Unlimited
+Destroyed: Ibis
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: AleXinO Gardon
+Security: 2.4
+Alliance: O X I D E
+Corp: W33D Corp.
+Ship: Rifter
+Weapon: Warp Disruptor I
+
+Name: FlobbMkII (laid the final blow)
+Security: 4.0
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Ares
+Weapon: Gremlin Rocket
+
+
+Destroyed items:
+
+150mm Railgun I
+Antimatter Charge S, Qty: 32
+Antimatter Charge S, Qty: 380 (Cargo)
+

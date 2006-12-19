@@ -1,0 +1,115 @@
+2006.07.13 16:53
+
+Victim: Ravenscarr
+Alliance: Sparta Alliance
+Corp: United Space Republic
+Destroyed: Raven
+System: X3-PBC
+Security: 0.0
+
+Involved parties:
+
+Name: Leafo
+Security: -0.3
+Alliance: Mercenary Coalition
+Corp: North Star Networks
+Ship: Cerberus
+Weapon: Scourge Heavy Missile
+
+Name: Bolinar
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Dominix
+Weapon: Bouncer I
+
+Name: Eleese
+Security: 1.3
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Ishtar
+Weapon: Berserker I
+
+Name: Jumar Coldgin
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Harpy
+Weapon: Harpy
+
+Name: SaintVash
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Thorax
+Weapon: Thorax
+
+Name: Jean
+Security: 3.8
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Taranis
+Weapon: Taranis
+
+Name: ICoraxI
+Security: 1.4
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Taranis
+Weapon: Taranis
+
+Name: Matt Stoner (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Caracal
+Weapon: Bloodclaw Light Missile
+
+Name: Ione79
+Security: 2.4
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Taranis
+Weapon: Taranis
+
+Name: FallenLoki
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Konstrukteure der Zukunft
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Shiri elAzarinres
+Security: 4.1
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Kestrel
+Weapon: Gremlin Rocket
+
+Name: FallenLokiJr
+Security: 0.6
+Alliance: Dusk and Dawn
+Corp: Konstrukteure der Zukunft
+Ship: Rifter
+Weapon: Thorn Rocket
+
+Name: Loomina
+Security: 4.2
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Eris
+Weapon: Hobgoblin II
+
+
+Destroyed items:
+
+E500 Prototype Energy Vampire
+Wrath Cruise Missile, Qty: 105
+XT-9000 Cruise Launcher
+Heat Dissipation Field II
+Sensor Booster I
+5a Prototype Shield Support I
+Warp Core Stabilizer I
+Wrath Cruise Missile, Qty: 5851 (Cargo)
+Berserker SW-900, Qty: 2 (Drone Bay)
+

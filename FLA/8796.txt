@@ -1,0 +1,43 @@
+2006.12.12 16:38
+
+Victim: James Potkukelkka
+Alliance: Freelancer Alliance
+Corp: BGG
+Destroyed: Flycatcher
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: kojackUcigashu (laid the final blow)
+Security: 4.7
+Alliance: Kith of Venal
+Corp: Solidline Enterprise
+Ship: Megathron
+Weapon: Ion Blaster Cannon II
+
+Name: lt blacklotus
+Security: -0.3
+Alliance: Kith of Venal
+Corp: Solidline Enterprise
+Ship: Tempest
+Weapon: Dual 425mm AutoCannon II
+
+Name: zeitza ta
+Security: 1.7
+Alliance: Kith of Venal
+Corp: Solidline Enterprise
+Ship: Arazu
+Weapon: Arazu
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 92
+Standard Missile Launcher II
+Standard Missile Launcher II
+Catalyzed Cold-Gas I Arcjet Thrusters
+F-90 Positional Sensor Subroutines
+Warp Disrupt Probe, Qty: 28 (Cargo)
+Bloodclaw Precision Light Missile, Qty: 492 (Cargo)
+

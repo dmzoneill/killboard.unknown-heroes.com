@@ -1,0 +1,46 @@
+2007.01.26 01:30
+
+Victim: Beastwood
+Alliance: None
+Corp: Imperial Academy
+Destroyed: Impairor
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Xantheris
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Harpy
+Weapon: Harpy
+
+Name: sakana (laid the final blow)
+Security: -1.2
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Megathron
+Weapon: 425mm Prototype I Gauss Gun
+
+Name: Valea Silpha
+Security: 1.4
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Huginn
+Weapon: X5 Prototype I Engine Enervator
+
+Name: Goca
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Ferox
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+
+Destroyed items:
+
+Civilian Gatling Pulse Laser
+Basic Miner
+Damage Control I (Cargo)
+

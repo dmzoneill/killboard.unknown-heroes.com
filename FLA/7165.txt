@@ -1,0 +1,29 @@
+2006.12.29 12:05
+
+Victim: Moandor
+Alliance: None
+Corp: omen.
+Destroyed: Crow
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Pestily (laid the final blow)
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Raven
+Weapon: Juggernaut Torpedo
+
+
+Destroyed items:
+
+'Malkuth' Standard Missile Launcher I
+'Malkuth' Standard Missile Launcher I
+1MN MicroWarpdrive I
+Fleeting Warp Scrambler I
+Damage Control I
+Capacitor Power Relay I
+Sabretooth Light Missile, Qty: 316 (Cargo)
+

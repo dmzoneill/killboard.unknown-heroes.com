@@ -1,0 +1,36 @@
+2007.03.12 12:43
+
+Victim: Don Jaun
+Alliance: YouWhat
+Corp: Beasts of Burden
+Destroyed: Velator
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Nukuquqa Hestase (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: FlobbMkII
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Taranis
+Weapon: Taranis
+
+Name: 0SpaceRaider0
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: The X-Trading Company
+Ship: Raven
+Weapon: 'Malkuth' Cruise Launcher I
+
+
+Destroyed items:
+
+Tritanium (Cargo)

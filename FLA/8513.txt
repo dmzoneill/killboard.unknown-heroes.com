@@ -1,0 +1,19 @@
+2006.11.25 03:25
+
+Victim: Krelz
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Capsule
+System: Ibura
+Security: 0.6
+
+Involved parties:
+
+Name: Elliott Manchild (laid the final blow)
+Security: -1.6
+Alliance: None
+Corp: omen.
+Ship: Sleipnir
+Weapon: 220mm Vulcan AutoCannon II
+
+

@@ -1,0 +1,40 @@
+2007.04.01 22:45
+
+Victim: velusip
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Destroyed: Slasher
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Stradivarious (laid the final blow)
+Security: 3.4
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Huginn
+Weapon: Warrior II
+
+Name: ER0X
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: Queldonus
+Security: 2.9
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Nidhoggur
+Weapon: Templar
+
+
+Destroyed items:
+
+Flameburst Light Missile, Qty: 39
+Warp Scrambler I
+Power Diagnostic System I
+Flameburst Light Missile, Qty: 457 (Cargo)
+

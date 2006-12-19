@@ -1,0 +1,25 @@
+2007.03.13 09:12
+
+Victim: Jesnen
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Destroyed: Dominix
+System: G8AD-C
+Security: 0.0
+
+Involved parties:
+
+Name: Xordus (laid the final blow)
+Security: 0.7
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Armageddon
+Weapon: Dual Heavy Modulated Pulse Energy Beam I
+
+
+Destroyed items:
+
+Warp Disruptor II
+Medium Armor Repairer II
+Radioisotope Thermic Hardener I
+

@@ -1,0 +1,87 @@
+2007.03.21 13:36
+
+Victim: Damfoose
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Raven
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Jurushy (laid the final blow)
+Security: 4.9
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Hurricane
+Weapon: 425mm AutoCannon II
+
+Name: The Ali
+Security: -3.2
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Eelim Garak
+Security: 1.3
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Curse
+Weapon: Valkyrie II
+
+Name: IsmaelYU5 Iluvatar
+Security: 5.0
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Taranis
+Weapon: 125mm Railgun II
+
+Name: jedimeister
+Security: -1.8
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+Name: Angie Mitchell
+Security: 0.6
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Heretic
+Weapon: Heretic
+
+Name: volly
+Security: 3.1
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Curse
+Weapon: Remote Sensor Dampener II
+
+Name: Frostbeule
+Security: 2.9
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Stiletto
+Weapon: Faint Warp Prohibitor I
+
+
+Destroyed items:
+
+Medium 'Atonement' I Ward Projector
+Juggernaut Torpedo
+Juggernaut Torpedo
+Juggernaut Torpedo
+Juggernaut Torpedo
+Juggernaut Torpedo
+Juggernaut Torpedo
+ZW-4100 Siege Missile Bay
+Small Tractor Beam I
+Heavy Tapered Capacitor Infusion I
+Ballistic Deflection Field II
+Ballistic Deflection Field II
+Ballistic Control System II
+Type-D Power Core Modification: Diagnostic System
+Cap Booster 800, Qty: 6 (Cargo)
+Juggernaut Torpedo, Qty: 2067 (Cargo)
+

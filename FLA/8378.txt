@@ -1,0 +1,31 @@
+2006.11.14 05:31
+
+Victim: Almagar Phog
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Destroyed: Raptor
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Reticenti (laid the final blow)
+Security: 1.1
+Alliance: None
+Corp: The Diplomats
+Ship: Enyo
+Weapon: Light Ion Blaster II
+
+
+Destroyed items:
+
+125mm Prototype I Gauss Gun
+Tungsten Charge S, Qty: 111
+Bloodclaw Light Missile, Qty: 84
+Catalyzed Cold-Gas I Arcjet Thrusters
+Micro Auxiliary Power Core I
+Micro Auxiliary Power Core I
+Micro Auxiliary Power Core I
+Tungsten Charge S, Qty: 1168 (Cargo)
+Bloodclaw Light Missile, Qty: 879 (Cargo)
+

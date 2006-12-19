@@ -1,0 +1,40 @@
+2007.05.05 00:06
+
+Victim: Akthuul
+Alliance: Storm Armada
+Corp: stone grave haulage
+Destroyed: Crow
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Crushall (laid the final blow)
+Security: 5.0
+Alliance: The Foundation.
+Corp: NorCorp Security
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+Name: sako1963
+Security: 5.0
+Alliance: The Foundation.
+Corp: NorCorp Security
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+Name: Leidos Apuschkin
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Drake
+Weapon: Heavy Missile Launcher I
+
+Name: Cobra64
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Hound
+Weapon: Hound
+
+

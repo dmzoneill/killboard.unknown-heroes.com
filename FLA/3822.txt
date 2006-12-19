@@ -1,0 +1,96 @@
+2007.04.01 21:18
+
+Victim: Mr Omniblivion
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Destroyed: Apocalypse
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Shadowjet
+Security: -1.3
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Crow
+Weapon: Einherji
+
+Name: Eleese
+Security: -0.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Tristan
+Weapon: Dragonfly
+
+Name: War Bear (laid the final blow)
+Security: 2.8
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Archon
+Weapon: Dragonfly
+
+Name: NightHawk VenGarden
+Security: 0.2
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Crusader
+Weapon: Crusader
+
+Name: Rahzorus
+Security: 0.9
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Xi Dioxyde
+Security: 2.4
+Alliance: S.E.R.A
+Corp: Seraphin Technologies
+Ship: Executioner
+Weapon: Executioner
+
+Name: tomlinsonland
+Security: -1.8
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Crow
+Weapon: Crow
+
+Name: Tulas Flint
+Security: 4.5
+Alliance: S.E.R.A
+Corp: Seraphin Technologies
+Ship: Archon
+Weapon: Dragonfly
+
+Name: DonRedhorse
+Security: 0.6
+Alliance: S.E.R.A
+Corp: Seraphin Technologies
+Ship: Chimera
+Weapon: Dragonfly
+
+
+Destroyed items:
+
+Tachyon Beam Laser I
+Tachyon Beam Laser I
+Tachyon Beam Laser I
+Mega Beam Laser I
+Dread Guristas Medium Graviton Smartbomb
+Gamma L
+Gamma L
+Gamma L
+Gamma L
+Eutectic I Capacitor Charge Array
+Eutectic I Capacitor Charge Array
+Large Armor Repairer II
+N-Type Kinetic Hardener I
+N-Type Kinetic Hardener I
+N-Type Kinetic Hardener I
+Beta Reactor Control: Capacitor Power Relay I
+Xray L, Qty: 5 (Cargo)
+Multifrequency L, Qty: 4 (Cargo)
+

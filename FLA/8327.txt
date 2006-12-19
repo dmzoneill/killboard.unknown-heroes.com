@@ -1,0 +1,19 @@
+2006.11.08 21:36
+
+Victim: OmeTakeda
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Capsule
+System: Ibura
+Security: 0.6
+
+Involved parties:
+
+Name: Jambo (laid the final blow)
+Security: -2.0
+Alliance: None
+Corp: The Initiative
+Ship: Zealot
+Weapon: Focused Medium Pulse Laser II
+
+

@@ -1,0 +1,61 @@
+2006.09.16 15:00
+
+Victim: Kuto
+Alliance: R.I.S.K
+Corp: GOLDEN TAURUS
+Destroyed: Flycatcher
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Minesweeper (laid the final blow)
+Security: 2.8
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+Name: Tri Ounou
+Security: 2.9
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Rupture
+Weapon: Rupture
+
+Name: Ione79
+Security: 2.9
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Celestis
+Weapon: Celestis
+
+Name: Hosanna
+Security: -1.5
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Jaguar
+Weapon: X5 Prototype I Engine Enervator
+
+Name: Zalamus
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Ishkur
+Weapon: Hobgoblin II
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 200
+Standard Missile Launcher II
+Standard Missile Launcher II
+1MN MicroWarpdrive II
+Fleeting Warp Scrambler I
+X5 Prototype I Engine Enervator
+Micro Auxiliary Power Core I
+Sabretooth Light Missile, Qty: 1000 (Cargo)
+Flameburst Light Missile, Qty: 1000 (Cargo)
+Bloodclaw Precision Light Missile, Qty: 1000 (Cargo)
+Local Hull Conversion Expanded Cargo I, Qty: 2 (Cargo)
+

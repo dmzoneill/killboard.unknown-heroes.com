@@ -1,0 +1,70 @@
+2007.03.16 17:05
+
+Victim: Spartan dax
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Destroyed: Drake
+System: XZH-4X
+Security: 0.0
+
+Involved parties:
+
+Name: Ion Bartzabel
+Security: -0.3
+Alliance: Eternal Rapture
+Corp: Temptation inc.
+Ship: Dominix
+Weapon: Dominix
+
+Name: Handon Guild
+Security: -2.9
+Alliance: Eternal Rapture
+Corp: Exotic Dancers Club
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: VirkMaN (laid the final blow)
+Security: -1.0
+Alliance: Eternal Rapture
+Corp: Temptation inc.
+Ship: Hurricane
+Weapon: 425mm AutoCannon II
+
+Name: Nazg0th
+Security: 0.8
+Alliance: Eternal Rapture
+Corp: Temptation inc.
+Ship: Dominix
+Weapon: Valkyrie II
+
+Name: hezitationkillz
+Security: -1.5
+Alliance: Eternal Rapture
+Corp: Temptation inc.
+Ship: Rook
+Weapon: BZ-5 Neutralizing Spatial Destabilizer ECM
+
+Name: GodWin cadela
+Security: -1.8
+Alliance: Eternal Rapture
+Corp: Exotic Dancers Club
+Ship: Hurricane
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+
+Destroyed items:
+
+Havoc Heavy Missile, Qty: 40
+Advanced 'Limos' Heavy Missile Bay I
+Advanced 'Limos' Heavy Missile Bay I
+Advanced 'Limos' Heavy Missile Bay I
+XR-3200 Heavy Missile Bay
+Large F-S9 Regolith Shield Induction
+Large F-S9 Regolith Shield Induction
+Large F-S9 Regolith Shield Induction
+Non-Inertial Ballistic Screen Augmentation I
+Ditrigonal Thermal Barrier Crystallization I
+Local Power Plant Manager: Reaction Shield Power Relay I
+Thunderbolt Heavy Missile, Qty: 1850 (Cargo)
+Widowmaker Heavy Missile, Qty: 104 (Cargo)
+

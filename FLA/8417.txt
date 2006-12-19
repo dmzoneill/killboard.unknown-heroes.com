@@ -1,0 +1,44 @@
+2006.11.17 03:13
+
+Victim: Ulmeck
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Stabber
+System: JU-OWQ
+Security: 0.0
+
+Involved parties:
+
+Name: panman
+Security: 2.7
+Alliance: None
+Corp: Deep Core Mining Inc.
+Ship: Dominix
+Weapon: Faint Warp Prohibitor I
+
+Name: H Zub (laid the final blow)
+Security: 0.0
+Alliance: The Sani Sabik
+Corp: Omniscient Order
+Ship: Dominix
+Weapon: Ogre II
+
+Name: Noobjuice
+Security: -1.8
+Alliance: The Sani Sabik
+Corp: Omniscient Order
+Ship: Typhoon
+Weapon: Cataclysm Cruise Missile
+
+
+Destroyed items:
+
+425mm AutoCannon I
+425mm AutoCannon I
+425mm AutoCannon I
+Phased Plasma M, Qty: 69
+Bloodclaw Light Missile, Qty: 68
+10MN Afterburner I
+Phased Plasma M, Qty: 1088 (Cargo)
+Hornet I (Drone Bay)
+

@@ -1,0 +1,107 @@
+2007.03.07 00:52
+
+Victim: Xerxes Vorian
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Raven
+System: O1Y-ED
+Security: 0.0
+
+Involved parties:
+
+Name: Serpentis Baron / Serpentis Corporation (laid the final blow)
+
+Name: simcor
+Security: 0.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Myrmidon
+Weapon: Hobgoblin II
+
+Name: Roule
+Security: -5.3
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Vagabond
+Weapon: Warrior II
+
+Name: taylor04
+Security: 2.7
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Sleipnir
+Weapon: Sleipnir
+
+Name: XxAngelxX
+Security: -1.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Curse
+Weapon: Curse
+
+Name: WarGod
+Security: -0.3
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Curse
+Weapon: Valkyrie II
+
+Name: Anna Neura
+Security: -0.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Curse
+Weapon: Vespa II
+
+Name: xVx Skillgannon
+Security: 0.4
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+
+Destroyed items:
+
+Inferno Torpedo, Qty: 44
+ZW-4100 Siege Missile Bay
+ZW-4100 Siege Missile Bay
+ZW-4100 Siege Missile Bay
+ZW-4100 Siege Missile Bay
+ZW-4100 Siege Missile Bay
+Small Tractor Beam I
+Large F-S9 Regolith Shield Induction
+Large F-S9 Regolith Shield Induction
+Large F-S9 Regolith Shield Induction
+Heat Dissipation Field I
+Shield Power Relay I
+Shield Power Relay I
+Medium Shield Booster I (Cargo)
+Ship Scanner I (Cargo)
+Small Energy Transfer Array I, Qty: 2 (Cargo)
+Electron Blaster Cannon I (Cargo)
+Heavy Capacitor Booster I, Qty: 2 (Cargo)
+Ballistic Deflection Field I (Cargo)
+'Rash' ECM Emission I (Cargo)
+Iridium Charge L, Qty: 100 (Cargo)
+Iron Charge S, Qty: 100 (Cargo)
+Iron Charge L, Qty: 100 (Cargo)
+Tungsten Charge S, Qty: 100 (Cargo)
+Juggernaut Torpedo, Qty: 1163 (Cargo)
+Infiltrator I (Cargo)
+Berserker I (Cargo)
+Wasp I, Qty: 2 (Cargo)
+ECM - Multispectral Jammer I (Cargo)
+Magnetometric Backup Array I (Cargo)
+Signal Amplifier I (Cargo)
+Large Remote Armor Repair System I, Qty: 2 (Cargo)
+Small Remote Armor Repair System I (Cargo)
+Microcell Nanite Kinetic Hardener I (Cargo)
+800mm Reinforced Nanofiber Plates I, Qty: 2 (Cargo)
+Serpentis Ship Log 381038422 (Cargo)
+Serpentis Crystal Tag (Cargo)
+Damaged Artificial Neural Network, Qty: 5 (Cargo)
+Burned Logic Circuit, Qty: 8 (Cargo)
+Contaminated Nanite Compound, Qty: 9 (Cargo)
+Vespa I (Drone Bay)
+

@@ -1,0 +1,48 @@
+2007.02.18 22:33
+
+Victim: Original Downer
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Destroyed: Drake
+System: Litiura
+Security: 0.5
+
+Involved parties:
+
+Name: Reggie Kray (laid the final blow)
+Security: -1.7
+Alliance: Privateer Alliance
+Corp: Mentally Unstable Enterprises
+Ship: Dominix
+Weapon: Berserker II
+
+Name: Raffael Ramirez
+Security: -1.5
+Alliance: Privateer Alliance
+Corp: Mentally Unstable Enterprises
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Del Boy
+Security: -1.4
+Alliance: Privateer Alliance
+Corp: Mentally Unstable Enterprises
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 45
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Large Azeotropic Ward Salubrity I
+Warp Disruptor I
+Invulnerability Field I
+Ballistic Control System I
+Power Diagnostic System I
+

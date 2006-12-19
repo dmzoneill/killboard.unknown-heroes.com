@@ -1,0 +1,33 @@
+2006.11.18 00:36
+
+Victim: Hemo Roid
+Alliance: None
+Corp: Imperial Academy
+Destroyed: Caldari Shuttle
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Karas Rabus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: noba (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Lachesis
+Weapon: 250mm Railgun II
+
+Name: AleXinO Gardon
+Security: 5.0
+Alliance: O X I D E
+Corp: W33D Corp.
+Ship: Caracal
+Weapon: Advanced 'Limos' Heavy Missile Bay I
+
+

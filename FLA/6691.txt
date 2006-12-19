@@ -1,0 +1,47 @@
+2006.11.24 20:24
+
+Victim: SteffBojo
+Alliance: United Connection's
+Corp: Ratio Decidendi
+Destroyed: Capsule
+System: JC-YX8
+Security: 0.0
+
+Involved parties:
+
+Name: Midiana
+Security: 1.1
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Ishtar
+Weapon: Ishtar
+
+Name: Scorpio63
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Prophecy
+Weapon: Heavy Pulse Laser I
+
+Name: TasKu (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Ishtar
+Weapon: Light Neutron Blaster II
+
+Name: Vapour Boy
+Security: 3.8
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Jaguar
+Weapon: 'Langour' Drive Disruptor I
+
+Name: Elfaen Ethenwe
+Security: -1.6
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Raven
+Weapon: Siege Missile Launcher II
+
+

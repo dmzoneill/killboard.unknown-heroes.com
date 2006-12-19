@@ -1,0 +1,154 @@
+2007.05.03 03:56
+
+Victim: Goosemen
+Alliance: Mercenary Coalition
+Corp: Seraphin Technologies
+Destroyed: Phoenix
+System: C4C-Z4
+Security: 0.0
+
+Involved parties:
+
+Name: WHOSYADADDY
+Security: 2.0
+Alliance: Dusk and Dawn
+Corp: ClanKillers
+Ship: Phoenix
+Weapon: Berserker I
+
+Name: Auronof
+Security: -3.1
+Alliance: Dusk and Dawn
+Corp: ClanKillers
+Ship: Phoenix
+Weapon: Ogre I
+
+Name: Swiveler
+Security: 3.7
+Alliance: Sparta Alliance
+Corp: Lynx Frontier Inc.
+Ship: Phoenix
+Weapon: Warrior I
+
+Name: Bobby Atlas
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Moros
+Weapon: Warden I
+
+Name: ChefAce
+Security: 2.6
+Alliance: Sparta Alliance
+Corp: Lacedaemon.
+Ship: Phoenix
+Weapon: Ogre I
+
+Name: viper zulu (laid the final blow)
+Security: 4.3
+Alliance: Dusk and Dawn
+Corp: Omega Enterprises
+Ship: Moros
+Weapon: Ion Siege Blaster Cannon I
+
+Name: Lady LeJean
+Security: 4.6
+Alliance: Sparta Alliance
+Corp: Lacedaemon.
+Ship: Revelation
+Weapon: Acolyte II
+
+Name: Angeltear
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: Lynx Frontier Inc.
+Ship: Naglfar
+Weapon: Warrior I
+
+Name: Darth Sith
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: Lacedaemon.
+Ship: Revelation
+Weapon: Valkyrie II
+
+Name: Intensity Green
+Security: -1.4
+Alliance: RAZOR Alliance
+Corp: Cutting Edge Incorporated
+Ship: Thanatos
+Weapon: Dragonfly
+
+Name: Onat Five
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Omega Enterprises
+Ship: Moros
+Weapon: Moros
+
+Name: SigmaPod
+Security: 0.0
+Alliance: RAZOR Alliance
+Corp: Cutting Edge Incorporated
+Ship: Thanatos
+Weapon: Einherji
+
+Name: Munch
+Security: 3.1
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Archon
+Weapon: Templar
+
+Name: Ikta Shoridon
+Security: 0.9
+Alliance: Dusk and Dawn
+Corp: ClanKillers
+Ship: Archon
+Weapon: Firbolg
+
+Name: Erfurt
+Security: 4.5
+Alliance: Imperial Republic Of the North
+Corp: VentureCorp
+Ship: Chimera
+Weapon: Dragonfly
+
+Name: Talidorn
+Security: 2.1
+Alliance: RAZOR Alliance
+Corp: Cutting Edge Incorporated
+Ship: Thanatos
+Weapon: Einherji
+
+Name: Joe Blow
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Omega Enterprises
+Ship: Unknown
+Weapon: Dual Giga Beam Laser I
+
+Name: Warwick Radcliff
+Security: 0.6
+Alliance: Sparta Alliance
+Corp: Lynx Frontier Inc.
+Ship: Moros
+Weapon: Moros
+
+
+Destroyed items:
+
+Rift Torpedo I, Qty: 9
+Siege Module I
+Citadel Torpedo Launcher I
+Citadel Torpedo Launcher I
+Ballistic Control System II
+Ballistic Control System II
+Beta Reactor Control: Capacitor Power Relay I
+Capital Shield Booster I (Cargo)
+Heat Dissipation Field II (Cargo)
+Alumel-Wired I Sensor Augmentation (Cargo)
+Giant Secure Container, Qty: 2 (Cargo)
+Strontium Clathrates, Qty: 1800 (Cargo)
+Nitrogen Isotopes, Qty: 7594 (Cargo)
+

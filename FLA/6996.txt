@@ -1,0 +1,33 @@
+2006.12.19 02:57
+
+Victim: Zekan1
+Alliance: None
+Corp: Steel Battalion
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Cobra Raider (laid the final blow)
+Security: -0.3
+Alliance: Imperial Republic Of the North
+Corp: Port Royal Independent Kontractors
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: dastommy79
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: Mauzer Sorren
+Security: 2.7
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Jaguar
+Weapon: Jaguar
+
+

@@ -1,0 +1,40 @@
+2007.06.02 05:47
+
+Victim: Karai Kamasu
+Alliance: Freelancer Alliance
+Corp: The Collective of Ascended Beings
+Destroyed: Capsule
+System: N-RAEL
+Security: 0.0
+
+Involved parties:
+
+Name: BunnyBread (laid the final blow)
+Security: -0.9
+Alliance: R0ADKILL
+Corp: Priory Of The Lemon
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+Name: YouHaveNoChance
+Security: -3.6
+Alliance: R0ADKILL
+Corp: Ore Mongers
+Ship: Taranis
+Weapon: Taranis
+
+Name: smiontempler
+Security: 5.0
+Alliance: R0ADKILL
+Corp: Pegasus Mining and Securities
+Ship: Drake
+Weapon: Heavy Missile Launcher I
+
+Name: Charmin
+Security: 0.6
+Alliance: SMASH Alliance
+Corp: Point-Zero
+Ship: Rapier
+Weapon: Stasis Webifier II
+
+

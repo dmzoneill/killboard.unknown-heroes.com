@@ -1,0 +1,28 @@
+2006.09.25 21:58
+
+Victim: Arbitrus
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Destroyed: Kestrel
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Drift Spec (laid the final blow)
+Security: 5.0
+Alliance: Ascendant Frontier
+Corp: Sha Kharn Corp
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+Rocket Launcher II
+Rocket Launcher II
+Thorn Rage Rocket, Qty: 34
+1MN MicroWarpdrive I
+Stasis Webifier I
+Thorn Rage Rocket, Qty: 880 (Cargo)
+

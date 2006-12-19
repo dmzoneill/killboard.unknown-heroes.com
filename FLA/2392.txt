@@ -1,0 +1,99 @@
+2007.02.09 20:44
+
+Victim: Cho Solo
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Destroyed: Enyo
+System: DW-T2I
+Security: 0.0
+
+Involved parties:
+
+Name: cptblood (laid the final blow)
+Security: 2.3
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Lord KesH
+Security: 2.5
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Maelstrom
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Von Kretschmer
+Security: 5.0
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Ceapio
+Security: 1.2
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Brisky T'Pol
+Security: 1.2
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Tempest
+Weapon: 1200mm Artillery Cannon II
+
+Name: Elliott Manchild
+Security: -1.8
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Machariel
+Weapon: 1400mm Howitzer Artillery II
+
+Name: xVx Skillgannon
+Security: 0.4
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+Name: Zap Zaberdine
+Security: 3.1
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Torok Nakaht
+Security: 1.3
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Sabre
+Weapon: Fleeting Warp Scrambler I
+
+Name: EagIe
+Security: 4.2
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Ares
+Weapon: Ares
+
+Name: Darknesss
+Security: 0.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+
+Destroyed items:
+
+125mm Railgun II
+Antimatter Charge S, Qty: 160
+'Langour' Drive Disruptor I
+Small Armor Repairer II
+Energized Adaptive Nano Membrane II
+Antimatter Charge S, Qty: 869 (Cargo)
+Acolyte I (Drone Bay)
+

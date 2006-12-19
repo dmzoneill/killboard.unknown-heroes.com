@@ -1,0 +1,47 @@
+2007.01.20 03:59
+
+Victim: Mercie1
+Alliance: Firmus Ixion
+Corp: KDM Corp
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Xantheris
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Enyo
+Weapon: Enyo
+
+Name: Lux0r (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Hawk
+Weapon: Sabretooth Precision Light Missile
+
+Name: Mokh'Tar
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: Caldar Mercenary Syndicate
+Ship: Rifter
+Weapon: Sabretooth Light Missile
+
+Name: smudgewales
+Security: 1.2
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Stiletto
+Weapon: 'Arbalest' Standard Missile Launcher
+
+Name: Ayrin Soun
+Security: 5.0
+Alliance: O X I D E
+Corp: BLUE EAGLES
+Ship: Hawk
+Weapon: TE-2100 Standard Missile Bay
+
+

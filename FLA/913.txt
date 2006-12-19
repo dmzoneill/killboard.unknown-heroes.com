@@ -1,0 +1,31 @@
+2007.02.26 20:30
+
+Victim: Sir Artus
+Alliance: United Confederation of Corporations
+Corp: Industrial Warlords
+Destroyed: Hulk
+System: Maut
+Security: 0.2
+
+Involved parties:
+
+Name: Jesnen
+Security: -0.3
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Sacrilege
+Weapon: Sacrilege
+
+Name: Kiara Diepp (laid the final blow)
+Security: -1.6
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+
+Destroyed items:
+
+Small Clarity Ward Booster I
+Mining Laser Upgrade I
+

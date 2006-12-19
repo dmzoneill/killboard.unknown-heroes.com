@@ -1,0 +1,50 @@
+2007.01.09 07:17
+
+Victim: Pestily
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Destroyed: Rook
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Yushii (laid the final blow)
+Security: 1.5
+Alliance: None
+Corp: Perkone
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Bonafyde
+Security: 5.0
+Alliance: None
+Corp: Brutor tribe
+Ship: Hurricane
+Weapon: Warrior I
+
+Name: Rose Moonlight
+Security: 1.2
+Alliance: None
+Corp: Sebiestor tribe
+Ship: Vagabond
+Weapon: Vagabond
+
+
+Destroyed items:
+
+Improved Cloaking Device II
+Piranha Light Missile, Qty: 160
+Bloodclaw Light Missile, Qty: 80
+Assault Missile Launcher II
+Assault Missile Launcher II
+ECM - Spatial Destabilizer II
+ECM - Spatial Destabilizer II
+ECM - Spatial Destabilizer II
+ECM - Spatial Destabilizer II
+Sensor Booster II
+Sensor Booster II
+Induced Signal Distortion Amplifier I
+Power Diagnostic System II
+Bloodclaw Light Missile, Qty: 345 (Cargo)
+

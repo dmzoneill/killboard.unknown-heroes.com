@@ -1,0 +1,40 @@
+2006.12.24 22:36
+
+Victim: Nerxes
+Alliance: None
+Corp: Pink Bunnies
+Destroyed: Thorax
+System: Tama
+Security: 0.3
+
+Involved parties:
+
+Name: Compos Mentis (laid the final blow)
+Security: -6.8
+Alliance: Freelancer Alliance
+Corp: X.T.R
+Ship: Cerberus
+Weapon: Scourge Heavy Missile
+
+Name: Guristas Executor / Guristas
+
+
+Destroyed items:
+
+Light Neutron Blaster II
+Light Neutron Blaster II
+Void S, Qty: 61
+Warp Scrambler I
+Medium Armor Repairer II
+Energized Adaptive Nano Membrane I
+Energized Adaptive Nano Membrane I
+Initiated Warp Jammer I (Cargo)
+Medium Armor Repairer I (Cargo)
+Small Nosferatu I (Cargo)
+Tungsten Charge S, Qty: 100 (Cargo)
+Valkyrie I, Qty: 5 (Cargo)
+Supplemental Scanning CPU I (Cargo)
+Nanoelectrical Co-Processor I (Cargo)
+Void S, Qty: 4384 (Cargo)
+Valkyrie I (Drone Bay)
+

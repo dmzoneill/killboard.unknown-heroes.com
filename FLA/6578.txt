@@ -1,0 +1,121 @@
+2006.11.18 21:32
+
+Victim: Fertile Dirt
+Alliance: None
+Corp: FM Corp
+Destroyed: Scorpion
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Tim Helmert
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Asgard Schiffswerften
+Ship: Tempest
+Weapon: Tempest
+
+Name: brian crainie
+Security: 2.7
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Megathron
+Weapon: Megathron
+
+Name: LiBraga
+Security: 4.1
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Rook
+Weapon: Scourge Heavy Missile
+
+Name: H3llfire
+Security: 3.2
+Alliance: O X I D E
+Corp: W33D Corp.
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: haker2001
+Security: 1.1
+Alliance: O X I D E
+Corp: W33D Corp.
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Aquamundi (laid the final blow)
+Security: 2.9
+Alliance: Dusk and Dawn
+Corp: Asgard Schiffswerften
+Ship: Taranis
+Weapon: Light Neutron Blaster II
+
+Name: Narny
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Caracal
+Weapon: Havoc Precision Heavy Missile
+
+Name: Scorpio63
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Vengeance
+Weapon: Vengeance
+
+Name: RheinKraft10
+Security: 3.9
+Alliance: Dusk and Dawn
+Corp: Asgard Schiffswerften
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Grifter Treysik
+Security: 4.1
+Alliance: Freelancer Alliance
+Corp: Caldar Mercenary Syndicate
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: Marvel Master
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Asgard Schiffswerften
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: LizzyD
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: Weuzor
+Security: 0.0
+Alliance: Dusk and Dawn
+Corp: Asgard Schiffswerften
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: Fr0zt
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Rook
+Weapon: Heavy Missile Launcher II
+
+
+Destroyed items:
+
+Large Rudimentary Concussion Bomb I
+Fixed Parallel Link-Capacitor I
+ECM - Multispectral Jammer I
+Warp Core Stabilizer I
+Warp Core Stabilizer I
+F-b10 Nominal Capacitor Regenerator (Cargo)
+Capacitor Flux Coil I, Qty: 3 (Cargo)
+Vespa I, Qty: 2 (Drone Bay)
+

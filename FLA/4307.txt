@@ -1,0 +1,42 @@
+2007.04.07 20:05
+
+Victim: Elgcaress
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Destroyed: Celestis
+System: O-CNPR
+Security: 0.0
+
+Involved parties:
+
+Name: CiRFiS (laid the final blow)
+Security: 3.1
+Alliance: FATAL Alliance
+Corp: FATAL REVELATIONS
+Ship: Tempest
+Weapon: 1400mm Gallium I Cannon
+
+Name: Kalest
+Security: 2.1
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Talon Kell
+Security: 5.1
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Ares
+Weapon: Small 'Knave' I Energy Drain
+
+
+Destroyed items:
+
+Dual 150mm Carbide Railgun I
+Dual 150mm Carbide Railgun I
+Lead Charge M, Qty: 313
+Indirect Scanning Dampening Unit I
+Drone Navigation Computer I
+F-89 Synchronized Signal Amplifier
+

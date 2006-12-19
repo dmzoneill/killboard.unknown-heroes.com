@@ -1,0 +1,31 @@
+2007.02.15 02:22
+
+Victim: sic34
+Alliance: None
+Corp: State War Academy
+Destroyed: Ibis
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Pestily (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Rook
+Weapon: Bloodclaw Light Missile
+
+Name: Jack Cannon
+Security: 5.0
+Alliance: NxT LeveL
+Corp: The 5 Amigo's LLC.
+Ship: Taranis
+Weapon: Fleeting Warp Scrambler I
+
+
+Destroyed items:
+
+Civilian Gatling Railgun
+Basic Miner
+

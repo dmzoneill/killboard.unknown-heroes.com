@@ -1,0 +1,26 @@
+2007.03.14 21:03
+
+Victim: Valin AntiIIes
+Alliance: Chorus of Dawn
+Corp: Independent Frontiers
+Destroyed: Capsule
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Korudon
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Slim Jim (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Stiletto
+Weapon: Flameburst Light Missile
+
+

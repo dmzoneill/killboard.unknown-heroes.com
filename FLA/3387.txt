@@ -1,0 +1,89 @@
+2007.03.25 02:31
+
+Victim: Narsus
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Destroyed: Myrmidon
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Yorick Downe
+Security: 2.8
+Alliance: Agony Empire
+Corp: Agony Unleashed
+Ship: Drake
+Weapon: Havoc Heavy Missile
+
+Name: Knez Rex (laid the final blow)
+Security: 4.0
+Alliance: Agony Empire
+Corp: Agony Unleashed
+Ship: Huginn
+Weapon: Thunderbolt Heavy Missile
+
+Name: mullenc
+Security: 1.4
+Alliance: Agony Empire
+Corp: Agony Unleashed
+Ship: Myrmidon
+Weapon: Ogre II
+
+Name: Quen Azle
+Security: -0.5
+Alliance: Agony Empire
+Corp: Agony Unleashed
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: JaeWoo
+Security: 0.2
+Alliance: Agony Empire
+Corp: Agony Unleashed
+Ship: Rupture
+Weapon: Rupture
+
+Name: Vitelius
+Security: 4.3
+Alliance: Agony Empire
+Corp: Agony Unleashed
+Ship: Caracal
+Weapon: Hornet I
+
+Name: Unit 1
+Security: 2.8
+Alliance: Agony Empire
+Corp: Agony Unleashed
+Ship: Taranis
+Weapon: Taranis
+
+Name: Gemini Zero
+Security: 4.1
+Alliance: Agony Empire
+Corp: Agony Unleashed
+Ship: Ferox
+Weapon: Ferox
+
+Name: Dragonbitch
+Security: 1.9
+Alliance: Agony Empire
+Corp: Agony Unleashed
+Ship: Stabber
+Weapon: Stabber
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Medium Nosferatu I
+X5 Prototype I Engine Enervator
+Cap Booster 400
+Cap Booster 400
+Medium Armor Repairer I
+N-Type Explosive Hardener I
+Armor Thermic Hardener I
+N-Type Kinetic Hardener I
+Beta Reactor Control: Reaction Control I
+Praetor I, Qty: 2 (Drone Bay)
+

@@ -1,0 +1,107 @@
+2007.04.01 03:18
+
+Victim: Mr Moldy
+Alliance: Federation Of united Corps
+Corp: check mate Corp
+Destroyed: Amarr Shuttle
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: toonsterpw
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: TroNaaR (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Megathron
+Weapon: 425mm 'Scout' I Accelerator Cannon
+
+Name: Jorax
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Myrmidon
+Weapon: Warrior II
+
+Name: Epro
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Cyclone
+Weapon: 720mm Howitzer Artillery I
+
+Name: iNFoRMaLiTY
+Security: -7.9
+Alliance: Freelancer Alliance
+Corp: Blackwater Squadron
+Ship: Megathron
+Weapon: Megathron
+
+Name: hydro2900
+Security: 2.9
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Ship: Thorax
+Weapon: Thorax
+
+Name: Logand Delta
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Ship: Drake
+Weapon: 'Arbalest' Heavy Missile Launcher
+
+Name: Fugnut
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Drake
+Weapon: Advanced 'Limos' Heavy Missile Bay I
+
+Name: Bobby Atlas
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Megathron
+Weapon: 425mm Compressed Coil Gun I
+
+
+Destroyed items:
+
+Probe Blueprint (Cargo)
+Slasher Blueprint (Cargo)
+Minmatar Shuttle Blueprint (Cargo)
+1MN MicroWarpdrive I Blueprint (Cargo)
+10MN Afterburner I Blueprint (Cargo)
+10MN MicroWarpdrive I Blueprint (Cargo)
+280mm Howitzer Artillery I Blueprint (Cargo)
+800mm Repeating Artillery I Blueprint (Cargo)
+150mm Light AutoCannon I Blueprint (Cargo)
+250mm Light Artillery Cannon I Blueprint (Cargo)
+Rocket Launcher I Blueprint (Cargo)
+Large Armor Repairer I Blueprint (Cargo)
+Medium Armor Repairer I Blueprint (Cargo)
+Expanded Cargohold I Blueprint (Cargo)
+Nanofiber Internal Structure I Blueprint (Cargo)
+Energized Adaptive Nano Membrane I Blueprint (Cargo)
+Energized Magnetic Membrane I Blueprint (Cargo)
+Energized Reactive Membrane I Blueprint (Cargo)
+Energized Regenerative Membrane I Blueprint (Cargo)
+Depleted Uranium S Blueprint (Cargo)
+Depleted Uranium L Blueprint (Cargo)
+EMP S Blueprint (Cargo)
+Fusion L Blueprint (Cargo)
+Phased Plasma L Blueprint (Cargo)
+Nuclear S Blueprint (Cargo)
+Phased Plasma S Blueprint (Cargo)
+Nuclear L Blueprint (Cargo)
+Gremlin Rocket Blueprint (Cargo)
+Target Painter I Blueprint (Cargo)
+

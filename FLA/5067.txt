@@ -1,0 +1,47 @@
+2007.04.21 18:02
+
+Victim: Azrealsan
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Thorax
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Indiano Arko (laid the final blow)
+Security: 0.6
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Hurricane
+Weapon: 650mm Medium 'Scout' Artillery I
+
+Name: ZeroGrav
+Security: 3.1
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Savak
+Security: -0.1
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Apocalypse
+Weapon: Tachyon Afocal Maser I
+
+Name: Terdlinger
+Security: 4.9
+Alliance: Storm Armada
+Corp: stone grave haulage
+Ship: Hawk
+Weapon: Standard Missile Launcher II
+
+Name: OneHawk
+Security: 3.8
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Rupture
+Weapon: Rupture
+
+

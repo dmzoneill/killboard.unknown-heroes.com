@@ -1,0 +1,62 @@
+2006.11.17 06:15
+
+Victim: Severa Crest
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Destroyed: Typhoon
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Species 8472
+Security: 1.3
+Alliance: The Sani Sabik
+Corp: Omniscient Order
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Vegeta (laid the final blow)
+Security: 1.4
+Alliance: The Sani Sabik
+Corp: Omniscient Order
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+Name: jamesw
+Security: 1.7
+Alliance: The Sani Sabik
+Corp: Omniscient Order
+Ship: Dominix
+Weapon: Berserker II
+
+Name: Altai Saker
+Security: -1.8
+Alliance: The Sani Sabik
+Corp: Omniscient Order
+Ship: Eris
+Weapon: 125mm Railgun II
+
+
+Destroyed items:
+
+Mjolnir Torpedo, Qty: 18
+Bane Torpedo, Qty: 18
+Inferno Torpedo, Qty: 18
+'Arbalest' Siege Missile Launcher
+'Arbalest' Siege Missile Launcher
+'Arbalest' Siege Missile Launcher
+Fleeting Warp Scrambler I
+Initiated Multispectral ECM I
+Initiated Multispectral ECM I
+Fleeting Progressive Warp Scrambler I, Qty: 2 (Cargo)
+Dread Guristas Lead Charge M, Qty: 1000 (Cargo)
+Guristas Iron Charge L, Qty: 2000 (Cargo)
+Guristas Lead Charge L, Qty: 1000 (Cargo)
+Dread Guristas Iron Charge M, Qty: 1000 (Cargo)
+Tremor L, Qty: 145 (Cargo)
+Null S, Qty: 60 (Cargo)
+Void S, Qty: 1521 (Cargo)
+'Arbalest' Cruise Launcher I, Qty: 2 (Cargo)
+'Arbalest' Siege Missile Launcher, Qty: 4 (Cargo)
+

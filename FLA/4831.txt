@@ -1,0 +1,168 @@
+2007.04.16 22:38
+
+Victim: Corovus
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Destroyed: Helios
+System: C8-CHY
+Security: 0.0
+
+Involved parties:
+
+Name: Bob ThePlumber
+Security: 4.6
+Alliance: Axiom Empire
+Corp: United Society Starfleet
+Ship: Vagabond
+Weapon: XR-3200 Heavy Missile Bay
+
+Name: DeathGrip
+Security: 4.0
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Flycatcher
+Weapon: Thorn Javelin Rocket
+
+Name: Reinhant
+Security: -1.3
+Alliance: Xelas Alliance
+Corp: Requiem of Hades
+Ship: Malediction
+Weapon: Malediction
+
+Name: Durka Tim
+Security: 2.4
+Alliance: FATAL Alliance
+Corp: Black Reign
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: david23 (laid the final blow)
+Security: 5.0
+Alliance: Xelas Alliance
+Corp: Requiem of Hades
+Ship: Harpy
+Weapon: 150mm Railgun I
+
+Name: Hito Ming
+Security: 2.4
+Alliance: Xelas Alliance
+Corp: Requiem of Hades
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: Hansihandyr
+Security: 4.6
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Taranis
+Weapon: 150mm Railgun II
+
+Name: xBeneGesseritx
+Security: 5.0
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: NykoMe
+Security: 0.1
+Alliance: Xelas Alliance
+Corp: InNova Tech Inc
+Ship: Taranis
+Weapon: Small Diminishing Power System Drain I
+
+Name: Haargoth Agamar
+Security: -1.3
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Raptor
+Weapon: Thorn Rocket
+
+Name: Selnix
+Security: 5.0
+Alliance: Aftermath Alliance
+Corp: Master Miners
+Ship: Eris
+Weapon: 125mm Railgun II
+
+Name: kezz2411
+Security: 5.0
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Pilgrim
+Weapon: Warp Disruptor II
+
+Name: bloodagger
+Security: 0.7
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Tristan
+Weapon: X5 Prototype I Engine Enervator
+
+Name: Vantaro
+Security: 4.3
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Vexor
+Weapon: Warp Disruptor I
+
+Name: ThomasBranic
+Security: -0.7
+Alliance: Xelas Alliance
+Corp: Industrial Warlords
+Ship: Taranis
+Weapon: Light Neutron Blaster II
+
+Name: Kesc Gileay
+Security: -0.1
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Rupture
+Weapon: 220mm Vulcan AutoCannon I
+
+Name: Incident
+Security: 4.8
+Alliance: FATAL Alliance
+Corp: UK Corp
+Ship: Taranis
+Weapon: X5 Prototype I Engine Enervator
+
+Name: Deerhoof
+Security: 2.1
+Alliance: Axiom Empire
+Corp: United Society Starfleet
+Ship: Wolf
+Weapon: Wolf
+
+Name: Cavalus
+Security: 5.0
+Alliance: Aftermath Alliance
+Corp: Master Miners
+Ship: Crow
+Weapon: Initiated Warp Jammer I
+
+Name: Bedrock
+Security: 0.0
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Huginn
+Weapon: Warp Disruptor II
+
+
+Destroyed items:
+
+Snoop Scanner Probe I
+Snoop Scanner Probe I
+Snoop Scanner Probe I
+Snoop Scanner Probe I
+Snoop Scanner Probe I
+Snoop Scanner Probe I
+Snoop Scanner Probe I
+Snoop Scanner Probe I
+1MN Afterburner II
+Kapteyn Sensor Array Inhibitor I
+Local Hull Conversion Inertial Stabilizers I
+Mark I Modified SS Nanofiber Structure
+Scourge Heavy Missile, Qty: 218 (Cargo)
+

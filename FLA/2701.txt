@@ -1,0 +1,29 @@
+2007.03.03 05:45
+
+Victim: Zytrel
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Destroyed: Taranis
+System: A-1CON
+Security: 0.0
+
+Involved parties:
+
+Name: Tarhess (laid the final blow)
+Security: -4.0
+Alliance: Aftermath Alliance
+Corp: Master Miners
+Ship: Vexor
+Weapon: Hobgoblin I
+
+
+Destroyed items:
+
+Light Electron Blaster II
+Void S, Qty: 400
+Catalyzed Cold-Gas I Arcjet Thrusters
+J5b Phased Prototype Warp Inhibitor I
+Capacitor Power Relay I
+Void S, Qty: 9492 (Cargo)
+Hammerhead I (Drone Bay)
+

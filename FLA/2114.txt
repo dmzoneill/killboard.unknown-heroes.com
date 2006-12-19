@@ -1,0 +1,28 @@
+2007.01.21 20:35
+
+Victim: Indigo Callypso
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Destroyed: Crow
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: WarGod (laid the final blow)
+Security: 1.4
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Curse
+Weapon: Ogre II
+
+
+Destroyed items:
+
+Small Energy Neutralizer I
+Thorn Rocket, Qty: 55
+Rocket Launcher II
+Eutectic I Capacitor Charge Array
+Gistii A-Type 1MN MicroWarpdrive
+J5 Prototype Warp Inhibitor I
+

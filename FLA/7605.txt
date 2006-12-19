@@ -1,0 +1,26 @@
+2006.09.24 14:56
+
+Victim: Morkula Paldanous
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Destroyed: Capsule
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Rhamos Orthega (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Tempest
+Weapon: 1400mm 'Scout' Artillery I
+
+Name: Hosanna
+Security: -0.7
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Stiletto
+Weapon: 150mm Light AutoCannon II
+
+

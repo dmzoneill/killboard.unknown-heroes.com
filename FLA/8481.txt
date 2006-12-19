@@ -1,0 +1,40 @@
+2006.11.21 06:57
+
+Victim: Tenk
+Alliance: Freelancer Alliance
+Corp: BGG
+Destroyed: Raven
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: GoLdeN BoY (laid the final blow)
+Security: 1.8
+Alliance: None
+Corp: Beer Guzzling Clowns With Blasters
+Ship: Crusader
+Weapon: Medium Pulse Laser II
+
+Name: Evelyn Mulwray
+Security: 0.4
+Alliance: None
+Corp: Beer Guzzling Clowns With Blasters
+Ship: Taranis
+Weapon: Taranis
+
+
+Destroyed items:
+
+Juggernaut Torpedo, Qty: 26
+Wrath Cruise Missile, Qty: 18
+'Arbalest' Cruise Launcher I
+'Arbalest' Siege Missile Launcher
+'Arbalest' Siege Missile Launcher
+Small Tractor Beam I
+Medium Clarity Ward Booster I
+Non-Inertial Ballistic Screen Augmentation I
+Ballistic Control System I
+Juggernaut Torpedo, Qty: 798 (Cargo)
+Wrath Cruise Missile, Qty: 590 (Cargo)
+

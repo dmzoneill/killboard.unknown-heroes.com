@@ -1,0 +1,28 @@
+2006.11.20 20:11
+
+Victim: Vexen Thirteen
+Alliance: Interstellar Starbase Syndicate
+Corp: MC Cubed Inc
+Destroyed: Tristan
+System: B-9C24
+Security: 0.0
+
+Involved parties:
+
+Name: Solarienne (laid the final blow)
+Security: 4.8
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+
+Destroyed items:
+
+Small Nosferatu I
+75mm Carbide Railgun I
+Antimatter Charge S, Qty: 200
+'Langour' Drive Disruptor I
+Quantum Co-Processor I
+Energized Adaptive Nano Membrane I
+

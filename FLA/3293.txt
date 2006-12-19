@@ -1,0 +1,97 @@
+2007.03.22 19:25
+
+Victim: Nikiita
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Destroyed: Brutix
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Yushii
+Security: -0.3
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: shots17
+Security: -1.3
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Zealot
+Weapon: Zealot
+
+Name: vyperpit
+Security: 4.6
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Sith Bandon
+Security: 5.0
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Ishtar
+Weapon: Hammerhead II
+
+Name: XxAngelxX (laid the final blow)
+Security: -1.8
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Curse
+Weapon: Valkyrie II
+
+Name: PainBall
+Security: -0.9
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Absolution
+Weapon: Heavy Pulse Laser II
+
+Name: WarGod
+Security: 1.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Curse
+Weapon: Berserker II
+
+Name: Alchem
+Security: 2.9
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Ishtar
+Weapon: 150mm Railgun II
+
+Name: Murdoch Morf
+Security: 1.4
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Taranis
+Weapon: Taranis
+
+Name: zeitza ta
+Security: 0.5
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Astarte
+Weapon: Astarte
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Heavy Ion Blaster I
+Heavy Ion Blaster I
+Antimatter Charge M, Qty: 239
+Warp Scrambler I
+'Langour' Drive Disruptor I
+Induced Multispectral ECM I
+Energized Adaptive Nano Membrane I
+Energized Adaptive Nano Membrane I
+Energized Adaptive Nano Membrane I
+Antimatter Charge M, Qty: 2157 (Cargo)
+Hammerhead I, Qty: 5 (Drone Bay)
+

@@ -1,0 +1,29 @@
+2007.03.04 13:46
+
+Victim: Gating Corss
+Alliance: Aftermath Alliance
+Corp: Dark Nebula Gallente Division
+Destroyed: Velator
+System: YZ-LQL
+Security: 0.0
+
+Involved parties:
+
+Name: mrrabit
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Thrasher
+Weapon: 280mm Howitzer Artillery II
+
+Name: EIectra (laid the final blow)
+Security: -1.4
+Alliance: Dusk and Dawn
+Corp: Decadence.
+Ship: Eris
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+Basic Miner

@@ -1,0 +1,68 @@
+2007.03.11 16:35
+
+Victim: joker1
+Alliance: None
+Corp: Federal Navy Academy
+Destroyed: Capsule
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Cho Solo
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Megathron
+Weapon: XT-9000 Cruise Launcher
+
+Name: AaLaA (laid the final blow)
+Security: 4.5
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Megathron
+Weapon: 425mm Prototype I Gauss Gun
+
+Name: truefranco
+Security: 4.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+Name: Tripwire
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Celestis
+Weapon: Rocket Launcher I
+
+Name: Nike Calistar
+Security: 2.3
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Caracal
+Weapon: Heavy Missile Launcher I
+
+Name: NeoDerrick
+Security: 4.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Scorpion
+Weapon: Scorpion
+
+Name: Hamos
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Raven
+Weapon: Cruise Missile Launcher I
+
+Name: Ashlore
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Harpy
+Weapon: Harpy
+
+

@@ -1,0 +1,43 @@
+2007.04.11 09:52
+
+Victim: ANNIHILATER
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Destroyed: Raven
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Phoenus (laid the final blow)
+Security: 0.4
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Vindicator
+Weapon: Ion Blaster Cannon II
+
+
+Destroyed items:
+
+Bane Torpedo
+Bane Torpedo
+Bane Torpedo
+Inferno Torpedo
+Inferno Torpedo
+Inferno Torpedo
+ZW-4100 Siege Missile Bay
+ZW-4100 Siege Missile Bay
+ZW-4100 Siege Missile Bay
+ZW-4100 Siege Missile Bay
+ZW-4100 Siege Missile Bay
+'Anointed' I EM Ward Reinforcement
+Heat Dissipation Amplifier II
+Damage Control II
+Ballistic Control System II
+Ballistic Control System II
+Ballistic Control System II
+Beta Reactor Control: Diagnostic System I
+Inferno Torpedo, Qty: 1660 (Cargo)
+Juggernaut Torpedo, Qty: 1330 (Cargo)
+Bane Torpedo, Qty: 1660 (Cargo)
+

@@ -1,0 +1,26 @@
+2007.04.21 12:40
+
+Victim: Riddim
+Alliance: None
+Corp: Deep Core Mining Inc.
+Destroyed: Caldari Shuttle
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: FlobbMkII (laid the final blow)
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Griffin
+Weapon: Hobgoblin II
+
+Name: Mufeater
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Vexor
+Weapon: Heavy Ion Blaster I
+
+

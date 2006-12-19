@@ -1,0 +1,71 @@
+2006.08.27 22:04
+
+Victim: GrandMastaXP
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Caracal
+System: 3T7-M8
+Security: 0.0
+
+Involved parties:
+
+Name: McDan (laid the final blow)
+Security: -0.6
+Alliance: Lotka Volterra
+Corp: Shinra
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: King Dave
+Security: 3.8
+Alliance: Lotka Volterra
+Corp: Shinra
+Ship: Apocalypse
+Weapon: Tachyon Beam Laser II
+
+Name: Zatak Druk'Norr
+Security: 1.5
+Alliance: Lotka Volterra
+Corp: Shinra
+Ship: Apocalypse
+Weapon: Tachyon Beam Laser II
+
+Name: Chowdown
+Security: -0.8
+Alliance: Lotka Volterra
+Corp: Shinra
+Ship: Machariel
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Martyr 01
+Security: 1.7
+Alliance: Lotka Volterra
+Corp: Shinra
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Feek
+Security: 3.0
+Alliance: Ascendant Frontier
+Corp: STK Scientific
+Ship: Unknown
+Weapon: 'Hypnos' Multispectral ECM I
+
+
+Destroyed items:
+
+Thunderbolt Heavy Missile, Qty: 90
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+Large C5-L Emergency Shield Overload I
+1MN MicroWarpdrive I (Cargo)
+Hobgoblin II (Cargo)
+Tracking Enhancer I (Cargo)
+Micro Auxiliary Power Core I (Cargo)
+Void S, Qty: 69 (Cargo)
+Null S, Qty: 499 (Cargo)
+Thunderbolt Heavy Missile, Qty: 311 (Cargo)
+Havoc Heavy Missile, Qty: 500 (Cargo)
+'Arbalest' Cruise Launcher I (Cargo)
+Power Diagnostic System I (Cargo)
+

@@ -1,0 +1,55 @@
+2007.04.21 04:12
+
+Victim: Ghu'ru Talozan
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Celestis
+System: 2R-CRW
+Security: 0.0
+
+Involved parties:
+
+Name: Robet Katrix (laid the final blow)
+Security: 2.2
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Chimera
+Weapon: Dragonfly
+
+Name: Soldur
+Security: 5.0
+Alliance: Exuro Mortis
+Corp: Slacker Industries
+Ship: Astarte
+Weapon: Hammerhead II
+
+Name: War Bear
+Security: 2.8
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Stiletto
+Weapon: 'Arbalest' Standard Missile Launcher
+
+Name: splunkrr
+Security: 1.2
+Alliance: Exuro Mortis
+Corp: Slacker Industries
+Ship: Megathron
+Weapon: Ion Blaster Cannon II
+
+Name: Crovan
+Security: 2.8
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Ishtar
+Weapon: Warp Disruptor II
+
+
+Destroyed items:
+
+Antimatter Charge M, Qty: 72
+Remote Sensor Dampener I
+Remote Sensor Dampener I
+Damage Control I
+Mark I Generator Refitting: Capacitor Power Relay
+

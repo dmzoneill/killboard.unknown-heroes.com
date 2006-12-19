@@ -1,0 +1,38 @@
+2006.08.08 15:37
+
+Victim: Octonian Elite
+Alliance: None
+Corp: H.Y.D.R.A.
+Destroyed: Typhoon
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Matt Stoner (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Cerberus
+Weapon: Scourge Heavy Missile
+
+Name: Bloodclaw Light Missile / Guristas
+
+
+Destroyed items:
+
+Heavy 'Ghoul' Energy Siphon I
+Heavy 'Ghoul' Energy Siphon I
+Thunderbolt Heavy Missile, Qty: 44
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+Quad LiF Fueled I Booster Rockets
+X5 Prototype I Engine Enervator
+Large Inefficient Armor Repair Unit
+Warp Core Stabilizer I
+Warp Core Stabilizer I
+1600mm Reinforced Crystalline Carbonide Plates I
+Havoc Heavy Missile, Qty: 400 (Cargo)
+Warrior I (Drone Bay)
+

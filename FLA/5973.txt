@@ -1,0 +1,54 @@
+2006.11.04 07:30
+
+Victim: ICU
+Alliance: None
+Corp: School of Applied Knowledge
+Destroyed: Minmatar Shuttle
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Lord Acheron
+Security: 0.7
+Alliance: Freelancer Alliance
+Corp: Caldar Mercenary Syndicate
+Ship: Sabre
+Weapon: Sabre
+
+Name: FrankieG
+Security: -0.6
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Curse
+Weapon: Curse
+
+Name: Angel Vengen (laid the final blow)
+Security: 4.0
+Alliance: Freelancer Alliance
+Corp: Caldar Mercenary Syndicate
+Ship: Omen
+Weapon: Bloodclaw Light Missile
+
+Name: Slinktress
+Security: 2.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: OmeTakeda
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Dominix
+Weapon: Warden I
+
+Name: MonwrathDisortium
+Security: -2.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Typhoon
+Weapon: Typhoon
+
+

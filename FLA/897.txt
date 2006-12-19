@@ -1,0 +1,68 @@
+2007.02.26 01:37
+
+Victim: FrankieG
+Alliance: None
+Corp: Zero.
+Destroyed: Crusader
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Lillegutt (laid the final blow)
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Ship: Armageddon
+Weapon: Mega Pulse Laser II
+
+Name: Gibson Rothman
+Security: -1.0
+Alliance: Red Moon Federation
+Corp: Confederation of Red Moon
+Ship: Ares
+Weapon: TE-2100 Standard Missile Bay
+
+Name: Moridin Bashere
+Security: -0.6
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Ship: Arbitrator
+Weapon: Arbitrator
+
+Name: KingRizen
+Security: -2.1
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+Name: zentroty
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Ship: Drake
+Weapon: Heavy Missile Launcher I
+
+Name: Genvu Daikanta
+Security: 3.2
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Ship: Heretic
+Weapon: Warp Disruptor I
+
+
+Destroyed items:
+
+Medium Pulse Laser II
+Medium Pulse Laser II
+Scorch S
+Scorch S
+Scorch S
+1MN MicroWarpdrive II
+J5b Phased Prototype Warp Inhibitor I
+Small Armor Repairer II
+Micro Auxiliary Power Core I
+Micro Auxiliary Power Core I
+Conflagration S (Cargo)
+

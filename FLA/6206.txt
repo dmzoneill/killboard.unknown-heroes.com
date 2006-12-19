@@ -1,0 +1,40 @@
+2006.11.10 18:01
+
+Victim: Mark Weston
+Alliance: Interstellar Starbase Syndicate
+Corp: The Graduates
+Destroyed: Caldari Shuttle
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Dog Cancer (laid the final blow)
+Security: 1.4
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Scorpio63
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Apocalypse
+Weapon: Apocalypse
+
+Name: De'Zori
+Security: 5.0
+Alliance: None
+Corp: PILGRIMS
+Ship: Manticore
+Weapon: Cruise Missile Launcher II
+
+Name: Darth Hound
+Security: 1.6
+Alliance: Schism.
+Corp: Fatalix Inc.
+Ship: Inquisitor
+Weapon: Upgraded 'Limos' Standard Missile Bay I
+
+

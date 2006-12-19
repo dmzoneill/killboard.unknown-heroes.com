@@ -1,0 +1,64 @@
+2006.11.03 23:15
+
+Victim: Moonunit raker
+Alliance: Eternal Empire
+Corp: Spectral Armada
+Destroyed: Ferox
+System: J-CIJV
+Security: 0.0
+
+Involved parties:
+
+Name: hejjbazeg
+Security: 1.6
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Cyclone
+Weapon: Hobgoblin I
+
+Name: Gray Baby
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Raven
+Weapon: Cataclysm Cruise Missile
+
+Name: Weeble Wooble (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Dominix
+Weapon: Hammerhead II
+
+Name: Gamer1K
+Security: 4.5
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Rook
+Weapon: Scourge Heavy Missile
+
+Name: Pocok Peti
+Security: 4.1
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Raptor
+Weapon: Raptor
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 54
+Thunderbolt Heavy Missile, Qty: 54
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+Large F-S9 Regolith Shield Induction
+Invulnerability Field I
+'Halcyon' Core Equalizer I
+'Stoic' Core Equalizer I
+Ballistic Control System I
+Ballistic Control System I
+Thunderbolt Heavy Missile, Qty: 308 (Cargo)
+Scourge Heavy Missile, Qty: 725 (Cargo)
+

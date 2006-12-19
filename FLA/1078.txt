@@ -1,0 +1,40 @@
+2007.03.04 17:24
+
+Victim: Romulus Kane
+Alliance: Privateer Alliance
+Corp: Privateers
+Destroyed: Rupture
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: avelon serenity (laid the final blow)
+Security: -1.0
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Myrmidon
+Weapon: Ogre II
+
+Name: Guristas Obliterator / Guristas
+
+
+Destroyed items:
+
+Dual 180mm AutoCannon I
+Dual 180mm AutoCannon I
+Dual 180mm AutoCannon I
+Medium Nosferatu I
+Medium Nosferatu I
+EMP M, Qty: 200
+10MN MicroWarpdrive I
+Warp Disruptor I
+Gyrostabilizer I
+Damage Control I
+Medium Armor Repairer I
+400mm Reinforced Crystalline Carbonide Plates I
+EMP M, Qty: 2000 (Cargo)
+Fusion M, Qty: 1000 (Cargo)
+Hammerhead I (Drone Bay)
+Hobgoblin I, Qty: 2 (Drone Bay)
+

@@ -1,0 +1,64 @@
+2007.05.25 18:38
+
+Victim: aUTOKILL
+Alliance: Exuro Mortis
+Corp: Slacker Industries
+Destroyed: Ares
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Tushani
+Security: 1.1
+Alliance: None
+Corp: Kamikaze Inc.
+Ship: Sabre
+Weapon: Patterned Stasis Web I
+
+Name: Steven FSB
+Security: 3.5
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Harpy
+Weapon: Harpy
+
+Name: Yesh
+Security: 2.7
+Alliance: The Fifth Race
+Corp: Antares Frontier
+Ship: Malediction
+Weapon: Dual Light Beam Laser II
+
+Name: alon blackhelm (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Myrmidon
+Weapon: Heavy Neutron Blaster II
+
+Name: articz
+Security: -0.5
+Alliance: DeStInY.
+Corp: House Of Aaron
+Ship: Tempest
+Weapon: Heavy 'Knave' I Energy Drain
+
+Name: Chuck Dawg
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+
+Destroyed items:
+
+Flameburst Light Missile, Qty: 44
+Upgraded 'Limos' Standard Missile Bay I
+Fleeting Warp Scrambler I
+Type-D Altered SS Nanofiber Structure
+Type-D Altered SS Overdrive Injector
+Iron Charge S, Qty: 1403 (Cargo)
+Flameburst Light Missile, Qty: 281 (Cargo)
+

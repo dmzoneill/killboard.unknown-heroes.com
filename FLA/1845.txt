@@ -1,0 +1,33 @@
+2007.01.06 22:37
+
+Victim: Tiberius Drake
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Destroyed: Capsule
+System: Torrinos
+Security: 0.5
+
+Involved parties:
+
+Name: SoulScourge (laid the final blow)
+Security: -1.5
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Tempest Fleet Issue
+Weapon: 1400mm Howitzer Artillery II
+
+Name: oneevil mother
+Security: -1.4
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Vengeance
+Weapon: Dual Light Pulse Laser II
+
+Name: Pistonbroke
+Security: -0.1
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Crow
+Weapon: 125mm Railgun II
+
+

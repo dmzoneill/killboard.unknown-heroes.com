@@ -1,0 +1,46 @@
+2006.12.19 21:43
+
+Victim: Puz'ZaW
+Alliance: Freelancer Alliance
+Corp: Thors Hammers
+Destroyed: Stiletto
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Razor Jaxx
+Security: 0.0
+Alliance: None
+Corp: Fate.
+Ship: Tempest
+Weapon: Hobgoblin II
+
+Name: boo3916 (laid the final blow)
+Security: 4.3
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Dominix
+Weapon: 250mm Railgun II
+
+Name: Torok Nakaht
+Security: 1.1
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Vagabond
+Weapon: Vagabond
+
+
+Destroyed items:
+
+Barrage S, Qty: 80
+Foxfire Rocket, Qty: 30
+'Arbalest' Rocket Launcher I
+Initiated Warp Jammer I
+Stasis Webifier I
+'Abandon' Targeting Disruptor I
+Small Armor Repairer II
+Beta Reactor Control: Capacitor Power Relay I
+Hail S, Qty: 300 (Cargo)
+Barrage S, Qty: 840 (Cargo)
+

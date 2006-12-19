@@ -1,0 +1,54 @@
+2007.04.01 22:00
+
+Victim: Dalmont
+Alliance: None
+Corp: LEGI0N
+Destroyed: Capsule
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Kerdrak (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Vengeance
+Weapon: Dual Light Pulse Laser II
+
+Name: Dana Foxworth
+Security: 3.3
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Thrasher
+Weapon: 250mm Light Artillery Cannon I
+
+Name: NeoDerrick
+Security: 4.2
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Raptor
+Weapon: Foxfire Rocket
+
+Name: Daressek
+Security: 3.7
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Bantam
+Weapon: Small Nosferatu I
+
+Name: nye 2k
+Security: 5.0
+Alliance: None
+Corp: Silver Snake Enterprise
+Ship: Hawk
+Weapon: Hawk
+
+Name: hydro2900
+Security: 2.9
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Ship: Catalyst
+Weapon: 150mm Railgun I
+
+

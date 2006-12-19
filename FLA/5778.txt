@@ -1,0 +1,32 @@
+2006.10.18 18:26
+
+Victim: Ballbess
+Alliance: R.I.S.K
+Corp: ReD eYe Inc.
+Destroyed: Tristan
+System: O-N8XZ
+Security: 0.0
+
+Involved parties:
+
+Name: Jumar Coldgin (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+Name: Matt Stoner
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Cerberus
+Weapon: Widowmaker Heavy Missile
+
+
+Destroyed items:
+
+Light Ion Blaster I
+1MN MicroWarpdrive I
+Antimatter Charge S, Qty: 2240 (Cargo)
+

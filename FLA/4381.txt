@@ -1,0 +1,75 @@
+2007.04.09 01:55
+
+Victim: Kaand
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Megathron
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Myal Terego (laid the final blow)
+Security: -2.6
+Alliance: S.E.R.A
+Corp: Seraphin Technologies
+Ship: Archon
+Weapon: Firbolg
+
+Name: Rukaz
+Security: 3.1
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Luthair StoneDog
+Security: -2.7
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Thanatos
+Weapon: Einherji
+
+Name: Queldonus
+Security: 2.6
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Nidhoggur
+Weapon: Einherji
+
+Name: Skinny Boy
+Security: 4.1
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Thanatos
+Weapon: Einherji
+
+Name: Nethel
+Security: 2.1
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Dominix
+Weapon: Heavy 'Knave' I Energy Drain
+
+Name: Warp Scrambling Battery / Eternity INC.
+
+
+Destroyed items:
+
+425mm Railgun II
+425mm Railgun II
+425mm Railgun II
+425mm Railgun II
+425mm Railgun II
+425mm Railgun II
+Antimatter Charge L, Qty: 80
+Eutectic I Capacitor Charge Array
+Tracking Enhancer II
+Magnetic Field Stabilizer II
+1600mm Reinforced Rolled Tungsten Plates I
+Iridium Charge L, Qty: 2000 (Cargo)
+Iron Charge L, Qty: 2000 (Cargo)
+Spike L, Qty: 2117 (Cargo)
+Warrior I, Qty: 2 (Drone Bay)
+Hammerhead I, Qty: 3 (Drone Bay)
+

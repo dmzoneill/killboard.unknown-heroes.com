@@ -1,0 +1,61 @@
+2006.11.23 04:45
+
+Victim: sasaha
+Alliance: None
+Corp: Federal Navy Academy
+Destroyed: Gallente Shuttle
+System: L-TS8S
+Security: 0.0
+
+Involved parties:
+
+Name: Danielson1012 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: KriegDrachen
+Security: 0.4
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Stiletto
+Weapon: Fleeting Warp Scrambler I
+
+Name: Fugnut
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Crow
+Weapon: X5 Prototype I Engine Enervator
+
+Name: Downeaster
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Brutix
+Weapon: 150mm Prototype I Gauss Gun
+
+Name: Capt Cali
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: London Transport
+Ship: Cerberus
+Weapon: Heavy Missile Launcher II
+
+Name: Bricker
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Deimos
+Weapon: Heavy Electron Blaster II
+
+Name: Braxxon
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Rapier
+Weapon: Dread Guristas Stasis Webifier
+
+

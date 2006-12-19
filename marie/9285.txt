@@ -1,0 +1,47 @@
+2007.05.06 09:57
+
+Victim: stich626
+Alliance: YouWhat
+Corp: Princeps Corp
+Destroyed: Vengeance
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Marie Veedor
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Caracal
+Weapon: Warrior I
+
+Name: alpha lead
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Mufeater (laid the final blow)
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Dominix
+Weapon: Vespa I
+
+
+Destroyed items:
+
+Dual Light Pulse Laser II
+Dual Light Pulse Laser II
+Dual Light Pulse Laser II
+Small 'Knave' I Energy Drain
+Conflagration S
+Conflagration S
+Warp Disruptor I
+Patterned Stasis Web I
+Small Armor Repairer II
+Magnetic Plating II
+Adaptive Nano Plating II
+

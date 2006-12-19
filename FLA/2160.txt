@@ -1,0 +1,29 @@
+2007.01.26 06:19
+
+Victim: Deathbringer III
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Destroyed: Mammoth
+System: OWXT-5
+Security: 0.0
+
+Involved parties:
+
+Name: Vyndicator (laid the final blow)
+Security: -2.5
+Alliance: None
+Corp: 0utbreak
+Ship: Typhoon
+Weapon: Devastator Cruise Missile
+
+
+Destroyed items:
+
+Depleted Uranium S, Qty: 44
+Medium Azeotropic Ward Salubrity I
+Warp Core Stabilizer I
+Warp Core Stabilizer I
+Coolant, Qty: 165 (Cargo)
+Robotics, Qty: 123 (Cargo)
+Mechanical Parts, Qty: 246 (Cargo)
+

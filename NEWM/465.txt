@@ -1,0 +1,135 @@
+2007.02.04 19:18
+
+Victim: Eskriloth
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Destroyed: Hurricane
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: alon blackhelm (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Raven
+Weapon: Cataclysm Precision Cruise Missile
+
+Name: Poiter
+Security: 3.7
+Alliance: Insane Asylum
+Corp: PILGRIMS
+Ship: Raven
+Weapon: Wrath Cruise Missile
+
+Name: Kee Ris
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Abaddon
+Weapon: Abaddon
+
+Name: william kronos
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Caracal
+Weapon: Parallel Weapon Navigation Transmitter
+
+Name: LTSmash
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Ship: Drake
+Weapon: Havoc Heavy Missile
+
+Name: Cockroach
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Purifier
+Weapon: Purifier
+
+Name: sakana
+Security: -1.0
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Megathron
+Weapon: 425mm Prototype I Gauss Gun
+
+Name: Teck7
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ishtar
+Weapon: Hobgoblin II
+
+Name: Night Seeker
+Security: 0.2
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Hound
+Weapon: Devastator Cruise Missile
+
+Name: Hojo Norem
+Security: 3.2
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Cormorant
+Weapon: 125mm Railgun I
+
+Name: Dark Carnage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Blackbird
+Weapon: Thunderbolt Heavy Missile
+
+Name: mr passie
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: malkey
+Security: 4.4
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Blackbird
+Weapon: ECM - Spatial Destabilizer I
+
+Name: Sorlac Aurora
+Security: 1.2
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Drake
+Weapon: Remote Sensor Dampener I
+
+Name: Elgcaress
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Celestis
+Weapon: Indirect Scanning Dampening Unit I
+
+
+Destroyed items:
+
+220mm Vulcan AutoCannon II
+220mm Vulcan AutoCannon II
+Barrage M, Qty: 400
+Drone Link Augmentor I
+Y-T8 Overcharged Hydrocarbon I Microwarpdrive
+J5 Prototype Warp Inhibitor I
+Medium Armor Repairer II
+Energized Adaptive Nano Membrane II
+1600mm Reinforced Rolled Tungsten Plates I
+Beta Hull Mod Inertial Stabilizers
+Large Azeotropic Ward Salubrity I (Cargo)
+Phased Plasma M, Qty: 3740 (Cargo)
+Tobacco (Cargo)
+Hail M, Qty: 1181 (Cargo)
+Warrior II, Qty: 4 (Drone Bay)
+

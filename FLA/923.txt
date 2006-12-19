@@ -1,0 +1,24 @@
+2007.02.27 00:25
+
+Victim: Biggknife
+Alliance: Xelas Alliance
+Corp: Mining Bytes Inc.
+Destroyed: Velator
+System: YZ-LQL
+Security: 0.0
+
+Involved parties:
+
+Name: Ahramaine (laid the final blow)
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Thorax
+Weapon: Hammerhead I
+
+
+Destroyed items:
+
+Civilian Light Electron Blaster
+Basic Miner
+

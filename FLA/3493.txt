@@ -1,0 +1,27 @@
+2007.03.31 02:44
+
+Victim: KaS89
+Alliance: None
+Corp: Federal Navy Academy
+Destroyed: Velator
+System: L-C3O7
+Security: 0.0
+
+Involved parties:
+
+Name: Maximo Brutalis (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Ferox
+Weapon: Flameburst Light Missile
+
+
+Destroyed items:
+
+Civilian Light Electron Blaster
+Basic Miner
+Civilian Shield Booster I
+Tritanium, Qty: 4 (Cargo)
+Iron Charge S (Cargo)
+

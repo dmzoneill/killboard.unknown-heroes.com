@@ -1,0 +1,43 @@
+2007.01.07 17:39
+
+Victim: lemonds ll
+Alliance: Freelancer Alliance
+Corp: Feel Good Inc.
+Destroyed: Badger Mark II
+System: Torrinos
+Security: 0.5
+
+Involved parties:
+
+Name: turumbor (laid the final blow)
+Security: -1.7
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Deimos
+Weapon: Heavy Ion Blaster II
+
+Name: Anna Neura
+Security: -0.2
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Arazu
+Weapon: Vespa II
+
+Name: THX 1138
+Security: 1.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Raptor
+Weapon: Light Neutron Blaster II
+
+
+Destroyed items:
+
+Micro Shield Extender I
+Micro Shield Extender I
+Micro Shield Extender I
+Medium Shield Booster I
+Invulnerability Field I
+Invulnerability Field I
+Warp Core Stabilizer I
+

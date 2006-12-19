@@ -1,0 +1,120 @@
+2007.03.16 13:42
+
+Victim: IBIRIETT
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Destroyed: Raven Navy Issue
+System: E-Z2ZX
+Security: 0.0
+
+Involved parties:
+
+Name: volly
+Security: 3.1
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Curse
+Weapon: Hammerhead II
+
+Name: The Ali
+Security: -3.2
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Eelim Garak
+Security: 1.3
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Curse
+Weapon: Valkyrie II
+
+Name: Wodanonline (laid the final blow)
+Security: 4.6
+Alliance: YouWhat
+Corp: Pringles Inc.
+Ship: Purifier
+Weapon: Paradise Cruise Missile
+
+Name: Tzulan
+Security: 2.8
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Heretic
+Weapon: Piranha Light Missile
+
+Name: EveStarHunter
+Security: 4.8
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Bellicose
+Weapon: Flameburst Light Missile
+
+Name: IsmaelYU5 Iluvatar
+Security: 5.0
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Taranis
+Weapon: Warrior TP-300
+
+
+Destroyed items:
+
+Cap Recharger II
+Shield Boost Amplifier I
+Morphite, Qty: 321 (Cargo)
+Purifier Blueprint (Cargo)
+Kestrel Blueprint, Qty: 2 (Cargo)
+Malediction Blueprint (Cargo)
+Vigilant Blueprint (Cargo)
+Caracal Blueprint (Cargo)
+Rupture Blueprint, Qty: 3 (Cargo)
+Dominix Blueprint (Cargo)
+Raven Blueprint (Cargo)
+Megathron Blueprint (Cargo)
+Large 'Outlaw' Shield Booster Blueprint (Cargo)
+Cap Recharger I Blueprint (Cargo)
+Quad Light Beam Laser I Blueprint (Cargo)
+Focused Medium Beam Laser I Blueprint (Cargo)
+Rocket Launcher I Blueprint (Cargo)
+'Gallows' Standard Missile Launcher Blueprint (Cargo)
+150mm Railgun I Blueprint (Cargo)
+Invulnerability Field I Blueprint (Cargo)
+Heat Dissipation Field I Blueprint (Cargo)
+Rift Torpedo I Blueprint (Cargo)
+Juggernaut Torpedo Blueprint (Cargo)
+Mjolnir Torpedo Blueprint, Qty: 2 (Cargo)
+Widowmaker Heavy Missile Blueprint (Cargo)
+Inferno Torpedo Blueprint (Cargo)
+Bane Torpedo Blueprint (Cargo)
+Flameburst Light Missile Blueprint (Cargo)
+Piranha Light Missile Blueprint (Cargo)
+Thunderbolt Heavy Missile Blueprint, Qty: 4 (Cargo)
+Purgatory Torpedo I Blueprint (Cargo)
+Antimatter Charge L Blueprint (Cargo)
+Uranium Charge S Blueprint (Cargo)
+Antimatter Charge M Blueprint (Cargo)
+Antimatter Charge S Blueprint (Cargo)
+Gamma L Blueprint (Cargo)
+Microwave S Blueprint (Cargo)
+Gamma M Blueprint (Cargo)
+Ultraviolet L Blueprint (Cargo)
+Xray L Blueprint (Cargo)
+Infrared L Blueprint (Cargo)
+Infrared S Blueprint (Cargo)
+Microwave L Blueprint (Cargo)
+Multifrequency L Blueprint (Cargo)
+Xray M Blueprint (Cargo)
+Microwave M Blueprint (Cargo)
+Standard L Blueprint (Cargo)
+Multifrequency S Blueprint (Cargo)
+Wasp I Blueprint (Cargo)
+Praetor I Blueprint (Cargo)
+Ogre I Blueprint (Cargo)
+R.A.M.- Armor/Hull Tech, Qty: 3 (Cargo)
+Co-Processor I Blueprint (Cargo)
+R.A.M.- Armor/Hull Tech Blueprint (Cargo)
+Domination Ballistic Control System (Cargo)
+Thrasher Blueprint (Cargo)
+

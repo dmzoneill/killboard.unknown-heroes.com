@@ -1,0 +1,132 @@
+2007.03.09 04:09
+
+Victim: DeathMarshellKerensky
+Alliance: YouWhat
+Corp: Beasts of Burden
+Destroyed: Thorax
+System: XZH-4X
+Security: 0.0
+
+Involved parties:
+
+Name: Jonas123
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Ferox
+Weapon: 250mm Compressed Coil Gun I
+
+Name: Tulthix (laid the final blow)
+Security: 1.6
+Alliance: GoonSwarm
+Corp: Ultrapolite Socialites
+Ship: Rupture
+Weapon: 720mm Howitzer Artillery I
+
+Name: MrsWatts
+Security: 3.8
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Claw
+Weapon: Claw
+
+Name: VoYvod
+Security: -1.3
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Coercer
+Weapon: Coercer
+
+Name: Monopthalmus
+Security: 2.3
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Celestis
+Weapon: Celestis
+
+Name: fodd
+Security: 5.0
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Flycatcher
+Weapon: Bloodclaw Precision Light Missile
+
+Name: Vandee Yarr
+Security: 5.0
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Hawk
+Weapon: Bloodclaw Light Missile
+
+Name: Biggest Disaster
+Security: 0.1
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Kestrel
+Weapon: Bloodclaw Light Missile
+
+Name: Al Sayyid
+Security: 2.1
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Rifter
+Weapon: Rifter
+
+Name: duckmonster
+Security: 1.2
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Falcon
+Weapon: Havoc Precision Heavy Missile
+
+Name: Norneiros
+Security: 3.6
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Incursus
+Weapon: 125mm Railgun I
+
+Name: Bra'nn Draythe
+Security: 0.4
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Vexor
+Weapon: Vexor
+
+Name: Tradj
+Security: 0.0
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Merlin
+Weapon: Foxfire Rocket
+
+Name: Kerules Yor
+Security: 2.4
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Stiletto
+Weapon: 'Langour' Drive Disruptor I
+
+Name: Exotic Callgirl
+Security: 0.0
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Vigil
+Weapon: Warp Disruptor I
+
+Name: Achoo Ra
+Security: 2.2
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Blackbird
+Weapon: Heavy Missile Launcher I
+
+
+Destroyed items:
+
+Medium Proton Smartbomb I
+Medium Proton Smartbomb I
+V-M15 Braced Multispectral Shield Matrix
+Energized Magnetic Membrane I
+Hammerhead I, Qty: 2 (Drone Bay)
+

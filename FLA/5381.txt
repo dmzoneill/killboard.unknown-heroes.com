@@ -1,0 +1,52 @@
+2007.04.28 08:44
+
+Victim: Antigen Po
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Destroyed: Enyo
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Lyra Sy
+Security: 5.0
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Vulture
+Weapon: Thunderbolt Heavy Missile
+
+Name: Bic Drax (laid the final blow)
+Security: 3.6
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Thorax
+Weapon: Heavy Ion Blaster I
+
+Name: Konson
+Security: 3.7
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Retribution
+Weapon: Small 'Knave' I Energy Drain
+
+Name: Evil Bunnies
+Security: 0.3
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Blackbird
+Weapon: Scourge Heavy Missile
+
+
+Destroyed items:
+
+Small 'Ghoul' Energy Siphon I
+125mm Railgun II
+125mm Railgun II
+Spike S, Qty: 228
+Monopropellant I Hydrazine Boosters
+Small Armor Repairer II
+Antimatter Charge S, Qty: 5000 (Cargo)
+Spike S, Qty: 2693 (Cargo)
+Warrior I (Drone Bay)
+

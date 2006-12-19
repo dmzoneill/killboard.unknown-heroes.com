@@ -1,0 +1,38 @@
+2007.05.27 22:49
+
+Victim: forever faithless
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Destroyed: Arbitrator
+System: 93PI-4
+Security: 0.0
+
+Involved parties:
+
+Name: Antigen Po (laid the final blow)
+Security: 4.8
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Thorax
+Weapon: Heavy Electron Blaster I
+
+Name: Darkwing Death
+Security: -0.2
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz Holdings
+Ship: Capsule
+Weapon: Assault Missile Launcher I
+
+
+Destroyed items:
+
+Medium Energy Neutralizer I
+'Hypnos' Multispectral ECM I
+'Abandon' Targeting Disruptor I
+Damage Control I
+Medium Armor Repairer I
+Energized Basic Reactive Plating
+Vespa I (Drone Bay)
+Hammerhead I (Drone Bay)
+Valkyrie I (Drone Bay)
+

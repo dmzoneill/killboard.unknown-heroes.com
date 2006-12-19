@@ -1,0 +1,54 @@
+2006.12.20 21:10
+
+Victim: makwa kabera
+Alliance: None
+Corp: Imperial Academy
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: MeDisc0 (laid the final blow)
+Security: 2.9
+Alliance: O X I D E
+Corp: W33D Corp.
+Ship: Vengeance
+Weapon: Medium Pulse Laser I
+
+Name: Semaka
+Security: 5.0
+Alliance: O X I D E
+Corp: W33D Corp.
+Ship: Brutix
+Weapon: 250mm Railgun II
+
+Name: TroNaaR
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ishkur
+Weapon: 125mm Railgun II
+
+Name: Mat rix
+Security: 5.0
+Alliance: DeStInY.
+Corp: Sacred Templars
+Ship: Drake
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+Name: Kulok
+Security: 5.0
+Alliance: O X I D E
+Corp: W33D Corp.
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: AleXinO Gardon
+Security: 5.0
+Alliance: O X I D E
+Corp: W33D Corp.
+Ship: Ferox
+Weapon: Heavy Missile Launcher I
+
+

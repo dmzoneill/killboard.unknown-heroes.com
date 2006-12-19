@@ -1,0 +1,26 @@
+2007.03.15 20:02
+
+Victim: AuraShock
+Alliance: Freelancer Alliance
+Corp: United Forces
+Destroyed: Capsule
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Solid Wilko (laid the final blow)
+Security: -1.7
+Alliance: Eternal Rapture
+Corp: Quantum Synergies
+Ship: Jaguar
+Weapon: 200mm AutoCannon II
+
+Name: Gliding
+Security: -1.9
+Alliance: Eternal Rapture
+Corp: Quantum Synergies
+Ship: Enyo
+Weapon: Faint Warp Prohibitor I
+
+

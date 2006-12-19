@@ -1,0 +1,51 @@
+2007.03.31 14:58
+
+Victim: Carnelian Solus
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Myrmidon
+System: Bereye
+Security: 0.7
+
+Involved parties:
+
+Name: Davik Kurchek
+Security: -1.8
+Alliance: None
+Corp: The Littlest Hobos
+Ship: Megathron
+Weapon: Ogre I
+
+Name: Muratis
+Security: 3.6
+Alliance: None
+Corp: The Littlest Hobos
+Ship: Hurricane
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: Amith Silvermoon (laid the final blow)
+Security: 1.2
+Alliance: None
+Corp: The Littlest Hobos
+Ship: Curse
+Weapon: Hammerhead II
+
+
+Destroyed items:
+
+250mm 'Scout' I Accelerator Cannon
+75mm Gatling Rail II
+Thorium Charge M, Qty: 30
+Plutonium Charge S, Qty: 179
+Thorium Charge S, Qty: 14
+Fixed Parallel Link-Capacitor I
+Fleeting Propulsion Inhibitor I
+Medium Inefficient Armor Repair Unit
+Wavelength Signal Enhancer I
+Energized Basic Reactive Plating
+Energized Basic Adaptive Nano Plating
+1600mm Reinforced Nanofiber Plates I
+Thorium Charge S, Qty: 373 (Cargo)
+Infiltrator I, Qty: 2 (Drone Bay)
+Hammerhead I, Qty: 4 (Drone Bay)
+

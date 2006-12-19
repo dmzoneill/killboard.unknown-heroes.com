@@ -1,0 +1,47 @@
+2007.03.03 12:53
+
+Victim: Reiv
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Harpy
+System: F7C-H0
+Security: 0.0
+
+Involved parties:
+
+Name: Valdir Mustafar (laid the final blow)
+Security: -1.8
+Alliance: None
+Corp: Temptation inc.
+Ship: Huginn
+Weapon: Havoc Fury Heavy Missile
+
+Name: VirkMaN
+Security: 0.2
+Alliance: None
+Corp: Temptation inc.
+Ship: Sleipnir
+Weapon: Sleipnir
+
+Name: Gesthar Malvani
+Security: 4.8
+Alliance: None
+Corp: Temptation inc.
+Ship: Flycatcher
+Weapon: Thorn Rocket
+
+
+Destroyed items:
+
+150mm Railgun II
+150mm Railgun II
+150mm Railgun II
+150mm Railgun II
+Javelin S, Qty: 120
+Foxfire Rocket, Qty: 30
+1MN MicroWarpdrive I
+'Stoic' Core Equalizer I
+Magnetic Field Stabilizer II (Cargo)
+Javelin S, Qty: 9728 (Cargo)
+Foxfire Rocket, Qty: 1006 (Cargo)
+

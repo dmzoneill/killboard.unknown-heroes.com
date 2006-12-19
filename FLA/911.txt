@@ -1,0 +1,24 @@
+2007.02.26 19:34
+
+Victim: elizabeth ok
+Alliance: None
+Corp: State War Academy
+Destroyed: Ibis
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Dawn Rider (laid the final blow)
+Security: -1.6
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Ship: Megathron
+Weapon: Ion Blaster Cannon I
+
+
+Destroyed items:
+
+Civilian Gatling Railgun
+Basic Miner
+

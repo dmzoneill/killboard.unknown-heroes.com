@@ -1,0 +1,35 @@
+2007.04.03 19:57
+
+Victim: deela
+Alliance: Freelancer Alliance
+Corp: J.I.T. Enterprises
+Destroyed: Caracal
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Miss Lobster (laid the final blow)
+Security: 1.1
+Alliance: YouWhat
+Corp: Cosmic Odyssey
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: MrLobster
+Security: 1.9
+Alliance: YouWhat
+Corp: Cosmic Odyssey
+Ship: Arazu
+Weapon: Arazu
+
+
+Destroyed items:
+
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+10MN Afterburner I
+Sensor Booster I
+Sensor Booster I
+

@@ -1,0 +1,52 @@
+2006.11.07 20:57
+
+Victim: Elden Myrck
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Destroyed: Thorax
+System: Oipo
+Security: 0.8
+
+Involved parties:
+
+Name: Yarek Balear (laid the final blow)
+Security: -1.8
+Alliance: None
+Corp: The Initiative
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: KRULLEN Binazeski
+Security: 4.9
+Alliance: None
+Corp: The Initiative
+Ship: Zealot
+Weapon: Zealot
+
+Name: Balatar
+Security: 1.2
+Alliance: None
+Corp: The Initiative
+Ship: Zealot
+Weapon: Zealot
+
+Name: spirea
+Security: 4.9
+Alliance: None
+Corp: The Initiative
+Ship: Vengeance
+Weapon: Vengeance
+
+
+Destroyed items:
+
+Anode Light Ion Particle Cannon I
+Anode Light Ion Particle Cannon I
+Antimatter Charge S, Qty: 120
+Warp Scrambler I
+Warp Core Stabilizer I
+Armor Thermic Hardener I
+Armor Kinetic Hardener I
+Antimatter Charge S, Qty: 1440 (Cargo)
+Hammerhead I (Drone Bay)
+

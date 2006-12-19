@@ -1,0 +1,42 @@
+2007.02.28 01:04
+
+Victim: Tregaron
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Destroyed: Wolf
+System: YM-SRU
+Security: 0.0
+
+Involved parties:
+
+Name: Trev Kachanov (laid the final blow)
+Security: 0.3
+Alliance: INVICTUS.
+Corp: STK Scientific
+Ship: Sabre
+Weapon: 150mm Light AutoCannon II
+
+Name: Xsuny
+Security: 3.0
+Alliance: INVICTUS.
+Corp: The Syndicate Inc
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: Tramlaw
+Security: 4.3
+Alliance: INVICTUS.
+Corp: STK Scientific
+Ship: Raven
+Weapon: ZW-4100 Siege Missile Bay
+
+
+Destroyed items:
+
+200mm AutoCannon II
+200mm AutoCannon II
+Barrage S, Qty: 110
+1MN MicroWarpdrive I
+Gyrostabilizer II
+Type-D Altered SS Nanofiber Structure
+

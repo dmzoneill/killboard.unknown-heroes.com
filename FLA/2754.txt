@@ -1,0 +1,33 @@
+2007.03.05 04:07
+
+Victim: Aranon Ogronios
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Amarr Shuttle
+System: RQH-MY
+Security: 0.0
+
+Involved parties:
+
+Name: Domalais
+Security: -3.4
+Alliance: United Confederation of Corporations
+Corp: Equilibrium LLC
+Ship: Flycatcher
+Weapon: Bloodclaw Light Missile
+
+Name: Dog Solitude (laid the final blow)
+Security: 1.6
+Alliance: United Confederation of Corporations
+Corp: Equilibrium LLC
+Ship: Armageddon
+Weapon: Tachyon Beam Laser I
+
+Name: SB Sweatheart
+Security: -0.9
+Alliance: United Confederation of Corporations
+Corp: Equilibrium LLC
+Ship: Drake
+Weapon: 'Arbalest' Heavy Assault Missile Launcher I
+
+

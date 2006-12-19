@@ -1,0 +1,62 @@
+2007.03.15 03:36
+
+Victim: Nipplator
+Alliance: YouWhat
+Corp: Beasts of Burden
+Destroyed: Coercer
+System: XZH-4X
+Security: 0.0
+
+Involved parties:
+
+Name: xinndo jagged
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Drake
+Weapon: Heavy Missile Launcher II
+
+Name: TheMonster (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: The Night Crew
+Ship: Megathron
+Weapon: Berserker I
+
+Name: Sovo
+Security: -0.6
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Thrasher
+Weapon: Thrasher
+
+Name: r Cubed
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: The Night Crew
+Ship: Scorpion
+Weapon: Kapteyn Sensor Array Inhibitor I
+
+Name: FlobbMkII
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+
+Destroyed items:
+
+Dual Light Pulse Laser II
+Dual Light Pulse Laser II
+Dual Light Pulse Laser II
+Dual Light Pulse Laser II
+Scorch S
+Scorch S
+Scorch S
+Scorch S
+Scorch S
+Initiated Harmonic Warp Jammer I
+Heat Sink II
+Conflagration S (Cargo)
+

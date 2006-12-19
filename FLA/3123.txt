@@ -1,0 +1,40 @@
+2007.03.25 03:21
+
+Victim: Draken Mem
+Alliance: Privateer Alliance
+Corp: Loot
+Destroyed: Dominix
+System: Ikao
+Security: 0.6
+
+Involved parties:
+
+Name: Kaerion Skywalker
+Security: 0.1
+Alliance: Freelancer Alliance
+Corp: Harbingers of Sarrow
+Ship: Raven
+Weapon: Heavy 'Ghoul' Energy Siphon I
+
+Name: Miko Keller (laid the final blow)
+Security: 0.4
+Alliance: Freelancer Alliance
+Corp: Harbingers of Sarrow
+Ship: Dominix
+Weapon: Ogre II
+
+
+Destroyed items:
+
+E500 Prototype Energy Vampire
+Heavy Neutron Blaster II
+Heavy Neutron Blaster II
+Null M, Qty: 26
+LiF Fueled I Booster Rockets
+'Langour' Drive Disruptor I
+Sensor Booster I
+Medium Armor Repairer II
+Armor Thermic Hardener I
+Armor Explosive Hardener I
+Ogre I, Qty: 4 (Drone Bay)
+

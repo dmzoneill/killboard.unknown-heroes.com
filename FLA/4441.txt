@@ -1,0 +1,19 @@
+2007.04.10 09:22
+
+Victim: Celdrahil
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Destroyed: Rook
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Sedith (laid the final blow)
+Security: 1.7
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Aeon
+Weapon: Firbolg
+
+

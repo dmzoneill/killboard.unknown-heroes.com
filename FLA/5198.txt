@@ -1,0 +1,51 @@
+2007.04.25 18:04
+
+Victim: DarkVIper1
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Impairor
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Daressek (laid the final blow)
+Security: 4.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Moa
+Weapon: Scourge Heavy Missile
+
+Name: Ghu'ru Talozan
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Celestis
+Weapon: 250mm Railgun I
+
+Name: forever faithless
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Rifter
+Weapon: Warp Disruptor I
+
+Name: Kayron Brennan
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Caracal
+Weapon: Heavy Missile Launcher I
+
+Name: Iguanoid
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Maulus
+Weapon: Indirect Scanning Dampening Unit I
+
+
+Destroyed items:
+
+Civilian Gatling Pulse Laser
+

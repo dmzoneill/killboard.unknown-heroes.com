@@ -1,0 +1,33 @@
+2007.03.04 17:29
+
+Victim: Logand Delta
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Destroyed: Badger Mark II
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Euthanasia
+Security: 0.6
+Alliance: None
+Corp: Borderline Industries
+Ship: Typhoon
+Weapon: Devastator Cruise Missile
+
+Name: Infra Nitzu (laid the final blow)
+Security: 1.9
+Alliance: None
+Corp: Finite Horizon
+Ship: Hurricane
+Weapon: 425mm AutoCannon II
+
+
+Destroyed items:
+
+Medium Shield Extender I
+'Deluge' ECM Burst I
+Magnetic Scattering Amplifier I
+Expanded Cargohold I
+

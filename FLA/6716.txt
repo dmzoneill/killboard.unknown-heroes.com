@@ -1,0 +1,52 @@
+2006.11.25 19:44
+
+Victim: Gewitterziege
+Alliance: The Imperial Order
+Corp: Marquie-X Corp
+Destroyed: Condor
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Durante Alighieri
+Security: 2.8
+Alliance: Schism.
+Corp: New Light
+Ship: Harpy
+Weapon: Sabretooth Light Missile
+
+Name: Karina Harington (laid the final blow)
+Security: -0.7
+Alliance: Imperial Republic Of the North
+Corp: Port Royal Independent Kontractors
+Ship: Zealot
+Weapon: Heavy Pulse Laser II
+
+Name: Rebecca Tanglebloom
+Security: 3.8
+Alliance: Imperial Republic Of the North
+Corp: Port Royal Independent Kontractors
+Ship: Vengeance
+Weapon: Vengeance
+
+Name: Miabo
+Security: 1.9
+Alliance: Schism.
+Corp: Fatalix Inc.
+Ship: Blackbird
+Weapon: Induced Multispectral ECM I
+
+Name: Jumar Coldgin
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Rook
+Weapon: 'Hypnos' Multispectral ECM I
+
+
+Destroyed items:
+
+Monopropellant I Hydrazine Boosters
+Warp Core Stabilizer I
+

@@ -1,0 +1,74 @@
+2006.07.13 16:14
+
+Victim: Crooked Dog
+Alliance: Sparta Alliance
+Corp: The Flying Tigers
+Destroyed: Flycatcher
+System: U-TJ7Y
+Security: 0.0
+
+Involved parties:
+
+Name: Leafo
+Security: -0.3
+Alliance: Mercenary Coalition
+Corp: North Star Networks
+Ship: Cerberus
+Weapon: Scourge Heavy Missile
+
+Name: ICoraxI
+Security: 1.4
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Taranis
+Weapon: Taranis
+
+Name: Matt Stoner (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Caracal
+Weapon: Bloodclaw Light Missile
+
+Name: Eleese
+Security: 1.3
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Ishtar
+Weapon: Berserker I
+
+Name: Ione79
+Security: 2.4
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Taranis
+Weapon: J5b Phased Prototype Warp Inhibitor I
+
+Name: Bolinar
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Dominix
+Weapon: Induced Multispectral ECM I
+
+
+Destroyed items:
+
+Prototype Cloaking Device I
+Sabretooth Light Missile, Qty: 94
+Piranha Light Missile, Qty: 47
+'Arbalest' Standard Missile Launcher
+'Arbalest' Standard Missile Launcher
+'Arbalest' Standard Missile Launcher
+'Arbalest' Standard Missile Launcher
+Interdiction Sphere Launcher I
+Small Shield Booster II
+1MN MicroWarpdrive I (Cargo)
+Small 'Knave' I Energy Drain (Cargo)
+Light Neutron Blaster II (Cargo)
+Spike S, Qty: 300 (Cargo)
+Tremor L, Qty: 854 (Cargo)
+Void S, Qty: 1633 (Cargo)
+Sabretooth Light Missile, Qty: 163 (Cargo)
+Warp Disrupt Probe, Qty: 11 (Cargo)
+

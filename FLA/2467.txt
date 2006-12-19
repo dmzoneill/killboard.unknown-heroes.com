@@ -1,0 +1,80 @@
+2007.02.13 23:09
+
+Victim: Ashr
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Destroyed: Nighthawk
+System: KLY-C0
+Security: 0.0
+
+Involved parties:
+
+Name: Kilburn (laid the final blow)
+Security: -7.5
+Alliance: None
+Corp: A.N.A.R.C.H.I.C.A
+Ship: Raven
+Weapon: Wrath Cruise Missile
+
+Name: Misconte
+Security: -7.5
+Alliance: None
+Corp: A.N.A.R.C.H.I.C.A
+Ship: Drake
+Weapon: Scourge Fury Heavy Missile
+
+Name: DRIZZZ
+Security: -7.8
+Alliance: None
+Corp: A.N.A.R.C.H.I.C.A
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: Scarlet X
+Security: -6.9
+Alliance: None
+Corp: A.N.A.R.C.H.I.C.A
+Ship: Ferox
+Weapon: Scourge Heavy Missile
+
+Name: Arexius
+Security: -3.3
+Alliance: None
+Corp: A.N.A.R.C.H.I.C.A
+Ship: Taranis
+Weapon: Taranis
+
+Name: Siner
+Security: -0.9
+Alliance: None
+Corp: A.N.A.R.C.H.I.C.A
+Ship: Scorpion
+Weapon: Cataclysm Cruise Missile
+
+Name: Morrigu V
+Security: -3.6
+Alliance: None
+Corp: A.N.A.R.C.H.I.C.A
+Ship: Scorpion
+Weapon: Induced Multispectral ECM I
+
+Name: Deoniclus
+Security: -6.3
+Alliance: None
+Corp: A.N.A.R.C.H.I.C.A
+Ship: Thorax
+Weapon: Vespa EC-600
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 64
+Heavy Missile Launcher II
+Heavy Missile Launcher II
+Heavy Missile Launcher II
+Large F-S9 Regolith Shield Induction
+Large Shield Booster II
+Viscoelastic EM Ward Salubrity I
+Shield Boost Amplifier I
+Power Diagnostic System II
+

@@ -1,0 +1,29 @@
+2007.05.31 02:31
+
+Victim: Pelagiad
+Alliance: EternalRising
+Corp: Project Gemini
+Destroyed: Jaguar
+System: EWOK-K
+Security: 0.0
+
+Involved parties:
+
+Name: dastommy79 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Thorax
+Weapon: Valkyrie I
+
+
+Destroyed items:
+
+200mm AutoCannon II
+200mm AutoCannon II
+Barrage S, Qty: 60
+Warp Scrambler II
+Stasis Webifier II
+Overdrive Injector System II
+Barrage S, Qty: 2820 (Cargo)
+

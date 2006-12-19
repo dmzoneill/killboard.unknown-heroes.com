@@ -1,0 +1,19 @@
+2006.09.06 23:55
+
+Victim: TheBelgarion
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Capsule
+System: O-N8XZ
+Security: 0.0
+
+Involved parties:
+
+Name: Beldavus (laid the final blow)
+Security: 1.7
+Alliance: R.I.S.K
+Corp: RUS-SAGA
+Ship: Malediction
+Weapon: Medium Pulse Laser II
+
+

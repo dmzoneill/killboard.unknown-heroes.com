@@ -1,0 +1,47 @@
+2007.04.08 12:02
+
+Victim: Helldrivers
+Alliance: None
+Corp: Ministry of War
+Destroyed: Gallente Shuttle
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Bad Borris (laid the final blow)
+Security: 5.0
+Alliance: CORE.
+Corp: Nomina Sacra Sapientia
+Ship: Drake
+Weapon: Scourge Precision Heavy Missile
+
+Name: Smiles Jr
+Security: 2.3
+Alliance: Freelancer Alliance
+Corp: The Night Crew
+Ship: Slasher
+Weapon: Slasher
+
+Name: r Cubed
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: The Night Crew
+Ship: Kestrel
+Weapon: Rocket Launcher I
+
+Name: Wallyx
+Security: 4.5
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Tim Burton
+Security: 0.0
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Stabber
+Weapon: 720mm Howitzer Artillery I
+
+

@@ -1,0 +1,94 @@
+2007.02.23 23:30
+
+Victim: VunnaX
+Alliance: Pure.
+Corp: Viper Intel Squad
+Destroyed: Vengeance
+System: EWOK-K
+Security: 0.0
+
+Involved parties:
+
+Name: Drako Invictus (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Absolution
+Weapon: Heavy Pulse Laser II
+
+Name: Kalibrana
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Catalyst
+Weapon: Catalyst
+
+Name: Gardeful
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Hawk
+Weapon: Bloodclaw Light Missile
+
+Name: Zephyrante
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Hyperion
+Weapon: Wasp I
+
+Name: rabodeamor
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: NesheresH
+Security: 4.5
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Sabre
+Weapon: Sabre
+
+Name: Hamos
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Scorpion
+Weapon: Scorpion
+
+Name: Ramb3z
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Typhoon
+Weapon: 1200mm Heavy Carbine Howitzer I
+
+Name: Vesspasiano
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Dominix
+Weapon: Initiated Warp Jammer I
+
+Name: Kerdrak
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Harbinger
+Weapon: Heavy Pulse Laser I
+
+
+Destroyed items:
+
+Medium Pulse Laser II
+Medium Pulse Laser II
+E5 Prototype Energy Vampire
+Scorch S
+1MN Afterburner II
+Small Armor Repairer II
+Heat Sink II
+Beta Reactor Control: Reaction Control I
+Conflagration S, Qty: 2 (Cargo)
+

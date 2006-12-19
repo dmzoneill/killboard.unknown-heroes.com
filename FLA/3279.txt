@@ -1,0 +1,54 @@
+2007.03.22 19:11
+
+Victim: Frau Formaggio
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Eris
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: vyperpit (laid the final blow)
+Security: 4.6
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Vagabond
+Weapon: Dual 180mm AutoCannon II
+
+Name: ellamea
+Security: 5.0
+Alliance: Triumvirate.
+Corp: ViperSquad
+Ship: Capsule
+Weapon: Hornet EC-300
+
+Name: Alchem
+Security: 2.9
+Alliance: Triumvirate.
+Corp: ViperSquad
+Ship: Ishtar
+Weapon: J5 Prototype Warp Inhibitor I
+
+
+Destroyed items:
+
+Small Rudimentary Concussion Bomb I
+125mm Railgun II
+Javelin S, Qty: 28
+'Arbalest' Standard Missile Launcher
+'Malkuth' Standard Missile Launcher I
+Warp Disrupt Probe
+Warp Disrupt Probe
+Warp Disrupt Probe
+Warp Disrupt Probe
+Warp Disrupt Probe
+Warp Disrupt Probe
+Warp Disrupt Probe
+Interdiction Sphere Launcher I
+Interdiction Sphere Launcher I
+Co-Processor II
+Javelin S, Qty: 116 (Cargo)
+Warp Disrupt Probe, Qty: 15 (Cargo)
+Hobgoblin II (Drone Bay)
+

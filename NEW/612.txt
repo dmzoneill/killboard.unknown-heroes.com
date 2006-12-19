@@ -1,0 +1,57 @@
+2007.04.24 14:18
+
+Victim: Fitz Farseer
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Stabber
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Mufeater
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Vexor
+Weapon: Vespa II
+
+Name: Shassandra
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Enyo
+Weapon: Hobgoblin II
+
+Name: Nukuquqa Hestase
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Crow
+Weapon: Sabretooth Light Missile
+
+Name: MrMaggot (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+Name: Corovus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Arazu
+Weapon: Valkyrie II
+
+
+Destroyed items:
+
+150mm Railgun I, Qty: 3
+Antimatter Charge S, Qty: 54
+Widowmaker Heavy Missile, Qty: 26
+Thunderbolt Heavy Missile, Qty: 26
+Heavy Missile Launcher I, Qty: 2
+10MN Afterburner I
+X5 Prototype I Engine Enervator
+Antimatter Charge S, Qty: 840 (Cargo)

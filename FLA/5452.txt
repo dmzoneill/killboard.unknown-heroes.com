@@ -1,0 +1,45 @@
+2006.10.03 23:09
+
+Victim: Michra
+Alliance: Tau Ceti Federation
+Corp: Rebirth Inc.
+Destroyed: Raptor
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Clansman (laid the final blow)
+Security: 5.0
+Alliance: None
+Corp: Ganksters Paradise
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Guristas Death Dealer / Guristas
+
+Name: Nil Desperandum
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Scorpion
+Weapon: FZ-3 Subversive Spatial Destabilizer ECM
+
+Name: MagicMos
+Security: 0.4
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Unknown
+Weapon: Stasis Webifier I
+
+
+Destroyed items:
+
+75mm Gatling Rail I
+Uranium Charge S, Qty: 72
+Sabretooth Precision Light Missile, Qty: 50
+Piranha Precision Light Missile, Qty: 50
+1MN MicroWarpdrive I
+Micro Auxiliary Power Core I
+Sabretooth Precision Light Missile, Qty: 56 (Cargo)
+

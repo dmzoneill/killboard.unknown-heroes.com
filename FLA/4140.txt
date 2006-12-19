@@ -1,0 +1,31 @@
+2007.04.02 20:13
+
+Victim: Ninjitsuki
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Destroyed: Moa
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: END3R 101 (laid the final blow)
+Security: -0.7
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Malediction
+Weapon: Medium Pulse Laser II
+
+
+Destroyed items:
+
+250mm Prototype I Gauss Gun
+250mm Prototype I Gauss Gun
+Iridium Charge M, Qty: 33
+Sensor Booster II
+Tracking Enhancer II
+Insulated Stabilizer Array I
+Power Diagnostic System I
+Power Diagnostic System I
+Iridium Charge M, Qty: 3870 (Cargo)
+

@@ -1,0 +1,53 @@
+2006.09.03 17:27
+
+Victim: Bloody Kid
+Alliance: R.I.S.K
+Corp: ReD eYe Inc.
+Destroyed: Tristan
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: KayaYautja (laid the final blow)
+Security: -9.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Laboratus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Vexor
+Weapon: Valkyrie I
+
+Name: Orangutang
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: London Transport
+Ship: Crow
+Weapon: Crow
+
+Name: Skornik
+Security: 2.9
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Thorax
+Weapon: Thorax
+
+Name: Jessica McDaniel
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Ferox
+Weapon: 'Malkuth' Assault Missile Launcher I
+
+
+Destroyed items:
+
+125mm Railgun I
+Compulsive Multispectral ECM I
+Uranium Charge S, Qty: 100 (Cargo)
+

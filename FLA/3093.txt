@@ -1,0 +1,63 @@
+2007.03.24 21:32
+
+Victim: Cerias Shadows
+Alliance: Agony Empire
+Corp: Agony Unleashed
+Destroyed: Helios
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: IroN HiDE (laid the final blow)
+Security: 1.4
+Alliance: None
+Corp: Emerald Empire
+Ship: Zealot
+Weapon: Heavy Pulse Laser II
+
+Name: Drist
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Tempest
+Weapon: 1200mm Artillery Cannon II
+
+Name: SoF Reaperman
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Ferox
+Weapon: Heavy Missile Launcher I
+
+Name: Torothin
+Security: 3.0
+Alliance: None
+Corp: Emerald Empire
+Ship: Malediction
+Weapon: Gremlin Rocket
+
+Name: Hingley
+Security: 5.0
+Alliance: None
+Corp: Emerald Empire
+Ship: Deimos
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: Death Reactor
+Security: -1.8
+Alliance: DeStInY.
+Corp: The Knights Of Camelot
+Ship: Malediction
+Weapon: Upgraded 'Limos' Standard Missile Bay I
+
+
+Destroyed items:
+
+Covert Ops Cloaking Device II
+Spook Scanner Probe I, Qty: 49
+Scan Probe Launcher I
+Gravimetric Sift Probe, Qty: 18 (Cargo)
+Gravimetric Comb Probe, Qty: 9 (Cargo)
+Gravimetric Pursuit Probe, Qty: 14 (Cargo)
+

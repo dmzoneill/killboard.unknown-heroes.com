@@ -1,0 +1,27 @@
+2006.11.24 17:17
+
+Victim: Bez
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Cerberus
+System: Jita
+Security: 0.9
+
+Involved parties:
+
+Name: Goonies (laid the final blow)
+Security: 4.7
+Alliance: None
+Corp: omen.
+Ship: Raven
+Weapon: Mjolnir Javelin Torpedo
+
+
+Destroyed items:
+
+Heavy Missile Launcher II
+Heavy Missile Launcher II
+10MN Afterburner II
+Ballistic Control System II
+Scourge Heavy Missile, Qty: 1800 (Cargo)
+

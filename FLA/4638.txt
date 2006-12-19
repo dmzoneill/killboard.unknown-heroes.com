@@ -1,0 +1,134 @@
+2007.04.16 02:20
+
+Victim: thedeadcows
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Prophecy
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Korudon (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Thorax
+Weapon: 200mm Railgun I
+
+Name: alon blackhelm
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Thorax
+Weapon: Thorax
+
+Name: Kvarium Ki
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Ship: Arbitrator
+Weapon: Infiltrator I
+
+Name: dastommy79
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Thorax
+Weapon: Valkyrie I
+
+Name: Primaxin
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Harbingers of Sarrow
+Ship: Ferox
+Weapon: Scourge Heavy Missile
+
+Name: Frau Formaggio
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ishkur
+Weapon: Hobgoblin II
+
+Name: Bullv3rsat
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Terminal Velocity Inc.
+Ship: Claw
+Weapon: Claw
+
+Name: Kayron Brennan
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Caracal
+Weapon: Thunderbolt Heavy Missile
+
+Name: Teck7
+Security: 1.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Thorax
+Weapon: Thorax
+
+Name: Recon Alpha
+Security: 3.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Caracal
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+Name: Tran Whistler
+Security: 5.3
+Alliance: Freelancer Alliance
+Corp: Harbingers of Sarrow
+Ship: Caracal
+Weapon: Bloodclaw Light Missile
+
+Name: Magic Mazuma
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Rifter
+Weapon: Rifter
+
+Name: sparkvolt
+Security: -0.7
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Rifter
+Weapon: Warp Scrambler I
+
+Name: sniper luke
+Security: 4.8
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Thorax
+Weapon: Thorax
+
+
+Destroyed items:
+
+Heavy Anode Particle Stream I
+Focused Anode Pulse Particle Stream I
+Medium Nosferatu I
+Medium Nosferatu I
+True Sanshas Radio M
+Dark Blood Radio M
+Medium F-S9 Regolith Shield Induction
+Damage Control I
+Medium Armor Repairer I
+Energized Adaptive Nano Membrane I
+Initiated Warp Jammer I (Cargo)
+Focused Afocal Medium Maser I, Qty: 2 (Cargo)
+Antimatter Charge S, Qty: 439 (Cargo)
+Xray M (Cargo)
+Microcell Nanite Thermic Hardener I (Cargo)
+Thunderbolt Heavy Missile, Qty: 1982 (Cargo)
+Scourge Heavy Missile, Qty: 17 (Cargo)
+Widowmaker Heavy Missile, Qty: 28 (Cargo)
+Hydra F.O.F. Heavy Missile I, Qty: 500 (Cargo)
+Stalker F.O.F. Heavy Missile I, Qty: 500 (Cargo)
+Hammerhead I (Drone Bay)
+

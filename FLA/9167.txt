@@ -1,0 +1,26 @@
+2007.05.02 07:17
+
+Victim: GeorgiyGorin
+Alliance: None
+Corp: School of Applied Knowledge
+Destroyed: Badger
+System: Aunenen
+Security: 0.4
+
+Involved parties:
+
+Name: The Cade (laid the final blow)
+Security: 1.3
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Brutix
+Weapon: Anode Neutron Particle Cannon I
+
+
+Destroyed items:
+
+Expanded Cargohold I
+Oxygen, Qty: 5850 (Cargo)
+Giant Secure Container (Cargo)
+Huge Secure Container (Cargo)
+

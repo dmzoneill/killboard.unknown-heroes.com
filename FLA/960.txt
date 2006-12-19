@@ -1,0 +1,99 @@
+2007.02.28 19:24
+
+Victim: Dave White
+Alliance: None
+Corp: Beagle Corp
+Destroyed: Crow
+System: P-ZMZV
+Security: 0.0
+
+Involved parties:
+
+Name: KriegDrachen (laid the final blow)
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Sabre
+Weapon: 150mm Light AutoCannon II
+
+Name: Plague Black
+Security: 4.5
+Alliance: Morsus Mihi
+Corp: 4S Corporation
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: Jibril vonAber
+Security: 5.0
+Alliance: Pure.
+Corp: IMPERIAL SENATE
+Ship: Hurricane
+Weapon: 425mm Medium Carbine Repeating Cannon I
+
+Name: Rahlon
+Security: 3.4
+Alliance: RAZOR Alliance
+Corp: Roving Guns Inc.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Zubasar
+Security: 3.4
+Alliance: Pure.
+Corp: Solarflare Heavy Industries
+Ship: Vengeance
+Weapon: Medium Pulse Laser II
+
+Name: DerHund Erste
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Brutix
+Weapon: 250mm Railgun II
+
+Name: RaZoRiSe
+Security: -1.3
+Alliance: RAZOR Alliance
+Corp: Mythos Corp
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: Gulnar
+Security: -0.2
+Alliance: RAZOR Alliance
+Corp: Cutting Edge Incorporated
+Ship: Crow
+Weapon: 75mm Gatling Rail II
+
+Name: erpy esa
+Security: 2.4
+Alliance: Morsus Mihi
+Corp: Rage of Angels
+Ship: Hurricane
+Weapon: X5 Prototype I Engine Enervator
+
+Name: Triax Calingham
+Security: 4.0
+Alliance: Morsus Mihi
+Corp: hirr
+Ship: Thorax
+Weapon: 200mm Railgun II
+
+Name: Destruct
+Security: 4.8
+Alliance: RAZOR Alliance
+Corp: Octavian Vanguard
+Ship: Lachesis
+Weapon: Assault Missile Launcher II
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 41
+Upgraded 'Limos' Standard Missile Bay I
+'Malkuth' Standard Missile Launcher I
+J5 Prototype Warp Inhibitor I
+Micro Brief Capacitor Overcharge I
+Damage Control I
+Inertia Stabilizers I
+

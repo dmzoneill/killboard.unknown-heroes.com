@@ -1,0 +1,37 @@
+2006.11.08 21:33
+
+Victim: Dog Cancer
+Alliance: Freelancer Alliance
+Corp: BGG
+Destroyed: Crow
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Jenessa (laid the final blow)
+Security: 2.2
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Flycatcher
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 30
+Piranha Light Missile, Qty: 30
+Sabretooth Light Missile, Qty: 30
+Standard Missile Launcher I
+Standard Missile Launcher I
+Type-D Attenuation Signal Augmentation
+J5 Prototype Warp Inhibitor I, Qty: 2 (Cargo)
+200mm AutoCannon I (Cargo)
+125mm Railgun II (Cargo)
+EMP S, Qty: 60 (Cargo)
+Fusion S, Qty: 2647 (Cargo)
+200mm Reinforced Rolled Tungsten Plates I (Cargo)
+Bloodclaw Light Missile, Qty: 429 (Cargo)
+Sabretooth Light Missile, Qty: 434 (Cargo)
+Piranha Light Missile, Qty: 433 (Cargo)
+

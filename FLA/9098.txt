@@ -1,0 +1,59 @@
+2006.12.30 15:43
+
+Victim: Esvi Adhorsen
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Destroyed: Drake
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Fjerkenstad
+Security: 1.1
+Alliance: None
+Corp: omen.
+Ship: Megathron
+Weapon: Megathron
+
+Name: boo3916
+Security: 4.4
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Dominix
+Weapon: Berserker II
+
+Name: xlop (laid the final blow)
+Security: -1.1
+Alliance: None
+Corp: omen.
+Ship: Typhoon
+Weapon: Paradise Cruise Missile
+
+Name: taylor04
+Security: -0.5
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Curse
+Weapon: Warrior II
+
+
+Destroyed items:
+
+Salvager I, Qty: 30
+Scourge Heavy Missile, Qty: 76
+Heavy Missile Launcher I
+Advanced 'Limos' Heavy Missile Bay I
+Large F-S9 Regolith Shield Induction
+Large F-S9 Regolith Shield Induction
+Large F-S9 Regolith Shield Induction
+Non-Inertial Ballistic Screen Augmentation I
+Power Diagnostic System I
+Local Power Plant Manager: Diagnostic System I
+425mm 'Scout' I Accelerator Cannon (Cargo)
+Uranium Charge L, Qty: 18 (Cargo)
+Wasp I (Cargo)
+Ogre I (Cargo)
+Berserker I (Cargo)
+Hobgoblin I, Qty: 2 (Drone Bay)
+

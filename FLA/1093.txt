@@ -1,0 +1,54 @@
+2007.03.04 22:43
+
+Victim: Coan
+Alliance: None
+Corp: Caldarians Pride
+Destroyed: Minmatar Shuttle
+System: 9-VO0Q
+Security: 0.0
+
+Involved parties:
+
+Name: Nubi kun
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Cataclysm Enterprises
+Ship: Crow
+Weapon: Bloodclaw Precision Light Missile
+
+Name: GS Armada (laid the final blow)
+Security: 3.5
+Alliance: Dusk and Dawn
+Corp: ECP Rogues
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Xantheris
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: Takeshi Nuwen
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: The X-Trading Company
+Ship: Crow
+Weapon: Initiated Warp Jammer I
+
+Name: Snake solid
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Konstrukteure der Zukunft
+Ship: Raptor
+Weapon: Warp Disruptor I
+
+Name: Ariebos
+Security: -1.0
+Alliance: Dusk and Dawn
+Corp: Momentum.
+Ship: Rifter
+Weapon: Fleeting Warp Scrambler I
+
+

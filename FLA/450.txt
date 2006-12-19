@@ -1,0 +1,26 @@
+2007.02.03 15:30
+
+Victim: Star Fox781
+Alliance: None
+Corp: Caldari Provisions
+Destroyed: Capsule
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Shassandra
+Security: 4.5
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Taranis
+Weapon: 75mm Gatling Rail I
+
+Name: Aikuchi Hiddensword (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Incursus
+Weapon: 125mm 'Scout' I Accelerator Cannon
+
+

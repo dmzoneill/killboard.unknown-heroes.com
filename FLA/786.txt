@@ -1,0 +1,102 @@
+2007.02.21 00:31
+
+Victim: Zurtur
+Alliance: None
+Corp: Voices of the Revolution
+Destroyed: Brutix
+System: G95-VZ
+Security: 0.0
+
+Involved parties:
+
+Name: Pixnator
+Security: -1.2
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Raven
+Weapon: Mjolnir Javelin Torpedo
+
+Name: Prodigal IV (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Ship: Megathron
+Weapon: Neutron Blaster Cannon I
+
+Name: Spartan dax
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Velithe
+Security: 3.1
+Alliance: None
+Corp: BGG
+Ship: Drake
+Weapon: Widowmaker Heavy Missile
+
+Name: VoYvod
+Security: -0.1
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Dark Carnage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Drake
+Weapon: Heavy Missile Launcher I
+
+Name: jacass66
+Security: 5.0
+Alliance: None
+Corp: BGG
+Ship: Drake
+Weapon: Heavy Missile Launcher II
+
+Name: Sidrat Flush
+Security: 2.0
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Raven
+Weapon: Raven
+
+Name: Xantheris
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Taranis
+Weapon: Taranis
+
+Name: Arbitrus
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Ship: Blackbird
+Weapon: Thunderbolt Heavy Missile
+
+Name: Jesnen
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Vengeance
+Weapon: Vengeance
+
+
+Destroyed items:
+
+Heavy Electron Blaster II
+Heavy Electron Blaster II
+Antimatter Charge M, Qty: 600
+10MN MicroWarpdrive I
+Faint Epsilon Warp Prohibitor I
+Medium Capacitor Booster I
+Medium Armor Repairer II
+Armor Explosive Hardener I
+Armor Kinetic Hardener I
+Infiltrator II (Drone Bay)
+

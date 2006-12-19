@@ -1,0 +1,19 @@
+2007.04.14 19:50
+
+Victim: ANNIHILATER
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Destroyed: Capsule
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Mynas Atoch (laid the final blow)
+Security: 0.8
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Buzzard
+Weapon: Thorn Rocket
+
+

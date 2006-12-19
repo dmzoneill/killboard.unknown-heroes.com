@@ -1,0 +1,33 @@
+2007.03.02 01:19
+
+Victim: Lord Cyric
+Alliance: None
+Corp: 0utbreak
+Destroyed: Capsule
+System: 7V-KHW
+Security: 0.0
+
+Involved parties:
+
+Name: Plague Black (laid the final blow)
+Security: 4.5
+Alliance: Morsus Mihi
+Corp: 4S Corporation
+Ship: Jaguar
+Weapon: 200mm AutoCannon II
+
+Name: Puz'ZaW
+Security: 2.7
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Claw
+Weapon: 150mm Light AutoCannon II
+
+Name: mPistoleroZ
+Security: 4.5
+Alliance: RAZOR Alliance
+Corp: Mythos Corp
+Ship: Hawk
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+

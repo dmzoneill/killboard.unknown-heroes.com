@@ -1,0 +1,78 @@
+2007.04.27 00:15
+
+Victim: dastommy79
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Destroyed: Thorax
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: ZeroGrav (laid the final blow)
+Security: 3.2
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Konson
+Security: 3.7
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Retribution
+Weapon: Gatling Pulse Laser II
+
+Name: Evil Bunnies
+Security: 0.3
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Blackbird
+Weapon: Thunderbolt Heavy Missile
+
+Name: tomuch
+Security: 2.9
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Celestis
+Weapon: Havoc Heavy Missile
+
+Name: Athanasios Anastasiou
+Security: 5.0
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Bic Drax
+Security: 3.6
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Myrmidon
+Weapon: Initiated Warp Jammer I
+
+
+Destroyed items:
+
+Heavy Ion Blaster I
+Heavy Ion Blaster I
+Heavy Ion Blaster I
+Antimatter Charge M, Qty: 430
+10MN MicroWarpdrive I
+Warp Disruptor I
+Magnetic Field Stabilizer I
+1600mm Reinforced Steel Plates I
+Reactor Control Unit I
+1MN MicroWarpdrive II (Cargo)
+10MN MicroWarpdrive I (Cargo)
+Stasis Webifier I (Cargo)
+E5 Prototype Energy Vampire (Cargo)
+Small 'Knave' I Energy Drain (Cargo)
+Warrior I, Qty: 3 (Cargo)
+Infiltrator I (Cargo)
+Vespa I, Qty: 3 (Cargo)
+Energized Thermic Membrane I (Cargo)
+Micro Auxiliary Power Core I (Cargo)
+Null S, Qty: 1501 (Cargo)
+'Malkuth' Assault Missile Launcher I (Cargo)
+

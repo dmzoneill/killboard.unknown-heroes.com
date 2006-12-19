@@ -1,0 +1,26 @@
+2007.04.14 19:43
+
+Victim: Xenofur
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Capsule
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: ZaKma (laid the final blow)
+Security: -0.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Wolf
+Weapon: 250mm Light Artillery Cannon II
+
+Name: ZAPPEL
+Security: 2.5
+Alliance: Mercenary Coalition
+Corp: Seraphin Technologies
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+

@@ -1,0 +1,150 @@
+2006.10.24 20:17
+
+Victim: Teani
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Destroyed: Dominix
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Xazier
+Security: -5.6
+Alliance: Imperial Republic Of the North
+Corp: Port Royal Independent Kontractors
+Ship: Typhoon
+Weapon: Wasp I
+
+Name: Severa Crest
+Security: 3.5
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Ione79
+Security: 3.7
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: W4RR10R
+Security: 1.8
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Ishkur
+Weapon: Valkyrie II
+
+Name: Scylla V
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: VentureCorp
+Ship: Capsule
+Weapon: 425mm Railgun II
+
+Name: Maoam Druban
+Security: 0.9
+Alliance: Chorus of Dawn
+Corp: Independent Frontiers
+Ship: Moa
+Weapon: 250mm Compressed Coil Gun I
+
+Name: JumpRat
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Nighthawk
+Weapon: Havoc Heavy Missile
+
+Name: DARKLING
+Security: 5.1
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Scorpion
+Weapon: Hornet II
+
+Name: Mal Renolds
+Security: 5.1
+Alliance: None
+Corp: Ashen Lion Mining and Production Consortium
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: kermitfrog (laid the final blow)
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Flashh Gorden
+Security: 2.4
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: freestrike
+Security: 5.9
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Vulture
+Weapon: Havoc Heavy Missile
+
+Name: Zorthal Darendal
+Security: 4.6
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: Jacor Takor
+Security: 2.4
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Bellicose
+Weapon: Bellicose
+
+Name: movy
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Brutix
+Weapon: Brutix
+
+Name: tyrol
+Security: 3.4
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Scorpion
+Weapon: FZ-3 Subversive Spatial Destabilizer ECM
+
+Name: Stefu
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Vengeance
+Weapon: Phased Muon Sensor Disruptor I
+
+Name: Fzhal
+Security: 4.8
+Alliance: Forces of Freedom
+Corp: JUDGE DREAD Inc.
+Ship: Blackbird
+Weapon: Induced Ion Field ECM I
+
+
+Destroyed items:
+
+E500 Prototype Energy Vampire
+X5 Prototype I Engine Enervator
+Heavy F-RX Prototype I Capacitor Boost
+Large Armor Repairer II
+Cap Booster 800, Qty: 14 (Cargo)
+Ogre II, Qty: 3 (Drone Bay)
+Hobgoblin II, Qty: 2 (Drone Bay)
+Warden I, Qty: 4 (Drone Bay)
+Hammerhead II (Drone Bay)
+

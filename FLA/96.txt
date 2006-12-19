@@ -1,0 +1,33 @@
+2007.01.08 07:02
+
+Victim: Zungen
+Alliance: Red Moon Federation
+Corp: Confederation of Red Moon
+Destroyed: Thorax
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Satal Sonshi (laid the final blow)
+Security: 1.7
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Tempest
+Weapon: Dual 650mm 'Scout' Repeating Artillery I
+
+Name: Dire Guristas Wrecker / Guristas
+
+
+Destroyed items:
+
+Heavy Ion Blaster I
+Heavy Ion Blaster I
+Heavy Ion Blaster I
+Antimatter Charge M, Qty: 167
+10MN MicroWarpdrive I
+Nanofiber Internal Structure I
+Nanofiber Internal Structure I
+Antimatter Charge M, Qty: 2031 (Cargo)
+Acolyte II, Qty: 2 (Drone Bay)
+

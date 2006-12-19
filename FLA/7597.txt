@@ -1,0 +1,45 @@
+2006.09.23 23:52
+
+Victim: ApucToKPaTKa
+Alliance: R.I.S.K
+Corp: SolaR KillerS
+Destroyed: Stabber
+System: J-CIJV
+Security: 0.0
+
+Involved parties:
+
+Name: Heero Yuy (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+Name: Boris Nikolaovitch
+Security: 3.3
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: NonPoint
+Security: -1.1
+Alliance: CORE.
+Corp: MASS HOMICIDE
+Ship: Hawk
+Weapon: Thorn Rocket
+
+
+Destroyed items:
+
+220mm Medium Carbine Repeating Cannon I
+220mm Medium Gallium I Machine Gun
+Depleted Uranium M, Qty: 302
+Gremlin Rocket, Qty: 16
+'Arbalest' Rocket Launcher I
+10MN MicroWarpdrive I
+Warp Core Stabilizer I
+Thorn Rocket, Qty: 3000 (Cargo)
+Gremlin Rocket, Qty: 1970 (Cargo)
+

@@ -1,0 +1,34 @@
+2007.05.02 01:49
+
+Victim: Marie Veedor
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Ferox
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Waagaa Ktlehr (laid the final blow)
+Security: 1.7
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Aeon
+Weapon: Ogre I
+
+
+Destroyed items:
+
+250mm Compressed Coil Gun I
+250mm Compressed Coil Gun I
+Antimatter Charge M, Qty: 32
+Havoc Heavy Missile, Qty: 58
+Advanced 'Limos' Heavy Missile Bay I
+'Orion' Tracking CPU I
+Beta Reactor Control: Diagnostic System I
+Local Power Plant Manager: Diagnostic System I
+Antimatter Charge M, Qty: 718 (Cargo)
+Havoc Heavy Missile, Qty: 923 (Cargo)
+Infiltrator I (Drone Bay)
+Hobgoblin I (Drone Bay)
+

@@ -1,0 +1,40 @@
+2006.11.26 03:15
+
+Victim: fuer bewn
+Alliance: None
+Corp: Ggame Online Corp
+Destroyed: Gallente Shuttle
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Zimi Vlasic
+Security: 0.8
+Alliance: EVE Animal Control
+Corp: F.R.E.E. Explorer
+Ship: Rupture
+Weapon: 650mm Artillery Cannon II
+
+Name: roboto212 (laid the final blow)
+Security: -0.5
+Alliance: Freelancer Alliance
+Corp: Sin-X Inc.
+Ship: Enyo
+Weapon: 150mm Railgun II
+
+Name: Trucidio
+Security: 5.0
+Alliance: None
+Corp: MetaForge
+Ship: Ishkur
+Weapon: 125mm Railgun II
+
+Name: dastommy79
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Merlin
+Weapon: Warp Disruptor I
+
+

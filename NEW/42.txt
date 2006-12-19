@@ -1,0 +1,65 @@
+2006.12.28 00:44
+
+Victim: MasterofDisaster BG
+Alliance: The OSS
+Corp: Bulgarian Mafia Squad
+Destroyed: Crow
+System: 2O9G-D
+Security: 0.0
+
+Involved parties:
+
+Name: DoubleStuff
+Security: 0.3
+Alliance: Imperial Republic Of the North
+Corp: Port Royal Independent Kontractors
+Ship: Zealot
+Weapon: Zealot
+
+Name: vladdy2
+Security: 3.8
+Alliance: Imperial Republic Of the North
+Corp: VentureCorp
+Ship: Huginn
+Weapon: 720mm Howitzer Artillery II
+
+Name: Danielson1012 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Caracal
+Weapon: Havoc Heavy Missile
+
+Name: Denaris1
+Security: 2.1
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Harpy
+Weapon: 125mm Railgun II
+
+Name: digital oxygen
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Brutix
+Weapon: Brutix
+
+Name: Jorax
+Security: 4.2
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Brutix
+Weapon: Brutix
+
+
+Destroyed items:
+
+Rocket Launcher II, Qty: 2
+Fleeting Warp Scrambler I
+Small Armor Repairer II
+Mark I Generator Refitting: Capacitor Power Relay
+Nanomechanical CPU Enhancer I (Cargo)
+'Accord' I Core Compensation (Cargo)
+Phalanx Rocket, Qty: 3000 (Cargo)
+Gremlin Rocket, Qty: 3000 (Cargo)
+Thorn Rocket, Qty: 4462 (Cargo)

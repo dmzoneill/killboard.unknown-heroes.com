@@ -1,0 +1,33 @@
+2007.01.07 15:00
+
+Victim: Fritz Catacus
+Alliance: Freelancer Alliance
+Corp: X.T.R
+Destroyed: Scythe
+System: Torrinos
+Security: 0.5
+
+Involved parties:
+
+Name: SoulScourge (laid the final blow)
+Security: -1.5
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Machariel
+Weapon: 1400mm Howitzer Artillery II
+
+Name: THX 1138
+Security: 1.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Rook
+Weapon: Fleeting Warp Scrambler I
+
+
+Destroyed items:
+
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Warp Core Stabilizer I
+Scourge Heavy Missile, Qty: 500 (Cargo)
+

@@ -1,0 +1,48 @@
+2007.02.14 23:13
+
+Victim: Elandil Blackfang
+Alliance: None
+Corp: Princeps Corp
+Destroyed: Vexor
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Zephyrante (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Hyperion
+Weapon: Regulated Mega Ion Phase Cannon I
+
+Name: Elena Morkovka
+Security: 1.4
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Flycatcher
+Weapon: Thorn Javelin Rocket
+
+Name: Ocara Nezus
+Security: 2.8
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Capsule
+Weapon: Standard Missile Launcher I
+
+
+Destroyed items:
+
+Small 'Knave' I Energy Drain
+Anode Electron Particle Cannon I
+Anode Electron Particle Cannon I
+Antimatter Charge M, Qty: 196
+10MN MicroWarpdrive I
+'Langour' Drive Disruptor I
+Damage Control I
+800mm Reinforced Crystalline Carbonide Plates I
+Antimatter Charge M, Qty: 3086 (Cargo)
+Hammerhead I, Qty: 2 (Cargo)
+Hammerhead I, Qty: 4 (Drone Bay)
+Acolyte I, Qty: 2 (Drone Bay)
+

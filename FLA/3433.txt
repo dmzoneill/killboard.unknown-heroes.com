@@ -1,0 +1,77 @@
+2007.03.26 18:16
+
+Victim: Queen Paladin
+Alliance: None
+Corp: Gr0und Zer0
+Destroyed: Vexor
+System: 3QE-9Q
+Security: 0.0
+
+Involved parties:
+
+Name: Sicario
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Raven
+Weapon: Bane Torpedo
+
+Name: Raseron (laid the final blow)
+Security: 4.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Myrmidon
+Weapon: 250mm Carbide Railgun I
+
+Name: Cho Solo
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Deimos
+Weapon: Deimos
+
+Name: coldman soulreaper
+Security: 2.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Caracal
+Weapon: Heavy Missile Launcher I
+
+Name: Kalico
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Claw
+Weapon: Claw
+
+Name: torreson
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Stabber
+Weapon: Standard Missile Launcher I
+
+Name: Seryius
+Security: 3.3
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Caracal
+Weapon: 'Malkuth' Assault Missile Launcher I
+
+
+Destroyed items:
+
+75mm Carbide Railgun I
+75mm Carbide Railgun I
+150mm 'Scout' I Accelerator Cannon
+Iridium Charge S, Qty: 197
+Warp Disruptor I
+Stasis Webifier I
+Omnidirectional Tracking Link I
+Damage Control I
+Armor Thermic Hardener I
+Hobgoblin I (Drone Bay)
+Hammerhead I, Qty: 2 (Drone Bay)
+Infiltrator I (Drone Bay)
+Warrior I, Qty: 3 (Drone Bay)
+

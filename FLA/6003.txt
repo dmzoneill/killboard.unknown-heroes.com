@@ -1,0 +1,47 @@
+2006.11.05 22:20
+
+Victim: Kira Pasisson
+Alliance: None
+Corp: 157 underground
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Luthien Firefoot
+Security: 3.2
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+Name: Flashh Gorden (laid the final blow)
+Security: 3.1
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Ship: Kestrel
+Weapon: Piranha Light Missile
+
+Name: coldkill
+Security: 0.8
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Ishkur
+Weapon: 125mm Railgun II
+
+Name: Matt Valor
+Security: 1.5
+Alliance: Schism.
+Corp: Fatalix Inc.
+Ship: Incursus
+Weapon: Warp Scrambler I
+
+Name: Ferrymann
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Ship: Merlin
+Weapon: Stasis Webifier I
+
+

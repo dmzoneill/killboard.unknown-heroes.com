@@ -1,0 +1,33 @@
+2007.01.29 04:12
+
+Victim: Vash The'Stampede
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Destroyed: Capsule
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: digital oxygen (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Weeble Wooble
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Catalyst
+Weapon: 150mm Railgun II
+
+Name: Aranon Ogronios
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Harpy
+Weapon: Stasis Webifier I
+
+

@@ -1,0 +1,150 @@
+2006.03.06 06:15
+
+Victim: Canine Fiend
+Alliance: Ascendant Frontier
+Corp: Celestial Fleet
+Destroyed: Typhoon
+System: EWOK-K
+Security: 0.0
+
+Involved parties:
+
+Name: Phonix (laid the final blow)
+Security: 4.4
+Alliance: None
+Corp: Fate.
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: EDacIouSX
+Security: 1.4
+Alliance: None
+Corp: Fate.
+Ship: Raven
+Weapon: Cataclysm Cruise Missile
+
+Name: FrezZzer
+Security: 1.5
+Alliance: None
+Corp: Fate.
+Ship: Apocalypse
+Weapon: Tachyon Beam Laser II
+
+Name: Azeroth Uluntil
+Security: 4.3
+Alliance: None
+Corp: Fate.
+Ship: Malediction
+Weapon: Gremlin Rocket
+
+Name: ESGATO
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: F.R.E.E. Explorer
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Hyenrg1
+Security: 5.0
+Alliance: None
+Corp: Fate.
+Ship: Taranis
+Weapon: Small 'Ghoul' Energy Siphon I
+
+Name: Braxxon
+Security: 5.1
+Alliance: SunStorm Dominion
+Corp: Atlantis Odyssey
+Ship: Eagle
+Weapon: Scourge Heavy Missile
+
+Name: Lorth
+Security: 4.8
+Alliance: None
+Corp: Fate.
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Faizon Caesar
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: F.R.E.E. Explorer
+Ship: Raven
+Weapon: Paradise Precision Cruise Missile
+
+Name: Lex Bloodfield
+Security: 5.0
+Alliance: SunStorm Dominion
+Corp: Ashen Lion Mining and Production Consortium
+Ship: Apocalypse
+Weapon: Tachyon Beam Laser I
+
+Name: Vmir Gallahasen
+Security: 2.2
+Alliance: SunStorm Dominion
+Corp: Cereal Killerz
+Ship: Harpy
+Weapon: Harpy
+
+Name: Luke Juneau
+Security: 0.3
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Ferox
+Weapon: Ferox
+
+Name: Diziet DeWar
+Security: 2.5
+Alliance: SunStorm Dominion
+Corp: Free Galactic Enterprises
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Beigehornet
+Security: 2.1
+Alliance: Imperial Republic Of the North
+Corp: AUS Corporation
+Ship: Caracal
+Weapon: Bloodclaw Light Missile
+
+Name: Voyageur
+Security: 4.3
+Alliance: None
+Corp: Nomina Sacra Sapientia
+Ship: Typhoon
+Weapon: Initiated Warp Jammer I
+
+Name: Pant Alones
+Security: -7.4
+Alliance: None
+Corp: Fate.
+Ship: Stiletto
+Weapon: Warp Scrambler I
+
+Name: Kyn D'Trell
+Security: 3.9
+Alliance: SunStorm Dominion
+Corp: ComNav Resources
+Ship: Raven
+Weapon: 'Arbalest' Siege Missile Launcher
+
+Name: Gabriel BriGGs
+Security: 5.2
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Scorpion
+Weapon: ECM - Spatial Destabilizer I
+
+
+Destroyed items:
+
+800mm Repeating Artillery I
+Heavy Nosferatu I
+Heavy Nosferatu I
+EMP L, Qty: 158
+Warp Disruptor I
+FZ-3 Subversive Spatial Destabilizer ECM
+Armor Explosive Hardener I
+Armor Kinetic Hardener I
+EMP L, Qty: 5671 (Cargo)
+

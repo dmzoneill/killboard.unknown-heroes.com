@@ -1,0 +1,26 @@
+2007.02.28 22:13
+
+Victim: Highway82
+Alliance: None
+Corp: sanity free diet
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: arxistratigos
+Security: 5.0
+Alliance: O X I D E
+Corp: BLUE EAGLES
+Ship: Claw
+Weapon: 200mm AutoCannon II
+
+Name: Kalico (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Claw
+Weapon: 250mm Light Artillery Cannon II
+
+

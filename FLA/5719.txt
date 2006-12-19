@@ -1,0 +1,39 @@
+2006.10.13 13:50
+
+Victim: bENNIJEZZERAT pRIEST
+Alliance: None
+Corp: MisFunk Inc.
+Destroyed: Rifter
+System: A4L-A2
+Security: 0.0
+
+Involved parties:
+
+Name: noba (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Royal Flying Aces
+Ship: Megathron
+Weapon: Neutron Blaster Cannon II
+
+Name: rockerguy
+Security: 1.4
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Ship: Apocalypse
+Weapon: Apocalypse
+
+Name: Wousr
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Stiletto
+Weapon: Stiletto
+
+
+Destroyed items:
+
+Small Nosferatu I
+Small Rudimentary Energy Destabilizer I
+Micro Auxiliary Power Core I
+

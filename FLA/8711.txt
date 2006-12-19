@@ -1,0 +1,44 @@
+2006.12.08 22:58
+
+Victim: Kyoshisan
+Alliance: Freelancer Alliance
+Corp: BGG
+Destroyed: Helios
+System: F-NMX6
+Security: 0.0
+
+Involved parties:
+
+Name: Lord KesH (laid the final blow)
+Security: 2.7
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: GoLdeN BoY
+Security: 3.5
+Alliance: The SUdden Death Squad
+Corp: Beer Guzzling Clowns With Blasters
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+
+Destroyed items:
+
+Gravimetric Sift Probe, Qty: 20
+Remote Sensor Dampener I
+Remote Sensor Dampener I
+Supplemental Scanning CPU I
+'Hypnos' Signal Distortion Amplifier I
+'Hypnos' Signal Distortion Amplifier I
+'Hypnos' Signal Distortion Amplifier I
+'Hypnos' Signal Distortion Amplifier I
+'Hypnos' Signal Distortion Amplifier I
+Magnetometric Quest Probe, Qty: 5 (Cargo)
+Gravimetric Quest Probe, Qty: 5 (Cargo)
+Gravimetric Pursuit Probe, Qty: 5 (Cargo)
+Spook Scanner Probe I, Qty: 10 (Cargo)
+Snoop Scanner Probe I, Qty: 2 (Cargo)
+Magnetometric Sift Probe, Qty: 5 (Cargo)
+

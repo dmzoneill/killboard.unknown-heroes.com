@@ -1,0 +1,77 @@
+2007.04.24 04:56
+
+Victim: Taloth Kcovik
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Drake
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Death Merchant
+Security: 1.6
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Myrmidon
+Weapon: Berserker II
+
+Name: Karnovsky
+Security: 4.8
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Slinktress
+Security: 2.9
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Thorax
+Weapon: Thorax
+
+Name: Raketefrau (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Blackbird
+Weapon: Widowmaker Heavy Missile
+
+Name: Kayron Brennan
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Caracal
+Weapon: Hobgoblin I
+
+
+Destroyed items:
+
+Thunderbolt Heavy Missile, Qty: 11
+Scourge Heavy Missile, Qty: 11
+Havoc Heavy Missile, Qty: 11
+XR-3200 Heavy Missile Bay
+XR-3200 Heavy Missile Bay
+XR-3200 Heavy Missile Bay
+XR-3200 Heavy Missile Bay
+XR-3200 Heavy Missile Bay
+Shield Recharger II
+Invulnerability Field II
+Shield Power Relay II
+Multiphasic Bolt Array I
+Power Diagnostic System II
+Power Diagnostic System II
+Small Shield Transporter I (Cargo)
+Ship Scanner I (Cargo)
+J5 Prototype Warp Inhibitor I (Cargo)
+Warp Scrambler I, Qty: 2 (Cargo)
+Small Energy Transfer Array I, Qty: 3 (Cargo)
+Medium Nosferatu I (Cargo)
+Small Proton Smartbomb I (Cargo)
+Extra Gravimetric ECCM Scanning Array I (Cargo)
+High Speed Maneuvering (Cargo)
+Medium Remote Armor Repair System I (Cargo)
+Scourge Heavy Missile, Qty: 895 (Cargo)
+Thunderbolt Heavy Missile, Qty: 930 (Cargo)
+Hellhound F.O.F. Heavy Missile I, Qty: 100 (Cargo)
+

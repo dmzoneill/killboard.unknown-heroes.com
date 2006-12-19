@@ -1,0 +1,115 @@
+2006.08.12 21:23
+
+Victim: Bolinar
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Destroyed: Dominix
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Iorya Dragon
+Security: -1.2
+Alliance: None
+Corp: Beagle Corp
+Ship: Megathron
+Weapon: Megathron
+
+Name: Kheo Sen
+Security: 2.2
+Alliance: None
+Corp: Beagle Corp
+Ship: Typhoon
+Weapon: Typhoon
+
+Name: john roe
+Security: -4.4
+Alliance: None
+Corp: Beagle Corp
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Ricky Baby
+Security: 2.9
+Alliance: None
+Corp: Beagle Corp
+Ship: Megathron
+Weapon: Megathron
+
+Name: Valerian Xavier
+Security: 2.4
+Alliance: None
+Corp: Beagle Corp
+Ship: Megathron
+Weapon: Megathron
+
+Name: faithan
+Security: -9.8
+Alliance: None
+Corp: Beagle Corp
+Ship: Megathron
+Weapon: 425mm Railgun I
+
+Name: Jouno
+Security: -1.4
+Alliance: None
+Corp: Beagle Corp
+Ship: Megathron
+Weapon: 425mm Railgun I
+
+Name: UnSiViLiZeD (laid the final blow)
+Security: 0.2
+Alliance: None
+Corp: Beagle Corp
+Ship: Megathron
+Weapon: 425mm Railgun I
+
+Name: Dave White
+Security: -1.8
+Alliance: None
+Corp: Beagle Corp
+Ship: Armageddon
+Weapon: Mega Anode Particle Stream I
+
+Name: Tynicas
+Security: 0.3
+Alliance: None
+Corp: Beagle Corp
+Ship: Ferox
+Weapon: Assault Missile Launcher I
+
+Name: Roule
+Security: -7.1
+Alliance: None
+Corp: Beagle Corp
+Ship: Rapier
+Weapon: 650mm Artillery Cannon II
+
+Name: Chewan Mesa
+Security: 5.0
+Alliance: None
+Corp: Beagle Corp
+Ship: Falcon
+Weapon: ECM - Spatial Destabilizer II
+
+
+Destroyed items:
+
+Ion Blaster Cannon I
+Ion Blaster Cannon I
+Ion Blaster Cannon I
+Ion Blaster Cannon I
+Antimatter Charge L, Qty: 480
+Drone Link Augmentor I
+100MN MicroWarpdrive I
+Initiated Multispectral ECM I
+Induced Multispectral ECM I
+Induced Multispectral ECM I
+Large I-a Polarized Armor Regenerator
+Energized Adaptive Nano Membrane II
+1600mm Reinforced Rolled Tungsten Plates I
+Antimatter Charge L, Qty: 1698 (Cargo)
+Bouncer I, Qty: 4 (Drone Bay)
+Acolyte I, Qty: 2 (Drone Bay)
+

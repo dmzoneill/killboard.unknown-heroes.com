@@ -1,0 +1,32 @@
+2006.09.14 15:10
+
+Victim: Minesweeper
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Destroyed: Stiletto
+System: 3T7-M8
+Security: 0.0
+
+Involved parties:
+
+Name: PoeRath (laid the final blow)
+Security: -0.8
+Alliance: Ascendant Frontier
+Corp: Celestial Fleet
+Ship: Sabre
+Weapon: 125mm Gatling AutoCannon II
+
+Name: Guristas Exterminator / Guristas
+
+
+Destroyed items:
+
+Phased Plasma S, Qty: 21
+Piranha Light Missile, Qty: 39
+Catalyzed Cold-Gas I Arcjet Thrusters
+J5 Prototype Warp Inhibitor I
+'Langour' Drive Disruptor I
+'Langour' Drive Disruptor I
+Sabretooth Light Missile, Qty: 351 (Cargo)
+Piranha Light Missile, Qty: 294 (Cargo)
+

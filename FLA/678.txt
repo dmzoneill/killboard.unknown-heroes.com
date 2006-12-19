@@ -1,0 +1,30 @@
+2007.02.16 00:38
+
+Victim: M3kket
+Alliance: None
+Corp: Delusions Empire
+Destroyed: Drake
+System: Aunenen
+Security: 0.4
+
+Involved parties:
+
+Name: Sanal Gi (laid the final blow)
+Security: 0.6
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ferox
+Weapon: Widowmaker Heavy Missile
+
+Name: Bloodclaw Light Missile / Guristas Pirates
+
+
+Destroyed items:
+
+Widowmaker Heavy Missile, Qty: 42
+Advanced 'Limos' Heavy Missile Bay I
+Advanced 'Limos' Heavy Missile Bay I
+Advanced 'Limos' Heavy Missile Bay I
+Large Azeotropic Ward Salubrity I
+Widowmaker Heavy Missile, Qty: 6538 (Cargo)
+

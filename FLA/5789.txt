@@ -1,0 +1,30 @@
+2006.10.20 20:56
+
+Victim: Maylopilum
+Alliance: None
+Corp: State War Academy
+Destroyed: Ibis
+System: O-N8XZ
+Security: 0.0
+
+Involved parties:
+
+Name: Pelagiad (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Muninn
+Weapon: Flameburst Light Missile
+
+Name: digital oxygen
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Deimos
+Weapon: Valkyrie II
+
+
+Destroyed items:
+
+Tritanium (Cargo)
+

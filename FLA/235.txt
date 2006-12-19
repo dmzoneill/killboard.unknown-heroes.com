@@ -1,0 +1,19 @@
+2007.01.19 03:21
+
+Victim: Drokar Gazer
+Alliance: None
+Corp: Exanimo Inc
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Xantheris (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+

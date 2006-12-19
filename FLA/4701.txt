@@ -1,0 +1,33 @@
+2007.04.18 19:17
+
+Victim: Terdlinger
+Alliance: Storm Armada
+Corp: stone grave haulage
+Destroyed: Capsule
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Teck7
+Security: 1.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Catalyst
+Weapon: Catalyst
+
+Name: The Cade (laid the final blow)
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Thorax
+Weapon: Heavy Neutron Blaster I
+
+Name: Splinter5150
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Ship: Caracal
+Weapon: Warp Disruptor I
+
+

@@ -1,0 +1,60 @@
+2006.09.05 16:54
+
+Victim: TENb GTR
+Alliance: R.I.S.K
+Corp: SolaR KillerS
+Destroyed: Punisher
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Ghu'ru Talozan (laid the final blow)
+Security: 4.4
+Alliance: None
+Corp: Quasar Industries
+Ship: Deimos
+Weapon: Heavy Ion Blaster II
+
+Name: Verild
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Hawk
+Weapon: Piranha Light Missile
+
+Name: LiBraga
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Rook
+Weapon: Scourge Heavy Missile
+
+Name: XxAngelxX
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Malediction
+Weapon: Malediction
+
+Name: Hosanna
+Security: -2.4
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Claw
+Weapon: Claw
+
+Name: keilapuukko
+Security: 1.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Eagle
+Weapon: SV-2000 Assault Missile Bay
+
+
+Destroyed items:
+
+Multifrequency S
+Multifrequency S
+Multifrequency S
+

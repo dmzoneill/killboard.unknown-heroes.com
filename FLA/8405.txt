@@ -1,0 +1,40 @@
+2006.11.16 22:43
+
+Victim: jacass8496
+Alliance: Freelancer Alliance
+Corp: BGG
+Destroyed: Thorax
+System: O-CNPR
+Security: 0.0
+
+Involved parties:
+
+Name: Crusari (laid the final blow)
+Security: 5.0
+Alliance: The Sani Sabik
+Corp: Omniscient Order
+Ship: Megathron
+Weapon: Ion Blaster Cannon II
+
+Name: Elric TheWhite
+Security: -0.1
+Alliance: The Sani Sabik
+Corp: Omniscient Order
+Ship: Typhoon
+Weapon: Cataclysm Cruise Missile
+
+Name: H Zub
+Security: 0.0
+Alliance: The Sani Sabik
+Corp: Omniscient Order
+Ship: Dominix
+Weapon: 200mm Compressed Coil Gun I
+
+
+Destroyed items:
+
+10MN MicroWarpdrive I
+Energized Adaptive Nano Membrane I
+Voltaic Nanite Explosive Hardener I
+Liquid Ozone, Qty: 300 (Cargo)
+

@@ -1,0 +1,40 @@
+2007.03.23 03:28
+
+Victim: DarkAlpha
+Alliance: YouWhat
+Corp: Pringles Inc.
+Destroyed: Manticore
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: KriegDrachen (laid the final blow)
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Sabre
+Weapon: 200mm AutoCannon II
+
+Name: Aranon Ogronios
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: AuraShock
+Security: 0.7
+Alliance: Freelancer Alliance
+Corp: United Forces
+Ship: Thorax
+Weapon: Thorax
+
+
+Destroyed items:
+
+Wrath Cruise Missile, Qty: 44
+'Arbalest' Cruise Launcher I
+Remote Sensor Dampener II
+Local Hull Conversion Nanofiber Structure I
+

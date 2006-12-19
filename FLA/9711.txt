@@ -1,0 +1,47 @@
+2007.05.25 21:27
+
+Victim: bleackpirat
+Alliance: Phalanx Alliance
+Corp: G.S.B.G
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Steven FSB
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Harpy
+Weapon: Harpy
+
+Name: Luthien Firefoot (laid the final blow)
+Security: 3.6
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Eagle
+Weapon: Sabretooth Precision Light Missile
+
+Name: Asher Vic
+Security: 2.2
+Alliance: THE R0CK
+Corp: The Keep
+Ship: Catalyst
+Weapon: 150mm 'Scout' I Accelerator Cannon
+
+Name: batista bomb
+Security: 2.5
+Alliance: DeStInY.
+Corp: Legion Federation
+Ship: Thorax
+Weapon: Heavy Electron Blaster I
+
+Name: RnY IX
+Security: 1.6
+Alliance: 3asy Company
+Corp: International Space Corp
+Ship: Enyo
+Weapon: Enyo
+
+

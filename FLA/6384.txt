@@ -1,0 +1,31 @@
+2006.11.13 06:44
+
+Victim: Xono
+Alliance: Eternal Empire
+Corp: Spectral Armada
+Destroyed: Osprey
+System: X47L-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Gharthak
+Security: 4.7
+Alliance: New Eden Conglomerate
+Corp: InterMind Unlimited
+Ship: Raven
+Weapon: Siege Missile Launcher II
+
+Name: Preying Mantis (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Phoenix
+Weapon: Rift Torpedo I
+
+
+Destroyed items:
+
+Barton Reactor Capacitor Recharger I
+Mining Drone I, Qty: 2 (Drone Bay)
+

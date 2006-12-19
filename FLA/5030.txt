@@ -1,0 +1,42 @@
+2007.04.21 02:50
+
+Victim: Magic Mazuma
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Destroyed: Rifter
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Screamer (laid the final blow)
+Security: 0.7
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Manticore
+Weapon: Wrath Precision Cruise Missile
+
+Name: Athanasios Anastasiou
+Security: 5.0
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Hurricane
+Weapon: 720mm Howitzer Artillery II
+
+Name: Bothius
+Security: 0.4
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Arazu
+Weapon: 250mm Prototype I Gauss Gun
+
+
+Destroyed items:
+
+280mm Howitzer Artillery I
+Phased Plasma S
+Phased Plasma S
+Small Armor Repairer I
+Power Diagnostic System I
+Phased Plasma S, Qty: 663 (Cargo)
+

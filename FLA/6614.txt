@@ -1,0 +1,23 @@
+2006.11.19 21:32
+
+Victim: Detested
+Alliance: None
+Corp: State War Academy
+Destroyed: Caldari Shuttle
+System: F-NMX6
+Security: 0.0
+
+Involved parties:
+
+Name: Tri Ounou (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Stiletto
+Weapon: 150mm Light AutoCannon II
+
+
+Destroyed items:
+
+F-S15 Braced Deflection Shield Matrix (Cargo)
+

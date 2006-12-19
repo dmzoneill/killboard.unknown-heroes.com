@@ -1,0 +1,33 @@
+2007.03.27 15:42
+
+Victim: Tregaron
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Destroyed: Thrasher
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Gordon Red
+Security: 2.0
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Heretic
+Weapon: Heretic
+
+Name: The Ali (laid the final blow)
+Security: -3.2
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Vagabond
+Weapon: Dual 180mm AutoCannon II
+
+
+Destroyed items:
+
+200mm AutoCannon I
+200mm AutoCannon I
+Fusion S, Qty: 148
+Local Hull Conversion Inertial Stabilizers I
+

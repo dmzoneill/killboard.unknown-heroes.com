@@ -1,0 +1,36 @@
+2006.11.21 07:06
+
+Victim: Azrealsan
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Vexor
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: GoLdeN BoY (laid the final blow)
+Security: 1.8
+Alliance: None
+Corp: Beer Guzzling Clowns With Blasters
+Ship: Crusader
+Weapon: Medium Pulse Laser II
+
+Name: Evelyn Mulwray
+Security: 0.4
+Alliance: None
+Corp: Beer Guzzling Clowns With Blasters
+Ship: Taranis
+Weapon: Taranis
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Iridium Charge M, Qty: 160
+Small Tractor Beam I
+Emergency Damage Control I
+Iridium Charge M, Qty: 1477 (Cargo)
+Ogre I, Qty: 2 (Drone Bay)
+Vespa I (Drone Bay)
+

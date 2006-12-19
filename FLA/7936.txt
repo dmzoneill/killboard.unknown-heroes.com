@@ -1,0 +1,37 @@
+2006.10.01 12:42
+
+Victim: Mina Apriosti
+Alliance: Freelancer Alliance
+Corp: Astromech Assassins
+Destroyed: Rifter
+System: F7C-H0
+Security: 0.0
+
+Involved parties:
+
+Name: Memoi (laid the final blow)
+Security: -0.6
+Alliance: None
+Corp: 0utbreak
+Ship: Astarte
+Weapon: Heavy Neutron Blaster II
+
+Name: T34R4k
+Security: 0.8
+Alliance: None
+Corp: 0utbreak
+Ship: Malediction
+Weapon: J5 Prototype Warp Inhibitor I
+
+
+Destroyed items:
+
+1MN Afterburner I
+Guristas Silver Tag, Qty: 2 (Cargo)
+Guristas Gold Tag (Cargo)
+Dread Guristas Crystal Tag (Cargo)
+Guristas Bronze Tag (Cargo)
+Guristas Diamond Tag, Qty: 9 (Cargo)
+Guristas Electrum Tag, Qty: 3 (Cargo)
+Guristas Platinum Tag, Qty: 7 (Cargo)
+

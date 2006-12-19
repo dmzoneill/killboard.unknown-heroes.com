@@ -1,0 +1,34 @@
+2007.04.04 03:18
+
+Victim: Kalli Kleina
+Alliance: None
+Corp: RONA Deepspace
+Destroyed: Blackbird
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Untamed Fury (laid the final blow)
+Security: 1.2
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Hurricane
+Weapon: 720mm Howitzer Artillery II
+
+Name: alon blackhelm
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Myrmidon
+Weapon: Ogre I
+
+
+Destroyed items:
+
+Small Nosferatu I
+Induced Multispectral ECM I
+Compulsive Ion Field ECM I
+ECM - Spatial Destabilizer I
+Capacitor Power Relay I
+

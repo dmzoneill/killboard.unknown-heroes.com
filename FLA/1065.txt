@@ -1,0 +1,55 @@
+2007.03.04 14:28
+
+Victim: Rio LoboSK
+Alliance: Xelas Alliance
+Corp: Rytiri Lva
+Destroyed: Rifter
+System: YZ-LQL
+Security: 0.0
+
+Involved parties:
+
+Name: mrrabit
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Thrasher
+Weapon: 280mm Howitzer Artillery II
+
+Name: HazaMonZo (laid the final blow)
+Security: 4.2
+Alliance: Dusk and Dawn
+Corp: Infinite Improbability Inc
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Takeshi Nuwen
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: The X-Trading Company
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Sinder Ohm
+Security: 5.1
+Alliance: Dusk and Dawn
+Corp: Infinite Improbability Inc
+Ship: Enyo
+Weapon: 125mm Railgun II
+
+Name: Kimett
+Security: 2.8
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Caracal
+Weapon: Fleeting Warp Scrambler I
+
+
+Destroyed items:
+
+Piranha Light Missile, Qty: 40
+1MN MicroWarpdrive I
+Warp Disruptor I
+Co-Processor I
+Nanofiber Internal Structure I
+

@@ -1,0 +1,31 @@
+2006.11.14 09:04
+
+Victim: xon minator
+Alliance: Interstellar Starbase Syndicate
+Corp: United Space Republic
+Destroyed: Reaper
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: DevilSlayer (laid the final blow)
+Security: 4.0
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Almagar Phog
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Blackbird
+Weapon: Compact 'Limos' Assault Missile Bay I
+
+
+Destroyed items:
+
+Civilian Gatling Autocannon
+Basic Miner
+

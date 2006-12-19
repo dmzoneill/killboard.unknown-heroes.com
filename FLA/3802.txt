@@ -1,0 +1,64 @@
+2007.04.01 16:30
+
+Victim: AlexeiShtukov
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Destroyed: Thorax
+System: P-2TTL
+Security: 0.0
+
+Involved parties:
+
+Name: Raeff (laid the final blow)
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Megathron
+Weapon: Warden I
+
+Name: Wotan I
+Security: 4.7
+Alliance: S.E.R.A
+Corp: Seraphin Technologies
+Ship: Unknown
+Weapon: 250mm Railgun II
+
+Name: StarshipTrooper
+Security: 4.1
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Taranis
+Weapon: Taranis
+
+Name: ZaKma
+Security: -0.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Wolf
+Weapon: Wolf
+
+Name: abzzo
+Security: 1.7
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Zealot
+Weapon: Zealot
+
+Name: Tancred
+Security: 4.8
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Stiletto
+Weapon: Warp Disruptor II
+
+
+Destroyed items:
+
+Light Neutron Blaster II
+Light Neutron Blaster II
+Light Neutron Blaster II
+Antimatter Charge S, Qty: 160
+X5 Prototype I Engine Enervator
+Armor Thermic Hardener I
+Infiltrator I (Drone Bay)
+

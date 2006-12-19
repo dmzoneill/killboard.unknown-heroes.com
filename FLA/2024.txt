@@ -1,0 +1,47 @@
+2007.01.17 20:19
+
+Victim: Cockroach
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Capsule
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Anna Neura (laid the final blow)
+Security: -0.2
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Taranis
+Weapon: 125mm Railgun II
+
+Name: Torok Nakaht
+Security: 1.2
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Sabre
+Weapon: 200mm AutoCannon II
+
+Name: simcor
+Security: -1.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Ishkur
+Weapon: 75mm Gatling Rail II
+
+Name: xVx Scarecrow
+Security: 3.2
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Crow
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+Name: WarGod
+Security: 1.7
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Curse
+Weapon: Medium Nosferatu II
+
+

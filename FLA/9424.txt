@@ -1,0 +1,36 @@
+2007.05.13 08:58
+
+Victim: Del Boy
+Alliance: None
+Corp: Mentally Unstable Enterprises
+Destroyed: Crow
+System: Uemisaisen
+Security: 0.6
+
+Involved parties:
+
+Name: Ocara Nezus (laid the final blow)
+Security: 1.5
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Crow
+Weapon: Bloodclaw Precision Light Missile
+
+Name: wardey
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Retribution
+Weapon: Retribution
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 94
+Catalyzed Cold-Gas I Arcjet Thrusters
+J5 Prototype Warp Inhibitor I
+Capacitor Power Relay II
+Corpse (Cargo)
+Bloodclaw Light Missile, Qty: 509 (Cargo)
+Sabretooth Light Missile, Qty: 376 (Cargo)
+

@@ -1,0 +1,36 @@
+2007.05.12 18:38
+
+Victim: Ophea
+Alliance: Freelancer Alliance
+Corp: The Collective of Ascended Beings
+Destroyed: Buzzard
+System: Yoma
+Security: 0.6
+
+Involved parties:
+
+Name: Ronnie Kray (laid the final blow)
+Security: -1.9
+Alliance: None
+Corp: Mentally Unstable Enterprises
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+Multispectral Frequency Probe
+Multispectral Frequency Probe
+Multispectral Frequency Probe
+Multispectral Frequency Probe
+Multispectral Frequency Probe
+Multispectral Frequency Probe
+Multispectral Frequency Probe
+Covert Ops Cloaking Device II
+Scan Probe Launcher I
+Small Shield Extender II
+'Langour' Drive Disruptor I
+Heavy Assault Missiles (Cargo)
+Radar Pursuit Probe, Qty: 14 (Cargo)
+Magnetometric Pursuit Probe, Qty: 15 (Cargo)
+

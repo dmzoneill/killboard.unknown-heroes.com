@@ -1,0 +1,26 @@
+2007.03.11 16:49
+
+Victim: Mordachai
+Alliance: YouWhat
+Corp: Artificial Horizons
+Destroyed: Capsule
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: ekkertnafnlaust (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Tempest
+Weapon: 1200mm Artillery Cannon II
+
+Name: sniper luke
+Security: 4.7
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Celestis
+Weapon: Warp Disruptor I
+
+

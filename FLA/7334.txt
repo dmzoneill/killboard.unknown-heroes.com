@@ -1,0 +1,39 @@
+2006.08.12 15:19
+
+Victim: Dougan Ironfist
+Alliance: None
+Corp: Spaced Cowboys
+Destroyed: Prophecy
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Carl tabot (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Raven
+Weapon: Mjolnir Javelin Torpedo
+
+
+Destroyed items:
+
+Heavy Pulse Laser I
+Heavy Pulse Laser I
+Focused Medium Pulse Laser I
+Heavy Anode Pulse Particle Stream I
+Radio M
+Radio M
+Widowmaker Heavy Missile, Qty: 32
+Large Shield Extender I
+Medium C5-L Emergency Shield Overload I
+Medium Armor Repairer I
+Dual Diode Mining Laser I, Qty: 5 (Cargo)
+Warp Core Stabilizer I (Cargo)
+Widowmaker Heavy Missile, Qty: 200 (Cargo)
+Civilian Expanded Cargohold, Qty: 3 (Cargo)
+Hornet I (Drone Bay)
+Infiltrator I (Drone Bay)
+Hammerhead I (Drone Bay)
+

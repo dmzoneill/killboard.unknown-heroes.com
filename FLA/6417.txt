@@ -1,0 +1,54 @@
+2006.11.13 16:01
+
+Victim: Oda Whisperwind
+Alliance: None
+Corp: Canadian Mining Association
+Destroyed: Caldari Shuttle
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Darth Hound
+Security: 1.7
+Alliance: Schism.
+Corp: Fatalix Inc.
+Ship: Thrasher
+Weapon: 280mm Howitzer Artillery I
+
+Name: dinj
+Security: 4.7
+Alliance: Freelancer Alliance
+Corp: London Transport
+Ship: Crow
+Weapon: Bloodclaw Fury Light Missile
+
+Name: LiBraga (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Eagle
+Weapon: 250mm Prototype I Gauss Gun
+
+Name: bidman
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Raven
+Weapon: Siege Missile Launcher II
+
+Name: Kroux
+Security: 0.8
+Alliance: O X I D E
+Corp: V-COM SyNdicate
+Ship: Manticore
+Weapon: 'Limos' Cruise Launcher I
+
+Name: Fahad
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Harpy
+Weapon: Light Neutron Blaster II
+
+

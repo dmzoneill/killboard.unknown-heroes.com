@@ -1,0 +1,55 @@
+2007.03.19 04:26
+
+Victim: Keshein
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Destroyed: Raven
+System: E-FIC0
+Security: 0.0
+
+Involved parties:
+
+Name: Lobster Man
+Security: -3.2
+Alliance: None
+Corp: e X i l e
+Ship: Dominix
+Weapon: Dominix
+
+Name: Kronos1713 (laid the final blow)
+Security: 2.3
+Alliance: None
+Corp: e X i l e
+Ship: Thorax
+Weapon: Heavy Electron Blaster II
+
+
+Destroyed items:
+
+200mm Railgun I
+Juggernaut Torpedo, Qty: 16
+Wrath Cruise Missile, Qty: 22
+'Arbalest' Cruise Launcher I
+'Malkuth' Siege Missile Launcher I
+X-Large C5-L Emergency Shield Overload I
+Sensor Booster I
+Shield Boost Amplifier I
+Shield Boost Amplifier I
+Multiphasic Bolt Array I
+Ballistic Control System II
+Beta Reactor Control: Diagnostic System I
+Local Power Plant Manager: Diagnostic System I
+Type-D Power Core Modification: Diagnostic System
+X-Large Shield Booster I (Cargo)
+Inferno Torpedo, Qty: 100 (Cargo)
+Bane Torpedo, Qty: 100 (Cargo)
+Juggernaut Torpedo, Qty: 809 (Cargo)
+Mjolnir Torpedo, Qty: 400 (Cargo)
+Vespa I, Qty: 5 (Cargo)
+Tracking Link I (Cargo)
+F-89 Synchronized Signal Amplifier (Cargo)
+Tracking Computer I (Cargo)
+Cataclysm Cruise Missile, Qty: 200 (Cargo)
+ZW-4100 Siege Missile Bay (Cargo)
+Hammerhead I (Drone Bay)
+

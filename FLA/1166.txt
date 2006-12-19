@@ -1,0 +1,33 @@
+2007.03.07 23:42
+
+Victim: Meglomaniac
+Alliance: YouWhat
+Corp: Cloud Ring Real Estate Agency
+Destroyed: Capsule
+System: XZH-4X
+Security: 0.0
+
+Involved parties:
+
+Name: SajuurCor
+Security: 4.7
+Alliance: The OSS
+Corp: Free Collective
+Ship: Crusader
+Weapon: Crusader
+
+Name: Jesnen (laid the final blow)
+Security: -1.5
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Coercer
+Weapon: Medium Beam Laser I
+
+Name: VoYvod
+Security: -1.3
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Coercer
+Weapon: Medium Beam Laser I
+
+

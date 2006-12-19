@@ -1,0 +1,33 @@
+2007.01.26 22:41
+
+Victim: jakara kai
+Alliance: Band of Brothers
+Corp: Reikoku
+Destroyed: Capsule
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Illesa
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Wolf
+Weapon: 200mm AutoCannon II
+
+Name: Specalistin
+Security: -1.1
+Alliance: Guardian Federation
+Corp: KULT Production
+Ship: Moa
+Weapon: 250mm 'Scout' I Accelerator Cannon
+
+Name: Minisoza (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Enyo
+Weapon: 125mm Railgun II
+
+

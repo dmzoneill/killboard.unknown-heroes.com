@@ -1,0 +1,38 @@
+2007.04.29 13:56
+
+Victim: Topasio
+Alliance: YouWhat
+Corp: Princeps Corp
+Destroyed: Claw
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: FlobbMkII
+Security: 4.4
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Eris
+Weapon: Light Ion Blaster II
+
+Name: Damfoose
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Capsule
+Weapon: 'Limos' Cruise Launcher I
+
+Name: Nukuquqa Hestase (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Crow
+Weapon: Piranha Light Missile
+
+
+Destroyed items:
+
+250mm Light Artillery Cannon II
+Mark I Generator Refitting: Capacitor Power Relay
+Titanium Sabot S, Qty: 1002 (Cargo)

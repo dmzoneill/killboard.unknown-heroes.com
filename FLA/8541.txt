@@ -1,0 +1,39 @@
+2006.11.26 15:45
+
+Victim: Narny
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Destroyed: Raven
+System: YZ-LQL
+Security: 0.0
+
+Involved parties:
+
+Name: Ign0raMus (laid the final blow)
+Security: 0.1
+Alliance: Establishment
+Corp: The Establishment
+Ship: Nyx
+Weapon: Dragonfly
+
+Name: Loriena
+Security: -1.4
+Alliance: Establishment
+Corp: The Establishment
+Ship: Arazu
+Weapon: Fleeting Warp Scrambler I
+
+
+Destroyed items:
+
+Cruise Missile Launcher II
+Cruise Missile Launcher II
+Paradise Precision Cruise Missile, Qty: 50
+Devastator Precision Cruise Missile, Qty: 75
+Invulnerability Field I
+ECM - White Noise Generator II
+Alumel-Wired I Sensor Augmentation
+Alumel-Wired I Sensor Augmentation
+Devastator Precision Cruise Missile, Qty: 2452 (Cargo)
+Paradise Precision Cruise Missile, Qty: 3639 (Cargo)
+

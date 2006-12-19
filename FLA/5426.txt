@@ -1,0 +1,40 @@
+2006.10.02 16:53
+
+Victim: NerVee
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Destroyed: Capsule
+System: 93PI-4
+Security: 0.0
+
+Involved parties:
+
+Name: James Potkukelkka
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Flycatcher
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+Name: Jumar Coldgin (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+Name: kookos
+Security: 2.8
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Punisher
+Weapon: Punisher
+
+Name: W4RR10R
+Security: -1.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Taranis
+Weapon: Taranis
+
+

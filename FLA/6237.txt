@@ -1,0 +1,23 @@
+2006.11.10 22:28
+
+Victim: kiss amamll
+Alliance: None
+Corp: School of Applied Knowledge
+Destroyed: Ibis
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: GrandMastaXP (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+
+Destroyed items:
+
+Basic Miner
+

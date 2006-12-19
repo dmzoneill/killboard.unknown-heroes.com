@@ -1,0 +1,47 @@
+2007.03.10 03:09
+
+Victim: Mannheim Wolf
+Alliance: Chorus of Dawn
+Corp: Independent Frontiers
+Destroyed: Capsule
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Scotticus (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Jaguar
+Weapon: 250mm Light Gallium I Cannon
+
+Name: scutterballturkey
+Security: 3.9
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: MrMaggot
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Hawk
+Weapon: Sabretooth Light Missile
+
+Name: white kight
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Drake
+Weapon: Heavy Missile Launcher I
+
+Name: Almagar Phog
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Blackbird
+Weapon: ECM - Phase Inverter I
+
+

@@ -1,0 +1,75 @@
+2006.08.26 22:10
+
+Victim: Ricky Baby
+Alliance: None
+Corp: Beagle Corp
+Destroyed: Megathron
+System: Z0-TJW
+Security: 0.0
+
+Involved parties:
+
+Name: Z'app
+Security: 0.0
+Alliance: Chorus of Dawn
+Corp: The Ghost Riders
+Ship: Raven
+Weapon: Vespa II
+
+Name: jacass66
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Raven
+Weapon: Hornet II
+
+Name: ForceAttuned Krogoth
+Security: 0.2
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Armageddon
+Weapon: Wasp I
+
+Name: Formosus Funus
+Security: -0.8
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Rupture
+Weapon: Flameburst Light Missile
+
+Name: XxAngelxX (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Armageddon
+Weapon: Tachyon Beam Laser I
+
+Name: MementoMortis
+Security: 1.5
+Alliance: None
+Corp: Deadly Alliance
+Ship: Raven
+Weapon: Shock 'Limos' Siege Missile Bay I
+
+Name: Bolinar
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Ishtar
+Weapon: J5 Prototype Warp Inhibitor I
+
+
+Destroyed items:
+
+425mm Carbide Railgun I
+425mm Carbide Railgun I
+425mm Carbide Railgun I
+Antimatter Charge L, Qty: 97
+ECCM - Magnetometric I
+Prototype I Sensor Booster
+Magnetic Field Stabilizer II
+Magnetic Field Stabilizer II
+1600mm Reinforced Nanofiber Plates I
+Vespa EC-600, Qty: 5 (Drone Bay)
+Medium Armor Maintenance Bot I, Qty: 3 (Drone Bay)
+

@@ -1,0 +1,35 @@
+2006.12.07 19:41
+
+Victim: night darkness
+Alliance: None
+Corp: omen.
+Destroyed: Heretic
+System: 2R-CRW
+Security: 0.0
+
+Involved parties:
+
+Name: Matt Stoner (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+
+Destroyed items:
+
+Salvager I, Qty: 60
+Dual Light Beam Laser II
+Dual Light Beam Laser II
+Dual Light Beam Laser II
+Dual Light Beam Laser II
+Small 'Knave' I Energy Drain
+Standard S
+Standard S
+Standard S
+Phased Monopropellant I Hydrazine Boosters
+Fleeting Warp Scrambler I
+X5 Prototype I Engine Enervator
+Small Armor Repairer II
+

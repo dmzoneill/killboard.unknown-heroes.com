@@ -1,0 +1,29 @@
+2007.03.27 15:17
+
+Victim: Patro
+Alliance: Privateer Alliance
+Corp: Beyond Divinity Inc
+Destroyed: Punisher
+System: Jita
+Security: 0.9
+
+Involved parties:
+
+Name: Ghu'ru Talozan (laid the final blow)
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ishkur
+Weapon: Warrior II
+
+
+Destroyed items:
+
+200mm AutoCannon II
+Small 'Knave' I Energy Drain
+Barrage S, Qty: 78
+'Langour' Drive Disruptor I
+Micro Auxiliary Power Core I
+EMP S, Qty: 5000 (Cargo)
+Barrage S, Qty: 1820 (Cargo)
+

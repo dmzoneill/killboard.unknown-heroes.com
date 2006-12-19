@@ -1,0 +1,40 @@
+2007.01.29 06:54
+
+Victim: Kelter Highfire
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Ferox
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Bonafyde (laid the final blow)
+Security: 5.0
+Alliance: None
+Corp: Brutor tribe
+Ship: Hurricane
+Weapon: 720mm Howitzer Artillery II
+
+Name: Rose Moonlight
+Security: 1.2
+Alliance: None
+Corp: Sebiestor tribe
+Ship: Vagabond
+Weapon: Vagabond
+
+
+Destroyed items:
+
+200mm Railgun I
+Scourge Heavy Missile, Qty: 38
+XR-3200 Heavy Missile Bay
+Large Azeotropic Ward Salubrity I
+'Benefactor' I Ward Reconstructor
+Ballistic Deflection Field I
+Local Power Plant Manager: Reaction Shield Power Relay I
+Iridium Charge M, Qty: 1525 (Cargo)
+Plutonium Charge S, Qty: 100 (Cargo)
+F-43 Repeatative Multi-Frequency Backup Sensors (Cargo)
+Hornet I (Drone Bay)
+

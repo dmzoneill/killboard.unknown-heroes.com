@@ -1,0 +1,100 @@
+2007.01.17 01:24
+
+Victim: Astoria Tanril
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Prophecy
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Misha Mosqito (laid the final blow)
+Security: 2.3
+Alliance: None
+Corp: Exanimo Inc
+Ship: Myrmidon
+Weapon: Ogre II
+
+Name: Multras
+Security: -2.7
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: StellaBlue
+Security: 0.0
+Alliance: None
+Corp: Exanimo Inc
+Ship: Myrmidon
+Weapon: Heavy Neutron Blaster II
+
+Name: cptblood
+Security: 0.8
+Alliance: None
+Corp: Exanimo Inc
+Ship: Harpy
+Weapon: Harpy
+
+Name: Riotoverkill
+Security: 1.5
+Alliance: None
+Corp: Exanimo Inc
+Ship: Rook
+Weapon: Medium Nosferatu II
+
+Name: TaX DoDger
+Security: 3.1
+Alliance: None
+Corp: Exanimo Inc
+Ship: Crow
+Weapon: Crow
+
+Name: Jaysun Myst
+Security: 0.4
+Alliance: None
+Corp: Exanimo Inc
+Ship: Raptor
+Weapon: Raptor
+
+Name: NightWolfe
+Security: 5.0
+Alliance: None
+Corp: Exanimo Inc
+Ship: Crow
+Weapon: Piranha Light Missile
+
+Name: Ciaphas Khaine
+Security: -1.6
+Alliance: None
+Corp: Exanimo Inc
+Ship: Ares
+Weapon: Ares
+
+Name: theslayer
+Security: 4.1
+Alliance: None
+Corp: Exanimo Inc
+Ship: Raptor
+Weapon: Light Electron Blaster I
+
+
+Destroyed items:
+
+Heavy Modal Laser I
+Heavy Modal Laser I
+Heavy Anode Particle Stream I
+Infrared M
+Infrared M
+Infrared M
+Partial Weapon Navigation
+Medium Automated I Carapace Restoration
+Extruded Heat Sink I
+Energized Magnetic Membrane I
+Energized Reactive Membrane I
+'Skadi' Coolant System I (Cargo)
+Exotic Dancers (Cargo)
+Energized Thermic Membrane I (Cargo)
+Hammerhead I, Qty: 2 (Drone Bay)
+

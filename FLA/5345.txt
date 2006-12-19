@@ -1,0 +1,78 @@
+2007.04.26 00:51
+
+Victim: marakudi
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Destroyed: Raven
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Tomas Ysidro (laid the final blow)
+Security: 1.7
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Astarte
+Weapon: Heavy Neutron Blaster II
+
+Name: Robet Katrix
+Security: 2.2
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Scorpion
+Weapon: Cataclysm Cruise Missile
+
+Name: albert camus
+Security: -8.0
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Ship: Claw
+Weapon: Claw
+
+Name: War Bear
+Security: 2.8
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: Bellon
+Security: -3.7
+Alliance: Band of Brothers
+Corp: Reikoku
+Ship: Blackbird
+Weapon: Sabretooth Light Missile
+
+
+Destroyed items:
+
+E500 Prototype Energy Vampire
+Bane Torpedo, Qty: 18
+Wrath Cruise Missile, Qty: 64
+'Arbalest' Cruise Launcher I
+'Arbalest' Cruise Launcher I
+XT-9000 Cruise Launcher
+ZW-4100 Siege Missile Bay
+Large Shield Extender I
+X-Large C5-L Emergency Shield Overload I
+Heavy F-RX Prototype I Capacitor Boost
+Ballistic Deflection Field II
+Invulnerability Field II
+Cap Booster 800
+Ionic Field Accelerator I
+Ballistic Control System II
+Power Diagnostic System II
+Cap Booster 800, Qty: 5 (Cargo)
+Bane Torpedo, Qty: 505 (Cargo)
+Juggernaut Torpedo, Qty: 44 (Cargo)
+Hammerhead I, Qty: 2 (Cargo)
+Ogre I, Qty: 2 (Cargo)
+1600mm Reinforced Rolled Tungsten Plates I (Cargo)
+Devastator Cruise Missile, Qty: 3 (Cargo)
+Wrath Cruise Missile, Qty: 593 (Cargo)
+Phoenix F.O.F. Cruise Missile I, Qty: 100 (Cargo)
+Berserker I (Drone Bay)
+Hammerhead I (Drone Bay)
+Berserker SW-900 (Drone Bay)
+

@@ -1,0 +1,37 @@
+2007.03.24 19:07
+
+Victim: Ssirc
+Alliance: Xelas Alliance
+Corp: Fallen Angel's
+Destroyed: Rifter
+System: RORZ-H
+Security: 0.0
+
+Involved parties:
+
+Name: Sabe (laid the final blow)
+Security: 5.0
+Alliance: Red Horizon
+Corp: Red Horizon Inc
+Ship: Gila
+Weapon: Thunderbolt Heavy Missile
+
+Name: Praetorian Mardou
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Drake
+Weapon: Hornet I
+
+
+Destroyed items:
+
+200mm AutoCannon I
+200mm AutoCannon I
+150mm Light AutoCannon I
+EMP S, Qty: 56
+1MN MicroWarpdrive I
+Remote Sensor Dampener I
+Reflective Plating I
+Overdrive Injector System I
+

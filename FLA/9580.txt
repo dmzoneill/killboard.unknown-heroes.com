@@ -1,0 +1,54 @@
+2007.05.19 08:24
+
+Victim: pir0
+Alliance: None
+Corp: Caldari Provisions
+Destroyed: Caracal
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: coldkill
+Security: 2.1
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Arazu
+Weapon: Hobgoblin II
+
+Name: wardey
+Security: 0.6
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Crusader
+Weapon: Dual Light Beam Laser II
+
+Name: Francois Dubuoi (laid the final blow)
+Security: 1.3
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Amarrian Bringer
+Security: 1.3
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Malediction
+Weapon: Malediction
+
+Name: Rock Slag
+Security: 5.0
+Alliance: THE R0CK
+Corp: The Keep
+Ship: Claw
+Weapon: 150mm Light AutoCannon II
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 60
+Heavy Missile Launcher I
+Large C5-L Emergency Shield Overload I
+Heat Dissipation Field I
+

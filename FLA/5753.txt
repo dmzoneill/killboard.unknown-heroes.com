@@ -1,0 +1,33 @@
+2006.10.14 02:24
+
+Victim: Jalan'Rook
+Alliance: None
+Corp: Entropy Tech.
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Preying Mantis (laid the final blow)
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: Yangoor
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: THeOThErs
+Ship: Crow
+Weapon: Warp Disruptor I
+
+Name: Nil Desperandum
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Omen
+Weapon: Omen
+
+

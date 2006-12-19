@@ -1,0 +1,52 @@
+2006.10.17 16:05
+
+Victim: Ripper01
+Alliance: None
+Corp: Itchy Trigger Finger Brothers
+Destroyed: Pilgrim
+System: MHC-R3
+Security: 0.0
+
+Involved parties:
+
+Name: Ryx Bratsilaken
+Security: -1.2
+Alliance: None
+Corp: Magnificent Beavers
+Ship: Typhoon
+Weapon: Hammerhead I
+
+Name: Cazziel
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Taranis
+Weapon: Taranis
+
+Name: W4RR10R (laid the final blow)
+Security: 1.1
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+Name: Hosanna
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Jaguar
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+
+Destroyed items:
+
+E50 Prototype Energy Vampire
+E50 Prototype Energy Vampire
+Covert Ops Cloaking Device II
+Faint Warp Prohibitor I
+Medium F-RX Prototype I Capacitor Boost
+Pseudoelectron Containment Field I
+Cap Booster 800, Qty: 4 (Cargo)
+Hobgoblin II, Qty: 2 (Drone Bay)
+Acolyte II, Qty: 2 (Drone Bay)
+

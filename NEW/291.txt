@@ -1,0 +1,18 @@
+2007.03.03 20:41
+
+Victim: Riddinike
+Alliance: None
+Corp: Science and Trade Institute
+Destroyed: Capsule
+System: WY-9LL
+Security: 0.0
+
+Involved parties:
+
+Name: Kimett (laid the final blow)
+Security: 2.8
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Moa
+Weapon: 250mm Compressed Coil Gun I
+

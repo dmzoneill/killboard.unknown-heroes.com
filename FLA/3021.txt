@@ -1,0 +1,19 @@
+2007.03.22 10:24
+
+Victim: Dinosaurs Attack
+Alliance: None
+Corp: Republic Military School
+Destroyed: Capsule
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: forever faithless (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Manticore
+Weapon: Paradise Cruise Missile
+
+

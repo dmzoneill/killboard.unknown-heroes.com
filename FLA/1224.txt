@@ -1,0 +1,52 @@
+2007.03.09 01:23
+
+Victim: Boobalicious
+Alliance: YouWhat
+Corp: Beasts of Burden
+Destroyed: Impairor
+System: XZH-4X
+Security: 0.0
+
+Involved parties:
+
+Name: Von Rinn (laid the final blow)
+Security: 5.0
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Hawk
+Weapon: Bloodclaw Light Missile
+
+Name: Jonas123
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Ferox
+Weapon: 250mm Compressed Coil Gun I
+
+Name: Sils wife
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Kerules Yor
+Security: 2.4
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Stiletto
+Weapon: Warp Disruptor I
+
+Name: A'ruhn
+Security: 4.1
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Purifier
+Weapon: XT-9000 Cruise Launcher
+
+
+Destroyed items:
+
+Civilian Gatling Pulse Laser
+Basic Miner
+

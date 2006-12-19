@@ -1,0 +1,34 @@
+2007.04.05 14:17
+
+Victim: Njord V
+Alliance: Freelancer Alliance
+Corp: Blackwater Squadron
+Destroyed: Stiletto
+System: ZOYW-O
+Security: 0.0
+
+Involved parties:
+
+Name: stainage
+Security: -1.2
+Alliance: None
+Corp: Final-Vendetta
+Ship: Eos
+Weapon: Warrior II
+
+Name: Hornster (laid the final blow)
+Security: -1.1
+Alliance: None
+Corp: Final-Vendetta
+Ship: Pilgrim
+Weapon: Warrior II
+
+
+Destroyed items:
+
+150mm Light AutoCannon II
+Small 'Knave' I Energy Drain
+Barrage S, Qty: 64
+Remote Sensor Dampener I
+Barrage S, Qty: 4433 (Cargo)
+

@@ -1,0 +1,162 @@
+2006.09.09 18:51
+
+Victim: munia
+Alliance: None
+Corp: LDK
+Destroyed: Armageddon
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: DevilSlayer
+Security: 3.8
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Zealot
+Weapon: Medium Nosferatu I
+
+Name: Wolfman Apocalypse
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Scorpion
+Weapon: Devastator Cruise Missile
+
+Name: Drakin Korin
+Security: -1.4
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Ishtar
+Weapon: Medium Diminishing Power System Drain I
+
+Name: Jumar Coldgin (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+Name: keilapuukko
+Security: 1.1
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Eagle
+Weapon: E50 Prototype Energy Vampire
+
+Name: Thafesko
+Security: 4.5
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: digital oxygen
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Megathron
+Weapon: Valkyrie I
+
+Name: Ione79
+Security: 2.4
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Megathron
+Weapon: Megathron
+
+Name: F2C MaDMaXX
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: London Transport
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: TasKu
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Taranis
+Weapon: Hobgoblin II
+
+Name: Barsak Kressel
+Security: 1.6
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Ship: Caracal
+Weapon: Havoc Heavy Missile
+
+Name: Kiztent
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Rupture
+Weapon: Havoc Heavy Missile
+
+Name: Gery Zon
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Veturi
+Ship: Crow
+Weapon: Thorn Rocket
+
+Name: shekat khlorblaster
+Security: 2.1
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Thorax
+Weapon: Valkyrie I
+
+Name: Hosanna
+Security: -2.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Stiletto
+Weapon: 150mm Light AutoCannon II
+
+Name: Yangoor
+Security: 4.1
+Alliance: Freelancer Alliance
+Corp: THeOThErs
+Ship: Kestrel
+Weapon: Bloodclaw Light Missile
+
+Name: Th3 HuNt3r
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: EVE MegaCorp Association
+Ship: Blackbird
+Weapon: Blackbird
+
+Name: Rick A
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Blackbird
+Weapon: Induced Multispectral ECM I
+
+Name: Damfoose
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Blackbird
+Weapon: Induced Multispectral ECM I
+
+
+Destroyed items:
+
+Dual Heavy Pulse Laser II
+Dual Heavy Pulse Laser II
+Conflagration L
+Heavy Electrochemical Capacitor Booster I
+Cap Booster 800
+F84 Local Damage System
+Large Armor Repairer II
+Quantum Co-Processor I
+Energized Adaptive Nano Membrane II
+Armor Explosive Hardener II
+Armor Kinetic Hardener II
+Radio L, Qty: 5 (Cargo)
+Multifrequency L, Qty: 5 (Cargo)
+Berserker I, Qty: 3 (Drone Bay)
+

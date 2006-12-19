@@ -1,0 +1,31 @@
+2007.04.18 22:38
+
+Victim: Seamus O'Malley
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Kestrel
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: RayTruz (laid the final blow)
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+
+Destroyed items:
+
+Piranha Light Missile, Qty: 37
+Gremlin Rocket, Qty: 22
+Rocket Launcher I
+1MN Afterburner I
+J5 Prototype Warp Inhibitor I
+Nanofiber Internal Structure I
+Nanofiber Internal Structure I
+Stasis Webifier I (Cargo)
+Bloodclaw Light Missile, Qty: 525 (Cargo)
+

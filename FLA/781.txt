@@ -1,0 +1,25 @@
+2007.02.20 19:11
+
+Victim: DarthJesseBob
+Alliance: Privateer Alliance
+Corp: Sicarri Covenant
+Destroyed: Taranis
+System: Jita
+Security: 0.9
+
+Involved parties:
+
+Name: Ghu'ru Talozan (laid the final blow)
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Myrmidon
+Weapon: Warrior II
+
+
+Destroyed items:
+
+Light Ion Blaster II
+Null S, Qty: 93
+Small 'Knave' I Energy Drain (Cargo)
+

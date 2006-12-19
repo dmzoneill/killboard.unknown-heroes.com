@@ -1,0 +1,49 @@
+2006.09.29 23:54
+
+Victim: R'Onin
+Alliance: Ivy League
+Corp: Eve University
+Destroyed: Gallente Shuttle
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Caja Wrython
+Security: 2.0
+Alliance: Freelancer Alliance
+Corp: Abandoned Resolve Corporation
+Ship: Caracal
+Weapon: Widowmaker Heavy Missile
+
+Name: W4RR10R (laid the final blow)
+Security: -1.5
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+Name: Guristas Eraser / Guristas
+
+Name: Karas Rabus
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: Drakin Korin
+Security: 2.1
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Deimos
+Weapon: Heavy Ion Blaster II
+
+Name: Cockroach
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Vengeance
+Weapon: Fleeting Warp Scrambler I
+
+

@@ -1,0 +1,30 @@
+2007.04.16 04:53
+
+Victim: Slinktress
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Destroyed: Thorax
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: FowlPlayChiken (laid the final blow)
+Security: 1.2
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Thanatos
+Weapon: Berserker II
+
+
+Destroyed items:
+
+Heavy Neutron Blaster I
+Antimatter Charge M, Qty: 189
+J5 Prototype Warp Inhibitor I
+Medium Armor Repairer I
+Magnetic Plating II
+Type-D Power Core Modification: Diagnostic System
+Antimatter Charge M, Qty: 1960 (Cargo)
+Hammerhead II, Qty: 2 (Drone Bay)
+

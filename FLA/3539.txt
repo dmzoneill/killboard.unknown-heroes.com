@@ -1,0 +1,33 @@
+2007.03.26 05:51
+
+Victim: Braxxon
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Destroyed: Rapier
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: ShadowDragon (laid the final blow)
+Security: 5.0
+Alliance: M. PIRE
+Corp: EVE Corporation00621
+Ship: Lachesis
+Weapon: Hammerhead II
+
+Name: Tatzlwurm
+Security: 4.6
+Alliance: M. PIRE
+Corp: EVE Corporation00621
+Ship: Huginn
+Weapon: Huginn
+
+
+Destroyed items:
+
+10MN Afterburner II
+Dread Guristas Stasis Webifier
+'Langour' Drive Disruptor I
+Nanofiber Internal Structure I
+

@@ -1,0 +1,53 @@
+2006.11.04 23:29
+
+Victim: Angel Vengen
+Alliance: Freelancer Alliance
+Corp: Caldar Mercenary Syndicate
+Destroyed: Omen
+System: KLY-C0
+Security: 0.0
+
+Involved parties:
+
+Name: Kalissa
+Security: 0.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+Name: cptblood (laid the final blow)
+Security: 1.0
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: cwk92
+Security: 4.5
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Raptor
+Weapon: 125mm Railgun II
+
+Name: Gaia's Wrath
+Security: 5.0
+Alliance: Triumvirate.
+Corp: Exanimo Inc
+Ship: Taranis
+Weapon: Taranis
+
+
+Destroyed items:
+
+Heavy Pulse Laser I
+Heavy Pulse Laser I
+Heavy Pulse Laser I
+Multifrequency M
+Bloodclaw Light Missile, Qty: 69
+'Arbalest' Assault Missile Launcher
+Y-S8 Hydrocarbon I Afterburners
+Tracking Enhancer I
+Bloodclaw Light Missile, Qty: 3876 (Cargo)
+Hobgoblin I, Qty: 3 (Drone Bay)
+

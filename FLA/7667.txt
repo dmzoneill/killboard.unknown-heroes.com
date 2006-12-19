@@ -1,0 +1,47 @@
+2006.09.29 23:54
+
+Victim: R'Onin
+Alliance: Ivy League
+Corp: Eve University
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Chiizukeeki (laid the final blow)
+Security: 3.3
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Jaguar
+Weapon: 150mm Light AutoCannon II
+
+Name: W4RR10R
+Security: -1.5
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+Name: BladeMos
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Basilisk
+Weapon: 150mm Railgun II
+
+Name: other mickey
+Security: 0.8
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Tristan
+Weapon: Light Electron Blaster I
+
+Name: Caja Wrython
+Security: 2.0
+Alliance: Freelancer Alliance
+Corp: Abandoned Resolve Corporation
+Ship: Caracal
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+

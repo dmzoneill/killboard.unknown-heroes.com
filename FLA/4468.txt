@@ -1,0 +1,26 @@
+2007.04.11 01:19
+
+Victim: The Cade
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Destroyed: Capsule
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Pharrow (laid the final blow)
+Security: -0.5
+Alliance: FATAL Alliance
+Corp: FATAL REVELATIONS
+Ship: Wolf
+Weapon: 280mm Howitzer Artillery II
+
+Name: e3joker
+Security: 4.2
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+

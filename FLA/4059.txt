@@ -1,0 +1,40 @@
+2007.04.11 23:46
+
+Victim: Gilderis Rheis
+Alliance: None
+Corp: State War Academy
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Ember Fox
+Security: 1.5
+Alliance: DeStInY.
+Corp: Fusion Enterprises Ltd
+Ship: Taranis
+Weapon: Taranis
+
+Name: Jarath Abyss (laid the final blow)
+Security: 4.2
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Ship: Thorax
+Weapon: 200mm Railgun II
+
+Name: Kelton Lermetov
+Security: 2.6
+Alliance: 3asy Company
+Corp: Eth3real
+Ship: Hawk
+Weapon: Standard Missile Launcher II
+
+Name: AngeBlade
+Security: 2.8
+Alliance: 3asy Company
+Corp: Eth3real
+Ship: Raptor
+Weapon: Warp Disruptor I
+
+

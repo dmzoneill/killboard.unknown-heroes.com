@@ -1,0 +1,27 @@
+2006.10.22 01:34
+
+Victim: Sophia Stormbringer
+Alliance: R0ADKILL
+Corp: Beagle Corp
+Destroyed: Cormorant
+System: C4C-Z4
+Security: 0.0
+
+Involved parties:
+
+Name: W4RR10R (laid the final blow)
+Security: 1.5
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Megathron
+Weapon: Wasp I
+
+
+Destroyed items:
+
+Small Nosferatu I
+150mm Railgun I
+150mm Railgun I
+Antimatter Charge S, Qty: 37
+1MN MicroWarpdrive I
+

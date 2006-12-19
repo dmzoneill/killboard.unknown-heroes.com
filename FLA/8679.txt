@@ -1,0 +1,91 @@
+2006.12.06 20:38
+
+Victim: Lone flyer
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Destroyed: Scorpion
+System: Z30S-A
+Security: 0.0
+
+Involved parties:
+
+Name: welsh wizard
+Security: 5.0
+Alliance: Insurgency
+Corp: Celestial Apocalypse
+Ship: Raven
+Weapon: Warrior II
+
+Name: Little Wolf
+Security: 5.0
+Alliance: Insurgency
+Corp: Celestial Apocalypse
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Jade Lion
+Security: 5.0
+Alliance: None
+Corp: Cornerstone Unlimited
+Ship: Scorpion
+Weapon: Devastator Cruise Missile
+
+Name: Jouno
+Security: -0.8
+Alliance: Insurgency
+Corp: Celestial Apocalypse
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Shadowthrone
+Security: 1.2
+Alliance: Insurgency
+Corp: Celestial Apocalypse
+Ship: Raven
+Weapon: E50 Prototype Energy Vampire
+
+Name: Kheo Sen (laid the final blow)
+Security: 1.4
+Alliance: Insurgency
+Corp: Celestial Apocalypse
+Ship: Tempest
+Weapon: 1400mm Prototype I Siege Cannon
+
+Name: Fuglife
+Security: -1.2
+Alliance: Insurgency
+Corp: Celestial Apocalypse
+Ship: Megathron
+Weapon: 350mm Railgun II
+
+Name: Flisker
+Security: 3.2
+Alliance: Insurgency
+Corp: Celestial Apocalypse
+Ship: Myrmidon
+Weapon: Wasp I
+
+Name: PictPunk
+Security: 3.6
+Alliance: Ascendant Frontier
+Corp: STK Scientific
+Ship: Rook
+Weapon: Widowmaker Heavy Missile
+
+
+Destroyed items:
+
+Medium Nosferatu I
+'Arbalest' Cruise Launcher I
+Compulsive Multispectral ECM I
+Compulsive Multispectral ECM I
+Compulsive Multispectral ECM I
+Compulsive Multispectral ECM I
+Sensor Booster I
+Alumel-Wired I Sensor Augmentation
+Large 'Accommodation' Vestment Reconstructer I
+Microcell Nanite Adaptive Membrane I
+Devastator Cruise Missile, Qty: 1452 (Cargo)
+Acolyte II, Qty: 5 (Drone Bay)
+Infiltrator II, Qty: 2 (Drone Bay)
+

@@ -1,0 +1,28 @@
+2007.03.26 03:26
+
+Victim: Tregaron
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Destroyed: Crow
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Tom McCash (laid the final blow)
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Asgard Schiffswerften
+Ship: Erebus
+Weapon: Aurora Ominae
+
+
+Destroyed items:
+
+Standard Missile Launcher II
+Standard Missile Launcher II
+Co-Processor II
+Ballistic Control System I
+Bloodclaw Fury Light Missile, Qty: 986 (Cargo)
+Sabretooth Fury Light Missile, Qty: 80 (Cargo)
+

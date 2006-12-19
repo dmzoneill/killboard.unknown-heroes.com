@@ -1,0 +1,61 @@
+2007.03.20 20:22
+
+Victim: Malificient
+Alliance: None
+Corp: Junk Systems Inc.
+Destroyed: Caldari Navy Hookbill
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Cho Solo
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Deimos
+Weapon: Hornet I
+
+Name: Reep Mawr
+Security: 3.1
+Alliance: CORE.
+Corp: Red 42
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+Name: Zephyrante
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Lachesis
+Weapon: Valkyrie II
+
+Name: Kerdrak
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Curse
+Weapon: Warrior II
+
+Name: Geltan sakimuir (laid the final blow)
+Security: 5.0
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+Name: FuzzBuzz
+Security: 2.4
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Caracal
+Weapon: Bloodclaw Light Missile
+
+Name: rockerguy
+Security: -3.9
+Alliance: CORE.
+Corp: Red 42
+Ship: Drake
+Weapon: Widowmaker Heavy Missile
+
+

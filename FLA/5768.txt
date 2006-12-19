@@ -1,0 +1,28 @@
+2006.10.16 20:34
+
+Victim: GoLdeN BoY
+Alliance: Triumvirate.
+Corp: D00M.
+Destroyed: Raptor
+System: Nonni
+Security: 0.5
+
+Involved parties:
+
+Name: bidman (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Raven
+Weapon: Juggernaut Javelin Torpedo
+
+
+Destroyed items:
+
+Light Neutron Blaster II
+Antimatter Charge S, Qty: 59
+OE-5200 Rocket Launcher
+X5 Prototype I Engine Enervator
+Small Armor Repairer II
+Micro Auxiliary Power Core I
+

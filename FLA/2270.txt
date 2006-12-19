@@ -1,0 +1,31 @@
+2007.02.03 22:09
+
+Victim: Kaptain Fitz
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Punisher
+System: Litiura
+Security: 0.5
+
+Involved parties:
+
+Name: crazykiller
+Security: -1.8
+Alliance: Privateer Alliance
+Corp: Beyond Divinity Inc
+Ship: Arbitrator
+Weapon: Valkyrie I
+
+Name: GBoS (laid the final blow)
+Security: -0.1
+Alliance: Privateer Alliance
+Corp: Beyond Divinity Inc
+Ship: Thorax
+Weapon: Heavy Ion Blaster II
+
+
+Destroyed items:
+
+1MN Afterburner I
+Small Armor Repairer I
+

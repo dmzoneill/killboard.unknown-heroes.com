@@ -1,0 +1,70 @@
+2007.02.06 20:08
+
+Victim: Faux
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Destroyed: Sabre
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Kasahara (laid the final blow)
+Security: -0.2
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery I
+
+Name: r Cubed
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: The Night Crew
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Cockroach
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Purifier
+Weapon: Purifier
+
+Name: truefranco
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Thorax
+Weapon: Thorax
+
+Name: Tnam
+Security: 1.7
+Alliance: None
+Corp: BGG
+Ship: Jaguar
+Weapon: 'Arbalest' Rocket Launcher I
+
+Name: Zephyrante
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Dominix
+Weapon: Fleeting Warp Scrambler I
+
+
+Destroyed items:
+
+125mm Gatling AutoCannon II
+125mm Gatling AutoCannon II
+280mm Howitzer Artillery II
+Depleted Uranium S, Qty: 40
+Barrage S, Qty: 200
+Warp Disrupt Probe, Qty: 10
+1MN MicroWarpdrive II
+X5 Prototype I Engine Enervator
+F-90 Positional Sensor Subroutines
+Gyrostabilizer II
+Small Armor Repairer II
+EMP S, Qty: 1000 (Cargo)
+Warp Disrupt Probe, Qty: 70 (Cargo)
+

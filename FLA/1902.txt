@@ -1,0 +1,49 @@
+2007.01.09 08:08
+
+Victim: Satal Sonshi
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Destroyed: Tempest
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Bonafyde
+Security: 5.0
+Alliance: None
+Corp: Brutor tribe
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: Rose Moonlight (laid the final blow)
+Security: 1.2
+Alliance: None
+Corp: Sebiestor tribe
+Ship: Vagabond
+Weapon: 220mm Medium 'Scout' Autocannon I
+
+Name: Yushii
+Security: 1.5
+Alliance: None
+Corp: Perkone
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+
+Destroyed items:
+
+Dual 650mm 'Scout' Repeating Artillery I
+Dual 650mm 'Scout' Repeating Artillery I
+Dual 650mm 'Scout' Repeating Artillery I
+Heavy 'Knave' I Energy Drain
+Titanium Sabot L, Qty: 468
+Stasis Webifier I
+Heavy Electrochemical Capacitor Booster I
+Tracking Computer I
+N-Type Kinetic Hardener I
+Eutectic I Capacitor Charge Array (Cargo)
+Titanium Sabot L, Qty: 594 (Cargo)
+Cap Booster 800, Qty: 3 (Cargo)
+Hammerhead I, Qty: 2 (Drone Bay)
+

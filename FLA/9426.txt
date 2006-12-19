@@ -1,0 +1,33 @@
+2007.05.13 09:07
+
+Victim: wardey
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Capsule
+System: Litiura
+Security: 0.5
+
+Involved parties:
+
+Name: vickers
+Security: -2.0
+Alliance: None
+Corp: Mentally Unstable Enterprises
+Ship: Harpy
+Weapon: Harpy
+
+Name: Lennier Cotto (laid the final blow)
+Security: -2.1
+Alliance: None
+Corp: Mentally Unstable Enterprises
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Del Boy
+Security: 0.0
+Alliance: None
+Corp: Mentally Unstable Enterprises
+Ship: Huginn
+Weapon: Warp Disruptor II
+
+

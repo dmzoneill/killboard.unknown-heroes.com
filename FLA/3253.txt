@@ -1,0 +1,33 @@
+2007.03.21 22:18
+
+Victim: Citizen Payne
+Alliance: Freelancer Alliance
+Corp: ACCORD Industries
+Destroyed: Capsule
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: terrak (laid the final blow)
+Security: 1.1
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Cyclone
+Weapon: 425mm AutoCannon I
+
+Name: Mr Moonwatcher
+Security: 4.9
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Taranis
+Weapon: Taranis
+
+Name: MC Alfritz
+Security: 3.7
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Muninn
+Weapon: Muninn
+
+

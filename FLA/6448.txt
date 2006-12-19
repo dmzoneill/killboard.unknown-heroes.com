@@ -1,0 +1,59 @@
+2006.11.14 13:03
+
+Victim: Storm Demon
+Alliance: Blood Raiders Alliance
+Corp: Murder-Death-Kill
+Destroyed: Maller
+System: Aunenen
+Security: 0.4
+
+Involved parties:
+
+Name: LiBraga
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+Name: bidman (laid the final blow)
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Ferox
+Weapon: Scourge Heavy Missile
+
+Name: Angel Vengen
+Security: 4.2
+Alliance: Freelancer Alliance
+Corp: Caldar Mercenary Syndicate
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: jacass66
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Dominix
+Weapon: Praetor I
+
+Name: Aeryn Calbert
+Security: 1.4
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Scorpion
+Weapon: Mjolnir Torpedo
+
+
+Destroyed items:
+
+Heavy Anode Pulse Particle Stream I
+Heavy Anode Pulse Particle Stream I
+Heavy Anode Pulse Particle Stream I
+Multifrequency M
+Multifrequency M
+Multifrequency M
+Fixed Parallel Link-Capacitor I
+Medium Armor Repairer II
+Radio M, Qty: 2 (Cargo)
+

@@ -1,0 +1,48 @@
+2006.09.15 20:50
+
+Victim: Vanden
+Alliance: None
+Corp: Mordu's Elite
+Destroyed: Punisher
+System: EWOK-K
+Security: 0.0
+
+Involved parties:
+
+Name: Mad Mackem
+Security: -1.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Armageddon
+Weapon: Mega Beam Laser II
+
+Name: MentalM (laid the final blow)
+Security: 5.2
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Armageddon
+Weapon: Tachyon Beam Laser II
+
+Name: Oldin Relic
+Security: 1.3
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Moa
+Weapon: 250mm Carbide Railgun I
+
+Name: movy
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Brutix
+Weapon: 200mm Railgun I
+
+
+Destroyed items:
+
+Medium Pulse Laser I
+Small Nosferatu I
+Multifrequency S
+1MN MicroWarpdrive I
+Warp Disruptor I
+

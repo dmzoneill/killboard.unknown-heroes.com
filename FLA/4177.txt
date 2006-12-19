@@ -1,0 +1,45 @@
+2007.04.03 16:17
+
+Victim: Sam Bacon
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Destroyed: Megathron
+System: CR-IFM
+Security: 0.0
+
+Involved parties:
+
+Name: obiele
+Security: 4.4
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Damnation
+Weapon: Damnation
+
+Name: Frostbeule (laid the final blow)
+Security: 3.4
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Sabre
+Weapon: 150mm Light AutoCannon II
+
+Name: Lakastre
+Security: 0.6
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Curse
+Weapon: Hammerhead II
+
+Name: SwordsOfLight
+Security: 5.0
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Raptor
+Weapon: Raptor
+
+
+Destroyed items:
+
+Large 'Accommodation' Vestment Reconstructer I
+N-Type Kinetic Hardener I
+

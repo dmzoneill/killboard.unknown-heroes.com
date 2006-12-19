@@ -1,0 +1,44 @@
+2006.10.09 17:07
+
+Victim: Kronooo
+Alliance: None
+Corp: SKORPION CORP
+Destroyed: Condor
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Gamer1K
+Security: 3.2
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Crow
+Weapon: Crow
+
+Name: Lady Vanquish
+Security: -0.3
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Stabber
+Weapon: Heavy Missile Launcher I
+
+Name: Nil Desperandum (laid the final blow)
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Omen
+Weapon: Heavy Modulated Pulse Energy Beam I
+
+Name: Gtok
+Security: -0.5
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+
+Destroyed items:
+
+1MN MicroWarpdrive I
+

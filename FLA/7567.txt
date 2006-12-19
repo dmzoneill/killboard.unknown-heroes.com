@@ -1,0 +1,34 @@
+2006.09.17 06:40
+
+Victim: Keeto
+Alliance: None
+Corp: GalacTECH Unlimited
+Destroyed: Claw
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Jaig Maldara (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Flycatcher
+Weapon: Bloodclaw Light Missile
+
+Name: 101 Commander
+Security: 3.7
+Alliance: Chorus of Dawn
+Corp: Welsh Commanders
+Ship: Raven
+Weapon: Raven
+
+
+Destroyed items:
+
+250mm Light Artillery Cannon II
+EMP S, Qty: 14
+Tracking Enhancer II
+Tracking Enhancer II
+Titanium Sabot S, Qty: 900 (Cargo)
+

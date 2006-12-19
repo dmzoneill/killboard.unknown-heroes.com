@@ -1,0 +1,26 @@
+2006.09.04 12:40
+
+Victim: Lighti
+Alliance: R.I.S.K
+Corp: SolaR KillerS
+Destroyed: Capsule
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Shocker Vern (laid the final blow)
+Security: 3.1
+Alliance: Freelancer Alliance
+Corp: EVE MegaCorp Association
+Ship: Raptor
+Weapon: Limited Light Ion Blaster I
+
+Name: Shock Ryder
+Security: 4.8
+Alliance: Freelancer Alliance
+Corp: EVE MegaCorp Association
+Ship: Stabber
+Weapon: Stabber
+
+

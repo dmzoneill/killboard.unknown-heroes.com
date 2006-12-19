@@ -1,0 +1,39 @@
+2006.11.03 15:55
+
+Victim: Serge Nova
+Alliance: Mordus Angels
+Corp: Viper  Squad
+Destroyed: Dominix
+System: VFK-IV
+Security: 0.0
+
+Involved parties:
+
+Name: jacass66 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Thanatos
+Weapon: Firbolg
+
+
+Destroyed items:
+
+Heavy Nosferatu I
+Heavy Nosferatu I
+Heavy Nosferatu I
+Heavy Ion Blaster II
+Void M, Qty: 116
+Stasis Webifier I
+ECM - Multispectral Jammer II
+Large Armor Repairer II
+Warp Core Stabilizer I
+Cap Recharger II, Qty: 2 (Cargo)
+Heavy Neutron Blaster II (Cargo)
+Heat Dissipation Field II (Cargo)
+Kinetic Deflection Amplifier II (Cargo)
+Armor Kinetic Hardener II (Cargo)
+Ballistic Control System II (Cargo)
+'Arbalest' Siege Missile Launcher (Cargo)
+Berserker II, Qty: 7 (Drone Bay)
+

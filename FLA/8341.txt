@@ -1,0 +1,27 @@
+2006.11.09 22:06
+
+Victim: LizzyD
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Destroyed: Ishkur
+System: Ibura
+Security: 0.6
+
+Involved parties:
+
+Name: Yarek Balear (laid the final blow)
+Security: -1.8
+Alliance: None
+Corp: The Initiative
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+
+Destroyed items:
+
+Javelin S, Qty: 48
+Sensor Booster I
+Omnidirectional Tracking Link I
+Small Armor Repairer II
+Javelin S, Qty: 15479 (Cargo)
+

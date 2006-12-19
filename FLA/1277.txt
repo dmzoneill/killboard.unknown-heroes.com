@@ -1,0 +1,109 @@
+2007.03.10 03:20
+
+Victim: Mannheim Wolf
+Alliance: Chorus of Dawn
+Corp: Independent Frontiers
+Destroyed: Typhoon
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Fugnut
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: white kight
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Drake
+Weapon: Warrior I
+
+Name: scutterballturkey
+Security: 3.9
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: Inter Fectum
+Security: 2.0
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Tempest
+Weapon: Tempest
+
+Name: Shassandra (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Megathron
+Weapon: 425mm Railgun I
+
+Name: dastommy79
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Scotticus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: Lane A'lusin
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Megathron
+Weapon: Megathron
+
+Name: Altanzar
+Security: 4.5
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Ship: Taranis
+Weapon: Taranis
+
+Name: MrMaggot
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Hawk
+Weapon: Flameburst Light Missile
+
+Name: Freakdevil
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Crow
+Weapon: 75mm Gatling Rail II
+
+Name: Nil Desperandum
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Lachesis
+Weapon: Warrior I
+
+Name: Almagar Phog
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Blackbird
+Weapon: ECM - Phase Inverter I
+
+
+Destroyed items:
+
+Regulated Ion Phase Cannon I (Cargo)
+Gauss Field Balancer I (Cargo)
+Ogre I, Qty: 2 (Drone Bay)
+

@@ -1,0 +1,40 @@
+2007.01.12 18:10
+
+Victim: Soldroz
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Destroyed: Raptor
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: ETS4ME (laid the final blow)
+Security: 0.7
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Wrath Cruise Missile
+
+Name: Crucifier
+Security: 0.3
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+
+Destroyed items:
+
+75mm Gatling Rail II
+Antimatter Charge S, Qty: 200
+Thorn Rocket, Qty: 80
+Rocket Launcher II
+Rocket Launcher II
+1MN MicroWarpdrive II
+Fleeting Warp Scrambler I
+Inertia Stabilizers I
+Inertia Stabilizers I
+Dual 250mm Prototype I Gauss Gun (Cargo)
+Thorn Rocket, Qty: 794 (Cargo)
+

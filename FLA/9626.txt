@@ -1,0 +1,23 @@
+2007.05.21 10:39
+
+Victim: love juan
+Alliance: None
+Corp: State War Academy
+Destroyed: Ibis
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Mufeater (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Ares
+Weapon: Flameburst Light Missile
+
+
+Destroyed items:
+
+Tritanium (Cargo)
+

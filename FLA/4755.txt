@@ -1,0 +1,159 @@
+2007.04.21 04:06
+
+Victim: Wraithstorm
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Dominix
+System: 2R-CRW
+Security: 0.0
+
+Involved parties:
+
+Name: Oslo
+Security: 0.7
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Absolution
+Weapon: Absolution
+
+Name: Porf
+Security: 5.0
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Megathron
+Weapon: Megathron
+
+Name: chota
+Security: 5.0
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Rupture
+Weapon: Dragonfly
+
+Name: OrbiteronAir
+Security: 5.0
+Alliance: SECUWAY.
+Corp: SecuWay
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+Name: Gemini Hypernova
+Security: 1.1
+Alliance: The Sundering
+Corp: ironwood ink
+Ship: Abaddon
+Weapon: Abaddon
+
+Name: Dirty Martini
+Security: 4.3
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Drake
+Weapon: Vespa I
+
+Name: ISpydeRI
+Security: 5.0
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Crow
+Weapon: Stasis Webifier I
+
+Name: Skull Fire
+Security: 0.8
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Ferox
+Weapon: Scourge Heavy Missile
+
+Name: KiNgShiZzLe
+Security: 5.0
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Crow
+Weapon: Bloodclaw Precision Light Missile
+
+Name: Frank West
+Security: -2.1
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Ferox
+Weapon: Vespa I
+
+Name: Kvarium Ki
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Rupture
+Weapon: Rupture
+
+Name: MaxStewart
+Security: 2.0
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Hawk
+Weapon: Flameburst Precision Light Missile
+
+Name: eagleeye d4l (laid the final blow)
+Security: 1.6
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Thorax
+Weapon: Hammerhead II
+
+Name: Briscoe
+Security: 4.8
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+Name: Ghu'ru Talozan
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Celestis
+Weapon: Warrior I
+
+Name: Raketefrau
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Blackbird
+Weapon: Thunderbolt Heavy Missile
+
+Name: dastommy79
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Vexor
+Weapon: Hammerhead I
+
+Name: GEOFFTRIN RYNE
+Security: 5.0
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Caracal
+Weapon: Widowmaker Heavy Missile
+
+Name: Starbat
+Security: -0.1
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Scorpion
+Weapon: Scorpion
+
+
+Destroyed items:
+
+Heavy Diminishing Power System Drain I
+Heavy Diminishing Power System Drain I
+Dual 150mm Railgun II
+Dual 150mm Railgun II
+ECM - Multispectral Jammer I
+Sensor Booster II
+Large Armor Repairer II
+Large Armor Repairer II
+Armor Kinetic Hardener II
+Armor Thermic Hardener II
+Ogre II, Qty: 7 (Drone Bay)
+

@@ -1,0 +1,31 @@
+2007.01.15 01:44
+
+Victim: Enochios
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Vengeance
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: armslave (laid the final blow)
+Security: 1.5
+Alliance: Sani Khal'Vecna
+Corp: coracao ardente
+Ship: Enyo
+Weapon: Light Ion Blaster II
+
+
+Destroyed items:
+
+Medium Pulse Laser II
+Medium Pulse Laser II
+Scorch S
+1MN Afterburner II
+Warp Scrambler I
+Phased Weapon Navigation Array Generation Extron
+Small Armor Repairer II
+Heat Sink II
+Local Power Plant Manager: Capacity Power Relay I
+

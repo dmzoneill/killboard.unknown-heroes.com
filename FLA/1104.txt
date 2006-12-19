@@ -1,0 +1,112 @@
+2007.03.05 01:45
+
+Victim: Rita
+Alliance: Band of Brothers
+Corp: Reikoku
+Destroyed: Viator
+System: 1-SMEB
+Security: 0.0
+
+Involved parties:
+
+Name: TheSizzler
+Security: 3.6
+Alliance: Dusk and Dawn
+Corp: Tri Optimum
+Ship: Zealot
+Weapon: Zealot
+
+Name: Blue Sassley (laid the final blow)
+Security: -0.5
+Alliance: Dusk and Dawn
+Corp: Momentum.
+Ship: Ferox
+Weapon: Widowmaker Fury Heavy Missile
+
+Name: Caarnji
+Security: -1.9
+Alliance: Dusk and Dawn
+Corp: ECP Rogues
+Ship: Drake
+Weapon: Scourge Fury Heavy Missile
+
+Name: Teck7
+Security: 1.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Lachesis
+Weapon: Valkyrie II
+
+Name: Fout Debiele
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Cataclysm Enterprises
+Ship: Myrmidon
+Weapon: Myrmidon
+
+Name: Flinx Evenstar
+Security: -1.2
+Alliance: Dusk and Dawn
+Corp: Momentum.
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: Snake solid
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Konstrukteure der Zukunft
+Ship: Flycatcher
+Weapon: 'Langour' Drive Disruptor I
+
+Name: Xantheris
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: Cecilia Walsh
+Security: 3.6
+Alliance: Dusk and Dawn
+Corp: Cataclysm Enterprises
+Ship: Curse
+Weapon: Hammerhead II
+
+Name: Torquemanda Corteaz
+Security: 3.9
+Alliance: Dusk and Dawn
+Corp: Infinite Improbability Inc
+Ship: Taranis
+Weapon: Taranis
+
+Name: magarethe
+Security: 0.2
+Alliance: Dusk and Dawn
+Corp: Die Apokalyptischen Reiter
+Ship: Rifter
+Weapon: Stasis Webifier I
+
+Name: Frau Formaggio
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Helios
+Weapon: ECM - Multispectral Jammer II
+
+Name: Asariasha
+Security: 4.6
+Alliance: Dusk and Dawn
+Corp: Cataclysm Enterprises
+Ship: Taranis
+Weapon: Light Neutron Blaster II
+
+
+Destroyed items:
+
+Small Converse I Deflection Catalyzer
+Medium C5-L Emergency Shield Overload I
+Nanofiber Internal Structure I
+Nanofiber Internal Structure I
+Nanofiber Internal Structure I
+Liquid Ozone, Qty: 1575 (Cargo)
+

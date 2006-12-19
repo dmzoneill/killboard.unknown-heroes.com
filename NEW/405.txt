@@ -1,0 +1,64 @@
+2007.03.20 20:29
+
+Victim: KS Bommel
+Alliance: YouWhat
+Corp: SteelVipers
+Destroyed: Crow
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Malcanis (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Raven
+Weapon: Valkyrie I
+
+Name: KiNgShiZzLe
+Security: 5.0
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+Name: Bobby Atlas
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Hyperion
+Weapon: Hobgoblin II
+
+Name: ClogMan
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Typhoon
+Weapon: 'Limos' Cruise Launcher I
+
+Name: SniperMcBob
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Raven
+Weapon: XT-9000 Cruise Launcher
+
+Name: Cockroach
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Zealot
+Weapon: Focused Medium Pulse Laser II
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 36
+Upgraded 'Limos' Standard Missile Bay I, Qty: 2
+1MN MicroWarpdrive II
+J5 Prototype Warp Inhibitor I
+X5 Prototype I Engine Enervator
+Nanofiber Internal Structure I
+Mark I Modified SS Nanofiber Structure
+Power Diagnostic System I

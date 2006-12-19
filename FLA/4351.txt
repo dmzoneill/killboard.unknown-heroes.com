@@ -1,0 +1,72 @@
+2007.04.08 17:03
+
+Victim: Asa Gunnarsson
+Alliance: Freelancer Alliance
+Corp: ACCORD Industries
+Destroyed: Raven
+System: F7C-H0
+Security: 0.0
+
+Involved parties:
+
+Name: evilempire3 (laid the final blow)
+Security: -1.2
+Alliance: YouWhat
+Corp: Cosmic Odyssey
+Ship: Armageddon
+Weapon: Dual Heavy Modulated Pulse Energy Beam I
+
+Name: sliver 0xD
+Security: -2.6
+Alliance: YouWhat
+Corp: Infinite Style Incorporated
+Ship: Flycatcher
+Weapon: Bloodclaw Light Missile
+
+Name: Thyago
+Security: 5.0
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: Janis Praag
+Security: 4.9
+Alliance: YouWhat
+Corp: Cosmic Odyssey
+Ship: Unknown
+Weapon: Warp Scrambler I
+
+Name: Krestin
+Security: 0.1
+Alliance: YouWhat
+Corp: Cosmic Odyssey
+Ship: Unknown
+Weapon: J5 Prototype Warp Inhibitor I
+
+
+Destroyed items:
+
+250mm Railgun I
+250mm Railgun I
+Juggernaut Torpedo
+Juggernaut Torpedo
+'Arbalest' Cruise Launcher I
+'Arbalest' Cruise Launcher I
+Large F-S9 Regolith Shield Induction
+Large C5-L Emergency Shield Overload I
+X-Large C5-L Emergency Shield Overload I
+5a Prototype Shield Support I
+Ballistic Control System II
+Type-D Power Core Modification: Diagnostic System
+100MN MicroWarpdrive I (Cargo)
+Dread Guristas Lead Charge M, Qty: 857 (Cargo)
+Bane Torpedo, Qty: 1282 (Cargo)
+Wasp I, Qty: 2 (Cargo)
+Large Remote Armor Repair System I, Qty: 2 (Cargo)
+Voltaic Nanite EM Hardener I (Cargo)
+1600mm Reinforced Steel Plates I (Cargo)
+1600mm Reinforced Rolled Tungsten Plates I (Cargo)
+Cataclysm Cruise Missile, Qty: 1237 (Cargo)
+Warrior I, Qty: 7 (Drone Bay)
+

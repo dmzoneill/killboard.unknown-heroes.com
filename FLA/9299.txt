@@ -1,0 +1,25 @@
+2007.05.05 18:53
+
+Victim: Sebi Fal
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Rifter
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Lance Falcon (laid the final blow)
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Armageddon
+Weapon: Tachyon Modulated Energy Beam I
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 55
+Standard Missile Launcher I
+1MN MicroWarpdrive I
+

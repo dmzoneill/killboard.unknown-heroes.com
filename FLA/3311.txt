@@ -1,0 +1,76 @@
+2007.03.23 05:45
+
+Victim: ventura5
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Drake
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Levin Cavil
+Security: -1.0
+Alliance: None
+Corp: Developmental Neogenics Amalgamated
+Ship: Megathron
+Weapon: Megathron
+
+Name: Spike 68
+Security: 1.8
+Alliance: None
+Corp: Developmental Neogenics Amalgamated
+Ship: Hyperion
+Weapon: Hyperion
+
+Name: Adam Dartnell
+Security: -1.1
+Alliance: None
+Corp: Developmental Neogenics Amalgamated
+Ship: Zealot
+Weapon: Zealot
+
+Name: Sphalerite (laid the final blow)
+Security: 1.1
+Alliance: None
+Corp: Developmental Neogenics Amalgamated
+Ship: Tempest
+Weapon: Dual 650mm 'Scout' Repeating Artillery I
+
+Name: Lamic Tarvalla
+Security: 4.4
+Alliance: None
+Corp: Developmental Neogenics Amalgamated
+Ship: Dominix
+Weapon: Dominix
+
+Name: Norfin
+Security: 3.7
+Alliance: None
+Corp: Developmental Neogenics Amalgamated
+Ship: Crow
+Weapon: Warp Disruptor I
+
+Name: One Percent
+Security: -4.0
+Alliance: None
+Corp: Developmental Neogenics Amalgamated
+Ship: Flycatcher
+Weapon: Thorn Rocket
+
+
+Destroyed items:
+
+Widowmaker Heavy Missile, Qty: 57
+Scourge Heavy Missile, Qty: 27
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+Advanced 'Limos' Heavy Missile Bay I
+Large C5-L Emergency Shield Overload I
+Medium Electrochemical Capacitor Booster I
+Invulnerability Field I
+Additional Thermal Barrier Emitter I
+200mm Railgun I (Cargo)
+Cap Booster 400, Qty: 2 (Cargo)
+Widowmaker Heavy Missile, Qty: 1685 (Cargo)
+

@@ -1,0 +1,47 @@
+2006.12.26 21:46
+
+Victim: Grouchy Wolf
+Alliance: None
+Corp: The Peoples Republic of Power
+Destroyed: Iteron Mark III
+System: Nagamanen
+Security: 0.3
+
+Involved parties:
+
+Name: Compos Mentis (laid the final blow)
+Security: -8.1
+Alliance: Freelancer Alliance
+Corp: X.T.R
+Ship: Cerberus
+Weapon: Scourge Heavy Missile
+
+
+Destroyed items:
+
+Civilian Shield Booster I
+Expanded Cargohold I
+Expanded Cargohold I
+Expanded Cargohold I
+Mexallon, Qty: 3104 (Cargo)
+M51 Iterative Shield Regenerator (Cargo)
+1MN Afterburner I (Cargo)
+Ship Scanner I (Cargo)
+Survey Scanner I (Cargo)
+J5b Phased Prototype Warp Inhibitor I (Cargo)
+Basic Miner (Cargo)
+Miner II (Cargo)
+Small Armor Repairer I (Cargo)
+125mm Railgun I, Qty: 2 (Cargo)
+Titanium Sabot S, Qty: 288 (Cargo)
+Carbonized Lead S, Qty: 100 (Cargo)
+Tungsten Charge S, Qty: 100 (Cargo)
+Multifrequency S (Cargo)
+Energy Weapon Rigging (Cargo)
+Co-Processor I (Cargo)
+ECCM Projector I (Cargo)
+Warp Core Stabilizer I (Cargo)
+Azure Plagioclase, Qty: 21 (Cargo)
+Ice Harvester I (Cargo)
+Fried Interface Circuit, Qty: 2 (Cargo)
+

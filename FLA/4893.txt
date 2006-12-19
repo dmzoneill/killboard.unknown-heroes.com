@@ -1,0 +1,42 @@
+2007.04.18 21:12
+
+Victim: Cockroach
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Malediction
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Kuentai (laid the final blow)
+Security: -5.8
+Alliance: Corelum Syndicate
+Corp: Coreli Corporation
+Ship: Sabre
+Weapon: 150mm Light AutoCannon II
+
+Name: Rev Darkwing
+Security: 2.7
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Blackbird
+Weapon: Induced Multispectral ECM I
+
+
+Destroyed items:
+
+Scorch S
+Phalanx Rocket, Qty: 24
+'Malkuth' Standard Missile Launcher I
+X5 Prototype I Engine Enervator
+Beta Hull Mod Overdrive Injector
+Beta Hull Mod Overdrive Injector
+Xray S, Qty: 2 (Cargo)
+Gamma S, Qty: 2 (Cargo)
+Radio S, Qty: 2 (Cargo)
+Multifrequency S, Qty: 2 (Cargo)
+Bloodclaw Light Missile, Qty: 948 (Cargo)
+Gremlin Rocket, Qty: 970 (Cargo)
+Foxfire Rocket, Qty: 1000 (Cargo)
+

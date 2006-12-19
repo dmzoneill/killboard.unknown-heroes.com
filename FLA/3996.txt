@@ -1,0 +1,64 @@
+2007.04.08 19:13
+
+Victim: Seros Kal
+Alliance: None
+Corp: Imperial Academy
+Destroyed: Heretic
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Jarath Abyss
+Security: 4.2
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Ship: Thorax
+Weapon: Thorax
+
+Name: Meh'lindi
+Security: 4.4
+Alliance: Darklite inc Alliance
+Corp: Darklite inc
+Ship: Enyo
+Weapon: Enyo
+
+Name: fducky
+Security: 5.0
+Alliance: Darklite inc Alliance
+Corp: Darklite inc
+Ship: Caracal
+Weapon: Thunderbolt Heavy Missile
+
+Name: Wallyx
+Security: 4.5
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Armageddon
+Weapon: Dual Heavy Modulated Pulse Energy Beam I
+
+Name: sunshine nl (laid the final blow)
+Security: 1.9
+Alliance: Darklite inc Alliance
+Corp: Darklite inc
+Ship: Blackbird
+Weapon: 280mm Howitzer Artillery I
+
+Name: Varalonia
+Security: 2.3
+Alliance: Darklite inc Alliance
+Corp: Darklite inc
+Ship: Stiletto
+Weapon: Stiletto
+
+
+Destroyed items:
+
+Ultraviolet S
+Sabretooth Light Missile, Qty: 133
+'Arbalest' Standard Missile Launcher
+'Arbalest' Standard Missile Launcher
+'Arbalest' Standard Missile Launcher
+Warp Disrupt Probe, Qty: 9
+Small Armor Repairer I
+

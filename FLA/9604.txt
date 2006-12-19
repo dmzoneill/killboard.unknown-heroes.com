@@ -1,0 +1,37 @@
+2007.05.20 10:18
+
+Victim: Sekond Thought
+Alliance: None
+Corp: Center for Advanced Studies
+Destroyed: Velator
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Porky
+Security: 2.3
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Scorpion
+Weapon: Inferno Javelin Torpedo
+
+Name: Kesdos delWekja
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Cataclysm Enterprises
+Ship: Rifter
+Weapon: Rifter
+
+Name: Ocara Nezus (laid the final blow)
+Security: 1.5
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Crow
+Weapon: Bloodclaw Precision Light Missile
+
+
+Destroyed items:
+
+Civilian Light Electron Blaster
+

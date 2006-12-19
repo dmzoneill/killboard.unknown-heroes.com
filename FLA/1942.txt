@@ -1,0 +1,104 @@
+2007.01.12 16:37
+
+Victim: xinndo jagged
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Destroyed: Drake
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Darknesss
+Security: 0.1
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Myrmidon
+Weapon: Myrmidon
+
+Name: aadom
+Security: 3.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Myrmidon
+Weapon: Myrmidon
+
+Name: Elliott Manchild
+Security: -1.8
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Dominix
+Weapon: Dominix
+
+Name: WarGod
+Security: 1.2
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Curse
+Weapon: Ogre II
+
+Name: oneevil mother
+Security: -1.3
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Zealot
+Weapon: Zealot
+
+Name: ammargal
+Security: 5.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Curse
+Weapon: Vespa II
+
+Name: the willyb (laid the final blow)
+Security: -2.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Dominix
+Weapon: Ogre I
+
+Name: simcor
+Security: -1.8
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Taranis
+Weapon: Taranis
+
+Name: XxAngelxX
+Security: 5.0
+Alliance: None
+Corp: 0utbreak
+Ship: Curse
+Weapon: Curse
+
+Name: Jenessa
+Security: 1.1
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Huginn
+Weapon: X5 Prototype I Engine Enervator
+
+Name: Anna Neura
+Security: -0.2
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Arbitrator
+Weapon: Hobgoblin I
+
+
+Destroyed items:
+
+Small Graviton Smartbomb I
+Thunderbolt Heavy Missile, Qty: 134
+XR-3200 Heavy Missile Bay
+XR-3200 Heavy Missile Bay
+XR-3200 Heavy Missile Bay
+Advanced 'Limos' Heavy Missile Bay I
+F-90 Positional Sensor Subroutines
+Shield Power Relay I
+Ballistic Control System II
+Scourge Heavy Missile, Qty: 776 (Cargo)
+Thunderbolt Heavy Missile, Qty: 319 (Cargo)
+Widowmaker Heavy Missile, Qty: 440 (Cargo)
+

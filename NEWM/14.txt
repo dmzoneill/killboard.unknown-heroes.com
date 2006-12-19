@@ -1,0 +1,138 @@
+2007.01.01 16:49
+
+Victim: xlop
+Alliance: None
+Corp: omen.
+Destroyed: Typhoon
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Cat1977
+Security: 4.7
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Megathron
+Weapon: Megathron
+
+Name: NOCLUE
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: X.T.R
+Ship: Raven
+Weapon: Wrath Cruise Missile
+
+Name: TiMeZeRo225
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: J.I.T. Enterprises
+Ship: Raven
+Weapon: XT-9000 Cruise Launcher
+
+Name: Iulian1977
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Demarcus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Crow
+Weapon: Sabretooth Light Missile
+
+Name: Soldroz
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Raven
+Weapon: Hornet I
+
+Name: Mocuker (laid the final blow)
+Security: 0.8
+Alliance: Freelancer Alliance
+Corp: X.T.R
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+Name: Slinktress
+Security: 2.4
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Unknown
+Weapon: Hammerhead II
+
+Name: Alayssi Mey
+Security: 3.5
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Merlin
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+Name: Pistonbroke
+Security: -0.2
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Dominix
+Weapon: Dominix
+
+Name: Zizz
+Security: 3.2
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Dominix
+Weapon: Berserker SW-900
+
+Name: Esvi Adhorsen
+Security: 0.8
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Caracal
+Weapon: Heavy Missile Launcher I
+
+Name: mrrabit
+Security: 1.8
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Cyclone
+Weapon: 720mm Howitzer Artillery I
+
+Name: Jorax
+Security: 4.2
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Brutix
+Weapon: Heavy Ion Blaster I
+
+Name: Eacham Graeme
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Falcon
+Weapon: ECM - Phase Inverter II
+
+Name: Barkel
+Security: 0.4
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Scythe
+Weapon: Standard Missile Launcher I
+
+
+Destroyed items:
+
+Heavy Diminishing Power System Drain I
+Paradise Cruise Missile, Qty: 9
+XT-9000 Cruise Launcher
+XT-9000 Cruise Launcher
+Quad LiF Fueled I Booster Rockets
+Ballistic Control System II
+Local Hull Conversion Nanofiber Structure I
+Local Hull Conversion Nanofiber Structure I
+Local Hull Conversion Nanofiber Structure I
+Devastator Cruise Missile, Qty: 466 (Cargo)
+Ogre I, Qty: 2 (Drone Bay)
+

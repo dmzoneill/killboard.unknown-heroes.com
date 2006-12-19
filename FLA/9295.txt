@@ -1,0 +1,48 @@
+2007.05.06 17:27
+
+Victim: Antigen Po
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Destroyed: Taranis
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: aggro
+Security: 1.1
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Huginn
+Weapon: 'Malkuth' Assault Missile Launcher I
+
+Name: kabayn
+Security: 4.6
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Claymore
+Weapon: Claymore
+
+Name: Bejuka
+Security: 1.9
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Brutix
+Weapon: 200mm Compressed Coil Gun I
+
+Name: Coros (laid the final blow)
+Security: 5.0
+Alliance: Aftermath Alliance
+Corp: Pyrrhus Sicarii
+Ship: Wolf
+Weapon: 150mm Light AutoCannon II
+
+
+Destroyed items:
+
+Antimatter Charge S, Qty: 99
+1MN MicroWarpdrive I
+Damage Control II
+Small Armor Repairer II
+Antimatter Charge S, Qty: 2627 (Cargo)
+

@@ -1,0 +1,33 @@
+2006.11.15 19:46
+
+Victim: Sebastian Hoyle
+Alliance: None
+Corp: Red Mercury Industries
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Durante Alighieri (laid the final blow)
+Security: 2.8
+Alliance: Schism.
+Corp: New Light
+Ship: Harpy
+Weapon: 150mm Compressed Coil Gun I
+
+Name: Midiana
+Security: 1.1
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Ishtar
+Weapon: 150mm Railgun II
+
+Name: LizzyD
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Ishkur
+Weapon: Ishkur
+
+

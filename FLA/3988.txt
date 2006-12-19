@@ -1,0 +1,77 @@
+2007.04.08 18:24
+
+Victim: shing lee
+Alliance: None
+Corp: The Antilles Legion
+Destroyed: Thorax
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Jack Thurner (laid the final blow)
+Security: 2.6
+Alliance: DeStInY.
+Corp: Fusion Enterprises Ltd
+Ship: Armageddon
+Weapon: Tachyon Beam Laser II
+
+Name: Meh'lindi
+Security: 4.4
+Alliance: Darklite inc Alliance
+Corp: Darklite inc
+Ship: Enyo
+Weapon: Enyo
+
+Name: Varalonia
+Security: 2.3
+Alliance: Darklite inc Alliance
+Corp: Darklite inc
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: fducky
+Security: 5.0
+Alliance: Darklite inc Alliance
+Corp: Darklite inc
+Ship: Caracal
+Weapon: Heavy Missile Launcher I
+
+Name: Kerdrak
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Vengeance
+Weapon: Gatling Pulse Laser II
+
+Name: Cho Solo
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Deimos
+Weapon: Deimos
+
+
+Destroyed items:
+
+Regulated Ion Phase Cannon I
+Regulated Ion Phase Cannon I
+Regulated Ion Phase Cannon I
+Tungsten Charge M, Qty: 120
+Civilian Shield Booster I
+Small Armor Repairer I
+Medium Shield Booster I (Cargo)
+Medium Hull Repairer I (Cargo)
+Asymmetric Energy Succor I (Cargo)
+Small Rudimentary Energy Destabilizer I (Cargo)
+Medium Proton Smartbomb I (Cargo)
+250mm Railgun I (Cargo)
+Small Brief Capacitor Overcharge I (Cargo)
+Plutonium Charge M, Qty: 100 (Cargo)
+Alfven Surface Targeting Annex I (Cargo)
+Tracking Disruptor I (Cargo)
+Hellhound F.O.F. Heavy Missile I, Qty: 100 (Cargo)
+Heavy Missile Launcher I (Cargo)
+Induced Signal Distortion Amplifier I (Cargo)
+Local Power Plant Manager: Capacity Power Relay I (Cargo)
+

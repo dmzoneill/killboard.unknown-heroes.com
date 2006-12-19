@@ -1,0 +1,76 @@
+2007.02.14 04:54
+
+Victim: Jack Sigma
+Alliance: Pure.
+Corp: Viper Intel Squad
+Destroyed: Raven Navy Issue
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: DUDEMAN1420
+Security: 3.7
+Alliance: Soldiers of the Forgotten Abyss
+Corp: ATOMIC SHOCK
+Ship: Ishtar
+Weapon: Ogre II
+
+Name: JaiMaster
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Typhoon
+Weapon: Typhoon
+
+Name: Audri Fisher (laid the final blow)
+Security: 1.3
+Alliance: THE R0CK
+Corp: The Keep
+Ship: Cormorant
+Weapon: 125mm Railgun II
+
+Name: g3cko
+Security: -2.3
+Alliance: THE R0CK
+Corp: The Keep
+Ship: Crusader
+Weapon: Crusader
+
+Name: De'Zori
+Security: 5.0
+Alliance: Insane Asylum
+Corp: PILGRIMS
+Ship: Ferox
+Weapon: Sabretooth Light Missile
+
+Name: Xantheris
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Taranis
+Weapon: Taranis
+
+Name: Demondrew
+Security: 0.1
+Alliance: O X I D E
+Corp: Majestic Technology
+Ship: Hurricane
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+
+Destroyed items:
+
+Inferno Torpedo, Qty: 36
+Cruise Missile Launcher II
+Cruise Missile Launcher II
+Cruise Missile Launcher II
+'Arbalest' Siege Missile Launcher
+'Arbalest' Siege Missile Launcher
+Co-Processor II
+Ballistic Control System II
+Brynn's Modified Power Diagnostic System
+Cap Booster 800, Qty: 5 (Cargo)
+Dominix Blueprint (Cargo)
+Hammerhead II (Drone Bay)
+

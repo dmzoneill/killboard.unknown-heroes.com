@@ -1,0 +1,54 @@
+2007.01.12 00:36
+
+Victim: Wriea deoswe
+Alliance: None
+Corp: Perkone
+Destroyed: Gallente Shuttle
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: TiMeZeRo225
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: J.I.T. Enterprises
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: forever faithless
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Vexor
+Weapon: Vexor
+
+Name: ventura5 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Raptor
+Weapon: Sabretooth Light Missile
+
+Name: coldkill
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Taranis
+Weapon: 75mm Gatling Rail II
+
+Name: SniperMcBob
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Blackbird
+Weapon: Phased Weapon Navigation Array Generation Extron
+
+Name: Arkios Odymei
+Security: 4.5
+Alliance: Freelancer Alliance
+Corp: Caldar Mercenary Syndicate
+Ship: Malediction
+Weapon: Malediction
+
+

@@ -1,0 +1,38 @@
+2007.04.20 21:03
+
+Victim: Nubiam
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Destroyed: Malediction
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Korudon (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Megathron
+Weapon: Large Rudimentary Concussion Bomb I
+
+
+Destroyed items:
+
+Dual Light Pulse Laser II
+Multifrequency S
+1MN MicroWarpdrive I
+Inertia Stabilizers I
+Beta Reactor Control: Capacitor Power Relay I
+Tritanium (Cargo)
+Fixed Parallel Link-Capacitor I (Cargo)
+Small 'Knave' I Energy Drain (Cargo)
+Small 'Gremlin' Power Core Disruptor I (Cargo)
+Standard S, Qty: 2 (Cargo)
+'Accord' I Core Compensation, Qty: 2 (Cargo)
+Tripped Power Circuit, Qty: 2 (Cargo)
+Broken Drone Transceiver, Qty: 3 (Cargo)
+Damaged Artificial Neural Network, Qty: 2 (Cargo)
+Nanofiber Internal Structure I (Cargo)
+Type-D Power Core Modification: Reaction Control (Cargo)
+

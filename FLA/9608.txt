@@ -1,0 +1,40 @@
+2007.05.20 15:17
+
+Victim: Mysterious fable
+Alliance: None
+Corp: ztk9
+Destroyed: Caldari Shuttle
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Ocara Nezus
+Security: 1.5
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: pipvac
+Security: 2.7
+Alliance: DeStInY.
+Corp: Sacred Templars
+Ship: Eris
+Weapon: Piranha Light Missile
+
+Name: Krackor (laid the final blow)
+Security: 3.2
+Alliance: Imperial Republic Of the North
+Corp: Old Farts
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: tartrus
+Security: 4.6
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Stiletto
+Weapon: 'Langour' Drive Disruptor I
+
+

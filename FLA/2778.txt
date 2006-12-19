@@ -1,0 +1,57 @@
+2007.03.06 23:52
+
+Victim: Dawn Rider
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Destroyed: Megathron
+System: EWOK-K
+Security: 0.0
+
+Involved parties:
+
+Name: simcor
+Security: 0.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Myrmidon
+Weapon: Berserker II
+
+Name: ukpAgAn (laid the final blow)
+Security: 5.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Megathron
+Weapon: Berserker II
+
+Name: xVx Skillgannon
+Security: 0.4
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Vagabond
+Weapon: Acolyte II
+
+Name: henryshead
+Security: 4.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Crusader
+Weapon: Crusader
+
+
+Destroyed items:
+
+Ion Blaster Cannon I
+Ion Blaster Cannon I
+Ion Blaster Cannon I
+Neutron Blaster Cannon I
+Antimatter Charge L, Qty: 350
+Quad LiF Fueled I Booster Rockets
+J5 Prototype Warp Inhibitor I
+X5 Prototype I Engine Enervator
+Heavy Electrochemical Capacitor Booster I
+Damage Control II
+Shadow Serpentis Large Armor Repairer
+1600mm Reinforced Crystalline Carbonide Plates I
+1600mm Reinforced Crystalline Carbonide Plates I
+Valkyrie I, Qty: 4 (Drone Bay)
+

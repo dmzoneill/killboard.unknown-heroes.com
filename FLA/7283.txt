@@ -1,0 +1,132 @@
+2006.07.17 12:59
+
+Victim: Tanee
+Alliance: Sparta Alliance
+Corp: ATROX.
+Destroyed: Megathron
+System: CZDJ-1
+Security: 0.0
+
+Involved parties:
+
+Name: Kertog
+Security: -1.9
+Alliance: Dusk and Dawn
+Corp: Euphoria Released
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Hair
+Security: 4.6
+Alliance: EVE Animal Control
+Corp: F.R.E.E. Explorer
+Ship: Tempest
+Weapon: Tempest
+
+Name: sinickal
+Security: -1.8
+Alliance: Dusk and Dawn
+Corp: Cataclysm Enterprises
+Ship: Tempest
+Weapon: Tempest
+
+Name: Psychodelica
+Security: -1.6
+Alliance: Dusk and Dawn
+Corp: Euphoria Released
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: wild Ari
+Security: 4.6
+Alliance: Dusk and Dawn
+Corp: Euphoria Released
+Ship: Tempest
+Weapon: Tempest
+
+Name: clizz
+Security: 1.2
+Alliance: Dusk and Dawn
+Corp: The X-Trading Company
+Ship: Raven
+Weapon: Cataclysm Precision Cruise Missile
+
+Name: SaorAlba (laid the final blow)
+Security: 1.2
+Alliance: Dusk and Dawn
+Corp: Cataclysm Enterprises
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: HHschmid
+Security: 3.5
+Alliance: Dusk and Dawn
+Corp: Cataclysm Enterprises
+Ship: Thanatos
+Weapon: Templar
+
+Name: phalanxTW
+Security: 2.5
+Alliance: EVE Animal Control
+Corp: F.R.E.E. Explorer
+Ship: Claw
+Weapon: Claw
+
+Name: Ne0 MaTrIx
+Security: 2.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Dominix
+Weapon: Dominix
+
+Name: katz3
+Security: 4.1
+Alliance: Dusk and Dawn
+Corp: moon7empler
+Ship: Tristan
+Weapon: 'Malkuth' Rocket Launcher I
+
+Name: Phenom Fighter
+Security: -2.2
+Alliance: Dusk and Dawn
+Corp: Euphoria Released
+Ship: Crow
+Weapon: Crow
+
+Name: Faizon Caesar
+Security: 2.1
+Alliance: EVE Animal Control
+Corp: F.R.E.E. Explorer
+Ship: Claw
+Weapon: Claw
+
+Name: Matt Stoner
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Raven
+Weapon: 'Arbalest' Cruise Launcher I
+
+Name: KnightroX
+Security: 0.3
+Alliance: RAZOR Alliance
+Corp: DAB
+Ship: Thorax
+Weapon: Light Neutron Blaster II
+
+
+Destroyed items:
+
+Medium Nosferatu I
+E50 Prototype Energy Vampire
+E50 Prototype Energy Vampire
+E50 Prototype Energy Vampire
+Eutectic I Capacitor Charge Array
+Large Automated I Carapace Restoration
+Energized Adaptive Nano Membrane II
+Radioisotope Thermic Hardener I
+N-Type Kinetic Hardener I
+1600mm Reinforced Rolled Tungsten Plates I
+1600mm Reinforced Rolled Tungsten Plates I
+Dark Ochre, Qty: 60 (Cargo)
+

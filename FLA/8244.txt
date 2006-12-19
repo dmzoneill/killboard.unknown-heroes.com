@@ -1,0 +1,23 @@
+2006.11.05 23:22
+
+Victim: Krelz
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Iteron Mark III
+System: Isanamo
+Security: 0.6
+
+Involved parties:
+
+Name: Dazzio (laid the final blow)
+Security: -2.0
+Alliance: None
+Corp: The Initiative
+Ship: Thorax
+Weapon: Light Neutron Blaster II
+
+
+Destroyed items:
+
+Gallente Shuttle (Cargo)
+

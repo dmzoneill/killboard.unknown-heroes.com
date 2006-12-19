@@ -1,0 +1,133 @@
+2007.03.24 04:38
+
+Victim: Xoduse
+Alliance: YouWhat
+Corp: Beasts of Burden
+Destroyed: Myrmidon
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Skull Fire
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Scorpion
+Weapon: Warp Disruptor I
+
+Name: Fugnut
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Weeble Wooble (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: ISpydeRI
+Security: 5.0
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Drake
+Weapon: Thunderbolt Heavy Missile
+
+Name: RubberDuckey
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Blackwater Squadron
+Ship: Raven
+Weapon: Paradise Precision Cruise Missile
+
+Name: Almagar Phog
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Ferox
+Weapon: Ferox
+
+Name: Jaig Maldara
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Rokh
+Weapon: Rokh
+
+Name: Korudon
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Crow
+Weapon: 'Langour' Drive Disruptor I
+
+Name: Hal Grigor
+Security: 3.3
+Alliance: Freelancer Alliance
+Corp: The Night Crew
+Ship: Caracal
+Weapon: Widowmaker Heavy Missile
+
+Name: Villwrath
+Security: 3.5
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Eris
+Weapon: Eris
+
+Name: Malicel
+Security: 2.7
+Alliance: The Sundering
+Corp: ironwood ink
+Ship: Enyo
+Weapon: Enyo
+
+Name: chota
+Security: 5.0
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Rupture
+Weapon: 220mm Vulcan AutoCannon I
+
+Name: Torgock
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: The Night Crew
+Ship: Vexor
+Weapon: Vexor
+
+Name: Molari Gracie
+Security: 0.6
+Alliance: The Sundering
+Corp: ironwood ink
+Ship: Rifter
+Weapon: Rifter
+
+Name: Logand Delta
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Ship: Drake
+Weapon: 'Arbalest' Heavy Missile Launcher
+
+
+Destroyed items:
+
+Heavy Ion Blaster II
+Heavy Ion Blaster II
+Heavy Electron Blaster II
+Null M, Qty: 320
+J5 Prototype Warp Inhibitor I
+Cap Booster 400
+Cap Booster 400
+Medium Armor Repairer II
+Magnetic Field Stabilizer II
+Energized Adaptive Nano Membrane II
+Energized Adaptive Nano Membrane II
+Cap Booster 400, Qty: 19 (Cargo)
+Cap Booster 800 (Cargo)
+

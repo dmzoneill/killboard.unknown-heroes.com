@@ -1,0 +1,28 @@
+2006.10.07 08:31
+
+Victim: Tankistas
+Alliance: Process of Elimination
+Corp: LDK
+Destroyed: Badger
+System: O-N8XZ
+Security: 0.0
+
+Involved parties:
+
+Name: James Potkukelkka (laid the final blow)
+Security: 0.1
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Flycatcher
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+Medium Shield Booster I
+10MN Afterburner I
+Warp Core Stabilizer I
+Warp Core Stabilizer I
+Giant Secure Container (Cargo)
+Drone Link Augmentor I, Qty: 2 (Cargo)
+

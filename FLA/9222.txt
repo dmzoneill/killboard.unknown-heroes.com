@@ -1,0 +1,33 @@
+2007.05.04 18:40
+
+Victim: white kight
+Alliance: None
+Corp: PROGENITOR CORPORATION
+Destroyed: Badger Mark II
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Bobby Atlas (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Celestis
+Weapon: Thunderbolt Heavy Missile
+
+
+Destroyed items:
+
+10MN Afterburner II
+Warp Core Stabilizer I
+Warp Core Stabilizer I
+Medium Shield Extender II (Cargo)
+150mm Light AutoCannon II (Cargo)
+X5 Prototype I Engine Enervator, Qty: 2 (Cargo)
+Ballistic Deflection Field II, Qty: 2 (Cargo)
+Nuclear M, Qty: 262 (Cargo)
+Magnetic Field Stabilizer II (Cargo)
+Warp Disrupt Probe, Qty: 11 (Cargo)
+Nanofiber Internal Structure II (Cargo)
+

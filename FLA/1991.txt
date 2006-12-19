@@ -1,0 +1,26 @@
+2007.01.14 14:02
+
+Victim: Krakosaki
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Destroyed: Capsule
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Persona Alta (laid the final blow)
+Security: 0.5
+Alliance: None
+Corp: Viziam
+Ship: Heretic
+Weapon: Gatling Pulse Laser II
+
+Name: Heinky
+Security: 2.8
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Abaddon
+Weapon: Abaddon
+
+

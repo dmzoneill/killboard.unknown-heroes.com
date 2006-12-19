@@ -1,0 +1,50 @@
+2007.05.30 10:15
+
+Victim: Dixie Flatline
+Alliance: None
+Corp: Ulukai MMP
+Destroyed: Myrmidon
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Veliki Pyotr (laid the final blow)
+Security: 1.1
+Alliance: DeStInY.
+Corp: The Knights Of Camelot
+Ship: Dominix
+Weapon: Ogre II
+
+Name: slayer avenger
+Security: 4.5
+Alliance: DeStInY.
+Corp: Legion Federation
+Ship: Caracal
+Weapon: Thunderbolt Heavy Missile
+
+Name: Commander Paul
+Security: 5.0
+Alliance: DeStInY.
+Corp: People's Front Of Judea
+Ship: Unknown
+Weapon: Warp Disruptor I
+
+Name: Mufeater
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Ares
+Weapon: TE-2100 Standard Missile Bay
+
+
+Destroyed items:
+
+Null M, Qty: 105
+10MN MicroWarpdrive II
+X5 Prototype I Engine Enervator
+Armor Kinetic Hardener II
+Cap Booster 800, Qty: 8 (Cargo)
+Tripped Power Circuit, Qty: 6 (Cargo)
+Conductive Polymer, Qty: 3 (Cargo)
+Scorched Telemetry Processor, Qty: 5 (Cargo)

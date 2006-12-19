@@ -1,0 +1,55 @@
+2007.02.14 23:12
+
+Victim: Ocara Nezus
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Hawk
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Diego Barbera
+Security: -1.7
+Alliance: None
+Corp: Princeps Corp
+Ship: Thorax
+Weapon: Hammerhead I
+
+Name: Deep Moondark
+Security: 1.2
+Alliance: None
+Corp: Princeps Corp
+Ship: Caracal
+Weapon: Acolyte I
+
+Name: Elandil Blackfang
+Security: 5.0
+Alliance: None
+Corp: Princeps Corp
+Ship: Vexor
+Weapon: Hammerhead I
+
+Name: Himphotep 87
+Security: -0.8
+Alliance: None
+Corp: Princeps Corp
+Ship: Thorax
+Weapon: Valkyrie I
+
+Name: Rinkos Alaine (laid the final blow)
+Security: 4.4
+Alliance: None
+Corp: Princeps Corp
+Ship: Thorax
+Weapon: Heavy Neutron Blaster II
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 83
+Standard Missile Launcher I
+'Malkuth' Standard Missile Launcher I
+'Malkuth' Standard Missile Launcher I
+Small Supplemental Barrier Emitter I
+

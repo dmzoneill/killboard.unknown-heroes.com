@@ -1,0 +1,36 @@
+2006.10.13 21:13
+
+Victim: Kandread
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Destroyed: Stiletto
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Phrixus Zephyr (laid the final blow)
+Security: 4.8
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Taranis
+Weapon: Light Neutron Blaster II
+
+
+Destroyed items:
+
+280mm Howitzer Artillery II
+280mm Howitzer Artillery II
+Quake S
+Quake S
+Quake S
+Quake S
+Quake S
+Quake S
+Fleeting Warp Scrambler I
+Small Capacitor Battery II
+X5 Prototype I Engine Enervator
+Small Armor Repairer II
+Micro Auxiliary Power Core I
+Foxfire Rocket, Qty: 1978 (Cargo)
+

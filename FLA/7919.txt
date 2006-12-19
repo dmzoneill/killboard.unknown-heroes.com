@@ -1,0 +1,41 @@
+2006.09.30 04:17
+
+Victim: J'Jenksie
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Destroyed: Crow
+System: EWOK-K
+Security: 0.0
+
+Involved parties:
+
+Name: Levin Cavil
+Security: -1.7
+Alliance: None
+Corp: Lucid Ambition
+Ship: Eos
+Weapon: Eos
+
+Name: Furious Raccoon
+Security: 0.8
+Alliance: None
+Corp: Omniscient Order
+Ship: Nighthawk
+Weapon: Hornet II
+
+Name: Altai Saker (laid the final blow)
+Security: -0.9
+Alliance: None
+Corp: Omniscient Order
+Ship: Armageddon
+Weapon: Mega Pulse Laser II
+
+
+Destroyed items:
+
+Small Nosferatu I
+Thorn Rocket, Qty: 34
+'Arbalest' Rocket Launcher I
+'Arbalest' Rocket Launcher I
+Warp Scrambler I
+

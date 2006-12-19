@@ -1,0 +1,40 @@
+2007.03.21 23:25
+
+Victim: Solarienne
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Destroyed: Capsule
+System: 5ZXX-K
+Security: 0.0
+
+Involved parties:
+
+Name: psycorabbit
+Security: -1.8
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Claw
+Weapon: Claw
+
+Name: Skinny Boy (laid the final blow)
+Security: 4.1
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Taranis
+Weapon: 125mm Railgun II
+
+Name: Ice Breaker
+Security: 4.0
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Crusader
+Weapon: Dual Light Beam Laser II
+
+Name: numbers
+Security: 3.5
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Zealot
+Weapon: Heavy Beam Laser II
+
+

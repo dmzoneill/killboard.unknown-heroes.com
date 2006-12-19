@@ -1,0 +1,63 @@
+2006.10.11 19:48
+
+Victim: hero88
+Alliance: None
+Corp: Privateers
+Destroyed: Dominix
+System: Isanamo
+Security: 0.6
+
+Involved parties:
+
+Name: bidman
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Raven
+Weapon: Hornet II
+
+Name: Scorpio63 (laid the final blow)
+Security: 4.7
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Armageddon
+Weapon: Tachyon Beam Laser I
+
+Name: Midiana
+Security: 0.6
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Vexor
+Weapon: Valkyrie II
+
+Name: carllos
+Security: 0.7
+Alliance: None
+Corp: Ganksters Paradise
+Ship: Vengeance
+Weapon: Vengeance
+
+Name: Lizzy Silver
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+
+Destroyed items:
+
+E500 Prototype Energy Vampire
+Heavy Diminishing Power System Drain I
+Null M, Qty: 240
+F-b10 Nominal Capacitor Regenerator
+Initiated Warp Jammer I
+Fleeting Propulsion Inhibitor I
+Energized Magnetic Membrane II
+Energized Reactive Membrane II
+N-Type Thermic Hardener I
+N-Type Kinetic Hardener I
+1600mm Reinforced Rolled Tungsten Plates I
+Null M, Qty: 978 (Cargo)
+Hammerhead II, Qty: 5 (Drone Bay)
+

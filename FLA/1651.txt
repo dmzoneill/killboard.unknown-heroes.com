@@ -1,0 +1,82 @@
+2007.03.19 17:40
+
+Victim: Mr MA
+Alliance: Chorus of Dawn
+Corp: Cosmic Odyssey
+Destroyed: Atron
+System: XT-R36
+Security: 0.0
+
+Involved parties:
+
+Name: Zarkovich (laid the final blow)
+Security: 3.7
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Caracal
+Weapon: Thunderbolt Heavy Missile
+
+Name: Freakdevil
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Malediction
+Weapon: Malediction
+
+Name: Grimes NC
+Security: 4.8
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Jaguar
+Weapon: 250mm Light Artillery Cannon II
+
+Name: Tregaron
+Security: 2.3
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Claw
+Weapon: Sabretooth Light Missile
+
+Name: Valdemore
+Security: 4.8
+Alliance: The Sundering
+Corp: ironwood ink
+Ship: Taranis
+Weapon: Taranis
+
+Name: DeviantAnt
+Security: 4.1
+Alliance: The Sundering
+Corp: ironwood ink
+Ship: Ishkur
+Weapon: 150mm Railgun II
+
+Name: Nephlim
+Security: 0.0
+Alliance: The Sundering
+Corp: Steel Battalion
+Ship: Ares
+Weapon: Ares
+
+Name: Muad' Dib
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Stiletto
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+Name: darkviron
+Security: 2.1
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Drake
+Weapon: Warp Disruptor I
+
+
+Destroyed items:
+
+Light Neutron Blaster II
+Small C5-L Emergency Shield Overload I
+Warp Scrambler I
+Hornet I (Drone Bay)
+

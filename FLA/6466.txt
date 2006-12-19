@@ -1,0 +1,70 @@
+2006.11.14 21:25
+
+Victim: Mad Jenny
+Alliance: Interstellar Starbase Syndicate
+Corp: Mad Jenny Company
+Destroyed: Iteron Mark V
+System: X-7OMU
+Security: 0.0
+
+Involved parties:
+
+Name: Jumar Coldgin
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Eagle
+Weapon: Sabretooth Precision Light Missile
+
+Name: Karas Rabus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Huginn
+Weapon: Huginn
+
+Name: Verild (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Rook
+Weapon: Bloodclaw Precision Light Missile
+
+Name: Hosanna
+Security: 1.8
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Stiletto
+Weapon: X5 Prototype I Engine Enervator
+
+Name: W4RR10R
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Taranis
+Weapon: J5b Phased Prototype Warp Inhibitor I
+
+Name: Noitaakka
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Ishtar
+Weapon: 'Hypnos' Multispectral ECM I
+
+
+Destroyed items:
+
+Dual 250mm Railgun I, Qty: 76
+150mm Railgun I, Qty: 55
+200mm Railgun I, Qty: 155
+Uranium Charge S, Qty: 24
+Small F-S9 Regolith Shield Induction
+Medium Subordinate Screen Stabilizer I
+Medium Neutron Saturation Injector I
+Medium Clarity Ward Booster I
+Medium Shield Booster I, Qty: 33
+ECCM Projector I, Qty: 13
+Shield Power Relay I, Qty: 9
+Warp Core Stabilizer I
+Giant Secure Container (Cargo)
+

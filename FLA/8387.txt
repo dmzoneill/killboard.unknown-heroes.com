@@ -1,0 +1,28 @@
+2006.11.14 21:43
+
+Victim: Almagar Phog
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Destroyed: Raptor
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Saka Mizuno (laid the final blow)
+Security: 3.4
+Alliance: Interstellar Starbase Syndicate
+Corp: The Graduates
+Ship: Megathron
+Weapon: 425mm 'Scout' I Accelerator Cannon
+
+
+Destroyed items:
+
+125mm Compressed Coil Gun I
+Iridium Charge S, Qty: 160
+'Malkuth' Standard Missile Launcher I
+Small Shield Booster II
+Initiated Warp Jammer I
+Micro Auxiliary Power Core I
+

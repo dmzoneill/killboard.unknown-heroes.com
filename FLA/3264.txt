@@ -1,0 +1,40 @@
+2007.03.22 01:48
+
+Victim: Jor'a
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Capsule
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Apoc77 (laid the final blow)
+Security: 5.0
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Rook
+Weapon: Bloodclaw Light Missile
+
+Name: Frostbeule
+Security: 2.9
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: Bejuka
+Security: 1.3
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Blackbird
+Weapon: Thunderbolt Heavy Missile
+
+Name: wph0r
+Security: 4.5
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Eagle
+Weapon: Eagle
+
+

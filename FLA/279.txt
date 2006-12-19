@@ -1,0 +1,37 @@
+2007.01.21 01:05
+
+Victim: SoulScourge
+Alliance: Privateer Alliance
+Corp: Privateers
+Destroyed: Tempest
+System: Torrinos
+Security: 0.5
+
+Involved parties:
+
+Name: Jester87 (laid the final blow)
+Security: 1.3
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Megathron
+Weapon: Regulated Mega Electron Phase Cannon I
+
+
+Destroyed items:
+
+800mm Repeating Artillery II
+Heavy Diminishing Power System Drain I
+Hail L, Qty: 78
+F-b10 Nominal Capacitor Regenerator
+Medium Electrochemical Capacitor Booster I
+V-M15 Braced Multispectral Shield Matrix
+V-M15 Braced Multispectral Shield Matrix
+Damage Control I
+Large 'Accommodation' Vestment Reconstructer I
+Microcell Nanite Kinetic Hardener I
+N-Type Explosive Hardener I
+N-Type Explosive Hardener I
+N-Type Thermic Hardener I
+Hail L, Qty: 1462 (Cargo)
+Hammerhead I, Qty: 3 (Drone Bay)
+

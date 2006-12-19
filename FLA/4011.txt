@@ -1,0 +1,58 @@
+2007.04.09 12:02
+
+Victim: HarWoo
+Alliance: Agony Empire
+Corp: Agony Unleashed
+Destroyed: Caracal
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Wallyx
+Security: 4.5
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Zylatis (laid the final blow)
+Security: 5.0
+Alliance: EVE Animal Control
+Corp: The Inner Legion
+Ship: Rook
+Weapon: Scourge Heavy Missile
+
+Name: Muaddib69
+Security: 5.0
+Alliance: O X I D E
+Corp: Nuevos Horizontes
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Mattezinho
+Security: 0.7
+Alliance: Forces of Freedom
+Corp: The Patriot Society
+Ship: Crow
+Weapon: Small Nosferatu I
+
+Name: Porky
+Security: 1.9
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Crow
+Weapon: Warp Disruptor II
+
+
+Destroyed items:
+
+Widowmaker Heavy Missile, Qty: 30
+Recon Probe Launcher I
+10MN MicroWarpdrive I
+'Langour' Drive Disruptor I
+Sensor Booster I
+Prototype I Sensor Booster
+Inertia Stabilizers I
+Power Diagnostic System I
+

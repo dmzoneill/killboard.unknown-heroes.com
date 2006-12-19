@@ -1,0 +1,49 @@
+2006.11.27 21:42
+
+Victim: Scorpio63
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Destroyed: Vengeance
+System: 3-FKCZ
+Security: 0.0
+
+Involved parties:
+
+Name: Minerva Liante (laid the final blow)
+Security: 2.2
+Alliance: Firmus Ixion
+Corp: Swedish Aerospace Inc
+Ship: Dominix
+Weapon: Hobgoblin II
+
+Name: Rimfaxe
+Security: 5.0
+Alliance: Firmus Ixion
+Corp: Swedish Aerospace Inc
+Ship: Cyclone
+Weapon: Valkyrie II
+
+Name: Phlaago Rexor
+Security: 5.0
+Alliance: Firmus Ixion
+Corp: Swedish Aerospace Inc
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+
+Destroyed items:
+
+Medium Pulse Laser II
+Conflagration S
+Cold-Gas I Arcjet Thrusters
+J5 Prototype Warp Inhibitor I
+X5 Prototype I Engine Enervator
+Small Armor Repairer II
+75mm Gatling Rail II (Cargo)
+N-Type Kinetic Hardener I (Cargo)
+Micro Auxiliary Power Core I (Cargo)
+Spike S, Qty: 3000 (Cargo)
+Standard Missile Launcher II, Qty: 2 (Cargo)
+Bloodclaw Fury Light Missile, Qty: 300 (Cargo)
+Nanofiber Internal Structure I (Cargo)
+

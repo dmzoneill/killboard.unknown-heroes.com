@@ -1,0 +1,75 @@
+2006.11.12 00:51
+
+Victim: Karade
+Alliance: None
+Corp: Lemmings Inc
+Destroyed: Gallente Shuttle
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: LizzyD (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Ishkur
+Weapon: 150mm Railgun II
+
+Name: Gangreen
+Security: 0.1
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Ishkur
+Weapon: Hobgoblin II
+
+Name: digital oxygen
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Deimos
+Weapon: 'Hypnos' Multispectral ECM I
+
+Name: movy
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Lachesis
+Weapon: 'Malkuth' Assault Missile Launcher I
+
+Name: Velithe
+Security: 2.1
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Crow
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+Name: Triggar
+Security: 5.0
+Alliance: None
+Corp: Ganksters Paradise
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: MAD D0G
+Security: -0.6
+Alliance: None
+Corp: Ganksters Paradise
+Ship: Blackbird
+Weapon: Heavy Missile Launcher I
+
+Name: Hosanna
+Security: 1.7
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery I
+
+Name: Flashh Gorden
+Security: 3.4
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Ship: Caracal
+Weapon: Heavy Missile Launcher I
+
+

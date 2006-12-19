@@ -1,0 +1,38 @@
+2006.11.20 17:01
+
+Victim: Ather Ialeas
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Destroyed: Vengeance
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Elliott Manchild
+Security: -1.8
+Alliance: None
+Corp: omen.
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Unfortunate Accident (laid the final blow)
+Security: -1.5
+Alliance: None
+Corp: omen.
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+
+Destroyed items:
+
+Dual Light Beam Laser II
+Dual Light Beam Laser II
+Dual Light Beam Laser II
+Gleam S
+1MN Afterburner II
+Small Armor Repairer II
+Heat Sink II
+Heat Sink II
+Corpse, Qty: 3 (Cargo)
+

@@ -1,0 +1,19 @@
+2007.03.18 00:52
+
+Victim: TNT 1
+Alliance: Freelancer Alliance
+Corp: The Night Crew
+Destroyed: Capsule
+System: QXW-PV
+Security: 0.0
+
+Involved parties:
+
+Name: Heikki (laid the final blow)
+Security: 2.0
+Alliance: None
+Corp: Wreckless Abandon
+Ship: Vindicator
+Weapon: Dark Blood Large EMP Smartbomb
+
+

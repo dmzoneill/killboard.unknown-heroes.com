@@ -1,0 +1,19 @@
+2006.12.26 15:28
+
+Victim: Worsethan
+Alliance: None
+Corp: Pator Tech School
+Destroyed: Capsule
+System: J-CIJV
+Security: 0.0
+
+Involved parties:
+
+Name: Solarienne (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Thrasher
+Weapon: 250mm Light Prototype I Siege Cannon
+
+

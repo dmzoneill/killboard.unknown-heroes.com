@@ -1,0 +1,168 @@
+2007.05.06 17:26
+
+Victim: Serge
+Alliance: Mercenary Coalition
+Corp: Seraphin Technologies
+Destroyed: Abaddon
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Confessor
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: Lynx Frontier Inc.
+Ship: Capsule
+Weapon: Heavy Pulse Laser II
+
+Name: Skytex
+Security: 2.6
+Alliance: Sparta Alliance
+Corp: Synergy Evolved
+Ship: Harpy
+Weapon: Harpy
+
+Name: duece duece
+Security: 5.0
+Alliance: The Foundation.
+Corp: NorCorp Security
+Ship: Thorax
+Weapon: 250mm 'Scout' I Accelerator Cannon
+
+Name: DarkEvil Lord
+Security: -7.4
+Alliance: Sparta Alliance
+Corp: Insane Decision
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Varalonia
+Security: 3.0
+Alliance: Darklite Alliance
+Corp: Darklite inc
+Ship: Capsule
+Weapon: Medium Nosferatu I
+
+Name: SmokeyUK
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: Neogen Industries
+Ship: Prophecy
+Weapon: Prophecy
+
+Name: SignalNine
+Security: 0.9
+Alliance: Sparta Alliance
+Corp: Lynx Frontier Inc.
+Ship: Drake
+Weapon: Valkyrie I
+
+Name: Braineater
+Security: 3.8
+Alliance: Freelancer Coalition
+Corp: BINFORD
+Ship: Capsule
+Weapon: Heavy Ion Blaster I
+
+Name: The Ironfist
+Security: 5.0
+Alliance: None
+Corp: Nordgoetter
+Ship: Maller
+Weapon: Maller
+
+Name: Skittish
+Security: 0.8
+Alliance: Sparta Alliance
+Corp: Synergy Evolved
+Ship: Cormorant
+Weapon: 150mm Railgun II
+
+Name: Neverdream (laid the final blow)
+Security: 3.7
+Alliance: The Foundation.
+Corp: NorCorp Security
+Ship: Celestis
+Weapon: 250mm Railgun I
+
+Name: Bobby Atlas
+Security: 5.0
+Alliance: None
+Corp: Di-Tron Heavy Industries
+Ship: Thrasher
+Weapon: Thrasher
+
+Name: Syn Snowball
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: Synergy Evolved
+Ship: Raptor
+Weapon: 125mm Compressed Coil Gun I
+
+Name: Xpod85
+Security: 0.3
+Alliance: The Foundation.
+Corp: NorCorp Security
+Ship: Blackbird
+Weapon: Thunderbolt Heavy Missile
+
+Name: JanSVK
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: GREY COUNCIL
+Ship: Raptor
+Weapon: Thorn Rocket
+
+Name: Jandeera
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: Lynx Frontier Inc.
+Ship: Eris
+Weapon: 125mm Railgun II
+
+Name: Kayron Brennan
+Security: 0.7
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Merlin
+Weapon: 150mm Railgun I
+
+Name: Antigen Po
+Security: 4.7
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Taranis
+Weapon: Taranis
+
+Name: Nyack
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: GREY COUNCIL
+Ship: Claymore
+Weapon: Claymore
+
+Name: Mocuker1
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Harpy
+Weapon: 125mm Railgun II
+
+
+Destroyed items:
+
+Mega Beam Laser II
+Mega Beam Laser II
+Mega Beam Laser II
+Mega Beam Laser II
+Multifrequency L
+Prototype Cloaking Device I
+Heavy Electrochemical Capacitor Booster I
+Sensor Booster II
+Damage Control II
+Energized Adaptive Nano Membrane II
+N-Type Kinetic Hardener I
+Gleam L, Qty: 6 (Cargo)
+Heavy Armor Maintenance Bot I (Drone Bay)
+

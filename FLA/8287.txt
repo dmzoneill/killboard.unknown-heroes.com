@@ -1,0 +1,32 @@
+2006.11.07 14:32
+
+Victim: roboto212
+Alliance: Freelancer Alliance
+Corp: Sin-X Inc.
+Destroyed: Taranis
+System: Haajinen
+Security: 0.8
+
+Involved parties:
+
+Name: KRULLEN Binazeski (laid the final blow)
+Security: 4.9
+Alliance: None
+Corp: The Initiative
+Ship: Apocalypse
+Weapon: Tachyon Beam Laser II
+
+
+Destroyed items:
+
+125mm Railgun II
+Antimatter Charge S, Qty: 80
+Initiated Warp Jammer I
+J5b Phased Prototype Warp Inhibitor I (Cargo)
+Medium Nosferatu I (Cargo)
+Small 'Knave' I Energy Drain (Cargo)
+Antimatter Charge S, Qty: 3955 (Cargo)
+Armor Thermic Hardener I (Cargo)
+Spike S, Qty: 2951 (Cargo)
+Warrior I (Drone Bay)
+

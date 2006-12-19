@@ -1,0 +1,120 @@
+2007.04.18 21:51
+
+Victim: Bobby Atlas
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Thanatos
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Sedith (laid the final blow)
+Security: 1.7
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Aeon
+Weapon: Einherji
+
+Name: Waagaa Ktlehr
+Security: 0.4
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Aeon
+Weapon: Einherji
+
+Name: Odda
+Security: 4.4
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Thanatos
+Weapon: Firbolg
+
+Name: Kuang
+Security: 4.3
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Archon
+Weapon: Einherji
+
+Name: Stradivarious
+Security: 3.8
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Nidhoggur
+Weapon: Firbolg
+
+Name: Robet Katrix
+Security: 2.2
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Chimera
+Weapon: Einherji
+
+Name: Xeliya
+Security: 4.7
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Chimera
+Weapon: Dragonfly
+
+Name: Emelie
+Security: -3.7
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Thanatos
+Weapon: Firbolg
+
+Name: LoxyRider
+Security: 4.1
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Phoenix
+Weapon: Rift Torpedo I
+
+Name: tiki bmp
+Security: 3.0
+Alliance: YouWhat
+Corp: Cosmic Odyssey
+Ship: Moros
+Weapon: Ogre II
+
+Name: MeanG
+Security: 3.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Moros
+Weapon: Berserker I
+
+
+Destroyed items:
+
+Large EMP Smartbomb I
+Drone Control Unit I
+Drone Control Unit I
+Cap Recharger II
+Cap Recharger II
+Sensor Booster II
+Capital Armor Repairer I
+Valkyrie II (Drone Bay)
+Acolyte II (Drone Bay)
+Praetor I (Drone Bay)
+Hammerhead I (Drone Bay)
+Warrior I, Qty: 31 (Drone Bay)
+Berserker I (Drone Bay)
+Warrior II (Drone Bay)
+Warden I (Drone Bay)
+Valkyrie I, Qty: 5 (Drone Bay)
+Infiltrator II (Drone Bay)
+Garde I, Qty: 5 (Drone Bay)
+Bouncer I, Qty: 4 (Drone Bay)
+Vespa II (Drone Bay)
+Ogre I (Drone Bay)
+Hammerhead II (Drone Bay)
+Infiltrator EV-600, Qty: 5 (Drone Bay)
+Einherji (Drone Bay)
+Vespa EC-600, Qty: 4 (Drone Bay)
+Heavy Armor Maintenance Bot I, Qty: 4 (Drone Bay)
+Medium Armor Maintenance Bot I, Qty: 6 (Drone Bay)
+Berserker SW-900 (Drone Bay)
+

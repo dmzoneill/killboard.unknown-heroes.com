@@ -1,0 +1,54 @@
+2007.03.07 05:51
+
+Victim: Kerr Talon
+Alliance: Agony Empire
+Corp: Agony Unleashed
+Destroyed: Capsule
+System: X-7OMU
+Security: 0.0
+
+Involved parties:
+
+Name: jonos syclarin
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Jaguar
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: coldkill (laid the final blow)
+Security: 1.8
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Taranis
+Weapon: 75mm Gatling Rail II
+
+Name: Kandread
+Security: 0.6
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Claw
+Weapon: Warp Disruptor I
+
+Name: truefranco
+Security: 3.1
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+Name: Xantheris
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Enyo
+Weapon: Enyo
+
+Name: Osyc
+Security: 2.6
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Stiletto
+Weapon: DDO Photometry I Targeting Interference
+
+

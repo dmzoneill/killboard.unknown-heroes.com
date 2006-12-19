@@ -1,0 +1,28 @@
+2007.03.19 23:34
+
+Victim: Eleri Bree
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Destroyed: Taranis
+System: XZH-4X
+Security: 0.0
+
+Involved parties:
+
+Name: Xoduse (laid the final blow)
+Security: 0.5
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Vexor
+Weapon: Warrior II
+
+
+Destroyed items:
+
+125mm Railgun II
+125mm Railgun II
+125mm Railgun II
+Antimatter Charge S, Qty: 134
+J5 Prototype Warp Inhibitor I
+Void S, Qty: 108 (Cargo)
+

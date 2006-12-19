@@ -1,0 +1,19 @@
+2006.09.01 21:45
+
+Victim: TheBelgarion
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Capsule
+System: Aunenen
+Security: 0.4
+
+Involved parties:
+
+Name: The Cursed (laid the final blow)
+Security: -10.
+Alliance: None
+Corp: Stupid People Always Need Killing
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+

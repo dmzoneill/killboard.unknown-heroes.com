@@ -1,0 +1,23 @@
+2006.10.06 02:42
+
+Victim: Skelator0311
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Destroyed: Covetor
+System: Oipo
+Security: 0.8
+
+Involved parties:
+
+Name: Morfane (laid the final blow)
+Security: -0.2
+Alliance: None
+Corp: Privateers
+Ship: Taranis
+Weapon: Light Neutron Blaster II
+
+
+Destroyed items:
+
+Medium C5-L Emergency Shield Overload I
+

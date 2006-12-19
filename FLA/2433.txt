@@ -1,0 +1,40 @@
+2007.02.10 02:24
+
+Victim: Kasahara
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Destroyed: Capsule
+System: X-7OMU
+Security: 0.0
+
+Involved parties:
+
+Name: Christina Bamar
+Security: 1.1
+Alliance: None
+Corp: Agony Unleashed
+Ship: Rifter
+Weapon: Rifter
+
+Name: Yorick Downe
+Security: 2.1
+Alliance: None
+Corp: Agony Unleashed
+Ship: Rifter
+Weapon: Foxfire Rocket
+
+Name: Dragonbitch (laid the final blow)
+Security: 0.9
+Alliance: None
+Corp: Agony Unleashed
+Ship: Rifter
+Weapon: 200mm AutoCannon I
+
+Name: Ironnight
+Security: -1.3
+Alliance: None
+Corp: Agony Unleashed
+Ship: Rifter
+Weapon: 200mm AutoCannon I
+
+

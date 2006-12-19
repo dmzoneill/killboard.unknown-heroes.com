@@ -1,0 +1,71 @@
+2007.04.16 21:38
+
+Victim: Cougarcat
+Alliance: None
+Corp: The Wailing Doom
+Destroyed: Executioner
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Alski
+Security: 3.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Cormorant
+Weapon: 125mm Railgun I
+
+Name: other mickey
+Security: 3.2
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Celestis
+Weapon: Valkyrie I
+
+Name: Xenofur (laid the final blow)
+Security: 3.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Vigil
+Weapon: 75mm Gatling Rail I
+
+Name: Tristian Andross
+Security: 4.1
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Catalyst
+Weapon: Catalyst
+
+Name: Kayron Brennan
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Condor
+Weapon: 75mm Gatling Rail I
+
+Name: Frau Formaggio
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Eris
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+Name: Burn Lump
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Enyo
+Weapon: Enyo
+
+
+Destroyed items:
+
+1MN Afterburner I
+Stasis Webifier I
+Overdrive Injector System I
+Overdrive Injector System I
+Prototype I Freight Sensors (Cargo)
+Small Armor Repairer I (Cargo)
+Remote Sensor Booster I (Cargo)
+

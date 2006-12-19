@@ -1,0 +1,63 @@
+2007.03.14 02:53
+
+Victim: Issaqua
+Alliance: None
+Corp: Constructive Influence
+Destroyed: Rifter
+System: MJYW-3
+Security: 0.0
+
+Involved parties:
+
+Name: Thiet
+Security: 4.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Caracal
+Weapon: Thunderbolt Heavy Missile
+
+Name: ventura5 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Drake
+Weapon: Widowmaker Heavy Missile
+
+Name: xinndo jagged
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Drake
+Weapon: Heavy Missile Launcher II
+
+Name: Villwrath
+Security: 3.5
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Taranis
+Weapon: 'Langour' Drive Disruptor I
+
+Name: TheFazMan
+Security: 0.5
+Alliance: The Sundering
+Corp: ironwood ink
+Ship: Drake
+Weapon: Heavy Missile Launcher I
+
+Name: Jules Wolfpack
+Security: 2.2
+Alliance: The Sundering
+Corp: ironwood ink
+Ship: Tristan
+Weapon: Small Nosferatu I
+
+
+Destroyed items:
+
+EMP S, Qty: 60
+Thorn Rocket, Qty: 30
+Rocket Launcher I
+Warp Disruptor I
+Small Armor Repairer I
+425mm Railgun II (Cargo)
+

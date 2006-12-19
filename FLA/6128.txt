@@ -1,0 +1,72 @@
+2006.11.08 19:38
+
+Victim: Ouroboron
+Alliance: GoonSwarm
+Corp: GoonFleet
+Destroyed: Executioner
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: LizzyD
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: al3x andra (laid the final blow)
+Security: 4.2
+Alliance: O X I D E
+Corp: W33D Corp.
+Ship: Rupture
+Weapon: Thunderbolt Heavy Missile
+
+Name: Dog Cancer
+Security: 1.4
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Crow
+Weapon: Sabretooth Light Missile
+
+Name: haker2001
+Security: 1.0
+Alliance: O X I D E
+Corp: W33D Corp.
+Ship: Caracal
+Weapon: Heavy Missile Launcher I
+
+Name: forator2
+Security: 3.8
+Alliance: O X I D E
+Corp: W33D Corp.
+Ship: Thorax
+Weapon: Thorax
+
+Name: danutza2006
+Security: 3.4
+Alliance: O X I D E
+Corp: W33D Corp.
+Ship: Thorax
+Weapon: Heavy Neutron Blaster I
+
+Name: H3llfire
+Security: 2.5
+Alliance: O X I D E
+Corp: W33D Corp.
+Ship: Moa
+Weapon: Heavy Missile Launcher I
+
+Name: Alch3mik
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Rapier
+Weapon: 720mm Howitzer Artillery II
+
+
+Destroyed items:
+
+1MN MicroWarpdrive I
+

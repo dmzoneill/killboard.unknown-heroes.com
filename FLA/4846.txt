@@ -1,0 +1,49 @@
+2007.04.17 10:15
+
+Victim: Aridante Lemure
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Destroyed: Thorax
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Debian Executer
+Security: 3.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Sleipnir
+Weapon: Sleipnir
+
+Name: Tomas Ysidro (laid the final blow)
+Security: 1.7
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Eos
+Weapon: Heavy Ion Blaster II
+
+Name: Wladomir Jed
+Security: 3.7
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Eagle
+Weapon: Eagle
+
+Name: Lyticus
+Security: -1.8
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Rapier
+Weapon: Rapier
+
+
+Destroyed items:
+
+250mm Railgun I
+250mm Railgun I
+Iron Charge M, Qty: 120
+Magnetic Field Stabilizer I
+Iron Charge M, Qty: 1000 (Cargo)
+Iron Charge S, Qty: 200 (Cargo)
+

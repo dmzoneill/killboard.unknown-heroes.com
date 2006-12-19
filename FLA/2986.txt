@@ -1,0 +1,167 @@
+2007.03.18 21:49
+
+Victim: hydro2900
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Destroyed: Brutix
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Santa Claw
+Security: 2.4
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Tempest
+Weapon: Tempest
+
+Name: wph0r (laid the final blow)
+Security: 4.5
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Rokh
+Weapon: 425mm Railgun II
+
+Name: IsmaelYU5 Iluvatar
+Security: 5.0
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Taranis
+Weapon: Taranis
+
+Name: 1Of9
+Security: 4.9
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Megathron
+Weapon: Megathron
+
+Name: Mr MA
+Security: 3.5
+Alliance: Chorus of Dawn
+Corp: Cosmic Odyssey
+Ship: Megathron
+Weapon: Megathron
+
+Name: Rarnac Brak
+Security: 0.1
+Alliance: Chorus of Dawn
+Corp: Cosmic Odyssey
+Ship: Tempest
+Weapon: 1400mm Gallium I Cannon
+
+Name: seratus
+Security: 5.0
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Ship: Vulture
+Weapon: Vulture
+
+Name: Topasio
+Security: 2.7
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Tempest
+Weapon: 1400mm Carbine Howitzer I
+
+Name: Slith Sabrao
+Security: 4.8
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Megathron
+Weapon: Megathron
+
+Name: Longrin
+Security: 2.8
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: KaKaShI
+Security: 3.7
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Apocalypse
+Weapon: Apocalypse
+
+Name: Tanya Kovacs
+Security: 5.1
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+Name: Frostbeule
+Security: 2.8
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Xarax Sparow
+Security: 5.0
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Astarte
+Weapon: Astarte
+
+Name: Taschenflak
+Security: 4.7
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Scorpion
+Weapon: 'Limos' Cruise Launcher I
+
+Name: Karunel
+Security: 5.0
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Celestis
+Weapon: Kapteyn Sensor Array Inhibitor I
+
+Name: Helmi
+Security: 3.0
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Scorpion
+Weapon: ECM - Ion Field Projector II
+
+Name: Heidee Terrana
+Security: 5.0
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Ship: Apocalypse
+Weapon: Apocalypse
+
+Name: GODFATHER
+Security: 5.0
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Ship: Raven
+Weapon: Phased Muon Sensor Disruptor I
+
+Name: EveStarHunter
+Security: 4.9
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Stabber
+Weapon: 220mm Vulcan AutoCannon I
+
+
+Destroyed items:
+
+250mm Railgun I
+250mm Railgun I
+250mm Railgun II
+250mm Railgun II
+Antimatter Charge M, Qty: 33
+Javelin M, Qty: 32
+Tracking Computer II
+Medium Armor Repairer II
+Magnetic Field Stabilizer II
+Power Diagnostic System I
+Reactor Control Unit I
+Javelin M, Qty: 5441 (Cargo)
+

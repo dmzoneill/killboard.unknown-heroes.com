@@ -1,0 +1,32 @@
+2006.11.06 20:25
+
+Victim: StormHammer 666
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Destroyed: Rifter
+System: Litiura
+Security: 0.5
+
+Involved parties:
+
+Name: TranZferR (laid the final blow)
+Security: -1.8
+Alliance: None
+Corp: The Initiative
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+
+Destroyed items:
+
+150mm Light Prototype I Automatic Cannon
+EMP S, Qty: 80
+Rocket Launcher I
+Medium C5-L Emergency Shield Overload I
+Cold-Gas I Arcjet Thrusters
+Small Subordinate Screen Stabilizer I (Cargo)
+Small Hull Repairer I (Cargo)
+Small Nosferatu I (Cargo)
+125mm Railgun I (Cargo)
+Guristas Ship Log 365764054 (Cargo)
+

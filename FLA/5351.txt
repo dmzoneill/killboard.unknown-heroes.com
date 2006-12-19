@@ -1,0 +1,29 @@
+2007.04.26 21:36
+
+Victim: dastommy79
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Destroyed: Executioner
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Savak (laid the final blow)
+Security: 0.2
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Maller
+Weapon: Heavy Pulse Laser I
+
+
+Destroyed items:
+
+125mm Railgun I
+Antimatter Charge S, Qty: 150
+1MN MicroWarpdrive I
+Warp Disruptor I
+Nanofiber Internal Structure I
+Nanofiber Internal Structure I
+Antimatter Charge S, Qty: 500 (Cargo)
+

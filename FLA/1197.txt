@@ -1,0 +1,127 @@
+2007.03.08 16:24
+
+Victim: VDV Bru37
+Alliance: YouWhat
+Corp: Beasts of Burden
+Destroyed: Hawk
+System: XZH-4X
+Security: 0.0
+
+Involved parties:
+
+Name: Frict
+Security: 4.8
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Crusader
+Weapon: Crusader
+
+Name: Jonas123
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Ferox
+Weapon: Ferox
+
+Name: Fate Amen (laid the final blow)
+Security: 2.8
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Catalyst
+Weapon: 125mm Railgun I
+
+Name: Vanst Keal
+Security: 1.8
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Cormorant
+Weapon: Cormorant
+
+Name: Nuhwall
+Security: 4.2
+Alliance: Tau Ceti Federation
+Corp: COLSUP
+Ship: Raptor
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+Name: Larry Wong
+Security: 2.3
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Incursus
+Weapon: Incursus
+
+Name: Nyx Gotcha
+Security: -0.6
+Alliance: Ka-Tet
+Corp: Rampage Eternal
+Ship: Taranis
+Weapon: X5 Prototype I Engine Enervator
+
+Name: electrosquid
+Security: 5.0
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Stabber
+Weapon: Stabber
+
+Name: Nesnews Lodbrok
+Security: 0.1
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Vigil
+Weapon: Foxfire Rocket
+
+Name: dmosinee
+Security: 4.2
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Dominix
+Weapon: Dual 250mm 'Scout' I Accelerator Cannon
+
+Name: brainball
+Security: 2.5
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Taranis
+Weapon: Light Neutron Blaster II
+
+Name: Nafri
+Security: -1.9
+Alliance: Dusk and Dawn
+Corp: Cataclysm Enterprises
+Ship: Tempest
+Weapon: 800mm Repeating Artillery II
+
+Name: Dagam
+Security: 0.2
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Dominix
+Weapon: Heavy 'Ghoul' Energy Siphon I
+
+Name: Andre Carnegi
+Security: 1.7
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Blackbird
+Weapon: ECM - Ion Field Projector I
+
+Name: Allya Rierre
+Security: -0.1
+Alliance: GoonSwarm
+Corp: Visual I.D
+Ship: Thorax
+Weapon: Thorax
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 25
+'Malkuth' Standard Missile Launcher I
+'Arbalest' Standard Missile Launcher
+Initiated Warp Jammer I
+Stasis Webifier I
+Phased Muon Sensor Disruptor I
+Inertia Stabilizers I
+

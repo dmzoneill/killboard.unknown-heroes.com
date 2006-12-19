@@ -1,0 +1,54 @@
+2006.10.05 20:22
+
+Victim: SpaceSlag
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Capsule
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Kuentai
+Security: -4.4
+Alliance: None
+Corp: Beagle Corp
+Ship: Claw
+Weapon: Claw
+
+Name: Dave White (laid the final blow)
+Security: -3.2
+Alliance: None
+Corp: Beagle Corp
+Ship: Raptor
+Weapon: Light Ion Blaster II
+
+Name: Ujio Noki
+Security: 1.4
+Alliance: None
+Corp: Beagle Corp
+Ship: Claw
+Weapon: Claw
+
+Name: Vily
+Security: -1.6
+Alliance: None
+Corp: Lilium Venture Initiative
+Ship: Heretic
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: Valhalior
+Security: 2.8
+Alliance: None
+Corp: Beagle Corp
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: Napolie
+Security: 0.1
+Alliance: None
+Corp: Beagle Corp
+Ship: Ares
+Weapon: Standard Missile Launcher I
+
+

@@ -1,0 +1,26 @@
+2007.03.23 20:04
+
+Victim: Almagar Phog
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Destroyed: Blackbird
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: ignisgunner (laid the final blow)
+Security: -1.2
+Alliance: Tactical Narcotics Team
+Corp: Paradox v2.0
+Ship: Myrmidon
+Weapon: Ogre I
+
+
+Destroyed items:
+
+Medium Nosferatu I
+ECM - Phase Inverter I
+FZ-3 Subversive Spatial Destabilizer ECM
+Initiated Signal Distortion Amplifier I
+

@@ -1,0 +1,30 @@
+2007.03.13 02:55
+
+Victim: Capt Crazee
+Alliance: Chorus of Dawn
+Corp: Cosmic Odyssey
+Destroyed: Burst
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Weeble Wooble (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: FlobbMkII
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Taranis
+Weapon: J5 Prototype Warp Inhibitor I
+
+
+Destroyed items:
+
+Nanofiber Internal Structure I, Qty: 8 (Cargo)
+

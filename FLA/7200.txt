@@ -1,0 +1,40 @@
+2006.01.25 22:18
+
+Victim: William Tapkins
+Alliance: None
+Corp: Imperial Academy
+Destroyed: Caldari Shuttle
+System: P3EN-E
+Security: 0.0
+
+Involved parties:
+
+Name: Cockroach (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Retribution
+Weapon: Medium Beam Laser II
+
+Name: movy
+Security: 3.0
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Catalyst
+Weapon: Catalyst
+
+Name: Kuro Hayashi
+Security: 3.3
+Alliance: Freelancer Alliance
+Corp: Tech 2
+Ship: Enyo
+Weapon: 150mm Railgun II
+
+Name: kasbah
+Security: 1.2
+Alliance: Freelancer Alliance
+Corp: Freelancer Union
+Ship: Taranis
+Weapon: X5 Prototype I Engine Enervator
+
+

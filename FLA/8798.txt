@@ -1,0 +1,60 @@
+2006.12.12 16:39
+
+Victim: MonstersCorpse
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Destroyed: Cyclone
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Ahile
+Security: 3.4
+Alliance: Kith of Venal
+Corp: Solidline Enterprise
+Ship: Dominix
+Weapon: Ogre I
+
+Name: kojackUcigashu (laid the final blow)
+Security: 4.7
+Alliance: Kith of Venal
+Corp: Solidline Enterprise
+Ship: Megathron
+Weapon: Ion Blaster Cannon II
+
+Name: h3llrayser
+Security: 0.2
+Alliance: Kith of Venal
+Corp: Solidline Enterprise
+Ship: Raven
+Weapon: Wrath Cruise Missile
+
+Name: Syox
+Security: -0.5
+Alliance: Kith of Venal
+Corp: Solidline Enterprise
+Ship: Dominix
+Weapon: Dominix
+
+Name: zeitza ta
+Security: 1.7
+Alliance: Kith of Venal
+Corp: Solidline Enterprise
+Ship: Arazu
+Weapon: 150mm Railgun II
+
+
+Destroyed items:
+
+650mm Artillery Cannon I
+650mm Artillery Cannon I
+650mm Artillery Cannon I
+Phased Plasma M, Qty: 45
+Medium Subordinate Screen Stabilizer I
+Eutectic I Capacitor Charge Array
+Target Painter I
+Medium Armor Repairer I
+Energized Magnetic Membrane I
+1600mm Reinforced Steel Plates I
+

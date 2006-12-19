@@ -1,0 +1,50 @@
+2007.03.20 19:47
+
+Victim: Helmi
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Destroyed: Blackbird
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Bobby Atlas
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Hyperion
+Weapon: Paradise Cruise Missile
+
+Name: ClogMan (laid the final blow)
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Typhoon
+Weapon: Cataclysm Cruise Missile
+
+Name: Zephia
+Security: -9.2
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Armageddon
+Weapon: Target Painter I
+
+Name: Cockroach
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Zealot
+Weapon: Focused Medium Pulse Laser II
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 120
+'Malkuth' Assault Missile Launcher I
+Assault Missile Launcher I
+'Hypnos' Ion Field ECM I
+BZ-5 Neutralizing Spatial Destabilizer ECM
+Languid Phase Inversion ECM I
+800mm Reinforced Crystalline Carbonide Plates I
+

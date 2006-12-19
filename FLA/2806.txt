@@ -1,0 +1,61 @@
+2007.03.10 04:39
+
+Victim: Downeaster
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Destroyed: Capsule
+System: Y-C3EQ
+Security: 0.0
+
+Involved parties:
+
+Name: PsychNerD (laid the final blow)
+Security: 0.7
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Wolf
+Weapon: 200mm AutoCannon II
+
+Name: kezz2411
+Security: 5.3
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Crusader
+Weapon: Dual Light Beam Laser II
+
+Name: merckiller
+Security: 1.0
+Alliance: Xelas Alliance
+Corp: Requiem of Hades
+Ship: Crow
+Weapon: Warp Disruptor I
+
+Name: kabayn
+Security: 5.0
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Jaguar
+Weapon: Warp Disruptor I
+
+Name: MsMephistopheles
+Security: 2.2
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Ishkur
+Weapon: Faint Warp Prohibitor I
+
+Name: Monticore D'Muertos
+Security: 5.0
+Alliance: Axiom Empire
+Corp: United Society Starfleet
+Ship: Raptor
+Weapon: Light Ion Blaster II
+
+Name: DeathGrip
+Security: 2.3
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Flycatcher
+Weapon: Rocket Launcher II
+
+

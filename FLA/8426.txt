@@ -1,0 +1,49 @@
+2006.11.17 22:46
+
+Victim: Jumar Coldgin
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Destroyed: Eagle
+System: ROIR-Y
+Security: 0.0
+
+Involved parties:
+
+Name: Hellspawn666 (laid the final blow)
+Security: 1.2
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Typhoon
+Weapon: Devastator Cruise Missile
+
+Name: callon
+Security: -1.2
+Alliance: None
+Corp: The Raven Warriors
+Ship: Eris
+Weapon: Eris
+
+Name: callonious
+Security: 0.6
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Curse
+Weapon: ECM - Spatial Destabilizer II
+
+
+Destroyed items:
+
+250mm Railgun II
+250mm Railgun II
+250mm Railgun II
+Antimatter Charge M, Qty: 39
+Assault Missile Launcher II
+Sabretooth Precision Light Missile, Qty: 67
+10MN Afterburner II
+Tracking Enhancer II
+Magnetic Field Stabilizer II
+Magnetic Field Stabilizer II
+Mobile Small Warp Disruptor I (Cargo)
+Spike M, Qty: 1374 (Cargo)
+Bloodclaw Precision Light Missile, Qty: 500 (Cargo)
+

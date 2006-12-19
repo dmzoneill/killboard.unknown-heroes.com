@@ -1,0 +1,32 @@
+2007.05.07 14:29
+
+Victim: Nexus2010
+Alliance: YouWhat
+Corp: Princeps Corp
+Destroyed: Capsule
+System: YKSC-A
+Security: 0.0
+
+Involved parties:
+
+Name: ClogMan (laid the final blow)
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Wolf
+Weapon: 150mm Light AutoCannon II
+
+Name: Modir II
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: Antipodean inc.
+Ship: Crow
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: 3ungle
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: Antipodean inc.
+Ship: Taranis
+Weapon: Fleeting Warp Scrambler I
+

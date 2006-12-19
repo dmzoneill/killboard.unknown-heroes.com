@@ -1,0 +1,40 @@
+2007.04.14 23:23
+
+Victim: The Cade
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Destroyed: Raven
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Apocalyptical (laid the final blow)
+Security: 4.0
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Thanatos
+Weapon: Templar
+
+Name: Stradivarious
+Security: 3.7
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Nidhoggur
+Weapon: Dragonfly
+
+
+Destroyed items:
+
+Juggernaut Torpedo, Qty: 25
+ZW-4100 Siege Missile Bay
+ZW-4100 Siege Missile Bay
+Large F-S9 Regolith Shield Induction
+Fixed Parallel Link-Capacitor I
+Heat Dissipation Amplifier II
+Emergency Damage Control I
+Ballistic Control System I
+Local Power Plant Manager: Diagnostic System I
+Juggernaut Torpedo, Qty: 3803 (Cargo)
+Ogre I (Drone Bay)
+

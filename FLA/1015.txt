@@ -1,0 +1,19 @@
+2007.03.03 09:03
+
+Victim: DAVID HASSELHOFF1
+Alliance: Privateer Alliance
+Corp: Multiversal Enterprise Inc.
+Destroyed: Badger
+System: Amarr
+Security: 1.0
+
+Involved parties:
+
+Name: cityzeen (laid the final blow)
+Security: 4.2
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Dominix
+Weapon: Ogre II
+
+

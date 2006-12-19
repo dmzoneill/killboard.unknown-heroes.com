@@ -1,0 +1,80 @@
+2007.02.28 13:11
+
+Victim: Yrewoc weroca
+Alliance: None
+Corp: Perkone
+Destroyed: Rifter
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Gwynae
+Security: 5.0
+Alliance: NxT LeveL
+Corp: The 5 Amigo's LLC.
+Ship: Flycatcher
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+Name: EM00
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Kamikaze Queen
+Security: 0.1
+Alliance: NxT LeveL
+Corp: The 5 Amigo's LLC.
+Ship: Hawk
+Weapon: Bloodclaw Light Missile
+
+Name: Ickaruss (laid the final blow)
+Security: 5.0
+Alliance: NxT LeveL
+Corp: Grail Seekers
+Ship: Nighthawk
+Weapon: Scourge Heavy Missile
+
+Name: Mat rix
+Security: 5.0
+Alliance: NxT LeveL
+Corp: Grail Seekers
+Ship: Drake
+Weapon: Thunderbolt Heavy Missile
+
+Name: Hopeless EQUILIBRIUM
+Security: 0.0
+Alliance: O X I D E
+Corp: W33D Corp.
+Ship: Vengeance
+Weapon: Vengeance
+
+Name: smaster
+Security: -0.9
+Alliance: DeStInY.
+Corp: The Knights Of Camelot
+Ship: Harpy
+Weapon: Harpy
+
+Name: Jack Cannon
+Security: 5.0
+Alliance: NxT LeveL
+Corp: The 5 Amigo's LLC.
+Ship: Myrmidon
+Weapon: Heavy Ion Blaster II
+
+Name: Arakash
+Security: -0.5
+Alliance: NxT LeveL
+Corp: Merchants Trade Consortium
+Ship: Drake
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+
+Destroyed items:
+
+Small Shield Booster I
+Fleeting Progressive Warp Scrambler I
+

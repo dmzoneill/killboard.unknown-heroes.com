@@ -1,0 +1,46 @@
+2007.03.11 09:38
+
+Victim: Marie Veedor
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Drake
+System: 7D-0SQ
+Security: 0.0
+
+Involved parties:
+
+Name: ZIQUET
+Security: 4.6
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Thorax
+Weapon: Thorax
+
+Name: Rinkos Alaine (laid the final blow)
+Security: 5.0
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Thorax
+Weapon: Modal Ion Particle Accelerator I
+
+Name: drakandu
+Security: 0.8
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Blackbird
+Weapon: Induced Multispectral ECM I
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 96
+XR-3200 Heavy Missile Bay
+'Arbalest' Heavy Missile Launcher
+'Arbalest' Heavy Missile Launcher
+Large Azeotropic Ward Salubrity I
+Large Azeotropic Ward Salubrity I
+Invulnerability Field I
+Ballistic Control System II
+Power Diagnostic System II
+Warrior I (Drone Bay)
+

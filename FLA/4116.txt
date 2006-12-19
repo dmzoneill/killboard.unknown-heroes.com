@@ -1,0 +1,44 @@
+2007.04.15 17:28
+
+Victim: SuperChunk
+Alliance: None
+Corp: Demise and Vestige
+Destroyed: Thorax
+System: Iitanmadan
+Security: 0.3
+
+Involved parties:
+
+Name: Lady Morticia
+Security: -2.8
+Alliance: None
+Corp: Fear Angels
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: Bloodclaw Light Missile / Guristas
+
+Name: Kalico (laid the final blow)
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Huginn
+Weapon: 650mm Artillery Cannon II
+
+Name: Wallyx
+Security: 4.2
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Arbitrator
+Weapon: Arbitrator
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Null S, Qty: 176
+Patterned Stasis Web I
+Microcell Nanite Explosive Hardener I
+Microcell Nanite Kinetic Hardener I
+800mm Reinforced Steel Plates I
+

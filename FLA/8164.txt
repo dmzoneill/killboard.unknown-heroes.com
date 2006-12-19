@@ -1,0 +1,47 @@
+2006.10.23 20:25
+
+Victim: Paltar
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Destroyed: Megathron
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Bulles (laid the final blow)
+Security: -1.9
+Alliance: None
+Corp: NEXT LEVEL
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Akhenat0n
+Security: 4.9
+Alliance: None
+Corp: NEXT LEVEL
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: MironCosszma
+Security: 0.3
+Alliance: None
+Corp: NEXT LEVEL
+Ship: Ishtar
+Weapon: Ishtar
+
+
+Destroyed items:
+
+425mm Railgun II
+425mm Railgun II
+425mm Railgun II
+425mm Railgun II
+Antimatter Charge L, Qty: 152
+Sensor Booster II
+Tracking Enhancer II
+Tracking Enhancer II
+Magnetic Field Stabilizer II
+Iron Charge L, Qty: 1960 (Cargo)
+Antimatter Charge L, Qty: 1573 (Cargo)
+

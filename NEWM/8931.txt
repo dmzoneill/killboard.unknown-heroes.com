@@ -1,0 +1,37 @@
+2006.12.19 21:43
+
+Victim: mrrabit
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Rifter
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: boo3916
+Security: 4.3
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Dominix
+Weapon: Warrior II
+
+Name: Torok Nakaht (laid the final blow)
+Security: 1.1
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Vagabond
+Weapon: 425mm AutoCannon II
+
+
+Destroyed items:
+
+75mm Gatling Rail I
+75mm Gatling Rail I
+Thorn Rocket, Qty: 30
+1MN MicroWarpdrive I
+Small Armor Repairer I
+Nanofiber Internal Structure I
+Iridium Charge S, Qty: 2000 (Cargo)
+Thorn Rocket, Qty: 970 (Cargo)
+

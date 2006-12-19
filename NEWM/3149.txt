@@ -1,0 +1,33 @@
+2007.03.25 18:18
+
+Victim: Janda Jameson
+Alliance: FATAL Alliance
+Corp: FATAL REVELATIONS
+Destroyed: Capsule
+System: FD53-H
+Security: 0.0
+
+Involved parties:
+
+Name: Burn Lump
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Harpy
+Weapon: Harpy
+
+Name: Malicel
+Security: 2.7
+Alliance: The Sundering
+Corp: ironwood ink
+Ship: Enyo
+Weapon: Enyo
+
+Name: Nya (laid the final blow)
+Security: 3.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Muninn
+Weapon: 720mm Howitzer Artillery II
+
+

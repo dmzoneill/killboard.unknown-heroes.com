@@ -1,0 +1,37 @@
+2007.03.02 21:49
+
+Victim: Zaimira
+Alliance: None
+Corp: The Peoples Republic of Power
+Destroyed: Hulk
+System: Alparena
+Security: 0.1
+
+Involved parties:
+
+Name: Kiara Diepp (laid the final blow)
+Security: -2.2
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Jesnen
+Security: -1.0
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Vengeance
+Weapon: Medium Beam Laser II
+
+Name: 4queens
+Security: -0.1
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Scorpion
+Weapon: Inferno Torpedo
+
+
+Destroyed items:
+
+Ice Harvester I
+

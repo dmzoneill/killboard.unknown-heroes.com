@@ -1,0 +1,47 @@
+2007.01.10 10:10
+
+Victim: Simon Monkoto
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Rokh
+System: OWXT-5
+Security: 0.0
+
+Involved parties:
+
+Name: Guristas Demolisher / Guristas
+
+Name: XxAngelxX (laid the final blow)
+Security: 5.0
+Alliance: None
+Corp: 0utbreak
+Ship: Zealot
+Weapon: Heavy Pulse Laser II
+
+Name: K Shara
+Security: 4.7
+Alliance: None
+Corp: 0utbreak
+Ship: Crow
+Weapon: Sabretooth Light Missile
+
+
+Destroyed items:
+
+Juggernaut Torpedo
+Juggernaut Torpedo
+ZW-4100 Siege Missile Bay
+X-Large C5-L Emergency Shield Overload I
+Heavy Capacitor Booster I
+Kinetic Deflection Amplifier I
+Magnetic Field Stabilizer II
+Large Shield Booster I, Qty: 2 (Cargo)
+Medium Asymmetric Energy Succor I (Cargo)
+350mm Railgun I (Cargo)
+Juggernaut Torpedo, Qty: 35 (Cargo)
+Cataclysm Cruise Missile, Qty: 200 (Cargo)
+Devastator Cruise Missile, Qty: 200 (Cargo)
+Siege Missile Launcher I, Qty: 2 (Cargo)
+Mark I Generator Refitting: Diagnostic System (Cargo)
+Capacitor Power Relay I (Cargo)
+

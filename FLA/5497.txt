@@ -1,0 +1,38 @@
+2006.10.06 21:24
+
+Victim: Morfane
+Alliance: None
+Corp: Privateers
+Destroyed: Reaper
+System: Elonaya
+Security: 0.7
+
+Involved parties:
+
+Name: Lone flyer (laid the final blow)
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Zealot
+Weapon: Heavy Pulse Laser II
+
+Name: Hosanna
+Security: -0.7
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: Jessica D
+Security: 0.2
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Helios
+Weapon: Initiated Warp Jammer I
+
+
+Destroyed items:
+
+Civilian Gatling Autocannon
+Basic Miner
+

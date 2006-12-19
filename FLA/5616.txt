@@ -1,0 +1,40 @@
+2006.10.08 20:48
+
+Victim: Commander XXX
+Alliance: Ghosts of Retribution
+Corp: Polytope
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Needa3
+Security: 5.0
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Jaguar
+Weapon: 280mm Howitzer Artillery II
+
+Name: jarson
+Security: -0.3
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Claw
+Weapon: 200mm AutoCannon II
+
+Name: Gangreen (laid the final blow)
+Security: 0.1
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Incursus
+Weapon: 125mm 'Scout' I Accelerator Cannon
+
+Name: DanyD
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Ship: Crow
+Weapon: Upgraded 'Limos' Standard Missile Bay I
+
+

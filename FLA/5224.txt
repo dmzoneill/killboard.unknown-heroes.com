@@ -1,0 +1,26 @@
+2007.04.27 08:45
+
+Victim: Bvzhnwe
+Alliance: Hell Hounds
+Corp: Rising Sun LTD
+Destroyed: Capsule
+System: F7C-H0
+Security: 0.0
+
+Involved parties:
+
+Name: Lizzon (laid the final blow)
+Security: 5.0
+Alliance: Guardian Federation
+Corp: KULT Production
+Ship: Arazu
+Weapon: Dual 150mm Prototype I Gauss Gun
+
+Name: Koi Yokuma
+Security: 0.4
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Catalyst
+Weapon: Stasis Webifier I
+
+

@@ -1,0 +1,40 @@
+2007.04.02 20:19
+
+Victim: IBIRIETT
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Destroyed: Capsule
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Ridoc
+Security: 2.9
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Taranis
+Weapon: Small 'Knave' I Energy Drain
+
+Name: Amok'Trueborn' Pryde
+Security: -1.5
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Huginn
+Weapon: 650mm Artillery Cannon II
+
+Name: Gordon Red
+Security: 2.1
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Heretic
+Weapon: Sabretooth Light Missile
+
+Name: DeDreiIx (laid the final blow)
+Security: 3.4
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Merlin
+Weapon: Bloodclaw Light Missile
+
+

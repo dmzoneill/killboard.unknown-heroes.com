@@ -1,0 +1,28 @@
+2006.10.22 14:43
+
+Victim: Murdoch Morf
+Alliance: Triumvirate.
+Corp: D00M.
+Destroyed: Crow
+System: MI6O-6
+Security: 0.0
+
+Involved parties:
+
+Name: menace ace (laid the final blow)
+Security: 3.2
+Alliance: Freelancer Alliance
+Corp: Royal Flying Aces
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+
+Destroyed items:
+
+Spike S, Qty: 200
+Bloodclaw Light Missile, Qty: 92
+TE-2100 Standard Missile Bay
+Catalyzed Cold-Gas I Arcjet Thrusters
+Spike S, Qty: 384 (Cargo)
+Bloodclaw Light Missile, Qty: 684 (Cargo)
+

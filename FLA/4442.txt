@@ -1,0 +1,36 @@
+2007.04.10 09:25
+
+Victim: Bobby Atlas
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Hyperion
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Sedith (laid the final blow)
+Security: 1.7
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Aeon
+Weapon: Dragonfly
+
+
+Destroyed items:
+
+Modal Mega Neutron Particle Accelerator I
+Modal Mega Neutron Particle Accelerator I
+Modal Mega Neutron Particle Accelerator I
+Modal Mega Neutron Particle Accelerator I
+Modal Mega Neutron Particle Accelerator I
+Antimatter Charge L, Qty: 316
+F-b10 Nominal Capacitor Regenerator
+F-b10 Nominal Capacitor Regenerator
+Damage Control II
+Large Armor Repairer II
+Energized Adaptive Nano Membrane II
+Armor Explosive Hardener II
+Antimatter Charge L, Qty: 2294 (Cargo)
+Warrior II, Qty: 2 (Drone Bay)
+

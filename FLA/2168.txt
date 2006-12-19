@@ -1,0 +1,26 @@
+2007.01.28 00:25
+
+Victim: Po1ysorbate
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Capsule
+System: MZ1E-P
+Security: 0.0
+
+Involved parties:
+
+Name: Iceman DK (laid the final blow)
+Security: 1.4
+Alliance: None
+Corp: Righteous Choirboys
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Boogiez
+Security: 1.4
+Alliance: None
+Corp: Righteous Choirboys
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+

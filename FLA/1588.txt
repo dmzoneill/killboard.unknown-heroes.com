@@ -1,0 +1,49 @@
+2007.03.17 15:03
+
+Victim: Wodanonline
+Alliance: YouWhat
+Corp: Pringles Inc.
+Destroyed: Pilgrim
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: tiita
+Security: 2.4
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Pilgrim
+Weapon: Vespa II
+
+Name: Airi (laid the final blow)
+Security: 1.3
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Apocalypse
+Weapon: Tachyon Beam Laser II
+
+Name: Kateryne
+Security: 0.1
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Retribution
+Weapon: Retribution
+
+
+Destroyed items:
+
+Heavy Beam Laser II
+Heavy Beam Laser II
+Covert Ops Cloaking Device II
+Aurora M
+Aurora M
+Cap Recharger II
+Y-T8 Overcharged Hydrocarbon I Microwarpdrive
+Warp Disruptor II
+Remote Sensor Dampener II
+Remote Sensor Dampener II
+Power Diagnostic System II
+Multifrequency M, Qty: 2 (Cargo)
+Ultraviolet M, Qty: 3 (Cargo)
+

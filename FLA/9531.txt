@@ -1,0 +1,174 @@
+2007.05.05 16:22
+
+Victim: stich626
+Alliance: YouWhat
+Corp: Princeps Corp
+Destroyed: Myrmidon
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Crushall
+Security: 5.0
+Alliance: The Foundation.
+Corp: NorCorp Security
+Ship: Capsule
+Weapon: Cruise Missile Launcher I
+
+Name: Neverdream
+Security: 3.7
+Alliance: The Foundation.
+Corp: NorCorp Security
+Ship: Unknown
+Weapon: Standard Missile Launcher I
+
+Name: Krath JoBekk
+Security: -1.1
+Alliance: Federation Of united Corps
+Corp: Drunken Ship Mates
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Jeepus
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: Black Knight Buccaneers
+Ship: Sabre
+Weapon: Sabre
+
+Name: The Ironfear (laid the final blow)
+Security: 0.4
+Alliance: None
+Corp: Nordgoetter
+Ship: Brutix
+Weapon: Heavy Ion Blaster I
+
+Name: AnarchistUK
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: United Space Republic
+Ship: Hawk
+Weapon: Bloodclaw Light Missile
+
+Name: Tigrana Blanque
+Security: 3.8
+Alliance: Dusk and Dawn
+Corp: Decadence.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: tartrus
+Security: 4.6
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Rifter
+Weapon: Rifter
+
+Name: Nightbird
+Security: 0.7
+Alliance: Sparta Alliance
+Corp: Neogen Industries
+Ship: Taranis
+Weapon: Taranis
+
+Name: SmokeyUK
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: Neogen Industries
+Ship: Taranis
+Weapon: Taranis
+
+Name: JanSVK
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: GREY COUNCIL
+Ship: Raptor
+Weapon: Light Neutron Blaster II
+
+Name: MARK 1
+Security: 5.0
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Rupture
+Weapon: Rupture
+
+Name: Enoxx
+Security: 3.4
+Alliance: Sparta Alliance
+Corp: Antipodean inc.
+Ship: Claw
+Weapon: Claw
+
+Name: suddenshock
+Security: 4.1
+Alliance: Darklite Alliance
+Corp: Darklite inc
+Ship: Kestrel
+Weapon: Bloodclaw Light Missile
+
+Name: notalot
+Security: 2.4
+Alliance: CORE.
+Corp: Dragonian Freelancers
+Ship: Thorax
+Weapon: Thorax
+
+Name: Relicc
+Security: 5.0
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Rifter
+Weapon: Rifter
+
+Name: Zizz
+Security: 4.1
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Caldari Shuttle
+Weapon: Stasis Webifier I
+
+Name: Varalonia
+Security: 3.0
+Alliance: Darklite Alliance
+Corp: Darklite inc
+Ship: Rifter
+Weapon: Sabretooth Light Missile
+
+Name: Iss Hogai
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: GREY COUNCIL
+Ship: Taranis
+Weapon: Taranis
+
+Name: Firestorm11
+Security: 3.4
+Alliance: Sparta Alliance
+Corp: Lynx Frontier Inc.
+Ship: Rifter
+Weapon: Rifter
+
+Name: Krakjaw
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: Neogen Industries
+Ship: Vigil
+Weapon: Vigil
+
+
+Destroyed items:
+
+Medium Nosferatu II
+Heavy Electron Blaster II
+Heavy Electron Blaster II
+Heavy Electron Blaster II
+Void M, Qty: 196
+Medium Capacitor Booster II
+Damage Control II
+Medium Armor Repairer II
+N-Type Thermic Hardener I
+Cap Booster 800, Qty: 7 (Cargo)
+Ogre I (Drone Bay)
+Wasp I, Qty: 2 (Drone Bay)
+

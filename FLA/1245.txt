@@ -1,0 +1,46 @@
+2007.03.09 14:22
+
+Victim: Neleva
+Alliance: None
+Corp: R.H. Umbrella Corporation
+Destroyed: Rifter
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: white kight
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Toxic Traveller (laid the final blow)
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Chuck Dawg
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Blackbird
+Weapon: Scourge Heavy Missile
+
+Name: Zephyrante
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Lachesis
+Weapon: Piranha Light Missile
+
+
+Destroyed items:
+
+Monopropellant I Hydrazine Boosters
+Nanofiber Internal Structure I
+Nanofiber Internal Structure I
+

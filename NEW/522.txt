@@ -1,0 +1,32 @@
+2007.04.10 02:55
+
+Victim: FlobbMkII
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Capsule
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Lady Vanquish (laid the final blow)
+Security: 4.2
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Stiletto
+Weapon: 200mm AutoCannon II
+
+Name: Zayk
+Security: 3.5
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Heretic
+Weapon: Tracking Disruptor I
+
+Name: Sinon Saldana
+Security: 2.8
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Arazu
+Weapon: Phased Muon Sensor Disruptor I
+

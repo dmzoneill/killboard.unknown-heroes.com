@@ -1,0 +1,26 @@
+2007.03.07 23:30
+
+Victim: Siner
+Alliance: None
+Corp: A.N.A.R.C.H.I.C.A
+Destroyed: Manticore
+System: 5ZXX-K
+Security: 0.0
+
+Involved parties:
+
+Name: Solarienne (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+
+Destroyed items:
+
+XT-9000 Cruise Launcher
+XT-9000 Cruise Launcher
+Prototype I Sensor Booster
+Wrath Cruise Missile, Qty: 730 (Cargo)
+

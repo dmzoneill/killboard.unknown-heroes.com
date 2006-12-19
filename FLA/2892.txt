@@ -1,0 +1,68 @@
+2007.03.15 01:40
+
+Victim: John Linski
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Capsule
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Baranof
+Security: 5.0
+Alliance: Axiom Empire
+Corp: United Society Starfleet
+Ship: Eris
+Weapon: 125mm Railgun II
+
+Name: kIM JONGELL
+Security: 4.8
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: DeathGrip
+Security: 2.3
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Flycatcher
+Weapon: Foxfire Javelin Rocket
+
+Name: xBeneGesseritx (laid the final blow)
+Security: 5.0
+Alliance: Xelas Alliance
+Corp: Crimson Crusaders
+Ship: Jaguar
+Weapon: 200mm AutoCannon II
+
+Name: Zayk
+Security: 3.4
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Malediction
+Weapon: Malediction
+
+Name: doc627
+Security: 5.0
+Alliance: Axiom Empire
+Corp: United Society Starfleet
+Ship: Crow
+Weapon: Standard Missile Launcher I
+
+Name: Monticore D'Muertos
+Security: 5.0
+Alliance: Axiom Empire
+Corp: United Society Starfleet
+Ship: Raptor
+Weapon: Rocket Launcher II
+
+Name: Duncan Hines
+Security: 5.0
+Alliance: Xelas Alliance
+Corp: Bombshell Cartel
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+

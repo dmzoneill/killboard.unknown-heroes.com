@@ -1,0 +1,86 @@
+2006.09.30 00:02
+
+Victim: terroreyes
+Alliance: None
+Corp: A Place for Valen
+Destroyed: Hawk
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: DarkJester (laid the final blow)
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery I
+
+Name: Scorpio63
+Security: 4.4
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Apocalypse
+Weapon: Mega Beam Laser I
+
+Name: Caja Wrython
+Security: 2.0
+Alliance: Freelancer Alliance
+Corp: Abandoned Resolve Corporation
+Ship: Caracal
+Weapon: Widowmaker Heavy Missile
+
+Name: Danielson1012
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Caracal
+Weapon: Thunderbolt Heavy Missile
+
+Name: Cockroach
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Vengeance
+Weapon: Sabretooth Light Missile
+
+Name: W4RR10R
+Security: -1.5
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Taranis
+Weapon: X5 Prototype I Engine Enervator
+
+Name: Tri Ounou
+Security: 4.2
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Stabber
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Drakin Korin
+Security: 2.1
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Deimos
+Weapon: Deimos
+
+
+Destroyed items:
+
+150mm Prototype I Gauss Gun
+Iridium Charge S, Qty: 40
+Sabretooth Light Missile, Qty: 48
+'Arbalest' Standard Missile Launcher
+Small Azeotropic Ward Salubrity I
+Micro K-Exhaust Core Augmentation
+Large F-S9 Regolith Shield Induction (Cargo)
+Small C5-L Emergency Shield Overload I (Cargo)
+Cold-Gas I Arcjet Thrusters (Cargo)
+Cargo Scanner I (Cargo)
+Xray S, Qty: 2 (Cargo)
+Spatial Awareness (Cargo)
+Guristas Ship Log 125792289 (Cargo)
+Guristas Ship Log 108634544 (Cargo)
+Beta Reactor Control: Reaction Control I (Cargo)
+

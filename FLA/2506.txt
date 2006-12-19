@@ -1,0 +1,39 @@
+2007.02.16 23:48
+
+Victim: Odinegras
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Taranis
+System: EWOK-K
+Security: 0.0
+
+Involved parties:
+
+Name: Sabre Wulf (laid the final blow)
+Security: 0.8
+Alliance: None
+Corp: Divine Retribution
+Ship: Sabre
+Weapon: 200mm AutoCannon II
+
+
+Destroyed items:
+
+ECM Burst I
+Inertia Stabilizers I
+Nanofiber Internal Structure I
+Small Standard Container (Cargo)
+Eutectic I Capacitor Charge Array, Qty: 2 (Cargo)
+Dread Guristas Photon Scattering Field (Cargo)
+Dread Guristas Heat Dissipation Field (Cargo)
+Dread Guristas Ballistic Deflection Field (Cargo)
+Gila Blueprint (Cargo)
+Induced Ion Field ECM I, Qty: 2 (Cargo)
+Compulsive Multispectral ECM I, Qty: 2 (Cargo)
+ECM - Spatial Destabilizer I, Qty: 4 (Cargo)
+Compulsive Ion Field ECM I, Qty: 3 (Cargo)
+Quantum Co-Processor I, Qty: 2 (Cargo)
+Nanomechanical CPU Enhancer I, Qty: 3 (Cargo)
+Photonic CPU Enhancer I, Qty: 2 (Cargo)
+Dread Guristas Heavy Missile Launcher (Cargo)
+

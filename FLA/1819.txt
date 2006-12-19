@@ -1,0 +1,66 @@
+2007.01.05 23:29
+
+Victim: Kelter Highfire
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Cormorant
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Scythus Aratan
+Security: 4.4
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Armageddon
+Weapon: Tachyon Beam Laser II
+
+Name: Captain Rickdick
+Security: -0.1
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Remote Sensor Dampener II
+
+Name: Masta Killa (laid the final blow)
+Security: -1.7
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+Name: DHB WildCat
+Security: -1.4
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+Name: Janice Malstrom
+Security: -1.7
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Taranis
+Weapon: 125mm Railgun II
+
+Name: Heinky
+Security: 2.5
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Abaddon
+Weapon: Tachyon Beam Laser II
+
+
+Destroyed items:
+
+150mm Compressed Coil Gun I
+150mm Compressed Coil Gun I
+150mm 'Scout' I Accelerator Cannon
+150mm 'Scout' I Accelerator Cannon
+Lead Charge S, Qty: 80
+J5b Phased Prototype Warp Inhibitor I
+Compulsive Multispectral ECM I
+Type-D Power Core Modification: Diagnostic System
+Lead Charge S, Qty: 25754 (Cargo)
+

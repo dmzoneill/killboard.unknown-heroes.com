@@ -1,0 +1,76 @@
+2007.01.07 23:04
+
+Victim: Atarkus
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Dominix
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Scythus Aratan
+Security: 4.4
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Heinky
+Security: 2.7
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Abaddon
+Weapon: Tachyon Beam Laser II
+
+Name: Masta Killa
+Security: -1.7
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+Name: Captain Rickdick (laid the final blow)
+Security: 0.0
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+Name: Arnold Swartzenegger
+Security: -0.2
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+Name: heavensfire
+Security: 3.1
+Alliance: None
+Corp: United Allies
+Ship: Stiletto
+Weapon: Small 'Knave' I Energy Drain
+
+
+Destroyed items:
+
+Tachyon Beam Laser I
+Multifrequency L
+Drone Link Augmentor I
+Small Tractor Beam I
+Eutectic I Capacitor Charge Array
+Eutectic I Capacitor Charge Array
+Cap Booster 800
+Cap Booster 800
+Cap Booster 800
+Cap Booster 800
+Optical Tracking Computer I
+Systematic Damage Control
+Energized Regenerative Membrane I
+Energized Adaptive Nano Membrane I
+Reactor Control Unit I
+Reactor Control Unit I
+Cap Booster 800, Qty: 4 (Cargo)
+Hammerhead I, Qty: 12 (Drone Bay)
+Garde I, Qty: 5 (Drone Bay)
+

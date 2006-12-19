@@ -1,0 +1,40 @@
+2007.04.01 22:48
+
+Victim: Kheelan Lir
+Alliance: Freelancer Alliance
+Corp: ACCORD Industries
+Destroyed: Capsule
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: ER0X
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Harpy
+Weapon: Harpy
+
+Name: KIAEnIgMa (laid the final blow)
+Security: 0.4
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Flycatcher
+Weapon: Thorn Javelin Rocket
+
+Name: Cadman Weyland
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Heretic
+Weapon: Heretic
+
+Name: Stradivarious
+Security: 3.4
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Huginn
+Weapon: 'Arbalest' Assault Missile Launcher
+
+

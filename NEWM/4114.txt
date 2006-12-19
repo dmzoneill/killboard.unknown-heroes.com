@@ -1,0 +1,91 @@
+2007.04.15 08:22
+
+Victim: StarshipTrooper
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Destroyed: Myrmidon
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Mufeater
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Brutix
+Weapon: Anode Neutron Particle Cannon I
+
+Name: Teck7
+Security: 1.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Celestis
+Weapon: Vespa I
+
+Name: MrMaggot
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Manticore
+Weapon: Cataclysm Cruise Missile
+
+Name: Ghu'ru Talozan (laid the final blow)
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Megathron
+Weapon: 425mm Railgun I
+
+Name: Stitcher
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: J.I.T. Enterprises
+Ship: Raven
+Weapon: Juggernaut Torpedo
+
+Name: Cockroach
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Zealot
+Weapon: Zealot
+
+Name: Magic Mazuma
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Ship: Rifter
+Weapon: Rifter
+
+Name: mrrabit
+Security: 4.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Rifter
+Weapon: Rifter
+
+Name: Nukuquqa Hestase
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Manticore
+Weapon: 'Arbalest' Cruise Launcher I
+
+
+Destroyed items:
+
+Heavy Ion Blaster II
+Heavy Ion Blaster II
+Void M, Qty: 449
+J5b Phased Prototype Warp Inhibitor I
+Medium Brief Capacitor Overcharge I
+Cap Booster 800
+Sensor Booster II
+Tracking Enhancer II
+Warp Core Stabilizer I, Qty: 2 (Cargo)
+Radioisotope Thermic Hardener I (Cargo)
+Voltaic Nanite Explosive Hardener I (Cargo)
+N-Type Explosive Hardener I (Cargo)
+Nanofiber Internal Structure I, Qty: 2 (Cargo)
+

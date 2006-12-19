@@ -1,0 +1,61 @@
+2007.05.22 18:17
+
+Victim: Chambo
+Alliance: None
+Corp: Imperial Army
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Osiris Warp
+Security: 2.2
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Harpy
+Weapon: 150mm Compressed Coil Gun I
+
+Name: Ocara Nezus (laid the final blow)
+Security: 1.5
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: silent uk
+Security: 2.5
+Alliance: DeStInY.
+Corp: Sacred Templars
+Ship: Heretic
+Weapon: Dual Light Beam Laser II
+
+Name: dishdoshski
+Security: 0.3
+Alliance: DeStInY.
+Corp: The Knights Of Camelot
+Ship: Hawk
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+Name: Serzath
+Security: 5.0
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+Name: Natasha Cos
+Security: 2.8
+Alliance: Forces of Freedom
+Corp: Starlancers
+Ship: Taranis
+Weapon: Fleeting Propulsion Inhibitor I
+
+Name: Govna
+Security: 5.2
+Alliance: Imperial Republic Of the North
+Corp: Old Farts
+Ship: Crusader
+Weapon: Gatling Pulse Laser II
+
+

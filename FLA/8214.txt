@@ -1,0 +1,27 @@
+2006.11.05 00:06
+
+Victim: Francis Verdictio
+Alliance: Freelancer Alliance
+Corp: BGG
+Destroyed: Incursus
+System: Aunenen
+Security: 0.4
+
+Involved parties:
+
+Name: Darknesss (laid the final blow)
+Security: -0.5
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Eos
+Weapon: Ogre II
+
+
+Destroyed items:
+
+Small Nosferatu I
+Small Nosferatu I
+1MN MicroWarpdrive I
+Stasis Webifier I
+Antimatter Charge S, Qty: 59 (Cargo)
+

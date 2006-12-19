@@ -1,0 +1,81 @@
+2007.01.19 00:40
+
+Victim: white kight
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Drake
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: WarGod
+Security: 1.7
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Tempest
+Weapon: Vespa II
+
+Name: boo3916
+Security: 4.6
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Dominix
+Weapon: Berserker II
+
+Name: Darknesss
+Security: 0.5
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Megathron
+Weapon: Megathron
+
+Name: Unfortunate Accident
+Security: -1.9
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: Jenessa
+Security: 1.1
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Muninn
+Weapon: 720mm Howitzer Artillery II
+
+Name: simcor (laid the final blow)
+Security: -1.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Dominix
+Weapon: Berserker II
+
+Name: ArchenTheGreat
+Security: -2.2
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Dominix
+Weapon: Heavy Nosferatu I
+
+Name: McGin
+Security: -3.6
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Tempest Fleet Issue
+Weapon: Tempest Fleet Issue
+
+
+Destroyed items:
+
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Large Azeotropic Ward Salubrity I
+Large Azeotropic Ward Salubrity I
+Medium C5-L Emergency Shield Overload I
+Stasis Webifier I
+Type-D Power Core Modification: Reaction Control
+Widowmaker Heavy Missile, Qty: 137 (Cargo)
+Scourge Heavy Missile, Qty: 1301 (Cargo)
+

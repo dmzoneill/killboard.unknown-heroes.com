@@ -1,0 +1,77 @@
+2006.10.13 13:58
+
+Victim: Olaf Thaddius
+Alliance: Process of Elimination
+Corp: Viper  Squad
+Destroyed: Cerberus
+System: A4L-A2
+Security: 0.0
+
+Involved parties:
+
+Name: noba
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Royal Flying Aces
+Ship: Megathron
+Weapon: Valkyrie II
+
+Name: rockerguy (laid the final blow)
+Security: 1.4
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Ship: Apocalypse
+Weapon: Juggernaut Torpedo
+
+Name: dinj
+Security: 3.2
+Alliance: Freelancer Alliance
+Corp: London Transport
+Ship: Blackbird
+Weapon: Thunderbolt Heavy Missile
+
+Name: Sophise Seksi
+Security: 1.9
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Dominix
+Weapon: Wasp I
+
+Name: James Potkukelkka
+Security: 0.2
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Flycatcher
+Weapon: Bloodclaw Light Missile
+
+Name: Wousr
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Stiletto
+Weapon: 125mm Gatling AutoCannon II
+
+Name: Hosanna
+Security: -0.2
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Stiletto
+Weapon: Faint Warp Prohibitor I
+
+
+Destroyed items:
+
+Thunderbolt Heavy Missile, Qty: 120
+Heavy Missile Launcher II
+Heavy Missile Launcher II
+Large Shield Extender II
+Gistii A-Type Small Shield Booster
+10MN Afterburner II
+Warp Core Stabilizer I
+Warp Core Stabilizer I
+Enfeebling Phase Inversion ECM I (Cargo)
+Null S, Qty: 2283 (Cargo)
+Thunderbolt Heavy Missile, Qty: 412 (Cargo)
+Widowmaker Heavy Missile, Qty: 977 (Cargo)
+Thunderbolt Precision Heavy Missile, Qty: 876 (Cargo)
+

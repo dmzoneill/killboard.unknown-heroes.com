@@ -1,0 +1,43 @@
+2007.02.06 03:11
+
+Victim: KingRizen
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Destroyed: Crow
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Kaijou (laid the final blow)
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Flavius Renatus
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: Leyalor Esperence
+Security: 2.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Sabre
+Weapon: 200mm AutoCannon II
+
+
+Destroyed items:
+
+Standard Missile Launcher II
+Standard Missile Launcher II
+Standard Missile Launcher II
+Bloodclaw Fury Light Missile, Qty: 130
+Nanofiber Internal Structure I
+Bloodclaw Precision Light Missile, Qty: 1970 (Cargo)
+Bloodclaw Fury Light Missile, Qty: 1836 (Cargo)
+

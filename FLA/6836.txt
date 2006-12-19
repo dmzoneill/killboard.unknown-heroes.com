@@ -1,0 +1,51 @@
+2006.12.07 23:19
+
+Victim: RAGNER
+Alliance: None
+Corp: ZAR Advanced Resources
+Destroyed: Vexor
+System: Otou
+Security: 0.3
+
+Involved parties:
+
+Name: Iulian1977
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Zealot
+Weapon: Zealot
+
+Name: Cat1977 (laid the final blow)
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Deimos
+Weapon: Heavy Ion Blaster II
+
+
+Destroyed items:
+
+Salvager I, Qty: 90
+Small Tractor Beam I
+F-b10 Nominal Capacitor Regenerator
+Medium Peroxide I Capacitor Power Cell
+Medium Armor Repairer II
+'Grail' Regenerative Plating I
+Magnetic Plating II
+Small Shield Booster I, Qty: 2 (Cargo)
+1MN Afterburner I (Cargo)
+Cargo Scanner I (Cargo)
+Ta3 Perfunctory Vessel Probe (Cargo)
+Small Capacitor Battery I (Cargo)
+Small Armor Repairer I (Cargo)
+Heavy Neutron Blaster I (Cargo)
+Small Capacitor Booster I (Cargo)
+'Rash' ECM Emission I (Cargo)
+Iron Charge S, Qty: 100 (Cargo)
+Infiltrator I (Cargo)
+Small Coaxial Regenerative Projector (Cargo)
+Broken Drone Transceiver (Cargo)
+Malfunctioning Shield Emitter (Cargo)
+Valkyrie I, Qty: 5 (Drone Bay)
+

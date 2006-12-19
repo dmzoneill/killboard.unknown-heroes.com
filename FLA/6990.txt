@@ -1,0 +1,71 @@
+2006.12.18 04:08
+
+Victim: Eric Clapton11
+Alliance: None
+Corp: State War Academy
+Destroyed: Raven
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Munch
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Armageddon
+Weapon: Vespa II
+
+Name: NATMav (laid the final blow)
+Security: 2.7
+Alliance: EVE Animal Control
+Corp: F.R.E.E. Explorer
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+Name: dastommy79
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Caracal
+Weapon: 'Malkuth' Assault Missile Launcher I
+
+Name: Audri Fisher
+Security: 0.2
+Alliance: THE R0CK
+Corp: The Keep
+Ship: Cormorant
+Weapon: Cormorant
+
+Name: Chuck Dawg
+Security: 1.1
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Caracal
+Weapon: Heavy Missile Launcher I
+
+Name: Sheial Tarlien
+Security: -4.3
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Rapier
+Weapon: Rapier
+
+
+Destroyed items:
+
+Juggernaut Torpedo, Qty: 36
+'Arbalest' Siege Missile Launcher
+'Arbalest' Siege Missile Launcher
+Large F-S9 Regolith Shield Induction
+X-Large C5-L Emergency Shield Overload I
+X-Large C5-L Emergency Shield Overload I
+X-Large C5-L Emergency Shield Overload I
+X-Large C5-L Emergency Shield Overload I
+X-Large C5-L Emergency Shield Overload I
+Ballistic Deflection Field I
+Ballistic Deflection Field I
+Small Armor Repairer I
+Ballistic Control System I
+Power Diagnostic System I
+

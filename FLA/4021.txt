@@ -1,0 +1,110 @@
+2007.04.09 17:20
+
+Victim: Taka Taka
+Alliance: Ratel Alliance
+Corp: Vogon Deconstruction Fleet
+Destroyed: Dominix
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Varalonia
+Security: 2.3
+Alliance: Darklite inc Alliance
+Corp: Darklite inc
+Ship: Typhoon
+Weapon: Typhoon
+
+Name: Bad Borris
+Security: 5.0
+Alliance: CORE.
+Corp: Nomina Sacra Sapientia
+Ship: Drake
+Weapon: Heavy Missile Launcher II
+
+Name: Cinon
+Security: 0.0
+Alliance: 3asy Company
+Corp: Eth3real
+Ship: Thorax
+Weapon: Thorax
+
+Name: fducky
+Security: 5.0
+Alliance: Darklite inc Alliance
+Corp: Darklite inc
+Ship: Caracal
+Weapon: Thunderbolt Heavy Missile
+
+Name: kakakarr
+Security: 2.9
+Alliance: DeStInY.
+Corp: The Knights Of Camelot
+Ship: Megathron
+Weapon: Megathron
+
+Name: BAJRAN BALI
+Security: 1.9
+Alliance: Darklite inc Alliance
+Corp: Darklite inc
+Ship: Caracal
+Weapon: Widowmaker Heavy Missile
+
+Name: Meh'lindi
+Security: 4.4
+Alliance: Darklite inc Alliance
+Corp: Darklite inc
+Ship: Enyo
+Weapon: Enyo
+
+Name: Wallyx (laid the final blow)
+Security: 4.5
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Omen
+Weapon: Heavy Beam Laser I
+
+Name: suddenshock
+Security: 4.0
+Alliance: Darklite inc Alliance
+Corp: Darklite inc
+Ship: Hawk
+Weapon: Hawk
+
+Name: kakakarrr
+Security: -1.2
+Alliance: DeStInY.
+Corp: The Knights Of Camelot
+Ship: Rifter
+Weapon: Warp Disruptor I
+
+Name: gabla
+Security: 3.7
+Alliance: Darklite inc Alliance
+Corp: Darklite inc
+Ship: Maulus
+Weapon: Maulus
+
+Name: Iatnuolas
+Security: 1.6
+Alliance: DeStInY.
+Corp: The Knights Of Camelot
+Ship: Bantam
+Weapon: Hobgoblin I
+
+
+Destroyed items:
+
+Large 'Notos' Explosive Charge I
+Large 'Notos' Explosive Charge I
+Large 'Vehemence' I Shockwave Charge
+Large 'Vehemence' I Shockwave Charge
+Large Shield Extender I
+Large Shield Extender I
+Large Shield Extender I
+100MN MicroWarpdrive I
+Warp Core Stabilizer I
+Inertia Stabilizers I
+Medium Armor Maintenance Bot I, Qty: 10 (Drone Bay)
+

@@ -1,0 +1,125 @@
+2007.02.06 03:19
+
+Victim: Tevi
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Destroyed: Mastodon
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: nightjackel
+Security: 3.7
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Wolf
+Weapon: Wolf
+
+Name: Dark1
+Security: 3.3
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Muninn
+Weapon: Muninn
+
+Name: Bogwad
+Security: 4.8
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Claw
+Weapon: Claw
+
+Name: LadyScarlet
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Cerberus
+Weapon: Scourge Heavy Missile
+
+Name: Seldarine
+Security: 0.1
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Vagabond
+Weapon: Dual 180mm AutoCannon II
+
+Name: Leyalor Esperence
+Security: 2.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Sabre
+Weapon: Sabre
+
+Name: Kaijou
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Sexual Chocolate
+Security: 2.5
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Taranis
+Weapon: Taranis
+
+Name: Nick Curso (laid the final blow)
+Security: -0.3
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Crusader
+Weapon: Dual Light Pulse Laser II
+
+Name: Gazmus
+Security: 0.8
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Taranis
+Weapon: Warrior II
+
+Name: CLEISTHENES2
+Security: -0.9
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Claw
+Weapon: Claw
+
+Name: Flavius Renatus
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: Okuden
+Security: 1.6
+Alliance: Band of Brothers
+Corp: Black Eclipse Corp
+Ship: Deimos
+Weapon: Deimos
+
+Name: Polydectes
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Heretic
+Weapon: Heretic
+
+
+Destroyed items:
+
+Medium Shield Booster I
+Warp Core Stabilizer I
+Warp Core Stabilizer I
+Mark I Modified SS Expanded Cargo
+Type-D Altered SS Expanded Cargo
+Tritanium, Qty: 2246 (Cargo)
+Caldari Shuttle (Cargo)
+Gallente Shuttle, Qty: 2 (Cargo)
+Cap Recharger I, Qty: 3 (Cargo)
+Large F-4a Ld-Sulfate I Capacitor Charge Unit (Cargo)
+Small Nosferatu I, Qty: 2 (Cargo)
+Warp Core Stabilizer I, Qty: 3 (Cargo)
+

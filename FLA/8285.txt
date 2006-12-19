@@ -1,0 +1,43 @@
+2006.11.07 14:21
+
+Victim: Gryynch
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Ferox
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: GoLdeN BoY (laid the final blow)
+Security: 1.3
+Alliance: None
+Corp: Beer Guzzling Clowns With Blasters
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+
+Destroyed items:
+
+250mm 'Scout' I Accelerator Cannon
+Scourge Heavy Missile, Qty: 26
+XR-3200 Heavy Missile Bay
+'Malkuth' Heavy Missile Launcher I
+Large Subordinate Screen Stabilizer I
+M51 Iterative Shield Regenerator
+Micro Auxiliary Power Core I
+Medium Shield Extender I (Cargo)
+Warp Scrambler I (Cargo)
+Medium Armor Repairer I (Cargo)
+Small Energy Neutralizer I (Cargo)
+Medium Brief Capacitor Overcharge I (Cargo)
+Iridium Charge M, Qty: 200 (Cargo)
+Tungsten Charge M, Qty: 15 (Cargo)
+Compulsive Ion Field ECM I (Cargo)
+Multi Sensor Backup Array I (Cargo)
+Prototype I Sensor Booster (Cargo)
+Scourge Heavy Missile, Qty: 735 (Cargo)
+Hydra F.O.F. Heavy Missile I, Qty: 100 (Cargo)
+Advanced 'Limos' Heavy Missile Bay I (Cargo)
+Shield Flux Coil I (Cargo)
+

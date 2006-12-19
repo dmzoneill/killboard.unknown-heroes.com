@@ -1,0 +1,59 @@
+2007.03.26 22:44
+
+Victim: Spartan dax
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Destroyed: Manticore
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: K Shara (laid the final blow)
+Security: 4.2
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Kari Pekka
+Security: 1.8
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Stabber
+Weapon: Stabber
+
+Name: Yushii
+Security: -0.3
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Stooboy
+Security: 1.2
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Myrmidon
+Weapon: Hobgoblin II
+
+Name: Sith Bandon
+Security: 5.0
+Alliance: Triumvirate.
+Corp: Viper  Squad
+Ship: Deimos
+Weapon: Heavy Ion Blaster II
+
+
+Destroyed items:
+
+Wrath Cruise Missile, Qty: 20
+'Arbalest' Cruise Launcher I
+'Arbalest' Cruise Launcher I
+'Arbalest' Cruise Launcher I
+Indirect Scanning Dampening Unit I
+Inertia Stabilizers I
+Wrath Cruise Missile, Qty: 156 (Cargo)
+Paradise Cruise Missile, Qty: 100 (Cargo)
+Cataclysm Cruise Missile, Qty: 150 (Cargo)
+

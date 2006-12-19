@@ -1,0 +1,26 @@
+2007.03.25 21:38
+
+Victim: Sandy Stormwolf
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Capsule
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Scer (laid the final blow)
+Security: 1.0
+Alliance: None
+Corp: Eterne
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+Name: DARKAS
+Security: 2.6
+Alliance: None
+Corp: Eterne
+Ship: Crusader
+Weapon: Dual Light Pulse Laser II
+
+

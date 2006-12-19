@@ -1,0 +1,19 @@
+2006.10.27 00:02
+
+Victim: Staind Cold
+Alliance: The Imperial Order
+Corp: MegaScope Conglomerate Structure Engineers
+Destroyed: Gallente Shuttle
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: DeSantis (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Falcon
+Weapon: Scourge Heavy Missile
+
+

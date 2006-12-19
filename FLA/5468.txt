@@ -1,0 +1,19 @@
+2006.10.05 20:17
+
+Victim: Gundam EZ8
+Alliance: None
+Corp: Royal Amarr Institute
+Destroyed: Impairor
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Hosanna (laid the final blow)
+Security: -0.7
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Jaguar
+Weapon: 250mm Light Artillery Cannon II
+
+

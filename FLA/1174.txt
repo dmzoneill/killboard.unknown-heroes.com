@@ -1,0 +1,178 @@
+2007.03.08 01:55
+
+Victim: Blood Ravennn
+Alliance: YouWhat
+Corp: Pringles Inc.
+Destroyed: Raven
+System: XZH-4X
+Security: 0.0
+
+Involved parties:
+
+Name: Yeep
+Security: 5.0
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Megathron
+Weapon: Berserker I
+
+Name: Eyeshadow
+Security: 5.0
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+Name: AdeptaCheese
+Security: 2.4
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Jesnen
+Security: -1.5
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Coercer
+Weapon: Coercer
+
+Name: Galan Johr
+Security: 4.2
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Drake
+Weapon: Fulmination Assault Missile
+
+Name: ZombyDog
+Security: 4.7
+Alliance: GoonSwarm
+Corp: BigMek Industries
+Ship: Thorax
+Weapon: Thorax
+
+Name: Caius Proximus
+Security: 0.5
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Johanen (laid the final blow)
+Security: 2.7
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Myrmidon
+Weapon: Regulated Neutron Phase Cannon I
+
+Name: Walumachoncha SA
+Security: 4.7
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Maller
+Weapon: Maller
+
+Name: SajuurCor
+Security: 4.7
+Alliance: The OSS
+Corp: Free Collective
+Ship: Crusader
+Weapon: Crusader
+
+Name: SeasonToRisk
+Security: 4.9
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Rupture
+Weapon: Rupture
+
+Name: Monopthalmus
+Security: 2.3
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Celestis
+Weapon: Celestis
+
+Name: Travellian
+Security: 0.0
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Stabber
+Weapon: Stabber
+
+Name: Miriyaka
+Security: 5.0
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Blackbird
+Weapon: Scourge Heavy Missile
+
+Name: Fvahnqroxt Pnarzjeld
+Security: 3.0
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Jaguar
+Weapon: 200mm AutoCannon II
+
+Name: Silistria
+Security: 0.6
+Alliance: GoonSwarm
+Corp: Black Omega Security
+Ship: Raptor
+Weapon: Raptor
+
+Name: Sulfa
+Security: 0.8
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Merlin
+Weapon: Sabretooth Light Missile
+
+Name: Brennah
+Security: 5.0
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Rifter
+Weapon: Bloodclaw Light Missile
+
+Name: Yan CanCook
+Security: 0.9
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Myrmidon
+Weapon: Warrior II
+
+Name: eddyc
+Security: 1.8
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Harbinger
+Weapon: Focused Medium Pulse Laser II
+
+Name: Nikos Iscariot
+Security: -1.3
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Rifter
+Weapon: Rocket Launcher I
+
+Name: Kai Wooglin
+Security: 0.1
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Rifter
+Weapon: Stasis Webifier I
+
+
+Destroyed items:
+
+Ditrigonal Thermal Barrier Crystallization I
+Warp Core Stabilizer I
+Warp Core Stabilizer I
+Warp Core Stabilizer I
+Warp Core Stabilizer I
+Iridium Charge L, Qty: 1523 (Cargo)
+Antimatter Charge L, Qty: 3130 (Cargo)
+Vespa II, Qty: 3 (Drone Bay)
+Vespa I (Drone Bay)
+

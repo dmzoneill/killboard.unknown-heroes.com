@@ -1,0 +1,31 @@
+2007.05.04 18:43
+
+Victim: Corovus
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Destroyed: Maulus
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Travieso (laid the final blow)
+Security: -2.6
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Claw
+Weapon: 150mm Light AutoCannon II
+
+Name: Rubens22
+Security: 2.7
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Ares
+Weapon: Flameburst Light Missile
+
+
+Destroyed items:
+
+Remote Sensor Dampener I
+Remote Sensor Dampener I
+

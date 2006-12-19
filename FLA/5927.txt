@@ -1,0 +1,33 @@
+2006.10.29 02:29
+
+Victim: AK Two
+Alliance: None
+Corp: Federal Navy Academy
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Hosanna (laid the final blow)
+Security: 0.6
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Thrasher
+Weapon: 280mm Howitzer Artillery II
+
+Name: Lady Vanquish
+Security: -0.1
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Thrasher
+Weapon: 200mm Light Prototype I Automatic Cannon
+
+Name: Needa3
+Security: 4.7
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Stabber
+Weapon: Assault Missile Launcher I
+
+

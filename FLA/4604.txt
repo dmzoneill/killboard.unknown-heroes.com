@@ -1,0 +1,145 @@
+2007.04.14 22:26
+
+Victim: alon blackhelm
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Destroyed: Raven
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Minmatar Control Tower Medium / Eternity INC.
+
+Name: Karmic (laid the final blow)
+Security: 3.9
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Abaddon
+Weapon: Tachyon Beam Laser II
+
+Name: LUCKY HEADY
+Security: -1.6
+Alliance: Mercenary Coalition
+Corp: Seraphin Technologies
+Ship: Tempest
+Weapon: Tempest
+
+Name: ZaKma
+Security: -0.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Megathron
+Weapon: Megathron
+
+Name: OutKast669
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Tempest
+Weapon: Tempest
+
+Name: numbers
+Security: 4.1
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Apocalypse
+Weapon: Apocalypse
+
+Name: psycorabbit
+Security: -1.8
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: 4SG GillHead
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Seraphin Technologies
+Ship: Malediction
+Weapon: Sabretooth Precision Light Missile
+
+Name: ER0X
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Zealot
+Weapon: Zealot
+
+Name: Karille
+Security: -1.6
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Taranis
+Weapon: Taranis
+
+Name: Exekias
+Security: 2.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: Legenda
+Security: 2.0
+Alliance: Mercenary Coalition
+Corp: Seraphin Technologies
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Tripline
+Security: 1.4
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Taranis
+Weapon: Taranis
+
+Name: Tracerone
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Seraphin Technologies
+Ship: Vengeance
+Weapon: Dual Light Beam Laser II
+
+Name: Tomas Ysidro
+Security: 1.5
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Eos
+Weapon: Balmer Series Targeting Inhibitor I
+
+Name: Larsson7
+Security: 4.4
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Wolf
+Weapon: Wolf
+
+Name: FA Avenger
+Security: 2.9
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Crow
+Weapon: Warp Disruptor II
+
+Name: AIRB
+Security: 3.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Falcon
+Weapon: ECM - Multispectral Jammer II
+
+
+Destroyed items:
+
+Heavy Nosferatu I
+Devastator Cruise Missile, Qty: 48
+'Arbalest' Cruise Launcher I
+Large Azeotropic Ward Salubrity I
+Ballistic Deflection Field II
+Invulnerability Field I
+Ballistic Control System II
+Power Diagnostic System II
+Cataclysm Cruise Missile, Qty: 2424 (Cargo)
+

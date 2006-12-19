@@ -1,0 +1,110 @@
+2007.04.17 02:47
+
+Victim: Draximus Cane
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Destroyed: Hurricane
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Primaxin
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Harbingers of Sarrow
+Ship: Ferox
+Weapon: Widowmaker Heavy Missile
+
+Name: dastommy79 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Thorax
+Weapon: Hammerhead I
+
+Name: DeSantis
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+Name: Kvarium Ki
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Arbitrator
+Weapon: Piranha Light Missile
+
+Name: Imaginary Number
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+Name: Aridante Lemure
+Security: 1.2
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Thrasher
+Weapon: Thrasher
+
+Name: Skull Fire
+Security: 0.8
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Capsule
+Weapon: 200mm 'Scout' I Accelerator Cannon
+
+Name: Tran Whistler
+Security: 5.3
+Alliance: Freelancer Alliance
+Corp: Harbingers of Sarrow
+Ship: Raptor
+Weapon: Thorn Rocket
+
+Name: The Cade
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Thorax
+Weapon: Thorax
+
+Name: Sha'ara Sha'amashira
+Security: 2.4
+Alliance: Freelancer Alliance
+Corp: J.I.T. Enterprises
+Ship: Stabber
+Weapon: Stabber
+
+Name: Ezeikiel
+Security: 0.6
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Vengeance
+Weapon: Vengeance
+
+Name: sparkvolt
+Security: -0.7
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Rifter
+Weapon: Small Nosferatu I
+
+
+Destroyed items:
+
+Dual 180mm AutoCannon II
+425mm AutoCannon II
+425mm AutoCannon II
+Heavy Missile Launcher II
+Heavy Missile Launcher II
+Scourge Precision Heavy Missile, Qty: 38
+Y-T8 Overcharged Hydrocarbon I Microwarpdrive
+Gyrostabilizer II
+Tracking Enhancer II
+Co-Processor II
+Cap Booster 800, Qty: 12 (Cargo)
+

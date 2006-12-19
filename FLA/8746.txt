@@ -1,0 +1,36 @@
+2006.12.10 01:26
+
+Victim: Samiloth Justinian
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Crow
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Pistonbroke
+Security: -1.4
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Raven
+Weapon: Infiltrator II
+
+Name: simcor (laid the final blow)
+Security: -1.9
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Astarte
+Weapon: Hobgoblin II
+
+
+Destroyed items:
+
+E5 Prototype Energy Vampire
+Rocket Launcher II
+Rocket Launcher II
+Thorn Rage Rocket, Qty: 27
+J5b Phased Prototype Warp Inhibitor I
+'Langour' Drive Disruptor I
+Foxfire Rage Rocket, Qty: 372 (Cargo)
+

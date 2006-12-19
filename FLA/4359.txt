@@ -1,0 +1,78 @@
+2007.04.08 20:39
+
+Victim: CUBANFOREVER
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Destroyed: Hyperion
+System: 2O9G-D
+Security: 0.0
+
+Involved parties:
+
+Name: Scourge Heavy Missile / Guristas
+
+Name: The Splendour
+Security: 0.9
+Alliance: Corelum Syndicate
+Corp: Coreli Corporation
+Ship: Vagabond
+Weapon: Dual 180mm AutoCannon II
+
+Name: Reeku
+Security: -1.6
+Alliance: Corelum Syndicate
+Corp: Coreli Corporation
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Kuentai
+Security: -5.8
+Alliance: Corelum Syndicate
+Corp: Coreli Corporation
+Ship: Sabre
+Weapon: Sabre
+
+Name: Arcazz
+Security: -0.6
+Alliance: Corelum Syndicate
+Corp: Coreli Corporation
+Ship: Jaguar
+Weapon: Jaguar
+
+Name: Akira Miyamoto (laid the final blow)
+Security: 4.8
+Alliance: Corelum Syndicate
+Corp: Coreli Corporation
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Viper ShizzIe
+Security: -4.6
+Alliance: Corelum Syndicate
+Corp: Coreli Corporation
+Ship: Taranis
+Weapon: Warrior II
+
+Name: Akane Miyamoto
+Security: -2.5
+Alliance: Corelum Syndicate
+Corp: Coreli Corporation
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+Heavy Diminishing Power System Drain I
+Modal Mega Neutron Particle Accelerator I
+Modal Mega Electron Particle Accelerator I
+Antimatter Charge L, Qty: 63
+Fleeting Propulsion Inhibitor I
+'Orion' Tracking CPU I
+Pseudoelectron Containment Field I
+N-Type Explosive Hardener I
+N-Type Thermic Hardener I
+N-Type Kinetic Hardener I
+Cap Booster 400, Qty: 10 (Cargo)
+Cap Booster 800, Qty: 9 (Cargo)
+

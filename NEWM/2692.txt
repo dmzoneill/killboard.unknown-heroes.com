@@ -1,0 +1,43 @@
+2007.03.03 03:24
+
+Victim: Jorax
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Thorax
+System: PXF-RF
+Security: 0.0
+
+Involved parties:
+
+Name: Hauth (laid the final blow)
+Security: 5.2
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Pilgrim
+Weapon: Valkyrie II
+
+Name: Perfidious Ichabod
+Security: 5.1
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Scorpion
+Weapon: Scorpion
+
+Name: Corbin Thoth
+Security: 5.0
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Thanatos
+Weapon: Thanatos
+
+
+Destroyed items:
+
+Heavy Ion Blaster I
+Antimatter Charge M, Qty: 112
+Warp Disruptor I
+Stasis Webifier I
+Medium Armor Repairer I
+Signal Amplifier I
+Hammerhead I, Qty: 3 (Drone Bay)
+

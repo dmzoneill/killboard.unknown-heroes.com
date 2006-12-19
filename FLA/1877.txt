@@ -1,0 +1,24 @@
+2007.01.07 17:50
+
+Victim: lemonds ll
+Alliance: Freelancer Alliance
+Corp: Feel Good Inc.
+Destroyed: Ibis
+System: Torrinos
+Security: 0.5
+
+Involved parties:
+
+Name: Anna Neura (laid the final blow)
+Security: -0.2
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Arazu
+Weapon: Vespa II
+
+
+Destroyed items:
+
+Civilian Gatling Railgun
+Basic Miner
+

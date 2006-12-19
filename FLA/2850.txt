@@ -1,0 +1,19 @@
+2007.03.11 21:29
+
+Victim: ConXtionS
+Alliance: Freelancer Alliance
+Corp: The Night Crew
+Destroyed: Capsule
+System: G8AD-C
+Security: 0.0
+
+Involved parties:
+
+Name: Great Jugger (laid the final blow)
+Security: 3.1
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Rapier
+Weapon: 650mm Artillery Cannon II
+
+

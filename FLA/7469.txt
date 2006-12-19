@@ -1,0 +1,40 @@
+2006.09.08 21:39
+
+Victim: Whittingdons Cat
+Alliance: None
+Corp: Federal Navy Academy
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Jumar Coldgin (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: fincormack
+Security: 2.3
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Enyo
+Weapon: 150mm Railgun II
+
+Name: Zimi Vlasic
+Security: 0.1
+Alliance: EVE Animal Control
+Corp: F.R.E.E. Explorer
+Ship: Wolf
+Weapon: 280mm Howitzer Artillery II
+
+Name: Bane Lord
+Security: 2.5
+Alliance: CORE.
+Corp: VentureCorp
+Ship: Taranis
+Weapon: 125mm Railgun II
+
+

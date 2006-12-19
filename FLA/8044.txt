@@ -1,0 +1,40 @@
+2006.10.07 02:08
+
+Victim: Elfaen Ethenwe
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Destroyed: Rook
+System: Litiura
+Security: 0.5
+
+Involved parties:
+
+Name: SLAPNUTZ (laid the final blow)
+Security: -1.8
+Alliance: None
+Corp: Privateers
+Ship: Tempest
+Weapon: 1400mm Gallium I Cannon
+
+Name: Morfane
+Security: -0.2
+Alliance: None
+Corp: Privateers
+Ship: Capsule
+Weapon: Hornet EC-300
+
+
+Destroyed items:
+
+Heavy Missile Launcher II
+Heavy Missile Launcher II
+Scourge Precision Heavy Missile, Qty: 66
+ECM - Multispectral Jammer II
+ECM - Multispectral Jammer II
+Signal Amplifier II
+Warp Disruptor I (Cargo)
+ECM - Ion Field Projector II (Cargo)
+ECM - Phase Inverter II, Qty: 2 (Cargo)
+ECM - White Noise Generator II, Qty: 2 (Cargo)
+Scourge Heavy Missile, Qty: 40 (Cargo)
+

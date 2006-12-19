@@ -1,0 +1,57 @@
+2006.11.26 15:45
+
+Victim: Wthor
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Destroyed: Tempest
+System: YZ-LQL
+Security: 0.0
+
+Involved parties:
+
+Name: Ign0raMus (laid the final blow)
+Security: 0.1
+Alliance: Establishment
+Corp: The Establishment
+Ship: Nyx
+Weapon: Templar
+
+Name: Loriena
+Security: -1.4
+Alliance: Establishment
+Corp: The Establishment
+Ship: Arazu
+Weapon: Fleeting Warp Scrambler I
+
+
+Destroyed items:
+
+1400mm Howitzer Artillery II
+1400mm Howitzer Artillery II
+1400mm Howitzer Artillery II
+1400mm Howitzer Artillery II
+Medium Nosferatu I
+EMP L
+EMP L
+EMP L
+EMP L
+EMP L
+EMP L
+EMP L
+EMP L
+Quake L
+Quake L
+Quake L
+Quake L
+Quake L
+Quake L
+Quake L
+Quake L
+'Malkuth' Assault Missile Launcher I
+Supplemental Scanning CPU I
+Supplemental Scanning CPU I
+Armor Explosive Hardener I
+Defender I, Qty: 63 (Cargo)
+Quake L, Qty: 639 (Cargo)
+Vespa I, Qty: 3 (Drone Bay)
+

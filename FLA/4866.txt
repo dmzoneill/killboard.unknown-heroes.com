@@ -1,0 +1,73 @@
+2007.04.18 02:41
+
+Victim: arthell
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Destroyed: Celestis
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Terdlinger
+Security: 4.8
+Alliance: Storm Armada
+Corp: stone grave haulage
+Ship: Hawk
+Weapon: Einherji
+
+Name: Konson (laid the final blow)
+Security: 3.7
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Chimera
+Weapon: Einherji
+
+Name: thedeadcows
+Security: 0.1
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Prophecy
+Weapon: Einherji
+
+Name: Arikas Talendar
+Security: 5.0
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Screamer
+Security: 0.4
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Chimera
+Weapon: Einherji
+
+Name: Ghost Hughdidit
+Security: 3.1
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Thanatos
+Weapon: Einherji
+
+Name: Athanasios Anastasiou
+Security: 5.0
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Hurricane
+Weapon: 220mm Medium Gallium I Machine Gun
+
+
+Destroyed items:
+
+Small Nosferatu I
+Medium Nosferatu I
+Medium Remote Armor Repair System I
+Indirect Scanning Dampening Unit I
+Indirect Scanning Dampening Unit I
+Indirect Scanning Dampening Unit I
+Sensor Booster I
+800mm Reinforced Steel Plates I
+Hornet I (Drone Bay)
+

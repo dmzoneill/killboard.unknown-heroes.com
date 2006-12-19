@@ -1,0 +1,40 @@
+2007.04.01 06:58
+
+Victim: Christopher Cook
+Alliance: Freelancer Alliance
+Corp: Terminal Velocity Inc.
+Destroyed: Capsule
+System: 3QE-9Q
+Security: 0.0
+
+Involved parties:
+
+Name: Anomaly21 (laid the final blow)
+Security: -1.0
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Lord Revent
+Security: 1.5
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Huginn
+Weapon: Huginn
+
+Name: Erikel
+Security: 4.5
+Alliance: Chorus of Dawn
+Corp: Cosmic Odyssey
+Ship: Myrmidon
+Weapon: 150mm Railgun II
+
+Name: Lorn Zolog
+Security: -1.3
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Harbinger
+Weapon: Heavy Pulse Laser II
+
+

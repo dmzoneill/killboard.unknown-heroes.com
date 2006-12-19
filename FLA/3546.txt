@@ -1,0 +1,26 @@
+2007.03.26 09:17
+
+Victim: ANNIHILATER
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Destroyed: Capsule
+System: Jita
+Security: 0.9
+
+Involved parties:
+
+Name: Druuge (laid the final blow)
+Security: -1.3
+Alliance: Privateer Alliance
+Corp: Huff Technologies
+Ship: Hurricane
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Jemz
+Security: 0.8
+Alliance: Privateer Alliance
+Corp: The Green Banana Corporation
+Ship: Malediction
+Weapon: Malediction
+
+

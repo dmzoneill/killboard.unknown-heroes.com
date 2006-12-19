@@ -1,0 +1,89 @@
+2007.05.02 02:24
+
+Victim: coldkill
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Destroyed: Thorax
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Appalachia
+Security: 5.2
+Alliance: YouWhat
+Corp: Pringles Inc.
+Ship: Cerberus
+Weapon: Scourge Heavy Missile
+
+Name: OutKast669
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Sleipnir
+Weapon: 720mm Howitzer Artillery II
+
+Name: MakkAnzy (laid the final blow)
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Astarte
+Weapon: Heavy Neutron Blaster II
+
+Name: Calistro
+Security: 3.7
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Deimos
+Weapon: Deimos
+
+Name: KILLOR
+Security: 4.4
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Archon
+Weapon: Warden I
+
+Name: xCERBERUS2
+Security: -0.6
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Rapier
+Weapon: Rapier
+
+Name: petergriffen
+Security: 2.8
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Crusader
+Weapon: Dual Light Pulse Laser II
+
+Name: War Bear
+Security: 2.8
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: Surfinal
+Security: 5.0
+Alliance: Axiom Empire
+Corp: United Society Starfleet
+Ship: Taranis
+Weapon: Light Electron Blaster II
+
+Name: xBeneGesseritx
+Security: 5.0
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Claw
+Weapon: 200mm AutoCannon II
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Void M, Qty: 160
+X5 Prototype I Engine Enervator
+Reactor Control Unit I
+

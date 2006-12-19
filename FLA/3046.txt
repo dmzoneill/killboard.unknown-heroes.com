@@ -1,0 +1,59 @@
+2007.03.23 06:18
+
+Victim: Andu Attrediese
+Alliance: Myriad Alliance
+Corp: Four Rings
+Destroyed: Blackbird
+System: IZ-AOB
+Security: 0.0
+
+Involved parties:
+
+Name: Kiara Diepp
+Security: -1.9
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Drake
+Weapon: Hornet II
+
+Name: Jack Greyson
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Flycatcher
+Weapon: Bloodclaw Light Missile
+
+Name: darkviron (laid the final blow)
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Darc Kaahar
+Security: -0.8
+Alliance: Freelancer Alliance
+Corp: Feel Good Inc.
+Ship: Celestis
+Weapon: Hobgoblin II
+
+Name: Jesnen
+Security: -1.3
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Vengeance
+Weapon: Medium Beam Laser II
+
+
+Destroyed items:
+
+Thunderbolt Heavy Missile, Qty: 27
+'Malkuth' Heavy Missile Launcher I
+Y-T8 Overcharged Hydrocarbon I Microwarpdrive
+Medium Capacitor Booster I
+Cap Booster 800
+Kapteyn Sensor Array Inhibitor I
+Kapteyn Sensor Array Inhibitor I
+Kapteyn Sensor Array Inhibitor I
+Ballistic Control System I
+

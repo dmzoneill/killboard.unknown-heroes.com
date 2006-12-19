@@ -1,0 +1,27 @@
+2007.04.20 06:45
+
+Victim: Siliya
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Manticore
+System: Perimeter
+Security: 1.0
+
+Involved parties:
+
+Name: Audemed (laid the final blow)
+Security: 0.0
+Alliance: Privateer Alliance
+Corp: Wraiths Reborn
+Ship: Stabber Fleet Issue
+Weapon: 220mm Medium 'Scout' Autocannon I
+
+
+Destroyed items:
+
+Improved Cloaking Device II
+Wrath Cruise Missile, Qty: 9
+'Arbalest' Cruise Launcher I
+Phased Muon Sensor Disruptor I
+Wrath Cruise Missile, Qty: 1000 (Cargo)
+

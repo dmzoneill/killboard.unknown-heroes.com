@@ -1,0 +1,45 @@
+2006.09.29 10:33
+
+Victim: Darknesss
+Alliance: Triumvirate.
+Corp: D00M.
+Destroyed: Megathron
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Carl tabot (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Raven
+Weapon: Inferno Javelin Torpedo
+
+Name: Padiworker
+Security: 5.0
+Alliance: None
+Corp: Nuevos Horizontes
+Ship: Raven
+Weapon: Partial Weapon Navigation
+
+Name: BlasterMechanism
+Security: 0.0
+Alliance: None
+Corp: State War Academy
+Ship: Ibis
+Weapon: Civilian Gatling Railgun
+
+
+Destroyed items:
+
+Medium Energy Neutralizer I
+Neutron Blaster Cannon II
+Null L, Qty: 320
+J5 Prototype Warp Inhibitor I
+X5 Prototype I Engine Enervator
+F85 Peripheral Damage System I
+Large 'Accommodation' Vestment Reconstructer I
+Magnetic Field Stabilizer II
+Magnetic Field Stabilizer II
+

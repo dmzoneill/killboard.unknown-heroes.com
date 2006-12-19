@@ -1,0 +1,29 @@
+2007.01.28 01:50
+
+Victim: Chaser Fox
+Alliance: Triumvirate.
+Corp: D00M.
+Destroyed: Sigil
+System: Aunenen
+Security: 0.4
+
+Involved parties:
+
+Name: elider (laid the final blow)
+Security: 4.8
+Alliance: Freelancer Alliance
+Corp: Sin-X Inc.
+Ship: Revelation
+Weapon: Dual Giga Pulse Laser I
+
+
+Destroyed items:
+
+Cynosural Field Generator I
+Y-S8 Hydrocarbon I Afterburners
+Local Hull Conversion Inertial Stabilizers I
+Local Hull Conversion Inertial Stabilizers I
+Local Hull Conversion Inertial Stabilizers I
+Nanofiber Internal Structure I
+Nanofiber Internal Structure I
+

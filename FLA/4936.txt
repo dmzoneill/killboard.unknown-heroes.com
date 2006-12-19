@@ -1,0 +1,54 @@
+2007.04.20 04:47
+
+Victim: Stone757
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Destroyed: Caracal
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: lethario desrtuction (laid the final blow)
+Security: 2.1
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Chimera
+Weapon: Dragonfly
+
+Name: Akthuul
+Security: 5.0
+Alliance: Storm Armada
+Corp: stone grave haulage
+Ship: Falcon
+Weapon: Einherji
+
+Name: Screamer
+Security: 0.6
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Chimera
+Weapon: Dragonfly
+
+Name: RuLuVdArR
+Security: 0.0
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Incursus
+Weapon: J5 Prototype Warp Inhibitor I
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 23
+Havoc Heavy Missile, Qty: 28
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Large Azeotropic Ward Salubrity I
+Large Converse I Deflection Catalyzer
+Warp Disruptor I
+Photon Scattering Field I
+Type-D Power Core Modification: Diagnostic System
+

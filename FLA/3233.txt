@@ -1,0 +1,27 @@
+2007.03.21 16:19
+
+Victim: Brillant Gal
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Destroyed: Vexor
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: eRogue (laid the final blow)
+Security: 0.0
+Alliance: Triumvirate.
+Corp: ViperSquad
+Ship: Brutix
+Weapon: Heavy Ion Blaster II
+
+
+Destroyed items:
+
+Small Nosferatu I
+Small Nosferatu I
+Warp Disruptor I
+Stasis Webifier I
+Vespa I, Qty: 4 (Drone Bay)
+

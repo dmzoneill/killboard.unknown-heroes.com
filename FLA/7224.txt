@@ -1,0 +1,67 @@
+2006.04.28 15:23
+
+Victim: Tirol
+Alliance: None
+Corp: The Arrow Project
+Destroyed: Caracal
+System: 3T7-M8
+Security: 0.0
+
+Involved parties:
+
+Name: Matt Stoner (laid the final blow)
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+Name: AXi0S
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Freelancer Union
+Ship: Taranis
+Weapon: Taranis
+
+Name: Akkijee
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Sabre
+Weapon: Sabre
+
+Name: Wousr
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Royal Flying Aces
+Ship: Capsule
+Weapon: OE-5200 Rocket Launcher
+
+Name: Ezrider
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Immortal Serial Killers
+Ship: Armageddon
+Weapon: Mega Beam Laser II
+
+Name: Hesprax
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Freelancer Union
+Ship: Crusader
+Weapon: Dual Light Beam Laser II
+
+Name: Guristas Eradicator / Guristas
+
+
+Destroyed items:
+
+Rocket Launcher II
+Rocket Launcher II
+Thorn Javelin Rocket, Qty: 20
+Large Shield Extender II
+Initiated Warp Jammer I
+Sensor Booster II
+Ballistic Control System I
+Thorn Javelin Rocket, Qty: 1572 (Cargo)
+

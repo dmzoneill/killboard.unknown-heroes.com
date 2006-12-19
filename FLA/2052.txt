@@ -1,0 +1,26 @@
+2007.01.19 05:25
+
+Victim: Danielson1012
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Destroyed: Capsule
+System: 5ZXX-K
+Security: 0.0
+
+Involved parties:
+
+Name: Kerr Talon (laid the final blow)
+Security: 1.5
+Alliance: None
+Corp: Agony Unleashed
+Ship: Jaguar
+Weapon: 150mm Light AutoCannon II
+
+Name: Rells
+Security: 0.9
+Alliance: None
+Corp: Agony Unleashed
+Ship: Harpy
+Weapon: Warp Disruptor I
+
+

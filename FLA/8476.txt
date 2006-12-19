@@ -1,0 +1,61 @@
+2006.11.20 10:23
+
+Victim: Soldroz
+Alliance: Freelancer Alliance
+Corp: Thors Hammers
+Destroyed: Raptor
+System: F7C-H0
+Security: 0.0
+
+Involved parties:
+
+Name: Legos Pants (laid the final blow)
+Security: 5.0
+Alliance: FREGE Alliance
+Corp: Trioptimum
+Ship: Nighthawk
+Weapon: Scourge Heavy Missile
+
+Name: Lex Bloodfield
+Security: 4.8
+Alliance: FREGE Alliance
+Corp: Trioptimum
+Ship: Sacrilege
+Weapon: Havoc Heavy Missile
+
+Name: bodycollecter
+Security: 1.4
+Alliance: FREGE Alliance
+Corp: CAPITAL TRUST
+Ship: Blackbird
+Weapon: Standard Missile Launcher I
+
+Name: Seph Bloodfield
+Security: 1.3
+Alliance: FREGE Alliance
+Corp: Ashen Lion Mining and Production Consortium
+Ship: Malediction
+Weapon: 'Limos' Rocket Launcher I
+
+Name: Panconomis
+Security: 5.0
+Alliance: YouWhat
+Corp: The Silent Rage
+Ship: Malediction
+Weapon: Gatling Pulse Laser II
+
+Name: Koban
+Security: 3.2
+Alliance: FREGE Alliance
+Corp: Trioptimum
+Ship: Falcon
+Weapon: ECM - Multispectral Jammer II
+
+Name: Diziet DeWar
+Security: 5.0
+Alliance: FREGE Alliance
+Corp: Trioptimum
+Ship: Armageddon
+Weapon: Armageddon
+
+

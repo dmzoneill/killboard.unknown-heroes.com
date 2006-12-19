@@ -1,0 +1,37 @@
+2007.05.21 17:37
+
+Victim: Crimzon Claw
+Alliance: None
+Corp: State War Academy
+Destroyed: Condor
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Ocara Nezus (laid the final blow)
+Security: 1.5
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: brotula
+Security: 2.7
+Alliance: Event-Horizon
+Corp: Panta-Rhei
+Ship: Ares
+Weapon: Flameburst Light Missile
+
+Name: Lee Thrace
+Security: 3.1
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Eris
+Weapon: Eris
+
+
+Destroyed items:
+
+Bookmark (Cargo)
+

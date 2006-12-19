@@ -1,0 +1,65 @@
+2007.04.18 04:35
+
+Victim: FlobbMkII
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Eris
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Wladomir Jed
+Security: 3.7
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+Name: War Bear (laid the final blow)
+Security: 2.8
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Stiletto
+Weapon: Bloodclaw Light Missile
+
+Name: Hazmat 69
+Security: -1.6
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Crow
+Weapon: Sabretooth Light Missile
+
+Name: Corlan Dashiva
+Security: 2.8
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Crow
+Weapon: Bloodclaw Fury Light Missile
+
+Name: Admentus Cor'vion
+Security: -0.5
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Taranis
+Weapon: Warp Disruptor II
+
+
+Destroyed items:
+
+Small 'Ghoul' Energy Siphon I
+Light Electron Blaster II
+Light Electron Blaster II
+Light Electron Blaster II
+Light Electron Blaster II
+Light Electron Blaster II
+Null S, Qty: 360
+Warp Disrupt Probe, Qty: 9
+Interdiction Sphere Launcher I
+1MN MicroWarpdrive II
+Local Hull Conversion Nanofiber Structure I
+Corpse (Cargo)
+Null S, Qty: 1355 (Cargo)
+Warp Disrupt Probe, Qty: 22 (Cargo)
+Hobgoblin I (Drone Bay)
+

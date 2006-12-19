@@ -1,0 +1,64 @@
+2006.07.20 23:17
+
+Victim: Minesweeper
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Destroyed: Scorpion
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Sith Bandon
+Security: 2.8
+Alliance: Ascendant Frontier
+Corp: VersaTech Interstellar Ltd.
+Ship: Thorax
+Weapon: Valkyrie II
+
+Name: KolaKing (laid the final blow)
+Security: 5.0
+Alliance: Ascendant Frontier
+Corp: VersaTech Interstellar Ltd.
+Ship: Deimos
+Weapon: Heavy Ion Blaster II
+
+Name: Olaf Thaddius
+Security: 2.8
+Alliance: None
+Corp: Caldari Provisions
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Mr Fix
+Security: 5.0
+Alliance: Ascendant Frontier
+Corp: VersaTech Interstellar Ltd.
+Ship: Rook
+Weapon: Scourge Heavy Missile
+
+Name: Sehti
+Security: -0.5
+Alliance: Ascendant Frontier
+Corp: DarkStar 1
+Ship: Jaguar
+Weapon: Jaguar
+
+
+Destroyed items:
+
+Heavy 'Ghoul' Energy Siphon I
+Wrath Cruise Missile, Qty: 63
+'Limos' Cruise Launcher I
+'Limos' Cruise Launcher I
+Small Tractor Beam I
+'Hypnos' Multispectral ECM I
+Induced Multispectral ECM I
+Prototype I Sensor Booster
+Damage Control I
+Warp Core Stabilizer I
+Warp Core Stabilizer I
+Devastator Cruise Missile, Qty: 500 (Cargo)
+Valkyrie I, Qty: 3 (Drone Bay)
+Infiltrator I (Drone Bay)
+

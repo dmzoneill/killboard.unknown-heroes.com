@@ -1,0 +1,106 @@
+2006.08.27 21:43
+
+Victim: Kiztent
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Destroyed: Tempest
+System: WUZ-WM
+Security: 0.0
+
+Involved parties:
+
+Name: Eeyore
+Security: -1.0
+Alliance: Lotka Volterra
+Corp: Shinra
+Ship: Apocalypse
+Weapon: Apocalypse
+
+Name: Fubumaki (laid the final blow)
+Security: -2.7
+Alliance: Lotka Volterra
+Corp: Shinra
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: King Dave
+Security: 3.8
+Alliance: Lotka Volterra
+Corp: Shinra
+Ship: Apocalypse
+Weapon: Hobgoblin II
+
+Name: FC Raptor
+Security: 3.6
+Alliance: Lotka Volterra
+Corp: Shinra
+Ship: Raven
+Weapon: Bane Javelin Torpedo
+
+Name: McDan
+Security: -0.6
+Alliance: Lotka Volterra
+Corp: Shinra
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Zharak
+Security: 5.0
+Alliance: Lotka Volterra
+Corp: Shinra
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+Name: Hornster
+Security: 5.0
+Alliance: Lotka Volterra
+Corp: Shinra
+Ship: Raptor
+Weapon: Raptor
+
+Name: Elve Sorrow
+Security: 3.6
+Alliance: Lotka Volterra
+Corp: Shinra
+Ship: Apocalypse
+Weapon: Tachyon Beam Laser II
+
+Name: Ghost Reaper
+Security: 1.7
+Alliance: Lotka Volterra
+Corp: Shinra
+Ship: Malediction
+Weapon: Malediction
+
+Name: Martyr 01
+Security: 1.7
+Alliance: Lotka Volterra
+Corp: Shinra
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: ViperVenom
+Security: -1.1
+Alliance: Lotka Volterra
+Corp: Shinra
+Ship: Vagabond
+Weapon: Dual 180mm AutoCannon II
+
+
+Destroyed items:
+
+800mm Repeating Artillery I
+800mm Repeating Artillery I
+Titanium Sabot L, Qty: 231
+Juggernaut Torpedo, Qty: 26
+XT-9000 Cruise Launcher
+'Arbalest' Cruise Launcher I
+'Arbalest' Siege Missile Launcher
+Eutectic I Capacitor Charge Array
+100MN Afterburner I
+Large 'Accommodation' Vestment Reconstructer I
+Armor Kinetic Hardener II
+Juggernaut Torpedo, Qty: 150 (Cargo)
+Wrath Cruise Missile, Qty: 150 (Cargo)
+Vespa II (Drone Bay)
+

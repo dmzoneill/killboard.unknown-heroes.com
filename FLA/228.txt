@@ -1,0 +1,38 @@
+2007.01.19 02:12
+
+Victim: Jehovah Cooper
+Alliance: Firmus Ixion
+Corp: Convergent
+Destroyed: Crow
+System: 2R-CRW
+Security: 0.0
+
+Involved parties:
+
+Name: Akathrielah (laid the final blow)
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Moa
+Weapon: Limited Ion Blaster I
+
+Name: alon blackhelm
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Unknown
+Weapon: 250mm Railgun II
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 50
+Upgraded 'Limos' Standard Missile Bay I
+Upgraded 'Limos' Standard Missile Bay I
+Upgraded 'Limos' Standard Missile Bay I
+X5 Prototype I Engine Enervator
+Nanofiber Internal Structure I
+Bloodclaw Light Missile, Qty: 734 (Cargo)
+Piranha Light Missile, Qty: 784 (Cargo)
+Sabretooth Light Missile, Qty: 696 (Cargo)
+

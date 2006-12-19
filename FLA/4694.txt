@@ -1,0 +1,30 @@
+2007.04.18 09:26
+
+Victim: Myndpyre Ryche
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Destroyed: Hawk
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: truefranco (laid the final blow)
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Vexor
+Weapon: Warrior II
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 58
+'Malkuth' Standard Missile Launcher I
+'Malkuth' Standard Missile Launcher I
+Small Shield Booster II
+1MN MicroWarpdrive II
+Micro Auxiliary Power Core I
+Bloodclaw Light Missile, Qty: 1772 (Cargo)
+Piranha Light Missile, Qty: 500 (Cargo)
+

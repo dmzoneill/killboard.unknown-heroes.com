@@ -1,0 +1,42 @@
+2006.09.22 21:20
+
+Victim: Allistar Mckeon
+Alliance: None
+Corp: GalacTECH Unlimited
+Destroyed: Crow
+System: OWXT-5
+Security: 0.0
+
+Involved parties:
+
+Name: Kremnican (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Cerberus
+Weapon: Scourge Precision Heavy Missile
+
+Name: Noitaakka
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+Name: TasKu
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Thorax
+Weapon: J5 Prototype Warp Inhibitor I
+
+
+Destroyed items:
+
+Sabretooth Light Missile, Qty: 120
+'Arbalest' Standard Missile Launcher
+Eutectic I Capacitor Charge Array
+Fleeting Warp Scrambler I
+Bloodclaw Light Missile, Qty: 1193 (Cargo)
+Sabretooth Light Missile, Qty: 2351 (Cargo)
+

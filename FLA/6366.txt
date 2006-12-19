@@ -1,0 +1,80 @@
+2006.11.12 23:49
+
+Victim: Strontium Dog
+Alliance: None
+Corp: GeoTech
+Destroyed: Maller
+System: X-7OMU
+Security: 0.0
+
+Involved parties:
+
+Name: Severa Crest (laid the final blow)
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Hosanna
+Security: 1.7
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Tempest
+Weapon: Thunderbolt Heavy Missile
+
+Name: Princess Alia
+Security: 0.1
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Tempest
+Weapon: Paradise Cruise Missile
+
+Name: Kishan Tor
+Security: 1.1
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Raven
+Weapon: Cataclysm Cruise Missile
+
+Name: jacass8496
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Enyo
+Weapon: Enyo
+
+Name: Velithe
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Almagar Phog
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Raptor
+Weapon: Raptor
+
+Name: pROMp
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: Feel Good Inc.
+Ship: Celestis
+Weapon: Remote Sensor Dampener I
+
+
+Destroyed items:
+
+Quad Light Beam Laser I
+Standard M
+Standard M
+Standard M
+Standard M
+10MN Afterburner I
+Small Armor Repairer II
+Heat Sink I
+Energized Adaptive Nano Membrane I
+

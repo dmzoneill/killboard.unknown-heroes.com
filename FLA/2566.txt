@@ -1,0 +1,30 @@
+2007.02.22 08:10
+
+Victim: Llondon Hilton
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Enyo
+System: K4YZ-Y
+Security: 0.0
+
+Involved parties:
+
+Name: Milo Deadstar (laid the final blow)
+Security: -1.4
+Alliance: Veto Corp
+Corp: Veto.
+Ship: Rapier
+Weapon: 720mm Howitzer Artillery II
+
+
+Destroyed items:
+
+Light Neutron Blaster I
+Light Neutron Blaster I
+Light Neutron Blaster I
+Light Neutron Blaster I
+Antimatter Charge S, Qty: 92
+Catalyzed Cold-Gas I Arcjet Thrusters
+Fleeting Progressive Warp Scrambler I
+Damage Control II
+

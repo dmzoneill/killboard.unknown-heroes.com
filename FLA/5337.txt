@@ -1,0 +1,164 @@
+2007.04.25 23:21
+
+Victim: RayTruz
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Raven
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Xi Dioxyde (laid the final blow)
+Security: 2.4
+Alliance: Mercenary Coalition
+Corp: Seraphin Technologies
+Ship: Apocalypse
+Weapon: Mega Beam Laser II
+
+Name: Lighty
+Security: 4.7
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: fbR
+Security: 3.8
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Megathron
+Weapon: Megathron
+
+Name: Mang Vilaban
+Security: 3.0
+Alliance: Corelum Syndicate
+Corp: Coreli Corporation
+Ship: Megathron
+Weapon: Megathron
+
+Name: Eteoneus
+Security: 0.8
+Alliance: Mercenary Coalition
+Corp: Seraphin Technologies
+Ship: Tempest
+Weapon: Tempest
+
+Name: Esaka
+Security: 4.4
+Alliance: Firmus Ixion
+Corp: Hunters Agency
+Ship: Rokh
+Weapon: Rokh
+
+Name: maarud
+Security: 3.0
+Alliance: Corelum Syndicate
+Corp: Coreli Corporation
+Ship: Megathron
+Weapon: Megathron
+
+Name: Crovan
+Security: 2.8
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Megathron
+Weapon: Megathron
+
+Name: Longrin
+Security: 3.2
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Tempest
+Weapon: Tempest
+
+Name: MASTER PSI
+Security: 3.7
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Ship: Apocalypse
+Weapon: Apocalypse
+
+Name: L3dZ3P
+Security: 5.0
+Alliance: YouWhat
+Corp: Cosmic Odyssey
+Ship: Rokh
+Weapon: Wrath Cruise Missile
+
+Name: Rarnac Brak
+Security: 0.0
+Alliance: YouWhat
+Corp: Cosmic Odyssey
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery I
+
+Name: Appalachia
+Security: 5.2
+Alliance: YouWhat
+Corp: Pringles Inc.
+Ship: Crow
+Weapon: Warp Disruptor II
+
+Name: Rukaz
+Security: 3.1
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Sukur
+Security: 4.4
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Tempest
+Weapon: 1400mm Carbine Howitzer I
+
+Name: Guristas Eradicator / Guristas
+
+Name: LUCKY HEADY
+Security: -1.6
+Alliance: Mercenary Coalition
+Corp: Seraphin Technologies
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Gulzan
+Security: 1.6
+Alliance: Lotka Volterra
+Corp: FinFleet
+Ship: Armageddon
+Weapon: Tachyon Beam Laser II
+
+Name: karbun kell
+Security: 0.2
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Claw
+Weapon: 250mm Light Artillery Cannon II
+
+Name: Callistus
+Security: -2.3
+Alliance: Corelum Syndicate
+Corp: Coreli Corporation
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+
+Destroyed items:
+
+Heavy Nosferatu I
+Wrath Cruise Missile, Qty: 40
+Paradise Cruise Missile, Qty: 20
+'Malkuth' Cruise Launcher I
+Cruise Missile Launcher I
+Cruise Missile Launcher I
+X-Large C5-L Emergency Shield Overload I
+Invulnerability Field I
+Shield Boost Amplifier I
+Power Diagnostic System I
+Power Diagnostic System I
+Power Diagnostic System I
+Power Diagnostic System I
+Paradise Cruise Missile, Qty: 913 (Cargo)
+

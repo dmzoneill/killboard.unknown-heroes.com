@@ -1,0 +1,80 @@
+2007.04.08 10:25
+
+Victim: speal
+Alliance: Freelancer Alliance
+Corp: ACCORD Industries
+Destroyed: Raven
+System: F7C-H0
+Security: 0.0
+
+Involved parties:
+
+Name: wph0r
+Security: 3.9
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Drake
+Weapon: Heavy Missile Launcher II
+
+Name: Lakastre
+Security: 0.5
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Curse
+Weapon: Hammerhead II
+
+Name: obiele
+Security: 2.7
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Damnation
+Weapon: Damnation
+
+Name: mama guru
+Security: 2.9
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Ship: Thorax
+Weapon: Thorax
+
+Name: Messmint
+Security: 5.0
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Ship: Rupture
+Weapon: Rupture
+
+Name: mr ioso
+Security: 3.6
+Alliance: YouWhat
+Corp: Cosmic Odyssey
+Ship: Caracal
+Weapon: Thunderbolt Heavy Missile
+
+Name: Blaxi
+Security: 5.0
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Wolf
+Weapon: Wolf
+
+Name: Mr MA (laid the final blow)
+Security: 3.6
+Alliance: YouWhat
+Corp: Cosmic Odyssey
+Ship: Celestis
+Weapon: 200mm Railgun I
+
+Name: Tzulan
+Security: 2.9
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Heretic
+Weapon: Piranha Light Missile
+
+
+Destroyed items:
+
+Heavy Nosferatu I
+'Arbalest' Siege Missile Launcher
+

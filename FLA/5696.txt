@@ -1,0 +1,35 @@
+2006.10.10 14:40
+
+Victim: Danno
+Alliance: None
+Corp: Privateers
+Destroyed: Wolf
+System: Torrinos
+Security: 0.5
+
+Involved parties:
+
+Name: zoturi (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Vagabond
+Weapon: Dual 180mm AutoCannon II
+
+Name: brian crainie
+Security: 2.3
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Thorax
+Weapon: Light Neutron Blaster II
+
+
+Destroyed items:
+
+200mm AutoCannon II
+200mm AutoCannon II
+Small 'Knave' I Energy Drain
+EMP S, Qty: 60
+Small Armor Repairer II
+Energized Adaptive Nano Membrane I
+

@@ -1,0 +1,104 @@
+2007.04.01 22:46
+
+Victim: alon blackhelm
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Destroyed: Raven
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Waagaa Ktlehr
+Security: -1.1
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Aeon
+Weapon: Einherji
+
+Name: Ale Tricio
+Security: 2.1
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Archon
+Weapon: Dragonfly
+
+Name: Green Leaner
+Security: 2.1
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Sedith (laid the final blow)
+Security: 1.7
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Aeon
+Weapon: Firbolg
+
+Name: c0rn1
+Security: -2.2
+Alliance: S.E.R.A
+Corp: Seraphin Technologies
+Ship: Nidhoggur
+Weapon: Firbolg
+
+Name: Dinger
+Security: 4.5
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Thanatos
+Weapon: Firbolg
+
+Name: Queldonus
+Security: 2.9
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Nidhoggur
+Weapon: Einherji
+
+Name: Shadowjet
+Security: -1.3
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Crow
+Weapon: TE-2100 Standard Missile Bay
+
+Name: Rahzorus
+Security: 0.9
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Exekias
+Security: 2.9
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Stiletto
+Weapon: Rocket Launcher II
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Cruise Missile Launcher II
+Cruise Missile Launcher II
+Siege Missile Launcher II
+Cataclysm Precision Cruise Missile, Qty: 16
+Inferno Rage Torpedo
+Inferno Rage Torpedo
+Inferno Rage Torpedo
+Inferno Rage Torpedo
+Inferno Rage Torpedo
+Inferno Rage Torpedo
+Inferno Rage Torpedo
+Inferno Rage Torpedo
+Heat Dissipation Field II
+Co-Processor II
+'Pandemonium' I Ballistic Enhancement
+Cataclysm Precision Cruise Missile, Qty: 1946 (Cargo)
+Inferno Rage Torpedo, Qty: 920 (Cargo)
+Bane Javelin Torpedo, Qty: 920 (Cargo)
+

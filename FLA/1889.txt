@@ -1,0 +1,85 @@
+2007.01.08 00:38
+
+Victim: Goca
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Destroyed: Scorpion
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Heinky
+Security: 2.7
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Abaddon
+Weapon: Abaddon
+
+Name: Captain Rickdick (laid the final blow)
+Security: 0.0
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Devastator Precision Cruise Missile
+
+Name: duece duece
+Security: 5.0
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Maelstrom
+Weapon: 1400mm Howitzer Artillery II
+
+Name: ETS4ME
+Security: 0.7
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Cruise Missile Launcher II
+
+Name: Arnold Swartzenegger
+Security: -0.2
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+Name: Masta Killa
+Security: -1.7
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Warrior II
+
+Name: MEISTERderPUPPEN
+Security: 0.1
+Alliance: None
+Corp: Deep Core Mining Inc.
+Ship: Sabre
+Weapon: Sabre
+
+Name: SATAN
+Security: -0.8
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Remote Sensor Dampener II
+
+
+Destroyed items:
+
+Heavy Diminishing Power System Drain I
+Cataclysm Cruise Missile, Qty: 19
+Paradise Cruise Missile, Qty: 19
+ECM - Spatial Destabilizer I
+ECM - Spatial Destabilizer I
+ECM - Spatial Destabilizer I
+Kapteyn Sensor Array Inhibitor I
+Kapteyn Sensor Array Inhibitor I
+Sensor Booster II
+Initiated Signal Distortion Amplifier I
+Compulsive Signal Distortion Amplifier I
+Paradise Cruise Missile, Qty: 964 (Cargo)
+Phoenix F.O.F. Cruise Missile I, Qty: 200 (Cargo)
+Hornet EC-300, Qty: 2 (Drone Bay)
+

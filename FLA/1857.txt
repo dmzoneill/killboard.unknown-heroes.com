@@ -1,0 +1,44 @@
+2007.01.07 02:22
+
+Victim: reched
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Destroyed: Rifter
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Lemlins Craken (laid the final blow)
+Security: -0.3
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Wrath Cruise Missile
+
+Name: Captain Rickdick
+Security: -0.1
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Warrior II
+
+Name: ETS4ME
+Security: 0.7
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+
+Destroyed items:
+
+150mm Railgun I
+Uranium Charge S, Qty: 40
+1MN MicroWarpdrive I
+Stasis Webifier I
+Capacitor Power Relay I
+Capacitor Power Relay I
+Iron Charge S, Qty: 60 (Cargo)
+Uranium Charge S, Qty: 60 (Cargo)
+

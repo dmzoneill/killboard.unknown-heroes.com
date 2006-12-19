@@ -1,0 +1,79 @@
+2006.11.11 19:49
+
+Victim: GordonShumway
+Alliance: None
+Corp: Ultima Ratio Regum
+Destroyed: Rifter
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Durante Alighieri
+Security: 2.8
+Alliance: Schism.
+Corp: New Light
+Ship: Caracal
+Weapon: Thunderbolt Heavy Missile
+
+Name: Flashh Gorden
+Security: 3.4
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: digital oxygen (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Deimos
+Weapon: Heavy Electron Blaster II
+
+Name: MAD D0G
+Security: -0.7
+Alliance: None
+Corp: Ganksters Paradise
+Ship: Blackbird
+Weapon: Havoc Heavy Missile
+
+Name: danutza2006
+Security: 3.4
+Alliance: O X I D E
+Corp: W33D Corp.
+Ship: Vexor
+Weapon: 200mm 'Scout' I Accelerator Cannon
+
+Name: forator2
+Security: 3.9
+Alliance: O X I D E
+Corp: W33D Corp.
+Ship: Thorax
+Weapon: Fleeting Warp Scrambler I
+
+Name: al3x andra
+Security: 4.4
+Alliance: O X I D E
+Corp: W33D Corp.
+Ship: Breacher
+Weapon: 250mm Light Artillery Cannon I
+
+Name: LizzyD
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Ishkur
+Weapon: Ishkur
+
+
+Destroyed items:
+
+150mm Light AutoCannon II
+150mm Light AutoCannon II
+EMP S, Qty: 160
+Small Remote Armor Repair System I
+Stasis Webifier I
+Small Armor Repairer I
+Micro Auxiliary Power Core I
+EMP S, Qty: 1000 (Cargo)
+

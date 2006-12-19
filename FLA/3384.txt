@@ -1,0 +1,23 @@
+2007.03.25 00:13
+
+Victim: Nim Nom
+Alliance: Freelancer Alliance
+Corp: J.I.T. Enterprises
+Destroyed: Iteron Mark V
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: GoodbyeKitty (laid the final blow)
+Security: -0.4
+Alliance: None
+Corp: The Kindergarden
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+
+Destroyed items:
+
+Heavy Water, Qty: 37524 (Cargo)
+

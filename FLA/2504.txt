@@ -1,0 +1,81 @@
+2007.02.16 22:54
+
+Victim: wrecker300
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Drake
+System: F-NMX6
+Security: 0.0
+
+Involved parties:
+
+Name: GuffenCom
+Security: -2.0
+Alliance: None
+Corp: The Kru
+Ship: Typhoon
+Weapon: Ogre II
+
+Name: UltraDragon (laid the final blow)
+Security: -1.6
+Alliance: None
+Corp: The Kru
+Ship: Typhoon
+Weapon: Bane Torpedo
+
+Name: Svavz
+Security: -7.3
+Alliance: None
+Corp: The Kru
+Ship: Typhoon
+Weapon: Berserker I
+
+Name: mirtax
+Security: -8.9
+Alliance: None
+Corp: The Kru
+Ship: Dominix
+Weapon: Ogre II
+
+Name: Crazyness
+Security: 0.6
+Alliance: None
+Corp: The Kru
+Ship: Crow
+Weapon: TE-2100 Standard Missile Bay
+
+Name: xtreamer
+Security: -5.9
+Alliance: None
+Corp: The Kru
+Ship: Taranis
+Weapon: Faint Epsilon Warp Prohibitor I
+
+Name: Verizana
+Security: -2.9
+Alliance: None
+Corp: The Kru
+Ship: Lachesis
+Weapon: Low Frequency Sensor Suppressor I
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 110
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Large F-S9 Regolith Shield Induction
+Ditrigonal Thermal Barrier Crystallization I
+Ballistic Control System I
+Beta Reactor Control: Diagnostic System I
+Beta Reactor Control: Diagnostic System I
+Scourge Heavy Missile, Qty: 1582 (Cargo)
+Valkyrie I (Drone Bay)
+Acolyte I (Drone Bay)
+Warrior I (Drone Bay)
+

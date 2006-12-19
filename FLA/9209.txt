@@ -1,0 +1,40 @@
+2007.05.02 02:25
+
+Victim: coldkill
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Destroyed: Capsule
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: xBeneGesseritx
+Security: 5.0
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Claw
+Weapon: Claw
+
+Name: Surfinal
+Security: 5.0
+Alliance: Axiom Empire
+Corp: United Society Starfleet
+Ship: Taranis
+Weapon: Taranis
+
+Name: petergriffen (laid the final blow)
+Security: 2.8
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Crusader
+Weapon: Dual Light Pulse Laser II
+
+Name: War Bear
+Security: 2.8
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Stiletto
+Weapon: 'Arbalest' Standard Missile Launcher
+
+

@@ -1,0 +1,67 @@
+2007.04.17 01:35
+
+Victim: FlashSpawn
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Destroyed: Taranis
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Aridante Lemure (laid the final blow)
+Security: 1.2
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Ship: Thrasher
+Weapon: 280mm Howitzer Artillery II
+
+Name: Tran Whistler
+Security: 5.3
+Alliance: Freelancer Alliance
+Corp: Harbingers of Sarrow
+Ship: Raptor
+Weapon: Thorn Rocket
+
+Name: dastommy79
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Thorax
+Weapon: Hammerhead I
+
+Name: The Cade
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Capsule
+Weapon: Warp Scrambler I
+
+Name: alon blackhelm
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Thorax
+Weapon: Thorax
+
+Name: Kvarium Ki
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Arbitrator
+Weapon: Target Painter I
+
+
+Destroyed items:
+
+Light Neutron Blaster II
+Light Neutron Blaster II
+Null S, Qty: 49
+Warp Disruptor I
+X5 Prototype I Engine Enervator
+Magnetic Field Stabilizer II
+Micro Auxiliary Power Core I
+X5 Prototype I Engine Enervator (Cargo)
+Null S, Qty: 666 (Cargo)
+Warrior II, Qty: 2 (Drone Bay)
+

@@ -1,0 +1,170 @@
+2007.03.15 01:43
+
+Victim: Daedal Virtu
+Alliance: Freelancer Alliance
+Corp: Blackwater Squadron
+Destroyed: Curse
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: DeathGrip
+Security: 2.3
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Flycatcher
+Weapon: Foxfire Javelin Rocket
+
+Name: Landock 360 (laid the final blow)
+Security: 4.1
+Alliance: Xelas Alliance
+Corp: Fallen Angel's
+Ship: Eris
+Weapon: Light Ion Blaster II
+
+Name: Bruce Bannon
+Security: 0.5
+Alliance: Xelas Alliance
+Corp: Mining Bytes Inc.
+Ship: Moa
+Weapon: Moa
+
+Name: Omar Shakti
+Security: 5.0
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Taranis
+Weapon: Taranis
+
+Name: Zyta Eke
+Security: 3.3
+Alliance: Xelas Alliance
+Corp: Bombshell Cartel
+Ship: Crusader
+Weapon: Crusader
+
+Name: Mongo Peck
+Security: 4.9
+Alliance: Xelas Alliance
+Corp: Requiem of Hades
+Ship: Taranis
+Weapon: Taranis
+
+Name: kezz2411
+Security: 5.3
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: e3joker
+Security: 3.7
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Harpy
+Weapon: Harpy
+
+Name: Callistus
+Security: -2.8
+Alliance: Corelum Syndicate
+Corp: Coreli Corporation
+Ship: Taranis
+Weapon: Taranis
+
+Name: Fat Bloke
+Security: 1.8
+Alliance: Xelas Alliance
+Corp: Catalyst Reaction
+Ship: Crow
+Weapon: Bloodclaw Fury Light Missile
+
+Name: ZAX0236
+Security: 5.0
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Crow
+Weapon: Sabretooth Precision Light Missile
+
+Name: El Coyote
+Security: 3.4
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Capsule
+Weapon: Upgraded 'Limos' Standard Missile Bay I
+
+Name: Baranof
+Security: 5.0
+Alliance: Axiom Empire
+Corp: United Society Starfleet
+Ship: Eris
+Weapon: Eris
+
+Name: Monticore D'Muertos
+Security: 5.0
+Alliance: Axiom Empire
+Corp: United Society Starfleet
+Ship: Raptor
+Weapon: Raptor
+
+Name: doc627
+Security: 5.0
+Alliance: Axiom Empire
+Corp: United Society Starfleet
+Ship: Crow
+Weapon: Flameburst Light Missile
+
+Name: Kendex
+Security: 3.5
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Harpy
+Weapon: Harpy
+
+Name: Bedrock
+Security: 0.2
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: kIM JONGELL
+Security: 4.8
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: Oortog
+Security: 4.0
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Enyo
+Weapon: Enyo
+
+Name: pliskin hr
+Security: 1.1
+Alliance: Xelas Alliance
+Corp: Fallen Angel's
+Ship: Crow
+Weapon: 'Limos' Rocket Launcher I
+
+Name: Rif
+Security: 5.0
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Vengeance
+Weapon: Vengeance
+
+
+Destroyed items:
+
+E50 Prototype Energy Vampire
+Drone Link Augmentor I
+Warp Disruptor I
+X5 Prototype I Engine Enervator
+Omnidirectional Tracking Link I
+Energized Adaptive Nano Membrane II
+Energized Adaptive Nano Membrane II
+Vespa II, Qty: 2 (Drone Bay)
+

@@ -1,0 +1,28 @@
+2006.10.09 14:48
+
+Victim: Murdoch Morf
+Alliance: Triumvirate.
+Corp: D00M.
+Destroyed: Crow
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Severa Crest (laid the final blow)
+Security: 1.9
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Ship: Muninn
+Weapon: 720mm Howitzer Artillery II
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 46
+TE-2100 Standard Missile Bay
+TE-2100 Standard Missile Bay
+Catalyzed Cold-Gas I Arcjet Thrusters
+Fleeting Warp Scrambler I
+Spike S, Qty: 770 (Cargo)
+

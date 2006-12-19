@@ -1,0 +1,41 @@
+2007.04.20 23:40
+
+Victim: tomuch
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Enyo
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: other mickey
+Security: 3.2
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Vexor
+Weapon: Hobgoblin I
+
+Name: Bobby Atlas (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Hyperion
+Weapon: Warrior II
+
+
+Destroyed items:
+
+75mm Gatling Rail II
+150mm Railgun II
+150mm Railgun II
+Uranium Charge S, Qty: 264
+Spike S, Qty: 9
+Piranha Light Missile, Qty: 22
+TE-2100 Standard Missile Bay
+Small Armor Repairer II
+'Collateral' Adaptive Nano Plating I
+Energized Reflective Membrane II
+Piranha Light Missile, Qty: 253 (Cargo)
+Hornet I (Drone Bay)
+

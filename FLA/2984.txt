@@ -1,0 +1,109 @@
+2007.03.18 19:43
+
+Victim: Caranthir
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Destroyed: Huginn
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: SaNoSuKeJavi (laid the final blow)
+Security: -2.0
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Thorax
+Weapon: Heavy Ion Blaster I
+
+Name: DarkAlpha
+Security: -0.2
+Alliance: YouWhat
+Corp: Pringles Inc.
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+Name: Himphotep 87
+Security: 0.5
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Thorax
+Weapon: Thorax
+
+Name: astur
+Security: 5.0
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Hinderburg
+Security: 4.2
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Wolf
+Weapon: Wolf
+
+Name: Utlaen
+Security: 5.0
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Flycatcher
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: drakandu
+Security: 1.0
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Falcon
+Weapon: ECM - Phase Inverter II
+
+Name: Primos Gun
+Security: 3.0
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Drake
+Weapon: Warp Disruptor I
+
+Name: KaKaShI
+Security: 3.7
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Stiletto
+Weapon: Warp Disruptor II
+
+Name: Devylman
+Security: 0.8
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Arbitrator
+Weapon: Warp Disruptor I
+
+Name: Appalachia
+Security: 5.2
+Alliance: YouWhat
+Corp: Pringles Inc.
+Ship: Manticore
+Weapon: 'Arbalest' Cruise Launcher I
+
+
+Destroyed items:
+
+Phased Plasma M
+Phased Plasma M
+Phased Plasma M
+Phased Plasma M
+Phased Plasma M
+Phased Plasma M
+Phased Plasma M
+Bloodclaw Light Missile, Qty: 43
+TE-2100 Standard Missile Bay
+Large Shield Extender II
+Fleeting Warp Scrambler I
+Gyrostabilizer II
+EMP M, Qty: 2000 (Cargo)
+Depleted Uranium M, Qty: 2152 (Cargo)
+Tremor M, Qty: 1605 (Cargo)
+Bloodclaw Light Missile, Qty: 1535 (Cargo)
+Vespa II, Qty: 2 (Drone Bay)
+

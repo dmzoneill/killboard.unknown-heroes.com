@@ -1,0 +1,28 @@
+2006.10.10 17:10
+
+Victim: Formosus Funus
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Destroyed: Wolf
+System: Oipo
+Security: 0.8
+
+Involved parties:
+
+Name: Shylock Aristide (laid the final blow)
+Security: 3.2
+Alliance: None
+Corp: Privateers
+Ship: Vexor
+Weapon: Vespa II
+
+
+Destroyed items:
+
+200mm Light 'Scout' Autocannon I
+EMP S, Qty: 60
+J5b Phased Prototype Warp Inhibitor I
+Energized Magnetic Membrane I
+200mm Reinforced Rolled Tungsten Plates I
+EMP S, Qty: 8125 (Cargo)
+

@@ -1,0 +1,47 @@
+2006.11.03 23:42
+
+Victim: Nariya
+Alliance: None
+Corp: Aliastra
+Destroyed: Capsule
+System: X47L-Q
+Security: 0.0
+
+Involved parties:
+
+Name: UnAimedPlayer
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: James Potkukelkka (laid the final blow)
+Security: 0.2
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Flycatcher
+Weapon: Bloodclaw Light Missile
+
+Name: Gangreen
+Security: 0.1
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Incursus
+Weapon: 125mm Railgun I
+
+Name: Tri Ounou
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Jaguar
+Weapon: 200mm AutoCannon II
+
+Name: movy
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Enyo
+Weapon: 125mm Railgun I
+
+

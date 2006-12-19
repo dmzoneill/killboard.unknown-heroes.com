@@ -1,0 +1,50 @@
+2006.11.10 16:32
+
+Victim: Ancient Cow
+Alliance: New Eve Order
+Corp: the Gaurds of Honor
+Destroyed: Cyclone
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: bidman
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Ferox
+Weapon: Hobgoblin II
+
+Name: LizzyD (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Dominix
+Weapon: Wasp I
+
+Name: Darth Hound
+Security: 1.6
+Alliance: Schism.
+Corp: Fatalix Inc.
+Ship: Inquisitor
+Weapon: Upgraded 'Limos' Standard Missile Bay I
+
+Name: dinj
+Security: 4.7
+Alliance: Freelancer Alliance
+Corp: London Transport
+Ship: Raptor
+Weapon: 'Limos' Rocket Launcher I
+
+
+Destroyed items:
+
+720mm Howitzer Artillery I
+720mm Howitzer Artillery I
+EMP M, Qty: 40
+Scourge Heavy Missile, Qty: 30
+EMP M, Qty: 1040 (Cargo)
+Xray S (Cargo)
+Vespa I (Drone Bay)
+

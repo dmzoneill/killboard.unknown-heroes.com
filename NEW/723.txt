@@ -1,0 +1,32 @@
+2007.05.21 12:47
+
+Victim: GilGalaad
+Alliance: None
+Corp: Paladines
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Commander Paul (laid the final blow)
+Security: 5.0
+Alliance: DeStInY.
+Corp: People's Front Of Judea
+Ship: Sleipnir
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Mufeater
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Ares
+Weapon: Ares
+
+Name: FlobbMkII
+Security: 4.4
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Helios
+Weapon: Indirect Scanning Dampening Unit I
+

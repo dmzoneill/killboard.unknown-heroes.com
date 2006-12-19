@@ -1,0 +1,98 @@
+2007.01.20 00:48
+
+Victim: Dr Andy
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Destroyed: Dominix
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Malafor
+Security: -1.2
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Armageddon
+Weapon: Mega Beam Laser II
+
+Name: xlop
+Security: -1.2
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Megathron
+Weapon: Megathron
+
+Name: Elliott Manchild
+Security: -0.5
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Tempest
+Weapon: Tempest
+
+Name: Unfortunate Accident
+Security: -1.9
+Alliance: Triumvirate.
+Corp: omen.
+Ship: Megathron
+Weapon: Megathron
+
+Name: WarGod
+Security: 1.4
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Naglfar
+Weapon: Ogre II
+
+Name: ukpAgAn (laid the final blow)
+Security: 5.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: McGin
+Security: -3.5
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Megathron
+Weapon: Megathron
+
+Name: aadom
+Security: 3.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Tempest
+Weapon: 1400mm Carbine Howitzer I
+
+Name: Brisky T'Pol
+Security: 1.2
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Tempest
+Weapon: Tempest
+
+Name: hardgit
+Security: 0.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Raven
+Weapon: Siege Missile Launcher II
+
+
+Destroyed items:
+
+Heavy Diminishing Power System Drain I
+Medium Nosferatu I
+Medium Nosferatu II
+Medium Nosferatu II
+100MN MicroWarpdrive I
+Heavy Electrochemical Capacitor Booster I
+Large Armor Repairer II
+Armor Thermic Hardener I
+Armor Explosive Hardener I
+Armor Kinetic Hardener I
+Reactor Control Unit I
+Cap Booster 800, Qty: 9 (Cargo)
+Heavy Armor Maintenance Bot I, Qty: 2 (Drone Bay)
+

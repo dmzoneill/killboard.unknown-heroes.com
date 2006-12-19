@@ -1,0 +1,31 @@
+2007.01.28 18:03
+
+Victim: Odinegras
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Taranis
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Lucy Fur (laid the final blow)
+Security: 2.8
+Alliance: Band of Brothers
+Corp: Evolution
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+
+Destroyed items:
+
+125mm Railgun II
+Antimatter Charge S, Qty: 240
+J5 Prototype Warp Inhibitor I
+Stasis Webifier I
+Micro Auxiliary Power Core I
+Nanofiber Internal Structure I
+Nanofiber Internal Structure I
+Antimatter Charge S, Qty: 1000 (Cargo)
+Hobgoblin II (Drone Bay)
+

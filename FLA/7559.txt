@@ -1,0 +1,46 @@
+2006.09.16 19:52
+
+Victim: Zungen
+Alliance: Ascendant Frontier
+Corp: Sha Kharn Corp
+Destroyed: Thorax
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Apoccolipse (laid the final blow)
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Dominix
+Weapon: Wasp I
+
+Name: phoenix4
+Security: 4.2
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Capsule
+Weapon: Heavy Missile Launcher I
+
+Name: black horse1
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Raven
+Weapon: Juggernaut Torpedo
+
+
+Destroyed items:
+
+Heavy Ion Blaster II
+Heavy Ion Blaster II
+Void M, Qty: 323
+10MN MicroWarpdrive I
+Stasis Webifier I
+Medium Armor Repairer II
+Warp Core Stabilizer I
+400mm Reinforced Steel Plates II
+400mm Reinforced Crystalline Carbonide Plates I
+Void M, Qty: 2943 (Cargo)
+

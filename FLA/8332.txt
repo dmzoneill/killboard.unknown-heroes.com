@@ -1,0 +1,53 @@
+2006.11.09 13:12
+
+Victim: jacass66
+Alliance: Freelancer Alliance
+Corp: BGG
+Destroyed: Ferox
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: KrTo (laid the final blow)
+Security: 2.5
+Alliance: None
+Corp: Beer Guzzling Clowns With Blasters
+Ship: Dominix
+Weapon: Ogre I
+
+Name: GoLdeN BoY
+Security: 1.4
+Alliance: None
+Corp: Beer Guzzling Clowns With Blasters
+Ship: Crusader
+Weapon: Dual Light Pulse Laser II
+
+Name: flexd
+Security: 0.2
+Alliance: None
+Corp: Beer Guzzling Clowns With Blasters
+Ship: Caracal
+Weapon: 'Malkuth' Assault Missile Launcher I
+
+Name: Probot3ctor
+Security: 4.7
+Alliance: None
+Corp: Beer Guzzling Clowns With Blasters
+Ship: Blackbird
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+200mm Prototype I Gauss Gun
+200mm Prototype I Gauss Gun
+200mm Compressed Coil Gun I
+Dread Guristas Iron Charge M, Qty: 99
+Heat Dissipation Field II
+Invulnerability Field I
+Mobile Small Warp Disruptor I (Cargo)
+Thunderbolt Fury Heavy Missile, Qty: 175 (Cargo)
+Havoc Precision Heavy Missile, Qty: 145 (Cargo)
+Thunderbolt Precision Heavy Missile, Qty: 137 (Cargo)
+

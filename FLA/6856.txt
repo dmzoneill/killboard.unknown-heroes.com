@@ -1,0 +1,123 @@
+2006.12.10 00:32
+
+Victim: Eva Unit
+Alliance: None
+Corp: Steel Battalion
+Destroyed: Raven
+System: X-7OMU
+Security: 0.0
+
+Involved parties:
+
+Name: Cobra64 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Cyclone
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Sorlac Aurora
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Drake
+Weapon: Thunderbolt Heavy Missile
+
+Name: Zachariah Barnette
+Security: 2.1
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Ship: Ferox
+Weapon: Ferox
+
+Name: ventura5
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Harpy
+Weapon: Harpy
+
+Name: Yangoor
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: THeOThErs
+Ship: Moa
+Weapon: Moa
+
+Name: Wousr
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Cyclone
+Weapon: Cyclone
+
+Name: Corovus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: THeOThErs
+Ship: Enyo
+Weapon: 150mm Railgun II
+
+Name: Fullerton
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: THeOThErs
+Ship: Hurricane
+Weapon: Medium Nosferatu I
+
+Name: Alex Hinkelmann
+Security: 0.1
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Caracal
+Weapon: Flameburst Light Missile
+
+Name: Barkel
+Security: 0.1
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Scythe
+Weapon: Scythe
+
+Name: Kelter Highfire
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Caracal
+Weapon: Thunderbolt Heavy Missile
+
+Name: arthell
+Security: 2.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Unknown
+Weapon: J5 Prototype Warp Inhibitor I
+
+
+Destroyed items:
+
+Heavy 'Knave' I Energy Drain
+Paradise Cruise Missile
+Paradise Cruise Missile
+Wrath Cruise Missile
+'Arbalest' Cruise Launcher I
+'Arbalest' Cruise Launcher I
+'Arbalest' Cruise Launcher I
+'Arbalest' Cruise Launcher I
+X-Large C5-L Emergency Shield Overload I
+X-Large C5-L Emergency Shield Overload I
+X-Large C5-L Emergency Shield Overload I
+X-Large C5-L Emergency Shield Overload I
+X-Large C5-L Emergency Shield Overload I
+Ballistic Deflection Field II
+Photon Scattering Field II
+Heat Dissipation Field II
+Cap Booster 800
+Cap Booster 800
+Muon Coil Bolt Array I
+Cap Booster 800, Qty: 7 (Cargo)
+Devastator Cruise Missile, Qty: 976 (Cargo)
+Wrath Cruise Missile, Qty: 546 (Cargo)
+Paradise Cruise Missile, Qty: 976 (Cargo)
+Small Tractor Beam I (Cargo)
+

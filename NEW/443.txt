@@ -1,0 +1,30 @@
+2007.03.25 08:40
+
+Victim: Burn Lump
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Destroyed: Drake
+System: G8AD-C
+Security: 0.0
+
+Involved parties:
+
+Name: Lorn Zolog (laid the final blow)
+Security: -0.8
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Harbinger
+Weapon: Focused Medium Pulse Laser II
+
+Name: Serpentis Chief Infantry / Serpentis Corporation
+
+
+Destroyed items:
+
+Small Nosferatu I
+Bloodclaw Light Missile, Qty: 111
+Assault Missile Launcher I, Qty: 5
+Large Subordinate Screen Stabilizer I, Qty: 3
+Shield Power Relay I, Qty: 3
+Medium Shield Booster II (Cargo)
+Vespa II (Cargo)

@@ -1,0 +1,49 @@
+2007.02.10 20:34
+
+Victim: Elena Morkovka
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Destroyed: Flycatcher
+System: DO6H-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Akhenat0n (laid the final blow)
+Security: 3.4
+Alliance: Red Moon Federation
+Corp: Confederation of Red Moon
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Harlequinn
+Security: 5.0
+Alliance: Red Moon Federation
+Corp: Confederation of Red Moon
+Ship: Falcon
+Weapon: BZ-5 Neutralizing Spatial Destabilizer ECM
+
+Name: olddone
+Security: 2.9
+Alliance: Red Moon Federation
+Corp: Confederation of Red Moon
+Ship: Blackbird
+Weapon: ECM - Spatial Destabilizer I
+
+
+Destroyed items:
+
+Rocket Launcher II
+Rocket Launcher II
+Rocket Launcher II
+Warp Disrupt Probe
+Warp Disrupt Probe
+Warp Disrupt Probe
+Warp Disrupt Probe
+Warp Disrupt Probe
+Thorn Javelin Rocket, Qty: 92
+Medium Azeotropic Ward Salubrity I
+1MN MicroWarpdrive I
+Thorn Rocket, Qty: 4977 (Cargo)
+Thorn Javelin Rocket, Qty: 1760 (Cargo)
+

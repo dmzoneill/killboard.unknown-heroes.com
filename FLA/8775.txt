@@ -1,0 +1,58 @@
+2006.12.11 20:59
+
+Victim: Rick A
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Destroyed: Blackbird
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: taylor04 (laid the final blow)
+Security: -1.9
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: henryshead
+Security: 5.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Apocalypse
+Weapon: Apocalypse
+
+Name: boo3916
+Security: 4.1
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Dominix
+Weapon: Dominix
+
+Name: WarGod
+Security: -2.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Tempest
+Weapon: ECM - Multispectral Jammer II
+
+Name: K Shara
+Security: 3.1
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Rook
+Weapon: BZ-5 Neutralizing Spatial Destabilizer ECM
+
+
+Destroyed items:
+
+Assault Missile Launcher I
+Assault Missile Launcher I
+Assault Missile Launcher I
+Initiated Multispectral ECM I
+Induced Multispectral ECM I
+Supplemental Scanning CPU I
+Flameburst Light Missile, Qty: 137 (Cargo)
+Sabretooth Light Missile, Qty: 641 (Cargo)
+

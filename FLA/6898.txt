@@ -1,0 +1,19 @@
+2006.12.12 00:27
+
+Victim: Mina Apriosti
+Alliance: None
+Corp: Deep Core Mining Inc.
+Destroyed: Caldari Shuttle
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Rustiko (laid the final blow)
+Security: 4.7
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Helios
+Weapon: Hornet I
+
+

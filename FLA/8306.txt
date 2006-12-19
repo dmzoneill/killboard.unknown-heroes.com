@@ -1,0 +1,35 @@
+2006.11.08 03:29
+
+Victim: Azrealsan
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Thorax
+System: E-Z2ZX
+Security: 0.0
+
+Involved parties:
+
+Name: Tatzlwurm (laid the final blow)
+Security: 1.4
+Alliance: None
+Corp: Tyrants
+Ship: Typhoon
+Weapon: Hammerhead I
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Dual 150mm Railgun I
+Dual 150mm Railgun I
+Dual 150mm Railgun I
+Iridium Charge M, Qty: 159
+Small Tractor Beam I
+Eutectic I Capacitor Charge Array
+10MN MicroWarpdrive I
+Medium Armor Repairer II
+Energized Basic Reactive Plating
+800mm Reinforced Crystalline Carbonide Plates I
+J5 Prototype Warp Inhibitor I (Cargo)
+Vespa I, Qty: 3 (Drone Bay)
+

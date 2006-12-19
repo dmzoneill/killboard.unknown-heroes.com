@@ -1,0 +1,30 @@
+2007.03.12 22:59
+
+Victim: Thuumach
+Alliance: Privateer Alliance
+Corp: 47R
+Destroyed: Stiletto
+System: Jita
+Security: 0.9
+
+Involved parties:
+
+Name: Tregaron (laid the final blow)
+Security: 1.9
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Cyclone
+Weapon: Hammerhead II
+
+
+Destroyed items:
+
+125mm Gatling AutoCannon II
+Nuclear S, Qty: 142
+1MN MicroWarpdrive I
+Stasis Webifier I
+Stasis Webifier I
+Capacitor Power Relay I
+Nuclear S, Qty: 1166 (Cargo)
+Gremlin Rocket, Qty: 204 (Cargo)
+

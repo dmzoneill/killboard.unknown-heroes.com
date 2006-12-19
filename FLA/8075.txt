@@ -1,0 +1,60 @@
+2006.10.08 21:46
+
+Victim: Mcwlad
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Destroyed: Apocalypse
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: ANDOON II (laid the final blow)
+Security: 5.1
+Alliance: R.I.S.K
+Corp: Russian Specnaz
+Ship: Raven
+Weapon: Cruise Missile Launcher II
+
+Name: Logrus
+Security: 3.6
+Alliance: R.I.S.K
+Corp: RUS-SAGA
+Ship: Scorpion
+Weapon: Juggernaut Javelin Torpedo
+
+Name: Sadith
+Security: 1.5
+Alliance: R.I.S.K
+Corp: RUS-SAGA
+Ship: Unknown
+Weapon: 1400mm Howitzer Artillery II
+
+Name: foxden
+Security: 4.5
+Alliance: R.I.S.K
+Corp: Russian Specnaz
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+
+Destroyed items:
+
+Tachyon Beam Laser II
+Tachyon Beam Laser II
+Tachyon Beam Laser II
+Tachyon Beam Laser II
+Tachyon Beam Laser II
+Radio L
+Radio L
+Radio L
+Prototype Cloaking Device I
+Tracking Computer II
+Heat Sink II
+Tracking Enhancer II
+Tracking Enhancer II
+Microwave L (Cargo)
+Multifrequency L, Qty: 3 (Cargo)
+Vespa I (Drone Bay)
+Valkyrie I, Qty: 2 (Drone Bay)
+

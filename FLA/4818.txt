@@ -1,0 +1,38 @@
+2007.04.16 05:05
+
+Victim: coldkill
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Destroyed: Thorax
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: FowlPlayChiken (laid the final blow)
+Security: 1.2
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Thanatos
+Weapon: Berserker II
+
+Name: Admentus Cor'vion
+Security: -0.5
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Taranis
+Weapon: Hobgoblin II
+
+
+Destroyed items:
+
+Heavy Neutron Blaster II
+Heavy Neutron Blaster II
+Void M, Qty: 240
+Alumel-Wired I Sensor Augmentation
+Damage Control I
+Medium Armor Repairer II
+Magnetic Field Stabilizer I
+Beta Hull Mod Inertial Stabilizers
+Hobgoblin II, Qty: 2 (Drone Bay)
+

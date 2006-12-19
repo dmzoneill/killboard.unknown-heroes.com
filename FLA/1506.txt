@@ -1,0 +1,29 @@
+2007.03.15 01:39
+
+Victim: Salinas
+Alliance: Aftermath Alliance
+Corp: Dark Nebula Gallente Division
+Destroyed: Kestrel
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: John Linski (laid the final blow)
+Security: 4.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 33
+Standard Missile Launcher I
+Standard Missile Launcher I
+Monopropellant I Hydrazine Boosters
+J5 Prototype Warp Inhibitor I
+Stasis Webifier I
+Inertia Stabilizers I
+

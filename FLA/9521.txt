@@ -1,0 +1,33 @@
+2007.04.30 03:01
+
+Victim: Mercurous
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Capsule
+System: Doril
+Security: 0.0
+
+Involved parties:
+
+Name: Weyr Raykan (laid the final blow)
+Security: 4.4
+Alliance: None
+Corp: 0utbreak
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: Therik
+Security: -2.1
+Alliance: None
+Corp: 0utbreak
+Ship: Lachesis
+Weapon: Warp Disruptor II
+
+Name: ScoRpS
+Security: 0.4
+Alliance: None
+Corp: 0utbreak
+Ship: Sabre
+Weapon: Warp Disruptor II
+
+

@@ -1,0 +1,31 @@
+2007.03.30 08:30
+
+Victim: Arkaiser
+Alliance: Privateer Alliance
+Corp: Beyond Divinity Inc
+Destroyed: Brutix
+System: Jita
+Security: 0.9
+
+Involved parties:
+
+Name: Caldari Sentry Gun III / Caldari Navy
+
+Name: CONCORD Police Commander / CONCORD (laid the final blow)
+
+Name: Ghu'ru Talozan
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Myrmidon
+Weapon: Myrmidon
+
+
+Destroyed items:
+
+Limited Neutron Blaster I
+Limited Neutron Blaster I
+Antimatter Charge M, Qty: 386
+Damage Control I
+Magnetic Field Stabilizer I
+

@@ -1,0 +1,56 @@
+2007.01.15 05:34
+
+Victim: SuperSixFour
+Alliance: None
+Corp: Agony Unleashed
+Destroyed: Hawk
+System: 7RM-N0
+Security: 0.0
+
+Involved parties:
+
+Name: Dire Pithum Mortifier / Guristas Pirates
+
+Name: KriegDrachen (laid the final blow)
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Sabre
+Weapon: 150mm Light AutoCannon II
+
+Name: Indigo Callypso
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Weeble Wooble
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Megathron
+Weapon: Megathron
+
+Name: Marco Polio
+Security: 4.8
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Raptor
+Weapon: Small 'Ghoul' Energy Siphon I
+
+
+Destroyed items:
+
+Thorn Rocket, Qty: 90
+Rocket Launcher I
+Rocket Launcher I
+Rocket Launcher I
+Medium Supplemental Barrier Emitter I
+Ballistic Deflection Field I
+Large Shield Booster I (Cargo)
+Medium F-RX Prototype I Capacitor Boost (Cargo)
+Multi Sensor Backup Array I (Cargo)
+Siege Missile Launcher I, Qty: 2 (Cargo)
+Tripped Power Circuit, Qty: 14 (Cargo)
+

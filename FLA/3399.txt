@@ -1,0 +1,49 @@
+2007.03.25 14:30
+
+Victim: EM00
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Destroyed: Caracal
+System: QXW-PV
+Security: 0.0
+
+Involved parties:
+
+Name: Ion Bartzabel
+Security: -0.2
+Alliance: Eternal Rapture
+Corp: Temptation inc.
+Ship: Deimos
+Weapon: Deimos
+
+Name: Donald Trump (laid the final blow)
+Security: -1.5
+Alliance: Eternal Rapture
+Corp: Temptation inc.
+Ship: Sleipnir
+Weapon: 425mm AutoCannon II
+
+Name: Jack Archer
+Security: -1.2
+Alliance: Eternal Rapture
+Corp: Quantum Synergies
+Ship: Myrmidon
+Weapon: Myrmidon
+
+Name: Gliding
+Security: -1.9
+Alliance: Eternal Rapture
+Corp: Quantum Synergies
+Ship: Taranis
+Weapon: Light Neutron Blaster II
+
+
+Destroyed items:
+
+Flameburst Light Missile, Qty: 46
+Havoc Heavy Missile, Qty: 36
+Heavy Missile Launcher I
+Medium Shield Booster I
+Warp Disruptor I
+Power Diagnostic System I
+

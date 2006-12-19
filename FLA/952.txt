@@ -1,0 +1,47 @@
+2007.02.28 05:43
+
+Victim: Lakit
+Alliance: United Confederation of Corporations
+Corp: The Valour
+Destroyed: Bellicose
+System: Maut
+Security: 0.2
+
+Involved parties:
+
+Name: Moridin Bashere (laid the final blow)
+Security: -0.8
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Ship: Stabber
+Weapon: Thunderbolt Heavy Missile
+
+Name: KingRizen
+Security: -2.2
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Ship: Hawk
+Weapon: Bloodclaw Fury Light Missile
+
+Name: Coreli Watchman / Serpentis
+
+
+Destroyed items:
+
+280mm Howitzer Artillery I
+280mm Howitzer Artillery I
+Passive Targeter I
+Phased Plasma S, Qty: 18
+Bloodclaw Light Missile, Qty: 66
+Cold-Gas I Arcjet Thrusters
+Civilian Shield Booster I (Cargo)
+1MN Afterburner I (Cargo)
+Small Hull Repairer I (Cargo)
+Small Energy Transfer Array I (Cargo)
+Small Proton Smartbomb I (Cargo)
+Phased Plasma S, Qty: 282 (Cargo)
+Tracking Computer I (Cargo)
+ECCM Projector I (Cargo)
+Remote Sensor Booster I (Cargo)
+Bloodclaw Light Missile, Qty: 1517 (Cargo)
+

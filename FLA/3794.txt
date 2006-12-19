@@ -1,0 +1,26 @@
+2007.04.01 13:39
+
+Victim: Furnis
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Destroyed: Caldari Shuttle
+System: P-2TTL
+Security: 0.0
+
+Involved parties:
+
+Name: Carth Jared (laid the final blow)
+Security: 2.0
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Archon
+Weapon: Einherji
+
+Name: Xune
+Security: -8.9
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Archon
+Weapon: Einherji
+
+

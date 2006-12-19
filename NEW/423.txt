@@ -1,0 +1,51 @@
+2007.03.23 14:52
+
+Victim: a51 duke1406
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Dominix
+System: 0V0R-R
+Security: 0.0
+
+Involved parties:
+
+Name: Wrath Cruise Missile / Guristas (laid the final blow)
+
+Name: Donald Trump
+Security: -1.4
+Alliance: Eternal Rapture
+Corp: Temptation inc.
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Captain Vampire
+Security: 1.3
+Alliance: Agony Empire
+Corp: Agony Unleashed
+Ship: Arazu
+Weapon: Arazu
+
+
+Destroyed items:
+
+Salvager I, Qty: 36
+E500 Prototype Energy Vampire
+Heavy 'Knave' I Energy Drain
+Eutectic I Capacitor Charge Array
+Cap Recharger II, Qty: 2
+F-b10 Nominal Capacitor Regenerator
+Large Armor Repairer II, Qty: 2
+N-Type Thermic Hardener I
+Beta Reactor Control: Capacitor Power Relay I, Qty: 2
+Large Shield Extender I (Cargo)
+Cap Recharger I (Cargo)
+350mm Prototype I Gauss Gun (Cargo)
+150mm Compressed Coil Gun I (Cargo)
+Plutonium Charge S, Qty: 100 (Cargo)
+Tungsten Charge L, Qty: 100 (Cargo)
+Juggernaut Torpedo, Qty: 100 (Cargo)
+Warp Core Stabilizer I (Cargo)
+Siege Missile Launcher I (Cargo)
+Burned Logic Circuit, Qty: 8 (Cargo)
+Scorched Telemetry Processor, Qty: 4 (Cargo)
+Ogre I, Qty: 4 (Drone Bay)

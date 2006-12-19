@@ -1,0 +1,41 @@
+2006.11.09 01:27
+
+Victim: the willyb
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Destroyed: Enyo
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Ageha (laid the final blow)
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Armageddon
+Weapon: Mega Pulse Laser II
+
+Name: Voyageur
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Ship: Rapier
+Weapon: Rapier
+
+Name: Drokkar Mal'aule
+Security: 0.0
+Alliance: Mordus Angels
+Corp: Federation of Friends and Stuff
+Ship: Hawk
+Weapon: X5 Prototype I Engine Enervator
+
+
+Destroyed items:
+
+Small 'Knave' I Energy Drain
+Light Neutron Blaster II
+Void S, Qty: 130
+F-b10 Nominal Capacitor Regenerator
+1MN MicroWarpdrive II
+

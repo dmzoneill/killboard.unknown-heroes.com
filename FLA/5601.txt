@@ -1,0 +1,74 @@
+2006.10.08 18:20
+
+Victim: Enzo Ildari
+Alliance: Galactic Aphelion
+Corp: BoBo Corp
+Destroyed: Mammoth
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: DarkJester
+Security: 0.7
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Tempest
+Weapon: Heavy Missile Launcher I
+
+Name: Mcwlad (laid the final blow)
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Nomina Sacra Sapientia
+Ship: Apocalypse
+Weapon: Tachyon Beam Laser II
+
+Name: XxSOULxX
+Security: 0.6
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Ship: Thorax
+Weapon: Initiated Warp Jammer I
+
+
+Destroyed items:
+
+Prototype Cloaking Device I
+Medium Shield Booster I
+1MN MicroWarpdrive I, Qty: 2 (Cargo)
+Initiated Warp Jammer I (Cargo)
+Fleeting Warp Scrambler I (Cargo)
+280mm Howitzer Artillery II, Qty: 3 (Cargo)
+650mm Artillery Cannon I (Cargo)
+Small Armor Repairer I (Cargo)
+Small Nosferatu I, Qty: 2 (Cargo)
+Heavy Nosferatu I, Qty: 3 (Cargo)
+Passive Targeter I (Cargo)
+EMP S, Qty: 148 (Cargo)
+Fusion S, Qty: 199 (Cargo)
+Lead Charge S, Qty: 500 (Cargo)
+Defender I, Qty: 1234 (Cargo)
+Hammerhead I, Qty: 14 (Cargo)
+Wasp I (Cargo)
+Valkyrie I (Cargo)
+Remote Sensor Booster I (Cargo)
+Claw (Cargo)
+Raptor (Cargo)
+Medium Remote Armor Repair System I (Cargo)
+Micro Auxiliary Power Core I, Qty: 2 (Cargo)
+Small Secure Container (Cargo)
+Kaikka Peunato's Tag (Cargo)
+Tremor S, Qty: 100 (Cargo)
+Peripheral Weapon Navigation Diameter (Cargo)
+Thunderbolt Heavy Missile, Qty: 754 (Cargo)
+Havoc Heavy Missile, Qty: 635 (Cargo)
+Cataclysm Cruise Missile, Qty: 300 (Cargo)
+Paradise Cruise Missile, Qty: 400 (Cargo)
+Wrath Cruise Missile, Qty: 937 (Cargo)
+Thorn Rocket, Qty: 1260 (Cargo)
+Phalanx Rocket, Qty: 500 (Cargo)
+Eradicator F.O.F. Heavy Missile I, Qty: 731 (Cargo)
+Weekend Pass for Sin Boulevard (Cargo)
+Power Diagnostic System I, Qty: 9 (Cargo)
+Capacitor Power Relay I (Cargo)
+

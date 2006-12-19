@@ -1,0 +1,33 @@
+2006.11.15 08:11
+
+Victim: SleepyOSU
+Alliance: Freelancer Alliance
+Corp: Sin-X Inc.
+Destroyed: Ishkur
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: xEntriq (laid the final blow)
+Security: -2.0
+Alliance: None
+Corp: omen.
+Ship: Deimos
+Weapon: Heavy Neutron Blaster II
+
+Name: starius3
+Security: 1.2
+Alliance: None
+Corp: omen.
+Ship: Arazu
+Weapon: Fleeting Warp Scrambler I
+
+
+Destroyed items:
+
+125mm Prototype I Gauss Gun
+Antimatter Charge S, Qty: 74
+J5 Prototype Warp Inhibitor I
+Antimatter Charge S, Qty: 3564 (Cargo)
+

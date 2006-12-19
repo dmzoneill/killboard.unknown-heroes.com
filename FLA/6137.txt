@@ -1,0 +1,33 @@
+2006.11.08 20:55
+
+Victim: Aphotic Raven
+Alliance: Eternal Empire
+Corp: Spectral Armada
+Destroyed: Capsule
+System: O-N8XZ
+Security: 0.0
+
+Involved parties:
+
+Name: Formosus Funus
+Security: 3.8
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Wolf
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: bidman (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Harpy
+Weapon: 125mm Railgun I
+
+Name: Dog Cancer
+Security: 1.4
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Crow
+Weapon: J5 Prototype Warp Inhibitor I
+
+

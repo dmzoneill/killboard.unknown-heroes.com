@@ -1,0 +1,134 @@
+2007.02.05 19:57
+
+Victim: coldkill
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Destroyed: Vexor
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Sexual Chocolate
+Security: 2.5
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Muninn
+Weapon: Upgraded 'Limos' Standard Missile Bay I
+
+Name: Flavius Renatus
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Sleipnir
+Weapon: Sleipnir
+
+Name: Repiv
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Abaddon
+Weapon: Tachyon Beam Laser II
+
+Name: OzaLoni
+Security: 1.6
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Hyperion
+Weapon: 425mm Railgun II
+
+Name: Profeta
+Security: 0.2
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Apocalypse
+Weapon: Tachyon Beam Laser II
+
+Name: LUKEC
+Security: 0.8
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Azurek
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Othnark
+Security: 2.8
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Sleipnir
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Maztruq (laid the final blow)
+Security: -0.5
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Apocalypse
+Weapon: Tachyon Beam Laser II
+
+Name: Puls4r
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Claymore
+Weapon: Assault Missile Launcher II
+
+Name: Femintaki
+Security: 3.0
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Taranis
+Weapon: Taranis
+
+Name: Memphisz
+Security: 0.4
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Eskriloth
+Security: 2.8
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Rupture
+Weapon: Dual 180mm AutoCannon II
+
+Name: EL TITAN
+Security: 1.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Machariel
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Beast Hun
+Security: 4.7
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Armageddon
+Weapon: Tachyon Beam Laser II
+
+
+Destroyed items:
+
+250mm Railgun II
+Spike M, Qty: 40
+Drone Link Augmentor I
+Drone Link Augmentor I
+Sensor Booster I
+Omnidirectional Tracking Link I
+Omnidirectional Tracking Link I
+Medium Armor Repairer II
+Co-Processor II
+Co-Processor II
+Medium Armor Repairer II (Cargo)
+Micro Auxiliary Power Core I (Cargo)
+Spike S, Qty: 73 (Cargo)
+Javelin S, Qty: 875 (Cargo)
+

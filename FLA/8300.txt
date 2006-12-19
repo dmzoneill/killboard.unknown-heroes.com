@@ -1,0 +1,19 @@
+2006.11.07 19:29
+
+Victim: Wotlankor
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Destroyed: Capsule
+System: Haajinen
+Security: 0.8
+
+Involved parties:
+
+Name: TranZferR (laid the final blow)
+Security: -1.8
+Alliance: None
+Corp: The Initiative
+Ship: Lachesis
+Weapon: 250mm Railgun II
+
+

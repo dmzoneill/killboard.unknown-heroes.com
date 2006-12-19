@@ -1,0 +1,23 @@
+2006.09.29 19:54
+
+Victim: Klaas Bruinsma
+Alliance: None
+Corp: The High Assen's Social Joint Venture
+Destroyed: Slasher
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: DarkJester (laid the final blow)
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery I
+
+
+Destroyed items:
+
+Barton Reactor Capacitor Recharger I
+

@@ -1,0 +1,40 @@
+2006.11.05 06:59
+
+Victim: good 234
+Alliance: None
+Corp: State War Academy
+Destroyed: Caldari Shuttle
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Syath (laid the final blow)
+Security: 3.3
+Alliance: Dusk and Dawn
+Corp: Black Lance
+Ship: Caracal
+Weapon: Bloodclaw Light Missile
+
+Name: FrankieG
+Security: -0.5
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Curse
+Weapon: Medium Nosferatu I
+
+Name: DevilSlayer
+Security: 4.0
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Curse
+Weapon: Medium Nosferatu II
+
+Name: Comradical
+Security: 5.1
+Alliance: THE R0CK
+Corp: The Keep
+Ship: Lachesis
+Weapon: Warp Disruptor I
+
+

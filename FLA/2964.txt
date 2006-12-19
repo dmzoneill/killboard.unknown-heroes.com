@@ -1,0 +1,88 @@
+2007.03.17 18:15
+
+Victim: demotar
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Raven
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: SaNoSuKeJavi
+Security: -2.0
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Thorax
+Weapon: Hammerhead I
+
+Name: Primos Gun
+Security: 2.9
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Drake
+Weapon: Heavy Assault Missile Launcher II
+
+Name: Silit
+Security: 2.5
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Thorax
+Weapon: Hammerhead I
+
+Name: drakandu (laid the final blow)
+Security: 1.0
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Rupture
+Weapon: Hornet I
+
+Name: Nemesys 8
+Security: 3.5
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Caracal
+Weapon: X5 Prototype I Engine Enervator
+
+Name: Hinderburg
+Security: 4.2
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Wolf
+Weapon: Wolf
+
+Name: Himphotep 87
+Security: 0.4
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Rifter
+Weapon: Rifter
+
+
+Destroyed items:
+
+Paradise Cruise Missile
+Paradise Cruise Missile
+Paradise Cruise Missile
+Paradise Cruise Missile
+Paradise Cruise Missile
+Paradise Cruise Missile
+Paradise Cruise Missile
+Paradise Cruise Missile
+Wrath Cruise Missile, Qty: 15
+'Arbalest' Cruise Launcher I
+'Arbalest' Cruise Launcher I
+Large F-S9 Regolith Shield Induction
+Invulnerability Field I
+Photon Scattering Field I
+Shield Boost Amplifier I
+Ballistic Control System I
+Local Power Plant Manager: Diagnostic System I
+Mark I Generator Refitting: Diagnostic System
+Juggernaut Torpedo, Qty: 18 (Cargo)
+Mobile Small Warp Disruptor I (Cargo)
+Mobile Medium Warp Disruptor I (Cargo)
+Paradise Cruise Missile, Qty: 154 (Cargo)
+Obliterator F.O.F. Cruise Missile I, Qty: 50 (Cargo)
+Dragon F.O.F. Cruise Missile I, Qty: 300 (Cargo)
+

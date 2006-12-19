@@ -1,0 +1,26 @@
+2007.03.16 01:35
+
+Victim: Candera Fusan
+Alliance: None
+Corp: The Department of Justice
+Destroyed: Capsule
+System: Z-Y7R7
+Security: 0.0
+
+Involved parties:
+
+Name: Denaris1 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: Tregaron
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Cyclone
+Weapon: Initiated Warp Jammer I
+
+

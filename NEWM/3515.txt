@@ -1,0 +1,93 @@
+2007.04.01 05:35
+
+Victim: Anomaly21
+Alliance: YouWhat
+Corp: Beasts of Burden
+Destroyed: Crow
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Epro (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Cyclone
+Weapon: 720mm Howitzer Artillery I
+
+Name: Aranon Ogronios
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Harpy
+Weapon: Harpy
+
+Name: Danielson1012
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Harpy
+Weapon: Harpy
+
+Name: Nukuquqa Hestase
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Harpy
+Weapon: Harpy
+
+Name: Mizerik
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Crow
+Weapon: Sabretooth Light Missile
+
+Name: Swanny231
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Myrmidon
+Weapon: Kapteyn Sensor Array Inhibitor I
+
+Name: Osyc
+Security: 2.8
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Claw
+Weapon: 150mm Light AutoCannon II
+
+Name: Logand Delta
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Ship: Drake
+Weapon: 'Arbalest' Heavy Missile Launcher
+
+Name: Fugnut
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Drake
+Weapon: Advanced 'Limos' Heavy Missile Bay I
+
+Name: Frau Formaggio
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Myrmidon
+Weapon: Vespa II
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 50
+Standard Missile Launcher II
+Standard Missile Launcher II
+Small Electrochemical Capacitor Booster I
+Cap Booster 150
+Cap Booster 150
+Local Hull Conversion Overdrive Injector I
+Bloodclaw Light Missile, Qty: 479 (Cargo)
+

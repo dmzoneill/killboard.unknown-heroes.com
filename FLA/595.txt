@@ -1,0 +1,87 @@
+2007.02.12 05:59
+
+Victim: Sin Demon
+Alliance: Kith of Venal
+Corp: Spectrum Solutions INC
+Destroyed: Curse
+System: J-CIJV
+Security: 0.0
+
+Involved parties:
+
+Name: JaiMaster
+Security: 2.4
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Typhoon
+Weapon: Typhoon
+
+Name: Weeble Wooble (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Megathron
+Weapon: Bouncer I
+
+Name: Skull Fire
+Security: 0.6
+Alliance: The Foundation.
+Corp: Cornerstone Unlimited
+Ship: Rokh
+Weapon: Wrath Cruise Missile
+
+Name: Jack Greyson
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Flycatcher
+Weapon: Flameburst Light Missile
+
+Name: Xantheris
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Taranis
+Weapon: Taranis
+
+Name: coldkill
+Security: 1.3
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Ship: Taranis
+Weapon: 75mm Gatling Rail II
+
+Name: Thafesko
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Nighthawk
+Weapon: Heavy Missile Launcher II
+
+Name: MrMaggot
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Ship: Cormorant
+Weapon: Cormorant
+
+Name: Danielson1012
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Rook
+Weapon: ECM - Multispectral Jammer II
+
+
+Destroyed items:
+
+Medium 'Knave' I Energy Drain
+Medium 'Knave' I Energy Drain
+10MN Afterburner II
+X5 Prototype I Engine Enervator
+Balmer Series Targeting Inhibitor I
+Medium 'Accommodation' Vestment Reconstructer I
+N-Type Thermic Hardener I
+800mm Reinforced Rolled Tungsten Plates I
+Infiltrator II, Qty: 4 (Drone Bay)
+

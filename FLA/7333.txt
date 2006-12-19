@@ -1,0 +1,75 @@
+2006.08.12 00:23
+
+Victim: Masse Falco
+Alliance: None
+Corp: Federal Navy Academy
+Destroyed: Catalyst
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: shekat khlorblaster
+Security: 1.4
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Thorax
+Weapon: Vespa I
+
+Name: Caja Wrython (laid the final blow)
+Security: 1.2
+Alliance: Freelancer Alliance
+Corp: Abandoned Resolve Corporation
+Ship: Punisher
+Weapon: Medium Pulse Laser I
+
+Name: Kismeteer
+Security: 3.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Thorax
+Weapon: Thorax
+
+Name: Rick A
+Security: 4.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Ferox
+Weapon: Medium Nosferatu I
+
+Name: Yangoor
+Security: 3.0
+Alliance: Freelancer Alliance
+Corp: THeOThErs
+Ship: Hawk
+Weapon: Standard Missile Launcher II
+
+Name: Wolfman Apocalypse
+Security: 3.7
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Scorpion
+Weapon: Induced Multispectral ECM I
+
+Name: A'ruhn
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: EVE MegaCorp Association
+Ship: Rifter
+Weapon: Warp Scrambler I
+
+
+Destroyed items:
+
+125mm 'Scout' I Accelerator Cannon
+125mm 'Scout' I Accelerator Cannon
+125mm Carbide Railgun I
+125mm Compressed Coil Gun I
+Thorium Charge S, Qty: 320
+Iridium Charge S, Qty: 200
+Warp Disruptor I
+Small Capacitor Booster I
+Damage Control I
+Small Armor Repairer I
+200mm Reinforced Rolled Tungsten Plates I
+

@@ -1,0 +1,95 @@
+2007.03.08 21:25
+
+Victim: R4VE
+Alliance: YouWhat
+Corp: Pringles Inc.
+Destroyed: Raven
+System: XZH-4X
+Security: 0.0
+
+Involved parties:
+
+Name: Jonas123 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Ferox
+Weapon: Warrior I
+
+Name: Johanen
+Security: 2.7
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Myrmidon
+Weapon: Myrmidon
+
+Name: MangoPudding
+Security: 4.9
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Omen
+Weapon: Omen
+
+Name: Jesnen
+Security: -1.5
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Coercer
+Weapon: Coercer
+
+Name: scottykillya
+Security: 3.5
+Alliance: GoonSwarm
+Corp: Visual I.D
+Ship: Ferox
+Weapon: Havoc Heavy Missile
+
+Name: VoYvod
+Security: -1.3
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Coercer
+Weapon: Coercer
+
+Name: Lumiukko
+Security: 1.6
+Alliance: GoonSwarm
+Corp: H.Y.D.R.A.
+Ship: Drake
+Weapon: Havoc Heavy Missile
+
+Name: ISliverI
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Arazu
+Weapon: 200mm Railgun II
+
+Name: khalleth
+Security: 0.1
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Omen
+Weapon: Omen
+
+Name: Kiledan Darkmoon
+Security: 5.0
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Celestis
+Weapon: Celestis
+
+Name: Dwaggysnaxx
+Security: -1.9
+Alliance: GoonSwarm
+Corp: GoonFleet
+Ship: Thorax
+Weapon: Thorax
+
+
+Destroyed items:
+
+Juggernaut Torpedo, Qty: 804 (Cargo)
+Inferno Torpedo, Qty: 107 (Cargo)
+Hornet I, Qty: 8 (Drone Bay)
+

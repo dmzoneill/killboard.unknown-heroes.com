@@ -1,0 +1,19 @@
+2007.04.03 22:20
+
+Victim: Kaand
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Capsule
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Wildhog (laid the final blow)
+Security: 5.1
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Claw
+Weapon: 280mm Howitzer Artillery II
+
+

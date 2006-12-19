@@ -1,0 +1,26 @@
+2006.11.04 06:55
+
+Victim: Michael Valzone
+Alliance: None
+Corp: State War Academy
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Enochios (laid the final blow)
+Security: 1.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Retribution
+Weapon: Medium Pulse Laser II
+
+Name: Slinktress
+Security: 2.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Ishkur
+Weapon: Light Neutron Blaster I
+
+

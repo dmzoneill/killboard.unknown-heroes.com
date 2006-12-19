@@ -1,0 +1,103 @@
+2007.02.28 14:00
+
+Victim: Waylorien
+Alliance: Interstellar Alcohol Conglomerate
+Corp: principle of motion
+Destroyed: Caracal
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Ickaruss
+Security: 5.0
+Alliance: NxT LeveL
+Corp: Grail Seekers
+Ship: Nighthawk
+Weapon: Thunderbolt Heavy Missile
+
+Name: Mat rix
+Security: 5.0
+Alliance: NxT LeveL
+Corp: Grail Seekers
+Ship: Drake
+Weapon: Thunderbolt Heavy Missile
+
+Name: kakakarr
+Security: 1.2
+Alliance: DeStInY.
+Corp: The Knights Of Camelot
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+Name: Tnam (laid the final blow)
+Security: 2.2
+Alliance: None
+Corp: BGG
+Ship: Wolf
+Weapon: 200mm AutoCannon II
+
+Name: Gwynae
+Security: 5.0
+Alliance: NxT LeveL
+Corp: The 5 Amigo's LLC.
+Ship: Flycatcher
+Weapon: Bloodclaw Light Missile
+
+Name: Arakash
+Security: -0.5
+Alliance: NxT LeveL
+Corp: Merchants Trade Consortium
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: jacass66
+Security: 5.0
+Alliance: None
+Corp: BGG
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: EM00
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: smaster
+Security: -0.9
+Alliance: DeStInY.
+Corp: The Knights Of Camelot
+Ship: Harpy
+Weapon: Harpy
+
+Name: Kamikaze Queen
+Security: 0.1
+Alliance: NxT LeveL
+Corp: The 5 Amigo's LLC.
+Ship: Hawk
+Weapon: Upgraded 'Limos' Standard Missile Bay I
+
+Name: Gangreen
+Security: 0.2
+Alliance: None
+Corp: BGG
+Ship: Arazu
+Weapon: Kapteyn Sensor Array Inhibitor I
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 32
+Advanced 'Limos' Heavy Missile Bay I
+Advanced 'Limos' Heavy Missile Bay I
+'Malkuth' Heavy Missile Launcher I
+Large Shield Extender II
+Medium Shield Booster II
+Kinetic Deflection Amplifier I
+Kinetic Deflection Amplifier I
+Co-Processor I
+Type-D Power Core Modification: Diagnostic System
+Scourge Heavy Missile, Qty: 4696 (Cargo)
+

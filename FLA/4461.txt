@@ -1,0 +1,37 @@
+2007.04.10 22:22
+
+Victim: marakudi
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Destroyed: Hawk
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: FA Avenger (laid the final blow)
+Security: 2.9
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Stradivarious
+Security: 3.7
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Nidhoggur
+Weapon: Einherji
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 41
+Upgraded 'Limos' Standard Missile Bay I
+Small Shield Booster II
+1MN MicroWarpdrive II
+J5 Prototype Warp Inhibitor I
+Flameburst Light Missile, Qty: 282 (Cargo)
+Bloodclaw Light Missile, Qty: 18 (Cargo)
+Phalanx Rocket, Qty: 447 (Cargo)
+

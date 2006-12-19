@@ -1,0 +1,33 @@
+2006.10.23 21:30
+
+Victim: Ipaq
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Destroyed: Armageddon
+System: MI6O-6
+Security: 0.0
+
+Involved parties:
+
+Name: jacass66 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Thanatos
+Weapon: Templar
+
+
+Destroyed items:
+
+Tachyon Beam Laser II
+Tachyon Beam Laser II
+Tachyon Beam Laser II
+Small Nosferatu I
+Gleam L
+Sensor Booster II
+Sensor Booster II
+Tracking Enhancer II
+Tracking Enhancer II
+Aurora L, Qty: 2 (Cargo)
+Hammerhead II, Qty: 3 (Drone Bay)
+

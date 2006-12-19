@@ -1,0 +1,62 @@
+2007.02.18 22:55
+
+Victim: sixsixsix beast
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Destroyed: Raven
+System: J1AU-9
+Security: 0.0
+
+Involved parties:
+
+Name: CardboardSword42 (laid the final blow)
+Security: -1.9
+Alliance: Anarchy Empire
+Corp: Celtic Anarchy
+Ship: Dominix
+Weapon: Ogre I
+
+Name: Scourge Heavy Missile / Guristas
+
+
+Destroyed items:
+
+Juggernaut Torpedo, Qty: 33
+Shock 'Limos' Siege Missile Bay I
+'Malkuth' Siege Missile Launcher I
+'Malkuth' Siege Missile Launcher I
+Small Tractor Beam I
+X-Large C5-L Emergency Shield Overload I
+Non-Inertial Ballistic Screen Augmentation I
+Shield Boost Amplifier I
+Ballistic Control System I
+Local Power Plant Manager: Diagnostic System I
+Local Power Plant Manager: Diagnostic System I
+Large Subordinate Screen Stabilizer I (Cargo)
+X-Large Shield Booster I (Cargo)
+Large Shield Transporter I (Cargo)
+Cap Recharger I (Cargo)
+Ship Scanner I (Cargo)
+Medium Ohm Capacitor Reserve I (Cargo)
+Medium Ld-Acid Capacitor Battery I (Cargo)
+250mm Railgun I (Cargo)
+200mm Carbide Railgun I (Cargo)
+Medium Capacitor Booster I (Cargo)
+Antimatter Charge L, Qty: 100 (Cargo)
+Iron Charge L, Qty: 100 (Cargo)
+Juggernaut Torpedo, Qty: 930 (Cargo)
+Bane Torpedo, Qty: 100 (Cargo)
+ECCM Projector I (Cargo)
+Paradise Cruise Missile, Qty: 100 (Cargo)
+Devastator Cruise Missile, Qty: 200 (Cargo)
+Hunter F.O.F. Cruise Missile I, Qty: 100 (Cargo)
+Rocket Launcher I (Cargo)
+Siege Missile Launcher I (Cargo)
+Burned Logic Circuit, Qty: 7 (Cargo)
+Tripped Power Circuit, Qty: 12 (Cargo)
+Ward Console, Qty: 13 (Cargo)
+Fried Interface Circuit, Qty: 12 (Cargo)
+Capacitor Power Relay I (Cargo)
+Type-D Power Core Modification: Capacitor Power Relay (Cargo)
+Vespa I, Qty: 4 (Drone Bay)
+

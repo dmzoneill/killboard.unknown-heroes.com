@@ -1,0 +1,31 @@
+2006.11.03 06:17
+
+Victim: Ogrimm Surak
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Destroyed: Thorax
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Ragnar Redmane (laid the final blow)
+Security: 2.9
+Alliance: None
+Corp: NEXT LEVEL
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+
+Destroyed items:
+
+Regulated Neutron Phase Cannon I
+Regulated Electron Phase Cannon I
+Antimatter Charge M, Qty: 140
+Fixed Parallel Link-Capacitor I
+Initiated Warp Jammer I
+Medium Armor Repairer I
+Armor Kinetic Hardener I
+Antimatter Charge M, Qty: 720 (Cargo)
+Hammerhead I, Qty: 5 (Drone Bay)
+

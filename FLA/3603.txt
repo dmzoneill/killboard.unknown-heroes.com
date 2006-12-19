@@ -1,0 +1,135 @@
+2007.03.27 20:04
+
+Victim: Arbitrus
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Destroyed: Abaddon
+System: 7D-0SQ
+Security: 0.0
+
+Involved parties:
+
+Name: Lv STEIN
+Security: 4.7
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Zealot
+Weapon: Zealot
+
+Name: derBERG
+Security: 5.0
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: MC Alfritz
+Security: 3.7
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Muninn
+Weapon: Muninn
+
+Name: Tanya Kovacs
+Security: 5.1
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Eagle
+Weapon: Eagle
+
+Name: khazid (laid the final blow)
+Security: 5.0
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Ship: Raven
+Weapon: Juggernaut Torpedo
+
+Name: Helmi
+Security: 3.1
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Moa
+Weapon: Moa
+
+Name: Thyrion Paulus
+Security: 4.9
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Sacrilege
+Weapon: Sacrilege
+
+Name: Neily
+Security: 4.6
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Megathron
+Weapon: Megathron
+
+Name: Vespero
+Security: 0.0
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Stabber
+Weapon: Stabber
+
+Name: Keflin Geard
+Security: 5.0
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Myrmidon
+Weapon: Wasp I
+
+Name: Apoc77
+Security: 5.0
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Rook
+Weapon: Bloodclaw Light Missile
+
+Name: Taschenflak
+Security: 4.7
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Raptor
+Weapon: Raptor
+
+Name: Don Promillo
+Security: 2.8
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Thorax
+Weapon: Thorax
+
+Name: Kurai Amaro
+Security: 3.9
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Sabre
+Weapon: Sabre
+
+Name: Magnelien
+Security: 4.3
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Crow
+Weapon: Gremlin Rocket
+
+Name: 0lmeken
+Security: 4.9
+Alliance: YouWhat
+Corp: Pringles Inc.
+Ship: Claw
+Weapon: Claw
+
+Name: wph0r
+Security: 4.5
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Falcon
+Weapon: Falcon
+
+
+Destroyed items:
+
+Armor Thermic Hardener I
+

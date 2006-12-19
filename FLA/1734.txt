@@ -1,0 +1,59 @@
+2007.01.02 05:27
+
+Victim: KriegDrachen
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Destroyed: Prowler
+System: MQ-NPY
+Security: 0.0
+
+Involved parties:
+
+Name: Turia
+Security: 4.0
+Alliance: R i s e
+Corp: Obliteration Unlimited
+Ship: Harpy
+Weapon: Harpy
+
+Name: PyroThraxus
+Security: 2.0
+Alliance: R i s e
+Corp: Obliteration Unlimited
+Ship: Lachesis
+Weapon: Lachesis
+
+Name: MIDER (laid the final blow)
+Security: 0.3
+Alliance: R i s e
+Corp: Obliteration Unlimited
+Ship: Eris
+Weapon: 125mm Railgun II
+
+Name: Ajaximus
+Security: 5.0
+Alliance: R i s e
+Corp: Obliteration Unlimited
+Ship: Scorpion
+Weapon: Cataclysm Cruise Missile
+
+Name: JaredC02
+Security: 2.6
+Alliance: R i s e
+Corp: Obliteration Unlimited
+Ship: Crusader
+Weapon: Faint Warp Prohibitor I
+
+
+Destroyed items:
+
+10MN MicroWarpdrive I
+Additional Thermal Barrier Emitter I
+F-S8 Relativistic Deflection Shield Induction
+Inertia Stabilizers I
+Inertia Stabilizers I
+Nocxium, Qty: 76473 (Cargo)
+Tritanium, Qty: 76473 (Cargo)
+Zydrine, Qty: 126846 (Cargo)
+Giant Secure Container (Cargo)
+

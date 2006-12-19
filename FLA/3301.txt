@@ -1,0 +1,59 @@
+2007.03.22 19:28
+
+Victim: Aikuchi Hiddensword
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Celestis
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: lt blacklotus
+Security: 0.8
+Alliance: Triumvirate.
+Corp: ViperSquad
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Yushii
+Security: -0.3
+Alliance: Triumvirate.
+Corp: ViperSquad
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Sith Bandon
+Security: 5.0
+Alliance: Triumvirate.
+Corp: ViperSquad
+Ship: Ishtar
+Weapon: Ishtar
+
+Name: XxAngelxX (laid the final blow)
+Security: -1.8
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Curse
+Weapon: Valkyrie II
+
+Name: Frau Formaggio
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Capsule
+Weapon: Blackbird
+
+
+Destroyed items:
+
+Antimatter Charge M, Qty: 55
+'Arbalest' Assault Missile Launcher
+Y-S8 Hydrocarbon I Afterburners
+Indirect Scanning Dampening Unit I
+Low Frequency Sensor Suppressor I
+Damage Control I
+Small Armor Repairer I
+Initiated Signal Distortion Amplifier I
+Antimatter Charge M, Qty: 10982 (Cargo)
+

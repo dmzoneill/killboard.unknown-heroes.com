@@ -1,0 +1,24 @@
+2007.01.07 02:44
+
+Victim: Esabab
+Alliance: Free Trade Coalition
+Corp: EAGLE Independent Fleet Corporation
+Destroyed: Badger
+System: Oto
+Security: 0.4
+
+Involved parties:
+
+Name: KaTurN (laid the final blow)
+Security: -2.2
+Alliance: Freelancer Alliance
+Corp: X.T.R
+Ship: Dominix
+Weapon: Vespa II
+
+
+Destroyed items:
+
+Cold-Gas I Arcjet Thrusters
+Omber, Qty: 2593 (Cargo)
+

@@ -1,0 +1,50 @@
+2006.10.09 04:27
+
+Victim: Admiral Black
+Alliance: None
+Corp: Privateers
+Destroyed: Rupture
+System: Oipo
+Security: 0.8
+
+Involved parties:
+
+Name: Weeble Wooble (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Deimos
+Weapon: Heavy Neutron Blaster II
+
+Name: dastommy79
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Armageddon
+Weapon: Mega Modal Laser I
+
+Name: Recon Alpha
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Dominix
+Weapon: ECM - Multispectral Jammer II
+
+
+Destroyed items:
+
+650mm Artillery Cannon I
+Nuclear M, Qty: 15
+Havoc Heavy Missile, Qty: 46
+Heavy Missile Launcher I
+Warp Disruptor I
+X5 Prototype I Engine Enervator
+Sensor Booster I
+Gyrostabilizer I
+Gyrostabilizer I
+Damage Control I
+Tracking Enhancer I
+Phased Plasma M, Qty: 1163 (Cargo)
+Widowmaker Heavy Missile, Qty: 198 (Cargo)
+Havoc Heavy Missile, Qty: 134 (Cargo)
+

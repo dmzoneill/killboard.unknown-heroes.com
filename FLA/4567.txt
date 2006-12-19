@@ -1,0 +1,109 @@
+2007.04.14 17:21
+
+Victim: Mauy Thai
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Destroyed: Pilgrim
+System: RO0-AF
+Security: 0.0
+
+Involved parties:
+
+Name: Jurushy (laid the final blow)
+Security: 4.8
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Nidhoggur
+Weapon: Templar
+
+Name: wph0r
+Security: 4.1
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Rokh
+Weapon: Rokh
+
+Name: The Ali
+Security: -3.1
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Vagabond
+Weapon: Dual 180mm AutoCannon II
+
+Name: Sortaja83
+Security: 0.1
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Stabber
+Weapon: Stabber
+
+Name: Xinus
+Security: 4.5
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Taranis
+Weapon: Taranis
+
+Name: V2GBR
+Security: 5.0
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Raptor
+Weapon: TE-2100 Standard Missile Bay
+
+Name: M4J3STIC
+Security: 2.4
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Crow
+Weapon: Piranha Light Missile
+
+Name: Katonkar
+Security: 2.0
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Thorax
+Weapon: Thorax
+
+Name: Apoc77
+Security: 5.0
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Rokh
+Weapon: Rokh
+
+Name: Eelim Garak
+Security: 1.3
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Curse
+Weapon: E50 Prototype Energy Vampire
+
+Name: Dacen Chilar
+Security: 3.8
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Scorpion
+Weapon: E500 Prototype Energy Vampire
+
+Name: Amok'Trueborn' Pryde
+Security: -1.4
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Crusader
+Weapon: Fleeting Warp Scrambler I
+
+
+Destroyed items:
+
+Medium Diminishing Power System Drain I
+Medium Nosferatu II
+Covert Ops Cloaking Device II
+10MN Afterburner II
+Fleeting Warp Scrambler I
+X5 Prototype I Engine Enervator
+Balmer Series Targeting Inhibitor I
+Small Armor Repairer II
+Co-Processor II
+Valkyrie II, Qty: 3 (Drone Bay)
+

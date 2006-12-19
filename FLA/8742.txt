@@ -1,0 +1,92 @@
+2006.12.10 01:25
+
+Victim: Cobra64
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Cyclone
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Darknesss (laid the final blow)
+Security: -0.2
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Megathron
+Weapon: Neutron Blaster Cannon II
+
+Name: K Shara
+Security: 3.1
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Raven
+Weapon: Juggernaut Javelin Torpedo
+
+Name: Kalissa
+Security: -1.2
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Raven
+Weapon: Mjolnir Javelin Torpedo
+
+Name: the willyb
+Security: -2.3
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Dominix
+Weapon: Dominix
+
+Name: Marcus Brook
+Security: 4.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Megathron
+Weapon: Megathron
+
+Name: WarGod
+Security: -2.1
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Dominix
+Weapon: Valkyrie II
+
+Name: Pistonbroke
+Security: -1.4
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Raven
+Weapon: Hornet II
+
+Name: Jimmycs83
+Security: -2.3
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Dominix
+Weapon: Ogre I
+
+Name: Teani
+Security: 1.6
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Astarte
+Weapon: Heavy Ion Blaster II
+
+
+Destroyed items:
+
+220mm Vulcan AutoCannon II
+Medium Nosferatu I
+Fusion M, Qty: 64
+Depleted Uranium M, Qty: 136
+Scourge Heavy Missile, Qty: 28
+'Malkuth' Heavy Missile Launcher I
+Ballistic Deflection Field II
+Gyrostabilizer II
+Ballistic Control System I
+Tritanium, Qty: 2 (Cargo)
+Fusion M, Qty: 1826 (Cargo)
+Vespa I, Qty: 2 (Cargo)
+Scourge Heavy Missile, Qty: 554 (Cargo)
+Valkyrie II, Qty: 2 (Drone Bay)
+

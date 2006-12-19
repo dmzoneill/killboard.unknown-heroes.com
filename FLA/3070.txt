@@ -1,0 +1,26 @@
+2007.03.23 21:54
+
+Victim: Bubbaloo
+Alliance: None
+Corp: Against All Authority
+Destroyed: Capsule
+System: O-N8XZ
+Security: 0.0
+
+Involved parties:
+
+Name: HYT gangster (laid the final blow)
+Security: 1.4
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Claw
+Weapon: 150mm Light AutoCannon II
+
+Name: Llondon Hilton
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Ishkur
+Weapon: Initiated Warp Jammer I
+
+

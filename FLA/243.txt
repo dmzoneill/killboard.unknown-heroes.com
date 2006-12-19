@@ -1,0 +1,152 @@
+2007.01.20 01:13
+
+Victim: ArchenTheGreat
+Alliance: Triumvirate.
+Corp: D00M.
+Destroyed: Dominix
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: LTSmash
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Ship: Raven
+Weapon: Cataclysm Cruise Missile
+
+Name: Soldroz
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Raven
+Weapon: Cataclysm Cruise Missile
+
+Name: nXus (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+Name: Sils wife
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Brutix
+Weapon: Brutix
+
+Name: Indigo Callypso
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Crow
+Weapon: Bloodclaw Precision Light Missile
+
+Name: Swindy
+Security: 1.4
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Harpy
+Weapon: Harpy
+
+Name: Steven FSB
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Moa
+Weapon: Moa
+
+Name: Parmenion 96
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Ship: Raven
+Weapon: XT-9000 Cruise Launcher
+
+Name: Damfoose
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Scorpion
+Weapon: Induced Multispectral ECM I
+
+Name: Strobelix
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Thorax
+Weapon: Thorax
+
+Name: Malcanis
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Drake
+Weapon: Advanced 'Limos' Heavy Missile Bay I
+
+Name: Jorax
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Thorax
+Weapon: Thorax
+
+Name: Seventh Star
+Security: 5.0
+Alliance: None
+Corp: BGG
+Ship: Scorpion
+Weapon: 'Arbalest' Cruise Launcher I
+
+Name: ElPoloLoco
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Thorax
+Weapon: Vespa I
+
+Name: Cobra64
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: Chalimar
+Security: 1.5
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Arazu
+Weapon: 250mm Railgun II
+
+Name: ventura5
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Scorpion
+Weapon: Siege Missile Launcher II
+
+
+Destroyed items:
+
+350mm Carbide Railgun I
+350mm Carbide Railgun I
+350mm Carbide Railgun I
+350mm Carbide Railgun I
+Tungsten Charge L, Qty: 272
+Tracking Computer II
+Tracking Computer II
+Omnidirectional Tracking Link I
+Omnidirectional Tracking Link I
+Damage Control I
+Medium Inefficient Armor Repair Unit
+Magnetic Field Stabilizer II
+1600mm Reinforced Crystalline Carbonide Plates I
+Tungsten Charge L, Qty: 1808 (Cargo)
+Guristas Iron Charge L, Qty: 399 (Cargo)
+Antimatter Charge L, Qty: 3020 (Cargo)
+Ogre II, Qty: 4 (Drone Bay)
+Garde I, Qty: 2 (Drone Bay)
+

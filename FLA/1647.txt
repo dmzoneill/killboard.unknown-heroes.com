@@ -1,0 +1,62 @@
+2007.03.19 10:55
+
+Victim: Juha85
+Alliance: YouWhat
+Corp: Beasts of Burden
+Destroyed: Caracal
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Nyack (laid the final blow)
+Security: 5.0
+Alliance: Zenith Affinity
+Corp: GREY COUNCIL
+Ship: Vulture
+Weapon: 250mm Railgun II
+
+Name: Jokull
+Security: 2.6
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Thorax
+Weapon: Thorax
+
+Name: Tassill
+Security: 5.0
+Alliance: Zenith Affinity
+Corp: GREY COUNCIL
+Ship: Huginn
+Weapon: Sabretooth Light Missile
+
+Name: Shuttlemaster
+Security: 5.0
+Alliance: Zenith Affinity
+Corp: GREY COUNCIL
+Ship: Falcon
+Weapon: Falcon
+
+Name: Iss Hogai
+Security: 5.0
+Alliance: Zenith Affinity
+Corp: GREY COUNCIL
+Ship: Falcon
+Weapon: Havoc Heavy Missile
+
+
+Destroyed items:
+
+Torrent Assault Missile, Qty: 6000
+Heavy Assault Missile Launcher I
+Heavy Assault Missile Launcher I
+Heavy Assault Missile Launcher I
+Ballistic Deflection Field I
+Photon Scattering Field I
+Ballistic Control System I
+Ballistic Control System I
+Torrent Assault Missile, Qty: 683 (Cargo)
+Hellfire Assault Missile, Qty: 1000 (Cargo)
+Terror Assault Missile, Qty: 855 (Cargo)
+Hobgoblin I, Qty: 2 (Drone Bay)
+

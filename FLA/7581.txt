@@ -1,0 +1,33 @@
+2006.09.21 20:40
+
+Victim: Arcturus mendrek
+Alliance: None
+Corp: Eternal Mercenaries
+Destroyed: Capsule
+System: L-TS8S
+Security: 0.0
+
+Involved parties:
+
+Name: Kolombus (laid the final blow)
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Ishkur
+Weapon: 150mm Railgun II
+
+Name: Puke
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Crow
+Weapon: Sabretooth Light Missile
+
+Name: kermitfrog
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Crow
+Weapon: Warp Disruptor I
+
+

@@ -1,0 +1,38 @@
+2007.03.16 03:37
+
+Victim: Fzoul
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Destroyed: Stabber
+System: XZH-4X
+Security: 0.0
+
+Involved parties:
+
+Name: wph0r (laid the final blow)
+Security: 4.4
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Nidhoggur
+Weapon: Einherji
+
+Name: Catweazle
+Security: 1.0
+Alliance: YouWhat
+Corp: Federation of Synthetic Persons
+Ship: Nidhoggur
+Weapon: Einherji
+
+
+Destroyed items:
+
+220mm Vulcan AutoCannon I
+220mm Vulcan AutoCannon I
+Phased Plasma M, Qty: 174
+Widowmaker Heavy Missile, Qty: 27
+Heavy Missile Launcher I
+10MN MicroWarpdrive I
+Warp Disruptor I
+Phased Plasma M, Qty: 5670 (Cargo)
+Thunderbolt Heavy Missile, Qty: 1425 (Cargo)
+

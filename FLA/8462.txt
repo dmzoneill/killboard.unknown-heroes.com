@@ -1,0 +1,40 @@
+2006.11.19 08:59
+
+Victim: LizzyD
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Destroyed: Ishkur
+System: Torrinos
+Security: 0.5
+
+Involved parties:
+
+Name: Elliott Manchild (laid the final blow)
+Security: -1.9
+Alliance: None
+Corp: omen.
+Ship: Dominix
+Weapon: Electron Blaster Cannon II
+
+Name: Rann Antares
+Security: 5.0
+Alliance: None
+Corp: omen.
+Ship: Taranis
+Weapon: Warrior II
+
+Name: Juhlah Maidan
+Security: 1.4
+Alliance: None
+Corp: Out 0f Order
+Ship: Tempest
+Weapon: Dual 650mm Repeating Artillery II
+
+
+Destroyed items:
+
+150mm Railgun II
+Drone Link Augmentor I
+Small Armor Repairer II
+Energized Adaptive Nano Membrane I
+

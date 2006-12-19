@@ -1,0 +1,55 @@
+2006.10.06 16:59
+
+Victim: Danno
+Alliance: None
+Corp: Privateers
+Destroyed: Lachesis
+System: Sobaseki
+Security: 0.8
+
+Involved parties:
+
+Name: menace ace (laid the final blow)
+Security: 1.9
+Alliance: Freelancer Alliance
+Corp: Royal Flying Aces
+Ship: Megathron
+Weapon: Ogre I
+
+Name: GrandMastaXP
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Hawk
+Weapon: Sabretooth Light Missile
+
+Name: Indikator
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Ship: Unknown
+Weapon: Upgraded 'Limos' Standard Missile Bay I
+
+Name: Iguanoid
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Hawk
+Weapon: Hawk
+
+
+Destroyed items:
+
+Small 'Knave' I Energy Drain
+Void M, Qty: 56
+Y-T8 Overcharged Hydrocarbon I Microwarpdrive
+Fleeting Warp Scrambler I
+Patterned Stasis Web I
+Low Frequency Sensor Suppressor I
+Small Armor Repairer II
+400mm Reinforced Rolled Tungsten Plates I
+Small Converse I Deflection Catalyzer (Cargo)
+'Langour' Drive Disruptor I (Cargo)
+Spike S, Qty: 43 (Cargo)
+Void M, Qty: 444 (Cargo)
+

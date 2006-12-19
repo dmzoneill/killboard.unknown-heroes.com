@@ -1,0 +1,51 @@
+2007.03.23 19:52
+
+Victim: 1ron V1per
+Alliance: YouWhat
+Corp: Pringles Inc.
+Destroyed: Falcon
+System: MJYW-3
+Security: 0.0
+
+Involved parties:
+
+Name: Mauy Thai (laid the final blow)
+Security: -1.3
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Curse
+Weapon: Valkyrie II
+
+Name: KriegDrachen
+Security: 0.5
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Sabre
+Weapon: Warp Disruptor II
+
+Name: Weeble Wooble
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Eris
+Weapon: Hobgoblin II
+
+
+Destroyed items:
+
+150mm Railgun II
+Javelin S, Qty: 35
+Warp Disruptor I
+ECM - Multispectral Jammer II
+Sensor Booster II
+Medium Armor Repairer II
+Co-Processor II
+1600mm Reinforced Rolled Tungsten Plates I
+Stasis Webifier I (Cargo)
+Antimatter Charge S, Qty: 4952 (Cargo)
+Bloodclaw Light Missile, Qty: 989 (Cargo)
+Piranha Precision Light Missile, Qty: 339 (Cargo)
+Sabretooth Fury Light Missile, Qty: 500 (Cargo)
+Sabretooth Precision Light Missile, Qty: 494 (Cargo)
+Piranha Fury Light Missile, Qty: 500 (Cargo)
+

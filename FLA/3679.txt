@@ -1,0 +1,47 @@
+2007.03.29 03:38
+
+Victim: Zarkovich
+Alliance: Freelancer Alliance
+Corp: Ratio Decidendi
+Destroyed: Megathron
+System: 5W3-DG
+Security: 0.0
+
+Involved parties:
+
+Name: Admentus Cor'vion (laid the final blow)
+Security: -0.2
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Ishtar
+Weapon: Ogre II
+
+Name: Vily
+Security: 0.3
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Malediction
+Weapon: Malediction
+
+
+Destroyed items:
+
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+425mm Railgun II
+425mm Railgun II
+425mm Railgun II
+Antimatter Charge L, Qty: 28
+Drone Link Augmentor I
+LiF Fueled I Booster Rockets
+Damage Control I
+Large Armor Repairer II
+Energized Magnetic Membrane I
+Medium Capacitor Battery I (Cargo)
+Ward Console, Qty: 2 (Cargo)
+Power Diagnostic System I (Cargo)
+

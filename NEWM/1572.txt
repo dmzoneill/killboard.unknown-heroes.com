@@ -1,0 +1,105 @@
+2007.03.17 05:24
+
+Victim: dOG2314
+Alliance: Axiom Empire
+Corp: United Society Starfleet
+Destroyed: Harpy
+System: MJYW-3
+Security: 0.0
+
+Involved parties:
+
+Name: Weeble Wooble
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Megathron
+Weapon: Megathron
+
+Name: Sils wife (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: RubberDuckey
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Blackwater Squadron
+Ship: Raven
+Weapon: Paradise Precision Cruise Missile
+
+Name: death1023
+Security: 2.9
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Megathron
+Weapon: 425mm 'Scout' I Accelerator Cannon
+
+Name: Skull Fire
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Rokh
+Weapon: XR-3200 Heavy Missile Bay
+
+Name: Briscoe
+Security: 4.0
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Moa
+Weapon: Moa
+
+Name: Sovo
+Security: -0.6
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Stabber
+Weapon: Stabber
+
+Name: Jules Wolfpack
+Security: 2.3
+Alliance: The Sundering
+Corp: ironwood ink
+Ship: Thorax
+Weapon: Thorax
+
+Name: eagleeye d4l
+Security: 0.8
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Thorax
+Weapon: Thorax
+
+Name: dastommy79
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Darthirishguy
+Security: 1.1
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Raven
+Weapon: 'Arbalest' Cruise Launcher I
+
+Name: Ahramaine
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Dominix
+Weapon: 350mm Carbide Railgun I
+
+
+Destroyed items:
+
+Antimatter Charge S, Qty: 116
+'Arbalest' Standard Missile Launcher
+1MN Afterburner II
+Fleeting Progressive Warp Scrambler I
+Iridium Charge S, Qty: 1829 (Cargo)
+Juggernaut Torpedo, Qty: 16 (Cargo)
+

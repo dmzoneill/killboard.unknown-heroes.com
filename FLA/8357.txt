@@ -1,0 +1,29 @@
+2006.11.12 03:30
+
+Victim: Barukor
+Alliance: Freelancer Alliance
+Corp: BGG
+Destroyed: Stiletto
+System: J-CIJV
+Security: 0.0
+
+Involved parties:
+
+Name: Aphotic Raven (laid the final blow)
+Security: 1.3
+Alliance: Eternal Empire
+Corp: Spectral Armada
+Ship: Thorax
+Weapon: Infiltrator I
+
+
+Destroyed items:
+
+Barrage S, Qty: 60
+Gremlin Rocket, Qty: 30
+Warp Scrambler I
+Small Capacitor Battery II
+Mobile Small Warp Disruptor I (Cargo)
+Barrage S, Qty: 1252 (Cargo)
+Foxfire Rocket, Qty: 500 (Cargo)
+

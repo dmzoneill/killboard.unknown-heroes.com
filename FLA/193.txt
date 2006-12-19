@@ -1,0 +1,26 @@
+2007.01.17 19:16
+
+Victim: Walkin' Dude
+Alliance: None
+Corp: Republic Military School
+Destroyed: Capsule
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Night Seeker (laid the final blow)
+Security: 0.1
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Hound
+Weapon: Devastator Cruise Missile
+
+Name: WhiteBearAQM
+Security: 1.4
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Rapier
+Weapon: Rapier
+
+

@@ -1,0 +1,30 @@
+2006.11.26 02:49
+
+Victim: SK Rooster
+Alliance: Anarchy Empire
+Corp: Team Americas
+Destroyed: Flycatcher
+System: MHC-R3
+Security: 0.0
+
+Involved parties:
+
+Name: Goca (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Raven
+Weapon: Mjolnir Javelin Torpedo
+
+
+Destroyed items:
+
+Thorn Rocket, Qty: 120
+Rocket Launcher II
+Interdiction Sphere Launcher I
+'Langour' Drive Disruptor I
+Thorn Rocket, Qty: 4230 (Cargo)
+Gremlin Rocket, Qty: 500 (Cargo)
+TE-2100 Standard Missile Bay (Cargo)
+Warp Disrupt Probe, Qty: 24 (Cargo)
+

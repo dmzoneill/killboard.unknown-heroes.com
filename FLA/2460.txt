@@ -1,0 +1,39 @@
+2007.02.13 05:41
+
+Victim: Moridin Bashere
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Destroyed: Stabber
+System: Orvolle
+Security: 0.7
+
+Involved parties:
+
+Name: XLament (laid the final blow)
+Security: -2.6
+Alliance: Privateer Alliance
+Corp: The IMorral MAjority
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+Name: Ace Mcloud
+Security: -2.0
+Alliance: Privateer Alliance
+Corp: The IMorral MAjority
+Ship: Raven
+Weapon: Heavy Diminishing Power System Drain I
+
+
+Destroyed items:
+
+220mm Vulcan AutoCannon I
+EMP M, Qty: 192
+Advanced 'Limos' Heavy Missile Bay I
+Advanced 'Limos' Heavy Missile Bay I
+Large Azeotropic Ward Salubrity I
+10MN MicroWarpdrive I
+Counterbalanced Weapon Mounts I
+Nanofiber Internal Structure I
+EMP M, Qty: 1640 (Cargo)
+Power Diagnostic System I (Cargo)
+

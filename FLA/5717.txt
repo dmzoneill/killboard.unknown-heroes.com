@@ -1,0 +1,36 @@
+2006.10.13 05:01
+
+Victim: Predator 666
+Alliance: None
+Corp: Caldari VIP War Corp
+Destroyed: Rupture
+System: Aydoteaux
+Security: 0.7
+
+Involved parties:
+
+Name: Cat1977 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Deimos
+Weapon: Hammerhead II
+
+
+Destroyed items:
+
+425mm AutoCannon II
+425mm AutoCannon II
+425mm AutoCannon II
+425mm AutoCannon II
+Medium Nosferatu I
+EMP M, Qty: 98
+Warp Scrambler I
+'Hypnos' Ion Field ECM I
+Gyrostabilizer II
+Gyrostabilizer II
+Medium Armor Repairer I
+Dual Diode Mining Laser I (Cargo)
+EMP M, Qty: 858 (Cargo)
+Warrior I (Drone Bay)
+

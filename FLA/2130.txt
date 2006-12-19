@@ -1,0 +1,29 @@
+2007.01.23 18:42
+
+Victim: MonstersCorpse
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Destroyed: Rifter
+System: P-2TTL
+Security: 0.0
+
+Involved parties:
+
+Name: ArchenTheGreat (laid the final blow)
+Security: -2.1
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Thorax
+Weapon: Heavy Ion Blaster II
+
+
+Destroyed items:
+
+150mm Light AutoCannon I
+Small Nosferatu I
+Small Nosferatu I
+Warp Disruptor I
+Capacitor Power Relay I
+Capacitor Power Relay I
+Fusion S, Qty: 1048 (Cargo)
+

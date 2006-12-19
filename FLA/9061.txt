@@ -1,0 +1,24 @@
+2006.12.29 17:02
+
+Victim: MonstersCorpse
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Destroyed: Mammoth
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: xlop (laid the final blow)
+Security: -1.1
+Alliance: None
+Corp: omen.
+Ship: Typhoon
+Weapon: Devastator Cruise Missile
+
+
+Destroyed items:
+
+Expanded Cargohold I
+Expanded Cargohold I
+

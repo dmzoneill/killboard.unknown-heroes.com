@@ -1,0 +1,33 @@
+2007.05.18 20:29
+
+Victim: Nemesys 8
+Alliance: YouWhat
+Corp: Princeps Corp
+Destroyed: Rupture
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Alch3mik (laid the final blow)
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Rapier
+Weapon: 720mm Howitzer Artillery II
+
+Name: Jorax
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Myrmidon
+Weapon: Hammerhead I
+
+Name: pipvac
+Security: 2.7
+Alliance: DeStInY.
+Corp: Sacred Templars
+Ship: Eris
+Weapon: Acolyte II
+
+

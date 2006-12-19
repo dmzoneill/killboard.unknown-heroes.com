@@ -1,0 +1,38 @@
+2006.11.07 09:22
+
+Victim: Daejung Kim
+Alliance: None
+Corp: Pator Tech School
+Destroyed: Amarr Shuttle
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: xzo
+Security: 4.7
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Eris
+Weapon: Eris
+
+Name: Formosus Funus (laid the final blow)
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Jaguar
+Weapon: 250mm Light Artillery Cannon II
+
+Name: Ian Storme
+Security: 2.9
+Alliance: Freelancer Alliance
+Corp: FM Corp
+Ship: Ferox
+Weapon: 'Arbalest' Heavy Missile Launcher
+
+
+Destroyed items:
+
+Spatial Awareness (Cargo)
+Navigation (Cargo)
+

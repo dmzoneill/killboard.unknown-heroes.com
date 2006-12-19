@@ -1,0 +1,38 @@
+2006.11.19 02:36
+
+Victim: Elfaen Ethenwe
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Destroyed: Raven
+System: Torrinos
+Security: 0.5
+
+Involved parties:
+
+Name: CONCORD Police Commander / CONCORD (laid the final blow)
+
+Name: Caldari Sentry Gun III / Lai Dai Corporation
+
+Name: Caldari Sentry Gun III / Home Guard
+
+
+Destroyed items:
+
+Siege Missile Launcher II
+Siege Missile Launcher II
+Siege Missile Launcher II
+Mjolnir Rage Torpedo, Qty: 40
+Inferno Javelin Torpedo, Qty: 20
+Photon Scattering Field II
+Invulnerability Field II
+Invulnerability Field II
+Invulnerability Field II
+Sensor Booster II
+F-43 Repeatative Gravimetric Backup Sensors
+Ballistic Control System II
+Ballistic Control System II
+Juggernaut Torpedo, Qty: 120 (Cargo)
+Mjolnir Rage Torpedo, Qty: 75 (Cargo)
+Hornet I (Drone Bay)
+Vespa I, Qty: 3 (Drone Bay)
+

@@ -1,0 +1,51 @@
+2007.04.25 23:12
+
+Victim: Zardust
+Alliance: Lotka Volterra
+Corp: FinFleet
+Destroyed: Buzzard
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Confessor (laid the final blow)
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: Lynx Frontier Inc.
+Ship: Armageddon
+Weapon: Tachyon Beam Laser II
+
+Name: Ghu'ru Talozan
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Celestis
+Weapon: 250mm Railgun I
+
+Name: Minisoza
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ares
+Weapon: TE-2100 Standard Missile Bay
+
+Name: Iss Hogai
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: GREY COUNCIL
+Ship: Nemesis
+Weapon: 'Limos' Cruise Launcher I
+
+
+Destroyed items:
+
+Fathom Scanner Probe I, Qty: 19
+Small Capacitor Battery II
+Micro B88 Core Augmentation
+Liquid Ozone, Qty: 350 (Cargo)
+Ferret Scanner Probe I, Qty: 50 (Cargo)
+Spook Scanner Probe I, Qty: 100 (Cargo)
+Fathom Scanner Probe I, Qty: 77 (Cargo)
+Overdrive Injector System II (Cargo)
+

@@ -1,0 +1,67 @@
+2006.09.30 05:26
+
+Victim: Zungen
+Alliance: Ascendant Frontier
+Corp: Sha Kharn Corp
+Destroyed: Thorax
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Comradical (laid the final blow)
+Security: 5.1
+Alliance: THE R0CK
+Corp: The Keep
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: NATMav
+Security: 5.0
+Alliance: EVE Animal Control
+Corp: F.R.E.E. Explorer
+Ship: Raven
+Weapon: Raven
+
+Name: toonsterpw
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Glxlplk
+Security: 0.0
+Alliance: THE R0CK
+Corp: The Keep
+Ship: Apocalypse
+Weapon: Tachyon Beam Laser II
+
+Name: Jungels
+Security: 0.0
+Alliance: Imperial Republic Of the North
+Corp: Port Royal Independent Kontractors
+Ship: Stiletto
+Weapon: 250mm Light Artillery Cannon II
+
+Name: Trendsetter
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Flycatcher
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+Name: Comrad1
+Security: 5.0
+Alliance: THE R0CK
+Corp: The Keep
+Ship: Raven
+Weapon: Cruise Missile Launcher II
+
+
+Destroyed items:
+
+Heavy Ion Blaster II
+Void M, Qty: 360
+Infiltrator II, Qty: 2 (Drone Bay)
+

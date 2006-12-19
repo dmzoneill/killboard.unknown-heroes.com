@@ -1,0 +1,33 @@
+2006.09.11 10:03
+
+Victim: Joudas
+Alliance: None
+Corp: 0utbreak
+Destroyed: Capsule
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: GrandMastaXP
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Moa
+Weapon: Moa
+
+Name: Damfoose (laid the final blow)
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Caracal
+Weapon: Havoc Heavy Missile
+
+Name: Drakin Korin
+Security: -1.1
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Ishtar
+Weapon: Fleeting Warp Scrambler I
+
+

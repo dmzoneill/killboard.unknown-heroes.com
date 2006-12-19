@@ -1,0 +1,29 @@
+2006.09.29 09:50
+
+Victim: Doktor Jivaga
+Alliance: R.I.S.K
+Corp: Russian Specnaz
+Destroyed: Retribution
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Noitaakka (laid the final blow)
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Raven
+Weapon: Cataclysm Cruise Missile
+
+
+Destroyed items:
+
+Medium Pulse Laser II
+1MN Afterburner II
+Small Armor Repairer II
+Energized Adaptive Nano Membrane I
+Energized Adaptive Nano Membrane II
+Energized Thermic Membrane I
+Scorch S, Qty: 3 (Cargo)
+

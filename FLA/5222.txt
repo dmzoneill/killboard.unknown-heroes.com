@@ -1,0 +1,54 @@
+2007.04.27 08:18
+
+Victim: Jo Mar
+Alliance: Xelas Alliance
+Corp: SHADOWNETT
+Destroyed: Badger Mark II
+System: F7C-H0
+Security: 0.0
+
+Involved parties:
+
+Name: Draconian Arcane
+Security: -2.5
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Tempest
+Weapon: 1400mm Prototype I Siege Cannon
+
+Name: Lizzon (laid the final blow)
+Security: 5.0
+Alliance: Guardian Federation
+Corp: KULT Production
+Ship: Arazu
+Weapon: Warrior II
+
+Name: Calvin Andros
+Security: 1.9
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Brutix
+Weapon: Heavy Neutron Blaster I
+
+Name: Koi Yokuma
+Security: 0.4
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Catalyst
+Weapon: Stasis Webifier I
+
+Name: The Cade
+Security: 1.9
+Alliance: Freelancer Alliance
+Corp: Praetorian BlackGuard
+Ship: Brutix
+Weapon: Anode Neutron Particle Cannon I
+
+
+Destroyed items:
+
+Warp Core Stabilizer I
+Warp Core Stabilizer I
+Gallente Shuttle (Cargo)
+Shield Power Relay II (Cargo)
+

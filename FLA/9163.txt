@@ -1,0 +1,44 @@
+2007.05.02 02:52
+
+Victim: Orryc
+Alliance: FATAL Alliance
+Corp: Equilibrium LLC
+Destroyed: Stiletto
+System: MJYW-3
+Security: 0.0
+
+Involved parties:
+
+Name: Selena Frey (laid the final blow)
+Security: 2.5
+Alliance: Freelancer Alliance
+Corp: Terminal Velocity Inc.
+Ship: Thorax
+Weapon: Heavy Neutron Blaster I
+
+Name: Bullv3rsat
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Terminal Velocity Inc.
+Ship: Claw
+Weapon: Claw
+
+Name: Dax Frey
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Terminal Velocity Inc.
+Ship: Blackbird
+Weapon: Widowmaker Heavy Missile
+
+
+Destroyed items:
+
+150mm Light AutoCannon II
+150mm Light AutoCannon II
+Small 'Knave' I Energy Drain
+EMP S, Qty: 71
+X5 Prototype I Engine Enervator
+X5 Prototype I Engine Enervator
+Mark I Modified SS Nanofiber Structure
+EMP S, Qty: 1616 (Cargo)
+

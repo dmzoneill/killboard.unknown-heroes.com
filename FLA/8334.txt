@@ -1,0 +1,63 @@
+2006.11.09 14:52
+
+Victim: LizzyD
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Destroyed: Dominix
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Murdoch Morf (laid the final blow)
+Security: -0.3
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Megathron
+Weapon: Neutron Blaster Cannon II
+
+Name: Darknesss
+Security: -0.6
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Megathron
+Weapon: Megathron
+
+Name: boo3916
+Security: 4.5
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Dominix
+Weapon: Ogre II
+
+Name: Lord KesH
+Security: 2.7
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: GoLdeN BoY
+Security: 1.4
+Alliance: None
+Corp: Beer Guzzling Clowns With Blasters
+Ship: Scorpion
+Weapon: Paradise Cruise Missile
+
+Name: Probot3ctor
+Security: 4.7
+Alliance: None
+Corp: Beer Guzzling Clowns With Blasters
+Ship: Blackbird
+Weapon: Bloodclaw Light Missile
+
+
+Destroyed items:
+
+Prototype I Sensor Booster
+Large 'Accommodation' Vestment Reconstructer I
+Large 'Accommodation' Vestment Reconstructer I
+N-Type Kinetic Hardener I
+N-Type Kinetic Hardener I
+Wasp I, Qty: 3 (Drone Bay)
+

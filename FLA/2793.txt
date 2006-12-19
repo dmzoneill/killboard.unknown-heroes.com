@@ -1,0 +1,35 @@
+2007.03.07 23:43
+
+Victim: sniper luke
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Osprey
+System: O-CNPR
+Security: 0.0
+
+Involved parties:
+
+Name: The Ali
+Security: -3.2
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Amok'Trueborn' Pryde (laid the final blow)
+Security: -1.6
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Vagabond
+Weapon: Dual 180mm AutoCannon II
+
+
+Destroyed items:
+
+F-b10 Nominal Capacitor Regenerator
+F-b10 Nominal Capacitor Regenerator
+Medium Peroxide I Capacitor Power Cell
+Expanded Cargohold I
+Local Power Plant Manager: Capacity Power Relay I
+Light Shield Maintenance Bot I, Qty: 2 (Drone Bay)
+

@@ -1,0 +1,81 @@
+2007.04.24 01:12
+
+Victim: Athanasios Anastasiou
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Destroyed: Hurricane
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Scylla V
+Security: 3.0
+Alliance: Imperial Republic Of the North
+Corp: VentureCorp
+Ship: Eos
+Weapon: Valkyrie II
+
+Name: Habraka (laid the final blow)
+Security: -1.9
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Armageddon
+Weapon: Tachyon Beam Laser II
+
+Name: Bobby Atlas
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Hyperion
+Weapon: Valkyrie II
+
+Name: Reprisa
+Security: 2.8
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Myrmidon
+Weapon: Wasp II
+
+Name: Alfred Einstein
+Security: 4.6
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Munch
+Security: 3.1
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Damnation
+Weapon: Hobgoblin II
+
+Name: Haiyooo
+Security: -2.1
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Sleipnir
+Weapon: Sleipnir
+
+
+Destroyed items:
+
+220mm Medium Gallium I Machine Gun
+220mm Medium Gallium I Machine Gun
+220mm Medium Gallium I Machine Gun
+220mm Medium Gallium I Machine Gun
+220mm Medium Gallium I Machine Gun
+Medium Nosferatu I
+EMP M, Qty: 174
+Warp Disruptor I
+Stasis Webifier I
+Medium Armor Repairer II
+Energized Adaptive Nano Membrane II
+Armor Thermic Hardener I
+Armor Explosive Hardener I
+Phased Plasma M, Qty: 282 (Cargo)
+Cap Booster 800, Qty: 12 (Cargo)
+Vespa I (Drone Bay)
+Warrior I (Drone Bay)
+

@@ -1,0 +1,109 @@
+2007.03.19 05:05
+
+Victim: Simon Monkoto
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Megathron
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Xordus
+Security: 1.4
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Lord Revent
+Security: 1.1
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Maelstrom
+Weapon: Maelstrom
+
+Name: VDV Bru37 (laid the final blow)
+Security: 5.0
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Raven
+Weapon: Inferno Torpedo
+
+Name: Sexorella hotz
+Security: 5.0
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Raven
+Weapon: Wrath Cruise Missile
+
+Name: Xoduse
+Security: 0.4
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Hyperion
+Weapon: Hyperion
+
+Name: Balcura
+Security: 5.0
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Vasili Z
+Security: 0.4
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Huginn
+Weapon: Widowmaker Heavy Missile
+
+Name: Nipplator
+Security: 2.9
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: xargis
+Security: 5.0
+Alliance: YouWhat
+Corp: Pringles Inc.
+Ship: Scorpion
+Weapon: Paradise Cruise Missile
+
+Name: Fred Fredburger
+Security: 5.0
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Megathron
+Weapon: Megathron
+
+Name: zigzag429
+Security: 0.3
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Sabre
+Weapon: Balmer Series Targeting Inhibitor I
+
+Name: Erikel
+Security: 4.6
+Alliance: Chorus of Dawn
+Corp: Cosmic Odyssey
+Ship: Megathron
+Weapon: Megathron
+
+
+Destroyed items:
+
+Ion Blaster Cannon I
+Ion Blaster Cannon I
+Ion Blaster Cannon I
+Iridium Charge L, Qty: 480
+Warp Disruptor I
+Heavy Brief Capacitor Overcharge I
+Magnetic Field Stabilizer I
+Energized Adaptive Nano Membrane I
+Iridium Charge L, Qty: 1574 (Cargo)
+Medium Armor Maintenance Bot I (Drone Bay)
+

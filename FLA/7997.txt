@@ -1,0 +1,39 @@
+2006.10.05 18:24
+
+Victim: Mocuker
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Destroyed: Ferox
+System: Jita
+Security: 0.9
+
+Involved parties:
+
+Name: Onin Ra (laid the final blow)
+Security: 1.1
+Alliance: None
+Corp: Privateers
+Ship: Megathron
+Weapon: Hammerhead I
+
+Name: SLAPNUTZ
+Security: -1.8
+Alliance: None
+Corp: Privateers
+Ship: Typhoon
+Weapon: Cruise Missile Launcher I
+
+
+Destroyed items:
+
+Antimatter Charge M, Qty: 80
+Hellhound F.O.F. Heavy Missile I, Qty: 58
+'Malkuth' Heavy Missile Launcher I
+'Arbalest' Heavy Missile Launcher
+'Arbalest' Heavy Missile Launcher
+Small Tractor Beam I
+F-S8 Relativistic Deflection Shield Induction
+Muon Coil Bolt Array I
+Antimatter Charge M, Qty: 784 (Cargo)
+Hellhound F.O.F. Heavy Missile I, Qty: 1405 (Cargo)
+

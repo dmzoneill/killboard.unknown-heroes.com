@@ -1,0 +1,50 @@
+2007.01.11 01:07
+
+Victim: Mufeater
+Alliance: Freelancer Alliance
+Corp: Shadow Core
+Destroyed: Helios
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: SATAN (laid the final blow)
+Security: -0.8
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+Name: heavensfire
+Security: 3.1
+Alliance: None
+Corp: United Allies
+Ship: Pilgrim
+Weapon: Medium Diminishing Power System Drain I
+
+Name: Feyd Mantis
+Security: 2.6
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Tempest
+Weapon: Medium Energy Neutralizer II
+
+Name: BLOOD THIRSTY
+Security: -0.2
+Alliance: None
+Corp: Imperial Academy
+Ship: Heretic
+Weapon: X5 Prototype I Engine Enervator
+
+
+Destroyed items:
+
+Eutectic I Capacitor Charge Array
+1MN MicroWarpdrive I
+Remote Sensor Dampener I
+Indirect Scanning Dampening Unit I
+F-90 Positional Sensor Subroutines
+Nanofiber Internal Structure I
+Beta Reactor Control: Capacitor Power Relay I
+

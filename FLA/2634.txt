@@ -1,0 +1,37 @@
+2007.02.27 22:49
+
+Victim: Cockroach
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Purifier
+System: YZ-LQL
+Security: 0.0
+
+Involved parties:
+
+Name: cold lazarus (laid the final blow)
+Security: 5.2
+Alliance: Band of Brothers
+Corp: Reikoku
+Ship: Rokh
+Weapon: 425mm 'Scout' I Accelerator Cannon
+
+
+Destroyed items:
+
+Dual Light Beam Laser II
+Dual Light Beam Laser II
+Radio S
+Prototype Cloaking Device I
+Paradise Cruise Missile, Qty: 17
+'Limos' Cruise Launcher I
+1MN MicroWarpdrive II
+Nanofiber Internal Structure I
+Mark I Generator Refitting: Diagnostic System
+Kapteyn Sensor Array Inhibitor I (Cargo)
+Paradise Cruise Missile, Qty: 434 (Cargo)
+Dragon F.O.F. Cruise Missile I, Qty: 22 (Cargo)
+Obliterator F.O.F. Cruise Missile I, Qty: 272 (Cargo)
+Hunter F.O.F. Cruise Missile I, Qty: 228 (Cargo)
+Nanofiber Internal Structure I (Cargo)
+

@@ -1,0 +1,33 @@
+2007.03.28 21:30
+
+Victim: Hamos
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Destroyed: Capsule
+System: H1-J33
+Security: 0.0
+
+Involved parties:
+
+Name: Diego Barbera
+Security: -0.2
+Alliance: YouWhat
+Corp: Princeps Corp
+Ship: Taranis
+Weapon: Taranis
+
+Name: mama guru (laid the final blow)
+Security: 2.8
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Ship: Enyo
+Weapon: Light Ion Blaster II
+
+Name: Gordon Red
+Security: 2.0
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Heretic
+Weapon: Rocket Launcher II
+
+

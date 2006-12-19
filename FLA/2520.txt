@@ -1,0 +1,61 @@
+2007.02.18 09:10
+
+Victim: Moridin Bashere
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Destroyed: Stabber
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: mullenc (laid the final blow)
+Security: 1.3
+Alliance: Agony Empire
+Corp: Agony Unleashed
+Ship: Vexor
+Weapon: Hammerhead II
+
+Name: Rells
+Security: 1.1
+Alliance: Agony Empire
+Corp: Agony Unleashed
+Ship: Crow
+Weapon: Thorn Rocket
+
+Name: Greater Mind
+Security: 0.7
+Alliance: Agony Empire
+Corp: Agony Unleashed
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: Zygdriel
+Security: 5.0
+Alliance: Agony Empire
+Corp: Agony Unleashed
+Ship: Rokh
+Weapon: Juggernaut Torpedo
+
+Name: Unit 1
+Security: 2.1
+Alliance: Agony Empire
+Corp: Agony Unleashed
+Ship: Celestis
+Weapon: Celestis
+
+
+Destroyed items:
+
+220mm Vulcan AutoCannon I
+220mm Vulcan AutoCannon I
+220mm Vulcan AutoCannon I
+220mm Vulcan AutoCannon I
+EMP M, Qty: 148
+'Malkuth' Heavy Assault Missile Launcher I
+10MN MicroWarpdrive I
+Warp Disruptor I
+Phased Plasma M, Qty: 2000 (Cargo)
+Torrent Assault Missile, Qty: 348 (Cargo)
+Warrior II (Drone Bay)
+

@@ -1,0 +1,112 @@
+2007.03.30 20:38
+
+Victim: torreson
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Destroyed: Maelstrom
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Genrom
+Security: 4.5
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Taranis
+Weapon: Taranis
+
+Name: Max Teranous
+Security: -1.2
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Claw
+Weapon: Foxfire Rocket
+
+Name: Tomas Ysidro
+Security: 1.3
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Taranis
+Weapon: Taranis
+
+Name: NoWeR
+Security: 4.5
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Olli (laid the final blow)
+Security: -0.1
+Alliance: S.E.R.A
+Corp: Seraphin Technologies
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Pure Angel
+Security: 0.0
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Crow
+Weapon: Piranha Precision Light Missile
+
+Name: KIAEnIgMa
+Security: 0.4
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Crow
+Weapon: Bloodclaw Precision Light Missile
+
+Name: Ferocious FeAr
+Security: 1.5
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Crow
+Weapon: 'Arbalest' Standard Missile Launcher
+
+Name: Dol Amroth
+Security: 0.2
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Crow
+Weapon: Bloodclaw Precision Light Missile
+
+Name: Rukaz
+Security: 3.1
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Crow
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+Name: Ms BlueFire
+Security: 3.1
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Crusader
+Weapon: Crusader
+
+
+Destroyed items:
+
+1400mm Howitzer Artillery I
+1400mm 'Scout' Artillery I
+Nuclear L
+Nuclear L
+Titanium Sabot L
+Titanium Sabot L
+Titanium Sabot L
+Juggernaut Torpedo
+Juggernaut Torpedo
+Juggernaut Torpedo
+Juggernaut Torpedo
+Juggernaut Torpedo
+Juggernaut Torpedo
+Juggernaut Torpedo
+'Arbalest' Siege Missile Launcher
+Domination Invulnerability Field
+Sensor Booster II
+Tracking Enhancer II
+Power Diagnostic System II
+Nuclear L, Qty: 4173 (Cargo)
+

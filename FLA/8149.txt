@@ -1,0 +1,37 @@
+2006.10.19 14:23
+
+Victim: bidman
+Alliance: Freelancer Alliance
+Corp: BGG
+Destroyed: Raven
+System: Nonni
+Security: 0.5
+
+Involved parties:
+
+Name: Arctic Ice (laid the final blow)
+Security: -2.7
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Astarte
+Weapon: Heavy Neutron Blaster II
+
+Name: Spaced Skunk
+Security: -1.3
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Ashimmu
+Weapon: Ashimmu
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Siege Missile Launcher II
+Juggernaut Javelin Torpedo, Qty: 40
+Large F-S9 Regolith Shield Induction
+Sensor Booster II
+Photonic CPU Enhancer I
+Juggernaut Javelin Torpedo, Qty: 260 (Cargo)
+Hammerhead I, Qty: 7 (Drone Bay)
+

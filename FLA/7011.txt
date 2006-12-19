@@ -1,0 +1,101 @@
+2006.12.20 04:36
+
+Victim: Phonix
+Alliance: None
+Corp: Fate.
+Destroyed: Tempest
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Ageha
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Spandrel
+Security: 3.1
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Raven
+Weapon: Hammerhead I
+
+Name: Taffun
+Security: 3.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Claymore
+Weapon: Claymore
+
+Name: Arquiteto (laid the final blow)
+Security: 1.5
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Tempest
+Weapon: Dual 425mm AutoCannon II
+
+Name: TasmanianX
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Cerberus
+Weapon: Scourge Heavy Missile
+
+Name: Yertus Plight
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Dominix
+Weapon: Wasp II
+
+Name: kurtFury
+Security: 2.0
+Alliance: Schism.
+Corp: Fatalix Inc.
+Ship: Raven
+Weapon: Juggernaut Torpedo
+
+Name: Aphotic Raven
+Security: 2.8
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Thorax
+Weapon: Thorax
+
+Name: Lemage
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Vexor
+Weapon: Vexor
+
+Name: TroNaaR
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ishkur
+Weapon: Hobgoblin II
+
+
+Destroyed items:
+
+Dual 650mm Repeating Artillery II
+Dual 650mm Repeating Artillery II
+Dual 650mm Repeating Artillery II
+Medium Nosferatu II
+Barrage L, Qty: 240
+J5 Prototype Warp Inhibitor I
+Heavy Electrochemical Capacitor Booster I
+Large Armor Repairer II
+Large Armor Repairer II
+Energized Adaptive Nano Membrane II
+Shadow Serpentis Armor Kinetic Hardener
+Shadow Serpentis Armor Thermic Hardener
+Fusion L, Qty: 784 (Cargo)
+Phased Plasma L, Qty: 600 (Cargo)
+Hail L, Qty: 978 (Cargo)
+Valkyrie II, Qty: 5 (Drone Bay)
+

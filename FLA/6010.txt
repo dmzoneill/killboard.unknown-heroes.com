@@ -1,0 +1,69 @@
+2006.11.05 23:00
+
+Victim: Ghene4ka
+Alliance: R.I.S.K
+Corp: ReD eYe Inc.
+Destroyed: Incursus
+System: J-CIJV
+Security: 0.0
+
+Involved parties:
+
+Name: Wthor (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Sabre
+Weapon: 250mm Light Artillery Cannon II
+
+Name: Midiana
+Security: 1.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: Formosus Funus
+Security: 3.5
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Thrasher
+Weapon: Thrasher
+
+Name: jacass66
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Scorpion
+Weapon: Heavy Missile Launcher II
+
+Name: LizzyD
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: Kishan Tor
+Security: 1.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Rook
+Weapon: Heavy Missile Launcher II
+
+Name: Elfaen Ethenwe
+Security: -0.1
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Rook
+Weapon: Heavy Missile Launcher II
+
+
+Destroyed items:
+
+Light Ion Blaster I
+Small Shield Extender I
+Warp Core Stabilizer I
+Warp Core Stabilizer I
+Antimatter Charge S, Qty: 1400 (Cargo)
+

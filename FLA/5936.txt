@@ -1,0 +1,35 @@
+2006.10.30 07:14
+
+Victim: Mortuus
+Alliance: None
+Corp: Oblivion's Gate
+Destroyed: Claw
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Digioso (laid the final blow)
+Security: 1.3
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Megathron
+Weapon: Large 'Vehemence' I Shockwave Charge
+
+Name: Eacham Graeme
+Security: 2.4
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Unknown
+Weapon: ZW-4100 Siege Missile Bay
+
+
+Destroyed items:
+
+200mm AutoCannon II
+Faint Epsilon Warp Prohibitor I
+Energized Adaptive Nano Membrane II
+100mm Reinforced Rolled Tungsten Plates I
+Gremlin Rocket, Qty: 296 (Cargo)
+Phalanx Rocket, Qty: 451 (Cargo)
+

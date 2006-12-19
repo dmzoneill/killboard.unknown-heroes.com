@@ -1,0 +1,68 @@
+2006.11.19 08:50
+
+Victim: Fire Forager
+Alliance: Lotka Volterra
+Corp: FATAL REVELATIONS
+Destroyed: Thorax
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Diggin Darkster (laid the final blow)
+Security: 2.5
+Alliance: O X I D E
+Corp: Cirrius Technologies
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: James Potkukelkka
+Security: 0.3
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Flycatcher
+Weapon: Bloodclaw Light Missile
+
+Name: Azmodai
+Security: 5.1
+Alliance: O X I D E
+Corp: Cirrius Technologies
+Ship: Blackbird
+Weapon: Widowmaker Heavy Missile
+
+Name: Caterpillar
+Security: 5.1
+Alliance: CORE.
+Corp: AUS Corporation
+Ship: Falcon
+Weapon: Falcon
+
+Name: SniperMcBob
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Raven
+Weapon: Siege Missile Launcher II
+
+Name: Mining Maxx
+Security: 5.0
+Alliance: O X I D E
+Corp: Cirrius Technologies
+Ship: Deimos
+Weapon: Deimos
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Medium Nosferatu I
+150mm Railgun I
+150mm Railgun I
+10MN MicroWarpdrive I
+Fleeting Progressive Warp Scrambler I
+Warp Core Stabilizer I
+Warp Scrambler I (Cargo)
+Antimatter Charge S, Qty: 766 (Cargo)
+N-Type EM Hardener I (Cargo)
+Valkyrie I, Qty: 3 (Drone Bay)
+

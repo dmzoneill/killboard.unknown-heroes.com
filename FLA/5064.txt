@@ -1,0 +1,160 @@
+2007.04.21 16:01
+
+Victim: Shassandra
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Dominix
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Pokerizer
+Security: 1.7
+Alliance: Aftermath Alliance
+Corp: Pyrrhus Sicarii
+Ship: Muninn
+Weapon: Muninn
+
+Name: Proxay
+Security: 5.0
+Alliance: Xelas Alliance
+Corp: Fallen Angel's
+Ship: Megathron
+Weapon: Megathron
+
+Name: Strelook
+Security: -0.8
+Alliance: Xelas Alliance
+Corp: Requiem of Hades
+Ship: Maelstrom
+Weapon: Maelstrom
+
+Name: XXJackXX
+Security: 4.9
+Alliance: Axiom Empire
+Corp: Dirty Deeds Corp.
+Ship: Eagle
+Weapon: Eagle
+
+Name: Kelishnikov
+Security: -3.5
+Alliance: FATAL Alliance
+Corp: Equilibrium LLC
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Frist (laid the final blow)
+Security: 1.3
+Alliance: FATAL Alliance
+Corp: Equilibrium LLC
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: Dia Spora
+Security: 0.9
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: Wolf 10
+Security: 0.1
+Alliance: FATAL Alliance
+Corp: FATAL REVELATIONS
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+Name: badermans
+Security: 2.7
+Alliance: FATAL Alliance
+Corp: UK Corp
+Ship: Drake
+Weapon: Advanced 'Limos' Heavy Missile Bay I
+
+Name: Kuentai
+Security: -5.8
+Alliance: Corelum Syndicate
+Corp: Coreli Corporation
+Ship: Sabre
+Weapon: 150mm Light AutoCannon I
+
+Name: storm666
+Security: 5.0
+Alliance: FATAL Alliance
+Corp: The JORG Corporation
+Ship: Caracal
+Weapon: Heavy Missile Launcher I
+
+Name: Cheeb Aman
+Security: 0.6
+Alliance: Corelum Syndicate
+Corp: Coreli Corporation
+Ship: Eagle
+Weapon: Eagle
+
+Name: Frank Monkey
+Security: 0.0
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Taranis
+Weapon: Taranis
+
+Name: NobodyGood
+Security: -2.4
+Alliance: Aftermath Alliance
+Corp: Master Miners
+Ship: Flycatcher
+Weapon: Flameburst Light Missile
+
+Name: CENGIZHAN
+Security: 2.8
+Alliance: FATAL Alliance
+Corp: Equilibrium LLC
+Ship: Malediction
+Weapon: Piranha Light Missile
+
+Name: Flaming Candle
+Security: 4.4
+Alliance: Aftermath Alliance
+Corp: Shadows of the Dead
+Ship: Arazu
+Weapon: Arazu
+
+Name: Ssirc
+Security: 4.9
+Alliance: Xelas Alliance
+Corp: Fallen Angel's
+Ship: Enyo
+Weapon: Warrior II
+
+Name: Arhes Branwin
+Security: 2.7
+Alliance: Xelas Alliance
+Corp: Industrial Warlords
+Ship: Condor
+Weapon: Condor
+
+Name: Red Dingo
+Security: 0.9
+Alliance: Aftermath Alliance
+Corp: Master Miners
+Ship: Taranis
+Weapon: Taranis
+
+
+Destroyed items:
+
+E500 Prototype Energy Vampire
+E500 Prototype Energy Vampire
+Iron Charge M, Qty: 237
+100MN MicroWarpdrive I
+Prototype I Sensor Booster
+Damage Control II
+Large Armor Repairer II
+Armor Thermic Hardener I
+N-Type Explosive Hardener I
+Wasp I, Qty: 2 (Drone Bay)
+Berserker I, Qty: 2 (Drone Bay)
+Medium Armor Maintenance Bot I, Qty: 5 (Drone Bay)
+

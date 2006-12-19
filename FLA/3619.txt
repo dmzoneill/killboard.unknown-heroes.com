@@ -1,0 +1,52 @@
+2007.03.27 23:04
+
+Victim: Mizerik
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Destroyed: Buzzard
+System: Z-Y7R7
+Security: 0.0
+
+Involved parties:
+
+Name: Magnelien (laid the final blow)
+Security: 4.3
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: istasi
+Security: 0.3
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: MOS EISLEY
+Security: 3.9
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Dominix
+Weapon: Dominix
+
+
+Destroyed items:
+
+Magnetometric Pursuit Probe
+Magnetometric Pursuit Probe
+Magnetometric Pursuit Probe
+Magnetometric Pursuit Probe
+Magnetometric Pursuit Probe
+Magnetometric Pursuit Probe
+Magnetometric Pursuit Probe
+Magnetometric Pursuit Probe
+Standard Missile Launcher I
+Cap Recharger I
+Sensor Booster I
+Nanofiber Internal Structure I
+Warrior I, Qty: 2 (Cargo)
+Infiltrator I (Cargo)
+Bloodclaw Light Missile, Qty: 4133 (Cargo)
+Capacitor Power Relay I (Cargo)
+

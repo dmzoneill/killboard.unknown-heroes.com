@@ -1,0 +1,28 @@
+2006.10.26 00:33
+
+Victim: Tapas
+Alliance: None
+Corp: Lemmings Inc
+Destroyed: Kestrel
+System: EWOK-K
+Security: 0.0
+
+Involved parties:
+
+Name: roboto212 (laid the final blow)
+Security: -0.4
+Alliance: Freelancer Alliance
+Corp: Sin-X Inc.
+Ship: Incursus
+Weapon: 125mm Railgun II
+
+
+Destroyed items:
+
+Thorn Rocket, Qty: 45
+Rocket Launcher I
+Rocket Launcher I
+Rocket Launcher I
+ECM - Multispectral Jammer I
+Thorn Rocket, Qty: 500 (Cargo)
+

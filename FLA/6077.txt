@@ -1,0 +1,30 @@
+2006.11.07 01:56
+
+Victim: Fields Caletis
+Alliance: Lotka Volterra
+Corp: CRICE Corporation
+Destroyed: Curse
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Swanny231 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Raven
+Weapon: Juggernaut Javelin Torpedo
+
+
+Destroyed items:
+
+Medium Nosferatu II
+Medium Nosferatu II
+Medium Nosferatu II
+Medium Nosferatu II
+Warrior II (Cargo)
+Valkyrie II (Cargo)
+Infiltrator II, Qty: 3 (Drone Bay)
+Acolyte II, Qty: 2 (Drone Bay)
+

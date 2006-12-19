@@ -1,0 +1,45 @@
+2006.11.06 17:38
+
+Victim: Frwind
+Alliance: None
+Corp: WarBirds
+Destroyed: Hoarder
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: TiMeZeRo225 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: J.I.T. Enterprises
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+Name: Formosus Funus
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Jaguar
+Weapon: 250mm Light Artillery Cannon II
+
+Name: Preying Mantis
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: Wousr
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Stiletto
+Weapon: Fleeting Progressive Warp Scrambler I
+
+
+Destroyed items:
+
+Small Tractor Beam I
+Monopropellant I Hydrazine Boosters
+

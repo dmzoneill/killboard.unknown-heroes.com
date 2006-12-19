@@ -1,0 +1,32 @@
+2006.11.07 17:02
+
+Victim: Michael Valzone
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Destroyed: Catalyst
+System: Piak
+Security: 0.7
+
+Involved parties:
+
+Name: TranZferR (laid the final blow)
+Security: -1.8
+Alliance: None
+Corp: The Initiative
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+
+Destroyed items:
+
+Limited Light Ion Blaster I
+Limited Light Ion Blaster I
+Limited Light Ion Blaster I
+Antimatter Charge S, Qty: 120
+1MN Afterburner I
+Small Capacitor Battery I
+Hull Upgrades (Cargo)
+Metallurgy (Cargo)
+Cybernetics (Cargo)
+Bloodclaw Light Missile, Qty: 63 (Cargo)
+

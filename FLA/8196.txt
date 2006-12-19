@@ -1,0 +1,36 @@
+2006.10.30 02:18
+
+Victim: Soliloquil
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Destroyed: Blackbird
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: DHB WildCat (laid the final blow)
+Security: 5.0
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Juggernaut Javelin Torpedo
+
+Name: Darknesss
+Security: -0.7
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Taranis
+Weapon: Taranis
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Havoc Heavy Missile, Qty: 71
+XR-3200 Heavy Missile Bay
+'Arbalest' Heavy Missile Launcher
+Barton Reactor Capacitor Recharger I
+BZ-5 Neutralizing Spatial Destabilizer ECM
+'Umbra' I White Noise ECM
+

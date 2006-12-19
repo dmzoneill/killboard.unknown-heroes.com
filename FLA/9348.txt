@@ -1,0 +1,52 @@
+2007.05.08 06:42
+
+Victim: Aridante Lemure
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Destroyed: Celestis
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Iron Guerilla
+Security: 0.9
+Alliance: Vigilance Infinitas
+Corp: CRICE Corporation
+Ship: Claw
+Weapon: Dragonfly
+
+Name: Screamer (laid the final blow)
+Security: 1.4
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Chimera
+Weapon: Einherji
+
+Name: Erik Morkai
+Security: -1.2
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Blackbird
+Weapon: FZ-3 Subversive Spatial Destabilizer ECM
+
+
+Destroyed items:
+
+Terror Assault Missile, Qty: 23
+280mm Howitzer Artillery I
+425mm AutoCannon I
+Carbonized Lead S
+Carbonized Lead S
+Carbonized Lead S
+Carbonized Lead S
+Carbonized Lead M, Qty: 24
+Thunderbolt Heavy Missile, Qty: 15
+Heavy Assault Missile Launcher I
+10MN MicroWarpdrive I
+Remote Sensor Dampener I
+Medium Armor Repairer I
+Energized Adaptive Nano Membrane I
+Carbonized Lead M, Qty: 197 (Cargo)
+Thunderbolt Heavy Missile, Qty: 35 (Cargo)
+

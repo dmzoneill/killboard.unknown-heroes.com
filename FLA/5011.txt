@@ -1,0 +1,46 @@
+2007.04.21 01:21
+
+Victim: coldkill
+Alliance: Freelancer Alliance
+Corp: Galaxy Punks
+Destroyed: Slasher
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Athanasios Anastasiou (laid the final blow)
+Security: 5.0
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Hurricane
+Weapon: 720mm Howitzer Artillery II
+
+Name: Katchin
+Security: 2.1
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Muninn
+Weapon: 650mm Artillery Cannon II
+
+Name: Nubiam
+Security: 4.9
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Malediction
+Weapon: Malediction
+
+Name: Fitz Farseer
+Security: 0.5
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Hound
+Weapon: 'Arbalest' Cruise Launcher I
+
+
+Destroyed items:
+
+1MN Afterburner I
+J5b Phased Prototype Warp Inhibitor I
+Nuclear S, Qty: 424 (Cargo)
+

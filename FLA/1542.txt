@@ -1,0 +1,37 @@
+2007.03.16 01:34
+
+Victim: Candera Fusan
+Alliance: None
+Corp: The Department of Justice
+Destroyed: Caracal
+System: Z-Y7R7
+Security: 0.0
+
+Involved parties:
+
+Name: Denaris1 (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: Tregaron
+Security: 2.2
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Cyclone
+Weapon: Cyclone
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 40
+Thunderbolt Heavy Missile, Qty: 29
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Medium Supplemental Barrier Emitter I
+X5 Prototype I Engine Enervator
+Beta Hull Mod Expanded Cargo
+Thunderbolt Heavy Missile, Qty: 197 (Cargo)
+

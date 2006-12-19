@@ -1,0 +1,30 @@
+2007.03.18 15:05
+
+Victim: STOP SPAMMING
+Alliance: None
+Corp: Republic Military School
+Destroyed: Reaper
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Gargh Ahhwell
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Harpy
+Weapon: Harpy
+
+Name: Drist (laid the final blow)
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Typhoon
+Weapon: Cataclysm Cruise Missile
+
+
+Destroyed items:
+
+Tritanium (Cargo)
+

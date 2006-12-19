@@ -1,0 +1,68 @@
+2007.03.02 00:06
+
+Victim: Celador Nane
+Alliance: Band of Brothers
+Corp: Reikoku
+Destroyed: Taranis
+System: YZ-LQL
+Security: 0.0
+
+Involved parties:
+
+Name: Xantheris
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Harpy
+Weapon: Harpy
+
+Name: william kronos
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Caracal
+Weapon: Scourge Heavy Missile
+
+Name: truefranco (laid the final blow)
+Security: 2.4
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Teck7
+Security: 1.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Lachesis
+Weapon: Initiated Warp Jammer I
+
+Name: Samiloth Justinian
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Drake
+Weapon: Advanced 'Limos' Heavy Missile Bay I
+
+Name: Jonas123
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Scorpion
+Weapon: XT-9000 Cruise Launcher
+
+Name: Dekkarius
+Security: 0.5
+Alliance: The Foundation.
+Corp: SAS.
+Ship: Caracal
+Weapon: Heavy Missile Launcher I
+
+
+Destroyed items:
+
+Light Ion Blaster II
+Antimatter Charge S, Qty: 111
+1MN MicroWarpdrive I
+Hobgoblin II (Drone Bay)
+

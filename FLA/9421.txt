@@ -1,0 +1,55 @@
+2007.05.12 20:34
+
+Victim: Ilan Barak
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Destroyed: Myrmidon
+System: Nonni
+Security: 0.5
+
+Involved parties:
+
+Name: Ronnie Kray
+Security: -1.9
+Alliance: None
+Corp: Mentally Unstable Enterprises
+Ship: Raven
+Weapon: Small Diminishing Power System Drain I
+
+Name: Raffael Ramirez (laid the final blow)
+Security: -1.4
+Alliance: None
+Corp: Mentally Unstable Enterprises
+Ship: Nighthawk
+Weapon: Scourge Heavy Missile
+
+Name: Del Boy
+Security: -1.2
+Alliance: None
+Corp: Mentally Unstable Enterprises
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Lennier Cotto
+Security: -2.1
+Alliance: None
+Corp: Mentally Unstable Enterprises
+Ship: Crow
+Weapon: J5 Prototype Warp Inhibitor I
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Heavy Electron Blaster I
+Heavy Electron Blaster I
+Antimatter Charge M, Qty: 594
+10MN MicroWarpdrive I
+Damage Control II
+Medium Armor Repairer II
+Energized Adaptive Nano Membrane I
+Armor Explosive Hardener I
+Antimatter Charge M, Qty: 2320 (Cargo)
+Cap Booster 800, Qty: 10 (Cargo)
+Warrior I, Qty: 3 (Drone Bay)
+

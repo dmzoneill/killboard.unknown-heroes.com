@@ -1,0 +1,33 @@
+2006.11.24 19:11
+
+Victim: Neurty Mo
+Alliance: None
+Corp: State War Academy
+Destroyed: Capsule
+System: KQK1-2
+Security: 0.0
+
+Involved parties:
+
+Name: Midiana
+Security: 1.1
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Ishtar
+Weapon: Ishtar
+
+Name: Scorpio63
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Prophecy
+Weapon: Advanced 'Limos' Heavy Missile Bay I
+
+Name: TasKu (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Ishtar
+Weapon: Light Neutron Blaster II
+
+

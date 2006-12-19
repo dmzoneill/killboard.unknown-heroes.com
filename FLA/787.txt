@@ -1,0 +1,33 @@
+2007.02.21 00:33
+
+Victim: Zurtur
+Alliance: None
+Corp: Voices of the Revolution
+Destroyed: Capsule
+System: G95-VZ
+Security: 0.0
+
+Involved parties:
+
+Name: Xantheris
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+Name: Prodigal IV (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Ship: Megathron
+Weapon: Neutron Blaster Cannon I
+
+Name: Trulaine
+Security: -1.8
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Brutix
+Weapon: Fleeting Progressive Warp Scrambler I
+
+

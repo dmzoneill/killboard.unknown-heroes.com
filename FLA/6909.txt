@@ -1,0 +1,52 @@
+2006.12.12 20:07
+
+Victim: starius3
+Alliance: None
+Corp: omen.
+Destroyed: Taranis
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Super Homer (laid the final blow)
+Security: 1.1
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Manticore
+Weapon: Paradise Cruise Missile
+
+Name: beantin
+Security: 2.9
+Alliance: None
+Corp: 0utbreak
+Ship: Sabre
+Weapon: 200mm AutoCannon II
+
+Name: Corovus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: THeOThErs
+Ship: Nemesis
+Weapon: Cataclysm Cruise Missile
+
+Name: Fullerton
+Security: 0.6
+Alliance: Freelancer Alliance
+Corp: THeOThErs
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery I
+
+
+Destroyed items:
+
+125mm Railgun II
+Prototype Cloaking Device I
+Spike S, Qty: 142
+1MN MicroWarpdrive II
+Warp Disruptor I
+Small Armor Repairer II
+Micro Auxiliary Power Core I
+Spike S, Qty: 7022 (Cargo)
+Hobgoblin II, Qty: 2 (Drone Bay)
+

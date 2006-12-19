@@ -1,0 +1,54 @@
+2007.05.29 23:09
+
+Victim: Lil Ewok
+Alliance: Freelancer Alliance
+Corp: Criminal DNA
+Destroyed: Hyperion
+System: 93PI-4
+Security: 0.0
+
+Involved parties:
+
+Name: Arctic Ice (laid the final blow)
+Security: -9.8
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Hyperion
+Weapon: Neutron Blaster Cannon II
+
+Name: boo3916
+Security: -1.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Vulture
+Weapon: Vulture
+
+Name: Jobben
+Security: 1.8
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Hyperion
+Weapon: Infiltrator II
+
+Name: omega kilos
+Security: -10.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Abaddon
+Weapon: Abaddon
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Heavy Electron Blaster I
+Heavy Electron Blaster I
+Antimatter Charge M, Qty: 486
+Stasis Webifier I
+Large Armor Repairer I
+Tracking Enhancer I
+1600mm Reinforced Rolled Tungsten Plates I
+1600mm Reinforced Titanium Plates I
+Uranium Charge M, Qty: 840 (Cargo)
+Antimatter Charge M, Qty: 865 (Cargo)
+

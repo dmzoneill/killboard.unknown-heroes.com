@@ -1,0 +1,71 @@
+2007.02.12 23:03
+
+Victim: Original Downer
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Destroyed: Drake
+System: Jita
+Security: 0.9
+
+Involved parties:
+
+Name: KaKaShI (laid the final blow)
+Security: 3.1
+Alliance: None
+Corp: Princeps Corp
+Ship: Armageddon
+Weapon: Mega Modulated Pulse Energy Beam I
+
+Name: Diego Barbera
+Security: -1.7
+Alliance: None
+Corp: Princeps Corp
+Ship: Thorax
+Weapon: Light Neutron Blaster II
+
+Name: Lady64bits
+Security: 5.0
+Alliance: None
+Corp: Princeps Corp
+Ship: Unknown
+Weapon: Hammerhead I
+
+Name: stich626
+Security: -1.2
+Alliance: None
+Corp: Princeps Corp
+Ship: Unknown
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+Name: Marla Durden
+Security: 0.0
+Alliance: None
+Corp: Princeps Corp
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: KekoRage
+Security: 0.8
+Alliance: None
+Corp: Princeps Corp
+Ship: Unknown
+Weapon: Medium Nosferatu I
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Scourge Heavy Missile, Qty: 92
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+Heavy Missile Launcher I
+Medium Shield Booster II
+F84 Local Damage System
+Ballistic Control System I
+Cap Recharger I (Cargo)
+Gravimetric Positional ECCM Sensor System I (Cargo)
+Scourge Heavy Missile, Qty: 263 (Cargo)
+

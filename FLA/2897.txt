@@ -1,0 +1,70 @@
+2007.03.15 03:36
+
+Victim: Skull Fire
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Rokh
+System: XZH-4X
+Security: 0.0
+
+Involved parties:
+
+Name: Xoduse (laid the final blow)
+Security: 0.1
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Archon
+Weapon: Firbolg
+
+Name: Nipplator
+Security: 2.7
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Coercer
+Weapon: Coercer
+
+Name: Lord Revent
+Security: 0.9
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Breacher
+Weapon: Firbolg
+
+Name: Vasili Z
+Security: 0.3
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: Galaxor
+Security: 5.1
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Punisher
+Weapon: Punisher
+
+Name: Xordus
+Security: 0.9
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Archon
+Weapon: Firbolg
+
+
+Destroyed items:
+
+425mm Prototype I Gauss Gun
+425mm Prototype I Gauss Gun
+425mm Prototype I Gauss Gun
+Antimatter Charge L, Qty: 112
+Large Shield Extender II
+F-90 Positional Sensor Subroutines
+1600mm Reinforced Rolled Tungsten Plates I
+Type-D Power Core Modification: Reaction Control
+Type-D Power Core Modification: Reaction Control
+Iridium Charge L, Qty: 547 (Cargo)
+Uranium Charge L, Qty: 600 (Cargo)
+Iron Charge L, Qty: 187 (Cargo)
+Havoc Heavy Missile, Qty: 486 (Cargo)
+

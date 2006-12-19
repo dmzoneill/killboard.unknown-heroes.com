@@ -1,0 +1,158 @@
+2007.03.04 13:36
+
+Victim: Gating Corss
+Alliance: Aftermath Alliance
+Corp: Dark Nebula Gallente Division
+Destroyed: Dominix
+System: I-CUVX
+Security: 0.0
+
+Involved parties:
+
+Name: marcoos
+Security: 3.8
+Alliance: Dusk and Dawn
+Corp: ClanKillers
+Ship: Dominix
+Weapon: Ogre I
+
+Name: DANGEROUS
+Security: 3.6
+Alliance: Dusk and Dawn
+Corp: Omega Enterprises
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: DrRockIT
+Security: 0.8
+Alliance: Dusk and Dawn
+Corp: Asgard Schiffswerften
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: Kerdrak
+Security: 4.9
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Apocalypse
+Weapon: Apocalypse
+
+Name: Flinx Evenstar
+Security: -1.3
+Alliance: Dusk and Dawn
+Corp: Momentum.
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: Cartman Lee
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Cataclysm Enterprises
+Ship: Thorax
+Weapon: Thorax
+
+Name: TheClawz
+Security: 3.5
+Alliance: Dusk and Dawn
+Corp: Omega Enterprises
+Ship: Stiletto
+Weapon: 150mm Light AutoCannon II
+
+Name: Tassi
+Security: -3.2
+Alliance: Dusk and Dawn
+Corp: Cataclysm Enterprises
+Ship: Crusader
+Weapon: Crusader
+
+Name: Shadowjumper
+Security: 4.9
+Alliance: Dusk and Dawn
+Corp: Intergalactic Serenity
+Ship: Flycatcher
+Weapon: Thorn Rocket
+
+Name: Emerald Cortess
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Konstrukteure der Zukunft
+Ship: Moa
+Weapon: Moa
+
+Name: The Alchemyst
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Infinite Improbability Inc
+Ship: Rifter
+Weapon: Rifter
+
+Name: GS Armada
+Security: 3.4
+Alliance: Dusk and Dawn
+Corp: ECP Rogues
+Ship: Scorpion
+Weapon: Cataclysm Cruise Missile
+
+Name: Mark Frank
+Security: 1.9
+Alliance: Dusk and Dawn
+Corp: moon7empler
+Ship: Eris
+Weapon: X5 Prototype I Engine Enervator
+
+Name: Cecilia Walsh
+Security: 3.6
+Alliance: Dusk and Dawn
+Corp: Cataclysm Enterprises
+Ship: Curse
+Weapon: Hammerhead II
+
+Name: Psykoman (laid the final blow)
+Security: 5.1
+Alliance: Dusk and Dawn
+Corp: Infinite Improbability Inc
+Ship: Myrmidon
+Weapon: Berserker II
+
+Name: Imperian
+Security: 3.2
+Alliance: Zenith Affinity
+Corp: Netquarter
+Ship: Crow
+Weapon: Piranha Light Missile
+
+Name: Tregaron
+Security: 1.7
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Cyclone
+Weapon: 220mm Vulcan AutoCannon I
+
+Name: Rodrek
+Security: 2.6
+Alliance: Dusk and Dawn
+Corp: Infinite Improbability Inc
+Ship: Crow
+Weapon: Warp Disruptor I
+
+
+Destroyed items:
+
+E500 Prototype Energy Vampire
+Antimatter Charge M, Qty: 39
+Quad LiF Fueled I Booster Rockets
+Warp Disruptor I
+Heavy Electrochemical Capacitor Booster I
+F-90 Positional Sensor Subroutines
+Prototype I Sensor Booster
+N-Type Explosive Hardener I
+N-Type Thermic Hardener I
+N-Type Kinetic Hardener I
+1600mm Reinforced Rolled Tungsten Plates I
+Antimatter Charge M, Qty: 2483 (Cargo)
+Cap Booster 800, Qty: 12 (Cargo)
+Alumel-Wired I Sensor Augmentation (Cargo)
+Ogre I (Drone Bay)
+Wasp II, Qty: 2 (Drone Bay)
+Berserker II, Qty: 4 (Drone Bay)
+

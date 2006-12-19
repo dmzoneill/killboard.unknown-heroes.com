@@ -1,0 +1,40 @@
+2006.11.26 00:00
+
+Victim: Oxana Ptotemkish
+Alliance: None
+Corp: GeoTech
+Destroyed: Condor
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Corovus (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: THeOThErs
+Ship: Nemesis
+Weapon: Cataclysm Cruise Missile
+
+Name: VictorSteiner
+Security: 5.0
+Alliance: None
+Corp: Stardust Heavy Industries
+Ship: Harpy
+Weapon: Rocket Launcher I
+
+Name: Valadeya uthanaras
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Blackbird
+Weapon: ECM - Multispectral Jammer I
+
+Name: Jumar Coldgin
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Rook
+Weapon: Assault Missile Launcher II
+
+

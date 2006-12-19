@@ -1,0 +1,40 @@
+2006.11.06 18:53
+
+Victim: lotoflaught II
+Alliance: None
+Corp: Turanic Raiders
+Destroyed: Capsule
+System: L-TS8S
+Security: 0.0
+
+Involved parties:
+
+Name: Ather Ialeas (laid the final blow)
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Vengeance
+Weapon: Dual Light Beam Laser II
+
+Name: Hosanna
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Jaguar
+Weapon: Foxfire Rocket
+
+Name: Karas Rabus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Huginn
+Weapon: 650mm Artillery Cannon II
+
+Name: Novas Wordo
+Security: 3.7
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Crow
+Weapon: Gremlin Rocket
+
+

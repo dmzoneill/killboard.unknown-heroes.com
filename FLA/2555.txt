@@ -1,0 +1,57 @@
+2007.02.20 15:53
+
+Victim: Hindrim
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Brutix
+System: Auvergne
+Security: 0.9
+
+Involved parties:
+
+Name: Tertius Caedes (laid the final blow)
+Security: -1.9
+Alliance: Privateer Alliance
+Corp: Tempt Fate
+Ship: Drake
+Weapon: Hornet II
+
+Name: McLiey
+Security: 2.5
+Alliance: Privateer Alliance
+Corp: Tempt Fate
+Ship: Dominix
+Weapon: Ogre II
+
+Name: Kaykun
+Security: -1.8
+Alliance: Privateer Alliance
+Corp: Privateers
+Ship: Curse
+Weapon: Medium Nosferatu I
+
+Name: Crimsonshot Brooti
+Security: 2.2
+Alliance: Privateer Alliance
+Corp: Privateers
+Ship: Omen
+Weapon: Omen
+
+Name: Ninon Lanclos
+Security: 3.7
+Alliance: Privateer Alliance
+Corp: Tempt Fate
+Ship: Celestis
+Weapon: Warrior II
+
+
+Destroyed items:
+
+250mm Carbide Railgun I
+Lead Charge M, Qty: 160
+Plutonium Charge M, Qty: 40
+Cap Recharger II
+Barton Reactor Capacitor Recharger I
+Y-S8 Hydrocarbon I Afterburners
+Magnetic Field Stabilizer II
+

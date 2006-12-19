@@ -1,0 +1,52 @@
+2006.11.06 08:01
+
+Victim: Red Viper
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Destroyed: Dominix
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Guristas Eradicator / Guristas
+
+Name: Tatzlwurm (laid the final blow)
+Security: 1.4
+Alliance: None
+Corp: Tyrants
+Ship: Vexor
+Weapon: Valkyrie II
+
+
+Destroyed items:
+
+250mm 'Scout' I Accelerator Cannon
+250mm Prototype I Gauss Gun
+Iridium Charge M, Qty: 22
+Drone Link Augmentor I
+F-b10 Nominal Capacitor Regenerator
+LiF Fueled I Booster Rockets
+Invulnerability Field I
+Supplemental Scanning CPU I
+Large 'Accommodation' Vestment Reconstructer I
+N-Type Kinetic Hardener I
+Large Shield Booster I (Cargo)
+Fixed Parallel Link-Capacitor I (Cargo)
+Small Armor Repairer I (Cargo)
+250mm 'Scout' I Accelerator Cannon (Cargo)
+Medium Capacitor Booster I (Cargo)
+Defender I, Qty: 100 (Cargo)
+Cataclysm Cruise Missile, Qty: 100 (Cargo)
+Obliterator F.O.F. Cruise Missile I, Qty: 100 (Cargo)
+ZW-4100 Siege Missile Bay (Cargo)
+Power Diagnostic System I (Cargo)
+Valkyrie I, Qty: 2 (Drone Bay)
+Acolyte I, Qty: 4 (Drone Bay)
+Hobgoblin I, Qty: 3 (Drone Bay)
+Hornet I, Qty: 3 (Drone Bay)
+Ogre I (Drone Bay)
+Hammerhead I, Qty: 3 (Drone Bay)
+Infiltrator I (Drone Bay)
+Warrior I, Qty: 5 (Drone Bay)
+

@@ -1,0 +1,101 @@
+2007.03.01 03:00
+
+Victim: Red Dingo
+Alliance: Aftermath Alliance
+Corp: Master Miners
+Destroyed: Vexor
+System: ESC-RI
+Security: 0.0
+
+Involved parties:
+
+Name: Lou Cypher
+Security: 4.8
+Alliance: Dusk and Dawn
+Corp: Die Apokalyptischen Reiter
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Maurice Whodini (laid the final blow)
+Security: 2.6
+Alliance: Dusk and Dawn
+Corp: Tri Optimum
+Ship: Ishtar
+Weapon: Berserker II
+
+Name: UP LATE
+Security: 4.7
+Alliance: Dusk and Dawn
+Corp: Omega Enterprises
+Ship: Eagle
+Weapon: Eagle
+
+Name: Thea Arsoniztik
+Security: 0.6
+Alliance: Dusk and Dawn
+Corp: Omega Enterprises
+Ship: Raven
+Weapon: Wrath Cruise Missile
+
+Name: TheSizzler
+Security: 3.4
+Alliance: Dusk and Dawn
+Corp: Tri Optimum
+Ship: Typhoon
+Weapon: Bane Torpedo
+
+Name: Ro Bustus
+Security: 2.5
+Alliance: Dusk and Dawn
+Corp: Omega Enterprises
+Ship: Raptor
+Weapon: Thorn Rocket
+
+Name: Joe's Load
+Security: 0.3
+Alliance: Dusk and Dawn
+Corp: Omega Enterprises
+Ship: Absolution
+Weapon: Absolution
+
+Name: Onat Five
+Security: 4.9
+Alliance: Dusk and Dawn
+Corp: Omega Enterprises
+Ship: Hyperion
+Weapon: Hyperion
+
+Name: Duana
+Security: 4.4
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Cyclone
+Weapon: Cyclone
+
+Name: Benn Helmsman
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Omega Enterprises
+Ship: Blackbird
+Weapon: ECM - Ion Field Projector II
+
+Name: Banlish
+Security: 0.2
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ishkur
+Weapon: Small Nosferatu I
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Light Neutron Blaster II
+Light Neutron Blaster II
+Null S, Qty: 80
+10MN Afterburner I
+Small Armor Repairer II
+1600mm Reinforced Rolled Tungsten Plates I
+Hammerhead I, Qty: 3 (Drone Bay)
+Hobgoblin II, Qty: 5 (Drone Bay)
+

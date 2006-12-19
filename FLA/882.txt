@@ -1,0 +1,26 @@
+2007.02.25 19:30
+
+Victim: Melskaia Nescis
+Alliance: None
+Corp: Federal Navy Academy
+Destroyed: Atron
+System: X3-PBC
+Security: 0.0
+
+Involved parties:
+
+Name: Praetorian Mardou (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Manticore
+Weapon: Wrath Cruise Missile
+
+
+Destroyed items:
+
+Basic Miner
+Light Neutron Blaster I
+Monopropellant I Hydrazine Boosters
+Small Armor Repairer I
+

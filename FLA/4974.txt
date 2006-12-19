@@ -1,0 +1,49 @@
+2007.04.20 23:42
+
+Victim: Aridante Lemure
+Alliance: Freelancer Alliance
+Corp: VIRTUAL LIFE VANGUARD
+Destroyed: Celestis
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: Lyra Sy (laid the final blow)
+Security: 5.0
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Thanatos
+Weapon: Dragonfly
+
+Name: Hojou
+Security: 0.2
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Capsule
+Weapon: Valkyrie I
+
+Name: Ghost Hughdidit
+Security: 3.1
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Thanatos
+Weapon: Dragonfly
+
+
+Destroyed items:
+
+720mm Howitzer Artillery I
+280mm Howitzer Artillery II
+EMP S, Qty: 10
+Sabretooth Light Missile, Qty: 31
+Standard Missile Launcher I
+Remote Sensor Dampener II
+Remote Sensor Dampener II
+Damage Control I
+800mm Reinforced Crystalline Carbonide Plates I
+Carbonized Lead M, Qty: 188 (Cargo)
+Thunderbolt Heavy Missile, Qty: 200 (Cargo)
+Acolyte I, Qty: 2 (Drone Bay)
+Hammerhead I, Qty: 3 (Drone Bay)
+

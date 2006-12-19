@@ -1,0 +1,40 @@
+2006.09.19 22:26
+
+Victim: Marcus Brook
+Alliance: Triumvirate.
+Corp: D00M.
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Kelton Lermetov (laid the final blow)
+Security: 2.5
+Alliance: Forces of Freedom
+Corp: Eth3real
+Ship: Kestrel
+Weapon: Bloodclaw Light Missile
+
+Name: Caleb Defiance
+Security: 5.0
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Flycatcher
+Weapon: Flycatcher
+
+Name: Valtaer
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: Terminal Velocity Inc.
+Ship: Blackbird
+Weapon: Advanced 'Limos' Heavy Missile Bay I
+
+Name: Mad Axe
+Security: 2.3
+Alliance: Forces of Freedom
+Corp: The Knights of the New Republic
+Ship: Caracal
+Weapon: Heavy Missile Launcher I
+
+

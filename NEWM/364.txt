@@ -1,0 +1,78 @@
+2007.01.28 18:09
+
+Victim: Zeram
+Alliance: Band of Brothers
+Corp: Evolution
+Destroyed: Jaguar
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Hojo Norem
+Security: 3.2
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Ferox
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+Name: Denaris1 (laid the final blow)
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+Name: Praetorian Mardou
+Security: 4.5
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Hawk
+Weapon: Standard Missile Launcher I
+
+Name: WolfRavage
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Shadow Eden
+Ship: Hyperion
+Weapon: 425mm Railgun I
+
+Name: mrrabit
+Security: 3.3
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Ship: Unknown
+Weapon: 250mm Light Artillery Cannon I
+
+Name: Shassandra
+Security: 4.5
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Capsule
+Weapon: Fleeting Warp Scrambler I
+
+Name: Wicked Pissah
+Security: 0.1
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Capsule
+Weapon: Standard Missile Launcher I
+
+
+Destroyed items:
+
+280mm Howitzer Artillery II
+EMP S, Qty: 13
+Foxfire Rocket
+Foxfire Rocket
+Foxfire Rocket
+Foxfire Rocket
+Foxfire Rocket
+Small Neutron Saturation Injector I
+'Langour' Drive Disruptor I
+Gyrostabilizer II
+Reactor Control Unit II
+Carbonized Lead S, Qty: 150 (Cargo)
+Fusion S, Qty: 200 (Cargo)
+EMP S, Qty: 207 (Cargo)
+

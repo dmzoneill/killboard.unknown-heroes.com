@@ -1,0 +1,40 @@
+2006.10.22 15:11
+
+Victim: blade190
+Alliance: Eternal Empire
+Corp: Spectral Armada
+Destroyed: Capsule
+System: MI6O-6
+Security: 0.0
+
+Involved parties:
+
+Name: Oldin Relic
+Security: 1.4
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Reason Taki (laid the final blow)
+Security: 5.0
+Alliance: RAZOR Alliance
+Corp: DAB
+Ship: Taranis
+Weapon: 125mm Railgun II
+
+Name: Minesweeper
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Stiletto
+Weapon: 'Langour' Drive Disruptor I
+
+Name: concubine 15
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: CriTech
+Ship: Taranis
+Weapon: Stasis Webifier I
+
+

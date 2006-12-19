@@ -1,0 +1,47 @@
+2007.03.29 16:01
+
+Victim: Skysever
+Alliance: None
+Corp: Imperial Academy
+Destroyed: Capsule
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Mikal Drey (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Claymore
+Weapon: 720mm Howitzer Artillery II
+
+Name: SoF Reaperman
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Ferox
+Weapon: Thunderbolt Heavy Missile
+
+Name: AaLaA
+Security: 4.5
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Eris
+Weapon: Eris
+
+Name: Minisoza
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Myrmidon
+Weapon: Myrmidon
+
+Name: Mr Kilgore
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Huginn
+Weapon: X5 Prototype I Engine Enervator
+
+

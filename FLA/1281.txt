@@ -1,0 +1,53 @@
+2007.03.10 03:51
+
+Victim: lady 4jane
+Alliance: None
+Corp: Federal Navy Academy
+Destroyed: Atron
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Beshari
+Security: -3.6
+Alliance: None
+Corp: Emerald Empire
+Ship: Maelstrom
+Weapon: Maelstrom
+
+Name: Grape Juice (laid the final blow)
+Security: -8.7
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Scorpion
+Weapon: Wrath Cruise Missile
+
+Name: Sils wife
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Megathron
+Weapon: Megathron
+
+Name: Rose Petal
+Security: -0.6
+Alliance: None
+Corp: Emerald Empire
+Ship: Rifter
+Weapon: 150mm Light AutoCannon I
+
+Name: HempHog
+Security: 0.6
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Punisher
+Weapon: ECM - Multispectral Jammer I
+
+
+Destroyed items:
+
+Miner I
+Warp Core Stabilizer I
+Pure Jaspet, Qty: 21 (Cargo)
+

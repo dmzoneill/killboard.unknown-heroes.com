@@ -1,0 +1,77 @@
+2007.01.08 00:37
+
+Victim: nXus
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Destroyed: Raven
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Masta Killa
+Security: -1.7
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Warrior II
+
+Name: Heinky (laid the final blow)
+Security: 2.7
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Abaddon
+Weapon: Tachyon Beam Laser II
+
+Name: ETS4ME
+Security: 0.7
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Devastator Precision Cruise Missile
+
+Name: SATAN
+Security: -0.8
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Paradise Precision Cruise Missile
+
+Name: duece duece
+Security: 5.0
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Maelstrom
+Weapon: 1400mm Howitzer Artillery II
+
+Name: MEISTERderPUPPEN
+Security: 0.1
+Alliance: None
+Corp: Deep Core Mining Inc.
+Ship: Sabre
+Weapon: 'Langour' Drive Disruptor I
+
+Name: Captain Rickdick
+Security: 0.0
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Cruise Missile Launcher II
+
+
+Destroyed items:
+
+Mjolnir Torpedo, Qty: 64
+Siege Missile Launcher II
+Large Shield Booster II
+Multi Sensor Backup Array I
+Cross-linked Bolt Array I
+Ballistic Control System II
+Power Diagnostic System II
+Power Diagnostic System II
+Mjolnir Torpedo, Qty: 368 (Cargo)
+Juggernaut Javelin Torpedo, Qty: 500 (Cargo)
+Fried Interface Circuit, Qty: 59 (Cargo)
+Malfunctioning Shield Emitter, Qty: 41 (Cargo)
+Ward Console, Qty: 57 (Cargo)
+

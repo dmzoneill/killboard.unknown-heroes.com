@@ -1,0 +1,31 @@
+2007.04.27 12:30
+
+Victim: Marie Veedor
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Destroyed: Hawk
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Rukaz (laid the final blow)
+Security: 3.1
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Crow
+Weapon: Sabretooth Light Missile
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 32
+Piranha Light Missile, Qty: 68
+Standard Missile Launcher I
+Standard Missile Launcher I
+'Malkuth' Standard Missile Launcher I
+Eutectic I Capacitor Charge Array
+1MN MicroWarpdrive I
+Beta Reactor Control: Diagnostic System I
+Bloodclaw Light Missile, Qty: 38 (Cargo)
+

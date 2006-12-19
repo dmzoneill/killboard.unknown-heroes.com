@@ -1,0 +1,48 @@
+2007.01.28 02:35
+
+Victim: Sorlac Aurora
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Caracal
+System: Niarja
+Security: 0.5
+
+Involved parties:
+
+Name: Boogiez
+Security: 1.4
+Alliance: Privateer Alliance
+Corp: Righteous Choirboys
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: JMcClane
+Security: 4.3
+Alliance: Privateer Alliance
+Corp: Righteous Choirboys
+Ship: Crow
+Weapon: 'Langour' Drive Disruptor I
+
+Name: paindk (laid the final blow)
+Security: 5.0
+Alliance: Privateer Alliance
+Corp: Righteous Choirboys
+Ship: Taranis
+Weapon: Light Electron Blaster II
+
+
+Destroyed items:
+
+Hellfire Assault Missile, Qty: 246
+Compact 'Limos' Heavy Assault Missile Launcher I
+Compact 'Limos' Heavy Assault Missile Launcher I
+Cap Recharger I
+Invulnerability Field I
+Power Diagnostic System I
+Cap Recharger I (Cargo)
+Medium Armor Repairer I (Cargo)
+Ballistic Control System I (Cargo)
+Power Diagnostic System I (Cargo)
+Hellfire Assault Missile, Qty: 739 (Cargo)
+Terror Assault Missile, Qty: 883 (Cargo)
+

@@ -1,0 +1,59 @@
+2006.10.15 10:04
+
+Victim: Thanos Callaran
+Alliance: Northern Regions Alliance
+Corp: Quasar Industries
+Destroyed: Atron
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Zha'doom (laid the final blow)
+Security: 2.7
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Armageddon
+Weapon: Tachyon Afocal Maser I
+
+Name: Syris Jones
+Security: 2.3
+Alliance: Imperial Republic Of the North
+Corp: Port Royal Independent Kontractors
+Ship: Harpy
+Weapon: Harpy
+
+Name: bidman
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Raven
+Weapon: Siege Missile Launcher II
+
+Name: Rick A
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Raven
+Weapon: 'Limos' Cruise Launcher I
+
+Name: Orangutang
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: London Transport
+Ship: Rook
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+Name: Onyx Soulbane
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Elite frontier group
+Ship: Apocalypse
+Weapon: Tachyon Beam Laser II
+
+
+Destroyed items:
+
+1MN Afterburner I
+Warp Core Stabilizer I
+

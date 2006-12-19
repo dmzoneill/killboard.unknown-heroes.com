@@ -1,0 +1,38 @@
+2006.08.31 05:29
+
+Victim: Octonian Elite
+Alliance: None
+Corp: H.Y.D.R.A.
+Destroyed: Rifter
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Noitaakka (laid the final blow)
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Raven
+Weapon: Vespa II
+
+
+Destroyed items:
+
+200mm AutoCannon I
+125mm Gatling AutoCannon I
+EMP S, Qty: 26
+Thorn Rocket, Qty: 12
+Rocket Launcher I
+1MN MicroWarpdrive I
+Stasis Webifier I
+Small Armor Repairer I
+200mm Reinforced Titanium Plates I
+Isogen, Qty: 499 (Cargo)
+1MN Afterburner I (Cargo)
+Medium Armor Repairer II (Cargo)
+Heavy Nosferatu I, Qty: 5 (Cargo)
+EMP S, Qty: 217 (Cargo)
+Thorn Rocket, Qty: 369 (Cargo)
+Expanded Cargohold I, Qty: 2 (Cargo)
+

@@ -1,0 +1,57 @@
+2006.10.05 16:17
+
+Victim: Monritan
+Alliance: R.I.S.K
+Corp: The First Foundation
+Destroyed: Iteron Mark III
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: bidman
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Raven
+Weapon: Hornet II
+
+Name: so pure (laid the final blow)
+Security: -4.4
+Alliance: Dusk and Dawn
+Corp: Decadence.
+Ship: Taranis
+Weapon: Light Neutron Blaster II
+
+Name: Lizzy Silver
+Security: 0.0
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Caracal
+Weapon: Havoc Heavy Missile
+
+Name: Midiana
+Security: 0.6
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Ishkur
+Weapon: Acolyte I
+
+Name: Scorpio63
+Security: 4.8
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Retribution
+Weapon: Retribution
+
+
+Destroyed items:
+
+Small Tractor Beam I
+Medium Shield Extender I
+Medium Shield Extender I
+Medium Shield Extender I
+Warp Core Stabilizer I
+Strontium Clathrates, Qty: 1020 (Cargo)
+Liquid Ozone, Qty: 503 (Cargo)
+

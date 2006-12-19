@@ -1,0 +1,61 @@
+2006.11.13 05:56
+
+Victim: Agent 0
+Alliance: Eternal Empire
+Corp: Spectral Armada
+Destroyed: Harpy
+System: J-CIJV
+Security: 0.0
+
+Involved parties:
+
+Name: Promethean Starter (laid the final blow)
+Security: 1.6
+Alliance: None
+Corp: MetaForge
+Ship: Hawk
+Weapon: Thorn Rocket
+
+Name: Kyn D'Trell
+Security: 5.0
+Alliance: None
+Corp: MetaForge
+Ship: Megathron
+Weapon: Valkyrie I
+
+Name: Hefaistoss
+Security: 0.9
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Taranis
+Weapon: Small 'Knave' I Energy Drain
+
+Name: Krollji
+Security: 5.0
+Alliance: None
+Corp: MetaForge
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+Name: Erfurt
+Security: 5.0
+Alliance: None
+Corp: MetaForge
+Ship: Unknown
+Weapon: 125mm Railgun I
+
+Name: Slinktress
+Security: 2.1
+Alliance: Freelancer Alliance
+Corp: legion of qui
+Ship: Megathron
+Weapon: Phased Weapon Navigation Array Generation Extron
+
+
+Destroyed items:
+
+Light Neutron Blaster II
+Light Neutron Blaster II
+Antimatter Charge S, Qty: 192
+Antimatter Charge S, Qty: 5680 (Cargo)
+

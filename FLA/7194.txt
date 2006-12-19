@@ -1,0 +1,19 @@
+2006.12.31 05:13
+
+Victim: Mrs Stein
+Alliance: None
+Corp: Aliastra
+Destroyed: Gallente Shuttle
+System: 3T7-M8
+Security: 0.0
+
+Involved parties:
+
+Name: DeSantis (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Falcon
+Weapon: Bloodclaw Light Missile
+
+

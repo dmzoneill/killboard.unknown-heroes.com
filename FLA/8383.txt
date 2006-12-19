@@ -1,0 +1,28 @@
+2006.11.14 20:18
+
+Victim: ThomasXP
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Merlin
+System: Aunenen
+Security: 0.4
+
+Involved parties:
+
+Name: Super Twinkey69 (laid the final blow)
+Security: -10.0
+Alliance: Blood Raiders Alliance
+Corp: Murder-Death-Kill
+Ship: Megathron
+Weapon: Ogre I
+
+
+Destroyed items:
+
+150mm Railgun I
+150mm Railgun I
+Bloodclaw Light Missile, Qty: 64
+Heat Dissipation Amplifier I
+Partial Weapon Navigation
+Bloodclaw Light Missile, Qty: 664 (Cargo)
+

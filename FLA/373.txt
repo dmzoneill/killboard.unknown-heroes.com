@@ -1,0 +1,67 @@
+2007.01.29 01:21
+
+Victim: SWiXNT
+Alliance: None
+Corp: NT's Research Division
+Destroyed: Rapier
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Goca (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Ferox
+Weapon: Widowmaker Heavy Missile
+
+Name: wrecker300
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Ship: Scorpion
+Weapon: Valkyrie I
+
+Name: Korudon
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Ferox
+Weapon: Ferox
+
+Name: Xantheris
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: Fugnut
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Raven
+Weapon: Kapteyn Sensor Array Inhibitor I
+
+Name: Alski
+Security: 2.7
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Celestis
+Weapon: Standard Missile Launcher I
+
+
+Destroyed items:
+
+720mm Howitzer Artillery II
+720mm Howitzer Artillery II
+Tremor M, Qty: 10
+X5 Prototype I Engine Enervator
+Remote Sensor Dampener II
+Gyrostabilizer II
+Capacitor Power Relay I
+'Langour' Drive Disruptor I (Cargo)
+Hobgoblin I (Drone Bay)
+Hammerhead I (Drone Bay)
+

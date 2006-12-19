@@ -1,0 +1,26 @@
+2007.01.27 19:38
+
+Victim: edmundwo
+Alliance: None
+Corp: State War Academy
+Destroyed: Capsule
+System: 3QE-9Q
+Security: 0.0
+
+Involved parties:
+
+Name: Cho Solo (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Thorax
+Weapon: Heavy Neutron Blaster I
+
+Name: Hoon Dalaa
+Security: 5.0
+Alliance: None
+Corp: Crabbs
+Ship: Unknown
+Weapon: 'Malkuth' Standard Missile Launcher I
+
+

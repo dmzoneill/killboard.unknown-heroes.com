@@ -1,0 +1,166 @@
+2007.04.22 20:10
+
+Victim: Olli
+Alliance: Mercenary Coalition
+Corp: Seraphin Technologies
+Destroyed: Phoenix
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Bobby Atlas
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Thanatos
+Weapon: Firbolg
+
+Name: Seppel da'FinNI
+Security: 4.4
+Alliance: Dusk and Dawn
+Corp: Cataclysm Enterprises
+Ship: Naglfar
+Weapon: Naglfar
+
+Name: viper zulu (laid the final blow)
+Security: 4.3
+Alliance: Dusk and Dawn
+Corp: Omega Enterprises
+Ship: Moros
+Weapon: Dual 1000mm Railgun I
+
+Name: Rarium
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: ECP Rogues
+Ship: Revelation
+Weapon: Revelation
+
+Name: WOTANKN
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Cataclysm Enterprises
+Ship: Moros
+Weapon: Moros
+
+Name: XIthFuzz
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: ClanKillers
+Ship: Phoenix
+Weapon: Citadel Torpedo Launcher I
+
+Name: prathe
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Omega Enterprises
+Ship: Naglfar
+Weapon: Naglfar
+
+Name: dastommy79
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Unknown
+Weapon: Hammerhead I
+
+Name: Kaand
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Thorax
+Weapon: Heavy Neutron Blaster I
+
+Name: Kodiak GER
+Security: 4.4
+Alliance: Dusk and Dawn
+Corp: Decadence.
+Ship: Moros
+Weapon: Moros
+
+Name: Tran Whistler
+Security: 5.3
+Alliance: Freelancer Alliance
+Corp: Harbingers of Sarrow
+Ship: Drake
+Weapon: Hobgoblin I
+
+Name: Perry
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: The X-Trading Company
+Ship: Revelation
+Weapon: Revelation
+
+Name: Asukiko
+Security: -0.7
+Alliance: Dusk and Dawn
+Corp: The X-Trading Company
+Ship: Nidhoggur
+Weapon: Einherji
+
+Name: Frau Formaggio
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Thorax
+Weapon: Valkyrie II
+
+Name: Dana Foxworth
+Security: 3.7
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Hurricane
+Weapon: Warrior I
+
+Name: Christo
+Security: 1.7
+Alliance: Dusk and Dawn
+Corp: Cataclysm Enterprises
+Ship: Moros
+Weapon: Moros
+
+Name: Axel Terizaki
+Security: 0.1
+Alliance: Dusk and Dawn
+Corp: Infinite Improbability Inc
+Ship: Nyx
+Weapon: Dragonfly
+
+Name: Small AutoCannon Battery / Di-Tron Heavy Industries
+
+Name: Sniperpirate
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Infinite Improbability Inc
+Ship: Archon
+Weapon: Einherji
+
+Name: Tendence
+Security: 4.1
+Alliance: Dusk and Dawn
+Corp: Decadence.
+Ship: Thanatos
+Weapon: Templar
+
+Name: Soraji
+Security: 5.0
+Alliance: Dusk and Dawn
+Corp: Cataclysm Enterprises
+Ship: Nidhoggur
+Weapon: Templar
+
+
+Destroyed items:
+
+Doom Torpedo I
+Siege Module I
+Supplemental Scanning CPU I
+Shield Boost Amplifier II
+Power Diagnostic System II
+True Sansha Capacitor Power Relay
+Nitrogen Isotopes, Qty: 8302 (Cargo)
+Rift Torpedo I, Qty: 337 (Cargo)
+Doom Torpedo I, Qty: 71 (Cargo)
+

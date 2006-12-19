@@ -1,0 +1,54 @@
+2007.04.03 00:44
+
+Victim: Bluuudwing
+Alliance: Freelancer Alliance
+Corp: ACCORD Industries
+Destroyed: Minmatar Shuttle
+System: F7C-H0
+Security: 0.0
+
+Involved parties:
+
+Name: Lord Revent (laid the final blow)
+Security: 1.2
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Hound
+Weapon: Devastator Cruise Missile
+
+Name: Frostbeule
+Security: 3.3
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Myrmidon
+Weapon: Myrmidon
+
+Name: Erikel
+Security: 4.5
+Alliance: YouWhat
+Corp: Cosmic Odyssey
+Ship: Myrmidon
+Weapon: Myrmidon
+
+Name: Neily
+Security: 4.7
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Rook
+Weapon: ECM - Multispectral Jammer II
+
+Name: Magnelien
+Security: 4.3
+Alliance: YouWhat
+Corp: Artificial Horizons
+Ship: Crow
+Weapon: Warp Disruptor I
+
+Name: Lakastre
+Security: 0.6
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Curse
+Weapon: Low Frequency Sensor Suppressor I
+
+

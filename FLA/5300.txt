@@ -1,0 +1,30 @@
+2007.04.23 19:18
+
+Victim: Frau Formaggio
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Ishkur
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Fitz Farseer (laid the final blow)
+Security: 0.5
+Alliance: Storm Armada
+Corp: Elite Storm Enterprises
+Ship: Rupture
+Weapon: Thunderbolt Heavy Missile
+
+
+Destroyed items:
+
+Small 'Knave' I Energy Drain
+Light Neutron Blaster II
+Void S, Qty: 24
+X5 Prototype I Engine Enervator
+Inertia Stabilizers I
+Null S, Qty: 58 (Cargo)
+Void S, Qty: 351 (Cargo)
+Power Diagnostic System I (Cargo)
+

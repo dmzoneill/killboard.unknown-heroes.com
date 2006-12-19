@@ -1,0 +1,38 @@
+2006.11.22 16:27
+
+Victim: D'ari Blindis
+Alliance: None
+Corp: Sicarri Covenant
+Destroyed: Harpy
+System: C8-CHY
+Security: 0.0
+
+Involved parties:
+
+Name: Cazziel (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Deimos
+Weapon: Heavy Ion Blaster II
+
+Name: James Potkukelkka
+Security: 0.3
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Flycatcher
+Weapon: Bloodclaw Precision Light Missile
+
+
+Destroyed items:
+
+Small 'Knave' I Energy Drain
+Light Ion Blaster II
+Light Ion Blaster II
+Antimatter Charge S, Qty: 229
+Phased Monopropellant I Hydrazine Boosters
+Stasis Webifier I
+Magnetic Field Stabilizer II
+Magnetic Field Stabilizer II
+Antimatter Charge S, Qty: 16499 (Cargo)
+

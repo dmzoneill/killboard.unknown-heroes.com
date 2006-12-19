@@ -1,0 +1,33 @@
+2007.03.14 22:19
+
+Victim: Meglomaniac
+Alliance: YouWhat
+Corp: Cloud Ring Real Estate Agency
+Destroyed: Ibis
+System: G8AD-C
+Security: 0.0
+
+Involved parties:
+
+Name: Alski (laid the final blow)
+Security: 3.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ares
+Weapon: Sabretooth Light Missile
+
+Name: rappter
+Security: -0.5
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Deimos
+Weapon: Deimos
+
+Name: Darkstar Nomad
+Security: 2.1
+Alliance: Freelancer Alliance
+Corp: Pirates of Destruction Union
+Ship: Dominix
+Weapon: Target Painter I
+
+

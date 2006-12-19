@@ -1,0 +1,88 @@
+2007.01.07 23:02
+
+Victim: Koetje II
+Alliance: Freelancer Alliance
+Corp: Unknown-Heroes
+Destroyed: Typhoon
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Bloodclaw Light Missile / Guristas
+
+Name: Scythus Aratan (laid the final blow)
+Security: 4.4
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Armageddon
+Weapon: Tachyon Beam Laser II
+
+Name: Arnold Swartzenegger
+Security: -0.2
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+Name: Heinky
+Security: 2.7
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Abaddon
+Weapon: Abaddon
+
+Name: Masta Killa
+Security: -1.7
+Alliance: Terra Incognita.
+Corp: BURN EDEN
+Ship: Raven
+Weapon: Devastator Cruise Missile
+
+Name: MEISTERderPUPPEN
+Security: 0.1
+Alliance: None
+Corp: Deep Core Mining Inc.
+Ship: Sabre
+Weapon: 150mm Light 'Scout' Autocannon I
+
+Name: heavensfire
+Security: 3.1
+Alliance: None
+Corp: United Allies
+Ship: Stiletto
+Weapon: Small 'Knave' I Energy Drain
+
+
+Destroyed items:
+
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Salvager I
+Phased Plasma M
+Phased Plasma M
+Phased Plasma M
+Phased Plasma M
+Phased Plasma M
+Phased Plasma M
+Juggernaut Torpedo
+ZW-4100 Siege Missile Bay
+ZW-4100 Siege Missile Bay
+ZW-4100 Siege Missile Bay
+Barton Reactor Capacitor Recharger I
+Barton Reactor Capacitor Recharger I
+LiF Fueled I Booster Rockets
+Damage Control I
+Energized Adaptive Nano Membrane I
+N-Type Kinetic Hardener I
+'Pandemonium' I Ballistic Enhancement
+Medium Peroxide I Capacitor Power Cell (Cargo)
+Phased Plasma M, Qty: 445 (Cargo)
+Cataclysm Cruise Missile, Qty: 100 (Cargo)
+'Malkuth' Cruise Launcher I (Cargo)
+Ward Console, Qty: 2 (Cargo)
+Hornet I, Qty: 2 (Drone Bay)
+

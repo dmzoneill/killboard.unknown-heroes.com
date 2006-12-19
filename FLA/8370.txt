@@ -1,0 +1,41 @@
+2006.11.13 04:33
+
+Victim: Onyx Soulbane
+Alliance: Freelancer Alliance
+Corp: Elite frontier group
+Destroyed: Phantasm
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: JMcClane (laid the final blow)
+Security: 3.0
+Alliance: None
+Corp: Dark-Rising
+Ship: Thorax
+Weapon: Light Neutron Blaster II
+
+Name: Boogiez
+Security: -0.4
+Alliance: None
+Corp: Dark-Rising
+Ship: Thorax
+Weapon: Valkyrie II
+
+
+Destroyed items:
+
+Focused Medium Pulse Laser II
+Microwave M
+Microwave M
+Microwave M
+Bloodclaw Light Missile, Qty: 96
+'Arbalest' Assault Missile Launcher
+Assault Missile Launcher I
+Fleeting Progressive Warp Scrambler I
+Small Armor Repairer II
+Radio M, Qty: 3 (Cargo)
+Multifrequency M, Qty: 3 (Cargo)
+Bloodclaw Light Missile, Qty: 4000 (Cargo)
+

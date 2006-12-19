@@ -1,0 +1,26 @@
+2007.01.19 23:03
+
+Victim: Cobra64
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Capsule
+System: AGG-NR
+Security: 0.0
+
+Involved parties:
+
+Name: Murdoch Morf (laid the final blow)
+Security: 0.9
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Drakin Korin
+Security: -1.6
+Alliance: None
+Corp: Eternal Rising
+Ship: Crow
+Weapon: Fleeting Warp Scrambler I
+
+

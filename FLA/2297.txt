@@ -1,0 +1,84 @@
+2007.02.05 16:06
+
+Victim: Mikal Drey
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Destroyed: Huginn
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Nira Li
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Harbinger
+Weapon: Valkyrie I
+
+Name: CLEISTHENES2
+Security: -0.9
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Maelstrom
+Weapon: Phased Muon Sensor Disruptor I
+
+Name: Suzanna
+Security: 1.8
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Taranis
+Weapon: Taranis
+
+Name: Petite Pierre
+Security: 4.9
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Enyo
+Weapon: Enyo
+
+Name: Okuden
+Security: 1.6
+Alliance: Band of Brothers
+Corp: Black Eclipse Corp
+Ship: Hyperion
+Weapon: 425mm Railgun I
+
+Name: Remmington Daniels
+Security: 1.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Crow
+Weapon: Warp Disruptor II
+
+Name: Repiv
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: Hazrat Izza (laid the final blow)
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Black Nova Corp
+Ship: Armageddon
+Weapon: Tachyon Beam Laser II
+
+
+Destroyed items:
+
+650mm Artillery Cannon II
+Proton M, Qty: 21
+Havoc Heavy Missile, Qty: 31
+Heavy Missile Launcher II
+Heavy Missile Launcher II
+Large Azeotropic Ward Salubrity I
+10MN Afterburner II
+X5 Prototype I Engine Enervator
+Invulnerability Field I
+Proton M, Qty: 881 (Cargo)
+Scourge Heavy Missile, Qty: 73 (Cargo)
+Thunderbolt Heavy Missile, Qty: 73 (Cargo)
+Thunderbolt Precision Heavy Missile, Qty: 296 (Cargo)
+

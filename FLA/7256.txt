@@ -1,0 +1,69 @@
+2006.07.10 15:06
+
+Victim: DeBier
+Alliance: OPUS Alliance
+Corp: Brave New World
+Destroyed: Brutix
+System: VFK-IV
+Security: 0.0
+
+Involved parties:
+
+Name: Zylatis
+Security: 3.2
+Alliance: CORE.
+Corp: AUS Corporation
+Ship: Eagle
+Weapon: Eagle
+
+Name: Matt Stoner (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Cerberus
+Weapon: Scourge Heavy Missile
+
+Name: Stewnod
+Security: -4.8
+Alliance: Imperial Republic Of the North
+Corp: Port Royal Independent Kontractors
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: 31i73
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Caracal
+Weapon: Havoc Heavy Missile
+
+Name: Ne0 MaTrIx
+Security: 2.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Rupture
+Weapon: Rupture
+
+Name: Shiri elAzarinres
+Security: 4.1
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Caracal
+Weapon: Thunderbolt Heavy Missile
+
+
+Destroyed items:
+
+Small Nosferatu I
+250mm Railgun I
+250mm Railgun I
+Plutonium Charge M
+Plutonium Charge M
+Plutonium Charge M
+Plutonium Charge M
+Plutonium Charge M
+Plutonium Charge M
+Warp Disruptor I
+Tracking Disruptor I
+Antimatter Charge M, Qty: 2320 (Cargo)
+

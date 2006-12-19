@@ -1,0 +1,40 @@
+2006.10.18 07:49
+
+Victim: DeathCoInc
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Destroyed: Caracal
+System: 3JN9-Q
+Security: 0.0
+
+Involved parties:
+
+Name: EMP0RIA (laid the final blow)
+Security: 3.5
+Alliance: Process of Elimination
+Corp: Viper  Squad
+Ship: Cerberus
+Weapon: Thunderbolt Heavy Missile
+
+Name: Sith Bandon
+Security: 0.1
+Alliance: Process of Elimination
+Corp: Viper  Squad
+Ship: Arazu
+Weapon: Fleeting Warp Scrambler I
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 26
+'Malkuth' Heavy Missile Launcher I
+'Malkuth' Heavy Missile Launcher I
+Heavy Missile Launcher I
+Assault Missile Launcher I
+Large Shield Extender I
+Medium Shield Booster I
+10MN Afterburner I
+J5b Phased Prototype Warp Inhibitor I
+Ballistic Control System I
+Bloodclaw Light Missile, Qty: 500 (Cargo)
+

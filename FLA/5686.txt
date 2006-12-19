@@ -1,0 +1,58 @@
+2006.10.09 22:45
+
+Victim: Morfane
+Alliance: None
+Corp: Privateers
+Destroyed: Dominix
+System: Litiura
+Security: 0.5
+
+Involved parties:
+
+Name: bidman (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Raven
+Weapon: Juggernaut Javelin Torpedo
+
+Name: Paltar
+Security: 0.4
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Ishtar
+Weapon: Warden I
+
+Name: jack kill
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Hawk
+Weapon: TE-2100 Standard Missile Bay
+
+Name: Skornik
+Security: 3.5
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Thorax
+Weapon: Heavy Electron Blaster I
+
+Name: Drunken Claptrap
+Security: 5.0
+Alliance: None
+Corp: Ganksters Paradise
+Ship: Pilgrim
+Weapon: Balmer Series Targeting Inhibitor I
+
+
+Destroyed items:
+
+Heavy Nosferatu I
+Heavy Nosferatu I
+Heavy Nosferatu I
+Heavy Nosferatu I
+Drone Link Augmentor I
+J5 Prototype Warp Inhibitor I
+X5 Prototype I Engine Enervator
+Praetor I, Qty: 2 (Drone Bay)
+

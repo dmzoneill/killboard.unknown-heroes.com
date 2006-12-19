@@ -1,0 +1,96 @@
+2007.03.24 03:57
+
+Victim: Emperor Apophis
+Alliance: YouWhat
+Corp: Beasts of Burden
+Destroyed: Stabber
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Logand Delta (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Ship: Drake
+Weapon: Thunderbolt Heavy Missile
+
+Name: Sethiol
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Fugnut
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Drake
+Weapon: Thunderbolt Heavy Missile
+
+Name: Korudon
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Crow
+Weapon: 'Langour' Drive Disruptor I
+
+Name: Weeble Wooble
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Realm of Majestic Empire
+Ship: Megathron
+Weapon: Megathron
+
+Name: Skull Fire
+Security: 0.9
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Rokh
+Weapon: Rokh
+
+Name: ConXtionS
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: The Night Crew
+Ship: Tristan
+Weapon: Acolyte I
+
+Name: RubberDuckey
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: Blackwater Squadron
+Ship: Raven
+Weapon: Raven
+
+Name: Torgock
+Security: 3.6
+Alliance: Freelancer Alliance
+Corp: The Night Crew
+Ship: Vexor
+Weapon: Vexor
+
+Name: Flying Underpants
+Security: 0.2
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Enyo
+Weapon: Enyo
+
+
+Destroyed items:
+
+425mm AutoCannon I
+Proton M, Qty: 100
+EMP M, Qty: 60
+'Malkuth' Standard Missile Launcher I
+'Langour' Drive Disruptor I
+Medium Armor Repairer I
+400mm Reinforced Rolled Tungsten Plates I
+'Langour' Drive Disruptor I (Cargo)
+Medium Nosferatu I (Cargo)
+Proton M, Qty: 2280 (Cargo)
+EMP M, Qty: 2171 (Cargo)
+

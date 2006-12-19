@@ -1,0 +1,42 @@
+2007.02.04 19:23
+
+Victim: Astoria Tanril
+Alliance: Freelancer Alliance
+Corp: AirHawk Alliance
+Destroyed: Crucifier
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: Drift Spec (laid the final blow)
+Security: 5.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Muninn
+Weapon: 720mm Howitzer Artillery II
+
+Name: Sir JoJo
+Security: 2.1
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Rapier
+Weapon: True Sansha Stasis Webifier
+
+Name: EL TITAN
+Security: 1.0
+Alliance: Band of Brothers
+Corp: Destructive Influence
+Ship: Vagabond
+Weapon: Dual 180mm AutoCannon II
+
+
+Destroyed items:
+
+Dual Light Beam Laser II
+Multifrequency S
+Warp Disruptor I
+Small Armor Repairer I
+Nanofiber Internal Structure I
+Tracking Disruptor I (Cargo)
+

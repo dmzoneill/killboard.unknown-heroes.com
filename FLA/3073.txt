@@ -1,0 +1,28 @@
+2007.03.24 00:58
+
+Victim: Lolany
+Alliance: Privateer Alliance
+Corp: Privateers
+Destroyed: Caracal
+System: Magiko
+Security: 0.9
+
+Involved parties:
+
+Name: Jillian Cross (laid the final blow)
+Security: 4.1
+Alliance: Freelancer Alliance
+Corp: United Forces
+Ship: Moa
+Weapon: Heavy Ion Blaster II
+
+
+Destroyed items:
+
+Scourge Heavy Missile, Qty: 56
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Stasis Webifier I
+Scourge Heavy Missile, Qty: 997 (Cargo)
+

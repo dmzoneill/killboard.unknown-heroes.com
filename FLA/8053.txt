@@ -1,0 +1,51 @@
+2006.10.07 17:57
+
+Victim: Megaduse
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Crow
+System: Litiura
+Security: 0.5
+
+Involved parties:
+
+Name: Morfane (laid the final blow)
+Security: -0.2
+Alliance: None
+Corp: Privateers
+Ship: Taranis
+Weapon: Light Neutron Blaster II
+
+
+Destroyed items:
+
+Foxfire Rocket, Qty: 19
+Gremlin Rocket, Qty: 56
+Rocket Launcher II
+Rocket Launcher II
+Small C5-L Emergency Shield Overload I
+Medium Azeotropic Ward Salubrity I (Cargo)
+Medium I-a Polarized Armor Regenerator, Qty: 3 (Cargo)
+250mm Compressed Coil Gun I (Cargo)
+F-S15 Braced Deflection Shield Matrix (Cargo)
+Small Energy Turret, Qty: 3 (Cargo)
+Heavy Missiles, Qty: 2 (Cargo)
+Standard Missiles, Qty: 3 (Cargo)
+Skirmish Warfare, Qty: 2 (Cargo)
+Industry (Cargo)
+Omber Processing (Cargo)
+Rocket Science (Cargo)
+Shield Emission Systems, Qty: 2 (Cargo)
+Energy Systems Operation (Cargo)
+Electronics, Qty: 2 (Cargo)
+Signature Analysis (Cargo)
+Scout Drone Operation (Cargo)
+Navigation, Qty: 3 (Cargo)
+Evasive Maneuvering, Qty: 2 (Cargo)
+Acceleration Control (Cargo)
+Afterburner, Qty: 2 (Cargo)
+Gremlin Javelin Rocket, Qty: 995 (Cargo)
+Zor's Custom Navigation Link, Qty: 2 (Cargo)
+Hardwiring - Eifyr and Co. 'Rogue' CY-1 (Cargo)
+Hardwiring - Zainou 'Gnome' KUA1000, Qty: 2 (Cargo)
+

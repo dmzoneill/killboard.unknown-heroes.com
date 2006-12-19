@@ -1,0 +1,64 @@
+2007.03.14 21:02
+
+Victim: Valin AntiIIes
+Alliance: Chorus of Dawn
+Corp: Independent Frontiers
+Destroyed: Caracal
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Burn Lump
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Drake
+Weapon: Bloodclaw Light Missile
+
+Name: Inter Fectum (laid the final blow)
+Security: 2.1
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery I
+
+Name: Slim Jim
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Grettistak
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: Bobby Atlas
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Megathron
+Weapon: Ogre I
+
+Name: Korudon
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Crow
+Weapon: J5 Prototype Warp Inhibitor I
+
+Name: Tess
+Security: 1.1
+Alliance: The Sundering
+Corp: ironwood ink
+Ship: Celestis
+Weapon: Remote Sensor Dampener I
+
+
+Destroyed items:
+
+Bloodclaw Light Missile, Qty: 16
+Standard Missile Launcher I, Qty: 2
+10MN MicroWarpdrive I (Cargo)
+'Rash' ECM Emission I, Qty: 5 (Cargo)
+'Umbra' I White Noise ECM (Cargo)
+Tracking Disruptor I, Qty: 19 (Cargo)
+Bloodclaw Light Missile, Qty: 3000 (Cargo)
+Sabretooth Light Missile, Qty: 1000 (Cargo)

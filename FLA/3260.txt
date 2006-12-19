@@ -1,0 +1,40 @@
+2007.03.22 00:07
+
+Victim: Necrofere0101
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Destroyed: Capsule
+System: LT-DRO
+Security: 0.0
+
+Involved parties:
+
+Name: Rukaz (laid the final blow)
+Security: 3.1
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Sabre
+Weapon: 125mm Gatling AutoCannon II
+
+Name: Vily
+Security: 0.3
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Malediction
+Weapon: Sabretooth Light Missile
+
+Name: Ice Breaker
+Security: 4.0
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Crusader
+Weapon: Dual Light Beam Laser II
+
+Name: Skinny Boy
+Security: 4.1
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Taranis
+Weapon: 125mm Railgun II
+
+

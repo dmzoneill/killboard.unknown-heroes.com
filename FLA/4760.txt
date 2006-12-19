@@ -1,0 +1,65 @@
+2007.04.21 04:17
+
+Victim: War Bear
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Destroyed: Stiletto
+System: 2R-CRW
+Security: 0.0
+
+Involved parties:
+
+Name: Dirty Martini (laid the final blow)
+Security: 4.3
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: OrbiteronAir
+Security: 5.0
+Alliance: SECUWAY.
+Corp: SecuWay
+Ship: Unknown
+Weapon: Target Painter II
+
+Name: Primaxin
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Harbingers of Sarrow
+Ship: Unknown
+Weapon: 'Malkuth' Heavy Missile Launcher I
+
+Name: Thiet
+Security: 4.1
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Ship: Unknown
+Weapon: Rocket Launcher I
+
+Name: Starbat
+Security: -0.1
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Unknown
+Weapon: Initiated Multispectral ECM I
+
+Name: Porf
+Security: 5.0
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Megathron
+Weapon: Vespa EC-600
+
+
+Destroyed items:
+
+Tremor S, Qty: 17
+Bloodclaw Light Missile, Qty: 31
+1MN MicroWarpdrive II
+Small Capacitor Booster II
+1400mm Howitzer Artillery I Blueprint (Cargo)
+Titanium Sabot L Blueprint (Cargo)
+Tremor S, Qty: 1462 (Cargo)
+Bloodclaw Light Missile, Qty: 1040 (Cargo)
+

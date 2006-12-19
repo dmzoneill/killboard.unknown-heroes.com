@@ -1,0 +1,33 @@
+2007.05.20 15:18
+
+Victim: Mysterious fable
+Alliance: None
+Corp: ztk9
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Ocara Nezus (laid the final blow)
+Security: 1.5
+Alliance: Freelancer Alliance
+Corp: Amesha Spentaz
+Ship: Crow
+Weapon: Bloodclaw Precision Light Missile
+
+Name: tartrus
+Security: 4.6
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Stiletto
+Weapon: Foxfire Rocket
+
+Name: pipvac
+Security: 2.7
+Alliance: DeStInY.
+Corp: Sacred Templars
+Ship: Eris
+Weapon: Upgraded 'Limos' Standard Missile Bay I
+
+

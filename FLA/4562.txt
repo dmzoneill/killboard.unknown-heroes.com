@@ -1,0 +1,26 @@
+2007.04.14 14:46
+
+Victim: TRAJANO 2
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Destroyed: Capsule
+System: C4C-Z4
+Security: 0.0
+
+Involved parties:
+
+Name: Longrin (laid the final blow)
+Security: 3.2
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Stiletto
+Weapon: 250mm Light Artillery Cannon II
+
+Name: Xinus
+Security: 4.5
+Alliance: YouWhat
+Corp: SteelVipers
+Ship: Unknown
+Weapon: Scourge Heavy Missile
+
+

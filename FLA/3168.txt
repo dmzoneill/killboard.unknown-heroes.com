@@ -1,0 +1,89 @@
+2007.03.19 05:27
+
+Victim: Danielson1012
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Destroyed: Drake
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: VDV Bru37 (laid the final blow)
+Security: 5.0
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Raven
+Weapon: Juggernaut Torpedo
+
+Name: Lord Revent
+Security: 1.1
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Maelstrom
+Weapon: Maelstrom
+
+Name: Fred Fredburger
+Security: 5.0
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Megathron
+Weapon: Modal Mega Ion Particle Accelerator I
+
+Name: Xoduse
+Security: 0.4
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Hyperion
+Weapon: Hyperion
+
+Name: Sexorella hotz
+Security: 5.0
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Raven
+Weapon: Wrath Cruise Missile
+
+Name: Balcura
+Security: 5.0
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Nipplator
+Security: 2.9
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Armageddon
+Weapon: Armageddon
+
+Name: Vasili Z
+Security: 0.4
+Alliance: YouWhat
+Corp: Beasts of Burden
+Ship: Huginn
+Weapon: Widowmaker Heavy Missile
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Thunderbolt Heavy Missile, Qty: 23
+Widowmaker Heavy Missile, Qty: 24
+Havoc Heavy Missile, Qty: 69
+Advanced 'Limos' Heavy Missile Bay I
+Advanced 'Limos' Heavy Missile Bay I
+'Malkuth' Heavy Missile Launcher I
+Large F-S9 Regolith Shield Induction
+Remote Sensor Dampener II
+Sensor Booster II
+F-90 Positional Sensor Subroutines
+Magnetic Scattering Amplifier II
+Ballistic Control System I
+Beta Reactor Control: Diagnostic System I
+Thunderbolt Heavy Missile, Qty: 399 (Cargo)
+Widowmaker Heavy Missile, Qty: 397 (Cargo)
+Scourge Heavy Missile, Qty: 90 (Cargo)
+Vespa II, Qty: 2 (Drone Bay)
+

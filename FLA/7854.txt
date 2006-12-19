@@ -1,0 +1,50 @@
+2006.09.13 21:35
+
+Victim: Th3 HuNt3r
+Alliance: Freelancer Alliance
+Corp: EVE MegaCorp Association
+Destroyed: Blackbird
+System: XZH-4X
+Security: 0.0
+
+Involved parties:
+
+Name: Farjung (laid the final blow)
+Security: -1.7
+Alliance: Band of Brothers
+Corp: TAOSP
+Ship: Deimos
+Weapon: 250mm Railgun II
+
+Name: Kublai Khan
+Security: 5.0
+Alliance: Band of Brothers
+Corp: TAOSP
+Ship: Deimos
+Weapon: 250mm Railgun II
+
+Name: Kookman
+Security: -0.4
+Alliance: Band of Brothers
+Corp: TAOSP
+Ship: Huginn
+Weapon: 'Arbalest' Heavy Missile Launcher
+
+Name: Kumari Maelstrom
+Security: -0.2
+Alliance: Band of Brothers
+Corp: TAOSP
+Ship: Eris
+Weapon: Fleeting Warp Scrambler I
+
+
+Destroyed items:
+
+250mm Carbide Railgun I
+200mm Carbide Railgun I
+Dual 150mm Carbide Railgun I
+Iron Charge M, Qty: 120
+10MN MicroWarpdrive I
+Sensor Booster I
+Iron Charge M, Qty: 4513 (Cargo)
+

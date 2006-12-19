@@ -1,0 +1,73 @@
+2006.11.25 20:07
+
+Victim: Vingt100
+Alliance: None
+Corp: Northshore Enterprises
+Destroyed: Ibis
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Durante Alighieri
+Security: 2.8
+Alliance: Schism.
+Corp: New Light
+Ship: Harpy
+Weapon: Harpy
+
+Name: Hosanna (laid the final blow)
+Security: 3.1
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: Karas Rabus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Stabber
+Weapon: Stabber
+
+Name: Zalamus
+Security: 4.4
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Dominix
+Weapon: E500 Prototype Energy Vampire
+
+Name: Tri Ounou
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Jaguar
+Weapon: Fleeting Warp Scrambler I
+
+Name: Noitaakka
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Vexor
+Weapon: Fleeting Warp Scrambler I
+
+Name: Miabo
+Security: 1.9
+Alliance: Schism.
+Corp: Fatalix Inc.
+Ship: Blackbird
+Weapon: ECM - Spatial Destabilizer I
+
+Name: Jumar Coldgin
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Rook
+Weapon: 'Hypnos' Multispectral ECM I
+
+
+Destroyed items:
+
+Basic Miner
+Tritanium (Cargo)
+

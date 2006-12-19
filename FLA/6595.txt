@@ -1,0 +1,44 @@
+2006.11.19 00:04
+
+Victim: Kleiner Feigling
+Alliance: United Connection's
+Corp: Ratio Decidendi
+Destroyed: Caldari Shuttle
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Aquamundi
+Security: 2.9
+Alliance: Dusk and Dawn
+Corp: Asgard Schiffswerften
+Ship: Taranis
+Weapon: Taranis
+
+Name: LiBraga (laid the final blow)
+Security: 4.1
+Alliance: Freelancer Alliance
+Corp: Project Gemini
+Ship: Eagle
+Weapon: 250mm Prototype I Gauss Gun
+
+Name: Weuzor
+Security: 0.0
+Alliance: Dusk and Dawn
+Corp: Asgard Schiffswerften
+Ship: Stiletto
+Weapon: Stiletto
+
+Name: Shara El
+Security: 4.9
+Alliance: Dusk and Dawn
+Corp: Black Lance
+Ship: Lachesis
+Weapon: Initiated Warp Jammer I
+
+
+Destroyed items:
+
+Caldari Cruiser (Cargo)
+

@@ -1,0 +1,32 @@
+2007.04.09 17:00
+
+Victim: demotar
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Hound
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Stradivarious (laid the final blow)
+Security: 3.7
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Nidhoggur
+Weapon: Firbolg
+
+
+Destroyed items:
+
+150mm Light Gallium I Machine Gun
+Proton S, Qty: 129
+Paradise Cruise Missile, Qty: 16
+J5 Prototype Warp Inhibitor I
+Nanoelectrical Co-Processor I
+Ballistic Control System I
+Ballistic Control System II
+Nuclear S, Qty: 200 (Cargo)
+Wrath Cruise Missile, Qty: 195 (Cargo)
+Phoenix F.O.F. Cruise Missile I, Qty: 200 (Cargo)
+

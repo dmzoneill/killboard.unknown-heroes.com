@@ -1,0 +1,40 @@
+2007.03.11 22:43
+
+Victim: L3golas
+Alliance: None
+Corp: R.H. Umbrella Corporation
+Destroyed: Capsule
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Kandread
+Security: 0.6
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Claw
+Weapon: Gremlin Rocket
+
+Name: alon blackhelm (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Myrmidon
+Weapon: 250mm Compressed Coil Gun I
+
+Name: Luxe Ecru
+Security: 1.5
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Taranis
+Weapon: 125mm Railgun II
+
+Name: Tregaron
+Security: 1.9
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Wolf
+Weapon: J5 Prototype Warp Inhibitor I
+
+

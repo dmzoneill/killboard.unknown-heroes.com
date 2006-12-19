@@ -1,0 +1,26 @@
+2006.11.26 15:21
+
+Victim: Rrida wpda
+Alliance: Xelas Alliance
+Corp: Crimson Crusaders
+Destroyed: Capsule
+System: 75FA-Z
+Security: 0.0
+
+Involved parties:
+
+Name: Wthor (laid the final blow)
+Security: 4.6
+Alliance: Freelancer Alliance
+Corp: Nexus Legion
+Ship: Tempest
+Weapon: 1400mm Howitzer Artillery II
+
+Name: Elfaen Ethenwe
+Security: -1.9
+Alliance: Freelancer Alliance
+Corp: Eternal Rising
+Ship: Rook
+Weapon: Heavy Missile Launcher II
+
+

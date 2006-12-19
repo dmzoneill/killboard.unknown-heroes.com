@@ -1,0 +1,66 @@
+2006.12.18 23:21
+
+Victim: Xantheris
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Destroyed: Raven
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: ammargal (laid the final blow)
+Security: 4.8
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Harbinger
+Weapon: Focused Medium Pulse Laser II
+
+Name: Zap Zaberdine
+Security: 3.0
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: WarGod
+Security: -1.8
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Hurricane
+Weapon: Hurricane
+
+Name: K Shara
+Security: 3.2
+Alliance: Triumvirate.
+Corp: D00M.
+Ship: Crow
+Weapon: Standard Missile Launcher II
+
+Name: Pistonbroke
+Security: -1.4
+Alliance: Triumvirate.
+Corp: Yesodic Nomads Corp
+Ship: Crow
+Weapon: Crow
+
+
+Destroyed items:
+
+Salvager I, Qty: 30
+Juggernaut Torpedo, Qty: 54
+'Arbalest' Siege Missile Launcher
+'Arbalest' Siege Missile Launcher
+'Arbalest' Siege Missile Launcher
+100MN Afterburner II
+Ballistic Deflection Field II
+Ballistic Deflection Field II
+Heat Dissipation Field II
+Ballistic Control System II
+Power Diagnostic System II
+Power Diagnostic System II
+Power Diagnostic System II
+Tripped Power Circuit, Qty: 2 (Cargo)
+Malfunctioning Shield Emitter, Qty: 2 (Cargo)
+Vespa I (Drone Bay)
+

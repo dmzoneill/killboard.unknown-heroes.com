@@ -1,0 +1,40 @@
+2007.03.14 18:24
+
+Victim: Chekoteh
+Alliance: Freelancer Alliance
+Corp: United Forces
+Destroyed: Capsule
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: C Duggan
+Security: -4.5
+Alliance: Eternal Rapture
+Corp: Exotic Dancers Club
+Ship: Raptor
+Weapon: Foxfire Rocket
+
+Name: Solid Wilko
+Security: -1.7
+Alliance: Eternal Rapture
+Corp: Quantum Synergies
+Ship: Hurricane
+Weapon: Heavy Assault Missile Launcher I
+
+Name: Gliding (laid the final blow)
+Security: -1.9
+Alliance: Eternal Rapture
+Corp: Quantum Synergies
+Ship: Astarte
+Weapon: Heavy Ion Blaster II
+
+Name: Smith9001
+Security: 0.3
+Alliance: Eternal Rapture
+Corp: Quantum Synergies
+Ship: Harbinger
+Weapon: Harbinger
+
+

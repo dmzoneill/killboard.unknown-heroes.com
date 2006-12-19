@@ -1,0 +1,33 @@
+2007.05.25 09:26
+
+Victim: KYLE PROTON
+Alliance: Exuro Mortis
+Corp: The Burning Orphans
+Destroyed: Capsule
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Osiris Warp
+Security: 2.2
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Harpy
+Weapon: 150mm Compressed Coil Gun I
+
+Name: Steven FSB
+Security: 3.5
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Harpy
+Weapon: Warp Disruptor II
+
+Name: MrMajIc (laid the final blow)
+Security: 0.8
+Alliance: Imperial Republic Of the North
+Corp: VentureCorp
+Ship: Sabre
+Weapon: 200mm AutoCannon II
+
+

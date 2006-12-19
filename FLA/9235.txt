@@ -1,0 +1,38 @@
+2007.04.14 01:50
+
+Victim: noktamid
+Alliance: Privateer Alliance
+Corp: Bambooule
+Destroyed: Thorax
+System: Piak
+Security: 0.7
+
+Involved parties:
+
+Name: firegirl
+Security: 5.0
+Alliance: Sparta Alliance
+Corp: XERCORE
+Ship: Capsule
+Weapon: XR-3200 Heavy Missile Bay
+
+Name: Arbitrus (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: SPARTAN Peacekeeping Force
+Ship: Ferox
+Weapon: Thunderbolt Fury Heavy Missile
+
+
+Destroyed items:
+
+Heavy Electron Blaster II
+Heavy Electron Blaster II
+Void M, Qty: 430
+Y-T8 Overcharged Hydrocarbon I Microwarpdrive
+Medium Armor Repairer II
+Insulated Stabilizer Array I
+Energized Adaptive Nano Membrane I
+10MN Afterburner II (Cargo)
+Null M, Qty: 2000 (Cargo)
+

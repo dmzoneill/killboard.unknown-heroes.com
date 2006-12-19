@@ -1,0 +1,34 @@
+2007.02.27 00:39
+
+Victim: Woodje
+Alliance: Band of Brothers
+Corp: Reikoku
+Destroyed: Flycatcher
+System: YZ-LQL
+Security: 0.0
+
+Involved parties:
+
+Name: Tregaron (laid the final blow)
+Security: 1.7
+Alliance: Freelancer Alliance
+Corp: Death Monkey's With Knives
+Ship: Manticore
+Weapon: Paradise Cruise Missile
+
+
+Destroyed items:
+
+125mm Railgun II
+Rocket Launcher II
+Rocket Launcher II
+Thorn Javelin Rocket, Qty: 40
+Gremlin Javelin Rocket, Qty: 40
+Fixed Parallel Link-Capacitor I
+1MN MicroWarpdrive I
+Stasis Webifier I
+Sensor Booster I
+Target Painter I
+Capacitor Power Relay I
+Gremlin Javelin Rocket, Qty: 863 (Cargo)
+

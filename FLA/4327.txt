@@ -1,0 +1,58 @@
+2007.04.08 04:16
+
+Victim: FlyGuy
+Alliance: Freelancer Alliance
+Corp: ACCORD Industries
+Destroyed: Rokh
+System: O-2RNZ
+Security: 0.0
+
+Involved parties:
+
+Name: Admentus Cor'vion
+Security: -0.5
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Dominix
+Weapon: Berserker II
+
+Name: Sedith
+Security: 1.7
+Alliance: Mercenary Coalition
+Corp: Body Count Inc.
+Ship: Aeon
+Weapon: Einherji
+
+Name: bsspewer (laid the final blow)
+Security: 2.5
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Archon
+Weapon: Einherji
+
+Name: FowlPlayChiken
+Security: 1.2
+Alliance: Mercenary Coalition
+Corp: Sharks With Frickin' Laser Beams
+Ship: Thanatos
+Weapon: Dragonfly
+
+
+Destroyed items:
+
+Heavy Nosferatu I
+Antimatter Charge L, Qty: 141
+Siege Missile Launcher II
+Juggernaut Rage Torpedo, Qty: 12
+Juggernaut Javelin Torpedo, Qty: 12
+Inferno Rage Torpedo, Qty: 12
+X-Large Shield Booster II
+Cap Recharger II
+Invulnerability Field II
+Guristas Tungsten Charge L, Qty: 1000 (Cargo)
+Juggernaut Rage Torpedo, Qty: 471 (Cargo)
+Juggernaut Javelin Torpedo, Qty: 242 (Cargo)
+Inferno Rage Torpedo, Qty: 2016 (Cargo)
+Vespa II, Qty: 2 (Drone Bay)
+Valkyrie II (Drone Bay)
+

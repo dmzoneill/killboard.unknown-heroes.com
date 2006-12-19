@@ -1,0 +1,92 @@
+2007.03.25 00:04
+
+Victim: khazid
+Alliance: YouWhat
+Corp: Friendship 7 Corporation
+Destroyed: Ferox
+System: 9-4RP2
+Security: 0.0
+
+Involved parties:
+
+Name: Logand Delta
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Ship: Drake
+Weapon: Scourge Heavy Missile
+
+Name: Drako Invictus
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Absolution
+Weapon: Heavy Pulse Laser II
+
+Name: hydro2900 (laid the final blow)
+Security: 2.6
+Alliance: Freelancer Alliance
+Corp: Asha' Man
+Ship: Catalyst
+Weapon: 150mm Railgun I
+
+Name: Zephia
+Security: -8.7
+Alliance: Freelancer Alliance
+Corp: Clandestine Vector
+Ship: Omen
+Weapon: Omen
+
+Name: Iss Hogai
+Security: 5.0
+Alliance: Zenith Affinity
+Corp: GREY COUNCIL
+Ship: Caracal
+Weapon: Havoc Heavy Missile
+
+Name: Harken Hessel
+Security: 1.1
+Alliance: Freelancer Alliance
+Corp: PAX Interstellar Services
+Ship: Tristan
+Weapon: Standard Missile Launcher I
+
+Name: Sabe
+Security: 5.0
+Alliance: Red Horizon
+Corp: Red Horizon Inc
+Ship: Gila
+Weapon: 200mm Railgun II
+
+Name: Tiberius Drake
+Security: 4.3
+Alliance: Freelancer Alliance
+Corp: Purgatorial Janitors Inc.
+Ship: Brutix
+Weapon: Medium Nosferatu I
+
+Name: Minisoza
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Ship: Ishkur
+Weapon: Ishkur
+
+
+Destroyed items:
+
+Havoc Heavy Missile, Qty: 27
+Scourge Heavy Missile, Qty: 27
+'Malkuth' Heavy Missile Launcher I
+Large Azeotropic Ward Salubrity I
+V-M15 Braced Multispectral Shield Matrix
+Shield Boost Amplifier I
+Ballistic Control System I
+Thunderbolt Heavy Missile, Qty: 511 (Cargo)
+Widowmaker Heavy Missile, Qty: 1620 (Cargo)
+Havoc Heavy Missile, Qty: 1550 (Cargo)
+Scourge Heavy Missile, Qty: 2136 (Cargo)
+'Arbalest' Heavy Missile Launcher, Qty: 2 (Cargo)
+Nanofiber Internal Structure I (Cargo)
+Warrior I, Qty: 3 (Drone Bay)
+

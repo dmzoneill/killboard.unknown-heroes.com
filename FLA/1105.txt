@@ -1,0 +1,33 @@
+2007.03.05 01:46
+
+Victim: Rita
+Alliance: Band of Brothers
+Corp: Reikoku
+Destroyed: Capsule
+System: 1-SMEB
+Security: 0.0
+
+Involved parties:
+
+Name: Xantheris (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Caldari Anvil
+Ship: Harpy
+Weapon: 150mm Railgun II
+
+Name: Asariasha
+Security: 4.6
+Alliance: Dusk and Dawn
+Corp: Cataclysm Enterprises
+Ship: Taranis
+Weapon: Light Neutron Blaster II
+
+Name: Torquemanda Corteaz
+Security: 3.9
+Alliance: Dusk and Dawn
+Corp: Infinite Improbability Inc
+Ship: Taranis
+Weapon: Fleeting Warp Scrambler I
+
+

@@ -1,0 +1,70 @@
+2007.03.31 06:13
+
+Victim: Agamaggon
+Alliance: Freelancer Alliance
+Corp: Di-Tron Heavy Industries
+Destroyed: Rifter
+System: P-2TTL
+Security: 0.0
+
+Involved parties:
+
+Name: Stuart Ward (laid the final blow)
+Security: 5.0
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Absolution
+Weapon: Heavy Pulse Laser II
+
+Name: Rahzorus
+Security: 0.9
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Crow
+Weapon: Einherji
+
+Name: Ferocious FeAr
+Security: 1.5
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Eagle
+Weapon: Eagle
+
+Name: Rhayvn
+Security: 4.5
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Abaddon
+Weapon: Tachyon Beam Laser II
+
+Name: Queldonus
+Security: 2.9
+Alliance: Mercenary Coalition
+Corp: Contraband Inc.
+Ship: Nidhoggur
+Weapon: Einherji
+
+Name: Bl00Dzor
+Security: 1.5
+Alliance: Mercenary Coalition
+Corp: Eternity INC.
+Ship: Tempest Fleet Issue
+Weapon: 1400mm Howitzer Artillery II
+
+
+Destroyed items:
+
+Dual Anode Light Particle Stream I
+Multifrequency S
+Radio S
+Upgraded 'Limos' Standard Missile Bay I
+Cold-Gas I Arcjet Thrusters
+Power Diagnostic System I
+Carbonized Lead S, Qty: 100 (Cargo)
+Fusion S, Qty: 12 (Cargo)
+Carbonized Lead M, Qty: 100 (Cargo)
+Nuclear S, Qty: 200 (Cargo)
+Angel Ship Log 109285473 (Cargo)
+Angel Ship Log 141490454 (Cargo)
+Piranha Light Missile, Qty: 100 (Cargo)
+

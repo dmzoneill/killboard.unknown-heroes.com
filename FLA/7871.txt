@@ -1,0 +1,32 @@
+2006.09.23 04:45
+
+Victim: HY 32tec
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Destroyed: Ferox
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Jovius Marginus (laid the final blow)
+Security: -0.4
+Alliance: Firmus Ixion
+Corp: Black Avatar
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Thunderbolt Heavy Missile, Qty: 22
+Heavy Missile Launcher I
+Advanced 'Limos' Heavy Missile Bay I
+Large C5-L Emergency Shield Overload I
+J5b Phased Prototype Warp Inhibitor I
+V-M15 Braced Multispectral Shield Matrix
+'Anointed' I EM Ward Reinforcement
+Photonic CPU Enhancer I
+Warp Core Stabilizer I
+

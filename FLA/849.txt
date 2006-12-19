@@ -1,0 +1,26 @@
+2007.02.24 06:28
+
+Victim: Broomhilde hildebroom
+Alliance: None
+Corp: State War Academy
+Destroyed: Kestrel
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Fugnut (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Crow
+Weapon: Thorn Rocket
+
+
+Destroyed items:
+
+Flameburst Light Missile, Qty: 37
+Standard Missile Launcher I
+Standard Missile Launcher I
+Flameburst Light Missile, Qty: 368 (Cargo)
+

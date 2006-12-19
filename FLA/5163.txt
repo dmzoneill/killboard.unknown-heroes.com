@@ -1,0 +1,36 @@
+2007.01.26 06:55
+
+Victim: PHIONIX DARKANGEL
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Rokh
+System: 8S28-3
+Security: 0.0
+
+Involved parties:
+
+Name: P1rate Dave (laid the final blow)
+Security: 0.9
+Alliance: None
+Corp: 0utbreak
+Ship: Typhoon
+Weapon: Juggernaut Torpedo
+
+Name: Vyndicator
+Security: -2.5
+Alliance: None
+Corp: 0utbreak
+Ship: Typhoon
+Weapon: Wasp I
+
+
+Destroyed items:
+
+425mm Railgun I
+425mm Railgun I
+425mm Railgun I
+425mm Railgun I
+Tungsten Charge L, Qty: 189
+Tracking Enhancer II
+Magnetic Field Stabilizer II
+

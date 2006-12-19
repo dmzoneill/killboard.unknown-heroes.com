@@ -1,0 +1,33 @@
+2006.10.17 21:14
+
+Victim: Robet Katrix
+Alliance: R0ADKILL
+Corp: Beagle Corp
+Destroyed: Griffin
+System: P-33KR
+Security: 0.0
+
+Involved parties:
+
+Name: Noitaakka (laid the final blow)
+Security: 5.2
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+Name: Minesweeper
+Security: 3.5
+Alliance: Freelancer Alliance
+Corp: Karjala Inc.
+Ship: Stiletto
+Weapon: Stiletto
+
+
+Destroyed items:
+
+Scan Probe Launcher I
+Barton Reactor Capacitor Recharger I
+BZ-5 Neutralizing Spatial Destabilizer ECM
+Quantum Co-Processor I
+

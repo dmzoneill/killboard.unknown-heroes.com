@@ -1,0 +1,91 @@
+2006.09.21 21:12
+
+Victim: Gin Zu
+Alliance: None
+Corp: Strategic Defense Initiative
+Destroyed: Rifter
+System: EWOK-K
+Security: 0.0
+
+Involved parties:
+
+Name: Kolombus
+Security: 5.1
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: D2O HeavyWater (laid the final blow)
+Security: -0.2
+Alliance: Imperial Republic Of the North
+Corp: Synergy.
+Ship: Raven
+Weapon: Paradise Cruise Missile
+
+Name: ShiVAs PArAdOXx
+Security: 2.1
+Alliance: Imperial Republic Of the North
+Corp: InterGalactic Corp.
+Ship: Tempest
+Weapon: Bloodclaw Light Missile
+
+Name: jacass66
+Security: 4.8
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Ferox
+Weapon: 'Malkuth' Assault Missile Launcher I
+
+Name: fincormack
+Security: 2.4
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Megathron
+Weapon: 'Hypnos' Multispectral ECM I
+
+Name: Zorthal Darendal
+Security: 3.8
+Alliance: CORE.
+Corp: Templars of Space
+Ship: Caracal
+Weapon: Heavy Missile Launcher I
+
+Name: XxAngelxX
+Security: 5.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Armageddon
+Weapon: Mega Modulated Pulse Energy Beam I
+
+Name: Mad Mackem
+Security: -1.0
+Alliance: Imperial Republic Of the North
+Corp: E X O D U S
+Ship: Ishtar
+Weapon: Medium Beam Laser II
+
+Name: DevilSlayer
+Security: 3.9
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Scorpion
+Weapon: Cruise Missile Launcher I
+
+Name: Davey Locke
+Security: 2.1
+Alliance: CORE.
+Corp: VentureCorp
+Ship: Megathron
+Weapon: 425mm Railgun II
+
+
+Destroyed items:
+
+200mm Light Gallium I Machine Gun
+200mm Light Carbine Repeating Cannon I
+Phased Plasma S, Qty: 131
+Prototype Cloaking Device I
+TE-2100 Standard Missile Bay
+Phased Plasma S, Qty: 4810 (Cargo)
+

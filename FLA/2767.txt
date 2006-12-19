@@ -1,0 +1,70 @@
+2007.03.05 20:46
+
+Victim: Toxic Traveller
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Destroyed: Ferox
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Eamz (laid the final blow)
+Security: -1.1
+Alliance: None
+Corp: Finite Horizon
+Ship: Deimos
+Weapon: Infiltrator II
+
+Name: Arthur Guinness
+Security: -1.8
+Alliance: None
+Corp: Finite Horizon
+Ship: Sleipnir
+Weapon: Sleipnir
+
+Name: Thaard Bof't
+Security: -9.0
+Alliance: None
+Corp: Developmental Neogenics Amalgamated
+Ship: Vagabond
+Weapon: Vagabond
+
+Name: nmwone
+Security: -1.6
+Alliance: None
+Corp: Finite Horizon
+Ship: Claymore
+Weapon: Claymore
+
+Name: Infra Nitzu
+Security: 1.9
+Alliance: None
+Corp: Finite Horizon
+Ship: Sabre
+Weapon: Sabre
+
+
+Destroyed items:
+
+Medium Nosferatu I
+Havoc Heavy Missile
+Havoc Heavy Missile
+Havoc Heavy Missile
+Scourge Heavy Missile
+Scourge Heavy Missile
+Scourge Heavy Missile
+Thunderbolt Heavy Missile
+Thunderbolt Heavy Missile
+Thunderbolt Heavy Missile
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+V-M15 Braced Multispectral Shield Matrix
+Magnetic Scattering Amplifier I
+Antimatter Charge M, Qty: 384 (Cargo)
+Thunderbolt Heavy Missile, Qty: 164 (Cargo)
+Widowmaker Heavy Missile, Qty: 112 (Cargo)
+Scourge Heavy Missile, Qty: 112 (Cargo)
+Hornet I, Qty: 2 (Drone Bay)
+

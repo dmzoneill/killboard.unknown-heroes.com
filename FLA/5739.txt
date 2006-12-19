@@ -1,0 +1,52 @@
+2006.10.14 00:23
+
+Victim: GoLdeN BoY
+Alliance: Triumvirate.
+Corp: D00M.
+Destroyed: Raptor
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Zsola
+Security: 2.0
+Alliance: None
+Corp: Ganksters Paradise
+Ship: Enyo
+Weapon: Enyo
+
+Name: Kismeteer
+Security: 3.4
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Incursus
+Weapon: Incursus
+
+Name: Clansman (laid the final blow)
+Security: 5.0
+Alliance: None
+Corp: Ganksters Paradise
+Ship: Megathron
+Weapon: Ion Blaster Cannon II
+
+Name: Gangreen
+Security: 0.1
+Alliance: Freelancer Alliance
+Corp: BGG
+Ship: Incursus
+Weapon: Incursus
+
+
+Destroyed items:
+
+Light Neutron Blaster II
+Antimatter Charge S, Qty: 160
+Thorn Rocket, Qty: 60
+Cap Recharger I
+Initiated Harmonic Warp Jammer I
+Micro Auxiliary Power Core I
+X5 Prototype I Engine Enervator (Cargo)
+Antimatter Charge S, Qty: 2828 (Cargo)
+Magnetic Field Stabilizer II (Cargo)
+

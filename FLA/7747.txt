@@ -1,0 +1,40 @@
+2006.08.09 20:10
+
+Victim: Cockroach
+Alliance: Freelancer Alliance
+Corp: Kinetic Vector
+Destroyed: Capsule
+System: LEK-N5
+Security: 0.0
+
+Involved parties:
+
+Name: Ristin (laid the final blow)
+Security: 0.8
+Alliance: None
+Corp: KIA Corp
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+Name: J909
+Security: 0.8
+Alliance: None
+Corp: KIA Corp
+Ship: Stiletto
+Weapon: 200mm AutoCannon II
+
+Name: Pord
+Security: 2.5
+Alliance: None
+Corp: KIA Corp
+Ship: Crow
+Weapon: Thorn Rocket
+
+Name: Ciphero
+Security: 0.0
+Alliance: None
+Corp: KIA Corp
+Ship: Crow
+Weapon: Fleeting Warp Scrambler I
+
+

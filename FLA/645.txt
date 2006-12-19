@@ -1,0 +1,28 @@
+2007.02.14 00:00
+
+Victim: Drabzz
+Alliance: Agony Empire
+Corp: Agony Unleashed
+Destroyed: Merlin
+System: KLY-C0
+Security: 0.0
+
+Involved parties:
+
+Name: Dr Andy (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Steel Frontier
+Ship: Myrmidon
+Weapon: Hobgoblin II
+
+
+Destroyed items:
+
+125mm Railgun I
+Bloodclaw Light Missile, Qty: 33
+1MN Afterburner I
+Stasis Webifier I
+Nanoelectrical Co-Processor I
+Bloodclaw Light Missile, Qty: 1920 (Cargo)
+

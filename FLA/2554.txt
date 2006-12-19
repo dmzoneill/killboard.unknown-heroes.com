@@ -1,0 +1,56 @@
+2007.02.20 15:00
+
+Victim: SniperMcBob
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Destroyed: Raven
+System: 5ZXX-K
+Security: 0.0
+
+Involved parties:
+
+Name: Kalek Astroth (laid the final blow)
+Security: -0.4
+Alliance: Veto Corp
+Corp: Veto. Academy
+Ship: Astarte
+Weapon: Heavy Ion Blaster II
+
+Name: Miklas Laces
+Security: -6.9
+Alliance: None
+Corp: A.N.A.R.C.H.I.C.A
+Ship: Dominix
+Weapon: Dominix
+
+Name: Guhl Rakah
+Security: 0.7
+Alliance: None
+Corp: A.N.A.R.C.H.I.C.A
+Ship: Rupture
+Weapon: Rupture
+
+
+Destroyed items:
+
+Heavy 'Gremlin' Power Core Disruptor I
+Devastator Cruise Missile, Qty: 38
+Paradise Cruise Missile, Qty: 19
+Wrath Cruise Missile, Qty: 19
+XT-9000 Cruise Launcher
+XT-9000 Cruise Launcher
+XT-9000 Cruise Launcher
+XT-9000 Cruise Launcher
+X-Large Shield Booster II
+Sensor Booster II
+Emergency Damage Control I
+Ballistic Control System I
+Ballistic Control System I
+Beta Reactor Control: Reaction Control I
+Large I-a Polarized Armor Regenerator (Cargo)
+Large YF-12a Smartbomb (Cargo)
+Shadow Thorium Charge L, Qty: 1000 (Cargo)
+Wasp I (Cargo)
+Linear Flux Stabilizer I (Cargo)
+Wrath Cruise Missile, Qty: 942 (Cargo)
+

@@ -1,0 +1,27 @@
+2007.03.29 16:11
+
+Victim: Solomon XI
+Alliance: Freelancer Alliance
+Corp: Galactech Industries Ltd.
+Destroyed: Caracal
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: Hedin (laid the final blow)
+Security: 2.3
+Alliance: Guinea Pigs
+Corp: La Stere
+Ship: Arazu
+Weapon: 200mm Railgun II
+
+
+Destroyed items:
+
+Widowmaker Heavy Missile, Qty: 30
+Heavy Missile Launcher I
+Heavy Missile Launcher I
+Sensor Booster I
+Quantum Co-Processor I
+

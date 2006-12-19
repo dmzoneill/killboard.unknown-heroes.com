@@ -1,0 +1,19 @@
+2006.11.14 13:01
+
+Victim: jacass8496
+Alliance: Freelancer Alliance
+Corp: BGG
+Destroyed: Capsule
+System: Aunenen
+Security: 0.4
+
+Involved parties:
+
+Name: Cloudis (laid the final blow)
+Security: -10.0
+Alliance: Blood Raiders Alliance
+Corp: Murder-Death-Kill
+Ship: Eagle
+Weapon: 250mm Railgun II
+
+

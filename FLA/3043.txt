@@ -1,0 +1,28 @@
+2007.03.23 04:19
+
+Victim: Deerhoof
+Alliance: Axiom Empire
+Corp: United Society Starfleet
+Destroyed: Wolf
+System: E3UY-6
+Security: 0.0
+
+Involved parties:
+
+Name: truefranco (laid the final blow)
+Security: 4.7
+Alliance: Freelancer Alliance
+Corp: 3B Legio IX
+Ship: Vagabond
+Weapon: 220mm Vulcan AutoCannon II
+
+
+Destroyed items:
+
+150mm Light AutoCannon II
+150mm Light AutoCannon II
+Barrage S, Qty: 187
+Fleeting Warp Scrambler I
+Small Armor Repairer II
+Barrage S, Qty: 8 (Cargo)
+

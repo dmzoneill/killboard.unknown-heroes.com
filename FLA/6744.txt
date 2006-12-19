@@ -1,0 +1,61 @@
+2006.11.26 03:07
+
+Victim: WAR23
+Alliance: None
+Corp: Perkone
+Destroyed: Caldari Shuttle
+System: EC-P8R
+Security: 0.0
+
+Involved parties:
+
+Name: Keith Yelnick3 (laid the final blow)
+Security: 1.5
+Alliance: Schism.
+Corp: Fatalix Inc.
+Ship: Taranis
+Weapon: Light Ion Blaster II
+
+Name: Jin Steele
+Security: 4.6
+Alliance: Schism.
+Corp: Fatalix Inc.
+Ship: Crow
+Weapon: Bloodclaw Light Missile
+
+Name: dastommy79
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: Artic Blue
+Ship: Merlin
+Weapon: Warp Disruptor I
+
+Name: roboto212
+Security: -0.5
+Alliance: Freelancer Alliance
+Corp: Sin-X Inc.
+Ship: Enyo
+Weapon: Enyo
+
+Name: Zimi Vlasic
+Security: 0.8
+Alliance: EVE Animal Control
+Corp: F.R.E.E. Explorer
+Ship: Rupture
+Weapon: Heavy Missile Launcher I
+
+Name: Trucidio
+Security: 5.0
+Alliance: None
+Corp: MetaForge
+Ship: Ishkur
+Weapon: Ishkur
+
+Name: Kroux
+Security: 2.5
+Alliance: O X I D E
+Corp: V-COM SyNdicate
+Ship: Manticore
+Weapon: 'Limos' Cruise Launcher I
+
+

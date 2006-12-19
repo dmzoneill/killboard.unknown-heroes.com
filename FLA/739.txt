@@ -1,0 +1,33 @@
+2007.02.18 22:18
+
+Victim: Larbin
+Alliance: None
+Corp: School of Applied Knowledge
+Destroyed: Capsule
+System: 93PI-4
+Security: 0.0
+
+Involved parties:
+
+Name: Draken Mem
+Security: 3.6
+Alliance: The Sundering
+Corp: The Imperial Commonwealth
+Ship: Deimos
+Weapon: Heavy Ion Blaster II
+
+Name: Muad' Dib (laid the final blow)
+Security: 5.0
+Alliance: Freelancer Alliance
+Corp: FISKL GUARDS
+Ship: Raptor
+Weapon: Bloodclaw Light Missile
+
+Name: Gangreen
+Security: 0.2
+Alliance: None
+Corp: BGG
+Ship: Lachesis
+Weapon: Warp Disruptor I
+
+

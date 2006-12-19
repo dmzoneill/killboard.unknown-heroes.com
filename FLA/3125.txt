@@ -1,0 +1,38 @@
+2007.03.25 03:24
+
+Victim: Anikis
+Alliance: Privateer Alliance
+Corp: Loot
+Destroyed: Crusader
+System: Ikao
+Security: 0.6
+
+Involved parties:
+
+Name: Kaerion Skywalker
+Security: 0.1
+Alliance: Freelancer Alliance
+Corp: Harbingers of Sarrow
+Ship: Raven
+Weapon: Hornet II
+
+Name: Miko Keller (laid the final blow)
+Security: 0.4
+Alliance: Freelancer Alliance
+Corp: Harbingers of Sarrow
+Ship: Dominix
+Weapon: Ogre II
+
+
+Destroyed items:
+
+Dual Light Pulse Laser II
+Dual Light Pulse Laser II
+Dual Light Pulse Laser II
+Scorch S
+Scorch S
+1MN MicroWarpdrive I
+Heat Sink II
+Small Automated I Carapace Restoration (Cargo)
+Conflagration S, Qty: 2 (Cargo)
+
