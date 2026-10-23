@@ -20,8 +20,9 @@
 function save_killmail($dir, $id, $mail, $success)
 {
     $mail = str_ireplace("&nbsp;", "", trim($mail));
-    $fpt = fopen("C:\\xampp\\htdocs\\$dir\\$id.txt", 'w');
-    if (fputs($fpt, $mail)) {
+    $handle = fopen("C:\\xampp\\htdocs\\$dir\\$id.txt", 'w');
+    $written = $handle === false ? false : fputs($handle, $mail);
+    if ($written !== false && $written > 0) {
         print "$success $id \n";
     } else {
         print "Error $id\n";
@@ -43,14 +44,14 @@ function fetch_killmails($start, $end, $stopOnMissing)
         $url = "http://freelancer-alliance.net/Killboard/index.php?a=kill_mail&kll_id=$i";
         $fp = @fopen("$url", "r");
         if ($fp) {
-            $current_line = fgets($fp);
-            while (!feof($fp)) {
-                $current_line .= fgets($fp);
+            $current_line = stream_get_contents($fp);
+            if ($current_line === false) {
+                $current_line = "";
             }
             $mail = explode("Original Killmail", (str_ireplace("<br />", "", strip_tags($current_line))));
             $mail = str_ireplace("<br />", "", $mail[1]);
 
-            if (stristr($mail, "Corp: Unknown-Heroes")) {
+            if (stristr($mail, "Corp: Unknown-Heroes") !== false) {
                 save_killmail("UNKH", $i, $mail, "Success retrieved UNKH Killmail");
             } else {
                 save_killmail("FLA", $i, $mail, "Success retrieved non UNKH Killmail");
